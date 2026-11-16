@@ -155,7 +155,7 @@ function Rounds({ game, list, again }: Props) {
     return (
       <Frame i={i} n={qs.length}>
         <Photo w={w} />
-        <p className="de text-center text-4xl font-semibold" lang="de">{w.de}</p>
+        <p className="de [overflow-wrap:anywhere] text-center text-4xl font-semibold" lang="de">{w.de}</p>
         <p className="ar-title text-center text-xl text-muted">{glossOf(w, lang)}</p>
         <div className="grid grid-cols-3 gap-3">
           {(['der', 'die', 'das'] as const).map((a) => (
@@ -171,7 +171,7 @@ function Rounds({ game, list, again }: Props) {
     <Frame i={i} n={qs.length}>
       <Photo w={w} />
       <p className="ar-title text-center text-xl text-muted">{t('إيه الكلمة الألماني للصورة دي؟', 'What is the German word for this picture?')}</p>
-      <div className="grid grid-cols-2 gap-3">
+      <div className="grid grid-cols-1 gap-3 min-[480px]:grid-cols-2">
         {opts.map((o) => (
           <Choice key={o.id} label={`${o.art} ${o.de}`} state={picked === null ? '' : o.id === w.id ? 'good' : picked === o.id ? 'bad' : ''} onClick={() => { if (picked) return; setPicked(o.id); advance(o.id === w.id); }} />
         ))}
@@ -192,7 +192,7 @@ function Frame({ i, n, children }: { i: number; n: number; children: React.React
 
 function Choice({ label, state, onClick }: { label: string; state: '' | 'good' | 'bad'; onClick: () => void }) {
   const c = state === 'good' ? 'border-good bg-good/15' : state === 'bad' ? 'border-bad bg-bad/15' : 'border-line bg-card hover:border-accent';
-  return <button onClick={onClick} className={`de rounded-xl border px-3 py-3 text-lg font-semibold ${c}`} lang="de">{label}</button>;
+  return <button onClick={onClick} className={`de min-w-0 [overflow-wrap:anywhere] rounded-xl border px-3 py-3 text-lg font-semibold ${c}`} lang="de">{label}</button>;
 }
 
 function Memory({ list, again }: { list: Word[]; again: () => void }) {

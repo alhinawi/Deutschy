@@ -1,0 +1,68 @@
+{
+  "routes": 536,
+  "viewports": [
+    390,
+    1280
+  ],
+  "languages": [
+    "ar",
+    "en"
+  ],
+  "batches": [
+    {
+      "lang": "ar",
+      "start": 0,
+      "routes": 180,
+      "checks": 360,
+      "defects": 0
+    },
+    {
+      "lang": "ar",
+      "start": 180,
+      "routes": 180,
+      "checks": 360,
+      "defects": 0
+    },
+    {
+      "lang": "ar",
+      "start": 360,
+      "routes": 176,
+      "checks": 352,
+      "defects": 0
+    },
+    {
+      "lang": "en",
+      "start": 0,
+      "routes": 180,
+      "checks": 360,
+      "defects": 0
+    },
+    {
+      "lang": "en",
+      "start": 180,
+      "routes": 180,
+      "checks": 360,
+      "defects": 0
+    },
+    {
+      "lang": "en",
+      "start": 360,
+      "routes": 176,
+      "checks": 352,
+      "defects": 0
+    }
+  ],
+  "checks": 2144,
+  "defects": 0,
+  "focused": {
+    "readingListeningSessions": 16,
+    "readingListeningAnswers": 64,
+    "presentFormChecks": 72,
+    "localProgressStates": 12,
+    "longNounFixtures": 48,
+    "randomQuizReloads": 32,
+    "axeStates": 26,
+    "axeViolations": 0,
+    "offlineVisitedRoutes": 6
+  }
+}
