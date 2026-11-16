@@ -1,0 +1,10 @@
+import {readFileSync} from 'node:fs';import vm from 'node:vm';import assert from 'node:assert/strict';
+const listeners={},stores=new Map();let quota=false;
+const key=r=>typeof r==='string'?r:r.url;
+const caches={async open(name){if(!stores.has(name))stores.set(name,new Map());const s=stores.get(name);return {async addAll(urls){for(const u of urls)s.set(u,new Response(u))},async put(r,v){if(quota)throw Error('quota');s.set(key(r),v)},async keys(){return [...s.keys()]},async delete(r){return s.delete(key(r))}}},async keys(){return [...stores.keys()]},async delete(n){return stores.delete(n)},async match(r){for(const s of stores.values())if(s.has(key(r)))return s.get(key(r));}};
+vm.runInNewContext(readFileSync('out/sw.js','utf8'),{self:{addEventListener:(n,f)=>listeners[n]=f,clients:{claim:async()=>{}},skipWaiting:()=>{}},location:{origin:'https://test.local'},URL,caches,fetch:async()=>new Response('online')});let wait;listeners.install({waitUntil:p=>wait=p});await wait;assert.equal(stores.values().next().value.size,4);
+const navigate=async(path)=>{let promise;listeners.fetch({request:{url:'https://test.local'+path,method:'GET',mode:'navigate',headers:{get:()=>null}},respondWith:p=>promise=p});return promise};
+for(let i=0;i<90;i++)assert.equal((await navigate('/page-'+i)).status,200);assert.equal([...stores].find(([k])=>k.endsWith('-pages'))[1].size,80);assert.equal(stores.values().next().value.size,4);quota=true;assert.equal(await (await navigate('/quota')).text(),'online');
+for(const path of ['/api/private','/admin/','/account/','/anything?x=1'])assert.equal(await navigate(path),undefined);
+let handled=false;listeners.fetch({request:{url:'https://test.local/page',method:'GET',mode:'navigate',headers:{get:n=>n==='RSC'?'1':null}},respondWith:()=>handled=true});assert.equal(handled,false);
+await caches.open('deutschy-old');listeners.activate({waitUntil:p=>wait=p});await wait;assert(!stores.has('deutschy-old'));console.log('PASS: isolated 80-page budget, protected shell, quota-safe online response, API/account/admin/query/RSC exclusions and old-cache cleanup');

@@ -9,7 +9,8 @@
     "images": "node scripts/fetch-images.mjs",
     "verify": "node scripts/verify-content.mjs",
     "qa:export": "node scripts/qa-export.mjs",
-    "test:study": "node scripts/test-study.mjs"
+    "test:study": "node scripts/test-study.mjs",
+    "test:pwa": "node scripts/test-pwa.mjs"
   },
   "dependencies": {
     "hono": "^4.13.18",
