@@ -3,7 +3,8 @@ import Link from 'next/link';
 import Speaker from './Speaker';
 import Mixed from './Mixed';
 import { speak } from '@/lib/speak';
-import { grammar, type GrammarTopic } from '@/lib/grammar';
+import Art from './Art';
+import { GRAMMAR_PHOTO, grammar, type GrammarTopic } from '@/lib/grammar';
 import { useLang, useT } from '@/lib/i18n';
 
 export default function GrammarView({ g }: { g: GrammarTopic }) {
@@ -17,8 +18,10 @@ export default function GrammarView({ g }: { g: GrammarTopic }) {
     <article className="space-y-8">
       <Link href="/grammar/" className="text-sm text-muted hover:text-ink">← {t('أكاديمية القواعد', 'Grammar academy')}</Link>
       <header className="overflow-hidden rounded-2xl border border-line bg-card sm:flex">
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={`/img/${g.img}.jpg`} alt="" className="h-44 w-full object-cover sm:h-auto sm:w-56" width={448} height={300} />
+        {GRAMMAR_PHOTO.has(g.id) ? (
+          // eslint-disable-next-line @next/next/no-img-element
+          <img src={`/img/${g.img}.jpg`} alt="" className="h-44 w-full object-cover sm:h-auto sm:w-56" loading="lazy" />
+        ) : <Art kind="grammar" className="h-44 w-full object-cover sm:h-auto sm:w-56" label={g.level} />}
         <div className="space-y-2 p-5">
           <p className="num text-sm font-bold text-accent">{g.level}</p>
           <h1 className="ar-title text-3xl font-bold leading-tight">{lang === 'ar' ? <Mixed text={g.title[0]} /> : g.title[1]}</h1>

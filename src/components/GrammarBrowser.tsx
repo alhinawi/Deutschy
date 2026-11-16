@@ -1,7 +1,8 @@
 'use client';
 import Link from 'next/link';
 import { useState } from 'react';
-import { grammar, type Lvl } from '@/lib/grammar';
+import Art from './Art';
+import { GRAMMAR_PHOTO, grammar, type Lvl } from '@/lib/grammar';
 import Mixed from './Mixed';
 import { useLang, useT } from '@/lib/i18n';
 
@@ -24,8 +25,10 @@ export default function GrammarBrowser() {
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {list.map((g) => (
           <Link key={g.id} href={`/grammar/${g.id}/`} className="flex overflow-hidden rounded-2xl border border-line bg-card hover:border-accent">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={`/img/${g.img}.jpg`} alt="" className="h-32 w-28 shrink-0 object-cover" width={112} height={128} loading="lazy" />
+            {GRAMMAR_PHOTO.has(g.id) ? (
+              // eslint-disable-next-line @next/next/no-img-element
+              <img src={`/img/${g.img}.jpg`} alt="" className="h-32 w-28 shrink-0 object-cover" loading="lazy" />
+            ) : <Art kind="grammar" className="h-32 w-28 shrink-0 object-cover" label={g.level} />}
             <div className="min-w-0 p-4">
               <p className="num text-xs font-bold text-accent">{g.level}</p>
               <p className="ar-title text-xl leading-snug text-ink">{lang === 'ar' ? <Mixed text={g.title[0]} /> : g.title[1]}</p>

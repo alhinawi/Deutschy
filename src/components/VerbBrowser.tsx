@@ -1,7 +1,8 @@
 'use client';
 import Link from 'next/link';
 import { useState } from 'react';
-import { verbs, slug, type VerbKind } from '@/lib/verbs';
+import Art from './Art';
+import { photoOf, verbs, slug, type VerbKind } from '@/lib/verbs';
 import type { Lvl } from '@/lib/grammar';
 import { useLang, useT } from '@/lib/i18n';
 
@@ -32,8 +33,13 @@ export default function VerbBrowser() {
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {list.map((v) => (
           <Link key={v.inf} href={`/verbs/${slug(v.inf)}/`} className="flex overflow-hidden rounded-2xl border border-line bg-card hover:border-accent">
-            {/* eslint-disable-next-line @next/next/no-img-element */}
-            <img src={`/img/${v.img}.jpg`} alt="" className="h-28 w-24 shrink-0 object-cover" width={96} height={112} loading="lazy" />
+            {photoOf(v) ? (
+
+              // eslint-disable-next-line @next/next/no-img-element
+
+              <img src={`/img/${photoOf(v)}.jpg`} alt="" className="h-28 w-24 shrink-0 object-cover" loading="lazy" />
+
+            ) : <Art kind={v.kind} className="h-28 w-24 shrink-0 object-cover" />}
             <div className="min-w-0 p-3">
               <p className="num text-xs font-bold text-accent">{v.level} · {KINDS.find((k) => k.id === v.kind)![lang]}</p>
               <p className="de text-2xl font-semibold leading-tight" lang="de">{v.inf}</p>

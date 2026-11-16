@@ -3,7 +3,8 @@ import Link from 'next/link';
 import Speaker from './Speaker';
 import Mixed from './Mixed';
 import { speak } from '@/lib/speak';
-import { verbs, slug, type Verb } from '@/lib/verbs';
+import Art from './Art';
+import { photoOf, verbs, slug, type Verb } from '@/lib/verbs';
 import { useLang, useT } from '@/lib/i18n';
 
 const P = ['ich', 'du', 'er/sie/es', 'wir', 'ihr', 'sie/Sie'];
@@ -23,8 +24,13 @@ export default function VerbView({ v }: { v: Verb }) {
     <article className="space-y-8">
       <Link href="/verbs/" className="text-sm text-muted hover:text-ink">← {t('الأفعال', 'Verbs')}</Link>
       <header className="overflow-hidden rounded-2xl border border-line bg-card sm:flex">
-        {/* eslint-disable-next-line @next/next/no-img-element */}
-        <img src={`/img/${v.img}.jpg`} alt="" className="h-44 w-full object-cover sm:h-auto sm:w-56" width={448} height={300} />
+        {photoOf(v) ? (
+
+          // eslint-disable-next-line @next/next/no-img-element
+
+          <img src={`/img/${photoOf(v)}.jpg`} alt="" className="h-44 w-full object-cover sm:h-auto sm:w-56" loading="lazy" />
+
+        ) : <Art kind={v.kind} className="h-44 w-full object-cover sm:h-auto sm:w-56" />}
         <div className="space-y-2 p-5">
           <p className="text-sm font-bold text-accent"><span className="num">{v.level}</span> · <bdi>{KINDS[v.kind][lang === 'ar' ? 0 : 1]}</bdi></p>
           <div className="flex items-center gap-3">
