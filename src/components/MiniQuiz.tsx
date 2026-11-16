@@ -1,5 +1,5 @@
 'use client';
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { useStore } from '@/lib/store';
 import { useT } from '@/lib/i18n';
 import { speak } from '@/lib/speak';
@@ -12,7 +12,13 @@ export type QItem = { prompt: string; hint?: string; options: string[]; hear?: s
 
 const shuffle = <T,>(a: T[]) => { const r = [...a]; for (let i = r.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [r[i], r[j]] = [r[j], r[i]]; } return r; };
 
-export default function MiniQuiz({ make, game, size = 10 }: { make: () => QItem[]; game: string; size?: number }) {
+type Props = { make: () => QItem[]; game: string; size?: number };
+export default function MiniQuiz(props: Props) {
+  const [mounted, setMounted] = useState(false);
+  useEffect(() => setMounted(true), []);
+  return mounted ? <Quiz {...props} /> : <div className="min-h-72" aria-busy="true" />;
+}
+function Quiz({ make, game, size = 10 }: Props) {
   const t = useT();
   const { lang } = useLang();
   const { award, addScore } = useStore();
