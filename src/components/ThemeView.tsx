@@ -9,7 +9,7 @@ import Speaker from './Speaker';
 import VocabularyQuiz from './VocabularyQuiz';
 
 type Theme = { id: string; de: string; ar: string; en: string; topics: string[]; words?: string[]; example?: string };
-export default function ThemeView({ groups = themes, a2 = false, practiceLevel = 'A2' }: { groups?: Theme[]; a2?: boolean; practiceLevel?: 'A2' | 'B1' }) {
+export default function ThemeView({ groups = themes, a2 = false, practiceLevel = 'A2' }: { groups?: Theme[]; a2?: boolean; practiceLevel?: 'A2' | 'B1' | 'B2' }) {
   const t = useT();
   const { lang } = useLang();
   const [id, setId] = useState(groups[0].id);
@@ -23,7 +23,7 @@ export default function ThemeView({ groups = themes, a2 = false, practiceLevel =
     <div className="space-y-6">
       <div className="space-y-2">
         <h1 className="ar-title text-4xl font-bold">{a2 ? t(`مفردات لممارسة ${practiceLevel}`, `Vocabulary for ${practiceLevel} practice`) : t('مفردات حسب موضوع الامتحان', 'Vocabulary by exam theme')}</h1>
-        <p className="text-muted">{a2 && practiceLevel === 'B1' ? t('8 مواضيع عشان تناقش الشغل والمرور والطاقة والثقافة، وتشرح مشكلة وتقترح حل. راجع الأداة والجمع، وبعدها جرّب تستخدم الكلمة في جملة فيها سبب أو شرط. فيها كلمات للمراجعة، مش قائمة امتحان رسمية.', 'Eight themes for discussing work, traffic, energy and culture, explaining a problem and proposing a solution. Review each article and plural, then use the noun in a sentence with a reason or condition. Includes revision, not an official exam list.') : a2 ? t('8 مواضيع للتدريب على وصف حياتك وطلب المساعدة. فيها مراجعة لكلمات سابقة، مش قائمة رسمية لامتحان. اختبر نفسك وركّب جمل من عندك.', 'Eight themes for describing daily life and asking for help. Includes earlier vocabulary for revision; not an official exam list. Test yourself and make your own sentences.') : t('المواضيع اللي بتتكرر في امتحانات Goethe من A1 لـ B1. كل كلمة بصورة حقيقية وأداة وجمع. اضغط على السماعة تسمعها.', 'The themes that recur in Goethe exams from A1 to B1. Every word has a real photo, its article and plural. Tap the speaker to hear it.')}</p>
+        <p className="text-muted">{a2 && practiceLevel === 'B2' ? t('8 مجالات عشان تناقش المصالح والنتائج وتشرح عمليات وتوازن بين حجج. الأسماء المصوّرة هنا نقطة بداية ومراجعة، مش مقياس مستوى الكلمة ولا قائمة امتحان رسمية. استخدم كل مجموعة في فقرة تحليلية من عندك.', 'Eight fields for discussing competing interests, consequences and processes, and weighing arguments. These photographed nouns are starting points and revision, not a claim about the level of each word or an official exam list. Use each group in your own analytical paragraph.') : a2 && practiceLevel === 'B1' ? t('8 مواضيع عشان تناقش الشغل والمرور والطاقة والثقافة، وتشرح مشكلة وتقترح حل. راجع الأداة والجمع، وبعدها جرّب تستخدم الكلمة في جملة فيها سبب أو شرط. فيها كلمات للمراجعة، مش قائمة امتحان رسمية.', 'Eight themes for discussing work, traffic, energy and culture, explaining a problem and proposing a solution. Review each article and plural, then use the noun in a sentence with a reason or condition. Includes revision, not an official exam list.') : a2 ? t('8 مواضيع للتدريب على وصف حياتك وطلب المساعدة. فيها مراجعة لكلمات سابقة، مش قائمة رسمية لامتحان. اختبر نفسك وركّب جمل من عندك.', 'Eight themes for describing daily life and asking for help. Includes earlier vocabulary for revision; not an official exam list. Test yourself and make your own sentences.') : t('المواضيع اللي بتتكرر في امتحانات Goethe من A1 لـ B1. كل كلمة بصورة حقيقية وأداة وجمع. اضغط على السماعة تسمعها.', 'The themes that recur in Goethe exams from A1 to B1. Every word has a real photo, its article and plural. Tap the speaker to hear it.')}</p>
       </div>
       <div className="flex flex-wrap gap-2">
         {groups.map((x) => (
@@ -32,7 +32,7 @@ export default function ThemeView({ groups = themes, a2 = false, practiceLevel =
       </div>
       <div className="flex items-baseline justify-between gap-3">
         <h2 className="de text-2xl font-bold">{th.de}</h2>
-        <span className="num text-sm text-muted">{list.length} {t('كلمة', 'words')}</span>
+        <span className="num shrink-0 whitespace-nowrap text-sm text-muted">{list.length} {t('كلمة', 'words')}</span>
       </div>
       <div className="flex flex-wrap gap-2 text-sm">
         {th.topics.map((tp) => <Link key={tp} href={`/lessons/${tp}/`} className="rounded-full border border-line px-3 py-1 text-accent hover:bg-card">{topicName(tp, lang)}</Link>)}
