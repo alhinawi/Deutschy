@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  naehzubehoer: 'Nähzubehör',
   gartenpflege: 'Gartenpflege',
   waesche: 'Wäschepflege',
   family: 'Familie', food: 'Essen', drinks: 'Getränke', house: 'Haus', places: 'Stadt', transport: 'Verkehr',
@@ -56,7 +57,8 @@ export const topicTitles: Record<string, string> = {
   kleidung3: 'Kleidung & Nähen',
   natur3: 'Natur 3',
 };
-export const topicEn: Record<string, string> = {  gartenpflege: 'Garden care',
+export const topicEn: Record<string, string> = {  naehzubehoer: 'Sewing accessories',
+  gartenpflege: 'Garden care',
   waesche: 'Laundry care',
   kleidung3: 'Clothes and sewing',
   natur3: 'Nature 3',

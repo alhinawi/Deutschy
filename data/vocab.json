@@ -239,6 +239,10 @@
   {
    "id": "gartenpflege",
    "ar": "العناية بالزرع"
+  },
+  {
+   "id": "naehzubehoer",
+   "ar": "أدوات خياطة"
   }
  ],
  "words": [
@@ -10405,6 +10409,54 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Carretilla_Truper.jpg",
     "license": "CC BY 4.0",
     "author": "Mark Gasoline",
+    "padding": true
+   }
+  },
+  {
+   "id": "fingerhut",
+   "topic": "naehzubehoer",
+   "art": "der",
+   "de": "Fingerhut",
+   "plural": "Fingerhüte",
+   "ar": "كشتبان خياطة",
+   "photo": {
+    "file": "Thimble.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Thimble.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Thimble.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Clément Bucco-Lechat",
+    "padding": true
+   }
+  },
+  {
+   "id": "sicherheitsnadel",
+   "topic": "naehzubehoer",
+   "art": "die",
+   "de": "Sicherheitsnadel",
+   "plural": "Sicherheitsnadeln",
+   "ar": "دبوس مشبك",
+   "photo": {
+    "file": "Safety Pin.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Safety_Pin.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Safety_Pin.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Haragayato",
+    "padding": true
+   }
+  },
+  {
+   "id": "reissverschluss",
+   "topic": "naehzubehoer",
+   "art": "der",
+   "de": "Reißverschluss",
+   "plural": "Reißverschlüsse",
+   "ar": "سوستة",
+   "photo": {
+    "file": "Reissverschluss (fcm).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Reissverschluss_(fcm).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Reissverschluss_(fcm).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Photograph:  Frank C. Müller, Baden-Baden",
     "padding": true
    }
   }
