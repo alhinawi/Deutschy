@@ -75,7 +75,7 @@ for(const level of CHECK_LEVELS) {
  for(const q of bank) { assert(q.options.length>=3); assert.equal(new Set(q.options).size,q.options.length); if(q.kind==='reading')assert(q.context); }
  for(let run=0;run<10;run++) { const q=buildCheck(level); assert.equal(q.length,16); assert.equal(new Set(q.map(x=>x.key)).size,16); assert.equal(q.filter(x=>x.kind==='grammar').length,10); assert.equal(q.filter(x=>x.kind==='reading').length,6); assert(q.every(x=>bank.some(y=>y.key===x.key&&y.prompt===x.prompt))); const r=resultFor('test',level,q,q.map(x=>x.options[0]),100); assert.equal(r.correct,16); assert.equal(r.at,100); assert.equal(resultFor('wrong',level,q,q.map(x=>x.options[1])).correct,0); }
 }
-console.log('PASS: 40 B2 drill shapes, 7 B2 writing models, 4 B2 texts, 8 B2 themes, 50 randomized level checks preserve existing-bank keys, category balance and scoring');
+console.log('PASS: 40 B2 drill shapes, 7 B2 writing models, 4 B2 texts, 8 B2 themes, 60 randomized level checks preserve existing-bank keys, category balance and scoring');
 
 const { c1Grammar } = lib('c1-grammar');
 const { c1Texts } = lib('reading-c1');
@@ -88,3 +88,15 @@ assert.equal(c1Texts.length,4);for(const t of c1Texts) {assert.equal(t.q.length,
 assert.equal(c1Themes.length,8);for(const t of c1Themes) {assert.equal(t.words.length,5);assert(t.words.every(id=>words.some(w=>w.id===id)));assert.equal(t.discussion.length,2);assert(t.example.length>80);}
 assert(CHECK_LEVELS.includes('C1'));assert(checkBank('C1').some(q=>q.key.startsWith('c1:')));assert(checkBank('C1').some(q=>q.key.startsWith('r:c1-')));
 console.log('PASS: 40 source-linked C1 grammar rows, 7 writing models, 4 texts, 8 discussion themes and C1 bank inclusion');
+
+const { c2Grammar } = lib('c2-grammar');
+const { c2Texts } = lib('reading-c2');
+const { c2Themes } = lib('c2-themes');
+assert.equal(c2Grammar.length,5);
+for(const d of c2Grammar) { assert.equal(d.rows.length,8); assert(d.sources.length>0); assert(d.sources.every(s=>s.startsWith('https://'))); for(const r of d.rows) { assert.equal(r.length,4); assert.equal(new Set(r.slice(1)).size,3); } }
+const c2tasks=writingTasks.filter(t=>t.level==='C2'); assert.equal(c2tasks.length,7);
+for(const t of c2tasks) {const text=' '+t.model.toLowerCase().replace(/\s+/g,' ')+' '; assert(t.min>=140);assert(t.model.trim().split(/\s+/).length>=t.min);assert(t.need.every(([a])=>a.split('|').some(x=>text.includes(x))));assert(t.tips?.[0]&&t.tips?.[1]);}
+assert.equal(c2Texts.length,4);for(const t of c2Texts) {assert.equal(t.q.length,4);assert.equal(t.de.length,t.ar.length);assert(t.gloss.length>=4);for(const q of t.q) assert.equal(new Set(q.slice(1)).size,3);}
+assert.equal(c2Themes.length,8);for(const t of c2Themes) {assert.equal(t.words.length,5);assert(t.words.every(id=>words.some(w=>w.id===id)));assert.equal(t.discussion.length,2);assert(t.example.length>80);}
+assert(CHECK_LEVELS.includes('C2'));assert(checkBank('C2').some(q=>q.key.startsWith('c2:')));assert(checkBank('C2').some(q=>q.key.startsWith('r:c2-')));
+console.log('PASS: 40 source-linked C2 grammar rows, 7 writing models, 4 texts, 8 discussion themes and C2 bank inclusion');
