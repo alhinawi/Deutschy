@@ -32,7 +32,8 @@ export default function Shell({ children }: { children: ReactNode }) {
   useEffect(() => {
     document.documentElement.dataset.theme = user?.isAdmin ? s.theme || 'papier' : 'papier';
   }, [user, s.theme]);
-  const active = (href: string) => (href === '/' ? path === '/' : path.startsWith(href.replace(/\/$/, '')));
+  const activeHref = sidebar.flatMap((g) => g.items).filter((i) => i.href === '/' ? path === '/' : path === i.href || path.startsWith(i.href.endsWith('/') ? i.href : i.href + '/')).sort((a, b) => b.href.length - a.href.length)[0]?.href;
+  const active = (href: string) => href === activeHref;
   return (
     <>
       <AuthSync />
