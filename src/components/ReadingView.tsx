@@ -45,6 +45,7 @@ export default function ReadingView({ r }: { r: ReadingText }) {
       </article>}
       <button onClick={() => setShow(!show)} className="rounded-full border border-line px-5 py-2 font-bold">{show ? t('اخفي الترجمة', 'Hide translation') : t('اعرض الترجمة', 'Show translation')}</button>
       {show && <div className="ar-title space-y-3 rounded-2xl border border-line bg-paper p-5 text-lg">{r.ar.map((p, k) => <p key={k}>{p}</p>)}</div>}
+      {r.gloss && <details className="rounded-2xl border border-line bg-card p-4"><summary className="ar-title cursor-pointer text-xl font-bold">{t('كلمات تساعدك', 'Egyptian Arabic word help')}</summary><dl className="mt-3 grid gap-3 sm:grid-cols-2">{r.gloss.map(([de, ar]) => <div key={de}><dt dir="ltr" lang="de" className="de font-bold">{de}</dt><dd dir="rtl" lang="ar" className="ar-title text-muted">{ar}</dd></div>)}</dl></details>}
       <section className="space-y-3 rounded-2xl border border-line bg-card p-5">
         <div className="flex items-center justify-between">
           <h2 className="ar-title text-2xl font-bold">{t('أسئلة', 'Questions')}</h2>
