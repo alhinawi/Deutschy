@@ -1,0 +1,3 @@
+import type { Metadata } from 'next';
+export const metadata: Metadata = {"title": "German prepositions - Deutschy", "description": "Practice Akkusativ, Dativ and two-way prepositions with examples, spatial diagrams and quizzes.", "alternates": {"canonical": "/praepositionen/"}, "openGraph": {"title": "German prepositions - Deutschy", "description": "Practice Akkusativ, Dativ and two-way prepositions with examples, spatial diagrams and quizzes.", "url": "/praepositionen/", "images": [{"url": "/og.png", "width": 1200, "height": 630, "alt": "Deutschy - German practice"}]}};
+export default function Layout({ children }: { children: React.ReactNode }) { return children; }

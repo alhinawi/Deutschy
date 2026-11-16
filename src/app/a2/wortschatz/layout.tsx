@@ -1,0 +1,3 @@
+import type { Metadata } from 'next';
+export const metadata: Metadata = {"title": "A2 vocabulary themes - Deutschy", "description": "Eight photographed vocabulary themes with articles, plurals, Egyptian Arabic meanings and mini-quizzes for A2 practice.", "alternates": {"canonical": "/a2/wortschatz/"}, "openGraph": {"title": "A2 vocabulary themes - Deutschy", "description": "Eight photographed vocabulary themes with articles, plurals, Egyptian Arabic meanings and mini-quizzes for A2 practice.", "url": "/a2/wortschatz/", "images": [{"url": "/og.png", "width": 1200, "height": 630, "alt": "Deutschy - German practice"}]}};
+export default function Layout({ children }: { children: React.ReactNode }) { return children; }

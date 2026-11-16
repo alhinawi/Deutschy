@@ -1,0 +1,3 @@
+import type { Metadata } from 'next';
+export const metadata: Metadata = {"title": "A1 and A2 conversation practice - Deutschy", "description": "Choose a role in everyday German dialogues, practice each turn aloud and switch roles with read-aloud controls.", "alternates": {"canonical": "/conversation/"}, "openGraph": {"title": "A1 and A2 conversation practice - Deutschy", "description": "Choose a role in everyday German dialogues, practice each turn aloud and switch roles with read-aloud controls.", "url": "/conversation/", "images": [{"url": "/og.png", "width": 1200, "height": 630, "alt": "Deutschy - German practice"}]}};
+export default function Layout({ children }: { children: React.ReactNode }) { return children; }

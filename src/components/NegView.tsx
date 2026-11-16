@@ -17,7 +17,7 @@ export default function NegView() {
   return (
     <div className="space-y-6">
       <h1 className="ar-title text-4xl font-bold">{t('النفي والأسئلة', 'Negation and questions')}</h1>
-      <div className="flex flex-wrap gap-2">{tabs.map(([k, n]) => <button key={k} onClick={() => setTab(k)} className={pill(tab === k)}>{n}</button>)}</div>
+      <div className="flex flex-wrap gap-2">{tabs.map(([k, n]) => <button key={k} onClick={() => setTab(k)} aria-pressed={tab === k} className={pill(tab === k)}>{n}</button>)}</div>
       {tab === 'rules' && (
         <div className="space-y-4">
           {([

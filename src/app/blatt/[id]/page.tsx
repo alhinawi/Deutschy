@@ -7,7 +7,7 @@ export const generateStaticParams = () => sheets.map((s) => ({ id: s.id }));
 export async function generateMetadata({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;
   const s = sheetOf(id);
-  return { title: s ? `${s.title[1]} – Deutschy` : 'Deutschy' };
+  return { title: s ? `${s.title[1]} - Deutschy` : 'Deutschy', alternates: { canonical: `/blatt/${id}/` }, openGraph: { title: s ? `${s.title[1]} - Deutschy` : 'Deutschy', url: `/blatt/${id}/`, images: ['/og.png'] } };
 }
 export default async function Page({ params }: { params: Promise<{ id: string }> }) {
   const { id } = await params;

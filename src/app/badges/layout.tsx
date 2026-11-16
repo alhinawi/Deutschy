@@ -1,0 +1,3 @@
+import type { Metadata } from 'next';
+export const metadata: Metadata = {"title": "Your earned badges - Deutschy", "description": "View badges based on your recorded practice, XP, correct answers and best streak.", "alternates": {"canonical": "/badges/"}, "openGraph": {"title": "Your earned badges - Deutschy", "description": "View badges based on your recorded practice, XP, correct answers and best streak.", "url": "/badges/", "images": [{"url": "/og.png", "width": 1200, "height": 630, "alt": "Deutschy - German practice"}]}, "robots": {"index": false, "follow": true}};
+export default function Layout({ children }: { children: React.ReactNode }) { return children; }

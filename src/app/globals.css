@@ -62,3 +62,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
   .sheet section.tall { break-inside: auto; }
   .sheet h2 { break-after: avoid; }
 }
+
+/* Text remains readable on tinted level badges. */
+.bg-accent\/10.text-accent { color: var(--ink); }
+button[aria-label="Speak"] { min-width: 44px; min-height: 44px; }

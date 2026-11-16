@@ -1,0 +1,3 @@
+import type { Metadata } from 'next';
+export const metadata: Metadata = {"title": "Perfekt and Präteritum - Deutschy", "description": "Learn German past tenses, consult an irregular verb table and practice participles, Präteritum and haben or sein.", "alternates": {"canonical": "/perfekt/"}, "openGraph": {"title": "Perfekt and Präteritum - Deutschy", "description": "Learn German past tenses, consult an irregular verb table and practice participles, Präteritum and haben or sein.", "url": "/perfekt/", "images": [{"url": "/og.png", "width": 1200, "height": 630, "alt": "Deutschy - German practice"}]}};
+export default function Layout({ children }: { children: React.ReactNode }) { return children; }

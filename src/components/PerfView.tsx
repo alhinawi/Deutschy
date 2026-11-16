@@ -35,7 +35,7 @@ export default function PerfView() {
   return (
     <div className="space-y-6">
       <div><h1 className="ar-title text-4xl font-bold">{t('الماضي في الألماني', 'Past tenses')}</h1><p dir="ltr" lang="de" className="de mt-1 text-xl text-muted">Perfekt und Präteritum</p></div>
-      <div className="flex flex-wrap gap-2">{tabs.map(([k, n]) => <button key={k} onClick={() => setTab(k)} className={pill(tab === k)}>{n}</button>)}</div>
+      <div className="flex flex-wrap gap-2">{tabs.map(([k, n]) => <button key={k} onClick={() => setTab(k)} aria-pressed={tab === k} className={pill(tab === k)}>{n}</button>)}</div>
       {tab === 'rules' && (
         <div className="space-y-4">
           {rules.map(([h, ar, en, ex]) => (
@@ -50,7 +50,7 @@ export default function PerfView() {
       {tab === 'table' && (
         <div className="space-y-3">
           <input value={q} onChange={(e) => setQ(e.target.value)} dir="ltr" placeholder={t('ابحث عن فعل', 'Search a verb')} aria-label={t('ابحث عن فعل', 'Search a verb')} className="w-full rounded-xl border border-line bg-paper px-4 py-2" />
-          <div dir="ltr" className="overflow-x-auto rounded-2xl border border-line bg-card">
+          <div dir="ltr" tabIndex={0} role="region" aria-label={t('جدول الأفعال', 'Verb table')} className="overflow-x-auto rounded-2xl border border-line bg-card">
             <table className="w-full min-w-[420px] text-start">
               <thead><tr className="border-b border-line text-sm text-muted"><th className="p-2 text-start">Infinitiv</th><th className="p-2 text-start">Präteritum</th><th className="p-2 text-start">Perfekt</th><th className="p-2 text-start">{lang === 'ar' ? 'المعنى' : 'Meaning'}</th></tr></thead>
               <tbody>{rows.map((v) => (

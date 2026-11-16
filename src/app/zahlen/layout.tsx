@@ -1,0 +1,3 @@
+import type { Metadata } from 'next';
+export const metadata: Metadata = {"title": "German numbers, time and dates - Deutschy", "description": "Learn to read German numbers, tell the time and express dates with listening and reading quizzes.", "alternates": {"canonical": "/zahlen/"}, "openGraph": {"title": "German numbers, time and dates - Deutschy", "description": "Learn to read German numbers, tell the time and express dates with listening and reading quizzes.", "url": "/zahlen/", "images": [{"url": "/og.png", "width": 1200, "height": 630, "alt": "Deutschy - German practice"}]}};
+export default function Layout({ children }: { children: React.ReactNode }) { return children; }
