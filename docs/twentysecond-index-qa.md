@@ -1,0 +1,5 @@
+# Reading index usability pass
+
+2026-11-17. The existing reading index had grown to 84 unfiltered cards. Added labeled local search across German/Arabic titles, text and glossary; a separate approximate practice-group selector; live result count; clear/reset; and an empty state. The default still renders all 84 static reading links, preserving discovery. No account, backend, learner-score write or saved-ID change. The introductory text now explicitly calls the groups approximate, not a proficiency assessment.
+
+AR/EN × 320/390/1280: all six level counts checked (10/23/21/12/9/9), combined query/group intersection, German case-insensitive title, Arabic title, canonically decomposed umlaut query, empty results and recovery to all original links. Keyboard focus reaches search then select. No document overflow or learner-record writes. Destination opens the intended reading. Six representative axe states pass selected WCAG A/AA tags. Arabic/English 390px pixels visually inspected. No whole-site accessibility certification implied.
