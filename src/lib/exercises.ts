@@ -20,7 +20,7 @@ export const exercises: Record<string, Ex[]> = {
   satzbau: [
     ['Heute ___ ich Deutsch.', 'lerne', 'ich lerne', 'lernen', 'الفعل في المكان التاني', 'verb in second position'],
     ['___ wohnst du?', 'Wo', 'Wer', 'Wann', 'Wo = فين', 'Wo = where'],
-    ['___ kommst du heute?', 'Kommst', 'Du', 'Wann', 'سؤال نعم/لا: الفعل أول', 'yes/no question: verb first'],
+    ['___ du heute?', 'Kommst', 'Du', 'Wann', 'سؤال نعم/لا: الفعل أول', 'yes/no question: verb first'],
     ['Morgen ___ wir ins Kino.', 'gehen', 'wir gehen', 'gegangen', 'الفعل تاني', 'verb second'],
   ],
   praesens: [

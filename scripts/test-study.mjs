@@ -246,3 +246,10 @@ const a2Drills=lib('exercises-a2-depth').a2Depth;
 for(const [topic,rows]of Object.entries(a2Drills)){assert.equal(rows.length,6);for(const row of rows){assert.equal(row.length,6);assert.equal(new Set(row.slice(1,4)).size,3);assert(row[0].includes('___'));assert(row[4]&&row[5]);}const all=lib('exercises').exercises[topic];assert.deepEqual(JSON.parse(JSON.stringify(all.slice(-6))),JSON.parse(JSON.stringify(rows)));}
 assert.equal(a2Drills.dativ[0][1],'Autos');assert.equal(a2Drills['adjektiv-endungen'][0][1],'kleine');assert.equal(a2Drills.perfekt[1][1],'hat');
 console.log('PASS: 18 A2 contrast drills appended, unique options, bilingual feedback and checked exception answers');
+
+const {practiceOptionOrder}=lib('practice-options');
+const permutations=new Set();const positions=new Set();
+for(let n=0;n<30;n++){const key=`dativ:${n}:question`,o=practiceOptionOrder(key,'0');assert.equal(new Set(o).size,3);assert.deepEqual([...o].sort(),[0,1,2]);assert.deepEqual(o,practiceOptionOrder(key,'0'));permutations.add(o.join(''));positions.add(o.indexOf(0));}
+assert.equal(permutations.size,6);assert.equal(positions.size,3);
+assert.equal(lib('exercises').exercises.satzbau[2][0],'___ du heute?');
+console.log('PASS: quiz options use all six stable permutations, cover all correct positions and retain the repaired yes/no prompt');

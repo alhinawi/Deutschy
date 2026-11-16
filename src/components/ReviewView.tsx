@@ -6,8 +6,7 @@ import { grammarOf } from '@/lib/grammar';
 import { useStore } from '@/lib/store';
 import { useLang, useT } from '@/lib/i18n';
 import Mixed from './Mixed';
-
-const order = (n: number, seed: number) => { const perms = [[0, 1, 2], [1, 2, 0], [2, 0, 1], [0, 2, 1], [1, 0, 2], [2, 1, 0]]; return perms[(seed * 7 + n * 3) % 6]; };
+import {practiceOptionOrder} from '@/lib/practice-options';
 
 export default function ReviewView() {
   const t = useT();
@@ -44,7 +43,7 @@ export default function ReviewView() {
             const it = exercises[topic][i];
             const pick = done[key];
             const g = grammarOf(topic);
-            const opts = order(i, topic.length).map((k) => ({ k, text: it[1 + k] }));
+            const opts = practiceOptionOrder(`${topic}:${i}:${it[0]}`,String(round)).map((k) => ({ k, text: it[1 + k] }));
             return (
               <section key={key} className="space-y-3 rounded-2xl border border-line bg-card p-5">
                 {g && <Link href={`/grammar/${topic}/`} className="num text-xs font-bold text-accent">{g.level} · {lang === 'ar' ? g.title[0] : g.title[1]}</Link>}
