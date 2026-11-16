@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the twenty-sixth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the twenty-seventh practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -152,6 +152,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/lessons/tischdecken/` and `/lessons/flaschenhelfer/` | Review five articles/plurals and clear photo cues: coaster, table napkin, serving tray, funnel and bottle opener. Same-form plurals retain the established convention. Sources/credits checked and complete objects padded, but dictionary checks are not human sign-off. |
 | [ ] | `/practical-words/` and `/dictation/` | Review scoped search, all-group recovery, bulk reveal/hide and temporary/no-record wording in both languages. All 24 glossary terms/examples unchanged. New focused dictation has 44 sentences; listen on a real German device voice. Mocked voice verifies selection, not pronunciation. |
 
+### Twenty-seventh update: new content, still pending
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-lesezeichen/` and `/dialogues/#buch-morgen-abend` | Check bookmark/cover/case vocabulary, tomorrow evening versus afternoon, all 7 answers and exact evidence. Check Egyptian Arabic pronouns and beginner difficulty. |
+| [ ] | `/reading/alltag-a2-buchstuetzen/` and `/dialogues/#lupe-schublade` | Check shelf/bookend/magnifier/paperweight senses, asking before changing another person's storage, all 7 answers/evidence and Egyptian Arabic. Fictional household routine, not preservation advice. |
+| [ ] | `/reading/alltag-b1-leseecke/` and `/dialogues/#leseecke-pausenzettel` | Check differing quiet/conversation needs, vague versus approximate return times, limited two-week trial, all 7 answers and exact evidence. No universal housing rule is claimed. |
+| [ ] | `src/lib/exercises-readingcorner.ts` | Review 24 sentence-order, present, negation, separable-verb, dative and perfect rows. All 574 prior questions retain exact positions/content. Confirm unique supplied answers and bilingual explanations. |
+| [ ] | `/lessons/lesehelfer/` | Review die Lupe / Lupen and der Briefbeschwerer / same-form plural, Egyptian Arabic and the two complete-object real photo cues. Dictionary and licence checks are not native editorial sign-off. |
+| [ ] | `/grammar/modalverben/#modal-meaning` and `/dictation/` | Review six unchanged meanings with bilingual feedback, counts, locks and temporary/no-record reset wording. New focused dictation has 43 sentences. Listen on a real German device voice; mocked utterances do not review pronunciation. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -166,7 +177,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **707 photo nouns / 71 topics**, **96 reading texts / 337 reading questions**, **41 core grammar topics / 574 core grammar questions**, **36 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **709 photo nouns / 72 topics**, **99 reading texts / 349 reading questions**, **41 core grammar topics / 598 core grammar questions**, **39 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -178,7 +189,7 @@ This is an inventory, not completed review. Snapshot: **707 photo nouns / 71 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 14 · A2 27 · B1 25 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 15 · A2 28 · B1 26 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
