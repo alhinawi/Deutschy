@@ -1,0 +1,32 @@
+import type { Lvl } from './grammar-types';
+// [idiom, literal (English), meaning (Egyptian Arabic), meaning (English), example (German), example (Arabic)]
+export type Idiom = { de: string; literal: string; ar: string; en: string; ex: string; exAr: string; level: Lvl };
+
+export const idioms: Idiom[] = [
+  { level: 'B1', de: 'Ich verstehe nur Bahnhof.', literal: 'I only understand train station.', ar: 'مش فاهم أي حاجة', en: 'I do not understand anything.', ex: 'Der Professor redet so schnell, ich verstehe nur Bahnhof.', exAr: 'الدكتور بيتكلم بسرعة، أنا مش فاهم أي حاجة.' },
+  { level: 'B1', de: 'Daumen drücken', literal: 'to press thumbs', ar: 'يتمنى لحد التوفيق', en: 'to keep your fingers crossed', ex: 'Morgen ist meine Prüfung. Drück mir die Daumen!', exAr: 'بكرة امتحاني. ادعيلي بالتوفيق!' },
+  { level: 'B1', de: 'Das ist mir Wurst.', literal: 'That is sausage to me.', ar: 'ده عادي عندي، ما يفرقش معايا', en: 'I do not care.', ex: 'Ob wir Pizza oder Pasta essen, ist mir Wurst.', exAr: 'سواء أكلنا بيتزا ولا مكرونة، ما يفرقش معايا.' },
+  { level: 'B1', de: 'Tomaten auf den Augen haben', literal: 'to have tomatoes on the eyes', ar: 'مش شايف اللي قدامه', en: 'to not see what is obvious', ex: 'Hast du Tomaten auf den Augen? Der Schlüssel liegt doch auf dem Tisch!', exAr: 'هو إنت مش شايف؟ المفتاح على الترابيزة أهو!' },
+  { level: 'B1', de: 'Da steppt der Bär.', literal: 'The bear dances there.', ar: 'المكان هناك مولع، حفلة جامدة', en: 'The place is lively; the party is great.', ex: 'Auf der Party am Samstag steppt der Bär.', exAr: 'حفلة السبت هتبقى نار.' },
+  { level: 'B1', de: 'Ich habe die Nase voll.', literal: 'I have the nose full.', ar: 'زهقت، مبقتش قادر', en: 'I am fed up.', ex: 'Ich habe die Nase voll von dem Lärm.', exAr: 'زهقت من الدوشة دي.' },
+  { level: 'B1', de: 'Das ist ein Katzensprung.', literal: 'That is a cat jump.', ar: 'ده مسافة قريبة قوي', en: 'It is a very short distance.', ex: 'Bis zum Bahnhof ist es nur ein Katzensprung.', exAr: 'المحطة قريبة قوي من هنا.' },
+  { level: 'B1', de: 'Das ist nicht mein Bier.', literal: 'That is not my beer.', ar: 'ده مش شغلي، مش مشكلتي', en: 'That is not my business.', ex: 'Euer Streit ist nicht mein Bier.', exAr: 'خناقتكم دي مش شغلي.' },
+  { level: 'B1', de: 'Jemandem auf die Nerven gehen', literal: 'to walk on someone\'s nerves', ar: 'يعصّب حد، يضايقه', en: 'to get on someone\'s nerves', ex: 'Der Lärm geht mir auf die Nerven.', exAr: 'الدوشة دي بتعصبني.' },
+  { level: 'B1', de: 'Zwei Fliegen mit einer Klappe schlagen', literal: 'to hit two flies with one swatter', ar: 'عصفورين بحجر واحد', en: 'to kill two birds with one stone', ex: 'Ich kaufe auf dem Weg zur Arbeit ein und schlage zwei Fliegen mit einer Klappe.', exAr: 'بشتري الحاجات وأنا رايح الشغل، عصفورين بحجر واحد.' },
+  { level: 'B1', de: 'Es regnet in Strömen.', literal: 'It rains in streams.', ar: 'الدنيا بتمطر جامد', en: 'It is pouring.', ex: 'Nimm einen Schirm mit, es regnet in Strömen.', exAr: 'خد شمسية معاك، الدنيا بتمطر جامد.' },
+  { level: 'B1', de: 'Ins Gras beißen', literal: 'to bite into the grass', ar: 'يموت (بشكل عامي)', en: 'to die (informal)', ex: 'Der alte Hund hat letzte Woche ins Gras gebissen.', exAr: 'الكلب العجوز مات الأسبوع اللي فات.' },
+  { level: 'B2', de: 'Den Nagel auf den Kopf treffen', literal: 'to hit the nail on the head', ar: 'يصيب كبد الحقيقة', en: 'to hit the nail on the head', ex: 'Mit deiner Antwort hast du den Nagel auf den Kopf getroffen.', exAr: 'إجابتك جت في الصميم.' },
+  { level: 'B2', de: 'Hals- und Beinbruch!', literal: 'Neck and leg break!', ar: 'بالتوفيق! (قبل امتحان أو عرض)', en: 'Good luck! (said before an exam or performance)', ex: 'Hals- und Beinbruch bei der Prüfung!', exAr: 'بالتوفيق في الامتحان!' },
+  { level: 'B2', de: 'Unter vier Augen', literal: 'under four eyes', ar: 'على انفراد، بينّا إحنا الاتنين', en: 'in private, one to one', ex: 'Können wir das unter vier Augen besprechen?', exAr: 'ينفع نتكلم في ده على انفراد؟' },
+  { level: 'B2', de: 'Auf der Leitung stehen', literal: 'to stand on the line', ar: 'مش فاهم، دماغه مش شغالة', en: 'to be slow on the uptake', ex: 'Entschuldigung, ich stehe gerade auf der Leitung.', exAr: 'معلش، دماغي مش شغالة دلوقتي.' },
+  { level: 'B2', de: 'Die Daumen drehen', literal: 'to twiddle the thumbs', ar: 'قاعد من غير شغل', en: 'to have nothing to do', ex: 'Wir drehen seit Stunden die Daumen und warten auf den Chef.', exAr: 'من ساعات قاعدين من غير شغل مستنيين المدير.' },
+  { level: 'B2', de: 'Etwas auf die lange Bank schieben', literal: 'to push something onto the long bench', ar: 'يأجّل حاجة ويسوّف فيها', en: 'to put something off', ex: 'Schieb die Hausaufgaben nicht auf die lange Bank.', exAr: 'ماتأجلش الواجب.' },
+  { level: 'B2', de: 'Ins kalte Wasser springen', literal: 'to jump into cold water', ar: 'يبدأ حاجة جديدة من غير تجهيز', en: 'to dive in at the deep end', ex: 'In der neuen Firma musste ich sofort ins kalte Wasser springen.', exAr: 'في الشركة الجديدة اضطريت أبدأ على طول من غير تحضير.' },
+  { level: 'B2', de: 'Durch die Blume sagen', literal: 'to say through the flower', ar: 'يقول بشكل غير مباشر', en: 'to say indirectly', ex: 'Sie hat es mir nur durch die Blume gesagt.', exAr: 'قالتهالي بشكل غير مباشر.' },
+  { level: 'B2', de: 'Alles in Butter', literal: 'everything in butter', ar: 'كله تمام', en: 'everything is fine', ex: 'Bei dir alles in Butter?', exAr: 'كله تمام عندك؟' },
+  { level: 'B2', de: 'Einen Kater haben', literal: 'to have a tomcat', ar: 'تعبان من بعد سهرة شرب', en: 'to have a hangover', ex: 'Nach der Feier hatte er einen Kater.', exAr: 'بعد الحفلة كان تعبان.' },
+  { level: 'C1', de: 'Jemandem einen Bären aufbinden', literal: 'to tie a bear onto someone', ar: 'يضحك على حد بكلام كدب', en: 'to tell someone a tall tale', ex: 'Du willst mir wohl einen Bären aufbinden!', exAr: 'إنت بتضحك عليا بكلام كدب!' },
+  { level: 'C1', de: 'Das Eis brechen', literal: 'to break the ice', ar: 'يكسر الحاجز في أول لقاء', en: 'to break the ice', ex: 'Ein Witz half, das Eis zu brechen.', exAr: 'نكتة ساعدت تكسر الحاجز.' },
+  { level: 'C1', de: 'Jemandem reinen Wein einschenken', literal: 'to pour someone pure wine', ar: 'يقول لحد الحقيقة كاملة', en: 'to tell someone the plain truth', ex: 'Es wird Zeit, dir reinen Wein einzuschenken.', exAr: 'جه وقت أقولك الحقيقة كاملة.' },
+  { level: 'C1', de: 'Wie die Faust aufs Auge passen', literal: 'to fit like the fist on the eye', ar: 'ما يليقش خالص', en: 'to not fit at all', ex: 'Das neue Sofa passt zum Zimmer wie die Faust aufs Auge.', exAr: 'الكنبة الجديدة مش لايقة على الأوضة خالص.' },
+];
