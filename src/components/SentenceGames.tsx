@@ -11,7 +11,7 @@ import Mixed from './Mixed';
 
 const LEVELS = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'] as const;
 
-export default function SentenceGames({ game }: { game: 'build' | 'dictation' }) {
+export default function SentenceGames({ game }: { game: 'build' | 'dictation' | 'listening' }) {
   const t = useT();
   const [level, setLevel] = useState<string>('');
   const [round, setRound] = useState(0);
@@ -35,7 +35,7 @@ export default function SentenceGames({ game }: { game: 'build' | 'dictation' })
   );
 }
 
-function Rounds({ game, list, again }: { game: 'build' | 'dictation'; list: Sentence[]; again: () => void }) {
+function Rounds({ game, list, again }: { game: 'build' | 'dictation' | 'listening'; list: Sentence[]; again: () => void }) {
   const t = useT();
   const { lang } = useLang();
   const { award, addScore } = useStore();
@@ -46,7 +46,8 @@ function Rounds({ game, list, again }: { game: 'build' | 'dictation'; list: Sent
   const [res, setRes] = useState<null | boolean>(null);
   const [typed, setTyped] = useState('');
   const [chosen, setChosen] = useState<number[]>([]);
-  const xp = game === 'build' ? 12 : 15;
+  const xp = game === 'build' ? 12 : game === 'listening' ? 10 : 15;
+  const [pick, setPick] = useState<number | null>(null);
   const q = qs[i];
   const toks = useMemo(() => (q ? shuffle(tokens(q.de).map((w, k) => ({ w, k }))) : []), [q]);
 
@@ -62,9 +63,15 @@ function Rounds({ game, list, again }: { game: 'build' | 'dictation'; list: Sent
       </div>
     );
   }
-  const next = () => { setI(i + 1); setRes(null); setTyped(''); setChosen([]); };
+  const next = () => { setI(i + 1); setRes(null); setTyped(''); setChosen([]); setPick(null); };
   const finish = (ok: boolean) => { setRes(ok); if (ok) setScore((s) => s + 1); award(ok ? xp : 0, `s:${q.topic}`, ok); };
   const gloss = lang === 'ar' ? q.ar : q.en;
+  const choices = useMemo(() => {
+    if (!q || game !== 'listening') return [] as { text: string; ok: boolean }[];
+    const pool = list.filter((x) => x.de !== q.de);
+    const others = sample(pool, Math.min(2, pool.length)).map((x) => ({ text: lang === 'ar' ? x.ar : x.en, ok: false }));
+    return shuffle([{ text: lang === 'ar' ? q.ar : q.en, ok: true }, ...others]);
+  }, [q, game, list, lang]);
   const built = chosen.map((c) => toks[c].w).join(' ');
 
   return (
@@ -88,6 +95,19 @@ function Rounds({ game, list, again }: { game: 'build' | 'dictation'; list: Sent
           {res === null && (
             <button disabled={chosen.length !== toks.length} onClick={() => finish(norm(built) === norm(q.de))} className="w-full rounded-full bg-accent py-3 font-bold text-accent-ink disabled:opacity-40">{t('تأكيد', 'Check')}</button>
           )}
+        </>
+      ) : game === 'listening' ? (
+        <>
+          <div className="flex items-center justify-center gap-3">
+            <button onClick={() => speak(q.de)} className="flex items-center gap-2 rounded-full bg-accent px-6 py-4 font-bold text-accent-ink"><Speaker />{t('اسمع الجملة', 'Play the sentence')}</button>
+          </div>
+          <p className="text-center text-sm text-muted">{t('اسمع واختار المعنى الصح.', 'Listen and pick the right meaning.')}</p>
+          <div className="space-y-2">
+            {choices.map((c, k) => {
+              const state = pick === null ? '' : c.ok ? 'border-good border-2 bg-good/10' : pick === k ? 'border-bad bg-bad/10' : 'opacity-60';
+              return <button key={k} disabled={res !== null} onClick={() => { setPick(k); finish(c.ok); }} className={`ar-title w-full rounded-xl border border-line bg-paper px-4 py-3 text-lg ${state}`}>{lang === 'ar' ? <Mixed text={c.text} /> : c.text}</button>;
+            })}
+          </div>
         </>
       ) : (
         <>

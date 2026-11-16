@@ -11,6 +11,7 @@ const games = [
   { id: 'memory', t: 'Memory', ar: 'لعبة الذاكرة', en: 'Memory', d: 'طابق الصورة بالكلمة. كل ما قلّت المحاولات زاد السكور.', de: 'Match the photo to the word. Fewer tries means a higher score.' },
   { id: 'build', t: 'Satzbau', ar: 'رتّب الجملة', en: 'Build the sentence', d: 'رتّب كلمات الجملة بالألماني من الترجمة. +12 XP لكل جملة.', de: 'Put the German words in order from the translation. +12 XP per sentence.' },
   { id: 'dictation', t: 'Diktat', ar: 'املا واسمع', en: 'Dictation', d: 'اسمع الجملة واكتبها. +15 XP لكل جملة.', de: 'Listen to the sentence and type it. +15 XP per sentence.' },
+  { id: 'listening', t: 'Hören', ar: 'اسمع واختار', en: 'Listening', d: 'اسمع الجملة واختار معناها الصح. +10 XP لكل جملة.', de: 'Listen to the sentence and pick its meaning. +10 XP per sentence.' },
 ];
 
 export default function Games() {
