@@ -9,7 +9,7 @@ import Speaker from './Speaker';
 import VocabularyQuiz from './VocabularyQuiz';
 
 type Theme = { id: string; de: string; ar: string; en: string; topics: string[]; words?: string[]; example?: string };
-export default function ThemeView({ groups = themes, a2 = false }: { groups?: Theme[]; a2?: boolean }) {
+export default function ThemeView({ groups = themes, a2 = false, practiceLevel = 'A2' }: { groups?: Theme[]; a2?: boolean; practiceLevel?: 'A2' | 'B1' }) {
   const t = useT();
   const { lang } = useLang();
   const [id, setId] = useState(groups[0].id);
@@ -22,7 +22,7 @@ export default function ThemeView({ groups = themes, a2 = false }: { groups?: Th
   return (
     <div className="space-y-6">
       <div className="space-y-2">
-        <h1 className="ar-title text-4xl font-bold">{a2 ? t('مفردات لممارسة A2', 'Vocabulary for A2 practice') : t('مفردات حسب موضوع الامتحان', 'Vocabulary by exam theme')}</h1>
+        <h1 className="ar-title text-4xl font-bold">{a2 ? t(`مفردات لممارسة ${practiceLevel}`, `Vocabulary for ${practiceLevel} practice`) : t('مفردات حسب موضوع الامتحان', 'Vocabulary by exam theme')}</h1>
         <p className="text-muted">{a2 ? t('8 مواضيع للتدريب على وصف حياتك وطلب المساعدة. فيها مراجعة لكلمات سابقة، مش قائمة رسمية لامتحان. اختبر نفسك وركّب جمل من عندك.', 'Eight themes for describing daily life and asking for help. Includes earlier vocabulary for revision; not an official exam list. Test yourself and make your own sentences.') : t('المواضيع اللي بتتكرر في امتحانات Goethe من A1 لـ B1. كل كلمة بصورة حقيقية وأداة وجمع. اضغط على السماعة تسمعها.', 'The themes that recur in Goethe exams from A1 to B1. Every word has a real photo, its article and plural. Tap the speaker to hear it.')}</p>
       </div>
       <div className="flex flex-wrap gap-2">
