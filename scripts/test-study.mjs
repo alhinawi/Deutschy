@@ -181,3 +181,6 @@ console.log('PASS: 18 reading evidence excerpts are exact and aligned to six A1-
 assert(search('Modal meaning',100).some(h=>h.href==='/grammar/modalverben/#modal-meaning'));
 assert(search('Guided Konjunktiv',100).some(h=>h.href==='/b1/#polite-transform'));
 console.log('PASS: modal meanings and guided form practice are searchable');
+const reviewCleaner=lib('answer-review').cleanReview;assert.deepEqual(JSON.parse(JSON.stringify(reviewCleaner({cards:{a:{b:2,due:10}},saved:['a','a']}))),{cards:{a:{b:2,due:10}},saved:['a']});
+for(const raw of [null,[],{cards:{a:null}},{cards:{a:{b:99,due:1}}},{cards:[]},{saved:'word'}])assert.equal(reviewCleaner(raw).unreadable,true);
+console.log('PASS: review shape validation preserves good cards, deduplicates words and marks corrupt schedules');

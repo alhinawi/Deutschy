@@ -1,0 +1,3 @@
+# Daily review validation
+Validate stored card box/due fields and container shapes; deduplicate saved string IDs. Preserve valid cards, including unknown IDs, without fabricating history. Corrupt records return an unreadable flag and block writes/round start so original storage is never overwritten by a partial fallback. Existing malformed bytes remain unchanged for manual recovery. User sees explicit warning; no silent reset.
+Unit invalid-shape/range fixtures, browser corrupt-record no-crash/no-overwrite/save-lock check, mobile axe/typecheck/build pass. Screenshot inspected. No recovery editor or automatic deletion added.
