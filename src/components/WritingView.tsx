@@ -17,6 +17,7 @@ export default function WritingView({ onlyLevel }: { onlyLevel?: 'A2' | 'B1' | '
   const { lang } = useLang();
   const [lv, setLv] = useState<(typeof LV)[number]>('all');
   const [open, setOpen] = useState<WTask | null>(null);
+  useEffect(()=>{const select=()=>{const id=window.location.hash.slice(1);const task=writingTasks.find(t=>t.id===id&&(!onlyLevel||t.level===onlyLevel));if(task)setOpen(task)};select();window.addEventListener('hashchange',select);return()=>window.removeEventListener('hashchange',select)},[onlyLevel]);
   const list = writingTasks.filter((x) => lv === 'all' || x.level === lv).filter((x) => !onlyLevel || x.level === onlyLevel);
   if (open) return <Task task={open} back={() => setOpen(null)} />;
   return (
