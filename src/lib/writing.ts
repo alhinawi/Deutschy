@@ -55,3 +55,6 @@ for (const task of writingTasks.filter((t) => t.level === 'B2' && !t.tips)) { ta
 
 import { c1Writing } from './writing-c1';
 writingTasks.push(...c1Writing);
+
+import { c2Writing } from './writing-c2';
+writingTasks.push(...c2Writing);
