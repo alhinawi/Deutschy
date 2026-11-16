@@ -52,3 +52,6 @@ for (const task of writingTasks.filter((t) => t.level === 'B1' && !t.tips)) { ta
 import { b2Writing } from './writing-b2';
 writingTasks.push(...b2Writing);
 for (const task of writingTasks.filter((t) => t.level === 'B2' && !t.tips)) { task.tips = ['حدد موقفك وادعمه بأسباب ومثال، واعرض اعتراض معقول ورد عليه. في الرسالة الرسمية خليك محدد في طلبك. النموذج للمقارنة مش للحفظ، والفحص مش تقييم كامل للغة.', 'State a position, support it with reasons and an example, and address a reasonable counterargument. In formal messages, make your request specific. Compare with the model rather than memorizing it; checks are not full language grading.']; }
+
+import { c1Writing } from './writing-c1';
+writingTasks.push(...c1Writing);
