@@ -1,0 +1,5 @@
+# Twenty-fifth usability pass:word formation
+
+No vocabulary, rule examples, links, answer keys or question order changed. Four patterns/eight questions retain content. Page now explains temporary choices/no XP/no history, shows per-pattern answer/correct count and position, preserves other patterns when resetting the selected one, restores selector focus after reset, labels fieldsets, makes options full-width mobile targets, keeps chosen answers visible when locked, and explains external reference links. Arabic mixed-language notes use Mixed; German examples retain LTR. Numeric fieldset counters explicitly LTR.
+
+Typecheck/study/build pass. Six AR/EN320/390/1280 browser sessions:48 correct answers after reset, wrong-choice reveal checked, double-click locking, pattern-switch retention, current-pattern reset/other-pattern preservation, hash navigation/reload clearing and byte-identical saved record. Six axe states/no overflow. Actual full-page390px Arabic pixels inspected, corrected first-question counter direction and rechecked final output. Native editorial review not implied.
