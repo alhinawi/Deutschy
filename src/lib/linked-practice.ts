@@ -18,4 +18,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-backformen',dialogue:'sterne-ausstechen'},
  {reading:'alltag-a2-badablage',dialogue:'schale-zurueck'},
  {reading:'alltag-b1-leihformen',dialogue:'form-weiterleihen'},
+ {reading:'alltag-a1-geschenkbuch',dialogue:'buch-einpacken'},
+ {reading:'alltag-a2-schuhregal',dialogue:'schuhloeffel-haken'},
+ {reading:'alltag-b1-verpackungskiste',dialogue:'papierreste-sortieren'},
 ];

@@ -137,3 +137,24 @@ Object.assign(readingEvidence,{
     "Die andere braucht sie am Sonntag zurück. Jonas bestätigt beide unterschiedlichen Termine schriftlich."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-geschenkbuch": [
+    "Ihr Freund Nils hat ein Buch für sie.",
+    "Das Papier ist zu klein. Er nimmt ein größeres Stück.",
+    "Eine Karte kommt unter das Band.",
+    "Das Buch passt nicht hinein."
+  ],
+  "alltag-a2-schuhregal": [
+    "Sie stellt zuerst die passenden Paare nebeneinander.",
+    "Sie hängt ihn an einen Haken neben der Tür, damit sie ihn beim Anziehen leichter erreicht.",
+    "Für die Aufbewahrung legt Amira die Alltagsschuhe ins untere Fach.",
+    "Amira nimmt ihre Schuhbürste und entfernt den trockenen Staub."
+  ],
+  "alltag-b1-verpackungskiste": [
+    "Bisher hat er nach jeder Feier alles ungeordnet hineingelegt.",
+    "Sehr kleine Stücke sammeln sie getrennt, weil sie daraus später Anhänger ausschneiden wollen.",
+    "Das ausgewählte Papier reicht nicht um die Schachtel.",
+    "Er möchte beim nächsten Mal zuerst dort nachsehen, bevor er neues Material besorgt."
+  ]
+});

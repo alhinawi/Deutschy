@@ -1278,3 +1278,218 @@ Object.assign(dialogueEvidence,{
     "Gut. Falls sie zustimmt, klären wir auch, wer die Form zurückbringt."
   ]
 });
+
+everydayDialogues.push(...([
+  {
+    "id": "buch-einpacken",
+    "level": "A1",
+    "title": [
+      "Passt das Buch hinein?",
+      "الكتاب يدخل فيه؟"
+    ],
+    "lines": [
+      [
+        "Nils",
+        "Heute hat Lea Geburtstag. Ich habe ein Buch für sie.",
+        "النهارده عيد ميلاد ليا. جبت لها كتاب."
+      ],
+      [
+        "Mara",
+        "Hier ist eine kleine Geschenktüte. Passt das Buch hinein?",
+        "أهو كيس هدايا صغير. الكتاب يدخل فيه؟"
+      ],
+      [
+        "Nils",
+        "Nein, das Buch ist zu groß. Ich nehme Geschenkpapier.",
+        "لأ، الكتاب كبير عليه. هاخد ورق هدايا."
+      ],
+      [
+        "Mara",
+        "Und welches Band möchtest du?",
+        "وعايز أنهي شريطة؟"
+      ],
+      [
+        "Nils",
+        "Das rote. Die Karte kommt unter das Band.",
+        "الحمرا. الكارت يتحط تحت الشريطة."
+      ],
+      [
+        "Mara",
+        "Nimmst du das Geschenk heute mit?",
+        "هتاخد الهدية معاك النهارده؟"
+      ],
+      [
+        "Nils",
+        "Ja, am Abend. Die kleine Tüte bleibt hier.",
+        "أيوه، بالليل. الكيس الصغير يفضل هنا."
+      ]
+    ],
+    "q": [
+      [
+        "Was möchte Nils verschenken?",
+        "Ein Buch.",
+        "Ein Paar Schuhe.",
+        "Eine leere Kiste."
+      ],
+      [
+        "Warum nimmt er Geschenkpapier statt der Tüte?",
+        "Das Buch ist zu groß für die Tüte.",
+        "Die Tüte ist nass.",
+        "Er hat keine Karte."
+      ],
+      [
+        "Welche Farbe hat das ausgewählte Band?",
+        "Rot.",
+        "Grün.",
+        "Schwarz."
+      ]
+    ]
+  },
+  {
+    "id": "schuhloeffel-haken",
+    "level": "A2",
+    "title": [
+      "Nicht mehr hinter dem Stiefel",
+      "مش ورا البوت تاني"
+    ],
+    "lines": [
+      [
+        "Karim",
+        "Hast du meinen Schuhlöffel gesehen?",
+        "شفتي ملعقة الجزم بتاعتي؟"
+      ],
+      [
+        "Amira",
+        "Ja. Er lag hinter einem Stiefel. Jetzt hängt er neben der Tür.",
+        "أيوه. كان ورا بوت. دلوقتي متعلق جنب الباب."
+      ],
+      [
+        "Karim",
+        "Das ist praktischer. Wo stehen meine Alltagsschuhe?",
+        "كده عملي أكتر. جزمتي اليومية فين؟"
+      ],
+      [
+        "Amira",
+        "Im unteren Fach, immer die passenden Schuhe nebeneinander.",
+        "في الخانة اللي تحت، كل فردة جنب فردتها."
+      ],
+      [
+        "Karim",
+        "Und die Bürste auf dem Boden?",
+        "والفرشة اللي على الأرض؟"
+      ],
+      [
+        "Amira",
+        "Die habe ich gerade benutzt. Ich lege sie gleich in die kleine Kiste.",
+        "لسه مستخدماها حالاً. هحطها دلوقتي في الصندوق الصغير."
+      ],
+      [
+        "Karim",
+        "Gut. Dann bleibt der Boden vor dem Regal frei.",
+        "تمام. كده الأرض قدام الرف تفضل فاضية."
+      ]
+    ],
+    "q": [
+      [
+        "Wo war der Schuhlöffel vorher?",
+        "Hinter einem Stiefel.",
+        "Im Briefkasten.",
+        "In der Küche."
+      ],
+      [
+        "Wo stehen die Alltagsschuhe jetzt?",
+        "Im unteren Fach.",
+        "Vor der Haustür auf der Straße.",
+        "Auf dem Fensterbrett."
+      ],
+      [
+        "Wohin möchte Amira die Bürste legen?",
+        "In die kleine Kiste.",
+        "Unter den Teppich.",
+        "In Karims Tasche."
+      ]
+    ]
+  },
+  {
+    "id": "papierreste-sortieren",
+    "level": "B1",
+    "title": [
+      "Ordnen, aber nicht den ganzen Tag",
+      "نرتب، بس مش اليوم كله"
+    ],
+    "lines": [
+      [
+        "Deniz",
+        "Ich finde kein langes Band zwischen all diesen Resten.",
+        "مش لاقي شريطة طويلة وسط البواقي دي كلها."
+      ],
+      [
+        "Aylin",
+        "Wir könnten lange und kurze Bänder trennen.",
+        "ممكن نفصل الشرايط الطويلة عن القصيرة."
+      ],
+      [
+        "Deniz",
+        "Einverstanden, aber wir müssen heute noch drei Geschenke einpacken.",
+        "موافق، بس لسه لازم نلف 3 هدايا النهارده."
+      ],
+      [
+        "Aylin",
+        "Dann reicht eine einfache Ordnung: lange Bänder in die Schachtel, kurze in den Umschlag.",
+        "يبقى ترتيب بسيط يكفي: الطويل في العلبة، والقصير في الظرف."
+      ],
+      [
+        "Deniz",
+        "Dieses gemusterte Papier sieht schön aus, reicht aber nicht um das dritte Geschenk.",
+        "الورق المنقوش ده شكله حلو، بس مش بيكفي يلف الهدية التالتة."
+      ],
+      [
+        "Aylin",
+        "Nimm das größere, schlichte Stück. Das Muster ist nicht das einzige Kriterium.",
+        "خد الحتة الأكبر السادة. الرسمة مش المعيار الوحيد."
+      ],
+      [
+        "Deniz",
+        "Ich lege einen Zettel mit unserer Ordnung dazu. Nächstes Mal schaue ich zuerst in die Kiste.",
+        "هحط ورقة فيها نظام ترتيبنا. المرة الجاية هبص في الصندوق الأول."
+      ]
+    ],
+    "q": [
+      [
+        "Worauf einigen sich Deniz und Aylin?",
+        "Auf eine einfache Trennung langer und kurzer Bänder.",
+        "Darauf, jedes Band zu verkaufen.",
+        "Darauf, heute keine Geschenke einzupacken."
+      ],
+      [
+        "Was ist mit dem gemusterten Papier?",
+        "Es ist für das dritte Geschenk zu klein.",
+        "Es liegt noch im Laden.",
+        "Es ist schon um alle Geschenke gewickelt."
+      ],
+      [
+        "Wozu legt Deniz einen Zettel dazu?",
+        "Um die neue Ordnung festzuhalten.",
+        "Um die Feier abzusagen.",
+        "Um alle Preise zu vergleichen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]));
+Object.assign(dialogueEvidence,{
+  "buch-einpacken": [
+    "Heute hat Lea Geburtstag. Ich habe ein Buch für sie.",
+    "Nein, das Buch ist zu groß. Ich nehme Geschenkpapier.",
+    "Das rote. Die Karte kommt unter das Band."
+  ],
+  "schuhloeffel-haken": [
+    "Ja. Er lag hinter einem Stiefel. Jetzt hängt er neben der Tür.",
+    "Im unteren Fach, immer die passenden Schuhe nebeneinander.",
+    "Die habe ich gerade benutzt. Ich lege sie gleich in die kleine Kiste."
+  ],
+  "papierreste-sortieren": [
+    "Dann reicht eine einfache Ordnung: lange Bänder in die Schachtel, kurze in den Umschlag.",
+    "Dieses gemusterte Papier sieht schön aus, reicht aber nicht um das dritte Geschenk.",
+    "Ich lege einen Zettel mit unserer Ordnung dazu. Nächstes Mal schaue ich zuerst in die Kiste."
+  ]
+});
