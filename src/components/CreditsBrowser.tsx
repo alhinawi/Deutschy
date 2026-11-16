@@ -14,7 +14,7 @@ export default function CreditsBrowser() {
     <label htmlFor="credit-search" className="block">{t('دوّر باسم الكلمة أو المصوّر أو الملف', 'Search by word, photographer or file')}</label>
     <input id="credit-search" value={query} onChange={e => { setQuery(e.target.value); setPage(0); }} className="w-full rounded-xl border border-line bg-card p-3" />
     <p className="num text-sm text-muted" role="status">{t(`النتائج: ${filtered.length} · الصفحة ${current + 1} من ${pages}`, `Results: ${filtered.length} · Page ${current + 1} of ${pages}`)}</p>
-    <div className="overflow-x-auto rounded-2xl border border-line bg-card" tabIndex={0} role="region" aria-label={t('جدول حقوق الصور، يتحرك بالعرض', 'Photo credits table, scroll horizontally')}>
+    <div dir="ltr" className="overflow-x-auto rounded-2xl border border-line bg-card" tabIndex={0} role="region" aria-label={t('جدول حقوق الصور، يتحرك بالعرض', 'Photo credits table, scroll horizontally')}>
       <table className="w-full text-start text-sm" dir="ltr">
         <caption className="p-3 text-left text-muted">{t('حقوق الصور وروابط الملفات الأصلية', 'Photo credits and original source links')}</caption>
         <thead><tr className="border-b border-line text-left text-muted">{['Word', 'File', 'Author', 'License'].map(h => <th scope="col" key={h} className="p-3">{h}</th>)}</tr></thead>
