@@ -228,3 +228,6 @@ for(const [key,rows] of Object.entries(neighborhoodGrammar))exercises[key]=[...(
 
 import {objectGrammar} from './exercises-objects';
 for(const [key,rows] of Object.entries(objectGrammar))exercises[key]=[...(exercises[key]??[]),...rows];
+
+import {packingGrammar} from './exercises-packing';
+for(const [key,rows] of Object.entries(packingGrammar))exercises[key]=[...(exercises[key]??[]),...rows];
