@@ -8,24 +8,25 @@ import { useLang, useT } from '@/lib/i18n';
 import Speaker from './Speaker';
 import VocabularyQuiz from './VocabularyQuiz';
 
-export default function ThemeView() {
+type Theme = { id: string; de: string; ar: string; en: string; topics: string[]; words?: string[]; example?: string };
+export default function ThemeView({ groups = themes, a2 = false }: { groups?: Theme[]; a2?: boolean }) {
   const t = useT();
   const { lang } = useLang();
-  const [id, setId] = useState(themes[0].id);
+  const [id, setId] = useState(groups[0].id);
   useEffect(() => {
     const h = window.location.hash.slice(1);
-    if (themes.some((x) => x.id === h)) setId(h);
+    if (groups.some((x) => x.id === h)) setId(h);
   }, []);
-  const th = themes.find((x) => x.id === id)!;
-  const list = words.filter((w) => th.topics.includes(w.topic));
+  const th = groups.find((x) => x.id === id)!;
+  const list = words.filter((w) => th.words ? th.words.includes(w.id) : th.topics.includes(w.topic));
   return (
     <div className="space-y-6">
       <div className="space-y-2">
-        <h1 className="ar-title text-4xl font-bold">{t('مفردات حسب موضوع الامتحان', 'Vocabulary by exam theme')}</h1>
-        <p className="text-muted">{t('المواضيع اللي بتتكرر في امتحانات Goethe من A1 لـ B1. كل كلمة بصورة حقيقية وأداة وجمع. اضغط على السماعة تسمعها.', 'The themes that recur in Goethe exams from A1 to B1. Every word has a real photo, its article and plural. Tap the speaker to hear it.')}</p>
+        <h1 className="ar-title text-4xl font-bold">{a2 ? t('مفردات لممارسة A2', 'Vocabulary for A2 practice') : t('مفردات حسب موضوع الامتحان', 'Vocabulary by exam theme')}</h1>
+        <p className="text-muted">{a2 ? t('8 مواضيع للتدريب على وصف حياتك وطلب المساعدة. فيها مراجعة لكلمات سابقة، مش قائمة رسمية لامتحان. اختبر نفسك وركّب جمل من عندك.', 'Eight themes for describing daily life and asking for help. Includes earlier vocabulary for revision; not an official exam list. Test yourself and make your own sentences.') : t('المواضيع اللي بتتكرر في امتحانات Goethe من A1 لـ B1. كل كلمة بصورة حقيقية وأداة وجمع. اضغط على السماعة تسمعها.', 'The themes that recur in Goethe exams from A1 to B1. Every word has a real photo, its article and plural. Tap the speaker to hear it.')}</p>
       </div>
       <div className="flex flex-wrap gap-2">
-        {themes.map((x) => (
+        {groups.map((x) => (
           <button key={x.id} onClick={() => { setId(x.id); history.replaceState(null, '', `#${x.id}`); }} className={`rounded-full border px-3 py-1.5 text-sm font-semibold ${id === x.id ? 'border-accent bg-accent text-accent-ink' : 'border-line bg-card'}`}>{lang === 'ar' ? x.ar : x.en}</button>
         ))}
       </div>
@@ -36,6 +37,7 @@ export default function ThemeView() {
       <div className="flex flex-wrap gap-2 text-sm">
         {th.topics.map((tp) => <Link key={tp} href={`/lessons/${tp}/`} className="rounded-full border border-line px-3 py-1 text-accent hover:bg-card">{topicName(tp, lang)}</Link>)}
       </div>
+      {th.example && <p dir="ltr" lang="de" className="de rounded-2xl border border-line bg-card p-4 text-xl">{th.example}</p>}
       <VocabularyQuiz key={id} pool={list} id={`theme-${id}`} />
       <ul className="grid gap-3 sm:grid-cols-2">
         {list.map((w) => (

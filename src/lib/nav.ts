@@ -8,6 +8,7 @@ export const sidebar: NavGroup[] = [
     { href: '/lernpfad/', ar: 'مسار A1', en: 'A1 path' },
     { href: '/perfekt/', ar: 'الماضي', en: 'Past tenses' },
     { href: '/a2/', ar: 'تدريبات A2', en: 'A2 practice' },
+    { href: '/a2/wortschatz/', ar: 'مفردات A2', en: 'A2 vocabulary' },
   ] },
   { id: 'levels', ar: 'المستويات', en: 'Levels', items: ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'].map((l) => ({ href: `/levels/${l}/`, ar: `المستوى ${l}`, en: `Level ${l}`, tag: l })) },
   { id: 'content', ar: 'الموسوعة', en: 'Encyclopedia', items: [
