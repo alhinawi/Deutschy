@@ -3,7 +3,8 @@ import { notFound } from 'next/navigation';
 import { levels, levelOf, topicLevel } from '@/lib/levels';
 import { topics, wordsOf, img } from '@/lib/data';
 import { T } from '@/lib/i18n';
-import { LevelText, Planned, TopicName } from '@/components/L';
+import { LevelText, TopicName } from '@/components/L';
+import LevelGrammar from '@/components/LevelGrammar';
 
 export const dynamicParams = false;
 export const generateStaticParams = () => levels.map((l) => ({ level: l.id }));
@@ -18,13 +19,7 @@ export default async function LevelPage({ params }: { params: Promise<{ level: s
       <Link href="/levels/" className="text-sm text-muted hover:text-ink">← <T ar="كل المستويات" en="All levels" /></Link>
       <h1 className="ar-title text-4xl font-bold"><span className="de num">{l.id}</span> · <LevelText id={l.id} f="name" /></h1>
       <p className="text-lg text-muted"><LevelText id={l.id} f="desc" /></p>
-      {l.status === 'soon' ? (
-        <div className="rounded-2xl border border-line bg-card p-6">
-          <p className="ar-title text-2xl font-bold"><T ar="المستوى ده لسه تحت التجهيز" en="This level is still being prepared" /></p>
-          <p className="mt-2 text-muted"><T ar="هنفتحه بعد ما نخلص A1 كامل. اللي مخطط له:" en="It opens after A1 is complete. Planned scope:" /></p>
-          <Planned id={l.id} />
-        </div>
-      ) : (
+      {ts.length > 0 && (
         <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
           {ts.map((t, i) => {
             const ws = wordsOf(t.id);
@@ -42,6 +37,7 @@ export default async function LevelPage({ params }: { params: Promise<{ level: s
           })}
         </div>
       )}
+      <LevelGrammar level={l.id} />
     </div>
   );
 }

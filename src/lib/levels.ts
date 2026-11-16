@@ -5,11 +5,11 @@ const EN: Record<string, { n: string; d: string; p: string[] }> = {"A1": {"n": "
 
 const base: Omit<Level, 'nameEn' | 'descEn' | 'plannedEn'>[] = [
   { id: 'A1', status: 'live', nameAr: 'مبتدئ', descAr: 'الأساسيات: التحيات، الأرقام، العيلة، الأكل، البيت، المواصلات. بتبدأ تتكلم جمل بسيطة.', plannedAr: [] },
-  { id: 'A2', status: 'soon', nameAr: 'أساسي', descAr: 'الروتين اليومي، التسوق، السفر، الماضي البسيط (Perfekt)، الحديث عن الصحة والشغل.', plannedAr: ['الماضي بـ Perfekt', 'حروف الجر مع الأماكن', 'الشغل والصحة', 'التسوق والسفر'] },
-  { id: 'B1', status: 'soon', nameAr: 'متوسط', descAr: 'تعبّر عن رأيك، تحكي تجارب، وتفهم الأخبار والمحادثات الواضحة.', plannedAr: ['جمل Nebensatz (weil, dass, wenn)', 'Konjunktiv II الأساسي', 'الأخبار والإعلام', 'العمل والدراسة'] },
-  { id: 'B2', status: 'soon', nameAr: 'فوق المتوسط', descAr: 'نقاشات معقدة، مقالات، ومواضيع مجردة بطلاقة مقبولة.', plannedAr: ['المبني للمجهول (Passiv)', 'Konjunktiv I والكلام المنقول', 'الكتابة الرسمية', 'مواضيع المجتمع'] },
-  { id: 'C1', status: 'soon', nameAr: 'متقدم', descAr: 'تتكلم وتكتب بدقة وأسلوب، وتفهم نصوص طويلة ومعقدة.', plannedAr: ['الأسلوب الأكاديمي', 'التعبيرات الاصطلاحية', 'النصوص الأدبية'] },
-  { id: 'C2', status: 'soon', nameAr: 'إتقان', descAr: 'مستوى قريب من الناطق الأصلي: فروق دقيقة في المعنى والأسلوب.', plannedAr: ['فروق المعنى الدقيقة', 'اللهجات والأساليب', 'الترجمة والتلخيص'] },
+  { id: 'A2', status: 'live', nameAr: 'أساسي', descAr: 'الروتين اليومي، التسوق، السفر، الماضي البسيط (Perfekt)، الحديث عن الصحة والشغل.', plannedAr: ['الماضي بـ Perfekt', 'حروف الجر مع الأماكن', 'الشغل والصحة', 'التسوق والسفر'] },
+  { id: 'B1', status: 'live', nameAr: 'متوسط', descAr: 'تعبّر عن رأيك، تحكي تجارب، وتفهم الأخبار والمحادثات الواضحة.', plannedAr: ['جمل Nebensatz (weil, dass, wenn)', 'Konjunktiv II الأساسي', 'الأخبار والإعلام', 'العمل والدراسة'] },
+  { id: 'B2', status: 'live', nameAr: 'فوق المتوسط', descAr: 'نقاشات معقدة، مقالات، ومواضيع مجردة بطلاقة مقبولة.', plannedAr: ['المبني للمجهول (Passiv)', 'Konjunktiv I والكلام المنقول', 'الكتابة الرسمية', 'مواضيع المجتمع'] },
+  { id: 'C1', status: 'live', nameAr: 'متقدم', descAr: 'تتكلم وتكتب بدقة وأسلوب، وتفهم نصوص طويلة ومعقدة.', plannedAr: ['الأسلوب الأكاديمي', 'التعبيرات الاصطلاحية', 'النصوص الأدبية'] },
+  { id: 'C2', status: 'live', nameAr: 'إتقان', descAr: 'مستوى قريب من الناطق الأصلي: فروق دقيقة في المعنى والأسلوب.', plannedAr: ['فروق المعنى الدقيقة', 'اللهجات والأساليب', 'الترجمة والتلخيص'] },
 ];
 export const levels: Level[] = base.map((l) => ({ ...l, nameEn: EN[l.id].n, descEn: EN[l.id].d, plannedEn: EN[l.id].p }));
 export const levelOf = (id: string) => levels.find((l) => l.id === id);
