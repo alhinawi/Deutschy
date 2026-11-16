@@ -7,7 +7,8 @@ import Mixed from './Mixed';
 import {practiceOptionOrder} from '@/lib/practice-options';
 
 export default function Practice({ topic }: { topic: string }) {
-  const items = exercises[topic] ?? [];
+  const bank = exercises[topic] ?? [];
+  const [short,setShort]=useState(false);
   const { lang } = useLang();
   const t = useT();
   const { award } = useStore();
@@ -16,17 +17,20 @@ export default function Practice({ topic }: { topic: string }) {
   const [score, setScore] = useState(0);
   const [round,setRound]=useState(0);
   const locked=useRef(false);
+  const indices=short?Array.from({length:Math.min(3,bank.length)},(_,n)=>(round*3+n)%bank.length):bank.map((_,n)=>n);
+  const items=indices.map(n=>bank[n]);
+  const reset=(value:boolean)=>{setShort(value);setI(0);setPick(null);setScore(0);setRound(r=>r+1);locked.current=false};
   if (items.length === 0) return null;
   const done = i >= items.length;
   const it = items[i];
-  const opts = it ? practiceOptionOrder(`${topic}:${i}:${it[0]}`,String(round)).map((k) => ({ k, text: it[1 + k] })) : [];
+  const opts = it ? practiceOptionOrder(`${topic}:${indices[i]}:${it[0]}`,String(round)).map((k) => ({ k, text: it[1 + k] })) : [];
   const answer = (k: number) => {
     if (pick !== null || locked.current) return;
     locked.current=true;
     setPick(k);
     const ok = k === 0;
     if (ok) setScore((s) => s + 1);
-    award(ok ? 5 : 0, `g:${topic}:${i}`, ok);
+    award(ok ? 5 : 0, `g:${topic}:${indices[i]}`, ok);
   };
   return (
     <section className="space-y-3 rounded-2xl border border-line bg-card p-5">
@@ -34,6 +38,7 @@ export default function Practice({ topic }: { topic: string }) {
         <h2 className="ar-title text-2xl font-bold">{t('تمرّن', 'Practice')}</h2>
         <span dir="ltr" className="num text-sm font-bold text-muted">{Math.min(i + 1, items.length)} / {items.length}</span>
       </div>
+      <fieldset><legend className="mb-2 text-sm text-muted">{t('طول الجولة من نفس بنك الأسئلة','Round length from the same question bank')}</legend><div className="flex flex-wrap gap-2">{[false,true].map(v=><button key={String(v)} aria-pressed={short===v} onClick={()=>reset(v)} className="rounded-full border border-line px-4 py-3">{v?t('جولة سريعة: لحد 3 أسئلة','Quick round: up to 3 questions'):t('كل أسئلة الموضوع','All topic questions')}</button>)}</div></fieldset><p className="text-sm text-muted">{t('تغيير طول الجولة بيبدأ محاولة جديدة من غير مسح السجل. الجولة السريعة من الأسئلة الموجودة، مش محتوى إضافي؛ كل إجابة بتتحفظ بهويتها الأصلية.','Changing length starts a new attempt without erasing history. Quick rounds use existing questions, not extra content; each answer keeps its original history identity.')}</p>
       {done ? (
         <div className="space-y-3">
           <p className="ar-title text-2xl">{t(`نتيجتك ${score} من ${items.length}`, `Your score: ${score} of ${items.length}`)}</p>

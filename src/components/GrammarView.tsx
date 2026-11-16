@@ -1,4 +1,5 @@
 'use client';
+import {grammarWalkthrough} from '@/lib/grammar-walkthrough';
 import ModalMeaning from './ModalMeaning';
 import Link from 'next/link';
 import Speaker from './Speaker';
@@ -67,6 +68,7 @@ export default function GrammarView({ g }: { g: GrammarTopic }) {
           ))}
         </ul>
       </section>
+      {grammarWalkthrough[g.id]&&<section aria-label={t('مثال محلول خطوة بخطوة','Worked example walkthrough')} className="space-y-3 rounded-2xl border border-accent/40 bg-card p-5"><h2 className="ar-title text-2xl font-bold">{t('نفهم مثال سوا','Walk through an example')}</h2><p className="text-sm text-muted">{t('ده شرح لمثال موجود فوق، مش سؤال بدرجة. حاول تحدد الجزء المهم قبل ما تقرا التحليل.','This explains an example above, not a scored question. Spot the key part before reading the analysis.')}</p><p dir="ltr" lang="de" className="de break-words text-xl">{g.ex[0][0]}</p><details><summary className="cursor-pointer py-3">{t('افتح التحليل','Show the walkthrough')}</summary><p className="mt-3 leading-8">{lang==='ar'?<Mixed text={grammarWalkthrough[g.id][0]}/>:grammarWalkthrough[g.id][1]}</p></details></section>}
       <Link href={`/grammar/${g.id}/sheet/`} className="inline-block rounded-full border border-line px-5 py-2 text-sm font-bold hover:bg-card">{t('ورقة ملخص للطباعة', 'Printable cheat sheet')}</Link>
       <Practice topic={g.id} />
       {g.tip && (

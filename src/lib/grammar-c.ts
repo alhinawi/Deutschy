@@ -114,5 +114,5 @@ export const grammarC: GrammarTopic[] = [
       ['تحيات: Hallo في كل مكان، Moin في الشمال، Servus في بافاريا والنمسا، Grüß Gott في الجنوب، Grüezi في سويسرا.', 'Greetings: Hallo everywhere, Moin in the north, Servus in Bavaria and Austria, Grüß Gott in the south, Grüezi in Switzerland.'],
       ['في المحكية: haben → hab، nicht → nich، gehen → gehn، ich weiß nicht → weiß nich، ein bisschen → n bisschen.', 'Colloquial contractions: hab, nich, gehn, n bisschen.'],
     ],
-    [['Moin, wie geht\'s?', 'صباح الخير، عامل إيه؟', 'Morning, how is it going?'], ['Servus, bis später!', 'سلام، نشوفك بعدين!', 'Bye, see you later!']]),
+    [['Moin, wie geht\'s?', 'أهلاً، عامل إيه؟', 'Hi, how is it going?'], ['Servus, bis später!', 'سلام، نشوفك بعدين!', 'Bye, see you later!']]),
 ];
