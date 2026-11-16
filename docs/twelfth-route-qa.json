@@ -1,0 +1,258 @@
+{
+  "content_commit": "44065a6a9d4f779380df9c056c7e19f8a70129a7",
+  "route_batches": [
+    {
+      "language": "ar",
+      "start": 0,
+      "routes": 180,
+      "checks": 360,
+      "defects": 0
+    },
+    {
+      "language": "ar",
+      "start": 180,
+      "routes": 180,
+      "checks": 360,
+      "defects": 0
+    },
+    {
+      "language": "ar",
+      "start": 360,
+      "routes": 174,
+      "checks": 348,
+      "defects": 0
+    },
+    {
+      "language": "en",
+      "start": 0,
+      "routes": 180,
+      "checks": 360,
+      "defects": 0
+    },
+    {
+      "language": "en",
+      "start": 180,
+      "routes": 180,
+      "checks": 360,
+      "defects": 0
+    },
+    {
+      "language": "en",
+      "start": 360,
+      "routes": 174,
+      "checks": 348,
+      "defects": 0
+    }
+  ],
+  "focused_accessibility": [
+    {
+      "lang": "ar",
+      "width": 320,
+      "route": "grammar/dativ/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "ar",
+      "width": 320,
+      "route": "grammar/adjektiv-endungen/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "ar",
+      "width": 320,
+      "route": "grammar/perfekt/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "ar",
+      "width": 320,
+      "route": "grammar/satzbau/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "ar",
+      "width": 320,
+      "route": "lessons/medizin/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "ar",
+      "width": 320,
+      "route": "review/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "ar",
+      "width": 320,
+      "route": "credits/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "ar",
+      "width": 390,
+      "route": "grammar/dativ/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "ar",
+      "width": 390,
+      "route": "grammar/adjektiv-endungen/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "ar",
+      "width": 390,
+      "route": "grammar/perfekt/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "ar",
+      "width": 390,
+      "route": "grammar/satzbau/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "ar",
+      "width": 390,
+      "route": "lessons/medizin/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "ar",
+      "width": 390,
+      "route": "review/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "ar",
+      "width": 390,
+      "route": "credits/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "width": 320,
+      "route": "grammar/dativ/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "width": 320,
+      "route": "grammar/adjektiv-endungen/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "width": 320,
+      "route": "grammar/perfekt/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "width": 320,
+      "route": "grammar/satzbau/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "width": 320,
+      "route": "lessons/medizin/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "width": 320,
+      "route": "review/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "width": 320,
+      "route": "credits/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "route": "grammar/dativ/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "route": "grammar/adjektiv-endungen/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "route": "grammar/perfekt/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "route": "grammar/satzbau/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "route": "lessons/medizin/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "route": "review/",
+      "v": [],
+      "overflow": false
+    },
+    {
+      "lang": "en",
+      "width": 390,
+      "route": "credits/",
+      "v": [],
+      "overflow": false
+    }
+  ],
+  "quiz_feedback": {
+    "languages": [
+      "ar",
+      "en"
+    ],
+    "widths": [
+      320,
+      390
+    ],
+    "questions_each": 15,
+    "axe_violations": 0,
+    "double_click_history_and_retry_tests": "pass"
+  }
+}
