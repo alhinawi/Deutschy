@@ -251,6 +251,14 @@
   {
    "id": "reisehelfer",
    "ar": "حاجات للسفر"
+  },
+  {
+   "id": "pausenbedarf",
+   "ar": "حاجات للاستراحة"
+  },
+  {
+   "id": "schreibzubehoer",
+   "ar": "أدوات للورق والكتابة"
   }
  ],
  "words": [
@@ -10561,6 +10569,102 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Hanging_digital_luggage_scale_(2026)_01.jpg",
     "author": "Gpkp",
     "license": "CC BY-SA 4.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "brotdose",
+   "topic": "pausenbedarf",
+   "art": "die",
+   "de": "Brotdose",
+   "plural": "Brotdosen",
+   "ar": "علبة أكل",
+   "photo": {
+    "file": "Plastic Bento Box - 01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Plastic_Bento_Box_-_01.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Plastic_Bento_Box_-_01.jpg",
+    "author": "Quercus acuta",
+    "license": "CC BY-SA 4.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "trinkflasche",
+   "topic": "pausenbedarf",
+   "art": "die",
+   "de": "Trinkflasche",
+   "plural": "Trinkflaschen",
+   "ar": "زجاجة شرب",
+   "photo": {
+    "file": "Wikimedia Bangladesh Water Bottle (DSC00360).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wikimedia_Bangladesh_Water_Bottle_(DSC00360).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Wikimedia_Bangladesh_Water_Bottle_(DSC00360).jpg",
+    "author": "Moheen Reeyad",
+    "license": "CC BY-SA 4.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "thermoskanne",
+   "topic": "pausenbedarf",
+   "art": "die",
+   "de": "Thermoskanne",
+   "plural": "Thermoskannen",
+   "ar": "ترمس",
+   "photo": {
+    "file": "Thermos.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Thermos.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Thermos.JPG",
+    "author": "Denae Bedard",
+    "license": "CC BY-SA 3.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "heftgeraet",
+   "topic": "schreibzubehoer",
+   "art": "das",
+   "de": "Heftgerät",
+   "plural": "Heftgeräte",
+   "ar": "دباسة",
+   "photo": {
+    "file": "Swingline stapler.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Swingline_stapler.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Swingline_stapler.jpg",
+    "author": "Douglas Paul Perkins",
+    "license": "CC BY 3.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "klebeband",
+   "topic": "schreibzubehoer",
+   "art": "das",
+   "de": "Klebeband",
+   "plural": "Klebebänder",
+   "ar": "شريط لاصق",
+   "photo": {
+    "file": "Sticky tape.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sticky_tape.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Sticky_tape.jpg",
+    "author": "André Karwath aka Aka",
+    "license": "CC BY-SA 2.5",
+    "padding": true
+   }
+  },
+  {
+   "id": "spitzer",
+   "topic": "schreibzubehoer",
+   "art": "der",
+   "de": "Spitzer",
+   "plural": "-",
+   "ar": "براية",
+   "photo": {
+    "file": "Red pencil sharpener.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Red_pencil_sharpener.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Red_pencil_sharpener.jpg",
+    "author": "Kaldari",
+    "license": "Public domain",
     "padding": true
    }
   }
