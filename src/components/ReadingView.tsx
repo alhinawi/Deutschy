@@ -1,4 +1,5 @@
 'use client';
+import {readingEvidence} from '@/lib/reading-evidence';
 import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import type { ReadingText } from '@/lib/reading';
@@ -22,6 +23,7 @@ export default function ReadingView({ r }: { r: ReadingText }) {
   const [score, setScore] = useState(0);
   const done = i >= r.q.length;
   const q = r.q[i];
+  const evidence=readingEvidence[r.id]?.[i];
   const answer = (k: number) => {
     if (pick !== null) return;
     setPick(k);
@@ -62,16 +64,18 @@ export default function ReadingView({ r }: { r: ReadingText }) {
             <p dir="ltr" className="de text-xl font-semibold" lang="de">{q[0]}</p>
             <div className="grid gap-2">
               {order(i, r.id.length).map((k) => {
-                const state = pick === null ? '' : k === 0 ? 'border-good border-2 bg-good/10' : pick === k ? 'border-bad bg-bad/10' : 'opacity-60';
+                const state = pick === null ? '' : k === 0 ? 'border-good border-2 bg-good/10' : pick === k ? 'border-bad bg-bad/10' : '';
                 return (
                   <button dir="ltr" key={k} onClick={() => answer(k)} lang="de" className={`de flex items-center justify-between gap-2 rounded-xl border border-line bg-paper px-3 py-2.5 text-start text-lg ${state}`}>
                     <span>{q[1 + k]}</span>
-                    {pick !== null && k === 0 && <svg viewBox="0 0 24 24" className="h-5 w-5 shrink-0 text-good" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-label="correct"><path d="M5 12l5 5 9-10" /></svg>}
+                    
+            {pick !== null && k === 0 && <svg viewBox="0 0 24 24" className="h-5 w-5 shrink-0 text-good" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-label="correct"><path d="M5 12l5 5 9-10" /></svg>}
                     {pick === k && k !== 0 && <svg viewBox="0 0 24 24" className="h-5 w-5 shrink-0 text-bad" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" aria-label="wrong"><path d="M6 6l12 12M18 6L6 18" /></svg>}
                   </button>
                 );
               })}
             </div>
+            {pick !== null && evidence && <aside className="space-y-2 rounded-xl border border-line p-4" aria-label={t('دليل من النص','Evidence from the text')}><h3>{t('راجع الدليل من النص','Check the evidence from the text')}</h3><blockquote dir="ltr" lang="de" className="de text-lg">{evidence}</blockquote><p className="text-sm text-muted">{t('قارن معنى الجملة بالسؤال؛ الإجابة ممكن تعيد نفس المعنى بكلمات مختلفة.','Compare the sentence with the question; the answer may paraphrase the same meaning.')}</p></aside>}
             {pick !== null && (
               <button onClick={() => { setI(i + 1); setPick(null); }} className="rounded-full bg-accent px-5 py-2 font-bold text-accent-ink">{i + 1 >= r.q.length ? t('النتيجة', 'Result') : t('التالي', 'Next')}</button>
             )}
