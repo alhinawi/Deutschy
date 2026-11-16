@@ -147,6 +147,42 @@
   {
    "id": "buero",
    "ar": "مكتب ومدرسة"
+  },
+  {
+   "id": "voegel",
+   "ar": "طيور وحشرات"
+  },
+  {
+   "id": "saeuger",
+   "ar": "حيوانات 4"
+  },
+  {
+   "id": "pflanzen",
+   "ar": "نباتات وزهور"
+  },
+  {
+   "id": "landschaft",
+   "ar": "مناظر طبيعية"
+  },
+  {
+   "id": "medizin",
+   "ar": "صحة وطب"
+  },
+  {
+   "id": "technik",
+   "ar": "تكنولوجيا"
+  },
+  {
+   "id": "bauen",
+   "ar": "بناء وورشة"
+  },
+  {
+   "id": "feste",
+   "ar": "أعياد ومناسبات"
+  },
+  {
+   "id": "verkehr2",
+   "ar": "مرور وطريق"
   }
  ],
  "words": [
@@ -6478,6 +6514,1491 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Chalk_(25800474082).jpg",
     "license": "CC BY 2.0",
     "author": "Jeremy from Sydney, Australia"
+   }
+  },
+  {
+   "id": "adler",
+   "topic": "voegel",
+   "art": "der",
+   "de": "Adler",
+   "plural": "-",
+   "ar": "نسر",
+   "photo": {
+    "file": "African fish eagle (Haliaeetus vocifer) Ethiopia.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:African_fish_eagle_(Haliaeetus_vocifer)_Ethiopia.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:African_fish_eagle_(Haliaeetus_vocifer)_Ethiopia.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Charles J. Sharp"
+   }
+  },
+  {
+   "id": "rabe",
+   "topic": "voegel",
+   "art": "der",
+   "de": "Rabe",
+   "plural": "Raben",
+   "ar": "غراب",
+   "photo": {
+    "file": "Jubilee and Munin, Ravens, Tower of London 2016-04-30.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jubilee_and_Munin,_Ravens,_Tower_of_London_2016-04-30.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Jubilee_and_Munin,_Ravens,_Tower_of_London_2016-04-30.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Colin"
+   }
+  },
+  {
+   "id": "kraehe",
+   "topic": "voegel",
+   "art": "die",
+   "de": "Krähe",
+   "plural": "Krähen",
+   "ar": "غراب أسود",
+   "photo": {
+    "file": "2014-04-29 01 Northwestern crow (Corvus brachyrhynchos caurinus).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2014-04-29_01_Northwestern_crow_(Corvus_brachyrhynchos_caurinus).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:2014-04-29_01_Northwestern_crow_(Corvus_brachyrhynchos_caurinus).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Gordon Leggett"
+   }
+  },
+  {
+   "id": "papageitaucher",
+   "topic": "voegel",
+   "art": "der",
+   "de": "Papageitaucher",
+   "plural": "-",
+   "ar": "بفن",
+   "photo": {
+    "file": "Puffin (Fratercula arctica).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Puffin_(Fratercula_arctica).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Puffin_(Fratercula_arctica).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Charles J. Sharp"
+   }
+  },
+  {
+   "id": "specht",
+   "topic": "voegel",
+   "art": "der",
+   "de": "Specht",
+   "plural": "Spechte",
+   "ar": "نقار الخشب",
+   "photo": {
+    "file": "Acorn woodpecker holding a nut in its beak-0225.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Acorn_woodpecker_holding_a_nut_in_its_beak-0225.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Acorn_woodpecker_holding_a_nut_in_its_beak-0225.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Frank Schulenburg"
+   }
+  },
+  {
+   "id": "kolibri",
+   "topic": "voegel",
+   "art": "der",
+   "de": "Kolibri",
+   "plural": "Kolibris",
+   "ar": "طائر طنان",
+   "photo": {
+    "file": "Colibrí Cola de Oro (Golden-tailed Sapphire Hummingbird) Bigger File.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Colibr%C3%AD_Cola_de_Oro_(Golden-tailed_Sapphire_Hummingbird)_Bigger_File.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Colibr%C3%AD_Cola_de_Oro_(Golden-tailed_Sapphire_Hummingbird)_Bigger_File.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Marcial4"
+   }
+  },
+  {
+   "id": "pelikan",
+   "topic": "voegel",
+   "art": "der",
+   "de": "Pelikan",
+   "plural": "Pelikane",
+   "ar": "بجع",
+   "photo": {
+    "file": "128 Great white pelican in flight at Pelican point Photo by Giles Laurent.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:128_Great_white_pelican_in_flight_at_Pelican_point_Photo_by_Giles_Laurent.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:128_Great_white_pelican_in_flight_at_Pelican_point_Photo_by_Giles_Laurent.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Giles Laurent"
+   }
+  },
+  {
+   "id": "spinne",
+   "topic": "voegel",
+   "art": "die",
+   "de": "Spinne",
+   "plural": "Spinnen",
+   "ar": "عنكبوت",
+   "photo": {
+    "file": "Wandering spider (Cupiennius getazi) with female katydid prey (Tettigoniidae sp.).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wandering_spider_(Cupiennius_getazi)_with_female_katydid_prey_(Tettigoniidae_sp.).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Wandering_spider_(Cupiennius_getazi)_with_female_katydid_prey_(Tettigoniidae_sp.).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Charles J. Sharp"
+   }
+  },
+  {
+   "id": "strauss",
+   "topic": "voegel",
+   "art": "der",
+   "de": "Strauß",
+   "plural": "Sträuße",
+   "ar": "نعامة",
+   "photo": {
+    "file": "104 Juvenile South African ostrich in the Kalahari Desert of Namibia Photo by Giles Laurent.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:104_Juvenile_South_African_ostrich_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:104_Juvenile_South_African_ostrich_in_the_Kalahari_Desert_of_Namibia_Photo_by_Giles_Laurent.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Giles Laurent"
+   }
+  },
+  {
+   "id": "kranich",
+   "topic": "voegel",
+   "art": "der",
+   "de": "Kranich",
+   "plural": "Kraniche",
+   "ar": "كركي",
+   "photo": {
+    "file": "Demoiselle Crane in Tal Chhapar Sanctuary November 2025 by Tisha Mukherjee 09.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Demoiselle_Crane_in_Tal_Chhapar_Sanctuary_November_2025_by_Tisha_Mukherjee_09.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Demoiselle_Crane_in_Tal_Chhapar_Sanctuary_November_2025_by_Tisha_Mukherjee_09.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Tisha Mukherjee"
+   }
+  },
+  {
+   "id": "muecke",
+   "topic": "voegel",
+   "art": "die",
+   "de": "Mücke",
+   "plural": "Mücken",
+   "ar": "ناموسة",
+   "photo": {
+    "file": "Mosquito 2007-2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mosquito_2007-2.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Mosquito_2007-2.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Alvesgaspar"
+   }
+  },
+  {
+   "id": "fliege",
+   "topic": "voegel",
+   "art": "die",
+   "de": "Fliege",
+   "plural": "Fliegen",
+   "ar": "دبانة",
+   "photo": {
+    "file": "Fly November 2007-10.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fly_November_2007-10.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Fly_November_2007-10.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Alvesgaspar"
+   }
+  },
+  {
+   "id": "wespe",
+   "topic": "voegel",
+   "art": "die",
+   "de": "Wespe",
+   "plural": "Wespen",
+   "ar": "دبور",
+   "photo": {
+    "file": "Wasp March 2008-1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wasp_March_2008-1.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Wasp_March_2008-1.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Alvesgaspar"
+   }
+  },
+  {
+   "id": "kaefer",
+   "topic": "voegel",
+   "art": "der",
+   "de": "Käfer",
+   "plural": "-",
+   "ar": "خنفساء",
+   "photo": {
+    "file": "The red coats beetle bug.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_red_coats_beetle_bug.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:The_red_coats_beetle_bug.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Prasan Shrestha"
+   }
+  },
+  {
+   "id": "heuschrecke",
+   "topic": "voegel",
+   "art": "die",
+   "de": "Heuschrecke",
+   "plural": "Heuschrecken",
+   "ar": "جراد",
+   "photo": {
+    "file": "Short-horned grasshoppers (Rhytidochrota risaraldae) mating.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Short-horned_grasshoppers_(Rhytidochrota_risaraldae)_mating.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Short-horned_grasshoppers_(Rhytidochrota_risaraldae)_mating.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Charles J. Sharp"
+   }
+  },
+  {
+   "id": "schnecke",
+   "topic": "voegel",
+   "art": "die",
+   "de": "Schnecke",
+   "plural": "Schnecken",
+   "ar": "قوقع",
+   "photo": {
+    "file": "Common snail.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Common_snail.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Common_snail.jpg",
+    "license": "CC BY 2.0",
+    "author": "macrophile on Flickr"
+   }
+  },
+  {
+   "id": "oktopus",
+   "topic": "voegel",
+   "art": "der",
+   "de": "Oktopus",
+   "plural": "Oktopusse",
+   "ar": "أخطبوط",
+   "photo": {
+    "file": "Octopus vulgaris Merculiano.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_Merculiano.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_Merculiano.jpg",
+    "license": "Public domain",
+    "author": "Comingio Merculiano (1845-1915) in Jatta Giuseppe (1860-1903)"
+   }
+  },
+  {
+   "id": "seeigel",
+   "topic": "voegel",
+   "art": "der",
+   "de": "Seeigel",
+   "plural": "-",
+   "ar": "قنفذ البحر",
+   "photo": {
+    "file": "Tripneustes ventricosus (West Indian Sea Egg-top) and Echinometra viridis (Reef Urchin - bottom).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tripneustes_ventricosus_(West_Indian_Sea_Egg-top)_and_Echinometra_viridis_(Reef_Urchin_-_bottom).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Tripneustes_ventricosus_(West_Indian_Sea_Egg-top)_and_Echinometra_viridis_(Reef_Urchin_-_bottom).jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Nhobgood (talk) Nick Hobgood"
+   }
+  },
+  {
+   "id": "leopard",
+   "topic": "saeuger",
+   "art": "der",
+   "de": "Leopard",
+   "plural": "Leoparden",
+   "ar": "فهد",
+   "photo": {
+    "file": "Leopard (Panthera pardus pardus) Kruger.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Leopard_(Panthera_pardus_pardus)_Kruger.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Leopard_(Panthera_pardus_pardus)_Kruger.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Charles J. Sharp"
+   }
+  },
+  {
+   "id": "gepard",
+   "topic": "saeuger",
+   "art": "der",
+   "de": "Gepard",
+   "plural": "Geparden",
+   "ar": "شيتا",
+   "photo": {
+    "file": "Cheetah (Acinonyx jubatus) female 2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cheetah_(Acinonyx_jubatus)_female_2.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Cheetah_(Acinonyx_jubatus)_female_2.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Charles J. Sharp"
+   }
+  },
+  {
+   "id": "otter",
+   "topic": "saeuger",
+   "art": "der",
+   "de": "Otter",
+   "plural": "-",
+   "ar": "قضاعة",
+   "photo": {
+    "file": "European otter 02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:European_otter_02.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:European_otter_02.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Alexander Leisser"
+   }
+  },
+  {
+   "id": "biber",
+   "topic": "saeuger",
+   "art": "der",
+   "de": "Biber",
+   "plural": "-",
+   "ar": "قندس",
+   "photo": {
+    "file": "American Beaver.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:American_Beaver.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:American_Beaver.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "Steve from Washington, DC, USA"
+   }
+  },
+  {
+   "id": "luchs",
+   "topic": "saeuger",
+   "art": "der",
+   "de": "Luchs",
+   "plural": "Luchse",
+   "ar": "وشق",
+   "photo": {
+    "file": "Lynx lynx-4.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Lynx_lynx-4.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Lynx_lynx-4.JPG",
+    "license": "Public domain",
+    "author": "This image was produced by me, David Castor (user:dcastor). The pictures I submit to the Wikipedia Project are released "
+   }
+  },
+  {
+   "id": "dachs",
+   "topic": "saeuger",
+   "art": "der",
+   "de": "Dachs",
+   "plural": "Dachse",
+   "ar": "غرير",
+   "photo": {
+    "file": "European badger (Meles meles taxus) Drenthe 2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:European_badger_(Meles_meles_taxus)_Drenthe_2.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:European_badger_(Meles_meles_taxus)_Drenthe_2.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Charles J. Sharp"
+   }
+  },
+  {
+   "id": "schimpanse",
+   "topic": "saeuger",
+   "art": "der",
+   "de": "Schimpanse",
+   "plural": "Schimpansen",
+   "ar": "شمبانزي",
+   "photo": {
+    "file": "013 Alpha male chimpanzee at Kibale forest National Park Photo by Giles Laurent.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:013_Alpha_male_chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:013_Alpha_male_chimpanzee_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Giles Laurent"
+   }
+  },
+  {
+   "id": "gorilla",
+   "topic": "saeuger",
+   "art": "der",
+   "de": "Gorilla",
+   "plural": "Gorillas",
+   "ar": "غوريلا",
+   "photo": {
+    "file": "Mountain gorilla (Gorilla beringei beringei) yawn.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mountain_gorilla_(Gorilla_beringei_beringei)_yawn.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Mountain_gorilla_(Gorilla_beringei_beringei)_yawn.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Charles J. Sharp"
+   }
+  },
+  {
+   "id": "chamaeleon",
+   "topic": "saeuger",
+   "art": "das",
+   "de": "Chamäleon",
+   "plural": "Chamäleons",
+   "ar": "حرباء",
+   "photo": {
+    "file": "Montagne d'Ambre leaf chameleon (Brookesia tuberculata) male 2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Montagne_d%27Ambre_leaf_chameleon_(Brookesia_tuberculata)_male_2.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Montagne_d%27Ambre_leaf_chameleon_(Brookesia_tuberculata)_male_2.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Charles J. Sharp"
+   }
+  },
+  {
+   "id": "eidechse",
+   "topic": "saeuger",
+   "art": "die",
+   "de": "Eidechse",
+   "plural": "Eidechsen",
+   "ar": "سحلية",
+   "photo": {
+    "file": "Bosc's fringe-toed lizard (Acanthodactylus boskianus asper) juvenile.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bosc%27s_fringe-toed_lizard_(Acanthodactylus_boskianus_asper)_juvenile.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Bosc%27s_fringe-toed_lizard_(Acanthodactylus_boskianus_asper)_juvenile.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Charles J. Sharp"
+   }
+  },
+  {
+   "id": "elch",
+   "topic": "saeuger",
+   "art": "der",
+   "de": "Elch",
+   "plural": "Elche",
+   "ar": "موظ",
+   "photo": {
+    "file": "Moose in Grand Teton National Park 3 (8007698498).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Moose_in_Grand_Teton_National_Park_3_(8007698498).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Moose_in_Grand_Teton_National_Park_3_(8007698498).jpg",
+    "license": "CC BY 2.0",
+    "author": "Tony Hisgett from Birmingham, UK"
+   }
+  },
+  {
+   "id": "kalb",
+   "topic": "saeuger",
+   "art": "das",
+   "de": "Kalb",
+   "plural": "Kälber",
+   "ar": "عجل",
+   "photo": {
+    "file": "New born Frisian red white calf.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:New_born_Frisian_red_white_calf.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:New_born_Frisian_red_white_calf.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Uberprutser"
+   }
+  },
+  {
+   "id": "lamm",
+   "topic": "saeuger",
+   "art": "das",
+   "de": "Lamm",
+   "plural": "Lämmer",
+   "ar": "خروف صغير",
+   "photo": {
+    "file": "Lamb - Animal Park Muggensturm 01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lamb_-_Animal_Park_Muggensturm_01.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Lamb_-_Animal_Park_Muggensturm_01.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "H. Zell"
+   }
+  },
+  {
+   "id": "ferkel",
+   "topic": "saeuger",
+   "art": "das",
+   "de": "Ferkel",
+   "plural": "-",
+   "ar": "خنزير صغير",
+   "photo": {
+    "file": "Contre-jour photograph of a standing piglet at sunset with colorful sky in Don Det Laos.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Contre-jour_photograph_of_a_standing_piglet_at_sunset_with_colorful_sky_in_Don_Det_Laos.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Contre-jour_photograph_of_a_standing_piglet_at_sunset_with_colorful_sky_in_Don_Det_Laos.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Basile Morin"
+   }
+  },
+  {
+   "id": "orchidee",
+   "topic": "pflanzen",
+   "art": "die",
+   "de": "Orchidee",
+   "plural": "Orchideen",
+   "ar": "أوركيد",
+   "photo": {
+    "file": "Orchidaceae flowers - magenta colour.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Orchidaceae_flowers_-_magenta_colour.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Orchidaceae_flowers_-_magenta_colour.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Mister rf"
+   }
+  },
+  {
+   "id": "lilie",
+   "topic": "pflanzen",
+   "art": "die",
+   "de": "Lilie",
+   "plural": "Lilien",
+   "ar": "زنبق",
+   "photo": {
+    "file": "Formosa lily, Nagai Park, Osaka.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Formosa_lily,_Nagai_Park,_Osaka.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Formosa_lily,_Nagai_Park,_Osaka.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Laitche"
+   }
+  },
+  {
+   "id": "loewenzahn",
+   "topic": "pflanzen",
+   "art": "der",
+   "de": "Löwenzahn",
+   "plural": "",
+   "ar": "هندباء",
+   "photo": {
+    "file": "Dandelion clock detail.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dandelion_clock_detail.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Dandelion_clock_detail.jpg",
+    "license": "CC BY-SA 2.5",
+    "author": "che"
+   }
+  },
+  {
+   "id": "gaensebluemchen",
+   "topic": "pflanzen",
+   "art": "das",
+   "de": "Gänseblümchen",
+   "plural": "-",
+   "ar": "أقحوان",
+   "photo": {
+    "file": "Pink twinged daisy on table edit.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pink_twinged_daisy_on_table_edit.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Pink_twinged_daisy_on_table_edit.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Photo by and (c) 2007 Jina Lee.  Edited by User:Ram-Man."
+   }
+  },
+  {
+   "id": "lavendel",
+   "topic": "pflanzen",
+   "art": "der",
+   "de": "Lavendel",
+   "plural": "",
+   "ar": "لافندر",
+   "photo": {
+    "file": "Single lavender flower02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Single_lavender_flower02.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Single_lavender_flower02.jpg",
+    "license": "GFDL 1.2",
+    "author": "User:Fir0002"
+   }
+  },
+  {
+   "id": "mohn",
+   "topic": "pflanzen",
+   "art": "der",
+   "de": "Mohn",
+   "plural": "",
+   "ar": "خشخاش",
+   "photo": {
+    "file": "Poppy field, Wendfeld.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Poppy_field,_Wendfeld.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Poppy_field,_Wendfeld.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Radomianin"
+   }
+  },
+  {
+   "id": "seerose",
+   "topic": "pflanzen",
+   "art": "die",
+   "de": "Seerose",
+   "plural": "Seerosen",
+   "ar": "زنبق الماء",
+   "photo": {
+    "file": "Daubeny's water lily at BBG (50824).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Daubeny%27s_water_lily_at_BBG_(50824).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Daubeny%27s_water_lily_at_BBG_(50824).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Rhododendrites"
+   }
+  },
+  {
+   "id": "eiche",
+   "topic": "pflanzen",
+   "art": "die",
+   "de": "Eiche",
+   "plural": "Eichen",
+   "ar": "بلوط",
+   "photo": {
+    "file": "Oak tree Sunol Regional Wilderness California 2023 dllu.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Oak_tree_Sunol_Regional_Wilderness_California_2023_dllu.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Oak_tree_Sunol_Regional_Wilderness_California_2023_dllu.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Daniel Lu (User:dllu)"
+   }
+  },
+  {
+   "id": "tannenzapfen",
+   "topic": "pflanzen",
+   "art": "der",
+   "de": "Tannenzapfen",
+   "plural": "-",
+   "ar": "مخروط صنوبر",
+   "photo": {
+    "file": "Pollen cone on a Ponderosa pine in Tuntorp, Brastad, Sweden.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pollen_cone_on_a_Ponderosa_pine_in_Tuntorp,_Brastad,_Sweden.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Pollen_cone_on_a_Ponderosa_pine_in_Tuntorp,_Brastad,_Sweden.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "W.carter"
+   }
+  },
+  {
+   "id": "eichel",
+   "topic": "pflanzen",
+   "art": "die",
+   "de": "Eichel",
+   "plural": "Eicheln",
+   "ar": "بلوط ثمر",
+   "photo": {
+    "file": "Quercus robur acorn - Keila.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Quercus_robur_acorn_-_Keila.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Quercus_robur_acorn_-_Keila.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Ivar Leidus"
+   }
+  },
+  {
+   "id": "strauch",
+   "topic": "pflanzen",
+   "art": "der",
+   "de": "Strauch",
+   "plural": "Sträucher",
+   "ar": "شجيرة",
+   "photo": {
+    "file": "Shrub 1.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Shrub_1.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Shrub_1.JPG",
+    "license": "CC BY-SA 4.0",
+    "author": "Arek982"
+   }
+  },
+  {
+   "id": "weizenaehre",
+   "topic": "pflanzen",
+   "art": "die",
+   "de": "Weizenähre",
+   "plural": "Weizenähren",
+   "ar": "سنبلة قمح",
+   "photo": {
+    "file": "Wheat close-up.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Wheat_close-up.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Wheat_close-up.JPG",
+    "license": "CC BY-SA 3.0",
+    "author": "User:Bluemoose"
+   }
+  },
+  {
+   "id": "klippe",
+   "topic": "landschaft",
+   "art": "die",
+   "de": "Klippe",
+   "plural": "Klippen",
+   "ar": "جرف",
+   "photo": {
+    "file": "Painted Cliffs.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Painted_Cliffs.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Painted_Cliffs.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "JJ Harrison (https://www.jjharrison.com.au/)"
+   }
+  },
+  {
+   "id": "canyon",
+   "topic": "landschaft",
+   "art": "der",
+   "de": "Canyon",
+   "plural": "Canyons",
+   "ar": "وادي عميق",
+   "photo": {
+    "file": "Bryce Canyon Hoodoos.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bryce_Canyon_Hoodoos.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Bryce_Canyon_Hoodoos.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "“Jon Zander(digon3)”"
+   }
+  },
+  {
+   "id": "duene",
+   "topic": "landschaft",
+   "art": "die",
+   "de": "Düne",
+   "plural": "Dünen",
+   "ar": "كثيب",
+   "photo": {
+    "file": "Sossusvlei Dune Rippled cropped.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sossusvlei_Dune_Rippled_cropped.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Sossusvlei_Dune_Rippled_cropped.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Daniel Kraft"
+   }
+  },
+  {
+   "id": "bach",
+   "topic": "landschaft",
+   "art": "der",
+   "de": "Bach",
+   "plural": "Bäche",
+   "ar": "جدول",
+   "photo": {
+    "file": "A stream on a track between Sabine Hut and Speargrass Hut, Nelson Lakes National Park, New Zealand.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:A_stream_on_a_track_between_Sabine_Hut_and_Speargrass_Hut,_Nelson_Lakes_National_Park,_New_Zealand.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:A_stream_on_a_track_between_Sabine_Hut_and_Speargrass_Hut,_Nelson_Lakes_National_Park,_New_Zealand.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Michal Klajban"
+   }
+  },
+  {
+   "id": "teich",
+   "topic": "landschaft",
+   "art": "der",
+   "de": "Teich",
+   "plural": "Teiche",
+   "ar": "بركة",
+   "photo": {
+    "file": "Queenstown Gardens pond from NE end.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Queenstown_Gardens_pond_from_NE_end.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Queenstown_Gardens_pond_from_NE_end.jpg",
+    "license": "CC BY 4.0",
+    "author": "Bjankuloski06"
+   }
+  },
+  {
+   "id": "riff",
+   "topic": "landschaft",
+   "art": "das",
+   "de": "Riff",
+   "plural": "Riffe",
+   "ar": "شعاب",
+   "photo": {
+    "file": "Coral Outcrop Flynn Reef.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Coral_Outcrop_Flynn_Reef.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Coral_Outcrop_Flynn_Reef.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Toby Hudson"
+   }
+  },
+  {
+   "id": "eisberg",
+   "topic": "landschaft",
+   "art": "der",
+   "de": "Eisberg",
+   "plural": "Eisberge",
+   "ar": "جبل جليد",
+   "photo": {
+    "file": "Glacial iceberg in Argentina.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Glacial_iceberg_in_Argentina.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Glacial_iceberg_in_Argentina.jpg",
+    "license": "CC BY 2.0",
+    "author": "IlyaHaykinson"
+   }
+  },
+  {
+   "id": "lava",
+   "topic": "landschaft",
+   "art": "die",
+   "de": "Lava",
+   "plural": "",
+   "ar": "حمم",
+   "photo": {
+    "file": "Pāhoehoe Lava flow.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:P%C4%81hoehoe_Lava_flow.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:P%C4%81hoehoe_Lava_flow.JPG",
+    "license": "CC BY-SA 3.0",
+    "author": "Brocken Inaglory"
+   }
+  },
+  {
+   "id": "krater",
+   "topic": "landschaft",
+   "art": "der",
+   "de": "Krater",
+   "plural": "-",
+   "ar": "فوهة",
+   "photo": {
+    "file": "Crater Lake winter pano2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Crater_Lake_winter_pano2.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Crater_Lake_winter_pano2.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "WolfmanSF"
+   }
+  },
+  {
+   "id": "polarlicht",
+   "topic": "landschaft",
+   "art": "das",
+   "de": "Polarlicht",
+   "plural": "",
+   "ar": "شفق قطبي",
+   "photo": {
+    "file": "Aurora australis dancing over an LED illuminated igloo.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Aurora_australis_dancing_over_an_LED_illuminated_igloo.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Aurora_australis_dancing_over_an_LED_illuminated_igloo.jpg",
+    "license": "Public domain",
+    "author": "Ross Burgener"
+   }
+  },
+  {
+   "id": "milchstrasse",
+   "topic": "landschaft",
+   "art": "die",
+   "de": "Milchstraße",
+   "plural": "",
+   "ar": "درب التبانة",
+   "photo": {
+    "file": "Milky way in Elbrus.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Milky_way_in_Elbrus.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Milky_way_in_Elbrus.jpg",
+    "license": "CC BY 4.0",
+    "author": "oliwok"
+   }
+  },
+  {
+   "id": "spritze",
+   "topic": "medizin",
+   "art": "die",
+   "de": "Spritze",
+   "plural": "Spritzen",
+   "ar": "حقنة",
+   "photo": {
+    "file": "Baxa syringe.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Baxa_syringe.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Baxa_syringe.jpg",
+    "license": "CC BY 4.0",
+    "author": "多多123"
+   }
+  },
+  {
+   "id": "sonnenfinsternis",
+   "topic": "landschaft",
+   "art": "die",
+   "de": "Sonnenfinsternis",
+   "plural": "Sonnenfinsternisse",
+   "ar": "كسوف",
+   "photo": {
+    "file": "Solar eclipse 1999 4.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Solar_eclipse_1999_4.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Solar_eclipse_1999_4.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Luc Viatour"
+   }
+  },
+  {
+   "id": "thermometer",
+   "topic": "medizin",
+   "art": "das",
+   "de": "Thermometer",
+   "plural": "-",
+   "ar": "ترمومتر",
+   "photo": {
+    "file": "CelsiusKelvinThermometer.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:CelsiusKelvinThermometer.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:CelsiusKelvinThermometer.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Martinvl"
+   }
+  },
+  {
+   "id": "tablette",
+   "topic": "medizin",
+   "art": "die",
+   "de": "Tablette",
+   "plural": "Tabletten",
+   "ar": "قرص دوا",
+   "photo": {
+    "file": "Medicine cocktail tablets and pills in glass.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Medicine_cocktail_tablets_and_pills_in_glass.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Medicine_cocktail_tablets_and_pills_in_glass.jpg",
+    "license": "CC BY 3.0",
+    "author": "Pöllö"
+   }
+  },
+  {
+   "id": "pflaster",
+   "topic": "medizin",
+   "art": "das",
+   "de": "Pflaster",
+   "plural": "-",
+   "ar": "بلاستر",
+   "photo": {
+    "file": "Front and back of adhesive bandage sold with esoteric message of alleged 'healing forces'.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Front_and_back_of_adhesive_bandage_sold_with_esoteric_message_of_alleged_%27healing_forces%27.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Front_and_back_of_adhesive_bandage_sold_with_esoteric_message_of_alleged_%27healing_forces%27.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Pittigrilli"
+   }
+  },
+  {
+   "id": "stethoskop",
+   "topic": "medizin",
+   "art": "das",
+   "de": "Stethoskop",
+   "plural": "Stethoskope",
+   "ar": "سماعة طبية",
+   "photo": {
+    "file": "Stethoscope-ja-2019.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Stethoscope-ja-2019.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Stethoscope-ja-2019.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "melvil"
+   }
+  },
+  {
+   "id": "verband",
+   "topic": "medizin",
+   "art": "der",
+   "de": "Verband",
+   "plural": "Verbände",
+   "ar": "ضمادة",
+   "photo": {
+    "file": "Two medical bandages.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Two_medical_bandages.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Two_medical_bandages.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Alexander Davronov"
+   }
+  },
+  {
+   "id": "krankenbett",
+   "topic": "medizin",
+   "art": "das",
+   "de": "Krankenbett",
+   "plural": "Krankenbetten",
+   "ar": "سرير مستشفى",
+   "photo": {
+    "file": "Inauguración del Hospital Regional de Apatzingán. (20503993770).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Inauguraci%C3%B3n_del_Hospital_Regional_de_Apatzing%C3%A1n._(20503993770).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Inauguraci%C3%B3n_del_Hospital_Regional_de_Apatzing%C3%A1n._(20503993770).jpg",
+    "license": "CC BY 2.0",
+    "author": "Presidencia de la República Mexicana"
+   }
+  },
+  {
+   "id": "festplatte",
+   "topic": "technik",
+   "art": "die",
+   "de": "Festplatte",
+   "plural": "Festplatten",
+   "ar": "هارد ديسك",
+   "photo": {
+    "file": "Seagate ST33232A hard disk inner view.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Seagate_ST33232A_hard_disk_inner_view.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Seagate_ST33232A_hard_disk_inner_view.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Eric Gaba (Sting - fr:Sting)\n\n This  image was created with CombineZP by 11  ( It was created out of 11 single images.)."
+   }
+  },
+  {
+   "id": "tablet",
+   "topic": "technik",
+   "art": "das",
+   "de": "Tablet",
+   "plural": "Tablets",
+   "ar": "تابلت",
+   "photo": {
+    "file": "Tablet computer.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tablet_computer.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Tablet_computer.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "KK IN HK"
+   }
+  },
+  {
+   "id": "roboter",
+   "topic": "technik",
+   "art": "der",
+   "de": "Roboter",
+   "plural": "-",
+   "ar": "روبوت",
+   "photo": {
+    "file": "Toyota Robot at Toyota Kaikan.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Toyota_Robot_at_Toyota_Kaikan.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Toyota_Robot_at_Toyota_Kaikan.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": ""
+   }
+  },
+  {
+   "id": "spielkonsole",
+   "topic": "technik",
+   "art": "die",
+   "de": "Spielkonsole",
+   "plural": "Spielkonsolen",
+   "ar": "بلاي ستيشن",
+   "photo": {
+    "file": "Nintendo-Game-Boy-Advance-Milky-Blue-FL.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nintendo-Game-Boy-Advance-Milky-Blue-FL.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Nintendo-Game-Boy-Advance-Milky-Blue-FL.jpg",
+    "license": "Public domain",
+    "author": "Evan-Amos"
+   }
+  },
+  {
+   "id": "kopierer",
+   "topic": "technik",
+   "art": "der",
+   "de": "Kopierer",
+   "plural": "-",
+   "ar": "ماكينة تصوير",
+   "photo": {
+    "file": "Sharp MX-7500 photocopier.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sharp_MX-7500_photocopier.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Sharp_MX-7500_photocopier.jpg",
+    "license": "CC BY 4.0",
+    "author": "Baron Maddock"
+   }
+  },
+  {
+   "id": "ueberwachungskamera",
+   "topic": "technik",
+   "art": "die",
+   "de": "Überwachungskamera",
+   "plural": "Überwachungskameras",
+   "ar": "كاميرا مراقبة",
+   "photo": {
+    "file": "Security camera, September 2018.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Security_camera,_September_2018.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Security_camera,_September_2018.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Cody Logan"
+   }
+  },
+  {
+   "id": "ziegel",
+   "topic": "bauen",
+   "art": "der",
+   "de": "Ziegel",
+   "plural": "-",
+   "ar": "طوبة",
+   "photo": {
+    "file": "Fallen bricks.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fallen_bricks.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Fallen_bricks.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Tomascastelazo"
+   }
+  },
+  {
+   "id": "schraube",
+   "topic": "bauen",
+   "art": "die",
+   "de": "Schraube",
+   "plural": "Schrauben",
+   "ar": "برغي",
+   "photo": {
+    "file": "Black wood screw with flat Phillips head.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Black_wood_screw_with_flat_Phillips_head.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Black_wood_screw_with_flat_Phillips_head.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Mynameisnatmo"
+   }
+  },
+  {
+   "id": "schraubenschluessel",
+   "topic": "bauen",
+   "art": "der",
+   "de": "Schraubenschlüssel",
+   "plural": "-",
+   "ar": "مفتاح ربط",
+   "photo": {
+    "file": "Monkey wrench Mexico 1900.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Monkey_wrench_Mexico_1900.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Monkey_wrench_Mexico_1900.jpg",
+    "license": "CC BY 4.0",
+    "author": "Carlos Valenzuela Montuy"
+   }
+  },
+  {
+   "id": "bohrer",
+   "topic": "bauen",
+   "art": "der",
+   "de": "Bohrer",
+   "plural": "-",
+   "ar": "مثقاب",
+   "photo": {
+    "file": "Drill bits 2017 G1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Drill_bits_2017_G1.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Drill_bits_2017_G1.jpg",
+    "license": "Public domain",
+    "author": "George Chernilevsky"
+   }
+  },
+  {
+   "id": "kettensaege",
+   "topic": "bauen",
+   "art": "die",
+   "de": "Kettensäge",
+   "plural": "Kettensägen",
+   "ar": "منشار كهربا",
+   "photo": {
+    "file": "Chainsaw.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Chainsaw.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Chainsaw.JPG",
+    "license": "CC BY-SA 3.0",
+    "author": "kallerna"
+   }
+  },
+  {
+   "id": "schraubstock",
+   "topic": "bauen",
+   "art": "der",
+   "de": "Schraubstock",
+   "plural": "Schraubstöcke",
+   "ar": "ملزمة",
+   "photo": {
+    "file": "An engineer's vise.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:An_engineer%27s_vise.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:An_engineer%27s_vise.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Dmitry Makeev"
+   }
+  },
+  {
+   "id": "meissel",
+   "topic": "bauen",
+   "art": "der",
+   "de": "Meißel",
+   "plural": "-",
+   "ar": "إزميل",
+   "photo": {
+    "file": "Chisel wood 24mm.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chisel_wood_24mm.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Chisel_wood_24mm.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Za"
+   }
+  },
+  {
+   "id": "zement",
+   "topic": "bauen",
+   "art": "der",
+   "de": "Zement",
+   "plural": "",
+   "ar": "أسمنت",
+   "photo": {
+    "file": "Cement 02 (cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cement_02_(cropped).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Cement_02_(cropped).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Szlomo Lejb"
+   }
+  },
+  {
+   "id": "rohrzange",
+   "topic": "bauen",
+   "art": "die",
+   "de": "Rohrzange",
+   "plural": "Rohrzangen",
+   "ar": "زرادية",
+   "photo": {
+    "file": "Pipe Wrench.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pipe_Wrench.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Pipe_Wrench.jpg",
+    "license": "Public domain",
+    "author": "Jayess"
+   }
+  },
+  {
+   "id": "massband",
+   "topic": "bauen",
+   "art": "das",
+   "de": "Maßband",
+   "plural": "Maßbänder",
+   "ar": "متر قياس",
+   "photo": {
+    "file": "B&Q Tape Measure.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:B%26Q_Tape_Measure.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:B%26Q_Tape_Measure.jpg",
+    "license": "CC BY 4.0",
+    "author": "多多123"
+   }
+  },
+  {
+   "id": "zollstock",
+   "topic": "bauen",
+   "art": "der",
+   "de": "Zollstock",
+   "plural": "Zollstöcke",
+   "ar": "متر طي",
+   "photo": {
+    "file": "Mid 20th century folding ruler graded in Swedish inches and centimetres by AB Maattstockar Melloesa Sweden.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mid_20th_century_folding_ruler_graded_in_Swedish_inches_and_centimetres_by_AB_Maattstockar_Melloesa_Sweden.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Mid_20th_century_folding_ruler_graded_in_Swedish_inches_and_centimetres_by_AB_Maattstockar_Melloesa_Sweden.jpg",
+    "license": "CC BY 4.0",
+    "author": "R. Henrik Nilsson"
+   }
+  },
+  {
+   "id": "weihnachtsbaum",
+   "topic": "feste",
+   "art": "der",
+   "de": "Weihnachtsbaum",
+   "plural": "Weihnachtsbäume",
+   "ar": "شجرة كريسماس",
+   "photo": {
+    "file": "Christmas tree sxc hu.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Christmas_tree_sxc_hu.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Christmas_tree_sxc_hu.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Lotus Head from Johannesburg, Gauteng, South Africa"
+   }
+  },
+  {
+   "id": "feuerwerk",
+   "topic": "feste",
+   "art": "das",
+   "de": "Feuerwerk",
+   "plural": "Feuerwerke",
+   "ar": "ألعاب نارية",
+   "photo": {
+    "file": "Fireworks on New Year's Eve in a small Swabian village (1), brightened.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fireworks_on_New_Year%27s_Eve_in_a_small_Swabian_village_(1),_brightened.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Fireworks_on_New_Year%27s_Eve_in_a_small_Swabian_village_(1),_brightened.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Andreas Weith"
+   }
+  },
+  {
+   "id": "hochzeit",
+   "topic": "feste",
+   "art": "die",
+   "de": "Hochzeit",
+   "plural": "Hochzeiten",
+   "ar": "فرح",
+   "photo": {
+    "file": "Royal Wedding Stockholm 2010-Slottsbacken-05 edit.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Wedding_Stockholm_2010-Slottsbacken-05_edit.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Royal_Wedding_Stockholm_2010-Slottsbacken-05_edit.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Holger Motzkau"
+   }
+  },
+  {
+   "id": "adventskranz",
+   "topic": "feste",
+   "art": "der",
+   "de": "Adventskranz",
+   "plural": "Adventskränze",
+   "ar": "إكليل المجيء",
+   "photo": {
+    "file": "Adventskränze und -zweige am Markt in Kempten 03.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Adventskr%C3%A4nze_und_-zweige_am_Markt_in_Kempten_03.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Adventskr%C3%A4nze_und_-zweige_am_Markt_in_Kempten_03.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Kritzolina"
+   }
+  },
+  {
+   "id": "fasching",
+   "topic": "feste",
+   "art": "der",
+   "de": "Fasching",
+   "plural": "",
+   "ar": "كرنفال",
+   "photo": {
+    "file": "Venice Carnival - Masked Lovers (2010).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Venice_Carnival_-_Masked_Lovers_(2010).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Venice_Carnival_-_Masked_Lovers_(2010).jpg",
+    "license": "CC BY 2.0",
+    "author": "Frank Kovalchek from Anchorage, Alaska, USA"
+   }
+  },
+  {
+   "id": "verkehrsschild",
+   "topic": "verkehr2",
+   "art": "das",
+   "de": "Verkehrsschild",
+   "plural": "Verkehrsschilder",
+   "ar": "علامة مرور",
+   "photo": {
+    "file": "Road sign at Lewis Pass NZ.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Road_sign_at_Lewis_Pass_NZ.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Road_sign_at_Lewis_Pass_NZ.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Krzysztof Golik"
+   }
+  },
+  {
+   "id": "zebrastreifen",
+   "topic": "verkehr2",
+   "art": "der",
+   "de": "Zebrastreifen",
+   "plural": "-",
+   "ar": "عبور مشاة",
+   "photo": {
+    "file": "Zebra crossing St Helier.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Zebra_crossing_St_Helier.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Zebra_crossing_St_Helier.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Jèrriais janne"
+   }
+  },
+  {
+   "id": "autobahn",
+   "topic": "verkehr2",
+   "art": "die",
+   "de": "Autobahn",
+   "plural": "Autobahnen",
+   "ar": "أوتوستراد",
+   "photo": {
+    "file": "London Orbital Motorway near Crews Hill - geograph.org.uk - 7588668.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:London_Orbital_Motorway_near_Crews_Hill_-_geograph.org.uk_-_7588668.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:London_Orbital_Motorway_near_Crews_Hill_-_geograph.org.uk_-_7588668.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "David Dixon"
+   }
+  },
+  {
+   "id": "parkbank",
+   "topic": "verkehr2",
+   "art": "die",
+   "de": "Parkbank",
+   "plural": "Parkbänke",
+   "ar": "كنبة حديقة",
+   "photo": {
+    "file": "Bredevoort (NL), Parkbank -- 2016 -- 1398.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bredevoort_(NL),_Parkbank_--_2016_--_1398.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Bredevoort_(NL),_Parkbank_--_2016_--_1398.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Dietmar Rabich"
+   }
+  },
+  {
+   "id": "kreisverkehr",
+   "topic": "verkehr2",
+   "art": "der",
+   "de": "Kreisverkehr",
+   "plural": "",
+   "ar": "دوران",
+   "photo": {
+    "file": "Roundabout interchange.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Roundabout_interchange.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Roundabout_interchange.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Petar Milošević"
+   }
+  },
+  {
+   "id": "bahnsteig",
+   "topic": "verkehr2",
+   "art": "der",
+   "de": "Bahnsteig",
+   "plural": "Bahnsteige",
+   "ar": "رصيف محطة",
+   "photo": {
+    "file": "Jeseník train station 2025.01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jesen%C3%ADk_train_station_2025.01.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Jesen%C3%ADk_train_station_2025.01.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Pudelek"
+   }
+  },
+  {
+   "id": "gleis",
+   "topic": "verkehr2",
+   "art": "das",
+   "de": "Gleis",
+   "plural": "Gleise",
+   "ar": "قضبان",
+   "photo": {
+    "file": "Baikal Railway, Railway track, Khabartuy Cape, Lake Baikal, Russia.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Baikal_Railway,_Railway_track,_Khabartuy_Cape,_Lake_Baikal,_Russia.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Baikal_Railway,_Railway_track,_Khabartuy_Cape,_Lake_Baikal,_Russia.jpg",
+    "license": "CC BY 4.0",
+    "author": "Vyacheslav Argenberg"
+   }
+  },
+  {
+   "id": "rad",
+   "topic": "verkehr2",
+   "art": "das",
+   "de": "Rad",
+   "plural": "Räder",
+   "ar": "عجلة",
+   "photo": {
+    "file": "Wheel, IAA 2017, Frankfurt (1Y7A2822).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wheel,_IAA_2017,_Frankfurt_(1Y7A2822).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Wheel,_IAA_2017,_Frankfurt_(1Y7A2822).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Matti Blume"
+   }
+  },
+  {
+   "id": "reifen",
+   "topic": "verkehr2",
+   "art": "der",
+   "de": "Reifen",
+   "plural": "-",
+   "ar": "إطار",
+   "photo": {
+    "file": "Vittoria Randonneur tire (trekking bicycle).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Vittoria_Randonneur_tire_(trekking_bicycle).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Vittoria_Randonneur_tire_(trekking_bicycle).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Petar Milošević"
+   }
+  },
+  {
+   "id": "fahrkartenautomat",
+   "topic": "verkehr2",
+   "art": "der",
+   "de": "Fahrkartenautomat",
+   "plural": "-",
+   "ar": "ماكينة تذاكر",
+   "photo": {
+    "file": "Mobib ticket machine, Brussels (LRM 20231012 094316-2).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mobib_ticket_machine,_Brussels_(LRM_20231012_094316-2).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Mobib_ticket_machine,_Brussels_(LRM_20231012_094316-2).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Matti Blume"
+   }
+  },
+  {
+   "id": "lenker",
+   "topic": "verkehr2",
+   "art": "der",
+   "de": "Lenker",
+   "plural": "-",
+   "ar": "مقود",
+   "photo": {
+    "file": "Bicycle Handlebar.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Bicycle_Handlebar.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Bicycle_Handlebar.JPG",
+    "license": "CC BY-SA 4.0",
+    "author": "TeWeBs"
+   }
+  },
+  {
+   "id": "fahrradweg",
+   "topic": "verkehr2",
+   "art": "der",
+   "de": "Fahrradweg",
+   "plural": "Fahrradwege",
+   "ar": "مسار عجل",
+   "photo": {
+    "file": "Quantiasstaße bike lane.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Quantiassta%C3%9Fe_bike_lane.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Quantiassta%C3%9Fe_bike_lane.jpg",
+    "license": "CC0",
+    "author": "1998alexkane"
+   }
+  },
+  {
+   "id": "monitor",
+   "topic": "technik",
+   "art": "der",
+   "de": "Monitor",
+   "plural": "Monitore",
+   "ar": "شاشة",
+   "photo": {
+    "file": "Atari 800 XL home computer with monitor and tape program recorder XC12.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Atari_800_XL_home_computer_with_monitor_and_tape_program_recorder_XC12.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Atari_800_XL_home_computer_with_monitor_and_tape_program_recorder_XC12.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "winkelnkemper"
+   }
+  },
+  {
+   "id": "fernbedienung",
+   "topic": "technik",
+   "art": "die",
+   "de": "Fernbedienung",
+   "plural": "Fernbedienungen",
+   "ar": "ريموت",
+   "photo": {
+    "file": "Television remote control - black 01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Television_remote_control_-_black_01.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Television_remote_control_-_black_01.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Dmitry Makeev"
    }
   }
  ]
