@@ -16,6 +16,7 @@ const GS: (G | 'p')[] = ['m', 'f', 'n', 'p'];
 const artTable = (src: Record<Case, Record<G | 'p', string>>): Table => ({ h: ['', 'm', 'f', 'n', 'Pl.'], r: C.map((c) => [caseName[c][0], ...GS.map((g) => src[c][g])]) });
 const core = ['sein', 'haben', 'werden', 'können', 'müssen', 'wollen', 'sollen', 'dürfen', 'machen', 'wohnen', 'arbeiten', 'fahren', 'sprechen', 'lesen', 'sehen', 'geben', 'nehmen', 'essen', 'schlafen', 'wissen'];
 
+import { sheetIds } from './sheet-ids';
 export const sheets: Sheet[] = [
   { id: 'praesens', title: ['ورقة تصريف Präsens', 'Präsens conjugation sheet'], sub: ['الأفعال الأساسية في المضارع', 'The core verbs in the present tense'],
     blocks: [{ h: ['التصريف', 'Conjugation'], table: { h: ['Infinitiv', ...PERSONS], r: core.map((i) => verbs.find((v) => v.inf === i)).filter((v) => !!v).map((v) => [v!.inf, ...v!.pres]) } }] },
@@ -60,3 +61,4 @@ export const sheets: Sheet[] = [
     blocks: [{ h: ['التعبيرات', 'Idioms'], table: { h: ['', ''], r: idioms.map((i) => [i.de, i.ar]) } }] },
 ];
 export const sheetOf = (id: string) => sheets.find((s) => s.id === id);
+if (sheets.length !== sheetIds.length) throw new Error('sheet ids out of sync');

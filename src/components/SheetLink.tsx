@@ -1,13 +1,13 @@
 'use client';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { sheetOf } from '@/lib/sheets';
+import { sheetIds } from '@/lib/sheet-ids';
 import { useT } from '@/lib/i18n';
 
 export default function SheetLink() {
   const t = useT();
   const id = (usePathname() ?? '').replace(/^\/|\/$/g, '');
-  if (!sheetOf(id)) return null;
+  if (!sheetIds.includes(id)) return null;
   return (
     <div className="no-print mt-8">
       <Link href={`/blatt/${id}/`} className="inline-flex items-center gap-2 rounded-full border border-line px-5 py-2 font-bold hover:border-accent">
