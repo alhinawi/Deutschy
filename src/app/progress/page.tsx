@@ -1,4 +1,5 @@
 'use client';
+import NextStudy from '@/components/NextStudy';
 import {localActivity} from '@/lib/local-activity';
 import {useLocalClock} from '@/lib/use-local-clock';
 import LocalDashboard from '@/components/LocalDashboard';
@@ -26,6 +27,7 @@ export default function Progress() {
     <div className="mx-auto max-w-3xl space-y-8">
       <h1 className="ar-title text-4xl font-bold">{t('تقدمي', 'My progress')}</h1>
       <p className="rounded-xl border border-line bg-card p-4">{t('السجل ده على المتصفح والجهاز ده بس، مش متزامن. حذف بيانات المتصفح ممكن يمسحه. مستوى XP لعبة تنظيمية، مش مستوى لغة معتمد.','This record stays in this browser on this device and is not synced. Clearing browser data can erase it. XP level is a practice counter, not a certified language level.')}</p>
+      <NextStudy />
       <LocalDashboard />
 
       <section className="space-y-3 rounded-2xl border border-line bg-card p-5">

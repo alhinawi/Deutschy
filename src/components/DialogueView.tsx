@@ -30,7 +30,7 @@ export default function DialogueView({ conversation = false }: { conversation?: 
       </div>
       <ul className="grid gap-3 sm:grid-cols-2">
         {dialogues.filter((d) => (!conversation || ['A1', 'A2'].includes(d.level)) && (lv === 'all' || d.level === lv)).map((d) => (
-          <li key={d.id}><button onClick={() => {history.replaceState(null,'','#'+d.id);setOpen(d)}} className="w-full rounded-2xl border border-line bg-card p-4 text-start hover:border-accent">
+          <li key={d.id}><button onClick={() => {history.replaceState(null,'','#'+d.id);window.dispatchEvent(new HashChangeEvent('hashchange'));setOpen(d)}} className="w-full rounded-2xl border border-line bg-card p-4 text-start hover:border-accent">
             <span className="num text-xs font-bold text-accent">{d.level}</span>
             <span dir="ltr" lang="de" className="de block text-xl font-semibold">{d.title[0]}</span>
             <span className="ar-title block text-muted">{lang === 'ar' ? d.title[1] : `${d.lines.length} lines`}</span>

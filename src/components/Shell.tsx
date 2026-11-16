@@ -1,4 +1,5 @@
 'use client';
+import {saveResume} from '@/lib/resume';
 import {localActivity} from '@/lib/local-activity';
 import {useLocalClock} from '@/lib/use-local-clock';
 import PwaStatus from './PwaStatus';
@@ -21,6 +22,7 @@ export default function Shell({ children }: { children: ReactNode }) {
   const { lang, setLang } = useLang();
   const t = useT();
   const path = usePathname() ?? '/';
+  useEffect(()=>{const save=()=>saveResume(path,location.hash);save();window.addEventListener('hashchange',save);return()=>window.removeEventListener('hashchange',save)},[path]);
   const [open, setOpen] = useState(false);
   const [searching, setSearching] = useState(false);
   useEffect(() => setOpen(false), [path]);

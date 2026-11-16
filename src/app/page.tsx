@@ -1,3 +1,4 @@
+import NextStudy from '@/components/NextStudy';
 import LevelRoutes from '@/components/LevelRoutes';
 import Link from 'next/link';
 import { topics, words, wordsOf, img } from '@/lib/data';
@@ -9,6 +10,7 @@ export default function Home() {
   const hero = words.filter((w) => ['apfel', 'pferd', 'fahrrad', 'kaffee'].includes(w.id));
   return (
     <div className="space-y-14">
+      <NextStudy />
       <LevelRoutes />
       <section className="grid items-center gap-8 lg:grid-cols-2">
         <div className="space-y-5">
