@@ -312,3 +312,4 @@ for(const g of lib('grammar').grammar){assert.equal(lib('grammar-walkthrough').g
 }
 
 for(const id of ['alltag-a2-waschraum','alltag-b1-protokoll']){const r=lib('reading').readingOf(id);for(const quote of readingEvidence[id])assert(r.de.join(' ').includes(quote));assert(lib('linked-practice').linkedPractice.some(x=>x.reading===id));assert(dictationSet(r.level,id).length>=8)}
+const {everydayGrammar}=lib('exercises-everyday');assert.equal(Object.keys(everydayGrammar).length,6);for(const [key,rows] of Object.entries(everydayGrammar)){assert.equal(rows.length,4);const full=lib('exercises').exercises[key];assert.equal(JSON.stringify(full.slice(-4)),JSON.stringify(rows));for(const r of rows){assert.equal(r.length,6);assert.equal(new Set(r.slice(1,4)).size,3);assert(r[4]&&r[5]);}}console.log('PASS: 24 contextual grammar items append after all existing banks with bilingual explanations');

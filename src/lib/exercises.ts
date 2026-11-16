@@ -219,3 +219,6 @@ for (const [k, v] of [...Object.entries(moreA), ...Object.entries(moreB), ...Obj
 
 import {a2Depth} from './exercises-a2-depth';
 for(const [key,rows] of Object.entries(a2Depth))exercises[key]=[...(exercises[key]??[]),...rows];
+
+import {everydayGrammar} from './exercises-everyday';
+for(const [key,rows] of Object.entries(everydayGrammar))exercises[key]=[...(exercises[key]??[]),...rows];
