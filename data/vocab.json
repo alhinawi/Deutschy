@@ -235,6 +235,10 @@
   {
    "id": "waesche",
    "ar": "العناية بالغسيل"
+  },
+  {
+   "id": "gartenpflege",
+   "ar": "العناية بالزرع"
   }
  ],
  "words": [
@@ -10353,6 +10357,54 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Wood_clothes_hanger.png",
     "license": "CC BY-SA 4.0",
     "author": "RL0919",
+    "padding": true
+   }
+  },
+  {
+   "id": "giesskanne",
+   "topic": "gartenpflege",
+   "art": "die",
+   "de": "Gießkanne",
+   "plural": "Gießkannen",
+   "ar": "كنكة ري الزرع",
+   "photo": {
+    "file": "Watercan.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Watercan.png",
+    "commons": "https://commons.wikimedia.org/wiki/File:Watercan.png",
+    "license": "CC BY-SA 2.5",
+    "author": "Dake",
+    "padding": true
+   }
+  },
+  {
+   "id": "blumentopf",
+   "topic": "gartenpflege",
+   "art": "der",
+   "de": "Blumentopf",
+   "plural": "Blumentöpfe",
+   "ar": "أصيص زرع",
+   "photo": {
+    "file": "Flowerpot 1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Flowerpot_1.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Flowerpot_1.jpg",
+    "license": "Public domain",
+    "author": "Lombroso",
+    "padding": true
+   }
+  },
+  {
+   "id": "schubkarre",
+   "topic": "gartenpflege",
+   "art": "die",
+   "de": "Schubkarre",
+   "plural": "Schubkarren",
+   "ar": "عربية يد",
+   "photo": {
+    "file": "Carretilla Truper.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Carretilla_Truper.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Carretilla_Truper.jpg",
+    "license": "CC BY 4.0",
+    "author": "Mark Gasoline",
     "padding": true
    }
   }
