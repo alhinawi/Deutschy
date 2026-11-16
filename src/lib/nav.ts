@@ -37,6 +37,7 @@ export const sidebar: NavGroup[] = [
   ] },
   { id: 'me', ar: 'حسابي', en: 'Account', items: [
     { href: '/progress/', ar: 'تقدمي', en: 'My progress' },
+    { href: '/badges/', ar: 'شارات إنجازك', en: 'Badges' },
     { href: '/daily/', ar: 'تحدي اليوم', en: 'Daily challenge' },
     { href: '/review/', ar: 'راجع أخطاءك', en: 'Review mistakes' },
     { href: '/account/', ar: 'الحساب', en: 'Account' },
