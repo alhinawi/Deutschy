@@ -30,3 +30,5 @@ export async function speak(text: string) {
   speechSynthesis.speak(u);
   return true;
 }
+
+export function stopSpeaking() { cur?.pause(); if (typeof speechSynthesis !== 'undefined') speechSynthesis.cancel(); }
