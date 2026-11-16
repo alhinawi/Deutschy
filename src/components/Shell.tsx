@@ -24,22 +24,22 @@ export default function Shell({ children }: { children: ReactNode }) {
     <>
       <AuthSync />
       <header className="sticky top-0 z-30 border-b border-line bg-paper/95 backdrop-blur">
-        <div className="flex items-center gap-3 px-4 py-2.5">
+        <div className="flex items-center gap-2 px-4 sm:gap-3 py-2.5">
           <button aria-label={t('القائمة', 'Menu')} aria-expanded={open} onClick={() => setOpen(!open)} className="rounded-lg border border-line p-2 md:hidden">
             <svg viewBox="0 0 24 24" className="h-5 w-5" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round"><path d="M4 7h16M4 12h16M4 17h16" /></svg>
           </button>
           <Link href="/" className="de text-2xl font-semibold tracking-tight" dir="ltr">Deutsch<span className="text-accent">y</span></Link>
-          <div className="num ms-auto flex items-center gap-2 whitespace-nowrap text-xs font-bold text-muted" dir="ltr">
+          <div className="num ms-auto flex items-center gap-1.5 sm:gap-2 whitespace-nowrap text-xs font-bold text-muted" dir="ltr">
             <span>Lv {level(s.xp)}</span><span>{s.xp} XP</span>
             <span className="inline-flex items-center gap-0.5 text-accent"><Flame />{s.streak}</span>
           </div>
-          <button onClick={() => setLang(lang === 'ar' ? 'en' : 'ar')} aria-label="Language" className="rounded-full border border-line px-3 py-1 text-xs font-bold whitespace-nowrap hover:bg-card">
+          <button onClick={() => setLang(lang === 'ar' ? 'en' : 'ar')} aria-label="Language" className="rounded-full border border-line px-2.5 py-1 text-xs font-bold whitespace-nowrap sm:px-3 hover:bg-card">
             {lang === 'ar' ? 'EN' : 'عربي'}
           </button>
           {user === undefined ? null : user ? (
             <Link href="/account/" className="hidden rounded-full bg-accent px-3 py-1.5 text-xs font-bold text-accent-ink sm:inline-block">{user.name.split(' ')[0]}</Link>
           ) : (
-            <Link href="/account/" className="rounded-full bg-accent px-3 py-1.5 text-xs font-bold whitespace-nowrap text-accent-ink">{t("دخول", "Sign in")}</Link>
+            <Link href="/account/" className="rounded-full bg-accent px-2.5 py-1.5 text-xs font-bold whitespace-nowrap sm:px-3 text-accent-ink">{t("دخول", "Sign in")}</Link>
           )}
         </div>
       </header>
