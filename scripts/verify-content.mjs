@@ -6,7 +6,7 @@ for (const w of d.words) {
   const fail = (m) => { console.error('FAIL', w.id, m); bad++; };
   if (ids.has(w.id)) fail('duplicate id'); ids.add(w.id);
   if (!['der', 'die', 'das'].includes(w.art)) fail('article');
-  if (!w.de || !w.ar || !w.plural) fail('missing text');
+  if (!w.de || !w.ar || w.plural === undefined) fail('missing text');
   if (!fs.existsSync(`public/img/${w.id}.jpg`)) fail('missing photo');
   if (!w.photo?.license || !w.photo?.commons) fail('missing credit');
 }

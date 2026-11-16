@@ -55,7 +55,7 @@ export const glossOf = (w: Word, lang: 'ar' | 'en') => (lang === 'en' ? (enRaw a
 export const topicName = (id: string, lang: 'ar' | 'en') => (lang === 'en' ? topicEn[id] : topics.find((t) => t.id === id)?.ar ?? id);
 export const wordsOf = (topic: string) => words.filter((w) => w.topic === topic);
 export const withArticle = (w: Word) => `${w.art} ${w.de}`;
-export const pluralText = (w: Word, lang: 'ar' | 'en' = 'ar') => (w.plural === '-' ? 'die ' + w.de + (lang === 'ar' ? ' (نفس الشكل)' : ' (same form)') : 'die ' + w.plural);
+export const pluralText = (w: Word, lang: 'ar' | 'en' = 'ar') => (w.plural === '' ? '' : w.plural === '-' ? 'die ' + w.de + (lang === 'ar' ? ' (نفس الشكل)' : ' (same form)') : 'die ' + w.plural);
 export const img = (w: Word) => `/img/${w.id}.jpg`;
 
 export const shuffle = <T,>(a: T[]): T[] => {
