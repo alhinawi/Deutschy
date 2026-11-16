@@ -1,0 +1,44 @@
+[
+  {
+    "id": "krankenhaus",
+    "word": "Krankenhaus",
+    "article": "das",
+    "plural": "Krankenhäuser",
+    "wiktionary_genders": [
+      "n"
+    ],
+    "wiktionary_plurals": [
+      "Krankenhäuser"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Krankenhaus"
+  },
+  {
+    "id": "flughafen",
+    "word": "Flughafen",
+    "article": "der",
+    "plural": "Flughäfen",
+    "wiktionary_genders": [
+      "m"
+    ],
+    "wiktionary_plurals": [
+      "Flughäfen"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Flughafen"
+  },
+  {
+    "id": "handschuh",
+    "word": "Handschuh",
+    "article": "der",
+    "plural": "Handschuhe",
+    "wiktionary_genders": [
+      "m"
+    ],
+    "wiktionary_plurals": [
+      "Handschuhe"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Handschuh"
+  }
+]

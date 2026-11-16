@@ -35,6 +35,7 @@ export const sidebar: NavGroup[] = [
     { href: '/level-check/', ar: 'مراجعة مختلطة A1-C2', en: 'Mixed level check A1-C2' },
     { href: '/praesens/', ar: 'تصريف الأفعال الأساسية', en: 'Core verbs (Präsens)' },
     { href: '/verbs/trainer/', ar: 'تدريب التصريف', en: 'Conjugation trainer' },
+    { href: '/word-formation/', ar: 'فك تركيب الكلمة', en: 'Word formation patterns' },
     { href: '/trennbare-verben/', ar: 'الأفعال المنفصلة', en: 'Separable verbs' },
     { href: '/zahlen/', ar: 'الأرقام والساعة والتاريخ', en: 'Numbers, time, dates' },
     { href: '/adjektivendungen/', ar: 'نهايات الصفات', en: 'Adjective endings' },
