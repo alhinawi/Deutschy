@@ -49,6 +49,7 @@ export const sidebar: NavGroup[] = [
     { href: '/speaking/', ar: 'النطق والكلام بالميكروفون', en: 'Speaking and pronunciation' },
     { href: '/conversation/', ar: 'تدريب المحادثة', en: 'Conversation practice' },
     { href: '/redewendungen/', ar: 'تعبيرات ألمانية', en: 'Redewendungen' },
+    { href: '/writing-frames/', ar: 'خطط الرسائل A1-B2', en: 'Writing frames A1-B2' },
     { href: '/writing/', ar: 'تدريب الكتابة', en: 'Writing practice' },
     { href: '/reading/', ar: 'القراءة', en: 'Reading' },
     { href: '/wortschatz/', ar: 'مفردات الامتحان', en: 'Exam vocabulary' },
