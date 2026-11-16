@@ -178,3 +178,6 @@ const modals=lib('modal-meaning');assert.equal(modals.modalMeaning.length,6);mod
 console.log('PASS: six bilingual modal-meaning contrasts');
 const {readingEvidence}=lib('reading-evidence');for(const [id,quotes] of Object.entries(readingEvidence)){const r=lib('reading').readings.find(r=>r.id===id);assert(r,id);assert.equal(quotes.length,r.q.length);for(const quote of quotes)assert(r.de.join(' ').includes(quote),id+quote);}
 console.log('PASS: 18 reading evidence excerpts are exact and aligned to six A1-B1 text question sets');
+assert(search('Modal meaning',100).some(h=>h.href==='/grammar/modalverben/#modal-meaning'));
+assert(search('Guided Konjunktiv',100).some(h=>h.href==='/b1/#polite-transform'));
+console.log('PASS: modal meanings and guided form practice are searchable');
