@@ -1,4 +1,5 @@
 'use client';
+import PwaStatus from './PwaStatus';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useEffect, useState, type ReactNode } from 'react';
@@ -84,7 +85,7 @@ export default function Shell({ children }: { children: ReactNode }) {
         </nav>
       </aside>
       <main id="main" tabIndex={-1} className="outline-none px-4 py-8 md:ps-72 md:pe-8">
-        <div className="mx-auto max-w-5xl">{children}<SheetLink /></div>
+        <div className="mx-auto max-w-5xl">{children}<SheetLink /><PwaStatus /></div>
       </main>
     </>
   );
