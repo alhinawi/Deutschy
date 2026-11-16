@@ -208,3 +208,17 @@ assert.equal(counts.arWords(16), '16 كلمة');
 assert.equal(counts.arMinutes(5), '5 دقايق');
 assert.equal(counts.arMinutes(12), '12 دقيقة');
 console.log('PASS: 58 lesson entries searchable by German, Arabic and English titles; counted nouns');
+
+// Source-grounded verb snapshot: do not silently regress audited principal parts.
+const verbAudit = JSON.parse(readFileSync('docs/eleventh-verb-audit.json', 'utf8'));
+const allVerbs = lib('verbs').verbs;
+assert.equal(verbAudit.records, allVerbs.length);
+for (const row of verbAudit.audit) {
+ const v = allVerbs.find(v => v.inf === row.inf);
+ assert(v, row.inf);
+ assert.deepEqual([...v.pres], row.present, row.inf + ' present');
+ assert.equal(v.pret, row.preterite_3sg, row.inf + ' preterite');
+ assert.equal(v.pp, row.participle, row.inf + ' participle');
+ assert.equal(v.aux, row.auxiliary, row.inf + ' auxiliary');
+}
+console.log('PASS: 143 source-audited verbs, 858 present forms and 429 principal-part fields retain checked values');
