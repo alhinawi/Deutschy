@@ -5,9 +5,10 @@ export type Score = { game: string; score: number; at: number; name: string };
 export type State = {
   xp: number; streak: number; best: number; lastDay: string; name: string;
   seen: Record<string, { ok: number; bad: number }>; scores: Score[]; theme: string;
+  daily: Record<string, number>; goal: number;
 };
 const KEY = 'deutschy:v1';
-const empty: State = { xp: 0, streak: 0, best: 0, lastDay: '', name: '', seen: {}, scores: [], theme: 'papier' };
+const empty: State = { xp: 0, streak: 0, best: 0, lastDay: '', name: '', seen: {}, scores: [], theme: 'papier', daily: {}, goal: 50 };
 const day = (d = new Date()) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
 
 export const load = (): State => {
@@ -28,6 +29,7 @@ export function mergeRemote(r: { xp: number; streak: number; best: number; lastD
   save(merged);
 }
 
+export const today = () => day();
 export const level = (xp: number) => Math.floor(Math.sqrt(xp / 50)) + 1;
 export const levelFloor = (l: number) => (l - 1) * (l - 1) * 50;
 
@@ -51,6 +53,7 @@ export function useStore() {
       cur.lastDay = today;
     }
     cur.xp += xp;
+    if (xp > 0) { cur.daily = { ...cur.daily, [today]: (cur.daily[today] ?? 0) + xp }; }
     if (wordId && ok !== undefined) {
       const w = cur.seen[wordId] ?? { ok: 0, bad: 0 };
       if (ok) w.ok++; else w.bad++;

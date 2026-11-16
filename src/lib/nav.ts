@@ -19,6 +19,7 @@ export const sidebar: NavGroup[] = [
     { href: '/leaderboard/', ar: 'المتصدرين', en: 'Leaderboard' },
   ] },
   { id: 'me', ar: 'حسابي', en: 'Account', items: [
+    { href: '/progress/', ar: 'تقدمي', en: 'My progress' },
     { href: '/account/', ar: 'الحساب', en: 'Account' },
     { href: '/admin/', ar: 'لوحة التحكم', en: 'Admin', admin: true },
     { href: '/credits/', ar: 'حقوق الصور', en: 'Photo credits' },
