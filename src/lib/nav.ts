@@ -16,6 +16,7 @@ export const sidebar: NavGroup[] = [
     { href: '/zahlen/', ar: 'الأرقام والساعة والتاريخ', en: 'Numbers, time, dates' },
     { href: '/adjektivendungen/', ar: 'نهايات الصفات', en: 'Adjective endings' },
     { href: '/kasus/', ar: 'الحالات (Kasus)', en: 'Cases (Kasus)' },
+    { href: '/praepositionen/', ar: 'حروف الجر', en: 'Prepositions' },
     { href: '/verbs/quiz/', ar: 'اختبار الأفعال', en: 'Verb quiz' },
     { href: '/dialogues/', ar: 'حوارات', en: 'Dialogues' },
     { href: '/redewendungen/', ar: 'تعبيرات ألمانية', en: 'Redewendungen' },
