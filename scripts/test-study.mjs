@@ -222,3 +222,9 @@ for (const row of verbAudit.audit) {
  assert.equal(v.aux, row.auxiliary, row.inf + ' auxiliary');
 }
 console.log('PASS: 143 source-audited verbs, 858 present forms and 429 principal-part fields retain checked values');
+const correctedA1=lib('grammar-a').grammarA;
+assert(correctedA1.find(g=>g.id==='satzbau').sum[1].includes('not the second word'));
+assert(correctedA1.find(g=>g.id==='artikel-genus').points[1][1].includes('den in the dative'));
+assert(correctedA1.find(g=>g.id==='negation').points[1][1].includes('before the final infinitive or participle'));
+assert(correctedA1.find(g=>g.id==='imperativ').points[0][1].includes('Fahr!, not Fähr!'));
+console.log('PASS: four source-reviewed beginner grammar explanations retain key qualifications');
