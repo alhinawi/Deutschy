@@ -163,7 +163,7 @@ assert(search('Verb-governed case',100).some(h=>h.href==='/case-lab/#verb'));ass
 
 assert.equal(dictationDiff('a '.repeat(400),'a').filter(d=>d.kind==='extra').length,399);console.log('PASS: long allowed dictation input does not silently truncate diff tokens');
 
-const {presentFocus}=lib('present-focus');assert.equal(presentFocus.length,6);for(const v of presentFocus)assert.equal(v.forms.length,6);assert.equal(presentFocus.find(v=>v.inf==='lesen').forms[1],'liest');assert.equal(presentFocus.find(v=>v.inf==='sprechen').forms[4],'sprecht');console.log('PASS: 36 source-linked present focus cells, including singular stem changes');
+const {presentFocus}=lib('present-focus');assert.equal(presentFocus.length,12);for(const v of presentFocus)assert.equal(v.forms.length,6);assert.equal(presentFocus.find(v=>v.inf==='lesen').forms[1],'liest');assert.equal(presentFocus.find(v=>v.inf==='sprechen').forms[4],'sprecht');console.log('PASS: 72 source-linked present focus cells, including singular stem changes');
 const typedNumbers=lib('typed-zahlen');
 assert.equal(typedNumbers.typedZahlen.length,16);
 for(const q of typedNumbers.typedZahlen){assert(typedNumbers.checkNumeric(q.kind,q.answer,q.answer));assert(!typedNumbers.checkNumeric(q.kind,'',q.answer));assert(!typedNumbers.checkNumeric(q.kind,q.answer+'x',q.answer));}
@@ -258,3 +258,6 @@ const {everydayTexts}=lib('reading-everyday');assert.equal(everydayTexts.length,
 for(const r of everydayTexts){assert(['A2','B1'].includes(r.level));assert(r.de.join(' ').split(/\s+/).length>=100);assert.equal(r.de.length,r.ar.length);assert.equal(r.q.length,4);assert.equal(readingEvidence[r.id].length,4);for(const q of r.q)assert.equal(new Set(q.slice(1)).size,3);assert(lib('reading').readings.some(t=>t.id===r.id));}
 const readerSource=readFileSync('src/components/ReadingView.tsx','utf8');assert(readerSource.includes('locked.current=true'));assert(readerSource.includes('practiceOptionOrder'));assert(readerSource.includes('disabled={pick!==null}'));
 console.log('PASS: two extended A2/B1 fictional everyday texts, eight evidence-backed questions, reading input lock and six-way ordering');
+
+for(const [inf,forms] of Object.entries({nehmen:['nehme','nimmst','nimmt','nehmen','nehmt','nehmen'],geben:['gebe','gibst','gibt','geben','gebt','geben'],fahren:['fahre','fährst','fährt','fahren','fahrt','fahren'],arbeiten:['arbeite','arbeitest','arbeitet','arbeiten','arbeitet','arbeiten'],wissen:['weiß','weißt','weiß','wissen','wisst','wissen'],sehen:['sehe','siehst','sieht','sehen','seht','sehen']})){assert.equal(JSON.stringify(presentFocus.find(v=>v.inf===inf).forms),JSON.stringify(forms));assert(lib('present-focus').presentNotes[inf]);}
+console.log('PASS: 36 additional checked present forms with singular/plural contrast notes');
