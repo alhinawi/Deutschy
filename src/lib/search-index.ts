@@ -14,7 +14,7 @@ import { b1Grammar } from './b1-grammar';
 import { b2Grammar } from './b2-grammar';
 import { c1Grammar } from './c1-grammar';
 import { c2Grammar } from './c2-grammar';
-import { words, glossOf, topicName } from './data';
+import { words, topics, topicTitles, glossOf, topicName } from './data';
 import { grammar } from './grammar';
 import { verbs, slug } from './verbs';
 import { idioms } from './idioms';
@@ -37,6 +37,7 @@ export function index(): Hit[] {
   h('page','Perfekt context and exceptions','سياق الماضي والاستثناءات','/perfekt/','studiert verstanden aufgestanden haben sein fahren');
   h('page','Modal meaning contrasts','المعنى والمنع وعدم الضرورة','/grammar/modalverben/#modal-meaning','nicht müssen nicht dürfen');
   h('page','Guided Konjunktiv forms','الطلب بأدب والافتراض','/b1/#polite-transform','hätte wäre könnte würde');
+  topics.forEach(topic => h('page', topicTitles[topic.id] || topic.id, `${topicName(topic.id, 'ar')} · ${topicName(topic.id, 'en')}`, `/lessons/${topic.id}/`, `${topic.id} ${topic.ar} ${topicName(topic.id, 'en')}`));
   words.forEach((w) => h('word', `${w.art} ${w.de}`, `${w.ar} · ${glossOf(w, 'en')}`, `/lessons/${w.topic}/`, `${w.de} ${w.plural} ${topicName(w.topic, 'en')}`));
   grammar.forEach((g) => h('grammar', g.title[1], `${g.title[0]} · ${g.level}`, `/grammar/${g.id}/`, g.sum.join(' ')));
   verbs.forEach((v) => h('verb', v.inf, `${v.ar} · ${v.en}`, `/verbs/${slug(v.inf)}/`, `${v.pp} ${v.pret} ${v.pres.join(' ')}`));
