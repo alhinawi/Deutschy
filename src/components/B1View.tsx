@@ -16,7 +16,7 @@ export default function B1View() {
   const s = b1Grammar[id];
   return <div className="space-y-6">
     <h1 className="ar-title text-4xl font-bold">{t('تدريبات قواعد B1', 'B1 grammar practice')}</h1>
-    <p className="text-muted">{t('اتدرّب على الطلب بأدب والافتراض، ووصف العمليات، وربط الجمل والتعبير عن التعارض والهدف والشرط. اختار موضوع، راجع مثاله، وبعدين حل 8 أسئلة.', 'Practice polite requests and hypothetical situations, describing processes, relative clauses, contrast, purpose and conditions. Choose a topic, review its example and answer eight questions.')}</p>
+    <p className="text-muted">{t('اتدرّب على الطلب بأدب والافتراض، ووصف العمليات، وربط الجمل والتعبير عن التعارض والهدف والشرط. اختار موضوع، راجع مثاله، وبعدين جاوب على 8 أسئلة. الغلط فرصة تراجع السبب وتجرب تاني.', 'Practice polite requests and hypothetical situations, describing processes, relative clauses, contrast, purpose and conditions. Choose a topic, review its example and answer eight questions.')}</p>
     <p className="num text-sm font-bold text-accent">{t('أسئلة جاوبتها صح على الجهاز ده: ', 'Questions answered correctly on this device: ')}<bdi dir="ltr">{ready ? complete : 0} / 32</bdi></p>
     <div className="flex flex-wrap gap-2">{b1Grammar.map((x, i) => <button key={x.id} aria-pressed={id === i} onClick={() => setId(i)} className={`rounded-full border px-4 py-2 ${id === i ? 'bg-accent text-accent-ink border-accent' : 'border-line'}`}>{x.name}</button>)}</div>
     <section className="space-y-3 rounded-2xl border border-line bg-card p-5"><h2 dir="ltr" className="de text-2xl font-bold">{s.name}</h2><p className="ar-title text-lg"><Mixed text={t(s.ar, s.en)} /></p><p dir="ltr" lang="de" className="de text-lg">{s.rows[0][0].replace('___', s.rows[0][1])}</p></section>

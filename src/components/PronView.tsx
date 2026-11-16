@@ -15,7 +15,7 @@ export default function PronView() {
     <div className="space-y-8">
       <div className="space-y-2">
         <h1 className="ar-title text-4xl font-bold">{t('النطق', 'Pronunciation')}</h1>
-        <p className="text-muted">{t('اضغط على أي كلمة تسمعها. الأصوات الألماني ماليهاش مقابل مظبوط في العربي، فالتشبيهات تقريبية.', 'Tap any word to hear it. German sounds do not map exactly onto Arabic, so the comparisons are approximate.')}</p>
+        <p className="text-muted">{t('اضغط على الكلمة عشان تسمعها لو الصوت متاح. أصوات الألماني مالهاش مقابل مطابق في العربي؛ التشبيهات هنا تقريبية.', 'Tap any word to hear it. German sounds do not map exactly onto Arabic, so the comparisons are approximate.')}</p>
       </div>
       <Link href="/sound-contrasts/" className="block underline">{t('جديد: معمل فرق الأصوات وتقريب عربي محدود','New: sound contrasts and limited Arabic memory cues')}</Link><nav className="flex flex-wrap gap-2" aria-label="Sounds">
         {pron.map((s) => <a key={s.id} href={`#${s.id}`} className="de num rounded-full border border-line bg-card px-3 py-1.5 text-sm font-semibold hover:border-accent">{s.t}</a>)}

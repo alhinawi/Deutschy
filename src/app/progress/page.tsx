@@ -45,7 +45,7 @@ export default function Progress() {
       <section className="space-y-3">
         <h2 className="ar-title text-2xl font-bold">{t('المهارات في كل مستوى', 'Skills by level')}</h2>
         <div className="grid grid-cols-3 gap-3">
-          {[[t('أفضل سلسلة', 'Best streak'), s.best], [t('أيام التحدي', 'Challenge days'), challengeDays(s)], [t('كروت محفوظة', 'Cards known'), cardsKnown(s)]].map(([l, v]) => (
+          {[[t('أفضل سلسلة', 'Best streak'), s.best], [t('أيام التحدي', 'Challenge days'), challengeDays(s)], [t('كروت راجعتها كويس', 'Cards known'), cardsKnown(s)]].map(([l, v]) => (
             <div key={String(l)} className="rounded-2xl border border-line bg-card p-3"><p className="text-xs text-muted">{l}</p><p className="num text-2xl font-bold">{v}</p></div>
           ))}
         </div>

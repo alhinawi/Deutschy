@@ -16,7 +16,7 @@ export default function Home() {
           <h1 className="ar-title min-h-[2.3em] text-4xl font-bold leading-[1.15] md:text-6xl">
             <T ar="الألماني بقى " en="German is easier " /><span className="text-accent"><T ar="أسهل" en="with pictures" /></span><T ar=" بالصورة والعربي المصري" en=" and plain explanations" />
           </h1>
-          <p className="max-w-lg text-lg text-muted"><T ar="كل كلمة معاها صورة حقيقية، أداة التعريف الصح (der / die / das)، والجمع. اتعلم بالكروت وبعدين العب وجمّع XP." en="Every word comes with a real photo, the right article (der / die / das) and the plural. Learn with cards, then play and collect XP." /></p>
+          <p className="max-w-lg text-lg text-muted"><T ar="اتعلّم الاسم مع صورته وأداة التعريف، وراجع الجمع لما يكون معروض. ذاكر بالكروت، وبعدها اختبر نفسك في الألعاب." en="Learn each noun with its photo and article, and review its plural where shown. Study the cards, then test yourself in the games." /></p>
           <div className="flex flex-wrap gap-3">
             <Link href="/lessons/" className="rounded-full bg-accent px-6 py-3 font-bold text-accent-ink"><T ar="ابدأ الدروس" en="Start lessons" /></Link>
             <Link href="/grammar/" className="rounded-full border border-line px-6 py-3 font-bold hover:bg-card"><T ar="القواعد" en="Grammar" /></Link>

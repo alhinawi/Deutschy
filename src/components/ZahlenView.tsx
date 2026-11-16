@@ -71,7 +71,7 @@ export default function ZahlenView() {
   return (
     <div className="space-y-6">
       <h1 className="ar-title text-4xl font-bold">{t('الأرقام والساعة والتاريخ', 'Zahlen, Uhrzeit, Datum')}</h1>
-      <p className="text-muted">{t('اسمع واختار الرقم أو الساعة أو التاريخ. اضغط على أي سطر عشان تسمعه.', 'Listen and choose the number, time or date. Tap any line to hear it.')}</p>
+      <p className="text-muted">{t('اسمع واختار الرقم أو الساعة أو التاريخ، أو جرّب تدريب الكتابة. اضغط على السطر عشان تسمعه لو الصوت متاح.', 'Listen and choose the number, time or date. Tap any line to hear it.')}</p>
       <TypedZahlen/>
       <div className="flex flex-wrap gap-2">{tabs.map(([k, n]) => <button key={k} onClick={() => setTab(k)} aria-pressed={tab === k} className={pill(tab === k)}>{n}</button>)}</div>
       {tab !== 'learn' && (

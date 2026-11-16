@@ -9,4 +9,5 @@ export const arWords = (n: number) => arCount(n, 'كلمة', 'كلمتين', 'ك
 export const arLessons = (n: number) => arCount(n, 'درس', 'درسين', 'دروس', 'درس');
 export const arTopics = (n: number) => arCount(n, 'موضوع', 'موضوعين', 'مواضيع', 'موضوع');
 export const arVerbs = (n: number) => arCount(n, 'فعل', 'فعلين', 'أفعال', 'فعل');
+export const arMinutes = (n: number) => arCount(n, 'دقيقة', 'دقيقتين', 'دقايق', 'دقيقة');
 export const arTries = (n: number) => arCount(n, 'محاولة', 'محاولتين', 'محاولات', 'محاولة');

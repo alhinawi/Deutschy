@@ -10,7 +10,7 @@ export default function Learn() {
     <div className="space-y-10">
       <div>
         <h1 className="ar-title text-4xl font-bold"><T ar="أساسيات المستوى A1" en="Level A1 basics" /></h1>
-        <p className="mt-2 text-muted"><T ar="التحيات، الأرقام، الأيام، الألوان، وأهم فعلين. اضغط على زرار السماعة عشان تسمع النطق." en="Greetings, numbers, days, colours and the two most important verbs. Tap the speaker button to hear the pronunciation." /></p>
+        <p className="mt-2 text-muted"><T ar="ابدأ بالتحيات والأرقام والأيام والألوان، وبعدين جرّب الفعلين الأساسيين. اضغط على السماعة عشان تسمع النطق لو الصوت متاح على جهازك." en="Greetings, numbers, days, colours and the two most important verbs. Tap the speaker button to hear the pronunciation." /></p>
       </div>
       {sections.map((sec) => (
         <section key={sec.id} id={sec.id} className="rounded-2xl border border-line bg-card p-5">
