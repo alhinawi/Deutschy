@@ -1,4 +1,5 @@
 'use client';
+import LocalDashboard from '@/components/LocalDashboard';
 import Link from 'next/link';
 import { useT } from '@/lib/i18n';
 import { useStore, level, levelFloor, today } from '@/lib/store';
@@ -20,6 +21,7 @@ export default function Progress() {
   return (
     <div className="mx-auto max-w-3xl space-y-8">
       <h1 className="ar-title text-4xl font-bold">{t('تقدمي', 'My progress')}</h1>
+      <LocalDashboard />
 
       <section className="space-y-3 rounded-2xl border border-line bg-card p-5">
         <div className="flex items-center justify-between"><h2 className="ar-title text-2xl font-bold">{t('هدف النهارده', 'Daily goal')}</h2><span dir="ltr" className="num font-bold">{day} / {s.goal} XP</span></div>
