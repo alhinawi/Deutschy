@@ -6,6 +6,7 @@ import { words, topicName, glossOf, img, pluralText } from '@/lib/data';
 import { speak } from '@/lib/speak';
 import { useLang, useT } from '@/lib/i18n';
 import Speaker from './Speaker';
+import VocabularyQuiz from './VocabularyQuiz';
 
 export default function ThemeView() {
   const t = useT();
@@ -35,6 +36,7 @@ export default function ThemeView() {
       <div className="flex flex-wrap gap-2 text-sm">
         {th.topics.map((tp) => <Link key={tp} href={`/lessons/${tp}/`} className="rounded-full border border-line px-3 py-1 text-accent hover:bg-card">{topicName(tp, lang)}</Link>)}
       </div>
+      <VocabularyQuiz key={id} pool={list} id={`theme-${id}`} />
       <ul className="grid gap-3 sm:grid-cols-2">
         {list.map((w) => (
           <li key={w.id} className="flex overflow-hidden rounded-2xl border border-line bg-card">
