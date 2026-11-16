@@ -9,6 +9,7 @@ export const sidebar: NavGroup[] = [
     { href: '/perfekt/', ar: 'الماضي', en: 'Past tenses' },
     { href: '/a2/', ar: 'تدريبات A2', en: 'A2 practice' },
     { href: '/b1/', ar: 'تدريبات B1', en: 'B1 practice' },
+    { href: '/c1/', ar: 'تدريبات C1', en: 'C1 practice' },
     { href: '/b2/', ar: 'تدريبات B2', en: 'B2 practice' },
     { href: '/b2/wortschatz/', ar: 'مفردات B2', en: 'B2 vocabulary' },
     { href: '/b2/writing/', ar: 'كتابة B2', en: 'B2 writing' },
