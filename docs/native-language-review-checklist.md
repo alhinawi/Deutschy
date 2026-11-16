@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the twentieth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the twenty-first practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -87,6 +87,16 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `src/lib/exercises-neighborhood.ts` | Review 24 appended accusative/possessive/modal/past/comparative/dative-preposition contrasts and both explanation languages. |
 | [ ] | `/lessons/gartenpflege/` | Check Gießkanne / Gießkannen, Blumentopf / Blumentöpfe, Schubkarre / Schubkarren and Egyptian Arabic meanings. Assess each photo as a teaching cue. Three new nouns, not duplicate copies of existing tools. |
 
+### Twenty-first update: new content, still pending
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-naehdose/` and `/dialogues/#knopf-aussuchen` | Review simple color/size references, the sewing-tool sense of Fingerhut, Egyptian Arabic and all 7 answers. Is the beginner vocabulary manageable? |
+| [ ] | `/reading/alltag-a2-schirm/` and `/dialogues/#schirm-zurueckgeben` | Review ownership, lending/borrowing, the return arrangement and reminder. Check all 7 answers and the distinction between ausleihen and zurückgeben. |
+| [ ] | `/reading/alltag-b1-reparaturtreff/` and `/dialogues/#reparatur-keine-zusage` | Review conditional expectations and the distinction between an initial inspection and a promised repair. Fictional meetup, not a service guarantee or repair instructions. Check all 7 answers and translations. |
+| [ ] | `src/lib/exercises-objects.ts` | Review 24 appended sentence-order, present, negation, separable-verb, dative and Perfekt questions, including both explanation languages. Existing saved IDs must not move. |
+| [ ] | `/lessons/naehzubehoer/` | Review Fingerhut / Fingerhüte, Sicherheitsnadel / Sicherheitsnadeln, Reißverschluss / Reißverschlüsse, Egyptian Arabic meanings and visual clarity. The zipper is a detail photo. Forms were dictionary-checked, not editorially signed off. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -101,7 +111,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **676 photo nouns / 60 topics**, **78 reading texts / 265 reading questions**, **41 core grammar topics / 430 core grammar questions**, **18 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **679 photo nouns / 61 topics**, **81 reading texts / 277 reading questions**, **41 core grammar topics / 454 core grammar questions**, **21 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -113,7 +123,7 @@ This is an inventory, not completed review. Snapshot: **676 photo nouns / 60 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 8 · A2 21 · B1 19 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 9 · A2 22 · B1 20 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
