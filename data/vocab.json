@@ -10175,6 +10175,66 @@
     "license": "CC BY-SA 3.0",
     "author": "Tuxyso"
    }
+  },
+  {
+   "id": "teddybaer",
+   "topic": "spielzeug",
+   "art": "der",
+   "de": "Teddybär",
+   "plural": "Teddybären",
+   "ar": "دبدوب",
+   "photo": {
+    "file": "2023 Pluszowy miś.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2023_Pluszowy_mi%C5%9B.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:2023_Pluszowy_mi%C5%9B.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Jacek Halicki"
+   }
+  },
+  {
+   "id": "murmel",
+   "topic": "spielzeug",
+   "art": "die",
+   "de": "Murmel",
+   "plural": "Murmeln",
+   "ar": "بلية",
+   "photo": {
+    "file": "Glass Marble.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Glass_Marble.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Glass_Marble.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Chong Tian Lin"
+   }
+  },
+  {
+   "id": "puzzle",
+   "topic": "spielzeug",
+   "art": "das",
+   "de": "Puzzle",
+   "plural": "Puzzles",
+   "ar": "بازل",
+   "photo": {
+    "file": "Puzzle pieces 1.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Puzzle_pieces_1.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Puzzle_pieces_1.JPG",
+    "license": "CC BY-SA 3.0",
+    "author": "Patafisik"
+   }
+  },
+  {
+   "id": "bauklotz",
+   "topic": "spielzeug",
+   "art": "der",
+   "de": "Bauklotz",
+   "plural": "Bauklötze",
+   "ar": "مكعب لعب",
+   "photo": {
+    "file": "Two sets of wooden unit blocks.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Two_sets_of_wooden_unit_blocks.jpeg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Two_sets_of_wooden_unit_blocks.jpeg",
+    "license": "CC BY-SA 3.0",
+    "author": "User:Ragesoss"
+   }
   }
  ]
 }
