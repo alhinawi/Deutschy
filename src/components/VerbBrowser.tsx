@@ -28,6 +28,7 @@ export default function VerbBrowser() {
         <button onClick={() => setKind('all')} className={chip(kind === 'all')}>{t('كل الأنواع', 'All types')}</button>
         {KINDS.map((k) => <button key={k.id} onClick={() => setKind(k.id)} className={chip(kind === k.id)}>{lang === 'ar' ? k.ar : k.en}</button>)}
       </div>
+      <Link href="/verbs/quiz/" className="inline-block rounded-full bg-accent px-5 py-2 text-sm font-bold text-accent-ink">{t('اختبر نفسك', 'Take the quiz')}</Link>
       <input value={q} onChange={(e) => setQ(e.target.value)} placeholder={t('ابحث عن فعل (ألماني أو عربي أو إنجليزي)', 'Search a verb (German, Arabic or English)')} className="w-full rounded-full border border-line bg-card px-4 py-2 text-sm sm:w-96" />
       <p className="num text-sm text-muted">{list.length} {t('فعل', 'verbs')}</p>
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">

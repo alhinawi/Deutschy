@@ -9,6 +9,7 @@ export const sidebar: NavGroup[] = [
   { id: 'content', ar: 'الموسوعة', en: 'Encyclopedia', items: [
     { href: '/grammar/', ar: 'أكاديمية القواعد', en: 'Grammar academy' },
     { href: '/verbs/', ar: 'الأفعال والتصريف', en: 'Verbs' },
+    { href: '/verbs/quiz/', ar: 'اختبار الأفعال', en: 'Verb quiz' },
     { href: '/lessons/', ar: 'المفردات بالموضوع', en: 'Vocabulary by topic' },
     { href: '/learn/', ar: 'أساسيات', en: 'Basics' },
   ] },
