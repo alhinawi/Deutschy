@@ -629,7 +629,7 @@
    "topic": "food",
    "art": "der",
    "de": "Kuchen",
-   "plural": "",
+   "plural": "-",
    "ar": "كيكة",
    "photo": {
     "file": "Streuselkuchen7.jpg",
@@ -794,7 +794,7 @@
    "topic": "house",
    "art": "das",
    "de": "Fenster",
-   "plural": "",
+   "plural": "-",
    "ar": "شباك",
    "photo": {
     "file": "Wooden house (window shutters), Riga.jpg",
@@ -824,7 +824,7 @@
    "topic": "house",
    "art": "der",
    "de": "Schlüssel",
-   "plural": "",
+   "plural": "-",
    "ar": "مفتاح",
    "photo": {
     "file": "Solex 99 30 padlock with keys (DSCF2659).jpg",
@@ -854,7 +854,7 @@
    "topic": "house",
    "art": "der",
    "de": "Spiegel",
-   "plural": "",
+   "plural": "-",
    "ar": "مراية",
    "photo": {
     "file": "Mirror MET DP106620.jpg",
@@ -1394,7 +1394,7 @@
    "topic": "clothes",
    "art": "der",
    "de": "Gürtel",
-   "plural": "",
+   "plural": "-",
    "ar": "حزام",
    "photo": {
     "file": "Germany Belt-and-Buckle-02.jpg",
@@ -1544,7 +1544,7 @@
    "topic": "animals",
    "art": "der",
    "de": "Esel",
-   "plural": "",
+   "plural": "-",
    "ar": "حمار",
    "photo": {
     "file": "Donkey_in_Clovelly,_North_Devon,_England.jpg",
@@ -1604,7 +1604,7 @@
    "topic": "animals",
    "art": "das",
    "de": "Kaninchen",
-   "plural": "",
+   "plural": "-",
    "ar": "أرنب",
    "photo": {
     "file": "Oryctolagus_cuniculus.jpg",
@@ -1724,7 +1724,7 @@
    "topic": "school",
    "art": "der",
    "de": "Computer",
-   "plural": "",
+   "plural": "-",
    "ar": "كمبيوتر",
    "photo": {
     "file": "Student using desktop computer at CIJEF in 2004.jpg",
@@ -2084,7 +2084,7 @@
    "topic": "jobs",
    "art": "der",
    "de": "Bäcker",
-   "plural": "",
+   "plural": "-",
    "ar": "خباز",
    "photo": {
     "file": "Bakers_at_work,_2013.jpg",
@@ -2159,7 +2159,7 @@
    "topic": "jobs",
    "art": "der",
    "de": "Kellner",
-   "plural": "",
+   "plural": "-",
    "ar": "جرسون",
    "photo": {
     "file": "Cafe-prueckel-schanigarten.jpg",
@@ -2174,7 +2174,7 @@
    "topic": "kitchen",
    "art": "der",
    "de": "Teller",
-   "plural": "",
+   "plural": "-",
    "ar": "طبق",
    "photo": {
     "file": "Tellerset_Anmut_Platinum,_V&B_(2).jpg",
@@ -2459,7 +2459,7 @@
    "topic": "devices",
    "art": "der",
    "de": "Koffer",
-   "plural": "",
+   "plural": "-",
    "ar": "شنطة سفر",
    "photo": {
     "file": "Reisegepäck.JPG",
@@ -2564,7 +2564,7 @@
    "topic": "outdoors",
    "art": "das",
    "de": "Feuer",
-   "plural": "",
+   "plural": "-",
    "ar": "نار",
    "photo": {
     "file": "Fire02.jpg",
@@ -2729,7 +2729,7 @@
    "topic": "town",
    "art": "der",
    "de": "Brunnen",
-   "plural": "",
+   "plural": "-",
    "ar": "نافورة",
    "photo": {
     "file": "Brunnen_Kloster_Wald.JPG",
@@ -2803,7 +2803,7 @@
    "topic": "kitchen",
    "art": "das",
    "de": "Messer",
-   "plural": "",
+   "plural": "-",
    "ar": "سكينة",
    "id": "messer",
    "photo": {
@@ -2908,7 +2908,7 @@
    "topic": "devices",
    "art": "der",
    "de": "Besen",
-   "plural": "",
+   "plural": "-",
    "ar": "مقشة",
    "id": "besen",
    "photo": {
@@ -3419,7 +3419,7 @@
    "topic": "tiere2",
    "art": "der",
    "de": "Igel",
-   "plural": "",
+   "plural": "-",
    "ar": "قنفذ",
    "photo": {
     "file": "West European Hedgehog (Erinaceus europaeus)1.jpg",
@@ -3584,7 +3584,7 @@
    "topic": "moebel",
    "art": "der",
    "de": "Wecker",
-   "plural": "",
+   "plural": "-",
    "ar": "منبه",
    "photo": {
     "file": "Classic alarm clock 20180513.jpg",
@@ -3599,7 +3599,7 @@
    "topic": "moebel",
    "art": "der",
    "de": "Fernseher",
-   "plural": "",
+   "plural": "-",
    "ar": "تلفزيون",
    "photo": {
     "file": "Polytechnical Museum television set Volna 20150214 164839.jpg",
@@ -3764,7 +3764,7 @@
    "topic": "sport",
    "art": "der",
    "de": "Tennisschläger",
-   "plural": "",
+   "plural": "-",
    "ar": "مضرب تنس",
    "photo": {
     "file": "Tennis Racket and Balls.jpg",
@@ -3809,7 +3809,7 @@
    "topic": "sport",
    "art": "der",
    "de": "Kopfhörer",
-   "plural": "",
+   "plural": "-",
    "ar": "سماعات",
    "photo": {
     "file": "Bose QuietComfort 25 Acoustic Noise Cancelling Headphones with Carry Case.jpg",
@@ -3944,7 +3944,7 @@
    "topic": "moebel",
    "art": "das",
    "de": "Bügeleisen",
-   "plural": "",
+   "plural": "-",
    "ar": "مكواة",
    "photo": {
     "file": "Electric steam iron.jpg",
@@ -4004,7 +4004,7 @@
    "topic": "werkzeug",
    "art": "der",
    "de": "Pinsel",
-   "plural": "",
+   "plural": "-",
    "ar": "فرشاة",
    "photo": {
     "file": "2000s Wistoba Chinex Plus professional trade paintbrush model 1508 50 mm width stainless steel ferrule.jpg",
@@ -4124,7 +4124,7 @@
    "topic": "kleidung2",
    "art": "der",
    "de": "Stiefel",
-   "plural": "",
+   "plural": "-",
    "ar": "بوت",
    "photo": {
     "file": "Leather boots men's.jpg",
@@ -4199,7 +4199,7 @@
    "topic": "essen2",
    "art": "das",
    "de": "Brötchen",
-   "plural": "",
+   "plural": "-",
    "ar": "عيش صغير",
    "photo": {
     "file": "Bread rolls at Black Horse Inn, Nuthurst West Sussex England.jpg",
@@ -4229,7 +4229,7 @@
    "topic": "essen2",
    "art": "der",
    "de": "Burger",
-   "plural": "",
+   "plural": "-",
    "ar": "برجر",
    "photo": {
     "file": "Big Mac hamburger.jpg",
@@ -4304,7 +4304,7 @@
    "topic": "essen2",
    "art": "der",
    "de": "Pfannkuchen",
-   "plural": "",
+   "plural": "-",
    "ar": "بانكيك",
    "photo": {
     "file": "Pancake on pan.jpg",
@@ -4469,7 +4469,7 @@
    "topic": "natur2",
    "art": "der",
    "de": "Gletscher",
-   "plural": "",
+   "plural": "-",
    "ar": "نهر جليدي",
    "photo": {
     "file": "Sofia Massif and Sofia Glacier, Karachay-Cherkessia, Caucasus Mountains.jpg",
@@ -4544,7 +4544,7 @@
    "topic": "fahrzeuge",
    "art": "der",
    "de": "Lastwagen",
-   "plural": "",
+   "plural": "-",
    "ar": "عربية نقل",
    "photo": {
     "file": "PK Truck on N-5 near Thatta asv2020-02 img2.jpg",
@@ -4559,7 +4559,7 @@
    "topic": "fahrzeuge",
    "art": "der",
    "de": "Krankenwagen",
-   "plural": "",
+   "plural": "-",
    "ar": "إسعاف",
    "photo": {
     "file": "Bedford J1 Ambulance 1966.jpg",
@@ -4574,7 +4574,7 @@
    "topic": "fahrzeuge",
    "art": "der",
    "de": "Hubschrauber",
-   "plural": "",
+   "plural": "-",
    "ar": "هيليكوبتر",
    "photo": {
     "file": "Tengboche, Helicopter in flight, Mountains of Nepal.jpg",
@@ -4634,7 +4634,7 @@
    "topic": "fahrzeuge",
    "art": "der",
    "de": "Roller",
-   "plural": "",
+   "plural": "-",
    "ar": "اسكوتر",
    "photo": {
     "file": "Jinan scooter-20150519-RM-184932.jpg",
@@ -4664,7 +4664,7 @@
    "topic": "fahrzeuge",
    "art": "der",
    "de": "Bagger",
-   "plural": "",
+   "plural": "-",
    "ar": "حفار",
    "photo": {
     "file": "Caterpillar 330 excavator on a pile of dirt.jpg",
@@ -4694,7 +4694,7 @@
    "topic": "gebaeude",
    "art": "der",
    "de": "Tunnel",
-   "plural": "",
+   "plural": "-",
    "ar": "نفق",
    "photo": {
     "file": "London King's Cross rainbow light tunnel - 2023-06-25.jpg",
@@ -4814,7 +4814,7 @@
    "topic": "tiere3",
    "art": "das",
    "de": "Eichhörnchen",
-   "plural": "",
+   "plural": "-",
    "ar": "سنجاب",
    "photo": {
     "file": "Indian giant squirrel in Kuldiha Wildlife Sanctuary March 2025 by Tisha Mukherjee 01.jpg",
@@ -4919,7 +4919,7 @@
    "topic": "tiere3",
    "art": "der",
    "de": "Marienkäfer",
-   "plural": "",
+   "plural": "-",
    "ar": "دعسوقة",
    "photo": {
     "file": "Ladybug eating aphids. (49485764276).jpg",
@@ -5084,7 +5084,7 @@
    "topic": "tiere3",
    "art": "der",
    "de": "Tiger",
-   "plural": "",
+   "plural": "-",
    "ar": "نمر",
    "photo": {
     "file": "Bengal tiger (Panthera tigris tigris) female 3.jpg",
@@ -5114,7 +5114,7 @@
    "topic": "dinge2",
    "art": "der",
    "de": "Rasenmäher",
-   "plural": "",
+   "plural": "-",
    "ar": "ماكينة قص حشيش",
    "photo": {
     "file": "Viking lawn mower.jpg",
@@ -5144,7 +5144,7 @@
    "topic": "dinge2",
    "art": "der",
    "de": "Anker",
-   "plural": "",
+   "plural": "-",
    "ar": "مرساة",
    "photo": {
     "file": "Ancla, Anchor Bay, Malta, Malta, 2021-08-24, DD 12.jpg",
@@ -5189,7 +5189,7 @@
    "topic": "dinge2",
    "art": "der",
    "de": "Schlitten",
-   "plural": "",
+   "plural": "-",
    "ar": "زحافة",
    "photo": {
     "file": "Racing sled.jpg",
@@ -5204,7 +5204,7 @@
    "topic": "dinge2",
    "art": "der",
    "de": "Würfel",
-   "plural": "",
+   "plural": "-",
    "ar": "زهر",
    "photo": {
     "file": "6sided dice.jpg",
@@ -5249,7 +5249,7 @@
    "topic": "dinge2",
    "art": "das",
    "de": "Kabel",
-   "plural": "",
+   "plural": "-",
    "ar": "سلك",
    "photo": {
     "file": "'Twin and Earth' electrical cable. BS 6004, 6mm².jpg",
@@ -5354,7 +5354,7 @@
    "topic": "gemuese2",
    "art": "das",
    "de": "Radieschen",
-   "plural": "",
+   "plural": "-",
    "ar": "فجل",
    "photo": {
     "file": "Radish 3371103037 4ab07db0bf o.jpg",
@@ -5474,7 +5474,7 @@
    "topic": "fleisch",
    "art": "das",
    "de": "Hähnchen",
-   "plural": "",
+   "plural": "-",
    "ar": "فرخة",
    "photo": {
     "file": "Max's Roasted Chicken - Evan Swigart.jpg",
@@ -5564,7 +5564,7 @@
    "topic": "fleisch",
    "art": "der",
    "de": "Döner",
-   "plural": "",
+   "plural": "-",
    "ar": "شاورما",
    "photo": {
     "file": "Doner Kebab, sols carn i lletuga..jpg",
@@ -5579,7 +5579,7 @@
    "topic": "fleisch",
    "art": "das",
    "de": "Schnitzel",
-   "plural": "",
+   "plural": "-",
    "ar": "شنيتزل",
    "photo": {
     "file": "Allgäuer Schnitzel mit Kräuterrösti.jpg",
@@ -5684,7 +5684,7 @@
    "topic": "fleisch",
    "art": "der",
    "de": "Lebkuchen",
-   "plural": "",
+   "plural": "-",
    "ar": "خبز زنجبيل",
    "photo": {
     "file": "Chocolate covered gingerbread cookies 02.jpg",
@@ -5789,7 +5789,7 @@
    "topic": "getraenke2",
    "art": "der",
    "de": "Toaster",
-   "plural": "",
+   "plural": "-",
    "ar": "محمصة",
    "photo": {
     "file": "Hoteltoaster 01 (sk).jpg",
@@ -5999,7 +5999,7 @@
    "topic": "jobs2",
    "art": "der",
    "de": "Maler",
-   "plural": "",
+   "plural": "-",
    "ar": "نقاش",
    "photo": {
     "file": "Painters Xingping town 20090502 6089.jpg",
@@ -6014,7 +6014,7 @@
    "topic": "jobs2",
    "art": "der",
    "de": "Musiker",
-   "plural": "",
+   "plural": "-",
    "ar": "موسيقي",
    "photo": {
     "file": "Musician Playing Ravanhatta at Mehrangarh, Rajasthan, India.jpg",
@@ -6029,7 +6029,7 @@
    "topic": "jobs2",
    "art": "der",
    "de": "Fischer",
-   "plural": "",
+   "plural": "-",
    "ar": "صياد سمك",
    "photo": {
     "file": "Leg Rowing Fisherman Inle Lake Myanmar.jpg",
@@ -6329,7 +6329,7 @@
    "topic": "haushalt2",
    "art": "der",
    "de": "Sessel",
-   "plural": "",
+   "plural": "-",
    "ar": "فوتيه",
    "photo": {
     "file": "Armchair MET DT8323.jpg",
@@ -6344,7 +6344,7 @@
    "topic": "haushalt2",
    "art": "der",
    "de": "Lichtschalter",
-   "plural": "",
+   "plural": "-",
    "ar": "مفتاح نور",
    "photo": {
     "file": "Light Switch 1.jpg",
@@ -6374,7 +6374,7 @@
    "topic": "buero",
    "art": "der",
    "de": "Kugelschreiber",
-   "plural": "",
+   "plural": "-",
    "ar": "قلم جاف",
    "photo": {
     "file": "Ballpoint Pen DS.jpg",
@@ -6389,7 +6389,7 @@
    "topic": "buero",
    "art": "der",
    "de": "Taschenrechner",
-   "plural": "",
+   "plural": "-",
    "ar": "آلة حاسبة",
    "photo": {
     "file": "Citizen SLD-100NR calculator.jpg",
@@ -6434,7 +6434,7 @@
    "topic": "buero",
    "art": "der",
    "de": "Tacker",
-   "plural": "",
+   "plural": "-",
    "ar": "دباسة",
    "photo": {
     "file": "Stapler office.jpg",
@@ -6449,7 +6449,7 @@
    "topic": "buero",
    "art": "der",
    "de": "Locher",
-   "plural": "",
+   "plural": "-",
    "ar": "خرامة",
    "photo": {
     "file": "Hole punch.JPG",
@@ -6479,7 +6479,7 @@
    "topic": "buero",
    "art": "der",
    "de": "Füller",
-   "plural": "",
+   "plural": "-",
    "ar": "قلم حبر",
    "photo": {
     "file": "Fountain pen writing (literacy).jpg",
@@ -6524,7 +6524,7 @@
    "topic": "voegel",
    "art": "der",
    "de": "Adler",
-   "plural": "",
+   "plural": "-",
    "ar": "نسر",
    "photo": {
     "file": "African fish eagle (Haliaeetus vocifer) Ethiopia.jpg",
@@ -6569,7 +6569,7 @@
    "topic": "voegel",
    "art": "der",
    "de": "Papageitaucher",
-   "plural": "",
+   "plural": "-",
    "ar": "بفن",
    "photo": {
     "file": "Puffin (Fratercula arctica).jpg",
@@ -6719,7 +6719,7 @@
    "topic": "voegel",
    "art": "der",
    "de": "Käfer",
-   "plural": "",
+   "plural": "-",
    "ar": "خنفساء",
    "photo": {
     "file": "The red coats beetle bug.jpg",
@@ -6779,7 +6779,7 @@
    "topic": "voegel",
    "art": "der",
    "de": "Seeigel",
-   "plural": "",
+   "plural": "-",
    "ar": "قنفذ البحر",
    "photo": {
     "file": "Tripneustes ventricosus (West Indian Sea Egg-top) and Echinometra viridis (Reef Urchin - bottom).jpg",
@@ -6824,7 +6824,7 @@
    "topic": "saeuger",
    "art": "der",
    "de": "Otter",
-   "plural": "",
+   "plural": "-",
    "ar": "قضاعة",
    "photo": {
     "file": "European otter 02.jpg",
@@ -6839,7 +6839,7 @@
    "topic": "saeuger",
    "art": "der",
    "de": "Biber",
-   "plural": "",
+   "plural": "-",
    "ar": "قندس",
    "photo": {
     "file": "American Beaver.jpg",
@@ -6989,7 +6989,7 @@
    "topic": "saeuger",
    "art": "das",
    "de": "Ferkel",
-   "plural": "",
+   "plural": "-",
    "ar": "خنزير صغير",
    "photo": {
     "file": "Contre-jour photograph of a standing piglet at sunset with colorful sky in Don Det Laos.jpg",
@@ -7049,7 +7049,7 @@
    "topic": "pflanzen",
    "art": "das",
    "de": "Gänseblümchen",
-   "plural": "",
+   "plural": "-",
    "ar": "أقحوان",
    "photo": {
     "file": "Pink twinged daisy on table edit.jpg",
@@ -7124,7 +7124,7 @@
    "topic": "pflanzen",
    "art": "der",
    "de": "Tannenzapfen",
-   "plural": "",
+   "plural": "-",
    "ar": "مخروط صنوبر",
    "photo": {
     "file": "Pollen cone on a Ponderosa pine in Tuntorp, Brastad, Sweden.jpg",
@@ -7304,7 +7304,7 @@
    "topic": "landschaft",
    "art": "der",
    "de": "Krater",
-   "plural": "",
+   "plural": "-",
    "ar": "فوهة",
    "photo": {
     "file": "Crater Lake winter pano2.jpg",
@@ -7379,7 +7379,7 @@
    "topic": "medizin",
    "art": "das",
    "de": "Thermometer",
-   "plural": "",
+   "plural": "-",
    "ar": "ترمومتر",
    "photo": {
     "file": "CelsiusKelvinThermometer.jpg",
@@ -7409,7 +7409,7 @@
    "topic": "medizin",
    "art": "das",
    "de": "Pflaster",
-   "plural": "",
+   "plural": "-",
    "ar": "بلاستر",
    "photo": {
     "file": "Front and back of adhesive bandage sold with esoteric message of alleged 'healing forces'.jpg",
@@ -7499,7 +7499,7 @@
    "topic": "technik",
    "art": "der",
    "de": "Roboter",
-   "plural": "",
+   "plural": "-",
    "ar": "روبوت",
    "photo": {
     "file": "Toyota Robot at Toyota Kaikan.jpg",
@@ -7529,7 +7529,7 @@
    "topic": "technik",
    "art": "der",
    "de": "Kopierer",
-   "plural": "",
+   "plural": "-",
    "ar": "ماكينة تصوير",
    "photo": {
     "file": "Sharp MX-7500 photocopier.jpg",
@@ -7559,7 +7559,7 @@
    "topic": "bauen",
    "art": "der",
    "de": "Ziegel",
-   "plural": "",
+   "plural": "-",
    "ar": "طوبة",
    "photo": {
     "file": "Fallen bricks.jpg",
@@ -7589,7 +7589,7 @@
    "topic": "bauen",
    "art": "der",
    "de": "Schraubenschlüssel",
-   "plural": "",
+   "plural": "-",
    "ar": "مفتاح ربط",
    "photo": {
     "file": "Monkey wrench Mexico 1900.jpg",
@@ -7604,7 +7604,7 @@
    "topic": "bauen",
    "art": "der",
    "de": "Bohrer",
-   "plural": "",
+   "plural": "-",
    "ar": "مثقاب",
    "photo": {
     "file": "Drill bits 2017 G1.jpg",
@@ -7649,7 +7649,7 @@
    "topic": "bauen",
    "art": "der",
    "de": "Meißel",
-   "plural": "",
+   "plural": "-",
    "ar": "إزميل",
    "photo": {
     "file": "Chisel wood 24mm.jpg",
@@ -7814,7 +7814,7 @@
    "topic": "verkehr2",
    "art": "der",
    "de": "Zebrastreifen",
-   "plural": "",
+   "plural": "-",
    "ar": "عبور مشاة",
    "photo": {
     "file": "Zebra crossing St Helier.jpg",
@@ -7919,7 +7919,7 @@
    "topic": "verkehr2",
    "art": "der",
    "de": "Reifen",
-   "plural": "",
+   "plural": "-",
    "ar": "إطار",
    "photo": {
     "file": "Vittoria Randonneur tire (trekking bicycle).jpg",
@@ -7949,7 +7949,7 @@
    "topic": "verkehr2",
    "art": "der",
    "de": "Lenker",
-   "plural": "",
+   "plural": "-",
    "ar": "مقود",
    "photo": {
     "file": "Bicycle Handlebar.JPG",
@@ -8009,7 +8009,7 @@
    "topic": "kueche2",
    "art": "der",
    "de": "Wasserkocher",
-   "plural": "",
+   "plural": "-",
    "ar": "غلاية",
    "photo": {
     "file": "Electric kettle - Электрический чайник.JPG",
@@ -8054,7 +8054,7 @@
    "topic": "kueche2",
    "art": "der",
    "de": "Schneebesen",
-   "plural": "",
+   "plural": "-",
    "ar": "مضرب بيض",
    "photo": {
     "file": "Balloon spiral ball whisks.jpg",
@@ -8084,7 +8084,7 @@
    "topic": "kueche2",
    "art": "der",
    "de": "Dosenöffner",
-   "plural": "",
+   "plural": "-",
    "ar": "فتاحة علب",
    "photo": {
     "file": "Kitchen-Modern-Can-Opener.jpg",
@@ -8174,7 +8174,7 @@
    "topic": "kueche2",
    "art": "der",
    "de": "Schöpflöffel",
-   "plural": "",
+   "plural": "-",
    "ar": "مغرفة",
    "photo": {
     "file": "Ladle, bronze - Museo Egizio, Turin S 12577 p01.jpg",
@@ -8189,7 +8189,7 @@
    "topic": "kueche2",
    "art": "der",
    "de": "Eierbecher",
-   "plural": "",
+   "plural": "-",
    "ar": "حامل بيض",
    "photo": {
     "file": "Egg spiral egg cup.jpg",
@@ -8219,7 +8219,7 @@
    "topic": "kleidung2",
    "art": "der",
    "de": "Geldbeutel",
-   "plural": "",
+   "plural": "-",
    "ar": "محفظة",
    "photo": {
     "file": "WalletMpegMan.jpg",
@@ -8249,7 +8249,7 @@
    "topic": "essen3",
    "art": "der",
    "de": "Reiskocher",
-   "plural": "",
+   "plural": "-",
    "ar": "حلة أرز",
    "photo": {
     "file": "Panasonic RICE COOKER SR-L15H8.jpg",
@@ -8534,7 +8534,7 @@
    "topic": "sport2",
    "art": "der",
    "de": "Angelhaken",
-   "plural": "",
+   "plural": "-",
    "ar": "سنارة",
    "photo": {
     "file": "Fishing hooks on white surface.jpg",
@@ -8579,7 +8579,7 @@
    "topic": "sport2",
    "art": "die",
    "de": "Laufschuhe",
-   "plural": "",
+   "plural": "-",
    "ar": "حذاء جري",
    "photo": {
     "file": "Running shoes.jpg",
@@ -8654,7 +8654,7 @@
    "topic": "schule2",
    "art": "der",
    "de": "Zirkel",
-   "plural": "",
+   "plural": "-",
    "ar": "فرجار",
    "photo": {
     "file": "Compass (drawing tool).jpg",
@@ -8669,7 +8669,7 @@
    "topic": "schule2",
    "art": "der",
    "de": "Ordner",
-   "plural": "",
+   "plural": "-",
    "ar": "ملف",
    "photo": {
     "file": "Compare SpineLess ringless binder with comparable Ring binder dimensions.jpg",
@@ -8714,7 +8714,7 @@
    "topic": "schule2",
    "art": "der",
    "de": "Beamer",
-   "plural": "",
+   "plural": "-",
    "ar": "بروجيكتور",
    "photo": {
     "file": "Optima Projector.jpg",
@@ -8744,7 +8744,7 @@
    "topic": "haushalt2",
    "art": "das",
    "de": "Waschbecken",
-   "plural": "",
+   "plural": "-",
    "ar": "حوض",
    "photo": {
     "file": "Washbasins of the restrooms in Crowne Plaza Vientiane.jpg",
@@ -8774,7 +8774,7 @@
    "topic": "haushalt2",
    "art": "der",
    "de": "Kronleuchter",
-   "plural": "",
+   "plural": "-",
    "ar": "نجفة",
    "photo": {
     "file": "Chandelier captured in Madhapur, Hyderabad (1).jpg",
@@ -8864,7 +8864,7 @@
    "topic": "haushalt2",
    "art": "der",
    "de": "Rechen",
-   "plural": "",
+   "plural": "-",
    "ar": "مشط حديقة",
    "photo": {
     "file": "Garden rake made from turned pear tree wood, made 1560, Rustkammer Museum, Dresden.jpg",
@@ -8879,7 +8879,7 @@
    "topic": "haushalt2",
    "art": "der",
    "de": "Spaten",
-   "plural": "",
+   "plural": "-",
    "ar": "مجرفة",
    "photo": {
     "file": "Spade.jpg",
@@ -8984,7 +8984,7 @@
    "topic": "spielzeug",
    "art": "der",
    "de": "Kreisel",
-   "plural": "",
+   "plural": "-",
    "ar": "فركة",
    "photo": {
     "file": "Spinning top shadow.jpg",
@@ -9404,7 +9404,7 @@
    "topic": "tiere5",
    "art": "der",
    "de": "Seeadler",
-   "plural": "",
+   "plural": "-",
    "ar": "نسر البحر",
    "photo": {
     "file": "White-bellied Sea-Eagle in Sundarbans National Park October 2025 by Tisha Mukherjee 03.jpg",
@@ -9419,7 +9419,7 @@
    "topic": "tiere5",
    "art": "der",
    "de": "Marder",
-   "plural": "",
+   "plural": "-",
    "ar": "دلق",
    "photo": {
     "file": "European pine marten (Martes martes) Drenthe 2.jpg",
@@ -9449,7 +9449,7 @@
    "topic": "tiere5",
    "art": "der",
    "de": "Reiher",
-   "plural": "",
+   "plural": "-",
    "ar": "مالك الحزين",
    "photo": {
     "file": "Green heron in PP (14296).jpg",
@@ -9524,7 +9524,7 @@
    "topic": "tiere5",
    "art": "das",
    "de": "Seepferdchen",
-   "plural": "",
+   "plural": "-",
    "ar": "حصان البحر",
    "photo": {
     "file": "Seahorse Skeleton Macro 8.JPG",
@@ -9629,7 +9629,7 @@
    "topic": "fahrzeuge2",
    "art": "der",
    "de": "Mähdrescher",
-   "plural": "",
+   "plural": "-",
    "ar": "حصادة",
    "photo": {
     "file": "John Deere Combine Harvester Ebing 1811.jpg",
@@ -9674,7 +9674,7 @@
    "topic": "fahrzeuge2",
    "art": "der",
    "de": "Müllwagen",
-   "plural": "",
+   "plural": "-",
    "ar": "عربية زبالة",
    "photo": {
     "file": "Recology Lodal Garbage Truck 14425 in San Francisco.jpg",
@@ -9794,7 +9794,7 @@
    "topic": "fahrzeuge2",
    "art": "der",
    "de": "Pferdewagen",
-   "plural": "",
+   "plural": "-",
    "ar": "عربية حنطور",
    "photo": {
     "file": "Horse carriage, Gwalior.jpg",
