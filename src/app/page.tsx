@@ -11,7 +11,7 @@ export default function Home() {
       <section className="grid items-center gap-8 lg:grid-cols-2">
         <div className="space-y-5">
           <p className="num text-sm font-bold text-accent"><T ar={`من A1 لحد C2 · ${arWords(words.length)} بصور حقيقية جاهزة دلوقتي`} en={`A1 to C2 · ${words.length} words with real photos, ready now`} /></p>
-          <h1 className="ar-title text-4xl font-bold leading-[1.15] md:text-6xl">
+          <h1 className="ar-title min-h-[2.3em] text-4xl font-bold leading-[1.15] md:text-6xl">
             <T ar="الألماني بقى " en="German is easier " /><span className="text-accent"><T ar="أسهل" en="with pictures" /></span><T ar=" بالصورة والعربي المصري" en=" and plain explanations" />
           </h1>
           <p className="max-w-lg text-lg text-muted"><T ar="كل كلمة معاها صورة حقيقية، أداة التعريف الصح (der / die / das)، والجمع. اتعلم بالكروت وبعدين العب وجمّع XP." en="Every word comes with a real photo, the right article (der / die / das) and the plural. Learn with cards, then play and collect XP." /></p>

@@ -4,8 +4,8 @@
 @font-face { font-family: "Fraunces"; src: url("/fonts/fraunces-latin-ext-wght-normal.woff2") format("woff2"); font-weight: 100 900; font-display: swap; unicode-range: U+0100-02BA,U+1E00-1EFF; }
 @font-face { font-family: "Fraunces"; font-style: italic; src: url("/fonts/fraunces-latin-wght-italic.woff2") format("woff2"); font-weight: 100 900; font-display: swap; }
 @font-face { font-family: "Cairo"; src: url("/fonts/cairo-var.woff2") format("woff2"); font-weight: 200 1000; font-display: swap; }
-@font-face { font-family: "Amiri"; src: url("/fonts/amiri-regular-arabic.woff2") format("woff2"); font-weight: 400; font-display: swap; unicode-range: U+0600-06FF,U+0750-077F,U+FB50-FDFF,U+FE70-FEFF; }
-@font-face { font-family: "Amiri"; src: url("/fonts/amiri-bold-arabic.woff2") format("woff2"); font-weight: 700; font-display: swap; unicode-range: U+0600-06FF,U+0750-077F,U+FB50-FDFF,U+FE70-FEFF; }
+@font-face { font-family: "Amiri"; src: url("/fonts/amiri-regular-arabic.woff2") format("woff2"); font-weight: 400; font-display: optional; unicode-range: U+0600-06FF,U+0750-077F,U+FB50-FDFF,U+FE70-FEFF; }
+@font-face { font-family: "Amiri"; src: url("/fonts/amiri-bold-arabic.woff2") format("woff2"); font-weight: 700; font-display: optional; unicode-range: U+0600-06FF,U+0750-077F,U+FB50-FDFF,U+FE70-FEFF; }
 
 @theme inline {
   --color-paper: var(--paper);
