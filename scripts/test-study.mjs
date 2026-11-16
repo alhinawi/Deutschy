@@ -228,3 +228,11 @@ assert(correctedA1.find(g=>g.id==='artikel-genus').points[1][1].includes('den in
 assert(correctedA1.find(g=>g.id==='negation').points[1][1].includes('before the final infinitive or participle'));
 assert(correctedA1.find(g=>g.id==='imperativ').points[0][1].includes('Fahr!, not Fähr!'));
 console.log('PASS: four source-reviewed beginner grammar explanations retain key qualifications');
+
+const {flashDecision,queue:flashQueue,SESSION_MAX,NEW_PER_SESSION}=lib('srs');
+for(const ok of [true,false]) {const d=flashDecision(true,ok);assert.equal(d.schedule,false);assert.equal(d.record,false);assert.equal(d.xp,0);assert.equal(d.countKnown,false);assert.equal(d.requeue,false);}
+assert.equal(flashDecision(false,false).requeue,true);assert.equal(flashDecision(false,true).xp,2);
+const queueState=Object.fromEntries(words.slice(0,30).map((w,i)=>[w.id,{b:i%6+1,due:100}]));
+const dueFlash=flashQueue(words,queueState,100);assert.equal(dueFlash.length,SESSION_MAX);assert(dueFlash.every(w=>queueState[w.id]));
+assert.equal(flashQueue(words,{},100).length,NEW_PER_SESSION);
+console.log('PASS: flash retries are bounded, first-pass-only schedule/XP/history, due priority and session/new limits');

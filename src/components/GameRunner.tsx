@@ -1,14 +1,14 @@
 'use client';
 import Speaker from './Speaker';
 import { arTries } from '@/lib/arcount';
-import { useMemo, useState } from 'react';
+import { useMemo, useRef, useState } from 'react';
 import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
 import { words, topics, topicTitles, Word, img, sample, shuffle, glossOf, topicName } from '@/lib/data';
 import { useLang, useT } from '@/lib/i18n';
 import { useStore } from '@/lib/store';
 import { speak } from '@/lib/speak';
-import { stats, queue, grade } from '@/lib/srs';
+import { stats, queue, grade, flashDecision } from '@/lib/srs';
 
 const pool = (topic: string | null) => (topic ? words.filter((w) => w.topic === topic) : words);
 
@@ -56,6 +56,7 @@ function Flash({ list }: { list: Word[] }) {
   const [flip, setFlip] = useState(false);
   const [known, setKnown] = useState(0);
   const [retry, setRetry] = useState<Set<string>>(new Set());
+  const answered = useRef(new Set<number>());
   if (!ready) return <p className="text-muted">…</p>;
   const st = stats(list, s.srs);
   if (deck === null) {
@@ -63,12 +64,12 @@ function Flash({ list }: { list: Word[] }) {
     return (
       <div className="mx-auto max-w-md space-y-4 rounded-2xl border border-line bg-card p-6">
         <p className="ar-title text-2xl font-bold">{t('مراجعة متباعدة', 'Spaced repetition')}</p>
-        <p className="text-muted">{t('الكلمة اللي بتعرفها بترجعلك بعد وقت أطول، واللي مش بتعرفها بترجعلك في نفس الجلسة.', 'Words you know come back after a longer gap. Words you miss come back in the same session.')}</p>
+        <p className="text-muted">{t('أول إجابة على الكلمة هي اللي بتحدد الجدول والنقط. الغلط بيرجع مرة واحدة للتدريب في نفس الجولة، وبيفضل مستحق النهارده حتى لو عرفته في الإعادة.', 'The first answer sets the schedule and points. Each miss gets one practice retry this round and stays due today, even if the retry is correct.')}</p>
         <dl className="num grid grid-cols-2 gap-3 text-center" dir="ltr">
           <div className="rounded-xl bg-paper p-3"><dt className="text-xs text-muted">{t('مستحقة النهارده', 'Due today')}</dt><dd className="text-2xl font-bold">{st.due}</dd></div>
           <div className="rounded-xl bg-paper p-3"><dt className="text-xs text-muted">{t('جديدة', 'New')}</dt><dd className="text-2xl font-bold">{st.fresh}</dd></div>
           <div className="rounded-xl bg-paper p-3"><dt className="text-xs text-muted">{t('بتتعلمها', 'Learning')}</dt><dd className="text-2xl font-bold">{st.learning}</dd></div>
-          <div className="rounded-xl bg-paper p-3"><dt className="text-xs text-muted">{t('حافظاها', 'Known')}</dt><dd className="text-2xl font-bold">{st.known}</dd></div>
+          <div className="rounded-xl bg-paper p-3"><dt className="text-xs text-muted">{t('صندوق 4 أو أعلى', 'Box 4 or higher')}</dt><dd className="text-2xl font-bold">{st.known}</dd></div>
         </dl>
         {q.length > 0 ? (
           <button onClick={() => setDeck(q)} className="w-full rounded-full bg-accent py-3 font-bold text-accent-ink">{t(`ابدأ (${q.length} كارت)`, `Start (${q.length} cards)`)}</button>
@@ -76,19 +77,21 @@ function Flash({ list }: { list: Word[] }) {
       </div>
     );
   }
-  if (i >= deck.length) return <Done title={t('خلصت الجلسة', 'Session finished')} line={t(`عرفت ${known} من ${deck.length}`, `You knew ${known} of ${deck.length}`)} xp={known * 2} />;
+  if (i >= deck.length) return <Done title={t('خلصت الجلسة', 'Session finished')} line={t(`صح من أول مرة: ${known} من ${deck.length-retry.size}. إعادة التدريب ملهاش نقط ومش بتأجل المراجعة.`, `First-pass correct: ${known} of ${deck.length-retry.size}. Practice retries earn no points and do not postpone review.`)} xp={known * 2} />;
   const w = deck[i];
   const next = (ok: boolean) => {
-    const first = !retry.has(w.id);
-    if (first) setCard(w.id, grade(s.srs[w.id], ok));
-    award(ok ? 2 : 0, w.id, ok);
-    if (ok) setKnown((k) => k + 1);
-    else { setRetry(new Set(retry).add(w.id)); setDeck([...deck, w]); }
+    if (answered.current.has(i)) return;
+    answered.current.add(i);
+    const decision = flashDecision(retry.has(w.id), ok);
+    if (decision.schedule) setCard(w.id, grade(s.srs[w.id], ok));
+    if (decision.record) award(decision.xp, w.id, ok);
+    if (decision.countKnown) setKnown((k) => k + 1);
+    if (decision.requeue) { setRetry(new Set(retry).add(w.id)); setDeck([...deck, w]); }
     setFlip(false); setI(i + 1);
   };
   return (
     <div className="mx-auto max-w-md space-y-4">
-      <p dir="ltr" className="num text-center text-sm text-muted">{i + 1} / {deck.length}</p>
+      <p dir="ltr" className="num text-center text-sm text-muted">{i + 1} / {deck.length}</p>{retry.has(w.id)&&<p role="status" className="rounded-xl border border-line bg-card p-3 text-sm">{t('إعادة تدريب واحدة. الكلمة هتفضل مستحقة النهارده، من غير نقط إضافية.','One practice retry. This word stays due today, with no extra points.')}</p>}
       <button onClick={() => setFlip(!flip)} className="block w-full overflow-hidden rounded-2xl border border-line bg-card text-start">
         <Photo w={w} />
         <div className="p-5 text-center">
