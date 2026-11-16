@@ -8,6 +8,7 @@ import { words, topics, topicTitles, Word, img, sample, shuffle, glossOf, topicN
 import { useLang, useT } from '@/lib/i18n';
 import { useStore } from '@/lib/store';
 import { speak } from '@/lib/speak';
+import { stats, queue, grade } from '@/lib/srs';
 
 const pool = (topic: string | null) => (topic ? words.filter((w) => w.topic === topic) : words);
 
@@ -49,14 +50,42 @@ function Photo({ w }: { w: Word }) {
 function Flash({ list }: { list: Word[] }) {
   const t = useT();
   const { lang } = useLang();
-  const deck = useMemo(() => shuffle(list), [list]);
-  const { award } = useStore();
+  const { s, ready, award, setCard } = useStore();
+  const [deck, setDeck] = useState<Word[] | null>(null);
   const [i, setI] = useState(0);
   const [flip, setFlip] = useState(false);
   const [known, setKnown] = useState(0);
-  if (i >= deck.length) return <Done title={t('خلصت الكروت', 'Deck finished')} line={t(`عرفت ${known} من ${deck.length}`, `You knew ${known} of ${deck.length}`)} xp={known * 2} />;
+  const [retry, setRetry] = useState<Set<string>>(new Set());
+  if (!ready) return <p className="text-muted">…</p>;
+  const st = stats(list, s.srs);
+  if (deck === null) {
+    const q = queue(list, s.srs);
+    return (
+      <div className="mx-auto max-w-md space-y-4 rounded-2xl border border-line bg-card p-6">
+        <p className="ar-title text-2xl font-bold">{t('مراجعة متباعدة', 'Spaced repetition')}</p>
+        <p className="text-muted">{t('الكلمة اللي بتعرفها بترجعلك بعد وقت أطول، واللي مش بتعرفها بترجعلك في نفس الجلسة.', 'Words you know come back after a longer gap. Words you miss come back in the same session.')}</p>
+        <dl className="num grid grid-cols-2 gap-3 text-center" dir="ltr">
+          <div className="rounded-xl bg-paper p-3"><dt className="text-xs text-muted">{t('مستحقة النهارده', 'Due today')}</dt><dd className="text-2xl font-bold">{st.due}</dd></div>
+          <div className="rounded-xl bg-paper p-3"><dt className="text-xs text-muted">{t('جديدة', 'New')}</dt><dd className="text-2xl font-bold">{st.fresh}</dd></div>
+          <div className="rounded-xl bg-paper p-3"><dt className="text-xs text-muted">{t('بتتعلمها', 'Learning')}</dt><dd className="text-2xl font-bold">{st.learning}</dd></div>
+          <div className="rounded-xl bg-paper p-3"><dt className="text-xs text-muted">{t('حافظاها', 'Known')}</dt><dd className="text-2xl font-bold">{st.known}</dd></div>
+        </dl>
+        {q.length > 0 ? (
+          <button onClick={() => setDeck(q)} className="w-full rounded-full bg-accent py-3 font-bold text-accent-ink">{t(`ابدأ (${q.length} كارت)`, `Start (${q.length} cards)`)}</button>
+        ) : <p className="ar-title text-lg">{t('مفيش كروت مستحقة دلوقتي. ارجع بكرة.', 'No cards are due right now. Come back tomorrow.')}</p>}
+      </div>
+    );
+  }
+  if (i >= deck.length) return <Done title={t('خلصت الجلسة', 'Session finished')} line={t(`عرفت ${known} من ${deck.length}`, `You knew ${known} of ${deck.length}`)} xp={known * 2} />;
   const w = deck[i];
-  const next = (ok: boolean) => { award(ok ? 2 : 0, w.id, ok); if (ok) setKnown((k) => k + 1); setFlip(false); setI(i + 1); };
+  const next = (ok: boolean) => {
+    const first = !retry.has(w.id);
+    if (first) setCard(w.id, grade(s.srs[w.id], ok));
+    award(ok ? 2 : 0, w.id, ok);
+    if (ok) setKnown((k) => k + 1);
+    else { setRetry(new Set(retry).add(w.id)); setDeck([...deck, w]); }
+    setFlip(false); setI(i + 1);
+  };
   return (
     <div className="mx-auto max-w-md space-y-4">
       <p dir="ltr" className="num text-center text-sm text-muted">{i + 1} / {deck.length}</p>
