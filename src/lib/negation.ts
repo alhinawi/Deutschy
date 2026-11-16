@@ -1,0 +1,63 @@
+// [sentence with ___, answer, wrong, wrong, wrong, Arabic note]
+export const kein: [string, string, string, string, string, string][] = [
+  ['Ich habe ___ Auto.', 'kein', 'keine', 'keinen', 'nicht', 'Auto محايد: kein.'],
+  ['Er hat ___ Zeit.', 'keine', 'kein', 'keinen', 'nicht', 'Zeit مؤنث: keine.'],
+  ['Wir haben ___ Hund.', 'keinen', 'kein', 'keine', 'nicht', 'Hund مذكر والفعل بيطلب Akkusativ: keinen.'],
+  ['Das ist ___ mein Buch.', 'nicht', 'kein', 'keine', 'keinen', 'قبل mein (ملكية) بنستخدم nicht.'],
+  ['Ich komme heute ___.', 'nicht', 'kein', 'keine', 'keinen', 'بننفي الفعل: nicht في الآخر.'],
+  ['Das Wetter ist ___ schön.', 'nicht', 'kein', 'keine', 'keinen', 'بننفي الصفة: nicht قبلها.'],
+  ['Sie hat ___ Geschwister.', 'keine', 'kein', 'keinen', 'nicht', 'جمع من غير أداة: keine.'],
+  ['Ich kenne ihn ___.', 'nicht', 'kein', 'keine', 'keinen', 'بننفي الفعل مع الضمير: nicht.'],
+  ['Das ist ___ Tisch, das ist ein Stuhl.', 'kein', 'keine', 'keinen', 'nicht', 'ein Tisch: ننفيها بـ kein.'],
+  ['Er spricht ___ Deutsch.', 'kein', 'keine', 'keinen', 'nicht', 'Deutsch من غير أداة: kein.'],
+  ['Ich gehe ___ zur Schule.', 'nicht', 'kein', 'keine', 'keinen', 'قبل الجار والمجرور: nicht.'],
+  ['Wir haben ___ Kinder.', 'keine', 'kein', 'keinen', 'nicht', 'جمع: keine.'],
+  ['Ich esse ___ Fleisch.', 'kein', 'keine', 'keinen', 'nicht', 'Fleisch من غير أداة: kein.'],
+  ['Der Film ist ___ gut.', 'nicht', 'kein', 'keine', 'keinen', 'بننفي الصفة: nicht.'],
+  ['Ich habe heute ___ Hunger.', 'keinen', 'kein', 'keine', 'nicht', 'Hunger مذكر: keinen.'],
+  ['Das ist ___ meine Schuld.', 'nicht', 'kein', 'keine', 'keinen', 'قبل meine: nicht.'],
+];
+// [correct, wrong, wrong, wrong]
+export const order: [string, string, string, string][] = [
+  ['Das Essen ist nicht gut.', 'Das Essen nicht ist gut.', 'Das Essen ist gut nicht.', 'Das Essen gut ist nicht.'],
+  ['Sie fährt nicht nach Berlin.', 'Sie nicht fährt nach Berlin.', 'Sie fährt nach nicht Berlin.', 'Sie fährt nach Berlin nicht.'],
+  ['Er hat das Buch nicht gelesen.', 'Er nicht hat das Buch gelesen.', 'Er hat das Buch gelesen nicht.', 'Er hat gelesen nicht das Buch.'],
+  ['Wir gehen heute nicht ins Kino.', 'Wir nicht gehen heute ins Kino.', 'Wir gehen heute ins Kino nicht.', 'Wir gehen heute ins nicht Kino.'],
+  ['Ich kann nicht schwimmen.', 'Ich nicht kann schwimmen.', 'Ich kann schwimmen nicht.', 'Nicht kann ich schwimmen.'],
+  ['Das ist nicht mein Auto.', 'Das ist kein mein Auto.', 'Das ist mein Auto nicht.', 'Das nicht ist mein Auto.'],
+];
+// [sentence, answer, wrong, wrong, wrong]
+export const wq: [string, string, string, string, string][] = [
+  ['___ kommst du? Aus Ägypten.', 'Woher', 'Wohin', 'Wo', 'Wann'],
+  ['___ gehst du? Nach Hause.', 'Wohin', 'Woher', 'Wo', 'Wer'],
+  ['___ wohnst du? In Mansura.', 'Wo', 'Wohin', 'Woher', 'Wie'],
+  ['___ stehst du auf? Um sieben.', 'Wann', 'Wo', 'Wer', 'Warum'],
+  ['___ heißt du? Ali.', 'Wie', 'Wo', 'Wann', 'Wohin'],
+  ['___ lernst du Deutsch? Weil ich in Deutschland arbeiten möchte.', 'Warum', 'Wann', 'Wohin', 'Wer'],
+  ['___ ist das? Das ist mein Bruder.', 'Wer', 'Wo', 'Wann', 'Warum'],
+  ['___ machst du? Ich lese.', 'Was', 'Wer', 'Wo', 'Wann'],
+  ['___ siehst du? Ich sehe den Lehrer.', 'Wen', 'Wem', 'Wann', 'Wo'],
+  ['___ hilfst du? Ich helfe meiner Mutter.', 'Wem', 'Wen', 'Wann', 'Wo'],
+  ['___ Kinder hast du? Zwei.', 'Wie viele', 'Wie viel', 'Wie lange', 'Wann'],
+  ['___ kostet das? Fünf Euro.', 'Wie viel', 'Wie viele', 'Wie lange', 'Wo'],
+  ['___ dauert der Kurs? Drei Monate.', 'Wie lange', 'Wie viel', 'Wann', 'Wo'],
+  ['___ Farbe hat das Auto? Rot.', 'Welche', 'Welcher', 'Welches', 'Wer'],
+  ['___ fährst du? Mit dem Bus.', 'Womit', 'Wohin', 'Wann', 'Wo'],
+];
+export const wlist: [string, string, string, string][] = [
+  ['wer', 'مين (فاعل)', 'who (subject)', 'Wer ist das?'],
+  ['was', 'إيه', 'what', 'Was machst du?'],
+  ['wen', 'مين (مفعول)', 'whom (Akkusativ)', 'Wen siehst du?'],
+  ['wem', 'لمين', 'to whom (Dativ)', 'Wem hilfst du?'],
+  ['wo', 'فين (مكان)', 'where (place)', 'Wo wohnst du?'],
+  ['woher', 'منين', 'where from', 'Woher kommst du?'],
+  ['wohin', 'لفين', 'where to', 'Wohin gehst du?'],
+  ['wann', 'امتى', 'when', 'Wann stehst du auf?'],
+  ['wie', 'إزاي، اسمك إيه', 'how', 'Wie heißt du?'],
+  ['warum', 'ليه', 'why', 'Warum lernst du Deutsch?'],
+  ['welche(r/s)', 'أنهي', 'which', 'Welche Farbe hat das Auto?'],
+  ['wie viel', 'كام (مفرد)', 'how much', 'Wie viel kostet das?'],
+  ['wie viele', 'كام (جمع)', 'how many', 'Wie viele Kinder hast du?'],
+  ['wie lange', 'قد إيه (مدة)', 'how long', 'Wie lange dauert der Kurs?'],
+  ['womit', 'بإيه', 'with what', 'Womit fährst du?'],
+];
