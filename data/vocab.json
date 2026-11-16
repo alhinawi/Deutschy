@@ -527,11 +527,11 @@
    "plural": "",
    "ar": "لحمة",
    "photo": {
-    "file": "Venison_Steaks.jpg",
-    "page": "https://de.wikipedia.org/wiki/Fleisch",
-    "commons": "https://commons.wikimedia.org/wiki/File:Venison_Steaks.jpg",
-    "license": "CC BY-SA 2.0",
-    "author": "FotoosVanRobin from Netherlands"
+    "file": "XO Steak and French Fries.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:XO_Steak_and_French_Fries.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:XO_Steak_and_French_Fries.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Yotam Nachum"
    }
   },
   {
@@ -557,11 +557,11 @@
    "plural": "Fische",
    "ar": "سمكة",
    "photo": {
-    "file": "Fresh fish on ice at the wholesale market, Tsuruga, March 2015.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Fresh_fish_on_ice_at_the_wholesale_market,_Tsuruga,_March_2015.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Fresh_fish_on_ice_at_the_wholesale_market,_Tsuruga,_March_2015.jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "NevinThompson"
+    "file": "Laks i laksetrappa.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Laks_i_laksetrappa.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Laks_i_laksetrappa.JPG",
+    "license": "CC BY 3.0",
+    "author": "Jarvin - Jarle Vines"
    }
   },
   {
@@ -1296,7 +1296,8 @@
     "page": "https://commons.wikimedia.org/wiki/File:Dress_with_circle_skirt_in_the_wind_-_pose_2.jpg",
     "commons": "https://commons.wikimedia.org/wiki/File:Dress_with_circle_skirt_in_the_wind_-_pose_2.jpg",
     "license": "CC BY-SA 3.0",
-    "author": "Tobias ToMar Maier"
+    "author": "Tobias ToMar Maier",
+    "modified": "Cropped to exclude faces; original attribution and license retained."
    }
   },
   {
@@ -2061,7 +2062,8 @@
     "page": "https://de.wikipedia.org/wiki/Koch",
     "commons": "https://commons.wikimedia.org/wiki/File:Cookers_in_the_White_House_kitchen.jpg",
     "license": "Public domain",
-    "author": "Shealeah Craighead"
+    "author": "Shealeah Craighead",
+    "modified": "Cropped to exclude faces; original attribution and license retained."
    }
   },
   {
@@ -2076,7 +2078,8 @@
     "page": "https://de.wikipedia.org/wiki/Polizist",
     "commons": "https://commons.wikimedia.org/wiki/File:Very_friendly_MPS_officers_in_London.jpg",
     "license": "Public domain",
-    "author": "Octagon"
+    "author": "Octagon",
+    "modified": "Cropped to exclude faces; original attribution and license retained."
    }
   },
   {
@@ -2091,7 +2094,8 @@
     "page": "https://de.wikipedia.org/wiki/B%C3%A4cker",
     "commons": "https://commons.wikimedia.org/wiki/File:Bakers_at_work,_2013.jpg",
     "license": "CC BY 2.0",
-    "author": "Jarkko Laine"
+    "author": "Jarkko Laine",
+    "modified": "Cropped to exclude faces; original attribution and license retained."
    }
   },
   {
@@ -2106,7 +2110,8 @@
     "page": "https://commons.wikimedia.org/wiki/File:Engineer_working_on_a_3d-model.jpg",
     "commons": "https://commons.wikimedia.org/wiki/File:Engineer_working_on_a_3d-model.jpg",
     "license": "CC BY 4.0",
-    "author": "Digitalboyare"
+    "author": "Digitalboyare",
+    "modified": "Cropped to exclude faces; original attribution and license retained."
    }
   },
   {
@@ -2162,11 +2167,12 @@
    "plural": "-",
    "ar": "جرسون",
    "photo": {
-    "file": "Cafe-prueckel-schanigarten.jpg",
-    "page": "https://de.wikipedia.org/wiki/Kellner",
-    "commons": "https://commons.wikimedia.org/wiki/File:Cafe-prueckel-schanigarten.jpg",
-    "license": "CC BY-SA 2.0 at",
-    "author": "Andreas Poeschek, viennaphoto.at"
+    "file": "Serving Ergonomics.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Serving_Ergonomics.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Serving_Ergonomics.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "HarvardOcDoc",
+    "modified": "Cropped to show only the face-free serving example."
    }
   },
   {
@@ -2691,7 +2697,8 @@
     "page": "https://de.wikipedia.org/wiki/Zoo",
     "commons": "https://commons.wikimedia.org/wiki/File:Hagenbeck_Robbenf%C3%BCtterung.jpg",
     "license": "CC BY-SA 3.0",
-    "author": "Anneke Wolf at German Wikipedia\n\n(Original text: Anneke Wolf)"
+    "author": "Anneke Wolf at German Wikipedia\n\n(Original text: Anneke Wolf)",
+    "modified": "Cropped to exclude faces; original attribution and license retained."
    }
   },
   {
@@ -5477,11 +5484,11 @@
    "plural": "-",
    "ar": "فرخة",
    "photo": {
-    "file": "Max's Roasted Chicken - Evan Swigart.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Max%27s_Roasted_Chicken_-_Evan_Swigart.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Max%27s_Roasted_Chicken_-_Evan_Swigart.jpg",
-    "license": "CC BY 2.0",
-    "author": "Evan Swigart from Chicago, USA"
+    "file": "Teriyaki and Lime Chicken Salad.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Teriyaki_and_Lime_Chicken_Salad.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Teriyaki_and_Lime_Chicken_Salad.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "Saaleha Bamjee from Johannesburg, South africa"
    }
   },
   {
@@ -5522,11 +5529,11 @@
    "plural": "Lachse",
    "ar": "سلمون",
    "photo": {
-    "file": "Pink salmon FWS.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Pink_salmon_FWS.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Pink_salmon_FWS.jpg",
-    "license": "Public domain",
-    "author": "Timothy Knepp"
+    "file": "Laks i laksetrappa.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Laks_i_laksetrappa.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Laks_i_laksetrappa.JPG",
+    "license": "CC BY 3.0",
+    "author": "Jarvin - Jarle Vines"
    }
   },
   {
@@ -6021,7 +6028,8 @@
     "page": "https://commons.wikimedia.org/wiki/File:Musician_Playing_Ravanhatta_at_Mehrangarh,_Rajasthan,_India.jpg",
     "commons": "https://commons.wikimedia.org/wiki/File:Musician_Playing_Ravanhatta_at_Mehrangarh,_Rajasthan,_India.jpg",
     "license": "CC BY-SA 4.0",
-    "author": "Harshil Mehta"
+    "author": "Harshil Mehta",
+    "modified": "Cropped to exclude faces; original attribution and license retained."
    }
   },
   {
@@ -6062,11 +6070,11 @@
    "plural": "Handbälle",
    "ar": "كرة يد",
    "photo": {
-    "file": "CZE vs FRA (01) - 2010 European Men's Handball Championship.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:CZE_vs_FRA_(01)_-_2010_European_Men%27s_Handball_Championship.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:CZE_vs_FRA_(01)_-_2010_European_Men%27s_Handball_Championship.jpg",
+    "file": "Handball the ball.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Handball_the_ball.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Handball_the_ball.jpg",
     "license": "CC BY-SA 3.0",
-    "author": "Steindy (talk) 00:03, 21 January 2010 (UTC)"
+    "author": "Armin Kuebelbeck"
    }
   },
   {
@@ -6081,7 +6089,8 @@
     "page": "https://commons.wikimedia.org/wiki/File:Zawody_w_skateboardingu_Street_of_Mediateka,_Zag%C5%82%C4%99biowska_Mediateka,_ulica_Ko%C5%9Bcielna,_Sosnowiec,_22_czerwca_2024_01.jpg",
     "commons": "https://commons.wikimedia.org/wiki/File:Zawody_w_skateboardingu_Street_of_Mediateka,_Zag%C5%82%C4%99biowska_Mediateka,_ulica_Ko%C5%9Bcielna,_Sosnowiec,_22_czerwca_2024_01.jpg",
     "license": "CC BY 4.0",
-    "author": "Krzysztof Popławski"
+    "author": "Krzysztof Popławski",
+    "modified": "Cropped to exclude faces; original attribution and license retained."
    }
   },
   {
@@ -6126,7 +6135,8 @@
     "page": "https://commons.wikimedia.org/wiki/File:Blind_accordion_player.jpg",
     "commons": "https://commons.wikimedia.org/wiki/File:Blind_accordion_player.jpg",
     "license": "CC BY-SA 3.0",
-    "author": "Tomascastelazo"
+    "author": "Tomascastelazo",
+    "modified": "Cropped to exclude faces; original attribution and license retained."
    }
   },
   {
@@ -6632,11 +6642,11 @@
    "plural": "Spinnen",
    "ar": "عنكبوت",
    "photo": {
-    "file": "Wandering spider (Cupiennius getazi) with female katydid prey (Tettigoniidae sp.).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Wandering_spider_(Cupiennius_getazi)_with_female_katydid_prey_(Tettigoniidae_sp.).jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Wandering_spider_(Cupiennius_getazi)_with_female_katydid_prey_(Tettigoniidae_sp.).jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Charles J. Sharp"
+    "file": "Jumping-Spider-Macro ForestWander.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Jumping-Spider-Macro_ForestWander.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Jumping-Spider-Macro_ForestWander.jpg",
+    "license": "CC BY-SA 3.0 us",
+    "author": "ForestWander"
    }
   },
   {
@@ -6767,11 +6777,11 @@
    "plural": "Oktopusse",
    "ar": "أخطبوط",
    "photo": {
-    "file": "Octopus vulgaris Merculiano.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_Merculiano.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_Merculiano.jpg",
-    "license": "Public domain",
-    "author": "Comingio Merculiano (1845-1915) in Jatta Giuseppe (1860-1903)"
+    "file": "Pulpo común (Octopus vulgaris), Parque natural de la Arrábida, Portugal, 2020-07-21, DD 33.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pulpo_com%C3%BAn_(Octopus_vulgaris),_Parque_natural_de_la_Arr%C3%A1bida,_Portugal,_2020-07-21,_DD_33.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Pulpo_com%C3%BAn_(Octopus_vulgaris),_Parque_natural_de_la_Arr%C3%A1bida,_Portugal,_2020-07-21,_DD_33.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Diego Delso"
    }
   },
   {
@@ -7127,11 +7137,11 @@
    "plural": "-",
    "ar": "مخروط صنوبر",
    "photo": {
-    "file": "Pollen cone on a Ponderosa pine in Tuntorp, Brastad, Sweden.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Pollen_cone_on_a_Ponderosa_pine_in_Tuntorp,_Brastad,_Sweden.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Pollen_cone_on_a_Ponderosa_pine_in_Tuntorp,_Brastad,_Sweden.jpg",
+    "file": "Abies alba P26.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Abies_alba_P26.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Abies_alba_P26.jpg",
     "license": "CC BY-SA 4.0",
-    "author": "W.carter"
+    "author": "Jerzy Opioła"
    }
   },
   {
@@ -7757,11 +7767,11 @@
    "plural": "Hochzeiten",
    "ar": "فرح",
    "photo": {
-    "file": "Royal Wedding Stockholm 2010-Slottsbacken-05 edit.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Royal_Wedding_Stockholm_2010-Slottsbacken-05_edit.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Royal_Wedding_Stockholm_2010-Slottsbacken-05_edit.jpg",
-    "license": "CC BY-SA 3.0",
-    "author": "Holger Motzkau"
+    "file": "Wedding rings 2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wedding_rings_2.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Wedding_rings_2.jpg",
+    "license": "CC BY 2.0",
+    "author": "Nina from Australia"
    }
   },
   {
@@ -8481,7 +8491,8 @@
     "page": "https://commons.wikimedia.org/wiki/File:Arlington_State_College,_female_archery_students_demonstrating_bow_and_arrow_(10004206).jpg",
     "commons": "https://commons.wikimedia.org/wiki/File:Arlington_State_College,_female_archery_students_demonstrating_bow_and_arrow_(10004206).jpg",
     "license": "CC BY 4.0",
-    "author": "University of Texas at Arlington Photograph Collection"
+    "author": "University of Texas at Arlington Photograph Collection",
+    "modified": "Cropped to exclude faces; original attribution and license retained."
    }
   },
   {
@@ -9801,7 +9812,8 @@
     "page": "https://commons.wikimedia.org/wiki/File:Horse_carriage,_Gwalior.jpg",
     "commons": "https://commons.wikimedia.org/wiki/File:Horse_carriage,_Gwalior.jpg",
     "license": "CC BY-SA 4.0",
-    "author": "Yann (talk)"
+    "author": "Yann (talk)",
+    "modified": "Cropped to exclude faces; original attribution and license retained."
    }
   },
   {

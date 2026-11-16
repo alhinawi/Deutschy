@@ -16,7 +16,7 @@ export default function Credits() {
                 <td className="p-3 de">{w.art} {w.de}</td>
                 <td className="p-3"><a className="underline" href={w.photo.commons} target="_blank" rel="noreferrer">{w.photo.file}</a></td>
                 <td className="p-3">{w.photo.author || '—'}</td>
-                <td className="p-3">{w.photo.license}</td>
+                <td className="p-3">{w.photo.license}{'modified' in w.photo && <span className="block text-xs text-muted">Cropped; original linked.</span>}</td>
               </tr>
             ))}
           </tbody>

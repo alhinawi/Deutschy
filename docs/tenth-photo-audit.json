@@ -1,0 +1,310 @@
+[
+  {
+    "id": "spinne",
+    "action": "replacement",
+    "old": {
+      "file": "Wandering spider (Cupiennius getazi) with female katydid prey (Tettigoniidae sp.).jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Wandering_spider_(Cupiennius_getazi)_with_female_katydid_prey_(Tettigoniidae_sp.).jpg",
+      "commons": "https://commons.wikimedia.org/wiki/File:Wandering_spider_(Cupiennius_getazi)_with_female_katydid_prey_(Tettigoniidae_sp.).jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Charles J. Sharp"
+    },
+    "new": {
+      "file": "Jumping-Spider-Macro ForestWander.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Jumping-Spider-Macro_ForestWander.jpg",
+      "commons": "https://commons.wikimedia.org/wiki/File:Jumping-Spider-Macro_ForestWander.jpg",
+      "license": "CC BY-SA 3.0 us",
+      "author": "ForestWander"
+    }
+  },
+  {
+    "id": "oktopus",
+    "action": "replacement",
+    "old": {
+      "file": "Octopus vulgaris Merculiano.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_Merculiano.jpg",
+      "commons": "https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_Merculiano.jpg",
+      "license": "Public domain",
+      "author": "Comingio Merculiano (1845-1915) in Jatta Giuseppe (1860-1903)"
+    },
+    "new": {
+      "file": "Pulpo común (Octopus vulgaris), Parque natural de la Arrábida, Portugal, 2020-07-21, DD 33.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Pulpo_com%C3%BAn_(Octopus_vulgaris),_Parque_natural_de_la_Arr%C3%A1bida,_Portugal,_2020-07-21,_DD_33.jpg",
+      "commons": "https://commons.wikimedia.org/wiki/File:Pulpo_com%C3%BAn_(Octopus_vulgaris),_Parque_natural_de_la_Arr%C3%A1bida,_Portugal,_2020-07-21,_DD_33.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Diego Delso"
+    }
+  },
+  {
+    "id": "tannenzapfen",
+    "action": "replacement",
+    "old": {
+      "file": "Pollen cone on a Ponderosa pine in Tuntorp, Brastad, Sweden.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Pollen_cone_on_a_Ponderosa_pine_in_Tuntorp,_Brastad,_Sweden.jpg",
+      "commons": "https://commons.wikimedia.org/wiki/File:Pollen_cone_on_a_Ponderosa_pine_in_Tuntorp,_Brastad,_Sweden.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "W.carter"
+    },
+    "new": {
+      "file": "Abies alba P26.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Abies_alba_P26.jpg",
+      "commons": "https://commons.wikimedia.org/wiki/File:Abies_alba_P26.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Jerzy Opioła"
+    }
+  },
+  {
+    "id": "hochzeit",
+    "action": "replacement",
+    "old": {
+      "file": "Royal Wedding Stockholm 2010-Slottsbacken-05 edit.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Royal_Wedding_Stockholm_2010-Slottsbacken-05_edit.jpg",
+      "commons": "https://commons.wikimedia.org/wiki/File:Royal_Wedding_Stockholm_2010-Slottsbacken-05_edit.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Holger Motzkau"
+    },
+    "new": {
+      "file": "Wedding rings 2.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Wedding_rings_2.jpg",
+      "commons": "https://commons.wikimedia.org/wiki/File:Wedding_rings_2.jpg",
+      "license": "CC BY 2.0",
+      "author": "Nina from Australia"
+    }
+  },
+  {
+    "id": "haehnchen",
+    "action": "replacement",
+    "old": {
+      "file": "Max's Roasted Chicken - Evan Swigart.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Max%27s_Roasted_Chicken_-_Evan_Swigart.jpg",
+      "commons": "https://commons.wikimedia.org/wiki/File:Max%27s_Roasted_Chicken_-_Evan_Swigart.jpg",
+      "license": "CC BY 2.0",
+      "author": "Evan Swigart from Chicago, USA"
+    },
+    "new": {
+      "file": "Teriyaki and Lime Chicken Salad.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Teriyaki_and_Lime_Chicken_Salad.jpg",
+      "commons": "https://commons.wikimedia.org/wiki/File:Teriyaki_and_Lime_Chicken_Salad.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "Saaleha Bamjee from Johannesburg, South africa"
+    }
+  },
+  {
+    "id": "lachs",
+    "action": "replacement",
+    "old": {
+      "file": "Pink salmon FWS.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Pink_salmon_FWS.jpg",
+      "commons": "https://commons.wikimedia.org/wiki/File:Pink_salmon_FWS.jpg",
+      "license": "Public domain",
+      "author": "Timothy Knepp"
+    },
+    "new": {
+      "file": "Laks i laksetrappa.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Laks_i_laksetrappa.JPG",
+      "commons": "https://commons.wikimedia.org/wiki/File:Laks_i_laksetrappa.JPG",
+      "license": "CC BY 3.0",
+      "author": "Jarvin - Jarle Vines"
+    }
+  },
+  {
+    "id": "fisch",
+    "action": "replacement",
+    "old": {
+      "file": "Fresh fish on ice at the wholesale market, Tsuruga, March 2015.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Fresh_fish_on_ice_at_the_wholesale_market,_Tsuruga,_March_2015.jpg",
+      "commons": "https://commons.wikimedia.org/wiki/File:Fresh_fish_on_ice_at_the_wholesale_market,_Tsuruga,_March_2015.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "NevinThompson"
+    },
+    "new": {
+      "file": "Laks i laksetrappa.JPG",
+      "page": "https://commons.wikimedia.org/wiki/File:Laks_i_laksetrappa.JPG",
+      "commons": "https://commons.wikimedia.org/wiki/File:Laks_i_laksetrappa.JPG",
+      "license": "CC BY 3.0",
+      "author": "Jarvin - Jarle Vines"
+    }
+  },
+  {
+    "id": "fleisch",
+    "action": "replacement",
+    "old": {
+      "file": "Venison_Steaks.jpg",
+      "page": "https://de.wikipedia.org/wiki/Fleisch",
+      "commons": "https://commons.wikimedia.org/wiki/File:Venison_Steaks.jpg",
+      "license": "CC BY-SA 2.0",
+      "author": "FotoosVanRobin from Netherlands"
+    },
+    "new": {
+      "file": "XO Steak and French Fries.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:XO_Steak_and_French_Fries.jpg",
+      "commons": "https://commons.wikimedia.org/wiki/File:XO_Steak_and_French_Fries.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "Yotam Nachum"
+    }
+  },
+  {
+    "id": "akkordeon",
+    "action": "crop",
+    "fractional_box": [
+      0,
+      0.43,
+      1,
+      1
+    ],
+    "source": "https://commons.wikimedia.org/wiki/File:Blind_accordion_player.jpg"
+  },
+  {
+    "id": "kleid",
+    "action": "crop",
+    "fractional_box": [
+      0,
+      0.24,
+      1,
+      1
+    ],
+    "source": "https://commons.wikimedia.org/wiki/File:Dress_with_circle_skirt_in_the_wind_-_pose_2.jpg"
+  },
+  {
+    "id": "koch",
+    "action": "crop",
+    "fractional_box": [
+      0,
+      0.43,
+      1,
+      1
+    ],
+    "source": "https://commons.wikimedia.org/wiki/File:Cookers_in_the_White_House_kitchen.jpg"
+  },
+  {
+    "id": "baecker",
+    "action": "crop",
+    "fractional_box": [
+      0,
+      0.44,
+      1,
+      1
+    ],
+    "source": "https://commons.wikimedia.org/wiki/File:Bakers_at_work,_2013.jpg"
+  },
+  {
+    "id": "polizist",
+    "action": "crop",
+    "fractional_box": [
+      0,
+      0.35,
+      1,
+      1
+    ],
+    "source": "https://commons.wikimedia.org/wiki/File:Very_friendly_MPS_officers_in_London.jpg"
+  },
+  {
+    "id": "ingenieur",
+    "action": "crop",
+    "fractional_box": [
+      0,
+      0.47,
+      1,
+      1
+    ],
+    "source": "https://commons.wikimedia.org/wiki/File:Engineer_working_on_a_3d-model.jpg",
+    "secondary_crop": [
+      0,
+      0.28,
+      1,
+      1
+    ]
+  },
+  {
+    "id": "kellner",
+    "action": "replacement",
+    "source": "https://commons.wikimedia.org/wiki/File:Cafe-prueckel-schanigarten.jpg",
+    "new": {
+      "file": "Serving Ergonomics.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Serving_Ergonomics.jpg",
+      "commons": "https://commons.wikimedia.org/wiki/File:Serving_Ergonomics.jpg",
+      "license": "CC BY-SA 4.0",
+      "author": "HarvardOcDoc",
+      "modified": "Cropped to show only the face-free serving example."
+    }
+  },
+  {
+    "id": "musiker",
+    "action": "crop",
+    "fractional_box": [
+      0.12,
+      0.42,
+      0.9,
+      1
+    ],
+    "source": "https://commons.wikimedia.org/wiki/File:Musician_Playing_Ravanhatta_at_Mehrangarh,_Rajasthan,_India.jpg",
+    "secondary_crop": [
+      0,
+      0.12,
+      1,
+      1
+    ]
+  },
+  {
+    "id": "handball",
+    "action": "replacement",
+    "source": "https://commons.wikimedia.org/wiki/File:CZE_vs_FRA_(01)_-_2010_European_Men%27s_Handball_Championship.jpg",
+    "new": {
+      "file": "Handball the ball.jpg",
+      "page": "https://commons.wikimedia.org/wiki/File:Handball_the_ball.jpg",
+      "commons": "https://commons.wikimedia.org/wiki/File:Handball_the_ball.jpg",
+      "license": "CC BY-SA 3.0",
+      "author": "Armin Kuebelbeck"
+    }
+  },
+  {
+    "id": "skateboard",
+    "action": "crop",
+    "fractional_box": [
+      0.3,
+      0.4,
+      1,
+      1
+    ],
+    "source": "https://commons.wikimedia.org/wiki/File:Zawody_w_skateboardingu_Street_of_Mediateka,_Zag%C5%82%C4%99biowska_Mediateka,_ulica_Ko%C5%9Bcielna,_Sosnowiec,_22_czerwca_2024_01.jpg"
+  },
+  {
+    "id": "bogen",
+    "action": "crop",
+    "fractional_box": [
+      0,
+      0.44,
+      1,
+      1
+    ],
+    "source": "https://commons.wikimedia.org/wiki/File:Arlington_State_College,_female_archery_students_demonstrating_bow_and_arrow_(10004206).jpg"
+  },
+  {
+    "id": "zoo",
+    "action": "crop",
+    "fractional_box": [
+      0,
+      0.3,
+      1,
+      1
+    ],
+    "source": "https://commons.wikimedia.org/wiki/File:Hagenbeck_Robbenf%C3%BCtterung.jpg",
+    "secondary_crop": [
+      0,
+      0.08,
+      0.82,
+      1
+    ]
+  },
+  {
+    "id": "pferdewagen",
+    "action": "crop",
+    "fractional_box": [
+      0,
+      0.28,
+      1,
+      1
+    ],
+    "source": "https://commons.wikimedia.org/wiki/File:Horse_carriage,_Gwalior.jpg"
+  }
+]
