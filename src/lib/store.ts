@@ -5,7 +5,7 @@ export type Score = { game: string; score: number; at: number; name: string };
 export type State = {
   xp: number; streak: number; best: number; lastDay: string; name: string;
   seen: Record<string, { ok: number; bad: number }>; scores: Score[]; theme: string;
-  daily: Record<string, number>; goal: number; srs: Record<string, { b: number; due: number }>; challenge: Record<string, number>; exams: Record<string, number>;
+  daily: Record<string, number>; goal: number; srs: Record<string, { b: number; due: number }>; challenge: Record<string, number>; exams: Record<string, number>; pfad?: Record<string, boolean>;
 };
 const KEY = 'deutschy:v1';
 const empty: State = { xp: 0, streak: 0, best: 0, lastDay: '', name: '', seen: {}, scores: [], theme: 'papier', daily: {}, goal: 50, srs: {}, challenge: {}, exams: {} };
