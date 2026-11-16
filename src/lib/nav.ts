@@ -12,6 +12,7 @@ export const sidebar: NavGroup[] = [
     { href: '/exam/', ar: 'امتحان المستوى', en: 'Level exam' },
     { href: '/verbs/trainer/', ar: 'تدريب التصريف', en: 'Conjugation trainer' },
     { href: '/verbs/quiz/', ar: 'اختبار الأفعال', en: 'Verb quiz' },
+    { href: '/writing/', ar: 'تدريب الكتابة', en: 'Writing practice' },
     { href: '/reading/', ar: 'القراءة', en: 'Reading' },
     { href: '/wortschatz/', ar: 'مفردات الامتحان', en: 'Exam vocabulary' },
     { href: '/lessons/', ar: 'المفردات بالموضوع', en: 'Vocabulary by topic' },
