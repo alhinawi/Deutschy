@@ -797,11 +797,11 @@
    "plural": "-",
    "ar": "شباك",
    "photo": {
-    "file": "Wooden house (window shutters), Riga.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Wooden_house_(window_shutters),_Riga.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Wooden_house_(window_shutters),_Riga.jpg",
-    "license": "Public domain",
-    "author": "Photograph:  Radomianin"
+    "file": "Window on a barn in Färlev.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Window_on_a_barn_in_F%C3%A4rlev.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Window_on_a_barn_in_F%C3%A4rlev.jpg",
+    "license": "CC0",
+    "author": "W.carter"
    }
   },
   {
@@ -1668,11 +1668,13 @@
    "plural": "Herzen",
    "ar": "قلب",
    "photo": {
-    "file": "Love message in the shape of a heart.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Love_message_in_the_shape_of_a_heart.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Love_message_in_the_shape_of_a_heart.jpg",
-    "license": "CC0",
-    "author": "George Hodan"
+    "file": "Example-of-3D-whole-heart-models-manufactured-by-means-of-3D-printing-showing-a-normal-heart-from-a-healthy-control-for.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Example-of-3D-whole-heart-models-manufactured-by-means-of-3D-printing-showing-a-normal-heart-from-a-healthy-control-for.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Example-of-3D-whole-heart-models-manufactured-by-means-of-3D-printing-showing-a-normal-heart-from-a-healthy-control-for.jpg",
+    "license": "CC BY 4.0",
+    "author": "Giovanni Biglino, Despina Koniordou, Marisa Gasparini, Claudio Capelli, Lindsay-Kay Leaver, Sachin Khambadkone, Silvia Schievano, Andrew M. Taylor, Jo Wray",
+    "model": true,
+    "modified": "Cropped to the central physical 3D-printed heart model; original attribution and license retained."
    }
   },
   {
@@ -1893,11 +1895,11 @@
    "plural": "",
    "ar": "تلج",
    "photo": {
-    "file": "SnowflakesWilsonBentley.jpg",
-    "page": "https://de.wikipedia.org/wiki/Schnee",
-    "commons": "https://commons.wikimedia.org/wiki/File:SnowflakesWilsonBentley.jpg",
-    "license": "Public domain",
-    "author": "Wilson Bentley"
+    "file": "Snow covered park bench aka.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Snow_covered_park_bench_aka.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Snow_covered_park_bench_aka.jpg",
+    "license": "CC BY-SA 2.5",
+    "author": "André Karwath aka Aka"
    }
   },
   {
@@ -2964,11 +2966,11 @@
    "ar": "مطر",
    "id": "regen",
    "photo": {
-    "file": "Rain drops falling on my car (38355395042).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Rain_drops_falling_on_my_car_(38355395042).jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Rain_drops_falling_on_my_car_(38355395042).jpg",
-    "license": "CC BY 2.0",
-    "author": "Carlos Ebert from São Paulo, BrazilGRU"
+    "file": "Rain over Holma marina.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rain_over_Holma_marina.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Rain_over_Holma_marina.jpg",
+    "license": "CC0",
+    "author": "W.carter"
    }
   },
   {
@@ -3639,11 +3641,11 @@
    "plural": "Schreibtische",
    "ar": "مكتب",
    "photo": {
-    "file": "Desk MET DT235353.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Desk_MET_DT235353.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Desk_MET_DT235353.jpg",
-    "license": "CC0",
-    "author": ""
+    "file": "مكتب للكتابة.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:%D9%85%D9%83%D8%AA%D8%A8_%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D8%A9.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:%D9%85%D9%83%D8%AA%D8%A8_%D9%84%D9%84%D9%83%D8%AA%D8%A7%D8%A8%D8%A9.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Usamasaad"
    }
   },
   {
@@ -5799,11 +5801,11 @@
    "plural": "-",
    "ar": "محمصة",
    "photo": {
-    "file": "Hoteltoaster 01 (sk).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Hoteltoaster_01_(sk).jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Hoteltoaster_01_(sk).jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Photograph:  SusKauz, Frankfurt am Main"
+    "file": "Bread sticking out of toaster.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bread_sticking_out_of_toaster.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Bread_sticking_out_of_toaster.jpg",
+    "license": "CC BY 4.0",
+    "author": "Kansattica"
    }
   },
   {
@@ -8878,11 +8880,11 @@
    "plural": "-",
    "ar": "مشط حديقة",
    "photo": {
-    "file": "Garden rake made from turned pear tree wood, made 1560, Rustkammer Museum, Dresden.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Garden_rake_made_from_turned_pear_tree_wood,_made_1560,_Rustkammer_Museum,_Dresden.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Garden_rake_made_from_turned_pear_tree_wood,_made_1560,_Rustkammer_Museum,_Dresden.jpg",
-    "license": "CC BY 4.0",
-    "author": "Stephencdickson"
+    "file": "Rake.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rake.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Rake.jpg",
+    "license": "Public domain",
+    "author": "Unknown authorUnknown author"
    }
   },
   {
@@ -9778,11 +9780,11 @@
    "plural": "Mopeds",
    "ar": "موتوسيكل صغير",
    "photo": {
-    "file": "Bruderwald Moped Ruine-20170422-RM-160132.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bruderwald_Moped_Ruine-20170422-RM-160132.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Bruderwald_Moped_Ruine-20170422-RM-160132.jpg",
+    "file": "Simson S51E.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Simson_S51E.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Simson_S51E.jpg",
     "license": "CC BY-SA 4.0",
-    "author": "Reinhold Möller Ermell"
+    "author": "Hukaglue"
    }
   },
   {

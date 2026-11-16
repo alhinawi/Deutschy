@@ -3,6 +3,7 @@ import Speaker from './Speaker';
 import { Word, img } from '@/lib/data';
 import { speak } from '@/lib/speak';
 import { Gloss, PluralText } from './L';
+import { T } from '@/lib/i18n';
 
 export default function WordCard({ w, first = false }: { w: Word; first?: boolean }) {
   return (
@@ -10,6 +11,7 @@ export default function WordCard({ w, first = false }: { w: Word; first?: boolea
       {/* eslint-disable-next-line @next/next/no-img-element */}
       <img src={img(w)} alt={`${w.art} ${w.de}`} className="photo" loading={first ? 'eager' : 'lazy'} fetchPriority={first ? 'high' : 'auto'} width={480} height={360} />
       <div className="space-y-1 p-4">
+        {w.photo.model && <p className="text-sm text-muted"><T ar="صورة مجسم تشريحي مطبوع ثلاثي الأبعاد" en="Photo of a 3D-printed anatomical model" /></p>}
         <div className="flex items-start justify-between gap-2">
           <h2 className="de text-2xl font-semibold leading-tight" lang="de">
             <span className="text-accent">{w.art}</span> {w.de}
