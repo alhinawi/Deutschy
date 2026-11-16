@@ -11,6 +11,7 @@ export const sidebar: NavGroup[] = [
     { href: '/verbs/', ar: 'الأفعال والتصريف', en: 'Verbs' },
     { href: '/exam/', ar: 'امتحان المستوى', en: 'Level exam' },
     { href: '/verbs/trainer/', ar: 'تدريب التصريف', en: 'Conjugation trainer' },
+    { href: '/trennbare-verben/', ar: 'الأفعال المنفصلة', en: 'Separable verbs' },
     { href: '/verbs/quiz/', ar: 'اختبار الأفعال', en: 'Verb quiz' },
     { href: '/dialogues/', ar: 'حوارات', en: 'Dialogues' },
     { href: '/redewendungen/', ar: 'تعبيرات ألمانية', en: 'Redewendungen' },
