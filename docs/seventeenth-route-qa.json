@@ -1,0 +1,40 @@
+{
+  "languages": {
+    "ar": {
+      "routes": 540,
+      "checks": 1080,
+      "failures": [],
+      "widths": [
+        390,
+        1280
+      ]
+    },
+    "en": {
+      "routes": 540,
+      "checks": 1080,
+      "failures": [],
+      "widths": [
+        390,
+        1280
+      ]
+    }
+  },
+  "scope": "Fresh local production-export navigation. Loaded images only; not a complete functional/accessibility audit.",
+  "bundles": {
+    "js": {
+      "files": 144,
+      "raw": 2519202,
+      "gzip": 861749
+    },
+    "css": {
+      "files": 1,
+      "raw": 30186,
+      "gzip": 6589
+    }
+  },
+  "photos": {
+    "files": 670,
+    "bytes": 42801815
+  },
+  "note": "Route sweep ran before the last JPEG-only heart framing adjustment; final image/card check, production build, export and reachability rerun after it. No route/JS/CSS changes between these builds."
+}

@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-16 after the sixteenth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-16 after the seventeenth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -40,6 +40,14 @@ Do not mark a row complete until the German, meaning and question ambiguity have
 - [ ] `/games/quiz/`, `/games/article/`, `/games/spelling/`: check learner-paced correction text. Spelling ignores case in grading but explains capitalized German nouns; umlauts and ß must still match. Check that translation cues do not create ambiguous photo-noun questions.
 - [ ] `/games/memory/`: check pair/try vocabulary and accessible card labels in both languages. This is still visual matching, not a nonvisual assessment. Invalid-topic guidance must not imply a completed round or awarded points.
 
+### Seventeenth update: additional pending targets
+
+- [ ] `/reading/alltag-a2-lerntandem/` and `/dialogues/#lerntandem-ort`: natural language for moving a language tandem away from a noisy location; verify all four reading and three dialogue answers, pronouns, timing and Egyptian Arabic meanings.
+- [ ] `/reading/alltag-b1-tauschregal/` and `/dialogues/#tauschregal-hinweis`: check the house-management condition, permitted books, unusable items and note wording; confirm each answer is supported by the fictional scenario.
+- [ ] All 41 `/grammar/` topics: review the new step-by-step walkthrough for the first existing example. A walkthrough is hidden until opened; its purpose is explanation, not hiding answers to a new independent test. Quick rounds reuse existing question IDs and need a teacher's check for useful sequencing.
+- [ ] `/lessons/body/`, heart: check the explicit physical-model label and whether this real photo of a 3D-printed anatomical model teaches the noun clearly. It is not an exposed organ or illustration. Family/job photos are contextual; the grandfather and engineer crops remain weak. Do not infer identities or kinship from the photos.
+- [ ] `/progress/` and home: check the resume/next-step copy in both languages. Resume stores a local route/time only, not the exact question or scroll position. No native-language review or proficiency assessment is implied.
+
 ### Present forms to sign off
 
 Person order: **ich · du · er/sie/es · wir · ihr · sie/Sie**. These are full standard present-indicative forms. This list does not approve other tenses or colloquial shortened forms.
@@ -69,7 +77,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **669 photo nouns / 58 topics**, **71 reading texts / 237 reading questions**, **41 core grammar topics / 382 core grammar questions**, **11 dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **669 photo nouns / 58 topics**, **73 reading texts / 245 reading questions**, **41 core grammar topics / 382 core grammar questions**, **13 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -81,7 +89,7 @@ This is an inventory, not completed review. Snapshot: **669 photo nouns / 58 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 7 · A2 18 · B1 16 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 7 · A2 19 · B1 17 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

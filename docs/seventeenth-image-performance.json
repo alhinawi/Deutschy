@@ -1,6 +1,6 @@
 {
   "before": 77433621,
-  "after": 42798987,
+  "after": 42801815,
   "changed": 551,
   "replacements": [
     {
@@ -138,7 +138,8 @@
         "license": "CC BY 4.0",
         "author": "Giovanni Biglino, Despina Koniordou, Marisa Gasparini, Claudio Capelli, Lindsay-Kay Leaver, Sachin Khambadkone, Silvia Schievano, Andrew M. Taylor, Jo Wray",
         "model": true,
-        "modified": "Cropped to the central physical 3D-printed heart model; original attribution and license retained."
+        "modified": "Cropped to the central physical 3D-printed heart model; original attribution and license retained.",
+        "padding": true
       }
     }
   ],
