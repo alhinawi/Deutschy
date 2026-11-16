@@ -174,3 +174,5 @@ assert(search('Typed numbers',100).some(h=>h.href==='/zahlen/#typed-zahlen'));
 assert(search('stem changes',100).some(h=>h.href==='/conjugation/#present-focus'));
 assert(search('Perfekt context',100).some(h=>h.href==='/perfekt/'));
 console.log('PASS: seventh-list practice additions discoverable without duplicate tools');
+const modals=lib('modal-meaning');assert.equal(modals.modalMeaning.length,6);modals.modalMeaning.forEach((q,i)=>{assert.notEqual(q.options[0],q.options[1]);assert.equal(modals.modalOptionsAr[i].length,2);assert.notEqual(modals.modalOptionsAr[i][0],modals.modalOptionsAr[i][1]);});
+console.log('PASS: six bilingual modal-meaning contrasts');

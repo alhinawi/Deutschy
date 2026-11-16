@@ -1,4 +1,5 @@
 'use client';
+import ModalMeaning from './ModalMeaning';
 import Link from 'next/link';
 import Speaker from './Speaker';
 import Mixed from './Mixed';
@@ -29,6 +30,7 @@ export default function GrammarView({ g }: { g: GrammarTopic }) {
           <p className="ar-title text-xl leading-8 text-muted">{lang === 'ar' ? <Mixed text={g.sum[0]} /> : g.sum[1]}</p>
         </div>
       </header>
+      {g.id === "modalverben" && <ModalMeaning/>}
       <section className="space-y-3">
         <h2 className="ar-title text-2xl font-bold">{t('القواعد', 'Rules')}</h2>
         <ol className="space-y-3">
@@ -43,7 +45,7 @@ export default function GrammarView({ g }: { g: GrammarTopic }) {
       {g.table && (
         <section className="space-y-3">
           <h2 className="ar-title text-2xl font-bold">{t('الجدول', 'Table')}</h2>
-          <div dir="ltr" className="overflow-x-auto rounded-2xl border border-line bg-card">
+          <div dir="ltr" tabIndex={0} role="region" aria-label={t("جدول القواعد","Grammar table")} className="overflow-x-auto rounded-2xl border border-line bg-card">
             <table className="de num w-full text-start text-base sm:text-lg" dir="ltr">
               <thead><tr className="border-b border-line bg-paper">{g.table.h.map((h, n) => <th scope="col" key={n} className="px-2.5 py-2.5 text-start sm:px-4 font-bold text-accent">{h}</th>)}</tr></thead>
               <tbody>{g.table.r.map((r, n) => <tr key={n} className="border-b border-line last:border-0">{r.map((c, m) => m === 0 ? <th scope="row" key={m} className="whitespace-nowrap px-2.5 py-2 text-start font-bold text-muted sm:px-4">{c}</th> : <td key={m} className="whitespace-nowrap px-2.5 py-2 sm:px-4">{c}</td>)}</tr>)}</tbody>
