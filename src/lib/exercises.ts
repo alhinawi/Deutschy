@@ -222,3 +222,6 @@ for(const [key,rows] of Object.entries(a2Depth))exercises[key]=[...(exercises[ke
 
 import {everydayGrammar} from './exercises-everyday';
 for(const [key,rows] of Object.entries(everydayGrammar))exercises[key]=[...(exercises[key]??[]),...rows];
+
+import {neighborhoodGrammar} from './exercises-neighborhood';
+for(const [key,rows] of Object.entries(neighborhoodGrammar))exercises[key]=[...(exercises[key]??[]),...rows];
