@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-16 after the thirteenth content update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-16 after the fourteenth content update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -20,6 +20,14 @@ Do not mark a row complete until the German, meaning and question ambiguity have
 | [ ] | `/conjugation/#present-focus` | Verify the 36 new forms below and whether the contrast notes help beginners rather than overgeneralize. Test incorrect forms as well as correct forms. |
 | [ ] | `/lessons/medizin/` | Check **der Rollstuhl / Rollstühle**, **die Krücke / Krücken**, **die Wärmflasche / Wärmflaschen** and Egyptian Arabic meanings. Does each real photo show the intended noun clearly? |
 | [ ] | `/grammar/satzbau/` | Check the repaired yes/no item **___ du heute?** with **Kommst**, and the V2/yes-no question explanations. |
+
+### Fourteenth update: additional pending targets
+
+- [ ] `/b1/`, **Indirekte Fragen**: check all 8 prompts, ob vs question word, final verb, separable verb and Perfekt ordering; confirm exactly one supplied answer fits. Check explanation of whole-sentence punctuation.
+- [ ] `/b1/`, **weil / denn / deshalb**: check all 8 connector contrasts, especially inversion after deshalb/trotzdem vs verb-final obwohl/weil. Six B1 specialist sets now contain 48 items, separate from the 382 core grammar-question count below.
+- [ ] `/dialogues/`, **Das Fahrrad abholen**: workshop idiom, Abholschein, reparierte Bremse vs aufgepumpter Reifen, fictional 24-Euro total and no extra pump fee, Egyptian Arabic and three exact-evidence answers.
+- [ ] `/dialogues/`, **Eine Aufgabe gemeinsam planen**: natural project negotiation, responsibility for each location vs shared table, Wednesday collection vs Thursday checking, pronoun references and three exact-evidence answers.
+- [ ] `/dictation/`: each source-reading set preserves its sentence meaning and boundaries. Listen for device-voice issues with numbers/abbreviations; text correctness and voice behavior are separate findings. The tool is unsaved practice, not an official listening exam.
 
 ### Present forms to sign off
 
@@ -50,7 +58,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **669 photo nouns / 58 topics**, **69 reading texts / 229 reading questions**, **41 core grammar topics / 382 core grammar questions**, **9 dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **669 photo nouns / 58 topics**, **69 reading texts / 229 reading questions**, **41 core grammar topics / 382 core grammar questions**, **11 dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |

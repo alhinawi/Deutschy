@@ -1,0 +1,56 @@
+{
+  "content_commit": "3c682c821290bd9592cb9db444963158fc5ef274",
+  "batches": [
+    {
+      "lang": "ar",
+      "start": 0,
+      "routes": 180,
+      "checks": 360,
+      "defects": 0
+    },
+    {
+      "lang": "ar",
+      "start": 180,
+      "routes": 180,
+      "checks": 360,
+      "defects": 0
+    },
+    {
+      "lang": "ar",
+      "start": 360,
+      "routes": 176,
+      "checks": 352,
+      "defects": 0
+    },
+    {
+      "lang": "en",
+      "start": 0,
+      "routes": 180,
+      "checks": 360,
+      "defects": 0
+    },
+    {
+      "lang": "en",
+      "start": 180,
+      "routes": 180,
+      "checks": 360,
+      "defects": 0
+    },
+    {
+      "lang": "en",
+      "start": 360,
+      "routes": 176,
+      "checks": 352,
+      "defects": 0
+    }
+  ],
+  "checks": 2144,
+  "focused": {
+    "b1QuestionAnswers": 64,
+    "dialogueAnswers": 24,
+    "axeStates": 20,
+    "axeViolations": 0,
+    "dictationSetStates": 4,
+    "offlineRoutes": 6
+  }
+}
