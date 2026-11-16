@@ -11,6 +11,7 @@ export const sidebar: NavGroup[] = [
     { href: '/b1/', ar: 'تدريبات B1', en: 'B1 practice' },
     { href: '/c1/', ar: 'تدريبات C1', en: 'C1 practice' },
     { href: '/c1/wortschatz/', ar: 'مفردات C1', en: 'C1 vocabulary' },
+    { href: '/c1/writing/', ar: 'كتابة C1', en: 'C1 writing' },
     { href: '/b2/', ar: 'تدريبات B2', en: 'B2 practice' },
     { href: '/b2/wortschatz/', ar: 'مفردات B2', en: 'B2 vocabulary' },
     { href: '/b2/writing/', ar: 'كتابة B2', en: 'B2 writing' },

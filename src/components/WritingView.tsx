@@ -5,14 +5,14 @@ import { useStore } from '@/lib/store';
 import { useLang, useT } from '@/lib/i18n';
 import Mixed from './Mixed';
 
-const LV = ['all', 'A1', 'A2', 'B1', 'B2'] as const;
+const LV = ['all', 'A1', 'A2', 'B1', 'B2', 'C1'] as const;
 const words = (s: string) => s.trim().split(/\s+/).filter(Boolean).length;
 const has = (text: string, alts: string) => { const x = ' ' + text.toLowerCase().replace(/\s+/g, ' ') + ' '; return alts.split('|').some((a) => x.includes(a)); };
 const Tick = ({ ok }: { ok: boolean }) => ok
   ? <svg viewBox="0 0 24 24" className="h-5 w-5 shrink-0 text-good" fill="none" stroke="currentColor" strokeWidth="3" aria-label="ok"><path d="M5 12l5 5 9-10" /></svg>
   : <svg viewBox="0 0 24 24" className="h-5 w-5 shrink-0 text-muted" fill="none" stroke="currentColor" strokeWidth="2" aria-label="missing"><circle cx="12" cy="12" r="8" /></svg>;
 
-export default function WritingView({ onlyLevel }: { onlyLevel?: 'A2' | 'B1' | 'B2' } = {}) {
+export default function WritingView({ onlyLevel }: { onlyLevel?: 'A2' | 'B1' | 'B2' | 'C1' } = {}) {
   const t = useT();
   const { lang } = useLang();
   const [lv, setLv] = useState<(typeof LV)[number]>('all');
@@ -22,7 +22,7 @@ export default function WritingView({ onlyLevel }: { onlyLevel?: 'A2' | 'B1' | '
   return (
     <div className="space-y-6">
       <h1 className="ar-title text-4xl font-bold">{onlyLevel ? t(`تدريب كتابة ${onlyLevel}`, `${onlyLevel} writing practice`) : t('تدريب الكتابة', 'Writing practice')}</h1>
-      <p className="text-muted">{onlyLevel === 'B2' ? t('7 مهام عشان تقيّم اقتراحات وتعرض حجج وتعترض بأدب وتقترح حلول. ميّز بين الرأي والدليل، ونظّم الفقرات حسب وظيفتها. مسودتك بتتحفظ هنا؛ النموذج للمقارنة، وفحص العبارات مش تصحيح كامل للألماني.', 'Seven tasks for evaluating proposals, weighing arguments, disagreeing politely and suggesting solutions. Distinguish opinion from evidence and give each paragraph a purpose. Drafts are saved here; models support comparison, and phrase checks are not full German correction.') : onlyLevel === 'B1' ? t('7 مهام لرسائل رسمية وشخصية وإبداء الرأي وتنظيم خطة. وضّح سببك، اربط الأفكار، وادّي مثال أو اقتراح. احفظ مسودتك وقارنها بالنموذج بعد ما تحاول. الفحص هنا للعبارات وعدد الكلمات بس، مش تصحيح كامل للألماني.', 'Seven tasks for formal and personal messages, giving opinions and organizing a plan. Explain your reasons, link ideas and give an example or suggestion. Save a draft and compare it with the model after trying. Checks cover phrases and word count, not full German correction.') : t('مهام قصيرة لكل مستوى. اكتب بنفسك، والصفحة بتشيّك لو كتبت العبارات الأساسية المطلوبة وعدد الكلمات. مفيش تقييم آلي للغة، وفي الآخر تقدر تشوف نموذج.', 'Short tasks for each level. You write it yourself and the page checks that the key phrases and word count are there. There is no automatic grading of your German, and you can see a model at the end.')}</p>
+      <p className="text-muted">{onlyLevel === 'C1' ? t('7 مهام لتحليل معايير وشرح حدود الدليل وتلخيص مواقف من غير تحريف. اعرض اعتراض قوي ورد عليه، وميّز رأيك عن كلام المصدر. النماذج مواقف افتراضية، والمسودات على جهازك. فحص العبارات والطول مش تقييم جودة الحجة أو تصحيح كامل للغة.', 'Seven tasks for examining criteria, qualifying evidence and synthesizing positions fairly. Address a strong objection and distinguish your view from a source. Models use fictional scenarios, and drafts stay on your device. Phrase and length checks do not grade argument quality or fully correct your German.') : onlyLevel === 'B2' ? t('7 مهام عشان تقيّم اقتراحات وتعرض حجج وتعترض بأدب وتقترح حلول. ميّز بين الرأي والدليل، ونظّم الفقرات حسب وظيفتها. مسودتك بتتحفظ هنا؛ النموذج للمقارنة، وفحص العبارات مش تصحيح كامل للألماني.', 'Seven tasks for evaluating proposals, weighing arguments, disagreeing politely and suggesting solutions. Distinguish opinion from evidence and give each paragraph a purpose. Drafts are saved here; models support comparison, and phrase checks are not full German correction.') : onlyLevel === 'B1' ? t('7 مهام لرسائل رسمية وشخصية وإبداء الرأي وتنظيم خطة. وضّح سببك، اربط الأفكار، وادّي مثال أو اقتراح. احفظ مسودتك وقارنها بالنموذج بعد ما تحاول. الفحص هنا للعبارات وعدد الكلمات بس، مش تصحيح كامل للألماني.', 'Seven tasks for formal and personal messages, giving opinions and organizing a plan. Explain your reasons, link ideas and give an example or suggestion. Save a draft and compare it with the model after trying. Checks cover phrases and word count, not full German correction.') : t('مهام قصيرة لكل مستوى. اكتب بنفسك، والصفحة بتشيّك لو كتبت العبارات الأساسية المطلوبة وعدد الكلمات. مفيش تقييم آلي للغة، وفي الآخر تقدر تشوف نموذج.', 'Short tasks for each level. You write it yourself and the page checks that the key phrases and word count are there. There is no automatic grading of your German, and you can see a model at the end.')}</p>
       <div className="flex flex-wrap gap-2">
         {!onlyLevel && LV.map((l) => <button key={l} onClick={() => setLv(l)} className={`num rounded-full border px-4 py-2 ${lv === l ? 'border-accent bg-accent text-accent-ink' : 'border-line bg-paper'}`}>{l === 'all' ? t('الكل', 'All') : l}</button>)}
       </div>
