@@ -20,6 +20,7 @@ export const sidebar: NavGroup[] = [
   ] },
   { id: 'me', ar: 'حسابي', en: 'Account', items: [
     { href: '/progress/', ar: 'تقدمي', en: 'My progress' },
+    { href: '/review/', ar: 'راجع أخطاءك', en: 'Review mistakes' },
     { href: '/account/', ar: 'الحساب', en: 'Account' },
     { href: '/admin/', ar: 'لوحة التحكم', en: 'Admin', admin: true },
     { href: '/credits/', ar: 'حقوق الصور', en: 'Photo credits' },
