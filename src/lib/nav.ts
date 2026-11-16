@@ -26,6 +26,7 @@ export const sidebar: NavGroup[] = [
     { href: '/negation/', ar: 'النفي والأسئلة', en: 'Negation and questions' },
     { href: '/verbs/quiz/', ar: 'اختبار الأفعال', en: 'Verb quiz' },
     { href: '/dialogues/', ar: 'حوارات', en: 'Dialogues' },
+    { href: '/conversation/', ar: 'تدريب المحادثة', en: 'Conversation practice' },
     { href: '/redewendungen/', ar: 'تعبيرات ألمانية', en: 'Redewendungen' },
     { href: '/writing/', ar: 'تدريب الكتابة', en: 'Writing practice' },
     { href: '/reading/', ar: 'القراءة', en: 'Reading' },
