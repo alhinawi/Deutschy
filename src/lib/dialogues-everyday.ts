@@ -848,3 +848,218 @@ Object.assign(dialogueEvidence,{
     "Am Abend vor dem Ausflug. Dann können wir fehlende Dinge noch neu verteilen."
   ]
 });
+
+everydayDialogues.push(...([
+  {
+    "id": "pause-einpacken",
+    "level": "A1",
+    "title": [
+      "Was kommt in den Rucksack?",
+      "إيه يدخل شنطة الضهر؟"
+    ],
+    "lines": [
+      [
+        "Lina",
+        "Ich mache heute einen langen Spaziergang.",
+        "هتمشى مشوار طويل النهارده."
+      ],
+      [
+        "Ben",
+        "Nimmst du etwas zu essen mit?",
+        "هتاخدي حاجة تاكليها؟"
+      ],
+      [
+        "Lina",
+        "Ja, zwei Brote und einen Apfel in meiner Brotdose.",
+        "أيوه، ساندوتشين وتفاحة في علبة الأكل."
+      ],
+      [
+        "Ben",
+        "Deine Trinkflasche steht noch auf dem Tisch.",
+        "زجاجة الشرب لسه على الترابيزة."
+      ],
+      [
+        "Lina",
+        "Danke. Ich fülle sie mit Wasser.",
+        "شكراً. هملاها مية."
+      ],
+      [
+        "Ben",
+        "Wo machst du eine Pause?",
+        "هتاخدي استراحة فين؟"
+      ],
+      [
+        "Lina",
+        "Auf einer Bank im Park. Den Apfel esse ich später.",
+        "على دكة في الجنينة. التفاحة هاكلها بعدين."
+      ]
+    ],
+    "q": [
+      [
+        "Was nimmt Lina zu essen mit?",
+        "Zwei Brote und einen Apfel.",
+        "Nur eine Suppe.",
+        "Vier leere Becher."
+      ],
+      [
+        "Wo steht die Flasche zuerst?",
+        "Auf dem Tisch.",
+        "Im Park.",
+        "Unter der Bank."
+      ],
+      [
+        "Wann möchte Lina den Apfel essen?",
+        "Später.",
+        "Vor dem Einpacken.",
+        "Gar nicht."
+      ]
+    ]
+  },
+  {
+    "id": "seiten-befestigen",
+    "level": "A2",
+    "title": [
+      "Heften oder klammern?",
+      "ندبس ولا نحط مشبك؟"
+    ],
+    "lines": [
+      [
+        "Sami",
+        "Gestern hat die zweite Seite gefehlt. Heute habe ich alle drei.",
+        "إمبارح الصفحة التانية كانت ناقصة. النهارده التلاتة معايا."
+      ],
+      [
+        "Eva",
+        "Willst du sie mit dem Heftgerät zusammenheften?",
+        "عايز تدبسهم بالدباسة؟"
+      ],
+      [
+        "Sami",
+        "Ich möchte sie später einzeln in meinen Ordner legen.",
+        "عايز أحطهم في الكلاسير كل واحدة لوحدها بعدين."
+      ],
+      [
+        "Eva",
+        "Dann nimm lieber eine Büroklammer. Die kannst du leicht wieder entfernen.",
+        "يبقى خد مشبك ورق أحسن. تقدر تشيله بسهولة تاني."
+      ],
+      [
+        "Sami",
+        "Gute Idee. Das Heftgerät kommt zurück in die Schublade.",
+        "فكرة كويسة. الدباسة ترجع الدرج."
+      ],
+      [
+        "Eva",
+        "Und wofür brauchst du das Klebeband?",
+        "ومحتاج الشريط اللاصق لإيه؟"
+      ],
+      [
+        "Sami",
+        "Für diesen gerissenen Umschlag, nicht für die Seiten.",
+        "للظرف المقطوع ده، مش للصفحات."
+      ]
+    ],
+    "q": [
+      [
+        "Warum möchte Sami die Seiten später trennen können?",
+        "Er möchte sie einzeln einordnen.",
+        "Er möchte sie verbrennen.",
+        "Er braucht nur die erste Zeile."
+      ],
+      [
+        "Was empfiehlt Eva?",
+        "Eine Büroklammer.",
+        "Einen neuen Rucksack.",
+        "Zwei Heftgeräte."
+      ],
+      [
+        "Wofür ist das Klebeband?",
+        "Für einen gerissenen Umschlag.",
+        "Für die Trinkflasche.",
+        "Für Evas Schuhe."
+      ]
+    ]
+  },
+  {
+    "id": "becher-hinweis",
+    "level": "B1",
+    "title": [
+      "Eine Bitte ist keine Bedingung",
+      "الطلب مش شرط"
+    ],
+    "lines": [
+      [
+        "Nora",
+        "Der Satz mit dem eigenen Becher klingt für manche wie eine Teilnahmebedingung.",
+        "الجملة عن الكوباية الشخصية ناس فاهماها كأنها شرط للحضور."
+      ],
+      [
+        "Tom",
+        "Das wollten wir nicht. Ohne Becher darf man natürlich trotzdem kommen.",
+        "إحنا مش قصدنا كده. طبعاً ينفع الناس تيجي من غير كوباية."
+      ],
+      [
+        "Nora",
+        "Dann erklären wir, dass wir einige Mehrwegbecher bereithalten. Die genaue Zahl ist noch offen.",
+        "يبقى نوضح إننا هنجهز شوية كوبايات تتستخدم تاني. العدد بالظبط لسه مش معروف."
+      ],
+      [
+        "Tom",
+        "Ich prüfe den Bestand vor dem Versand der Einladung.",
+        "هراجع الموجود قبل ما الدعوة تتبعت."
+      ],
+      [
+        "Nora",
+        "Gut. Welche Getränke können wir schon nennen?",
+        "تمام. نقدر نذكر أنهي مشروبات دلوقتي؟"
+      ],
+      [
+        "Tom",
+        "Tee und Wasser. Die zusätzliche Sorte ist noch nicht bestätigt.",
+        "الشاي والمية. النوع الإضافي لسه مش مؤكد."
+      ],
+      [
+        "Nora",
+        "Dann bleiben wir bei diesen beiden. Jemand ohne Vorwissen liest den Text noch einmal.",
+        "يبقى نكتفي بالاتنين دول. حد من غير معلومات سابقة يقرا النص تاني."
+      ]
+    ],
+    "q": [
+      [
+        "Was soll kein Teilnahmehindernis sein?",
+        "Keinen eigenen Becher dabeizuhaben.",
+        "Den Text gelesen zu haben.",
+        "Wasser trinken zu wollen."
+      ],
+      [
+        "Was übernimmt Tom vor dem Versand?",
+        "Den Bestand prüfen.",
+        "Neue Regeln erfinden.",
+        "Alle Einladungen vernichten."
+      ],
+      [
+        "Was ist noch nicht bestätigt?",
+        "Eine zusätzliche Getränkesorte.",
+        "Dass Tee genannt werden darf.",
+        "Dass die Einladung einen Text hat."
+      ]
+    ]
+  }
+] satisfies Dialogue[]));
+Object.assign(dialogueEvidence,{
+  "pause-einpacken": [
+    "Ja, zwei Brote und einen Apfel in meiner Brotdose.",
+    "Deine Trinkflasche steht noch auf dem Tisch.",
+    "Auf einer Bank im Park. Den Apfel esse ich später."
+  ],
+  "seiten-befestigen": [
+    "Ich möchte sie später einzeln in meinen Ordner legen.",
+    "Dann nimm lieber eine Büroklammer. Die kannst du leicht wieder entfernen.",
+    "Für diesen gerissenen Umschlag, nicht für die Seiten."
+  ],
+  "becher-hinweis": [
+    "Das wollten wir nicht. Ohne Becher darf man natürlich trotzdem kommen.",
+    "Ich prüfe den Bestand vor dem Versand der Einladung.",
+    "Tee und Wasser. Die zusätzliche Sorte ist noch nicht bestätigt."
+  ]
+});

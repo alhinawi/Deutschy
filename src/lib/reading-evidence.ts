@@ -95,3 +95,24 @@ Object.assign(readingEvidence,{
     "Die Gruppe ändert nicht das ganze Programm, sondern nur diesen einen Eintrag."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-pause": [
+    "In der Dose sind zwei Brote und ein Apfel.",
+    "Lina füllt sie mit Wasser und nimmt sie mit.",
+    "Im Park setzt sie sich auf eine Bank.",
+    "Den Apfel hebt sie für später auf."
+  ],
+  "alltag-a2-hefte": [
+    "Zu Hause bemerkt er, dass die zweite Seite fehlt.",
+    "So kann er sie zum Einordnen wieder leicht trennen.",
+    "Das Heftgerät legt Sami zurück in die Schublade.",
+    "Einen gerissenen Umschlag repariert er mit einem kurzen Stück Klebeband."
+  ],
+  "alltag-b1-trinkstation": [
+    "Einige Mitglieder verstehen das als freundliche Bitte, andere als feste Teilnahmebedingung.",
+    "Wie viele das genau sein werden, muss noch geprüft werden.",
+    "Im endgültigen Text werden nur die beiden vereinbarten Getränke genannt.",
+    "Nach der Überarbeitung liest jemand die Einladung ohne Vorwissen."
+  ]
+});

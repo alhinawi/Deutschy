@@ -12,4 +12,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-aufraeumen',dialogue:'nach-dem-basteln'},
  {reading:'alltag-a2-koffer',dialogue:'koffer-unterscheiden'},
  {reading:'alltag-b1-packliste',dialogue:'packliste-aufteilen'},
+ {reading:'alltag-a1-pause',dialogue:'pause-einpacken'},
+ {reading:'alltag-a2-hefte',dialogue:'seiten-befestigen'},
+ {reading:'alltag-b1-trinkstation',dialogue:'becher-hinweis'},
 ];
