@@ -283,6 +283,10 @@
   {
    "id": "flaschenhelfer",
    "ar": "أدوات للإزازات"
+  },
+  {
+   "id": "lesehelfer",
+   "ar": "أدوات للقراية والورق"
   }
  ],
  "words": [
@@ -10945,6 +10949,38 @@
     "commons": "https://commons.wikimedia.org/wiki/File:D%C3%A9capsuleur_-_Anonyme_A.jpg",
     "author": "Renhour48",
     "license": "CC0",
+    "padding": true
+   }
+  },
+  {
+   "id": "lupe",
+   "topic": "lesehelfer",
+   "art": "die",
+   "de": "Lupe",
+   "plural": "Lupen",
+   "ar": "عدسة مكبرة",
+   "photo": {
+    "file": "Magnifying glass.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Magnifying_glass.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Magnifying_glass.jpg",
+    "author": "Tomomarusan",
+    "license": "CC BY 2.5",
+    "padding": true
+   }
+  },
+  {
+   "id": "briefbeschwerer",
+   "topic": "lesehelfer",
+   "art": "der",
+   "de": "Briefbeschwerer",
+   "plural": "-",
+   "ar": "ثقالة ورق",
+   "photo": {
+    "file": "Glass paperweight with a blue stylized flower.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Glass_paperweight_with_a_blue_stylized_flower.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Glass_paperweight_with_a_blue_stylized_flower.jpg",
+    "author": "W.carter",
+    "license": "CC BY-SA 4.0",
     "padding": true
    }
   }
