@@ -242,3 +242,7 @@ assert(reviewedA2.find(g=>g.id==='adjektiv-endungen').points[1][1].includes('fem
 assert(reviewedA2.find(g=>g.id==='perfekt').points[2][1].includes('Movement alone is not enough'));
 assert(reviewedA2.find(g=>g.id==='perfekt').points[3][1].includes('-ieren'));
 console.log('PASS: A2 dative plural, adjective accusative and Perfekt qualifications retained');
+const a2Drills=lib('exercises-a2-depth').a2Depth;
+for(const [topic,rows]of Object.entries(a2Drills)){assert.equal(rows.length,6);for(const row of rows){assert.equal(row.length,6);assert.equal(new Set(row.slice(1,4)).size,3);assert(row[0].includes('___'));assert(row[4]&&row[5]);}const all=lib('exercises').exercises[topic];assert.deepEqual(JSON.parse(JSON.stringify(all.slice(-6))),JSON.parse(JSON.stringify(rows)));}
+assert.equal(a2Drills.dativ[0][1],'Autos');assert.equal(a2Drills['adjektiv-endungen'][0][1],'kleine');assert.equal(a2Drills.perfekt[1][1],'hat');
+console.log('PASS: 18 A2 contrast drills appended, unique options, bilingual feedback and checked exception answers');
