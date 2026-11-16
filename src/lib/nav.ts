@@ -56,6 +56,7 @@ export const sidebar: NavGroup[] = [
     { href: '/redewendungen/', ar: 'تعبيرات ألمانية', en: 'Redewendungen' },
     { href: '/writing-frames/', ar: 'خطط الرسائل A1-B2', en: 'Writing frames A1-B2' },
     { href: '/writing/', ar: 'تدريب الكتابة', en: 'Writing practice' },
+    { href: '/micro-reading/', ar: 'نصوص قراءة صغيرة A1-B2', en: 'Reading micro-texts A1-B2' },
     { href: '/reading/', ar: 'القراءة', en: 'Reading' },
     { href: '/wortschatz/', ar: 'مفردات الامتحان', en: 'Exam vocabulary' },
     { href: '/deck-export/', ar: 'تصدير وطباعة كروت الكلمات', en: 'Export and print vocabulary cards' },
