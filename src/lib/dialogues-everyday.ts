@@ -1493,3 +1493,218 @@ Object.assign(dialogueEvidence,{
     "Ich lege einen Zettel mit unserer Ordnung dazu. Nächstes Mal schaue ich zuerst in die Kiste."
   ]
 });
+
+everydayDialogues.push(...([
+  {
+    "id": "vier-plaetze-decken",
+    "level": "A1",
+    "title": [
+      "Noch ein Glas fehlt",
+      "لسه كوباية ناقصة"
+    ],
+    "lines": [
+      [
+        "Tom",
+        "Ich habe vier Teller auf den Tisch gestellt.",
+        "حطيت 4 أطباق على الترابيزة."
+      ],
+      [
+        "Lena",
+        "Gut. Hier sind vier gelbe Servietten.",
+        "تمام. أهي 4 مناديل سفرة صفرا."
+      ],
+      [
+        "Tom",
+        "Für die Gläser nehme ich die Untersetzer. Ein Glas fehlt noch.",
+        "هاخد القواعد للكوبايات. لسه كوباية ناقصة."
+      ],
+      [
+        "Lena",
+        "Ich hole es aus der Küche. Wohin kommt das Tablett?",
+        "هجيبها من المطبخ. الصينية تروح فين؟"
+      ],
+      [
+        "Tom",
+        "Auf den Stuhl neben dem Tisch. Dann haben wir Platz für das Essen.",
+        "على الكرسي جنب الترابيزة. كده يبقى عندنا مكان للأكل."
+      ],
+      [
+        "Lena",
+        "Und wann kommen unsere Freunde?",
+        "وأصحابنا جايين إمتى؟"
+      ],
+      [
+        "Tom",
+        "Um sechs Uhr. Bis dahin ist alles fertig.",
+        "الساعة 6. لحد ساعتها كل حاجة تبقى جاهزة."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Farbe haben die Servietten?",
+        "Gelb.",
+        "Lila.",
+        "Schwarz."
+      ],
+      [
+        "Was holt Lena aus der Küche?",
+        "Das fehlende Glas.",
+        "Alle vier Teller.",
+        "Einen Schuhspanner."
+      ],
+      [
+        "Warum kommt das Tablett auf den Stuhl?",
+        "Damit auf dem Tisch Platz für das Essen ist.",
+        "Damit niemand sitzen darf.",
+        "Damit die Freunde später kommen."
+      ]
+    ]
+  },
+  {
+    "id": "oeffner-fester-platz",
+    "level": "A2",
+    "title": [
+      "Jetzt liegt er in der Schale",
+      "دلوقتي في الطبق الصغير"
+    ],
+    "lines": [
+      [
+        "Yusuf",
+        "Suchst du auch den Flaschenöffner?",
+        "إنتي كمان بتدوري على فتّاحة الإزازات؟"
+      ],
+      [
+        "Farah",
+        "Nein, ich habe ihn in diese kleine Schale gelegt.",
+        "لأ، حطيتها في الطبق الصغير ده."
+      ],
+      [
+        "Yusuf",
+        "Endlich ein fester Platz. Und wohin gehört der Trichter?",
+        "أخيراً مكان ثابت. والقمع مكانه فين؟"
+      ],
+      [
+        "Farah",
+        "In die Küchenschublade. Ich lege ihn gleich zurück.",
+        "في درج المطبخ. هرجعه دلوقتي."
+      ],
+      [
+        "Yusuf",
+        "Was hast du mit den beiden leeren Flaschen gemacht?",
+        "عملتي إيه بالإزازتين الفاضيين؟"
+      ],
+      [
+        "Farah",
+        "Eine steht beim Altglas. Die andere möchte ich später als Vase benutzen.",
+        "واحدة مع الإزاز القديم. التانية عايزة أستخدمها فازة بعدين."
+      ],
+      [
+        "Yusuf",
+        "Dann lasse ich die Flasche neben den Blumen stehen.",
+        "يبقى أسيب الإزازة اللي جنب الورد مكانها."
+      ]
+    ],
+    "q": [
+      [
+        "Wo liegt der Flaschenöffner jetzt?",
+        "In einer kleinen Schale.",
+        "Im Altglas.",
+        "Unter dem Tablett."
+      ],
+      [
+        "Wohin gehört der Trichter?",
+        "In die Küchenschublade.",
+        "In die Blumenvase.",
+        "Auf den Schuhschrank."
+      ],
+      [
+        "Welche Flasche soll Yusuf stehen lassen?",
+        "Die neben den Blumen.",
+        "Eine neue volle Saftflasche.",
+        "Alle Flaschen im Altglas."
+      ]
+    ]
+  },
+  {
+    "id": "getraenke-andere-wand",
+    "level": "B1",
+    "title": [
+      "Erst ausprobieren, dann beurteilen",
+      "نجرب الأول وبعدين نحكم"
+    ],
+    "lines": [
+      [
+        "Omar",
+        "Am Getränketisch wird der Weg zur Tür zu schmal.",
+        "عند ترابيزة المشروبات السكة للباب بتضيق قوي."
+      ],
+      [
+        "Mina",
+        "Die Getränke könnten auf das Regal an der anderen Wand. Dort liegen aber noch die Anleitungen.",
+        "ممكن المشروبات تتحط على الرف عند الحيطة التانية. بس التعليمات لسه هناك."
+      ],
+      [
+        "Omar",
+        "Die passen in eine flache Kiste unter dem Spieltisch.",
+        "دي تنفع في صندوق مسطح تحت ترابيزة اللعب."
+      ],
+      [
+        "Mina",
+        "Für alle Becher ist auf dem Regal kein Platz.",
+        "مش فيه مكان على الرف لكل الكوبايات."
+      ],
+      [
+        "Omar",
+        "Wir stellen einen Teil bereit. Ich fülle bei Bedarf aus der Küche nach.",
+        "نحط جزء. وأنا أزوّد من المطبخ لما نحتاج."
+      ],
+      [
+        "Mina",
+        "Dann testen wir den Weg noch einmal, während jemand am Regal steht.",
+        "يبقى نجرب السكة تاني وحد واقف عند الرف."
+      ],
+      [
+        "Omar",
+        "Genau. Was heute passt, ist nicht automatisch für jedes Zimmer ideal.",
+        "بالظبط. اللي يناسب النهارده مش تلقائي مثالي لكل أوضة."
+      ]
+    ],
+    "q": [
+      [
+        "Warum sollen die Getränke einen anderen Platz bekommen?",
+        "Der bisherige Platz verengt den Weg zur Tür.",
+        "Alle Getränke sind zu warm.",
+        "Die Anleitungen sind verschwunden."
+      ],
+      [
+        "Wer bietet an, bei Bedarf nachzufüllen?",
+        "Omar.",
+        "Alle Gäste gleichzeitig.",
+        "Eine Person aus einem anderen Haus."
+      ],
+      [
+        "Was wollen sie noch einmal testen?",
+        "Den Weg, während jemand am Regal steht.",
+        "Die Farbe aller Becher.",
+        "Die Länge jeder Spielanleitung."
+      ]
+    ]
+  }
+] satisfies Dialogue[]));
+Object.assign(dialogueEvidence,{
+  "vier-plaetze-decken": [
+    "Gut. Hier sind vier gelbe Servietten.",
+    "Ich hole es aus der Küche. Wohin kommt das Tablett?",
+    "Auf den Stuhl neben dem Tisch. Dann haben wir Platz für das Essen."
+  ],
+  "oeffner-fester-platz": [
+    "Nein, ich habe ihn in diese kleine Schale gelegt.",
+    "In die Küchenschublade. Ich lege ihn gleich zurück.",
+    "Dann lasse ich die Flasche neben den Blumen stehen."
+  ],
+  "getraenke-andere-wand": [
+    "Am Getränketisch wird der Weg zur Tür zu schmal.",
+    "Wir stellen einen Teil bereit. Ich fülle bei Bedarf aus der Küche nach.",
+    "Dann testen wir den Weg noch einmal, während jemand am Regal steht."
+  ]
+});

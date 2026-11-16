@@ -1,0 +1,5 @@
+# Twenty-sixth original linked practice
+
+Three fictional everyday sets:four table places/coasters/napkins/tray; shared bottle/funnel/opener storage; comparing two room layouts for a games evening. Original German with Egyptian Arabic, glosses, exact evidence,4 reading questions and7-turn/3-question dialogue each. Linked reading/listening/dialogue and derived dictation. Existing IDs/content retained. Approximate difficulty groups, native editorial review pending. Layout is fictional, not accessibility/safety certification or a universal recommendation. Storage is narrative, not vendor/product care guidance.
+
+Typecheck/study/build pass.24 reading/listening sessions96 answers +12 dialogue sessions36 answers,24 axe states AR/EN320/390. Locks/history/evidence/transcript/retry and no overflow checked. Actual Arabic390 reading/English390 dialogue pixels inspected. First combined test command was interrupted after build; reran the incomplete read-only browser suite; final full reading/dialogue checks pass. No real-device pronunciation review implied.

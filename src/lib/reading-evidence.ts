@@ -158,3 +158,24 @@ Object.assign(readingEvidence,{
     "Er möchte beim nächsten Mal zuerst dort nachsehen, bevor er neues Material besorgt."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-kleiner-tisch": [
+    "Er stellt vier Teller auf den Tisch.",
+    "Die Servietten sind gelb.",
+    "Seine Schwester bringt es aus der Küche.",
+    "Das große Tablett stellt Tom auf einen Stuhl neben dem Tisch."
+  ],
+  "alltag-a2-flaschenregal": [
+    "Eine davon möchte sie später als Vase benutzen.",
+    "Der Trichter gehört in die Küchenschublade, nicht zu den Gläsern.",
+    "Ihr Mitbewohner sucht ihn oft, weil er bisher immer woanders lag.",
+    "Wasser und Saft stellt sie erst kurz vor dem Besuch dazu."
+  ],
+  "alltag-b1-tischaufteilung": [
+    "Beim Probelauf bemerkt Omar, dass der Weg zur Tür schmal wird, sobald jemand am Getränketisch steht.",
+    "Die Anleitungen passen in eine flache Kiste unter dem Spieltisch.",
+    "Für Omar ist wichtig, dass die Zuständigkeit klar ist und nicht alle gleichzeitig zwischen Küche und Regal hin und her laufen.",
+    "Nach dem Abend wollen sie notieren, ob etwas gefehlt hat, statt schon vorher zu behaupten, die Aufteilung sei für jede Situation ideal."
+  ]
+});

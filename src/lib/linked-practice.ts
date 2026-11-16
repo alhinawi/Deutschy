@@ -21,4 +21,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-geschenkbuch',dialogue:'buch-einpacken'},
  {reading:'alltag-a2-schuhregal',dialogue:'schuhloeffel-haken'},
  {reading:'alltag-b1-verpackungskiste',dialogue:'papierreste-sortieren'},
+ {reading:'alltag-a1-kleiner-tisch',dialogue:'vier-plaetze-decken'},
+ {reading:'alltag-a2-flaschenregal',dialogue:'oeffner-fester-platz'},
+ {reading:'alltag-b1-tischaufteilung',dialogue:'getraenke-andere-wand'},
 ];
