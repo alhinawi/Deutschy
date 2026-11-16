@@ -48,5 +48,8 @@ export const readings: ReadingText[] = [
     q: [['Was benutzen viele statt Plastiktüten?', 'Stofftaschen.', 'Papiertüten.', 'Kartons.'], ['Warum fahren viele Fahrrad?', 'Damit weniger Abgase entstehen.', 'Weil es schneller ist.', 'Weil Benzin teuer ist.'], ['Was sagen Experten?', 'Kleine Veränderungen helfen.', 'Nur die Politik kann helfen.', 'Es ist zu spät.']] },
 ];
 import { readingsAdv } from './reading-adv';
-readings.push(...readingsAdv);
+import { readingsMore } from './reading-adv2';
+readings.push(...readingsAdv, ...readingsMore);
+const LV = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
+readings.sort((a, b) => LV.indexOf(a.level) - LV.indexOf(b.level));
 export const readingOf = (id: string) => readings.find((r) => r.id === id);
