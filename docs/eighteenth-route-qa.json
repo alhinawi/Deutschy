@@ -1,0 +1,12 @@
+{
+  "ar": {
+    "routes": 540,
+    "navigations": 1080,
+    "failures": []
+  },
+  "en": {
+    "routes": 540,
+    "navigations": 1080,
+    "failures": []
+  }
+}

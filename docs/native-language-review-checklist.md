@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-16 after the seventeenth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-16 after the eighteenth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -47,6 +47,11 @@ Do not mark a row complete until the German, meaning and question ambiguity have
 - [ ] All 41 `/grammar/` topics: review the new step-by-step walkthrough for the first existing example. A walkthrough is hidden until opened; its purpose is explanation, not hiding answers to a new independent test. Quick rounds reuse existing question IDs and need a teacher's check for useful sequencing.
 - [ ] `/lessons/body/`, heart: check the explicit physical-model label and whether this real photo of a 3D-printed anatomical model teaches the noun clearly. It is not an exposed organ or illustration. Family/job photos are contextual; the grandfather and engineer crops remain weak. Do not infer identities or kinship from the photos.
 - [ ] `/progress/` and home: check the resume/next-step copy in both languages. Resume stores a local route/time only, not the exact question or scroll position. No native-language review or proficiency assessment is implied.
+
+### Eighteenth update: additional pending targets
+
+- [ ] `/certificate/A1/` through `/certificate/C2/` and `/progress/`: review the personal grammar-practice record wording. The existing gate is 80% of distinct grammar questions correct at least once, including repeated attempts. It must not imply full completion, verified identity, accreditation or proficiency. Check locked counts, optional device-local name and the printed qualification.
+- [ ] `/games/quiz/?topic=family`, `jobs` and `jobs2`: the written translated meaning is now the cue; photos are contextual, not evidence of kinship or occupation. Check each translation remains a fair cue. The grandfather/engineer photos have not been replaced or certified as ideal.
 
 ### Present forms to sign off
 
