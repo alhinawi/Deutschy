@@ -164,3 +164,9 @@ assert(search('Verb-governed case',100).some(h=>h.href==='/case-lab/#verb'));ass
 assert.equal(dictationDiff('a '.repeat(400),'a').filter(d=>d.kind==='extra').length,399);console.log('PASS: long allowed dictation input does not silently truncate diff tokens');
 
 const {presentFocus}=lib('present-focus');assert.equal(presentFocus.length,6);for(const v of presentFocus)assert.equal(v.forms.length,6);assert.equal(presentFocus.find(v=>v.inf==='lesen').forms[1],'liest');assert.equal(presentFocus.find(v=>v.inf==='sprechen').forms[4],'sprecht');console.log('PASS: 36 source-linked present focus cells, including singular stem changes');
+const typedNumbers=lib('typed-zahlen');
+assert.equal(typedNumbers.typedZahlen.length,16);
+for(const q of typedNumbers.typedZahlen){assert(typedNumbers.checkNumeric(q.kind,q.answer,q.answer));assert(!typedNumbers.checkNumeric(q.kind,'',q.answer));assert(!typedNumbers.checkNumeric(q.kind,q.answer+'x',q.answer));}
+assert(typedNumbers.checkNumeric('price','03.50','3,50'));assert(typedNumbers.checkNumeric('date','03.10','3.10.'));assert(typedNumbers.checkNumeric('time','01:05','1:05'));
+for(const [k,s] of [['time','24:00'],['time','13:5'],['date','31.4.'],['price','3,5'],['number','21x'],['number','٢١']])assert.equal(typedNumbers.numericValue(k,s),null);
+console.log('PASS: 16 typed numeric fixtures, accepted padding/decimal variants and strict format/date boundaries');
