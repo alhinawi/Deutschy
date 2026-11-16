@@ -16,6 +16,8 @@ export default function Home() {
           <p className="max-w-lg text-lg text-muted"><T ar="كل كلمة معاها صورة حقيقية، أداة التعريف الصح (der / die / das)، والجمع. اتعلم بالكروت وبعدين العب وجمّع XP." en="Every word comes with a real photo, the right article (der / die / das) and the plural. Learn with cards, then play and collect XP." /></p>
           <div className="flex flex-wrap gap-3">
             <Link href="/lessons/" className="rounded-full bg-accent px-6 py-3 font-bold text-accent-ink"><T ar="ابدأ الدروس" en="Start lessons" /></Link>
+            <Link href="/grammar/" className="rounded-full border border-line px-6 py-3 font-bold hover:bg-card"><T ar="القواعد" en="Grammar" /></Link>
+            <Link href="/verbs/" className="rounded-full border border-line px-6 py-3 font-bold hover:bg-card"><T ar="الأفعال" en="Verbs" /></Link>
             <Link href="/games/" className="rounded-full border border-line px-6 py-3 font-bold hover:bg-card"><T ar="العب" en="Play" /></Link>
             <Link href="/account/" className="rounded-full border border-line px-6 py-3 font-bold hover:bg-card"><T ar="سجّل حساب" en="Create account" /></Link>
           </div>
