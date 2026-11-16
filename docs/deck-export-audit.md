@@ -1,0 +1,7 @@
+# Vocabulary text export and printable cards
+
+2026-11-16: selected words only, from existing context packs, dictionary topics or actual local saved IDs. Empty saved state stays empty; no default selected cards. Source switching preserves selections and the preview shows everything to be exported. Unknown/duplicate IDs excluded. Export contains only dictionary nouns/articles, Arabic/English meanings and displayed plurals. No photos/audio, credentials, account info, progress or review schedules.
+
+UTF-8 tab-separated plain text, downloaded as deutschy-cards.txt. Headers separator:Tab, html:false, Front/Back columns follow the current official manual: https://docs.ankiweb.net/manual/importing/text-files . Text fields are quoted with doubled embedded quotes and no embedded row separators. UI explains mapping, two-field note type, HTML off and reviewing duplicate-update behavior. Not an apkg or account sync. Anki app import has not been run here; exported format and file bytes were verified against the documented contract.
+
+Browser generated a real six-row file; inspected text preserved Arabic, umlauts, der/die/das and die Koffer same-form plural. Empty plurals omit the field rather than invent a form. Every vocabulary object remains the original dictionary object. Real A4 six-card PDF rendered and visually inspected: six complete cut/fold panels, no controls/navigation. It is explicitly not aligned duplex printing. Unit/typecheck/build/export, empty saved state, selection/clear, actual download, mobile preview and axe pass.

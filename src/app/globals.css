@@ -62,6 +62,8 @@ button, a { -webkit-tap-highlight-color: transparent; }
   .sheet section, .sheet tr { break-inside: avoid; }
   .sheet section.tall { break-inside: auto; }
   .sheet h2 { break-after: avoid; }
+  .deck-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 10mm; }
+  .deck-card { break-inside: avoid; border-color: #555; background: #fff; }
 }
 
 /* Text remains readable on tinted level badges. */
