@@ -176,3 +176,5 @@ assert(search('Perfekt context',100).some(h=>h.href==='/perfekt/'));
 console.log('PASS: seventh-list practice additions discoverable without duplicate tools');
 const modals=lib('modal-meaning');assert.equal(modals.modalMeaning.length,6);modals.modalMeaning.forEach((q,i)=>{assert.notEqual(q.options[0],q.options[1]);assert.equal(modals.modalOptionsAr[i].length,2);assert.notEqual(modals.modalOptionsAr[i][0],modals.modalOptionsAr[i][1]);});
 console.log('PASS: six bilingual modal-meaning contrasts');
+const {readingEvidence}=lib('reading-evidence');for(const [id,quotes] of Object.entries(readingEvidence)){const r=lib('reading').readings.find(r=>r.id===id);assert(r,id);assert.equal(quotes.length,r.q.length);for(const quote of quotes)assert(r.de.join(' ').includes(quote),id+quote);}
+console.log('PASS: 18 reading evidence excerpts are exact and aligned to six A1-B1 text question sets');
