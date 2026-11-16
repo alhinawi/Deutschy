@@ -1,0 +1,3 @@
+import {readings} from './reading';
+export const dictationItems=readings.flatMap(r=>r.de.flatMap((p,pi)=>p.split(/(?<=[.!?])\s+/).filter(s=>s.length>10).map((text,i)=>({id:`${r.id}:${pi}:${i}`,level:r.level,text,href:`/reading/${r.id}/`}))));
+export function compareDictation(answer:string,target:string){const tokens=(s:string)=>s.normalize('NFC').trim().replace(/[.,!?;:"„“”()]/g,'').split(/\s+/).filter(Boolean);const a=tokens(answer),b=tokens(target);return {exact:answer.normalize('NFC').trim()===target.normalize('NFC').trim(),words:b.map((word,i)=>({word,typed:a[i]||'',match:a[i]===word})),extra:a.slice(b.length)};}

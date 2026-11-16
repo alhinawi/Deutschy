@@ -112,3 +112,5 @@ assert.equal(reviewQueue({...clean,seen:{'unknown:legacy':{ok:0,bad:9}}},emptyRe
 assert(reviewBank().some(q=>q.key==='l:c2-schweigen:0'));
 const {search,index}=lib('search-index');for(const q of ['دقة','precision','Schweigen','Apfel'])assert(search(q,500).length>0);assert(index().some(h=>h.kind==='writing'&&h.href==='/writing/#c2-uebersetzen'));assert(index().some(h=>h.kind==='reading'&&h.href==='/reading/c2-schweigen/'));
 console.log('PASS: empty/own-miss/saved review, schedule boundaries, unknown-key exclusion and multilingual global search');
+
+const {dictationItems,compareDictation}=lib('dictation');for(const l of CHECK_LEVELS)assert(dictationItems.some(x=>x.level===l));assert(compareDictation('Grüße dich!','Grüße dich!').exact);assert(!compareDictation('Grusse dich','Grüße dich!').words[0].match);assert.equal(compareDictation('Hallo, Welt','Hallo Welt!').words.filter(w=>!w.match).length,0);console.log('PASS: dictation all levels, NFC, umlaut and punctuation comparison');
