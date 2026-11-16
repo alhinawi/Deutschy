@@ -3,14 +3,14 @@ const g = (id: string, level: GrammarTopic['level'], img: string, title: [string
 
 export const grammarB: GrammarTopic[] = [
   g('dativ', 'A2', 'tasche', ['الحالة الجرية (Dativ)', 'The dative case'],
-    ['الـ Dativ هو المفعول بيه الغير مباشر: اللي بتديله أو بتقوله حاجة. كل الأجناس بتتغير.', 'The dative marks the indirect object: the one you give or say something to. Every gender changes.'],
+    ['الـ Dativ ممكن يوضح اللي بتديله أو بتقوله حاجة، وكمان فيه أفعال وحروف جر بتطلبه. شكل الأداة بيتغير حسب جنس الاسم وعدده.', 'The dative can mark an indirect object. Certain verbs and prepositions also require it. Article forms depend on gender and number.'],
     [
       ['اسأل "لمين؟": Ich gebe dem Mann das Buch. (الكتاب اتدى لمين؟ للراجل).', 'Ask "to whom?": Ich gebe dem Mann das Buch.'],
-      ['في الجمع بنزود n لو الاسم مش بيخلص بـ n: den Kindern, den Männern.', 'In the plural add n to the noun unless it already ends in n: den Kindern, den Männern.'],
+      ['في جمع الداتيف، غالبا بنزود n لو الجمع مش منتهي بـ n أو s: mit den Kindern. لكن جمع زي Autos بيفضل زي ما هو: mit den Autos.', 'In the dative plural, normally add -n unless the plural already ends in -n or -s: mit den Kindern, but mit den Autos.'],
       ['أفعال بتاخد Dativ بس: helfen، danken، gefallen، gehören، antworten، schmecken، passen. Das Buch gehört mir.', 'Verbs that take only the dative: helfen, danken, gefallen, gehören, antworten, schmecken, passen.'],
       ['الضمائر: mir، dir، ihm، ihr، ihm، uns، euch، ihnen/Ihnen.', 'Pronouns: mir, dir, ihm, ihr, ihm, uns, euch, ihnen/Ihnen.'],
     ],
-    [['Ich helfe meiner Mutter.', 'أنا بساعد أمي.', 'I help my mother.'], ['Das Auto gehört dem Lehrer.', 'العربية بتاعة المدرس.', 'The car belongs to the teacher.'], ['Wie gefällt dir die Stadt?', 'إيه رأيك في المدينة؟', 'How do you like the city?'], ['Er schenkt seiner Frau Blumen.', 'بيدي مراته ورد.', 'He gives his wife flowers.']],
+    [['Ich helfe meiner Mutter.', 'أنا بساعد أمي.', 'I help my mother.'], ['Das Auto gehört dem Lehrer.', 'العربية بتاعة المدرس.', 'The car belongs to the teacher.'], ['Wie gefällt dir die Stadt?', 'إيه رأيك في المدينة؟', 'How do you like the city?'], ['Er schenkt seiner Frau Blumen.', 'بيدي مراته ورد.', 'He gives his wife flowers.'], ['Wir fahren mit den Autos.', 'إحنا رايحين بالعربيات.', 'We are travelling in the cars.']],
     { h: ['', 'm', 'f', 'n', 'pl'], r: [['Nominativ', 'der', 'die', 'das', 'die'], ['Akkusativ', 'den', 'die', 'das', 'die'], ['Dativ', 'dem', 'der', 'dem', 'den + n']] }),
   g('dativ-praepositionen', 'A2', 'strasse', ['حروف الجر مع Dativ و Akkusativ', 'Prepositions with dative and accusative'],
     ['فيه حروف جر دايما مع Dativ، وحروف دايما مع Akkusativ، وحروف بيتحدد اختيارها في المعنى المكاني حسب مكان الحدث أو الاتجاه لمكان جديد، مش مجرد وجود حركة.', 'Some prepositions always take the dative, some the accusative, and local two-way prepositions distinguish location from destination, not motion alone.'],
@@ -27,10 +27,10 @@ export const grammarB: GrammarTopic[] = [
     [
       ['الأفعال المنتظمة: ge + جذر + t: machen → gemacht، lernen → gelernt، spielen → gespielt.', 'Regular verbs: ge + stem + t: machen → gemacht, lernen → gelernt.'],
       ['الأفعال القوية: ge + جذر (متغير) + en: sehen → gesehen، trinken → getrunken، schreiben → geschrieben، gehen → gegangen. لازم تحفظهم.', 'Strong verbs: ge + (changed) stem + en: sehen → gesehen, trinken → getrunken. You must learn them.'],
-      ['مع sein لو في حركة أو تغيير حالة: gehen, fahren, kommen, fliegen, aufstehen, einschlafen, werden, bleiben, sein. باقي الأفعال مع haben.', 'Use sein for movement or change of state: gehen, fahren, kommen, fliegen, aufstehen, einschlafen, werden, bleiben, sein. The rest use haben.'],
-      ['بدون ge: الأفعال اللي بتبدأ بـ be-, ge-, er-, ver-, zer-, ent-: besuchen → besucht، verstehen → verstanden. والأفعال المنفصلة بتحط ge في النص: einkaufen → eingekauft.', 'No ge- after inseparable prefixes (be, ge, er, ver, zer, ent). Separable verbs put ge in the middle: eingekauft.'],
+      ['غالبا بنستخدم sein مع تغيير المكان من غير مفعول مباشر أو تغيير الحالة، وكمان مع sein و bleiben و werden. مش أي حركة معناها sein، وحسب معنى الفعل ممكن المساعد يتغير. احفظ المساعد مع الفعل.', 'Sein usually marks a change of location without a direct object or a change of state, plus sein, bleiben and werden. Movement alone is not enough; meaning and usage matter. Learn the auxiliary with the verb.'],
+      ['الأفعال ذات البادئة غير المنفصلة مش بتاخد ge، زي besucht و verstanden. وأفعال -ieren كمان: studiert. المنفصلة بتحط ge بعد البادئة، زي eingekauft.', 'No ge- with inseparable prefixes: besucht, verstanden. Verbs in -ieren also omit ge-: studiert. Separable verbs put ge- after the prefix: eingekauft.'],
     ],
-    [['Gestern habe ich Deutsch gelernt.', 'امبارح ذاكرت ألماني.', 'Yesterday I studied German.'], ['Wir sind nach Kairo gefahren.', 'احنا سافرنا القاهرة.', 'We travelled to Cairo.'], ['Hast du schon gegessen?', 'أكلت؟', 'Have you eaten yet?'], ['Sie ist früh aufgestanden.', 'هي صحيت بدري.', 'She got up early.']]),
+    [['Gestern habe ich Deutsch gelernt.', 'امبارح ذاكرت ألماني.', 'Yesterday I studied German.'], ['Wir sind nach Kairo gefahren.', 'احنا سافرنا القاهرة.', 'We travelled to Cairo.'], ['Hast du schon gegessen?', 'أكلت؟', 'Have you eaten yet?'], ['Sie ist früh aufgestanden.', 'هي صحيت بدري.', 'She got up early.'], ['Ich habe in Kairo studiert.', 'أنا درست في القاهرة.', 'I studied in Cairo.'], ['Er hat sich bewegt.', 'هو اتحرك.', 'He moved.']]),
   g('praeteritum-basics', 'A2', 'buch', ['الماضي البسيط: Präteritum', 'The simple past: Präteritum'],
     ['في الكتابة والقصص بنستخدم Präteritum. في الكلام بنستخدمه بس مع sein و haben والأفعال المساعدة.', 'Written stories use the Präteritum. In speech it is common only with sein, haben and modals.'],
     [
@@ -43,12 +43,12 @@ export const grammarB: GrammarTopic[] = [
   g('adjektiv-endungen', 'A2', 'blume', ['نهايات الصفات', 'Adjective endings'],
     ['الصفة قبل الاسم بتاخد نهاية. النهاية بتتغير حسب الأداة والجنس والحالة.', 'An adjective before a noun takes an ending. The ending depends on the article, gender and case.'],
     [
-      ['بعد الصفة بعد الفعل sein مفيش نهاية: Das Haus ist groß.', 'After sein or werden no ending: Das Haus ist groß.'],
-      ['بعد الأداة المعرفة (der/die/das) النهاية غالبا -e أو -en: der große Mann، die kleine Frau، das neue Auto. وفي الجمع وفي Akkusativ و Dativ بتبقى -en.', 'After the definite article the ending is mostly -e or -en: der große Mann, die kleine Frau, das neue Auto; plural and oblique cases take -en.'],
+      ['الصفة لو بتوصف الفاعل بعد sein أو werden مش بتاخد نهاية: Das Haus ist groß. النهاية بتظهر لما الصفة تيجي قبل الاسم.', 'After sein or werden no ending: Das Haus ist groß.'],
+      ['بعد أداة التعريف، المفرد في حالة الفاعل بياخد -e. في المفعول المباشر، المذكر بس بيتحول لـ -en؛ المؤنث والمحايد بيفضلوا -e. الجمع والداتيف بياخدوا -en. راجع الجدول تحت.', 'After a definite article, nominative singular takes -e. In the accusative, only masculine changes to -en; feminine and neuter keep -e. Plural and dative forms take -en. See the table below.'],
       ['بعد ein: المذكر Nominativ -er (ein großer Mann)، المحايد Nominativ/Akkusativ -es (ein neues Auto)، الباقي زي المعرفة.', 'After ein: masculine nominative -er (ein großer Mann), neuter nominative/accusative -es (ein neues Auto), the rest like the definite article.'],
       ['من غير أداة: الصفة بتاخد نهاية الأداة: kalter Kaffee، frische Milch، kaltes Wasser.', 'With no article the adjective carries the article ending: kalter Kaffee, frische Milch, kaltes Wasser.'],
     ],
-    [['Das ist ein guter Freund.', 'ده صاحب كويس.', 'That is a good friend.'], ['Ich kaufe die rote Tasche.', 'هشتري الشنطة الحمرا.', 'I buy the red bag.'], ['Wir wohnen in einem kleinen Haus.', 'بنسكن في بيت صغير.', 'We live in a small house.'], ['Heiße Suppe schmeckt im Winter gut.', 'الشوربة السخنة حلوة في الشتا.', 'Hot soup tastes good in winter.']],
+    [['Das ist ein guter Freund.', 'ده صاحب كويس.', 'That is a good friend.'], ['Ich kaufe die rote Tasche.', 'هشتري الشنطة الحمرا.', 'I buy the red bag.'], ['Wir wohnen in einem kleinen Haus.', 'بنسكن في بيت صغير.', 'We live in a small house.'], ['Heiße Suppe schmeckt im Winter gut.', 'الشوربة السخنة حلوة في الشتا.', 'Hot soup tastes good in winter.'], ['Ich sehe das kleine Kind.', 'أنا شايف الطفل الصغير.', 'I see the small child.']],
     { h: ['Nach der/die/das', 'm', 'f', 'n', 'pl'], r: [['Nom', '-e', '-e', '-e', '-en'], ['Akk', '-en', '-e', '-e', '-en'], ['Dat', '-en', '-en', '-en', '-en']] }),
   g('nebensaetze-weil-dass', 'A2', 'tafel', ['الجمل الفرعية: weil, dass, wenn', 'Subordinate clauses: weil, dass, wenn'],
     ['في الجملة الفرعية الفعل بيروح لآخر الجملة. الجملة الفرعية بتبدأ بحرف ربط.', 'In a subordinate clause the conjugated verb goes to the end. The clause starts with a conjunction.'],

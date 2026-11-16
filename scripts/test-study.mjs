@@ -236,3 +236,9 @@ const queueState=Object.fromEntries(words.slice(0,30).map((w,i)=>[w.id,{b:i%6+1,
 const dueFlash=flashQueue(words,queueState,100);assert.equal(dueFlash.length,SESSION_MAX);assert(dueFlash.every(w=>queueState[w.id]));
 assert.equal(flashQueue(words,{},100).length,NEW_PER_SESSION);
 console.log('PASS: flash retries are bounded, first-pass-only schedule/XP/history, due priority and session/new limits');
+const reviewedA2=lib('grammar-b').grammarB;
+assert(reviewedA2.find(g=>g.id==='dativ').points[1][1].includes('or -s'));
+assert(reviewedA2.find(g=>g.id==='adjektiv-endungen').points[1][1].includes('feminine and neuter keep -e'));
+assert(reviewedA2.find(g=>g.id==='perfekt').points[2][1].includes('Movement alone is not enough'));
+assert(reviewedA2.find(g=>g.id==='perfekt').points[3][1].includes('-ieren'));
+console.log('PASS: A2 dative plural, adjective accusative and Perfekt qualifications retained');
