@@ -3,6 +3,7 @@ export type NavGroup = { id: string; ar: string; en: string; items: NavItem[] };
 export const sidebar: NavGroup[] = [
   { id: 'learn', ar: 'ابدأ', en: 'Start', items: [
     { href: '/', ar: 'الرئيسية', en: 'Home' },
+    { href: '/about/', ar: 'عن الموقع وطريقة المذاكرة', en: 'About and study guide' },
     { href: '/levels/', ar: 'كل المستويات', en: 'All levels' },
     { href: '/lernpfad/', ar: 'مسار A1', en: 'A1 path' },
     { href: '/perfekt/', ar: 'الماضي', en: 'Past tenses' },
