@@ -45,17 +45,17 @@ export default function Shell({ children }: { children: ReactNode }) {
           </button>
           <Link href="/" className="de text-2xl font-semibold tracking-tight" dir="ltr">Deutsch<span className="text-accent">y</span></Link>
           <div className="num ms-auto flex items-center gap-1.5 sm:gap-2 whitespace-nowrap text-xs font-bold text-muted" dir="ltr">
-            <span className="max-sm:hidden">Lv {level(s.xp)}</span><span>{s.xp} XP</span>
+            <span className="max-sm:hidden">Lv {level(s.xp)}</span><span title={`${s.xp} XP`}>{s.xp >= 10000 ? new Intl.NumberFormat('en', { notation: 'compact', maximumFractionDigits: 1 }).format(s.xp) : s.xp} XP</span>
             <span className="inline-flex items-center gap-0.5 text-accent"><Flame />{s.streak}</span>
           </div>
           <button onClick={() => setSearching(true)} aria-label={t('بحث', 'Search')} className="rounded-full border border-line p-1.5 hover:bg-card"><SearchIcon className="h-4 w-4" /></button>
           <button onClick={() => setLang(lang === 'ar' ? 'en' : 'ar')} aria-label={lang === 'ar' ? 'EN English' : 'عربي Arabic'} className="rounded-full border border-line px-2.5 py-1 text-xs font-bold whitespace-nowrap sm:px-3 hover:bg-card">
             {lang === 'ar' ? 'EN' : 'عربي'}
           </button>
-          {user === undefined ? <span className="inline-block h-7 w-14" aria-hidden="true" /> : user ? (
+          {user === undefined ? <span className="inline-block h-7 w-8 sm:w-14" aria-hidden="true" /> : user ? (
             <Link href="/account/" className="hidden rounded-full bg-accent px-3 py-1.5 text-xs font-bold text-accent-ink sm:inline-block">{user.name.split(' ')[0]}</Link>
           ) : (
-            <Link href="/account/" className="rounded-full bg-accent px-2.5 py-1.5 text-xs font-bold whitespace-nowrap sm:px-3 text-accent-ink">{t("دخول", "Sign in")}</Link>
+            <Link href="/account/" aria-label={t("دخول", "Sign in")} className="rounded-full bg-accent px-2.5 py-1.5 text-xs font-bold whitespace-nowrap sm:px-3 text-accent-ink"><span className="hidden sm:inline">{t("دخول", "Sign in")}</span><svg viewBox="0 0 24 24" className="h-4 w-4 sm:hidden" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true"><circle cx="12" cy="8" r="4" /><path d="M4 22v-3a8 8 0 0 1 16 0v3" /></svg></Link>
           )}
         </div>
       </header>
