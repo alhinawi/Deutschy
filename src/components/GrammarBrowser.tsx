@@ -25,10 +25,10 @@ export default function GrammarBrowser() {
       <p className="num text-sm text-muted">{t(arTopics(list.length), `${list.length} topics`)}</p>
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {list.map((g) => (
-          <Link key={g.id} href={`/grammar/${g.id}/`} className="flex overflow-hidden rounded-2xl border border-line bg-card hover:border-accent">
+          <Link key={g.id} href={`/grammar/${g.id}/`} className="flex min-h-32 overflow-hidden rounded-2xl border border-line bg-card hover:border-accent">
             {GRAMMAR_PHOTO.has(g.id) ? (
               // eslint-disable-next-line @next/next/no-img-element
-              <img src={`/img/${g.img}.jpg`} alt="" className="h-32 w-28 shrink-0 object-cover" loading="lazy" />
+              <img src={`/img/${g.img}.jpg`} alt="" width={112} height={128} className="h-32 w-28 shrink-0 object-cover" loading="lazy" />
             ) : <Art kind="grammar" className="h-32 w-28 shrink-0 object-cover" label={g.level} />}
             <div className="min-w-0 p-4">
               <p className="num text-xs font-bold text-accent">{g.level}</p>
