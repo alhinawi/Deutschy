@@ -223,6 +223,14 @@
   {
    "id": "fahrzeuge2",
    "ar": "مركبات"
+  },
+  {
+   "id": "kleidung3",
+   "ar": "ملابس وخياطة"
+  },
+  {
+   "id": "natur3",
+   "ar": "الطبيعة 3"
   }
  ],
  "words": [
@@ -621,7 +629,7 @@
    "topic": "food",
    "art": "der",
    "de": "Kuchen",
-   "plural": "-",
+   "plural": "",
    "ar": "كيكة",
    "photo": {
     "file": "Streuselkuchen7.jpg",
@@ -786,7 +794,7 @@
    "topic": "house",
    "art": "das",
    "de": "Fenster",
-   "plural": "-",
+   "plural": "",
    "ar": "شباك",
    "photo": {
     "file": "Wooden house (window shutters), Riga.jpg",
@@ -816,7 +824,7 @@
    "topic": "house",
    "art": "der",
    "de": "Schlüssel",
-   "plural": "-",
+   "plural": "",
    "ar": "مفتاح",
    "photo": {
     "file": "Solex 99 30 padlock with keys (DSCF2659).jpg",
@@ -846,7 +854,7 @@
    "topic": "house",
    "art": "der",
    "de": "Spiegel",
-   "plural": "-",
+   "plural": "",
    "ar": "مراية",
    "photo": {
     "file": "Mirror MET DP106620.jpg",
@@ -1386,7 +1394,7 @@
    "topic": "clothes",
    "art": "der",
    "de": "Gürtel",
-   "plural": "-",
+   "plural": "",
    "ar": "حزام",
    "photo": {
     "file": "Germany Belt-and-Buckle-02.jpg",
@@ -1536,7 +1544,7 @@
    "topic": "animals",
    "art": "der",
    "de": "Esel",
-   "plural": "-",
+   "plural": "",
    "ar": "حمار",
    "photo": {
     "file": "Donkey_in_Clovelly,_North_Devon,_England.jpg",
@@ -1596,7 +1604,7 @@
    "topic": "animals",
    "art": "das",
    "de": "Kaninchen",
-   "plural": "-",
+   "plural": "",
    "ar": "أرنب",
    "photo": {
     "file": "Oryctolagus_cuniculus.jpg",
@@ -1716,7 +1724,7 @@
    "topic": "school",
    "art": "der",
    "de": "Computer",
-   "plural": "-",
+   "plural": "",
    "ar": "كمبيوتر",
    "photo": {
     "file": "Student using desktop computer at CIJEF in 2004.jpg",
@@ -2076,7 +2084,7 @@
    "topic": "jobs",
    "art": "der",
    "de": "Bäcker",
-   "plural": "-",
+   "plural": "",
    "ar": "خباز",
    "photo": {
     "file": "Bakers_at_work,_2013.jpg",
@@ -2151,7 +2159,7 @@
    "topic": "jobs",
    "art": "der",
    "de": "Kellner",
-   "plural": "-",
+   "plural": "",
    "ar": "جرسون",
    "photo": {
     "file": "Cafe-prueckel-schanigarten.jpg",
@@ -2166,7 +2174,7 @@
    "topic": "kitchen",
    "art": "der",
    "de": "Teller",
-   "plural": "-",
+   "plural": "",
    "ar": "طبق",
    "photo": {
     "file": "Tellerset_Anmut_Platinum,_V&B_(2).jpg",
@@ -2451,7 +2459,7 @@
    "topic": "devices",
    "art": "der",
    "de": "Koffer",
-   "plural": "-",
+   "plural": "",
    "ar": "شنطة سفر",
    "photo": {
     "file": "Reisegepäck.JPG",
@@ -2556,7 +2564,7 @@
    "topic": "outdoors",
    "art": "das",
    "de": "Feuer",
-   "plural": "-",
+   "plural": "",
    "ar": "نار",
    "photo": {
     "file": "Fire02.jpg",
@@ -2721,7 +2729,7 @@
    "topic": "town",
    "art": "der",
    "de": "Brunnen",
-   "plural": "-",
+   "plural": "",
    "ar": "نافورة",
    "photo": {
     "file": "Brunnen_Kloster_Wald.JPG",
@@ -2795,7 +2803,7 @@
    "topic": "kitchen",
    "art": "das",
    "de": "Messer",
-   "plural": "-",
+   "plural": "",
    "ar": "سكينة",
    "id": "messer",
    "photo": {
@@ -2900,7 +2908,7 @@
    "topic": "devices",
    "art": "der",
    "de": "Besen",
-   "plural": "-",
+   "plural": "",
    "ar": "مقشة",
    "id": "besen",
    "photo": {
@@ -3411,7 +3419,7 @@
    "topic": "tiere2",
    "art": "der",
    "de": "Igel",
-   "plural": "-",
+   "plural": "",
    "ar": "قنفذ",
    "photo": {
     "file": "West European Hedgehog (Erinaceus europaeus)1.jpg",
@@ -3576,7 +3584,7 @@
    "topic": "moebel",
    "art": "der",
    "de": "Wecker",
-   "plural": "-",
+   "plural": "",
    "ar": "منبه",
    "photo": {
     "file": "Classic alarm clock 20180513.jpg",
@@ -3591,7 +3599,7 @@
    "topic": "moebel",
    "art": "der",
    "de": "Fernseher",
-   "plural": "-",
+   "plural": "",
    "ar": "تلفزيون",
    "photo": {
     "file": "Polytechnical Museum television set Volna 20150214 164839.jpg",
@@ -3756,7 +3764,7 @@
    "topic": "sport",
    "art": "der",
    "de": "Tennisschläger",
-   "plural": "-",
+   "plural": "",
    "ar": "مضرب تنس",
    "photo": {
     "file": "Tennis Racket and Balls.jpg",
@@ -3801,7 +3809,7 @@
    "topic": "sport",
    "art": "der",
    "de": "Kopfhörer",
-   "plural": "-",
+   "plural": "",
    "ar": "سماعات",
    "photo": {
     "file": "Bose QuietComfort 25 Acoustic Noise Cancelling Headphones with Carry Case.jpg",
@@ -3936,7 +3944,7 @@
    "topic": "moebel",
    "art": "das",
    "de": "Bügeleisen",
-   "plural": "-",
+   "plural": "",
    "ar": "مكواة",
    "photo": {
     "file": "Electric steam iron.jpg",
@@ -3996,7 +4004,7 @@
    "topic": "werkzeug",
    "art": "der",
    "de": "Pinsel",
-   "plural": "-",
+   "plural": "",
    "ar": "فرشاة",
    "photo": {
     "file": "2000s Wistoba Chinex Plus professional trade paintbrush model 1508 50 mm width stainless steel ferrule.jpg",
@@ -4116,7 +4124,7 @@
    "topic": "kleidung2",
    "art": "der",
    "de": "Stiefel",
-   "plural": "-",
+   "plural": "",
    "ar": "بوت",
    "photo": {
     "file": "Leather boots men's.jpg",
@@ -4191,7 +4199,7 @@
    "topic": "essen2",
    "art": "das",
    "de": "Brötchen",
-   "plural": "-",
+   "plural": "",
    "ar": "عيش صغير",
    "photo": {
     "file": "Bread rolls at Black Horse Inn, Nuthurst West Sussex England.jpg",
@@ -4221,7 +4229,7 @@
    "topic": "essen2",
    "art": "der",
    "de": "Burger",
-   "plural": "-",
+   "plural": "",
    "ar": "برجر",
    "photo": {
     "file": "Big Mac hamburger.jpg",
@@ -4296,7 +4304,7 @@
    "topic": "essen2",
    "art": "der",
    "de": "Pfannkuchen",
-   "plural": "-",
+   "plural": "",
    "ar": "بانكيك",
    "photo": {
     "file": "Pancake on pan.jpg",
@@ -4461,7 +4469,7 @@
    "topic": "natur2",
    "art": "der",
    "de": "Gletscher",
-   "plural": "-",
+   "plural": "",
    "ar": "نهر جليدي",
    "photo": {
     "file": "Sofia Massif and Sofia Glacier, Karachay-Cherkessia, Caucasus Mountains.jpg",
@@ -4536,7 +4544,7 @@
    "topic": "fahrzeuge",
    "art": "der",
    "de": "Lastwagen",
-   "plural": "-",
+   "plural": "",
    "ar": "عربية نقل",
    "photo": {
     "file": "PK Truck on N-5 near Thatta asv2020-02 img2.jpg",
@@ -4551,7 +4559,7 @@
    "topic": "fahrzeuge",
    "art": "der",
    "de": "Krankenwagen",
-   "plural": "-",
+   "plural": "",
    "ar": "إسعاف",
    "photo": {
     "file": "Bedford J1 Ambulance 1966.jpg",
@@ -4566,7 +4574,7 @@
    "topic": "fahrzeuge",
    "art": "der",
    "de": "Hubschrauber",
-   "plural": "-",
+   "plural": "",
    "ar": "هيليكوبتر",
    "photo": {
     "file": "Tengboche, Helicopter in flight, Mountains of Nepal.jpg",
@@ -4626,7 +4634,7 @@
    "topic": "fahrzeuge",
    "art": "der",
    "de": "Roller",
-   "plural": "-",
+   "plural": "",
    "ar": "اسكوتر",
    "photo": {
     "file": "Jinan scooter-20150519-RM-184932.jpg",
@@ -4656,7 +4664,7 @@
    "topic": "fahrzeuge",
    "art": "der",
    "de": "Bagger",
-   "plural": "-",
+   "plural": "",
    "ar": "حفار",
    "photo": {
     "file": "Caterpillar 330 excavator on a pile of dirt.jpg",
@@ -4686,7 +4694,7 @@
    "topic": "gebaeude",
    "art": "der",
    "de": "Tunnel",
-   "plural": "-",
+   "plural": "",
    "ar": "نفق",
    "photo": {
     "file": "London King's Cross rainbow light tunnel - 2023-06-25.jpg",
@@ -4806,7 +4814,7 @@
    "topic": "tiere3",
    "art": "das",
    "de": "Eichhörnchen",
-   "plural": "-",
+   "plural": "",
    "ar": "سنجاب",
    "photo": {
     "file": "Indian giant squirrel in Kuldiha Wildlife Sanctuary March 2025 by Tisha Mukherjee 01.jpg",
@@ -4911,7 +4919,7 @@
    "topic": "tiere3",
    "art": "der",
    "de": "Marienkäfer",
-   "plural": "-",
+   "plural": "",
    "ar": "دعسوقة",
    "photo": {
     "file": "Ladybug eating aphids. (49485764276).jpg",
@@ -5076,7 +5084,7 @@
    "topic": "tiere3",
    "art": "der",
    "de": "Tiger",
-   "plural": "-",
+   "plural": "",
    "ar": "نمر",
    "photo": {
     "file": "Bengal tiger (Panthera tigris tigris) female 3.jpg",
@@ -5106,7 +5114,7 @@
    "topic": "dinge2",
    "art": "der",
    "de": "Rasenmäher",
-   "plural": "-",
+   "plural": "",
    "ar": "ماكينة قص حشيش",
    "photo": {
     "file": "Viking lawn mower.jpg",
@@ -5136,7 +5144,7 @@
    "topic": "dinge2",
    "art": "der",
    "de": "Anker",
-   "plural": "-",
+   "plural": "",
    "ar": "مرساة",
    "photo": {
     "file": "Ancla, Anchor Bay, Malta, Malta, 2021-08-24, DD 12.jpg",
@@ -5181,7 +5189,7 @@
    "topic": "dinge2",
    "art": "der",
    "de": "Schlitten",
-   "plural": "-",
+   "plural": "",
    "ar": "زحافة",
    "photo": {
     "file": "Racing sled.jpg",
@@ -5196,7 +5204,7 @@
    "topic": "dinge2",
    "art": "der",
    "de": "Würfel",
-   "plural": "-",
+   "plural": "",
    "ar": "زهر",
    "photo": {
     "file": "6sided dice.jpg",
@@ -5241,7 +5249,7 @@
    "topic": "dinge2",
    "art": "das",
    "de": "Kabel",
-   "plural": "-",
+   "plural": "",
    "ar": "سلك",
    "photo": {
     "file": "'Twin and Earth' electrical cable. BS 6004, 6mm².jpg",
@@ -5346,7 +5354,7 @@
    "topic": "gemuese2",
    "art": "das",
    "de": "Radieschen",
-   "plural": "-",
+   "plural": "",
    "ar": "فجل",
    "photo": {
     "file": "Radish 3371103037 4ab07db0bf o.jpg",
@@ -5466,7 +5474,7 @@
    "topic": "fleisch",
    "art": "das",
    "de": "Hähnchen",
-   "plural": "-",
+   "plural": "",
    "ar": "فرخة",
    "photo": {
     "file": "Max's Roasted Chicken - Evan Swigart.jpg",
@@ -5556,7 +5564,7 @@
    "topic": "fleisch",
    "art": "der",
    "de": "Döner",
-   "plural": "-",
+   "plural": "",
    "ar": "شاورما",
    "photo": {
     "file": "Doner Kebab, sols carn i lletuga..jpg",
@@ -5571,7 +5579,7 @@
    "topic": "fleisch",
    "art": "das",
    "de": "Schnitzel",
-   "plural": "-",
+   "plural": "",
    "ar": "شنيتزل",
    "photo": {
     "file": "Allgäuer Schnitzel mit Kräuterrösti.jpg",
@@ -5676,7 +5684,7 @@
    "topic": "fleisch",
    "art": "der",
    "de": "Lebkuchen",
-   "plural": "-",
+   "plural": "",
    "ar": "خبز زنجبيل",
    "photo": {
     "file": "Chocolate covered gingerbread cookies 02.jpg",
@@ -5781,7 +5789,7 @@
    "topic": "getraenke2",
    "art": "der",
    "de": "Toaster",
-   "plural": "-",
+   "plural": "",
    "ar": "محمصة",
    "photo": {
     "file": "Hoteltoaster 01 (sk).jpg",
@@ -5991,7 +5999,7 @@
    "topic": "jobs2",
    "art": "der",
    "de": "Maler",
-   "plural": "-",
+   "plural": "",
    "ar": "نقاش",
    "photo": {
     "file": "Painters Xingping town 20090502 6089.jpg",
@@ -6006,7 +6014,7 @@
    "topic": "jobs2",
    "art": "der",
    "de": "Musiker",
-   "plural": "-",
+   "plural": "",
    "ar": "موسيقي",
    "photo": {
     "file": "Musician Playing Ravanhatta at Mehrangarh, Rajasthan, India.jpg",
@@ -6021,7 +6029,7 @@
    "topic": "jobs2",
    "art": "der",
    "de": "Fischer",
-   "plural": "-",
+   "plural": "",
    "ar": "صياد سمك",
    "photo": {
     "file": "Leg Rowing Fisherman Inle Lake Myanmar.jpg",
@@ -6321,7 +6329,7 @@
    "topic": "haushalt2",
    "art": "der",
    "de": "Sessel",
-   "plural": "-",
+   "plural": "",
    "ar": "فوتيه",
    "photo": {
     "file": "Armchair MET DT8323.jpg",
@@ -6336,7 +6344,7 @@
    "topic": "haushalt2",
    "art": "der",
    "de": "Lichtschalter",
-   "plural": "-",
+   "plural": "",
    "ar": "مفتاح نور",
    "photo": {
     "file": "Light Switch 1.jpg",
@@ -6366,7 +6374,7 @@
    "topic": "buero",
    "art": "der",
    "de": "Kugelschreiber",
-   "plural": "-",
+   "plural": "",
    "ar": "قلم جاف",
    "photo": {
     "file": "Ballpoint Pen DS.jpg",
@@ -6381,7 +6389,7 @@
    "topic": "buero",
    "art": "der",
    "de": "Taschenrechner",
-   "plural": "-",
+   "plural": "",
    "ar": "آلة حاسبة",
    "photo": {
     "file": "Citizen SLD-100NR calculator.jpg",
@@ -6426,7 +6434,7 @@
    "topic": "buero",
    "art": "der",
    "de": "Tacker",
-   "plural": "-",
+   "plural": "",
    "ar": "دباسة",
    "photo": {
     "file": "Stapler office.jpg",
@@ -6441,7 +6449,7 @@
    "topic": "buero",
    "art": "der",
    "de": "Locher",
-   "plural": "-",
+   "plural": "",
    "ar": "خرامة",
    "photo": {
     "file": "Hole punch.JPG",
@@ -6471,7 +6479,7 @@
    "topic": "buero",
    "art": "der",
    "de": "Füller",
-   "plural": "-",
+   "plural": "",
    "ar": "قلم حبر",
    "photo": {
     "file": "Fountain pen writing (literacy).jpg",
@@ -6516,7 +6524,7 @@
    "topic": "voegel",
    "art": "der",
    "de": "Adler",
-   "plural": "-",
+   "plural": "",
    "ar": "نسر",
    "photo": {
     "file": "African fish eagle (Haliaeetus vocifer) Ethiopia.jpg",
@@ -6561,7 +6569,7 @@
    "topic": "voegel",
    "art": "der",
    "de": "Papageitaucher",
-   "plural": "-",
+   "plural": "",
    "ar": "بفن",
    "photo": {
     "file": "Puffin (Fratercula arctica).jpg",
@@ -6711,7 +6719,7 @@
    "topic": "voegel",
    "art": "der",
    "de": "Käfer",
-   "plural": "-",
+   "plural": "",
    "ar": "خنفساء",
    "photo": {
     "file": "The red coats beetle bug.jpg",
@@ -6771,7 +6779,7 @@
    "topic": "voegel",
    "art": "der",
    "de": "Seeigel",
-   "plural": "-",
+   "plural": "",
    "ar": "قنفذ البحر",
    "photo": {
     "file": "Tripneustes ventricosus (West Indian Sea Egg-top) and Echinometra viridis (Reef Urchin - bottom).jpg",
@@ -6816,7 +6824,7 @@
    "topic": "saeuger",
    "art": "der",
    "de": "Otter",
-   "plural": "-",
+   "plural": "",
    "ar": "قضاعة",
    "photo": {
     "file": "European otter 02.jpg",
@@ -6831,7 +6839,7 @@
    "topic": "saeuger",
    "art": "der",
    "de": "Biber",
-   "plural": "-",
+   "plural": "",
    "ar": "قندس",
    "photo": {
     "file": "American Beaver.jpg",
@@ -6981,7 +6989,7 @@
    "topic": "saeuger",
    "art": "das",
    "de": "Ferkel",
-   "plural": "-",
+   "plural": "",
    "ar": "خنزير صغير",
    "photo": {
     "file": "Contre-jour photograph of a standing piglet at sunset with colorful sky in Don Det Laos.jpg",
@@ -7041,7 +7049,7 @@
    "topic": "pflanzen",
    "art": "das",
    "de": "Gänseblümchen",
-   "plural": "-",
+   "plural": "",
    "ar": "أقحوان",
    "photo": {
     "file": "Pink twinged daisy on table edit.jpg",
@@ -7116,7 +7124,7 @@
    "topic": "pflanzen",
    "art": "der",
    "de": "Tannenzapfen",
-   "plural": "-",
+   "plural": "",
    "ar": "مخروط صنوبر",
    "photo": {
     "file": "Pollen cone on a Ponderosa pine in Tuntorp, Brastad, Sweden.jpg",
@@ -7296,7 +7304,7 @@
    "topic": "landschaft",
    "art": "der",
    "de": "Krater",
-   "plural": "-",
+   "plural": "",
    "ar": "فوهة",
    "photo": {
     "file": "Crater Lake winter pano2.jpg",
@@ -7371,7 +7379,7 @@
    "topic": "medizin",
    "art": "das",
    "de": "Thermometer",
-   "plural": "-",
+   "plural": "",
    "ar": "ترمومتر",
    "photo": {
     "file": "CelsiusKelvinThermometer.jpg",
@@ -7401,7 +7409,7 @@
    "topic": "medizin",
    "art": "das",
    "de": "Pflaster",
-   "plural": "-",
+   "plural": "",
    "ar": "بلاستر",
    "photo": {
     "file": "Front and back of adhesive bandage sold with esoteric message of alleged 'healing forces'.jpg",
@@ -7491,7 +7499,7 @@
    "topic": "technik",
    "art": "der",
    "de": "Roboter",
-   "plural": "-",
+   "plural": "",
    "ar": "روبوت",
    "photo": {
     "file": "Toyota Robot at Toyota Kaikan.jpg",
@@ -7521,7 +7529,7 @@
    "topic": "technik",
    "art": "der",
    "de": "Kopierer",
-   "plural": "-",
+   "plural": "",
    "ar": "ماكينة تصوير",
    "photo": {
     "file": "Sharp MX-7500 photocopier.jpg",
@@ -7551,7 +7559,7 @@
    "topic": "bauen",
    "art": "der",
    "de": "Ziegel",
-   "plural": "-",
+   "plural": "",
    "ar": "طوبة",
    "photo": {
     "file": "Fallen bricks.jpg",
@@ -7581,7 +7589,7 @@
    "topic": "bauen",
    "art": "der",
    "de": "Schraubenschlüssel",
-   "plural": "-",
+   "plural": "",
    "ar": "مفتاح ربط",
    "photo": {
     "file": "Monkey wrench Mexico 1900.jpg",
@@ -7596,7 +7604,7 @@
    "topic": "bauen",
    "art": "der",
    "de": "Bohrer",
-   "plural": "-",
+   "plural": "",
    "ar": "مثقاب",
    "photo": {
     "file": "Drill bits 2017 G1.jpg",
@@ -7641,7 +7649,7 @@
    "topic": "bauen",
    "art": "der",
    "de": "Meißel",
-   "plural": "-",
+   "plural": "",
    "ar": "إزميل",
    "photo": {
     "file": "Chisel wood 24mm.jpg",
@@ -7806,7 +7814,7 @@
    "topic": "verkehr2",
    "art": "der",
    "de": "Zebrastreifen",
-   "plural": "-",
+   "plural": "",
    "ar": "عبور مشاة",
    "photo": {
     "file": "Zebra crossing St Helier.jpg",
@@ -7911,7 +7919,7 @@
    "topic": "verkehr2",
    "art": "der",
    "de": "Reifen",
-   "plural": "-",
+   "plural": "",
    "ar": "إطار",
    "photo": {
     "file": "Vittoria Randonneur tire (trekking bicycle).jpg",
@@ -7941,7 +7949,7 @@
    "topic": "verkehr2",
    "art": "der",
    "de": "Lenker",
-   "plural": "-",
+   "plural": "",
    "ar": "مقود",
    "photo": {
     "file": "Bicycle Handlebar.JPG",
@@ -8001,7 +8009,7 @@
    "topic": "kueche2",
    "art": "der",
    "de": "Wasserkocher",
-   "plural": "-",
+   "plural": "",
    "ar": "غلاية",
    "photo": {
     "file": "Electric kettle - Электрический чайник.JPG",
@@ -8046,7 +8054,7 @@
    "topic": "kueche2",
    "art": "der",
    "de": "Schneebesen",
-   "plural": "-",
+   "plural": "",
    "ar": "مضرب بيض",
    "photo": {
     "file": "Balloon spiral ball whisks.jpg",
@@ -8076,7 +8084,7 @@
    "topic": "kueche2",
    "art": "der",
    "de": "Dosenöffner",
-   "plural": "-",
+   "plural": "",
    "ar": "فتاحة علب",
    "photo": {
     "file": "Kitchen-Modern-Can-Opener.jpg",
@@ -8166,7 +8174,7 @@
    "topic": "kueche2",
    "art": "der",
    "de": "Schöpflöffel",
-   "plural": "-",
+   "plural": "",
    "ar": "مغرفة",
    "photo": {
     "file": "Ladle, bronze - Museo Egizio, Turin S 12577 p01.jpg",
@@ -8181,7 +8189,7 @@
    "topic": "kueche2",
    "art": "der",
    "de": "Eierbecher",
-   "plural": "-",
+   "plural": "",
    "ar": "حامل بيض",
    "photo": {
     "file": "Egg spiral egg cup.jpg",
@@ -8211,7 +8219,7 @@
    "topic": "kleidung2",
    "art": "der",
    "de": "Geldbeutel",
-   "plural": "-",
+   "plural": "",
    "ar": "محفظة",
    "photo": {
     "file": "WalletMpegMan.jpg",
@@ -8241,7 +8249,7 @@
    "topic": "essen3",
    "art": "der",
    "de": "Reiskocher",
-   "plural": "-",
+   "plural": "",
    "ar": "حلة أرز",
    "photo": {
     "file": "Panasonic RICE COOKER SR-L15H8.jpg",
@@ -8526,7 +8534,7 @@
    "topic": "sport2",
    "art": "der",
    "de": "Angelhaken",
-   "plural": "-",
+   "plural": "",
    "ar": "سنارة",
    "photo": {
     "file": "Fishing hooks on white surface.jpg",
@@ -8571,7 +8579,7 @@
    "topic": "sport2",
    "art": "die",
    "de": "Laufschuhe",
-   "plural": "-",
+   "plural": "",
    "ar": "حذاء جري",
    "photo": {
     "file": "Running shoes.jpg",
@@ -8646,7 +8654,7 @@
    "topic": "schule2",
    "art": "der",
    "de": "Zirkel",
-   "plural": "-",
+   "plural": "",
    "ar": "فرجار",
    "photo": {
     "file": "Compass (drawing tool).jpg",
@@ -8661,7 +8669,7 @@
    "topic": "schule2",
    "art": "der",
    "de": "Ordner",
-   "plural": "-",
+   "plural": "",
    "ar": "ملف",
    "photo": {
     "file": "Compare SpineLess ringless binder with comparable Ring binder dimensions.jpg",
@@ -8706,7 +8714,7 @@
    "topic": "schule2",
    "art": "der",
    "de": "Beamer",
-   "plural": "-",
+   "plural": "",
    "ar": "بروجيكتور",
    "photo": {
     "file": "Optima Projector.jpg",
@@ -8736,7 +8744,7 @@
    "topic": "haushalt2",
    "art": "das",
    "de": "Waschbecken",
-   "plural": "-",
+   "plural": "",
    "ar": "حوض",
    "photo": {
     "file": "Washbasins of the restrooms in Crowne Plaza Vientiane.jpg",
@@ -8766,7 +8774,7 @@
    "topic": "haushalt2",
    "art": "der",
    "de": "Kronleuchter",
-   "plural": "-",
+   "plural": "",
    "ar": "نجفة",
    "photo": {
     "file": "Chandelier captured in Madhapur, Hyderabad (1).jpg",
@@ -8856,7 +8864,7 @@
    "topic": "haushalt2",
    "art": "der",
    "de": "Rechen",
-   "plural": "-",
+   "plural": "",
    "ar": "مشط حديقة",
    "photo": {
     "file": "Garden rake made from turned pear tree wood, made 1560, Rustkammer Museum, Dresden.jpg",
@@ -8871,7 +8879,7 @@
    "topic": "haushalt2",
    "art": "der",
    "de": "Spaten",
-   "plural": "-",
+   "plural": "",
    "ar": "مجرفة",
    "photo": {
     "file": "Spade.jpg",
@@ -8976,7 +8984,7 @@
    "topic": "spielzeug",
    "art": "der",
    "de": "Kreisel",
-   "plural": "-",
+   "plural": "",
    "ar": "فركة",
    "photo": {
     "file": "Spinning top shadow.jpg",
@@ -9396,7 +9404,7 @@
    "topic": "tiere5",
    "art": "der",
    "de": "Seeadler",
-   "plural": "-",
+   "plural": "",
    "ar": "نسر البحر",
    "photo": {
     "file": "White-bellied Sea-Eagle in Sundarbans National Park October 2025 by Tisha Mukherjee 03.jpg",
@@ -9411,7 +9419,7 @@
    "topic": "tiere5",
    "art": "der",
    "de": "Marder",
-   "plural": "-",
+   "plural": "",
    "ar": "دلق",
    "photo": {
     "file": "European pine marten (Martes martes) Drenthe 2.jpg",
@@ -9441,7 +9449,7 @@
    "topic": "tiere5",
    "art": "der",
    "de": "Reiher",
-   "plural": "-",
+   "plural": "",
    "ar": "مالك الحزين",
    "photo": {
     "file": "Green heron in PP (14296).jpg",
@@ -9516,7 +9524,7 @@
    "topic": "tiere5",
    "art": "das",
    "de": "Seepferdchen",
-   "plural": "-",
+   "plural": "",
    "ar": "حصان البحر",
    "photo": {
     "file": "Seahorse Skeleton Macro 8.JPG",
@@ -9621,7 +9629,7 @@
    "topic": "fahrzeuge2",
    "art": "der",
    "de": "Mähdrescher",
-   "plural": "-",
+   "plural": "",
    "ar": "حصادة",
    "photo": {
     "file": "John Deere Combine Harvester Ebing 1811.jpg",
@@ -9666,7 +9674,7 @@
    "topic": "fahrzeuge2",
    "art": "der",
    "de": "Müllwagen",
-   "plural": "-",
+   "plural": "",
    "ar": "عربية زبالة",
    "photo": {
     "file": "Recology Lodal Garbage Truck 14425 in San Francisco.jpg",
@@ -9786,7 +9794,7 @@
    "topic": "fahrzeuge2",
    "art": "der",
    "de": "Pferdewagen",
-   "plural": "-",
+   "plural": "",
    "ar": "عربية حنطور",
    "photo": {
     "file": "Horse carriage, Gwalior.jpg",
@@ -9794,6 +9802,366 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Horse_carriage,_Gwalior.jpg",
     "license": "CC BY-SA 4.0",
     "author": "Yann (talk)"
+   }
+  },
+  {
+   "id": "anzug",
+   "topic": "kleidung3",
+   "art": "der",
+   "de": "Anzug",
+   "plural": "Anzüge",
+   "ar": "بدلة",
+   "photo": {
+    "file": "Grey and navy suit on mannequin.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Grey_and_navy_suit_on_mannequin.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Grey_and_navy_suit_on_mannequin.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "Paul Goyette"
+   }
+  },
+  {
+   "id": "weste",
+   "topic": "kleidung3",
+   "art": "die",
+   "de": "Weste",
+   "plural": "Westen",
+   "ar": "صديري",
+   "photo": {
+    "file": "Vest MET CI46.59.12.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Vest_MET_CI46.59.12.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Vest_MET_CI46.59.12.jpg",
+    "license": "CC0",
+    "author": ""
+   }
+  },
+  {
+   "id": "gummistiefel",
+   "topic": "kleidung3",
+   "art": "der",
+   "de": "Gummistiefel",
+   "plural": "Gummistiefel",
+   "ar": "جزمة مطر",
+   "photo": {
+    "file": "Pokeboo Gummistiefel.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pokeboo_Gummistiefel.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Pokeboo_Gummistiefel.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Astgabel23"
+   }
+  },
+  {
+   "id": "faden",
+   "topic": "kleidung3",
+   "art": "der",
+   "de": "Faden",
+   "plural": "Fäden",
+   "ar": "خيط",
+   "photo": {
+    "file": "Red thread (yarn).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Red_thread_(yarn).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Red_thread_(yarn).jpg",
+    "license": "CC BY 4.0",
+    "author": "多多123"
+   }
+  },
+  {
+   "id": "wolle",
+   "topic": "kleidung3",
+   "art": "die",
+   "de": "Wolle",
+   "plural": "",
+   "ar": "صوف",
+   "photo": {
+    "file": "Wool.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wool.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Wool.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "পাপৰি বৰা"
+   }
+  },
+  {
+   "id": "waescheklammer",
+   "topic": "kleidung3",
+   "art": "die",
+   "de": "Wäscheklammer",
+   "plural": "Wäscheklammern",
+   "ar": "مشبك غسيل",
+   "photo": {
+    "file": "Red clothespin.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Red_clothespin.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Red_clothespin.JPG",
+    "license": "CC BY-SA 3.0",
+    "author": "Włodzimierz Wysocki"
+   }
+  },
+  {
+   "id": "naehmaschine",
+   "topic": "kleidung3",
+   "art": "die",
+   "de": "Nähmaschine",
+   "plural": "Nähmaschinen",
+   "ar": "ماكينة خياطة",
+   "photo": {
+    "file": "Vesta sewing machine IMGP0718.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Vesta_sewing_machine_IMGP0718.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Vesta_sewing_machine_IMGP0718.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Nikodem Nijaki"
+   }
+  },
+  {
+   "id": "eimer",
+   "topic": "bauen",
+   "art": "der",
+   "de": "Eimer",
+   "plural": "Eimer",
+   "ar": "جردل",
+   "photo": {
+    "file": "Western Han Bronze Bucket.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Western_Han_Bronze_Bucket.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Western_Han_Bronze_Bucket.jpg",
+    "license": "CC0",
+    "author": "Gary Todd"
+   }
+  },
+  {
+   "id": "gartenschlauch",
+   "topic": "bauen",
+   "art": "der",
+   "de": "Gartenschlauch",
+   "plural": "Gartenschläuche",
+   "ar": "خرطوم جنينة",
+   "photo": {
+    "file": "Melnor Garden Hose Water Nozzle 5 LR.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Melnor_Garden_Hose_Water_Nozzle_5_LR.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Melnor_Garden_Hose_Water_Nozzle_5_LR.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "PumpkinSky"
+   }
+  },
+  {
+   "id": "akkuschrauber",
+   "topic": "bauen",
+   "art": "der",
+   "de": "Akkuschrauber",
+   "plural": "Akkuschrauber",
+   "ar": "مفك كهربا",
+   "photo": {
+    "file": "Panasonic Cordless Drill & Driver EY1DD2, Ottobrunn (20250410-P1046293).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Panasonic_Cordless_Drill_%26_Driver_EY1DD2,_Ottobrunn_(20250410-P1046293).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Panasonic_Cordless_Drill_%26_Driver_EY1DD2,_Ottobrunn_(20250410-P1046293).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Matti Blume"
+   }
+  },
+  {
+   "id": "moos",
+   "topic": "natur3",
+   "art": "das",
+   "de": "Moos",
+   "plural": "",
+   "ar": "طحلب",
+   "photo": {
+    "file": "Dead Trunk with Moss in Fallätsche.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dead_Trunk_with_Moss_in_Fall%C3%A4tsche.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Dead_Trunk_with_Moss_in_Fall%C3%A4tsche.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Daniel Kraft"
+   }
+  },
+  {
+   "id": "farn",
+   "topic": "natur3",
+   "art": "der",
+   "de": "Farn",
+   "plural": "Farne",
+   "ar": "سرخس",
+   "photo": {
+    "file": "Monarch fern sori.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Monarch_fern_sori.jpeg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Monarch_fern_sori.jpeg",
+    "license": "CC BY-SA 4.0",
+    "author": "Vitaium"
+   }
+  },
+  {
+   "id": "birke",
+   "topic": "natur3",
+   "art": "die",
+   "de": "Birke",
+   "plural": "Birken",
+   "ar": "شجرة البتولا",
+   "photo": {
+    "file": "Part of birch trunk in Norrkila.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Part_of_birch_trunk_in_Norrkila.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Part_of_birch_trunk_in_Norrkila.jpg",
+    "license": "CC0",
+    "author": "W.carter"
+   }
+  },
+  {
+   "id": "huegel",
+   "topic": "natur3",
+   "art": "der",
+   "de": "Hügel",
+   "plural": "Hügel",
+   "ar": "تل",
+   "photo": {
+    "file": "A peat bog below the top of Doune Hill, Luss Hills, Scotland.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:A_peat_bog_below_the_top_of_Doune_Hill,_Luss_Hills,_Scotland.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:A_peat_bog_below_the_top_of_Doune_Hill,_Luss_Hills,_Scotland.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Michal Klajban"
+   }
+  },
+  {
+   "id": "tal",
+   "topic": "natur3",
+   "art": "das",
+   "de": "Tal",
+   "plural": "Täler",
+   "ar": "وادي",
+   "photo": {
+    "file": "Mountains in snow, Mountain lake, Chola Valley, Nepal, Himalayas.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mountains_in_snow,_Mountain_lake,_Chola_Valley,_Nepal,_Himalayas.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Mountains_in_snow,_Mountain_lake,_Chola_Valley,_Nepal,_Himalayas.jpg",
+    "license": "CC BY 4.0",
+    "author": "Vyacheslav Argenberg"
+   }
+  },
+  {
+   "id": "sumpf",
+   "topic": "natur3",
+   "art": "der",
+   "de": "Sumpf",
+   "plural": "Sümpfe",
+   "ar": "مستنقع",
+   "photo": {
+    "file": "Snow-covered swamp by Hill Road, Charlton MA, 2025-01-20.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Snow-covered_swamp_by_Hill_Road,_Charlton_MA,_2025-01-20.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Snow-covered_swamp_by_Hill_Road,_Charlton_MA,_2025-01-20.jpg",
+    "license": "CC0",
+    "author": "Peter Cooper Jr."
+   }
+  },
+  {
+   "id": "regenwald",
+   "topic": "natur3",
+   "art": "der",
+   "de": "Regenwald",
+   "plural": "Regenwälder",
+   "ar": "غابة مطيرة",
+   "photo": {
+    "file": "Cheow Lan Lake, Rainforest, Khao Sok, Thailand.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cheow_Lan_Lake,_Rainforest,_Khao_Sok,_Thailand.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Cheow_Lan_Lake,_Rainforest,_Khao_Sok,_Thailand.jpg",
+    "license": "CC BY 4.0",
+    "author": "Vyacheslav Argenberg"
+   }
+  },
+  {
+   "id": "palme",
+   "topic": "natur3",
+   "art": "die",
+   "de": "Palme",
+   "plural": "Palmen",
+   "ar": "نخلة",
+   "photo": {
+    "file": "Palm tree Alcazar of Seville.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Palm_tree_Alcazar_of_Seville.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Palm_tree_Alcazar_of_Seville.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Tesla Delacroix"
+   }
+  },
+  {
+   "id": "spinnennetz",
+   "topic": "natur3",
+   "art": "das",
+   "de": "Spinnennetz",
+   "plural": "Spinnennetze",
+   "ar": "بيت العنكبوت",
+   "photo": {
+    "file": "Spider web Luc Viatour.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Spider_web_Luc_Viatour.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Spider_web_Luc_Viatour.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Luc Viatour"
+   }
+  },
+  {
+   "id": "feder",
+   "topic": "natur3",
+   "art": "die",
+   "de": "Feder",
+   "plural": "Federn",
+   "ar": "ريشة",
+   "photo": {
+    "file": "Feather of male Pavo cristatus (Indian peafowl).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Feather_of_male_Pavo_cristatus_(Indian_peafowl).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Feather_of_male_Pavo_cristatus_(Indian_peafowl).jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "MichaelMaggs"
+   }
+  },
+  {
+   "id": "koralle",
+   "topic": "natur3",
+   "art": "die",
+   "de": "Koralle",
+   "plural": "Korallen",
+   "ar": "مرجان",
+   "photo": {
+    "file": "Coral Outcrop Flynn Reef.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Coral_Outcrop_Flynn_Reef.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Coral_Outcrop_Flynn_Reef.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Toby Hudson"
+   }
+  },
+  {
+   "id": "nest",
+   "topic": "natur3",
+   "art": "das",
+   "de": "Nest",
+   "plural": "Nester",
+   "ar": "عش",
+   "photo": {
+    "file": "002 Black-headed weaver building its nest at Kibale forest National Park Photo by Giles Laurent.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:002_Black-headed_weaver_building_its_nest_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:002_Black-headed_weaver_building_its_nest_at_Kibale_forest_National_Park_Photo_by_Giles_Laurent.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Giles Laurent"
+   }
+  },
+  {
+   "id": "schneeflocke",
+   "topic": "natur3",
+   "art": "die",
+   "de": "Schneeflocke",
+   "plural": "Schneeflocken",
+   "ar": "ندفة تلج",
+   "photo": {
+    "file": "Snowflake (lumehelves).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Snowflake_(lumehelves).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Snowflake_(lumehelves).jpg",
+    "license": "CC BY 4.0",
+    "author": "Janek Lass"
+   }
+  },
+  {
+   "id": "gewitter",
+   "topic": "natur3",
+   "art": "das",
+   "de": "Gewitter",
+   "plural": "Gewitter",
+   "ar": "عاصفة رعدية",
+   "photo": {
+    "file": "Joshua Tree Park approaching thunderstorm 02 2013.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Joshua_Tree_Park_approaching_thunderstorm_02_2013.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Joshua_Tree_Park_approaching_thunderstorm_02_2013.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Tuxyso"
    }
   }
  ]

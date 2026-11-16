@@ -49,8 +49,12 @@ export const topicTitles: Record<string, string> = {
   tiere5: 'Tiere 5',
   orte2: 'Orte 2',
   fahrzeuge2: 'Fahrzeuge',
+  kleidung3: 'Kleidung & Nähen',
+  natur3: 'Natur 3',
 };
-export const topicEn: Record<string, string> = {  koerper2: 'Body 2',
+export const topicEn: Record<string, string> = {  kleidung3: 'Clothes and sewing',
+  natur3: 'Nature 3',
+  koerper2: 'Body 2',
   essen4: 'Food 4',
   tiere5: 'Animals 5',
   orte2: 'Places 2',

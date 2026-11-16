@@ -1,0 +1,52 @@
+@kleidung3|ملابس وخياطة
+der|Pullover|Pullover|بلوفر|pullover sweater
+die|Weste|Westen|صديري|vest waistcoat
+die|Krawatte|Krawatten|كرافتة|necktie
+der|Anzug|Anzüge|بدلة|suit jacket
+der|Hut|Hüte|برنيطة|hat
+die|Jeans|-|جينز|jeans
+die|Sandale|Sandalen|صندل|sandal
+der|Gummistiefel|Gummistiefel|جزمة مطر|gummistiefel rubber boots
+der|Hausschuh|Hausschuhe|شبشب بيت|slippers
+der|Knopf|Knöpfe|زرار|button
+der|Reißverschluss|Reißverschlüsse|سوستة|zipper
+die|Nadel|Nadeln|إبرة|needle sewing
+der|Faden|Fäden|خيط|thread
+die|Wolle|-|صوف|wool
+die|Nähmaschine|Nähmaschinen|ماكينة خياطة|sewing machine
+der|Kleiderbügel|Kleiderbügel|علاقة هدوم|coat hanger
+die|Wäscheklammer|Wäscheklammern|مشبك غسيل|clothespin
+@werkstatt2|ورشة وجنينة
+die|Schubkarre|Schubkarren|عربية يد|wheelbarrow
+die|Gießkanne|Gießkannen|مرش مية|watering can
+die|Axt|Äxte|فاس|axe
+die|Feile|Feilen|مبرد|file tool
+der|Nagel|Nägel|مسمار|nail hammer
+die|Schaufel|Schaufeln|جاروف|shovel
+der|Eimer|Eimer|جردل|bucket
+der|Werkzeugkasten|Werkzeugkästen|صندوق عدة|toolbox
+der|Akkuschrauber|Akkuschrauber|مفك كهربا|cordless drill
+der|Gartenschlauch|Gartenschläuche|خرطوم جنينة|garden hose
+die|Wasserwaage|Wasserwaagen|ميزان مية|spirit level
+die|Heugabel|Heugabeln|شوكة قش|pitchfork
+@natur3|الطبيعة 2
+der|Wasserfall|Wasserfälle|شلال|waterfall
+der|Regenwald|Regenwälder|غابة مطيرة|rainforest
+das|Moos|-|طحلب|moss
+der|Farn|Farne|سرخس|fern
+die|Birke|Birken|شجرة البتولا|birch tree
+die|Palme|Palmen|نخلة|palm tree
+das|Schilf|-|قصب|reed
+der|Hügel|Hügel|تل|hill
+das|Tal|Täler|وادي|valley
+der|Sumpf|Sümpfe|مستنقع|swamp
+die|Muschel|Muscheln|محارة|seashell
+die|Koralle|Korallen|مرجان|coral
+die|Feder|Federn|ريشة|feather
+das|Nest|Nester|عش|nest
+das|Spinnennetz|Spinnennetze|بيت العنكبوت|spider web
+der|Eiszapfen|Eiszapfen|عمود جليد|icicle
+die|Schneeflocke|Schneeflocken|ندفة تلج|snowflake
+das|Gewitter|Gewitter|عاصفة رعدية|thunderstorm
+der|Sonnenaufgang|Sonnenaufgänge|شروق الشمس|sunrise
+der|Sternenhimmel|-|سماء مليانة نجوم|starry night sky
