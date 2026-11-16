@@ -3177,21 +3177,6 @@
    }
   },
   {
-   "id": "aubergine",
-   "topic": "obst",
-   "art": "die",
-   "de": "Aubergine",
-   "plural": "Auberginen",
-   "ar": "باذنجان",
-   "photo": {
-    "file": "An aubergine-eggplant-brinjal plant with a hanging fruit..jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:An_aubergine-eggplant-brinjal_plant_with_a_hanging_fruit..jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:An_aubergine-eggplant-brinjal_plant_with_a_hanging_fruit..jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Azreey"
-   }
-  },
-  {
    "id": "walnuss",
    "topic": "obst",
    "art": "die",
@@ -3387,21 +3372,6 @@
    }
   },
   {
-   "id": "pinguin",
-   "topic": "tiere2",
-   "art": "der",
-   "de": "Pinguin",
-   "plural": "Pinguine",
-   "ar": "بطريق",
-   "photo": {
-    "file": "African penguin, Cape Town ( 1050598).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:African_penguin,_Cape_Town_(_1050598).jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:African_penguin,_Cape_Town_(_1050598).jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Matti Blume"
-   }
-  },
-  {
    "id": "frosch",
    "topic": "tiere2",
    "art": "der",
@@ -3474,96 +3444,6 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Orange-winged_parrots_(Amazona_amazonica_tobagensis).jpg",
     "license": "CC BY-SA 4.0",
     "author": "Charles J. Sharp"
-   }
-  },
-  {
-   "id": "schrank",
-   "topic": "moebel",
-   "art": "der",
-   "de": "Schrank",
-   "plural": "Schränke",
-   "ar": "دولاب",
-   "photo": {
-    "file": "Infinity mirror, hand-washing sink and wardrobes in the spa of Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Infinity_mirror,_hand-washing_sink_and_wardrobes_in_the_spa_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Infinity_mirror,_hand-washing_sink_and_wardrobes_in_the_spa_of_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Basile Morin"
-   }
-  },
-  {
-   "id": "stuhl",
-   "topic": "moebel",
-   "art": "der",
-   "de": "Stuhl",
-   "plural": "Stühle",
-   "ar": "كرسي",
-   "photo": {
-    "file": "Stacked chairs 02.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Stacked_chairs_02.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Stacked_chairs_02.jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Kritzolina"
-   }
-  },
-  {
-   "id": "kissen",
-   "topic": "moebel",
-   "art": "das",
-   "de": "Kissen",
-   "plural": "-",
-   "ar": "مخدة",
-   "photo": {
-    "file": "HK SW Hollywood Road Police HQ Art Demo 12-2009 bed and pillows in white.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:HK_SW_Hollywood_Road_Police_HQ_Art_Demo_12-2009_bed_and_pillows_in_white.JPG",
-    "commons": "https://commons.wikimedia.org/wiki/File:HK_SW_Hollywood_Road_Police_HQ_Art_Demo_12-2009_bed_and_pillows_in_white.JPG",
-    "license": "CC BY-SA 3.0",
-    "author": "Lpinaye"
-   }
-  },
-  {
-   "id": "dusche",
-   "topic": "moebel",
-   "art": "die",
-   "de": "Dusche",
-   "plural": "Duschen",
-   "ar": "دش",
-   "photo": {
-    "file": "Indoor pool and shower of spa at Amantaka luxury Resort & Hotel in Luang Prabang Laos front view.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Indoor_pool_and_shower_of_spa_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos_front_view.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Indoor_pool_and_shower_of_spa_at_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos_front_view.jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Basile Morin"
-   }
-  },
-  {
-   "id": "badewanne",
-   "topic": "moebel",
-   "art": "die",
-   "de": "Badewanne",
-   "plural": "Badewannen",
-   "ar": "بانيو",
-   "photo": {
-    "file": "Bathtub of Khan Pool Suite in Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bathtub_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Bathtub_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Basile Morin"
-   }
-  },
-  {
-   "id": "waschbecken",
-   "topic": "moebel",
-   "art": "das",
-   "de": "Waschbecken",
-   "plural": "-",
-   "ar": "حوض",
-   "photo": {
-    "file": "Washbasins of the restrooms in Crowne Plaza Vientiane.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Washbasins_of_the_restrooms_in_Crowne_Plaza_Vientiane.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Washbasins_of_the_restrooms_in_Crowne_Plaza_Vientiane.jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Basile Morin"
    }
   },
   {
@@ -3729,21 +3609,6 @@
     "commons": "https://commons.wikimedia.org/wiki/File:General_Map_of_Switzerland.jpg",
     "license": "Attribution-Swisstopo",
     "author": "Federal Office of Topography"
-   }
-  },
-  {
-   "id": "glocke",
-   "topic": "werkzeug",
-   "art": "die",
-   "de": "Glocke",
-   "plural": "Glocken",
-   "ar": "جرس",
-   "photo": {
-    "file": "Chersonesos Bell.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Chersonesos_Bell.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Chersonesos_Bell.jpg",
-    "license": "CC BY-SA 3.0",
-    "author": "Dmitry A. Mottl"
    }
   },
   {
@@ -3927,21 +3792,6 @@
    }
   },
   {
-   "id": "backofen",
-   "topic": "moebel",
-   "art": "der",
-   "de": "Backofen",
-   "plural": "Backöfen",
-   "ar": "فرن",
-   "photo": {
-    "file": "Castle de Haar (1892-1913) 09 - Kitchen - Oven heated on coal.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Castle_de_Haar_(1892-1913)_09_-_Kitchen_-_Oven_heated_on_coal.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Castle_de_Haar_(1892-1913)_09_-_Kitchen_-_Oven_heated_on_coal.jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Txllxt TxllxT"
-   }
-  },
-  {
    "id": "kamin",
    "topic": "moebel",
    "art": "der",
@@ -4047,21 +3897,6 @@
    }
   },
   {
-   "id": "dach",
-   "topic": "moebel",
-   "art": "das",
-   "de": "Dach",
-   "plural": "Dächer",
-   "ar": "سقف",
-   "photo": {
-    "file": "Roof tiles packed in crate 1.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Roof_tiles_packed_in_crate_1.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Roof_tiles_packed_in_crate_1.jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "W.carter"
-   }
-  },
-  {
    "id": "waage",
    "topic": "werkzeug",
    "art": "die",
@@ -4104,36 +3939,6 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Horseshoe_magnet_metal_shavings.jpg",
     "license": "CC BY-SA 4.0",
     "author": "Maciej J. Mrowinski"
-   }
-  },
-  {
-   "id": "hantel",
-   "topic": "sport",
-   "art": "die",
-   "de": "Hantel",
-   "plural": "Hanteln",
-   "ar": "دمبل",
-   "photo": {
-    "file": "Young man lifting dumbbell weight for exercise in fitness gym.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Young_man_lifting_dumbbell_weight_for_exercise_in_fitness_gym.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Young_man_lifting_dumbbell_weight_for_exercise_in_fitness_gym.jpg",
-    "license": "CC BY 2.0",
-    "author": "Nenad Stojkovic"
-   }
-  },
-  {
-   "id": "globus",
-   "topic": "werkzeug",
-   "art": "der",
-   "de": "Globus",
-   "plural": "Globen",
-   "ar": "كرة أرضية",
-   "photo": {
-    "file": "(Venice) French goldsmith, mechanical celestial and terrestrial globe, post 1565 - Correr Museum.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:(Venice)_French_goldsmith,_mechanical_celestial_and_terrestrial_globe,_post_1565_-_Correr_Museum.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:(Venice)_French_goldsmith,_mechanical_celestial_and_terrestrial_globe,_post_1565_-_Correr_Museum.jpg",
-    "license": "Public domain",
-    "author": "Didier Descouens"
    }
   },
   {

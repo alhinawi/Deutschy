@@ -42,8 +42,8 @@ export default function Practice({ topic }: { topic: string }) {
           <p className="de num text-xl font-semibold" lang="de">{it[0]}</p>
           <div className="grid gap-2 sm:grid-cols-3">
             {opts.map(({ k, text }) => {
-              const state = pick === null ? '' : k === 0 ? 'border-good bg-good/10' : pick === k ? 'border-bad bg-bad/10' : 'opacity-60';
-              return <button key={k} onClick={() => answer(k)} className={`de num rounded-xl border border-line bg-paper px-3 py-2.5 text-lg ${state}`} lang="de">{text}</button>;
+              const state = pick === null ? '' : k === 0 ? 'border-good border-2 bg-good/10' : pick === k ? 'border-bad bg-bad/10' : 'opacity-60';
+              return <button key={k} onClick={() => answer(k)} className={`de num rounded-xl border border-line bg-paper px-3 py-2.5 text-lg ${state}`} lang="de"><span className="flex items-center justify-between gap-2"><span>{text}</span>{pick !== null && k === 0 && <svg viewBox="0 0 24 24" className="h-5 w-5 shrink-0 text-good" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-label="correct"><path d="M5 12l5 5 9-10" /></svg>}{pick === k && k !== 0 && <svg viewBox="0 0 24 24" className="h-5 w-5 shrink-0 text-bad" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" aria-label="wrong"><path d="M6 6l12 12M18 6L6 18" /></svg>}</span></button>;
             })}
           </div>
           {pick !== null && (
