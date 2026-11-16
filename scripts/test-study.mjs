@@ -59,3 +59,20 @@ assert.equal(grade({ b: 4, due: 100 }, false, 100).due, 100);
 const midnight = new Date(2026, 10, 16, 0, 0, 0).getTime();
 assert.equal(dayNum(midnight) - dayNum(midnight - 1), 1);
 console.log('PASS: 32 B1 drill shapes, 7 writing models, 4 texts, 8 themes, real-history filtering, due boundaries, Leitner schedule, local midnight');
+
+const { b2Grammar } = lib('b2-grammar');
+const { b2Texts } = lib('reading-b2');
+const { b2Themes } = lib('b2-themes');
+for (const d of b2Grammar) { assert.equal(d.rows.length,8); for (const r of d.rows) { assert.equal(r.length,4); assert.equal(new Set(r.slice(1)).size,3); } }
+const b2tasks = writingTasks.filter((t) => t.level === 'B2');
+assert.equal(b2tasks.length,7);
+for (const t of b2tasks) { const text=' '+t.model.toLowerCase().replace(/\s+/g,' ')+' '; assert(t.model.trim().split(/\s+/).length >= t.min); assert(t.need.every(([a])=>a.split('|').some(x=>text.includes(x)))); assert(t.tips?.[0]); }
+assert.equal(b2Texts.length,4); for (const t of b2Texts) { assert.equal(t.q.length,4); assert.equal(t.de.length,t.ar.length); assert(t.gloss.length>=4); }
+assert.equal(b2Themes.length,8); for(const t of b2Themes) { assert(t.words.length>=5); assert(t.words.every(id=>words.some(w=>w.id===id))); }
+const { CHECK_LEVELS,checkBank,buildCheck,resultFor } = lib('level-check');
+for(const level of CHECK_LEVELS) {
+ const bank=checkBank(level); assert(bank.length>=16); assert.equal(new Set(bank.map(q=>q.key)).size,bank.length);
+ for(const q of bank) { assert(q.options.length>=3); assert.equal(new Set(q.options).size,q.options.length); if(q.kind==='reading')assert(q.context); }
+ for(let run=0;run<10;run++) { const q=buildCheck(level); assert.equal(q.length,16); assert.equal(new Set(q.map(x=>x.key)).size,16); assert.equal(q.filter(x=>x.kind==='grammar').length,10); assert.equal(q.filter(x=>x.kind==='reading').length,6); assert(q.every(x=>bank.some(y=>y.key===x.key&&y.prompt===x.prompt))); const r=resultFor('test',level,q,q.map(x=>x.options[0]),100); assert.equal(r.correct,16); assert.equal(r.at,100); assert.equal(resultFor('wrong',level,q,q.map(x=>x.options[1])).correct,0); }
+}
+console.log('PASS: 40 B2 drill shapes, 7 B2 writing models, 4 B2 texts, 8 B2 themes, 40 randomized level checks preserve existing-bank keys, category balance and scoring');
