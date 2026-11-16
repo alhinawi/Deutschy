@@ -4,6 +4,8 @@ import { useStore } from '@/lib/store';
 import { useT } from '@/lib/i18n';
 import { speak } from '@/lib/speak';
 import Speaker from './Speaker';
+import Mixed from './Mixed';
+import { useLang } from '@/lib/i18n';
 
 // options[0] is the correct answer. hear: German text read aloud on request. note: short explanation shown after answering.
 export type QItem = { prompt: string; hint?: string; options: string[]; hear?: string; note?: [string, string]; key: string };
@@ -12,6 +14,7 @@ const shuffle = <T,>(a: T[]) => { const r = [...a]; for (let i = r.length - 1; i
 
 export default function MiniQuiz({ make, game, size = 10 }: { make: () => QItem[]; game: string; size?: number }) {
   const t = useT();
+  const { lang } = useLang();
   const { award, addScore } = useStore();
   const [run, setRun] = useState(0);
   const items = useMemo(() => make().slice(0, size), [run]); // eslint-disable-line react-hooks/exhaustive-deps
@@ -41,7 +44,7 @@ export default function MiniQuiz({ make, game, size = 10 }: { make: () => QItem[
           return <button dir="ltr" lang="de" key={o} onClick={() => answer(o)} className={`de rounded-xl border border-line bg-paper px-3 py-2.5 text-start text-lg ${st}`}>{o}</button>;
         })}
       </div>
-      {pick !== null && q.note && <p className="ar-title text-sm text-muted">{t(q.note[0], q.note[1])}</p>}
+      {pick !== null && q.note && <p className="ar-title text-sm text-muted">{lang === 'ar' ? <Mixed text={q.note[0]} /> : q.note[1]}</p>}
       {pick !== null && <button onClick={() => { setI(i + 1); setPick(null); }} className="w-full rounded-full bg-accent py-2 font-bold text-accent-ink">{i + 1 >= items.length ? t('النتيجة', 'Result') : t('التالي', 'Next')}</button>}
     </div>
   );
