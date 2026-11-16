@@ -162,3 +162,5 @@ const {emptyWeek,cleanWeek,weekStart,shiftWeek,dayKeys,planTotals}=lib('weekly-p
 assert(search('Verb-governed case',100).some(h=>h.href==='/case-lab/#verb'));assert(search('suffix',100).some(h=>h.href==='/word-formation/#suffixes'));assert(search('Eine Zahl braucht Kontext',100).some(h=>h.href==='/reading/micro-b2-zahl/'));console.log('PASS: sixth-list contrasts, formation and micro-readings are discoverable in global search');
 
 assert.equal(dictationDiff('a '.repeat(400),'a').filter(d=>d.kind==='extra').length,399);console.log('PASS: long allowed dictation input does not silently truncate diff tokens');
+
+const {presentFocus}=lib('present-focus');assert.equal(presentFocus.length,6);for(const v of presentFocus)assert.equal(v.forms.length,6);assert.equal(presentFocus.find(v=>v.inf==='lesen').forms[1],'liest');assert.equal(presentFocus.find(v=>v.inf==='sprechen').forms[4],'sprecht');console.log('PASS: 36 source-linked present focus cells, including singular stem changes');
