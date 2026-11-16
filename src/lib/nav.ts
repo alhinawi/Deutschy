@@ -47,6 +47,7 @@ export const sidebar: NavGroup[] = [
     { href: '/badges/', ar: 'شارات إنجازك', en: 'Badges' },
     { href: '/daily/', ar: 'تحدي اليوم', en: 'Daily challenge' },
     { href: '/review/', ar: 'راجع أخطاءك', en: 'Review mistakes' },
+    { href: '/review/words/', ar: 'مراجعة الكلمات المتباعدة', en: 'Spaced word review' },
     { href: '/account/', ar: 'الحساب', en: 'Account' },
     { href: '/admin/', ar: 'لوحة التحكم', en: 'Admin', admin: true },
     { href: '/credits/', ar: 'حقوق الصور', en: 'Photo credits' },
