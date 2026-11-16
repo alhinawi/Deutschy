@@ -65,6 +65,7 @@ export default function GrammarView({ g }: { g: GrammarTopic }) {
           ))}
         </ul>
       </section>
+      <Link href={`/grammar/${g.id}/sheet/`} className="inline-block rounded-full border border-line px-5 py-2 text-sm font-bold hover:bg-card">{t('ورقة ملخص للطباعة', 'Printable cheat sheet')}</Link>
       <Practice topic={g.id} />
       {g.tip && (
         <section className="rounded-2xl border border-accent/40 bg-card p-5">
