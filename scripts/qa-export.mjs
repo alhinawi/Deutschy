@@ -38,3 +38,8 @@ for (const url of urls) if (!resolves(url)) failures.push(`Sitemap: ${url}`);
 assert.deepEqual(failures, [], 'Broken exported links');
 assert(existsSync(path.join(out, 'og.png')), 'Missing Open Graph image');
 console.log(`PASS: ${pages.length} exported pages, internal links, ${urls.length} sitemap targets and OG image`);
+
+const c1Routes = ['/c1/','/c1/wortschatz/','/c1/writing/','/reading/c1-kennzahlen/','/reading/c1-archiv/','/reading/c1-beteiligung/','/reading/c1-reparatur/','/level-check/C1/'];
+for(const route of c1Routes) {const url='https://deutschy.pages.dev'+route; const html=readFileSync(path.join(out,route,'index.html'),'utf8');assert(html.includes('<link rel="canonical" href="'+url+'"'), 'Wrong C1 canonical: '+route);assert(html.includes('<meta property="og:url" content="'+url+'"'), 'Wrong C1 OG URL: '+route);assert(urls.includes(url),'C1 missing from sitemap: '+route);}
+assert(resolves('/levels/C1/')&&resolves('/levels/C2/'),'Sidebar level destinations missing');
+console.log('PASS: eight new C1 canonical/OG URLs and sitemap inclusion; C1/C2 level destinations resolve');
