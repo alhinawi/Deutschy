@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { levels } from '@/lib/levels';
+import { arWords, arLessons } from '@/lib/arcount';
 import { words, topics } from '@/lib/data';
 import { T } from '@/lib/i18n';
 import { LevelText } from '@/components/L';
@@ -20,7 +21,7 @@ export default function Levels() {
             </div>
             <p className="ar-title mt-1 text-xl text-accent"><LevelText id={l.id} f="name" /></p>
             <p className="mt-2 text-muted"><LevelText id={l.id} f="desc" /></p>
-            {l.status === 'live' && <p className="num mt-3 text-sm font-bold"><T ar={`${topics.length} دروس · ${words.length} كلمة بصور`} en={`${topics.length} lessons · ${words.length} words with photos`} /></p>}
+            {l.status === 'live' && <p className="num mt-3 text-sm font-bold"><T ar={`${arLessons(topics.length)} · ${arWords(words.length)} بصور`} en={`${topics.length} lessons · ${words.length} words with photos`} /></p>}
           </Link>
         ))}
       </div>

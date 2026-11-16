@@ -1,5 +1,6 @@
 'use client';
 import Link from 'next/link';
+import { arVerbs } from '@/lib/arcount';
 import { useState } from 'react';
 import Art from './Art';
 import { photoOf, verbs, slug, type VerbKind } from '@/lib/verbs';
@@ -30,7 +31,7 @@ export default function VerbBrowser() {
       </div>
       <Link href="/verbs/quiz/" className="inline-block rounded-full bg-accent px-5 py-2 text-sm font-bold text-accent-ink">{t('اختبر نفسك', 'Take the quiz')}</Link>
       <input value={q} onChange={(e) => setQ(e.target.value)} placeholder={t('ابحث عن فعل (ألماني أو عربي أو إنجليزي)', 'Search a verb (German, Arabic or English)')} className="w-full rounded-full border border-line bg-card px-4 py-2 text-sm sm:w-96" />
-      <p className="num text-sm text-muted">{list.length} {t('فعل', 'verbs')}</p>
+      <p className="num text-sm text-muted">{t(arVerbs(list.length), `${list.length} verbs`)}</p>
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {list.map((v) => (
           <Link key={v.inf} href={`/verbs/${slug(v.inf)}/`} className="flex overflow-hidden rounded-2xl border border-line bg-card hover:border-accent">

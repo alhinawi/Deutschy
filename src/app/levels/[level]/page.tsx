@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
+import { arWords } from '@/lib/arcount';
 import { levels, levelOf, topicLevel } from '@/lib/levels';
 import { topics, wordsOf, img } from '@/lib/data';
 import { T } from '@/lib/i18n';
@@ -30,7 +31,7 @@ export default async function LevelPage({ params }: { params: Promise<{ level: s
                 <div className="p-4">
                   <p className="num text-xs font-bold text-accent">{l.id} · <T ar={`درس ${i + 1}`} en={`Lesson ${i + 1}`} /></p>
                   <p className="ar-title text-xl text-ink"><TopicName id={t.id} /></p>
-                  <p className="num text-sm text-muted"><T ar={`${ws.length} كلمة`} en={`${ws.length} words`} /></p>
+                  <p className="num text-sm text-muted"><T ar={`${arWords(ws.length)}`} en={`${ws.length} words`} /></p>
                 </div>
               </Link>
             );
