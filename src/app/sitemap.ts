@@ -10,7 +10,7 @@ import { dialogues } from '@/lib/egypt-dialogues';
 import { sheets } from '@/lib/sheets';
 
 export const dynamic = 'force-static';
-const excluded = /^(admin|account|progress|daily|badges|review|certificate)(\/|$)/;
+const excluded = /^(admin|account|progress|weekly-plan|daily|badges|review|certificate)(\/|$)/;
 export default function sitemap(): MetadataRoute.Sitemap {
   const routes = new Set<string>();
   function walk(dir: string, prefix = '') {

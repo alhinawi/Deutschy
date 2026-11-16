@@ -13,7 +13,7 @@ export const grammarB: GrammarTopic[] = [
     [['Ich helfe meiner Mutter.', 'أنا بساعد أمي.', 'I help my mother.'], ['Das Auto gehört dem Lehrer.', 'العربية بتاعة المدرس.', 'The car belongs to the teacher.'], ['Wie gefällt dir die Stadt?', 'إيه رأيك في المدينة؟', 'How do you like the city?'], ['Er schenkt seiner Frau Blumen.', 'بيدي مراته ورد.', 'He gives his wife flowers.']],
     { h: ['', 'm', 'f', 'n', 'pl'], r: [['Nominativ', 'der', 'die', 'das', 'die'], ['Akkusativ', 'den', 'die', 'das', 'die'], ['Dativ', 'dem', 'der', 'dem', 'den + n']] }),
   g('dativ-praepositionen', 'A2', 'strasse', ['حروف الجر مع Dativ و Akkusativ', 'Prepositions with dative and accusative'],
-    ['فيه حروف جر دايما مع Dativ، وحروف دايما مع Akkusativ، وحروف بتتغير حسب الحركة أو المكان.', 'Some prepositions always take the dative, some the accusative, and some switch depending on movement or location.'],
+    ['فيه حروف جر دايما مع Dativ، وحروف دايما مع Akkusativ، وحروف بيتحدد اختيارها في المعنى المكاني حسب مكان الحدث أو الاتجاه لمكان جديد، مش مجرد وجود حركة.', 'Some prepositions always take the dative, some the accusative, and local two-way prepositions distinguish location from destination, not motion alone.'],
     [
       ['دايما Dativ: aus، bei، mit، nach، seit، von، zu، gegenüber. احفظها كلها في قايمة واحدة: aus bei mit nach seit von zu.', 'Always dative: aus, bei, mit, nach, seit, von, zu, gegenüber. Memorise them as one list.'],
       ['دايما Akkusativ: durch، für، gegen، ohne، um.', 'Always accusative: durch, für, gegen, ohne, um.'],
