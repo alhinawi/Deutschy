@@ -1,0 +1,3 @@
+# Writing draft safety
+Existing eight writing frames already cover requested email/letter templates. Instead of duplicating content, added UTF-8 plain-text export of every nonempty per-task draft in the current tab. No send, server storage, new account or sync. Exit warning covers internal links and browser-supported beforeunload, explicitly not guaranteed for every exit. Download does not clear draft state or imply storage succeeded.
+Browser test retained two task drafts, downloaded file and read back exact German umlaut text from both, canceled internal navigation and confirmed draft intact. Mobile axe/typecheck/build pass; screenshot inspected. Actual physical-mobile download UI not tested.
