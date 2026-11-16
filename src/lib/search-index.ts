@@ -1,10 +1,16 @@
+import { readings } from './reading';
+import { writingTasks } from './writing';
+import { b1Grammar } from './b1-grammar';
+import { b2Grammar } from './b2-grammar';
+import { c1Grammar } from './c1-grammar';
+import { c2Grammar } from './c2-grammar';
 import { words, glossOf, topicName } from './data';
 import { grammar } from './grammar';
 import { verbs, slug } from './verbs';
 import { idioms } from './idioms';
 import { sidebar } from './nav';
 
-export type Hit = { kind: 'word' | 'grammar' | 'verb' | 'idiom' | 'page'; title: string; sub: string; href: string; hay: string };
+export type Hit = { kind: 'word' | 'grammar' | 'verb' | 'idiom' | 'page' | 'reading' | 'writing'; title: string; sub: string; href: string; hay: string };
 
 export const norm = (s: string) =>
   s.toLowerCase().replace(/ß/g, 'ss').replace(/ä/g, 'a').replace(/ö/g, 'o').replace(/ü/g, 'u')
@@ -20,6 +26,9 @@ export function index(): Hit[] {
   grammar.forEach((g) => h('grammar', g.title[1], `${g.title[0]} · ${g.level}`, `/grammar/${g.id}/`, g.sum.join(' ')));
   verbs.forEach((v) => h('verb', v.inf, `${v.ar} · ${v.en}`, `/verbs/${slug(v.inf)}/`, `${v.pp} ${v.pret} ${v.pres.join(' ')}`));
   idioms.forEach((d) => h('idiom', d.de, `${d.ar} · ${d.en}`, '/redewendungen/', d.literal));
+  readings.forEach(r=>h('reading',r.title[0],`${r.title[1]} · ${r.level}`,`/reading/${r.id}/`,r.de.join(' ')+' '+r.ar.join(' ')));
+  writingTasks.forEach(w=>h('writing',w.title[1],`${w.title[0]} · ${w.level}`,`/writing/#${w.id}`,w.brief.join(' ')+' '+(w.tips||[]).join(' ')));
+  for(const [level,drills] of [['B1',b1Grammar],['B2',b2Grammar],['C1',c1Grammar],['C2',c2Grammar]] as const) for(const d of drills)h('grammar',d.name,`${level} · ${d.ar}`,`/${level.toLowerCase()}/`,d.en+' '+d.rows.map(r=>r[0]).join(' '));
   cache = out;
   return out;
 }

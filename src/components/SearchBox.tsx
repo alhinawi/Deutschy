@@ -4,7 +4,7 @@ import { useRouter } from 'next/navigation';
 import type { Hit } from '@/lib/search-index';
 import { useLang, useT } from '@/lib/i18n';
 
-const KIND: Record<Hit['kind'], [string, string]> = { word: ['كلمة', 'Word'], grammar: ['قاعدة', 'Grammar'], verb: ['فعل', 'Verb'], idiom: ['تعبير', 'Idiom'], page: ['صفحة', 'Page'] };
+const KIND: Record<Hit['kind'], [string, string]> = { word: ['كلمة', 'Word'], grammar: ['قاعدة', 'Grammar'], verb: ['فعل', 'Verb'], idiom: ['تعبير', 'Idiom'], page: ['صفحة', 'Page'], reading:['قراءة','Reading'], writing:['كتابة','Writing'] };
 
 export function SearchIcon({ className = 'h-5 w-5' }: { className?: string }) {
   return <svg viewBox="0 0 24 24" className={className} fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" aria-hidden="true"><circle cx="11" cy="11" r="7" /><path d="m20 20-3.500-3.500" /></svg>;
@@ -44,7 +44,7 @@ export default function SearchBox({ open, onClose }: { open: boolean; onClose: (
       <div role="dialog" aria-modal="true" aria-label={t('بحث', 'Search')} onKeyDown={onKey} className="w-full max-w-xl rounded-2xl border border-line bg-paper shadow-xl">
         <div className="flex items-center gap-2 border-b border-line px-4 py-3">
           <SearchIcon className="h-5 w-5 shrink-0 text-muted" />
-          <input ref={input} dir="auto" value={q} onChange={(e) => setQ(e.target.value)} role="combobox" aria-expanded={hits.length > 0} aria-controls={id} aria-activedescendant={hits[sel] ? `${id}-${sel}` : undefined} aria-label={t('بحث', 'Search')} placeholder={t('دوّر في الكلمات والقواعد والأفعال والتعبيرات', 'Search words, grammar, verbs, idioms')} className="w-full bg-transparent py-1 text-lg outline-none" />
+          <input ref={input} dir="auto" value={q} onChange={(e) => setQ(e.target.value)} role="combobox" aria-expanded={hits.length > 0} aria-controls={id} aria-activedescendant={hits[sel] ? `${id}-${sel}` : undefined} aria-label={t('بحث', 'Search')} placeholder={t('دوّر في الكلمات والقواعد والقراءة والكتابة A1-C2', 'Search vocabulary, grammar, reading and writing A1-C2')} className="w-full bg-transparent py-1 text-lg outline-none" />
           <button onClick={onClose} className="rounded-lg border border-line px-2 py-1 text-xs font-bold text-muted">Esc</button>
         </div>
         <ul id={id} role="listbox" className="max-h-[60vh] overflow-y-auto p-2">
