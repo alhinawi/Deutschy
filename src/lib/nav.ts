@@ -14,6 +14,7 @@ export const sidebar: NavGroup[] = [
     { href: '/verbs/quiz/', ar: 'اختبار الأفعال', en: 'Verb quiz' },
     { href: '/reading/', ar: 'القراءة', en: 'Reading' },
     { href: '/lessons/', ar: 'المفردات بالموضوع', en: 'Vocabulary by topic' },
+    { href: '/pronunciation/', ar: 'النطق', en: 'Pronunciation' },
     { href: '/learn/', ar: 'أساسيات', en: 'Basics' },
   ] },
   { id: 'play', ar: 'العب', en: 'Play', items: [
