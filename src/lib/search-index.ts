@@ -1,3 +1,7 @@
+import {pitfalls} from './pitfalls';
+import {soundContrasts} from './sound-contrasts';
+import {writingFrames} from './writing-frames';
+import {contextPacks} from './context-packs';
 import { dialogues } from './egypt-dialogues';
 import { readings } from './reading';
 import { writingTasks } from './writing';
@@ -27,6 +31,10 @@ export function index(): Hit[] {
   grammar.forEach((g) => h('grammar', g.title[1], `${g.title[0]} · ${g.level}`, `/grammar/${g.id}/`, g.sum.join(' ')));
   verbs.forEach((v) => h('verb', v.inf, `${v.ar} · ${v.en}`, `/verbs/${slug(v.inf)}/`, `${v.pp} ${v.pret} ${v.pres.join(' ')}`));
   idioms.forEach((d) => h('idiom', d.de, `${d.ar} · ${d.en}`, '/redewendungen/', d.literal));
+  pitfalls.forEach(p=>h('page',p.title[1],p.title[0]+' · '+p.level,`/pitfalls/#${p.id}`,p.note.join(' ')+' '+p.prompt+' '+p.answers.join(' ')));
+  soundContrasts.forEach(p=>h('page',p.words.join(' / '),p.contrast,`/sound-contrasts/#${p.id}`,p.meanings.flat().join(' ')+' '+p.tip.join(' ')));
+  writingFrames.forEach(f=>h('writing',f.task.title[1]+' - frame',f.task.title[0]+' · '+f.task.level,`/writing-frames/#${f.id}`,f.frame.join(' ')+' '+f.register.join(' ')));
+  contextPacks.forEach(p=>h('page',p.title[1],p.title[0],`/context-packs/#${p.id}`,p.id.replaceAll('-',' ')+' '+p.note.join(' ')+' '+p.items.map(i=>i.de+' '+i.ar+' '+i.word.de).join(' ')));
   dialogues.forEach(d=>h('dialogue',d.title[0],`${d.title[1]} · ${d.level}`,`/egypt-dialogues/${d.id}/`,d.lines.flat().join(' ')+' '+d.gloss.flat().join(' ')));
   readings.forEach(r=>h('reading',r.title[0],`${r.title[1]} · ${r.level}`,`/reading/${r.id}/`,r.de.join(' ')+' '+r.ar.join(' ')));
   writingTasks.forEach(w=>h('writing',w.title[1],`${w.title[0]} · ${w.level}`,`/writing/#${w.id}`,w.brief.join(' ')+' '+(w.tips||[]).join(' ')));
