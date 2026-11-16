@@ -203,3 +203,218 @@ Object.assign(dialogueEvidence,{
   "Der Beginn um 18 Uhr bleibt aber stehen. Darüber waren wir uns einig."
  ]
 });
+
+everydayDialogues.push(...([
+ {
+  "id": "pflanzen-am-fenster",
+  "level": "A1",
+  "title": [
+   "Wo ist die Kanne?",
+   "فين كنكة الري؟"
+  ],
+  "lines": [
+   [
+    "Nina",
+    "Wo ist die kleine Gießkanne?",
+    "فين الكنكة الصغيرة بتاعة الري؟"
+   ],
+   [
+    "Tom",
+    "Sie steht unter dem Tisch.",
+    "تحت الترابيزة."
+   ],
+   [
+    "Nina",
+    "Ist sie blau?",
+    "هي زرقا؟"
+   ],
+   [
+    "Tom",
+    "Nein, sie ist grün.",
+    "لأ، خضرا."
+   ],
+   [
+    "Nina",
+    "Danke. Die Pflanze hier braucht Wasser.",
+    "شكرا. النبتة دي محتاجة مية."
+   ],
+   [
+    "Tom",
+    "Ich mache jetzt Tee. Möchtest du auch eine Tasse?",
+    "هعمل شاي دلوقتي. تحبي كوباية كمان؟"
+   ],
+   [
+    "Nina",
+    "Ja, bitte. Ohne Zucker.",
+    "آه لو سمحت. من غير سكر."
+   ]
+  ],
+  "q": [
+   [
+    "Wo steht die Kanne?",
+    "Unter dem Tisch.",
+    "Auf dem Sofa.",
+    "Neben dem Bett."
+   ],
+   [
+    "Welche Farbe hat sie?",
+    "Grün.",
+    "Blau.",
+    "Gelb."
+   ],
+   [
+    "Wie möchte Nina den Tee?",
+    "Ohne Zucker.",
+    "Mit viel Zucker.",
+    "Mit Milch."
+   ]
+  ]
+ },
+ {
+  "id": "spieleabend-nachfrage",
+  "level": "A2",
+  "title": [
+   "Was soll ich mitbringen?",
+   "أجيب إيه معايا؟"
+  ],
+  "lines": [
+   [
+    "Lea",
+    "Hallo Omar. Spielen wir am Freitag bei dir zu Hause?",
+    "أهلا يا عمر. هنلعب الجمعة عندك في البيت؟"
+   ],
+   [
+    "Omar",
+    "Ja. Ich schicke dir gleich die Adresse.",
+    "آه. هبعت لك العنوان حالا."
+   ],
+   [
+    "Lea",
+    "Soll ich etwas zu essen mitbringen?",
+    "أجيب حاجة تتاكل معايا؟"
+   ],
+   [
+    "Omar",
+    "Nein, ich bereite Brot und Suppe vor. Wasser und Saft habe ich auch.",
+    "لأ، هجهز عيش وشوربة. وعندي مية وعصير كمان."
+   ],
+   [
+    "Lea",
+    "Dann bringe ich mein Kartenspiel mit. Ben kommt erst um halb acht.",
+    "يبقى هجيب لعبة الكروت بتاعتي. بن مش هييجي غير الساعة 19:30."
+   ],
+   [
+    "Omar",
+    "Kein Problem. Wir essen zuerst. Mit dem Spiel warten wir auf ihn.",
+    "مفيش مشكلة. هناكل الأول. وهنستناه عشان نبدأ اللعب."
+   ],
+   [
+    "Lea",
+    "Gut. Ich antworte gleich auf deine zweite Nachricht.",
+    "تمام. هرد حالا على رسالتك التانية."
+   ]
+  ],
+  "q": [
+   [
+    "Was will Omar noch schicken?",
+    "Die Adresse.",
+    "Ein Kartenspiel.",
+    "Einen Schlüssel."
+   ],
+   [
+    "Was bringt Lea mit?",
+    "Ihr Kartenspiel.",
+    "Wasser und Saft.",
+    "Brot und Suppe."
+   ],
+   [
+    "Womit warten sie auf Ben?",
+    "Mit dem Spiel.",
+    "Mit dem Einkauf der Getränke.",
+    "Mit dem Schreiben der Adresse."
+   ]
+  ]
+ },
+ {
+  "id": "garten-verantwortung",
+  "level": "B1",
+  "title": [
+   "Erst die Verantwortung klären",
+   "نحدد المسؤولية الأول"
+  ],
+  "lines": [
+   [
+    "Sara",
+    "Bevor wir Pflanzen kaufen, sollten wir das Gießen planen.",
+    "قبل ما نشتري نباتات، لازم نخطط للري."
+   ],
+   [
+    "Ali",
+    "Von Montag bis Donnerstag sind schon Leute eingetragen.",
+    "من الاتنين للخميس فيه ناس سجلت أساميها خلاص."
+   ],
+   [
+    "Sara",
+    "Und wer kommt am Wochenende?",
+    "ومين هييجي آخر الأسبوع؟"
+   ],
+   [
+    "Ali",
+    "Bisher niemand. Ich könnte noch Jana fragen.",
+    "لحد دلوقتي مفيش حد. ممكن أسأل يانا."
+   ],
+   [
+    "Sara",
+    "Gut. Wir müssen außerdem prüfen, wie viel Sonne das Beet bekommt.",
+    "تمام. ولازم كمان نتأكد حوض الزرع بتوصله شمس قد إيه."
+   ],
+   [
+    "Ali",
+    "Ich frage die Gartenleitung nach geeigneten Pflanzen. Dann vergleichen wir Blumen und Kräuter.",
+    "هسأل إدارة الجنينة عن نباتات مناسبة. وبعدها نقارن الورد بالأعشاب."
+   ],
+   [
+    "Sara",
+    "Einverstanden. Bis dahin bleibt die Entscheidung offen.",
+    "موافقة. لحد ساعتها القرار يفضل مفتوح."
+   ]
+  ],
+  "q": [
+   [
+    "Wen möchte Ali noch fragen?",
+    "Jana.",
+    "Seinen Arzt.",
+    "Den Verkäufer eines Autos."
+   ],
+   [
+    "Was soll am Beet geprüft werden?",
+    "Wie viel Sonne es bekommt.",
+    "Wie viel ein Auto kostet.",
+    "Wer das Gartentor gestrichen hat."
+   ],
+   [
+    "Was ist am Ende noch offen?",
+    "Die Entscheidung über die Pflanzen.",
+    "Ob Montag auf Sonntag folgt.",
+    "Ob schon Pflanzen gekauft wurden."
+   ]
+  ]
+ }
+] satisfies Dialogue[]));
+Object.assign(dialogueEvidence,{
+ "pflanzen-am-fenster": [
+  "Sie steht unter dem Tisch.",
+  "Nein, sie ist grün.",
+  "Ja, bitte. Ohne Zucker."
+ ],
+ "spieleabend-nachfrage": [
+  "Ja. Ich schicke dir gleich die Adresse.",
+  "Dann bringe ich mein Kartenspiel mit. Ben kommt erst um halb acht.",
+  "Kein Problem. Wir essen zuerst. Mit dem Spiel warten wir auf ihn."
+ ],
+ "garten-verantwortung": [
+  "Bisher niemand. Ich könnte noch Jana fragen.",
+  "Gut. Wir müssen außerdem prüfen, wie viel Sonne das Beet bekommt.",
+  "Einverstanden. Bis dahin bleibt die Entscheidung offen."
+ ]
+});

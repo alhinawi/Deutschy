@@ -32,3 +32,24 @@ Object.assign(readingEvidence,{
   "Erst wenn der Raum bestätigt ist, verschicken sie die Einladung."
  ]
 });
+
+Object.assign(readingEvidence,{
+ "alltag-a1-balkon": [
+  "Nina hat zwei Pflanzen.",
+  "Die kleine Gießkanne steht unter dem Tisch.",
+  "Sie ist grün.",
+  "Er macht Tee und öffnet das Fenster ein wenig."
+ ],
+ "alltag-a2-spieleabend": [
+  "Er schreibt eine zweite Nachricht mit der Adresse und erklärt, dass er Brot und Suppe vorbereitet.",
+  "Die Freunde sollen keine Getränke kaufen, denn Omar hat schon Wasser und Saft.",
+  "Ben kommt erst um halb acht, weil sein Sprachkurs später endet.",
+  "So weiß er, dass die neue Information angekommen ist."
+ ],
+ "alltag-b1-gartenplan": [
+  "Sara schlägt vor, erst diese praktische Frage zu klären.",
+  "Für das Wochenende findet sich noch niemand.",
+  "Ob dort genug Sonne ankommt, haben sie noch nicht geprüft.",
+  "Erst danach soll die Gruppe einen gemeinsamen Pflanzplan beschließen."
+ ]
+});
