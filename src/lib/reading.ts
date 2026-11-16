@@ -51,6 +51,8 @@ import { readingsAdv } from './reading-adv';
 import { readingsMore } from './reading-adv2';
 import { readingsHigh } from './reading-adv3';
 readings.push(...readingsAdv, ...readingsMore, ...readingsHigh);
+import { a2Texts } from './reading-a2';
+readings.push(...a2Texts);
 const LV = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
 readings.sort((a, b) => LV.indexOf(a.level) - LV.indexOf(b.level));
 export const readingOf = (id: string) => readings.find((r) => r.id === id);

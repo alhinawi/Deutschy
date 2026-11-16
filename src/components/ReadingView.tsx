@@ -1,10 +1,10 @@
 'use client';
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import Link from 'next/link';
 import type { ReadingText } from '@/lib/reading';
 import { useT } from '@/lib/i18n';
 import { useStore } from '@/lib/store';
-import { speak } from '@/lib/speak';
+import { speak, stopSpeaking } from '@/lib/speak';
 import Speaker from './Speaker';
 
 const order = (n: number, seed: number) => [[0, 1, 2], [1, 2, 0], [2, 0, 1], [0, 2, 1], [1, 0, 2], [2, 1, 0]][(seed * 5 + n * 3) % 6];
@@ -12,6 +12,10 @@ const order = (n: number, seed: number) => [[0, 1, 2], [1, 2, 0], [2, 0, 1], [0,
 export default function ReadingView({ r }: { r: ReadingText }) {
   const t = useT();
   const { award } = useStore();
+  const [listening, setListening] = useState(false);
+  const [transcript, setTranscript] = useState(false);
+  const [audioError, setAudioError] = useState(false);
+  useEffect(() => () => stopSpeaking(), []);
   const [show, setShow] = useState(false);
   const [i, setI] = useState(0);
   const [pick, setPick] = useState<number | null>(null);
@@ -23,7 +27,7 @@ export default function ReadingView({ r }: { r: ReadingText }) {
     setPick(k);
     const ok = k === 0;
     if (ok) setScore((s) => s + 1);
-    award(ok ? 8 : 0, `r:${r.id}:${i}`, ok);
+    award(ok ? 8 : 0, `${listening ? 'l' : 'r'}:${r.id}:${i}`, ok);
   };
   return (
     <div className="mx-auto max-w-2xl space-y-6">
@@ -33,10 +37,12 @@ export default function ReadingView({ r }: { r: ReadingText }) {
         <h1 className="de mt-2 text-4xl font-semibold" lang="de">{r.title[0]}</h1>
         <p className="ar-title text-xl text-muted">{r.title[1]}</p>
       </div>
-      <article dir="ltr" lang="de" className="de space-y-4 rounded-2xl border border-line bg-card p-5 text-xl leading-relaxed">
+      <div className="flex flex-wrap gap-2">{[false, true].map((v) => <button key={String(v)} onClick={() => { stopSpeaking(); setListening(v); setTranscript(false); setShow(false); setI(0); setPick(null); setScore(0); }} className={`rounded-full border px-5 py-2 ${listening === v ? 'border-accent bg-accent text-accent-ink' : 'border-line'}`}>{v ? t('تدريب السمع', 'Listening practice') : t('تدريب القراءة', 'Reading practice')}</button>)}</div>
+      {listening && <section className="space-y-3 rounded-2xl border border-line bg-card p-5"><p>{t('اسمع الأول وجاوب من غير النص. الصوت حسب الأصوات الألماني المتاحة على جهازك.', 'Listen first and answer without the text. Speech uses the German voices available on your device.')}</p><div className="flex flex-wrap gap-2"><button onClick={async () => setAudioError(!(await speak(r.de.join(' '))))} className="flex items-center gap-2 rounded-full border border-line px-4 py-2"><Speaker />{t('اسمع', 'Listen')}</button><button onClick={stopSpeaking} className="rounded-full border border-line px-4 py-2">{t('وقف الصوت', 'Stop audio')}</button><button onClick={() => setTranscript(!transcript)} className="rounded-full border border-line px-4 py-2">{transcript ? t('اخفي النص', 'Hide text') : t('اعرض النص', 'Show text')}</button></div>{audioError && <p role="status">{t('الصوت مش متاح في المتصفح ده. جرّب متصفح بيدعم النطق.', 'Speech is unavailable in this browser. Try a browser with speech support.')}</p>}</section>}
+      {(!listening || transcript) && <article dir="ltr" lang="de" className="de space-y-4 rounded-2xl border border-line bg-card p-5 text-xl leading-relaxed">
         {r.de.map((p, k) => <p key={k}>{p}</p>)}
-        <button onClick={() => speak(r.de.join(' '))} className="flex items-center gap-2 rounded-full border border-line px-4 py-2 text-base"><Speaker />{t('اسمع النص', 'Listen')}</button>
-      </article>
+        <button onClick={async () => setAudioError(!(await speak(r.de.join(' '))))} className="flex items-center gap-2 rounded-full border border-line px-4 py-2 text-base"><Speaker />{t('اسمع النص', 'Listen')}</button>
+      </article>}
       <button onClick={() => setShow(!show)} className="rounded-full border border-line px-5 py-2 font-bold">{show ? t('اخفي الترجمة', 'Hide translation') : t('اعرض الترجمة', 'Show translation')}</button>
       {show && <div className="ar-title space-y-3 rounded-2xl border border-line bg-paper p-5 text-lg">{r.ar.map((p, k) => <p key={k}>{p}</p>)}</div>}
       <section className="space-y-3 rounded-2xl border border-line bg-card p-5">
