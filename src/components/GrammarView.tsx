@@ -2,6 +2,7 @@
 import Link from 'next/link';
 import Speaker from './Speaker';
 import Mixed from './Mixed';
+import Practice from './Practice';
 import { speak } from '@/lib/speak';
 import Art from './Art';
 import { GRAMMAR_PHOTO, grammar, type GrammarTopic } from '@/lib/grammar';
@@ -45,7 +46,7 @@ export default function GrammarView({ g }: { g: GrammarTopic }) {
           <div dir="ltr" className="overflow-x-auto rounded-2xl border border-line bg-card">
             <table className="de num w-full text-start text-base sm:text-lg" dir="ltr">
               <thead><tr className="border-b border-line bg-paper">{g.table.h.map((h, n) => <th key={n} className="px-2.5 py-2.5 text-start sm:px-4 font-bold text-accent">{h}</th>)}</tr></thead>
-              <tbody>{g.table.r.map((r, n) => <tr key={n} className="border-b border-line last:border-0">{r.map((c, m) => <td key={m} className={`px-2.5 py-2 sm:px-4 ${m === 0 ? 'font-bold text-muted' : ''}`}>{c}</td>)}</tr>)}</tbody>
+              <tbody>{g.table.r.map((r, n) => <tr key={n} className="border-b border-line last:border-0">{r.map((c, m) => <td key={m} className={`whitespace-nowrap px-2.5 py-2 sm:px-4 ${m === 0 ? 'font-bold text-muted' : ''}`}>{c}</td>)}</tr>)}</tbody>
             </table>
           </div>
         </section>
@@ -64,6 +65,7 @@ export default function GrammarView({ g }: { g: GrammarTopic }) {
           ))}
         </ul>
       </section>
+      <Practice topic={g.id} />
       {g.tip && (
         <section className="rounded-2xl border border-accent/40 bg-card p-5">
           <p className="num text-xs font-bold uppercase text-accent">{t('نصيحة', 'Tip')}</p>
