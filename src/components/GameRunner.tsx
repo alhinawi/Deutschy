@@ -1,7 +1,7 @@
 'use client';
 import Speaker from './Speaker';
 import { arTries } from '@/lib/arcount';
-import { useMemo, useRef, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
 import { words, topics, topicTitles, Word, img, sample, shuffle, glossOf, topicName } from '@/lib/data';
@@ -124,28 +124,31 @@ function Rounds({ game, list, again }: Props) {
   const [score, setScore] = useState(0);
   const [picked, setPicked] = useState<string | null>(null);
   const [typed, setTyped] = useState('');
-  const [saved, setSaved] = useState(false);
+  const saved=useRef(false);
+  const locked=useRef(false);
+  useEffect(()=>{if(i>=qs.length&&!saved.current&&qs.length){saved.current=true;addScore(game,score)}},[i,qs.length,game,score,addScore]);
+  const next=()=>{setPicked(null);setTyped('');setI(i+1);locked.current=false};
 
   if (i >= qs.length) {
-    if (!saved) { setSaved(true); addScore(game, score); }
     return <Done title={t('خلصت الجولة', 'Round finished')} line={t(`${score} من ${qs.length} صح`, `${score} of ${qs.length} correct`)} xp={score * (game === 'spelling' ? 15 : 10)} again={again} />;
   }
   const { w, opts } = qs[i];
   const xp = game === 'spelling' ? 15 : 10;
-  const advance = (ok: boolean) => { award(ok ? xp : 0, w.id, ok); if (ok) setScore((s) => s + 1); setTimeout(() => { setPicked(null); setTyped(''); setI((x) => x + 1); }, 900); };
+  const advance = (ok: boolean) => { if(locked.current)return;locked.current=true;award(ok ? xp : 0, w.id, ok); if (ok) setScore((s) => s + 1); };
+  const feedback=(ok:boolean)=><div role="status" className="space-y-3"><p>{ok?t('صح.','Correct.'):t('راجع الكلمة الصح.','Check the correct word.')}</p><p dir="ltr" lang="de" className="de break-words text-xl">{w.art} {w.de}</p><button type="button" onClick={next} className="w-full rounded-full bg-accent px-5 py-3 font-bold text-accent-ink">{i+1>=qs.length?t('النتيجة','Result'):t('التالي','Next')}</button></div>;
 
   if (game === 'spelling') {
-    const correct = typed.trim().toLowerCase() === w.de.toLowerCase();
+    const correct = typed.normalize('NFC').trim().toLocaleLowerCase('de') === w.de.normalize('NFC').toLocaleLowerCase('de');
     const done = picked !== null;
     return (
       <Frame i={i} n={qs.length}>
         <Photo w={w} />
         <p className="ar-title text-center text-2xl">{glossOf(w, lang)}</p>
-        <form onSubmit={(e) => { e.preventDefault(); if (done || !typed.trim()) return; setPicked(typed); advance(correct); }} className="space-y-3">
-          <input dir="ltr" lang="de" autoFocus value={typed} onChange={(e) => setTyped(e.target.value)} disabled={done} placeholder="…" className="de w-full rounded-xl border border-line bg-card px-4 py-3 text-center text-2xl outline-none focus:border-accent" />
-          <p className="text-center text-xs text-muted">{t('اكتب الكلمة بدون der/die/das. حرف ä ö ü ß لازم يتكتب صح.', 'Type the word without der/die/das. Spell ä ö ü ß correctly.')}</p>
-          {done && <p className={`de text-center text-xl font-semibold ${correct ? 'text-good' : 'text-bad'}`}>{correct ? '✓ Richtig!' : `✗ ${w.art} ${w.de}`}</p>}
-          <button disabled={done} className="w-full rounded-full bg-accent py-3 font-bold text-accent-ink disabled:opacity-50">{t('تأكيد', 'Check')}</button>
+        <form onSubmit={(e) => { e.preventDefault(); if (done || locked.current || !typed.trim()) return; setPicked(typed); advance(correct); }} className="space-y-3">
+          <input dir="ltr" lang="de" aria-label={t("اكتب الكلمة الألماني","Type the German noun")} maxLength={150} autoComplete="off" spellCheck={false} autoCapitalize="none" autoFocus value={typed} onChange={(e) => setTyped(e.target.value)} disabled={done} placeholder="…" className="de w-full rounded-xl border border-line bg-card px-4 py-3 text-center text-2xl outline-none focus:border-accent" />
+          <p className="text-center text-xs text-muted">{t('اكتب الكلمة من غير der/die/das. هنا مش بنفرق الحرف الكبير والصغير؛ ä ö ü ß لازم صح. الاسم الألماني بيبدأ عادة بحرف كبير.', 'Type the word without der/die/das. Case is ignored in this practice; ä ö ü ß must match. German nouns normally start with a capital.')}</p>
+          {done && feedback(correct)}
+          <button disabled={done||!typed.trim()} className="w-full rounded-full bg-accent py-3 font-bold text-accent-ink disabled:opacity-50">{t('تأكيد', 'Check')}</button>
         </form>
       </Frame>
     );
@@ -159,9 +162,10 @@ function Rounds({ game, list, again }: Props) {
         <p className="ar-title text-center text-xl text-muted">{glossOf(w, lang)}</p>
         <div className="grid grid-cols-3 gap-3">
           {(['der', 'die', 'das'] as const).map((a) => (
-            <Choice key={a} label={a} state={picked === null ? '' : a === w.art ? 'good' : picked === a ? 'bad' : ''} onClick={() => { if (picked) return; setPicked(a); advance(a === w.art); }} />
+            <Choice key={a} label={a} state={picked === null ? '' : a === w.art ? 'good' : picked === a ? 'bad' : ''} disabled={picked!==null} onClick={() => { if (picked || locked.current) return; setPicked(a); advance(a === w.art); }} />
           ))}
         </div>
+        {picked!==null&&feedback(picked===w.art)}
       </Frame>
     );
   }
@@ -173,9 +177,10 @@ function Rounds({ game, list, again }: Props) {
       <p className="ar-title text-center text-xl text-muted">{t('إيه الكلمة الألماني للصورة دي؟', 'What is the German word for this picture?')}</p>
       <div className="grid grid-cols-1 gap-3 min-[480px]:grid-cols-2">
         {opts.map((o) => (
-          <Choice key={o.id} label={`${o.art} ${o.de}`} state={picked === null ? '' : o.id === w.id ? 'good' : picked === o.id ? 'bad' : ''} onClick={() => { if (picked) return; setPicked(o.id); advance(o.id === w.id); }} />
+          <Choice key={o.id} label={`${o.art} ${o.de}`} state={picked === null ? '' : o.id === w.id ? 'good' : picked === o.id ? 'bad' : ''} disabled={picked!==null} onClick={() => { if (picked || locked.current) return; setPicked(o.id); advance(o.id === w.id); }} />
         ))}
       </div>
+      {picked!==null&&feedback(picked===w.id)}
     </Frame>
   );
 }
@@ -190,9 +195,9 @@ function Frame({ i, n, children }: { i: number; n: number; children: React.React
   );
 }
 
-function Choice({ label, state, onClick }: { label: string; state: '' | 'good' | 'bad'; onClick: () => void }) {
+function Choice({ label, state, onClick,disabled }: { disabled?:boolean; label: string; state: '' | 'good' | 'bad'; onClick: () => void }) {
   const c = state === 'good' ? 'border-good bg-good/15' : state === 'bad' ? 'border-bad bg-bad/15' : 'border-line bg-card hover:border-accent';
-  return <button onClick={onClick} className={`de min-w-0 [overflow-wrap:anywhere] rounded-xl border px-3 py-3 text-lg font-semibold ${c}`} lang="de">{label}</button>;
+  return <button disabled={disabled} onClick={onClick} dir="ltr" className={`de min-w-0 [overflow-wrap:anywhere] rounded-xl border px-3 py-3 text-lg font-semibold ${c}`} lang="de">{label}</button>;
 }
 
 function Memory({ list, again }: { list: Word[]; again: () => void }) {

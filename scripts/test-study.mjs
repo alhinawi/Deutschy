@@ -279,3 +279,6 @@ const allReview=lib('answer-review').reviewBank();assert(allReview.every(q=>q.op
 for(const w of words){const q=allReview.find(q=>q.key===w.id);assert(q);assert.equal(q.prompt,`${w.ar} / ${lib('data').glossOf(w,'en')}`);assert.equal(q.options[0],`${w.art} ${w.de}`);}
 for(const f of ['ReviewView','WordReview','AnswerReview']){const text=readFileSync(`src/components/${f}.tsx`,'utf8');assert(text.includes('useRef'));assert(/\.current.*return/.test(text));}
 console.log('PASS: review options remain three-way, word prompts hide German answer, synchronous review locks retained');
+
+const roundsSource=readFileSync('src/components/GameRunner.tsx','utf8');assert(!roundsSource.includes('}, 900)'));assert(roundsSource.includes("typed.normalize('NFC')"));assert(roundsSource.includes('if(locked.current)return;locked.current=true;award'));assert(roundsSource.includes('disabled={picked!==null}'));assert(roundsSource.includes('saved.current=true;addScore(game,score)'));
+console.log('PASS: photo/article/spelling games retain manual feedback, Unicode input, answer locks and once-only completion');

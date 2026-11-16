@@ -1,0 +1,7 @@
+# Sixteenth photo/article/spelling game feedback
+
+The existing three vocabulary games now hold corrections until explicit Next/Result, replacing the 900ms auto-advance. All choices disable after answering; synchronous guards prevent duplicate history/XP and scoring. Completion saves one game score in an effect instead of during render. German article+noun feedback is textual as well as colored. Existing word/history keys and XP amounts unchanged.
+
+Spelling accepts canonically equivalent Unicode (NFC), trims outer spaces and keeps the existing case-insensitive policy. Copy now explains that German nouns normally start with capitals and that this practice ignores case. Umlauts and ß remain distinct; no transliteration or fuzzy grading was added. Field has an accessible name, no spelling suggestions and a 150-character bound. No new nouns/photos or fake activity.
+
+Checks: typecheck/study/build pass. AR/EN × 320/390 × three games: 12 completed ten-question sessions / 120 answers, alternating correct/miss. Double input produces one award; score is exactly 5/10 and 50 XP (quiz/article) or 75 XP (spelling); one completion record only. Feedback remains beyond 1.2 seconds; explicit next advances one card. Twelve feedback axe states pass, no overflow. Visually inspected AR 320 spelling correction and EN 390 article feedback. These are private QA-browser fixtures, not shipped progress. Native copy review pending.
