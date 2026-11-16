@@ -109,7 +109,7 @@ die|Tischtennisplatte|Tischtennisplatten|طاولة بينج بونج|table tenn
 der|Federball|Federbälle|ريشة|shuttlecock
 das|Schwimmbecken|-|حمام سباحة|swimming pool
 das|Fußballtor|Fußballtore|مرمى|football goal
-die|Laufschuhe|-|حذاء جري|running shoes
+der|Laufschuh|Laufschuhe|حذاء جري|running shoes
 das|Trampolin|Trampoline|ترامبولين|trampoline
 das|Segel|Segel|شراع|sail
 das|Kajak|Kajaks|كاياك|kayak
