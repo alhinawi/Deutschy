@@ -59,8 +59,8 @@ export default function GrammarView({ g }: { g: GrammarTopic }) {
           {g.ex.map((e, n) => (
             <li key={n} className="rounded-2xl border border-line bg-card p-4">
               <div className="flex items-start justify-between gap-2">
-                <p className="de num text-xl font-semibold" lang="de">{e[0]}</p>
-                <button onClick={() => speak(e[0])} aria-label="Speak" className="shrink-0 rounded-full border border-line px-3 py-1 text-sm hover:bg-paper"><Speaker /></button>
+                <p className="de num text-xl font-semibold" lang="de" dir="ltr">{e[0]}</p>
+                <button onClick={() => speak(e[0])} aria-label={t('اسمع المثال', 'Hear the example')} className="min-h-11 min-w-11 shrink-0 rounded-full border border-line px-3 py-1 text-sm hover:bg-paper"><Speaker /></button>
               </div>
               <p className="ar-title mt-1 text-lg text-muted">{lang === 'ar' ? <Mixed text={e[1]} /> : e[2]}</p>
             </li>

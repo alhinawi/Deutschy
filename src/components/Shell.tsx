@@ -38,7 +38,7 @@ export default function Shell({ children }: { children: ReactNode }) {
   return (
     <>
       <AuthSync />
-      <a href="#main" className="sr-only z-50 rounded-lg bg-accent px-4 py-2 font-bold text-accent-ink focus:not-sr-only focus:fixed focus:start-3 focus:top-3">{t('روح للمحتوى', 'Skip to content')}</a>
+      <a href="#main" className="sr-only z-50 rounded-lg bg-accent focus:px-4 focus:py-2 font-bold text-accent-ink focus:not-sr-only focus:fixed focus:start-3 focus:top-3">{t('روح للمحتوى', 'Skip to content')}</a>
       <SearchBox open={searching} onClose={() => setSearching(false)} />
       <header className="sticky top-0 z-30 border-b border-line bg-paper/95 backdrop-blur">
         <div className="flex items-center gap-2 px-4 sm:gap-3 py-2.5">
@@ -46,7 +46,7 @@ export default function Shell({ children }: { children: ReactNode }) {
             <svg viewBox="0 0 24 24" className="h-5 w-5" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round"><path d="M4 7h16M4 12h16M4 17h16" /></svg>
           </button>
           <Link href="/" className="de text-2xl font-semibold tracking-tight" dir="ltr">Deutsch<span className="text-accent">y</span></Link>
-          <div className="num ms-auto flex items-center gap-1.5 sm:gap-2 whitespace-nowrap text-xs font-bold text-muted" dir="ltr">
+          <div className="num ms-auto max-[360px]:hidden flex items-center gap-1.5 sm:gap-2 whitespace-nowrap text-xs font-bold text-muted" dir="ltr">
             <span className="max-sm:hidden">Lv {level(s.xp)}</span><span title={`${s.xp} XP`}>{s.xp >= 10000 ? new Intl.NumberFormat('en', { notation: 'compact', maximumFractionDigits: 1 }).format(s.xp) : s.xp} XP</span>
             <span className="inline-flex items-center gap-0.5 text-accent"><Flame />{s.streak}</span>
           </div>

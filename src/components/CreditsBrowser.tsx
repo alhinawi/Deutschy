@@ -22,7 +22,7 @@ export default function CreditsBrowser() {
           <th scope="row" className="p-3 de text-left font-normal">{w.art} {w.de}</th>
           <td className="p-3"><a className="underline" href={w.photo.commons} target="_blank" rel="noreferrer">{w.photo.file}</a></td>
           <td className="p-3">{w.photo.author || '-'}</td>
-          <td className="p-3">{w.photo.license}{'modified' in w.photo && <span className="block text-xs text-muted">Cropped; original linked.</span>}</td>
+          <td className="p-3">{w.photo.license}{w.photo.padding&&<span className="block text-xs text-muted">{t('اتضافت مساحة فاضية على الجنبين؛ الأصل في الرابط.','Neutral side padding added; original linked.')}</span>}{'modified' in w.photo && <span className="block text-xs text-muted">Cropped; original linked.</span>}</td>
         </tr>)}</tbody>
       </table>
     </div>

@@ -22,9 +22,9 @@ export default function GameRunner({ game }: { game: string }) {
     <div className="space-y-6">
       <div className="flex flex-wrap items-center justify-between gap-3">
         <Link href="/games/" className="text-sm text-muted hover:text-ink">← {t('الألعاب', 'Games')}</Link>
-        <label className="text-sm text-muted">
+        <label className="block max-w-full text-sm text-muted">
           {t('الموضوع', 'Topic')}{' '}
-          <select className="rounded-lg border border-line bg-card px-2 py-1 text-ink" value={topic ?? ''} onChange={(e) => { setTopic(e.target.value || null); setRound((r) => r + 1); }}>
+          <select className="max-w-full rounded-lg border border-line bg-card px-2 py-1 text-ink" value={topic ?? ''} onChange={(e) => { setTopic(e.target.value || null); setRound((r) => r + 1); }}>
             <option value="">{t('كل الكلمات', 'All words')}</option>
             {topics.map((tp) => <option key={tp.id} value={tp.id}>{topicTitles[tp.id]} · {topicName(tp.id, lang)}</option>)}
           </select>
@@ -105,7 +105,7 @@ function Flash({ list }: { list: Word[] }) {
       </button>
       {flip && (
         <div className="flex gap-3">
-          <button onClick={() => speak(`${w.art} ${w.de}`)} className="rounded-full border border-line px-4 py-3"><Speaker /></button>
+          <button aria-label={t('اسمع الكلمة', 'Hear the word')} onClick={() => speak(`${w.art} ${w.de}`)} className="min-h-11 min-w-11 rounded-full border border-line px-4 py-3"><Speaker /></button>
           <button onClick={() => next(false)} className="flex-1 rounded-full border border-line py-3 font-bold">{t('لسه', 'Not yet')}</button>
           <button onClick={() => next(true)} className="flex-1 rounded-full bg-accent py-3 font-bold text-accent-ink">{t('عرفتها', 'I knew it')}</button>
         </div>

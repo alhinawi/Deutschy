@@ -1,7 +1,7 @@
 import raw from '../../data/vocab.json';
 import enRaw from '../../data/en.json';
 
-export type Photo = { file: string; page: string; commons: string; license: string; author: string };
+export type Photo = { file: string; page: string; commons: string; license: string; author: string; padding?: boolean };
 export type Word = {
   id: string; topic: string; art: 'der' | 'die' | 'das'; de: string; plural: string; ar: string; photo: Photo;
 };

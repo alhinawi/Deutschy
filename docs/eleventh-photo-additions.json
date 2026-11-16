@@ -12,7 +12,8 @@
         "page": "https://commons.wikimedia.org/wiki/File:2023_Pluszowy_mi%C5%9B.jpg",
         "commons": "https://commons.wikimedia.org/wiki/File:2023_Pluszowy_mi%C5%9B.jpg",
         "license": "CC BY-SA 4.0",
-        "author": "Jacek Halicki"
+        "author": "Jacek Halicki",
+        "padding": true
       }
     },
     "dictionary": "https://de.wiktionary.org/wiki/Teddybär",

@@ -1,0 +1,13 @@
+{
+  "checks": 2136,
+  "languages": [
+    "ar",
+    "en"
+  ],
+  "viewportWidths": [
+    390,
+    1280
+  ],
+  "failures": [],
+  "routeCountPerVariant": 534
+}
