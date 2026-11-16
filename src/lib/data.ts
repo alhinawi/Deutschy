@@ -13,7 +13,7 @@ export const words = raw.words as Word[];
 export const topicTitles: Record<string, string> = {
   family: 'Familie', food: 'Essen', drinks: 'Getränke', house: 'Haus', places: 'Stadt', transport: 'Verkehr',
   kitchen: 'Küche 2', devices: 'Geräte', outdoors: 'Draußen', town: 'Dorf & Stadt', clothes: 'Kleidung', animals: 'Tiere', body: 'Körper', school: 'Schule & Büro', nature: 'Natur', jobs: 'Berufe',
-  obst: 'Obst & Gemüse', tiere2: 'Tiere 2', moebel: 'Möbel & Haus', werkzeug: 'Werkzeug & Dinge', sport: 'Sport & Musik',
+  obst: 'Obst & Gemüse 2', tiere2: 'Tiere 2', moebel: 'Möbel & Haus', werkzeug: 'Werkzeug & Dinge', sport: 'Sport & Musik',
   kleidung2: 'Kleidung & Zubehör',
   essen2: 'Essen & Trinken 2',
   natur2: 'Natur 2',
