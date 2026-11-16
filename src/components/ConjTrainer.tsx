@@ -1,4 +1,5 @@
 'use client';
+import {matchesConjugation} from '@/lib/conj-compare';
 import { useMemo, useRef, useState } from 'react';
 import Link from 'next/link';
 import { verbs } from '@/lib/verbs';
@@ -10,8 +11,6 @@ import { speak } from '@/lib/speak';
 import Speaker from './Speaker';
 
 const LV = ['A1', 'A2', 'B1', 'B2'] as const;
-const clean = (s: string) => s.trim().toLowerCase().replace(/\s+/g, ' ').replace(/ss/g, 'ß');
-const alt = (s: string) => clean(s).replace(/(s|ß|x|z)est\b/, '$1t');
 
 type Item = { vi: number; p: number; t: Tense };
 
@@ -83,7 +82,7 @@ export default function ConjTrainer() {
   const target = all[it.p];
   const check = () => {
     if (res !== null || !val.trim()) return;
-    const ok = clean(val) === clean(target) || alt(target) === clean(val) || clean(target) === alt(val);
+    const ok = matchesConjugation(val,target);
     setRes(ok);
     if (ok) setScore((s) => s + 1);
     award(ok ? 6 : 0, `v:${v.inf}`, ok);
@@ -94,18 +93,18 @@ export default function ConjTrainer() {
       <div className="flex items-center justify-between"><span className="de num text-sm font-bold text-accent">{tn[it.t][1]}</span><span dir="ltr" className="num text-sm text-muted">{i + 1} / {items.length}</span></div>
       <p className="de num text-3xl font-bold" lang="de" dir="ltr">{PERSONS[it.p]} <span className="text-muted">___</span></p>
       <p dir="ltr" className="de text-xl" lang="de">{v.inf} <span className="ar-title text-base text-muted">{lang === 'ar' ? v.ar : v.en}</span></p>
-      <form onSubmit={(e) => { e.preventDefault(); check(); }} className="space-y-3">
-        <input ref={input} dir="ltr" lang="de" autoCapitalize="off" autoCorrect="off" spellCheck={false} value={val} onChange={(e) => setVal(e.target.value)} disabled={res !== null} className="de w-full rounded-xl border border-line bg-paper px-4 py-3 text-xl outline-none focus:border-accent" />
+      <p className="text-sm text-muted">{t("بنقارن بالشكل المعروض في النموذج: بنوحد المسافات وحالة الحرف، لكن الأوملاوت والفرق بين الحرف المزدوج والحرف الألماني الخاص بيفضلوا مهمين. فيه بدائل صحيحة ممكن تكون خارج النموذج ده؛ الاختلاف مش حكم على كل الاستعمالات.","This checks the displayed model form, ignoring case and extra spaces but preserving umlauts and ss/ß spelling. Valid regional or short variants may be outside this model; a mismatch is not a verdict on every usage.")}</p><form onSubmit={(e) => { e.preventDefault(); check(); }} className="space-y-3">
+        <label htmlFor="conj-trainer-answer" className="block">{t("اكتب صيغة الفعل من غير الضمير","Type the verb form without the pronoun")}</label><input id="conj-trainer-answer" ref={input} dir="ltr" lang="de" autoCapitalize="off" autoCorrect="off" spellCheck={false} value={val} onChange={(e) => setVal(e.target.value)} disabled={res !== null} className="de w-full rounded-xl border border-line bg-paper px-4 py-3 text-xl outline-none focus:border-accent" />
         {res === null && <button className="w-full rounded-full bg-accent py-3 font-bold text-accent-ink">{t('تأكيد', 'Check')}</button>}
       </form>
       {res !== null && (
-        <div className="space-y-3 rounded-xl border border-line bg-paper p-4">
+        <div role="status" className="space-y-3 rounded-xl border border-line bg-paper p-4">
           <p dir="ltr" className={`de text-xl font-semibold ${res ? 'text-good' : 'text-bad'}`}>{PERSONS[it.p]} {target}</p>
           <div dir="ltr" className="de grid grid-cols-2 gap-x-4 text-sm text-muted">
             {PERSONS.map((p, k) => <span key={p} className={k === it.p ? 'font-bold text-ink' : ''}>{p} {all[k]}</span>)}
           </div>
           <div className="flex gap-3">
-            <button onClick={() => speak(`${PERSONS[it.p].split('/')[0]} ${target}`)} className="rounded-full border border-line px-4 py-2"><Speaker /></button>
+            <button aria-label={t("اسمع النموذج","Listen to model")} onClick={() => speak(`${PERSONS[it.p].split('/')[0]} ${target}`)} className="rounded-full border border-line px-4 py-2"><Speaker /></button>
             <button onClick={() => { setI(i + 1); setVal(''); setRes(null); }} className="flex-1 rounded-full bg-accent py-2 font-bold text-accent-ink">{i + 1 >= items.length ? t('النتيجة', 'Result') : t('التالي', 'Next')}</button>
           </div>
         </div>

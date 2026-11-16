@@ -1,0 +1,3 @@
+# Existing conjugation checker spelling
+Removed blanket ss-to-ß replacement and suffix rewriting that could collapse different spellings. Model-form comparison now normalizes NFC/case/spacing only. Explicit learner caveat: matches this model, not all regional/short variants. Existing verb forms untouched. Added input/listen labels and live feedback.
+Unit tests distinguish muss/muß, heißen/heissen, würde/wurde and short-form differences; accept NFC decomposition and whitespace/case. Browser typed mismatch/feedback and mobile axe pass; screenshot inspected. Typecheck/study/build pass. This is a checker fix, not a fresh audit of the larger legacy generated-tense bank.
