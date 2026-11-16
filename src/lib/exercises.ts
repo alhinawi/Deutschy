@@ -1,5 +1,6 @@
 import { moreA } from './exercises-a';
 import { moreB } from './exercises-b';
+import { moreC } from './exercises-c';
 // [sentence with ___, correct, wrong, wrong, explanation AR, explanation EN]
 export type Ex = [string, string, string, string, string, string];
 export const exercises: Record<string, Ex[]> = {
@@ -214,4 +215,4 @@ export const exercises: Record<string, Ex[]> = {
   ],
 };
 
-for (const [k, v] of Object.entries({ ...moreA, ...moreB })) exercises[k] = [...(exercises[k] ?? []), ...v];
+for (const [k, v] of [...Object.entries(moreA), ...Object.entries(moreB), ...Object.entries(moreC)]) exercises[k] = [...(exercises[k] ?? []), ...v];
