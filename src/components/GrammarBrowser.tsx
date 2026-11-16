@@ -1,5 +1,6 @@
 'use client';
 import Link from 'next/link';
+import { arTopics } from '@/lib/arcount';
 import { useState } from 'react';
 import Art from './Art';
 import { GRAMMAR_PHOTO, grammar, type Lvl } from '@/lib/grammar';
@@ -21,7 +22,7 @@ export default function GrammarBrowser() {
         ))}
         <input value={q} onChange={(e) => setQ(e.target.value)} placeholder={t('ابحث في القواعد', 'Search grammar')} className="ms-auto w-full rounded-full border border-line bg-card px-4 py-2 text-sm sm:w-64" />
       </div>
-      <p className="num text-sm text-muted">{list.length} {t('موضوع', 'topics')}</p>
+      <p className="num text-sm text-muted">{t(arTopics(list.length), `${list.length} topics`)}</p>
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {list.map((g) => (
           <Link key={g.id} href={`/grammar/${g.id}/`} className="flex overflow-hidden rounded-2xl border border-line bg-card hover:border-accent">

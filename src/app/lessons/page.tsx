@@ -1,5 +1,6 @@
 import Link from 'next/link';
 import { topics, wordsOf, img } from '@/lib/data';
+import { arWords } from '@/lib/arcount';
 import { T } from '@/lib/i18n';
 import { TopicName } from '@/components/L';
 
@@ -20,7 +21,7 @@ export default function Lessons() {
               <div className="p-4">
                 <p className="num text-xs font-bold text-accent"><T ar={`الدرس ${i + 1}`} en={`Lesson ${i + 1}`} /></p>
                 <p className="ar-title text-xl text-ink"><TopicName id={t.id} /></p>
-                <p className="num text-sm text-muted"><T ar={`${ws.length} كلمة`} en={`${ws.length} words`} /></p>
+                <p className="num text-sm text-muted"><T ar={`${arWords(ws.length)}`} en={`${ws.length} words`} /></p>
               </div>
             </Link>
           );

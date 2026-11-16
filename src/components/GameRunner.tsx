@@ -1,5 +1,6 @@
 'use client';
 import Speaker from './Speaker';
+import { arTries } from '@/lib/arcount';
 import { useMemo, useState } from 'react';
 import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
@@ -185,7 +186,7 @@ function Memory({ list, again }: { list: Word[]; again: () => void }) {
       setTimeout(() => { if (ok) setMatched((m) => [...m, a.id]); setOpen([]); }, ok ? 500 : 1100);
     }
   };
-  if (finished) return <Done title={t('كملت اللعبة', 'Game finished')} line={t(`${tries} محاولة · سكور ${score}`, `${tries} tries · score ${score}`)} xp={pairs.length * 10} again={again} />;
+  if (finished) return <Done title={t('كملت اللعبة', 'Game finished')} line={t(`${arTries(tries)} · سكور ${score}`, `${tries} tries · score ${score}`)} xp={pairs.length * 10} again={again} />;
   return (
     <div className="mx-auto max-w-2xl space-y-4">
       <p className="num text-center text-sm text-muted">{t('المحاولات', 'Tries')}: {tries}</p>
