@@ -87,8 +87,8 @@ export default function Progress() {
       </section>
 
       <section className="space-y-3">
-        <h2 className="ar-title text-2xl font-bold">{t('شهادات المستويات', 'Level certificates')}</h2>
-        <p className="text-muted">{t(`الشهادة بتتفتح لما تجاوب ${Math.round(PASS * 100)}% من تمارين قواعد المستوى صح.`, `A certificate unlocks when you answer ${Math.round(PASS * 100)}% of a level’s grammar practice correctly.`)}</p>
+        <h2 className="ar-title text-2xl font-bold">{t('سجلات تدريب القواعد', 'Grammar practice records')}</h2>
+        <p className="text-muted">{t(`السجل بيتفتح لما تجاوب صح مرة واحدة على الأقل على ${Math.round(PASS * 100)}% من أسئلة قواعد المجموعة. المحاولات المتكررة بتتحسب؛ ده مش إثبات مستوى لغة ولا شهادة معتمدة.`, `A personal record unlocks when at least ${Math.round(PASS * 100)}% of this group's distinct grammar questions have a correct answer at least once. Repeated attempts count; this is not proof of proficiency or an accredited certificate.`)}</p>
         <div className="grid gap-3 sm:grid-cols-2">
           {LEVELS.map((l) => {
             const p = levelProgress(s, l);
@@ -97,8 +97,8 @@ export default function Progress() {
                 <div className="flex items-center justify-between"><p className="num text-2xl font-bold">{l}</p><span dir="ltr" className="num text-sm text-muted">{p.got} / {p.total}</span></div>
                 <Bar v={p.got} max={p.total} />
                 {p.passed
-                  ? <Link href={`/certificate/${l}/`} className="inline-block rounded-full bg-accent px-5 py-2 font-bold text-accent-ink">{t('اعرض الشهادة', 'View certificate')}</Link>
-                  : <p className="text-sm text-muted">{t('لسه مقفولة', 'Locked')}</p>}
+                  ? <Link href={`/certificate/${l}/`} className="inline-block rounded-full bg-accent px-5 py-2 font-bold text-accent-ink">{t('اعرض سجل التدريب', 'View practice record')}</Link>
+                  : <div className="space-y-2"><p className="text-sm text-muted">{t(`فاضل ${Math.max(0, Math.ceil(p.total * PASS) - p.got)} سؤال مختلف بإجابة صح.`, `${Math.max(0, Math.ceil(p.total * PASS) - p.got)} more distinct questions need a correct answer.`)}</p><Link href={`/levels/${l}/`} className="inline-block rounded-full border border-line px-5 py-3 font-bold">{t('اتدرّب على القواعد', 'Practice grammar')}</Link></div>}
               </div>
             );
           })}
