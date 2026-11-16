@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-16 after the fifteenth content update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-16 after the sixteenth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -34,6 +34,11 @@ Do not mark a row complete until the German, meaning and question ambiguity have
 - [ ] `/reading/alltag-a2-bibliothek/`: check lost-bag sequence, Tuesday vs next-morning Wednesday, Stofftasche/Brotdose, the ten-minute closing window and all four evidence answers. Check Egyptian Arabic gender/pronoun consistency.
 - [ ] `/reading/alltag-b1-reparatur/`: check technical but non-instructional repair vocabulary, the volunteers' no-guarantee qualification, test-page inference and all four questions. The event is fictional, not a service promise or repair manual.
 - [ ] `/review/`, `/review/daily/`, `/review/words/`: review corrected feedback and local schedule copy. Noun prompts now use Arabic/English meanings instead of revealing the German lemma; check each meaning remains a fair cue. Synchronous answer locks do not establish learning quality.
+
+### Sixteenth update: additional pending targets
+
+- [ ] `/games/quiz/`, `/games/article/`, `/games/spelling/`: check learner-paced correction text. Spelling ignores case in grading but explains capitalized German nouns; umlauts and ß must still match. Check that translation cues do not create ambiguous photo-noun questions.
+- [ ] `/games/memory/`: check pair/try vocabulary and accessible card labels in both languages. This is still visual matching, not a nonvisual assessment. Invalid-topic guidance must not imply a completed round or awarded points.
 
 ### Present forms to sign off
 
