@@ -51,3 +51,37 @@ export function skills(s: State, l: Lvl) {
 }
 export function cardsKnown(s: State) { return Object.values(s.srs ?? {}).filter((c) => c.b >= 4).length; }
 export const challengeDays = (s: State) => Object.keys(s.challenge ?? {}).length;
+
+// Lernpfad: ordered A1 roadmap. Progress comes only from device data.
+export type Step = { id: string; href: string; ar: string; en: string; kind: 'count' | 'ratio' | 'manual'; goal?: number };
+export const PATH: Step[] = [
+  { id: 'pron', href: '/pronunciation/', ar: 'النطق والحروف', en: 'Pronunciation and letters', kind: 'manual' },
+  { id: 'learn', href: '/learn/', ar: 'الأساسيات', en: 'Basics', kind: 'manual' },
+  { id: 'vocab', href: '/lessons/', ar: 'كلمات الحياة اليومية (200 كلمة)', en: 'Everyday vocabulary (200 words)', kind: 'count', goal: 200 },
+  { id: 'zahlen', href: '/zahlen/', ar: 'الأرقام والساعة والتاريخ', en: 'Numbers, time, dates', kind: 'count', goal: 15 },
+  { id: 'praesens', href: '/praesens/', ar: 'تصريف الأفعال الأساسية', en: 'Core verbs (Präsens)', kind: 'count', goal: 10 },
+  { id: 'kasus', href: '/kasus/', ar: 'الحالات (Kasus)', en: 'Cases (Kasus)', kind: 'count', goal: 9 },
+  { id: 'neg', href: '/negation/', ar: 'النفي والأسئلة', en: 'Negation and questions', kind: 'count', goal: 15 },
+  { id: 'praep', href: '/praepositionen/', ar: 'حروف الجر', en: 'Prepositions', kind: 'count', goal: 12 },
+  { id: 'trenn', href: '/trennbare-verben/', ar: 'الأفعال المنفصلة', en: 'Separable verbs', kind: 'count', goal: 12 },
+  { id: 'grammar', href: '/levels/A1/', ar: 'قواعد A1 (80% من التمارين)', en: 'A1 grammar (80% of exercises)', kind: 'ratio' },
+  { id: 'dialog', href: '/dialogues/', ar: 'حوارات A1', en: 'A1 dialogues', kind: 'ratio' },
+  { id: 'read', href: '/reading/', ar: 'قراءة A1', en: 'A1 reading', kind: 'ratio' },
+  { id: 'write', href: '/writing/', ar: 'كتابة A1', en: 'A1 writing', kind: 'ratio' },
+  { id: 'exam', href: '/exam/', ar: 'امتحان A1 (80% أو أكتر)', en: 'A1 exam (80% or more)', kind: 'ratio' },
+];
+const PREFIX: Record<string, string[]> = { zahlen: ['z:', 't:', 'dt:'], praesens: ['pr:'], kasus: ['kas:'], neg: ['neg:', 'wf:'], praep: ['pp:', 'pw:', 'pk:'], trenn: ['sv:'] };
+export function stepState(s: State, st: Step): { got: number; total: number; done: boolean } {
+  if (st.kind === 'manual') { const d = !!s.pfad?.[st.id]; return { got: d ? 1 : 0, total: 1, done: d }; }
+  if (st.id === 'vocab') { const k = wordProgress(s).known; return { got: Math.min(k, st.goal!), total: st.goal!, done: k >= st.goal! }; }
+  if (st.kind === 'count') {
+    const pre = PREFIX[st.id] ?? [];
+    const n = Object.entries(s.seen).filter(([k, v]) => v.ok > 0 && pre.some((p) => k.startsWith(p))).length;
+    return { got: Math.min(n, st.goal!), total: st.goal!, done: n >= st.goal! };
+  }
+  const k = skills(s, 'A1');
+  if (st.id === 'exam') { const e = k.exam ?? 0; return { got: Math.min(e, 80), total: 80, done: e >= 80 }; }
+  const f = st.id === 'grammar' ? k.grammar : st.id === 'dialog' ? k.dialogue : st.id === 'read' ? k.reading : k.writing;
+  const need = Math.max(1, Math.ceil(f.total * PASS));
+  return { got: Math.min(f.got, need), total: need, done: f.total > 0 && f.got >= need };
+}
