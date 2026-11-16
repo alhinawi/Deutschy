@@ -629,5 +629,12 @@
  "segelflugzeug": "glider",
  "moped": "moped",
  "tandem": "tandem bicycle",
- "pferdewagen": "horse cart"
+ "pferdewagen": "horse cart",
+ "mutter": "mother",
+ "vater": "father",
+ "bruder": "brother",
+ "kind": "child",
+ "grossvater": "grandfather",
+ "baby": "baby",
+ "arzt": "doctor"
 }

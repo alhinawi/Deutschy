@@ -227,6 +227,96 @@
  ],
  "words": [
   {
+   "id": "mutter",
+   "topic": "family",
+   "art": "die",
+   "de": "Mutter",
+   "plural": "Mütter",
+   "ar": "أم",
+   "photo": {
+    "file": "Mother holding child in silhouette against sunset at a tranquil outdoor location.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mother_holding_child_in_silhouette_against_sunset_at_a_tranquil_outdoor_location.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Mother_holding_child_in_silhouette_against_sunset_at_a_tranquil_outdoor_location.jpg",
+    "license": "CC BY 2.0",
+    "author": "Shixart1985"
+   }
+  },
+  {
+   "id": "vater",
+   "topic": "family",
+   "art": "der",
+   "de": "Vater",
+   "plural": "Väter",
+   "ar": "أب",
+   "photo": {
+    "file": "Father And Son (68484147).jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Father_And_Son_(68484147).jpeg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Father_And_Son_(68484147).jpeg",
+    "license": "CC BY 3.0",
+    "author": "Dr Sanket Mehta"
+   }
+  },
+  {
+   "id": "bruder",
+   "topic": "family",
+   "art": "der",
+   "de": "Bruder",
+   "plural": "Brüder",
+   "ar": "أخ",
+   "photo": {
+    "file": "Brothers Playing.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Brothers_Playing.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Brothers_Playing.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Itzi-itzi"
+   }
+  },
+  {
+   "id": "kind",
+   "topic": "family",
+   "art": "das",
+   "de": "Kind",
+   "plural": "Kinder",
+   "ar": "طفل",
+   "photo": {
+    "file": "Child at sunset - Maldives.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Child_at_sunset_-_Maldives.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Child_at_sunset_-_Maldives.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "Simone Lovati"
+   }
+  },
+  {
+   "id": "grossvater",
+   "topic": "family",
+   "art": "der",
+   "de": "Großvater",
+   "plural": "Großväter",
+   "ar": "جد (جدو)",
+   "photo": {
+    "file": "LauderdaleGrandfatherGrandson1967.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:LauderdaleGrandfatherGrandson1967.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:LauderdaleGrandfatherGrandson1967.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Family of Infrogmation of New Orleans"
+   }
+  },
+  {
+   "id": "baby",
+   "topic": "family",
+   "art": "das",
+   "de": "Baby",
+   "plural": "Babys",
+   "ar": "بيبي / رضيع",
+   "photo": {
+    "file": "Baby-baby-feet-bed-325690.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Baby-baby-feet-bed-325690.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Baby-baby-feet-bed-325690.jpg",
+    "license": "CC0",
+    "author": "Rene Asmussen"
+   }
+  },
+  {
    "id": "familie",
    "topic": "family",
    "art": "die",
@@ -1934,6 +2024,21 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Havelock_Island,_Mangrove_tree_on_the_beach,_Andaman_Islands.jpg",
     "license": "CC BY 4.0",
     "author": "Vyacheslav Argenberg"
+   }
+  },
+  {
+   "id": "arzt",
+   "topic": "jobs",
+   "art": "der",
+   "de": "Arzt",
+   "plural": "Ärzte",
+   "ar": "دكتور",
+   "photo": {
+    "file": "Young female doctor showing stethoscope closeup.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Young_female_doctor_showing_stethoscope_closeup.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Young_female_doctor_showing_stethoscope_closeup.jpg",
+    "license": "CC BY 2.0",
+    "author": "Shixart1985"
    }
   },
   {
