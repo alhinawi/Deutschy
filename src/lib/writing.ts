@@ -44,3 +44,7 @@ writingTasks.push(...a2Writing);
 for (const task of writingTasks.filter((t) => t.level === 'A2' && !t.tips)) {
   task.tips = ['راجع إنك جاوبت على كل نقطة. خليك واضح في السبب والميعاد، واختار تحية وخاتمة مناسبين للشخص اللي بتكتب له. العبارات دي مجرد مساعدة للمراجعة، مش تقييم كامل للغتك.', 'Cover every requested point. Make the reason and time clear, and choose a greeting and closing suitable for your reader. The phrase checklist supports review; it is not a full language assessment.'];
 }
+
+import { b1Writing } from './writing-b1';
+writingTasks.push(...b1Writing);
+for (const task of writingTasks.filter((t) => t.level === 'B1' && !t.tips)) { task.tips = ['جاوب على كل نقطة وادّي مثال واضح. استخدم روابط زي weil و obwohl و deshalb، وراجع مكان الفعل. قارن بالنموذج بعد ما تحاول بنفسك.', 'Cover every point and give a clear example. Link ideas with weil, obwohl and deshalb, checking verb position. Compare with the model after writing your own attempt.']; }
