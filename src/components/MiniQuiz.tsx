@@ -28,6 +28,7 @@ function Quiz({ make, game, size = 10 }: Props) {
   const [pick, setPick] = useState<string | null>(null);
   const [score, setScore] = useState(0);
   const saved=useRef(false);
+  const locked=useRef(false);
   const [audioError,setAudioError]=useState(false);
   useEffect(()=>()=>stopSpeaking(),[]);
   useEffect(()=>{if(items.length&&i>=items.length&&!saved.current){saved.current=true;addScore(game,score)}},[i,items.length,game,score,addScore]);
@@ -37,11 +38,11 @@ function Quiz({ make, game, size = 10 }: Props) {
     return (
       <div className="space-y-3 rounded-2xl border border-line bg-card p-5">
         <p className="ar-title text-2xl">{t(`نتيجتك ${score} من ${items.length}`, `Your score: ${score} of ${items.length}`)}</p>
-        <button onClick={() => { saved.current=false; setAudioError(false); setRun(run + 1); setI(0); setScore(0); setPick(null); }} className="rounded-full bg-accent px-5 py-2 font-bold text-accent-ink">{t('جولة جديدة', 'New round')}</button>
+        <button onClick={() => { saved.current=false;locked.current=false; setAudioError(false); setRun(run + 1); setI(0); setScore(0); setPick(null); }} className="rounded-full bg-accent px-5 py-2 font-bold text-accent-ink">{t('جولة جديدة', 'New round')}</button>
       </div>
     );
   }
-  const answer = (o: string) => { if (pick !== null) return; setPick(o); const ok = o === q.options[0]; if (ok) setScore((s) => s + 1); award(ok ? 5 : 0, q.key, ok); };
+  const answer = (o: string) => { if (pick !== null || locked.current) return;locked.current=true; setPick(o); const ok = o === q.options[0]; if (ok) setScore((s) => s + 1); award(ok ? 5 : 0, q.key, ok); };
   return (
     <div className="space-y-3 rounded-2xl border border-line bg-card p-5">
       <div className="flex items-center justify-between"><span dir="ltr" className="num text-sm font-bold text-muted">{i + 1} / {items.length}</span>
@@ -57,7 +58,7 @@ function Quiz({ make, game, size = 10 }: Props) {
       {audioError&&<p role="status">{t("مفيش صوت ألماني متاح. كمل قراءة لو النص ظاهر.","No German voice is available. Continue reading if text is shown.")}</p>}
       {pick!==null&&<p role="status" dir="auto">{pick===q.options[0]?t("صح.","Correct."):t("راجع الإجابة الصحيحة: ","Correct answer: ")+q.options[0]}</p>}
       {pick !== null && q.note && <p className="ar-title text-sm text-muted">{lang === 'ar' ? <Mixed text={q.note[0]} /> : q.note[1]}</p>}
-      {pick !== null && <button onClick={() => { stopSpeaking(); setAudioError(false); setI(i + 1); setPick(null); }} className="w-full rounded-full bg-accent py-2 font-bold text-accent-ink">{i + 1 >= items.length ? t('النتيجة', 'Result') : t('التالي', 'Next')}</button>}
+      {pick !== null && <button onClick={() => { stopSpeaking(); setAudioError(false); setI(i + 1); setPick(null);locked.current=false; }} className="w-full rounded-full bg-accent py-2 font-bold text-accent-ink">{i + 1 >= items.length ? t('النتيجة', 'Result') : t('التالي', 'Next')}</button>}
     </div>
   );
 }

@@ -41,3 +41,31 @@ export const b1Grammar: Drill[] = [
  ['Ich schreibe es auf, damit ich es nicht ___.', 'vergesse', 'vergessen', 'vergisst'],
  ] },
 ];
+
+// Original drills, source-checked word-order rules, 2026-11-16.
+export const b1GrammarSources:Record<string,string>={
+ 'indirekte-fragen':'https://deutsch.lingolia.com/en/grammar/sentence-structure/dependent-clauses/indirect-questions',
+ 'konnektoren':'https://deutsch.lingolia.com/en/grammar/sentence-structure/dependent-clauses/conjunctions',
+};
+b1Grammar.push(
+ {id:'indirekte-fragen',name:'Indirekte Fragen',ar:'السؤال غير المباشر جوه جملة: كلمة السؤال بتفضل، ولو السؤال إجابته أيوه أو لأ بنستخدم ob. الفعل المتصرف في آخر الجملة التابعة. علامة الاستفهام حسب الجملة كلها، مش وجود كلمة سؤال لوحده.',en:'An embedded question keeps its question word; a yes/no question uses ob. The finite verb goes last in the dependent clause. Punctuation follows the whole sentence, not merely the presence of a question word.',rows:[
+ ['Ich weiß nicht, wann der Kurs ___.','beginnt','beginnen','beginnen wird ist'],
+ ['Direkt: Kommt der Bus? Ich frage, ___ der Bus kommt.','ob','wo','wer'],
+ ['Können Sie mir sagen, wo ___?','der Bahnhof ist','ist der Bahnhof','der Bahnhof sein'],
+ ['Weißt du, wie viel die Karte ___?','kostet','kosten','koste haben'],
+ ['Sie möchte wissen, warum er so früh ___.','geht','gehen','gegangen'],
+ ['Direkt: Hast du Zeit? Er fragt, ___ ich Zeit habe.','ob','was','wann ist'],
+ ['Ich weiß nicht, was sie gestern ___.','gesagt hat','hat gesagt','sagen hat'],
+ ['Kannst du mir sagen, wann du ___?','ankommst','kommst an','ankommen'],
+ ]},
+ {id:'konnektoren',name:'weil / denn / deshalb',ar:'المعنى لوحده مش كفاية: weil بتبدأ جملة تابعة فعلها في الآخر. denn بتربط جملتين رئيسيتين من غير قلب ترتيبهم. deshalb و trotzdem ممكن يحتلوا المكان الأول، وبعدهم الفعل المتصرف. obwohl جملة تابعة، لكن trotzdem مش نفس التركيب.',en:'Meaning is not enough: weil introduces a verb-final dependent clause. Denn links main clauses without changing their internal order. Deshalb and trotzdem can occupy first position, followed by the finite verb. Obwohl introduces a dependent clause; trotzdem uses a different structure.',rows:[
+ ['Ich bleibe zu Hause, weil ich krank ___.','bin','sein','bin ich'],
+ ['Ich bleibe zu Hause, denn ___.','ich bin krank','ich krank bin','bin ich krank'],
+ ['Ich bin krank. Deshalb ___ zu Hause.','bleibe ich','ich bleibe','bleiben ich'],
+ ['Es regnet. Trotzdem ___ spazieren.','gehen wir','wir gehen','geht wir'],
+ ['Obwohl es regnet, ___ spazieren.','gehen wir','wir gehen','gehen'],
+ ['Er kommt später, weil sein Bus Verspätung ___.','hat','haben','hat er'],
+ ['Der Bus hat Verspätung. Deshalb ___ später.','kommt er','er kommt','kommen er'],
+ ['Sie lernt weiter, denn ___.','sie hat morgen eine Prüfung','sie morgen eine Prüfung hat','hat sie morgen eine Prüfung'],
+ ]},
+);

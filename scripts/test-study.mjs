@@ -266,3 +266,6 @@ const {localActivity}=lib('local-activity');const clock=new Date(2026,0,2,12);co
 console.log('PASS: display-only local streak expiry, yesterday grace, future/empty dates, year boundary and seven exact daily XP values');
 const gameLayoutSource=readFileSync('src/components/GameRunner.tsx','utf8');assert(gameLayoutSource.includes('min-w-0 [overflow-wrap:anywhere]'));assert(gameLayoutSource.includes('grid-cols-1 gap-3 min-[480px]:grid-cols-2'));
 console.log('PASS: long photo-quiz choices wrap and mobile choices use a readable single column');
+
+assert.equal(b1Grammar.length,6);assert.equal(b1Grammar.reduce((n,d)=>n+d.rows.length,0),48);for(const id of ['indirekte-fragen','konnektoren']){assert(lib('b1-grammar').b1GrammarSources[id]);assert.equal(checkBank('B1').filter(q=>q.key.startsWith(`b1:${id}:`)).length,8);}
+console.log('PASS: 16 source-linked B1 embedded-question and connector contrasts integrate into the existing bank');
