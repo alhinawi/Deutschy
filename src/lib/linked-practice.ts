@@ -24,4 +24,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-kleiner-tisch',dialogue:'vier-plaetze-decken'},
  {reading:'alltag-a2-flaschenregal',dialogue:'oeffner-fester-platz'},
  {reading:'alltag-b1-tischaufteilung',dialogue:'getraenke-andere-wand'},
+ {reading:'alltag-a1-lesezeichen',dialogue:'buch-morgen-abend'},
+ {reading:'alltag-a2-buchstuetzen',dialogue:'lupe-schublade'},
+ {reading:'alltag-b1-leseecke',dialogue:'leseecke-pausenzettel'},
 ];

@@ -1708,3 +1708,218 @@ Object.assign(dialogueEvidence,{
     "Dann testen wir den Weg noch einmal, während jemand am Regal steht."
   ]
 });
+
+everydayDialogues.push(...([
+  {
+    "id": "buch-morgen-abend",
+    "level": "A1",
+    "title": [
+      "Du bekommst es morgen Abend",
+      "هتاخده بكرة بالليل"
+    ],
+    "lines": [
+      [
+        "Nora",
+        "Ich lege das rote Lesezeichen ins Buch.",
+        "بحط علامة الكتاب الحمرا جوه الكتاب."
+      ],
+      [
+        "Sami",
+        "Kann ich das Buch morgen lesen?",
+        "ممكن أقرا الكتاب بكرة؟"
+      ],
+      [
+        "Nora",
+        "Ja, aber erst am Abend. Am Nachmittag brauche ich es noch.",
+        "آه، بس بالليل. بعد الضهر لسه محتاجاه."
+      ],
+      [
+        "Sami",
+        "Dann nehme ich heute ein anderes Buch.",
+        "يبقى آخد النهارده كتاب تاني."
+      ],
+      [
+        "Nora",
+        "Im Regal steht ein Buch über Züge.",
+        "في الرف كتاب عن القطارات."
+      ],
+      [
+        "Sami",
+        "Das nehme ich. Wo ist deine Brille?",
+        "هاخد ده. نضارتك فين؟"
+      ],
+      [
+        "Nora",
+        "Im Etui auf dem Tisch.",
+        "في الجراب على الترابيزة."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Farbe hat das Lesezeichen?",
+        "Rot.",
+        "Weiß.",
+        "Grün."
+      ],
+      [
+        "Wann kann Sami Noras Buch bekommen?",
+        "Morgen am Abend.",
+        "Heute sofort.",
+        "Morgen am Nachmittag."
+      ],
+      [
+        "Welches Buch nimmt Sami heute?",
+        "Ein Buch über Züge.",
+        "Ein Buch über Pflanzen.",
+        "Noras angefangenes Buch."
+      ]
+    ]
+  },
+  {
+    "id": "lupe-schublade",
+    "level": "A2",
+    "title": [
+      "Erst fragen, dann umräumen",
+      "نسأل الأول وبعدين ننقل"
+    ],
+    "lines": [
+      [
+        "Yusuf",
+        "Ich habe die großen Bücher auf das untere Regalbrett gestellt.",
+        "حطيت الكتب الكبيرة على الرف السفلي."
+      ],
+      [
+        "Mutter",
+        "Und wo sind die kleinen Hefte?",
+        "والكراسات الصغيرة فين؟"
+      ],
+      [
+        "Yusuf",
+        "In der offenen Schachtel. Für die anderen Bücher nehme ich zwei Buchstützen.",
+        "في العلبة المفتوحة. هستخدم سنادتين لباقي الكتب."
+      ],
+      [
+        "Mutter",
+        "Gut. Hast du auch meine Lupe gefunden?",
+        "تمام. لقيت كمان العدسة المكبرة بتاعتي؟"
+      ],
+      [
+        "Yusuf",
+        "Ja. Kann ich sie in deine Schreibtischschublade legen?",
+        "آه. ممكن أحطها في درج مكتبك؟"
+      ],
+      [
+        "Mutter",
+        "Ja, das passt. Lass die losen Blätter bitte liegen; daran arbeite ich noch.",
+        "آه مناسب. سيب الورق السايب مكانه لو سمحت؛ لسه بشتغل عليه."
+      ],
+      [
+        "Yusuf",
+        "Dann bleibt auch der Briefbeschwerer darauf.",
+        "يبقى ثقالة الورق كمان تفضل فوقه."
+      ]
+    ],
+    "q": [
+      [
+        "Wo stehen die großen Bücher jetzt?",
+        "Auf dem unteren Regalbrett.",
+        "In der Schreibtischschublade.",
+        "Unter dem Sofa."
+      ],
+      [
+        "Was fragt Yusuf über die Lupe?",
+        "Ob er sie in die Schreibtischschublade legen kann.",
+        "Ob er sie verschenken darf.",
+        "Ob sie im Bus liegt."
+      ],
+      [
+        "Warum sollen die losen Blätter liegen bleiben?",
+        "Die Mutter arbeitet noch daran.",
+        "Yusuf hat sie schon entsorgt.",
+        "Sie sind festgeklebt."
+      ]
+    ]
+  },
+  {
+    "id": "leseecke-pausenzettel",
+    "level": "B1",
+    "title": [
+      "Was bedeutet gleich zurück?",
+      "راجع حالاً يعني إمتى؟"
+    ],
+    "lines": [
+      [
+        "Hana",
+        "Die Lampe steht gut, aber dieser Pausenzettel hilft mir nicht.",
+        "مكان اللمبة كويس، بس ورقة البريك دي مش بتساعدني."
+      ],
+      [
+        "Karim",
+        "Darauf steht gleich zurück. Fehlt dir eine ungefähre Zeit?",
+        "مكتوب عليها راجع حالاً. ناقصك وقت تقريبي؟"
+      ],
+      [
+        "Hana",
+        "Ja. Ein Lesezeichen soll den Platz nicht den ganzen Tag reservieren.",
+        "آه. علامة كتاب مش المفروض تحجز المكان طول اليوم."
+      ],
+      [
+        "Karim",
+        "Dann schreiben wir künftig eine ungefähre Rückkehrzeit dazu.",
+        "يبقى نكتب بعد كده وقت رجوع تقريبي معاها."
+      ],
+      [
+        "Hana",
+        "Und Gespräche über Entwürfe kündigen wir weiter vorher an.",
+        "ونفضل نبلغ قبل مناقشات المسودات."
+      ],
+      [
+        "Karim",
+        "Wenn möglich, setzen wir uns dafür an den großen Tisch.",
+        "لو أمكن، نقعد عشانها على الترابيزة الكبيرة."
+      ],
+      [
+        "Hana",
+        "Am Ende der zwei Wochen prüfen wir, ob das für uns funktioniert.",
+        "في آخر الأسبوعين نشوف إذا كان ده مناسب لينا."
+      ]
+    ],
+    "q": [
+      [
+        "Was fehlt Hana auf dem Zettel?",
+        "Eine ungefähre Rückkehrzeit.",
+        "Der Preis der Lampe.",
+        "Eine Liste aller Entwürfe."
+      ],
+      [
+        "Wohin sollen Gespräche möglichst verlegt werden?",
+        "An den großen Tisch.",
+        "In den Hausflur ohne Ankündigung.",
+        "Direkt neben jede lesende Person."
+      ],
+      [
+        "Wann wollen sie ihre Abmachung erneut prüfen?",
+        "Am Ende der zwei Wochen.",
+        "Erst nach einem Jahr.",
+        "Gar nicht mehr."
+      ]
+    ]
+  }
+] satisfies Dialogue[]));
+Object.assign(dialogueEvidence,{
+  "buch-morgen-abend": [
+    "Ich lege das rote Lesezeichen ins Buch.",
+    "Ja, aber erst am Abend. Am Nachmittag brauche ich es noch.",
+    "Im Regal steht ein Buch über Züge."
+  ],
+  "lupe-schublade": [
+    "Ich habe die großen Bücher auf das untere Regalbrett gestellt.",
+    "Ja. Kann ich sie in deine Schreibtischschublade legen?",
+    "Ja, das passt. Lass die losen Blätter bitte liegen; daran arbeite ich noch."
+  ],
+  "leseecke-pausenzettel": [
+    "Darauf steht gleich zurück. Fehlt dir eine ungefähre Zeit?",
+    "Wenn möglich, setzen wir uns dafür an den großen Tisch.",
+    "Am Ende der zwei Wochen prüfen wir, ob das für uns funktioniert."
+  ]
+});

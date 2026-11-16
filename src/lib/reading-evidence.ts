@@ -179,3 +179,24 @@ Object.assign(readingEvidence,{
     "Nach dem Abend wollen sie notieren, ob etwas gefehlt hat, statt schon vorher zu behaupten, die Aufteilung sei für jede Situation ideal."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-lesezeichen": [
+    "Neben ihr liegt ein rotes Lesezeichen.",
+    "Ihre Brille legt sie in das Etui.",
+    "Nora gibt es ihm aber erst am Abend.",
+    "Ihr Bruder nimmt deshalb heute ein anderes Buch aus dem Regal."
+  ],
+  "alltag-a2-buchstuetzen": [
+    "Wenn er einen großen Band herausnahm, kippten die Hefte oft zur Seite.",
+    "Die kleinen Hefte kommen in eine offene Schachtel.",
+    "Vorher fragt er sie, ob dieser Platz passt.",
+    "Diese Blätter lässt Yusuf liegen, weil seine Mutter noch daran arbeitet."
+  ],
+  "alltag-b1-leseecke": [
+    "Beide merken, dass ein gemütlicher Sessel allein die unterschiedlichen Wünsche nicht löst.",
+    "Ein einzelnes Lesezeichen soll aber keinen Platz für den ganzen Tag reservieren.",
+    "Auf manchen Zetteln steht nur gleich zurück, ohne eine ungefähre Zeit.",
+    "Am Ende der Probephase möchten sie erneut besprechen, ob die Abmachung für sie funktioniert."
+  ]
+});
