@@ -48,3 +48,7 @@ for (const task of writingTasks.filter((t) => t.level === 'A2' && !t.tips)) {
 import { b1Writing } from './writing-b1';
 writingTasks.push(...b1Writing);
 for (const task of writingTasks.filter((t) => t.level === 'B1' && !t.tips)) { task.tips = ['جاوب على كل نقطة وادّي مثال واضح. استخدم روابط زي weil و obwohl و deshalb، وراجع مكان الفعل. قارن بالنموذج بعد ما تحاول بنفسك.', 'Cover every point and give a clear example. Link ideas with weil, obwohl and deshalb, checking verb position. Compare with the model after writing your own attempt.']; }
+
+import { b2Writing } from './writing-b2';
+writingTasks.push(...b2Writing);
+for (const task of writingTasks.filter((t) => t.level === 'B2' && !t.tips)) { task.tips = ['حدد موقفك وادعمه بأسباب ومثال، واعرض اعتراض معقول ورد عليه. في الرسالة الرسمية خليك محدد في طلبك. النموذج للمقارنة مش للحفظ، والفحص مش تقييم كامل للغة.', 'State a position, support it with reasons and an example, and address a reasonable counterargument. In formal messages, make your request specific. Compare with the model rather than memorizing it; checks are not full language grading.']; }
