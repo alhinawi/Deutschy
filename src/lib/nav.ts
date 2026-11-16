@@ -39,6 +39,7 @@ export const sidebar: NavGroup[] = [
     { href: '/zahlen/', ar: 'الأرقام والساعة والتاريخ', en: 'Numbers, time, dates' },
     { href: '/adjektivendungen/', ar: 'نهايات الصفات', en: 'Adjective endings' },
     { href: '/kasus/', ar: 'الحالات (Kasus)', en: 'Cases (Kasus)' },
+    { href: '/case-lab/', ar: 'معمل الحالات والأفعال', en: 'Case and verb contrasts' },
     { href: '/praepositionen/', ar: 'حروف الجر', en: 'Prepositions' },
     { href: '/negation/', ar: 'النفي والأسئلة', en: 'Negation and questions' },
     { href: '/verbs/quiz/', ar: 'اختبار الأفعال', en: 'Verb quiz' },
