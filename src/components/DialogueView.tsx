@@ -1,7 +1,7 @@
 'use client';
 import Link from 'next/link';
 import GermanVoice from './GermanVoice';
-import { useState } from 'react';
+import { useState,useRef } from 'react';
 import { dialogues, type Dialogue } from '@/lib/dialogues';
 import { useStore } from '@/lib/store';
 import { useLang, useT } from '@/lib/i18n';
@@ -9,8 +9,8 @@ import { speak } from '@/lib/speak';
 import Speaker from './Speaker';
 import Mixed from './Mixed';
 import RolePractice from './RolePractice';
-
-const order = (n: number, seed: number) => [[0, 1, 2], [1, 2, 0], [2, 0, 1], [0, 2, 1], [1, 0, 2], [2, 1, 0]][(seed * 5 + n * 3) % 6];
+import {practiceOptionOrder} from '@/lib/practice-options';
+import {dialogueEvidence} from '@/lib/dialogues-everyday';
 
 export default function DialogueView({ conversation = false }: { conversation?: boolean } = {}) {
   const t = useT();
@@ -30,7 +30,7 @@ export default function DialogueView({ conversation = false }: { conversation?: 
         {dialogues.filter((d) => (!conversation || ['A1', 'A2'].includes(d.level)) && (lv === 'all' || d.level === lv)).map((d) => (
           <li key={d.id}><button onClick={() => setOpen(d)} className="w-full rounded-2xl border border-line bg-card p-4 text-start hover:border-accent">
             <span className="num text-xs font-bold text-accent">{d.level}</span>
-            <span className="de block text-xl font-semibold">{d.title[0]}</span>
+            <span dir="ltr" lang="de" className="de block text-xl font-semibold">{d.title[0]}</span>
             <span className="ar-title block text-muted">{lang === 'ar' ? d.title[1] : `${d.lines.length} lines`}</span>
           </button></li>
         ))}
@@ -47,8 +47,10 @@ function One({ d, back }: { d: Dialogue; back: () => void }) {
   const [i, setI] = useState(0);
   const [pick, setPick] = useState<number | null>(null);
   const [score, setScore] = useState(0);
+  const [round,setRound]=useState(0);
+  const locked=useRef(false);
   const q = d.q[i];
-  const answer = (k: number) => { if (pick !== null) return; setPick(k); if (k === 0) setScore((s) => s + 1); award(k === 0 ? 8 : 0, `d:${d.id}:${i}`, k === 0); };
+  const answer = (k: number) => { if (pick !== null || locked.current) return;locked.current=true; setPick(k); if (k === 0) setScore((s) => s + 1); award(k === 0 ? 8 : 0, `d:${d.id}:${i}`, k === 0); };
   const speakers = [...new Set(d.lines.map((l) => l[0]))];
   return (
     <div className="mx-auto max-w-2xl space-y-5">
@@ -68,7 +70,7 @@ function One({ d, back }: { d: Dialogue; back: () => void }) {
               <p dir="ltr" className="num text-xs font-bold text-accent">{who}</p>
               <div className="flex items-start gap-2">
                 <p dir="ltr" lang="de" className="de text-lg">{de}</p>
-                <button onClick={() => speak(de)} aria-label="Speak" className="shrink-0 rounded-full border border-line px-2 py-0.5"><Speaker /></button>
+                <button onClick={() => speak(de)} aria-label={t('اسمع الجملة','Hear the sentence')} className="min-h-11 min-w-11 shrink-0 rounded-full border border-line p-2"><Speaker /></button>
               </div>
               {tr && <p className="ar-title mt-1 text-sm text-muted">{lang === 'ar' ? <Mixed text={ar} /> : ''}</p>}
             </div>
@@ -83,18 +85,20 @@ function One({ d, back }: { d: Dialogue; back: () => void }) {
         {i >= d.q.length ? (
           <div className="space-y-3">
             <p className="ar-title text-2xl">{t(`نتيجتك ${score} من ${d.q.length}`, `Your score: ${score} of ${d.q.length}`)}</p>
-            <button onClick={() => { setI(0); setPick(null); setScore(0); }} className="rounded-full bg-accent px-5 py-2 font-bold text-accent-ink">{t('أعد المحاولة', 'Try again')}</button>
+            <button onClick={() => { setI(0); setPick(null); setScore(0);setRound(r=>r+1);locked.current=false; }} className="rounded-full bg-accent px-5 py-2 font-bold text-accent-ink">{t('أعد المحاولة', 'Try again')}</button>
           </div>
         ) : (
           <>
             <p dir="ltr" lang="de" className="de text-xl font-semibold">{q[0]}</p>
             <div className="grid gap-2">
-              {order(i, d.id.length).map((k) => {
+              {practiceOptionOrder(`${d.id}:${i}:${q[0]}`,String(round)).map((k) => {
                 const st = pick === null ? '' : k === 0 ? 'border-good border-2 bg-good/10' : pick === k ? 'border-bad bg-bad/10' : 'opacity-60';
-                return <button dir="ltr" key={k} lang="de" onClick={() => answer(k)} className={`de rounded-xl border border-line bg-paper px-3 py-2.5 text-start text-lg ${st}`}>{q[1 + k]}</button>;
+                return <button dir="ltr" key={k} disabled={pick!==null} lang="de" onClick={() => answer(k)} className={`de rounded-xl border border-line bg-paper px-3 py-2.5 text-start text-lg ${st}`}>{q[1 + k]}</button>;
               })}
             </div>
-            {pick !== null && <button onClick={() => { setI(i + 1); setPick(null); }} className="w-full rounded-full bg-accent py-2 font-bold text-accent-ink">{i + 1 >= d.q.length ? t('النتيجة', 'Result') : t('التالي', 'Next')}</button>}
+            {pick!==null&&<p role="status">{pick===0?t('صح.','Correct.'):t('راجع الإجابة الصح.','Check the correct answer.')}</p>}
+            {pick!==null&&dialogueEvidence[d.id]?.[i]&&<aside className="space-y-2 rounded-xl border border-line p-4"><h3>{t('الدليل من الحوار','Evidence from the dialogue')}</h3><blockquote dir="ltr" lang="de" className="de text-lg">{dialogueEvidence[d.id][i]}</blockquote></aside>}
+            {pick !== null && <button onClick={() => { setI(i + 1); setPick(null);locked.current=false; }} className="w-full rounded-full bg-accent py-2 font-bold text-accent-ink">{i + 1 >= d.q.length ? t('النتيجة', 'Result') : t('التالي', 'Next')}</button>}
           </>
         )}
       </section>

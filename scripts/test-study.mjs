@@ -269,3 +269,6 @@ console.log('PASS: long photo-quiz choices wrap and mobile choices use a readabl
 
 assert.equal(b1Grammar.length,6);assert.equal(b1Grammar.reduce((n,d)=>n+d.rows.length,0),48);for(const id of ['indirekte-fragen','konnektoren']){assert(lib('b1-grammar').b1GrammarSources[id]);assert.equal(checkBank('B1').filter(q=>q.key.startsWith(`b1:${id}:`)).length,8);}
 console.log('PASS: 16 source-linked B1 embedded-question and connector contrasts integrate into the existing bank');
+
+const {everydayDialogues,dialogueEvidence}=lib('dialogues-everyday');assert.equal(everydayDialogues.length,2);for(const d of everydayDialogues){assert.equal(d.q.length,3);assert(d.lines.length>=7);assert(lib('dialogues').dialogues.some(x=>x.id===d.id));assert.equal(dialogueEvidence[d.id].length,3);for(const q of d.q)assert.equal(new Set(q.slice(1)).size,3);for(const quote of dialogueEvidence[d.id])assert(d.lines.some(l=>l[1].includes(quote)));}
+console.log('PASS: two appended original A2/B1 dialogues, six distinct answers and exact line evidence');

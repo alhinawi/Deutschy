@@ -88,3 +88,6 @@ export const dialogues: Dialogue[] = [
     ['Kundin', 'Vielen Dank für die schnelle Hilfe.', 'شكراً على المساعدة السريعة.'],
   ], q: [['Wann hat die Kundin den Mixer gekauft?', 'Vor zwei Wochen.', 'Gestern.', 'Vor zwei Jahren.'], ['Was ist das Problem?', 'Er wird heiß und macht komische Geräusche.', 'Er ist zu laut verpackt.', 'Er ist zu groß.'], ['Was bekommt die Kundin?', 'Ein neues Gerät.', 'Einen Gutschein.', 'Nichts.']] },
 ];
+
+import {everydayDialogues} from './dialogues-everyday';
+dialogues.push(...everydayDialogues);
