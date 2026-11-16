@@ -8577,9 +8577,9 @@
   {
    "id": "laufschuhe",
    "topic": "sport2",
-   "art": "die",
-   "de": "Laufschuhe",
-   "plural": "-",
+   "art": "der",
+   "de": "Laufschuh",
+   "plural": "Laufschuhe",
    "ar": "حذاء جري",
    "photo": {
     "file": "Running shoes.jpg",
