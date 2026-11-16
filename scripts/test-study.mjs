@@ -254,10 +254,10 @@ assert.equal(permutations.size,6);assert.equal(positions.size,3);
 assert.equal(lib('exercises').exercises.satzbau[2][0],'___ du heute?');
 console.log('PASS: quiz options use all six stable permutations, cover all correct positions and retain the repaired yes/no prompt');
 
-const {everydayTexts}=lib('reading-everyday');assert.equal(everydayTexts.length,2);
+const {everydayTexts}=lib('reading-everyday');assert.equal(everydayTexts.length,4);
 for(const r of everydayTexts){assert(['A2','B1'].includes(r.level));assert(r.de.join(' ').split(/\s+/).length>=100);assert.equal(r.de.length,r.ar.length);assert.equal(r.q.length,4);assert.equal(readingEvidence[r.id].length,4);for(const q of r.q)assert.equal(new Set(q.slice(1)).size,3);assert(lib('reading').readings.some(t=>t.id===r.id));}
 const readerSource=readFileSync('src/components/ReadingView.tsx','utf8');assert(readerSource.includes('locked.current=true'));assert(readerSource.includes('practiceOptionOrder'));assert(readerSource.includes('disabled={pick!==null}'));
-console.log('PASS: two extended A2/B1 fictional everyday texts, eight evidence-backed questions, reading input lock and six-way ordering');
+console.log('PASS: four extended A2/B1 fictional everyday texts, sixteen evidence-backed questions, reading input lock and six-way ordering');
 
 for(const [inf,forms] of Object.entries({nehmen:['nehme','nimmst','nimmt','nehmen','nehmt','nehmen'],geben:['gebe','gibst','gibt','geben','gebt','geben'],fahren:['fahre','fährst','fährt','fahren','fahrt','fahren'],arbeiten:['arbeite','arbeitest','arbeitet','arbeiten','arbeitet','arbeiten'],wissen:['weiß','weißt','weiß','wissen','wisst','wissen'],sehen:['sehe','siehst','sieht','sehen','seht','sehen']})){assert.equal(JSON.stringify(presentFocus.find(v=>v.inf===inf).forms),JSON.stringify(forms));assert(lib('present-focus').presentNotes[inf]);}
 console.log('PASS: 36 additional checked present forms with singular/plural contrast notes');

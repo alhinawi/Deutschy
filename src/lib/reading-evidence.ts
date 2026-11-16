@@ -9,3 +9,7 @@ export const readingEvidence:Record<string,string[]>={
 'micro-b1-aufgabe':['Dabei wurden einige Absätze doppelt geschrieben.','Sara schlug vor, die Aufgaben aufzuteilen und am Ende gemeinsam zu prüfen.','Das Team merkte, dass eine kurze Absprache Zeit sparen kann.'],
 'micro-b1-feedback':['Sie sagte nicht einfach, dass der Text schlecht sei, sondern markierte eine unklare Frage.','Omar erklärte, was er wissen wollte, und formulierte den Satz neu.','Für Omar war die konkrete Rückmeldung hilfreicher als ein allgemeines Urteil.'],
 };
+Object.assign(readingEvidence,{
+'alltag-a2-bibliothek':['Erst an der Haustür merkt sie, dass ihre Stofftasche fehlt.','In der Tasche sind ein Heft und eine leere Brotdose, aber kein Geld und keine Schlüssel.','Mina möchte sofort zurückfahren, aber die Bibliothek schließt in zehn Minuten.','Ein Mitarbeiter findet die Tasche unter dem Tisch am Fenster.'],
+'alltag-b1-reparatur':['Zuerst denkt er daran, sofort ein neues Gerät zu kaufen.','Eine erfolgreiche Reparatur können sie nicht versprechen.','Sie entdecken ein kleines Stück Papier, das den Einzug blockiert.','Deshalb druckt er zuerst eine Testseite und danach den ganzen Bericht.']
+});

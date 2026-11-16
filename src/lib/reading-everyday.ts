@@ -26,3 +26,31 @@ export const everydayTexts:ReadingText[]=[
   ['Was prüft Samir vor seiner Bestätigung?','Ob er die Schule rechtzeitig erreichen kann.','Ob das Café am Freitag geschlossen ist.','Ob Lea die ganze Woche frei hat.']
  ]}
 ];
+
+// Appended to preserve all existing reading and comprehension identities.
+everydayTexts.push(
+ {id:'alltag-a2-bibliothek',level:'A2',title:['Eine Tasche in der Bibliothek','شنطة في المكتبة'],de:[
+  'Mina lernt am Dienstag in der Bibliothek für einen Deutschtest. Sie sitzt an einem Tisch neben dem Fenster. Um 16 Uhr fährt sie mit dem Bus nach Hause. Erst an der Haustür merkt sie, dass ihre Stofftasche fehlt. In der Tasche sind ein Heft und eine leere Brotdose, aber kein Geld und keine Schlüssel. Mina ruft in der Bibliothek an und beschreibt die Tasche. Sie ist grün und hat eine kleine gelbe Blume.',
+  'Ein Mitarbeiter findet die Tasche unter dem Tisch am Fenster. Mina möchte sofort zurückfahren, aber die Bibliothek schließt in zehn Minuten. Deshalb vereinbart sie mit dem Mitarbeiter, die Tasche am nächsten Morgen abzuholen. Sie schreibt sich seinen Namen und die Uhrzeit auf. Am Mittwoch ist die Tasche noch da. Mina bedankt sich und schaut vor dem Heimweg noch einmal unter ihren Stuhl.'
+ ],ar:[
+  'مينا بتذاكر يوم التلات في المكتبة لامتحان ألماني. قاعدة على ترابيزة جنب الشباك. الساعة 16 بتروح البيت بالأتوبيس. عند باب البيت بس بتاخد بالها إن شنطتها القماش مش معاها. في الشنطة كشكول وعلبة أكل فاضية، بس مفيهاش فلوس ولا مفاتيح. مينا بتتصل بالمكتبة وبتوصف الشنطة. لونها أخضر وعليها وردة صفرا صغيرة.',
+  'موظف بيلاقي الشنطة تحت الترابيزة اللي جنب الشباك. مينا عايزة ترجع حالا، بس المكتبة هتقفل كمان 10 دقايق. عشان كده بتتفق مع الموظف إنها تستلمها تاني يوم الصبح. بتكتب اسمه والميعاد. يوم الأربعاء الشنطة لسه موجودة. مينا بتشكره وبتبص تاني تحت كرسيها قبل ما تروح.'
+ ],gloss:[['die Stofftasche','شنطة قماش'],['die Brotdose','علبة الأكل'],['abholen','يروح يستلم']],q:[
+  ['Wann bemerkt Mina, dass ihre Tasche fehlt?','Erst an der Haustür.','Schon an der Bushaltestelle.','Beim Lernen am Fenster.'],
+  ['Was ist in der Tasche?','Ein Heft und eine leere Brotdose.','Geld und Schlüssel.','Eine Fahrkarte und ein Buch.'],
+  ['Warum fährt Mina nicht sofort zurück?','Die Bibliothek schließt in zehn Minuten.','Der Mitarbeiter hat die Tasche nicht gefunden.','Sie hat die Uhrzeit vergessen.'],
+  ['Wo findet der Mitarbeiter die Tasche?','Unter dem Tisch am Fenster.','Im Bus.','Neben der Haustür.']
+ ]},
+ {id:'alltag-b1-reparatur',level:'B1',title:['Reparieren statt gleich ersetzen','نصلح بدل ما نبدل على طول'],de:[
+  'Als Jonas einen Bericht drucken will, zieht sein Drucker das Papier nicht mehr ein. Zuerst denkt er daran, sofort ein neues Gerät zu kaufen. Seine Freundin Nila schlägt jedoch vor, den Drucker zu einem Reparaturtreffen im Stadtteilzentrum mitzunehmen. Dort helfen Freiwillige bei einfachen technischen Problemen. Eine erfolgreiche Reparatur können sie nicht versprechen. Jonas meldet sich an und fragt vorher, ob er auch das Stromkabel mitbringen soll. Die Antwort lautet ja.',
+  'Beim Treffen untersucht eine Helferin das Gerät gemeinsam mit Jonas. Sie entdecken ein kleines Stück Papier, das den Einzug blockiert. Nachdem sie es vorsichtig entfernt haben, funktioniert der Drucker wieder. Jonas freut sich, aber er muss den Bericht noch an diesem Abend abgeben. Deshalb druckt er zuerst eine Testseite und danach den ganzen Bericht. Nila findet besonders gut, dass er beim nächsten Problem nicht mehr sofort ans Wegwerfen denken wird.'
+ ],ar:[
+  'لما يوناس بيحاول يطبع تقرير، الطابعة مش بتسحب الورق. في الأول بيفكر يشتري جهاز جديد على طول. بس صاحبته نيلا بتقترح ياخد الطابعة لورشة تصليح في مركز الحي. هناك متطوعين بيساعدوا في المشاكل التقنية البسيطة. مش بيقدروا يوعدوا إن التصليح هينجح. يوناس بيسجل وبيسأل قبلها لو يجيب كابل الكهربا كمان. الرد آه.',
+  'في الورشة متطوعة بتفحص الجهاز مع يوناس. بيلاقوا حتة ورق صغيرة قافلة مكان سحب الورق. بعد ما بيشيلوها بحرص، الطابعة بتشتغل تاني. يوناس فرحان، بس لسه لازم يسلم التقرير نفس الليلة. عشان كده بيطبع صفحة تجربة الأول وبعدين التقرير كله. نيلا عاجبها خصوصا إنه المرة الجاية لما تحصل مشكلة مش هيفكر في الرمي على طول.'
+ ],gloss:[['der Einzug','مكان سحب الورق'],['blockieren','يقفل / يعطل'],['wegwerfen','يرمي']],q:[
+  ['Was überlegt Jonas zuerst?','Einen neuen Drucker zu kaufen.','Den Bericht ohne Prüfung abzugeben.','Selbst ein Reparaturtreffen zu organisieren.'],
+  ['Was versprechen die Freiwilligen nicht?','Dass die Reparatur gelingt.','Dass Jonas ein Stromkabel braucht.','Dass sie technische Probleme ansehen.'],
+  ['Was verursacht das Problem?','Ein kleines Stück Papier im Einzug.','Ein fehlendes Stromkabel.','Ein leerer Computerakku.'],
+  ['Warum druckt Jonas zuerst eine Testseite?','Er prüft den Drucker vor dem ganzen Bericht.','Er möchte den Bericht erst nächste Woche abgeben.','Er will einen neuen Drucker bestellen.']
+ ]}
+);
