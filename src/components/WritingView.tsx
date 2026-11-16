@@ -19,7 +19,7 @@ export default function WritingView({ onlyLevel }: { onlyLevel?: 'A2' | 'B1' | '
   const [open, setOpen] = useState<WTask | null>(null);
   useEffect(()=>{const select=()=>{const id=window.location.hash.slice(1);const task=writingTasks.find(t=>t.id===id&&(!onlyLevel||t.level===onlyLevel));if(task)setOpen(task)};select();window.addEventListener('hashchange',select);return()=>window.removeEventListener('hashchange',select)},[onlyLevel]);
   const list = writingTasks.filter((x) => lv === 'all' || x.level === lv).filter((x) => !onlyLevel || x.level === onlyLevel);
-  if (open) return <Task task={open} back={() => setOpen(null)} />;
+  if (open) return <Task task={open} back={() => {setOpen(null);history.replaceState(null,'',location.pathname)}} />;
   return (
     <div className="space-y-6">
       <h1 className="ar-title text-4xl font-bold">{onlyLevel ? t(`تدريب كتابة ${onlyLevel}`, `${onlyLevel} writing practice`) : t('تدريب الكتابة', 'Writing practice')}</h1>

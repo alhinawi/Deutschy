@@ -18,7 +18,7 @@ function load(file) {
    if (!resolved) throw Error(`Cannot resolve ${name}`);
    return load(resolved);
  };
- const js = ts.transpileModule(readFileSync(file, 'utf8'), { compilerOptions: { module: ts.ModuleKind.CommonJS, jsx: ts.JsxEmit.ReactJSX, esModuleInterop: true } }).outputText;
+ const js = ts.transpileModule(readFileSync(file, 'utf8'), { compilerOptions: { module: ts.ModuleKind.CommonJS, target: ts.ScriptTarget.ES2020, jsx: ts.JsxEmit.ReactJSX, esModuleInterop: true } }).outputText;
  vm.runInNewContext(js, { exports, require: localRequire, console, Date, Set, Map });
  return exports;
 }
@@ -100,3 +100,15 @@ assert.equal(c2Texts.length,4);for(const t of c2Texts) {assert.equal(t.q.length,
 assert.equal(c2Themes.length,8);for(const t of c2Themes) {assert.equal(t.words.length,5);assert(t.words.every(id=>words.some(w=>w.id===id)));assert.equal(t.discussion.length,2);assert(t.example.length>80);}
 assert(CHECK_LEVELS.includes('C2'));assert(checkBank('C2').some(q=>q.key.startsWith('c2:')));assert(checkBank('C2').some(q=>q.key.startsWith('r:c2-')));
 console.log('PASS: 40 source-linked C2 grammar rows, 7 writing models, 4 texts, 8 discussion themes and C2 bank inclusion');
+
+const {reviewQueue,gradeReview,reviewBank}=lib('answer-review');
+const emptyReview={cards:{},saved:[]};const clean={...s,seen:{},srs:{}};
+assert.equal(reviewQueue(clean,emptyReview,100).length,0);
+const savedReview={cards:{},saved:['apfel']};assert(reviewQueue(clean,savedReview,100).some(q=>q.key==='apfel'));
+const scheduled=gradeReview(savedReview,'apfel',true,100);assert.equal(scheduled.cards.apfel.due,101);assert.equal(reviewQueue(clean,scheduled,100).length,0);assert.equal(reviewQueue(clean,scheduled,101).length,1);
+assert.equal(gradeReview(scheduled,'apfel',false,101).cards.apfel.due,101);
+for(const l of CHECK_LEVELS){const q=checkBank(l)[0];assert(reviewQueue({...clean,seen:{[q.key]:{ok:0,bad:1}}},emptyReview,100).some(x=>x.key===q.key));}
+assert.equal(reviewQueue({...clean,seen:{'unknown:legacy':{ok:0,bad:9}}},emptyReview,100).length,0);
+assert(reviewBank().some(q=>q.key==='l:c2-schweigen:0'));
+const {search,index}=lib('search-index');for(const q of ['دقة','precision','Schweigen','Apfel'])assert(search(q,500).length>0);assert(index().some(h=>h.kind==='writing'&&h.href==='/writing/#c2-uebersetzen'));assert(index().some(h=>h.kind==='reading'&&h.href==='/reading/c2-schweigen/'));
+console.log('PASS: empty/own-miss/saved review, schedule boundaries, unknown-key exclusion and multilingual global search');
