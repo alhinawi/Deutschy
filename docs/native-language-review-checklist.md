@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-16 after the eighteenth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-16 after the nineteenth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -24,7 +24,7 @@ Do not mark a row complete until the German, meaning and question ambiguity have
 ### Fourteenth update: additional pending targets
 
 - [ ] `/b1/`, **Indirekte Fragen**: check all 8 prompts, ob vs question word, final verb, separable verb and Perfekt ordering; confirm exactly one supplied answer fits. Check explanation of whole-sentence punctuation.
-- [ ] `/b1/`, **weil / denn / deshalb**: check all 8 connector contrasts, especially inversion after deshalb/trotzdem vs verb-final obwohl/weil. Six B1 specialist sets now contain 48 items, separate from the 382 core grammar-question count below.
+- [ ] `/b1/`, **weil / denn / deshalb**: check all 8 connector contrasts, especially inversion after deshalb/trotzdem vs verb-final obwohl/weil. Six B1 specialist sets now contain 48 items, separate from the core grammar-question count below.
 - [ ] `/dialogues/`, **Das Fahrrad abholen**: workshop idiom, Abholschein, reparierte Bremse vs aufgepumpter Reifen, fictional 24-Euro total and no extra pump fee, Egyptian Arabic and three exact-evidence answers.
 - [ ] `/dialogues/`, **Eine Aufgabe gemeinsam planen**: natural project negotiation, responsibility for each location vs shared table, Wednesday collection vs Thursday checking, pronoun references and three exact-evidence answers.
 - [ ] `/dictation/`: each source-reading set preserves its sentence meaning and boundaries. Listen for device-voice issues with numbers/abbreviations; text correctness and voice behavior are separate findings. The tool is unsaved practice, not an official listening exam.
@@ -68,6 +68,15 @@ Person order: **ich · du · er/sie/es · wir · ihr · sie/Sie**. These are ful
 
 Sources were checked for these forms; that is not native editorial sign-off. Each active exercise links its specific present-form source. See `thirteenth-present-depth.md` for the six exact source URLs.
 
+### Nineteenth update: new content, still pending
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a2-waschraum/` and `/dialogues/#waschraum-absprache` | Check shared laundry-room register, timing, Egyptian Arabic meanings, all 7 comprehension answers, and exact evidence. These are fictional building arrangements, not a general rule. |
+| [ ] | `/reading/alltag-b1-protokoll/` and `/dialogues/#protokoll-rueckfrage` | Check the distinction between proposal, decision and confirmation. Do the 7 answers follow from the text rather than assumptions? Review the length/difficulty and Egyptian Arabic tone. |
+| [ ] | `src/lib/exercises-everyday.ts` | Review 24 appended contrasts across six grammar topics. Check imperative variants, separable infinitives, subordinate word order, dative reflexive pronouns, relative-clause cases and um/ohne ... zu. |
+| [ ] | `/lessons/waesche/` | Check Wäschekorb / Wäschekörbe, Wäscheständer / same-form plural, Bügelbrett / Bügelbretter, Kleiderbügel / same-form plural. Forms were dictionary-checked; assess Egyptian Arabic meanings and visual clarity independently. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -82,7 +91,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **669 photo nouns / 58 topics**, **73 reading texts / 245 reading questions**, **41 core grammar topics / 382 core grammar questions**, **13 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **673 photo nouns / 59 topics**, **75 reading texts / 253 reading questions**, **41 core grammar topics / 406 core grammar questions**, **15 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -94,7 +103,7 @@ This is an inventory, not completed review. Snapshot: **669 photo nouns / 58 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 7 · A2 19 · B1 17 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 7 · A2 20 · B1 18 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
