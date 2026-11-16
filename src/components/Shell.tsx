@@ -3,6 +3,7 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useEffect, useState, type ReactNode } from 'react';
 import Flame from './Flame';
+import SheetLink from './SheetLink';
 import { useAuth, useStore, level } from '@/lib/store';
 import { useLang, useT } from '@/lib/i18n';
 import { sidebar } from '@/lib/nav';
@@ -82,7 +83,7 @@ export default function Shell({ children }: { children: ReactNode }) {
         </nav>
       </aside>
       <main id="main" tabIndex={-1} className="outline-none px-4 py-8 md:ps-72 md:pe-8">
-        <div className="mx-auto max-w-5xl">{children}</div>
+        <div className="mx-auto max-w-5xl">{children}<SheetLink /></div>
       </main>
     </>
   );
