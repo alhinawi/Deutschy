@@ -259,6 +259,14 @@
   {
    "id": "schreibzubehoer",
    "ar": "أدوات للورق والكتابة"
+  },
+  {
+   "id": "backhelfer",
+   "ar": "أدوات للخبز"
+  },
+  {
+   "id": "badzubehoer",
+   "ar": "حاجات للحمام"
   }
  ],
  "words": [
@@ -10665,6 +10673,102 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Red_pencil_sharpener.jpg",
     "author": "Kaldari",
     "license": "Public domain",
+    "padding": true
+   }
+  },
+  {
+   "id": "backform",
+   "topic": "backhelfer",
+   "art": "die",
+   "de": "Backform",
+   "plural": "Backformen",
+   "ar": "قالب فرن",
+   "photo": {
+    "file": "SpringformPanWallsRemoved.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:SpringformPanWallsRemoved.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:SpringformPanWallsRemoved.jpg",
+    "author": "RibbonsOfIndecision",
+    "license": "CC BY-SA 3.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "ausstechform",
+   "topic": "backhelfer",
+   "art": "die",
+   "de": "Ausstechform",
+   "plural": "Ausstechformen",
+   "ar": "قطّاعة عجين بأشكال",
+   "photo": {
+    "file": "Backform Plätzchen.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Backform_Pl%C3%A4tzchen.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Backform_Pl%C3%A4tzchen.jpg",
+    "author": "NoX",
+    "license": "CC BY-SA 3.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "topflappen",
+   "topic": "backhelfer",
+   "art": "der",
+   "de": "Topflappen",
+   "plural": "-",
+   "ar": "ماسكة حلة قماش",
+   "photo": {
+    "file": "Topflappen.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Topflappen.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Topflappen.jpg",
+    "author": "Tetzemann",
+    "license": "CC0",
+    "padding": true
+   }
+  },
+  {
+   "id": "seifenschale",
+   "topic": "badzubehoer",
+   "art": "die",
+   "de": "Seifenschale",
+   "plural": "Seifenschalen",
+   "ar": "طبق صابون",
+   "photo": {
+    "file": "Soap in blue dish.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Soap_in_blue_dish.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Soap_in_blue_dish.JPG",
+    "author": "TheLewisRepublic",
+    "license": "Public domain",
+    "padding": true
+   }
+  },
+  {
+   "id": "nagelschere",
+   "topic": "badzubehoer",
+   "art": "die",
+   "de": "Nagelschere",
+   "plural": "Nagelscheren",
+   "ar": "مقص ضوافر",
+   "photo": {
+    "file": "Nagelschere.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Nagelschere.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Nagelschere.jpg",
+    "author": "The original uploader was Pavel Krok at German Wikipedia.",
+    "license": "CC BY-SA 2.0 de",
+    "padding": true
+   }
+  },
+  {
+   "id": "seifenspender",
+   "topic": "badzubehoer",
+   "art": "der",
+   "de": "Seifenspender",
+   "plural": "-",
+   "ar": "موزّع صابون",
+   "photo": {
+    "file": "Soap dispenser 2017 C1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Soap_dispenser_2017_C1.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Soap_dispenser_2017_C1.jpg",
+    "author": "Fructibus",
+    "license": "CC0",
     "padding": true
    }
   }
