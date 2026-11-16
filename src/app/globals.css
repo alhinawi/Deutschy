@@ -55,7 +55,8 @@ button, a { -webkit-tap-highlight-color: transparent; }
 @media print {
   body > div > header, body header.sticky, aside, .no-print { display: none !important; }
   main { padding: 0 !important; margin: 0 !important; }
-  body { background: #fff !important; }
+  html, body { background: #fff !important; min-height: 0; }
+  .sheet header, .sheet li { break-inside: avoid; }
   .sheet { color: #000; }
   .sheet * { box-shadow: none !important; }
   .sheet section, .sheet tr { break-inside: avoid; }
