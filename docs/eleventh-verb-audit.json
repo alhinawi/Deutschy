@@ -1,0 +1,2583 @@
+{
+  "checked_on": "2026-11-16",
+  "records": 143,
+  "present_forms": 858,
+  "principal_part_fields": 429,
+  "morphology_corrections": 0,
+  "audit": [
+    {
+      "inf": "sein",
+      "revision": 10498950,
+      "source": "https://de.wiktionary.org/wiki/sein",
+      "present": [
+        "bin",
+        "bist",
+        "ist",
+        "sind",
+        "seid",
+        "sind"
+      ],
+      "preterite_3sg": "war",
+      "participle": "gewesen",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "haben",
+      "revision": 10702789,
+      "source": "https://de.wiktionary.org/wiki/haben",
+      "present": [
+        "habe",
+        "hast",
+        "hat",
+        "haben",
+        "habt",
+        "haben"
+      ],
+      "preterite_3sg": "hatte",
+      "participle": "gehabt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "werden",
+      "revision": 10808408,
+      "source": "https://de.wiktionary.org/wiki/werden",
+      "present": [
+        "werde",
+        "wirst",
+        "wird",
+        "werden",
+        "werdet",
+        "werden"
+      ],
+      "preterite_3sg": "wurde",
+      "participle": "geworden",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "können",
+      "revision": 10270287,
+      "source": "https://de.wiktionary.org/wiki/können",
+      "present": [
+        "kann",
+        "kannst",
+        "kann",
+        "können",
+        "könnt",
+        "können"
+      ],
+      "preterite_3sg": "konnte",
+      "participle": "gekonnt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "müssen",
+      "revision": 10735295,
+      "source": "https://de.wiktionary.org/wiki/müssen",
+      "present": [
+        "muss",
+        "musst",
+        "muss",
+        "müssen",
+        "müsst",
+        "müssen"
+      ],
+      "preterite_3sg": "musste",
+      "participle": "gemusst",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "wollen",
+      "revision": 10699504,
+      "source": "https://de.wiktionary.org/wiki/wollen",
+      "present": [
+        "will",
+        "willst",
+        "will",
+        "wollen",
+        "wollt",
+        "wollen"
+      ],
+      "preterite_3sg": "wollte",
+      "participle": "gewollt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "dürfen",
+      "revision": 10203538,
+      "source": "https://de.wiktionary.org/wiki/dürfen",
+      "present": [
+        "darf",
+        "darfst",
+        "darf",
+        "dürfen",
+        "dürft",
+        "dürfen"
+      ],
+      "preterite_3sg": "durfte",
+      "participle": "gedurft",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "sollen",
+      "revision": 10799906,
+      "source": "https://de.wiktionary.org/wiki/sollen",
+      "present": [
+        "soll",
+        "sollst",
+        "soll",
+        "sollen",
+        "sollt",
+        "sollen"
+      ],
+      "preterite_3sg": "sollte",
+      "participle": "gesollt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "mögen",
+      "revision": 10821865,
+      "source": "https://de.wiktionary.org/wiki/mögen",
+      "present": [
+        "mag",
+        "magst",
+        "mag",
+        "mögen",
+        "mögt",
+        "mögen"
+      ],
+      "preterite_3sg": "mochte",
+      "participle": "gemocht",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "wissen",
+      "revision": 10649705,
+      "source": "https://de.wiktionary.org/wiki/wissen",
+      "present": [
+        "weiß",
+        "weißt",
+        "weiß",
+        "wissen",
+        "wisst",
+        "wissen"
+      ],
+      "preterite_3sg": "wusste",
+      "participle": "gewusst",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "tun",
+      "revision": 10740109,
+      "source": "https://de.wiktionary.org/wiki/tun",
+      "present": [
+        "tue",
+        "tust",
+        "tut",
+        "tun",
+        "tut",
+        "tun"
+      ],
+      "preterite_3sg": "tat",
+      "participle": "getan",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "lassen",
+      "revision": 9728059,
+      "source": "https://de.wiktionary.org/wiki/lassen",
+      "present": [
+        "lasse",
+        "lässt",
+        "lässt",
+        "lassen",
+        "lasst",
+        "lassen"
+      ],
+      "preterite_3sg": "ließ",
+      "participle": "gelassen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "machen",
+      "revision": 10793084,
+      "source": "https://de.wiktionary.org/wiki/machen",
+      "present": [
+        "mache",
+        "machst",
+        "macht",
+        "machen",
+        "macht",
+        "machen"
+      ],
+      "preterite_3sg": "machte",
+      "participle": "gemacht",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "lernen",
+      "revision": 10497386,
+      "source": "https://de.wiktionary.org/wiki/lernen",
+      "present": [
+        "lerne",
+        "lernst",
+        "lernt",
+        "lernen",
+        "lernt",
+        "lernen"
+      ],
+      "preterite_3sg": "lernte",
+      "participle": "gelernt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "spielen",
+      "revision": 10805984,
+      "source": "https://de.wiktionary.org/wiki/spielen",
+      "present": [
+        "spiele",
+        "spielst",
+        "spielt",
+        "spielen",
+        "spielt",
+        "spielen"
+      ],
+      "preterite_3sg": "spielte",
+      "participle": "gespielt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "wohnen",
+      "revision": 10814091,
+      "source": "https://de.wiktionary.org/wiki/wohnen",
+      "present": [
+        "wohne",
+        "wohnst",
+        "wohnt",
+        "wohnen",
+        "wohnt",
+        "wohnen"
+      ],
+      "preterite_3sg": "wohnte",
+      "participle": "gewohnt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "kaufen",
+      "revision": 10086319,
+      "source": "https://de.wiktionary.org/wiki/kaufen",
+      "present": [
+        "kaufe",
+        "kaufst",
+        "kauft",
+        "kaufen",
+        "kauft",
+        "kaufen"
+      ],
+      "preterite_3sg": "kaufte",
+      "participle": "gekauft",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "kochen",
+      "revision": 10716700,
+      "source": "https://de.wiktionary.org/wiki/kochen",
+      "present": [
+        "koche",
+        "kochst",
+        "kocht",
+        "kochen",
+        "kocht",
+        "kochen"
+      ],
+      "preterite_3sg": "kochte",
+      "participle": "gekocht",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "arbeiten",
+      "revision": 10145351,
+      "source": "https://de.wiktionary.org/wiki/arbeiten",
+      "present": [
+        "arbeite",
+        "arbeitest",
+        "arbeitet",
+        "arbeiten",
+        "arbeitet",
+        "arbeiten"
+      ],
+      "preterite_3sg": "arbeitete",
+      "participle": "gearbeitet",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "sagen",
+      "revision": 10214415,
+      "source": "https://de.wiktionary.org/wiki/sagen",
+      "present": [
+        "sage",
+        "sagst",
+        "sagt",
+        "sagen",
+        "sagt",
+        "sagen"
+      ],
+      "preterite_3sg": "sagte",
+      "participle": "gesagt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "fragen",
+      "revision": 10824447,
+      "source": "https://de.wiktionary.org/wiki/fragen",
+      "present": [
+        "frage",
+        "fragst",
+        "fragt",
+        "fragen",
+        "fragt",
+        "fragen"
+      ],
+      "preterite_3sg": "fragte",
+      "participle": "gefragt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "hören",
+      "revision": 10761094,
+      "source": "https://de.wiktionary.org/wiki/hören",
+      "present": [
+        "höre",
+        "hörst",
+        "hört",
+        "hören",
+        "hört",
+        "hören"
+      ],
+      "preterite_3sg": "hörte",
+      "participle": "gehört",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "suchen",
+      "revision": 10775393,
+      "source": "https://de.wiktionary.org/wiki/suchen",
+      "present": [
+        "suche",
+        "suchst",
+        "sucht",
+        "suchen",
+        "sucht",
+        "suchen"
+      ],
+      "preterite_3sg": "suchte",
+      "participle": "gesucht",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "brauchen",
+      "revision": 10718762,
+      "source": "https://de.wiktionary.org/wiki/brauchen",
+      "present": [
+        "brauche",
+        "brauchst",
+        "braucht",
+        "brauchen",
+        "braucht",
+        "brauchen"
+      ],
+      "preterite_3sg": "brauchte",
+      "participle": "gebraucht",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "lieben",
+      "revision": 10563108,
+      "source": "https://de.wiktionary.org/wiki/lieben",
+      "present": [
+        "liebe",
+        "liebst",
+        "liebt",
+        "lieben",
+        "liebt",
+        "lieben"
+      ],
+      "preterite_3sg": "liebte",
+      "participle": "geliebt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "besuchen",
+      "revision": 10745340,
+      "source": "https://de.wiktionary.org/wiki/besuchen",
+      "present": [
+        "besuche",
+        "besuchst",
+        "besucht",
+        "besuchen",
+        "besucht",
+        "besuchen"
+      ],
+      "preterite_3sg": "besuchte",
+      "participle": "besucht",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "bezahlen",
+      "revision": 10810255,
+      "source": "https://de.wiktionary.org/wiki/bezahlen",
+      "present": [
+        "bezahle",
+        "bezahlst",
+        "bezahlt",
+        "bezahlen",
+        "bezahlt",
+        "bezahlen"
+      ],
+      "preterite_3sg": "bezahlte",
+      "participle": "bezahlt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "antworten",
+      "revision": 10151666,
+      "source": "https://de.wiktionary.org/wiki/antworten",
+      "present": [
+        "antworte",
+        "antwortest",
+        "antwortet",
+        "antworten",
+        "antwortet",
+        "antworten"
+      ],
+      "preterite_3sg": "antwortete",
+      "participle": "geantwortet",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "öffnen",
+      "revision": 10441977,
+      "source": "https://de.wiktionary.org/wiki/öffnen",
+      "present": [
+        "öffne",
+        "öffnest",
+        "öffnet",
+        "öffnen",
+        "öffnet",
+        "öffnen"
+      ],
+      "preterite_3sg": "öffnete",
+      "participle": "geöffnet",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "warten",
+      "revision": 10279543,
+      "source": "https://de.wiktionary.org/wiki/warten",
+      "present": [
+        "warte",
+        "wartest",
+        "wartet",
+        "warten",
+        "wartet",
+        "warten"
+      ],
+      "preterite_3sg": "wartete",
+      "participle": "gewartet",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "tanzen",
+      "revision": 10605732,
+      "source": "https://de.wiktionary.org/wiki/tanzen",
+      "present": [
+        "tanze",
+        "tanzt",
+        "tanzt",
+        "tanzen",
+        "tanzt",
+        "tanzen"
+      ],
+      "preterite_3sg": "tanzte",
+      "participle": "getanzt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "reisen",
+      "revision": 9980210,
+      "source": "https://de.wiktionary.org/wiki/reisen",
+      "present": [
+        "reise",
+        "reist",
+        "reist",
+        "reisen",
+        "reist",
+        "reisen"
+      ],
+      "preterite_3sg": "reiste",
+      "participle": "gereist",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "leben",
+      "revision": 10649237,
+      "source": "https://de.wiktionary.org/wiki/leben",
+      "present": [
+        "lebe",
+        "lebst",
+        "lebt",
+        "leben",
+        "lebt",
+        "leben"
+      ],
+      "preterite_3sg": "lebte",
+      "participle": "gelebt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "zeigen",
+      "revision": 10245784,
+      "source": "https://de.wiktionary.org/wiki/zeigen",
+      "present": [
+        "zeige",
+        "zeigst",
+        "zeigt",
+        "zeigen",
+        "zeigt",
+        "zeigen"
+      ],
+      "preterite_3sg": "zeigte",
+      "participle": "gezeigt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "holen",
+      "revision": 10461866,
+      "source": "https://de.wiktionary.org/wiki/holen",
+      "present": [
+        "hole",
+        "holst",
+        "holt",
+        "holen",
+        "holt",
+        "holen"
+      ],
+      "preterite_3sg": "holte",
+      "participle": "geholt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "stellen",
+      "revision": 10802016,
+      "source": "https://de.wiktionary.org/wiki/stellen",
+      "present": [
+        "stelle",
+        "stellst",
+        "stellt",
+        "stellen",
+        "stellt",
+        "stellen"
+      ],
+      "preterite_3sg": "stellte",
+      "participle": "gestellt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "legen",
+      "revision": 10400826,
+      "source": "https://de.wiktionary.org/wiki/legen",
+      "present": [
+        "lege",
+        "legst",
+        "legt",
+        "legen",
+        "legt",
+        "legen"
+      ],
+      "preterite_3sg": "legte",
+      "participle": "gelegt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "putzen",
+      "revision": 10562620,
+      "source": "https://de.wiktionary.org/wiki/putzen",
+      "present": [
+        "putze",
+        "putzt",
+        "putzt",
+        "putzen",
+        "putzt",
+        "putzen"
+      ],
+      "preterite_3sg": "putzte",
+      "participle": "geputzt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "duschen",
+      "revision": 10785724,
+      "source": "https://de.wiktionary.org/wiki/duschen",
+      "present": [
+        "dusche",
+        "duschst",
+        "duscht",
+        "duschen",
+        "duscht",
+        "duschen"
+      ],
+      "preterite_3sg": "duschte",
+      "participle": "geduscht",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "glauben",
+      "revision": 10538088,
+      "source": "https://de.wiktionary.org/wiki/glauben",
+      "present": [
+        "glaube",
+        "glaubst",
+        "glaubt",
+        "glauben",
+        "glaubt",
+        "glauben"
+      ],
+      "preterite_3sg": "glaubte",
+      "participle": "geglaubt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "kosten",
+      "revision": 10740344,
+      "source": "https://de.wiktionary.org/wiki/kosten",
+      "present": [
+        "koste",
+        "kostest",
+        "kostet",
+        "kosten",
+        "kostet",
+        "kosten"
+      ],
+      "preterite_3sg": "kostete",
+      "participle": "gekostet",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "schmecken",
+      "revision": 10528953,
+      "source": "https://de.wiktionary.org/wiki/schmecken",
+      "present": [
+        "schmecke",
+        "schmeckst",
+        "schmeckt",
+        "schmecken",
+        "schmeckt",
+        "schmecken"
+      ],
+      "preterite_3sg": "schmeckte",
+      "participle": "geschmeckt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "wandern",
+      "revision": 10687460,
+      "source": "https://de.wiktionary.org/wiki/wandern",
+      "present": [
+        "wandere",
+        "wanderst",
+        "wandert",
+        "wandern",
+        "wandert",
+        "wandern"
+      ],
+      "preterite_3sg": "wanderte",
+      "participle": "gewandert",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "überzeugen",
+      "revision": 10810199,
+      "source": "https://de.wiktionary.org/wiki/überzeugen",
+      "present": [
+        "überzeuge",
+        "überzeugst",
+        "überzeugt",
+        "überzeugen",
+        "überzeugt",
+        "überzeugen"
+      ],
+      "preterite_3sg": "überzeugte",
+      "participle": "überzeugt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "studieren",
+      "revision": 10150567,
+      "source": "https://de.wiktionary.org/wiki/studieren",
+      "present": [
+        "studiere",
+        "studierst",
+        "studiert",
+        "studieren",
+        "studiert",
+        "studieren"
+      ],
+      "preterite_3sg": "studierte",
+      "participle": "studiert",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "telefonieren",
+      "revision": 10780218,
+      "source": "https://de.wiktionary.org/wiki/telefonieren",
+      "present": [
+        "telefoniere",
+        "telefonierst",
+        "telefoniert",
+        "telefonieren",
+        "telefoniert",
+        "telefonieren"
+      ],
+      "preterite_3sg": "telefonierte",
+      "participle": "telefoniert",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "diskutieren",
+      "revision": 10579145,
+      "source": "https://de.wiktionary.org/wiki/diskutieren",
+      "present": [
+        "diskutiere",
+        "diskutierst",
+        "diskutiert",
+        "diskutieren",
+        "diskutiert",
+        "diskutieren"
+      ],
+      "preterite_3sg": "diskutierte",
+      "participle": "diskutiert",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "erklären",
+      "revision": 10262870,
+      "source": "https://de.wiktionary.org/wiki/erklären",
+      "present": [
+        "erkläre",
+        "erklärst",
+        "erklärt",
+        "erklären",
+        "erklärt",
+        "erklären"
+      ],
+      "preterite_3sg": "erklärte",
+      "participle": "erklärt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "entwickeln",
+      "revision": 10615800,
+      "source": "https://de.wiktionary.org/wiki/entwickeln",
+      "present": [
+        "entwickle",
+        "entwickelst",
+        "entwickelt",
+        "entwickeln",
+        "entwickelt",
+        "entwickeln"
+      ],
+      "preterite_3sg": "entwickelte",
+      "participle": "entwickelt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "verändern",
+      "revision": 10530935,
+      "source": "https://de.wiktionary.org/wiki/verändern",
+      "present": [
+        "verändere",
+        "veränderst",
+        "verändert",
+        "verändern",
+        "verändert",
+        "verändern"
+      ],
+      "preterite_3sg": "veränderte",
+      "participle": "verändert",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "behaupten",
+      "revision": 10527845,
+      "source": "https://de.wiktionary.org/wiki/behaupten",
+      "present": [
+        "behaupte",
+        "behauptest",
+        "behauptet",
+        "behaupten",
+        "behauptet",
+        "behaupten"
+      ],
+      "preterite_3sg": "behauptete",
+      "participle": "behauptet",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "bewältigen",
+      "revision": 10234598,
+      "source": "https://de.wiktionary.org/wiki/bewältigen",
+      "present": [
+        "bewältige",
+        "bewältigst",
+        "bewältigt",
+        "bewältigen",
+        "bewältigt",
+        "bewältigen"
+      ],
+      "preterite_3sg": "bewältigte",
+      "participle": "bewältigt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "erörtern",
+      "revision": 10769261,
+      "source": "https://de.wiktionary.org/wiki/erörtern",
+      "present": [
+        "erörtere",
+        "erörterst",
+        "erörtert",
+        "erörtern",
+        "erörtert",
+        "erörtern"
+      ],
+      "preterite_3sg": "erörterte",
+      "participle": "erörtert",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "gehen",
+      "revision": 10822186,
+      "source": "https://de.wiktionary.org/wiki/gehen",
+      "present": [
+        "gehe",
+        "gehst",
+        "geht",
+        "gehen",
+        "geht",
+        "gehen"
+      ],
+      "preterite_3sg": "ging",
+      "participle": "gegangen",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "kommen",
+      "revision": 10704701,
+      "source": "https://de.wiktionary.org/wiki/kommen",
+      "present": [
+        "komme",
+        "kommst",
+        "kommt",
+        "kommen",
+        "kommt",
+        "kommen"
+      ],
+      "preterite_3sg": "kam",
+      "participle": "gekommen",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "essen",
+      "revision": 10630103,
+      "source": "https://de.wiktionary.org/wiki/essen",
+      "present": [
+        "esse",
+        "isst",
+        "isst",
+        "essen",
+        "esst",
+        "essen"
+      ],
+      "preterite_3sg": "aß",
+      "participle": "gegessen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "trinken",
+      "revision": 10424296,
+      "source": "https://de.wiktionary.org/wiki/trinken",
+      "present": [
+        "trinke",
+        "trinkst",
+        "trinkt",
+        "trinken",
+        "trinkt",
+        "trinken"
+      ],
+      "preterite_3sg": "trank",
+      "participle": "getrunken",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "sehen",
+      "revision": 10791127,
+      "source": "https://de.wiktionary.org/wiki/sehen",
+      "present": [
+        "sehe",
+        "siehst",
+        "sieht",
+        "sehen",
+        "seht",
+        "sehen"
+      ],
+      "preterite_3sg": "sah",
+      "participle": "gesehen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "lesen",
+      "revision": 10702640,
+      "source": "https://de.wiktionary.org/wiki/lesen",
+      "present": [
+        "lese",
+        "liest",
+        "liest",
+        "lesen",
+        "lest",
+        "lesen"
+      ],
+      "preterite_3sg": "las",
+      "participle": "gelesen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "schreiben",
+      "revision": 10825906,
+      "source": "https://de.wiktionary.org/wiki/schreiben",
+      "present": [
+        "schreibe",
+        "schreibst",
+        "schreibt",
+        "schreiben",
+        "schreibt",
+        "schreiben"
+      ],
+      "preterite_3sg": "schrieb",
+      "participle": "geschrieben",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "sprechen",
+      "revision": 10437839,
+      "source": "https://de.wiktionary.org/wiki/sprechen",
+      "present": [
+        "spreche",
+        "sprichst",
+        "spricht",
+        "sprechen",
+        "sprecht",
+        "sprechen"
+      ],
+      "preterite_3sg": "sprach",
+      "participle": "gesprochen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "nehmen",
+      "revision": 10623967,
+      "source": "https://de.wiktionary.org/wiki/nehmen",
+      "present": [
+        "nehme",
+        "nimmst",
+        "nimmt",
+        "nehmen",
+        "nehmt",
+        "nehmen"
+      ],
+      "preterite_3sg": "nahm",
+      "participle": "genommen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "geben",
+      "revision": 10826438,
+      "source": "https://de.wiktionary.org/wiki/geben",
+      "present": [
+        "gebe",
+        "gibst",
+        "gibt",
+        "geben",
+        "gebt",
+        "geben"
+      ],
+      "preterite_3sg": "gab",
+      "participle": "gegeben",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "fahren",
+      "revision": 10731105,
+      "source": "https://de.wiktionary.org/wiki/fahren",
+      "present": [
+        "fahre",
+        "fährst",
+        "fährt",
+        "fahren",
+        "fahrt",
+        "fahren"
+      ],
+      "preterite_3sg": "fuhr",
+      "participle": "gefahren",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "schlafen",
+      "revision": 10714695,
+      "source": "https://de.wiktionary.org/wiki/schlafen",
+      "present": [
+        "schlafe",
+        "schläfst",
+        "schläft",
+        "schlafen",
+        "schlaft",
+        "schlafen"
+      ],
+      "preterite_3sg": "schlief",
+      "participle": "geschlafen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "laufen",
+      "revision": 10704605,
+      "source": "https://de.wiktionary.org/wiki/laufen",
+      "present": [
+        "laufe",
+        "läufst",
+        "läuft",
+        "laufen",
+        "lauft",
+        "laufen"
+      ],
+      "preterite_3sg": "lief",
+      "participle": "gelaufen",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "helfen",
+      "revision": 10630148,
+      "source": "https://de.wiktionary.org/wiki/helfen",
+      "present": [
+        "helfe",
+        "hilfst",
+        "hilft",
+        "helfen",
+        "helft",
+        "helfen"
+      ],
+      "preterite_3sg": "half",
+      "participle": "geholfen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "finden",
+      "revision": 10635989,
+      "source": "https://de.wiktionary.org/wiki/finden",
+      "present": [
+        "finde",
+        "findest",
+        "findet",
+        "finden",
+        "findet",
+        "finden"
+      ],
+      "preterite_3sg": "fand",
+      "participle": "gefunden",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "bleiben",
+      "revision": 10700746,
+      "source": "https://de.wiktionary.org/wiki/bleiben",
+      "present": [
+        "bleibe",
+        "bleibst",
+        "bleibt",
+        "bleiben",
+        "bleibt",
+        "bleiben"
+      ],
+      "preterite_3sg": "blieb",
+      "participle": "geblieben",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "schwimmen",
+      "revision": 10738351,
+      "source": "https://de.wiktionary.org/wiki/schwimmen",
+      "present": [
+        "schwimme",
+        "schwimmst",
+        "schwimmt",
+        "schwimmen",
+        "schwimmt",
+        "schwimmen"
+      ],
+      "preterite_3sg": "schwamm",
+      "participle": "geschwommen",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "singen",
+      "revision": 10556626,
+      "source": "https://de.wiktionary.org/wiki/singen",
+      "present": [
+        "singe",
+        "singst",
+        "singt",
+        "singen",
+        "singt",
+        "singen"
+      ],
+      "preterite_3sg": "sang",
+      "participle": "gesungen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "sitzen",
+      "revision": 10774338,
+      "source": "https://de.wiktionary.org/wiki/sitzen",
+      "present": [
+        "sitze",
+        "sitzt",
+        "sitzt",
+        "sitzen",
+        "sitzt",
+        "sitzen"
+      ],
+      "preterite_3sg": "saß",
+      "participle": "gesessen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "stehen",
+      "revision": 10791128,
+      "source": "https://de.wiktionary.org/wiki/stehen",
+      "present": [
+        "stehe",
+        "stehst",
+        "steht",
+        "stehen",
+        "steht",
+        "stehen"
+      ],
+      "preterite_3sg": "stand",
+      "participle": "gestanden",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "liegen",
+      "revision": 10554883,
+      "source": "https://de.wiktionary.org/wiki/liegen",
+      "present": [
+        "liege",
+        "liegst",
+        "liegt",
+        "liegen",
+        "liegt",
+        "liegen"
+      ],
+      "preterite_3sg": "lag",
+      "participle": "gelegen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "treffen",
+      "revision": 10770068,
+      "source": "https://de.wiktionary.org/wiki/treffen",
+      "present": [
+        "treffe",
+        "triffst",
+        "trifft",
+        "treffen",
+        "trefft",
+        "treffen"
+      ],
+      "preterite_3sg": "traf",
+      "participle": "getroffen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "tragen",
+      "revision": 10740076,
+      "source": "https://de.wiktionary.org/wiki/tragen",
+      "present": [
+        "trage",
+        "trägst",
+        "trägt",
+        "tragen",
+        "tragt",
+        "tragen"
+      ],
+      "preterite_3sg": "trug",
+      "participle": "getragen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "waschen",
+      "revision": 10440414,
+      "source": "https://de.wiktionary.org/wiki/waschen",
+      "present": [
+        "wasche",
+        "wäschst",
+        "wäscht",
+        "waschen",
+        "wascht",
+        "waschen"
+      ],
+      "preterite_3sg": "wusch",
+      "participle": "gewaschen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "halten",
+      "revision": 10706129,
+      "source": "https://de.wiktionary.org/wiki/halten",
+      "present": [
+        "halte",
+        "hältst",
+        "hält",
+        "halten",
+        "haltet",
+        "halten"
+      ],
+      "preterite_3sg": "hielt",
+      "participle": "gehalten",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "fallen",
+      "revision": 10711700,
+      "source": "https://de.wiktionary.org/wiki/fallen",
+      "present": [
+        "falle",
+        "fällst",
+        "fällt",
+        "fallen",
+        "fallt",
+        "fallen"
+      ],
+      "preterite_3sg": "fiel",
+      "participle": "gefallen",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "rufen",
+      "revision": 10639637,
+      "source": "https://de.wiktionary.org/wiki/rufen",
+      "present": [
+        "rufe",
+        "rufst",
+        "ruft",
+        "rufen",
+        "ruft",
+        "rufen"
+      ],
+      "preterite_3sg": "rief",
+      "participle": "gerufen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "bringen",
+      "revision": 10610413,
+      "source": "https://de.wiktionary.org/wiki/bringen",
+      "present": [
+        "bringe",
+        "bringst",
+        "bringt",
+        "bringen",
+        "bringt",
+        "bringen"
+      ],
+      "preterite_3sg": "brachte",
+      "participle": "gebracht",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "denken",
+      "revision": 9719916,
+      "source": "https://de.wiktionary.org/wiki/denken",
+      "present": [
+        "denke",
+        "denkst",
+        "denkt",
+        "denken",
+        "denkt",
+        "denken"
+      ],
+      "preterite_3sg": "dachte",
+      "participle": "gedacht",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "kennen",
+      "revision": 9974915,
+      "source": "https://de.wiktionary.org/wiki/kennen",
+      "present": [
+        "kenne",
+        "kennst",
+        "kennt",
+        "kennen",
+        "kennt",
+        "kennen"
+      ],
+      "preterite_3sg": "kannte",
+      "participle": "gekannt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "nennen",
+      "revision": 10664209,
+      "source": "https://de.wiktionary.org/wiki/nennen",
+      "present": [
+        "nenne",
+        "nennst",
+        "nennt",
+        "nennen",
+        "nennt",
+        "nennen"
+      ],
+      "preterite_3sg": "nannte",
+      "participle": "genannt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "verstehen",
+      "revision": 10685060,
+      "source": "https://de.wiktionary.org/wiki/verstehen",
+      "present": [
+        "verstehe",
+        "verstehst",
+        "versteht",
+        "verstehen",
+        "versteht",
+        "verstehen"
+      ],
+      "preterite_3sg": "verstand",
+      "participle": "verstanden",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "beginnen",
+      "revision": 10719074,
+      "source": "https://de.wiktionary.org/wiki/beginnen",
+      "present": [
+        "beginne",
+        "beginnst",
+        "beginnt",
+        "beginnen",
+        "beginnt",
+        "beginnen"
+      ],
+      "preterite_3sg": "begann",
+      "participle": "begonnen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "gewinnen",
+      "revision": 10805315,
+      "source": "https://de.wiktionary.org/wiki/gewinnen",
+      "present": [
+        "gewinne",
+        "gewinnst",
+        "gewinnt",
+        "gewinnen",
+        "gewinnt",
+        "gewinnen"
+      ],
+      "preterite_3sg": "gewann",
+      "participle": "gewonnen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "vergessen",
+      "revision": 10668189,
+      "source": "https://de.wiktionary.org/wiki/vergessen",
+      "present": [
+        "vergesse",
+        "vergisst",
+        "vergisst",
+        "vergessen",
+        "vergesst",
+        "vergessen"
+      ],
+      "preterite_3sg": "vergaß",
+      "participle": "vergessen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "bekommen",
+      "revision": 10211370,
+      "source": "https://de.wiktionary.org/wiki/bekommen",
+      "present": [
+        "bekomme",
+        "bekommst",
+        "bekommt",
+        "bekommen",
+        "bekommt",
+        "bekommen"
+      ],
+      "preterite_3sg": "bekam",
+      "participle": "bekommen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "verlieren",
+      "revision": 10602658,
+      "source": "https://de.wiktionary.org/wiki/verlieren",
+      "present": [
+        "verliere",
+        "verlierst",
+        "verliert",
+        "verlieren",
+        "verliert",
+        "verlieren"
+      ],
+      "preterite_3sg": "verlor",
+      "participle": "verloren",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "ziehen",
+      "revision": 10818046,
+      "source": "https://de.wiktionary.org/wiki/ziehen",
+      "present": [
+        "ziehe",
+        "ziehst",
+        "zieht",
+        "ziehen",
+        "zieht",
+        "ziehen"
+      ],
+      "preterite_3sg": "zog",
+      "participle": "gezogen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "fliegen",
+      "revision": 10820600,
+      "source": "https://de.wiktionary.org/wiki/fliegen",
+      "present": [
+        "fliege",
+        "fliegst",
+        "fliegt",
+        "fliegen",
+        "fliegt",
+        "fliegen"
+      ],
+      "preterite_3sg": "flog",
+      "participle": "geflogen",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "schneiden",
+      "revision": 10613846,
+      "source": "https://de.wiktionary.org/wiki/schneiden",
+      "present": [
+        "schneide",
+        "schneidest",
+        "schneidet",
+        "schneiden",
+        "schneidet",
+        "schneiden"
+      ],
+      "preterite_3sg": "schnitt",
+      "participle": "geschnitten",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "werfen",
+      "revision": 10673240,
+      "source": "https://de.wiktionary.org/wiki/werfen",
+      "present": [
+        "werfe",
+        "wirfst",
+        "wirft",
+        "werfen",
+        "werft",
+        "werfen"
+      ],
+      "preterite_3sg": "warf",
+      "participle": "geworfen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "sterben",
+      "revision": 10586778,
+      "source": "https://de.wiktionary.org/wiki/sterben",
+      "present": [
+        "sterbe",
+        "stirbst",
+        "stirbt",
+        "sterben",
+        "sterbt",
+        "sterben"
+      ],
+      "preterite_3sg": "starb",
+      "participle": "gestorben",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "steigen",
+      "revision": 10734011,
+      "source": "https://de.wiktionary.org/wiki/steigen",
+      "present": [
+        "steige",
+        "steigst",
+        "steigt",
+        "steigen",
+        "steigt",
+        "steigen"
+      ],
+      "preterite_3sg": "stieg",
+      "participle": "gestiegen",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "wachsen",
+      "revision": 10528223,
+      "source": "https://de.wiktionary.org/wiki/wachsen",
+      "present": [
+        "wachse",
+        "wächst",
+        "wächst",
+        "wachsen",
+        "wachst",
+        "wachsen"
+      ],
+      "preterite_3sg": "wuchs",
+      "participle": "gewachsen",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "versprechen",
+      "revision": 10458970,
+      "source": "https://de.wiktionary.org/wiki/versprechen",
+      "present": [
+        "verspreche",
+        "versprichst",
+        "verspricht",
+        "versprechen",
+        "versprecht",
+        "versprechen"
+      ],
+      "preterite_3sg": "versprach",
+      "participle": "versprochen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "empfehlen",
+      "revision": 9914030,
+      "source": "https://de.wiktionary.org/wiki/empfehlen",
+      "present": [
+        "empfehle",
+        "empfiehlst",
+        "empfiehlt",
+        "empfehlen",
+        "empfehlt",
+        "empfehlen"
+      ],
+      "preterite_3sg": "empfahl",
+      "participle": "empfohlen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "brechen",
+      "revision": 10711698,
+      "source": "https://de.wiktionary.org/wiki/brechen",
+      "present": [
+        "breche",
+        "brichst",
+        "bricht",
+        "brechen",
+        "brecht",
+        "brechen"
+      ],
+      "preterite_3sg": "brach",
+      "participle": "gebrochen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "bieten",
+      "revision": 10556674,
+      "source": "https://de.wiktionary.org/wiki/bieten",
+      "present": [
+        "biete",
+        "bietest",
+        "bietet",
+        "bieten",
+        "bietet",
+        "bieten"
+      ],
+      "preterite_3sg": "bot",
+      "participle": "geboten",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "scheinen",
+      "revision": 10691116,
+      "source": "https://de.wiktionary.org/wiki/scheinen",
+      "present": [
+        "scheine",
+        "scheinst",
+        "scheint",
+        "scheinen",
+        "scheint",
+        "scheinen"
+      ],
+      "preterite_3sg": "schien",
+      "participle": "geschienen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "entscheiden",
+      "revision": 10738001,
+      "source": "https://de.wiktionary.org/wiki/entscheiden",
+      "present": [
+        "entscheide",
+        "entscheidest",
+        "entscheidet",
+        "entscheiden",
+        "entscheidet",
+        "entscheiden"
+      ],
+      "preterite_3sg": "entschied",
+      "participle": "entschieden",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "vergleichen",
+      "revision": 10565676,
+      "source": "https://de.wiktionary.org/wiki/vergleichen",
+      "present": [
+        "vergleiche",
+        "vergleichst",
+        "vergleicht",
+        "vergleichen",
+        "vergleicht",
+        "vergleichen"
+      ],
+      "preterite_3sg": "verglich",
+      "participle": "verglichen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "genießen",
+      "revision": 10334661,
+      "source": "https://de.wiktionary.org/wiki/genießen",
+      "present": [
+        "genieße",
+        "genießt",
+        "genießt",
+        "genießen",
+        "genießt",
+        "genießen"
+      ],
+      "preterite_3sg": "genoss",
+      "participle": "genossen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "erfinden",
+      "revision": 10260390,
+      "source": "https://de.wiktionary.org/wiki/erfinden",
+      "present": [
+        "erfinde",
+        "erfindest",
+        "erfindet",
+        "erfinden",
+        "erfindet",
+        "erfinden"
+      ],
+      "preterite_3sg": "erfand",
+      "participle": "erfunden",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "betreiben",
+      "revision": 10682166,
+      "source": "https://de.wiktionary.org/wiki/betreiben",
+      "present": [
+        "betreibe",
+        "betreibst",
+        "betreibt",
+        "betreiben",
+        "betreibt",
+        "betreiben"
+      ],
+      "preterite_3sg": "betrieb",
+      "participle": "betrieben",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "verleihen",
+      "revision": 10566383,
+      "source": "https://de.wiktionary.org/wiki/verleihen",
+      "present": [
+        "verleihe",
+        "verleihst",
+        "verleiht",
+        "verleihen",
+        "verleiht",
+        "verleihen"
+      ],
+      "preterite_3sg": "verlieh",
+      "participle": "verliehen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "abwägen",
+      "revision": 10135515,
+      "source": "https://de.wiktionary.org/wiki/abwägen",
+      "present": [
+        "wäge ab",
+        "wägst ab",
+        "wägt ab",
+        "wägen ab",
+        "wägt ab",
+        "wägen ab"
+      ],
+      "preterite_3sg": "wog ab",
+      "participle": "abgewogen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "aufstehen",
+      "revision": 10801989,
+      "source": "https://de.wiktionary.org/wiki/aufstehen",
+      "present": [
+        "stehe auf",
+        "stehst auf",
+        "steht auf",
+        "stehen auf",
+        "steht auf",
+        "stehen auf"
+      ],
+      "preterite_3sg": "stand auf",
+      "participle": "aufgestanden",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "anrufen",
+      "revision": 10204290,
+      "source": "https://de.wiktionary.org/wiki/anrufen",
+      "present": [
+        "rufe an",
+        "rufst an",
+        "ruft an",
+        "rufen an",
+        "ruft an",
+        "rufen an"
+      ],
+      "preterite_3sg": "rief an",
+      "participle": "angerufen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "einkaufen",
+      "revision": 10554426,
+      "source": "https://de.wiktionary.org/wiki/einkaufen",
+      "present": [
+        "kaufe ein",
+        "kaufst ein",
+        "kauft ein",
+        "kaufen ein",
+        "kauft ein",
+        "kaufen ein"
+      ],
+      "preterite_3sg": "kaufte ein",
+      "participle": "eingekauft",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "ankommen",
+      "revision": 10693151,
+      "source": "https://de.wiktionary.org/wiki/ankommen",
+      "present": [
+        "komme an",
+        "kommst an",
+        "kommt an",
+        "kommen an",
+        "kommt an",
+        "kommen an"
+      ],
+      "preterite_3sg": "kam an",
+      "participle": "angekommen",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "abfahren",
+      "revision": 10717577,
+      "source": "https://de.wiktionary.org/wiki/abfahren",
+      "present": [
+        "fahre ab",
+        "fährst ab",
+        "fährt ab",
+        "fahren ab",
+        "fahrt ab",
+        "fahren ab"
+      ],
+      "preterite_3sg": "fuhr ab",
+      "participle": "abgefahren",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "einsteigen",
+      "revision": 10664415,
+      "source": "https://de.wiktionary.org/wiki/einsteigen",
+      "present": [
+        "steige ein",
+        "steigst ein",
+        "steigt ein",
+        "steigen ein",
+        "steigt ein",
+        "steigen ein"
+      ],
+      "preterite_3sg": "stieg ein",
+      "participle": "eingestiegen",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "aussteigen",
+      "revision": 10455928,
+      "source": "https://de.wiktionary.org/wiki/aussteigen",
+      "present": [
+        "steige aus",
+        "steigst aus",
+        "steigt aus",
+        "steigen aus",
+        "steigt aus",
+        "steigen aus"
+      ],
+      "preterite_3sg": "stieg aus",
+      "participle": "ausgestiegen",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "umsteigen",
+      "revision": 10159080,
+      "source": "https://de.wiktionary.org/wiki/umsteigen",
+      "present": [
+        "steige um",
+        "steigst um",
+        "steigt um",
+        "steigen um",
+        "steigt um",
+        "steigen um"
+      ],
+      "preterite_3sg": "stieg um",
+      "participle": "umgestiegen",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "mitkommen",
+      "revision": 10641147,
+      "source": "https://de.wiktionary.org/wiki/mitkommen",
+      "present": [
+        "komme mit",
+        "kommst mit",
+        "kommt mit",
+        "kommen mit",
+        "kommt mit",
+        "kommen mit"
+      ],
+      "preterite_3sg": "kam mit",
+      "participle": "mitgekommen",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "mitbringen",
+      "revision": 10528937,
+      "source": "https://de.wiktionary.org/wiki/mitbringen",
+      "present": [
+        "bringe mit",
+        "bringst mit",
+        "bringt mit",
+        "bringen mit",
+        "bringt mit",
+        "bringen mit"
+      ],
+      "preterite_3sg": "brachte mit",
+      "participle": "mitgebracht",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "anfangen",
+      "revision": 10637315,
+      "source": "https://de.wiktionary.org/wiki/anfangen",
+      "present": [
+        "fange an",
+        "fängst an",
+        "fängt an",
+        "fangen an",
+        "fangt an",
+        "fangen an"
+      ],
+      "preterite_3sg": "fing an",
+      "participle": "angefangen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "aufmachen",
+      "revision": 10213297,
+      "source": "https://de.wiktionary.org/wiki/aufmachen",
+      "present": [
+        "mache auf",
+        "machst auf",
+        "macht auf",
+        "machen auf",
+        "macht auf",
+        "machen auf"
+      ],
+      "preterite_3sg": "machte auf",
+      "participle": "aufgemacht",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "zumachen",
+      "revision": 10457775,
+      "source": "https://de.wiktionary.org/wiki/zumachen",
+      "present": [
+        "mache zu",
+        "machst zu",
+        "macht zu",
+        "machen zu",
+        "macht zu",
+        "machen zu"
+      ],
+      "preterite_3sg": "machte zu",
+      "participle": "zugemacht",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "fernsehen",
+      "revision": 10540660,
+      "source": "https://de.wiktionary.org/wiki/fernsehen",
+      "present": [
+        "sehe fern",
+        "siehst fern",
+        "sieht fern",
+        "sehen fern",
+        "seht fern",
+        "sehen fern"
+      ],
+      "preterite_3sg": "sah fern",
+      "participle": "ferngesehen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "aussehen",
+      "revision": 10301062,
+      "source": "https://de.wiktionary.org/wiki/aussehen",
+      "present": [
+        "sehe aus",
+        "siehst aus",
+        "sieht aus",
+        "sehen aus",
+        "seht aus",
+        "sehen aus"
+      ],
+      "preterite_3sg": "sah aus",
+      "participle": "ausgesehen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "aufräumen",
+      "revision": 10713397,
+      "source": "https://de.wiktionary.org/wiki/aufräumen",
+      "present": [
+        "räume auf",
+        "räumst auf",
+        "räumt auf",
+        "räumen auf",
+        "räumt auf",
+        "räumen auf"
+      ],
+      "preterite_3sg": "räumte auf",
+      "participle": "aufgeräumt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "einladen",
+      "revision": 10765762,
+      "source": "https://de.wiktionary.org/wiki/einladen",
+      "present": [
+        "lade ein",
+        "lädst ein",
+        "lädt ein",
+        "laden ein",
+        "ladet ein",
+        "laden ein"
+      ],
+      "preterite_3sg": "lud ein",
+      "participle": "eingeladen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "teilnehmen",
+      "revision": 10485402,
+      "source": "https://de.wiktionary.org/wiki/teilnehmen",
+      "present": [
+        "nehme teil",
+        "nimmst teil",
+        "nimmt teil",
+        "nehmen teil",
+        "nehmt teil",
+        "nehmen teil"
+      ],
+      "preterite_3sg": "nahm teil",
+      "participle": "teilgenommen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "stattfinden",
+      "revision": 10521348,
+      "source": "https://de.wiktionary.org/wiki/stattfinden",
+      "present": [
+        "finde statt",
+        "findest statt",
+        "findet statt",
+        "finden statt",
+        "findet statt",
+        "finden statt"
+      ],
+      "preterite_3sg": "fand statt",
+      "participle": "stattgefunden",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "vorbereiten",
+      "revision": 10810183,
+      "source": "https://de.wiktionary.org/wiki/vorbereiten",
+      "present": [
+        "bereite vor",
+        "bereitest vor",
+        "bereitet vor",
+        "bereiten vor",
+        "bereitet vor",
+        "bereiten vor"
+      ],
+      "preterite_3sg": "bereitete vor",
+      "participle": "vorbereitet",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "zurückkommen",
+      "revision": 10202492,
+      "source": "https://de.wiktionary.org/wiki/zurückkommen",
+      "present": [
+        "komme zurück",
+        "kommst zurück",
+        "kommt zurück",
+        "kommen zurück",
+        "kommt zurück",
+        "kommen zurück"
+      ],
+      "preterite_3sg": "kam zurück",
+      "participle": "zurückgekommen",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "ausgehen",
+      "revision": 10549904,
+      "source": "https://de.wiktionary.org/wiki/ausgehen",
+      "present": [
+        "gehe aus",
+        "gehst aus",
+        "geht aus",
+        "gehen aus",
+        "geht aus",
+        "gehen aus"
+      ],
+      "preterite_3sg": "ging aus",
+      "participle": "ausgegangen",
+      "auxiliary": "sein",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "sich freuen",
+      "revision": 10527868,
+      "source": "https://de.wiktionary.org/wiki/freuen",
+      "present": [
+        "freue mich",
+        "freust dich",
+        "freut sich",
+        "freuen uns",
+        "freut euch",
+        "freuen sich"
+      ],
+      "preterite_3sg": "freute sich",
+      "participle": "gefreut",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "sich treffen",
+      "revision": 10770068,
+      "source": "https://de.wiktionary.org/wiki/treffen",
+      "present": [
+        "treffe mich",
+        "triffst dich",
+        "trifft sich",
+        "treffen uns",
+        "trefft euch",
+        "treffen sich"
+      ],
+      "preterite_3sg": "traf sich",
+      "participle": "getroffen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "sich setzen",
+      "revision": 10804967,
+      "source": "https://de.wiktionary.org/wiki/setzen",
+      "present": [
+        "setze mich",
+        "setzt dich",
+        "setzt sich",
+        "setzen uns",
+        "setzt euch",
+        "setzen sich"
+      ],
+      "preterite_3sg": "setzte sich",
+      "participle": "gesetzt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "sich interessieren",
+      "revision": 10193432,
+      "source": "https://de.wiktionary.org/wiki/interessieren",
+      "present": [
+        "interessiere mich",
+        "interessierst dich",
+        "interessiert sich",
+        "interessieren uns",
+        "interessiert euch",
+        "interessieren sich"
+      ],
+      "preterite_3sg": "interessierte sich",
+      "participle": "interessiert",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "sich erinnern",
+      "revision": 10802344,
+      "source": "https://de.wiktionary.org/wiki/erinnern",
+      "present": [
+        "erinnere mich",
+        "erinnerst dich",
+        "erinnert sich",
+        "erinnern uns",
+        "erinnert euch",
+        "erinnern sich"
+      ],
+      "preterite_3sg": "erinnerte sich",
+      "participle": "erinnert",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "sich fühlen",
+      "revision": 10810282,
+      "source": "https://de.wiktionary.org/wiki/fühlen",
+      "present": [
+        "fühle mich",
+        "fühlst dich",
+        "fühlt sich",
+        "fühlen uns",
+        "fühlt euch",
+        "fühlen sich"
+      ],
+      "preterite_3sg": "fühlte sich",
+      "participle": "gefühlt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "sich beeilen",
+      "revision": 10279539,
+      "source": "https://de.wiktionary.org/wiki/beeilen",
+      "present": [
+        "beeile mich",
+        "beeilst dich",
+        "beeilt sich",
+        "beeilen uns",
+        "beeilt euch",
+        "beeilen sich"
+      ],
+      "preterite_3sg": "beeilte sich",
+      "participle": "beeilt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "sich ausruhen",
+      "revision": 10235019,
+      "source": "https://de.wiktionary.org/wiki/ausruhen",
+      "present": [
+        "ruhe mich aus",
+        "ruhst dich aus",
+        "ruht sich aus",
+        "ruhen uns aus",
+        "ruht euch aus",
+        "ruhen sich aus"
+      ],
+      "preterite_3sg": "ruhte sich aus",
+      "participle": "ausgeruht",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "sich ärgern",
+      "revision": 10564314,
+      "source": "https://de.wiktionary.org/wiki/ärgern",
+      "present": [
+        "ärgere mich",
+        "ärgerst dich",
+        "ärgert sich",
+        "ärgern uns",
+        "ärgert euch",
+        "ärgern sich"
+      ],
+      "preterite_3sg": "ärgerte sich",
+      "participle": "geärgert",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "sich entschuldigen",
+      "revision": 10648756,
+      "source": "https://de.wiktionary.org/wiki/entschuldigen",
+      "present": [
+        "entschuldige mich",
+        "entschuldigst dich",
+        "entschuldigt sich",
+        "entschuldigen uns",
+        "entschuldigt euch",
+        "entschuldigen sich"
+      ],
+      "preterite_3sg": "entschuldigte sich",
+      "participle": "entschuldigt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "sich vorstellen",
+      "revision": 10182218,
+      "source": "https://de.wiktionary.org/wiki/vorstellen",
+      "present": [
+        "stelle mich vor",
+        "stellst dich vor",
+        "stellt sich vor",
+        "stellen uns vor",
+        "stellt euch vor",
+        "stellen sich vor"
+      ],
+      "preterite_3sg": "stellte sich vor",
+      "participle": "vorgestellt",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    },
+    {
+      "inf": "sich anziehen",
+      "revision": 10802229,
+      "source": "https://de.wiktionary.org/wiki/anziehen",
+      "present": [
+        "ziehe mich an",
+        "ziehst dich an",
+        "zieht sich an",
+        "ziehen uns an",
+        "zieht euch an",
+        "ziehen sich an"
+      ],
+      "preterite_3sg": "zog sich an",
+      "participle": "angezogen",
+      "auxiliary": "haben",
+      "present_method": "singular source fields; ihr from imperative-plural field (same form) except modals from Lingolia full table; wir/sie from infinitive rule and source separable prefix, sein exception; reflexive pronoun placement reviewed separately",
+      "matched": true
+    }
+  ]
+}
