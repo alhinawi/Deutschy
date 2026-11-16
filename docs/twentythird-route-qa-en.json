@@ -1,0 +1,426 @@
+{
+  "routes": 21,
+  "checks": 42,
+  "results": [
+    {
+      "route": "",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "German is easier with pictures and plain explanations",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "German is easier with pictures and plain explanations",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "reading/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Reading",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "reading/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Reading",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "reading/alltag-a1-pause/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Eine kleine Pause",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "reading/alltag-a1-pause/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Eine kleine Pause",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "reading/alltag-a2-hefte/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Die Seiten bleiben zusammen",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "reading/alltag-a2-hefte/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Die Seiten bleiben zusammen",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "reading/alltag-b1-trinkstation/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Was der Hinweis wirklich sagt",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "reading/alltag-b1-trinkstation/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Was der Hinweis wirklich sagt",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "dialogues/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Dialogues",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "dialogues/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Dialogues",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "conversation/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "A1 and A2 conversation practice",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "conversation/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "A1 and A2 conversation practice",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "dictation/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Listen and type",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "dictation/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Listen and type",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "lessons/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Lessons · Level A1",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "lessons/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Lessons · Level A1",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "lessons/pausenbedarf/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Pausenbedarf",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "lessons/pausenbedarf/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Pausenbedarf",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "lessons/schreibzubehoer/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Schreibzubehör",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "lessons/schreibzubehoer/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Schreibzubehör",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "games/quiz/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "games/quiz/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "progress/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "My progress",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "progress/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "My progress",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "credits/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Photo credits",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "credits/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Photo credits",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/satzbau/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Word order and questions",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/satzbau/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Word order and questions",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/praesens/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "The present tense",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/negation/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Negation: nicht and kein",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/praesens/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "The present tense",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/negation/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Negation: nicht and kein",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/trennbare-verben/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Separable verbs",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/trennbare-verben/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Separable verbs",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/dativ/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "The dative case",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/dativ/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "The dative case",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/perfekt/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "The spoken past: Perfekt",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/perfekt/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "The spoken past: Perfekt",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "verbs/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Verbs and conjugation",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "verbs/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Verbs and conjugation",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    }
+  ]
+}
