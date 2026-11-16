@@ -1,0 +1,2 @@
+# Guided Konjunktiv II
+Existing /b1/ Konjunktiv examples reused, no competing bank or route. Four guided purpose/person/form checks contrast polite request, wish, present hypothetical and advice. Explicit named-form, umlaut and capitalization checks. Existing original MCQ remains. No past-counterfactual or automatic language-grade claim. Four correct typed paths, mobile axe/typecheck/build pass. Screenshot inspected.
