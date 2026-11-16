@@ -15,4 +15,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-pause',dialogue:'pause-einpacken'},
  {reading:'alltag-a2-hefte',dialogue:'seiten-befestigen'},
  {reading:'alltag-b1-trinkstation',dialogue:'becher-hinweis'},
+ {reading:'alltag-a1-backformen',dialogue:'sterne-ausstechen'},
+ {reading:'alltag-a2-badablage',dialogue:'schale-zurueck'},
+ {reading:'alltag-b1-leihformen',dialogue:'form-weiterleihen'},
 ];

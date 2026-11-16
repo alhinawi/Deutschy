@@ -1063,3 +1063,218 @@ Object.assign(dialogueEvidence,{
     "Tee und Wasser. Die zusätzliche Sorte ist noch nicht bestätigt."
   ]
 });
+
+everydayDialogues.push(...([
+  {
+    "id": "sterne-ausstechen",
+    "level": "A1",
+    "title": [
+      "Welche Form brauchen wir?",
+      "محتاجين أنهي قالب؟"
+    ],
+    "lines": [
+      [
+        "Mila",
+        "Wo ist die kleine Ausstechform?",
+        "فين قطّاعة العجين الصغيرة؟"
+      ],
+      [
+        "Ben",
+        "Auf dem Tisch. Sie hat die Form eines Sterns.",
+        "على الترابيزة. شكلها نجمة."
+      ],
+      [
+        "Mila",
+        "Gut. Ich steche die Sterne aus. Legst du sie auf das Blech?",
+        "تمام. هقطع النجوم. تحطها إنت على الصينية؟"
+      ],
+      [
+        "Ben",
+        "Ja. Brauchen wir auch die runde Backform?",
+        "أيوه. محتاجين كمان قالب الفرن المدوّر؟"
+      ],
+      [
+        "Mila",
+        "Nein, sie bleibt heute im Schrank.",
+        "لأ، يفضل النهارده في الدولاب."
+      ],
+      [
+        "Ben",
+        "Unsere Freundin kommt am Nachmittag.",
+        "صاحبتنا جاية بعد الضهر."
+      ],
+      [
+        "Mila",
+        "Dann legen wir drei fertige Sterne für sie auf einen Teller.",
+        "يبقى نحط لها 3 نجوم مستويين في طبق."
+      ]
+    ],
+    "q": [
+      [
+        "Wo liegt die Ausstechform?",
+        "Auf dem Tisch.",
+        "Im Bus.",
+        "Unter dem Bett."
+      ],
+      [
+        "Welche Form brauchen sie heute nicht?",
+        "Die runde Backform.",
+        "Die Sternform.",
+        "Beide Formen."
+      ],
+      [
+        "Für wen sind die drei fertigen Sterne?",
+        "Für ihre Freundin.",
+        "Für einen Verkäufer.",
+        "Für die Nachbarin im Urlaub."
+      ]
+    ]
+  },
+  {
+    "id": "schale-zurueck",
+    "level": "A2",
+    "title": [
+      "Mitgenommen oder geschenkt?",
+      "اتاخدت ولا هدية؟"
+    ],
+    "lines": [
+      [
+        "Dalia",
+        "Ich habe deine kleine Seifenschale in meiner Tasche gefunden. War sie für mich?",
+        "لقيت طبق الصابون الصغير بتاعك في شنطتي. هو كان ليا؟"
+      ],
+      [
+        "Sara",
+        "Nein, die Schale brauche ich noch für das Gästebad.",
+        "لأ، لسه محتاجة الطبق لحمام الضيوف."
+      ],
+      [
+        "Dalia",
+        "Dann bringe ich sie beim nächsten Besuch zurück.",
+        "يبقى أرجعه في الزيارة الجاية."
+      ],
+      [
+        "Sara",
+        "Den leeren Seifenspender kannst du behalten. Den hatte ich für dich zur Seite gestellt.",
+        "موزّع الصابون الفاضي ينفع تحتفظي بيه. ده كنت حاطاه لك على جنب."
+      ],
+      [
+        "Dalia",
+        "Danke. Ich schreibe mir den Unterschied auf.",
+        "شكراً. هكتب الفرق عشان أفتكره."
+      ],
+      [
+        "Sara",
+        "Und die Nagelschere?",
+        "ومقص الضوافر؟"
+      ],
+      [
+        "Dalia",
+        "Die gehört mir. Sie kommt in mein Etui, die Schale getrennt in eine Schachtel.",
+        "ده بتاعي أنا. هحطه في الجراب، والطبق لوحده في علبة."
+      ]
+    ],
+    "q": [
+      [
+        "Warum braucht Sara die Schale zurück?",
+        "Sie braucht sie für das Gästebad.",
+        "Sie möchte sie sofort wegwerfen.",
+        "Sie braucht sie zum Backen."
+      ],
+      [
+        "Welchen Gegenstand darf Dalia behalten?",
+        "Den leeren Seifenspender.",
+        "Die Seifenschale.",
+        "Saras ganze Tasche."
+      ],
+      [
+        "Wem gehört die Nagelschere?",
+        "Dalia.",
+        "Einem unbekannten Gast.",
+        "Einer Lehrerin."
+      ]
+    ]
+  },
+  {
+    "id": "form-weiterleihen",
+    "level": "B1",
+    "title": [
+      "Erst fragen, dann zusagen",
+      "نسأل الأول وبعدين نوعد"
+    ],
+    "lines": [
+      [
+        "Paul",
+        "Darf ich eine der geliehenen Backformen bis Dienstag mitnehmen?",
+        "ينفع آخد قالب من المستعارين لحد التلات؟"
+      ],
+      [
+        "Jonas",
+        "Ich soll beide am Sonntagabend zurückbringen. Ich kann das nicht allein ändern.",
+        "المفروض أرجع الاتنين الأحد بالليل. مايصحش أغير ده لوحدي."
+      ],
+      [
+        "Paul",
+        "Kannst du deine Nachbarin fragen?",
+        "تقدر تسأل جارتك؟"
+      ],
+      [
+        "Jonas",
+        "Ja. Bis sie antwortet, bleibt der bisherige Termin bestehen.",
+        "أيوه. لحد ما ترد، الميعاد القديم زي ما هو."
+      ],
+      [
+        "Paul",
+        "Und wenn sie nicht antwortet?",
+        "ولو مردتش؟"
+      ],
+      [
+        "Jonas",
+        "Dann ist das keine Zustimmung. Wir suchen vorsichtshalber auch nach einer eigenen Form.",
+        "ده مش معناه موافقة. ندور احتياطي كمان على قالب بتاعنا."
+      ],
+      [
+        "Paul",
+        "Gut. Falls sie zustimmt, klären wir auch, wer die Form zurückbringt.",
+        "تمام. لو وافقت، نحدد كمان مين هيرجع القالب."
+      ]
+    ],
+    "q": [
+      [
+        "Wann sollen die Formen ursprünglich zurück?",
+        "Am Sonntagabend.",
+        "Erst im nächsten Monat.",
+        "Am Mittwochmorgen."
+      ],
+      [
+        "Was bedeutet eine ausbleibende Antwort für Jonas?",
+        "Keine Zustimmung zur Änderung.",
+        "Eine automatische Verlängerung.",
+        "Ein Geschenk."
+      ],
+      [
+        "Was wollen sie bei einer Zustimmung zusätzlich klären?",
+        "Wer die Form zurückbringt.",
+        "Wie man alle Termine löscht.",
+        "Wer die Nachbarin ersetzt."
+      ]
+    ]
+  }
+] satisfies Dialogue[]));
+Object.assign(dialogueEvidence,{
+  "sterne-ausstechen": [
+    "Auf dem Tisch. Sie hat die Form eines Sterns.",
+    "Nein, sie bleibt heute im Schrank.",
+    "Dann legen wir drei fertige Sterne für sie auf einen Teller."
+  ],
+  "schale-zurueck": [
+    "Nein, die Schale brauche ich noch für das Gästebad.",
+    "Den leeren Seifenspender kannst du behalten. Den hatte ich für dich zur Seite gestellt.",
+    "Die gehört mir. Sie kommt in mein Etui, die Schale getrennt in eine Schachtel."
+  ],
+  "form-weiterleihen": [
+    "Ich soll beide am Sonntagabend zurückbringen. Ich kann das nicht allein ändern.",
+    "Dann ist das keine Zustimmung. Wir suchen vorsichtshalber auch nach einer eigenen Form.",
+    "Gut. Falls sie zustimmt, klären wir auch, wer die Form zurückbringt."
+  ]
+});

@@ -116,3 +116,24 @@ Object.assign(readingEvidence,{
     "Nach der Überarbeitung liest jemand die Einladung ohne Vorwissen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-backformen": [
+    "Sie hat die Form eines Sterns.",
+    "Ihr Bruder legt die Sterne auf ein Blech.",
+    "Eine runde Backform brauchen sie heute nicht. Sie bleibt im Schrank.",
+    "Für sie legen sie drei fertige Sterne auf einen Teller."
+  ],
+  "alltag-a2-badablage": [
+    "Ob ihre Schwester sie ihr schenken wollte, weiß sie aber nicht.",
+    "Dalia soll sie beim nächsten Besuch zurückbringen.",
+    "Einen leeren Seifenspender darf sie dagegen behalten.",
+    "So denkt sie bei ihrem nächsten Besuch an die Rückgabe."
+  ],
+  "alltag-b1-leihformen": [
+    "Sie vereinbaren, dass er beide Formen am Sonntagabend sauber zurückbringt.",
+    "Bis eine Antwort vorliegt, bleibt es bei der vereinbarten Rückgabe am Sonntag.",
+    "Später stimmt die Nachbarin einer längeren Ausleihe für genau diese eine Form zu.",
+    "Die andere braucht sie am Sonntag zurück. Jonas bestätigt beide unterschiedlichen Termine schriftlich."
+  ]
+});
