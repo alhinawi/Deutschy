@@ -12,7 +12,7 @@ const Tick = ({ ok }: { ok: boolean }) => ok
   ? <svg viewBox="0 0 24 24" className="h-5 w-5 shrink-0 text-good" fill="none" stroke="currentColor" strokeWidth="3" aria-label="ok"><path d="M5 12l5 5 9-10" /></svg>
   : <svg viewBox="0 0 24 24" className="h-5 w-5 shrink-0 text-muted" fill="none" stroke="currentColor" strokeWidth="2" aria-label="missing"><circle cx="12" cy="12" r="8" /></svg>;
 
-export default function WritingView({ onlyLevel }: { onlyLevel?: 'A2' } = {}) {
+export default function WritingView({ onlyLevel }: { onlyLevel?: 'A2' | 'B1' } = {}) {
   const t = useT();
   const { lang } = useLang();
   const [lv, setLv] = useState<(typeof LV)[number]>('all');
@@ -21,7 +21,7 @@ export default function WritingView({ onlyLevel }: { onlyLevel?: 'A2' } = {}) {
   if (open) return <Task task={open} back={() => setOpen(null)} />;
   return (
     <div className="space-y-6">
-      <h1 className="ar-title text-4xl font-bold">{onlyLevel ? t('تدريب كتابة A2', 'A2 writing practice') : t('تدريب الكتابة', 'Writing practice')}</h1>
+      <h1 className="ar-title text-4xl font-bold">{onlyLevel ? t(`تدريب كتابة ${onlyLevel}`, `${onlyLevel} writing practice`) : t('تدريب الكتابة', 'Writing practice')}</h1>
       <p className="text-muted">{t('مهام قصيرة لكل مستوى. اكتب بنفسك، والصفحة بتشيّك لو كتبت العبارات الأساسية المطلوبة وعدد الكلمات. مفيش تقييم آلي للغة، وفي الآخر تقدر تشوف نموذج.', 'Short tasks for each level. You write it yourself and the page checks that the key phrases and word count are there. There is no automatic grading of your German, and you can see a model at the end.')}</p>
       <div className="flex flex-wrap gap-2">
         {!onlyLevel && LV.map((l) => <button key={l} onClick={() => setLv(l)} className={`num rounded-full border px-4 py-2 ${lv === l ? 'border-accent bg-accent text-accent-ink' : 'border-line bg-paper'}`}>{l === 'all' ? t('الكل', 'All') : l}</button>)}
