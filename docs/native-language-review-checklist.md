@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the twenty-fifth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the twenty-sixth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -141,6 +141,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/lessons/schuhpflege/` and `/lessons/geschenkverpackung/` | Review five articles/plurals and photo cues: shoehorn, shoe brush, shoe tree, gift paper and ribbon. Same-form plurals use the existing convention. Geschenkpapiere is the dictionary type plural; the material is commonly mass. Dictionary/source checks are not editorial sign-off. |
 | [ ] | `/word-formation/` and `/dictation/` | Review per-pattern counts, scoped reset and temporary/no-points wording in both languages. All existing rule examples/eight answers remain unchanged. New focused dictation has 46 sentences; listen on a real German device voice. Mocked voice is not pronunciation review. |
 
+### Twenty-sixth update: new content, still pending
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-kleiner-tisch/` and `/dialogues/#vier-plaetze-decken` | Review four-place table setting, the missing glass, arrival time and tray placement. Check all 7 answers and exact evidence. Check Egyptian Arabic gender/pronoun references. |
+| [ ] | `/reading/alltag-a2-flaschenregal/` and `/dialogues/#oeffner-fester-platz` | Review bottle storage, vase versus recycling box, funnel drawer and fixed opener bowl. Check all 7 answers and evidence. Fictional home routine, not recycling rules for a real locality. |
+| [ ] | `/reading/alltag-b1-tischaufteilung/` and `/dialogues/#getraenke-andere-wand` | Review trial layouts, narrower doorway path, drinks shelf and limited conclusion. Check all 7 answers/evidence. The text does not generalize its household result to every room or group. |
+| [ ] | `src/lib/exercises-tableware.ts` | Review 24 appended accusative, possessive, modal, imperative, comparative and dative-preposition questions/explanations. All 550 earlier rows retain positions and content. Confirm unique supplied answers; Hol/Hole, Leg/Lege and schmaler/schmäler variation must not create misleading distractors. |
+| [ ] | `/lessons/tischdecken/` and `/lessons/flaschenhelfer/` | Review five articles/plurals and clear photo cues: coaster, table napkin, serving tray, funnel and bottle opener. Same-form plurals retain the established convention. Sources/credits checked and complete objects padded, but dictionary checks are not human sign-off. |
+| [ ] | `/practical-words/` and `/dictation/` | Review scoped search, all-group recovery, bulk reveal/hide and temporary/no-record wording in both languages. All 24 glossary terms/examples unchanged. New focused dictation has 44 sentences; listen on a real German device voice. Mocked voice verifies selection, not pronunciation. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -155,7 +166,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **702 photo nouns / 69 topics**, **93 reading texts / 325 reading questions**, **41 core grammar topics / 550 core grammar questions**, **33 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **707 photo nouns / 71 topics**, **96 reading texts / 337 reading questions**, **41 core grammar topics / 574 core grammar questions**, **36 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -167,7 +178,7 @@ This is an inventory, not completed review. Snapshot: **702 photo nouns / 69 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 13 · A2 26 · B1 24 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 14 · A2 27 · B1 25 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
