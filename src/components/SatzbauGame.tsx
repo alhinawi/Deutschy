@@ -19,6 +19,7 @@ export default function SatzbauGame() {
   return (
     <div className="space-y-6">
       <Link href="/games/" className="text-sm text-muted hover:text-ink">← {t('الألعاب', 'Games')}</Link>
+      <h1 className="ar-title text-3xl font-bold">{t("ركّب الجملة","Build the sentence")}</h1><p>{t("المكان التاني معناه المكوّن التاني، مش تاني كلمة. التدريب بيقارن بنموذج وترتيبات بديلة محددة؛ لو إجابتك مختلفة، ده مش حكم إن كل ترتيب تاني غلط. النتيجة تدريب شخصي مش تقييم رسمي.","Second position means the second constituent, not the second word. This checks a model and listed alternatives, not every grammatical order. A mismatch is not proof every other order is wrong. This is practice, not an official assessment.")}</p>
       <div className="flex flex-wrap gap-2">
         <button onClick={() => { setPat(''); setRound((r) => r + 1); }} className={`rounded-full border px-4 py-2 ${pat === '' ? 'border-accent bg-accent text-accent-ink' : 'border-line bg-paper'}`}>{t('الكل', 'All')}</button>
         {patterns.map((p) => (
@@ -64,14 +65,14 @@ function Rounds({ pat, again }: { pat: Pattern | ''; again: () => void }) {
     <div className="mx-auto max-w-md space-y-4">
       <div className="h-1.5 overflow-hidden rounded-full bg-line"><div className="h-full bg-accent" style={{ width: `${(i / qs.length) * 100}%` }} /></div>
       <div className="flex items-center justify-between"><span className="de text-sm font-bold text-accent">{rule.t}</span><span dir="ltr" className="num text-sm text-muted">{i + 1} / {qs.length}</span></div>
-      <p className="ar-title text-center text-xl">{lang === 'ar' ? <Mixed text={q.ar} /> : q.en}</p>
+      <p className="satzbau-prompt ar-title text-center text-xl">{lang === 'ar' ? <Mixed text={q.ar} /> : q.en}</p>
       <div dir="ltr" className="de flex min-h-16 flex-wrap items-center gap-2 rounded-2xl border border-dashed border-line bg-card p-3" lang="de">
         {chosen.map((c, p) => (
           <button key={p} disabled={res !== null} onClick={() => setChosen(chosen.filter((_, j) => j !== p))} className="rounded-lg border border-accent bg-paper px-3 py-1.5 text-lg font-semibold">{toks[c].w}</button>
         ))}
         {chosen.length === 0 && <span className="text-muted">{t('اضغط على الكلمات بالترتيب', 'Tap the words in order')}</span>}
       </div>
-      <div dir="ltr" className="de flex flex-wrap justify-center gap-2" lang="de">
+      <div dir="ltr" className="satzbau-bank de flex flex-wrap justify-center gap-2" lang="de">
         {toks.map((tk, c) => (
           <button key={c} disabled={chosen.includes(c) || res !== null} onClick={() => setChosen([...chosen, c])} className="rounded-lg border border-line bg-paper px-3 py-1.5 text-lg font-semibold disabled:opacity-30">{tk.w}</button>
         ))}
@@ -82,7 +83,7 @@ function Rounds({ pat, again }: { pat: Pattern | ''; again: () => void }) {
           <p dir="ltr" className={`de text-xl font-semibold ${res ? 'text-good' : 'text-bad'}`} lang="de">{q.de}</p>
           <p className="ar-title text-muted">{lang === 'ar' ? <Mixed text={rule.ruleAr} /> : rule.ruleEn}</p>
           <div className="flex gap-3">
-            <button onClick={() => speak(q.de)} className="rounded-full border border-line px-4 py-2"><Speaker /></button>
+            <button aria-label={t("اسمع النموذج","Listen to model")} onClick={() => speak(q.de)} className="rounded-full border border-line px-4 py-2"><Speaker /></button>
             <button onClick={() => { setI(i + 1); setRes(null); setChosen([]); }} className="flex-1 rounded-full bg-accent py-2 font-bold text-accent-ink">{i + 1 >= qs.length ? t('النتيجة', 'Result') : t('التالي', 'Next')}</button>
           </div>
         </div>
