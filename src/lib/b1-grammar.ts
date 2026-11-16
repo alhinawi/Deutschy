@@ -2,7 +2,7 @@ export type Drill = { id: string; name: string; ar: string; en: string; rows: st
 export const b1Grammar: Drill[] = [
  { id: 'konjunktiv', name: 'Konjunktiv II', ar: 'للطلب بأدب أو حاجة بتتخيلها: würde + المصدر. احفظ hätte و wäre و könnte. بعد wenn الفعل في الآخر.', en: 'For polite requests and imagined situations: würde + infinitive. Learn hätte, wäre and könnte. After wenn, the verb goes last.', rows: [
  ['Wenn ich mehr Zeit hätte, ___ ich öfter lesen.', 'würde', 'werde', 'wurde'],
- ['___ Sie mir bitte helfen?', 'Könnten', 'Konnten', 'Können werden'],
+ ['Höfliche Bitte: ___ Sie mir bitte helfen?', 'Könnten', 'Konnten', 'Können werden'],
  ['Ich ___ gern ein Glas Wasser.', 'hätte', 'hatte', 'habe gehabt'],
  ['Wenn ich du ___, würde ich zum Arzt gehen.', 'wäre', 'war', 'bin'],
  ['Wir ___ gern nach Wien fahren.', 'würden', 'wurden', 'worden'],
@@ -15,7 +15,7 @@ export const b1Grammar: Drill[] = [
  ['Die Briefe ___ jeden Morgen gebracht.', 'werden', 'wird', 'hat'],
  ['Das Fenster wird ___. (öffnen)', 'geöffnet', 'öffnen', 'geöffnen'],
  ['Die Straße ___ gestern gesperrt.', 'wurde', 'wird werden', 'hat'],
- ['Der Kuchen wird ___ meiner Mutter gebacken.', 'von', 'mit', 'bei'],
+ ['Wer backt den Kuchen? Der Kuchen wird ___ meiner Mutter gebacken.', 'von', 'mit', 'bei'],
  ['Die Zimmer ___ gestern gereinigt.', 'wurden', 'wurde', 'hatte'],
  ['Das Auto wird morgen ___. (reparieren)', 'repariert', 'gerepariert', 'reparieren'],
  ['Aktiv: Man schließt die Tür. Passiv: Die Tür ___.', 'wird geschlossen', 'hat geschlossen', 'wird schließen'],
@@ -31,9 +31,9 @@ export const b1Grammar: Drill[] = [
  ['Die Freunde, ___ wir helfen, ziehen morgen um.', 'denen', 'die', 'den'],
  ] },
  { id: 'nebensaetze', name: 'obwohl / damit / falls', ar: 'obwohl = رغم إن، damit = عشان (هدف)، falls = لو حصل إن. التلاتة بيخلّوا الفعل في آخر الجملة. لو بدأت بيهم، الفعل بتاع الجملة الرئيسية بييجي بعد الفاصلة على طول.', en: 'Obwohl expresses contrast, damit a purpose, falls a condition. All send the verb to the end. If the subordinate clause comes first, the main verb follows the comma.', rows: [
- ['Er geht spazieren, ___ es regnet.', 'obwohl', 'damit', 'falls'],
- ['Ich spreche langsam, ___ du mich verstehst.', 'damit', 'obwohl', 'falls'],
- ['___ du Hilfe brauchst, ruf mich an.', 'Falls', 'Damit', 'Obwohl'],
+ ['Gegensatz: Er geht spazieren, ___ es regnet.', 'obwohl', 'damit', 'falls'],
+ ['Ziel: Ich spreche langsam, ___ du mich verstehst.', 'damit', 'obwohl', 'falls'],
+ ['Bedingung: ___ du Hilfe brauchst, ruf mich an.', 'Falls', 'Damit', 'Obwohl'],
  ['Sie lernt viel, obwohl sie wenig Zeit ___.', 'hat', 'haben', 'hast'],
  ['Wir sparen Geld, damit wir eine Reise machen ___.', 'können', 'kann', 'könnt'],
  ['Falls der Zug ausfällt, ___ wir den Bus.', 'nehmen', 'wir nehmen', 'genommen'],

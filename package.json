@@ -8,7 +8,8 @@
     "typecheck": "tsc --noEmit",
     "images": "node scripts/fetch-images.mjs",
     "verify": "node scripts/verify-content.mjs",
-    "qa:export": "node scripts/qa-export.mjs"
+    "qa:export": "node scripts/qa-export.mjs",
+    "test:study": "node scripts/test-study.mjs"
   },
   "dependencies": {
     "hono": "^4.13.18",

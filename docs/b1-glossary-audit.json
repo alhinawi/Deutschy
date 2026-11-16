@@ -1,0 +1,116 @@
+[
+  {
+    "word": "Ausbildung",
+    "genders": [
+      "f"
+    ],
+    "plurals": [
+      "Ausbildungen"
+    ],
+    "url": "https://de.wiktionary.org/wiki/Ausbildung"
+  },
+  {
+    "word": "Betreuerin",
+    "genders": [
+      "f"
+    ],
+    "plurals": [
+      "Betreuerinnen"
+    ],
+    "url": "https://de.wiktionary.org/wiki/Betreuerin"
+  },
+  {
+    "word": "Bremse",
+    "genders": [
+      "f",
+      "f"
+    ],
+    "plurals": [
+      "Bremsen",
+      "Bremsen"
+    ],
+    "url": "https://de.wiktionary.org/wiki/Bremse"
+  },
+  {
+    "word": "Ersatzteil",
+    "genders": [
+      "m",
+      "n"
+    ],
+    "plurals": [
+      "Ersatzteile"
+    ],
+    "url": "https://de.wiktionary.org/wiki/Ersatzteil"
+  },
+  {
+    "word": "Gegenstand",
+    "genders": [
+      "m"
+    ],
+    "plurals": [
+      "Gegenstände"
+    ],
+    "url": "https://de.wiktionary.org/wiki/Gegenstand"
+  },
+  {
+    "word": "Hausverwaltung",
+    "genders": [
+      "f"
+    ],
+    "plurals": [
+      "Hausverwaltungen"
+    ],
+    "url": "https://de.wiktionary.org/wiki/Hausverwaltung"
+  },
+  {
+    "word": "Kenntnis",
+    "genders": [
+      "f"
+    ],
+    "plurals": [
+      "Kenntnisse"
+    ],
+    "url": "https://de.wiktionary.org/wiki/Kenntnis"
+  },
+  {
+    "word": "Kreuzung",
+    "genders": [
+      "f"
+    ],
+    "plurals": [
+      "Kreuzungen"
+    ],
+    "url": "https://de.wiktionary.org/wiki/Kreuzung"
+  },
+  {
+    "word": "Missverständnis",
+    "genders": [
+      "n"
+    ],
+    "plurals": [
+      "Missverständnisse"
+    ],
+    "url": "https://de.wiktionary.org/wiki/Missverst%C3%A4ndnis"
+  },
+  {
+    "word": "Stau",
+    "genders": [
+      "m"
+    ],
+    "plurals": [
+      "Staus",
+      "Staue"
+    ],
+    "url": "https://de.wiktionary.org/wiki/Stau"
+  },
+  {
+    "word": "Unterstützung",
+    "genders": [
+      "f"
+    ],
+    "plurals": [
+      "Unterstützungen"
+    ],
+    "url": "https://de.wiktionary.org/wiki/Unterst%C3%BCtzung"
+  }
+]
