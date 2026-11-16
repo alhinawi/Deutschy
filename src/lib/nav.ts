@@ -10,6 +10,7 @@ export const sidebar: NavGroup[] = [
     { href: '/grammar/', ar: 'أكاديمية القواعد', en: 'Grammar academy' },
     { href: '/verbs/', ar: 'الأفعال والتصريف', en: 'Verbs' },
     { href: '/exam/', ar: 'امتحان المستوى', en: 'Level exam' },
+    { href: '/verbs/trainer/', ar: 'تدريب التصريف', en: 'Conjugation trainer' },
     { href: '/verbs/quiz/', ar: 'اختبار الأفعال', en: 'Verb quiz' },
     { href: '/reading/', ar: 'القراءة', en: 'Reading' },
     { href: '/lessons/', ar: 'المفردات بالموضوع', en: 'Vocabulary by topic' },
