@@ -1,0 +1,3 @@
+import type { Metadata } from 'next';
+export const metadata: Metadata = {"title": "German writing practice - Deutschy", "description": "Guided German writing prompts with model answers and phrase checklists. Save drafts and practice short messages and emails.", "alternates": {"canonical": "/writing/"}, "openGraph": {"title": "German writing practice - Deutschy", "description": "Guided German writing prompts with model answers and phrase checklists. Save drafts and practice short messages and emails.", "url": "/writing/", "images": [{"url": "/og.png", "width": 1200, "height": 630, "alt": "Deutschy - German practice"}]}};
+export default function Layout({ children }: { children: React.ReactNode }) { return children; }

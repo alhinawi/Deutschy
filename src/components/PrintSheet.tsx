@@ -25,7 +25,7 @@ export default function PrintSheet({ s }: { s: Sheet }) {
           {b.note && <p className="ar-title text-muted">{ar ? <Mixed text={b.note[0]} /> : b.note[1]}</p>}
           {b.lines && <ul dir="ltr" className="space-y-1">{b.lines.map((l, m) => <li key={m} className="de text-lg">{l.de}{l.ar && ar && <span dir="rtl" className="ar-title block text-sm text-muted"><Mixed text={l.ar} /></span>}</li>)}</ul>}
           {b.table && (
-            <div dir="ltr" className="overflow-x-auto border border-line">
+            <div dir="ltr" tabIndex={0} role="region" aria-label={ar ? b.h[0] : b.h[1]} className="overflow-x-auto border border-line">
               <table className="de num w-full text-start text-sm sm:text-base">
                 {b.table.h.some(Boolean) && <thead><tr className="border-b border-line bg-paper">{b.table.h.map((h, i) => <th key={i} className="px-2 py-1.5 text-start font-bold">{h}</th>)}</tr></thead>}
                 <tbody>{b.table.r.map((r, i) => <tr key={i} className="border-b border-line last:border-0">{r.map((c, j) => <td key={j} className={`px-2 py-1 ${j === 0 ? 'font-bold' : ''}`}>{c}</td>)}</tr>)}</tbody>

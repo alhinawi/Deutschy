@@ -27,7 +27,7 @@ export default function ThemeView({ groups = themes, a2 = false }: { groups?: Th
       </div>
       <div className="flex flex-wrap gap-2">
         {groups.map((x) => (
-          <button key={x.id} onClick={() => { setId(x.id); history.replaceState(null, '', `#${x.id}`); }} className={`rounded-full border px-3 py-1.5 text-sm font-semibold ${id === x.id ? 'border-accent bg-accent text-accent-ink' : 'border-line bg-card'}`}>{lang === 'ar' ? x.ar : x.en}</button>
+          <button key={x.id} aria-pressed={id === x.id} onClick={() => { setId(x.id); history.replaceState(null, '', `#${x.id}`); }} className={`rounded-full border px-3 py-1.5 text-sm font-semibold ${id === x.id ? 'border-accent bg-accent text-accent-ink' : 'border-line bg-card'}`}>{lang === 'ar' ? x.ar : x.en}</button>
         ))}
       </div>
       <div className="flex items-baseline justify-between gap-3">

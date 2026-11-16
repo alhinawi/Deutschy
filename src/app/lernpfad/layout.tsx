@@ -1,0 +1,3 @@
+import type { Metadata } from 'next';
+export const metadata: Metadata = {"title": "A1 learning path - Deutschy", "description": "Follow an ordered A1 learning path from pronunciation to the practice exam, using your saved progress.", "alternates": {"canonical": "/lernpfad/"}, "openGraph": {"title": "A1 learning path - Deutschy", "description": "Follow an ordered A1 learning path from pronunciation to the practice exam, using your saved progress.", "url": "/lernpfad/", "images": [{"url": "/og.png", "width": 1200, "height": 630, "alt": "Deutschy - German practice"}]}};
+export default function Layout({ children }: { children: React.ReactNode }) { return children; }

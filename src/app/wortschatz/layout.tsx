@@ -1,0 +1,3 @@
+import type { Metadata } from 'next';
+export const metadata: Metadata = {"title": "Vocabulary by theme - Deutschy", "description": "Explore everyday German vocabulary by theme with photographs, articles, plurals, Egyptian Arabic meanings and mini-quizzes.", "alternates": {"canonical": "/wortschatz/"}, "openGraph": {"title": "Vocabulary by theme - Deutschy", "description": "Explore everyday German vocabulary by theme with photographs, articles, plurals, Egyptian Arabic meanings and mini-quizzes.", "url": "/wortschatz/", "images": [{"url": "/og.png", "width": 1200, "height": 630, "alt": "Deutschy - German practice"}]}};
+export default function Layout({ children }: { children: React.ReactNode }) { return children; }

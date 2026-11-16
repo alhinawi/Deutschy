@@ -1,0 +1,3 @@
+import type { Metadata } from 'next';
+export const metadata: Metadata = {"title": "German negation and questions - Deutschy", "description": "Practice nicht and kein, negative word order and German W-questions with short explanations and quizzes.", "alternates": {"canonical": "/negation/"}, "openGraph": {"title": "German negation and questions - Deutschy", "description": "Practice nicht and kein, negative word order and German W-questions with short explanations and quizzes.", "url": "/negation/", "images": [{"url": "/og.png", "width": 1200, "height": 630, "alt": "Deutschy - German practice"}]}};
+export default function Layout({ children }: { children: React.ReactNode }) { return children; }

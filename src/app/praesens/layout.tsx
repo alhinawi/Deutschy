@@ -1,0 +1,3 @@
+import type { Metadata } from 'next';
+export const metadata: Metadata = {"title": "Präsens verb trainer - Deutschy", "description": "Practice the present tense of sein, haben, modal, regular and strong German verbs with quizzes and read-aloud.", "alternates": {"canonical": "/praesens/"}, "openGraph": {"title": "Präsens verb trainer - Deutschy", "description": "Practice the present tense of sein, haben, modal, regular and strong German verbs with quizzes and read-aloud.", "url": "/praesens/", "images": [{"url": "/og.png", "width": 1200, "height": 630, "alt": "Deutschy - German practice"}]}};
+export default function Layout({ children }: { children: React.ReactNode }) { return children; }

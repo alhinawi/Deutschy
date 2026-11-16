@@ -62,7 +62,7 @@ export default function PraepView() {
       <h1 className="ar-title text-4xl font-bold">{t('حروف الجر', 'Prepositions')}</h1>
       <p className="text-muted">{lang === 'ar' ? <Mixed text="كل حرف جر بيطلب حالة: Akkusativ أو Dativ. وفيه 9 حروف بتاخد الاتنين حسب السؤال: Wo ولا Wohin." /> : 'Each preposition takes a case: Akkusativ or Dativ. Nine take either, depending on the question: Wo? or Wohin?'}</p>
       <div className="flex flex-wrap gap-2">
-        {([['akk', 'Akkusativ'], ['dat', 'Dativ'], ['wechsel', 'Wechsel'], ['quiz', t('اختبار', 'Quiz')]] as const).map(([k, n]) => <button key={k} onClick={() => setTab(k)} className={pill(tab === k)}>{n}</button>)}
+        {([['akk', 'Akkusativ'], ['dat', 'Dativ'], ['wechsel', 'Wechsel'], ['quiz', t('اختبار', 'Quiz')]] as const).map(([k, n]) => <button key={k} onClick={() => setTab(k)} aria-pressed={tab === k} className={pill(tab === k)}>{n}</button>)}
       </div>
       {tab === 'akk' && <List rows={akk} k="Akkusativ" />}
       {tab === 'dat' && <List rows={dat} k="Dativ" />}

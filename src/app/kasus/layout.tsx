@@ -1,0 +1,3 @@
+import type { Metadata } from 'next';
+export const metadata: Metadata = {"title": "German cases - Deutschy", "description": "Practice Nominativ, Akkusativ and Dativ articles with examples and quizzes explained in Egyptian Arabic and English.", "alternates": {"canonical": "/kasus/"}, "openGraph": {"title": "German cases - Deutschy", "description": "Practice Nominativ, Akkusativ and Dativ articles with examples and quizzes explained in Egyptian Arabic and English.", "url": "/kasus/", "images": [{"url": "/og.png", "width": 1200, "height": 630, "alt": "Deutschy - German practice"}]}};
+export default function Layout({ children }: { children: React.ReactNode }) { return children; }

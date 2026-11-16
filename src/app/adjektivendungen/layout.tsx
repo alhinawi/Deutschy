@@ -1,0 +1,3 @@
+import type { Metadata } from 'next';
+export const metadata: Metadata = {"title": "German adjective endings - Deutschy", "description": "Practice adjective endings after definite and indefinite articles and without an article.", "alternates": {"canonical": "/adjektivendungen/"}, "openGraph": {"title": "German adjective endings - Deutschy", "description": "Practice adjective endings after definite and indefinite articles and without an article.", "url": "/adjektivendungen/", "images": [{"url": "/og.png", "width": 1200, "height": 630, "alt": "Deutschy - German practice"}]}};
+export default function Layout({ children }: { children: React.ReactNode }) { return children; }

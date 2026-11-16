@@ -1,0 +1,3 @@
+import type { Metadata } from 'next';
+export const metadata: Metadata = {"title": "Printable German reference sheets - Deutschy", "description": "Print German grammar and vocabulary reference sheets, or save them as PDF from your browser.", "openGraph": {"title": "Printable German reference sheets - Deutschy", "description": "Print German grammar and vocabulary reference sheets, or save them as PDF from your browser.", "images": [{"url": "/og.png", "width": 1200, "height": 630, "alt": "Deutschy - German practice"}]}};
+export default function Layout({ children }: { children: React.ReactNode }) { return children; }

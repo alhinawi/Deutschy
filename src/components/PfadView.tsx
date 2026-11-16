@@ -16,7 +16,7 @@ export default function PfadView() {
       <p className="text-muted">{t('خطوات مرتبة من أول حرف لحد امتحان A1. التقدم من اللي حليته على جهازك بس.', 'Ordered steps from the first letter to the A1 exam. Progress comes only from what you did on this device.')}</p>
       <div className="rounded-2xl border border-line bg-card p-4">
         <div className="flex items-center justify-between"><span className="ar-title font-bold">{t('اتخلّص', 'Completed')}</span><span dir="ltr" className="num font-bold">{ready ? done : 0} / {PATH.length}</span></div>
-        <div className="mt-2 h-2.5 overflow-hidden rounded-full bg-line" role="progressbar" aria-valuemin={0} aria-valuemax={PATH.length} aria-valuenow={done}><div className="h-full bg-accent" style={{ width: `${(done / PATH.length) * 100}%` }} /></div>
+        <div className="mt-2 h-2.5 overflow-hidden rounded-full bg-line" role="progressbar" aria-label={t('تقدم مسار A1', 'A1 path progress')} aria-valuemin={0} aria-valuemax={PATH.length} aria-valuenow={done}><div className="h-full bg-accent" style={{ width: `${(done / PATH.length) * 100}%` }} /></div>
         {next >= 0 && ready && <Link href={rows[next].st.href} className="mt-3 inline-block rounded-full bg-accent px-5 py-2 font-bold text-accent-ink">{t('كمّل: ', 'Continue: ')}{t(rows[next].st.ar, rows[next].st.en)}</Link>}
       </div>
       <ol className="space-y-2">

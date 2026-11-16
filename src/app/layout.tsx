@@ -6,9 +6,10 @@ import Shell from '@/components/Shell';
 export const metadata: Metadata = {
   title: 'Deutschy – Learn German A1 to C2 · تعلّم الألماني',
   description: 'Learn German at every level, A1 to C2, with real photos and games, explained in Egyptian Arabic and English. منصة لتعلم الألماني بكل مستوياته بالصور والألعاب.',
+  twitter: { card: 'summary_large_image', title: 'Deutschy', images: ['/og.png'] },
   icons: { icon: '/favicon.svg' },
   metadataBase: new URL('https://deutschy.pages.dev'),
-  openGraph: { title: 'Deutschy', description: 'تعلّم الألماني بكل مستوياته بالصور والألعاب · Learn German A1 to C2', url: 'https://deutschy.pages.dev', locale: 'ar_EG' },
+  openGraph: { title: 'Deutschy', description: 'تعلّم الألماني بكل مستوياته بالصور والألعاب · Learn German A1 to C2', url: 'https://deutschy.pages.dev', locale: 'ar_EG', images: [{ url: '/og.png', width: 1200, height: 630, alt: 'Deutschy - German practice' }] },
 };
 
 const boot = `try{var l=localStorage.getItem('deutschy:lang')==='en'?'en':'ar';document.documentElement.lang=l;document.documentElement.dir=l==='ar'?'rtl':'ltr'}catch(e){}`;

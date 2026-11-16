@@ -1,0 +1,3 @@
+import type { Metadata } from 'next';
+export const metadata: Metadata = {"title": "A2 grammar practice - Deutschy", "description": "Practice weil and dass clauses, modal verbs in the Perfekt and comparisons, with Egyptian Arabic and English explanations.", "alternates": {"canonical": "/a2/"}, "openGraph": {"title": "A2 grammar practice - Deutschy", "description": "Practice weil and dass clauses, modal verbs in the Perfekt and comparisons, with Egyptian Arabic and English explanations.", "url": "/a2/", "images": [{"url": "/og.png", "width": 1200, "height": 630, "alt": "Deutschy - German practice"}]}};
+export default function Layout({ children }: { children: React.ReactNode }) { return children; }

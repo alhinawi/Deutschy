@@ -1,0 +1,3 @@
+import type { Metadata } from 'next';
+export const metadata: Metadata = {"title": "German idioms - Deutschy", "description": "Explore German idioms, their everyday meanings and examples with practice quizzes.", "alternates": {"canonical": "/redewendungen/"}, "openGraph": {"title": "German idioms - Deutschy", "description": "Explore German idioms, their everyday meanings and examples with practice quizzes.", "url": "/redewendungen/", "images": [{"url": "/og.png", "width": 1200, "height": 630, "alt": "Deutschy - German practice"}]}};
+export default function Layout({ children }: { children: React.ReactNode }) { return children; }

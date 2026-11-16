@@ -1,0 +1,3 @@
+import type { Metadata } from 'next';
+export const metadata: Metadata = {"title": "A2 writing practice - Deutschy", "description": "Guided A2 writing prompts, saved drafts, Egyptian Arabic tips and model answers. Phrase checklists are not full language grading.", "alternates": {"canonical": "/a2/writing/"}, "openGraph": {"title": "A2 writing practice - Deutschy", "description": "Guided A2 writing prompts, saved drafts, Egyptian Arabic tips and model answers. Phrase checklists are not full language grading.", "url": "/a2/writing/", "images": [{"url": "/og.png", "width": 1200, "height": 630, "alt": "Deutschy - German practice"}]}};
+export default function Layout({ children }: { children: React.ReactNode }) { return children; }

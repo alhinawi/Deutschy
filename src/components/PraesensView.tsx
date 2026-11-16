@@ -43,7 +43,7 @@ export default function PraesensView() {
       <h1 className="ar-title text-4xl font-bold">{t('تصريف الأفعال الأساسية', 'Core verbs in the present')}</h1>
       <p className="text-muted">{lang === 'ar' ? <Mixed text="أفعال sein وhaben والمودال والمنتظمة والقوية في Präsens. اضغط على أي شكل عشان تسمعه." /> : 'sein, haben, the modals, regular and strong verbs in the Präsens. Tap any form to hear it.'}</p>
       <div className="flex flex-wrap gap-2">
-        {([['table', t('الجدول', 'Table')], ['fill', t('كمّل', 'Fill in')], ['listen', t('سمع', 'Listen')]] as const).map(([k, n]) => <button key={k} onClick={() => setTab(k)} className={pill(tab === k)}>{n}</button>)}
+        {([['table', t('الجدول', 'Table')], ['fill', t('كمّل', 'Fill in')], ['listen', t('سمع', 'Listen')]] as const).map(([k, n]) => <button key={k} onClick={() => setTab(k)} aria-pressed={tab === k} className={pill(tab === k)}>{n}</button>)}
       </div>
       {tab === 'table' && (
         <>

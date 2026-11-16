@@ -1,0 +1,3 @@
+import type { Metadata } from 'next';
+export const metadata: Metadata = {"title": "Separable German verbs - Deutschy", "description": "Learn separable verb prefixes and word order with examples, read-aloud and short practice quizzes.", "alternates": {"canonical": "/trennbare-verben/"}, "openGraph": {"title": "Separable German verbs - Deutschy", "description": "Learn separable verb prefixes and word order with examples, read-aloud and short practice quizzes.", "url": "/trennbare-verben/", "images": [{"url": "/og.png", "width": 1200, "height": 630, "alt": "Deutschy - German practice"}]}};
+export default function Layout({ children }: { children: React.ReactNode }) { return children; }
