@@ -170,3 +170,7 @@ for(const q of typedNumbers.typedZahlen){assert(typedNumbers.checkNumeric(q.kind
 assert(typedNumbers.checkNumeric('price','03.50','3,50'));assert(typedNumbers.checkNumeric('date','03.10','3.10.'));assert(typedNumbers.checkNumeric('time','01:05','1:05'));
 for(const [k,s] of [['time','24:00'],['time','13:5'],['date','31.4.'],['price','3,5'],['number','21x'],['number','٢١']])assert.equal(typedNumbers.numericValue(k,s),null);
 console.log('PASS: 16 typed numeric fixtures, accepted padding/decimal variants and strict format/date boundaries');
+assert(search('Typed numbers',100).some(h=>h.href==='/zahlen/#typed-zahlen'));
+assert(search('stem changes',100).some(h=>h.href==='/conjugation/#present-focus'));
+assert(search('Perfekt context',100).some(h=>h.href==='/perfekt/'));
+console.log('PASS: seventh-list practice additions discoverable without duplicate tools');

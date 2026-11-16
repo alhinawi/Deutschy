@@ -32,6 +32,9 @@ export function index(): Hit[] {
   const out: Hit[] = [];
   const h = (kind: Hit['kind'], title: string, sub: string, href: string, extra: string) => out.push({ kind, title, sub, href, hay: norm(`${title} ${sub} ${extra}`) });
   sidebar.forEach((g) => g.items.filter((i) => !i.admin).forEach((i) => h('page', i.en, i.ar, i.href, `${i.ar} ${i.en}`)));
+  h('page','Typed numbers, time, dates and prices','اكتب الأرقام والساعة والتاريخ والأسعار','/zahlen/#typed-zahlen','Euro Cent numeric input كتابة سعر');
+  h('page','Present stem changes self-check','تدريب تصريف المضارع','/conjugation/#present-focus','liest liest sprichst spricht lesen sprechen');
+  h('page','Perfekt context and exceptions','سياق الماضي والاستثناءات','/perfekt/','studiert verstanden aufgestanden haben sein fahren');
   words.forEach((w) => h('word', `${w.art} ${w.de}`, `${w.ar} · ${glossOf(w, 'en')}`, `/lessons/${w.topic}/`, `${w.de} ${w.plural} ${topicName(w.topic, 'en')}`));
   grammar.forEach((g) => h('grammar', g.title[1], `${g.title[0]} · ${g.level}`, `/grammar/${g.id}/`, g.sum.join(' ')));
   verbs.forEach((v) => h('verb', v.inf, `${v.ar} · ${v.en}`, `/verbs/${slug(v.inf)}/`, `${v.pp} ${v.pret} ${v.pres.join(' ')}`));
