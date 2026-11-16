@@ -9,4 +9,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-naehdose',dialogue:'knopf-aussuchen'},
  {reading:'alltag-a2-schirm',dialogue:'schirm-zurueckgeben'},
  {reading:'alltag-b1-reparaturtreff',dialogue:'reparatur-keine-zusage'},
+ {reading:'alltag-a1-aufraeumen',dialogue:'nach-dem-basteln'},
+ {reading:'alltag-a2-koffer',dialogue:'koffer-unterscheiden'},
+ {reading:'alltag-b1-packliste',dialogue:'packliste-aufteilen'},
 ];

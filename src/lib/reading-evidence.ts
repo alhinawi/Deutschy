@@ -74,3 +74,24 @@ Object.assign(readingEvidence,{
   "Paula notiert die offenen Fragen für das Team, damit alle am Eingang dieselben Informationen geben."
  ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-aufraeumen": [
+    "Auf dem Boden liegen viele kleine Papierstücke.",
+    "Lea räumt die Schere und den Kleber in die Schublade.",
+    "Lea hält das Kehrblech fest.",
+    "Danach wischt sie den Tisch mit einem feuchten Schwamm ab."
+  ],
+  "alltag-a2-koffer": [
+    "Beide Koffer sind dunkelblau und fast gleich groß.",
+    "Auf ihren Anhänger malt sie eine gelbe Sonne, auf Emils einen grünen Stern.",
+    "Nun ist ihm der Koffer zu schwer.",
+    "Den Schlüssel steckt er in seine Jackentasche, nicht in den Koffer."
+  ],
+  "alltag-b1-packliste": [
+    "Als Farid die Einträge vergleicht, fällt ihm auf, dass vier Personen jeweils eine Decke anbieten. Becher hat dagegen noch niemand eingetragen.",
+    "Marta wohnt weit vom Treffpunkt entfernt und möchte keine schwere Kanne im Bus transportieren.",
+    "Neben jedem benötigten Gegenstand soll nun genau eine verantwortliche Person stehen.",
+    "Die Gruppe ändert nicht das ganze Programm, sondern nur diesen einen Eintrag."
+  ]
+});

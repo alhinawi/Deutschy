@@ -633,3 +633,218 @@ Object.assign(dialogueEvidence,{
   "Genau. Wir versprechen kein fertiges Ergebnis am selben Tag."
  ]
 });
+
+everydayDialogues.push(...([
+  {
+    "id": "nach-dem-basteln",
+    "level": "A1",
+    "title": [
+      "Zusammen aufräumen",
+      "نروق سوا"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Wir sind fertig. Aber auf dem Boden liegt viel Papier.",
+        "إحنا خلصنا، بس فيه ورق كتير على الأرض."
+      ],
+      [
+        "Amir",
+        "Ich hole den Handfeger und das Kehrblech.",
+        "هجيب المقشة اليد والجاروف."
+      ],
+      [
+        "Lea",
+        "Gut. Ich räume zuerst die Schere in die Schublade.",
+        "تمام. هحط المقص في الدرج الأول."
+      ],
+      [
+        "Amir",
+        "Kannst du dann das Kehrblech festhalten?",
+        "ممكن بعدها تمسكي الجاروف ثابت؟"
+      ],
+      [
+        "Lea",
+        "Ja. Danach wische ich den Tisch ab.",
+        "أيوه. بعدها همسح الترابيزة."
+      ],
+      [
+        "Amir",
+        "Der Schwamm liegt neben dem Waschbecken.",
+        "الإسفنجة جنب الحوض."
+      ],
+      [
+        "Lea",
+        "Danke. Die Papierhäuser kommen zum Schluss auf das Regal.",
+        "شكراً. بيوت الورق هتتحط على الرف في الآخر."
+      ]
+    ],
+    "q": [
+      [
+        "Was holt Amir?",
+        "Handfeger und Kehrblech.",
+        "Zwei neue Scheren.",
+        "Ein großes Buch."
+      ],
+      [
+        "Wo liegt der Schwamm?",
+        "Neben dem Waschbecken.",
+        "Unter dem Regal.",
+        "In Amirs Jacke."
+      ],
+      [
+        "Was kommt auf das Regal?",
+        "Die Papierhäuser.",
+        "Das Kehrblech.",
+        "Die nasse Schere."
+      ]
+    ]
+  },
+  {
+    "id": "koffer-unterscheiden",
+    "level": "A2",
+    "title": [
+      "Welcher Koffer ist deiner?",
+      "أنهي شنطة بتاعتك؟"
+    ],
+    "lines": [
+      [
+        "Emil",
+        "Unsere Koffer sehen fast gleich aus. Wie unterscheiden wir sie?",
+        "شنطنا شبه بعض تقريباً. هنفرق بينهم إزاي؟"
+      ],
+      [
+        "Noura",
+        "Ich habe zwei Anhänger. Deiner hat einen grünen Stern.",
+        "عندي بطاقتين. بتاعتك عليها نجمة خضرا."
+      ],
+      [
+        "Emil",
+        "Gut. Meiner ist jetzt aber sehr schwer. Ich habe ein großes Buch eingepackt.",
+        "تمام. بس شنطتي بقت تقيلة قوي. حطيت كتاب كبير."
+      ],
+      [
+        "Noura",
+        "Wir können ihn mit meiner Gepäckwaage wiegen.",
+        "نقدر نوزنها بميزان الشنط بتاعي."
+      ],
+      [
+        "Emil",
+        "Lieber nehme ich nur das dünne Heft mit. Das Buch bleibt hier.",
+        "أفضل آخد الكراسة الرفيعة بس. الكتاب يفضل هنا."
+      ],
+      [
+        "Noura",
+        "Und wo ist der Schlüssel für dein Vorhängeschloss?",
+        "وفين مفتاح القفل بتاعك؟"
+      ],
+      [
+        "Emil",
+        "In meiner Jackentasche. Dort kann ich ihn gleich finden.",
+        "في جيب الجاكيت. أقدر ألاقيه بسرعة هناك."
+      ]
+    ],
+    "q": [
+      [
+        "Welches Zeichen hat Emils Anhänger?",
+        "Einen grünen Stern.",
+        "Einen blauen Kreis.",
+        "Eine gelbe Sonne."
+      ],
+      [
+        "Was möchte Emil statt des Buches mitnehmen?",
+        "Das dünne Heft.",
+        "Eine zweite Waage.",
+        "Eine große Decke."
+      ],
+      [
+        "Wo ist der Schlüssel?",
+        "In Emils Jackentasche.",
+        "In Nouras Koffer.",
+        "Auf dem Bahnhofsboden."
+      ]
+    ]
+  },
+  {
+    "id": "packliste-aufteilen",
+    "level": "B1",
+    "title": [
+      "Wer bringt die Becher mit?",
+      "مين هيجيب الكوبايات؟"
+    ],
+    "lines": [
+      [
+        "Farid",
+        "Vier Personen bieten eine Decke an, aber niemand hat Becher eingetragen.",
+        "4 أشخاص عارضين يجيبوا بطاطين، بس محدش كاتب كوبايات."
+      ],
+      [
+        "Marta",
+        "Dann sollten wir den Bedarf und die Namen getrennt aufschreiben.",
+        "يبقى نكتب المطلوب والأسماء كل واحد لوحده."
+      ],
+      [
+        "Farid",
+        "Genau. Für jeden Gegenstand brauchen wir eine verantwortliche Person.",
+        "بالظبط. محتاجين شخص مسؤول عن كل حاجة."
+      ],
+      [
+        "Marta",
+        "Die schwere Kanne möchte ich nicht im Bus tragen. Ich bringe lieber die Becher mit.",
+        "مش عايزة أشيل الترمس التقيل في الأوتوبيس. أفضل أجيب الكوبايات."
+      ],
+      [
+        "Farid",
+        "Gut. Zwei Leute aus der Nähe übernehmen den Tee. Kannst du auch Obst vorbereiten?",
+        "تمام. اتنين ساكنين قريب هيتولوا الشاي. تقدري تجهزي فاكهة كمان؟"
+      ],
+      [
+        "Marta",
+        "Ja, das schneide ich zu Hause. Wann prüfen wir die Liste noch einmal?",
+        "أيوه، هقطعها في البيت. هنراجع القايمة تاني إمتى؟"
+      ],
+      [
+        "Farid",
+        "Am Abend vor dem Ausflug. Dann können wir fehlende Dinge noch neu verteilen.",
+        "بالليل قبل الخروجة. ساعتها نقدر نوزع أي حاجات ناقصة من جديد."
+      ]
+    ],
+    "q": [
+      [
+        "Was fehlt in den ersten Einträgen?",
+        "Becher.",
+        "Deckenangebote.",
+        "Namen für vier neue Gruppen."
+      ],
+      [
+        "Warum möchte Marta die Kanne nicht übernehmen?",
+        "Sie möchte sie nicht im Bus tragen.",
+        "Sie kennt den Treffpunkt nicht.",
+        "Sie kommt erst nach dem Ausflug."
+      ],
+      [
+        "Wann wird die Liste noch einmal geprüft?",
+        "Am Abend vor dem Ausflug.",
+        "Erst am See.",
+        "Eine Woche nach dem Ausflug."
+      ]
+    ]
+  }
+] satisfies Dialogue[]));
+Object.assign(dialogueEvidence,{
+  "nach-dem-basteln": [
+    "Ich hole den Handfeger und das Kehrblech.",
+    "Der Schwamm liegt neben dem Waschbecken.",
+    "Danke. Die Papierhäuser kommen zum Schluss auf das Regal."
+  ],
+  "koffer-unterscheiden": [
+    "Ich habe zwei Anhänger. Deiner hat einen grünen Stern.",
+    "Lieber nehme ich nur das dünne Heft mit. Das Buch bleibt hier.",
+    "In meiner Jackentasche. Dort kann ich ihn gleich finden."
+  ],
+  "packliste-aufteilen": [
+    "Vier Personen bieten eine Decke an, aber niemand hat Becher eingetragen.",
+    "Die schwere Kanne möchte ich nicht im Bus tragen. Ich bringe lieber die Becher mit.",
+    "Am Abend vor dem Ausflug. Dann können wir fehlende Dinge noch neu verteilen."
+  ]
+});

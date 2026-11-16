@@ -69,6 +69,8 @@ import {neighborhoodTexts} from './reading-neighborhood';
 readings.push(...neighborhoodTexts);
 import {objectTexts} from './reading-objects';
 readings.push(...objectTexts);
+import {packingTexts} from './reading-packing';
+readings.push(...packingTexts);
 const LV = ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'];
 readings.sort((a, b) => LV.indexOf(a.level) - LV.indexOf(b.level));
 export const readingOf = (id: string) => readings.find((r) => r.id === id);
