@@ -1,0 +1,154 @@
+@koerper2|الجسم
+die|Nase|Nasen|أنف|nose human face
+der|Mund|Münder|فم|mouth human lips
+die|Zunge|Zungen|لسان|tongue human
+der|Daumen|-|إبهام|thumb
+der|Finger|-|إصبع|finger hand
+das|Knie|-|ركبة|knee
+der|Rücken|-|ظهر|back human
+der|Bauchnabel|-|سرة|navel
+die|Zehe|Zehen|إصبع قدم|toe foot
+die|Wimper|Wimpern|رمش|eyelash
+der|Bart|Bärte|لحية|beard man
+die|Glatze|Glatzen|صلعة|bald head
+der|Fingernagel|Fingernägel|ظفر|fingernail
+das|Skelett|Skelette|هيكل عظمي|skeleton human
+der|Schädel|-|جمجمة|skull
+@essen4|أكل 4
+der|Falafel|-|فلافل|falafel
+der|Hummus|-|حمص|hummus
+die|Dattel|Datteln|تمر|date palm fruit
+die|Feigenmarmelade|-|مربى تين|fig jam
+das|Baklava|-|بقلاوة|baklava
+der|Kebab|Kebabs|كباب|kebab skewer
+die|Linse|Linsen|عدس|lentil
+die|Kichererbse|Kichererbsen|حمص حب|chickpea
+der|Sesam|-|سمسم|sesame
+die|Kaktusfeige|Kaktusfeigen|تين شوكي|prickly pear fruit
+der|Granatapfelsaft|-|عصير رمان|pomegranate juice
+der|Pfefferminztee|-|شاي نعناع|mint tea
+die|Wassermelonenscheibe|-|شريحة بطيخ|watermelon slice
+das|Spiegelei|Spiegeleier|بيض مقلي|fried egg
+die|Pfanne|Pfannen|مقلاة|frying pan
+der|Rotkohl|-|كرنب أحمر|red cabbage
+der|Weißkohl|-|كرنب أبيض|white cabbage
+der|Kohlrabi|-|كرنب سلق|kohlrabi
+der|Spargel|-|هليون|asparagus
+der|Fenchel|-|شمر|fennel
+der|Rhabarber|-|راوند|rhubarb
+die|Stachelbeere|Stachelbeeren|عنب الثعلب|gooseberry
+die|Quitte|Quitten|سفرجل|quince
+die|Walnuss|Walnüsse|جوز|walnut
+die|Zuckerwatte|-|غزل البنات|cotton candy
+das|Lebkuchenherz|-|قلب جنجر|gingerbread heart
+das|Schwarzbrot|-|خبز أسود|rye bread
+die|Semmel|Semmeln|لفة خبز|bread roll
+das|Croissant|Croissants|كرواسون|croissant
+die|Sahnetorte|-|تورتة كريمة|cream cake
+der|Apfelstrudel|-|أبفل شترودل|apple strudel
+die|Bockwurst|Bockwürste|بوكفورست|sausage frankfurter
+die|Leberwurst|-|كبدة معلبة|liverwurst
+der|Schinken|-|لحم مقدد|ham
+der|Speck|-|لحم خنزير مقدد|bacon
+die|Salami|Salamis|سلامي|salami
+der|Frischkäse|-|جبن كريمي|cream cheese
+der|Mozzarella|-|موزاريلا|mozzarella
+@tiere5|حيوانات 5
+der|Papagei|-|ببغاء|parrot
+der|Flamingo|Flamingos|فلامنجو|flamingo
+der|Pinguin|Pinguine|بطريق|penguin
+der|Seehund|Seehunde|فقمة|seal
+der|Eisbär|Eisbären|دب قطبي|polar bear
+der|Waschbär|Waschbären|راكون|raccoon
+das|Stinktier|Stinktiere|ظربان|skunk
+das|Faultier|Faultiere|كسلان|sloth
+das|Lama|Lamas|لاما|llama
+das|Alpaka|Alpakas|ألباكا|alpaca
+das|Zebra|Zebras|حمار وحشي|zebra
+die|Hyäne|Hyänen|ضبع|hyena
+der|Panda|Pandas|باندا|giant panda
+der|Mungo|Mungos|نمس|mongoose
+das|Murmeltier|Murmeltiere|مرموط|marmot
+das|Eichhörnchen|-|سنجاب|squirrel
+der|Marder|-|دلق|marten
+der|Maulwurf|Maulwürfe|خلد|mole animal
+die|Fledermaus|Fledermäuse|خفاش|bat animal
+der|Seeadler|-|نسر البحر|sea eagle
+der|Storch|Störche|لقلق|stork
+der|Reiher|-|مالك الحزين|heron
+der|Schwan|Schwäne|بجعة|swan
+der|Kormoran|Kormorane|غراب البحر|cormorant
+die|Möwe|Möwen|نورس|seagull
+die|Wachtel|Wachteln|سمان|quail
+der|Truthahn|Truthähne|ديك رومي|turkey bird
+der|Hahn|Hähne|ديك|rooster
+die|Henne|Hennen|فرخة|hen
+das|Küken|-|كتكوت|chick bird
+der|Seestern|Seesterne|نجم البحر|starfish
+die|Seepferdchen|-|حصان البحر|seahorse
+der|Rochen|-|ذيل اللسع|ray fish
+der|Wels|Welse|قرموط|catfish
+der|Hecht|Hechte|سمك الكراكي|pike fish
+der|Karpfen|-|شبوط|carp
+der|Goldfisch|Goldfische|سمكة ذهبية|goldfish
+die|Libelle|Libellen|يعسوب|dragonfly
+der|Marienkäfer|-|دعسوقة|ladybug
+die|Ameise|Ameisen|نملة|ant
+die|Hummel|Hummeln|نحلة طنانة|bumblebee
+der|Skorpion|Skorpione|عقرب|scorpion animal
+die|Raupe|Raupen|يرقة|caterpillar
+@orte2|أماكن
+die|Bäckerei|Bäckereien|مخبز|bakery shop
+die|Metzgerei|Metzgereien|جزارة|butcher shop
+die|Post|-|مكتب بريد|post office
+die|Bank|Banken|بنك|bank building
+die|Tankstelle|Tankstellen|محطة بنزين|gas station
+die|Werkstatt|Werkstätten|ورشة|workshop garage
+das|Rathaus|Rathäuser|مجلس المدينة|town hall
+die|Burg|Burgen|قلعة|castle
+der|Marktplatz|Marktplätze|ميدان السوق|market square
+die|Windmühle|Windmühlen|طاحونة هواء|windmill
+der|Leuchtturm|Leuchttürme|منارة|lighthouse
+die|Pyramide|Pyramiden|هرم|pyramid
+die|Moschee|Moscheen|مسجد|mosque
+das|Minarett|Minarette|مئذنة|minaret
+die|Synagoge|Synagogen|معبد يهودي|synagogue
+die|Kathedrale|Kathedralen|كاتدرائية|cathedral
+der|Friedhof|Friedhöfe|مقبرة|cemetery
+der|Spielplatz|Spielplätze|ملعب أطفال|playground
+das|Schwimmbad|Schwimmbäder|حمام سباحة|swimming pool
+die|Eisdiele|Eisdielen|محل آيس كريم|ice cream parlor
+der|Zoo|Zoos|حديقة حيوان|zoo
+der|Bahnhof|Bahnhöfe|محطة قطار|railway station
+die|Haltestelle|Haltestellen|موقف|bus stop
+die|Ampel|Ampeln|إشارة مرور|traffic light
+die|Brücke|Brücken|كوبري|bridge
+der|Kanal|Kanäle|قناة|canal
+der|Wasserfall|Wasserfälle|شلال|waterfall
+der|Vulkan|Vulkane|بركان|volcano
+@fahrzeuge2|مركبات
+der|Traktor|Traktoren|جرار|tractor
+der|Mähdrescher|-|حصادة|combine harvester
+der|Kran|Kräne|رافعة|crane machine
+der|Bagger|-|حفار|excavator
+die|Feuerwehr|Feuerwehren|مطافي|fire engine
+der|Rettungswagen|-|إسعاف|ambulance
+das|Polizeiauto|Polizeiautos|عربية شرطة|police car
+der|Müllwagen|-|عربية زبالة|garbage truck
+der|Wohnwagen|-|ناقص|caravan
+das|Wohnmobil|Wohnmobile|بيت متنقل|motorhome
+der|Schulbus|Schulbusse|أتوبيس مدرسة|school bus
+der|Doppeldecker|-|أتوبيس دورين|double-decker bus
+die|Fähre|Fähren|معدية|ferry
+das|Ruderboot|Ruderboote|مركب تجديف|rowing boat
+das|Tretboot|Tretboote|مركب بدال|pedal boat
+das|U-Boot|U-Boote|غواصة|submarine
+der|Heißluftballon|Heißluftballons|منطاد|hot air balloon
+das|Segelflugzeug|Segelflugzeuge|طائرة شراعية|glider aircraft
+die|Seilbahn|Seilbahnen|تلفريك|cable car
+die|Rolltreppe|Rolltreppen|سلم متحرك|escalator
+der|Aufzug|Aufzüge|مصعد|elevator
+das|Moped|Mopeds|موتوسيكل صغير|moped
+das|Tandem|Tandems|دراجة مزدوجة|tandem bicycle
+das|Dreirad|Dreiräder|دراجة ثلاثية|tricycle
+der|Pferdewagen|-|عربية حنطور|horse carriage

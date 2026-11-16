@@ -203,6 +203,26 @@
   {
    "id": "spielzeug",
    "ar": "ألعاب"
+  },
+  {
+   "id": "koerper2",
+   "ar": "الجسم"
+  },
+  {
+   "id": "essen4",
+   "ar": "أكل 4"
+  },
+  {
+   "id": "tiere5",
+   "ar": "حيوانات 5"
+  },
+  {
+   "id": "orte2",
+   "ar": "أماكن"
+  },
+  {
+   "id": "fahrzeuge2",
+   "ar": "مركبات"
   }
  ],
  "words": [
@@ -5506,7 +5526,7 @@
    "topic": "fleisch",
    "art": "der",
    "de": "Lachs",
-   "plural": "-",
+   "plural": "Lachse",
    "ar": "سلمون",
    "photo": {
     "file": "Pink salmon FWS.jpg",
@@ -5686,7 +5706,7 @@
    "topic": "getraenke2",
    "art": "der",
    "de": "Orangensaft",
-   "plural": "-",
+   "plural": "Orangensäfte",
    "ar": "عصير برتقال",
    "photo": {
     "file": "Orange juice 1 edit1.jpg",
@@ -5894,7 +5914,7 @@
   {
    "id": "taj-mahal",
    "topic": "sehenswert",
-   "art": "das",
+   "art": "der",
    "de": "Taj Mahal",
    "plural": "",
    "ar": "تاج محل",
@@ -6314,7 +6334,7 @@
   {
    "id": "regal",
    "topic": "haushalt2",
-   "art": "der",
+   "art": "das",
    "de": "Regal",
    "plural": "Regale",
    "ar": "رف",
@@ -7336,7 +7356,7 @@
    "topic": "landschaft",
    "art": "das",
    "de": "Polarlicht",
-   "plural": "",
+   "plural": "Polarlichter",
    "ar": "شفق قطبي",
    "photo": {
     "file": "Aurora australis dancing over an LED illuminated igloo.jpg",
@@ -7876,7 +7896,7 @@
    "topic": "verkehr2",
    "art": "der",
    "de": "Kreisverkehr",
-   "plural": "",
+   "plural": "Kreisverkehre",
    "ar": "دوران",
    "photo": {
     "file": "Roundabout interchange.jpg",
@@ -7951,7 +7971,7 @@
    "topic": "verkehr2",
    "art": "der",
    "de": "Fahrkartenautomat",
-   "plural": "-",
+   "plural": "Fahrkartenautomaten",
    "ar": "ماكينة تذاكر",
    "photo": {
     "file": "Mobib ticket machine, Brussels (LRM 20231012 094316-2).jpg",
@@ -8054,9 +8074,9 @@
   {
    "id": "nudelholz",
    "topic": "kueche2",
-   "art": "der",
+   "art": "das",
    "de": "Nudelholz",
-   "plural": "-",
+   "plural": "Nudelhölzer",
    "ar": "شوبك",
    "photo": {
     "file": "Rollingpin.jpg",
@@ -8429,7 +8449,7 @@
   {
    "id": "eiscreme",
    "topic": "essen3",
-   "art": "das",
+   "art": "die",
    "de": "Eiscreme",
    "plural": "",
    "ar": "آيس كريم",
@@ -8506,7 +8526,7 @@
    "topic": "sport2",
    "art": "das",
    "de": "Dartbrett",
-   "plural": "-",
+   "plural": "Dartbretter",
    "ar": "لوح سهام",
    "photo": {
     "file": "Dartboard, Black Bull, Wetherby (7th November 2023).jpg",
@@ -8519,9 +8539,9 @@
   {
    "id": "fahrradhelm",
    "topic": "sport2",
-   "art": "das",
+   "art": "der",
    "de": "Fahrradhelm",
-   "plural": "-",
+   "plural": "Fahrradhelme",
    "ar": "خوذة دراجة",
    "photo": {
     "file": "Bicycle white helmet from bikemate.jpg",
@@ -9009,6 +9029,861 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Spinning_top_shadow.jpg",
     "license": "CC BY-SA 4.0",
     "author": "Armenak Margarian"
+   }
+  },
+  {
+   "id": "mund",
+   "topic": "koerper2",
+   "art": "der",
+   "de": "Mund",
+   "plural": "Münder",
+   "ar": "فم",
+   "photo": {
+    "file": "Adult human mouth (modified).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Adult_human_mouth_(modified).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Adult_human_mouth_(modified).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Original: Genusfotografen (Tomas Gunnarsson) \n\nModified: Own work"
+   }
+  },
+  {
+   "id": "bauchnabel",
+   "topic": "koerper2",
+   "art": "der",
+   "de": "Bauchnabel",
+   "plural": "-",
+   "ar": "سرة",
+   "photo": {
+    "file": "Human navel, female.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Human_navel,_female.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Human_navel,_female.jpg",
+    "license": "CC BY 2.0",
+    "author": "Stinkie Pinkie"
+   }
+  },
+  {
+   "id": "wimper",
+   "topic": "koerper2",
+   "art": "die",
+   "de": "Wimper",
+   "plural": "Wimpern",
+   "ar": "رمش",
+   "photo": {
+    "file": "Human eyelashes.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Human_eyelashes.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Human_eyelashes.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Rapidreflex"
+   }
+  },
+  {
+   "id": "skelett",
+   "topic": "koerper2",
+   "art": "das",
+   "de": "Skelett",
+   "plural": "Skelette",
+   "ar": "هيكل عظمي",
+   "photo": {
+    "file": "Human Skeleton 2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Human_Skeleton_2.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Human_Skeleton_2.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Mr Khubaib Sani"
+   }
+  },
+  {
+   "id": "falafel",
+   "topic": "essen4",
+   "art": "der",
+   "de": "Falafel",
+   "plural": "",
+   "ar": "فلافل",
+   "photo": {
+    "file": "Falafel 1.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Falafel_1.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Falafel_1.JPG",
+    "license": "CC0",
+    "author": "Miansari66"
+   }
+  },
+  {
+   "id": "baklava",
+   "topic": "essen4",
+   "art": "das",
+   "de": "Baklava",
+   "plural": "",
+   "ar": "بقلاوة",
+   "photo": {
+    "file": "Baklava - Turkish special, 80-ply.JPEG",
+    "page": "https://commons.wikimedia.org/wiki/File:Baklava_-_Turkish_special,_80-ply.JPEG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Baklava_-_Turkish_special,_80-ply.JPEG",
+    "license": "Public domain",
+    "author": "Kultigin"
+   }
+  },
+  {
+   "id": "feigenmarmelade",
+   "topic": "essen4",
+   "art": "die",
+   "de": "Feigenmarmelade",
+   "plural": "",
+   "ar": "مربى تين",
+   "photo": {
+    "file": "Fig jam on a dish.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Fig_jam_on_a_dish.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Fig_jam_on_a_dish.JPG",
+    "license": "CC BY-SA 3.0",
+    "author": "PatríciaR"
+   }
+  },
+  {
+   "id": "linse",
+   "topic": "essen4",
+   "art": "die",
+   "de": "Linse",
+   "plural": "Linsen",
+   "ar": "عدس",
+   "photo": {
+    "file": "3 types of lentil.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:3_types_of_lentil.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:3_types_of_lentil.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "User:Justinc"
+   }
+  },
+  {
+   "id": "kichererbse",
+   "topic": "essen4",
+   "art": "die",
+   "de": "Kichererbse",
+   "plural": "Kichererbsen",
+   "ar": "حمص حب",
+   "photo": {
+    "file": "Sa-whitegreen-chickpea.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sa-whitegreen-chickpea.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Sa-whitegreen-chickpea.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Sanjay Acharya"
+   }
+  },
+  {
+   "id": "wassermelonenscheibe",
+   "topic": "essen4",
+   "art": "die",
+   "de": "Wassermelonenscheibe",
+   "plural": "Wassermelonenscheiben",
+   "ar": "شريحة بطيخ",
+   "photo": {
+    "file": "Watermelon slice, May 2024.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Watermelon_slice,_May_2024.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Watermelon_slice,_May_2024.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Ralff Nestor Nacor"
+   }
+  },
+  {
+   "id": "granatapfelsaft",
+   "topic": "essen4",
+   "art": "der",
+   "de": "Granatapfelsaft",
+   "plural": "",
+   "ar": "عصير رمان",
+   "photo": {
+    "file": "Pomegranate Juice (2019).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pomegranate_Juice_(2019).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Pomegranate_Juice_(2019).jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Augustus Binu : flickr"
+   }
+  },
+  {
+   "id": "pfefferminztee",
+   "topic": "essen4",
+   "art": "der",
+   "de": "Pfefferminztee",
+   "plural": "",
+   "ar": "شاي نعناع",
+   "photo": {
+    "file": "Moroccan Mint Tea - 1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Moroccan_Mint_Tea_-_1.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Moroccan_Mint_Tea_-_1.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Sarkar Sayantan"
+   }
+  },
+  {
+   "id": "spargel",
+   "topic": "essen4",
+   "art": "der",
+   "de": "Spargel",
+   "plural": "",
+   "ar": "هليون",
+   "photo": {
+    "file": "Asparagus soup (spargelsuppe).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Asparagus_soup_(spargelsuppe).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Asparagus_soup_(spargelsuppe).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Petar Milošević"
+   }
+  },
+  {
+   "id": "fenchel",
+   "topic": "essen4",
+   "art": "der",
+   "de": "Fenchel",
+   "plural": "",
+   "ar": "شمر",
+   "photo": {
+    "file": "Fennel (Foeniculum vulgare).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fennel_(Foeniculum_vulgare).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Fennel_(Foeniculum_vulgare).jpg",
+    "license": "CC0",
+    "author": "စာကလေး SarKaLay"
+   }
+  },
+  {
+   "id": "zuckerwatte",
+   "topic": "essen4",
+   "art": "die",
+   "de": "Zuckerwatte",
+   "plural": "",
+   "ar": "غزل البنات",
+   "photo": {
+    "file": "Cotton candy Μαλλί της γριάς.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Cotton_candy_%CE%9C%CE%B1%CE%BB%CE%BB%CE%AF_%CF%84%CE%B7%CF%82_%CE%B3%CF%81%CE%B9%CE%AC%CF%82.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Cotton_candy_%CE%9C%CE%B1%CE%BB%CE%BB%CE%AF_%CF%84%CE%B7%CF%82_%CE%B3%CF%81%CE%B9%CE%AC%CF%82.JPG",
+    "license": "CC BY-SA 3.0",
+    "author": "FocalPoint"
+   }
+  },
+  {
+   "id": "semmel",
+   "topic": "essen4",
+   "art": "die",
+   "de": "Semmel",
+   "plural": "Semmeln",
+   "ar": "لفة خبز",
+   "photo": {
+    "file": "Bread rolls at Black Horse Inn, Nuthurst West Sussex England.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bread_rolls_at_Black_Horse_Inn,_Nuthurst_West_Sussex_England.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Bread_rolls_at_Black_Horse_Inn,_Nuthurst_West_Sussex_England.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Acabashi"
+   }
+  },
+  {
+   "id": "rhabarber",
+   "topic": "essen4",
+   "art": "der",
+   "de": "Rhabarber",
+   "plural": "",
+   "ar": "راوند",
+   "photo": {
+    "file": "CSA-Rhubarb.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:CSA-Rhubarb.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:CSA-Rhubarb.jpg",
+    "license": "Public domain",
+    "author": "Evan-Amos"
+   }
+  },
+  {
+   "id": "schwarzbrot",
+   "topic": "essen4",
+   "art": "das",
+   "de": "Schwarzbrot",
+   "plural": "Schwarzbrote",
+   "ar": "خبز أسود",
+   "photo": {
+    "file": "Dark rye bread.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Dark_rye_bread.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Dark_rye_bread.JPG",
+    "license": "CC BY-SA 3.0",
+    "author": "Glane23"
+   }
+  },
+  {
+   "id": "bockwurst",
+   "topic": "essen4",
+   "art": "die",
+   "de": "Bockwurst",
+   "plural": "Bockwürste",
+   "ar": "بوكفورست",
+   "photo": {
+    "file": "02021 0547 (3) Breakfast, Vienna sausages.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:02021_0547_(3)_Breakfast,_Vienna_sausages.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:02021_0547_(3)_Breakfast,_Vienna_sausages.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Silar"
+   }
+  },
+  {
+   "id": "salami",
+   "topic": "essen4",
+   "art": "die",
+   "de": "Salami",
+   "plural": "Salamis",
+   "ar": "سلامي",
+   "photo": {
+    "file": "Salami aka.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Salami_aka.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Salami_aka.jpg",
+    "license": "CC BY-SA 2.5",
+    "author": "André Karwath aka Aka"
+   }
+  },
+  {
+   "id": "pinguin",
+   "topic": "tiere5",
+   "art": "der",
+   "de": "Pinguin",
+   "plural": "Pinguine",
+   "ar": "بطريق",
+   "photo": {
+    "file": "African penguin, Cape Town ( 1050598).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:African_penguin,_Cape_Town_(_1050598).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:African_penguin,_Cape_Town_(_1050598).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Matti Blume"
+   }
+  },
+  {
+   "id": "eisbaer",
+   "topic": "tiere5",
+   "art": "der",
+   "de": "Eisbär",
+   "plural": "Eisbären",
+   "ar": "دب قطبي",
+   "photo": {
+    "file": "Polar bear (Ursus maritimus) with its prey.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Polar_bear_(Ursus_maritimus)_with_its_prey.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Polar_bear_(Ursus_maritimus)_with_its_prey.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "AWeith"
+   }
+  },
+  {
+   "id": "mozzarella",
+   "topic": "essen4",
+   "art": "der",
+   "de": "Mozzarella",
+   "plural": "",
+   "ar": "موزاريلا",
+   "photo": {
+    "file": "Mozzarella cheese.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mozzarella_cheese.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Mozzarella_cheese.jpg",
+    "license": "Public domain",
+    "author": "Jon Sullivan"
+   }
+  },
+  {
+   "id": "leberwurst",
+   "topic": "essen4",
+   "art": "die",
+   "de": "Leberwurst",
+   "plural": "Leberwürste",
+   "ar": "كبدة معلبة",
+   "photo": {
+    "file": "Coarse liverwurst on bread.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Coarse_liverwurst_on_bread.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Coarse_liverwurst_on_bread.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "SKopp"
+   }
+  },
+  {
+   "id": "waschbaer",
+   "topic": "tiere5",
+   "art": "der",
+   "de": "Waschbär",
+   "plural": "Waschbären",
+   "ar": "راكون",
+   "photo": {
+    "file": "Raccoon (Procyon lotor) 2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Raccoon_(Procyon_lotor)_2.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Raccoon_(Procyon_lotor)_2.jpg",
+    "license": "CC BY-SA 2.5",
+    "author": "Darkone"
+   }
+  },
+  {
+   "id": "hyaene",
+   "topic": "tiere5",
+   "art": "die",
+   "de": "Hyäne",
+   "plural": "Hyänen",
+   "ar": "ضبع",
+   "photo": {
+    "file": "Spotted hyena (Crocuta crocuta).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Spotted_hyena_(Crocuta_crocuta).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Spotted_hyena_(Crocuta_crocuta).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Charles J. Sharp"
+   }
+  },
+  {
+   "id": "alpaka",
+   "topic": "tiere5",
+   "art": "das",
+   "de": "Alpaka",
+   "plural": "Alpakas",
+   "ar": "ألباكا",
+   "photo": {
+    "file": "Alpaca, Lama pacos, Chrupek in Zabrze, Silesian Voivodeship, Poland, October 2023.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Alpaca,_Lama_pacos,_Chrupek_in_Zabrze,_Silesian_Voivodeship,_Poland,_October_2023.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Alpaca,_Lama_pacos,_Chrupek_in_Zabrze,_Silesian_Voivodeship,_Poland,_October_2023.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "MichalPL"
+   }
+  },
+  {
+   "id": "panda",
+   "topic": "tiere5",
+   "art": "der",
+   "de": "Panda",
+   "plural": "Pandas",
+   "ar": "باندا",
+   "photo": {
+    "file": "Giant Panda 2004-03-2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Giant_Panda_2004-03-2.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Giant_Panda_2004-03-2.jpg",
+    "license": "Public domain",
+    "author": "Jeff Kubina"
+   }
+  },
+  {
+   "id": "mungo",
+   "topic": "tiere5",
+   "art": "der",
+   "de": "Mungo",
+   "plural": "Mungos",
+   "ar": "نمس",
+   "photo": {
+    "file": "Indian grey mongoose in Rabindra Sarobar June 2024 by Tisha Mukherjee 04.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Indian_grey_mongoose_in_Rabindra_Sarobar_June_2024_by_Tisha_Mukherjee_04.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Indian_grey_mongoose_in_Rabindra_Sarobar_June_2024_by_Tisha_Mukherjee_04.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Tisha Mukherjee"
+   }
+  },
+  {
+   "id": "storch",
+   "topic": "tiere5",
+   "art": "der",
+   "de": "Storch",
+   "plural": "Störche",
+   "ar": "لقلق",
+   "photo": {
+    "file": "Black-necked Stork in Kaziranga National Park March 2025 by Tisha Mukherjee 02.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Black-necked_Stork_in_Kaziranga_National_Park_March_2025_by_Tisha_Mukherjee_02.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Black-necked_Stork_in_Kaziranga_National_Park_March_2025_by_Tisha_Mukherjee_02.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Tisha Mukherjee"
+   }
+  },
+  {
+   "id": "seeadler",
+   "topic": "tiere5",
+   "art": "der",
+   "de": "Seeadler",
+   "plural": "-",
+   "ar": "نسر البحر",
+   "photo": {
+    "file": "White-bellied Sea-Eagle in Sundarbans National Park October 2025 by Tisha Mukherjee 03.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:White-bellied_Sea-Eagle_in_Sundarbans_National_Park_October_2025_by_Tisha_Mukherjee_03.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:White-bellied_Sea-Eagle_in_Sundarbans_National_Park_October_2025_by_Tisha_Mukherjee_03.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Tisha Mukherjee"
+   }
+  },
+  {
+   "id": "marder",
+   "topic": "tiere5",
+   "art": "der",
+   "de": "Marder",
+   "plural": "-",
+   "ar": "دلق",
+   "photo": {
+    "file": "European pine marten (Martes martes) Drenthe 2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:European_pine_marten_(Martes_martes)_Drenthe_2.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:European_pine_marten_(Martes_martes)_Drenthe_2.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Charles J. Sharp"
+   }
+  },
+  {
+   "id": "murmeltier",
+   "topic": "tiere5",
+   "art": "das",
+   "de": "Murmeltier",
+   "plural": "Murmeltiere",
+   "ar": "مرموط",
+   "photo": {
+    "file": "071 Wild marmot at Grand Muveran Nature Reserve Photo by Giles Laurent.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:071_Wild_marmot_at_Grand_Muveran_Nature_Reserve_Photo_by_Giles_Laurent.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:071_Wild_marmot_at_Grand_Muveran_Nature_Reserve_Photo_by_Giles_Laurent.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Photography captured by Giles Laurent"
+   }
+  },
+  {
+   "id": "reiher",
+   "topic": "tiere5",
+   "art": "der",
+   "de": "Reiher",
+   "plural": "-",
+   "ar": "مالك الحزين",
+   "photo": {
+    "file": "Green heron in PP (14296).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Green_heron_in_PP_(14296).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Green_heron_in_PP_(14296).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Rhododendrites"
+   }
+  },
+  {
+   "id": "kormoran",
+   "topic": "tiere5",
+   "art": "der",
+   "de": "Kormoran",
+   "plural": "Kormorane",
+   "ar": "غراب البحر",
+   "photo": {
+    "file": "Great cormorant landing.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Great_cormorant_landing.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Great_cormorant_landing.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Prasan Shrestha"
+   }
+  },
+  {
+   "id": "truthahn",
+   "topic": "tiere5",
+   "art": "der",
+   "de": "Truthahn",
+   "plural": "Truthähne",
+   "ar": "ديك رومي",
+   "photo": {
+    "file": "Male wild turkey (Meleagris gallopavo) strutting.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Male_wild_turkey_(Meleagris_gallopavo)_strutting.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Male_wild_turkey_(Meleagris_gallopavo)_strutting.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Frank Schulenburg"
+   }
+  },
+  {
+   "id": "wachtel",
+   "topic": "tiere5",
+   "art": "die",
+   "de": "Wachtel",
+   "plural": "Wachteln",
+   "ar": "سمان",
+   "photo": {
+    "file": "Rain Quail in Bhigwan August 2025 by Tisha Mukherjee 13.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rain_Quail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_13.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Rain_Quail_in_Bhigwan_August_2025_by_Tisha_Mukherjee_13.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Tisha Mukherjee"
+   }
+  },
+  {
+   "id": "henne",
+   "topic": "tiere5",
+   "art": "die",
+   "de": "Henne",
+   "plural": "Hennen",
+   "ar": "فرخة",
+   "photo": {
+    "file": "Hen with chicks, Raisen district, MP, India.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hen_with_chicks,_Raisen_district,_MP,_India.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Hen_with_chicks,_Raisen_district,_MP,_India.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Yann (talk)"
+   }
+  },
+  {
+   "id": "seepferdchen",
+   "topic": "tiere5",
+   "art": "das",
+   "de": "Seepferdchen",
+   "plural": "-",
+   "ar": "حصان البحر",
+   "photo": {
+    "file": "Seahorse Skeleton Macro 8.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Seahorse_Skeleton_Macro_8.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Seahorse_Skeleton_Macro_8.JPG",
+    "license": "CC BY-SA 3.0",
+    "author": "“Jon Zander (Digon3)\""
+   }
+  },
+  {
+   "id": "hummel",
+   "topic": "tiere5",
+   "art": "die",
+   "de": "Hummel",
+   "plural": "Hummeln",
+   "ar": "نحلة طنانة",
+   "photo": {
+    "file": "Bumblebee October 2007-3a.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bumblebee_October_2007-3a.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Bumblebee_October_2007-3a.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Alvesgaspar"
+   }
+  },
+  {
+   "id": "hecht",
+   "topic": "tiere5",
+   "art": "der",
+   "de": "Hecht",
+   "plural": "Hechte",
+   "ar": "سمك الكراكي",
+   "photo": {
+    "file": "Northern pike fish underwater esox lucius linnaeus.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Northern_pike_fish_underwater_esox_lucius_linnaeus.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Northern_pike_fish_underwater_esox_lucius_linnaeus.jpg",
+    "license": "Public domain",
+    "author": "Hines Robert W, U.S. Fish and Wildlife Service"
+   }
+  },
+  {
+   "id": "marktplatz",
+   "topic": "orte2",
+   "art": "der",
+   "de": "Marktplatz",
+   "plural": "Marktplätze",
+   "ar": "ميدان السوق",
+   "photo": {
+    "file": "Empty Old Town Market Square in Kraków during the COVID-19 pandemic in Poland, April 2020.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Empty_Old_Town_Market_Square_in_Krak%C3%B3w_during_the_COVID-19_pandemic_in_Poland,_April_2020.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Empty_Old_Town_Market_Square_in_Krak%C3%B3w_during_the_COVID-19_pandemic_in_Poland,_April_2020.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Krzysztof Zgłobicki"
+   }
+  },
+  {
+   "id": "kathedrale",
+   "topic": "orte2",
+   "art": "die",
+   "de": "Kathedrale",
+   "plural": "Kathedralen",
+   "ar": "كاتدرائية",
+   "photo": {
+    "file": "Svyato Mihailovsky Cathedral Izhevsk Russia Richard Bartz.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Svyato_Mihailovsky_Cathedral_Izhevsk_Russia_Richard_Bartz.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Svyato_Mihailovsky_Cathedral_Izhevsk_Russia_Richard_Bartz.jpg",
+    "license": "CC BY-SA 2.5",
+    "author": "Richard Bartz, Munich aka Makro Freak"
+   }
+  },
+  {
+   "id": "minarett",
+   "topic": "orte2",
+   "art": "das",
+   "de": "Minarett",
+   "plural": "Minarette",
+   "ar": "مئذنة",
+   "photo": {
+    "file": "Minaret Kocatepe.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Minaret_Kocatepe.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Minaret_Kocatepe.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": ""
+   }
+  },
+  {
+   "id": "synagoge",
+   "topic": "orte2",
+   "art": "die",
+   "de": "Synagoge",
+   "plural": "Synagogen",
+   "ar": "معبد يهودي",
+   "photo": {
+    "file": "Eldridge Street Synagogue (42773).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Eldridge_Street_Synagogue_(42773).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Eldridge_Street_Synagogue_(42773).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Rhododendrites"
+   }
+  },
+  {
+   "id": "maehdrescher",
+   "topic": "fahrzeuge2",
+   "art": "der",
+   "de": "Mähdrescher",
+   "plural": "-",
+   "ar": "حصادة",
+   "photo": {
+    "file": "John Deere Combine Harvester Ebing 1811.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:John_Deere_Combine_Harvester_Ebing_1811.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:John_Deere_Combine_Harvester_Ebing_1811.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Ermell"
+   }
+  },
+  {
+   "id": "kran",
+   "topic": "fahrzeuge2",
+   "art": "der",
+   "de": "Kran",
+   "plural": "Kräne",
+   "ar": "رافعة",
+   "photo": {
+    "file": "Eriksberg shipyard crane.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Eriksberg_shipyard_crane.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Eriksberg_shipyard_crane.jpg",
+    "license": "CC0",
+    "author": "W.carter"
+   }
+  },
+  {
+   "id": "polizeiauto",
+   "topic": "fahrzeuge2",
+   "art": "das",
+   "de": "Polizeiauto",
+   "plural": "Polizeiautos",
+   "ar": "عربية شرطة",
+   "photo": {
+    "file": "Swedish police car with lights on.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Swedish_police_car_with_lights_on.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Swedish_police_car_with_lights_on.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "ThibautRe"
+   }
+  },
+  {
+   "id": "muellwagen",
+   "topic": "fahrzeuge2",
+   "art": "der",
+   "de": "Müllwagen",
+   "plural": "-",
+   "ar": "عربية زبالة",
+   "photo": {
+    "file": "Recology Lodal Garbage Truck 14425 in San Francisco.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Recology_Lodal_Garbage_Truck_14425_in_San_Francisco.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Recology_Lodal_Garbage_Truck_14425_in_San_Francisco.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Dllu"
+   }
+  },
+  {
+   "id": "wohnmobil",
+   "topic": "fahrzeuge2",
+   "art": "das",
+   "de": "Wohnmobil",
+   "plural": "Wohnmobile",
+   "ar": "بيت متنقل",
+   "photo": {
+    "file": "Mercedes-Benz motorhome 20170101 152133.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_motorhome_20170101_152133.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_motorhome_20170101_152133.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "MB-one"
+   }
+  },
+  {
+   "id": "schulbus",
+   "topic": "fahrzeuge2",
+   "art": "der",
+   "de": "Schulbus",
+   "plural": "Schulbusse",
+   "ar": "أتوبيس مدرسة",
+   "photo": {
+    "file": "Superior IHC Loadstar school bus in Rodeberg (Be) (2).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Superior_IHC_Loadstar_school_bus_in_Rodeberg_(Be)_(2).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Superior_IHC_Loadstar_school_bus_in_Rodeberg_(Be)_(2).jpg",
+    "license": "CC BY 4.0",
+    "author": "Pierre André Leclercq"
+   }
+  },
+  {
+   "id": "u-boot",
+   "topic": "fahrzeuge2",
+   "art": "das",
+   "de": "U-Boot",
+   "plural": "U-Boote",
+   "ar": "غواصة",
+   "photo": {
+    "file": "Submarine M-296 2016 G2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Submarine_M-296_2016_G2.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Submarine_M-296_2016_G2.jpg",
+    "license": "Public domain",
+    "author": "George Chernilevsky"
+   }
+  },
+  {
+   "id": "rolltreppe",
+   "topic": "fahrzeuge2",
+   "art": "die",
+   "de": "Rolltreppe",
+   "plural": "Rolltreppen",
+   "ar": "سلم متحرك",
+   "photo": {
+    "file": "Copenhagen Metro escalators.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Copenhagen_Metro_escalators.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Copenhagen_Metro_escalators.jpg",
+    "license": "CC BY 2.0",
+    "author": "Stig Nygaard from Copenhagen, Denmark"
+   }
+  },
+  {
+   "id": "segelflugzeug",
+   "topic": "fahrzeuge2",
+   "art": "das",
+   "de": "Segelflugzeug",
+   "plural": "Segelflugzeuge",
+   "ar": "طائرة شراعية",
+   "photo": {
+    "file": "Aerotowing glider remorquage planeur.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Aerotowing_glider_remorquage_planeur.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Aerotowing_glider_remorquage_planeur.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Myrabella"
+   }
+  },
+  {
+   "id": "moped",
+   "topic": "fahrzeuge2",
+   "art": "das",
+   "de": "Moped",
+   "plural": "Mopeds",
+   "ar": "موتوسيكل صغير",
+   "photo": {
+    "file": "Bruderwald Moped Ruine-20170422-RM-160132.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bruderwald_Moped_Ruine-20170422-RM-160132.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Bruderwald_Moped_Ruine-20170422-RM-160132.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Reinhold Möller Ermell"
+   }
+  },
+  {
+   "id": "tandem",
+   "topic": "fahrzeuge2",
+   "art": "das",
+   "de": "Tandem",
+   "plural": "Tandems",
+   "ar": "دراجة مزدوجة",
+   "photo": {
+    "file": "Tandem bicycle red.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tandem_bicycle_red.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Tandem_bicycle_red.jpg",
+    "license": "CC BY 2.0",
+    "author": "4RB"
+   }
+  },
+  {
+   "id": "pferdewagen",
+   "topic": "fahrzeuge2",
+   "art": "der",
+   "de": "Pferdewagen",
+   "plural": "-",
+   "ar": "عربية حنطور",
+   "photo": {
+    "file": "Horse carriage, Gwalior.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Horse_carriage,_Gwalior.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Horse_carriage,_Gwalior.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Yann (talk)"
    }
   }
  ]
