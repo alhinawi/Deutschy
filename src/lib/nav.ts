@@ -3,6 +3,7 @@ export type NavGroup = { id: string; ar: string; en: string; items: NavItem[] };
 export const sidebar: NavGroup[] = [
   { id: 'learn', ar: 'ابدأ', en: 'Start', items: [
     { href: '/', ar: 'الرئيسية', en: 'Home' },
+    { href: '/weekly-plan/', ar: 'خطة أسبوعية على الجهاز', en: 'Device-only weekly planner' },
     { href: '/start/', ar: 'ابدأ حسب هدفك', en: 'Start with your goal' },
     { href: '/about/', ar: 'عن الموقع وطريقة المذاكرة', en: 'About and study guide' },
     { href: '/levels/', ar: 'كل المستويات', en: 'All levels' },
