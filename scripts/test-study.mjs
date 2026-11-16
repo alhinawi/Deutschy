@@ -126,3 +126,5 @@ const {startTimed,timedRemaining,finishTimed,timedQuestions}=lib('timed-practice
 assert(search('Umbuchung',100).some(h=>h.kind==='dialogue'));for(const query of ['Dictation','Timed mixed practice','Printable study sheets'])assert(search(query,100).some(h=>h.kind==='page'));console.log('PASS: new practice routes and Egyptian dialogue content discoverable in global search');
 
 const {pitfalls}=lib('pitfalls');assert.equal(pitfalls.length,18);for(const l of CHECK_LEVELS)assert.equal(pitfalls.filter(p=>p.level===l).length,3);for(const p of pitfalls){assert.equal(p.answers.length,3);assert.equal(new Set(p.answers).size,3);assert(p.source.startsWith('https://'))}console.log('PASS: 18 source-linked pitfalls, three per level, distinct correction options');
+
+const {soundContrasts}=lib('sound-contrasts');assert.equal(soundContrasts.length,6);for(const p of soundContrasts){assert.equal(p.words.length,2);assert.notEqual(p.words[0],p.words[1]);assert.equal(p.meanings[0].length,2);assert.equal(p.meanings[1].length,2);assert.equal(p.approx.length,2)}console.log('PASS: six distinct sound-pair structures and bilingual cues');

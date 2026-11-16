@@ -53,6 +53,7 @@ export const sidebar: NavGroup[] = [
     { href: '/reading/', ar: 'القراءة', en: 'Reading' },
     { href: '/wortschatz/', ar: 'مفردات الامتحان', en: 'Exam vocabulary' },
     { href: '/lessons/', ar: 'المفردات بالموضوع', en: 'Vocabulary by topic' },
+    { href: '/sound-contrasts/', ar: 'اسمع فرق الأصوات', en: 'Sound contrast lab' },
     { href: '/pronunciation/', ar: 'النطق', en: 'Pronunciation' },
     { href: '/learn/', ar: 'أساسيات', en: 'Basics' },
   ] },

@@ -1,4 +1,5 @@
 'use client';
+import Link from 'next/link';
 import { pron, pairs } from '@/lib/pron';
 import { speak } from '@/lib/speak';
 import { useLang, useT } from '@/lib/i18n';
@@ -16,7 +17,7 @@ export default function PronView() {
         <h1 className="ar-title text-4xl font-bold">{t('النطق', 'Pronunciation')}</h1>
         <p className="text-muted">{t('اضغط على أي كلمة تسمعها. الأصوات الألماني ماليهاش مقابل مظبوط في العربي، فالتشبيهات تقريبية.', 'Tap any word to hear it. German sounds do not map exactly onto Arabic, so the comparisons are approximate.')}</p>
       </div>
-      <nav className="flex flex-wrap gap-2" aria-label="Sounds">
+      <Link href="/sound-contrasts/" className="block underline">{t('جديد: معمل فرق الأصوات وتقريب عربي محدود','New: sound contrasts and limited Arabic memory cues')}</Link><nav className="flex flex-wrap gap-2" aria-label="Sounds">
         {pron.map((s) => <a key={s.id} href={`#${s.id}`} className="de num rounded-full border border-line bg-card px-3 py-1.5 text-sm font-semibold hover:border-accent">{s.t}</a>)}
         <a href="#pairs" className="rounded-full border border-line bg-card px-3 py-1.5 text-sm font-semibold hover:border-accent">{t('أزواج متشابهة', 'Minimal pairs')}</a>
       </nav>
