@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-16 after the fourteenth content update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-16 after the fifteenth content update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -28,6 +28,12 @@ Do not mark a row complete until the German, meaning and question ambiguity have
 - [ ] `/dialogues/`, **Das Fahrrad abholen**: workshop idiom, Abholschein, reparierte Bremse vs aufgepumpter Reifen, fictional 24-Euro total and no extra pump fee, Egyptian Arabic and three exact-evidence answers.
 - [ ] `/dialogues/`, **Eine Aufgabe gemeinsam planen**: natural project negotiation, responsibility for each location vs shared table, Wednesday collection vs Thursday checking, pronoun references and three exact-evidence answers.
 - [ ] `/dictation/`: each source-reading set preserves its sentence meaning and boundaries. Listen for device-voice issues with numbers/abbreviations; text correctness and voice behavior are separate findings. The tool is unsaved practice, not an official listening exam.
+
+### Fifteenth update: additional pending targets
+
+- [ ] `/reading/alltag-a2-bibliothek/`: check lost-bag sequence, Tuesday vs next-morning Wednesday, Stofftasche/Brotdose, the ten-minute closing window and all four evidence answers. Check Egyptian Arabic gender/pronoun consistency.
+- [ ] `/reading/alltag-b1-reparatur/`: check technical but non-instructional repair vocabulary, the volunteers' no-guarantee qualification, test-page inference and all four questions. The event is fictional, not a service promise or repair manual.
+- [ ] `/review/`, `/review/daily/`, `/review/words/`: review corrected feedback and local schedule copy. Noun prompts now use Arabic/English meanings instead of revealing the German lemma; check each meaning remains a fair cue. Synchronous answer locks do not establish learning quality.
 
 ### Present forms to sign off
 
@@ -58,7 +64,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **669 photo nouns / 58 topics**, **69 reading texts / 229 reading questions**, **41 core grammar topics / 382 core grammar questions**, **11 dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **669 photo nouns / 58 topics**, **71 reading texts / 237 reading questions**, **41 core grammar topics / 382 core grammar questions**, **11 dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -70,7 +76,7 @@ This is an inventory, not completed review. Snapshot: **669 photo nouns / 58 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 7 · A2 17 · B1 15 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 7 · A2 18 · B1 16 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

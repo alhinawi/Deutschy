@@ -1,0 +1,56 @@
+{
+  "content_commit": "2fb0f35b5daa5166367ef3b3b9e17782b3b8a807",
+  "batches": [
+    {
+      "lang": "ar",
+      "start": 0,
+      "routes": 180,
+      "checks": 360,
+      "defects": 0
+    },
+    {
+      "lang": "ar",
+      "start": 180,
+      "routes": 180,
+      "checks": 360,
+      "defects": 0
+    },
+    {
+      "lang": "ar",
+      "start": 360,
+      "routes": 178,
+      "checks": 356,
+      "defects": 0
+    },
+    {
+      "lang": "en",
+      "start": 0,
+      "routes": 180,
+      "checks": 360,
+      "defects": 0
+    },
+    {
+      "lang": "en",
+      "start": 180,
+      "routes": 180,
+      "checks": 360,
+      "defects": 0
+    },
+    {
+      "lang": "en",
+      "start": 360,
+      "routes": 178,
+      "checks": 356,
+      "defects": 0
+    }
+  ],
+  "checks": 2152,
+  "focused": {
+    "readingSessions": 16,
+    "readingAnswers": 64,
+    "reviewSessions": 24,
+    "axeStates": 20,
+    "axeViolations": 0,
+    "offlineRoutes": 6
+  }
+}
