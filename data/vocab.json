@@ -227,81 +227,6 @@
  ],
  "words": [
   {
-   "id": "mutter",
-   "topic": "family",
-   "art": "die",
-   "de": "Mutter",
-   "plural": "Mütter",
-   "ar": "أم",
-   "photo": {
-    "file": "Mother and her little daughter 1 april event Brielle.JPG",
-    "page": "https://commons.wikimedia.org/wiki/File:Mother_and_her_little_daughter_1_april_event_Brielle.JPG",
-    "commons": "https://commons.wikimedia.org/wiki/File:Mother_and_her_little_daughter_1_april_event_Brielle.JPG",
-    "license": "CC BY-SA 3.0",
-    "author": "Peter van der Sluijs"
-   }
-  },
-  {
-   "id": "vater",
-   "topic": "family",
-   "art": "der",
-   "de": "Vater",
-   "plural": "Väter",
-   "ar": "أب",
-   "photo": {
-    "file": "Father_and_son_27.jpg",
-    "page": "https://de.wikipedia.org/wiki/Vater",
-    "commons": "https://commons.wikimedia.org/wiki/File:Father_and_son_27.jpg",
-    "license": "CC BY-SA 3.0",
-    "author": "No machine-readable author provided. Onkelbo~commonswiki assumed (based on copyright claims)."
-   }
-  },
-  {
-   "id": "bruder",
-   "topic": "family",
-   "art": "der",
-   "de": "Bruder",
-   "plural": "Brüder",
-   "ar": "أخ",
-   "photo": {
-    "file": "Two brothers together in Bihar, India.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Two_brothers_together_in_Bihar,_India.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Two_brothers_together_in_Bihar,_India.jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Saddam19"
-   }
-  },
-  {
-   "id": "kind",
-   "topic": "family",
-   "art": "das",
-   "de": "Kind",
-   "plural": "Kinder",
-   "ar": "طفل",
-   "photo": {
-    "file": "Little_girl_of_Don_Som.jpg",
-    "page": "https://de.wikipedia.org/wiki/Kindheit",
-    "commons": "https://commons.wikimedia.org/wiki/File:Little_girl_of_Don_Som.jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Basile Morin"
-   }
-  },
-  {
-   "id": "grossvater",
-   "topic": "family",
-   "art": "der",
-   "de": "Großvater",
-   "plural": "Großväter",
-   "ar": "جد (جدو)",
-   "photo": {
-    "file": "Bratan Bali Indonesia Grandfather-and-grandson-after-Puja-01.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Bratan_Bali_Indonesia_Grandfather-and-grandson-after-Puja-01.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Bratan_Bali_Indonesia_Grandfather-and-grandson-after-Puja-01.jpg",
-    "license": "CC BY-SA 3.0",
-    "author": "CEphoto, Uwe Aranas"
-   }
-  },
-  {
    "id": "familie",
    "topic": "family",
    "art": "die",
@@ -2012,21 +1937,6 @@
    }
   },
   {
-   "id": "arzt",
-   "topic": "jobs",
-   "art": "der",
-   "de": "Arzt",
-   "plural": "Ärzte",
-   "ar": "دكتور",
-   "photo": {
-    "file": "Auscultation_of_the_anterior_Thorax.jpg",
-    "page": "https://de.wikipedia.org/wiki/Arzt",
-    "commons": "https://commons.wikimedia.org/wiki/File:Auscultation_of_the_anterior_Thorax.jpg",
-    "license": "CC BY 2.0",
-    "author": "Víctor Santa María from Buenos Aires, Argentina"
-   }
-  },
-  {
    "id": "koch",
    "topic": "jobs",
    "art": "der",
@@ -2099,21 +2009,6 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Defense.gov_News_Photo_060803-F-2907C-107.jpg",
     "license": "Public domain",
     "author": "Master Sgt. Lance Cheung, U.S. Air Force"
-   }
-  },
-  {
-   "id": "friseur",
-   "topic": "jobs",
-   "art": "der",
-   "de": "Friseur",
-   "plural": "Friseure",
-   "ar": "حلاق",
-   "photo": {
-    "file": "Frisoerin_(fcm).jpg",
-    "page": "https://de.wikipedia.org/wiki/Friseur",
-    "commons": "https://commons.wikimedia.org/wiki/File:Frisoerin_(fcm).jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Photograph:  Frank C. Müller, Baden-Baden"
    }
   },
   {
@@ -2984,21 +2879,6 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Bare_soles_2.jpg",
     "license": "CC0",
     "author": "sole_lover"
-   }
-  },
-  {
-   "id": "baby",
-   "topic": "family",
-   "art": "das",
-   "de": "Baby",
-   "plural": "Babys",
-   "ar": "بيبي / رضيع",
-   "photo": {
-    "file": "Calm.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Calm.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Calm.jpg",
-    "license": "CC BY-SA 2.0",
-    "author": "Victoria Williams from West Palm Beach, USA"
    }
   },
   {
@@ -6017,21 +5897,6 @@
    }
   },
   {
-   "id": "krankenschwester",
-   "topic": "jobs2",
-   "art": "die",
-   "de": "Krankenschwester",
-   "plural": "Krankenschwestern",
-   "ar": "ممرضة",
-   "photo": {
-    "file": "Nurse checks blood pressure.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Nurse_checks_blood_pressure.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Nurse_checks_blood_pressure.jpg",
-    "license": "Public domain",
-    "author": "Linda Bartlett (Photographer)"
-   }
-  },
-  {
    "id": "musiker",
    "topic": "jobs2",
    "art": "der",
@@ -6074,21 +5939,6 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Blacksmith_at_work02.jpg",
     "license": "GFDL 1.2",
     "author": "User:Fir0002"
-   }
-  },
-  {
-   "id": "astronaut",
-   "topic": "jobs2",
-   "art": "der",
-   "de": "Astronaut",
-   "plural": "Astronauten",
-   "ar": "رائد فضاء",
-   "photo": {
-    "file": "Sally Ride, America's first woman astronaut communicates with ground controllers from the flight deck - NARA - 541940.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Sally_Ride,_America%27s_first_woman_astronaut_communicates_with_ground_controllers_from_the_flight_deck_-_NARA_-_541940.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Sally_Ride,_America%27s_first_woman_astronaut_communicates_with_ground_controllers_from_the_flight_deck_-_NARA_-_541940.jpg",
-    "license": "Public domain",
-    "author": "Unknown authorUnknown author or not provided"
    }
   },
   {
@@ -9032,51 +8882,6 @@
    }
   },
   {
-   "id": "mund",
-   "topic": "koerper2",
-   "art": "der",
-   "de": "Mund",
-   "plural": "Münder",
-   "ar": "فم",
-   "photo": {
-    "file": "Adult human mouth (modified).jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Adult_human_mouth_(modified).jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Adult_human_mouth_(modified).jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Original: Genusfotografen (Tomas Gunnarsson) \n\nModified: Own work"
-   }
-  },
-  {
-   "id": "bauchnabel",
-   "topic": "koerper2",
-   "art": "der",
-   "de": "Bauchnabel",
-   "plural": "-",
-   "ar": "سرة",
-   "photo": {
-    "file": "Human navel, female.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Human_navel,_female.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Human_navel,_female.jpg",
-    "license": "CC BY 2.0",
-    "author": "Stinkie Pinkie"
-   }
-  },
-  {
-   "id": "wimper",
-   "topic": "koerper2",
-   "art": "die",
-   "de": "Wimper",
-   "plural": "Wimpern",
-   "ar": "رمش",
-   "photo": {
-    "file": "Human eyelashes.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Human_eyelashes.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Human_eyelashes.jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Rapidreflex"
-   }
-  },
-  {
    "id": "skelett",
    "topic": "koerper2",
    "art": "das",
@@ -9354,11 +9159,11 @@
    "plural": "Eisbären",
    "ar": "دب قطبي",
    "photo": {
-    "file": "Polar bear (Ursus maritimus) with its prey.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Polar_bear_(Ursus_maritimus)_with_its_prey.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Polar_bear_(Ursus_maritimus)_with_its_prey.jpg",
+    "file": "Polar Bear AdF.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Polar_Bear_AdF.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Polar_Bear_AdF.jpg",
     "license": "CC BY-SA 4.0",
-    "author": "AWeith"
+    "author": "Arturo de Frias Marques"
    }
   },
   {
