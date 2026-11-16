@@ -1,5 +1,5 @@
 'use client';
-import { useState } from 'react';
+import { useRef, useState } from 'react';
 import Link from 'next/link';
 import { words, type Word, glossOf, pluralText, sample } from '@/lib/data';
 import { useStore, today } from '@/lib/store';
@@ -16,12 +16,14 @@ export default function WordReview() {
  const t = useT(); const { lang } = useLang();
  const [deck, setDeck] = useState<Card[] | null>(null);
  const [i, setI] = useState(0); const [pick, setPick] = useState<string | null>(null);
+ const locked=useRef(false);
  const [correct, setCorrect] = useState(0);
  if (!ready) return <p role="status">{t('بنحمّل تقدمك...', 'Loading your progress...')}</p>;
  const studied = practicedWords(s), due = dueWords(s);
  const daily = s.daily?.[today()] ?? 0;
  const goal = Math.max(1, s.goal || 50);
  const start = () => {
+   locked.current=false;
    const cards = due.slice(0, 20).map((w) => {
      const options = [...new Set(sample(words.filter((x) => x.id !== w.id && glossOf(x, lang) !== glossOf(w, lang)), words.length).map(label))].filter((x) => x !== label(w)).slice(0, 3);
      return { w, opts: sample([label(w), ...options], 4) };
@@ -29,7 +31,8 @@ export default function WordReview() {
  };
  const q = deck?.[i];
  const answer = (option: string) => {
-   if (!q || pick !== null) return;
+   if (!q || pick !== null || locked.current) return;
+   locked.current=true;
    setPick(option); const ok = option === label(q.w);
    setCard(q.w.id, grade(s.srs?.[q.w.id], ok));
    award(ok ? 5 : 0, q.w.id, ok);
@@ -52,8 +55,8 @@ export default function WordReview() {
      <p dir="ltr" className="num text-sm text-muted">{i+1} / {deck.length}</p>
      <h2 className="ar-title text-2xl font-bold">{t('اختار الكلمة بأداتها', 'Choose the noun with its article')}</h2>
      <p className="ar-title text-xl">{glossOf(q.w, lang)}</p>
-     <div className="grid gap-2">{q.opts.map((o) => <button key={o} disabled={pick !== null} dir="ltr" lang="de" onClick={() => answer(o)} className={`de rounded-xl border p-3 text-start text-lg ${pick !== null && o === label(q.w) ? 'border-good bg-good/10' : pick === o ? 'border-bad bg-bad/10' : 'border-line bg-paper'}`}>{o}</button>)}</div>
-     {pick !== null && <div className="space-y-3" role="status"><p>{pick === label(q.w) ? t('صح. اتحدد ميعاد المراجعة الجاية.', 'Correct. Your next review is scheduled.') : t('الإجابة الصح متعلّمة فوق. الكلمة لسه مستحقة النهارده.', 'The correct answer is marked above. This word remains due today.')}</p><p dir="ltr" lang="de" className="de">{pluralText(q.w, lang)}</p><div className="flex flex-wrap gap-2"><button onClick={() => speak(label(q.w))} aria-label={t('اسمع الكلمة', 'Hear the word')} className="rounded-full border border-line p-3"><Speaker /></button><button onClick={() => { setI(i+1); setPick(null); }} className="rounded-full bg-accent px-5 py-2 font-bold text-accent-ink">{t('التالي', 'Next')}</button></div></div>}
+     <div className="grid gap-2">{q.opts.map((o) => <button key={o} disabled={pick !== null} dir="ltr" lang="de" onClick={() => answer(o)} className={`de min-w-0 break-words rounded-xl border p-3 text-start text-lg ${pick !== null && o === label(q.w) ? 'border-good bg-good/10' : pick === o ? 'border-bad bg-bad/10' : 'border-line bg-paper'}`}>{o}</button>)}</div>
+     {pick !== null && <div className="space-y-3" role="status"><p>{pick === label(q.w) ? t('صح. اتحدد ميعاد المراجعة الجاية.', 'Correct. Your next review is scheduled.') : t('الإجابة الصح متعلّمة فوق. الكلمة لسه مستحقة النهارده.', 'The correct answer is marked above. This word remains due today.')}</p><p dir="ltr" lang="de" className="de">{pluralText(q.w, lang)}</p><div className="flex flex-wrap gap-2"><button onClick={() => speak(label(q.w))} aria-label={t('اسمع الكلمة', 'Hear the word')} className="rounded-full border border-line p-3"><Speaker /></button><button onClick={() => { setI(i+1); setPick(null);locked.current=false; }} className="rounded-full bg-accent px-5 py-2 font-bold text-accent-ink">{t('التالي', 'Next')}</button></div></div>}
    </section> : <section className="space-y-3 rounded-2xl border border-line bg-card p-5"><h2 className="ar-title text-2xl font-bold">{t('خلصت الجلسة', 'Session finished')}</h2><p>{t(`إجابات صح: ${correct} من ${deck.length}.`, `Correct answers: ${correct} of ${deck.length}.`)}</p><button onClick={() => setDeck(null)} className="rounded-full border border-line px-5 py-2">{t('ارجع للجدول', 'Back to schedule')}</button></section>}
    <p className="text-sm text-muted">{t('مواعيد الكروت والهدف من السجل الموجود في المتصفح ده. مسح البيانات ممكن يمسحهم. ده جدول تدريب، مش تقييم رسمي لحفظك.', 'Card dates and goals use this browser\'s saved record. Clearing its data can erase them. This is a study schedule, not an official memory assessment.')}</p>
  </div>;

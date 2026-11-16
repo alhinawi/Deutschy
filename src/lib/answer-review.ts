@@ -1,5 +1,5 @@
 import { CHECK_LEVELS, checkBank, type CheckQuestion } from './level-check';
-import { words, sample } from './data';
+import { words, sample, glossOf } from './data';
 import { dayNum, grade, type Card } from './srs';
 import type { State } from './store';
 export const REVIEW_KEY = 'deutschy:review:v1';
@@ -12,7 +12,7 @@ export function reviewBank(): CheckQuestion[] {
  if(cachedBank)return cachedBank;
  const bank=CHECK_LEVELS.flatMap(checkBank);const unique=new Map(bank.map(q=>[q.key,q]));
  for(const q of bank.filter(q=>q.kind==='reading')) unique.set(q.key.replace(/^r:/,'l:'),{...q,key:q.key.replace(/^r:/,'l:')});
- for(const w of words) unique.set(w.id,{key:w.id,kind:'grammar',prompt:`${w.ar} / ${w.de}`,options:[`${w.art} ${w.de}`,...sample(words.filter(x=>x.id!==w.id),2).map(x=>`${x.art} ${x.de}`)],href:`/lessons/${w.topic}/`});
+ for(const w of words) unique.set(w.id,{key:w.id,kind:'grammar',prompt:`${w.ar} / ${glossOf(w,'en')}`,options:[`${w.art} ${w.de}`,...sample(words.filter(x=>x.id!==w.id),2).map(x=>`${x.art} ${x.de}`)],href:`/lessons/${w.topic}/`});
  cachedBank=[...unique.values()];return cachedBank;
 }
 export function reviewQueue(s:State,d:ReviewData,now=dayNum()) {return reviewBank().filter(q=>((s.seen[q.key]?.bad||0)>0||d.saved.includes(q.key)||!!s.srs[q.key])&&(!d.cards[q.key]||d.cards[q.key].due<=now)).sort((a,b)=>(d.cards[a.key]?.due??-Infinity)-(d.cards[b.key]?.due??-Infinity)||a.key.localeCompare(b.key));}

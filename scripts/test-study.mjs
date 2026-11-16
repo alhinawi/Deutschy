@@ -275,3 +275,7 @@ console.log('PASS: two appended original A2/B1 dialogues, six distinct answers a
 
 const {dictationSet,dictationSources}=lib('dictation');for(const level of ['A1','A2','B1','B2','C1','C2']){const sources=dictationSources(level);assert(sources.length);assert.equal(sources.reduce((n,s)=>n+s.count,0),dictationSet(level).length);for(const s of sources){assert(dictationSet(level,s.id).every(x=>x.source===s.id&&x.level===level));assert.equal(dictationSet(level,s.id).length,s.count);}}for(const id of ['alltag-a2-paket','alltag-b1-schicht']){const r=lib('reading').readings.find(r=>r.id===id);const set=dictationSet(r.level,id);assert(set.length>=8);assert(set.every(x=>r.de.join(' ').includes(x.text)));assert(set.every(x=>dictationItems.some(y=>y.id===x.id)));}
 console.log('PASS: focused dictation source sets partition all levels, preserve sentence IDs/order and include both new readings');
+const allReview=lib('answer-review').reviewBank();assert(allReview.every(q=>q.options.length===3&&q.options.every(Boolean)));
+for(const w of words){const q=allReview.find(q=>q.key===w.id);assert(q);assert.equal(q.prompt,`${w.ar} / ${lib('data').glossOf(w,'en')}`);assert.equal(q.options[0],`${w.art} ${w.de}`);}
+for(const f of ['ReviewView','WordReview','AnswerReview']){const text=readFileSync(`src/components/${f}.tsx`,'utf8');assert(text.includes('useRef'));assert(/\.current.*return/.test(text));}
+console.log('PASS: review options remain three-way, word prompts hide German answer, synchronous review locks retained');
