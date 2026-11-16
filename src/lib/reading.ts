@@ -1,5 +1,5 @@
 export type ReadingText = {
-  id: string; level: 'A1' | 'A2' | 'B1'; title: [string, string];
+  id: string; level: 'A1' | 'A2' | 'B1' | 'B2' | 'C1' | 'C2'; title: [string, string];
   de: string[]; ar: string[];
   // question, correct answer first, then two wrong answers
   q: [string, string, string, string][];
@@ -47,4 +47,6 @@ export const readings: ReadingText[] = [
     ar: ['ناس أكتر وأكتر بتحاول تقلل الزبالة في حياتها اليومية. بيستخدموا شنط قماش بدل البلاستيك وبيشتروا الفاكهة والخضار من السوق.', 'كمان كتير بيركبوا العجلة عشان الغازات تقل في الهواء. الخبرا بيقولوا إن حتى التغييرات الصغيرة بتفرق لو ناس كتير شاركت.'],
     q: [['Was benutzen viele statt Plastiktüten?', 'Stofftaschen.', 'Papiertüten.', 'Kartons.'], ['Warum fahren viele Fahrrad?', 'Damit weniger Abgase entstehen.', 'Weil es schneller ist.', 'Weil Benzin teuer ist.'], ['Was sagen Experten?', 'Kleine Veränderungen helfen.', 'Nur die Politik kann helfen.', 'Es ist zu spät.']] },
 ];
+import { readingsAdv } from './reading-adv';
+readings.push(...readingsAdv);
 export const readingOf = (id: string) => readings.find((r) => r.id === id);
