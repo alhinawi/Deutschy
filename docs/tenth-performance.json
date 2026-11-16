@@ -1,0 +1,107 @@
+{
+  "conditions": {
+    "viewport": "390x844",
+    "download_KiB_s": 200,
+    "upload_KiB_s": 100,
+    "latency_ms": 150,
+    "cpu_slowdown": 4,
+    "isolated_context_each_route": true,
+    "cache_disabled": true,
+    "service_worker_bypassed": true,
+    "source": "local Python static HTTP server; uncompressed; not a production field metric"
+  },
+  "before": [
+    {
+      "route": "/",
+      "settledMs": 11861,
+      "lcp": 1516,
+      "dom": 706,
+      "totalTransferBytes": 2079245,
+      "requests": 63,
+      "overflow": false
+    },
+    {
+      "route": "/credits/",
+      "settledMs": 10257,
+      "lcp": 1284,
+      "dom": 4526,
+      "totalTransferBytes": 1705036,
+      "requests": 19,
+      "overflow": false
+    },
+    {
+      "route": "/levels/A1/",
+      "settledMs": 13459,
+      "lcp": 1268,
+      "dom": 1308,
+      "totalTransferBytes": 2430288,
+      "requests": 49,
+      "overflow": false
+    },
+    {
+      "route": "/verbs/",
+      "settledMs": 8663,
+      "lcp": 1268,
+      "dom": 1513,
+      "totalTransferBytes": 1268635,
+      "requests": 29,
+      "overflow": false
+    },
+    {
+      "route": "/lessons/musik/",
+      "settledMs": 14927,
+      "lcp": 3784,
+      "dom": 442,
+      "totalTransferBytes": 2849356,
+      "requests": 34,
+      "overflow": false
+    }
+  ],
+  "after": [
+    {
+      "route": "/",
+      "settledMs": 11911,
+      "lcp": 1440,
+      "dom": 706,
+      "totalTransferBytes": 2071675,
+      "requests": 63,
+      "overflow": false
+    },
+    {
+      "route": "/credits/",
+      "settledMs": 6367,
+      "lcp": 1092,
+      "dom": 590,
+      "totalTransferBytes": 1031134,
+      "requests": 20,
+      "overflow": false
+    },
+    {
+      "route": "/levels/A1/",
+      "settledMs": 12501,
+      "lcp": 1296,
+      "dom": 1308,
+      "totalTransferBytes": 2349359,
+      "requests": 49,
+      "overflow": false
+    },
+    {
+      "route": "/verbs/",
+      "settledMs": 8690,
+      "lcp": 1268,
+      "dom": 1513,
+      "totalTransferBytes": 1268635,
+      "requests": 29,
+      "overflow": false
+    },
+    {
+      "route": "/lessons/musik/",
+      "settledMs": 10390,
+      "lcp": 3228,
+      "dom": 442,
+      "totalTransferBytes": 1848385,
+      "requests": 34,
+      "overflow": false
+    }
+  ]
+}
