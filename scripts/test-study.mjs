@@ -137,3 +137,5 @@ const {deckTsv,deckWords,pluralForCard}=lib('deck-export');assert.equal(deckWord
 
 assert(search('bekommen',100).some(h=>h.href==='/pitfalls/#b1-bekommen'));assert(search('bieten',100).some(h=>h.href==='/sound-contrasts/#i'));assert(search('arrival',100).some(h=>h.href==='/context-packs/#arrival'));assert(search('application',100).some(h=>h.href==='/writing-frames/#bewerbung'));console.log('PASS: learner guides, contrasts, frames and pack deep links in search');
 const {mapExamples}=await load('src/lib/grammar-map.ts');assert.equal(Object.keys(mapExamples).length,pitfalls.length);for(const p of pitfalls)assert.ok(mapExamples[p.id]?.length>10);console.log('PASS: all 18 grammar-map reminders have complete contextual examples');
+
+const {mapArabic}=lib('grammar-map');for(const p of pitfalls){assert.equal(mapArabic[p.id].length,2);assert.ok(mapArabic[p.id].every(t=>!/[A-Za-z]/.test(t)))}console.log('PASS: Arabic-only map summaries avoid mixed-script conjunction ambiguity');
