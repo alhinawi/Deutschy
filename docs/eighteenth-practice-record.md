@@ -1,0 +1,7 @@
+# Eighteenth update: honest local practice record
+
+Replaces a completion-certificate claim with a personal grammar-practice record. The existing gate is unchanged: at least 80% of distinct grammar questions for the selected group have a correct answer at least once. Repeated attempts count, so the record now says that explicitly rather than claiming every question was completed or language proficiency was established.
+
+Locked state has a heading, actual local counts, remaining distinct-question count and a direct grammar link. Unlocked state has an optional, labeled device-local name field, empty-name prevention, long-name wrapping and a print-visible non-accreditation qualification. Browser storage failure is disclosed. No backend, identity verification, official certification or scoring change.
+
+Checks: typecheck/build, verify, study/speech/PWA and export checks pass. 48 browser fixtures cover six levels × Arabic/English × 320/390 × locked/unlocked. Saved optional name leaves question history unchanged; long test names wrap. Eight representative axe states pass. AR 320 locked and EN 390 unlocked views inspected, plus actual print-media PDF pixels with qualification visible and navigation excluded. Fixtures are private test state, not real learner achievement. Native wording review pending. Remaining list 18 photo/flow work is separate.

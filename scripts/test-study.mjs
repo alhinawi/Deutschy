@@ -290,3 +290,19 @@ console.log('PASS: linked scenario reading/dialogue/dictation sets resolve, uniq
 const {resumeEntry,resumeLabel}=lib('resume');assert.equal(resumeEntry({href:'https://evil.invalid/',at:100},100),null);assert.equal(resumeEntry({href:'/account/',at:100},100),null);assert.equal(resumeEntry({href:'/reading/not-real/',at:100},100),null);assert.equal(resumeEntry({href:'/reading/alltag-a2-lerntandem/?q=1',at:100},100),null);assert.equal(resumeEntry({href:'/dialogues/#lerntandem-ort',at:100},100).href,'/dialogues/#lerntandem-ort');assert.equal(resumeEntry({href:'/grammar/dativ/',at:1000000},100),null);assert(resumeLabel('/reading/alltag-a2-lerntandem/'));console.log('PASS: resume only accepts known local study paths, valid fragments/times and excludes accounts/external/query links');
 
 for(const g of lib('grammar').grammar){assert.equal(lib('grammar-walkthrough').grammarWalkthrough[g.id].length,2);assert(g.ex[0]);assert(lib('exercises').exercises[g.id]?.length>=3)}assert(readFileSync('src/components/Practice.tsx','utf8').includes('g:${topic}:${indices[i]}'));console.log('PASS: all 41 grammar topics have worked walkthroughs and quick rounds preserve original question keys');
+
+{
+ const {levelProgress,LEVELS}=lib('progress');
+ const {grammar:groups}=lib('grammar');const {exercises:bank}=lib('exercises');
+ for(const level of LEVELS){
+  const keys=groups.filter(g=>g.level===level).flatMap(g=>(bank[g.id]??[]).map((_,i)=>`g:${g.id}:${i}`));
+  const need=Math.ceil(keys.length*.8);const state={seen:Object.fromEntries(keys.slice(0,need-1).map(k=>[k,{ok:1,bad:5}]))};
+  assert.equal(levelProgress(state,level).passed,false);state.seen[keys[need-1]]={ok:1,bad:7};assert.equal(levelProgress(state,level).passed,true);
+  state.seen[keys[0]]={ok:100,bad:0};assert.equal(levelProgress(state,level).got,need);
+ }
+ const view=readFileSync('src/components/CertificateView.tsx','utf8');
+ assert(view.includes('not an accredited language certificate or proof of proficiency'));
+ assert(view.includes('htmlFor="practice-name"'));assert(view.includes('<h1'));
+ assert(!view.includes('This certifies that'));
+ console.log('PASS: personal practice record uses distinct correct-once 80% threshold, clear qualification and labeled optional name');
+}
