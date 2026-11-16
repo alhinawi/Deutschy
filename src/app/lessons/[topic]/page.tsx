@@ -24,7 +24,7 @@ export default async function Topic({ params }: { params: Promise<{ topic: strin
         </div>
         <Link href={`/games/quiz/?topic=${topic}`} className="rounded-full bg-accent px-5 py-2.5 text-sm font-bold text-accent-ink"><T ar="اختبر نفسك في الدرس" en="Quiz yourself on this lesson" /></Link>
       </div>
-      <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">{ws.map((w) => <WordCard key={w.id} w={w} />)}</div>
+      <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">{ws.map((w, n) => <WordCard key={w.id} w={w} first={n < 2} />)}</div>
     </div>
   );
 }

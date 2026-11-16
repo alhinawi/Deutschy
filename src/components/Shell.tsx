@@ -48,10 +48,10 @@ export default function Shell({ children }: { children: ReactNode }) {
             <span className="inline-flex items-center gap-0.5 text-accent"><Flame />{s.streak}</span>
           </div>
           <button onClick={() => setSearching(true)} aria-label={t('بحث', 'Search')} className="rounded-full border border-line p-1.5 hover:bg-card"><SearchIcon className="h-4 w-4" /></button>
-          <button onClick={() => setLang(lang === 'ar' ? 'en' : 'ar')} aria-label="Language" className="rounded-full border border-line px-2.5 py-1 text-xs font-bold whitespace-nowrap sm:px-3 hover:bg-card">
+          <button onClick={() => setLang(lang === 'ar' ? 'en' : 'ar')} aria-label={lang === 'ar' ? 'EN English' : 'عربي Arabic'} className="rounded-full border border-line px-2.5 py-1 text-xs font-bold whitespace-nowrap sm:px-3 hover:bg-card">
             {lang === 'ar' ? 'EN' : 'عربي'}
           </button>
-          {user === undefined ? null : user ? (
+          {user === undefined ? <span className="inline-block h-7 w-14" aria-hidden="true" /> : user ? (
             <Link href="/account/" className="hidden rounded-full bg-accent px-3 py-1.5 text-xs font-bold text-accent-ink sm:inline-block">{user.name.split(' ')[0]}</Link>
           ) : (
             <Link href="/account/" className="rounded-full bg-accent px-2.5 py-1.5 text-xs font-bold whitespace-nowrap sm:px-3 text-accent-ink">{t("دخول", "Sign in")}</Link>

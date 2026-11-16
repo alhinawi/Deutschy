@@ -13,7 +13,7 @@ export default function Art({ kind, className = '', label }: { kind: string; cla
     <div className={`grid place-items-center bg-accent/10 text-accent ${className}`} aria-hidden="true">
       <div className="flex flex-col items-center gap-1">
         <svg viewBox="0 0 24 24" className="h-1/2 w-1/2 min-h-8 min-w-8 max-h-20 max-w-20" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" strokeLinejoin="round"><path d={ICONS[kind] ?? ICONS.grammar} /></svg>
-        {label && <span className="de num text-xs font-bold opacity-80">{label}</span>}
+        {label && <span className="de num text-xs font-bold">{label}</span>}
       </div>
     </div>
   );
