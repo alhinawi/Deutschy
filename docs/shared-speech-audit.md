@@ -1,0 +1,3 @@
+# Shared speech safety
+Refuse browser fallback when no German voice exists; never use default English voice for German content. Cancel generation protects pending health/TTS fetches from playing after stop or a newer request. Revoke server audio blob URLs on stop/end/error. Reading-mode no-voice status now visible outside listening-only panel.
+New isolated test covers English-only refusal, German selection, explicit stop and async stale suppression. Browser no-voice reading path verified; mobile screenshot inspected. Typecheck/study/build pass. Real device voice output and configured remote TTS not live-tested.
