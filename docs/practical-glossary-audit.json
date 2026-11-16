@@ -1,0 +1,462 @@
+[
+  {
+    "id": "term-1",
+    "group": "paperwork",
+    "de": "Antrag",
+    "article": "der",
+    "plural": "Anträge",
+    "ar": "طلب رسمي",
+    "en": "application",
+    "example": "Ich möchte einen Antrag stellen.",
+    "source": "https://de.wiktionary.org/wiki/Antrag",
+    "matched": true,
+    "observed_gender": [
+      "m"
+    ],
+    "observed_plural": [
+      "Anträge"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] [[Gesuch]], schriftliche [[Bitte]]\n:[2] ''kurz für:'' [[Heiratsantrag]]\n\n{{QS Herkunft|fehlt}}\n\n{{Synonyme}}\n:[1] [[Anfrage]], [[Ansuchen]], [[Eingabe]], [[Gesuch]]\n:[2] [[Heiratsangebot]], [[Hochzeitsantrag]]\n\n{{Sinnverwandte Wörter}}\n:[2] [[Liebesantrag]], [[Eheantrag]], [[Verlobungsantrag]]\n\n{{Unterbegriffe}}\n:[1] [[Abänderungsantrag]], [[Abbauantrag]], [[Abberufungsantrag]], [[Abbruchantrag]], [[Aberkennungsantrag]], [[Abfertigungsantrag]], [[Abfindungsantrag]], [[Abgeordnetenantrag]], [[Ablehnungsantrag]], [[Abrissantrag]], [[Absetzungsantrag]], [[Abstimmungsantrag]], [[Abwahlantrag]], [[Abweichungsantrag]], [[Abwicklungsantrag]], [[Adhäsionsantrag]], [[Adoptionsantrag]], [[Akkreditivantrag]], [[Akteneinsichtsantrag]], [[Aktivierungsantrag]], [[Allparteienantrag]], [[Alternativantrag]], [[Amnestieantrag]], [[Amtsenthebungsantrag]], [[Änderungsantrag]], [[Anerkennungsantrag]], [[Anfechtungsantrag]], [[Anhörungsantrag]], [[Anmeldeantrag]], [[Anordnungsantrag]], [[Anrechnungsantrag]], [[Arbeitslosengeldantrag]], [[Asylantrag]], [[Asylfolgeantrag]], [[Aufenthaltsantrag]], [[Aufhebungsantrag]], [[Auflösungsantrag]], [[Aufnahmeantrag]], [[Aufschubantrag]], [[Aufteilungsantrag]], [[Ausbildungsantrag]], [[Ausbürgerungsantrag]], [[Ausfuhrantrag]], [[Ausgleichsantrag]], [[Auskunftsantrag]], [[Auslieferungsantrag]], [[Ausnahmeantrag]], [[Ausreiseantrag]], [[Ausschlussantrag]], [[Ausschussantrag]], [[Aussetzungsantrag]], [[Austrittsantrag]], [[Auszahlungsantrag]], [[Auszeichnungsantrag]], [[Bauantrag]], [[Baugenehmigungsantrag]], [[Baulastantrag]], [[Bedarfsantrag]], [[Befangenheitsantrag]], [[Befreiungsantrag]], [[Begnadigungsantrag]], [[Behandlungsantrag]], [[Behördenantrag]], [[Beihilfeantrag]], [[Beitrittsantrag]], [[Benutzerantrag]], [[Benutzungsantra"
+  },
+  {
+    "id": "term-2",
+    "group": "paperwork",
+    "de": "Bescheinigung",
+    "article": "die",
+    "plural": "Bescheinigungen",
+    "ar": "شهادة أو إفادة",
+    "en": "certificate",
+    "example": "Welche Bescheinigung brauche ich?",
+    "source": "https://de.wiktionary.org/wiki/Bescheinigung",
+    "matched": true,
+    "observed_gender": [
+      "f"
+    ],
+    "observed_plural": [
+      "Bescheinigungen"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] [[schriftlich]]er [[Nachweis]] für etwas\n\n{{Herkunft}}\n:[[Ableitung]] zum Stamm des Verbs ''[[bescheinigen]]'' mit dem [[Derivatem]] ([[Ableitungsmorphem]]) ''[[-ung]]''\n\n{{Oberbegriffe}}\n:[1] [[Nachweis]], [[Schriftstück]], [[Urkunde]]\n\n{{Unterbegriffe}}\n:[1] [[Arbeitsunfähigkeitsbescheinigung]], [[Empfangsbescheinigung]], [[Fiktionsbescheinigung]], [[Immatrikulationsbescheinigung]], [[Strafregisterbescheinigung]], [[Unbedenklichkeitsbescheinigung]], [[Zulassungbescheinigung]]\n:[1] [[Attest]], [[Krankenschein]], [[Zeugnis]]\n\n{{Beispiele}}\n:[1] Eine ''Bescheinigung'' dient als schriftlicher Nachweis für die Richtigkeit einer behaupteten Tatsache.\n:[1] „Sie bat mich, ich möge mich für sie verwenden, und übergab mir alle ''Bescheinigungen'', die ich allenfalls nötig haben würde.“<ref>{{Literatur | Autor= Giacomo Casanova |Titel= Geschichte meines Lebens, herausgegeben und eingeleitet von Erich Loos, Band 1 | Übersetzer= Heinz von Sauter | Verlag= Propyläen | Ort=Berlin | Jahr=1985 (Neuausgabe) | Seiten= 169.}}</ref>\n\n{{Charakteristische Wortkombinationen}}\n:[1] eine ''Bescheinigung'' [[beibringen]]\n\n==== {{Übersetzungen}} ====\n{{Ü-Tabelle|1|G=schriftlicher Nachweis für etwas|Ü-Liste=\n*{{en}}: {{Ü|en|certificate}}\n*{{eo}}: {{Ü|eo|atesto}}, {{Ü|eo|atestilo}}\n*{{fr}}: {{Ü|fr|certificat}} {{m}}, {{Ü|fr|attestation}} {{f}}\n*{{gl}}: {{Ü|gl|certificado}} {{m}}\n*{{it}}: {{Ü|it|certificato}} {{m}}\n*{{ca}}: {{Ü|ca|certificat}} {{m}}\n*{{hr}}: {{Ü|hr|potvrda}} {{f}}, {{Ü|hr|uvjerenje}} {{n}}\n*{{nl}}: {{Ü|nl|certificaat}} {{n}}\n*{{pl}}: {{Ü|pl|zaświadczenie}} {{n}}\n*{{pt}}: {{Ü|pt|certificado}} {{m}}\n*{{ro}}: {{Ü|ro|certificat}}\n*{{sv}}: {{Ü|sv|intyg}}, {{Ü|sv|attest}}, {{Ü|sv|attestering}}\n*{{sr}}: {{Üt|sr|потврда|potvrda}} {{f}}, {{Üt|sr|уверење|uverenje}} {{n}}"
+  },
+  {
+    "id": "term-3",
+    "group": "paperwork",
+    "de": "Genehmigung",
+    "article": "die",
+    "plural": "Genehmigungen",
+    "ar": "تصريح أو موافقة",
+    "en": "permit",
+    "example": "Brauche ich dafür eine Genehmigung?",
+    "source": "https://de.wiktionary.org/wiki/Genehmigung",
+    "matched": true,
+    "observed_gender": [
+      "f"
+    ],
+    "observed_plural": [
+      "Genehmigungen"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] Erteilung oder Vorliegen einer Erlaubnis, etwas zu tun\n:[2] {{K|Deutschland|Bürgerliches Recht}} [[nachträglich]]e Zustimmung\n\n{{Herkunft}}\n:[[Ableitung]] vom Stamm des Verbs ''[[genehmigen]]'' mit dem [[Derivatem]] ([[Ableitungsmorphem]]) ''[[-ung]]''\n:Das Wort ist seit dem 18. Jahrhundert belegt.<ref>{{Ref-Pfeifer|genehm}}</ref>\n\n{{Synonyme}}\n:[1] [[Bewilligung]], [[Erlaubnis]]\n\n{{Gegenwörter}}\n:[1] [[Nichtgenehmigung]]\n:[2] [[Einwilligung]]\n\n{{Oberbegriffe}}\n:[2] [[Zustimmung]]\n\n{{Unterbegriffe}}\n:[1] [[Abbruchgenehmigung]]/[[Abbruchsgenehmigung]], [[Abdruckgenehmigung]], [[Abhörgenehmigung]], [[Abrissgenehmigung]], [[Abschussgenehmigung]], [[Änderungsgenehmigung]], [[Ansiedelungsgenehmigung]]/[[Ansiedlungsgenehmigung]], [[Arbeitsgenehmigung]], [[Aufenthaltsgenehmigung]], [[Ausfuhrgenehmigung]], [[Ausnahmegenehmigung]], [[Ausreisegenehmigung]], [[Aussagegenehmigung]], [[Ausschankgenehmigung]], [[Baugenehmigung]], [[Besuchsgenehmigung]], [[Betriebsgenehmigung]], [[Dauergenehmigung]], [[Drehgenehmigung]], [[Druckgenehmigung]], [[Durchfahrtgenehmigung]], [[Einfuhrgenehmigung]], [[Einlagerungsgenehmigung]], [[Einleitungsgenehmigung]], [[Einreisegenehmigung]], [[Einzelgenehmigung]], [[Errichtungsgenehmigung]], [[Erweiterungsgenehmigung]], [[Exportgenehmigung]], [[Fällgenehmigung]], [[Fluggenehmigung]], [[Fördergenehmigung]], [[Fusionsgenehmigung]], [[Gewerbegenehmigung]], [[Importgenehmigung]], [[Lagergenehmigung]], [[Landegenehmigung]], [[Nebentätigkeitsgenehmigung]], [[Neubaugenehmigung]], [[Neugenehmigung]], [[Nutzungsgenehmigung]], [[Plangenehmigung]], [[Produktionsgenehmigung]], [[Regierungsgenehmigung]], [[Reisegenehmigung]], [[Rundfunkgenehmigung]], [[Schankgenehmigung]], [[Sendegenehmigung]], [[Sondergenehmigung]], [[Sondernutzungsgenehmigung]"
+  },
+  {
+    "id": "term-4",
+    "group": "paperwork",
+    "de": "Unterschrift",
+    "article": "die",
+    "plural": "Unterschriften",
+    "ar": "توقيع",
+    "en": "signature",
+    "example": "Hier fehlt noch Ihre Unterschrift.",
+    "source": "https://de.wiktionary.org/wiki/Unterschrift",
+    "matched": true,
+    "observed_gender": [
+      "f"
+    ],
+    "observed_plural": [
+      "Unterschriften"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] meist eigenhändig geschriebener Namenszug, der als Bestätigung unter ein Dokument gesetzt wird\n\n{{Abkürzungen}}\n:[1] [[Unterschr.]]\n\n{{Herkunft}}\n:spätmittelhochdeutsch ''underschrift''<ref>{{Ref-Grimm}}</ref>\n\n{{Synonyme}}\n:[1] [[Signatur]], [[Unterzeichnung]]\n\n{{Gegenwörter}}\n:[1] [[Paraphe]]\n\n{{Unterbegriffe}}\n:[?] [[Bildunterschrift]]\n:[1] [[Vertragsunterschrift]]\n\n{{Beispiele}}\n:[1] Mit seiner ''Unterschrift'' bestätigte er den Kreditvertrag.\n:[1] „Die ''Unterschrift'' ist etwas krakelig.“<ref>{{Per-Spiegel | Autor=Jan Fleischhauer, Dirk Kurbjuweit | Titel=Der Gefangene | Nummer=39 | Jahr=2012 | Monat=9 | Tag=24 | Seiten=34 | Online=[http://magazin.spiegel.de/EpubDelivery/spiegel/pdf/88754325#page=5 URL: PDF 1,1 MB] | Zugriff=2015-07-17 }}.</ref>\n:[1] „Die Bauern sind beinahe alle Analphabeten, das sind aber auch viele der großen Fürsten, die sich metallene Petschaften mit ihrer ''Unterschrift'' gravieren lassen, sodass sie Dokumente nicht unterzeichnen müssen, sondern nur zu stempeln brauchen und damit verhehlen können, dass sie unfähig sind, ihren eigenen erlauchten Namen zu schreiben.“<ref>{{Literatur | Autor=Robert Harms | Titel =Das Sklavenschiff | TitelErg=Eine Reise in die Welt des Sklavenhandels | Verlag=C. Bertelsmann Verlag | Ort=[ohne Ortsangabe] | Jahr=2004 | ISBN=3-570-00277-2 | Seiten=110}}.</ref>\n:[1] „Die eigenhändige ''Unterschrift'' unter einem Text wahrt nach deutschem Zivilrecht sowohl die in § 126 Abs. 1 BGB gesetzlich vorgeschriebene Schriftform als auch die freiwillige – also ohne gesetzliche Notwendigkeit verwendete – Schriftform sowie den Urkundencharakter von privaten Urkunden gemäß § 440 ZPO.“<ref>[https://de.wikipedia.org/w/index.php?title=Unterschrift&oldid=143256731#Deutschland Unterschrift: Deutschland], Abschnitt"
+  },
+  {
+    "id": "term-5",
+    "group": "paperwork",
+    "de": "Unterlage",
+    "article": "die",
+    "plural": "Unterlagen",
+    "ar": "مستند",
+    "en": "document",
+    "example": "Bitte bringen Sie die Unterlagen mit.",
+    "source": "https://de.wiktionary.org/wiki/Unterlage",
+    "matched": true,
+    "observed_gender": [
+      "f"
+    ],
+    "observed_plural": [
+      "Unterlagen"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] unter etwas liegender Gegenstand oder [[Schicht]] ([[Schichte]]) als [[Schutz]], [[Stärkung]] oder [[Höhenausgleich]]\n:[2] Dokumente und sonstige Beweisstücke, die für einen rechtlichen, verwaltungstechnischen oder ähnlichen Vorgang benötigt werden\n:[3] {{K|Obstbau}} [[Grundlage]], auf der Edelreiser aufgebracht werden\n:[4] {{K|Ringen|Sport}} Beim [[Wettkampf]] [[Position]] [[unter]] dem [[Gegner]]\n\n{{Herkunft}}\n:[[mittelhochdeutsch]] ''{{Ü|gmh|underlāge}}'' „[[Unterwerfung]]“; [[Ableitung]] vom Verb ''[[unterlegen]]'' mit dem [[Derivatem]] ([[Ableitungsmorphem]]) ''[[-e]]'' (plus [[Vokalwechsel]]).<ref>{{Literatur | Autor=Wolfgang Pfeifer [Leitung] | Titel=Etymologisches Wörterbuch des Deutschen | Auflage=2. durchgesehene und erweiterte | Verlag=Deutscher Taschenbuch Verlag | Ort=München | Jahr=1993 | ISBN=3-423-03358-4}}, Stichwort „Lage“, „legen“.</ref>\n\n{{Sinnverwandte Wörter}}\n:[2] ''nur [[Plural]]:'' [[Dokument]]e, [[Papiere]], [[Beweise]]\n:[4] [[Niederlage]]\n\n{{Unterbegriffe}}\n:[1] [[Bügelunterlage]], [[Filzunterlage]], [[Holzunterlage]], [[Malunterlage]], [[Metallunterlage]], [[Plastikunterlage]], [[Schreibunterlage]], [[Schulungsunterlage]], [[Teppichunterlage]]\n:[2] [[Anwerbungsunterlage]] ([[Bewerbungsunterlage]]), [[Ermittlungsunterlage]], [[Gerichtsunterlage]], [[Polizeiunterlage]], [[Prozessunterlage]], [[Sitzungsunterlage]], [[Übungsunterlage]]\n:[3] [[Veredelungsunterlage]]\n\n{{Beispiele}}\n:[1] Ein dicker Karton diente als ''Unterlage'' zum Schreiben.\n:[1] Als ''Unterlage'' tranken wir noch ein Gläschen Öl, um für das Saufgelage gerüstet zu sein.\n:[2] Der Beamte weigerte sich, meinen Akt ohne ausreichende ''Unterlagen'' zu bearbeiten.\n:[2] „Darauf ging ich nach Hause, um gegebenenfalls ein wenig die ''Unterlagen'' der Glasreiniger zu d"
+  },
+  {
+    "id": "term-6",
+    "group": "paperwork",
+    "de": "Frist",
+    "article": "die",
+    "plural": "Fristen",
+    "ar": "مهلة أو آخر موعد",
+    "en": "deadline",
+    "example": "Wann endet die Frist?",
+    "source": "https://de.wiktionary.org/wiki/Frist",
+    "matched": true,
+    "observed_gender": [
+      "f"
+    ],
+    "observed_plural": [
+      "Fristen"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] Zeitraum für ein bestimmtes Ziel oder Vorhaben\n:[2] spätester Zeitpunkt\n\n{{Herkunft}}\n:[[mittelhochdeutsch]] ''{{Ü|gmh|vrist}},'' [[althochdeutsch]] ''{{Ü|goh|frist}};'' beruht auf [[germanisch]] ''*{{Ü|gem|fristi–}} „[[Zeit]], [[Zeitraum]]“'', einer Bildung aus [[vorgermanisch|vor–]] und [[indogermanisch]] ''*{{Ü|ine|sta–}} „[[stehen]]“''; das Wort bezeichnete also ursprünglich etwas „[[Bevorstehendes]]“.<ref>{{Ref-wissen.de|Herkunft|Frist}}</ref> Das Wort ist seit dem 8. Jahrhundert belegt.<ref>{{Lit-Kluge: Etymologisches Wörterbuch|A=24}}, Stichwort: „Frist“, Seite 317&nbsp;f.</ref>\n\n{{Sinnverwandte Wörter}}\n:[2] [[Termin]]\n\n{{Oberbegriffe}}\n:[1] [[Zeitraum]]\n:[2] [[Zeitpunkt]]\n\n{{Unterbegriffe}}\n:[1] [[24-Stunden-Frist]], [[48-Stunden-Frist]], [[Abgabefrist]], [[Anmeldefrist]], [[Aufbewahrungsfrist]], [[Ausschreibungsfrist]], [[Berufungsfrist]], [[Bewährungsfrist]], [[Bewerbungsfrist]], [[Bieterfrist]], [[Bindefrist]], [[Einbringungsfrist]], [[Einreichfrist]], [[Einreichungsfrist]], [[Einspruchsfrist]], [[Eintragungsfrist]], [[Einzahlungsfrist]], [[Erfüllungsfrist]], [[Galgenfrist]], [[Garantiefrist]], [[Gnadenfrist]], [[Gewährleistungsfrist]], [[Inskriptionsfrist]], [[Jahresfrist]], [[Kündigungsfrist]], [[Leihfrist]], [[Lieferfrist]], [[Lieferungsfrist]], [[Monatsfrist]], [[Räumungsfrist]], [[Rückzahlungsfrist]], [[Ruhefrist]], [[Schamfrist]], [[Schenkungsfrist]], [[Schonfrist]], [[Sperrfrist]], [[Stundungsfrist]], [[Tagesfrist]], [[Übergangsfrist]], [[Umbuchungsfrist]], [[Verjährungsfrist]], [[Widerrufsfrist]], [[Wochenfrist]], [[Zahlungsfrist]]\n\n{{Beispiele}}\n:[1] Bis zur Prüfung hat er nur noch eine ''Frist'' von wenigen Wochen.\n:[1] „Ich bekomme also ''Frist'', bis er gegessen hat, denke ich.“<ref>{{Literatur| Autor=Knut Hamsun |Titel=Im Mä"
+  },
+  {
+    "id": "term-7",
+    "group": "work",
+    "de": "Vertrag",
+    "article": "der",
+    "plural": "Verträge",
+    "ar": "عقد",
+    "en": "contract",
+    "example": "Ich möchte den Vertrag zuerst lesen.",
+    "source": "https://de.wiktionary.org/wiki/Vertrag",
+    "matched": true,
+    "observed_gender": [
+      "m"
+    ],
+    "observed_plural": [
+      "Verträge"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] {{K|Recht}} rechtsverbindliche [[Vereinbarung]] zwischen mindestens zwei verschiedenen Parteien\n\n{{Abkürzungen}}\n:[1] [[Vertr.]]\n\n{{Herkunft}}\n:[[spätmittelhochdeutsch]] ([[mitteldeutsch]]) ''{{Ü|gmh|vertrac}}'', [[Substantiv]] zum [[mittelhochdeutsch]]en Verb ''sich [[vertragen]]'', belegt seit dem 14. Jahrhundert.<ref>{{Lit-Kluge: Etymologisches Wörterbuch|A=24}}, Stichwort: „Vertrag“, Seite 958.</ref>\n\n{{Sinnverwandte Wörter}}\n:[1] [[Kontrakt]], [[Pakt]], [[Vereinbarung]]\n\n{{Unterbegriffe}}\n:[1] ''allgemein:'' [[Achtjahresvertrag]], [[Altvertrag]], [[Amateurvertrag]], [[Änderungsvertrag]], [[Anschlussvertrag]], [[Direktvertrag]], [[Dreijahresvertrag]], [[Einjahresvertrag]], [[Einzelvertrag]], [[Ergänzungsvertrag]], [[Exklusivvertrag]], [[Festvertrag]], [[Flächenvertrag]], [[Folgevertrag]], [[Fristvertrag]], [[Fünfjahresvertrag]], [[Geheimvertrag]], [[Gesamtvertrag]], [[Grundlagenvertrag]], [[Grundsatzvertrag]], [[Grundvertrag]], [[Gruppenvertrag]], [[Halbjahresvertrag]], [[Hauptvertrag]], [[Interimsvertrag]], [[Jahresvertrag]], [[Kettenvertrag]], [[Knebelungsvertrag]], [[Knebelvertrag]], [[Kurzzeitvertrag]], [[Langfristvertrag]], [[Langzeitvertrag]], [[Mantelvertrag]], [[Milliardenvertrag]], [[Millionenvertrag]], [[Modellvertrag]], [[Mustervertrag]], [[Nachfolgevertrag]], [[Nebenvertrag]], [[Neunjahresvertrag]], [[Neuvertrag]], [[Normalvertrag]], [[Normvertrag]], [[Optionsvertrag]], [[Pauschalvertrag]], [[Pilotvertrag]], [[Poolvertrag]], [[Privatvertrag]], [[Profivertrag]], [[Rahmenvertrag]], [[Ratenvertrag]], [[Realvertrag]], [[Reuvertrag]], [[Schandvertrag]], [[Scheinvertrag]], [[Sechsjahresvertrag]], [[Separatvertrag]], [[Siebenjahresvertrag]], [[Sklavenvertrag]], [[Sondervertrag]], [[Spezialvertrag]], [[Standardvertrag]], [[Stufenvertrag]], ["
+  },
+  {
+    "id": "term-8",
+    "group": "work",
+    "de": "Rechnung",
+    "article": "die",
+    "plural": "Rechnungen",
+    "ar": "فاتورة",
+    "en": "invoice",
+    "example": "Können Sie mir die Rechnung schicken?",
+    "source": "https://de.wiktionary.org/wiki/Rechnung",
+    "matched": true,
+    "observed_gender": [
+      "f"
+    ],
+    "observed_plural": [
+      "Rechnungen"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] {{K|Gastronomie}} [[Kostenforderung]] für die [[Bewirtung]] in einem [[Restaurant]] oder einem [[Hotel]]\n:[2] {{K|Handel}} [[schriftlich]]e Kostenforderung für [[erhalten]]e [[Waren]] oder [[Dienstleistungen]]\n:[3] {{K|Mathematik}} [[mathematisch]]e [[Operation]] oder [[Berechnung]]\n:[4] {{K|Betriebswirtschaft}} [[Aufstellung]] [[berechnen|berechneter]] [[betriebswirtschaftlich]]er [[Zahl]]en; auch die [[Vorgangsweise]] dazu\n\n{{Herkunft}}\n:''etymologisch:'' [[mittelhochdeutsch]] ''{{Ü|gmh|rechenunge}}, {{Ü|gmh|rechnunge}}'', [[althochdeutsch]] ''{{Ü|goh|rehhanunga}}'' „[[Ordnung]]“, belegt seit der Zeit um das Jahr 1000<ref>{{Literatur | Autor=Wolfgang Pfeifer [Leitung] | Titel=Etymologisches Wörterbuch des Deutschen | Auflage=2. durchgesehene und erweiterte | Verlag=Deutscher Taschenbuch Verlag | Ort=München | Jahr=1993 | ISBN=3-423-03358-4}}, Stichwort „rechnen“.</ref>\n:''strukturell:'' [[Ableitung]] vom Stamm von ''[[rechnen]]'' mit dem [[Ableitungsmorphem]] ''[[-ung]]''\n\n{{Synonyme}}\n:[1] [[Geldforderung]]\n:[2] [[Warenrechnung]]\n:[3] [[Berechnung]]\n:[4] [[Kalkulation]]\n\n{{Oberbegriffe}}\n:[1, 2] [[Forderung]]\n:[3] [[Rechnen]]\n\n{{Unterbegriffe}}\n:[1] [[Hotelrechnung]], [[Zimmerrechnung]]\n:[2] [[Anwaltsrechnung]], [[Arztrechnung]], [[Ausgangsrechnung]], [[Bücherrechnung]], [[E-Rechnung]] ([[eRechnung]]), [[Eingangsrechnung]], [[Gasrechnung]], [[Ölrechnung]], [[Stromrechnung]], [[Lieferantenrechnung]], [[Telefonrechnung]], [[Wasserrechnung]], [[Werkstattrechnung]]\n:[2] [[PayPal-Rechnung]], [[VISA-Rechnung]]\n:[3] [[Ausbreitungsrechnung]], [[Buchstabenrechnung]], [[Dezimalrechnung]], [[Differenzialrechnung]], [[Fehlerrechnung]], [[Festrechnung]], [[Gegenrechnung]], [[Integralrechnung]], [[Integrationsrechnung]], [[Korrelationsrechnung]], [[Milchmädche"
+  },
+  {
+    "id": "term-9",
+    "group": "work",
+    "de": "Gehalt",
+    "article": "das",
+    "plural": "Gehälter",
+    "ar": "مرتب",
+    "en": "salary",
+    "example": "Wie hoch ist das monatliche Gehalt?",
+    "source": "https://de.wiktionary.org/wiki/Gehalt",
+    "matched": true,
+    "observed_gender": [
+      "m",
+      "n",
+      "m"
+    ],
+    "observed_plural": [
+      "Gehalte",
+      "Gehälter"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] [[Geldbetrag]], welcher auf Grund von [[Anwesenheit]] und verrichteter [[Dienste]] [[regelmäßig]] an [[Beamte]] oder [[Angestellte]] bezahlt wird\n\n{{Herkunft}}\n:Aus dem [[#Substantiv, m|Maskulinum]]. Die Bedeutung ''Besoldung'' kommt im 18. Jahrhundert auf.<ref>{{Lit-Kluge: Etymologisches Wörterbuch|A=24}}, Stichwort: „Gehalt“, Seite 338.</ref>\n\n{{Synonyme}}\n:[1] [[Einkommen]], [[Verdienst]], [[Vergütung]]\n:''schweizerisch:'' [[Entlöhnung]]\n:''süddeutsch, österreichisch und schweizerisch, sonst veraltet:'' [[Salär]]\n\n{{Sinnverwandte Wörter}}\n:[1] [[Besoldung]], [[Bezahlung]], [[Bezug]], [[Dotierung]], [[Einkünfte]], [[Ent",
+    "sense_check": "Neuter salary, plural Gehälter; masculine content takes Gehalte. Salary section inspected separately."
+  },
+  {
+    "id": "term-10",
+    "group": "work",
+    "de": "Bewerbung",
+    "article": "die",
+    "plural": "Bewerbungen",
+    "ar": "طلب تقديم على شغل",
+    "en": "job application",
+    "example": "Ich habe meine Bewerbung abgeschickt.",
+    "source": "https://de.wiktionary.org/wiki/Bewerbung",
+    "matched": true,
+    "observed_gender": [
+      "f"
+    ],
+    "observed_plural": [
+      "Bewerbungen"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] [[Handlung]], mit der man sich um etwas [[bemühen|bemüht]], das man erreichen/haben möchte\n::[1a] ''speziell:'' [[Bemühung]] um einen [[Arbeitsplatz]]\n::[1b] ''kaufmännisch:'' das Bewerben\n:[2] [[Dokument]], mit dem man sich für etwas [[bewerben|bewirbt]]\n\n{{Herkunft}}\n:[[Ableitung]] zum Stamm des Verbs ''[[bewerben]]'' mit dem [[Suffix]] ([[Derivatem]]) ''[[-ung]]''\n\n{{Synonyme}}\n:[1a] [[Bemühung]], [[Kandidatur]], [[Stellenbewerbung]]\n:[1b] [[Werbung]]\n:: ''Wirtschaft:'' [[Akkvisition]], [[Promotion]]\n:[2] [[Bewerbungsschreiben]], [[Bewerbungsunterlagen]], [[Stellenbewerbung]], [[Stellengesuch]]\n\n{{Sinnverwandte Wörter}}\n:[1] [[Vorstellung]]\n\n{{Oberbegriffe}}\n:[1] [[Bittstellung]]\n:[2] [[Bittschrift]]\n\n{{Unterbegriffe}}\n:[1] [[Olympiabewerbung]], [[Online-Bewerbung]], [[Präsidentschaftsbewerbung]]\n:[1, 2] [[Blindbewerbung]], [[Initiativbewerbung]]\n\n{{Beispiele}}\n:[1a] Ihre ''Bewerbung'' kam nicht in die engere Auswahl, da sie überqualifiziert war.\n:[1a] „Mutter und Großmutter sprachen nun über die Berufswünsche der beiden und ob Jonathan sich nicht doch noch einmal für das von ihm erwünschte Medizinstudium bewerben könne, für das er bei seiner ''Bewerbung'' wegen der nicht durchgängig sehr guten Noten abgelehnt worden war.“<ref>{{Literatur| Autor=Christoph Hein|Titel = Das Narrenschiff |TitelErg= Roman|Auflage= 7. |Verlag=Suhrkamp|Ort=Berlin |Jahr = 2025|ISBN= 978-3-518-43226-6}}, Seite 630. 1. Auflage 2025.</ref>\n:[1b] {{Beispiele fehlen}}\n:[2] Ihre ''Bewerbung'' ist leider unvollständig.\n\n{{Charakteristische Wortkombinationen}}\n:[1] [[persönlich]]e ''Bewerbung''\n:[2] [[exemplarisch]]e, [[schriftlich]]e ''Bewerbung''\n\n{{Wortbildungen}}\n:[1] [[Bewerbungsgespräch]], [[Bewerbungstermin]], [[Bewerbungsvoraussetzung]]\n:[2] [[Bewerbungsanschreiben]], ["
+  },
+  {
+    "id": "term-11",
+    "group": "work",
+    "de": "Lebenslauf",
+    "article": "der",
+    "plural": "Lebensläufe",
+    "ar": "سيرة ذاتية",
+    "en": "CV",
+    "example": "Mein Lebenslauf ist im Anhang.",
+    "source": "https://de.wiktionary.org/wiki/Lebenslauf",
+    "matched": true,
+    "observed_gender": [
+      "m"
+    ],
+    "observed_plural": [
+      "Lebensläufe"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] [[Abfolge]] dessen, was sich im [[Verlauf]] des Lebens von jemandem [[ereignet]] hat\n:[2] schriftliche [[Übersicht]] wesentlicher Aspekte von [1]\n\n{{Abkürzungen}}\n:[2] Curriculum Vitae [[CV]] oder [[C.V.]] Vitae Cursus\n\n{{Herkunft}}\n:[[Determinativkompositum]], zusammengesetzt aus den Substantiven ''[[Leben]]'' und ''[[Lauf]]'', mit dem [[Fugenelement]] ''[[-s]]''\n:[[Lehnübersetzung]] von [[lateinisch]] ''curriculum vitae''<ref>[https://www.duden.de/rechtschreibung/Lebenslauf Lebenslauf] ''www.duden.de'', abgerufen am 13. Oktober 2014</ref>\n\n{{Synonyme}}\n:[1] [[Biografie]], [[Laufbahn]], [[Leben]], [[Lebensgeschichte]], [[Werdegang]]\n:''bildungssprachlich:'' [[Vita]]\n:''dichterisch:'' [[Lebensreise]]\n:''bildungssprachlich veraltet:'' [[Curriculum Vitae]]\n:[2] [[Résumé]]\n\n{{Sinnverwandte Wörter}}\n:[1] [[Biografie]], [[Lebensgeschichte]], [[Vita]]\n\n{{Oberbegriffe}}\n:[1] [[Erlebnis]]\n:[2] [[Entwicklung]], [[Text]]\n\n{{Unterbegriffe}}\n:[1] [[Lebensverlauf]]\n\n{{Beispiele}}\n:[1] In meinem bisherigen ''Lebenslauf'' hat es manche unvorhergesehenen Ereignisse gegeben.\n:[1] „Psychologie und Fingerspitzengefühl sind beim Ausfüllen von Lücken im ''Lebenslauf'' von Vorteil.“<ref>[https://tabellarischer-lebenslauf.net/faq/luecken-im-lebenslauf/ Lücken im Lebenslauf] ''tabellarischer-lebenslauf.net'', abgerufen am 08. Juli 2015</ref>\n:[1] „Unsere ''Lebensläufe'' verlaufen im Zickzack, in aneinandergereihten Stationen: Hier arbeiten wir, dort studierten wir, und drüben sind wir mit dem Freund zusammen.“<ref>{{Literatur | Autor=Alice Bota, Khuê Pham, Özlem Topçu| Titel=Wir neuen Deutschen. Wer wir sind, was wir wollen | Verlag=Rowohlt Verlag | Ort=Reinbek| Jahr=2012| ISBN=978-3-498-00673-0}}, Seite 54.</ref>\n:[1] „Wenn Joswig mich nicht zur Strafarbeit eingeschlossen"
+  },
+  {
+    "id": "term-12",
+    "group": "work",
+    "de": "Vorstellungsgespräch",
+    "article": "das",
+    "plural": "Vorstellungsgespräche",
+    "ar": "مقابلة شغل",
+    "en": "job interview",
+    "example": "Wann findet das Vorstellungsgespräch statt?",
+    "source": "https://de.wiktionary.org/wiki/Vorstellungsgespr%C3%A4ch",
+    "matched": true,
+    "observed_gender": [
+      "n"
+    ],
+    "observed_plural": [
+      "Vorstellungsgespräche"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] [[Gespräch]] des [[Arbeitgeber]]s mit jemandem, der [[Arbeit]] bei ihm [[suchen|sucht]], das dazu [[dienen|dient]], den [[Anwärter]] [[einschätzen]] zu können\n\n{{Herkunft}}\n:[[Determinativkompositum]] aus den Substantiven ''[[Vorstellung]]'' und ''[[Gespräch]]'' mit dem [[Fugenelement]] ''[[-s]]''\n\n{{Synonyme}}\n:[1] [[Bewerbungsgespräch]], [[Einstellungsgespräch]]\n\n{{Oberbegriffe}}\n:[1] [[Bewerbung]], [[Gespräch]]\n\n{{Beispiele}}\n:[1] Am Montag habe ich ein ''Vorstellungsgespräch'' bei einer ansässigen Firma.\n:[1] „Doch sie wurde nicht einmal zu einem ''Vorstellungsgespräch'' eingeladen.“<ref>{{Literatur | Autor= Chika Unigwe | Titel= Schwarze Schwestern |TitelErg= Roman| Auflage= |Verlag= Tropen| Ort= Stuttgart| Jahr= 2010 | ISBN= 978-3-608-50109-4 | Seiten=26.}} Originalausgabe: Niederländisch 2007.</ref>\n:[1] „Zukünftig könnten auch Krankenversicherungstarife oder die Einladung zu einem ''Vorstellungsgespräch'' von KI-Algorithmen beeinflusst werden.“<ref>{{Per-didacta | Autor=Ute Schmid |Titel=KI ist nie perfekt | Nummer=03/20 | Jahr=2020 | Seiten=43. }}</ref>\n\n{{Charakteristische Wortkombinationen}}\n:[1] ein ''Vorstellungsgespräch'' haben; zu einem ''Vorstellungsgespräch'' [[gehen]]; zum ''Vorstellungsgespräch'' [[einladen|eingeladen]]/[[laden|geladen]] werden\n\n==== {{Übersetzungen}} ====\n{{Ü-Tabelle|1|G=Gespräch des Arbeitgebers mit jemandem, der Arbeit bei ihm sucht, das dazu dient, den Anwärter einschätzen zu können\n|Ü-Liste=\n*{{en}}: {{Ü|en|interview}}, {{Ü|en|job interview}}\n*{{eo}}: {{Ü|eo|intervjuo pri laboro|L=E}}\n*{{fi}}: {{Ü|fi|työhaastattelu}}\n*{{fr}}: {{Ü|fr|entretien embauche|entretien d’embauche|L=e}} {{m}}\n*{{it}}: {{Ü|it|colloquio di lavoro}} {{m}}\n*{{ja}}: {{Üt|ja|面接|めんせつ, mensetsu}}\n*{{ca}}: {{Ü|ca|entrevista de feina}} {{f}}\n*{"
+  },
+  {
+    "id": "term-13",
+    "group": "learning",
+    "de": "Ausbildung",
+    "article": "die",
+    "plural": "Ausbildungen",
+    "ar": "تعليم أو تدريب مهني",
+    "en": "training",
+    "example": "Ich interessiere mich für eine Ausbildung.",
+    "source": "https://de.wiktionary.org/wiki/Ausbildung",
+    "matched": true,
+    "observed_gender": [
+      "f"
+    ],
+    "observed_plural": [
+      "Ausbildungen"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] Erlernen eines Berufes\n:[2] Ausprägung/[[Entwicklung]]/Gestaltung einer Eigenschaft\n\n{{Herkunft}}\n:[[Ableitung]] ([[Derivation]]) des [[Substantiv]]s zum Stamm des [[Verb]]s ''[[ausbilden]]'' mit dem [[Suffix]] ''[[-ung]]'' als [[Derivatem]] ([[Ableitungsmorphem]])\n\n{{Synonyme}}\n:[1] [[Lehre]]\n\n{{Unterbegriffe}}\n:[1] ''allgemein:'' [[Basisausbildung]], [[Erstausbildung]], [[Grundausbildung]], [[Kurzausbildung]], [[Zweitausbildung]]\n:[1] [[Agentenausbildung]], [[Artillerieausbildung]], [[Arztausbildung]] (→ [[Facharztausbildung]]), [[Astronautenausbildung]], [[Berufsausbildung]], [[Collegeausbildung]], [[Exerzierausbildung]], [[Fachausbildung]], [[Fahrausbildung]], [[Formalausbildung]], [[Fotografenausbildung]], [[Führerscheinausbildung]], [[Gefechtsausbildung]], [[Gesellenausbildung]], [[Infanterieausbildung]], [[Kampfausbildung]], [[Komplexausbildung]], [[Lehrerausbildung]], [[Lehrlingsausbildung]], [[Meisterausbildung]], [[Offizierausbildung]] ([[Offiziersausbildung]]), [[Pilotenausbildung]], [[Rekrutenausbildung]], [[Schießausbildung]], [[Schulausbildung]], [[Schwesternausbildung]], [[Spezialausbildung]], [[Sprachausbildung]] (→ [[Basissprachausbildung]]), [[Stufenausbildung]], [[Terrorausbildung]], [[Universitätsausbildung]], [[Unteroffizierausbildung]], [[Zeitausbildung]]\n:[?] [[Schutzausbildung]]\n\n{{Beispiele}}\n:[1] Die ''Ausbildung'' schließt mit einer staatlichen Prüfung ab.\n:[1] „Ihre ''Ausbildung'' nützt ihnen vielfach nichts, weil es die Jobs nicht gibt, für die sie ausgebildet sind.“<ref>Clemens Höges, Bernhard Zand, Helene Zuber: ''Auf dem Vulkan.'' In: ''DER SPIEGEL'' 4, 2011, Seite 84-87, Zitat: Seite 84.</ref>\n:[1] „Die ''Ausbildung'' war die reinste Verschwendung von Zeit, Geld und Einsatz gewesen.“<ref>{{Literatur | Autor= Chika Un"
+  },
+  {
+    "id": "term-14",
+    "group": "learning",
+    "de": "Praktikum",
+    "article": "das",
+    "plural": "Praktika",
+    "ar": "تدريب عملي",
+    "en": "internship",
+    "example": "Kann ich hier ein Praktikum machen?",
+    "source": "https://de.wiktionary.org/wiki/Praktikum",
+    "matched": true,
+    "observed_gender": [
+      "n"
+    ],
+    "observed_plural": [
+      "Praktika"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] [[Tätigkeit]] von [[Praktikant]]en in [[Betrieb]]en außerhalb der [[Ausbildung]], aber häufig [[im Rahmen von|im Rahmen]] einer [[Weiterbildung]], um [[Einblick]]e in die [[Berufswelt]] zu [[gewinnen]]\n:[2] [[Lehrveranstaltung]] an einem [[Ausbildungsinstitut]] ([[Universität]], [[Fachhochschule]]) zwecks [[praktisch]]er [[Anwendung]] und [[Einübung]] des [[theoretisch]] [[lernen|Gelernten]]\n\n{{Herkunft}}\n:latinisierende Neubildung des 20. Jahrhunderts zu ''[[Praktik]]'', siehe dort<ref>{{Lit-Duden: Herkunftswörterbuch|A=5 (neu bearbeitet)}}, Stichwort ''Praktik''.</ref><ref>{{Ref-DWDS}}</ref>\n\n{{Gegenwörter}}\n:[2] [[Seminar]], [[Vorlesung]]\n\n{{Oberbegriffe}}\n:[2] [[Lehrveranstaltung]]\n\n{{Unterbegriffe}}\n:[1] [[Berufspraktikum]], [[Betriebspraktikum]], [[Pflichtpraktikum]], [[Rechtspraktikum]], [[Schulpraktikum]]\n:[2] [[Grundpraktikum]], [[Pflichtpraktikum]]\n\n{{Beispiele}}\n:[1] An vielen Schulen erhalten Schüler regelmäßig die Möglichkeit, für eine gewisse Zeit ein ''Praktikum'' in einem Betrieb ihrer Wahl zu absolvieren.\n:[1] „Durch ein ''Praktikum'' hätte ich immerhin schon einmal einen Einblick in den Parlamentsalltag erhalten.“<ref>{{Literatur | Autor= Mehmet Gürcan Daimagüler | Titel= Kein schönes Land in dieser Zeit |TitelErg= Das Märchen von der gescheiterten Integration | Verlag= Goldmann | Ort=München | Jahr= 2013 | ISBN= 978-3-442-15737-2}}, Seite 163.</ref>\n:[1] [Pferdewirt/-in:] „Obwohl Roxana schon Erfahrung in einem Reitstall gesammelt hatte, war es nicht leicht die Ausbildungsstelle zu bekommen. Schließlich schaffte sie es mit einem ''Praktikum.''“<ref>{{Per-Bayerischer Rundfunk | Online=https://www.br.de/fernsehen/ard-alpha/sendungen/ich-machs/im-pferdewirt-100.html | Autor= | Titel=Pferdewirt/-in (Pferdehaltung und Service) – Wenn d"
+  },
+  {
+    "id": "term-15",
+    "group": "learning",
+    "de": "Fortbildung",
+    "article": "die",
+    "plural": "Fortbildungen",
+    "ar": "تطوير أو تدريب مهني إضافي",
+    "en": "further training",
+    "example": "Ich suche eine passende Fortbildung.",
+    "source": "https://de.wiktionary.org/wiki/Fortbildung",
+    "matched": true,
+    "observed_gender": [
+      "f"
+    ],
+    "observed_plural": [
+      "Fortbildungen"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] [[Erweiterung]] von [[Kenntnis]]sen oder [[Fertigkeit]]en\n:[2] [[Lehrgang]], um [1] zu [[erreichen]]; [[oft]] [[beruflich]] [[veranlassen|veranlasst]]\n\n{{Herkunft}}\n:[[Ableitung]] vom [[Stamm]] des [[Verb]]s ''[[fortbilden]]'' mit dem Suffix ''[[-ung]]''; [[Suffigierung]] zum [[Nomen]]\n\n{{Sinnverwandte Wörter}}\n:[1] [[Weiterbildung]]\n:[2] [[Kurs]], [[Seminar]]\n\n{{Oberbegriffe}}\n:[1] [[Ausbildung]], [[Bildung]], [[Qualifizierung]]\n\n{{Unterbegriffe}}\n:[1] [[Lehrerfortbildung]], [[Rechtsfortbildung]]\n\n{{Beispiele}}\n:[1] ''Fortbildung'' ist ein Prozess, der ein Leben lang anhält.\n:[1] [Ein Rettungssanitäter muss] „jährlich mindestens 30 Zeitstunden ''Fortbildung'' im Rettungsdienst nachweisen, damit er weiterhin im Rettungsdienst bzw. Krankentransport eingesetzt werden darf.“<ref>{{Wikipedia|Rettungssanitäter|oldid=235660714#Fortbildung}}, abgerufen am 3. August 2023.</ref>\n:[1] [Consultants:] „Nach wie vor überwiegen Betriebswirtschaftler, Juristen und Wirtschaftsinformatiker in der Branche, doch auch Psychologen und Geisteswissenschaftler haben bei entsprechender ''Fortbildung'' im Studium eine reelle Chance, in eine Consulting-Firma einzusteigen.“<ref>Ute Becker: {{Ref-wissen.de|Artikel|ohne-fleiss-kein-preis|Ohne Fleiß kein Preis}}, abgerufen am 3. August 2023.</ref>\n:[1] „Die permanente ''Fortbildung'' und ein aktueller Kenntnisstand des Produktmarktes sowie dessen Entwicklung sind für den Finanzberater daher elementar.“<ref>{{Ref-wissen.de|Artikel|der-alltag-des-finanzberaters-warum-es-hier-auf-seriositaet-ankommt|Der Alltag des Finanzberaters: Warum es hier auf Seriosität ankommt}}, abgerufen am 3. August 2023.</ref>\n:[1] [Rettungssanitäter:] „Eine ''Fortbildung'' zum Thema Kindernotfälle ist nicht verpflichtend.“<ref>{{Per-Norddeutscher Rundfunk"
+  },
+  {
+    "id": "term-16",
+    "group": "learning",
+    "de": "Voraussetzung",
+    "article": "die",
+    "plural": "Voraussetzungen",
+    "ar": "شرط لازم",
+    "en": "prerequisite",
+    "example": "Welche Voraussetzungen gibt es?",
+    "source": "https://de.wiktionary.org/wiki/Voraussetzung",
+    "matched": true,
+    "observed_gender": [
+      "f"
+    ],
+    "observed_plural": [
+      "Voraussetzungen"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] eine [[Bedingung]], die im [[Vorfeld]] erfüllt sein muss; etwas was benötigt wird, bevor etwas anderes [[eintreten]] kann\n:[2] eine [[Annahme]], die einer Überlegung vorangestellt wurde\n\n{{Herkunft}}\n:[[Ableitung]] des Substantivs vom Stamm des Verbs [[voraussetzen]] mit dem [[Derivatem]] ([[Ableitungsmorphem]]) [[-ung]]\n\n{{Synonyme}}\n:[1] [[Bedingung]], [[Erfordernis]], [[Prämisse]], [[Vorbedingung]]\n:[2] [[Annahme]], [[Ausgangspunkt]]\n\n{{Unterbegriffe}}\n:[1] [[Aufnahmevoraussetzung]], [[Beitrittsvoraussetzung]], [[Einbürgerungsvoraussetzung]], [[Eingangsvoraussetzung]], [[Einstellungsvoraussetzung]], [[Grundvoraussetzung]], [[Mindestvoraussetzung]], [[Spielvoraussetzung]], [[Teilnahmevoraussetzung]], [[Zugangsvoraussetzung]]\n\n{{Beispiele}}\n:[1] Wir unterschreiben den Vertrag unter der ''Voraussetzung,'' dass Sie die Preise um 5{{NNBSP}}% senken.\n:[1] Sie erfüllen nicht die nötigen ''Voraussetzungen'' um in diesem Beruf zu arbeiten.\n:[1] Steuersenkungen schaffen die nötige ''Voraussetzung'' für ein weiteres Wirtschaftswachstum.\n:[2] Das stimmt nicht, denn ihre Argumentation geht von falschen ''Voraussetzungen'' aus.\n\n{{Charakteristische Wortkombinationen}}\n:[1] unter der ''Voraussetzung'', dass …\n:[1] die [[nötig]]en ''Voraussetzungen'' [[erfüllen]]/[[mitbringen]]\n:[1] eine [[notwendig]]e ''Voraussetzung,'' eine [[unabdingbar]]e ''Voraussetzung'' ({{Audio|De-unabdingbare Voraussetzung.ogg|Audio}}), eine [[unerlässlich]]e ''Voraussetzung,'' eine [[unverzichtbar]]e ''Voraussetzung,'' eine [[wesentlich]]e ''Voraussetzung,'' eine [[wirtschaftlich]]e ''Voraussetzung''\n:[1] ''Voraussetzung'' für etwas [[sein]]\n:[1] die ''Voraussetzungen'' für etwas [[schaffen]]\n\n{{Wortfamilie}}\n:[1, 2] [[voraussetzen]]\n\n==== {{Übersetzungen}} ====\n{{Ü-Tabelle|1|G=eine Be"
+  },
+  {
+    "id": "term-17",
+    "group": "learning",
+    "de": "Nachweis",
+    "article": "der",
+    "plural": "Nachweise",
+    "ar": "إثبات أو مستند إثبات",
+    "en": "proof",
+    "example": "Welchen Nachweis muss ich vorlegen?",
+    "source": "https://de.wiktionary.org/wiki/Nachweis",
+    "matched": true,
+    "observed_gender": [
+      "m"
+    ],
+    "observed_plural": [
+      "Nachweise"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] [[Beleg]] oder [[Bestätigung]] für eine [[Behauptung]] oder [[Theorie]]\n\n{{Herkunft}}\n:[[Ableitung]] von ''[[nachweisen]]''<ref>{{Ref-DWDS}}</ref> durch [[Substantivierung]] des [[Verbstamm]]s\n\n{{Synonyme}}\n:[1] [[Beleg]], [[Bestätigung]]\n\n{{Oberbegriffe}}\n:[1] [[Beweis]]\n\n{{Unterbegriffe}}\n:[1] [[Abbildungsnachweis]], [[Abstammungsnachweis]], [[Alkoholnachweis]], [[Altersnachweis]], [[Ankunftsnachweis]], [[Arbeitsnachweis]], [[Ariernachweis]], [[Ausbildungsnachweis]], [[Befähigungsnachweis]], [[Belegnachweis]], [[Beratungsnachweis]], [[Berechtigungsnachweis]], [[Bildnachweis]], [[Brandschutznachweis]], [[Echtheitsnachweis]], [[Eigentumsnachweis]], [[Einkommensnachweis]], [[Einzelnachweis]], [[Einzelverbindungsnachweis]], [[Entgeltnachweis]], [[Entsorgungsnachweis]], [[Entsorgungsvorsorgenachweis]], [[Erbnachweis]], [[Erfolgsnachweis]], [[Erregernachweis]], [[Finanzierungsnachweis]], [[Fotonachweis]], [[Geburtsnachweis]], [[Gehaltsnachweis]], [[Gesprächsnachweis]], [[Herkunftsnachweis]], [[Hotelnachweis]], [[Identitätsnachweis]], [[Impfnachweis]], [[Inskriptionsnachweis]], [[Kapitalnachweis]], [[Kostennachweis]], [[Leistungsnachweis]], [[Literaturnachweis]], [[Qualifikationsnachweis]], [[Qualitätsnachweis]], [[Quellennachweis]], [[Sachkundenachweis]], [[Sammelnachweis]], [[Schadennachweis]], [[Schadensnachweis]], [[Schriftnachweis]], [[Schuldnachweis]], [[Sicherheitsnachweis]], [[Spurennachweis]], [[Staatsbürgerschaftsnachweis]], [[Stellennachweis]], [[Studiennachweis]], [[Tätigkeitsnachweis]], [[Tatnachweis]], [[Unbedenklichkeitsnachweis]], [[Ursprungsnachweis]], [[Vaterschaftsnachweis]], [[Verbindungsnachweis]], [[Verdienstnachweis]], [[Versicherungsnachweis]], [[Verwendungsnachweis]], [[Verwertungsnachweis]], [[Virusnachweis]], [[Wirksamkeitsnach"
+  },
+  {
+    "id": "term-18",
+    "group": "learning",
+    "de": "Zeugnis",
+    "article": "das",
+    "plural": "Zeugnisse",
+    "ar": "شهادة دراسية أو تقرير تقييم",
+    "en": "certificate or report",
+    "example": "Ich habe eine Kopie meines Zeugnisses dabei.",
+    "source": "https://de.wiktionary.org/wiki/Zeugnis",
+    "matched": true,
+    "observed_gender": [
+      "n"
+    ],
+    "observed_plural": [
+      "Zeugnisse"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] {{K|Recht}} [[Zeugenaussage]]\n:[2] [[schriftlich]]es [[Dokument]], das eine [[Leistungsbewertung]] [[beurkunden|beurkundet]], [[Nachweis]]\n:[3] ''[[gehoben]]:'' [[anschaulich]]er [[Beweis]] eines [[Sachverhalt]]s, [[klar]] [[erkennbar]]es [[Zeichen]]\n:[4] {{K|Religion}} ein [[persönlich]]er [[Bekehrungsbericht]], oder [[Bericht]] einer [[Gotteserfahrung]]\n\n{{Herkunft}}\n:[2] [[mittelhochdeutsch]] „(gi)ziugnisse“, strukturell: [[Ableitung]] zum Stamm von ''[[Zeuge]]'' mit dem [[Derivatem]] ([[Ableitungsmorphem]]) ''[[-nis]]''<ref name=\"duden-etym\">{{Lit-Duden: Herkunftswörterbuch|A=3}}, Stichwort: „Zeuge“.</ref>\n\n{{Sinnverwandte Wörter}}\n:[1] [[Zeugenaussage]]\n:[2] [[Beurteilung]], [[Bewertung]], [[Nachweis]], [[Urkunde]]\n:[3] [[Anzeige]], [[Beweis]]\n:[4] [[Bericht]]\n\n{{Unterbegriffe}}\n:[2] [[Abgangszeugnis]], [[Abiturzeugnis]], [[Abschlusszeugnis]], [[Arbeitszeugnis]], [[Arztzeugnis]], [[Führungszeugnis]], [[Gefälligkeitszeugnis]], [[Gesundheitszeugnis]], [[Halbjahreszeugnis]], [[Impfzeugnis]], [[Jahreszeugnis]], [[Lehrveranstaltungszeugnis]], [[Maturazeugnis]], [[Maturitätszeugnis]], [[Nachlasszeugnis]], [[Reifezeugnis]], [[Schulnachricht]], [[Schulzeugnis]], [[Semesterzeugnis]], [[Übertrittszeugnis]], [[Ursprungszeugnis]], [[Zwischenzeugnis]]\n:[3] [[Armutszeugnis]], [[Schriftzeugnis]], [[Selbstzeugnis]], [[Sprachzeugnis]], [[Zeitzeugnis]]\n:[4] [[Glaubenszeugnis]]\n\n{{Beispiele}}\n:[1] Sie hat gestern ihr ''Zeugnis'' abgelegt und den Angeklagten damit entlastet.\n:[1] „Ich müßte wirklich wahnsinnig sein, wenn ich da Glauben verlangen wollte, wo ich selbst das ''Zeugnis'' meiner eigenen Sinne verwerfen möchte.“<ref>{{Literatur | Titel= [https://www.projekt-gutenberg.org/poe/katze/chap01.html Die schwarze Katze] | Autor= Edgar Allen Poe | Übersetzer = Th"
+  },
+  {
+    "id": "term-19",
+    "group": "university",
+    "de": "Abschluss",
+    "article": "der",
+    "plural": "Abschlüsse",
+    "ar": "مؤهل أو إتمام الدراسة",
+    "en": "qualification",
+    "example": "Welchen Abschluss haben Sie?",
+    "source": "https://de.wiktionary.org/wiki/Abschluss",
+    "matched": true,
+    "observed_gender": [
+      "m"
+    ],
+    "observed_plural": [
+      "Abschlüsse"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] {{K|Technik}} der Verschluss oder die Isolierung eines Gegenstandes\n:[2] eine abschließende [[Verzierung]] an Flächenbegrenzungen, Kleidungsstücken oder Ähnlichem\n:[3] {{K|Bildung}} erfolgreiche Beendigung eines Vorhabens, zum Beispiel eines schulischen oder universitären Bildungsganges\n:[4] das geplante (erfolgreiche) Ende von etwas\n:[4a] {{K|Wirtschaft}} der Abschluss der Konten am Ende einer wirtschaftlichen Periode\n:[5] {{K|Wirtschaft}} eine Vereinbarung über ein Geschäft oder einen Handel\n\n{{QS Herkunft|fehlt}}\n\n{{Synonyme}}\n:[1] [[Isolierung]]\n:[2] [[Begrenzung]]\n:[3] [[Ende]]\n\n{{Sinnverwandte Wörter}}\n:[5] [[Kaufvertrag]], [[Vertrag]]\n\n{{Unterbegriffe}}\n:[1] [[Brandschutzabschluss]], [[Feuerschutzabschluss]], [[Rauchschutzabschluss]]\n:[3] [[Collegeabschluss]], [[High-School-Abschluss]], [[Hochschulabschluss]], [[Schulabschluss]], [[Studienabschluss]], [[Universitätsabschluss]]\n:[4] [[Finanzabschluss]], [[Funktionsabschluss]] (''Softwaretechnik''), [[Projektabschluss]], [[Testabschluss]]\n:[4a] [[Jahresabschluss]], [[Kassenabschluss]], [[Kontoabschluss]], [[Quartalsabschluss]]\n:[5] [[Einkaufsabschluss]], [[Exportabschluss]], [[Geschäftsabschluss]], [[Vertragsabschluss]]\n\n{{Beispiele}}\n:[1] Der luftdichte ''Abschluss'' der Verpackung gewährleistet längere Haltbarkeit.\n:[2] Den ''Abschluss'' der Rasenfläche bilden langgezogene Blumenbeete.\n:[3] Weißt Du schon, wo Du Dich nach ''Abschluss'' deines Studiums bewerben wirst?\n:[3]  Aus Familien, in denen mindestens ein Elternteil einen akademischen ''Abschluss'' hat, studieren 79 Prozent der Kinder. Aus Familien, in denen beide Elternteile keinen beruflichen ''Abschluss'' haben, dagegen nur 12 Prozent.<ref>{{Per-Spiegel Online | Online=http://www.spiegel.de/lebenundlernen/schule/deutschland-das-leere-"
+  },
+  {
+    "id": "term-20",
+    "group": "university",
+    "de": "Studiengang",
+    "article": "der",
+    "plural": "Studiengänge",
+    "ar": "برنامج دراسي جامعي",
+    "en": "degree programme",
+    "example": "Welcher Studiengang interessiert dich?",
+    "source": "https://de.wiktionary.org/wiki/Studiengang",
+    "matched": true,
+    "observed_gender": [
+      "m"
+    ],
+    "observed_plural": [
+      "Studiengänge"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] Abfolge der Themen, [[Lehrveranstaltung]]en und Prüfungen, die in einem Studienfach zu absolvieren sind\n\n{{Herkunft}}\n:[[Determinativkompositum]], zusammengesetzt aus dem Stamm des Wortes ''[[Studium]]'', [[Fugenelement]] ''[[-en]]'' und ''[[Gang]]''\n\n{{Sinnverwandte Wörter}}\n:[1] [[Studienordnung]]\n\n{{Unterbegriffe}}\n:[1] [[Aufbaustudiengang]], [[Bachelorstudiengang]], [[Diplomstudiengang]], [[Lehramtsstudiengang]], [[Masterstudiengang]], [[Modellstudiengang]]\n\n{{Beispiele}}\n:[1] „Dieser ''Studiengang'' umschließt ein breites Feld an Themen von der Steuerung öffentlicher Verwaltungen bis hin zur politischen Führung.“<ref>{{Literatur | Autor= Mehmet Gürcan Daimagüler | Titel= Kein schönes Land in dieser Zeit |TitelErg= Das Märchen von der gescheiterten Integration | Verlag= Goldmann | Ort=München | Jahr= 2013 | ISBN= 978-3-442-15737-2}}, Seite 206.</ref>\n:[1] „Sebastian Kehl steht kurz vor dem Abschluss eines ''Studiengangs'' bei der UEFA und macht nebenbei den ersten Trainerschein.“<ref>{{Per-Kicker | Autor=Thomas Hennecke | Titel=„Ich würde im Casino von Monaco auf den BVB setzen“ | Tag=18 | Monat=04 | Jahr=2017 | Nummer=32 | Zugriff=2017-04-22 }}</ref>\n:[1] „Die fachpraktische Ausbildung der Schule wird von den Universitäten als vierteljährliches Grundpraktikum anerkannt, das Aufnahmebedingung vieler technischer ''Studiengänge'' ist.“<ref>{{Literatur | Autor= all| Titel= Haselhorster Oberstufenzentrum informiert heute | Verlag=Berliner Zeitung| Ort=Berlin | Jahr= 21.01.1997}}</ref>\n:[1] „Philip hatte mich in einer Vorlesung zur Staatsphilosophie, die ich in meinem zweiten Semester aus purer Neugier besuchte und die nichts mit meinem ''Studiengang'' zu tun hatte, angesprochen.“<ref>{{Literatur | Autor= Elisabeth Beer| Titel=Die Bücherjägerin |Tite"
+  },
+  {
+    "id": "term-21",
+    "group": "university",
+    "de": "Stipendium",
+    "article": "das",
+    "plural": "Stipendien",
+    "ar": "منحة دراسية",
+    "en": "scholarship",
+    "example": "Ich möchte mich um ein Stipendium bewerben.",
+    "source": "https://de.wiktionary.org/wiki/Stipendium",
+    "matched": true,
+    "observed_gender": [
+      "n"
+    ],
+    "observed_plural": [
+      "Stipendien"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] [[Geldbeihilfe]] für Schüler und Studierende oder für wissenschaftlichen, künstlerischen Nachwuchs\n\n{{Herkunft}}\n:im 16. Jahrhundert von [[lateinisch]] ''{{Ü|la|stipendium|stīpendium}}'' (für „Unterstützung“) entlehnt<ref>{{Lit-Kluge: Etymologisches Wörterbuch|A=24}}, Stichwort: „Stipendium“, Seite 885.</ref>\n\n{{Sinnverwandte Wörter}}\n:[1] [[Ausbildungsförderung]], [[Ausbildungsunterstützung]], [[Studienbeihilfe]], [[Studienförderung]]; ''umgangssprachlich:'' [[Bafög]]\n\n{{Unterbegriffe}}\n:[1] [[Auslandsstipendium]], [[Forschungsstipendium]], [[Hochschulstipendium]], [[Künstlerstipendium]], [[Leistungsstipendium]], [[Promotionsstipendium]], [[Schülerstipendium]], [[Sportstipendium]], [[Studienstipendium]], [[Teilnahmestipendium]]\n\n{{Beispiele}}\n:[1] Das BAföG ist eine Art ''Stipendium.''\n:[1] Anna hatte sich im Herbst um ein ''Stipendium'' bei der Hamburger Stiftung beworben.\n:[1] „Durch das ''Stipendium'' einer wohltätigen Stiftung war er angemessen versorgt, doch neigte er dazu, Geld zu horten, einfach um des Sparens willen.“<ref>{{Literatur | Autor= Edward Fox | Titel= Der Mann, der zum Himmel ging | TitelErg= Ein Ungar in Tibet| Verlag= Wagenbach | Ort= Berlin |Jahr= 2007| Seiten= 22.|ISBN= 978-3-8031-2578-1}} Englisches Original 2001.</ref>\n:[1] „Arbeitskräfte oder arbeitslose Personen, können für die Dauer einer Fachkräfteausbildung ein ''Stipendium'' erhalten, wenn sie folgende Voraussetzungen erfüllen: …“<ref>[https://www.ris.bka.gv.at/Dokumente/Bundesnormen/NOR40149284/NOR40149284.pdf Österreichisches Arbeitsmarktservicegesetz § 34b. (1), in Kraft getreten am 01. Juli 2013]</ref>\n:[1] „Er war begabt, ein ''Stipendium'' für die höhere Schule traf den Richtigen.“<ref>{{Literatur | Autor= Jürgen Goldstein | Titel= Blau |TitelErg= Eine Wunderkam"
+  },
+  {
+    "id": "term-22",
+    "group": "university",
+    "de": "Vorlesung",
+    "article": "die",
+    "plural": "Vorlesungen",
+    "ar": "محاضرة جامعية",
+    "en": "lecture",
+    "example": "Die Vorlesung beginnt um neun Uhr.",
+    "source": "https://de.wiktionary.org/wiki/Vorlesung",
+    "matched": true,
+    "observed_gender": [
+      "f"
+    ],
+    "observed_plural": [
+      "Vorlesungen"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] [[Lehrveranstaltung]] oder [[Unterrichtsstunde]] an einer [[Hochschule]], bei der ein [[Dozent]] über ein bestimmtes [[Thema]] [[sprechen|spricht]]\n\n{{Abkürzungen}}\n:[1] [[VL]]\n\n{{Herkunft}}\n:[[Ableitung]] zum Stamm des Verbs ''[[vorlesen]]'' mit dem [[Derivatem]] ([[Ableitungsmorphem]]) ''[[-ung]]''\n\n{{Gegenwörter}}\n:[1] [[Kolloquium]], [[Seminar]], [[Übung]]\n\n{{Oberbegriffe}}\n:[1] [[Lehrveranstaltung]], [[Veranstaltung]], [[Vortrag]]\n\n{{Unterbegriffe}}\n:[1] [[Abendvorlesung]], [[Abschiedsvorlesung]], [[Antrittsvorlesung]], [[Biologievorlesung]], [[Blockvorlesung]], [[Einführungsvorlesung]], [[Gastvorlesung]], [[Hauptvorlesung]], [[Kolleg]], [[Pflichtvorlesung]], [[Probevorlesung]], [[Ringvorlesung]], [[Sonntagsvorlesung]], [[Überblicksvorlesung]], [[Universitätsvorlesung]] ([[Uni-Vorlesung]]), [[Weihnachtsvorlesung]]\n:[1] [[Chemievorlesung]], [[Mathematikvorlesung]], [[Philosophievorlesung]], [[Physikvorlesung]], [[Poetikvorlesung]], [[Soziologievorlesung]], \n\n{{Beispiele}}\n:[1] Zu den ''Vorlesungen'' komme ich immer pünktlich.\n:[1] „Der Hörsaal war besetzt, und die ''Vorlesung'' darin war bereits in vollem Gang, während die Interessenten für den Gastvortrag unsicher und unschlüssig draußen warteten.“<ref>Hermann Bausinger: ''Typisch deutsch. Wie deutsch sind die Deutschen?'' 5. Auflage. Beck, München 2009, Seite 82. {{#isbn:978-3-406-59978-1}}.</ref>\n:[1] „In einer einflussreichen ''Vorlesung'' von 1962 hat der Philosoph Joachim Ritter das mit Petrarca einsetzende Motiv des Blicks vom Berge als Ausdruck neuzeitlicher Subjektivität gedeutet.“<ref>{{Literatur | Autor= Christof Hamann, Alexander Honold | Titel= Kilimandscharo | TitelErg= Die deutsche Geschichte eines afrikanischen Berges | Verlag=Klaus Wagenbach Verlag | Ort=Berlin | Jahr= 2011 | IS"
+  },
+  {
+    "id": "term-23",
+    "group": "university",
+    "de": "Prüfung",
+    "article": "die",
+    "plural": "Prüfungen",
+    "ar": "امتحان",
+    "en": "examination",
+    "example": "Ich bereite mich auf die Prüfung vor.",
+    "source": "https://de.wiktionary.org/wiki/Pr%C3%BCfung",
+    "matched": true,
+    "observed_gender": [
+      "f"
+    ],
+    "observed_plural": [
+      "Prüfungen"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] [[Handlung]] des [[kontrollieren|Kontrollierens]]; das [[nachschauen|Nachschauen]] oder [[testen|Testen]], ob etwas [[funktionieren|funktioniert]] beziehungsweise in [[Ordnung]] ist\n:[2] meist [[offiziell]]e [[Abfrage]] [[mündlich]] oder [[schriftlich]] in einem [[Fachgebiet]]\n\n{{Herkunft}}\n:[[Ableitung]] des Substantivs vom Stamm des Verbs ''[[prüfen]]'' mit dem [[Derivatem]] ([[Ableitungsmorphem]]) ''[[-ung]]''\n\n{{Synonyme}}\n:[1] [[Check]], [[Durchsicht]], [[Erprobung]], [[Kontrolle]], [[Überprüfung]], [[Untersuchung]]\n:[1, 2] [[Test]]\n:[2] [[Arbeit]], [[Befragung]], [[Examen]]\n\n{{Oberbegriffe}}\n:[1] [[Untersuchung]], [[Feststellung]]\n:[2] [[Leistung]], [[Test]]\n\n{{Unterbegriffe}}\n:[1] [[Abnahmeprüfung]], [[Abhängigkeitsprüfung]], [[Aktenprüfung]], [[Anschriftenprüfung]], [[Arzneimittelprüfung]], [[Außenprüfung]], [[Bedarfsprüfung]], [[Bedürfnisprüfung]], [[Bedürftigkeitsprüfung]], [[Beregnungsprüfung]], [[Betriebsprüfung]], [[Bilanzprüfung]], [[Bonitätsprüfung]], [[Bremsprüfung]]/[[Bremsenprüfung]], [[Brotprüfung]], [[Buchprüfung]], [[Dauerprüfung]], [[Detailprüfung]], [[Dichtheitsprüfung]], [[Druckprüfung]], [[Echtheitsprüfung]], [[Effektivitätsprüfung]], [[Effizienzprüfung]], [[Einzelfallprüfung]], [[Fahrzeugprüfung]], [[Fertigungsprüfung]], [[Festigkeitsprüfung]], [[Finanzprüfung]], [[Funktionsprüfung]], [[Gebarungsprüfung]], [[Gehörprüfung]], [[Gesundheitscheck]], [[Geruchsprüfung]], [[Günstigerprüfung]], [[Gewichtsprüfung]]/[[Gewichtprüfung]], [[Haftprüfung]], [[Härteprüfung]], [[Hypothesenprüfung]], [[Identitätsprüfung]], [[Inventurprüfung]], [[Kassenprüfung]], [[Lungenfunktionsprüfung]], [[Materialprüfung]], [[Nachtragsprüfung]], [[Organisationsprüfung]], [[Plausibilitätsprüfung]], [[Qualitätsprüfung]], [[Quellenprüfung]], [[Reaktionsprüfu"
+  },
+  {
+    "id": "term-24",
+    "group": "university",
+    "de": "Anmeldung",
+    "article": "die",
+    "plural": "Anmeldungen",
+    "ar": "تسجيل",
+    "en": "registration",
+    "example": "Ist die Anmeldung noch möglich?",
+    "source": "https://de.wiktionary.org/wiki/Anmeldung",
+    "matched": true,
+    "observed_gender": [
+      "f"
+    ],
+    "observed_plural": [
+      "Anmeldungen"
+    ],
+    "definition_excerpt": "{{Bedeutungen}}\n:[1] [[offiziell]]es [[einschreiben|Sich-Einschreiben]]; die [[Handlung]] des [[anmelden|Anmeldens]]\n:[2] [[Formular]] oder [[schriftlich]]er [[Nachweis]] für [1]\n:[3] {{K|ugs.}} [[Ort]], an dem sich jemand anmeldet\n\n{{Herkunft}}\n:[[Nominalisierung]] (= [[Ableitung]]) des Stamms von ''[[anmelden]]'' mit dem [[Suffix]] ''[[-ung]]''\n\n{{Synonyme}}\n:[1] [[Erstanmeldung]], [[Registration]]\n:[3] [[Rezeption]], [[Empfangsschalter]], [[Empfang]]\n\n{{Gegenwörter}}\n:[1] [[Abmeldung]]; [[Kündigung]]\n\n{{Oberbegriffe}}\n:[1] [[Bürokratie]]\n\n{{Unterbegriffe}}\n:[1] [[Erstanmeldung]], [[Hundeanmeldung]], [[Neuanmeldung]], [[Onlineanmeldung]], [[Patentanmeldung]], [[Patientenanmeldung]], [[Stammanmeldung]], [[Steueranmeldung]], [[Testanmeldung]]\n\n{{Beispiele}}\n:[1] Sie können direkt nach der ''Anmeldung'' loslegen.\n:[2] Zeigen Sie Ihre ''Anmeldung'' dem Beamten.\n:[3] Die Dame an der ''Anmeldung'' war sehr unfreundlich.\n\n==== {{Übersetzungen}} ====\n{{Ü-Tabelle|1|G=offizielles Sich-Einschreiben; die Handlung des Anmeldens|Ü-Liste=\n*{{ar}}: {{Üxx5?|ar|mura:d͡ʒaʕa:t(un)|مُرَاجَعَاتٌ|مراجعات}} {{m}}, {{Üxx5?|ar|rud͡ʒu:ʕ(un)|رُجُوعٌ|رجوع}} {{m}}\n*{{en}}: {{Ü|en|registration}}\n*{{fr}}: {{Ü|fr|enregistrement}} {{m}}, {{Ü|fr|inscription}} {{f}}\n*{{ja}}: {{Üt|ja|申し込み|もうしこみ, môshikomi}}\n*{{lb}}: {{Ü|lb|Umeldung}} {{f}}\n*{{no}}:\n**{{nb}}: {{Ü|nb|melding}} {{mf}}, {{Ü|nb|oppmelding}} {{mf}} (''für [[Examen]] etc.''), {{Ü|nb|påmelding}} {{mf}}\n*{{fa}}: {{Üt|fa|ثبت نام|}}\n*{{pt}}: {{Ü|pt|inscrição}}\n*{{sv}}: {{Ü|sv|anmälan}} {{u}}, {{Ü|sv|anmälning}} {{u}}\n*{{sr}}: {{Üt|sr|пријава|prijava}} {{f}}\n*{{es}}: {{Ü|es|registro}}\n*{{tr}}: {{Ü|tr|başvuru}}, {{Ü|tr|kaydolma}}, {{Ü|tr|müracaat}}\n*{{hu}}: {{Ü|hu|bejelentés}}, {{Ü|hu|benevezés}}, {{Ü|hu|bejegyzés}}\n}}\n\n{{Ü-Tabelle|2|G=Formular oder "
+  }
+]
