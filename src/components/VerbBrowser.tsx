@@ -18,20 +18,23 @@ export default function VerbBrowser() {
   const [lv, setLv] = useState<Lvl | 'all'>('all');
   const [kind, setKind] = useState<VerbKind | 'all'>('all');
   const [q, setQ] = useState('');
-  const list = verbs.filter((v) => (lv === 'all' || v.level === lv) && (kind === 'all' || v.kind === kind) && (q === '' || (v.inf + ' ' + v.ar + ' ' + v.en).toLowerCase().includes(q.toLowerCase())));
-  const chip = (on: boolean) => `num rounded-full border px-3 py-1 text-sm font-bold ${on ? 'border-accent bg-accent text-accent-ink' : 'border-line hover:bg-card'}`;
+  const normalizedQuery=q.trim().normalize('NFC').toLocaleLowerCase('de');
+  const list = verbs.filter((v) => (lv === 'all' || v.level === lv) && (kind === 'all' || v.kind === kind) && (!normalizedQuery || (v.inf + ' ' + v.ar + ' ' + v.en).normalize('NFC').toLocaleLowerCase('de').includes(normalizedQuery)));
+  const chip = (on: boolean) => `num min-h-11 rounded-full border px-3 py-2 text-sm font-bold ${on ? 'border-accent bg-accent text-accent-ink' : 'border-line hover:bg-card'}`;
   return (
     <div className="space-y-4">
       <div className="flex flex-wrap items-center gap-2">
-        {(['all', ...LV] as const).map((l) => <button key={l} onClick={() => setLv(l)} className={chip(lv === l)}>{l === 'all' ? t('كل المستويات', 'All levels') : l}</button>)}
+        {(['all', ...LV] as const).map((l) => <button key={l} aria-pressed={lv===l} onClick={() => setLv(l)} className={chip(lv === l)}>{l === 'all' ? t('كل المستويات', 'All levels') : l}</button>)}
       </div>
       <div className="flex flex-wrap items-center gap-2">
-        <button onClick={() => setKind('all')} className={chip(kind === 'all')}>{t('كل الأنواع', 'All types')}</button>
-        {KINDS.map((k) => <button key={k.id} onClick={() => setKind(k.id)} className={chip(kind === k.id)}>{lang === 'ar' ? k.ar : k.en}</button>)}
+        <button aria-pressed={kind==='all'} onClick={() => setKind('all')} className={chip(kind === 'all')}>{t('كل الأنواع', 'All types')}</button>
+        {KINDS.map((k) => <button key={k.id} aria-pressed={kind===k.id} onClick={() => setKind(k.id)} className={chip(kind === k.id)}>{lang === 'ar' ? k.ar : k.en}</button>)}
       </div>
       <Link href="/verbs/quiz/" className="inline-block rounded-full bg-accent px-5 py-2 text-sm font-bold text-accent-ink">{t('اختبر نفسك', 'Take the quiz')}</Link>
-      <input value={q} onChange={(e) => setQ(e.target.value)} placeholder={t('ابحث عن فعل (ألماني أو عربي أو إنجليزي)', 'Search a verb (German, Arabic or English)')} className="w-full rounded-full border border-line bg-card px-4 py-2 text-sm sm:w-96" />
-      <p className="num text-sm text-muted">{t(arVerbs(list.length), `${list.length} verbs`)}</p>
+      <label htmlFor="verb-search" className="block font-semibold">{t('دوّر على فعل بالألماني أو العربي أو الإنجليزي','Search a verb in German, Arabic or English')}</label>
+      <input id="verb-search" type="search" value={q} onChange={(e) => setQ(e.target.value)} placeholder={t('ابحث عن فعل (ألماني أو عربي أو إنجليزي)', 'Search a verb (German, Arabic or English)')} className="min-h-11 w-full rounded-full border border-line bg-card px-4 py-2 text-sm sm:w-96" />
+      <div className="flex flex-wrap items-center gap-3"><p className="num text-sm text-muted" role="status" aria-atomic="true">{t(arVerbs(list.length), `${list.length} verbs`)}</p>{(q||lv!=='all'||kind!=='all')&&<button onClick={()=>{setQ('');setLv('all');setKind('all')}} className="min-h-11 rounded-full border border-line px-4 py-2">{t('امسح البحث والفلاتر','Clear search and filters')}</button>}</div>
+      {list.length===0&&<p className="rounded-2xl border border-line bg-card p-5">{t('مفيش أفعال مطابقة. جرّب كلمة أقصر أو امسح البحث والفلاتر.','No matching verbs. Try a shorter word or clear the search and filters.')}</p>}
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {list.map((v) => (
           <Link key={v.inf} href={`/verbs/${slug(v.inf)}/`} className="flex overflow-hidden rounded-2xl border border-line bg-card hover:border-accent">
