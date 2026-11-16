@@ -1,0 +1,175 @@
+@gemuese2|خضار وفاكهة 3
+die|Zucchini|Zucchini|كوسة|zucchini
+der|Kürbis|Kürbisse|قرع|pumpkin orange
+die|Erbse|Erbsen|بسلة|peas
+die|Bohne|Bohnen|فاصوليا|beans green
+die|Radieschen|-|فجل|radish
+der|Rettich|Rettiche|فجل أبيض|rettich
+der|Sellerie|-|كرفس|celery
+der|Kohl|-|كرنب|cabbage
+der|Lauch|-|كراث|leek
+der|Ingwer|-|زنجبيل|ginger
+die|Chili|Chilis|شطة|chili
+die|Süßkartoffel|Süßkartoffeln|بطاطا|sweet potato
+die|Blaubeere|Blaubeeren|توت أزرق|blueberry
+die|Himbeere|Himbeeren|توت العليق|raspberry
+die|Johannisbeere|Johannisbeeren|كشمش|currant
+die|Kokosnuss|Kokosnüsse|جوز هند|coconut
+die|Mango|Mangos|مانجو|mango
+die|Avocado|Avocados|أفوكادو|avocado
+die|Grapefruit|Grapefruits|جريب فروت|grapefruit
+die|Aprikose|Aprikosen|مشمش|apricot
+die|Dattel|Datteln|بلح|dates
+die|Haselnuss|Haselnüsse|بندق|hazelnut
+die|Kastanie|Kastanien|كستناء|chestnut
+die|Zimtstange|Zimtstangen|قرفة|cinnamon
+der|Pfeffer|-|فلفل أسود|pepper black
+der|Kürbiskern|Kürbiskerne|لب قرع|pumpkin seeds
+@fleisch|لحمة وأكل جاهز
+das|Hähnchen|-|فرخة|roast chicken
+der|Schinken|-|لحمة مدخنة|ham
+der|Speck|-|بيكون|bacon
+das|Hackfleisch|-|لحمة مفرومة|ground meat
+die|Garnele|Garnelen|جمبري|shrimp
+der|Lachs|-|سلمون|salmon
+der|Thunfisch|Thunfische|تونة|tuna
+die|Auster|Austern|محار|oyster
+der|Döner|-|شاورما|doner kebab
+die|Bratwurst|Bratwürste|سجق مشوي|bratwurst
+das|Schnitzel|-|شنيتزل|schnitzel
+das|Frühstück|-|فطار|breakfast table
+das|Spiegelei|Spiegeleier|بيض عيون|fried egg
+das|Rührei|Rühreier|بيض مخفوق|scrambled eggs
+der|Toast|-|توست|toast
+das|Croissant|Croissants|كرواسون|croissant
+der|Bonbon|Bonbons|حلاوة|candy
+das|Lebkuchen|-|خبز زنجبيل|gingerbread
+die|Waffel|Waffeln|وافل|waffle
+der|Donut|Donuts|دونات|doughnut
+das|Gebäck|-|معجنات|pastry
+@getraenke2|مشروبات وأدوات الأكل
+der|Orangensaft|-|عصير برتقال|orange juice
+die|Limonade|Limonaden|ليموناضة|lemonade
+das|Bier|Biere|بيرة|beer glass
+der|Wein|Weine|نبيذ|wine glass
+der|Kakao|-|كاكاو|cocoa
+die|Cola|Colas|كولا|cola
+der|Strohhalm|Strohhalme|شاليموه|drinking straw
+das|Mineralwasser|-|مية معدنية|mineral water
+die|Kanne|Kannen|إبريق|jug
+der|Becher|-|كوباية بلاستيك|mug
+die|Gabel|Gabeln|شوكة|fork
+die|Serviette|Servietten|فوطة سفرة|napkin
+die|Schüssel|Schüsseln|طبق عميق|bowl
+das|Tablett|Tabletts|صينية|tray
+der|Korb|Körbe|سبت|basket
+der|Teekessel|-|غلاية|kettle
+der|Toaster|-|محمصة|toaster
+der|Mixer|-|خلاط|blender
+der|Kochlöffel|-|مغرفة|wooden spoon
+@sehenswert|معالم مشهورة
+das|Brandenburger Tor|-|بوابة براندنبورج|Brandenburg Gate
+der|Kölner Dom|-|كاتدرائية كولن|Cologne Cathedral
+das|Schloss Neuschwanstein|-|قصر نويشفانشتاين|Neuschwanstein Castle
+der|Fernsehturm|Fernsehtürme|برج التلفزيون|Berlin TV tower
+der|Eiffelturm|-|برج إيفل|Eiffel Tower
+das|Kolosseum|-|الكولوسيوم|Colosseum
+die|Freiheitsstatue|-|تمثال الحرية|Statue of Liberty
+der|Big Ben|-|بيج بن|Big Ben
+das|Taj Mahal|-|تاج محل|Taj Mahal
+die|Chinesische Mauer|-|سور الصين العظيم|Great Wall
+die|Sphinx|Sphingen|أبو الهول|Sphinx
+der|Reichstag|-|الرايخستاج|Reichstag
+die|Zugspitze|-|تسوغشبيتسه|Zugspitze
+der|Rhein|-|نهر الراين|Rhine river
+die|Alpen|-|الألب|Alps mountains
+die|Nordsee|-|بحر الشمال|North Sea
+das|Hamburger Rathaus|-|بلدية هامبورج|Hamburg Rathaus
+@jobs2|مهن وناس
+der|Feuerwehrmann|Feuerwehrmänner|رجل مطافي|firefighter
+der|Metzger|-|جزار|butcher
+der|Maler|-|نقاش|painter
+der|Elektriker|-|كهربائي|electrician
+die|Krankenschwester|Krankenschwestern|ممرضة|nurse
+der|Lehrer|-|مدرس|teacher
+der|Fotograf|Fotografen|مصور|photographer
+der|Musiker|-|موسيقي|musician
+der|Gärtner|-|جنايني|gardener
+der|Fischer|-|صياد سمك|fisherman
+der|Schmied|Schmiede|حداد|blacksmith
+der|Tischler|-|نجار|carpenter
+der|Schneider|-|ترزي|tailor
+der|Busfahrer|-|سواق أتوبيس|bus driver
+der|Astronaut|Astronauten|رائد فضاء|astronaut
+der|Zahnarzt|Zahnärzte|دكتور أسنان|dentist
+der|Richter|-|قاضي|judge
+@sport2|رياضة ولعب
+der|Basketball|Basketbälle|كرة سلة|basketball
+der|Volleyball|Volleybälle|كرة طائرة|volleyball
+der|Handball|Handbälle|كرة يد|handball
+der|Golfschläger|-|مضرب جولف|golf club
+der|Schläger|-|مضرب|badminton racket
+der|Bogen|Bögen|قوس|archery bow
+das|Skateboard|Skateboards|سكيت|skateboard
+der|Helm|Helme|خوذة|helmet
+das|Schwimmbad|Schwimmbäder|حمام سباحة|swimming pool
+der|Ski|Skier|ski|skis
+das|Surfbrett|Surfbretter|لوح ركمجة|surfboard
+die|Pfeife|Pfeifen|صفارة|whistle
+der|Pokal|Pokale|كأس|trophy
+das|Dartspiel|-|دارتس|dartboard
+das|Netz|Netze|شبكة|net
+@musik|موسيقى
+das|Akkordeon|Akkordeons|أكورديون|accordion
+das|Saxofon|Saxofone|ساكسفون|saxophone
+das|Cello|Celli|تشيلو|cello
+die|Harfe|Harfen|قيثارة|harp
+das|Schlagzeug|Schlagzeuge|درامز|drum kit
+die|Mundharmonika|Mundharmonikas|هارمونيكا|harmonica
+die|Orgel|Orgeln|أورج|organ pipe
+das|Xylophon|Xylophone|إكسيليفون|xylophone
+das|Keyboard|Keyboards|كيبورد موسيقي|keyboard synthesizer
+der|Lautsprecher|-|سماعة|loudspeaker
+die|Schallplatte|Schallplatten|اسطوانة|vinyl record
+das|Notenblatt|Notenblätter|نوتة|sheet music
+@haushalt2|أدوات البيت
+der|Staubsauger|-|مكنسة كهربا|vacuum cleaner
+die|Spülmaschine|Spülmaschinen|غسالة أطباق|dishwasher
+der|Herd|Herde|بوتاجاز|stove
+die|Mikrowelle|Mikrowellen|ميكروويف|microwave oven
+der|Wasserhahn|Wasserhähne|حنفية|faucet
+die|Toilette|Toiletten|حمام|toilet
+die|Zahnbürste|Zahnbürsten|فرشة أسنان|toothbrush
+die|Seife|Seifen|صابون|soap
+das|Handtuch|Handtücher|فوطة|towel
+der|Kamm|Kämme|مشط|comb
+der|Rasierer|-|ماكينة حلاقة|razor
+das|Bügelbrett|Bügelbretter|ترابيزة كي|ironing board
+der|Regal|Regale|رف|bookshelf
+der|Vorhang|Vorhänge|ستارة|curtain
+die|Kommode|Kommoden|كومودينو|dresser
+der|Sessel|-|فوتيه|armchair
+der|Kronleuchter|-|ثريا|chandelier
+die|Steckdose|Steckdosen|بريزة|wall socket
+der|Lichtschalter|-|مفتاح نور|light switch
+der|Türgriff|Türgriffe|مقبض الباب|door handle
+die|Hängematte|Hängematten|أرجوحة قماش|hammock
+der|Schlüsselbund|Schlüsselbunde|ميدالية مفاتيح|key ring
+@buero|مكتب ومدرسة
+der|Kugelschreiber|-|قلم جاف|ballpoint pen
+der|Radiergummi|Radiergummis|أستيكة|eraser
+der|Spitzer|-|براية|pencil sharpener
+der|Taschenrechner|-|آلة حاسبة|calculator
+der|Ordner|-|ملف|binder
+der|Stempel|-|ختم|stamp
+die|Büroklammer|Büroklammern|دبوس ورق|paper clip
+der|Locher|-|خرامة|hole punch
+der|Tacker|-|دباسة|stapler
+der|Briefumschlag|Briefumschläge|مظروف|envelope
+die|Briefmarke|Briefmarken|طابع بريد|postage stamp
+das|Mikroskop|Mikroskope|ميكروسكوب|microscope
+das|Teleskop|Teleskope|تلسكوب|telescope
+der|Füller|-|قلم حبر|fountain pen
+die|Farbe|Farben|ألوان|paint watercolor
+die|Kreide|-|طباشير|chalk
+der|Schreibblock|Schreibblöcke|دفتر ملاحظات|notepad
