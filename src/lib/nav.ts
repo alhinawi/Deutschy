@@ -47,6 +47,7 @@ export const sidebar: NavGroup[] = [
     { href: '/conjugation/', ar: 'معمل التصريف والأزمنة', en: 'Tenses and conjugation lab' },
     { href: '/timed-practice/', ar: 'جولات مذاكرة بوقت', en: 'Timed mixed practice' },
     { href: '/study-sheets/', ar: 'ورق المذاكرة والطباعة', en: 'Printable study sheets' },
+    { href: '/speaking-cards/', ar: 'كروت كلام ونماذج A1-B2', en: 'Speaking prompts and models A1-B2' },
     { href: '/shadowing/', ar: 'اسمع وقلد واقرا بصوتك', en: 'Reading aloud and shadowing' },
     { href: '/speaking/', ar: 'النطق والكلام بالميكروفون', en: 'Speaking and pronunciation' },
     { href: '/conversation/', ar: 'تدريب المحادثة', en: 'Conversation practice' },
