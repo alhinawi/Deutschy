@@ -275,6 +275,14 @@
   {
    "id": "geschenkverpackung",
    "ar": "تغليف الهدايا"
+  },
+  {
+   "id": "tischdecken",
+   "ar": "تجهيز السفرة"
+  },
+  {
+   "id": "flaschenhelfer",
+   "ar": "أدوات للإزازات"
   }
  ],
  "words": [
@@ -10857,6 +10865,86 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Gift_ribbon.jpg",
     "author": "Akshaya govindasamy",
     "license": "CC BY-SA 4.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "untersetzer",
+   "topic": "tischdecken",
+   "art": "der",
+   "de": "Untersetzer",
+   "plural": "-",
+   "ar": "قاعدة للكوباية",
+   "photo": {
+    "file": "Cork coaster.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cork_coaster.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Cork_coaster.jpg",
+    "author": "André Karwath aka Aka",
+    "license": "CC BY-SA 2.5",
+    "padding": true
+   }
+  },
+  {
+   "id": "serviette",
+   "topic": "tischdecken",
+   "art": "die",
+   "de": "Serviette",
+   "plural": "Servietten",
+   "ar": "منديل سفرة",
+   "photo": {
+    "file": "Serviette, table napkin.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Serviette,_table_napkin.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Serviette,_table_napkin.jpg",
+    "author": "Susan Slater",
+    "license": "CC BY-SA 4.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "tablett",
+   "topic": "tischdecken",
+   "art": "das",
+   "de": "Tablett",
+   "plural": "Tabletts",
+   "ar": "صينية تقديم",
+   "photo": {
+    "file": "Small Slate Serving Tray.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Small_Slate_Serving_Tray.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Small_Slate_Serving_Tray.jpg",
+    "author": "Cooks & Kitchens from Darlington, UK",
+    "license": "CC BY 2.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "trichter",
+   "topic": "flaschenhelfer",
+   "art": "der",
+   "de": "Trichter",
+   "plural": "-",
+   "ar": "قمع",
+   "photo": {
+    "file": "Kitchen Funnel.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kitchen_Funnel.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Kitchen_Funnel.jpg",
+    "author": "Donovan Govan.",
+    "license": "CC BY-SA 3.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "flaschenoeffner",
+   "topic": "flaschenhelfer",
+   "art": "der",
+   "de": "Flaschenöffner",
+   "plural": "-",
+   "ar": "فتاحة إزازات",
+   "photo": {
+    "file": "Décapsuleur - Anonyme A.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:D%C3%A9capsuleur_-_Anonyme_A.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:D%C3%A9capsuleur_-_Anonyme_A.jpg",
+    "author": "Renhour48",
+    "license": "CC0",
     "padding": true
    }
   }
