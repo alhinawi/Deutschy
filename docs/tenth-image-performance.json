@@ -1,0 +1,5337 @@
+{
+  "before": 101663795,
+  "after": 76490654,
+  "changed": 410,
+  "records": [
+    {
+      "id": "angelhaken",
+      "before": 363407,
+      "after": 92912,
+      "dimensions_before": [
+        945,
+        933
+      ],
+      "dimensions_after": [
+        945,
+        933
+      ]
+    },
+    {
+      "id": "lampe",
+      "before": 161540,
+      "after": 77999,
+      "dimensions_before": [
+        960,
+        1318
+      ],
+      "dimensions_after": [
+        699,
+        960
+      ]
+    },
+    {
+      "id": "alpaka",
+      "before": 398159,
+      "after": 344847,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "stiefel",
+      "before": 108220,
+      "after": 94410,
+      "dimensions_before": [
+        960,
+        804
+      ],
+      "dimensions_after": [
+        960,
+        804
+      ]
+    },
+    {
+      "id": "kamera",
+      "before": 183968,
+      "after": 164170,
+      "dimensions_before": [
+        960,
+        771
+      ],
+      "dimensions_after": [
+        960,
+        771
+      ]
+    },
+    {
+      "id": "kaenguru",
+      "before": 309410,
+      "after": 269732,
+      "dimensions_before": [
+        960,
+        679
+      ],
+      "dimensions_after": [
+        960,
+        679
+      ]
+    },
+    {
+      "id": "sand",
+      "before": 410176,
+      "after": 357853,
+      "dimensions_before": [
+        960,
+        960
+      ],
+      "dimensions_after": [
+        960,
+        960
+      ]
+    },
+    {
+      "id": "fuchs",
+      "before": 176436,
+      "after": 158689,
+      "dimensions_before": [
+        960,
+        694
+      ],
+      "dimensions_after": [
+        960,
+        694
+      ]
+    },
+    {
+      "id": "buegeleisen",
+      "before": 61346,
+      "after": 54192,
+      "dimensions_before": [
+        960,
+        637
+      ],
+      "dimensions_after": [
+        960,
+        637
+      ]
+    },
+    {
+      "id": "pfirsich",
+      "before": 124743,
+      "after": 111184,
+      "dimensions_before": [
+        960,
+        654
+      ],
+      "dimensions_after": [
+        960,
+        654
+      ]
+    },
+    {
+      "id": "hammer",
+      "before": 98442,
+      "after": 35506,
+      "dimensions_before": [
+        960,
+        1440
+      ],
+      "dimensions_after": [
+        640,
+        960
+      ]
+    },
+    {
+      "id": "honig",
+      "before": 355515,
+      "after": 125503,
+      "dimensions_before": [
+        960,
+        1456
+      ],
+      "dimensions_after": [
+        633,
+        960
+      ]
+    },
+    {
+      "id": "bruder",
+      "before": 65520,
+      "after": 46004,
+      "dimensions_before": [
+        800,
+        450
+      ],
+      "dimensions_after": [
+        800,
+        450
+      ]
+    },
+    {
+      "id": "kochtopf",
+      "before": 264455,
+      "after": 121562,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "zelt",
+      "before": 276103,
+      "after": 243582,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "naehmaschine",
+      "before": 103081,
+      "after": 91442,
+      "dimensions_before": [
+        960,
+        662
+      ],
+      "dimensions_after": [
+        960,
+        662
+      ]
+    },
+    {
+      "id": "papageitaucher",
+      "before": 223295,
+      "after": 196226,
+      "dimensions_before": [
+        960,
+        960
+      ],
+      "dimensions_after": [
+        960,
+        960
+      ]
+    },
+    {
+      "id": "otter",
+      "before": 166449,
+      "after": 148199,
+      "dimensions_before": [
+        960,
+        639
+      ],
+      "dimensions_after": [
+        960,
+        639
+      ]
+    },
+    {
+      "id": "sessel",
+      "before": 163094,
+      "after": 89504,
+      "dimensions_before": [
+        960,
+        1200
+      ],
+      "dimensions_after": [
+        768,
+        960
+      ]
+    },
+    {
+      "id": "stuhl",
+      "before": 141552,
+      "after": 123660,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "massband",
+      "before": 89782,
+      "after": 79815,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "schoepfloeffel",
+      "before": 100452,
+      "after": 25137,
+      "dimensions_before": [
+        960,
+        1870
+      ],
+      "dimensions_after": [
+        493,
+        960
+      ]
+    },
+    {
+      "id": "lavendel",
+      "before": 157742,
+      "after": 140865,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "kaffee",
+      "before": 40174,
+      "after": 32604,
+      "dimensions_before": [
+        480,
+        320
+      ],
+      "dimensions_after": [
+        480,
+        320
+      ]
+    },
+    {
+      "id": "schloss",
+      "before": 248451,
+      "after": 213365,
+      "dimensions_before": [
+        960,
+        717
+      ],
+      "dimensions_after": [
+        960,
+        717
+      ]
+    },
+    {
+      "id": "kathedrale",
+      "before": 269974,
+      "after": 144714,
+      "dimensions_before": [
+        960,
+        1194
+      ],
+      "dimensions_after": [
+        772,
+        960
+      ]
+    },
+    {
+      "id": "polarlicht",
+      "before": 142853,
+      "after": 128449,
+      "dimensions_before": [
+        960,
+        636
+      ],
+      "dimensions_after": [
+        960,
+        636
+      ]
+    },
+    {
+      "id": "teekanne",
+      "before": 157065,
+      "after": 139768,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "kugelschreiber",
+      "before": 30860,
+      "after": 25696,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "semmel",
+      "before": 245840,
+      "after": 218197,
+      "dimensions_before": [
+        960,
+        960
+      ],
+      "dimensions_after": [
+        960,
+        960
+      ]
+    },
+    {
+      "id": "fischer",
+      "before": 163222,
+      "after": 145190,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "strassenbahn",
+      "before": 359692,
+      "after": 138965,
+      "dimensions_before": [
+        960,
+        1440
+      ],
+      "dimensions_after": [
+        640,
+        960
+      ]
+    },
+    {
+      "id": "regen",
+      "before": 337435,
+      "after": 278570,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "krankenwagen",
+      "before": 207339,
+      "after": 185402,
+      "dimensions_before": [
+        960,
+        672
+      ],
+      "dimensions_after": [
+        960,
+        672
+      ]
+    },
+    {
+      "id": "weste",
+      "before": 185191,
+      "after": 144233,
+      "dimensions_before": [
+        960,
+        986
+      ],
+      "dimensions_after": [
+        935,
+        960
+      ]
+    },
+    {
+      "id": "wasser",
+      "before": 32823,
+      "after": 26064,
+      "dimensions_before": [
+        298,
+        404
+      ],
+      "dimensions_after": [
+        298,
+        404
+      ]
+    },
+    {
+      "id": "rathaus",
+      "before": 122547,
+      "after": 107039,
+      "dimensions_before": [
+        960,
+        580
+      ],
+      "dimensions_after": [
+        960,
+        580
+      ]
+    },
+    {
+      "id": "duene",
+      "before": 139213,
+      "after": 124556,
+      "dimensions_before": [
+        960,
+        573
+      ],
+      "dimensions_after": [
+        960,
+        573
+      ]
+    },
+    {
+      "id": "pistazie",
+      "before": 115141,
+      "after": 98083,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "radiergummi",
+      "before": 58615,
+      "after": 49820,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "knoblauch",
+      "before": 112183,
+      "after": 93792,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "feder",
+      "before": 290488,
+      "after": 193540,
+      "dimensions_before": [
+        960,
+        1050
+      ],
+      "dimensions_after": [
+        878,
+        960
+      ]
+    },
+    {
+      "id": "kronleuchter",
+      "before": 318066,
+      "after": 245684,
+      "dimensions_before": [
+        960,
+        960
+      ],
+      "dimensions_after": [
+        960,
+        960
+      ]
+    },
+    {
+      "id": "boot",
+      "before": 140895,
+      "after": 125665,
+      "dimensions_before": [
+        960,
+        576
+      ],
+      "dimensions_after": [
+        960,
+        576
+      ]
+    },
+    {
+      "id": "vollkornbrot",
+      "before": 816911,
+      "after": 168569,
+      "dimensions_before": [
+        871,
+        1100
+      ],
+      "dimensions_after": [
+        760,
+        960
+      ]
+    },
+    {
+      "id": "maus",
+      "before": 159697,
+      "after": 79760,
+      "dimensions_before": [
+        960,
+        1285
+      ],
+      "dimensions_after": [
+        717,
+        960
+      ]
+    },
+    {
+      "id": "hantel",
+      "before": 226341,
+      "after": 98623,
+      "dimensions_before": [
+        960,
+        1438
+      ],
+      "dimensions_after": [
+        641,
+        960
+      ]
+    },
+    {
+      "id": "eisberg",
+      "before": 174828,
+      "after": 156283,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "meissel",
+      "before": 31822,
+      "after": 27489,
+      "dimensions_before": [
+        960,
+        676
+      ],
+      "dimensions_after": [
+        960,
+        676
+      ]
+    },
+    {
+      "id": "zebra",
+      "before": 187221,
+      "after": 166013,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "taschenlampe",
+      "before": 43936,
+      "after": 33155,
+      "dimensions_before": [
+        768,
+        522
+      ],
+      "dimensions_after": [
+        768,
+        522
+      ]
+    },
+    {
+      "id": "armbanduhr",
+      "before": 163478,
+      "after": 144658,
+      "dimensions_before": [
+        960,
+        755
+      ],
+      "dimensions_after": [
+        960,
+        755
+      ]
+    },
+    {
+      "id": "tandem",
+      "before": 257117,
+      "after": 227067,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "eiffelturm",
+      "before": 338718,
+      "after": 75379,
+      "dimensions_before": [
+        960,
+        1777
+      ],
+      "dimensions_after": [
+        519,
+        960
+      ]
+    },
+    {
+      "id": "mango",
+      "before": 89896,
+      "after": 71280,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "adler",
+      "before": 85401,
+      "after": 76114,
+      "dimensions_before": [
+        960,
+        960
+      ],
+      "dimensions_after": [
+        960,
+        960
+      ]
+    },
+    {
+      "id": "aprikose",
+      "before": 163059,
+      "after": 145455,
+      "dimensions_before": [
+        960,
+        724
+      ],
+      "dimensions_after": [
+        960,
+        724
+      ]
+    },
+    {
+      "id": "pizza",
+      "before": 154951,
+      "after": 137216,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "feuer",
+      "before": 208173,
+      "after": 173903,
+      "dimensions_before": [
+        960,
+        611
+      ],
+      "dimensions_after": [
+        960,
+        611
+      ]
+    },
+    {
+      "id": "brunnen",
+      "before": 378434,
+      "after": 181988,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "krebs",
+      "before": 291943,
+      "after": 251129,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "giraffe",
+      "before": 156734,
+      "after": 128537,
+      "dimensions_before": [
+        960,
+        639
+      ],
+      "dimensions_after": [
+        960,
+        639
+      ]
+    },
+    {
+      "id": "marder",
+      "before": 142486,
+      "after": 127703,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "granatapfelsaft",
+      "before": 104839,
+      "after": 88895,
+      "dimensions_before": [
+        960,
+        636
+      ],
+      "dimensions_after": [
+        960,
+        636
+      ]
+    },
+    {
+      "id": "reichstag",
+      "before": 114659,
+      "after": 101025,
+      "dimensions_before": [
+        960,
+        394
+      ],
+      "dimensions_after": [
+        960,
+        394
+      ]
+    },
+    {
+      "id": "waffel",
+      "before": 186124,
+      "after": 165977,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "pfau",
+      "before": 102270,
+      "after": 45924,
+      "dimensions_before": [
+        960,
+        1377
+      ],
+      "dimensions_after": [
+        669,
+        960
+      ]
+    },
+    {
+      "id": "zebrastreifen",
+      "before": 255332,
+      "after": 228136,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "mundharmonika",
+      "before": 372671,
+      "after": 162864,
+      "dimensions_before": [
+        960,
+        1282
+      ],
+      "dimensions_after": [
+        719,
+        960
+      ]
+    },
+    {
+      "id": "schloss-neuschwanstein",
+      "before": 193496,
+      "after": 170368,
+      "dimensions_before": [
+        960,
+        654
+      ],
+      "dimensions_after": [
+        960,
+        654
+      ]
+    },
+    {
+      "id": "baer",
+      "before": 250604,
+      "after": 222704,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "hai",
+      "before": 84502,
+      "after": 75552,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "kormoran",
+      "before": 191149,
+      "after": 168927,
+      "dimensions_before": [
+        960,
+        600
+      ],
+      "dimensions_after": [
+        960,
+        600
+      ]
+    },
+    {
+      "id": "kaktus",
+      "before": 125136,
+      "after": 104003,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "brombeere",
+      "before": 98206,
+      "after": 80304,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "sanduhr",
+      "before": 238433,
+      "after": 64787,
+      "dimensions_before": [
+        960,
+        1945
+      ],
+      "dimensions_after": [
+        474,
+        960
+      ]
+    },
+    {
+      "id": "musiker",
+      "before": 100903,
+      "after": 84657,
+      "dimensions_before": [
+        749,
+        326
+      ],
+      "dimensions_after": [
+        749,
+        326
+      ]
+    },
+    {
+      "id": "museum",
+      "before": 165158,
+      "after": 146367,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "steak",
+      "before": 166331,
+      "after": 149029,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "saege",
+      "before": 257405,
+      "after": 230902,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "verband",
+      "before": 236060,
+      "after": 209603,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "rose",
+      "before": 111496,
+      "after": 98076,
+      "dimensions_before": [
+        960,
+        635
+      ],
+      "dimensions_after": [
+        960,
+        635
+      ]
+    },
+    {
+      "id": "reiskocher",
+      "before": 211434,
+      "after": 165541,
+      "dimensions_before": [
+        960,
+        991
+      ],
+      "dimensions_after": [
+        930,
+        960
+      ]
+    },
+    {
+      "id": "rakete",
+      "before": 142815,
+      "after": 51078,
+      "dimensions_before": [
+        960,
+        1440
+      ],
+      "dimensions_after": [
+        640,
+        960
+      ]
+    },
+    {
+      "id": "hubschrauber",
+      "before": 170631,
+      "after": 149390,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "mikrofon",
+      "before": 626854,
+      "after": 88725,
+      "dimensions_before": [
+        960,
+        2233
+      ],
+      "dimensions_after": [
+        413,
+        960
+      ]
+    },
+    {
+      "id": "seestern",
+      "before": 353149,
+      "after": 294461,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "spinnennetz",
+      "before": 95477,
+      "after": 83191,
+      "dimensions_before": [
+        960,
+        721
+      ],
+      "dimensions_after": [
+        960,
+        721
+      ]
+    },
+    {
+      "id": "libelle",
+      "before": 57610,
+      "after": 51004,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "specht",
+      "before": 289459,
+      "after": 252444,
+      "dimensions_before": [
+        960,
+        960
+      ],
+      "dimensions_after": [
+        960,
+        960
+      ]
+    },
+    {
+      "id": "floete",
+      "before": 204192,
+      "after": 183704,
+      "dimensions_before": [
+        960,
+        695
+      ],
+      "dimensions_after": [
+        960,
+        695
+      ]
+    },
+    {
+      "id": "himmel",
+      "before": 132890,
+      "after": 112358,
+      "dimensions_before": [
+        960,
+        641
+      ],
+      "dimensions_after": [
+        960,
+        641
+      ]
+    },
+    {
+      "id": "eichel",
+      "before": 188830,
+      "after": 60821,
+      "dimensions_before": [
+        960,
+        1440
+      ],
+      "dimensions_after": [
+        640,
+        960
+      ]
+    },
+    {
+      "id": "dosenoeffner",
+      "before": 69192,
+      "after": 60996,
+      "dimensions_before": [
+        960,
+        512
+      ],
+      "dimensions_after": [
+        960,
+        512
+      ]
+    },
+    {
+      "id": "croissant",
+      "before": 263228,
+      "after": 125166,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "sandwich",
+      "before": 182304,
+      "after": 161702,
+      "dimensions_before": [
+        960,
+        597
+      ],
+      "dimensions_after": [
+        960,
+        597
+      ]
+    },
+    {
+      "id": "kokosnuss",
+      "before": 123286,
+      "after": 99998,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "linse",
+      "before": 174020,
+      "after": 147044,
+      "dimensions_before": [
+        960,
+        540
+      ],
+      "dimensions_after": [
+        960,
+        540
+      ]
+    },
+    {
+      "id": "puppe",
+      "before": 167173,
+      "after": 56562,
+      "dimensions_before": [
+        960,
+        1506
+      ],
+      "dimensions_after": [
+        612,
+        960
+      ]
+    },
+    {
+      "id": "wasserkocher",
+      "before": 160855,
+      "after": 85481,
+      "dimensions_before": [
+        960,
+        1166
+      ],
+      "dimensions_after": [
+        790,
+        960
+      ]
+    },
+    {
+      "id": "eiche",
+      "before": 247444,
+      "after": 208693,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "fernsehturm",
+      "before": 240269,
+      "after": 41352,
+      "dimensions_before": [
+        960,
+        2171
+      ],
+      "dimensions_after": [
+        425,
+        960
+      ]
+    },
+    {
+      "id": "kaffeemaschine",
+      "before": 309851,
+      "after": 124256,
+      "dimensions_before": [
+        960,
+        1387
+      ],
+      "dimensions_after": [
+        664,
+        960
+      ]
+    },
+    {
+      "id": "riff",
+      "before": 251890,
+      "after": 206965,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "cola",
+      "before": 172466,
+      "after": 64777,
+      "dimensions_before": [
+        960,
+        1440
+      ],
+      "dimensions_after": [
+        640,
+        960
+      ]
+    },
+    {
+      "id": "zange",
+      "before": 46138,
+      "after": 39749,
+      "dimensions_before": [
+        960,
+        480
+      ],
+      "dimensions_after": [
+        960,
+        480
+      ]
+    },
+    {
+      "id": "garnele",
+      "before": 163274,
+      "after": 140611,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "orchidee",
+      "before": 125115,
+      "after": 111282,
+      "dimensions_before": [
+        960,
+        702
+      ],
+      "dimensions_after": [
+        960,
+        702
+      ]
+    },
+    {
+      "id": "nudel",
+      "before": 150713,
+      "after": 134817,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "eimer",
+      "before": 216038,
+      "after": 82855,
+      "dimensions_before": [
+        960,
+        1440
+      ],
+      "dimensions_after": [
+        640,
+        960
+      ]
+    },
+    {
+      "id": "leiter",
+      "before": 632078,
+      "after": 226342,
+      "dimensions_before": [
+        960,
+        1448
+      ],
+      "dimensions_after": [
+        636,
+        960
+      ]
+    },
+    {
+      "id": "pflaster",
+      "before": 170110,
+      "after": 74137,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "klingel",
+      "before": 298101,
+      "after": 167134,
+      "dimensions_before": [
+        960,
+        1182
+      ],
+      "dimensions_after": [
+        780,
+        960
+      ]
+    },
+    {
+      "id": "stein",
+      "before": 306467,
+      "after": 264737,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "schneeflocke",
+      "before": 158124,
+      "after": 135136,
+      "dimensions_before": [
+        960,
+        768
+      ],
+      "dimensions_after": [
+        960,
+        768
+      ]
+    },
+    {
+      "id": "eiscreme",
+      "before": 254635,
+      "after": 121320,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "ratte",
+      "before": 238503,
+      "after": 207304,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "kichererbse",
+      "before": 217664,
+      "after": 192964,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "ruehrei",
+      "before": 199768,
+      "after": 96276,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "strasse",
+      "before": 154339,
+      "after": 127350,
+      "dimensions_before": [
+        770,
+        800
+      ],
+      "dimensions_after": [
+        770,
+        800
+      ]
+    },
+    {
+      "id": "akkuschrauber",
+      "before": 205830,
+      "after": 90865,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "fliege",
+      "before": 106478,
+      "after": 94854,
+      "dimensions_before": [
+        960,
+        695
+      ],
+      "dimensions_after": [
+        960,
+        695
+      ]
+    },
+    {
+      "id": "kastanie",
+      "before": 201858,
+      "after": 177916,
+      "dimensions_before": [
+        960,
+        782
+      ],
+      "dimensions_after": [
+        960,
+        782
+      ]
+    },
+    {
+      "id": "krater",
+      "before": 145316,
+      "after": 126650,
+      "dimensions_before": [
+        960,
+        475
+      ],
+      "dimensions_after": [
+        960,
+        475
+      ]
+    },
+    {
+      "id": "fluss",
+      "before": 58295,
+      "after": 50350,
+      "dimensions_before": [
+        480,
+        383
+      ],
+      "dimensions_after": [
+        480,
+        383
+      ]
+    },
+    {
+      "id": "kamm",
+      "before": 57781,
+      "after": 50587,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "hirsch",
+      "before": 275615,
+      "after": 188588,
+      "dimensions_before": [
+        960,
+        1047
+      ],
+      "dimensions_after": [
+        880,
+        960
+      ]
+    },
+    {
+      "id": "hecht",
+      "before": 227060,
+      "after": 131997,
+      "dimensions_before": [
+        960,
+        1212
+      ],
+      "dimensions_after": [
+        760,
+        960
+      ]
+    },
+    {
+      "id": "wald",
+      "before": 371129,
+      "after": 316757,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "koralle",
+      "before": 251890,
+      "after": 206965,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "fenchel",
+      "before": 206492,
+      "after": 185159,
+      "dimensions_before": [
+        960,
+        629
+      ],
+      "dimensions_after": [
+        960,
+        629
+      ]
+    },
+    {
+      "id": "schwarzbrot",
+      "before": 160767,
+      "after": 144209,
+      "dimensions_before": [
+        960,
+        563
+      ],
+      "dimensions_after": [
+        960,
+        563
+      ]
+    },
+    {
+      "id": "teich",
+      "before": 311190,
+      "after": 262242,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "kolosseum",
+      "before": 152275,
+      "after": 132544,
+      "dimensions_before": [
+        960,
+        563
+      ],
+      "dimensions_after": [
+        960,
+        563
+      ]
+    },
+    {
+      "id": "muetze",
+      "before": 158282,
+      "after": 139912,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "schmetterling",
+      "before": 123481,
+      "after": 108146,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "johannisbeere",
+      "before": 97399,
+      "after": 79158,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "wal",
+      "before": 195834,
+      "after": 175736,
+      "dimensions_before": [
+        960,
+        542
+      ],
+      "dimensions_after": [
+        960,
+        542
+      ]
+    },
+    {
+      "id": "fueller",
+      "before": 99253,
+      "after": 89252,
+      "dimensions_before": [
+        960,
+        704
+      ],
+      "dimensions_after": [
+        960,
+        704
+      ]
+    },
+    {
+      "id": "salat",
+      "before": 183488,
+      "after": 164407,
+      "dimensions_before": [
+        960,
+        719
+      ],
+      "dimensions_after": [
+        960,
+        719
+      ]
+    },
+    {
+      "id": "krokodil",
+      "before": 169265,
+      "after": 151581,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "murmeltier",
+      "before": 305024,
+      "after": 260092,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "eis",
+      "before": 254635,
+      "after": 121320,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "marktplatz",
+      "before": 166688,
+      "after": 149107,
+      "dimensions_before": [
+        960,
+        636
+      ],
+      "dimensions_after": [
+        960,
+        636
+      ]
+    },
+    {
+      "id": "grill",
+      "before": 478666,
+      "after": 231016,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "vorhang",
+      "before": 121971,
+      "after": 109214,
+      "dimensions_before": [
+        960,
+        540
+      ],
+      "dimensions_after": [
+        960,
+        540
+      ]
+    },
+    {
+      "id": "muschel",
+      "before": 165090,
+      "after": 142812,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "seepferdchen",
+      "before": 93258,
+      "after": 43905,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "bueroklammer",
+      "before": 139007,
+      "after": 55885,
+      "dimensions_before": [
+        960,
+        1433
+      ],
+      "dimensions_after": [
+        643,
+        960
+      ]
+    },
+    {
+      "id": "wachtel",
+      "before": 157587,
+      "after": 137228,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "globus",
+      "before": 182219,
+      "after": 88545,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "teppich",
+      "before": 234485,
+      "after": 208981,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "schal",
+      "before": 147654,
+      "after": 132428,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "kreisverkehr",
+      "before": 258393,
+      "after": 232408,
+      "dimensions_before": [
+        960,
+        719
+      ],
+      "dimensions_after": [
+        960,
+        719
+      ]
+    },
+    {
+      "id": "muellwagen",
+      "before": 72149,
+      "after": 64149,
+      "dimensions_before": [
+        960,
+        410
+      ],
+      "dimensions_after": [
+        960,
+        410
+      ]
+    },
+    {
+      "id": "festplatte",
+      "before": 84230,
+      "after": 75176,
+      "dimensions_before": [
+        960,
+        477
+      ],
+      "dimensions_after": [
+        960,
+        477
+      ]
+    },
+    {
+      "id": "radio",
+      "before": 180660,
+      "after": 155067,
+      "dimensions_before": [
+        960,
+        686
+      ],
+      "dimensions_after": [
+        960,
+        686
+      ]
+    },
+    {
+      "id": "gitarre",
+      "before": 144876,
+      "after": 129999,
+      "dimensions_before": [
+        960,
+        637
+      ],
+      "dimensions_after": [
+        960,
+        637
+      ]
+    },
+    {
+      "id": "pilz",
+      "before": 255004,
+      "after": 223515,
+      "dimensions_before": [
+        960,
+        648
+      ],
+      "dimensions_after": [
+        960,
+        648
+      ]
+    },
+    {
+      "id": "polizeiauto",
+      "before": 173273,
+      "after": 149755,
+      "dimensions_before": [
+        960,
+        643
+      ],
+      "dimensions_after": [
+        960,
+        643
+      ]
+    },
+    {
+      "id": "traube",
+      "before": 44679,
+      "after": 36580,
+      "dimensions_before": [
+        319,
+        480
+      ],
+      "dimensions_after": [
+        319,
+        480
+      ]
+    },
+    {
+      "id": "kuerbis",
+      "before": 201336,
+      "after": 176861,
+      "dimensions_before": [
+        960,
+        641
+      ],
+      "dimensions_after": [
+        960,
+        641
+      ]
+    },
+    {
+      "id": "windrad",
+      "before": 73847,
+      "after": 64264,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "fasching",
+      "before": 210699,
+      "after": 179381,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "maler",
+      "before": 284315,
+      "after": 249087,
+      "dimensions_before": [
+        960,
+        716
+      ],
+      "dimensions_after": [
+        960,
+        716
+      ]
+    },
+    {
+      "id": "orangensaft",
+      "before": 182998,
+      "after": 81657,
+      "dimensions_before": [
+        960,
+        1365
+      ],
+      "dimensions_after": [
+        675,
+        960
+      ]
+    },
+    {
+      "id": "minarett",
+      "before": 168030,
+      "after": 61763,
+      "dimensions_before": [
+        960,
+        1459
+      ],
+      "dimensions_after": [
+        632,
+        960
+      ]
+    },
+    {
+      "id": "lastwagen",
+      "before": 153378,
+      "after": 131632,
+      "dimensions_before": [
+        960,
+        600
+      ],
+      "dimensions_after": [
+        960,
+        600
+      ]
+    },
+    {
+      "id": "farn",
+      "before": 168062,
+      "after": 149825,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "reifen",
+      "before": 87218,
+      "after": 78240,
+      "dimensions_before": [
+        960,
+        540
+      ],
+      "dimensions_after": [
+        960,
+        540
+      ]
+    },
+    {
+      "id": "kabel",
+      "before": 94412,
+      "after": 66346,
+      "dimensions_before": [
+        960,
+        1034
+      ],
+      "dimensions_after": [
+        891,
+        960
+      ]
+    },
+    {
+      "id": "lilie",
+      "before": 116863,
+      "after": 94879,
+      "dimensions_before": [
+        960,
+        995
+      ],
+      "dimensions_after": [
+        926,
+        960
+      ]
+    },
+    {
+      "id": "mikroskop",
+      "before": 124632,
+      "after": 49696,
+      "dimensions_before": [
+        960,
+        1440
+      ],
+      "dimensions_after": [
+        640,
+        960
+      ]
+    },
+    {
+      "id": "toast",
+      "before": 201523,
+      "after": 170945,
+      "dimensions_before": [
+        960,
+        879
+      ],
+      "dimensions_after": [
+        960,
+        879
+      ]
+    },
+    {
+      "id": "klavier",
+      "before": 1883910,
+      "after": 49930,
+      "dimensions_before": [
+        960,
+        525
+      ],
+      "dimensions_after": [
+        960,
+        525
+      ]
+    },
+    {
+      "id": "sumpf",
+      "before": 201739,
+      "after": 175922,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "schlitten",
+      "before": 74312,
+      "after": 65484,
+      "dimensions_before": [
+        960,
+        887
+      ],
+      "dimensions_after": [
+        960,
+        887
+      ]
+    },
+    {
+      "id": "muesli",
+      "before": 234778,
+      "after": 209412,
+      "dimensions_before": [
+        960,
+        920
+      ],
+      "dimensions_after": [
+        960,
+        920
+      ]
+    },
+    {
+      "id": "delfin",
+      "before": 56122,
+      "after": 49422,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "pinguin",
+      "before": 392374,
+      "after": 182014,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "schaukel",
+      "before": 228897,
+      "after": 200093,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "biene",
+      "before": 154205,
+      "after": 135178,
+      "dimensions_before": [
+        960,
+        798
+      ],
+      "dimensions_after": [
+        960,
+        798
+      ]
+    },
+    {
+      "id": "spatz",
+      "before": 94190,
+      "after": 84352,
+      "dimensions_before": [
+        960,
+        747
+      ],
+      "dimensions_after": [
+        960,
+        747
+      ]
+    },
+    {
+      "id": "korb",
+      "before": 296962,
+      "after": 261491,
+      "dimensions_before": [
+        960,
+        719
+      ],
+      "dimensions_after": [
+        960,
+        719
+      ]
+    },
+    {
+      "id": "schnecke",
+      "before": 150201,
+      "after": 134073,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "biber",
+      "before": 187016,
+      "after": 167473,
+      "dimensions_before": [
+        714,
+        715
+      ],
+      "dimensions_after": [
+        714,
+        715
+      ]
+    },
+    {
+      "id": "cornflakes",
+      "before": 129884,
+      "after": 114037,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "tankstelle",
+      "before": 220551,
+      "after": 198006,
+      "dimensions_before": [
+        960,
+        675
+      ],
+      "dimensions_after": [
+        960,
+        675
+      ]
+    },
+    {
+      "id": "pferdewagen",
+      "before": 121795,
+      "after": 104950,
+      "dimensions_before": [
+        960,
+        561
+      ],
+      "dimensions_after": [
+        960,
+        561
+      ]
+    },
+    {
+      "id": "hamburger-rathaus",
+      "before": 212658,
+      "after": 186667,
+      "dimensions_before": [
+        960,
+        642
+      ],
+      "dimensions_after": [
+        960,
+        642
+      ]
+    },
+    {
+      "id": "spargel",
+      "before": 307095,
+      "after": 273489,
+      "dimensions_before": [
+        960,
+        680
+      ],
+      "dimensions_after": [
+        960,
+        680
+      ]
+    },
+    {
+      "id": "papagei",
+      "before": 111243,
+      "after": 97190,
+      "dimensions_before": [
+        960,
+        960
+      ],
+      "dimensions_after": [
+        960,
+        960
+      ]
+    },
+    {
+      "id": "zoo",
+      "before": 48480,
+      "after": 40885,
+      "dimensions_before": [
+        485,
+        258
+      ],
+      "dimensions_after": [
+        485,
+        258
+      ]
+    },
+    {
+      "id": "magnet",
+      "before": 149622,
+      "after": 131393,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "trompete",
+      "before": 47264,
+      "after": 40543,
+      "dimensions_before": [
+        960,
+        524
+      ],
+      "dimensions_after": [
+        960,
+        524
+      ]
+    },
+    {
+      "id": "bauernhof",
+      "before": 176076,
+      "after": 156919,
+      "dimensions_before": [
+        960,
+        660
+      ],
+      "dimensions_after": [
+        960,
+        660
+      ]
+    },
+    {
+      "id": "bier",
+      "before": 110273,
+      "after": 44316,
+      "dimensions_before": [
+        960,
+        1440
+      ],
+      "dimensions_after": [
+        640,
+        960
+      ]
+    },
+    {
+      "id": "hummel",
+      "before": 140276,
+      "after": 125656,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "gummistiefel",
+      "before": 270882,
+      "after": 238065,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "kanne",
+      "before": 297630,
+      "after": 137649,
+      "dimensions_before": [
+        960,
+        1240
+      ],
+      "dimensions_after": [
+        743,
+        960
+      ]
+    },
+    {
+      "id": "seeadler",
+      "before": 55972,
+      "after": 49477,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "schildkroete",
+      "before": 282318,
+      "after": 243505,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "taschenrechner",
+      "before": 145444,
+      "after": 78316,
+      "dimensions_before": [
+        960,
+        1174
+      ],
+      "dimensions_after": [
+        785,
+        960
+      ]
+    },
+    {
+      "id": "geige",
+      "before": 252655,
+      "after": 61212,
+      "dimensions_before": [
+        960,
+        2089
+      ],
+      "dimensions_after": [
+        441,
+        960
+      ]
+    },
+    {
+      "id": "fass",
+      "before": 236969,
+      "after": 212046,
+      "dimensions_before": [
+        960,
+        824
+      ],
+      "dimensions_after": [
+        960,
+        824
+      ]
+    },
+    {
+      "id": "regenbogen",
+      "before": 178366,
+      "after": 155869,
+      "dimensions_before": [
+        960,
+        504
+      ],
+      "dimensions_after": [
+        960,
+        504
+      ]
+    },
+    {
+      "id": "schulbus",
+      "before": 236347,
+      "after": 210082,
+      "dimensions_before": [
+        960,
+        734
+      ],
+      "dimensions_after": [
+        960,
+        734
+      ]
+    },
+    {
+      "id": "auster",
+      "before": 228120,
+      "after": 201148,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "seeigel",
+      "before": 370200,
+      "after": 185525,
+      "dimensions_before": [
+        960,
+        1281
+      ],
+      "dimensions_after": [
+        719,
+        960
+      ]
+    },
+    {
+      "id": "landkarte",
+      "before": 378144,
+      "after": 324051,
+      "dimensions_before": [
+        960,
+        690
+      ],
+      "dimensions_after": [
+        960,
+        690
+      ]
+    },
+    {
+      "id": "spaten",
+      "before": 280812,
+      "after": 94576,
+      "dimensions_before": [
+        811,
+        1666
+      ],
+      "dimensions_after": [
+        467,
+        960
+      ]
+    },
+    {
+      "id": "fussball",
+      "before": 154492,
+      "after": 138750,
+      "dimensions_before": [
+        960,
+        653
+      ],
+      "dimensions_after": [
+        960,
+        653
+      ]
+    },
+    {
+      "id": "synagoge",
+      "before": 423316,
+      "after": 281107,
+      "dimensions_before": [
+        960,
+        1062
+      ],
+      "dimensions_after": [
+        868,
+        960
+      ]
+    },
+    {
+      "id": "seil",
+      "before": 396615,
+      "after": 324839,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "ziegel",
+      "before": 234774,
+      "after": 206678,
+      "dimensions_before": [
+        960,
+        703
+      ],
+      "dimensions_after": [
+        960,
+        703
+      ]
+    },
+    {
+      "id": "moos",
+      "before": 629006,
+      "after": 329035,
+      "dimensions_before": [
+        960,
+        1188
+      ],
+      "dimensions_after": [
+        776,
+        960
+      ]
+    },
+    {
+      "id": "blumenkohl",
+      "before": 197923,
+      "after": 176615,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "leopard",
+      "before": 219694,
+      "after": 192638,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "tennisschlaeger",
+      "before": 247305,
+      "after": 220275,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "heuschrecke",
+      "before": 205922,
+      "after": 182106,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "schraubenschluessel",
+      "before": 62648,
+      "after": 54023,
+      "dimensions_before": [
+        960,
+        636
+      ],
+      "dimensions_after": [
+        960,
+        636
+      ]
+    },
+    {
+      "id": "reiher",
+      "before": 217429,
+      "after": 169746,
+      "dimensions_before": [
+        960,
+        980
+      ],
+      "dimensions_after": [
+        940,
+        960
+      ]
+    },
+    {
+      "id": "akkordeon",
+      "before": 124499,
+      "after": 106608,
+      "dimensions_before": [
+        960,
+        365
+      ],
+      "dimensions_after": [
+        960,
+        365
+      ]
+    },
+    {
+      "id": "parkbank",
+      "before": 265734,
+      "after": 229573,
+      "dimensions_before": [
+        960,
+        638
+      ],
+      "dimensions_after": [
+        960,
+        638
+      ]
+    },
+    {
+      "id": "kettensaege",
+      "before": 319229,
+      "after": 167111,
+      "dimensions_before": [
+        960,
+        1260
+      ],
+      "dimensions_after": [
+        731,
+        960
+      ]
+    },
+    {
+      "id": "flughafen",
+      "before": 52605,
+      "after": 44480,
+      "dimensions_before": [
+        480,
+        313
+      ],
+      "dimensions_after": [
+        480,
+        313
+      ]
+    },
+    {
+      "id": "turm",
+      "before": 173140,
+      "after": 155141,
+      "dimensions_before": [
+        960,
+        812
+      ],
+      "dimensions_after": [
+        960,
+        812
+      ]
+    },
+    {
+      "id": "decke",
+      "before": 194667,
+      "after": 164823,
+      "dimensions_before": [
+        960,
+        583
+      ],
+      "dimensions_after": [
+        960,
+        583
+      ]
+    },
+    {
+      "id": "walnuss",
+      "before": 106692,
+      "after": 87673,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "taj-mahal",
+      "before": 132881,
+      "after": 119479,
+      "dimensions_before": [
+        960,
+        631
+      ],
+      "dimensions_after": [
+        960,
+        631
+      ]
+    },
+    {
+      "id": "aubergine",
+      "before": 217440,
+      "after": 114059,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "panda",
+      "before": 146550,
+      "after": 131135,
+      "dimensions_before": [
+        960,
+        639
+      ],
+      "dimensions_after": [
+        960,
+        639
+      ]
+    },
+    {
+      "id": "stadt",
+      "before": 257420,
+      "after": 221822,
+      "dimensions_before": [
+        960,
+        539
+      ],
+      "dimensions_after": [
+        960,
+        539
+      ]
+    },
+    {
+      "id": "thermometer",
+      "before": 362369,
+      "after": 90891,
+      "dimensions_before": [
+        960,
+        1671
+      ],
+      "dimensions_after": [
+        552,
+        960
+      ]
+    },
+    {
+      "id": "koch",
+      "before": 28301,
+      "after": 24271,
+      "dimensions_before": [
+        480,
+        183
+      ],
+      "dimensions_after": [
+        480,
+        183
+      ]
+    },
+    {
+      "id": "anker",
+      "before": 244564,
+      "after": 213754,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "fahrkartenautomat",
+      "before": 299041,
+      "after": 135373,
+      "dimensions_before": [
+        960,
+        1283
+      ],
+      "dimensions_after": [
+        718,
+        960
+      ]
+    },
+    {
+      "id": "kuehlschrank",
+      "before": 145467,
+      "after": 79124,
+      "dimensions_before": [
+        960,
+        1274
+      ],
+      "dimensions_after": [
+        723,
+        960
+      ]
+    },
+    {
+      "id": "muecke",
+      "before": 164114,
+      "after": 147224,
+      "dimensions_before": [
+        960,
+        859
+      ],
+      "dimensions_after": [
+        960,
+        859
+      ]
+    },
+    {
+      "id": "ordner",
+      "before": 72518,
+      "after": 64186,
+      "dimensions_before": [
+        960,
+        537
+      ],
+      "dimensions_after": [
+        960,
+        537
+      ]
+    },
+    {
+      "id": "kaefer",
+      "before": 71663,
+      "after": 62921,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "palme",
+      "before": 361938,
+      "after": 141200,
+      "dimensions_before": [
+        960,
+        1440
+      ],
+      "dimensions_after": [
+        640,
+        960
+      ]
+    },
+    {
+      "id": "schwan",
+      "before": 161228,
+      "after": 144125,
+      "dimensions_before": [
+        960,
+        638
+      ],
+      "dimensions_after": [
+        960,
+        638
+      ]
+    },
+    {
+      "id": "bogen",
+      "before": 69178,
+      "after": 61756,
+      "dimensions_before": [
+        960,
+        366
+      ],
+      "dimensions_after": [
+        960,
+        366
+      ]
+    },
+    {
+      "id": "erdnuss",
+      "before": 87711,
+      "after": 78798,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "schlittschuh",
+      "before": 50322,
+      "after": 42439,
+      "dimensions_before": [
+        960,
+        432
+      ],
+      "dimensions_after": [
+        960,
+        432
+      ]
+    },
+    {
+      "id": "dattel",
+      "before": 115462,
+      "after": 94398,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "dorf",
+      "before": 182087,
+      "after": 160166,
+      "dimensions_before": [
+        960,
+        643
+      ],
+      "dimensions_after": [
+        960,
+        643
+      ]
+    },
+    {
+      "id": "rhabarber",
+      "before": 72614,
+      "after": 63145,
+      "dimensions_before": [
+        960,
+        554
+      ],
+      "dimensions_after": [
+        960,
+        554
+      ]
+    },
+    {
+      "id": "fleisch",
+      "before": 166331,
+      "after": 149029,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "adventskranz",
+      "before": 250500,
+      "after": 216661,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "tablette",
+      "before": 111670,
+      "after": 52846,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "gletscher",
+      "before": 176831,
+      "after": 155368,
+      "dimensions_before": [
+        960,
+        539
+      ],
+      "dimensions_after": [
+        960,
+        539
+      ]
+    },
+    {
+      "id": "reibe",
+      "before": 156010,
+      "after": 120641,
+      "dimensions_before": [
+        960,
+        998
+      ],
+      "dimensions_after": [
+        923,
+        960
+      ]
+    },
+    {
+      "id": "grapefruit",
+      "before": 100387,
+      "after": 87211,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "gleis",
+      "before": 216227,
+      "after": 190153,
+      "dimensions_before": [
+        960,
+        638
+      ],
+      "dimensions_after": [
+        960,
+        638
+      ]
+    },
+    {
+      "id": "erbse",
+      "before": 48645,
+      "after": 41390,
+      "dimensions_before": [
+        960,
+        486
+      ],
+      "dimensions_after": [
+        960,
+        486
+      ]
+    },
+    {
+      "id": "gepard",
+      "before": 190895,
+      "after": 167691,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "segelflugzeug",
+      "before": 108868,
+      "after": 97647,
+      "dimensions_before": [
+        960,
+        638
+      ],
+      "dimensions_after": [
+        960,
+        638
+      ]
+    },
+    {
+      "id": "melone",
+      "before": 201459,
+      "after": 180648,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "motorrad",
+      "before": 49199,
+      "after": 42425,
+      "dimensions_before": [
+        480,
+        319
+      ],
+      "dimensions_after": [
+        480,
+        319
+      ]
+    },
+    {
+      "id": "regal",
+      "before": 190690,
+      "after": 169841,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "henne",
+      "before": 133350,
+      "after": 119066,
+      "dimensions_before": [
+        960,
+        508
+      ],
+      "dimensions_after": [
+        960,
+        508
+      ]
+    },
+    {
+      "id": "regenschirm",
+      "before": 210866,
+      "after": 188237,
+      "dimensions_before": [
+        960,
+        773
+      ],
+      "dimensions_after": [
+        960,
+        773
+      ]
+    },
+    {
+      "id": "pflaume",
+      "before": 83428,
+      "after": 73321,
+      "dimensions_before": [
+        960,
+        501
+      ],
+      "dimensions_after": [
+        960,
+        501
+      ]
+    },
+    {
+      "id": "gewitter",
+      "before": 139822,
+      "after": 124270,
+      "dimensions_before": [
+        960,
+        535
+      ],
+      "dimensions_after": [
+        960,
+        535
+      ]
+    },
+    {
+      "id": "ferkel",
+      "before": 225107,
+      "after": 201196,
+      "dimensions_before": [
+        960,
+        904
+      ],
+      "dimensions_after": [
+        960,
+        904
+      ]
+    },
+    {
+      "id": "monitor",
+      "before": 73579,
+      "after": 65401,
+      "dimensions_before": [
+        960,
+        597
+      ],
+      "dimensions_after": [
+        960,
+        597
+      ]
+    },
+    {
+      "id": "bohrer",
+      "before": 192533,
+      "after": 171712,
+      "dimensions_before": [
+        960,
+        600
+      ],
+      "dimensions_after": [
+        960,
+        600
+      ]
+    },
+    {
+      "id": "ingenieur",
+      "before": 17277,
+      "after": 15081,
+      "dimensions_before": [
+        480,
+        122
+      ],
+      "dimensions_after": [
+        480,
+        122
+      ]
+    },
+    {
+      "id": "handschuh",
+      "before": 114946,
+      "after": 100726,
+      "dimensions_before": [
+        960,
+        960
+      ],
+      "dimensions_after": [
+        960,
+        960
+      ]
+    },
+    {
+      "id": "wassermelone",
+      "before": 81968,
+      "after": 63764,
+      "dimensions_before": [
+        540,
+        361
+      ],
+      "dimensions_after": [
+        540,
+        361
+      ]
+    },
+    {
+      "id": "rentier",
+      "before": 206331,
+      "after": 182248,
+      "dimensions_before": [
+        960,
+        638
+      ],
+      "dimensions_after": [
+        960,
+        638
+      ]
+    },
+    {
+      "id": "tal",
+      "before": 215326,
+      "after": 189611,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "kamin",
+      "before": 160541,
+      "after": 139870,
+      "dimensions_before": [
+        960,
+        638
+      ],
+      "dimensions_after": [
+        960,
+        638
+      ]
+    },
+    {
+      "id": "olive",
+      "before": 228749,
+      "after": 200114,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "gartenschlauch",
+      "before": 185907,
+      "after": 134435,
+      "dimensions_before": [
+        960,
+        1047
+      ],
+      "dimensions_after": [
+        880,
+        960
+      ]
+    },
+    {
+      "id": "radieschen",
+      "before": 352432,
+      "after": 180392,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "weinglas",
+      "before": 171046,
+      "after": 149639,
+      "dimensions_before": [
+        960,
+        639
+      ],
+      "dimensions_after": [
+        960,
+        639
+      ]
+    },
+    {
+      "id": "brokkoli",
+      "before": 136491,
+      "after": 115849,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "feige",
+      "before": 205382,
+      "after": 84862,
+      "dimensions_before": [
+        960,
+        1343
+      ],
+      "dimensions_after": [
+        686,
+        960
+      ]
+    },
+    {
+      "id": "avocado",
+      "before": 60120,
+      "after": 53166,
+      "dimensions_before": [
+        960,
+        405
+      ],
+      "dimensions_after": [
+        960,
+        405
+      ]
+    },
+    {
+      "id": "leuchtturm",
+      "before": 125994,
+      "after": 112972,
+      "dimensions_before": [
+        960,
+        521
+      ],
+      "dimensions_after": [
+        960,
+        521
+      ]
+    },
+    {
+      "id": "handtuch",
+      "before": 191679,
+      "after": 105183,
+      "dimensions_before": [
+        960,
+        1158
+      ],
+      "dimensions_after": [
+        796,
+        960
+      ]
+    },
+    {
+      "id": "schnitzel",
+      "before": 211788,
+      "after": 184827,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "weizenaehre",
+      "before": 198522,
+      "after": 176571,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "waschbaer",
+      "before": 288612,
+      "after": 259389,
+      "dimensions_before": [
+        960,
+        810
+      ],
+      "dimensions_after": [
+        960,
+        810
+      ]
+    },
+    {
+      "id": "lava",
+      "before": 175230,
+      "after": 157433,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "elch",
+      "before": 250333,
+      "after": 222672,
+      "dimensions_before": [
+        960,
+        804
+      ],
+      "dimensions_after": [
+        960,
+        804
+      ]
+    },
+    {
+      "id": "schimpanse",
+      "before": 211899,
+      "after": 186364,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "schachspiel",
+      "before": 140599,
+      "after": 125377,
+      "dimensions_before": [
+        960,
+        630
+      ],
+      "dimensions_after": [
+        960,
+        630
+      ]
+    },
+    {
+      "id": "maehdrescher",
+      "before": 239251,
+      "after": 209043,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "tiger",
+      "before": 284587,
+      "after": 248890,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "eidechse",
+      "before": 184185,
+      "after": 161647,
+      "dimensions_before": [
+        960,
+        471
+      ],
+      "dimensions_after": [
+        960,
+        471
+      ]
+    },
+    {
+      "id": "gans",
+      "before": 269968,
+      "after": 130876,
+      "dimensions_before": [
+        960,
+        1270
+      ],
+      "dimensions_after": [
+        726,
+        960
+      ]
+    },
+    {
+      "id": "flasche",
+      "before": 68498,
+      "after": 27969,
+      "dimensions_before": [
+        960,
+        1530
+      ],
+      "dimensions_after": [
+        602,
+        960
+      ]
+    },
+    {
+      "id": "klippe",
+      "before": 194643,
+      "after": 172829,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "fallschirm",
+      "before": 158688,
+      "after": 60629,
+      "dimensions_before": [
+        960,
+        1442
+      ],
+      "dimensions_after": [
+        639,
+        960
+      ]
+    },
+    {
+      "id": "ananas",
+      "before": 223581,
+      "after": 147953,
+      "dimensions_before": [
+        960,
+        1072
+      ],
+      "dimensions_after": [
+        860,
+        960
+      ]
+    },
+    {
+      "id": "roboter",
+      "before": 243549,
+      "after": 96271,
+      "dimensions_before": [
+        891,
+        1245
+      ],
+      "dimensions_after": [
+        687,
+        960
+      ]
+    },
+    {
+      "id": "verkehrsschild",
+      "before": 675141,
+      "after": 175612,
+      "dimensions_before": [
+        960,
+        1633
+      ],
+      "dimensions_after": [
+        564,
+        960
+      ]
+    },
+    {
+      "id": "kakao",
+      "before": 238762,
+      "after": 100387,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "tukan",
+      "before": 200283,
+      "after": 101817,
+      "dimensions_before": [
+        960,
+        1242
+      ],
+      "dimensions_after": [
+        742,
+        960
+      ]
+    },
+    {
+      "id": "burger",
+      "before": 190746,
+      "after": 169412,
+      "dimensions_before": [
+        960,
+        829
+      ],
+      "dimensions_after": [
+        960,
+        829
+      ]
+    },
+    {
+      "id": "schlange",
+      "before": 167736,
+      "after": 148789,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "blatt",
+      "before": 256375,
+      "after": 226908,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "wolf",
+      "before": 214392,
+      "after": 187119,
+      "dimensions_before": [
+        960,
+        642
+      ],
+      "dimensions_after": [
+        960,
+        642
+      ]
+    },
+    {
+      "id": "violine",
+      "before": 252655,
+      "after": 61212,
+      "dimensions_before": [
+        960,
+        2089
+      ],
+      "dimensions_after": [
+        441,
+        960
+      ]
+    },
+    {
+      "id": "kalb",
+      "before": 221358,
+      "after": 195403,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "saxofon",
+      "before": 492893,
+      "after": 30089,
+      "dimensions_before": [
+        960,
+        4516
+      ],
+      "dimensions_after": [
+        204,
+        960
+      ]
+    },
+    {
+      "id": "kompass",
+      "before": 120953,
+      "after": 106884,
+      "dimensions_before": [
+        960,
+        800
+      ],
+      "dimensions_after": [
+        960,
+        800
+      ]
+    },
+    {
+      "id": "wolle",
+      "before": 221695,
+      "after": 197981,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "oper",
+      "before": 122785,
+      "after": 107970,
+      "dimensions_before": [
+        960,
+        531
+      ],
+      "dimensions_after": [
+        960,
+        531
+      ]
+    },
+    {
+      "id": "nilpferd",
+      "before": 173095,
+      "after": 153079,
+      "dimensions_before": [
+        960,
+        585
+      ],
+      "dimensions_after": [
+        960,
+        585
+      ]
+    },
+    {
+      "id": "lauch",
+      "before": 83345,
+      "after": 37408,
+      "dimensions_before": [
+        960,
+        1408
+      ],
+      "dimensions_after": [
+        655,
+        960
+      ]
+    },
+    {
+      "id": "stadion",
+      "before": 286810,
+      "after": 250062,
+      "dimensions_before": [
+        960,
+        704
+      ],
+      "dimensions_after": [
+        960,
+        704
+      ]
+    },
+    {
+      "id": "skelett",
+      "before": 185508,
+      "after": 87367,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "salami",
+      "before": 155736,
+      "after": 133996,
+      "dimensions_before": [
+        960,
+        663
+      ],
+      "dimensions_after": [
+        960,
+        663
+      ]
+    },
+    {
+      "id": "laufschuhe",
+      "before": 263599,
+      "after": 227046,
+      "dimensions_before": [
+        960,
+        877
+      ],
+      "dimensions_after": [
+        960,
+        877
+      ]
+    },
+    {
+      "id": "turnschuh",
+      "before": 155739,
+      "after": 139055,
+      "dimensions_before": [
+        960,
+        643
+      ],
+      "dimensions_after": [
+        960,
+        643
+      ]
+    },
+    {
+      "id": "sonnenblume",
+      "before": 233059,
+      "after": 151359,
+      "dimensions_before": [
+        960,
+        1063
+      ],
+      "dimensions_after": [
+        867,
+        960
+      ]
+    },
+    {
+      "id": "mohn",
+      "before": 222034,
+      "after": 189067,
+      "dimensions_before": [
+        960,
+        540
+      ],
+      "dimensions_after": [
+        960,
+        540
+      ]
+    },
+    {
+      "id": "weihnachtsbaum",
+      "before": 409524,
+      "after": 198930,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "zahn",
+      "before": 21457,
+      "after": 18840,
+      "dimensions_before": [
+        480,
+        330
+      ],
+      "dimensions_after": [
+        480,
+        330
+      ]
+    },
+    {
+      "id": "halskette",
+      "before": 57193,
+      "after": 50074,
+      "dimensions_before": [
+        960,
+        540
+      ],
+      "dimensions_after": [
+        960,
+        540
+      ]
+    },
+    {
+      "id": "haselnuss",
+      "before": 186394,
+      "after": 166729,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "nest",
+      "before": 255788,
+      "after": 144262,
+      "dimensions_before": [
+        960,
+        1200
+      ],
+      "dimensions_after": [
+        768,
+        960
+      ]
+    },
+    {
+      "id": "big-ben",
+      "before": 105957,
+      "after": 92443,
+      "dimensions_before": [
+        960,
+        650
+      ],
+      "dimensions_after": [
+        960,
+        650
+      ]
+    },
+    {
+      "id": "sushi",
+      "before": 141046,
+      "after": 124598,
+      "dimensions_before": [
+        960,
+        643
+      ],
+      "dimensions_after": [
+        960,
+        643
+      ]
+    },
+    {
+      "id": "spaghetti",
+      "before": 401573,
+      "after": 162047,
+      "dimensions_before": [
+        960,
+        1464
+      ],
+      "dimensions_after": [
+        630,
+        960
+      ]
+    },
+    {
+      "id": "canyon",
+      "before": 184895,
+      "after": 163208,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "huegel",
+      "before": 228075,
+      "after": 196256,
+      "dimensions_before": [
+        960,
+        597
+      ],
+      "dimensions_after": [
+        960,
+        597
+      ]
+    },
+    {
+      "id": "auto",
+      "before": 146118,
+      "after": 130148,
+      "dimensions_before": [
+        960,
+        472
+      ],
+      "dimensions_after": [
+        960,
+        472
+      ]
+    },
+    {
+      "id": "eichhoernchen",
+      "before": 403491,
+      "after": 177843,
+      "dimensions_before": [
+        960,
+        1344
+      ],
+      "dimensions_after": [
+        686,
+        960
+      ]
+    },
+    {
+      "id": "schreibtisch",
+      "before": 219851,
+      "after": 108495,
+      "dimensions_before": [
+        960,
+        1200
+      ],
+      "dimensions_after": [
+        768,
+        960
+      ]
+    },
+    {
+      "id": "filzstift",
+      "before": 88627,
+      "after": 33237,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "hyaene",
+      "before": 164984,
+      "after": 145440,
+      "dimensions_before": [
+        960,
+        515
+      ],
+      "dimensions_after": [
+        960,
+        515
+      ]
+    },
+    {
+      "id": "cello",
+      "before": 393040,
+      "after": 145329,
+      "dimensions_before": [
+        960,
+        1440
+      ],
+      "dimensions_after": [
+        640,
+        960
+      ]
+    },
+    {
+      "id": "eule",
+      "before": 164694,
+      "after": 147278,
+      "dimensions_before": [
+        960,
+        677
+      ],
+      "dimensions_after": [
+        960,
+        677
+      ]
+    },
+    {
+      "id": "zollstock",
+      "before": 97186,
+      "after": 86544,
+      "dimensions_before": [
+        960,
+        320
+      ],
+      "dimensions_after": [
+        960,
+        320
+      ]
+    },
+    {
+      "id": "u-boot",
+      "before": 160582,
+      "after": 140343,
+      "dimensions_before": [
+        960,
+        639
+      ],
+      "dimensions_after": [
+        960,
+        639
+      ]
+    },
+    {
+      "id": "rohrzange",
+      "before": 247096,
+      "after": 217567,
+      "dimensions_before": [
+        960,
+        612
+      ],
+      "dimensions_after": [
+        960,
+        612
+      ]
+    },
+    {
+      "id": "kette",
+      "before": 57193,
+      "after": 50074,
+      "dimensions_before": [
+        960,
+        540
+      ],
+      "dimensions_after": [
+        960,
+        540
+      ]
+    },
+    {
+      "id": "rad",
+      "before": 180146,
+      "after": 160426,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "kiwi",
+      "before": 96578,
+      "after": 78342,
+      "dimensions_before": [
+        960,
+        768
+      ],
+      "dimensions_after": [
+        960,
+        768
+      ]
+    },
+    {
+      "id": "waschmaschine",
+      "before": 206920,
+      "after": 85629,
+      "dimensions_before": [
+        960,
+        1440
+      ],
+      "dimensions_after": [
+        640,
+        960
+      ]
+    },
+    {
+      "id": "fahrradhelm",
+      "before": 229952,
+      "after": 125195,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "laptop",
+      "before": 156297,
+      "after": 138767,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "schlafsack",
+      "before": 203129,
+      "after": 182653,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "lamm",
+      "before": 322723,
+      "after": 279523,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "bagger",
+      "before": 128329,
+      "after": 111483,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "mandarine",
+      "before": 99020,
+      "after": 83628,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "muenze",
+      "before": 152293,
+      "after": 131409,
+      "dimensions_before": [
+        960,
+        501
+      ],
+      "dimensions_after": [
+        960,
+        501
+      ]
+    },
+    {
+      "id": "luchs",
+      "before": 189317,
+      "after": 168986,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "strauss",
+      "before": 240576,
+      "after": 210941,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "igel",
+      "before": 151073,
+      "after": 135595,
+      "dimensions_before": [
+        960,
+        638
+      ],
+      "dimensions_after": [
+        960,
+        638
+      ]
+    },
+    {
+      "id": "hase",
+      "before": 162000,
+      "after": 144799,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "skateboard",
+      "before": 96274,
+      "after": 85499,
+      "dimensions_before": [
+        672,
+        866
+      ],
+      "dimensions_after": [
+        672,
+        866
+      ]
+    },
+    {
+      "id": "oktopus",
+      "before": 311490,
+      "after": 279499,
+      "dimensions_before": [
+        960,
+        960
+      ],
+      "dimensions_after": [
+        960,
+        960
+      ]
+    },
+    {
+      "id": "marienkaefer",
+      "before": 156597,
+      "after": 115035,
+      "dimensions_before": [
+        960,
+        788
+      ],
+      "dimensions_after": [
+        960,
+        788
+      ]
+    },
+    {
+      "id": "glas",
+      "before": 52982,
+      "after": 26160,
+      "dimensions_before": [
+        960,
+        1399
+      ],
+      "dimensions_after": [
+        659,
+        960
+      ]
+    },
+    {
+      "id": "kirsche",
+      "before": 57064,
+      "after": 49511,
+      "dimensions_before": [
+        960,
+        960
+      ],
+      "dimensions_after": [
+        960,
+        960
+      ]
+    },
+    {
+      "id": "currywurst",
+      "before": 172336,
+      "after": 154065,
+      "dimensions_before": [
+        960,
+        680
+      ],
+      "dimensions_after": [
+        960,
+        680
+      ]
+    },
+    {
+      "id": "brandenburger-tor",
+      "before": 169390,
+      "after": 147912,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "ameise",
+      "before": 183371,
+      "after": 160253,
+      "dimensions_before": [
+        960,
+        627
+      ],
+      "dimensions_after": [
+        960,
+        627
+      ]
+    },
+    {
+      "id": "rasenmaeher",
+      "before": 337608,
+      "after": 294916,
+      "dimensions_before": [
+        960,
+        781
+      ],
+      "dimensions_after": [
+        960,
+        781
+      ]
+    },
+    {
+      "id": "lasagne",
+      "before": 107170,
+      "after": 86106,
+      "dimensions_before": [
+        960,
+        984
+      ],
+      "dimensions_after": [
+        937,
+        960
+      ]
+    },
+    {
+      "id": "nebel",
+      "before": 90945,
+      "after": 79494,
+      "dimensions_before": [
+        960,
+        439
+      ],
+      "dimensions_after": [
+        960,
+        439
+      ]
+    },
+    {
+      "id": "moped",
+      "before": 385582,
+      "after": 325623,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "kran",
+      "before": 171186,
+      "after": 153343,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "feuerwerk",
+      "before": 173369,
+      "after": 146756,
+      "dimensions_before": [
+        960,
+        540
+      ],
+      "dimensions_after": [
+        960,
+        540
+      ]
+    },
+    {
+      "id": "bach",
+      "before": 341804,
+      "after": 287834,
+      "dimensions_before": [
+        960,
+        574
+      ],
+      "dimensions_after": [
+        960,
+        574
+      ]
+    },
+    {
+      "id": "milchstrasse",
+      "before": 541274,
+      "after": 170497,
+      "dimensions_before": [
+        960,
+        1440
+      ],
+      "dimensions_after": [
+        640,
+        960
+      ]
+    },
+    {
+      "id": "eierbecher",
+      "before": 168255,
+      "after": 65999,
+      "dimensions_before": [
+        960,
+        1445
+      ],
+      "dimensions_after": [
+        638,
+        960
+      ]
+    },
+    {
+      "id": "rechen",
+      "before": 262773,
+      "after": 83261,
+      "dimensions_before": [
+        960,
+        1442
+      ],
+      "dimensions_after": [
+        639,
+        960
+      ]
+    },
+    {
+      "id": "falafel",
+      "before": 277996,
+      "after": 241949,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "hoehle",
+      "before": 166965,
+      "after": 148902,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "besen",
+      "before": 307099,
+      "after": 107386,
+      "dimensions_before": [
+        960,
+        1440
+      ],
+      "dimensions_after": [
+        640,
+        960
+      ]
+    },
+    {
+      "id": "roller",
+      "before": 273429,
+      "after": 240025,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "cappuccino",
+      "before": 227334,
+      "after": 110181,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "orgel",
+      "before": 451788,
+      "after": 179223,
+      "dimensions_before": [
+        960,
+        1440
+      ],
+      "dimensions_after": [
+        640,
+        960
+      ]
+    },
+    {
+      "id": "klarinette",
+      "before": 139603,
+      "after": 88404,
+      "dimensions_before": [
+        960,
+        1123
+      ],
+      "dimensions_after": [
+        821,
+        960
+      ]
+    },
+    {
+      "id": "pokal",
+      "before": 316703,
+      "after": 143262,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "kleid",
+      "before": 50193,
+      "after": 41977,
+      "dimensions_before": [
+        320,
+        365
+      ],
+      "dimensions_after": [
+        320,
+        365
+      ]
+    },
+    {
+      "id": "lichtschalter",
+      "before": 240163,
+      "after": 113989,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "sonnenbrille",
+      "before": 154098,
+      "after": 138412,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "kaviar",
+      "before": 106836,
+      "after": 93359,
+      "dimensions_before": [
+        960,
+        960
+      ],
+      "dimensions_after": [
+        960,
+        960
+      ]
+    },
+    {
+      "id": "fernbedienung",
+      "before": 1269833,
+      "after": 39503,
+      "dimensions_before": [
+        856,
+        3300
+      ],
+      "dimensions_after": [
+        249,
+        960
+      ]
+    },
+    {
+      "id": "strauch",
+      "before": 386212,
+      "after": 335656,
+      "dimensions_before": [
+        960,
+        894
+      ],
+      "dimensions_after": [
+        960,
+        894
+      ]
+    },
+    {
+      "id": "tomate",
+      "before": 56387,
+      "after": 44348,
+      "dimensions_before": [
+        343,
+        480
+      ],
+      "dimensions_after": [
+        343,
+        480
+      ]
+    },
+    {
+      "id": "baecker",
+      "before": 32895,
+      "after": 28127,
+      "dimensions_before": [
+        480,
+        199
+      ],
+      "dimensions_after": [
+        480,
+        199
+      ]
+    },
+    {
+      "id": "zirkel",
+      "before": 59255,
+      "after": 52504,
+      "dimensions_before": [
+        960,
+        960
+      ],
+      "dimensions_after": [
+        960,
+        960
+      ]
+    },
+    {
+      "id": "see",
+      "before": 180034,
+      "after": 158452,
+      "dimensions_before": [
+        960,
+        628
+      ],
+      "dimensions_after": [
+        960,
+        628
+      ]
+    },
+    {
+      "id": "kolibri",
+      "before": 77001,
+      "after": 69069,
+      "dimensions_before": [
+        960,
+        665
+      ],
+      "dimensions_after": [
+        960,
+        665
+      ]
+    },
+    {
+      "id": "birke",
+      "before": 194676,
+      "after": 172445,
+      "dimensions_before": [
+        960,
+        540
+      ],
+      "dimensions_after": [
+        960,
+        540
+      ]
+    },
+    {
+      "id": "chinesische-mauer",
+      "before": 278594,
+      "after": 242261,
+      "dimensions_before": [
+        960,
+        615
+      ],
+      "dimensions_after": [
+        960,
+        615
+      ]
+    },
+    {
+      "id": "rutsche",
+      "before": 165182,
+      "after": 146714,
+      "dimensions_before": [
+        960,
+        636
+      ],
+      "dimensions_after": [
+        960,
+        636
+      ]
+    },
+    {
+      "id": "broetchen",
+      "before": 245840,
+      "after": 218197,
+      "dimensions_before": [
+        960,
+        960
+      ],
+      "dimensions_after": [
+        960,
+        960
+      ]
+    },
+    {
+      "id": "heft",
+      "before": 141692,
+      "after": 127151,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "mandel",
+      "before": 124669,
+      "after": 100956,
+      "dimensions_before": [
+        960,
+        640
+      ],
+      "dimensions_after": [
+        960,
+        640
+      ]
+    },
+    {
+      "id": "kommode",
+      "before": 187515,
+      "after": 163857,
+      "dimensions_before": [
+        960,
+        898
+      ],
+      "dimensions_after": [
+        960,
+        898
+      ]
+    },
+    {
+      "id": "truthahn",
+      "before": 250807,
+      "after": 223021,
+      "dimensions_before": [
+        960,
+        960
+      ],
+      "dimensions_after": [
+        960,
+        960
+      ]
+    },
+    {
+      "id": "feuerwehrmann",
+      "before": 176774,
+      "after": 155425,
+      "dimensions_before": [
+        960,
+        670
+      ],
+      "dimensions_after": [
+        960,
+        670
+      ]
+    },
+    {
+      "id": "gorilla",
+      "before": 381939,
+      "after": 335887,
+      "dimensions_before": [
+        960,
+        960
+      ],
+      "dimensions_after": [
+        960,
+        960
+      ]
+    },
+    {
+      "id": "nashorn",
+      "before": 318105,
+      "after": 277712,
+      "dimensions_before": [
+        960,
+        738
+      ],
+      "dimensions_after": [
+        960,
+        738
+      ]
+    },
+    {
+      "id": "schraubstock",
+      "before": 142969,
+      "after": 128545,
+      "dimensions_before": [
+        960,
+        676
+      ],
+      "dimensions_after": [
+        960,
+        676
+      ]
+    },
+    {
+      "id": "sphinx",
+      "before": 250629,
+      "after": 113032,
+      "dimensions_before": [
+        960,
+        1280
+      ],
+      "dimensions_after": [
+        720,
+        960
+      ]
+    },
+    {
+      "id": "koffer",
+      "before": 201982,
+      "after": 179621,
+      "dimensions_before": [
+        960,
+        720
+      ],
+      "dimensions_after": [
+        960,
+        720
+      ]
+    },
+    {
+      "id": "faden",
+      "before": 131260,
+      "after": 114143,
+      "dimensions_before": [
+        960,
+        658
+      ],
+      "dimensions_after": [
+        960,
+        658
+      ]
+    },
+    {
+      "id": "waage",
+      "before": 248485,
+      "after": 103029,
+      "dimensions_before": [
+        960,
+        1440
+      ],
+      "dimensions_after": [
+        640,
+        960
+      ]
+    }
+  ]
+}

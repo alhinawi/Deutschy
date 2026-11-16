@@ -1,0 +1,35 @@
+'use client';
+import { useMemo, useState } from 'react';
+import { words } from '@/lib/data';
+import { useT } from '@/lib/i18n';
+const PAGE_SIZE = 40;
+export default function CreditsBrowser() {
+  const t = useT();
+  const [query, setQuery] = useState('');
+  const [page, setPage] = useState(0);
+  const filtered = useMemo(() => words.filter(w => `${w.de} ${w.ar} ${w.photo.file} ${w.photo.author}`.toLocaleLowerCase().includes(query.trim().toLocaleLowerCase())), [query]);
+  const pages = Math.max(1, Math.ceil(filtered.length / PAGE_SIZE));
+  const current = Math.min(page, pages - 1);
+  return <section className="space-y-4">
+    <label htmlFor="credit-search" className="block">{t('دوّر باسم الكلمة أو المصوّر أو الملف', 'Search by word, photographer or file')}</label>
+    <input id="credit-search" value={query} onChange={e => { setQuery(e.target.value); setPage(0); }} className="w-full rounded-xl border border-line bg-card p-3" />
+    <p className="num text-sm text-muted" role="status">{t(`النتائج: ${filtered.length} · الصفحة ${current + 1} من ${pages}`, `Results: ${filtered.length} · Page ${current + 1} of ${pages}`)}</p>
+    <div className="overflow-x-auto rounded-2xl border border-line bg-card" tabIndex={0} role="region" aria-label={t('جدول حقوق الصور، يتحرك بالعرض', 'Photo credits table, scroll horizontally')}>
+      <table className="w-full text-start text-sm" dir="ltr">
+        <caption className="p-3 text-left text-muted">{t('حقوق الصور وروابط الملفات الأصلية', 'Photo credits and original source links')}</caption>
+        <thead><tr className="border-b border-line text-left text-muted">{['Word', 'File', 'Author', 'License'].map(h => <th scope="col" key={h} className="p-3">{h}</th>)}</tr></thead>
+        <tbody>{filtered.slice(current * PAGE_SIZE, (current + 1) * PAGE_SIZE).map(w => <tr key={w.id} className="border-b border-line last:border-0">
+          <th scope="row" className="p-3 de text-left font-normal">{w.art} {w.de}</th>
+          <td className="p-3"><a className="underline" href={w.photo.commons} target="_blank" rel="noreferrer">{w.photo.file}</a></td>
+          <td className="p-3">{w.photo.author || '-'}</td>
+          <td className="p-3">{w.photo.license}{'modified' in w.photo && <span className="block text-xs text-muted">Cropped; original linked.</span>}</td>
+        </tr>)}</tbody>
+      </table>
+    </div>
+    {filtered.length === 0 && <p>{t('مفيش نتائج. جرّب كلمة أقصر أو امسح البحث.', 'No results. Try a shorter term or clear the search.')}</p>}
+    <div className="flex flex-wrap gap-3">
+      <button disabled={current === 0} onClick={() => setPage(current - 1)} className="rounded-full border border-line px-5 py-3 disabled:opacity-50">{t('الصفحة اللي قبلها', 'Previous page')}</button>
+      <button disabled={current >= pages - 1} onClick={() => setPage(current + 1)} className="rounded-full border border-line px-5 py-3 disabled:opacity-50">{t('الصفحة اللي بعدها', 'Next page')}</button>
+    </div>
+  </section>;
+}
