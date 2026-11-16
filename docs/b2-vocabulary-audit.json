@@ -1,0 +1,575 @@
+{
+  "checked": "2026-11-16",
+  "method": "Live Wiktionary German noun overviews, including numbered gender fields for Globus and Laptop. All photos visually inspected. Existing nouns reused as B2 discussion anchors, not an official level list.",
+  "entries": [
+    {
+      "id": "windrad",
+      "word": "Windrad",
+      "article": "das",
+      "plural": "Windräder",
+      "wiktionary_genders": [
+        "n"
+      ],
+      "wiktionary_plurals": [
+        "Windräder"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Windrad"
+    },
+    {
+      "id": "steckdose",
+      "word": "Steckdose",
+      "article": "die",
+      "plural": "Steckdosen",
+      "wiktionary_genders": [
+        "f"
+      ],
+      "wiktionary_plurals": [
+        "Steckdosen"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Steckdose"
+    },
+    {
+      "id": "kabel",
+      "word": "Kabel",
+      "article": "das",
+      "plural": "Kabel",
+      "wiktionary_genders": [
+        "n"
+      ],
+      "wiktionary_plurals": [
+        "Kabel"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Kabel"
+    },
+    {
+      "id": "lichtschalter",
+      "word": "Lichtschalter",
+      "article": "der",
+      "plural": "Lichtschalter",
+      "wiktionary_genders": [
+        "m"
+      ],
+      "wiktionary_plurals": [
+        "Lichtschalter"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Lichtschalter"
+    },
+    {
+      "id": "wasserhahn",
+      "word": "Wasserhahn",
+      "article": "der",
+      "plural": "Wasserhähne",
+      "wiktionary_genders": [
+        "m"
+      ],
+      "wiktionary_plurals": [
+        "Wasserhähne"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Wasserhahn"
+    },
+    {
+      "id": "mikroskop",
+      "word": "Mikroskop",
+      "article": "das",
+      "plural": "Mikroskope",
+      "wiktionary_genders": [
+        "n"
+      ],
+      "wiktionary_plurals": [
+        "Mikroskope"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Mikroskop"
+    },
+    {
+      "id": "laptop",
+      "word": "Laptop",
+      "article": "der",
+      "plural": "Laptops",
+      "wiktionary_genders": [
+        "m",
+        "n"
+      ],
+      "wiktionary_plurals": [
+        "Laptops"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Laptop"
+    },
+    {
+      "id": "beamer",
+      "word": "Beamer",
+      "article": "der",
+      "plural": "Beamer",
+      "wiktionary_genders": [
+        "m"
+      ],
+      "wiktionary_plurals": [
+        "Beamer"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Beamer"
+    },
+    {
+      "id": "globus",
+      "word": "Globus",
+      "article": "der",
+      "plural": "Globen",
+      "wiktionary_genders": [
+        "m"
+      ],
+      "wiktionary_plurals": [
+        "Globen",
+        "Globusse"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Globus"
+    },
+    {
+      "id": "buch",
+      "word": "Buch",
+      "article": "das",
+      "plural": "Bücher",
+      "wiktionary_genders": [
+        "n"
+      ],
+      "wiktionary_plurals": [
+        "Bücher"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Buch"
+    },
+    {
+      "id": "schraubstock",
+      "word": "Schraubstock",
+      "article": "der",
+      "plural": "Schraubstöcke",
+      "wiktionary_genders": [
+        "m"
+      ],
+      "wiktionary_plurals": [
+        "Schraubstöcke"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Schraubstock"
+    },
+    {
+      "id": "schraube",
+      "word": "Schraube",
+      "article": "die",
+      "plural": "Schrauben",
+      "wiktionary_genders": [
+        "f"
+      ],
+      "wiktionary_plurals": [
+        "Schrauben"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Schraube"
+    },
+    {
+      "id": "massband",
+      "word": "Maßband",
+      "article": "das",
+      "plural": "Maßbänder",
+      "wiktionary_genders": [
+        "n"
+      ],
+      "wiktionary_plurals": [
+        "Maßbänder"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Ma%C3%9Fband"
+    },
+    {
+      "id": "akkuschrauber",
+      "word": "Akkuschrauber",
+      "article": "der",
+      "plural": "Akkuschrauber",
+      "wiktionary_genders": [
+        "m"
+      ],
+      "wiktionary_plurals": [
+        "Akkuschrauber"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Akkuschrauber"
+    },
+    {
+      "id": "naehmaschine",
+      "word": "Nähmaschine",
+      "article": "die",
+      "plural": "Nähmaschinen",
+      "wiktionary_genders": [
+        "f"
+      ],
+      "wiktionary_plurals": [
+        "Nähmaschinen"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/N%C3%A4hmaschine"
+    },
+    {
+      "id": "hochhaus",
+      "word": "Hochhaus",
+      "article": "das",
+      "plural": "Hochhäuser",
+      "wiktionary_genders": [
+        "n"
+      ],
+      "wiktionary_plurals": [
+        "Hochhäuser"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Hochhaus"
+    },
+    {
+      "id": "bruecke",
+      "word": "Brücke",
+      "article": "die",
+      "plural": "Brücken",
+      "wiktionary_genders": [
+        "f"
+      ],
+      "wiktionary_plurals": [
+        "Brücken"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Br%C3%BCcke"
+    },
+    {
+      "id": "parkbank",
+      "word": "Parkbank",
+      "article": "die",
+      "plural": "Parkbänke",
+      "wiktionary_genders": [
+        "f"
+      ],
+      "wiktionary_plurals": [
+        "Parkbänke"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Parkbank"
+    },
+    {
+      "id": "rutsche",
+      "word": "Rutsche",
+      "article": "die",
+      "plural": "Rutschen",
+      "wiktionary_genders": [
+        "f"
+      ],
+      "wiktionary_plurals": [
+        "Rutschen"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Rutsche"
+    },
+    {
+      "id": "fahrradweg",
+      "word": "Fahrradweg",
+      "article": "der",
+      "plural": "Fahrradwege",
+      "wiktionary_genders": [
+        "m"
+      ],
+      "wiktionary_plurals": [
+        "Fahrradwege"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Fahrradweg"
+    },
+    {
+      "id": "kamera",
+      "word": "Kamera",
+      "article": "die",
+      "plural": "Kameras",
+      "wiktionary_genders": [
+        "f"
+      ],
+      "wiktionary_plurals": [
+        "Kameras"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Kamera"
+    },
+    {
+      "id": "mikrofon",
+      "word": "Mikrofon",
+      "article": "das",
+      "plural": "Mikrofone",
+      "wiktionary_genders": [
+        "n"
+      ],
+      "wiktionary_plurals": [
+        "Mikrofone"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Mikrofon"
+    },
+    {
+      "id": "zeitung",
+      "word": "Zeitung",
+      "article": "die",
+      "plural": "Zeitungen",
+      "wiktionary_genders": [
+        "f"
+      ],
+      "wiktionary_plurals": [
+        "Zeitungen"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Zeitung"
+    },
+    {
+      "id": "fernseher",
+      "word": "Fernseher",
+      "article": "der",
+      "plural": "Fernseher",
+      "wiktionary_genders": [
+        "m"
+      ],
+      "wiktionary_plurals": [
+        "Fernseher"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Fernseher"
+    },
+    {
+      "id": "tablet",
+      "word": "Tablet",
+      "article": "das",
+      "plural": "Tablets",
+      "wiktionary_genders": [
+        "n"
+      ],
+      "wiktionary_plurals": [
+        "Tablets"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Tablet"
+    },
+    {
+      "id": "buehne",
+      "word": "Bühne",
+      "article": "die",
+      "plural": "Bühnen",
+      "wiktionary_genders": [
+        "f"
+      ],
+      "wiktionary_plurals": [
+        "Bühnen"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/B%C3%BChne"
+    },
+    {
+      "id": "notenblatt",
+      "word": "Notenblatt",
+      "article": "das",
+      "plural": "Notenblätter",
+      "wiktionary_genders": [
+        "n"
+      ],
+      "wiktionary_plurals": [
+        "Notenblätter"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Notenblatt"
+    },
+    {
+      "id": "schallplatte",
+      "word": "Schallplatte",
+      "article": "die",
+      "plural": "Schallplatten",
+      "wiktionary_genders": [
+        "f"
+      ],
+      "wiktionary_plurals": [
+        "Schallplatten"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Schallplatte"
+    },
+    {
+      "id": "cello",
+      "word": "Cello",
+      "article": "das",
+      "plural": "Celli",
+      "wiktionary_genders": [
+        "n"
+      ],
+      "wiktionary_plurals": [
+        "Celli"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Cello"
+    },
+    {
+      "id": "museum",
+      "word": "Museum",
+      "article": "das",
+      "plural": "Museen",
+      "wiktionary_genders": [
+        "n"
+      ],
+      "wiktionary_plurals": [
+        "Museen"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Museum"
+    },
+    {
+      "id": "glas",
+      "word": "Glas",
+      "article": "das",
+      "plural": "Gläser",
+      "wiktionary_genders": [
+        "n",
+        "n"
+      ],
+      "wiktionary_plurals": [
+        "Gläser",
+        "Glasen"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Glas"
+    },
+    {
+      "id": "flasche",
+      "word": "Flasche",
+      "article": "die",
+      "plural": "Flaschen",
+      "wiktionary_genders": [
+        "f"
+      ],
+      "wiktionary_plurals": [
+        "Flaschen"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Flasche"
+    },
+    {
+      "id": "korb",
+      "word": "Korb",
+      "article": "der",
+      "plural": "Körbe",
+      "wiktionary_genders": [
+        "m"
+      ],
+      "wiktionary_plurals": [
+        "Körbe"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Korb"
+    },
+    {
+      "id": "faden",
+      "word": "Faden",
+      "article": "der",
+      "plural": "Fäden",
+      "wiktionary_genders": [
+        "m"
+      ],
+      "wiktionary_plurals": [
+        "Fäden",
+        "Faden"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Faden"
+    },
+    {
+      "id": "fahrrad",
+      "word": "Fahrrad",
+      "article": "das",
+      "plural": "Fahrräder",
+      "wiktionary_genders": [
+        "n"
+      ],
+      "wiktionary_plurals": [
+        "Fahrräder"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Fahrrad"
+    },
+    {
+      "id": "wald",
+      "word": "Wald",
+      "article": "der",
+      "plural": "Wälder",
+      "wiktionary_genders": [
+        "m"
+      ],
+      "wiktionary_plurals": [
+        "Wälder"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Wald"
+    },
+    {
+      "id": "fluss",
+      "word": "Fluss",
+      "article": "der",
+      "plural": "Flüsse",
+      "wiktionary_genders": [
+        "m"
+      ],
+      "wiktionary_plurals": [
+        "Flüsse"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Fluss"
+    },
+    {
+      "id": "feld",
+      "word": "Feld",
+      "article": "das",
+      "plural": "Felder",
+      "wiktionary_genders": [
+        "n",
+        "n"
+      ],
+      "wiktionary_plurals": [
+        "Felder",
+        "Felde",
+        "Felden",
+        "Felder"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Feld"
+    },
+    {
+      "id": "gletscher",
+      "word": "Gletscher",
+      "article": "der",
+      "plural": "Gletscher",
+      "wiktionary_genders": [
+        "m"
+      ],
+      "wiktionary_plurals": [
+        "Gletscher"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Gletscher"
+    },
+    {
+      "id": "schiff",
+      "word": "Schiff",
+      "article": "das",
+      "plural": "Schiffe",
+      "wiktionary_genders": [
+        "n"
+      ],
+      "wiktionary_plurals": [
+        "Schiffe"
+      ],
+      "matched": true,
+      "url": "https://de.wiktionary.org/wiki/Schiff"
+    }
+  ]
+}
