@@ -184,3 +184,6 @@ console.log('PASS: modal meanings and guided form practice are searchable');
 const reviewCleaner=lib('answer-review').cleanReview;assert.deepEqual(JSON.parse(JSON.stringify(reviewCleaner({cards:{a:{b:2,due:10}},saved:['a','a']}))),{cards:{a:{b:2,due:10}},saved:['a']});
 for(const raw of [null,[],{cards:{a:null}},{cards:{a:{b:99,due:1}}},{cards:[]},{saved:'word'}])assert.equal(reviewCleaner(raw).unreadable,true);
 console.log('PASS: review shape validation preserves good cards, deduplicates words and marks corrupt schedules');
+const {validateProgress}=lib('progress-validation');const blankProgress={xp:0,streak:0,best:0,lastDay:'',name:'',seen:{},scores:[],theme:'papier',daily:{},goal:50,srs:{},challenge:{},exams:{}};
+let safeProgress=validateProgress({xp:25,name:'Test',seen:{a:{ok:2,bad:1}},srs:{a:{b:2,due:4}}},blankProgress);assert.equal(safeProgress.invalid,false);assert.equal(safeProgress.state.seen.a.ok,2);for(const raw of [null,[],{seen:null},{scores:'bad'},{srs:[]},{xp:-1},{seen:{a:{ok:'2',bad:1}}}])assert.equal(validateProgress(raw,blankProgress).invalid,true);
+console.log('PASS: progress validation preserves valid history and flags malformed shapes without writes');
