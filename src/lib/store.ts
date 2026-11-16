@@ -5,10 +5,10 @@ export type Score = { game: string; score: number; at: number; name: string };
 export type State = {
   xp: number; streak: number; best: number; lastDay: string; name: string;
   seen: Record<string, { ok: number; bad: number }>; scores: Score[]; theme: string;
-  daily: Record<string, number>; goal: number; srs: Record<string, { b: number; due: number }>;
+  daily: Record<string, number>; goal: number; srs: Record<string, { b: number; due: number }>; challenge: Record<string, number>;
 };
 const KEY = 'deutschy:v1';
-const empty: State = { xp: 0, streak: 0, best: 0, lastDay: '', name: '', seen: {}, scores: [], theme: 'papier', daily: {}, goal: 50, srs: {} };
+const empty: State = { xp: 0, streak: 0, best: 0, lastDay: '', name: '', seen: {}, scores: [], theme: 'papier', daily: {}, goal: 50, srs: {}, challenge: {} };
 const day = (d = new Date()) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
 
 export const load = (): State => {
