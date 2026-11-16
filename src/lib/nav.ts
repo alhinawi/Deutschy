@@ -28,7 +28,7 @@ export const sidebar: NavGroup[] = [
     { href: '/grammar/', ar: 'أكاديمية القواعد', en: 'Grammar academy' },
     { href: '/verbs/', ar: 'الأفعال والتصريف', en: 'Verbs' },
     { href: '/exam/', ar: 'امتحان المستوى', en: 'Level exam' },
-    { href: '/level-check/', ar: 'مراجعة مختلطة A1-C1', en: 'Mixed level check A1-C1' },
+    { href: '/level-check/', ar: 'مراجعة مختلطة A1-C2', en: 'Mixed level check A1-C2' },
     { href: '/praesens/', ar: 'تصريف الأفعال الأساسية', en: 'Core verbs (Präsens)' },
     { href: '/verbs/trainer/', ar: 'تدريب التصريف', en: 'Conjugation trainer' },
     { href: '/trennbare-verben/', ar: 'الأفعال المنفصلة', en: 'Separable verbs' },
