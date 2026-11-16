@@ -1,4 +1,5 @@
 'use client';
+import PoliteTransform from './PoliteTransform';
 import { useState } from 'react';
 import { useT } from '@/lib/i18n';
 import Mixed from './Mixed';
@@ -19,6 +20,7 @@ export default function B1View() {
     <p className="num text-sm font-bold text-accent">{t('أسئلة جاوبتها صح على الجهاز ده: ', 'Questions answered correctly on this device: ')}<bdi dir="ltr">{ready ? complete : 0} / 32</bdi></p>
     <div className="flex flex-wrap gap-2">{b1Grammar.map((x, i) => <button key={x.id} aria-pressed={id === i} onClick={() => setId(i)} className={`rounded-full border px-4 py-2 ${id === i ? 'bg-accent text-accent-ink border-accent' : 'border-line'}`}>{x.name}</button>)}</div>
     <section className="space-y-3 rounded-2xl border border-line bg-card p-5"><h2 dir="ltr" className="de text-2xl font-bold">{s.name}</h2><p className="ar-title text-lg"><Mixed text={t(s.ar, s.en)} /></p><p dir="ltr" lang="de" className="de text-lg">{s.rows[0][0].replace('___', s.rows[0][1])}</p></section>
+    {s.id === "konjunktiv" && <PoliteTransform/>}
     <MiniQuiz key={s.id} game={`b1-${s.id}`} size={8} make={() => sample(s.rows, 8).map(([prompt, ...options]) => ({ prompt, options, key: `b1:${s.id}:${prompt}`, hear: prompt.replace('___', options[0]), note: [s.ar, s.en] }))} />
   </div>;
 }
