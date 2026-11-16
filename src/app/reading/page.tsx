@@ -7,7 +7,7 @@ export default function Reading() {
   return (
     <div className="space-y-6">
       <h1 className="ar-title text-4xl font-bold"><T ar="القراءة" en="Reading" /></h1>
-      <p className="text-muted"><T ar="نصوص قصيرة من A1 لـ B1 وأسئلة بعد كل نص. اضغط على الترجمة بس لما تحتاجها." en="Short texts from A1 to B1 with questions after each one. Open the translation only when you need it." /></p>
+      <p className="text-muted"><T ar="نصوص قصيرة من A1 لـ C2 وأسئلة بعد كل نص. اضغط على الترجمة بس لما تحتاجها." en="Short texts from A1 to C2 with questions after each one. Open the translation only when you need it." /></p>
       <div className="grid gap-4 sm:grid-cols-2">
         {readings.map((r) => (
           <Link key={r.id} href={`/reading/${r.id}/`} className="rounded-2xl border border-line bg-card p-5 hover:border-accent">
