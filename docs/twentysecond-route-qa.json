@@ -1,0 +1,27 @@
+{
+  "scope": "20 targeted routes/hubs × AR/EN × 390/1280; loaded images only, not full-site browser sweep",
+  "checks": 80,
+  "failures": 0,
+  "routes": [
+    "",
+    "reading/",
+    "reading/alltag-a1-aufraeumen/",
+    "reading/alltag-a2-koffer/",
+    "reading/alltag-b1-packliste/",
+    "dialogues/",
+    "conversation/",
+    "dictation/",
+    "lessons/",
+    "lessons/putzhelfer/",
+    "lessons/reisehelfer/",
+    "games/quiz/",
+    "progress/",
+    "credits/",
+    "grammar/akkusativ/",
+    "grammar/possessiv/",
+    "grammar/modalverben/",
+    "grammar/imperativ/",
+    "grammar/komparativ/",
+    "grammar/dativ-praepositionen/"
+  ]
+}
