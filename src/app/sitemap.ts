@@ -5,6 +5,7 @@ import { topics } from '@/lib/data';
 import { grammar } from '@/lib/grammar';
 import { verbs, slug } from '@/lib/verbs';
 import { readings } from '@/lib/reading';
+import { CHECK_LEVELS } from '@/lib/level-check';
 import { sheets } from '@/lib/sheets';
 
 export const dynamic = 'force-static';
@@ -19,6 +20,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   }
   walk(path.join(process.cwd(), 'src/app'));
+  CHECK_LEVELS.forEach((l) => routes.add(`/level-check/${l}/`));
   topics.forEach((t) => routes.add(`/lessons/${t.id}/`));
   grammar.forEach((g) => { routes.add(`/grammar/${g.id}/`); routes.add(`/grammar/${g.id}/sheet/`); });
   verbs.forEach((v) => routes.add(`/verbs/${slug(v.inf)}/`));
