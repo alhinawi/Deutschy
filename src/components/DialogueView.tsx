@@ -1,7 +1,7 @@
 'use client';
 import Link from 'next/link';
 import GermanVoice from './GermanVoice';
-import { useState,useRef } from 'react';
+import { useEffect,useState,useRef } from 'react';
 import { dialogues, type Dialogue } from '@/lib/dialogues';
 import { useStore } from '@/lib/store';
 import { useLang, useT } from '@/lib/i18n';
@@ -10,6 +10,7 @@ import Speaker from './Speaker';
 import Mixed from './Mixed';
 import RolePractice from './RolePractice';
 import {practiceOptionOrder} from '@/lib/practice-options';
+import {linkedPractice} from '@/lib/linked-practice';
 import {dialogueEvidence} from '@/lib/dialogues-everyday';
 
 export default function DialogueView({ conversation = false }: { conversation?: boolean } = {}) {
@@ -17,7 +18,8 @@ export default function DialogueView({ conversation = false }: { conversation?: 
   const { lang } = useLang();
   const [open, setOpen] = useState<Dialogue | null>(null);
   const [lv, setLv] = useState('all');
-  if (open) return <One d={open} back={() => setOpen(null)} />;
+  useEffect(()=>{const sync=()=>{const d=dialogues.find(d=>d.id===location.hash.slice(1));if(d&&(!conversation||['A1','A2'].includes(d.level)))setOpen(d)};sync();window.addEventListener('hashchange',sync);return()=>window.removeEventListener('hashchange',sync)},[conversation]);
+  if (open) return <One d={open} back={() => {history.replaceState(null,'',location.pathname);setOpen(null)}} />;
   return (
     <div className="space-y-6">
       <h1 className="ar-title text-4xl font-bold">{conversation ? t('تدريب محادثة A1 و A2', 'A1 and A2 conversation practice') : t('حوارات', 'Dialogues')}</h1>
@@ -28,7 +30,7 @@ export default function DialogueView({ conversation = false }: { conversation?: 
       </div>
       <ul className="grid gap-3 sm:grid-cols-2">
         {dialogues.filter((d) => (!conversation || ['A1', 'A2'].includes(d.level)) && (lv === 'all' || d.level === lv)).map((d) => (
-          <li key={d.id}><button onClick={() => setOpen(d)} className="w-full rounded-2xl border border-line bg-card p-4 text-start hover:border-accent">
+          <li key={d.id}><button onClick={() => {history.replaceState(null,'','#'+d.id);setOpen(d)}} className="w-full rounded-2xl border border-line bg-card p-4 text-start hover:border-accent">
             <span className="num text-xs font-bold text-accent">{d.level}</span>
             <span dir="ltr" lang="de" className="de block text-xl font-semibold">{d.title[0]}</span>
             <span className="ar-title block text-muted">{lang === 'ar' ? d.title[1] : `${d.lines.length} lines`}</span>
@@ -61,6 +63,7 @@ function One({ d, back }: { d: Dialogue; back: () => void }) {
         <p className="ar-title text-lg text-muted">{d.title[1]}</p>
       </div>
       <GermanVoice text={d.lines.map(l=>l[1]).join(" ")}/><p className="text-sm text-muted">{t("حوار تخيلي للتدريب، مش نصيحة طبية أو عرض سكن أو سعر حقيقي.","Fictional practice dialogue, not medical advice, a housing offer or a live price.")}</p>
+      {linkedPractice.find(p=>p.dialogue===d.id)&&<Link className="inline-block rounded-full border border-line px-5 py-3" href={`/reading/${linkedPractice.find(p=>p.dialogue===d.id)!.reading}/`}>{t('اقرا نفس الموقف بكلمات وسمع وإملاء','Read this scenario with vocabulary, listening and dictation')}</Link>}
       <RolePractice key={d.id} d={d} />
       <button onClick={() => setTr(!tr)} className="rounded-full border border-line px-4 py-2 text-sm font-bold">{tr ? t('اخفي الترجمة', 'Hide translation') : t('اعرض الترجمة', 'Show translation')}</button>
       <ul className="space-y-2">

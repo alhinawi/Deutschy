@@ -254,7 +254,7 @@ assert.equal(permutations.size,6);assert.equal(positions.size,3);
 assert.equal(lib('exercises').exercises.satzbau[2][0],'___ du heute?');
 console.log('PASS: quiz options use all six stable permutations, cover all correct positions and retain the repaired yes/no prompt');
 
-const {everydayTexts}=lib('reading-everyday');assert.equal(everydayTexts.length,4);
+const {everydayTexts}=lib('reading-everyday');assert.equal(everydayTexts.length,6);
 for(const r of everydayTexts){assert(['A2','B1'].includes(r.level));assert(r.de.join(' ').split(/\s+/).length>=100);assert.equal(r.de.length,r.ar.length);assert.equal(r.q.length,4);assert.equal(readingEvidence[r.id].length,4);for(const q of r.q)assert.equal(new Set(q.slice(1)).size,3);assert(lib('reading').readings.some(t=>t.id===r.id));}
 const readerSource=readFileSync('src/components/ReadingView.tsx','utf8');assert(readerSource.includes('locked.current=true'));assert(readerSource.includes('practiceOptionOrder'));assert(readerSource.includes('disabled={pick!==null}'));
 console.log('PASS: four extended A2/B1 fictional everyday texts, sixteen evidence-backed questions, reading input lock and six-way ordering');
@@ -270,7 +270,7 @@ console.log('PASS: long photo-quiz choices wrap and mobile choices use a readabl
 assert.equal(b1Grammar.length,6);assert.equal(b1Grammar.reduce((n,d)=>n+d.rows.length,0),48);for(const id of ['indirekte-fragen','konnektoren']){assert(lib('b1-grammar').b1GrammarSources[id]);assert.equal(checkBank('B1').filter(q=>q.key.startsWith(`b1:${id}:`)).length,8);}
 console.log('PASS: 16 source-linked B1 embedded-question and connector contrasts integrate into the existing bank');
 
-const {everydayDialogues,dialogueEvidence}=lib('dialogues-everyday');assert.equal(everydayDialogues.length,2);for(const d of everydayDialogues){assert.equal(d.q.length,3);assert(d.lines.length>=7);assert(lib('dialogues').dialogues.some(x=>x.id===d.id));assert.equal(dialogueEvidence[d.id].length,3);for(const q of d.q)assert.equal(new Set(q.slice(1)).size,3);for(const quote of dialogueEvidence[d.id])assert(d.lines.some(l=>l[1].includes(quote)));}
+const {everydayDialogues,dialogueEvidence}=lib('dialogues-everyday');assert.equal(everydayDialogues.length,4);for(const d of everydayDialogues){assert.equal(d.q.length,3);assert(d.lines.length>=7);assert(lib('dialogues').dialogues.some(x=>x.id===d.id));assert.equal(dialogueEvidence[d.id].length,3);for(const q of d.q)assert.equal(new Set(q.slice(1)).size,3);for(const quote of dialogueEvidence[d.id])assert(d.lines.some(l=>l[1].includes(quote)));}
 console.log('PASS: two appended original A2/B1 dialogues, six distinct answers and exact line evidence');
 
 const {dictationSet,dictationSources}=lib('dictation');for(const level of ['A1','A2','B1','B2','C1','C2']){const sources=dictationSources(level);assert(sources.length);assert.equal(sources.reduce((n,s)=>n+s.count,0),dictationSet(level).length);for(const s of sources){assert(dictationSet(level,s.id).every(x=>x.source===s.id&&x.level===level));assert.equal(dictationSet(level,s.id).length,s.count);}}for(const id of ['alltag-a2-paket','alltag-b1-schicht']){const r=lib('reading').readings.find(r=>r.id===id);const set=dictationSet(r.level,id);assert(set.length>=8);assert(set.every(x=>r.de.join(' ').includes(x.text)));assert(set.every(x=>dictationItems.some(y=>y.id===x.id)));}
@@ -284,3 +284,6 @@ const roundsSource=readFileSync('src/components/GameRunner.tsx','utf8');assert(!
 console.log('PASS: photo/article/spelling games retain manual feedback, Unicode input, answer locks and once-only completion');
 
 assert(roundsSource.includes('openKeys.current.length===2'));assert(roundsSource.includes('matchedIds.current'));assert(!roundsSource.includes('setTimeout'));assert(roundsSource.includes('No words for this topic'));assert(roundsSource.includes('aria-pressed={show}'));console.log('PASS: memory interaction uses synchronous pair state, manual continuation, named cards and unavailable-topic guard');
+for(const p of lib('linked-practice').linkedPractice){const r=lib('reading').readings.find(r=>r.id===p.reading),d=lib('dialogues').dialogues.find(d=>d.id===p.dialogue);assert(r&&d);assert.equal(r.level,d.level);assert(lib('dictation').dictationSet(r.level,r.id).length>=8);}
+for(const list of [lib('reading').readings,lib('dialogues').dialogues]){assert.equal(new Set(list.map(x=>x.id)).size,list.length);for(const x of list)assert.equal(new Set(x.q.map(q=>q[0])).size,x.q.length);}
+console.log('PASS: linked scenario reading/dialogue/dictation sets resolve, unique IDs and within-scenario questions');

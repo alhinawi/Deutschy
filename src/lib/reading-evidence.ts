@@ -13,3 +13,7 @@ Object.assign(readingEvidence,{
 'alltag-a2-bibliothek':['Erst an der Haustür merkt sie, dass ihre Stofftasche fehlt.','In der Tasche sind ein Heft und eine leere Brotdose, aber kein Geld und keine Schlüssel.','Mina möchte sofort zurückfahren, aber die Bibliothek schließt in zehn Minuten.','Ein Mitarbeiter findet die Tasche unter dem Tisch am Fenster.'],
 'alltag-b1-reparatur':['Zuerst denkt er daran, sofort ein neues Gerät zu kaufen.','Eine erfolgreiche Reparatur können sie nicht versprechen.','Sie entdecken ein kleines Stück Papier, das den Einzug blockiert.','Deshalb druckt er zuerst eine Testseite und danach den ganzen Bericht.']
 });
+Object.assign(readingEvidence,{
+'alltag-a2-lerntandem':['David schlägt vor, zuerst zwanzig Minuten Deutsch und danach zwanzig Minuten Arabisch zu sprechen.','Am Samstag ist das Café sehr laut. Rana kann David schlecht verstehen.','Wenn Rana ein Wort nicht kennt, beschreibt sie es zuerst.','Sie möchten sich nächste Woche wieder treffen, haben aber noch keinen genauen Termin vereinbart.'],
+'alltag-b1-tauschregal':['Diese erlaubt das Regal, solange der Durchgang frei bleibt.','Nur saubere, vollständige Bücher, keine Kartons und keine anderen Gegenstände.','Dabei erfahren sie, dass viele den Hinweis für eine Büchersammlung ohne Mitnahmemöglichkeit gehalten haben.','Sie ergänzen deshalb einen Satz: Sie dürfen auch ein Buch mitnehmen, ohne selbst eines mitzubringen.']
+});
