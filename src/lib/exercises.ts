@@ -237,3 +237,6 @@ for(const [key,rows]of Object.entries(breakGrammar))exercises[key]=[...(exercise
 
 import {borrowingGrammar} from './exercises-borrowing';
 for(const [key,rows]of Object.entries(borrowingGrammar))exercises[key]=[...(exercises[key]??[]),...rows];
+
+import {wrappingGrammar} from './exercises-wrapping';
+for(const [key,rows]of Object.entries(wrappingGrammar))exercises[key]=[...(exercises[key]??[]),...rows];
