@@ -38,7 +38,7 @@ export const sidebar: NavGroup[] = [
     { href: '/verbs/trainer/', ar: 'تدريب التصريف', en: 'Conjugation trainer' },
     { href: '/word-formation/', ar: 'فك تركيب الكلمة', en: 'Word formation patterns' },
     { href: '/trennbare-verben/', ar: 'الأفعال المنفصلة', en: 'Separable verbs' },
-    { href: '/zahlen/', ar: 'الأرقام والساعة والتاريخ', en: 'Numbers, time, dates' },
+    { href: '/zahlen/', ar: 'الأرقام والساعة والتاريخ والأسعار', en: 'Numbers, time, dates, prices' },
     { href: '/adjektivendungen/', ar: 'نهايات الصفات', en: 'Adjective endings' },
     { href: '/kasus/', ar: 'الحالات (Kasus)', en: 'Cases (Kasus)' },
     { href: '/case-lab/', ar: 'معمل الحالات والأفعال', en: 'Case and verb contrasts' },
