@@ -59,4 +59,6 @@ button, a { -webkit-tap-highlight-color: transparent; }
   .sheet { color: #000; }
   .sheet * { box-shadow: none !important; }
   .sheet section, .sheet tr { break-inside: avoid; }
+  .sheet section.tall { break-inside: auto; }
+  .sheet h2 { break-after: avoid; }
 }
