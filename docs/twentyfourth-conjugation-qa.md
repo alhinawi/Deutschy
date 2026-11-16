@@ -1,0 +1,5 @@
+# Twenty-fourth list: conjugation lab usability
+
+2026-11-17. Full lab now has a directly labeled six-person selector, previous/next person navigation with explained wrap, clear selection reset wording, live current position/tense and a reference disclosure exposing expanded/control state. Minimum44px targets, full-width mobile selects/input, German input disables spelling/autocapitalization aids. German infinitives in the selector avoid displaying Arabic labels in English mode. Form data/accepted variants unchanged, present-focus tool unchanged. No learner record writes or points, now explicitly stated.
+
+Typecheck, study regressions and production build pass. Six AR/EN ×320/390/1280 sessions type/check all264 existing form cells, 1584 successful comparisons. Direct person selection, previous/next wrap, answer/feedback/reference reset, six-row reference, expanded state, selected tense and no saved progress changes checked. Six representative axe states, no document overflow. Actual Arabic390px and English320px pixels inspected; final reference-table pixels also part of handoff. Native editorial and real-device voice review pending.
