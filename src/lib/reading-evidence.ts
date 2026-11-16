@@ -53,3 +53,24 @@ Object.assign(readingEvidence,{
   "Erst danach soll die Gruppe einen gemeinsamen Pflanzplan beschließen."
  ]
 });
+
+Object.assign(readingEvidence,{
+ "alltag-a1-naehdose": [
+  "Sie ist blau und steht auf dem Regal.",
+  "Sie ist blau und steht auf dem Regal.",
+  "Er ist aber zu klein.",
+  "Ganz unten liegt ein großer brauner Knopf."
+ ],
+ "alltag-a2-schirm": [
+  "Im Eingangsbereich steht ein schwarzer Schirm, aber sie weiß nicht, wem er gehört.",
+  "Daniel wohnt direkt neben der Schule und braucht heute keinen Schirm.",
+  "Sie vereinbaren Donnerstag vor dem Unterricht.",
+  "Am Abend legt sie einen Zettel zu ihrer Kurstasche: Daniels Schirm mitnehmen."
+ ],
+ "alltag-b1-reparaturtreff": [
+  "Eine feste Zusage kann sie vor einer Prüfung nicht geben.",
+  "Zunächst werden die mitgebrachten Kleidungsstücke gemeinsam angesehen.",
+  "Niemand soll allein wegen der Ankündigung etwas kaufen.",
+  "Paula notiert die offenen Fragen für das Team, damit alle am Eingang dieselben Informationen geben."
+ ]
+});

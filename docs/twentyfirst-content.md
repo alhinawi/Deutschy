@@ -1,0 +1,5 @@
+# Twenty-first: three original linked practice scenarios
+
+Three fictional A1/A2/B1 reading sets: choosing a button from a sewing tin, returning a borrowed umbrella, and clarifying what a clothing-repair meetup can promise. Twelve exact-evidence reading questions; three linked seven-turn dialogues with nine distinct questions and exact line evidence. Egyptian Arabic translations/glosses. Readings also enter listen-first practice and focused dictation automatically. Approximate practice labels, not official level coverage; native editorial review pending.
+
+Typecheck, study and static build pass. Arabic/English × 320/390: 24 reading/listening sessions / 96 answers and 12 dialogue sessions / 36 answers. Answer locks, evidence, transcript hide/reveal, retry order and single history verified. 24 representative axe subset states and overflow checks pass. Actual Arabic reading and English dialogue mobile screenshots inspected. Test scores are private QA, not learner achievement. No human-recording or pronunciation-assessment claim.

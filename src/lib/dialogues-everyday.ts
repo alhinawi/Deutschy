@@ -418,3 +418,218 @@ Object.assign(dialogueEvidence,{
   "Einverstanden. Bis dahin bleibt die Entscheidung offen."
  ]
 });
+
+everydayDialogues.push(...([
+ {
+  "id": "knopf-aussuchen",
+  "level": "A1",
+  "title": [
+   "Ein Knopf für die Jacke",
+   "زرار للجاكيت"
+  ],
+  "lines": [
+   [
+    "Schwester",
+    "Hast du einen Knopf für meine Jacke?",
+    "عندك زرار لجاكيتي؟"
+   ],
+   [
+    "Mira",
+    "Ja. Hier ist ein schwarzer Knopf.",
+    "أيوه. أهو زرار أسود."
+   ],
+   [
+    "Schwester",
+    "Danke, aber er ist zu klein.",
+    "شكراً، بس صغير زيادة."
+   ],
+   [
+    "Mira",
+    "Dann schauen wir in die blaue Dose.",
+    "طيب نبص في العلبة الزرقا."
+   ],
+   [
+    "Schwester",
+    "Da unten ist ein großer brauner Knopf.",
+    "تحت أهو فيه زرار بني كبير."
+   ],
+   [
+    "Mira",
+    "Passt er?",
+    "مناسب؟"
+   ],
+   [
+    "Schwester",
+    "Ja, den nehme ich. Vielen Dank!",
+    "أيوه، هاخد ده. شكراً جداً!"
+   ]
+  ],
+  "q": [
+   [
+    "Wofür sucht die Schwester einen Knopf?",
+    "Für ihre Jacke.",
+    "Für ihre Schuhe.",
+    "Für eine Dose."
+   ],
+   [
+    "Warum passt der schwarze Knopf nicht?",
+    "Er ist zu klein.",
+    "Er ist zu groß.",
+    "Er ist kaputt."
+   ],
+   [
+    "Welche Farbe hat der passende Knopf?",
+    "Braun.",
+    "Blau.",
+    "Weiß."
+   ]
+  ]
+ },
+ {
+  "id": "schirm-zurueckgeben",
+  "level": "A2",
+  "title": [
+   "Den Schirm ausleihen",
+   "استلاف الشمسية"
+  ],
+  "lines": [
+   [
+    "Yasmin",
+    "Gehört dir der schwarze Schirm am Eingang?",
+    "الشمسية السودا عند المدخل بتاعتك؟"
+   ],
+   [
+    "Daniel",
+    "Ja. Hast du deinen vergessen?",
+    "أيوه. نسيتي بتاعتك؟"
+   ],
+   [
+    "Yasmin",
+    "Leider ja. Könnte ich deinen bis Donnerstag ausleihen?",
+    "للأسف أيوه. ممكن أستلف بتاعتك لحد الخميس؟"
+   ],
+   [
+    "Daniel",
+    "Gern. Ich wohne direkt nebenan. Bring ihn bitte vor dem Unterricht zurück.",
+    "طبعاً. أنا ساكن جنبنا على طول. رجعيها قبل الدرس لو سمحتي."
+   ],
+   [
+    "Yasmin",
+    "Gut. Soll ich am Eingang auf dich warten?",
+    "تمام. أستناك عند المدخل؟"
+   ],
+   [
+    "Daniel",
+    "Ja, dort treffen wir uns.",
+    "أيوه، نتقابل هناك."
+   ],
+   [
+    "Yasmin",
+    "Danke. Ich schreibe mir gleich eine Erinnerung.",
+    "شكراً. هكتب لنفسي تذكير حالاً."
+   ]
+  ],
+  "q": [
+   [
+    "Bis wann möchte Yasmin den Schirm ausleihen?",
+    "Bis Donnerstag.",
+    "Bis Sonntag.",
+    "Bis heute Abend."
+   ],
+   [
+    "Wann soll sie den Schirm zurückbringen?",
+    "Vor dem Unterricht.",
+    "Während des Unterrichts.",
+    "Nach dem letzten Zug."
+   ],
+   [
+    "Wo wollen sie sich treffen?",
+    "Am Eingang.",
+    "Im Supermarkt.",
+    "An Daniels Arbeitsplatz."
+   ]
+  ]
+ },
+ {
+  "id": "reparatur-keine-zusage",
+  "level": "B1",
+  "title": [
+   "Was kann der Treff versprechen?",
+   "المركز يقدر يوعد بإيه؟"
+  ],
+  "lines": [
+   [
+    "Besucherin",
+    "Der Reißverschluss meines Mantels schließt nicht mehr. Wird er heute repariert?",
+    "سوستة البالطو مابقتش بتقفل. هتتصلح النهارده؟"
+   ],
+   [
+    "Paula",
+    "Das können wir erst nach dem gemeinsamen Ansehen sagen.",
+    "مانقدرش نقول غير بعد ما نبص عليه سوا."
+   ],
+   [
+    "Besucherin",
+    "Soll ich vorher einen neuen Reißverschluss kaufen?",
+    "أشتري سوستة جديدة الأول؟"
+   ],
+   [
+    "Paula",
+    "Bitte noch nicht. Wir müssen zuerst klären, was genau gebraucht wird.",
+    "لأ، لسه. لازم نعرف الأول إيه المطلوب بالظبط."
+   ],
+   [
+    "Besucherin",
+    "Verstehe. Ich kann den Mantel also mitbringen, aber eine fertige Reparatur ist nicht sicher.",
+    "فهمت. أقدر أجيب البالطو، بس مش أكيد التصليح هيخلص."
+   ],
+   [
+    "Paula",
+    "Genau. Wir versprechen kein fertiges Ergebnis am selben Tag.",
+    "بالظبط. مش بنوعد بنتيجة جاهزة في نفس اليوم."
+   ],
+   [
+    "Besucherin",
+    "Danke für die klare Erklärung. Dann komme ich mit dieser Erwartung.",
+    "شكراً على التوضيح. هاجي وأنا فاهمة ده."
+   ]
+  ],
+  "q": [
+   [
+    "Wann ist eine Einschätzung möglich?",
+    "Nach dem gemeinsamen Ansehen.",
+    "Ohne den Mantel zu sehen.",
+    "Erst nach einem Kauf."
+   ],
+   [
+    "Was rät Paula zum Kauf?",
+    "Noch nichts kaufen.",
+    "Sofort zwei Reißverschlüsse kaufen.",
+    "Einen neuen Mantel bestellen."
+   ],
+   [
+    "Was wird nicht versprochen?",
+    "Ein fertiges Ergebnis am selben Tag.",
+    "Ein gemeinsames Gespräch.",
+    "Eine Erklärung des Ablaufs."
+   ]
+  ]
+ }
+] satisfies Dialogue[]));
+Object.assign(dialogueEvidence,{
+ "knopf-aussuchen": [
+  "Hast du einen Knopf für meine Jacke?",
+  "Danke, aber er ist zu klein.",
+  "Da unten ist ein großer brauner Knopf."
+ ],
+ "schirm-zurueckgeben": [
+  "Leider ja. Könnte ich deinen bis Donnerstag ausleihen?",
+  "Gern. Ich wohne direkt nebenan. Bring ihn bitte vor dem Unterricht zurück.",
+  "Gut. Soll ich am Eingang auf dich warten?"
+ ],
+ "reparatur-keine-zusage": [
+  "Das können wir erst nach dem gemeinsamen Ansehen sagen.",
+  "Bitte noch nicht. Wir müssen zuerst klären, was genau gebraucht wird.",
+  "Genau. Wir versprechen kein fertiges Ergebnis am selben Tag."
+ ]
+});

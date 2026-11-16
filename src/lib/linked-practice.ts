@@ -6,4 +6,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-balkon',dialogue:'pflanzen-am-fenster'},
  {reading:'alltag-a2-spieleabend',dialogue:'spieleabend-nachfrage'},
  {reading:'alltag-b1-gartenplan',dialogue:'garten-verantwortung'},
+ {reading:'alltag-a1-naehdose',dialogue:'knopf-aussuchen'},
+ {reading:'alltag-a2-schirm',dialogue:'schirm-zurueckgeben'},
+ {reading:'alltag-b1-reparaturtreff',dialogue:'reparatur-keine-zusage'},
 ];
