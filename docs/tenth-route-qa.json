@@ -1,0 +1,38 @@
+[
+  {
+    "file": "tenth-all-ar-0.json",
+    "routes": 180,
+    "checks": 360,
+    "defects": 0
+  },
+  {
+    "file": "tenth-all-ar-180.json",
+    "routes": 180,
+    "checks": 360,
+    "defects": 0
+  },
+  {
+    "file": "tenth-all-ar-360.json",
+    "routes": 174,
+    "checks": 348,
+    "defects": 0
+  },
+  {
+    "file": "tenth-all-en-0.json",
+    "routes": 180,
+    "checks": 360,
+    "defects": 0
+  },
+  {
+    "file": "tenth-all-en-180.json",
+    "routes": 180,
+    "checks": 360,
+    "defects": 0
+  },
+  {
+    "file": "tenth-all-en-360.json",
+    "routes": 174,
+    "checks": 348,
+    "defects": 0
+  }
+]
