@@ -191,3 +191,20 @@ const {matchesConjugation}=lib('conj-compare');assert(matchesConjugation('  HAST
 console.log('PASS: conjugation model comparison normalizes NFC/space/case without collapsing distinct spellings');
 const isolated=validateProgress({},blankProgress);isolated.state.seen.temporary={ok:1,bad:0};assert.equal(validateProgress({},blankProgress).state.seen.temporary,undefined);
 console.log('PASS: fresh progress defaults do not share mutable history objects');
+
+// Every noun topic is searchable as a lesson, not only through individual words.
+const searchIndex = lib('search-index');
+const topicData = lib('data');
+for (const topic of topicData.topics) {
+ const target = `/lessons/${topic.id}/`;
+ assert(searchIndex.index().some(h => h.kind === 'page' && h.href === target), `Missing lesson search entry: ${topic.id}`);
+ for (const q of [topicData.topicTitles[topic.id], topicData.topicName(topic.id, 'ar'), topicData.topicName(topic.id, 'en')]) {
+  assert(searchIndex.search(q, 100).some(h => h.href === target), `Unsearchable lesson: ${topic.id}: ${q}`);
+ }
+}
+const counts = lib('arcount');
+assert.equal(counts.arWords(7), '7 كلمات');
+assert.equal(counts.arWords(16), '16 كلمة');
+assert.equal(counts.arMinutes(5), '5 دقايق');
+assert.equal(counts.arMinutes(12), '12 دقيقة');
+console.log('PASS: 58 lesson entries searchable by German, Arabic and English titles; counted nouns');
