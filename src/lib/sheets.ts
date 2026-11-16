@@ -9,13 +9,14 @@ import { numWord, months, monthsAr, days, daysAr } from './zahlen';
 
 export type Table = { h: string[]; r: string[][] };
 export type Block = { h: [string, string]; note?: [string, string]; table?: Table; lines?: { de: string; ar?: string }[] };
-export type Sheet = { id: string; title: [string, string]; sub: [string, string]; blocks: Block[] };
+export type Sheet = { id: string; href?: string; title: [string, string]; sub: [string, string]; blocks: Block[] };
 
 const C: Case[] = ['nom', 'akk', 'dat'];
 const GS: (G | 'p')[] = ['m', 'f', 'n', 'p'];
 const artTable = (src: Record<Case, Record<G | 'p', string>>): Table => ({ h: ['', 'm', 'f', 'n', 'Pl.'], r: C.map((c) => [caseName[c][0], ...GS.map((g) => src[c][g])]) });
 const core = ['sein', 'haben', 'werden', 'können', 'müssen', 'wollen', 'sollen', 'dürfen', 'machen', 'wohnen', 'arbeiten', 'fahren', 'sprechen', 'lesen', 'sehen', 'geben', 'nehmen', 'essen', 'schlafen', 'wissen'];
 
+import { advancedSheets } from './advanced-sheets';
 import { sheetIds } from './sheet-ids';
 export const sheets: Sheet[] = [
   { id: 'praesens', title: ['ورقة تصريف Präsens', 'Präsens conjugation sheet'], sub: ['الأفعال الأساسية في المضارع', 'The core verbs in the present tense'],
@@ -60,5 +61,6 @@ export const sheets: Sheet[] = [
   { id: 'redewendungen', title: ['ورقة التعبيرات', 'Idioms sheet'], sub: ['تعبيرات ألمانية وتعني إيه', 'German idioms and what they mean'],
     blocks: [{ h: ['التعبيرات', 'Idioms'], table: { h: ['', ''], r: idioms.map((i) => [i.de, i.ar]) } }] },
 ];
+sheets.push(...advancedSheets);
 export const sheetOf = (id: string) => sheets.find((s) => s.id === id);
-if (sheets.length !== sheetIds.length) throw new Error('sheet ids out of sync');
+if (!sheetIds.every(id=>sheets.some(s=>s.id===id))) throw new Error('sheet ids out of sync');
