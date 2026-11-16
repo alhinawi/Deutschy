@@ -27,7 +27,7 @@ function woItem(): QItem {
   const verb = pick(WO);
   const s = wohin ? `Ich stelle ${oa} ${w.p} ___ ${n.w}.` : `${o} ${verb} ${w.p} ___ ${n.w}.`;
   const bad = ['der', 'die', 'das', 'den', 'dem'].filter((x) => x !== right);
-  return { key: `pw:${w.p}`, prompt: s, options: [right, ...sample(bad, 3)], note: wohin ? ['Wohin? Bewegung: Akkusativ', 'Wohin? Movement: Akkusativ'] : ['Wo? Ort: Dativ', 'Wo? Place: Dativ'] };
+  return { key: `pw:${w.p}`, prompt: s, options: [right, ...sample(bad, 3)], note: wohin ? ['Wohin? Ziel: Akkusativ', 'Wohin? Destination: Akkusativ'] : ['Wo? Ort: Dativ', 'Wo? Place: Dativ'] };
 }
 function kasusItem(): QItem {
   const all: [string, string][] = [...akk.filter((x) => x[0] !== 'entlang').map((x) => [x[0], 'Akkusativ'] as [string, string]), ...dat.filter((x) => x[0] !== 'gegenüber').map((x) => [x[0], 'Dativ'] as [string, string]), ...wechsel.map((x) => [x.p, 'Akk. oder Dativ'] as [string, string])];
@@ -68,7 +68,7 @@ export default function PraepView() {
       {tab === 'dat' && <List rows={dat} k="Dativ" />}
       {tab === 'wechsel' && (
         <div className="space-y-3">
-          <p dir="auto" className="ar-title rounded-2xl border border-line bg-card p-4">{lang === 'ar' ? <Mixed text="Wo (فين، مكان ثابت) = Dativ. Wohin (لفين، حركة) = Akkusativ." /> : 'Wo? (where, a fixed place) = Dativ. Wohin? (where to, movement) = Akkusativ.'}</p>
+          <p dir="auto" className="ar-title rounded-2xl border border-line bg-card p-4">{lang === 'ar' ? <Mixed text="في الاستخدام المكاني للحروف المتغيرة: مكان الحدث مع داتيف، والاتجاه لمكان جديد مع أكوزاتيف. الحركة جوه مكان مش كفاية لتغيير الحالة." /> : 'For local two-way prepositions: location takes dative; destination takes accusative. Movement within a location does not by itself change the case.'}</p>
           <ul className="grid gap-3 sm:grid-cols-2">
             {wechsel.map((w) => (
               <li key={w.p} className="space-y-2 rounded-2xl border border-line bg-card p-4">

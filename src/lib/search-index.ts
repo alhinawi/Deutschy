@@ -1,3 +1,5 @@
+import {caseDrills,caseGroups} from './case-lab';
+import {formationLessons} from './word-formation';
 import {practicalTerms} from './practical-glossary';
 import {speakingCards} from './speaking-cards';
 import {studyGoals} from './start-guide';
@@ -34,6 +36,8 @@ export function index(): Hit[] {
   grammar.forEach((g) => h('grammar', g.title[1], `${g.title[0]} · ${g.level}`, `/grammar/${g.id}/`, g.sum.join(' ')));
   verbs.forEach((v) => h('verb', v.inf, `${v.ar} · ${v.en}`, `/verbs/${slug(v.inf)}/`, `${v.pp} ${v.pret} ${v.pres.join(' ')}`));
   idioms.forEach((d) => h('idiom', d.de, `${d.ar} · ${d.en}`, '/redewendungen/', d.literal));
+  caseGroups.forEach(([id,ar,en])=>h('grammar',en,ar,`/case-lab/#${id}`,caseDrills.filter(d=>d.group===id).map(d=>d.prompt+' '+d.ar+' '+d.en).join(' ')));
+  formationLessons.forEach(l=>h('grammar',l.title[1],l.title[0],`/word-formation/#${l.id}`,l.note.join(' ')+' '+l.examples.join(' ')));
   practicalTerms.forEach(w=>h('word',w.article+' '+w.de,w.ar+' · '+w.en,`/practical-words/#${w.id}`,w.plural+' '+w.example));
   speakingCards.forEach(c=>h('page',c.title[1],c.title[0]+' · '+c.level,`/speaking-cards/#${c.id}`,c.prompt+' '+c.model+' '+c.followUp));
   studyGoals.forEach(g=>h('page',g.title[1],g.title[0],`/start/#${g.id}`,g.steps.flat().join(' ')));
