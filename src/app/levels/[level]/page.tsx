@@ -38,6 +38,7 @@ export default async function LevelPage({ params }: { params: Promise<{ level: s
           })}
         </div>
       )}
+      {l.id === 'B1' && <section className="space-y-3 rounded-2xl border border-line bg-card p-5"><h2 className="ar-title text-2xl font-bold"><T ar="ابدأ تدريبات B1" en="Start B1 practice" /></h2><div className="flex flex-wrap gap-2">{[['/b1/', 'القواعد', 'Grammar'], ['/b1/wortschatz/', 'الكلمات', 'Vocabulary'], ['/b1/writing/', 'الكتابة', 'Writing'], ['/reading/b1-reparaturtreff/', 'قراءة وسمع', 'Reading and listening']].map(([href, ar, en]) => <Link key={href} href={href} className="rounded-full border border-line px-4 py-2 font-bold"><T ar={ar} en={en} /></Link>)}</div></section>}
       <LevelGrammar level={l.id} />
     </div>
   );
