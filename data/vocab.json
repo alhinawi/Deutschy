@@ -183,6 +183,26 @@
   {
    "id": "verkehr2",
    "ar": "مرور وطريق"
+  },
+  {
+   "id": "kueche2",
+   "ar": "أدوات المطبخ"
+  },
+  {
+   "id": "essen3",
+   "ar": "أكل وشرب 3"
+  },
+  {
+   "id": "schule2",
+   "ar": "مدرسة ومكتب"
+  },
+  {
+   "id": "musik2",
+   "ar": "موسيقى وفن"
+  },
+  {
+   "id": "spielzeug",
+   "ar": "ألعاب"
   }
  ],
  "words": [
@@ -7999,6 +8019,996 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Television_remote_control_-_black_01.jpg",
     "license": "CC BY-SA 4.0",
     "author": "Dmitry Makeev"
+   }
+  },
+  {
+   "id": "wasserkocher",
+   "topic": "kueche2",
+   "art": "der",
+   "de": "Wasserkocher",
+   "plural": "-",
+   "ar": "غلاية",
+   "photo": {
+    "file": "Electric kettle - Электрический чайник.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Electric_kettle_-_%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%BA.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Electric_kettle_-_%D0%AD%D0%BB%D0%B5%D0%BA%D1%82%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%BA.JPG",
+    "license": "CC BY-SA 3.0",
+    "author": "Schekinov Alexey Victorovich"
+   }
+  },
+  {
+   "id": "kochtopf",
+   "topic": "kueche2",
+   "art": "der",
+   "de": "Kochtopf",
+   "plural": "Kochtöpfe",
+   "ar": "حلة",
+   "photo": {
+    "file": "Vintage brass cooking pot,1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Vintage_brass_cooking_pot,1.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Vintage_brass_cooking_pot,1.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Rajani Gairshail"
+   }
+  },
+  {
+   "id": "nudelholz",
+   "topic": "kueche2",
+   "art": "der",
+   "de": "Nudelholz",
+   "plural": "-",
+   "ar": "شوبك",
+   "photo": {
+    "file": "Rollingpin.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rollingpin.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Rollingpin.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Peter Kammer"
+   }
+  },
+  {
+   "id": "schneebesen",
+   "topic": "kueche2",
+   "art": "der",
+   "de": "Schneebesen",
+   "plural": "-",
+   "ar": "مضرب بيض",
+   "photo": {
+    "file": "Balloon spiral ball whisks.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Balloon_spiral_ball_whisks.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Balloon_spiral_ball_whisks.jpg",
+    "license": "CC BY 2.5",
+    "author": "Marie-Lan Nguyen"
+   }
+  },
+  {
+   "id": "sieb",
+   "topic": "kueche2",
+   "art": "das",
+   "de": "Sieb",
+   "plural": "Siebe",
+   "ar": "مصفاة",
+   "photo": {
+    "file": "Mated colander pot two views RJP.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Mated_colander_pot_two_views_RJP.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Mated_colander_pot_two_views_RJP.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Rickjpelleg"
+   }
+  },
+  {
+   "id": "dosenoeffner",
+   "topic": "kueche2",
+   "art": "der",
+   "de": "Dosenöffner",
+   "plural": "-",
+   "ar": "فتاحة علب",
+   "photo": {
+    "file": "Kitchen-Modern-Can-Opener.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kitchen-Modern-Can-Opener.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Kitchen-Modern-Can-Opener.jpg",
+    "license": "Public domain",
+    "author": "Evan-Amos"
+   }
+  },
+  {
+   "id": "reibe",
+   "topic": "kueche2",
+   "art": "die",
+   "de": "Reibe",
+   "plural": "Reiben",
+   "ar": "مبشرة",
+   "photo": {
+    "file": "746801 FlatCoarseGrater Lifestyle9x9.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:746801_FlatCoarseGrater_Lifestyle9x9.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:746801_FlatCoarseGrater_Lifestyle9x9.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Brownretail"
+   }
+  },
+  {
+   "id": "weinglas",
+   "topic": "kueche2",
+   "art": "das",
+   "de": "Weinglas",
+   "plural": "Weingläser",
+   "ar": "كأس نبيذ",
+   "photo": {
+    "file": "Wine glass5275.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wine_glass5275.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Wine_glass5275.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Itu"
+   }
+  },
+  {
+   "id": "teekanne",
+   "topic": "kueche2",
+   "art": "die",
+   "de": "Teekanne",
+   "plural": "Teekannen",
+   "ar": "إبريق شاي",
+   "photo": {
+    "file": "Teapot 2010 G1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Teapot_2010_G1.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Teapot_2010_G1.jpg",
+    "license": "Public domain",
+    "author": "George Chernilevsky"
+   }
+  },
+  {
+   "id": "grill",
+   "topic": "kueche2",
+   "art": "der",
+   "de": "Grill",
+   "plural": "Grills",
+   "ar": "شواية",
+   "photo": {
+    "file": "Brochettes de poulet mariné en fin de cuisson au barbecue (avril 2020).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Brochettes_de_poulet_marin%C3%A9_en_fin_de_cuisson_au_barbecue_(avril_2020).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Brochettes_de_poulet_marin%C3%A9_en_fin_de_cuisson_au_barbecue_(avril_2020).jpg",
+    "license": "CC0",
+    "author": "Benoît Prieur"
+   }
+  },
+  {
+   "id": "kaffeemaschine",
+   "topic": "kueche2",
+   "art": "die",
+   "de": "Kaffeemaschine",
+   "plural": "Kaffeemaschinen",
+   "ar": "ماكينة قهوة",
+   "photo": {
+    "file": "Coffee machine 2022.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Coffee_machine_2022.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Coffee_machine_2022.jpg",
+    "license": "CC0",
+    "author": "Abdulla Al Muhairi"
+   }
+  },
+  {
+   "id": "schoepfloeffel",
+   "topic": "kueche2",
+   "art": "der",
+   "de": "Schöpflöffel",
+   "plural": "-",
+   "ar": "مغرفة",
+   "photo": {
+    "file": "Ladle, bronze - Museo Egizio, Turin S 12577 p01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ladle,_bronze_-_Museo_Egizio,_Turin_S_12577_p01.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Ladle,_bronze_-_Museo_Egizio,_Turin_S_12577_p01.jpg",
+    "license": "CC0",
+    "author": ""
+   }
+  },
+  {
+   "id": "eierbecher",
+   "topic": "kueche2",
+   "art": "der",
+   "de": "Eierbecher",
+   "plural": "-",
+   "ar": "حامل بيض",
+   "photo": {
+    "file": "Egg spiral egg cup.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Egg_spiral_egg_cup.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Egg_spiral_egg_cup.jpg",
+    "license": "CC BY 2.5",
+    "author": "Marie-Lan Nguyen"
+   }
+  },
+  {
+   "id": "handschuh",
+   "topic": "kleidung2",
+   "art": "der",
+   "de": "Handschuh",
+   "plural": "Handschuhe",
+   "ar": "قفاز",
+   "photo": {
+    "file": "BMX glove - top.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:BMX_glove_-_top.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:BMX_glove_-_top.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "MMRE123"
+   }
+  },
+  {
+   "id": "geldbeutel",
+   "topic": "kleidung2",
+   "art": "der",
+   "de": "Geldbeutel",
+   "plural": "-",
+   "ar": "محفظة",
+   "photo": {
+    "file": "WalletMpegMan.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:WalletMpegMan.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:WalletMpegMan.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "The original uploader was TheArmadillo at English Wikipedia.. Uploaded to Commons by Körnerbrötchen."
+   }
+  },
+  {
+   "id": "halskette",
+   "topic": "kleidung2",
+   "art": "die",
+   "de": "Halskette",
+   "plural": "Halsketten",
+   "ar": "عقد",
+   "photo": {
+    "file": "Necklace made of rough diamonds.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Necklace_made_of_rough_diamonds.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Necklace_made_of_rough_diamonds.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "W.carter"
+   }
+  },
+  {
+   "id": "reiskocher",
+   "topic": "essen3",
+   "art": "der",
+   "de": "Reiskocher",
+   "plural": "-",
+   "ar": "حلة أرز",
+   "photo": {
+    "file": "Panasonic RICE COOKER SR-L15H8.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Panasonic_RICE_COOKER_SR-L15H8.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Panasonic_RICE_COOKER_SR-L15H8.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Dinkun Chen"
+   }
+  },
+  {
+   "id": "cornflakes",
+   "topic": "essen3",
+   "art": "die",
+   "de": "Cornflakes",
+   "plural": "",
+   "ar": "كورن فليكس",
+   "photo": {
+    "file": "Cornflakes in bowl.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cornflakes_in_bowl.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Cornflakes_in_bowl.jpg",
+    "license": "GFDL 1.2",
+    "author": "fir0002  flagstaffotos [at] gmail.com\n\t\tCanon 20D + Tamron 28-75mm f/2.8"
+   }
+  },
+  {
+   "id": "aubergine",
+   "topic": "essen3",
+   "art": "die",
+   "de": "Aubergine",
+   "plural": "Auberginen",
+   "ar": "باذنجان",
+   "photo": {
+    "file": "Japanese White Eggplant.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Japanese_White_Eggplant.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Japanese_White_Eggplant.jpg",
+    "license": "CC BY 4.0",
+    "author": "Versions111"
+   }
+  },
+  {
+   "id": "johannisbeere",
+   "topic": "essen3",
+   "art": "die",
+   "de": "Johannisbeere",
+   "plural": "Johannisbeeren",
+   "ar": "كشمش",
+   "photo": {
+    "file": "Redcurrant (Ribes rubrum) fruits.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Redcurrant_(Ribes_rubrum)_fruits.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Redcurrant_(Ribes_rubrum)_fruits.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Ivar Leidus"
+   }
+  },
+  {
+   "id": "pistazie",
+   "topic": "essen3",
+   "art": "die",
+   "de": "Pistazie",
+   "plural": "Pistazien",
+   "ar": "فستق",
+   "photo": {
+    "file": "Pistachio macro whitebackground NS.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pistachio_macro_whitebackground_NS.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Pistachio_macro_whitebackground_NS.jpg",
+    "license": "GFDL 1.2",
+    "author": "Muhammad Mahdi Karim edited by Noodle snacks"
+   }
+  },
+  {
+   "id": "brombeere",
+   "topic": "essen3",
+   "art": "die",
+   "de": "Brombeere",
+   "plural": "Brombeeren",
+   "ar": "توت أسود",
+   "photo": {
+    "file": "Blackberry (Rubus fruticosus).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Blackberry_(Rubus_fruticosus).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Blackberry_(Rubus_fruticosus).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Ivar Leidus"
+   }
+  },
+  {
+   "id": "fladenbrot",
+   "topic": "essen3",
+   "art": "das",
+   "de": "Fladenbrot",
+   "plural": "Fladenbrote",
+   "ar": "خبز مسطح",
+   "photo": {
+    "file": "Flatbread on counter.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Flatbread_on_counter.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Flatbread_on_counter.jpg",
+    "license": "CC BY 4.0",
+    "author": "Shisma"
+   }
+  },
+  {
+   "id": "vollkornbrot",
+   "topic": "essen3",
+   "art": "das",
+   "de": "Vollkornbrot",
+   "plural": "Vollkornbrote",
+   "ar": "خبز أسمر",
+   "photo": {
+    "file": "Wholemeal bread with seeds, August 2011.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wholemeal_bread_with_seeds,_August_2011.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Wholemeal_bread_with_seeds,_August_2011.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "Veganbaking.net"
+   }
+  },
+  {
+   "id": "lasagne",
+   "topic": "essen3",
+   "art": "die",
+   "de": "Lasagne",
+   "plural": "",
+   "ar": "لازانيا",
+   "photo": {
+    "file": "Lasagne - stonesoup.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lasagne_-_stonesoup.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Lasagne_-_stonesoup.jpg",
+    "license": "CC BY 2.0",
+    "author": "jules / stonesoup"
+   }
+  },
+  {
+   "id": "currywurst",
+   "topic": "essen3",
+   "art": "die",
+   "de": "Currywurst",
+   "plural": "Currywürste",
+   "ar": "كاري فورست",
+   "photo": {
+    "file": "Currywurst-2024.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Currywurst-2024.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Currywurst-2024.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Richard Mischau, Britta Mischau"
+   }
+  },
+  {
+   "id": "kaviar",
+   "topic": "essen3",
+   "art": "der",
+   "de": "Kaviar",
+   "plural": "",
+   "ar": "كافيار",
+   "photo": {
+    "file": "Caviar spoons.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Caviar_spoons.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Caviar_spoons.jpg",
+    "license": "CC BY 2.0",
+    "author": "THOR"
+   }
+  },
+  {
+   "id": "eiscreme",
+   "topic": "essen3",
+   "art": "das",
+   "de": "Eiscreme",
+   "plural": "",
+   "ar": "آيس كريم",
+   "photo": {
+    "file": "Ice cream cone with spoon.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ice_cream_cone_with_spoon.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Ice_cream_cone_with_spoon.jpg",
+    "license": "CC0",
+    "author": "Thegreatmutata"
+   }
+  },
+  {
+   "id": "cappuccino",
+   "topic": "essen3",
+   "art": "der",
+   "de": "Cappuccino",
+   "plural": "Cappuccinos",
+   "ar": "كابتشينو",
+   "photo": {
+    "file": "Cappuccino 8.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cappuccino_8.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Cappuccino_8.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Gaurav Dhwaj Khadka"
+   }
+  },
+  {
+   "id": "hantel",
+   "topic": "sport2",
+   "art": "die",
+   "de": "Hantel",
+   "plural": "Hanteln",
+   "ar": "دامبل",
+   "photo": {
+    "file": "Young man lifting dumbbell weight for exercise in fitness gym.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Young_man_lifting_dumbbell_weight_for_exercise_in_fitness_gym.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Young_man_lifting_dumbbell_weight_for_exercise_in_fitness_gym.jpg",
+    "license": "CC BY 2.0",
+    "author": "Nenad Stojkovic"
+   }
+  },
+  {
+   "id": "tennisball",
+   "topic": "sport2",
+   "art": "der",
+   "de": "Tennisball",
+   "plural": "Tennisbälle",
+   "ar": "كرة تنس",
+   "photo": {
+    "file": "Tennis ball blanks and felt.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tennis_ball_blanks_and_felt.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Tennis_ball_blanks_and_felt.jpg",
+    "license": "CC0",
+    "author": "Mx. Granger"
+   }
+  },
+  {
+   "id": "bogen",
+   "topic": "sport2",
+   "art": "der",
+   "de": "Bogen",
+   "plural": "Bögen",
+   "ar": "قوس",
+   "photo": {
+    "file": "Arlington State College, female archery students demonstrating bow and arrow (10004206).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Arlington_State_College,_female_archery_students_demonstrating_bow_and_arrow_(10004206).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Arlington_State_College,_female_archery_students_demonstrating_bow_and_arrow_(10004206).jpg",
+    "license": "CC BY 4.0",
+    "author": "University of Texas at Arlington Photograph Collection"
+   }
+  },
+  {
+   "id": "dartbrett",
+   "topic": "sport2",
+   "art": "das",
+   "de": "Dartbrett",
+   "plural": "-",
+   "ar": "لوح سهام",
+   "photo": {
+    "file": "Dartboard, Black Bull, Wetherby (7th November 2023).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dartboard,_Black_Bull,_Wetherby_(7th_November_2023).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Dartboard,_Black_Bull,_Wetherby_(7th_November_2023).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Mtaylor848"
+   }
+  },
+  {
+   "id": "fahrradhelm",
+   "topic": "sport2",
+   "art": "das",
+   "de": "Fahrradhelm",
+   "plural": "-",
+   "ar": "خوذة دراجة",
+   "photo": {
+    "file": "Bicycle white helmet from bikemate.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bicycle_white_helmet_from_bikemate.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Bicycle_white_helmet_from_bikemate.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Afifa Afrin"
+   }
+  },
+  {
+   "id": "snowboard",
+   "topic": "sport2",
+   "art": "das",
+   "de": "Snowboard",
+   "plural": "Snowboards",
+   "ar": "سنوبورد",
+   "photo": {
+    "file": "Snowboard-In-The-Snow-2008.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Snowboard-In-The-Snow-2008.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Snowboard-In-The-Snow-2008.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Kham Tran - www.khamtran.com"
+   }
+  },
+  {
+   "id": "angelhaken",
+   "topic": "sport2",
+   "art": "der",
+   "de": "Angelhaken",
+   "plural": "-",
+   "ar": "سنارة",
+   "photo": {
+    "file": "Fishing hooks on white surface.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Fishing_hooks_on_white_surface.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Fishing_hooks_on_white_surface.jpg",
+    "license": "CC BY-SA 2.5",
+    "author": "daniel jaeger"
+   }
+  },
+  {
+   "id": "schlafsack",
+   "topic": "sport2",
+   "art": "der",
+   "de": "Schlafsack",
+   "plural": "Schlafsäcke",
+   "ar": "كيس نوم",
+   "photo": {
+    "file": "Sleeping bag for space.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Sleeping_bag_for_space.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Sleeping_bag_for_space.JPG",
+    "license": "CC BY-SA 4.0",
+    "author": "Claus Ableiter"
+   }
+  },
+  {
+   "id": "wanderstock",
+   "topic": "sport2",
+   "art": "der",
+   "de": "Wanderstock",
+   "plural": "Wanderstöcke",
+   "ar": "عصا مشي",
+   "photo": {
+    "file": "Retracted trekking poles.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Retracted_trekking_poles.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Retracted_trekking_poles.jpg",
+    "license": "Public domain",
+    "author": "Sarang"
+   }
+  },
+  {
+   "id": "laufschuhe",
+   "topic": "sport2",
+   "art": "die",
+   "de": "Laufschuhe",
+   "plural": "-",
+   "ar": "حذاء جري",
+   "photo": {
+    "file": "Running shoes.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Running_shoes.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Running_shoes.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Tiia Monto"
+   }
+  },
+  {
+   "id": "fussballtor",
+   "topic": "sport2",
+   "art": "das",
+   "de": "Fußballtor",
+   "plural": "Fußballtore",
+   "ar": "مرمى",
+   "photo": {
+    "file": "Football goal 20050521.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Football_goal_20050521.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Football_goal_20050521.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Emha"
+   }
+  },
+  {
+   "id": "kajak",
+   "topic": "sport2",
+   "art": "das",
+   "de": "Kajak",
+   "plural": "Kajaks",
+   "ar": "كاياك",
+   "photo": {
+    "file": "Kayak robson.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kayak_robson.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Kayak_robson.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "0x010C"
+   }
+  },
+  {
+   "id": "fallschirm",
+   "topic": "sport2",
+   "art": "der",
+   "de": "Fallschirm",
+   "plural": "Fallschirme",
+   "ar": "مظلة هبوط",
+   "photo": {
+    "file": "NASA's Orion Spacecraft Parachutes Tested at U.S. Army Yuma Proving Ground.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:NASA%27s_Orion_Spacecraft_Parachutes_Tested_at_U.S._Army_Yuma_Proving_Ground.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:NASA%27s_Orion_Spacecraft_Parachutes_Tested_at_U.S._Army_Yuma_Proving_Ground.jpg",
+    "license": "Public domain",
+    "author": "NASA"
+   }
+  },
+  {
+   "id": "globus",
+   "topic": "schule2",
+   "art": "der",
+   "de": "Globus",
+   "plural": "Globen",
+   "ar": "كرة أرضية",
+   "photo": {
+    "file": "Coronelli globe terrestre.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Coronelli_globe_terrestre.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Coronelli_globe_terrestre.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Myrabella"
+   }
+  },
+  {
+   "id": "zirkel",
+   "topic": "schule2",
+   "art": "der",
+   "de": "Zirkel",
+   "plural": "-",
+   "ar": "فرجار",
+   "photo": {
+    "file": "Compass (drawing tool).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Compass_(drawing_tool).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Compass_(drawing_tool).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Dmitry Makeev"
+   }
+  },
+  {
+   "id": "ordner",
+   "topic": "schule2",
+   "art": "der",
+   "de": "Ordner",
+   "plural": "-",
+   "ar": "ملف",
+   "photo": {
+    "file": "Compare SpineLess ringless binder with comparable Ring binder dimensions.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Compare_SpineLess_ringless_binder_with_comparable_Ring_binder_dimensions.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Compare_SpineLess_ringless_binder_with_comparable_Ring_binder_dimensions.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Jacek"
+   }
+  },
+  {
+   "id": "filzstift",
+   "topic": "schule2",
+   "art": "der",
+   "de": "Filzstift",
+   "plural": "Filzstifte",
+   "ar": "قلم فلوماستر",
+   "photo": {
+    "file": "Marker ucu.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Marker_ucu.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Marker_ucu.jpg",
+    "license": "CC0",
+    "author": "Flanoz"
+   }
+  },
+  {
+   "id": "buntstift",
+   "topic": "schule2",
+   "art": "der",
+   "de": "Buntstift",
+   "plural": "Buntstifte",
+   "ar": "قلم ملون",
+   "photo": {
+    "file": "Colored pencils chevre.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Colored_pencils_chevre.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Colored_pencils_chevre.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Chevre"
+   }
+  },
+  {
+   "id": "beamer",
+   "topic": "schule2",
+   "art": "der",
+   "de": "Beamer",
+   "plural": "-",
+   "ar": "بروجيكتور",
+   "photo": {
+    "file": "Optima Projector.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Optima_Projector.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Optima_Projector.jpg",
+    "license": "CC0",
+    "author": "Swethasakthivel"
+   }
+  },
+  {
+   "id": "badewanne",
+   "topic": "haushalt2",
+   "art": "die",
+   "de": "Badewanne",
+   "plural": "Badewannen",
+   "ar": "بانيو",
+   "photo": {
+    "file": "Bathtub of Khan Pool Suite in Amantaka luxury Resort & Hotel in Luang Prabang Laos.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bathtub_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Bathtub_of_Khan_Pool_Suite_in_Amantaka_luxury_Resort_%26_Hotel_in_Luang_Prabang_Laos.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Basile Morin"
+   }
+  },
+  {
+   "id": "waschbecken",
+   "topic": "haushalt2",
+   "art": "das",
+   "de": "Waschbecken",
+   "plural": "-",
+   "ar": "حوض",
+   "photo": {
+    "file": "Washbasins of the restrooms in Crowne Plaza Vientiane.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Washbasins_of_the_restrooms_in_Crowne_Plaza_Vientiane.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Washbasins_of_the_restrooms_in_Crowne_Plaza_Vientiane.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Basile Morin"
+   }
+  },
+  {
+   "id": "steckdose",
+   "topic": "haushalt2",
+   "art": "die",
+   "de": "Steckdose",
+   "plural": "Steckdosen",
+   "ar": "بريزة",
+   "photo": {
+    "file": "MTR CRH380A AC power plugs and sockets 201710.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:MTR_CRH380A_AC_power_plugs_and_sockets_201710.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:MTR_CRH380A_AC_power_plugs_and_sockets_201710.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Wpcpey"
+   }
+  },
+  {
+   "id": "kronleuchter",
+   "topic": "haushalt2",
+   "art": "der",
+   "de": "Kronleuchter",
+   "plural": "-",
+   "ar": "نجفة",
+   "photo": {
+    "file": "Chandelier captured in Madhapur, Hyderabad (1).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chandelier_captured_in_Madhapur,_Hyderabad_(1).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Chandelier_captured_in_Madhapur,_Hyderabad_(1).jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "iMahesh"
+   }
+  },
+  {
+   "id": "wasserhahn",
+   "topic": "haushalt2",
+   "art": "der",
+   "de": "Wasserhahn",
+   "plural": "Wasserhähne",
+   "ar": "حنفية",
+   "photo": {
+    "file": "Tap 3.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tap_3.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Tap_3.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Kamalimaddy"
+   }
+  },
+  {
+   "id": "etagenbett",
+   "topic": "haushalt2",
+   "art": "das",
+   "de": "Etagenbett",
+   "plural": "Etagenbetten",
+   "ar": "سرير دورين",
+   "photo": {
+    "file": "Bunks in the USS Pampanito.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bunks_in_the_USS_Pampanito.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Bunks_in_the_USS_Pampanito.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Slyronit"
+   }
+  },
+  {
+   "id": "kommode",
+   "topic": "haushalt2",
+   "art": "die",
+   "de": "Kommode",
+   "plural": "Kommoden",
+   "ar": "دولاب أدراج",
+   "photo": {
+    "file": "Chest of Drawers MET 85J ACF3111R7.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Chest_of_Drawers_MET_85J_ACF3111R7.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Chest_of_Drawers_MET_85J_ACF3111R7.jpg",
+    "license": "CC0",
+    "author": ""
+   }
+  },
+  {
+   "id": "klingel",
+   "topic": "haushalt2",
+   "art": "die",
+   "de": "Klingel",
+   "plural": "Klingeln",
+   "ar": "جرس الباب",
+   "photo": {
+    "file": "Doorbell.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Doorbell.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Doorbell.JPG",
+    "license": "Public domain",
+    "author": "Albertyanks  Albert Jankowski"
+   }
+  },
+  {
+   "id": "violine",
+   "topic": "musik2",
+   "art": "die",
+   "de": "Violine",
+   "plural": "Violinen",
+   "ar": "كمان",
+   "photo": {
+    "file": "Violin & bow.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Violin_%26_bow.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Violin_%26_bow.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Areafin tawfiq"
+   }
+  },
+  {
+   "id": "rechen",
+   "topic": "haushalt2",
+   "art": "der",
+   "de": "Rechen",
+   "plural": "-",
+   "ar": "مشط حديقة",
+   "photo": {
+    "file": "Garden rake made from turned pear tree wood, made 1560, Rustkammer Museum, Dresden.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Garden_rake_made_from_turned_pear_tree_wood,_made_1560,_Rustkammer_Museum,_Dresden.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Garden_rake_made_from_turned_pear_tree_wood,_made_1560,_Rustkammer_Museum,_Dresden.jpg",
+    "license": "CC BY 4.0",
+    "author": "Stephencdickson"
+   }
+  },
+  {
+   "id": "spaten",
+   "topic": "haushalt2",
+   "art": "der",
+   "de": "Spaten",
+   "plural": "-",
+   "ar": "مجرفة",
+   "photo": {
+    "file": "Spade.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Spade.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Spade.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Rasbak"
+   }
+  },
+  {
+   "id": "mundharmonika",
+   "topic": "musik2",
+   "art": "die",
+   "de": "Mundharmonika",
+   "plural": "Mundharmonikas",
+   "ar": "هارمونيكا",
+   "photo": {
+    "file": "Marine Band harmonica kit.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Marine_Band_harmonica_kit.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Marine_Band_harmonica_kit.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Lambtron"
+   }
+  },
+  {
+   "id": "tamburin",
+   "topic": "musik2",
+   "art": "das",
+   "de": "Tamburin",
+   "plural": "Tamburine",
+   "ar": "دف",
+   "photo": {
+    "file": "LP Tambourine by MusicTales.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:LP_Tambourine_by_MusicTales.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:LP_Tambourine_by_MusicTales.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Serg Childed"
+   }
+  },
+  {
+   "id": "klarinette",
+   "topic": "musik2",
+   "art": "die",
+   "de": "Klarinette",
+   "plural": "Klarinetten",
+   "ar": "كلارينيت",
+   "photo": {
+    "file": "Parts of clarinet 3.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Parts_of_clarinet_3.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Parts_of_clarinet_3.jpg",
+    "license": "CC0",
+    "author": "Gisbert König"
+   }
+  },
+  {
+   "id": "buehne",
+   "topic": "musik2",
+   "art": "die",
+   "de": "Bühne",
+   "plural": "Bühnen",
+   "ar": "مسرح",
+   "photo": {
+    "file": "Main stage in Nowy Theatre in Zabrze, June 2021.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Main_stage_in_Nowy_Theatre_in_Zabrze,_June_2021.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Main_stage_in_Nowy_Theatre_in_Zabrze,_June_2021.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "MichalPL"
+   }
+  },
+  {
+   "id": "oper",
+   "topic": "musik2",
+   "art": "die",
+   "de": "Oper",
+   "plural": "Opern",
+   "ar": "أوبرا",
+   "photo": {
+    "file": "Sydney Opera House - Dec 2008.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_-_Dec_2008.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Sydney_Opera_House_-_Dec_2008.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Diliff"
+   }
+  },
+  {
+   "id": "schaukelpferd",
+   "topic": "spielzeug",
+   "art": "das",
+   "de": "Schaukelpferd",
+   "plural": "Schaukelpferde",
+   "ar": "حصان هزاز",
+   "photo": {
+    "file": "Rocking Horse in Antique Shop.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rocking_Horse_in_Antique_Shop.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Rocking_Horse_in_Antique_Shop.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "DrStew82"
+   }
+  },
+  {
+   "id": "kreisel",
+   "topic": "spielzeug",
+   "art": "der",
+   "de": "Kreisel",
+   "plural": "-",
+   "ar": "فركة",
+   "photo": {
+    "file": "Spinning top shadow.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Spinning_top_shadow.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Spinning_top_shadow.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Armenak Margarian"
    }
   }
  ]

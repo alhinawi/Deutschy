@@ -1,0 +1,202 @@
+@kueche2|أدوات المطبخ
+der|Löffel|Löffel|ملعقة|spoon
+die|Gabel|Gabeln|شوكة|fork
+der|Kochtopf|Kochtöpfe|حلة|cooking pot
+der|Wasserkocher|-|غلاية|kettle electric
+der|Mixer|-|خلاط|blender
+der|Backofen|Backöfen|فرن|oven
+der|Herd|Herde|موقد|stove
+die|Spüle|Spülen|حوض المطبخ|sink kitchen
+der|Schneebesen|-|مضرب بيض|whisk
+der|Nudelholz|-|شوبك|rolling pin
+das|Sieb|Siebe|مصفاة|colander
+der|Dosenöffner|-|فتاحة علب|can opener
+der|Korkenzieher|-|فتاحة زجاجات|corkscrew
+die|Reibe|Reiben|مبشرة|grater
+der|Schöpflöffel|-|مغرفة|ladle
+die|Schüssel|Schüsseln|وعاء|bowl
+das|Brett|Bretter|لوح تقطيع|cutting board
+die|Teekanne|Teekannen|إبريق شاي|teapot
+das|Weinglas|Weingläser|كأس نبيذ|wine glass
+der|Eierbecher|-|حامل بيض|egg cup
+die|Thermoskanne|Thermoskannen|ترمس|thermos
+der|Grill|Grills|شواية|barbecue grill
+die|Kaffeemaschine|Kaffeemaschinen|ماكينة قهوة|coffee machine
+der|Gefrierschrank|Gefrierschränke|فريزر|freezer
+die|Spülmaschine|Spülmaschinen|غسالة أطباق|dishwasher
+@kleidung2|ملابس وإكسسوارات
+der|Pullover|-|بلوفر|sweater
+die|Krawatte|Krawatten|كرافتة|necktie
+der|Anzug|Anzüge|بدلة|suit
+der|Handschuh|Handschuhe|قفاز|glove
+der|Hut|Hüte|قبعة|hat
+die|Sandale|Sandalen|صندل|sandal
+der|Regenmantel|Regenmäntel|معطف مطر|raincoat
+die|Badehose|Badehosen|مايوه رجالي|swim trunks
+der|Schlafanzug|Schlafanzüge|بيجامة|pajamas
+die|Weste|Westen|صدرية|waistcoat
+der|Geldbeutel|-|محفظة|wallet
+die|Handtasche|Handtaschen|شنطة يد|handbag
+der|Ring|Ringe|خاتم|ring jewellery
+die|Halskette|Halsketten|عقد|necklace
+der|Ohrring|Ohrringe|حلق|earring
+das|Armband|Armbänder|سوار|bracelet
+der|Schirm|Schirme|مظلة|umbrella
+die|Turnhose|Turnhosen|شورت رياضي|shorts
+das|Kopftuch|Kopftücher|حجاب|headscarf
+die|Jeans|-|جينز|jeans
+@essen3|أكل وشرب 3
+die|Pommes|-|بطاطس مقلية|french fries
+die|Pute|Puten|ديك رومي|turkey
+der|Joghurt|Joghurts|زبادي|yogurt
+die|Nuss|Nüsse|مكسرات|nut
+die|Zimtstange|Zimtstangen|قرفة|cinnamon
+der|Pfeffer|-|فلفل أسود|pepper black
+die|Marmelade|Marmeladen|مربى|jam
+die|Cornflakes|-|كورن فليكس|cornflakes
+der|Reiskocher|-|حلة أرز|rice cooker
+der|Blumenkohlkopf|-|قرنبيط|cauliflower
+die|Aubergine|Auberginen|باذنجان|eggplant
+die|Zucchini|Zucchini|كوسة|zucchini
+der|Mangold|-|سلق|chard
+die|Rote Bete|-|بنجر|beetroot
+die|Süßkartoffel|Süßkartoffeln|بطاطا حلوة|sweet potato
+die|Ingwerwurzel|-|زنجبيل|ginger
+die|Petersilie|-|بقدونس|parsley
+die|Minze|-|نعناع|mint
+der|Basilikum|-|ريحان|basil
+die|Kirschtomate|Kirschtomaten|طماطم كرزية|cherry tomato
+die|Himbeere|Himbeeren|توت العليق|raspberry
+die|Blaubeere|Blaubeeren|توت أزرق|blueberry
+die|Brombeere|Brombeeren|توت أسود|blackberry
+die|Johannisbeere|Johannisbeeren|كشمش|redcurrant
+die|Zitronenscheibe|-|شريحة ليمون|lemon slice
+die|Pistazie|Pistazien|فستق|pistachio
+die|Cashewnuss|Cashewnüsse|كاجو|cashew
+die|Bratkartoffel|Bratkartoffeln|بطاطس محمرة|fried potatoes
+die|Brezel|Brezeln|بريتزل|pretzel
+das|Vollkornbrot|Vollkornbrote|خبز أسمر|wholemeal bread
+das|Fladenbrot|Fladenbrote|خبز مسطح|flatbread
+die|Lasagne|-|لازانيا|lasagne
+die|Currywurst|Currywürste|كاري فورست|currywurst
+die|Muschel|Muscheln|محار|mussel
+der|Thunfisch|Thunfische|تونة|tuna
+die|Sardine|Sardinen|سردين|sardine
+der|Kaviar|-|كافيار|caviar
+der|Cappuccino|Cappuccinos|كابتشينو|cappuccino
+das|Eiscreme|-|آيس كريم|ice cream cone
+der|Lutscher|-|مصاصة|lollipop
+der|Honigkuchen|-|كعكة عسل|honey cake
+das|Popcorn|-|فشار|popcorn
+@sport2|رياضة وهوايات
+der|Basketball|Basketbälle|كرة سلة|basketball
+der|Tennisball|Tennisbälle|كرة تنس|tennis ball
+der|Golfschläger|-|مضرب جولف|golf club
+das|Fahrradhelm|-|خوذة دراجة|bicycle helmet
+die|Hantel|Hanteln|دامبل|dumbbell
+das|Surfbrett|Surfbretter|لوح تزلج على الأمواج|surfboard
+die|Skier|-|زلاجات|skis
+das|Snowboard|Snowboards|سنوبورد|snowboard
+der|Boxhandschuh|Boxhandschuhe|قفاز ملاكمة|boxing glove
+der|Bogen|Bögen|قوس|archery bow
+das|Dartbrett|-|لوح سهام|dartboard
+der|Angelhaken|-|سنارة|fishing hook
+die|Angel|Angeln|صنارة صيد|fishing rod
+das|Zelt|Zelte|خيمة|tent camping
+der|Schlafsack|Schlafsäcke|كيس نوم|sleeping bag
+der|Wanderstock|Wanderstöcke|عصا مشي|trekking pole
+die|Tischtennisplatte|Tischtennisplatten|طاولة بينج بونج|table tennis table
+der|Federball|Federbälle|ريشة|shuttlecock
+das|Schwimmbecken|-|حمام سباحة|swimming pool
+das|Fußballtor|Fußballtore|مرمى|football goal
+die|Laufschuhe|-|حذاء جري|running shoes
+das|Trampolin|Trampoline|ترامبولين|trampoline
+das|Segel|Segel|شراع|sail
+das|Kajak|Kajaks|كاياك|kayak
+der|Fallschirm|Fallschirme|مظلة هبوط|parachute
+das|Klettern|-|تسلق|rock climbing
+@schule2|مدرسة ومكتب
+der|Globus|Globen|كرة أرضية|globe
+der|Bleistiftspitzer|-|براية|pencil sharpener
+das|Lineal|Lineale|مسطرة|ruler
+der|Zirkel|-|فرجار|compass drawing
+der|Taschenrechner|-|آلة حاسبة|calculator
+die|Schultasche|Schultaschen|شنطة مدرسة|school bag
+der|Ordner|-|ملف|binder folder
+das|Klebeband|Klebebänder|شريط لاصق|adhesive tape
+die|Heftklammer|Heftklammern|دبوس|staple
+der|Filzstift|Filzstifte|قلم فلوماستر|marker
+der|Buntstift|Buntstifte|قلم ملون|colored pencil
+die|Wandtafel|Wandtafeln|سبورة|blackboard classroom
+der|Beamer|-|بروجيكتور|projector
+der|Drucker|-|طابعة|printer
+die|Tastatur|Tastaturen|كيبورد|keyboard computer
+die|Computermaus|Computermäuse|ماوس|computer mouse
+der|Lautsprecher|-|سماعة|loudspeaker
+das|Mikrofon|Mikrofone|ميكروفون|microphone
+der|Kalender|-|تقويم|calendar
+der|Stempel|-|ختم|rubber stamp
+@haushalt2|البيت والأثاث
+der|Staubsauger|-|مكنسة كهربائية|vacuum cleaner
+der|Mülleimer|-|سلة مهملات|waste bin
+der|Wäscheständer|-|نشّافة غسيل|clothes horse
+die|Badewanne|Badewannen|بانيو|bathtub
+die|Dusche|Duschen|دش|shower
+die|Toilette|Toiletten|حمّام|toilet
+das|Waschbecken|-|حوض|washbasin
+der|Wasserhahn|Wasserhähne|حنفية|tap
+die|Steckdose|Steckdosen|بريزة|power socket
+der|Stecker|-|فيشة|plug
+die|Glühbirne|Glühbirnen|لمبة|light bulb
+der|Kronleuchter|-|نجفة|chandelier
+das|Bücherregal|Bücherregale|مكتبة|bookcase
+die|Kommode|Kommoden|دولاب أدراج|chest of drawers
+der|Kleiderschrank|Kleiderschränke|دولاب ملابس|wardrobe
+das|Etagenbett|Etagenbetten|سرير دورين|bunk bed
+der|Kinderwagen|-|عربية أطفال|pram
+die|Wiege|Wiegen|مهد|cradle
+der|Schaukelstuhl|Schaukelstühle|كرسي هزاز|rocking chair
+die|Hängematte|Hängematten|أرجوحة شبكية|hammock
+der|Briefkasten|Briefkästen|صندوق بريد|mailbox
+die|Haustür|Haustüren|باب البيت|front door
+die|Klingel|Klingeln|جرس الباب|doorbell
+der|Zaun|Zäune|سور|fence
+die|Garage|Garagen|جراج|garage
+der|Dachboden|-|علّية|attic
+der|Schornstein|Schornsteine|مدخنة|chimney
+die|Gießkanne|Gießkannen|رشاش مياه|watering can
+der|Gartenschlauch|Gartenschläuche|خرطوم حديقة|garden hose
+der|Spaten|-|مجرفة|spade
+der|Rechen|-|مشط حديقة|garden rake
+@musik2|موسيقى وفن
+die|Violine|Violinen|كمان|violin
+die|Harfe|Harfen|هارب|harp
+die|Tuba|Tuben|توبا|tuba
+die|Klarinette|Klarinetten|كلارينيت|clarinet
+das|Tamburin|Tamburine|دف|tambourine
+das|Xylofon|Xylofone|إكسيليفون|xylophone
+die|Mundharmonika|Mundharmonikas|هارمونيكا|harmonica
+das|Banjo|Banjos|بانجو|banjo
+die|Staffelei|Staffeleien|حامل لوحة|easel
+der|Pinsel|-|فرشاة|paintbrush
+die|Skulptur|Skulpturen|تمثال|sculpture
+das|Gemälde|-|لوحة|painting
+die|Bühne|Bühnen|مسرح|stage theatre
+die|Oper|Opern|أوبرا|opera house
+der|Zirkus|Zirkusse|سيرك|circus
+der|Clown|Clowns|مهرج|clown
+@spielzeug|ألعاب
+der|Teddybär|Teddybären|دبدوب|teddy bear
+der|Legostein|Legosteine|مكعب ليجو|lego brick
+das|Puzzle|Puzzles|بازل|jigsaw puzzle
+der|Drachen|-|طيارة ورق|kite
+das|Dreirad|Dreiräder|دراجة ثلاثية|tricycle
+der|Luftballon|Luftballons|بالونة|balloon
+die|Murmel|Murmeln|بلية|marble toy
+der|Kreisel|-|فركة|spinning top
+die|Seifenblase|Seifenblasen|فقاعة صابون|soap bubble
+das|Schaukelpferd|Schaukelpferde|حصان هزاز|rocking horse
+die|Spielkarte|Spielkarten|ورق لعب|playing card
+das|Brettspiel|Brettspiele|لعبة لوحية|board game
+das|Mikado|-|ميكادو|pick-up sticks
+die|Sandburg|Sandburgen|قلعة رمل|sandcastle
