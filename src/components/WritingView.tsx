@@ -12,19 +12,19 @@ const Tick = ({ ok }: { ok: boolean }) => ok
   ? <svg viewBox="0 0 24 24" className="h-5 w-5 shrink-0 text-good" fill="none" stroke="currentColor" strokeWidth="3" aria-label="ok"><path d="M5 12l5 5 9-10" /></svg>
   : <svg viewBox="0 0 24 24" className="h-5 w-5 shrink-0 text-muted" fill="none" stroke="currentColor" strokeWidth="2" aria-label="missing"><circle cx="12" cy="12" r="8" /></svg>;
 
-export default function WritingView() {
+export default function WritingView({ onlyLevel }: { onlyLevel?: 'A2' } = {}) {
   const t = useT();
   const { lang } = useLang();
   const [lv, setLv] = useState<(typeof LV)[number]>('all');
   const [open, setOpen] = useState<WTask | null>(null);
-  const list = writingTasks.filter((x) => lv === 'all' || x.level === lv);
+  const list = writingTasks.filter((x) => lv === 'all' || x.level === lv).filter((x) => !onlyLevel || x.level === onlyLevel);
   if (open) return <Task task={open} back={() => setOpen(null)} />;
   return (
     <div className="space-y-6">
-      <h1 className="ar-title text-4xl font-bold">{t('تدريب الكتابة', 'Writing practice')}</h1>
+      <h1 className="ar-title text-4xl font-bold">{onlyLevel ? t('تدريب كتابة A2', 'A2 writing practice') : t('تدريب الكتابة', 'Writing practice')}</h1>
       <p className="text-muted">{t('مهام قصيرة لكل مستوى. اكتب بنفسك، والصفحة بتشيّك لو كتبت العبارات الأساسية المطلوبة وعدد الكلمات. مفيش تقييم آلي للغة، وفي الآخر تقدر تشوف نموذج.', 'Short tasks for each level. You write it yourself and the page checks that the key phrases and word count are there. There is no automatic grading of your German, and you can see a model at the end.')}</p>
       <div className="flex flex-wrap gap-2">
-        {LV.map((l) => <button key={l} onClick={() => setLv(l)} className={`num rounded-full border px-4 py-2 ${lv === l ? 'border-accent bg-accent text-accent-ink' : 'border-line bg-paper'}`}>{l === 'all' ? t('الكل', 'All') : l}</button>)}
+        {!onlyLevel && LV.map((l) => <button key={l} onClick={() => setLv(l)} className={`num rounded-full border px-4 py-2 ${lv === l ? 'border-accent bg-accent text-accent-ink' : 'border-line bg-paper'}`}>{l === 'all' ? t('الكل', 'All') : l}</button>)}
       </div>
       <ul className="grid gap-3 sm:grid-cols-2">
         {list.map((x) => (
@@ -60,7 +60,9 @@ function Task({ task, back }: { task: WTask; back: () => void }) {
         <h1 className="ar-title text-3xl font-bold">{lang === 'ar' ? task.title[0] : task.title[1]}</h1>
       </div>
       <p className="ar-title text-lg leading-8">{lang === 'ar' ? <Mixed text={task.brief[0]} /> : task.brief[1]}</p>
-      <textarea dir="ltr" lang="de" rows={9} value={text} onChange={(e) => { setText(e.target.value); try { localStorage.setItem(key, e.target.value); } catch { /* ignore */ } }} className="de w-full rounded-2xl border border-line bg-card p-4 text-lg outline-none focus:border-accent" placeholder="…" />
+      {task.tips && <aside className="rounded-xl border border-accent bg-card p-4"><h2 className="ar-title mb-2 text-xl font-bold">{t('خد بالك', 'Writing tip')}</h2><p><Mixed text={lang === 'ar' ? task.tips[0] : task.tips[1]} /></p></aside>}
+      <label htmlFor="writing-answer" className="ar-title block font-bold">{t('نصك بالألماني', 'Your text in German')}</label>
+      <textarea id="writing-answer" dir="ltr" lang="de" rows={9} value={text} onChange={(e) => { setText(e.target.value); try { localStorage.setItem(key, e.target.value); } catch { /* ignore */ } }} className="de w-full rounded-2xl border border-line bg-card p-4 text-lg outline-none focus:border-accent" placeholder="…" />
       <p dir="ltr" className={`num text-sm ${n >= task.min ? 'text-good' : 'text-muted'}`}>{n} / {task.min} {t('كلمة', 'words')}</p>
       <ul className="space-y-2">
         {task.need.map((x, i) => (

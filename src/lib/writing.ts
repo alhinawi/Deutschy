@@ -1,6 +1,6 @@
 import type { Lvl } from './grammar-types';
 // need: [alternatives joined by |, Arabic hint, English hint]; a task is checked by looking for each phrase in the text
-export type WTask = { id: string; level: Lvl; title: [string, string]; brief: [string, string]; need: [string, string, string][]; min: number; model: string };
+export type WTask = { id: string; level: Lvl; title: [string, string]; brief: [string, string]; need: [string, string, string][]; min: number; model: string; tips?: [string, string] };
 
 export const writingTasks: WTask[] = [
   { id: 'brieffreund', level: 'A1', title: ['اتعرّف على صديق مراسلة', 'Introduce yourself to a pen pal'], brief: ['اكتب رسالة قصيرة تعرّف فيها بنفسك: اسمك وبلدك ومكان سكنك وعمرك وحاجة بتحبها.', 'Write a short message about yourself: name, country, where you live, age and something you like.'],
@@ -37,3 +37,10 @@ export const writingTasks: WTask[] = [
     need: [['sehr geehrte', 'تحية رسمية', 'formal greeting'], ['bestellt', 'طلبت', 'ordered'], ['geliefert', 'اتسلّم', 'delivered'], ['defekt|kaputt', 'بايظ', 'broken'], ['erstattung|ersatz|umtausch|rückerstattung', 'استرداد أو بديل', 'refund or replacement'], ['bis zum|frist|innerhalb', 'مهلة', 'deadline'], ['mit freundlichen grüßen', 'خاتمة رسمية', 'formal closing']], min: 50,
     model: 'Sehr geehrte Damen und Herren,\nam 3. Mai habe ich bei Ihnen einen Wasserkocher bestellt. Das Gerät wurde gestern geliefert, ist aber defekt: Es lässt sich nicht einschalten. Ich bitte Sie daher um einen Ersatz oder die Erstattung des Kaufpreises. Bitte teilen Sie mir bis zum 20. Mai mit, wie Sie vorgehen möchten.\nMit freundlichen Grüßen\nKhaled Samir' },
 ];
+
+import { a2Writing } from './writing-a2';
+writingTasks.push(...a2Writing);
+
+for (const task of writingTasks.filter((t) => t.level === 'A2' && !t.tips)) {
+  task.tips = ['راجع إنك جاوبت على كل نقطة. خليك واضح في السبب والميعاد، واختار تحية وخاتمة مناسبين للشخص اللي بتكتب له. العبارات دي مجرد مساعدة للمراجعة، مش تقييم كامل للغتك.', 'Cover every requested point. Make the reason and time clear, and choose a greeting and closing suitable for your reader. The phrase checklist supports review; it is not a full language assessment.'];
+}
