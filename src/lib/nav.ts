@@ -13,6 +13,7 @@ export const sidebar: NavGroup[] = [
     { href: '/verbs/trainer/', ar: 'تدريب التصريف', en: 'Conjugation trainer' },
     { href: '/verbs/quiz/', ar: 'اختبار الأفعال', en: 'Verb quiz' },
     { href: '/dialogues/', ar: 'حوارات', en: 'Dialogues' },
+    { href: '/redewendungen/', ar: 'تعبيرات ألمانية', en: 'Redewendungen' },
     { href: '/writing/', ar: 'تدريب الكتابة', en: 'Writing practice' },
     { href: '/reading/', ar: 'القراءة', en: 'Reading' },
     { href: '/wortschatz/', ar: 'مفردات الامتحان', en: 'Exam vocabulary' },
