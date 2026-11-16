@@ -1,0 +1,2 @@
+# Dialogue listening and access
+Reused existing texts, Arabic support, role practice and comprehension. Added shop/doctor/flat direct selections and train link on /dialogues/, plus shared German-only browser voice/read fallback to both dialogue readers (all 25 dialogues). No recordings, backend or pronunciation claim. Fictional-context note on original reader too. Four scenario paths and no-German-voice behavior passed mobile axe/overflow; typecheck/export pass. Inspected mobile train screenshot. Actual device voice output remains unverified.
