@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the twenty-third practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the twenty-fourth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -119,6 +119,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/lessons/pausenbedarf/` and `/lessons/schreibzubehoer/` and `/lessons/reisehelfer/` | Review six articles/plurals and Egyptian Arabic photo senses, especially Heftgerät, Klebebänder and same-form Spitzer. Bottle and preceding luggage-tag photo replaced with plain real photographs after visual review; assess both as teaching cues. Dictionary checks are not editorial sign-off. |
 | [ ] | `/verbs/` and `/dictation/` | Review normalized search, meaning searches, selected-filter and empty-state copy in both languages. New focused dictation has 41 sentences; listen on a real German device voice. Mocked-voice checks are not pronunciation review. |
 
+### Twenty-fourth update: new content, still pending
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-backformen/` and `/dialogues/#sterne-ausstechen` | Review cutter/pan vocabulary, a star shape versus a baking pan and the three finished stars left for a friend. Check all 7 answers and exact evidence. Beginner difficulty is approximate; there are no recipe or heat-handling instructions. |
+| [ ] | `/reading/alltag-a2-badablage/` and `/dialogues/#schale-zurueck` | Review accidental packing versus an explicit gift, object/pronoun references and the return reminder. Check all 7 answers, Seifenschale/Seifenspender distinction and Egyptian Arabic. |
+| [ ] | `/reading/alltag-b1-leihformen/` and `/dialogues/#form-weiterleihen` | Review original permission versus a pending request and the later limited extension, return responsibility and separate dates. Check all 7 answers/evidence. Fictional agreement, not legal advice or a service policy. |
+| [ ] | `src/lib/exercises-borrowing.ts` | Review 24 appended accusative, possessive, modal, imperative, comparative and dative-preposition questions in both languages. Frag/Frage and Stell/Stelle are acknowledged alternatives; verify distractors and explanations. Preserve all older saved IDs. |
+| [ ] | `/lessons/backhelfer/` and `/lessons/badzubehoer/` | Review six articles/plurals and Egyptian Arabic photo senses. Assess the springform ring beside its cake as a Backform cue, cutter/potholder sets, soap dish, nail scissors and unbranded dispenser. Same-form plurals use the established convention. Dictionary/source checks are not editorial sign-off. |
+| [ ] | `/conjugation/` and `/dictation/` | Review direct person selection, previous/next wrap/reset and explicitly unsaved practice in both languages. Existing 264 form cells are unchanged. New focused dictation has 42 sentences; listen on a real German device voice. Mocked-voice checks do not review pronunciation. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -133,7 +144,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **691 photo nouns / 65 topics**, **87 reading texts / 301 reading questions**, **41 core grammar topics / 502 core grammar questions**, **27 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **697 photo nouns / 67 topics**, **90 reading texts / 313 reading questions**, **41 core grammar topics / 526 core grammar questions**, **30 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -145,7 +156,7 @@ This is an inventory, not completed review. Snapshot: **691 photo nouns / 65 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 11 · A2 24 · B1 22 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 12 · A2 25 · B1 23 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

@@ -1,0 +1,426 @@
+{
+  "routes": 21,
+  "checks": 42,
+  "results": [
+    {
+      "route": "",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "German is easier with pictures and plain explanations",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "German is easier with pictures and plain explanations",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "reading/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Reading",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "reading/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Reading",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "reading/alltag-a1-backformen/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Sterne für den Nachmittag",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "reading/alltag-a1-backformen/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Sterne für den Nachmittag",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "reading/alltag-a2-badablage/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Wem gehört die kleine Schale?",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "reading/alltag-a2-badablage/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Wem gehört die kleine Schale?",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "reading/alltag-b1-leihformen/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Ausleihen heißt nicht weitergeben",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "reading/alltag-b1-leihformen/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Ausleihen heißt nicht weitergeben",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "dialogues/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Dialogues",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "dialogues/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Dialogues",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "conversation/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "A1 and A2 conversation practice",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "conversation/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "A1 and A2 conversation practice",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "dictation/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Listen and type",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "dictation/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Listen and type",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "lessons/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Lessons · Level A1",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "lessons/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "الدروس · المستوى A1",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "lessons/backhelfer/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Backhelfer",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "lessons/backhelfer/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Backhelfer",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "lessons/badzubehoer/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Badzubehör",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "lessons/badzubehoer/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Badzubehör",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "games/quiz/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "games/quiz/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "progress/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "My progress",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "progress/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "My progress",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "credits/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Photo credits",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "credits/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Photo credits",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/akkusativ/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "The accusative case",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/akkusativ/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "The accusative case",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/possessiv/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Possessives: mein, dein, sein",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/possessiv/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Possessives: mein, dein, sein",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/modalverben/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Modal verbs",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/modalverben/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Modal verbs",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/imperativ/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "The imperative",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/imperativ/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "The imperative",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/komparativ/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Comparative and superlative",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/komparativ/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Comparative and superlative",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/dativ-praepositionen/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Prepositions with dative and accusative",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "grammar/dativ-praepositionen/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Prepositions with dative and accusative",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "conjugation/",
+      "viewport": 390,
+      "width": 390,
+      "status": 200,
+      "h1": "Verb conjugation lab",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    },
+    {
+      "route": "conjugation/",
+      "viewport": 1280,
+      "width": 1280,
+      "status": 200,
+      "h1": "Verb conjugation lab",
+      "broken": [],
+      "badLinks": 0,
+      "errors": []
+    }
+  ]
+}
