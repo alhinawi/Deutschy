@@ -10,9 +10,9 @@ const gs: (G | 'p')[] = ['m', 'f', 'n', 'p'];
 const pick = <T,>(a: T[]) => a[Math.floor(Math.random() * a.length)];
 const ALL = ['e', 'en', 'er', 'es', 'em'];
 
-function item(): QItem {
-  const c = pick(cases);
-  const kind = pick(['def', 'indef', 'zero'] as const);
+function item(focusCase: Case | "all" = "all", focusKind: "def" | "indef" | "zero" | "all" = "all"): QItem {
+  const c = focusCase === "all" ? pick(cases) : focusCase;
+  const kind = focusKind === 'all' ? pick(['def', 'indef', 'zero'] as const) : focusKind;
   const n = pick(things);
   const adj = pick(adjs);
   const g: G | 'p' = kind === 'zero' ? 'p' : kind === 'indef' && Math.random() < 0.2 ? 'p' : pick(['m', 'f', 'n'] as G[]);
@@ -54,6 +54,8 @@ function Table({ title, art, end }: { title: string; art: typeof defArt | null; 
 
 export default function AdjView() {
   const t = useT();
+  const [focusCase,setFocusCase]=useState<Case|'all'>('all');
+  const [focusKind,setFocusKind]=useState<'def'|'indef'|'zero'|'all'>('all');
   const [tab, setTab] = useState<'table' | 'quiz'>('table');
   const pill = (on: boolean) => `rounded-full border px-4 py-2 ${on ? 'border-accent bg-accent text-accent-ink' : 'border-line bg-paper'}`;
   return (
@@ -72,7 +74,7 @@ export default function AdjView() {
           <p dir="auto" className="ar-title text-sm text-muted">{t('مثال: der neue Tisch، ein neuer Tisch، neuer Tisch (مع جمع: neue Tische). نفس الجدول للمفرد المؤنث والمحايد في Nom/Akk: die neue Lampe، das neue Buch، ein neues Buch.', 'Example: der neue Tisch, ein neuer Tisch, neue Tische. Feminine and neuter match in Nom and Akk: die neue Lampe, das neue Buch, ein neues Buch.')}</p>
         </div>
       )}
-      {tab === 'quiz' && <MiniQuiz game="adjektivendungen" make={() => Array.from({ length: 10 }, item)} />}
+      {tab === 'quiz' && <section className="space-y-4"><p>{t('حدد اللي محتاجه. التدريب ده للحالات التلاتة الظاهرة بس؛ من غير أداة هنا جمع بس، ومفيش جينيتيف في المجموعة.','Choose your focus. These exercises cover only the three listed cases; no-article questions use plural only. Genitive is outside this set.')}</p><label htmlFor="adj-case" className="block">{t('الحالة','Case')}</label><select id="adj-case" value={focusCase} onChange={e=>setFocusCase(e.target.value as Case|'all')} className="rounded-xl border border-line bg-card p-3"><option value="all">{t('كل الحالات','All cases')}</option>{cases.map(c=><option key={c} value={c}>{caseName[c][0]}</option>)}</select><label htmlFor="adj-kind" className="block">{t('الأداة','Article type')}</label><select id="adj-kind" value={focusKind} onChange={e=>setFocusKind(e.target.value as typeof focusKind)} className="max-w-full rounded-xl border border-line bg-card p-3">{[['all','كل الأنواع','All types'],['def','أداة معرفة','Definite'],['indef','أداة نكرة أو نفي','Indefinite / negative'],['zero','جمع من غير أداة','Plural, no article']].map(([v,ar,en])=><option key={v} value={v}>{t(ar,en)}</option>)}</select><MiniQuiz key={focusCase+focusKind} game="adjektivendungen" make={() => Array.from({ length: 10 },()=>item(focusCase,focusKind))} /></section>}
     </div>
   );
 }
