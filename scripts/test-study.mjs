@@ -253,3 +253,8 @@ for(let n=0;n<30;n++){const key=`dativ:${n}:question`,o=practiceOptionOrder(key,
 assert.equal(permutations.size,6);assert.equal(positions.size,3);
 assert.equal(lib('exercises').exercises.satzbau[2][0],'___ du heute?');
 console.log('PASS: quiz options use all six stable permutations, cover all correct positions and retain the repaired yes/no prompt');
+
+const {everydayTexts}=lib('reading-everyday');assert.equal(everydayTexts.length,2);
+for(const r of everydayTexts){assert(['A2','B1'].includes(r.level));assert(r.de.join(' ').split(/\s+/).length>=100);assert.equal(r.de.length,r.ar.length);assert.equal(r.q.length,4);assert.equal(readingEvidence[r.id].length,4);for(const q of r.q)assert.equal(new Set(q.slice(1)).size,3);assert(lib('reading').readings.some(t=>t.id===r.id));}
+const readerSource=readFileSync('src/components/ReadingView.tsx','utf8');assert(readerSource.includes('locked.current=true'));assert(readerSource.includes('practiceOptionOrder'));assert(readerSource.includes('disabled={pick!==null}'));
+console.log('PASS: two extended A2/B1 fictional everyday texts, eight evidence-backed questions, reading input lock and six-way ordering');

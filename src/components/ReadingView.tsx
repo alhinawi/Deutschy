@@ -1,14 +1,13 @@
 'use client';
 import {readingEvidence} from '@/lib/reading-evidence';
-import { useEffect, useState } from 'react';
+import { useEffect, useState, useRef } from 'react';
 import Link from 'next/link';
 import type { ReadingText } from '@/lib/reading';
 import { useT } from '@/lib/i18n';
 import { useStore } from '@/lib/store';
 import { speak, stopSpeaking } from '@/lib/speak';
 import Speaker from './Speaker';
-
-const order = (n: number, seed: number) => [[0, 1, 2], [1, 2, 0], [2, 0, 1], [0, 2, 1], [1, 0, 2], [2, 1, 0]][(seed * 5 + n * 3) % 6];
+import {practiceOptionOrder} from '@/lib/practice-options';
 
 export default function ReadingView({ r }: { r: ReadingText }) {
   const t = useT();
@@ -21,11 +20,14 @@ export default function ReadingView({ r }: { r: ReadingText }) {
   const [i, setI] = useState(0);
   const [pick, setPick] = useState<number | null>(null);
   const [score, setScore] = useState(0);
+  const [round,setRound]=useState(0);
+  const locked=useRef(false);
   const done = i >= r.q.length;
   const q = r.q[i];
   const evidence=readingEvidence[r.id]?.[i];
   const answer = (k: number) => {
-    if (pick !== null) return;
+    if (pick !== null || locked.current) return;
+    locked.current=true;
     setPick(k);
     const ok = k === 0;
     if (ok) setScore((s) => s + 1);
@@ -39,8 +41,8 @@ export default function ReadingView({ r }: { r: ReadingText }) {
         <h1 className="de mt-2 text-4xl font-semibold" lang="de">{r.title[0]}</h1>
         <p className="ar-title text-xl text-muted">{r.title[1]}</p>
       </div>
-      {(r.id.startsWith('c1-') || r.id.startsWith('c2-') || r.id.startsWith('micro-')) && <p className="text-sm text-muted">{t('نص أصلي بموقف افتراضي للتدريب، مش تقرير عن واقعة حقيقية.', 'Original fictional practice scenario, not a report of real events.')}</p>}
-      <div className="flex flex-wrap gap-2">{[false, true].map((v) => <button key={String(v)} onClick={() => { stopSpeaking(); setListening(v); setTranscript(false); setShow(false); setI(0); setPick(null); setScore(0); }} className={`rounded-full border px-5 py-2 ${listening === v ? 'border-accent bg-accent text-accent-ink' : 'border-line'}`}>{v ? t('تدريب السمع', 'Listening practice') : t('تدريب القراءة', 'Reading practice')}</button>)}</div>
+      {(r.id.startsWith('c1-') || r.id.startsWith('c2-') || r.id.startsWith('micro-') || r.id.startsWith('alltag-')) && <p className="text-sm text-muted">{t('نص أصلي بموقف افتراضي للتدريب، مش تقرير عن واقعة حقيقية.', 'Original fictional practice scenario, not a report of real events.')}</p>}
+      <div className="flex flex-wrap gap-2">{[false, true].map((v) => <button key={String(v)} onClick={() => { stopSpeaking(); setListening(v); setTranscript(false); setShow(false); setI(0); setPick(null); setScore(0);setRound(r=>r+1);locked.current=false; }} className={`rounded-full border px-5 py-2 ${listening === v ? 'border-accent bg-accent text-accent-ink' : 'border-line'}`}>{v ? t('تدريب السمع', 'Listening practice') : t('تدريب القراءة', 'Reading practice')}</button>)}</div>
       {listening && <section className="space-y-3 rounded-2xl border border-line bg-card p-5"><p>{t('اسمع الأول وجاوب من غير النص. الصوت حسب الأصوات الألماني المتاحة على جهازك.', 'Listen first and answer without the text. Speech uses the German voices available on your device.')}</p><div className="flex flex-wrap gap-2"><button onClick={async () => setAudioError(!(await speak(r.de.join(' '))))} className="flex items-center gap-2 rounded-full border border-line px-4 py-2"><Speaker />{t('اسمع', 'Listen')}</button><button onClick={stopSpeaking} className="rounded-full border border-line px-4 py-2">{t('وقف الصوت', 'Stop audio')}</button><button onClick={() => setTranscript(!transcript)} className="rounded-full border border-line px-4 py-2">{transcript ? t('اخفي النص', 'Hide text') : t('اعرض النص', 'Show text')}</button></div></section>}
       {(!listening || transcript) && <article dir="ltr" lang="de" className="de space-y-4 rounded-2xl border border-line bg-card p-5 text-xl leading-relaxed">
         {r.de.map((p, k) => <p key={k}>{p}</p>)}
@@ -58,16 +60,16 @@ export default function ReadingView({ r }: { r: ReadingText }) {
         {done ? (
           <div className="space-y-3">
             <p className="ar-title text-2xl">{t(`نتيجتك ${score} من ${r.q.length}`, `Your score: ${score} of ${r.q.length}`)}</p>
-            <button onClick={() => { setI(0); setPick(null); setScore(0); }} className="rounded-full bg-accent px-5 py-2 font-bold text-accent-ink">{t('أعد المحاولة', 'Try again')}</button>
+            <button onClick={() => { setI(0); setPick(null); setScore(0);setRound(r=>r+1);locked.current=false; }} className="rounded-full bg-accent px-5 py-2 font-bold text-accent-ink">{t('أعد المحاولة', 'Try again')}</button>
           </div>
         ) : (
           <>
             <p dir="ltr" className="de text-xl font-semibold" lang="de">{q[0]}</p>
             <div className="grid gap-2">
-              {order(i, r.id.length).map((k) => {
+              {practiceOptionOrder(`${r.id}:${i}:${q[0]}`,String(round)).map((k) => {
                 const state = pick === null ? '' : k === 0 ? 'border-good border-2 bg-good/10' : pick === k ? 'border-bad bg-bad/10' : '';
                 return (
-                  <button dir="ltr" key={k} onClick={() => answer(k)} lang="de" className={`de flex items-center justify-between gap-2 rounded-xl border border-line bg-paper px-3 py-2.5 text-start text-lg ${state}`}>
+                  <button dir="ltr" key={k} disabled={pick!==null} onClick={() => answer(k)} lang="de" className={`de flex items-center justify-between gap-2 rounded-xl border border-line bg-paper px-3 py-2.5 text-start text-lg ${state}`}>
                     <span>{q[1 + k]}</span>
                     
             {pick !== null && k === 0 && <svg viewBox="0 0 24 24" className="h-5 w-5 shrink-0 text-good" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-label="correct"><path d="M5 12l5 5 9-10" /></svg>}
@@ -76,9 +78,10 @@ export default function ReadingView({ r }: { r: ReadingText }) {
                 );
               })}
             </div>
+            {pick !== null && <p role="status">{pick===0?t('صح.','Correct.'):t('راجع الإجابة الصح.','Check the correct answer.')}</p>}
             {pick !== null && evidence && <aside className="space-y-2 rounded-xl border border-line p-4" aria-label={t('دليل من النص','Evidence from the text')}><h3>{t('راجع الدليل من النص','Check the evidence from the text')}</h3><blockquote dir="ltr" lang="de" className="de text-lg">{evidence}</blockquote><p className="text-sm text-muted">{t('قارن معنى الجملة بالسؤال؛ الإجابة ممكن تعيد نفس المعنى بكلمات مختلفة.','Compare the sentence with the question; the answer may paraphrase the same meaning.')}</p></aside>}
             {pick !== null && (
-              <button onClick={() => { setI(i + 1); setPick(null); }} className="rounded-full bg-accent px-5 py-2 font-bold text-accent-ink">{i + 1 >= r.q.length ? t('النتيجة', 'Result') : t('التالي', 'Next')}</button>
+              <button onClick={() => { setI(i + 1); setPick(null);locked.current=false; }} className="rounded-full bg-accent px-5 py-2 font-bold text-accent-ink">{i + 1 >= r.q.length ? t('النتيجة', 'Result') : t('التالي', 'Next')}</button>
             )}
           </>
         )}
