@@ -1,3 +1,6 @@
+import {practicalTerms} from './practical-glossary';
+import {speakingCards} from './speaking-cards';
+import {studyGoals} from './start-guide';
 import {pitfalls} from './pitfalls';
 import {soundContrasts} from './sound-contrasts';
 import {writingFrames} from './writing-frames';
@@ -31,6 +34,9 @@ export function index(): Hit[] {
   grammar.forEach((g) => h('grammar', g.title[1], `${g.title[0]} · ${g.level}`, `/grammar/${g.id}/`, g.sum.join(' ')));
   verbs.forEach((v) => h('verb', v.inf, `${v.ar} · ${v.en}`, `/verbs/${slug(v.inf)}/`, `${v.pp} ${v.pret} ${v.pres.join(' ')}`));
   idioms.forEach((d) => h('idiom', d.de, `${d.ar} · ${d.en}`, '/redewendungen/', d.literal));
+  practicalTerms.forEach(w=>h('word',w.article+' '+w.de,w.ar+' · '+w.en,`/practical-words/#${w.id}`,w.plural+' '+w.example));
+  speakingCards.forEach(c=>h('page',c.title[1],c.title[0]+' · '+c.level,`/speaking-cards/#${c.id}`,c.prompt+' '+c.model+' '+c.followUp));
+  studyGoals.forEach(g=>h('page',g.title[1],g.title[0],`/start/#${g.id}`,g.steps.flat().join(' ')));
   pitfalls.forEach(p=>h('page',p.title[1],p.title[0]+' · '+p.level,`/pitfalls/#${p.id}`,p.note.join(' ')+' '+p.prompt+' '+p.answers.join(' ')));
   soundContrasts.forEach(p=>h('page',p.words.join(' / '),p.contrast,`/sound-contrasts/#${p.id}`,p.meanings.flat().join(' ')+' '+p.tip.join(' ')));
   writingFrames.forEach(f=>h('writing',f.task.title[1]+' - frame',f.task.title[0]+' · '+f.task.level,`/writing-frames/#${f.id}`,f.frame.join(' ')+' '+f.register.join(' ')));
