@@ -267,6 +267,14 @@
   {
    "id": "badzubehoer",
    "ar": "حاجات للحمام"
+  },
+  {
+   "id": "schuhpflege",
+   "ar": "حاجات للجزم"
+  },
+  {
+   "id": "geschenkverpackung",
+   "ar": "تغليف الهدايا"
   }
  ],
  "words": [
@@ -10769,6 +10777,86 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Soap_dispenser_2017_C1.jpg",
     "author": "Fructibus",
     "license": "CC0",
+    "padding": true
+   }
+  },
+  {
+   "id": "schuhloeffel",
+   "topic": "schuhpflege",
+   "art": "der",
+   "de": "Schuhlöffel",
+   "plural": "-",
+   "ar": "ملعقة جزمة",
+   "photo": {
+    "file": "Shoehorn 20101109.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Shoehorn_20101109.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Shoehorn_20101109.jpg",
+    "author": "Batholith (talk)",
+    "license": "Public domain",
+    "padding": true
+   }
+  },
+  {
+   "id": "schuhbuerste",
+   "topic": "schuhpflege",
+   "art": "die",
+   "de": "Schuhbürste",
+   "plural": "Schuhbürsten",
+   "ar": "فرشة جزم",
+   "photo": {
+    "file": "Shoebrush.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Shoebrush.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Shoebrush.jpg",
+    "author": "Zencefilli",
+    "license": "CC BY-SA 4.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "schuhspanner",
+   "topic": "schuhpflege",
+   "art": "der",
+   "de": "Schuhspanner",
+   "plural": "-",
+   "ar": "قالب بيتحط جوه الجزمة",
+   "photo": {
+    "file": "Schuhspanner 01 KMJ.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Schuhspanner_01_KMJ.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Schuhspanner_01_KMJ.jpg",
+    "author": "KMJ at German Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "geschenkpapier",
+   "topic": "geschenkverpackung",
+   "art": "das",
+   "de": "Geschenkpapier",
+   "plural": "Geschenkpapiere",
+   "ar": "ورق هدايا",
+   "photo": {
+    "file": "Coloured gift paper.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Coloured_gift_paper.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Coloured_gift_paper.jpg",
+    "author": "Åsta",
+    "license": "CC BY 2.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "geschenkband",
+   "topic": "geschenkverpackung",
+   "art": "das",
+   "de": "Geschenkband",
+   "plural": "Geschenkbänder",
+   "ar": "شريطة هدايا",
+   "photo": {
+    "file": "Gift ribbon.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gift_ribbon.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Gift_ribbon.jpg",
+    "author": "Akshaya govindasamy",
+    "license": "CC BY-SA 4.0",
     "padding": true
    }
   }

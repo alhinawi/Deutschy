@@ -18,9 +18,9 @@ export default async function Topic({ params }: { params: Promise<{ topic: strin
   return (
     <div className="space-y-6">
       <div className="flex flex-wrap items-end justify-between gap-3">
-        <div>
+        <div className="min-w-0 max-w-full">
           <Link href="/lessons/" className="text-sm text-muted hover:text-ink">← <T ar="كل الدروس" en="All lessons" /></Link>
-          <h1 className="de mt-1 text-4xl font-semibold">{topicTitles[topic]}</h1>
+          <h1 dir="ltr" lang="de" className="de mt-1 text-3xl font-semibold [overflow-wrap:anywhere] sm:text-4xl">{topicTitles[topic]}</h1>
           <p className="ar-title text-2xl text-muted"><TopicName id={topic} /> · <span className="num"><T ar={`${arWords(ws.length)}`} en={`${ws.length} words`} /></span></p>
         </div>
         <Link href={`/games/quiz/?topic=${topic}`} className="rounded-full bg-accent px-5 py-2.5 text-sm font-bold text-accent-ink"><T ar="اختبر نفسك في الدرس" en="Quiz yourself on this lesson" /></Link>
