@@ -1,0 +1,98 @@
+@obst|فاكهة وخضار 2
+die|Ananas|Ananas|أناناس|pineapple fruit
+die|Kiwi|Kiwis|كيوي|kiwifruit
+die|Mandarine|Mandarinen|يوسفي|mandarin orange fruit
+die|Melone|Melonen|شمام|cantaloupe melon
+die|Feige|Feigen|تين|fig fruit
+der|Granatapfel|Granatäpfel|رمان|pomegranate fruit
+die|Dattel|Datteln|بلح|dates palm fruit
+die|Pflaume|Pflaumen|برقوق|plum fruit
+der|Blumenkohl|-|قرنبيط|cauliflower head
+der|Brokkoli|-|بروكلي|broccoli
+der|Mais|-|درة|corn cob maize
+die|Erbse|Erbsen|بسلة|peas pods
+der|Spinat|-|سبانخ|spinach leaves
+die|Aubergine|Auberginen|باذنجان|aubergine eggplant
+der|Kürbis|Kürbisse|قرع|pumpkin pumpkins
+die|Walnuss|Walnüsse|عين جمل|walnut
+die|Erdnuss|Erdnüsse|فول سوداني|peanut
+der|Kohl|-|كرنب|cabbage head
+der|Lauch|-|كرات|leek leeks
+die|Olive|Oliven|زيتون|olives branch
+@tiere2|حيوانات 2
+der|Bär|Bären|دب|brown bear
+der|Wolf|Wölfe|ذئب|grey wolf
+der|Fuchs|Füchse|ثعلب|red fox
+der|Igel|-|قنفذ|hedgehog
+die|Eule|Eulen|بومة|owl
+der|Adler|-|نسر|eagle flying
+die|Taube|Tauben|حمامة|pigeon
+die|Spinne|Spinnen|عنكبوت|spider web
+die|Ameise|Ameisen|نملة|ant macro
+der|Delfin|Delfine|دولفين|dolphin
+der|Hai|Haie|قرش|shark
+die|Schildkröte|Schildkröten|سلحفاة|turtle
+das|Krokodil|Krokodile|تمساح|crocodile nile
+die|Giraffe|Giraffen|زرافة|giraffe
+das|Zebra|Zebras|حمار وحشي|zebra
+der|Pinguin|Pinguine|بطريق|penguin
+der|Frosch|Frösche|ضفدع|frog
+die|Schlange|Schlangen|ثعبان|snake coiled
+der|Tiger|-|نمر|tiger walking
+das|Nashorn|Nashörner|وحيد القرن|rhinoceros
+das|Nilpferd|Nilpferde|فرس النهر|hippopotamus
+der|Papagei|Papageien|ببغاء|parrot
+der|Hahn|Hähne|ديك|rooster
+die|Maus|Mäuse|فأر|mouse
+@moebel|أثاث وأجهزة البيت
+der|Stuhl|Stühle|كرسي|chair
+der|Schrank|Schränke|دولاب|wardrobe
+das|Kissen|-|مخدة|pillow
+die|Decke|Decken|بطانية|blanket wool
+die|Dusche|Duschen|دش|shower
+die|Badewanne|Badewannen|بانيو|bathtub
+das|Waschbecken|-|حوض|washbasin
+der|Herd|Herde|بوتاجاز|stove
+der|Backofen|Backöfen|فرن|oven kitchen
+der|Staubsauger|-|مكنسة كهربا|vacuum cleaner
+das|Bügeleisen|-|مكواة|iron clothes pressing
+der|Fernseher|-|تلفزيون|television set
+das|Radio|Radios|راديو|radio receiver vintage
+der|Wecker|-|منبه|alarm clock
+der|Ventilator|Ventilatoren|مروحة|electric fan
+der|Kamin|Kamine|مدفأة|fireplace
+der|Balkon|Balkone|بلكونة|balcony flowers
+das|Dach|Dächer|سقف|roof tiles
+der|Schreibtisch|Schreibtische|مكتب|desk
+@werkzeug|أدوات وحاجات
+der|Hammer|Hämmer|شاكوش|hammer
+die|Säge|Sägen|منشار|hand saw
+die|Zange|Zangen|زرادية|pliers
+die|Leiter|Leitern|سلم|ladder
+der|Eimer|-|جردل|bucket
+das|Seil|Seile|حبل|rope
+der|Ring|Ringe|خاتم|wedding ring
+der|Kompass|Kompasse|بوصلة|compass magnetic
+das|Fernglas|Ferngläser|منظار|binoculars
+der|Globus|Globen|كرة أرضية|globe terrestrial
+die|Landkarte|Landkarten|خريطة|map
+das|Zelt|Zelte|خيمة|tent camping
+der|Schraubenzieher|-|مفك|screwdriver
+der|Pinsel|-|فرشاة|paintbrush
+die|Waage|Waagen|ميزان|scale kitchen
+die|Schaufel|Schaufeln|جاروف|shovel
+das|Fass|Fässer|برميل|barrel wooden
+die|Glocke|Glocken|جرس|bell
+der|Magnet|Magnete|مغناطيس|magnet horseshoe
+die|Münze|Münzen|عملة معدنية|coin
+@sport|رياضة وموسيقى
+der|Basketball|Basketbälle|كرة سلة|basketball
+der|Tennisschläger|-|مضرب تنس|tennis racket
+der|Schlittschuh|Schlittschuhe|حذاء تزلج|skates ice
+die|Hantel|Hanteln|دمبل|dumbbell
+die|Geige|Geigen|كمان|violin
+die|Trompete|Trompeten|ترومبيت|trumpet
+die|Trommel|Trommeln|طبلة|drum snare
+die|Flöte|Flöten|ناي|flute
+das|Mikrofon|Mikrofone|ميكروفون|microphone
+der|Kopfhörer|-|سماعات|headphones
