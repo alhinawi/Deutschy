@@ -10236,6 +10236,54 @@
     "license": "CC BY-SA 3.0",
     "author": "User:Ragesoss"
    }
+  },
+  {
+   "id": "rollstuhl",
+   "topic": "medizin",
+   "art": "der",
+   "de": "Rollstuhl",
+   "plural": "Rollstühle",
+   "ar": "كرسي متحرك",
+   "photo": {
+    "file": "Medline F-1 manual wheelchair 2.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Medline_F-1_manual_wheelchair_2.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Medline_F-1_manual_wheelchair_2.JPG",
+    "license": "CC BY-SA 4.0",
+    "author": "Stephen B Calvert Clariosophic",
+    "padding": true
+   }
+  },
+  {
+   "id": "kruecke",
+   "topic": "medizin",
+   "art": "die",
+   "de": "Krücke",
+   "plural": "Krücken",
+   "ar": "عكاز",
+   "photo": {
+    "file": "M0354 1951-45-061 2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:M0354_1951-45-061_2.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:M0354_1951-45-061_2.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "MONNIN Jacques",
+    "padding": true
+   }
+  },
+  {
+   "id": "waermflasche",
+   "topic": "medizin",
+   "art": "die",
+   "de": "Wärmflasche",
+   "plural": "Wärmflaschen",
+   "ar": "قربة ميه سخنة",
+   "photo": {
+    "file": "Hot Water Bottle.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Hot_Water_Bottle.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Hot_Water_Bottle.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "",
+    "padding": true
+   }
   }
  ]
 }
