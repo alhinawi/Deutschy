@@ -306,3 +306,7 @@ for(const g of lib('grammar').grammar){assert.equal(lib('grammar-walkthrough').g
  assert(!view.includes('This certifies that'));
  console.log('PASS: personal practice record uses distinct correct-once 80% threshold, clear qualification and labeled optional name');
 }
+{
+ const {contextualPhoto}=lib('data');for(const topic of ['family','jobs','jobs2'])assert.equal(contextualPhoto({topic}),true);for(const topic of ['food','medizin','body','moebel'])assert.equal(contextualPhoto({topic}),false);
+ const game=readFileSync('src/components/GameRunner.tsx','utf8');assert(game.includes('data-meaning-cue'));assert(game.includes('contextualPhoto(w)'));console.log('PASS: family/job quiz uses written meaning, ordinary object photo prompts unchanged');
+}

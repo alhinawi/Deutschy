@@ -5,6 +5,8 @@ export type Photo = { file: string; page: string; commons: string; license: stri
 export type Word = {
   id: string; topic: string; art: 'der' | 'die' | 'das'; de: string; plural: string; ar: string; photo: Photo;
 };
+// Relationships and occupations cannot be identified reliably from appearance alone.
+export const contextualPhoto = (w: Pick<Word, 'topic'>) => ['family', 'jobs', 'jobs2'].includes(w.topic);
 export type Topic = { id: string; ar: string };
 
 export const topics: Topic[] = raw.topics;

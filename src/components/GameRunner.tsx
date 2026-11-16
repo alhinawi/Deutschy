@@ -4,7 +4,7 @@ import { arTries } from '@/lib/arcount';
 import { useEffect, useMemo, useRef, useState } from 'react';
 import Link from 'next/link';
 import { useSearchParams } from 'next/navigation';
-import { words, topics, topicTitles, Word, img, sample, shuffle, glossOf, topicName } from '@/lib/data';
+import { words, topics, topicTitles, Word, img, sample, shuffle, glossOf, topicName, contextualPhoto } from '@/lib/data';
 import { useLang, useT } from '@/lib/i18n';
 import { useStore } from '@/lib/store';
 import { speak } from '@/lib/speak';
@@ -177,7 +177,7 @@ function Rounds({ game, list, again }: Props) {
   return (
     <Frame i={i} n={qs.length}>
       <Photo w={w} />
-      <p className="ar-title text-center text-xl text-muted">{t('إيه الكلمة الألماني للصورة دي؟', 'What is the German word for this picture?')}</p>
+      {contextualPhoto(w) ? <div className="space-y-2 text-center"><p className="ar-title text-2xl" data-meaning-cue>{glossOf(w, lang)}</p><p className="text-sm text-muted">{t('اختار الكلمة الألماني للمعنى المكتوب. الصورة للسياق بس، مش دليل على هوية الشخص أو صلة القرابة.', 'Choose the German word for the written meaning. The photo gives context only; it does not identify the person or their relationship.')}</p></div> : <p className="ar-title text-center text-xl text-muted">{t('إيه الكلمة الألماني للصورة دي؟', 'What is the German word for this picture?')}</p>}
       <div className="grid grid-cols-1 gap-3 min-[480px]:grid-cols-2">
         {opts.map((o) => (
           <Choice key={o.id} label={`${o.art} ${o.de}`} state={picked === null ? '' : o.id === w.id ? 'good' : picked === o.id ? 'bad' : ''} disabled={picked!==null} onClick={() => { if (picked || locked.current) return; setPicked(o.id); advance(o.id === w.id); }} />
