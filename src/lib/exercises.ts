@@ -240,3 +240,6 @@ for(const [key,rows]of Object.entries(borrowingGrammar))exercises[key]=[...(exer
 
 import {wrappingGrammar} from './exercises-wrapping';
 for(const [key,rows]of Object.entries(wrappingGrammar))exercises[key]=[...(exercises[key]??[]),...rows];
+
+import {tablewareGrammar} from './exercises-tableware';
+for(const [key,rows]of Object.entries(tablewareGrammar))exercises[key]=[...(exercises[key]??[]),...rows];
