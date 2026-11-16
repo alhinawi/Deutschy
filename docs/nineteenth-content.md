@@ -1,0 +1,5 @@
+# Nineteenth: linked everyday practice
+
+Two original fictional extended readings (A2 shared laundry room, B1 meeting minutes), 8 comprehension questions with exact evidence, two linked dialogues / 16 turns / 6 more questions and evidence. Approximate study labels, not tested proficiency mapping. Egyptian Arabic meanings and focused glosses included. Reading/listening/dictation and dialogue role practice use existing flows; no new score formats or accounts. Native editorial review pending.
+
+QA: typecheck, build and study pass. 16 reading/listening sessions across AR/EN × 320/390, 64 correct answers, evidence reveal, text hiding, repeat-input locks, single history entries and retry ordering. Eight dialogue sessions, 24 correct answers, evidence and repeat-input locks. Eight reading and eight dialogue axe states passed WCAG-tag subset checks, no document overflow. Mobile screenshots visually inspected. Authored scenario hours and room arrangements describe only these stories, not real venue policy.

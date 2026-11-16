@@ -48,3 +48,158 @@ Object.assign(dialogueEvidence,{
 'lerntandem-ort':['Hinter der Bibliothek gibt es einen ruhigen Hof.','Genau, zwanzig Minuten. Danach sprechen wir Arabisch.','Und am Ende schreiben wir neue Wörter auf.'],
 'tauschregal-hinweis':['Bevor wir eines aufstellen, sollten wir herausfinden, warum so wenig mitgenommen wird.','Ja, auch wenn Sie selbst keines mitbringen.','Dann ergänzen wir genau diesen Satz.']
 });
+
+everydayDialogues.push(...([
+ {
+  "id": "waschraum-absprache",
+  "level": "A2",
+  "title": [
+   "An der Waschmaschine",
+   "عند الغسالة"
+  ],
+  "lines": [
+   [
+    "Dalia",
+    "Guten Morgen. Ich habe mich für 10 Uhr eingetragen.",
+    "صباح الخير. أنا كاتبة اسمي الساعة 10."
+   ],
+   [
+    "Ben",
+    "Oh, entschuldige. Ich habe die Liste nicht gesehen.",
+    "آه، معلش. ماشفتش الجدول."
+   ],
+   [
+    "Dalia",
+    "Wie lange dauert dein Programm noch?",
+    "برنامجك لسه فاضله قد إيه؟"
+   ],
+   [
+    "Ben",
+    "Noch ungefähr eine halbe Stunde. Musst du gleich weg?",
+    "حوالي نص ساعة كمان. لازم تخرجي حالا؟"
+   ],
+   [
+    "Dalia",
+    "Nein, erst am Nachmittag. Ich kann warten.",
+    "لأ، بعد الضهر بس. أقدر أستنى."
+   ],
+   [
+    "Ben",
+    "Ich sage dir Bescheid, sobald die Maschine frei ist.",
+    "هقول لك أول ما الغسالة تفضى."
+   ],
+   [
+    "Dalia",
+    "Danke. Hängen wir die Liste direkt an die Tür?",
+    "شكرا. نعلق الجدول على الباب نفسه؟"
+   ],
+   [
+    "Ben",
+    "Gute Idee. Dann sieht man sie früher.",
+    "فكرة كويسة. كده أي حد يشوفه بدري."
+   ]
+  ],
+  "q": [
+   [
+    "Wie lange dauert Bens Programm noch?",
+    "Ungefähr eine halbe Stunde.",
+    "Zwei Stunden.",
+    "Nur eine Minute."
+   ],
+   [
+    "Muss Dalia sofort weg?",
+    "Nein, erst am Nachmittag.",
+    "Ja, sofort.",
+    "Sie fährt am Morgen ab."
+   ],
+   [
+    "Was wollen sie an die Tür hängen?",
+    "Die Liste.",
+    "Die Wäsche.",
+    "Einen Schlüssel."
+   ]
+  ]
+ },
+ {
+  "id": "protokoll-rueckfrage",
+  "level": "B1",
+  "title": [
+   "Vorschlag oder Beschluss?",
+   "اقتراح ولا قرار؟"
+  ],
+  "lines": [
+   [
+    "Mariam",
+    "Im Protokoll steht, dass wir den großen Raum nehmen. Ist er denn schon bestätigt?",
+    "في المحضر مكتوب إننا هناخد القاعة الكبيرة. هي اتأكدت خلاص؟"
+   ],
+   [
+    "Jonas",
+    "Nein. Ich dachte, wir hätten das schon beschlossen.",
+    "لأ. كنت فاكر إننا قررنا ده خلاص."
+   ],
+   [
+    "Mariam",
+    "Wir haben den Raum nur vorgeschlagen. Ob er frei ist, wissen wir noch nicht.",
+    "إحنا بس اقترحنا القاعة. لسه مانعرفش إذا كانت فاضية."
+   ],
+   [
+    "Jonas",
+    "Dann ändere ich das. Ich schreibe: Verfügbarkeit noch prüfen.",
+    "يبقى هعدل ده. هكتب: لسه لازم نتأكد من توافرها."
+   ],
+   [
+    "Mariam",
+    "Danke. Wer kümmert sich um die Anfrage?",
+    "شكرا. مين هيتولى السؤال؟"
+   ],
+   [
+    "Jonas",
+    "Das mache ich. Bis Dienstag gebe ich euch Bescheid.",
+    "أنا هعمل ده. لحد يوم التلات هبلغكم."
+   ],
+   [
+    "Mariam",
+    "Der Beginn um 18 Uhr bleibt aber stehen. Darüber waren wir uns einig.",
+    "بس البداية الساعة 18 تفضل مكتوبة. إحنا كنا متفقين عليها."
+   ],
+   [
+    "Jonas",
+    "Genau. Die Einladung schicken wir erst nach der Raumbestätigung.",
+    "بالضبط. مش هنبعت الدعوة غير بعد تأكيد القاعة."
+   ]
+  ],
+  "q": [
+   [
+    "Was weiß die Gruppe noch nicht?",
+    "Ob der Raum frei ist.",
+    "Wann der Abend beginnen soll.",
+    "Wer das Protokoll geschrieben hat."
+   ],
+   [
+    "Bis wann will Jonas Bescheid geben?",
+    "Bis Dienstag.",
+    "Bis Freitag.",
+    "Erst nach dem Übungsabend."
+   ],
+   [
+    "Worüber war sich die Gruppe einig?",
+    "Über den Beginn um 18 Uhr.",
+    "Über eine bestätigte Raumbuchung.",
+    "Über die Absage des Abends."
+   ]
+  ]
+ }
+] satisfies Dialogue[]));
+Object.assign(dialogueEvidence,{
+ "waschraum-absprache": [
+  "Noch ungefähr eine halbe Stunde. Musst du gleich weg?",
+  "Nein, erst am Nachmittag. Ich kann warten.",
+  "Danke. Hängen wir die Liste direkt an die Tür?"
+ ],
+ "protokoll-rueckfrage": [
+  "Wir haben den Raum nur vorgeschlagen. Ob er frei ist, wissen wir noch nicht.",
+  "Das mache ich. Bis Dienstag gebe ich euch Bescheid.",
+  "Der Beginn um 18 Uhr bleibt aber stehen. Darüber waren wir uns einig."
+ ]
+});

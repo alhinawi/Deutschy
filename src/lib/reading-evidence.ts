@@ -17,3 +17,18 @@ Object.assign(readingEvidence,{
 'alltag-a2-lerntandem':['David schlägt vor, zuerst zwanzig Minuten Deutsch und danach zwanzig Minuten Arabisch zu sprechen.','Am Samstag ist das Café sehr laut. Rana kann David schlecht verstehen.','Wenn Rana ein Wort nicht kennt, beschreibt sie es zuerst.','Sie möchten sich nächste Woche wieder treffen, haben aber noch keinen genauen Termin vereinbart.'],
 'alltag-b1-tauschregal':['Diese erlaubt das Regal, solange der Durchgang frei bleibt.','Nur saubere, vollständige Bücher, keine Kartons und keine anderen Gegenstände.','Dabei erfahren sie, dass viele den Hinweis für eine Büchersammlung ohne Mitnahmemöglichkeit gehalten haben.','Sie ergänzen deshalb einen Satz: Sie dürfen auch ein Buch mitnehmen, ohne selbst eines mitzubringen.']
 });
+
+Object.assign(readingEvidence,{
+ "alltag-a2-waschraum": [
+  "Dalia hat sich für 10 Uhr eingetragen.",
+  "Er hat die Liste nicht gesehen und sein Programm zu spät gestartet.",
+  "Ben bietet an, ihr Bescheid zu sagen, sobald die Maschine frei ist.",
+  "Danach hängen beide die Liste direkt an die Tür."
+ ],
+ "alltag-b1-protokoll": [
+  "Tatsächlich hatte die Gruppe diesen Raum nur vorgeschlagen.",
+  "Jonas übernimmt die Anfrage und will der Gruppe bis Dienstag antworten.",
+  "Den Beginn um 18 Uhr hatten alle bereits vereinbart; diese Angabe bleibt unverändert.",
+  "Erst wenn der Raum bestätigt ist, verschicken sie die Einladung."
+ ]
+});

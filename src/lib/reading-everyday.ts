@@ -70,3 +70,126 @@ everydayTexts.push(
  'بعد أسبوعين الرف قرب يتملي. شوية جيران جابوا كتب، بس قليل خدوا كتب. فريد عايز يحط رف تاني على طول. لينا بتقترح بدل كده يتكلموا مع الجيران الأول. بيعرفوا إن كتير فهموا التنبيه على إنه تجميع كتب من غير ما ينفع ياخدوا منها. عشان كده بيضيفوا جملة: ينفع تاخد كتاب حتى لو مش جايب كتاب معاك. بعد أسبوع بقى فيه مكان تاني على الرف.'
 ],gloss:[['der Durchgang','الممر'],['etwas für etwas halten','يفتكر حاجة على إنها حاجة تانية'],['ergänzen','يضيف / يكمل']],q:[['Unter welcher Bedingung ist das Regal erlaubt?','Der Durchgang muss frei bleiben.','Es muss jede Woche leer sein.','Es darf nur Lina benutzen.'],['Was darf laut Hinweis ins Regal?','Saubere, vollständige Bücher.','Alte Kleidung.','Kaputte Geräte.'],['Warum nehmen zunächst nur wenige Nachbarn Bücher mit?','Viele verstehen den Hinweis als reine Sammlung.','Die Bücher sind alle beschädigt.','Die Hausverwaltung verbietet die Mitnahme.'],['Wie lösen Lina und Farid das Problem?','Sie erklären die Mitnahme im Hinweis deutlicher.','Sie kaufen sofort ein zweites Regal.','Sie schließen das Regal ab.']]}
 );
+
+everydayTexts.push(...([
+ {
+  "id": "alltag-a2-waschraum",
+  "level": "A2",
+  "title": [
+   "Ein Plan für den Waschraum",
+   "جدول لأوضة الغسيل"
+  ],
+  "de": [
+   "Am Samstag möchte Dalia ihre Wäsche waschen. In ihrem Haus gibt es einen gemeinsamen Waschraum im Keller. Neben der Tür hängt eine Liste. Wer die Maschine benutzen möchte, trägt dort seinen Namen und eine Uhrzeit ein. Dalia hat sich für 10 Uhr eingetragen. Als sie hinuntergeht, läuft die Maschine noch. Ihr Nachbar Ben steht davor und entschuldigt sich. Er hat die Liste nicht gesehen und sein Programm zu spät gestartet.",
+   "Dalia bleibt ruhig. Sie muss erst am Nachmittag weg und kann noch eine halbe Stunde warten. Ben bietet an, ihr Bescheid zu sagen, sobald die Maschine frei ist. Danach hängen beide die Liste direkt an die Tür. So kann man sie schon vor dem Betreten lesen. Um halb elf beginnt Dalia mit ihrer Wäsche. Vor dem Start prüft sie, ob die Trommel leer ist."
+  ],
+  "ar": [
+   "يوم السبت داليا عايزة تغسل هدومها. في عمارتها أوضة غسيل مشتركة في البدروم. جنب الباب فيه ورقة جدول. اللي عايز يستخدم الغسالة بيكتب اسمه وميعاده فيها. داليا كاتبة اسمها الساعة 10. لما بتنزل بتلاقي الغسالة لسه شغالة. جارها بن واقف قدامها وبيعتذر. ماشافش الجدول وبدأ البرنامج متأخر.",
+   "داليا بتفضل هادية. مش لازم تخرج غير بعد الضهر وتقدر تستنى كمان نص ساعة. بن بيعرض يقول لها أول ما الغسالة تفضى. بعد كده هما الاتنين بيعلقوا الجدول على الباب نفسه، عشان أي حد يقراه قبل ما يدخل. الساعة 10:30 داليا بتبدأ الغسيل. قبل ما تشغل الغسالة بتتأكد إن الحلة فاضية."
+  ],
+  "gloss": [
+   [
+    "sich eintragen",
+    "يسجل اسمه"
+   ],
+   [
+    "der Waschraum",
+    "أوضة الغسيل"
+   ],
+   [
+    "Bescheid sagen",
+    "يبلغ حد"
+   ],
+   [
+    "die Trommel",
+    "حلة الغسالة"
+   ]
+  ],
+  "q": [
+   [
+    "Wann hat Dalia die Maschine reserviert?",
+    "Für 10 Uhr.",
+    "Für 11 Uhr.",
+    "Für den Nachmittag."
+   ],
+   [
+    "Warum läuft die Maschine noch?",
+    "Ben hat die Liste nicht gesehen und zu spät angefangen.",
+    "Dalia hat das Programm gestartet.",
+    "Die Maschine ist kaputt."
+   ],
+   [
+    "Was bietet Ben an?",
+    "Dalia zu informieren, wenn die Maschine frei ist.",
+    "Ihre Wäsche zu kaufen.",
+    "Die Liste wegzuwerfen."
+   ],
+   [
+    "Wohin hängen sie die Liste?",
+    "Direkt an die Tür.",
+    "In Dalias Wohnung.",
+    "Hinter die Maschine."
+   ]
+  ]
+ },
+ {
+  "id": "alltag-b1-protokoll",
+  "level": "B1",
+  "title": [
+   "Ein Protokoll mit offenen Fragen",
+   "محضر فيه أسئلة لسه مفتوحة"
+  ],
+  "de": [
+   "Eine Lerngruppe plant einen offenen Übungsabend. Nach dem ersten Treffen schreibt Jonas ein Protokoll und schickt es an die anderen. Darin steht, dass der Abend im großen Raum stattfindet. Tatsächlich hatte die Gruppe diesen Raum nur vorgeschlagen. Niemand hat bisher geprüft, ob er frei ist. Als Mariam das Protokoll liest, bemerkt sie den Unterschied. Sie möchte nicht, dass die anderen schon Einladungen mit einer unbestätigten Ortsangabe verschicken.",
+   "Sie bittet Jonas deshalb, zwischen Beschlüssen und offenen Fragen zu unterscheiden. Gemeinsam ergänzen sie hinter dem Raumvorschlag den Hinweis: Verfügbarkeit noch prüfen. Jonas übernimmt die Anfrage und will der Gruppe bis Dienstag antworten. Den Beginn um 18 Uhr hatten alle bereits vereinbart; diese Angabe bleibt unverändert. Erst wenn der Raum bestätigt ist, verschicken sie die Einladung. Mariam liest die überarbeitete Fassung noch einmal und prüft besonders, ob bei jeder offenen Aufgabe ein Name und ein nächster Schritt stehen."
+  ],
+  "ar": [
+   "مجموعة مذاكرة بتخطط لأمسية تدريب مفتوحة. بعد أول اجتماع يوناس بيكتب محضر وبيبعتُه للباقيين. كاتب فيه إن الأمسية هتكون في القاعة الكبيرة. لكن المجموعة كانت بس اقترحت القاعة دي، ولسه محدش اتأكد إنها فاضية. لما مريم بتقرا المحضر بتاخد بالها من الفرق. مش عايزة الباقيين يبعتوا دعوات بمكان لسه ماتأكدش.",
+   "عشان كده بتطلب من يوناس يفرق بين القرارات والأسئلة المفتوحة. بيضيفوا سوا بعد اقتراح القاعة ملاحظة إن لسه لازم يتأكدوا من توافرها. يوناس بيتولى السؤال وهيبلغ المجموعة لحد يوم التلات. كانوا كلهم اتفقوا فعلا على البداية الساعة 18، فالمعلومة دي مش بتتغير. مش هيبعتوا الدعوة غير لما القاعة تتأكد. مريم بتقرا النسخة المعدلة تاني وبتراجع خصوصا إن كل مهمة مفتوحة جنبها اسم وخطوة جاية."
+  ],
+  "gloss": [
+   [
+    "das Protokoll",
+    "محضر الاجتماع"
+   ],
+   [
+    "der Beschluss",
+    "قرار متفق عليه"
+   ],
+   [
+    "die Verfügbarkeit",
+    "التوافر"
+   ],
+   [
+    "die Ortsangabe",
+    "تحديد المكان"
+   ]
+  ],
+  "q": [
+   [
+    "Was ist im ersten Protokoll falsch dargestellt?",
+    "Ein Raumvorschlag erscheint als feste Entscheidung.",
+    "Die Gruppe hat schon Einladungen verschickt.",
+    "Der Beginn wurde auf Dienstag verlegt."
+   ],
+   [
+    "Was übernimmt Jonas?",
+    "Er fragt nach der Verfügbarkeit des Raums.",
+    "Er kauft einen neuen Raum.",
+    "Er sagt den Abend ab."
+   ],
+   [
+    "Welche Angabe bleibt unverändert?",
+    "Der Beginn um 18 Uhr.",
+    "Die bestätigte Buchung des Raums.",
+    "Der Name aller Gäste."
+   ],
+   [
+    "Wann verschicken sie die Einladung?",
+    "Erst nach der Bestätigung des Raums.",
+    "Sofort nach dem ersten Protokoll.",
+    "Noch vor der Anfrage."
+   ]
+  ]
+ }
+] satisfies ReadingText[]));
