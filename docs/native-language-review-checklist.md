@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the twenty-fourth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the twenty-fifth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -130,6 +130,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/lessons/backhelfer/` and `/lessons/badzubehoer/` | Review six articles/plurals and Egyptian Arabic photo senses. Assess the springform ring beside its cake as a Backform cue, cutter/potholder sets, soap dish, nail scissors and unbranded dispenser. Same-form plurals use the established convention. Dictionary/source checks are not editorial sign-off. |
 | [ ] | `/conjugation/` and `/dictation/` | Review direct person selection, previous/next wrap/reset and explicitly unsaved practice in both languages. Existing 264 form cells are unchanged. New focused dictation has 42 sentences; listen on a real German device voice. Mocked-voice checks do not review pronunciation. |
 
+### Twenty-fifth update: new content, still pending
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-geschenkbuch/` and `/dialogues/#buch-einpacken` | Review birthday-book wrapping, paper/bag size, ribbon and card placement. Check all 7 answers and exact evidence. Beginner group is approximate; confirm the Egyptian Arabic is natural. |
+| [ ] | `/reading/alltag-a2-schuhregal/` and `/dialogues/#schuhloeffel-haken` | Review shoe pairing/storage, Schuhlöffel/Schuhbürste/Schuhspanner senses, pronoun references and sequence. Check all 7 answers/evidence. Fictional household activity, not care instructions for every shoe material. |
+| [ ] | `/reading/alltag-b1-verpackungskiste/` and `/dialogues/#papierreste-sortieren` | Review simple sorting versus excessive organizing, size versus pattern and checking existing material. Check all 7 answers, exact evidence and Egyptian Arabic. No environmental savings or product guarantees are claimed. |
+| [ ] | `src/lib/exercises-wrapping.ts` | Review 24 appended sentence-order, present, negation, separable-verb, dative and perfect questions/explanations. Confirm each prompt selects one supplied answer. All 526 earlier rows retain their positions and content. |
+| [ ] | `/lessons/schuhpflege/` and `/lessons/geschenkverpackung/` | Review five articles/plurals and photo cues: shoehorn, shoe brush, shoe tree, gift paper and ribbon. Same-form plurals use the existing convention. Geschenkpapiere is the dictionary type plural; the material is commonly mass. Dictionary/source checks are not editorial sign-off. |
+| [ ] | `/word-formation/` and `/dictation/` | Review per-pattern counts, scoped reset and temporary/no-points wording in both languages. All existing rule examples/eight answers remain unchanged. New focused dictation has 46 sentences; listen on a real German device voice. Mocked voice is not pronunciation review. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -144,7 +155,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **697 photo nouns / 67 topics**, **90 reading texts / 313 reading questions**, **41 core grammar topics / 526 core grammar questions**, **30 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **702 photo nouns / 69 topics**, **93 reading texts / 325 reading questions**, **41 core grammar topics / 550 core grammar questions**, **33 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -156,7 +167,7 @@ This is an inventory, not completed review. Snapshot: **697 photo nouns / 67 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 12 · A2 25 · B1 23 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 13 · A2 26 · B1 24 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
