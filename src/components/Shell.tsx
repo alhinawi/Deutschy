@@ -7,6 +7,7 @@ import { useAuth, useStore, level } from '@/lib/store';
 import { useLang, useT } from '@/lib/i18n';
 import { sidebar } from '@/lib/nav';
 import AuthSync from './AuthSync';
+import SearchBox, { SearchIcon } from './SearchBox';
 
 export default function Shell({ children }: { children: ReactNode }) {
   const user = useAuth();
@@ -15,7 +16,18 @@ export default function Shell({ children }: { children: ReactNode }) {
   const t = useT();
   const path = usePathname() ?? '/';
   const [open, setOpen] = useState(false);
+  const [searching, setSearching] = useState(false);
   useEffect(() => setOpen(false), [path]);
+  useEffect(() => {
+    const k = (e: KeyboardEvent) => {
+      const el = e.target as HTMLElement | null;
+      const typing = !!el && (el.tagName === 'INPUT' || el.tagName === 'TEXTAREA' || el.isContentEditable);
+      if ((e.key === 'k' && (e.ctrlKey || e.metaKey)) || (e.key === '/' && !typing && !e.ctrlKey && !e.metaKey)) { e.preventDefault(); setSearching(true); }
+      else if (e.key === 'Escape') setOpen(false);
+    };
+    window.addEventListener('keydown', k);
+    return () => window.removeEventListener('keydown', k);
+  }, []);
   useEffect(() => {
     document.documentElement.dataset.theme = user?.isAdmin ? s.theme || 'papier' : 'papier';
   }, [user, s.theme]);
@@ -23,6 +35,8 @@ export default function Shell({ children }: { children: ReactNode }) {
   return (
     <>
       <AuthSync />
+      <a href="#main" className="sr-only z-50 rounded-lg bg-accent px-4 py-2 font-bold text-accent-ink focus:not-sr-only focus:fixed focus:start-3 focus:top-3">{t('روح للمحتوى', 'Skip to content')}</a>
+      <SearchBox open={searching} onClose={() => setSearching(false)} />
       <header className="sticky top-0 z-30 border-b border-line bg-paper/95 backdrop-blur">
         <div className="flex items-center gap-2 px-4 sm:gap-3 py-2.5">
           <button aria-label={t('القائمة', 'Menu')} aria-expanded={open} onClick={() => setOpen(!open)} className="rounded-lg border border-line p-2 md:hidden">
@@ -30,9 +44,10 @@ export default function Shell({ children }: { children: ReactNode }) {
           </button>
           <Link href="/" className="de text-2xl font-semibold tracking-tight" dir="ltr">Deutsch<span className="text-accent">y</span></Link>
           <div className="num ms-auto flex items-center gap-1.5 sm:gap-2 whitespace-nowrap text-xs font-bold text-muted" dir="ltr">
-            <span>Lv {level(s.xp)}</span><span>{s.xp} XP</span>
+            <span className="max-sm:hidden">Lv {level(s.xp)}</span><span>{s.xp} XP</span>
             <span className="inline-flex items-center gap-0.5 text-accent"><Flame />{s.streak}</span>
           </div>
+          <button onClick={() => setSearching(true)} aria-label={t('بحث', 'Search')} className="rounded-full border border-line p-1.5 hover:bg-card"><SearchIcon className="h-4 w-4" /></button>
           <button onClick={() => setLang(lang === 'ar' ? 'en' : 'ar')} aria-label="Language" className="rounded-full border border-line px-2.5 py-1 text-xs font-bold whitespace-nowrap sm:px-3 hover:bg-card">
             {lang === 'ar' ? 'EN' : 'عربي'}
           </button>
@@ -66,7 +81,7 @@ export default function Shell({ children }: { children: ReactNode }) {
           ))}
         </nav>
       </aside>
-      <main className="px-4 py-8 md:ps-72 md:pe-8">
+      <main id="main" tabIndex={-1} className="outline-none px-4 py-8 md:ps-72 md:pe-8">
         <div className="mx-auto max-w-5xl">{children}</div>
       </main>
     </>
