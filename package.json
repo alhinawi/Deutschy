@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "scripts": {
     "dev": "next dev",
-    "build": "next build && node scripts/sitemap.mjs",
+    "build": "next build",
     "typecheck": "tsc --noEmit",
     "images": "node scripts/fetch-images.mjs",
     "verify": "node scripts/verify-content.mjs"
