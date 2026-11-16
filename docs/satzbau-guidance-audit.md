@@ -1,0 +1,2 @@
+# Existing Satzbau verification
+No duplicate tool. Existing seven patterns already cover V2, inversion, subordinate clauses, questions, Perfekt/modal brackets and separable verbs. Browser test tap-built every one of the 42 model sentences across all seven modes, each accepted and 6/6 per mode. Added constituent-vs-word explanation, honest limited-alternative checker note and a name for the listen button. Mobile WCAG axe passed. Screenshot inspected. Typecheck and export build pass.

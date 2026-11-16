@@ -3,7 +3,7 @@ export type Pattern = 'v2' | 'inv' | 'sub' | 'perf' | 'modal' | 'sep' | 'q';
 export type SB = { p: Pattern; de: string; ar: string; en: string; alt?: string[] };
 
 export const patterns: { id: Pattern; t: string; ar: string; en: string; ruleAr: string; ruleEn: string }[] = [
-  { id: 'v2', t: 'Verb an Position 2', ar: 'الفعل تاني', en: 'Verb second', ruleAr: 'في الجملة الخبرية الفعل المصرّف دايماً في المكان التاني.', ruleEn: 'In a statement the conjugated verb is always in second position.' },
+  { id: 'v2', t: 'Verb an Position 2', ar: 'الفعل تاني', en: 'Verb second', ruleAr: 'في الجملة الخبرية الفعل المصرّف في المكوّن التاني، مش بالضرورة تاني كلمة.', ruleEn: 'In a statement the finite verb is in the second constituent position, not necessarily the second word.' },
   { id: 'inv', t: 'Inversion', ar: 'قلب الفاعل', en: 'Inversion', ruleAr: 'لو بدأت بوقت أو مكان، الفعل يفضل تاني والفاعل ييجي بعده.', ruleEn: 'If a time or place opens the sentence, the verb stays second and the subject follows it.' },
   { id: 'sub', t: 'Nebensatz', ar: 'جملة تابعة', en: 'Subordinate clause', ruleAr: 'بعد weil وdass وwenn وob الفعل بيروح آخر الجملة التابعة.', ruleEn: 'After weil, dass, wenn and ob the verb goes to the end of the clause.' },
   { id: 'perf', t: 'Perfekt-Klammer', ar: 'الماضي التام', en: 'Perfekt bracket', ruleAr: 'في الـ Perfekt فعل المساعدة تاني والـ Partizip II في آخر الجملة.', ruleEn: 'In the Perfekt the auxiliary is second and the Partizip II goes to the end.' },
