@@ -55,6 +55,7 @@ export const sidebar: NavGroup[] = [
     { href: '/reading/', ar: 'القراءة', en: 'Reading' },
     { href: '/wortschatz/', ar: 'مفردات الامتحان', en: 'Exam vocabulary' },
     { href: '/deck-export/', ar: 'تصدير وطباعة كروت الكلمات', en: 'Export and print vocabulary cards' },
+    { href: '/practical-words/', ar: 'كلمات الورق والشغل والدراسة', en: 'Work, paperwork and study words' },
     { href: '/context-packs/', ar: 'كلمات للمشاوير والشغل', en: 'Everyday context packs' },
     { href: '/lessons/', ar: 'المفردات بالموضوع', en: 'Vocabulary by topic' },
     { href: '/sound-contrasts/', ar: 'اسمع فرق الأصوات', en: 'Sound contrast lab' },

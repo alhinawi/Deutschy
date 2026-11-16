@@ -139,3 +139,5 @@ assert(search('bekommen',100).some(h=>h.href==='/pitfalls/#b1-bekommen'));assert
 const {mapExamples}=await load('src/lib/grammar-map.ts');assert.equal(Object.keys(mapExamples).length,pitfalls.length);for(const p of pitfalls)assert.ok(mapExamples[p.id]?.length>10);console.log('PASS: all 18 grammar-map reminders have complete contextual examples');
 
 const {mapArabic}=lib('grammar-map');for(const p of pitfalls){assert.equal(mapArabic[p.id].length,2);assert.ok(mapArabic[p.id].every(t=>!/[A-Za-z]/.test(t)))}console.log('PASS: Arabic-only map summaries avoid mixed-script conjunction ambiguity');
+
+const {practicalTerms}=lib('practical-glossary');assert.equal(practicalTerms.length,24);assert.equal(new Set(practicalTerms.map(w=>w.de)).size,24);for(const w of practicalTerms){assert(!words.some(x=>x.de===w.de));assert(['der','die','das'].includes(w.article));assert(w.plural&&(w.example.endsWith('.')||w.example.endsWith('?')));assert(w.source.startsWith('https://de.wiktionary.org/wiki/'))}console.log('PASS: 24 distinct new practical nouns, explicit articles/plurals and dictionary sources');
