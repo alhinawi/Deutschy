@@ -231,6 +231,10 @@
   {
    "id": "natur3",
    "ar": "الطبيعة 3"
+  },
+  {
+   "id": "waesche",
+   "ar": "العناية بالغسيل"
   }
  ],
  "words": [
@@ -10285,6 +10289,70 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Hot_Water_Bottle.jpg",
     "license": "CC BY-SA 3.0",
     "author": "",
+    "padding": true
+   }
+  },
+  {
+   "id": "waeschekorb",
+   "topic": "waesche",
+   "art": "der",
+   "de": "Wäschekorb",
+   "plural": "Wäschekörbe",
+   "ar": "سبت غسيل",
+   "photo": {
+    "file": "Plastic laundry basket.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Plastic_laundry_basket.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Plastic_laundry_basket.jpg",
+    "license": "CC0",
+    "author": "Dodger67",
+    "padding": true
+   }
+  },
+  {
+   "id": "waeschestaender",
+   "topic": "waesche",
+   "art": "der",
+   "de": "Wäscheständer",
+   "plural": "-",
+   "ar": "منشر غسيل",
+   "photo": {
+    "file": "Clotheshorse.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Clotheshorse.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Clotheshorse.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Trollderella at English Wikipedia",
+    "padding": true
+   }
+  },
+  {
+   "id": "buegelbrett",
+   "topic": "waesche",
+   "art": "das",
+   "de": "Bügelbrett",
+   "plural": "Bügelbretter",
+   "ar": "ترابيزة مكوة",
+   "photo": {
+    "file": "Buegelbrett (fcm).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Buegelbrett_(fcm).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Buegelbrett_(fcm).jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Photograph:  Frank C. Müller, Baden-Baden",
+    "padding": true
+   }
+  },
+  {
+   "id": "kleiderbuegel",
+   "topic": "waesche",
+   "art": "der",
+   "de": "Kleiderbügel",
+   "plural": "-",
+   "ar": "شماعة هدوم",
+   "photo": {
+    "file": "Wood clothes hanger.png",
+    "page": "https://commons.wikimedia.org/wiki/File:Wood_clothes_hanger.png",
+    "commons": "https://commons.wikimedia.org/wiki/File:Wood_clothes_hanger.png",
+    "license": "CC BY-SA 4.0",
+    "author": "RL0919",
     "padding": true
    }
   }
