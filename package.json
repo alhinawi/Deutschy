@@ -10,7 +10,8 @@
     "verify": "node scripts/verify-content.mjs",
     "qa:export": "node scripts/qa-export.mjs",
     "test:study": "node scripts/test-study.mjs",
-    "test:pwa": "node scripts/test-pwa.mjs"
+    "test:pwa": "node scripts/test-pwa.mjs",
+    "test:speech": "node scripts/test-speech.mjs"
   },
   "dependencies": {
     "hono": "^4.13.18",

@@ -189,3 +189,5 @@ let safeProgress=validateProgress({xp:25,name:'Test',seen:{a:{ok:2,bad:1}},srs:{
 console.log('PASS: progress validation preserves valid history and flags malformed shapes without writes');
 const {matchesConjugation}=lib('conj-compare');assert(matchesConjugation('  HAST   GEMACHT ','hast gemacht'));assert(matchesConjugation('wa\u0308re','wäre'));assert(!matchesConjugation('muß','muss'));assert(!matchesConjugation('heissen','heißen'));assert(!matchesConjugation('wurde','würde'));assert(!matchesConjugation('reist','reisest'));
 console.log('PASS: conjugation model comparison normalizes NFC/space/case without collapsing distinct spellings');
+const isolated=validateProgress({},blankProgress);isolated.state.seen.temporary={ok:1,bad:0};assert.equal(validateProgress({},blankProgress).state.seen.temporary,undefined);
+console.log('PASS: fresh progress defaults do not share mutable history objects');
