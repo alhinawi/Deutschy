@@ -1,0 +1,181 @@
+@voegel|طيور وحشرات
+der|Adler|-|نسر|eagle
+der|Falke|Falken|صقر|falcon
+der|Rabe|Raben|غراب|raven
+die|Krähe|Krähen|غراب أسود|crow
+der|Papageitaucher|-|بفن|puffin
+der|Specht|Spechte|نقار الخشب|woodpecker
+der|Strauß|Sträuße|نعامة|ostrich
+der|Pelikan|Pelikane|بجع|pelican
+der|Kolibri|Kolibris|طائر طنان|hummingbird
+der|Kranich|Kraniche|كركي|crane bird
+die|Spinne|Spinnen|عنكبوت|spider
+die|Wespe|Wespen|دبور|wasp
+die|Fliege|Fliegen|دبانة|fly insect
+die|Mücke|Mücken|ناموسة|mosquito
+die|Heuschrecke|Heuschrecken|جراد|grasshopper
+der|Käfer|-|خنفساء|beetle
+die|Raupe|Raupen|دودة فراشة|caterpillar
+der|Skorpion|Skorpione|عقرب|scorpion
+die|Schnecke|Schnecken|قوقع|snail
+der|Regenwurm|Regenwürmer|دودة أرض|earthworm
+der|Hummer|-|استاكوزا|lobster
+der|Tintenfisch|Tintenfische|حبار|squid
+der|Oktopus|Oktopusse|أخطبوط|octopus
+die|Forelle|Forellen|سمك سلمون مرقط|trout
+der|Karpfen|-|شبوط|carp
+der|Seeigel|-|قنفذ البحر|sea urchin
+@saeuger|حيوانات 4
+der|Leopard|Leoparden|فهد|leopard
+der|Gepard|Geparden|شيتا|cheetah
+der|Luchs|Luchse|وشق|lynx
+der|Otter|-|قضاعة|otter
+der|Biber|-|قندس|beaver
+der|Dachs|Dachse|غرير|badger
+der|Maulwurf|Maulwürfe|خلد|mole animal
+der|Gorilla|Gorillas|غوريلا|gorilla
+der|Schimpanse|Schimpansen|شمبانزي|chimpanzee
+das|Faultier|Faultiere|كسلان|sloth
+das|Chamäleon|Chamäleons|حرباء|chameleon
+der|Gecko|Geckos|وزغة|gecko
+die|Eidechse|Eidechsen|سحلية|lizard
+der|Büffel|-|جاموس|buffalo
+der|Elch|Elche|موظ|moose
+der|Ochse|Ochsen|ثور|ox
+das|Kalb|Kälber|عجل|calf
+das|Lamm|Lämmer|خروف صغير|lamb
+das|Ferkel|-|خنزير صغير|piglet
+das|Küken|-|كتكوت|chick
+der|Hamster|-|هامستر|hamster
+das|Meerschweinchen|-|خنزير غينيا|guinea pig
+der|Goldfisch|Goldfische|سمكة ذهبية|goldfish
+@pflanzen|نباتات وزهور
+die|Orchidee|Orchideen|أوركيد|orchid
+die|Lilie|Lilien|زنبق|lily
+das|Gänseblümchen|-|أقحوان|daisy
+der|Löwenzahn|-|هندباء|dandelion
+der|Mohn|-|خشخاش|poppy
+der|Lavendel|-|لافندر|lavender
+die|Seerose|Seerosen|زنبق الماء|water lily
+der|Tannenzapfen|-|مخروط صنوبر|pine cone
+die|Eiche|Eichen|بلوط|oak tree
+die|Birke|Birken|بتولا|birch tree
+die|Tanne|Tannen|شجرة تنوب|fir tree
+der|Bambus|-|خيزران|bamboo
+das|Moos|Moose|طحلب|moss
+der|Farn|Farne|سرخس|fern
+die|Eichel|Eicheln|بلوط ثمر|acorn
+der|Strauch|Sträucher|شجيرة|shrub
+der|Baumstamm|Baumstämme|جذع شجرة|tree trunk
+die|Wurzel|Wurzeln|جذر|root
+die|Weizenähre|-|سنبلة قمح|wheat ear
+das|Schilf|-|بوص|reed
+@landschaft|مناظر طبيعية
+die|Düne|Dünen|كثيب|dune
+die|Klippe|Klippen|جرف|cliff
+der|Canyon|Canyons|وادي عميق|canyon
+das|Tal|Täler|وادي|valley
+der|Gipfel|-|قمة|summit
+die|Schlucht|Schluchten|مضيق|gorge
+der|Bach|Bäche|جدول|stream
+der|Teich|Teiche|بركة|pond
+die|Quelle|Quellen|نبع|spring water
+die|Lagune|Lagunen|بحيرة ساحلية|lagoon
+das|Riff|Riffe|شعاب|coral reef
+die|Bucht|Buchten|خليج صغير|bay
+die|Halbinsel|Halbinseln|شبه جزيرة|peninsula
+der|Sumpf|Sümpfe|مستنقع|swamp
+der|Dschungel|-|غابة مطيرة|jungle
+die|Oase|Oasen|واحة|oasis
+der|Krater|-|فوهة|crater
+die|Lava|-|حمم|lava
+der|Eisberg|Eisberge|جبل جليد|iceberg
+der|Sandstrand|Sandstrände|شاطئ رملي|sandy beach
+der|Nordpol|-|القطب الشمالي|North Pole
+das|Polarlicht|Polarlichter|شفق قطبي|aurora
+der|Mondschein|-|ضوء القمر|moonlight
+der|Sternenhimmel|-|سما النجوم|starry sky
+die|Milchstraße|-|درب التبانة|Milky Way
+die|Sonnenfinsternis|-|كسوف|solar eclipse
+der|Planet|Planeten|كوكب|planet
+@medizin|صحة وطب
+die|Spritze|Spritzen|حقنة|syringe
+das|Thermometer|-|ترمومتر|thermometer
+die|Tablette|Tabletten|قرص دوا|tablet pills
+das|Pflaster|-|بلاستر|adhesive bandage
+der|Rollstuhl|Rollstühle|كرسي متحرك|wheelchair
+die|Krücke|Krücken|عكاز|crutch
+das|Stethoskop|Stethoskope|سماعة طبية|stethoscope
+der|Verband|Verbände|ضمادة|bandage
+die|Gesichtsmaske|Masken|كمامة|face mask
+das|Röntgenbild|Röntgenbilder|أشعة|x-ray
+das|Krankenbett|Krankenbetten|سرير مستشفى|hospital bed
+der|Zahnarztstuhl|-|كرسي أسنان|dental chair
+die|Sonnencreme|-|كريم شمس|sunscreen
+@technik|تكنولوجيا
+die|Drohne|Drohnen|درون|drone
+der|Router|-|راوتر|router
+der|Monitor|Monitore|شاشة|computer monitor
+die|Fernbedienung|Fernbedienungen|ريموت|remote control
+das|Ladegerät|Ladegeräte|شاحن|charger
+der|Satellit|Satelliten|قمر صناعي|satellite
+das|Solarpanel|Solarpanels|لوح شمسي|solar panel
+die|Festplatte|Festplatten|هارد ديسك|hard drive
+der|Roboter|-|روبوت|robot
+das|Smartphone|Smartphones|موبايل ذكي|smartphone
+das|Tablet|Tablets|تابلت|tablet computer
+die|Spielkonsole|Spielkonsolen|بلاي ستيشن|game console
+der|Kopierer|-|ماكينة تصوير|photocopier
+der|Scanner|-|سكانر|scanner
+die|Überwachungskamera|Überwachungskameras|كاميرا مراقبة|security camera
+@bauen|بناء وورشة
+der|Ziegel|-|طوبة|brick
+der|Beton|-|خرسانة|concrete
+der|Nagel|Nägel|مسمار|nail hardware
+die|Schraube|Schrauben|برغي|screw
+die|Mutter|Muttern|صامولة|nut bolt
+der|Schraubenschlüssel|-|مفتاح ربط|wrench
+der|Bohrer|-|مثقاب|drill bit
+die|Bohrmaschine|Bohrmaschinen|دريل|power drill
+die|Kettensäge|Kettensägen|منشار كهربا|chainsaw
+der|Meißel|-|إزميل|chisel
+die|Feile|Feilen|مبرد|file tool
+der|Schraubstock|Schraubstöcke|ملزمة|vise
+das|Gerüst|Gerüste|سقالة|scaffolding
+die|Schubkarre|Schubkarren|عربة يد|wheelbarrow
+der|Zement|-|أسمنت|cement
+das|Brett|Bretter|لوح خشب|wooden board
+der|Balken|-|عارضة|beam wood
+die|Rohrzange|Rohrzangen|زرادية|pipe wrench
+der|Zollstock|Zollstöcke|متر طي|folding ruler
+das|Maßband|Maßbänder|متر قياس|tape measure
+die|Wasserwaage|Wasserwaagen|ميزان مية|spirit level
+@feste|أعياد ومناسبات
+der|Weihnachtsbaum|Weihnachtsbäume|شجرة كريسماس|Christmas tree
+das|Osterei|Ostereier|بيضة عيد|Easter egg
+das|Feuerwerk|-|ألعاب نارية|fireworks
+die|Kerze|-|شمعة|candle
+die|Hochzeit|Hochzeiten|فرح|wedding
+der|Kranz|Kränze|إكليل|wreath
+der|Lampion|Lampions|فانوس|paper lantern
+die|Luftschlange|Luftschlangen|شرايط ملونة|streamers
+der|Adventskranz|Adventskränze|إكليل المجيء|advent wreath
+der|Nikolaus|-|بابا نويل|Santa Claus
+der|Fasching|-|كرنفال|carnival parade
+@verkehr2|مرور وطريق
+das|Verkehrsschild|Verkehrsschilder|علامة مرور|road sign
+der|Zebrastreifen|-|عبور مشاة|zebra crossing
+die|Kreuzung|Kreuzungen|تقاطع|intersection
+die|Autobahn|Autobahnen|أوتوستراد|motorway
+der|Kreisverkehr|-|دوران|roundabout
+die|Parkbank|Parkbänke|كنبة حديقة|park bench
+der|Bahnsteig|Bahnsteige|رصيف محطة|train platform
+das|Gleis|Gleise|قضبان|railway track
+die|Seilbahn|Seilbahnen|تلفريك|cable car
+der|Fahrkartenautomat|-|ماكينة تذاكر|ticket machine
+die|Mautstelle|Mautstellen|بوابة رسوم|toll booth
+das|Rad|Räder|عجلة|wheel
+der|Reifen|-|إطار|tire
+der|Lenker|-|مقود|handlebar
+der|Fahrradweg|Fahrradwege|مسار عجل|bike lane
+der|Parkplatz|Parkplätze|موقف عربيات|parking lot

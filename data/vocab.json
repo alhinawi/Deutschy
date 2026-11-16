@@ -305,7 +305,7 @@
    "topic": "food",
    "art": "der",
    "de": "Reis",
-   "plural": "-",
+   "plural": "",
    "ar": "رز",
    "photo": {
     "file": "Uncooked ST25 rice on bamboo surface.jpg",
@@ -380,7 +380,7 @@
    "topic": "food",
    "art": "der",
    "de": "Zucker",
-   "plural": "-",
+   "plural": "",
    "ar": "سكر",
    "photo": {
     "file": "Sucre_blanc_cassonade_complet_rapadura.jpg",
@@ -395,7 +395,7 @@
    "topic": "food",
    "art": "das",
    "de": "Salz",
-   "plural": "-",
+   "plural": "",
    "ar": "ملح",
    "photo": {
     "file": "Table_salt_with_salt_shaker_V1.jpg",
@@ -410,7 +410,7 @@
    "topic": "food",
    "art": "die",
    "de": "Butter",
-   "plural": "-",
+   "plural": "",
    "ar": "زبدة",
    "photo": {
     "file": "NCI_butter.jpg",
@@ -425,7 +425,7 @@
    "topic": "food",
    "art": "das",
    "de": "Fleisch",
-   "plural": "-",
+   "plural": "",
    "ar": "لحمة",
    "photo": {
     "file": "Venison_Steaks.jpg",
@@ -575,7 +575,7 @@
    "topic": "drinks",
    "art": "das",
    "de": "Wasser",
-   "plural": "-",
+   "plural": "",
    "ar": "مياه",
    "photo": {
     "file": "Stilles_Mineralwasser.jpg",
@@ -590,7 +590,7 @@
    "topic": "drinks",
    "art": "die",
    "de": "Milch",
-   "plural": "-",
+   "plural": "",
    "ar": "لبن",
    "photo": {
     "file": "Milk_glass.jpg",
@@ -605,7 +605,7 @@
    "topic": "drinks",
    "art": "der",
    "de": "Kaffee",
-   "plural": "-",
+   "plural": "",
    "ar": "قهوة",
    "photo": {
     "file": "Coffee_cup_surrounded_by_coffee_beans.jpg",
@@ -1790,7 +1790,7 @@
    "topic": "nature",
    "art": "der",
    "de": "Schnee",
-   "plural": "-",
+   "plural": "",
    "ar": "تلج",
    "photo": {
     "file": "SnowflakesWilsonBentley.jpg",
@@ -2210,7 +2210,7 @@
    "topic": "kitchen",
    "art": "der",
    "de": "Knoblauch",
-   "plural": "-",
+   "plural": "",
    "ar": "توم",
    "photo": {
     "file": "Garlic_bulbs_and_cloves.jpg",
@@ -2225,7 +2225,7 @@
    "topic": "kitchen",
    "art": "der",
    "de": "Honig",
-   "plural": "-",
+   "plural": "",
    "ar": "عسل",
    "photo": {
     "file": "Runny_hunny.jpg",
@@ -2525,7 +2525,7 @@
    "topic": "outdoors",
    "art": "der",
    "de": "Sand",
-   "plural": "-",
+   "plural": "",
    "ar": "رمل",
    "photo": {
     "file": "Morocco_Africa_Flickr_Rosino_December_2005_84527213.jpg",
@@ -2674,7 +2674,7 @@
    "topic": "outdoors",
    "art": "der",
    "de": "Himmel",
-   "plural": "-",
+   "plural": "",
    "ar": "سما",
    "id": "himmel",
    "photo": {
@@ -2869,7 +2869,7 @@
    "topic": "nature",
    "art": "der",
    "de": "Regen",
-   "plural": "-",
+   "plural": "",
    "ar": "مطر",
    "id": "regen",
    "photo": {
@@ -3095,7 +3095,7 @@
    "topic": "food",
    "art": "der",
    "de": "Käse",
-   "plural": "-",
+   "plural": "",
    "ar": "جبنة",
    "photo": {
     "file": "Wedge of Laughing Cow spreadable cheese Original Creamy Swiss flavor.JPG",
@@ -3215,7 +3215,7 @@
    "topic": "obst",
    "art": "der",
    "de": "Brokkoli",
-   "plural": "-",
+   "plural": "",
    "ar": "بروكلي",
    "photo": {
     "file": "Broccoli and cross section edit.jpg",
@@ -3230,7 +3230,7 @@
    "topic": "obst",
    "art": "der",
    "de": "Spinat",
-   "plural": "-",
+   "plural": "",
    "ar": "سبانخ",
    "photo": {
     "file": "Spinach leaves 1.jpg",
@@ -3785,7 +3785,7 @@
    "topic": "obst",
    "art": "der",
    "de": "Blumenkohl",
-   "plural": "-",
+   "plural": "",
    "ar": "قرنبيط",
    "photo": {
     "file": "Stack of cauliflower heads.jpg",
@@ -3800,7 +3800,7 @@
    "topic": "obst",
    "art": "der",
    "de": "Mais",
-   "plural": "-",
+   "plural": "",
    "ar": "درة",
    "photo": {
     "file": "Corn on the cob (sweet corn).jpg",
@@ -4175,7 +4175,7 @@
    "topic": "essen2",
    "art": "das",
    "de": "Eis",
-   "plural": "-",
+   "plural": "",
    "ar": "آيس كريم",
    "photo": {
     "file": "Ice cream cone with spoon.jpg",
@@ -4220,7 +4220,7 @@
    "topic": "essen2",
    "art": "das",
    "de": "Sushi",
-   "plural": "-",
+   "plural": "",
    "ar": "سوشي",
    "photo": {
     "file": "Various sushi, beautiful October night at midnight.jpg",
@@ -4265,7 +4265,7 @@
    "topic": "essen2",
    "art": "die",
    "de": "Spaghetti",
-   "plural": "-",
+   "plural": "",
    "ar": "سباجتي",
    "photo": {
     "file": "Spaghetti in Ghana.jpg",
@@ -4445,7 +4445,7 @@
    "topic": "natur2",
    "art": "der",
    "de": "Nebel",
-   "plural": "-",
+   "plural": "",
    "ar": "ضباب",
    "photo": {
     "file": "Trees in fog on the northern side of Loch Tay, Scottish Highlands, Scotland.jpg",
@@ -5270,7 +5270,7 @@
    "topic": "gemuese2",
    "art": "der",
    "de": "Lauch",
-   "plural": "-",
+   "plural": "",
    "ar": "كراث",
    "photo": {
     "file": "Leek on white background - 0947.jpg",
@@ -5283,7 +5283,7 @@
   {
    "id": "radieschen",
    "topic": "gemuese2",
-   "art": "die",
+   "art": "das",
    "de": "Radieschen",
    "plural": "-",
    "ar": "فجل",
@@ -5570,7 +5570,7 @@
    "topic": "fleisch",
    "art": "der",
    "de": "Toast",
-   "plural": "-",
+   "plural": "Toasts",
    "ar": "توست",
    "photo": {
     "file": "Toast-2.jpg",
@@ -5613,7 +5613,7 @@
   {
    "id": "lebkuchen",
    "topic": "fleisch",
-   "art": "das",
+   "art": "der",
    "de": "Lebkuchen",
    "plural": "-",
    "ar": "خبز زنجبيل",
@@ -5660,7 +5660,7 @@
    "topic": "getraenke2",
    "art": "der",
    "de": "Kakao",
-   "plural": "-",
+   "plural": "",
    "ar": "كاكاو",
    "photo": {
     "file": "Cocoa powder.jpg",
@@ -5735,14 +5735,14 @@
    "topic": "sehenswert",
    "art": "das",
    "de": "Brandenburger Tor",
-   "plural": "-",
+   "plural": "",
    "ar": "بوابة براندنبورج",
    "photo": {
-    "file": "Brandenburg Gate Quadriga at Night.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Brandenburg_Gate_Quadriga_at_Night.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Brandenburg_Gate_Quadriga_at_Night.jpg",
-    "license": "CC BY-SA 2.5",
-    "author": "א (Aleph)\n\nCreator: Johann Gottfried Schadow"
+    "file": "Brandenburger Tor abends.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_abends.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Brandenburger_Tor_abends.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Thomas Wolf, www.foto-tw.de"
    }
   },
   {
@@ -5750,7 +5750,7 @@
    "topic": "sehenswert",
    "art": "das",
    "de": "Schloss Neuschwanstein",
-   "plural": "-",
+   "plural": "",
    "ar": "قصر نويشفانشتاين",
    "photo": {
     "file": "Neuschwanstein Castle 2024-02.jpg",
@@ -5765,7 +5765,7 @@
    "topic": "sehenswert",
    "art": "der",
    "de": "Eiffelturm",
-   "plural": "-",
+   "plural": "",
    "ar": "برج إيفل",
    "photo": {
     "file": "Tour Eiffel Wikimedia Commons.jpg",
@@ -5780,7 +5780,7 @@
    "topic": "sehenswert",
    "art": "das",
    "de": "Kolosseum",
-   "plural": "-",
+   "plural": "",
    "ar": "الكولوسيوم",
    "photo": {
     "file": "Colosseum in Rome-April 2007-1- copie 2B.jpg",
@@ -5795,7 +5795,7 @@
    "topic": "sehenswert",
    "art": "die",
    "de": "Freiheitsstatue",
-   "plural": "-",
+   "plural": "",
    "ar": "تمثال الحرية",
    "photo": {
     "file": "Statue of Liberty, NY.jpg",
@@ -5813,11 +5813,11 @@
    "plural": "Fernsehtürme",
    "ar": "برج التلفزيون",
    "photo": {
-    "file": "Berlin - Berliner Fernsehturm - Fensterreinigung.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Berlin_-_Berliner_Fernsehturm_-_Fensterreinigung.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Berlin_-_Berliner_Fernsehturm_-_Fensterreinigung.jpg",
-    "license": "FAL",
-    "author": "Taxiarchos228"
+    "file": "Berliner Fernsehturm, Sicht vom Neptunbrunnen - Berlin Mitte.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Berliner_Fernsehturm,_Sicht_vom_Neptunbrunnen_-_Berlin_Mitte.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Berliner_Fernsehturm,_Sicht_vom_Neptunbrunnen_-_Berlin_Mitte.jpg",
+    "license": "CC BY-SA 3.0 de",
+    "author": "Christian Wolf (www.c-w-design.de)"
    }
   },
   {
@@ -5825,7 +5825,7 @@
    "topic": "sehenswert",
    "art": "der",
    "de": "Big Ben",
-   "plural": "-",
+   "plural": "",
    "ar": "بيج بن",
    "photo": {
     "file": "Big Ben at sunset - 2014-10-27 17-30.jpg",
@@ -5840,7 +5840,7 @@
    "topic": "sehenswert",
    "art": "das",
    "de": "Taj Mahal",
-   "plural": "-",
+   "plural": "",
    "ar": "تاج محل",
    "photo": {
     "file": "Taj Mahal, Agra, India edit2.jpg",
@@ -5855,7 +5855,7 @@
    "topic": "sehenswert",
    "art": "die",
    "de": "Chinesische Mauer",
-   "plural": "-",
+   "plural": "",
    "ar": "سور الصين العظيم",
    "photo": {
     "file": "Badaling China Great-Wall-of-China-01.jpg",
@@ -5870,7 +5870,7 @@
    "topic": "sehenswert",
    "art": "der",
    "de": "Reichstag",
-   "plural": "-",
+   "plural": "",
    "ar": "الرايخستاج",
    "photo": {
     "file": "Reichstag pano.jpg",
@@ -5915,7 +5915,7 @@
    "topic": "sehenswert",
    "art": "das",
    "de": "Hamburger Rathaus",
-   "plural": "-",
+   "plural": "",
    "ar": "بلدية هامبورج",
    "photo": {
     "file": "Alsterblick Hamburg.jpg",
@@ -6065,7 +6065,7 @@
    "topic": "sport2",
    "art": "das",
    "de": "Dartspiel",
-   "plural": "-",
+   "plural": "Dartspiele",
    "ar": "دارتس",
    "photo": {
     "file": "Dartboard, Black Bull, Wetherby (7th November 2023).jpg",
@@ -6470,7 +6470,7 @@
    "topic": "buero",
    "art": "die",
    "de": "Kreide",
-   "plural": "-",
+   "plural": "",
    "ar": "طباشير",
    "photo": {
     "file": "Chalk (25800474082).jpg",

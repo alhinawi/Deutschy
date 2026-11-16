@@ -17,7 +17,7 @@ export default function WordCard({ w }: { w: Word }) {
           <button onClick={() => speak(`${w.art} ${w.de}`)} aria-label={`${w.de}`} className="shrink-0 rounded-full border border-line px-3 py-1 text-sm hover:bg-paper"><Speaker /></button>
         </div>
         <p className="ar-title text-xl text-ink"><Gloss w={w} /></p>
-        <p className="de text-sm text-muted" lang="de"><PluralText w={w} /></p>
+        {w.plural !== '' && <p className="de text-sm text-muted" lang="de"><PluralText w={w} /></p>}
       </div>
     </article>
   );
