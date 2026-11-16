@@ -14,6 +14,7 @@ export const sidebar: NavGroup[] = [
     { href: '/trennbare-verben/', ar: 'الأفعال المنفصلة', en: 'Separable verbs' },
     { href: '/zahlen/', ar: 'الأرقام والساعة والتاريخ', en: 'Numbers, time, dates' },
     { href: '/adjektivendungen/', ar: 'نهايات الصفات', en: 'Adjective endings' },
+    { href: '/kasus/', ar: 'الحالات (Kasus)', en: 'Cases (Kasus)' },
     { href: '/verbs/quiz/', ar: 'اختبار الأفعال', en: 'Verb quiz' },
     { href: '/dialogues/', ar: 'حوارات', en: 'Dialogues' },
     { href: '/redewendungen/', ar: 'تعبيرات ألمانية', en: 'Redewendungen' },
