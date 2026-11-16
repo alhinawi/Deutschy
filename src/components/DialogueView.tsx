@@ -21,7 +21,7 @@ export default function DialogueView({ conversation = false }: { conversation?: 
   return (
     <div className="space-y-6">
       <h1 className="ar-title text-4xl font-bold">{conversation ? t('تدريب محادثة A1 و A2', 'A1 and A2 conversation practice') : t('حوارات', 'Dialogues')}</h1>
-      <p className="text-muted">{t('اقرا واسمع حوارات من الحياة اليومية، مع الترجمة، وبعدها 3 أسئلة فهم.', 'Read and listen to everyday dialogues with translation, then answer 3 comprehension questions.')}</p>
+      <p className="text-muted">{t('اقرا حوار من الحياة اليومية، واسمعه لو الصوت متاح. استخدم الترجمة وقت الحاجة، وبعدين جاوب على 3 أسئلة فهم.', 'Read and listen to everyday dialogues with translation, then answer 3 comprehension questions.')}</p>
       <nav aria-label={t("مواقف يومية","Everyday situations")} className="flex flex-wrap gap-3">{[["im-kleidergeschaeft","المحل","Shop"],["beim-arzt-termin","الدكتور","Doctor"],["wohnungsbesichtigung","الشقة","Flat"]].map(([id,ar,en])=><button key={id} onClick={()=>setOpen(dialogues.find(d=>d.id===id)!)} className="rounded-full border border-line px-4 py-3">{t(ar,en)}</button>)}<Link className="rounded-full border border-line px-4 py-3" href="/egypt-dialogues/a1-reise/">{t("القطر","Train")}</Link></nav>
       <div className="flex flex-wrap gap-2">
         {(conversation ? ['all', 'A1', 'A2'] : ['all', 'A1', 'A2', 'B1']).map((l) => <button key={l} onClick={() => setLv(l)} className={`num rounded-full border px-4 py-2 ${lv === l ? 'border-accent bg-accent text-accent-ink' : 'border-line bg-paper'}`}>{l === 'all' ? t('الكل', 'All') : l}</button>)}

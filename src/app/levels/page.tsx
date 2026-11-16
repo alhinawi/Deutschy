@@ -11,7 +11,7 @@ export default function Levels() {
   return (
     <div className="space-y-6">
       <h1 className="ar-title text-4xl font-bold"><T ar="المستويات" en="Levels" /></h1>
-      <p className="text-muted"><T ar="Deutschy بتغطي كل المستويات من A1 لحد C2. بنفتح كل مستوى لما محتواه يخلص ويتراجع، من غير محتوى فاضي أو مزيف." en="Deutschy covers every level from A1 to C2. A level opens once its content is finished and reviewed, with no empty or fake content." /></p>
+      <p className="text-muted"><T ar="اختار مسار تدريب من A1 لحد C2 وشوف المحتوى المتاح فيه. المسارات بتنظّم المذاكرة؛ مش شهادة كفاءة ولا منهج امتحان رسمي كامل." en="Choose a practice path from A1 to C2 and explore its available content. Paths organize study; they are not a proficiency certificate or a complete official exam syllabus." /></p>
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {levels.map((l) => (
           <Link key={l.id} href={`/levels/${l.id}/`} className={`rounded-2xl border bg-card p-6 ${l.status === 'live' ? 'border-accent' : 'border-line opacity-80'}`}>
@@ -21,7 +21,7 @@ export default function Levels() {
             </div>
             <p className="ar-title mt-1 text-xl text-accent"><LevelText id={l.id} f="name" /></p>
             <p className="mt-2 text-muted"><LevelText id={l.id} f="desc" /></p>
-            {l.status === 'live' && <p className="num mt-3 text-sm font-bold"><T ar={`${arLessons(topics.length)} · ${arWords(words.length)} بصور`} en={`${topics.length} lessons · ${words.length} words with photos`} /></p>}
+            {l.status === 'live' && l.id === 'A1' && <p className="num mt-3 text-sm font-bold"><T ar={`${arLessons(topics.length)} · ${arWords(words.length)} بصور`} en={`${topics.length} lessons · ${words.length} words with photos`} /></p>}
           </Link>
         ))}
       </div>

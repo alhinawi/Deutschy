@@ -1,0 +1,152 @@
+[
+  {
+    "file": "src/app/page.tsx",
+    "before": "كل كلمة معاها صورة حقيقية، أداة التعريف الصح (der / die / das)، والجمع. اتعلم بالكروت وبعدين العب وجمّع XP.",
+    "after": "اتعلّم الاسم مع صورته وأداة التعريف، وراجع الجمع لما يكون معروض. ذاكر بالكروت، وبعدها اختبر نفسك في الألعاب."
+  },
+  {
+    "file": "src/app/learn/page.tsx",
+    "before": "التحيات، الأرقام، الأيام، الألوان، وأهم فعلين. اضغط على زرار السماعة عشان تسمع النطق.",
+    "after": "ابدأ بالتحيات والأرقام والأيام والألوان، وبعدين جرّب الفعلين الأساسيين. اضغط على السماعة عشان تسمع النطق لو الصوت متاح على جهازك."
+  },
+  {
+    "file": "src/app/lessons/page.tsx",
+    "before": "كل درس موضوع واحد. افتح الدرس، شوف الكروت، وبعدين جرّب الألعاب على نفس الكلمات.",
+    "after": "كل درس عن موضوع واحد. راجع الصورة والاسم والأداة، وبعدين اختبر نفسك في نفس الكلمات."
+  },
+  {
+    "file": "src/app/grammar/page.tsx",
+    "before": "كل موضوع فيه شرح بالمصري، قواعد، أمثلة بنطق، وجدول لو محتاج.",
+    "after": "الشرح بالمصري، ومعاه قواعد وأمثلة وجداول حسب الموضوع. النطق حسب الصوت المتاح على جهازك."
+  },
+  {
+    "file": "src/app/verbs/page.tsx",
+    "before": "بتصريف المضارع والـ Perfekt والـ Präteritum، مع الأفعال القوية والشاذة والمنفصلة والانعكاسية.",
+    "after": "مع صيغ المضارع والماضي. اختار فعل عشان تراجع تصريفه وأمثلته، وركّز على الصيغة المطلوبة في كل تدريب."
+  },
+  {
+    "file": "src/components/PronView.tsx",
+    "before": "اضغط على أي كلمة تسمعها. الأصوات الألماني ماليهاش مقابل مظبوط في العربي، فالتشبيهات تقريبية.",
+    "after": "اضغط على الكلمة عشان تسمعها لو الصوت متاح. أصوات الألماني مالهاش مقابل مطابق في العربي؛ التشبيهات هنا تقريبية."
+  },
+  {
+    "file": "src/components/ZahlenView.tsx",
+    "before": "اسمع واختار الرقم أو الساعة أو التاريخ. اضغط على أي سطر عشان تسمعه.",
+    "after": "اسمع واختار الرقم أو الساعة أو التاريخ، أو جرّب تدريب الكتابة. اضغط على السطر عشان تسمعه لو الصوت متاح."
+  },
+  {
+    "file": "src/components/StartGuide.tsx",
+    "before": "مجموعة إنت مرتاح تجربها، مش مستوى مقاس",
+    "after": "اختار مجموعة تدريب تناسبك؛ ده مش قياس لمستواك"
+  },
+  {
+    "file": "src/components/A2View.tsx",
+    "before": "</h1>\n    <div",
+    "after": "</h1>\n    <p className=\"text-muted\">{t('اختار موضوع، راجع الشرح والمثال، وبعدين جرّب 8 أسئلة. دي جولة تدريب، مش امتحان مستوى رسمي.', 'Choose a topic, review its explanation and example, then try eight questions. This is practice, not an official level exam.')}</p>\n    <div"
+  },
+  {
+    "file": "src/components/B1View.tsx",
+    "before": "اختار موضوع، راجع مثاله، وبعدين حل 8 أسئلة.",
+    "after": "اختار موضوع، راجع مثاله، وبعدين جاوب على 8 أسئلة. الغلط فرصة تراجع السبب وتجرب تاني."
+  },
+  {
+    "file": "src/app/reading/page.tsx",
+    "before": "نصوص قصيرة من A1 لـ C2 وأسئلة بعد كل نص. اضغط على الترجمة بس لما تحتاجها.",
+    "after": "نصوص قصيرة متقسّمة لمجموعات تدريب من A1 لحد C2، وبعد كل نص أسئلة فهم. حاول تقرا الأول، وافتح الترجمة لما تحتاجها."
+  },
+  {
+    "file": "src/components/DialogueView.tsx",
+    "before": "اقرا واسمع حوارات من الحياة اليومية، مع الترجمة، وبعدها 3 أسئلة فهم.",
+    "after": "اقرا حوار من الحياة اليومية، واسمعه لو الصوت متاح. استخدم الترجمة وقت الحاجة، وبعدين جاوب على 3 أسئلة فهم."
+  },
+  {
+    "file": "src/app/progress/page.tsx",
+    "before": "كروت محفوظة",
+    "after": "كروت راجعتها كويس"
+  },
+  {
+    "file": "src/components/ReviewView.tsx",
+    "before": "القائمة ثابتة للجولة؛ حدثها عشان تشوف اللي لسه محتاج مراجعة.",
+    "after": "القائمة بتفضل زي ما هي طول الجولة. اضغط على تحديث القائمة عشان تشوف الأسئلة اللي لسه محتاجة مراجعة."
+  },
+  {
+    "file": "src/components/ConjugationTrainer.tsx",
+    "before": "تدريب الصيغ لوحدها، مش درس في اختيار الزمن المناسب.",
+    "after": "هنا بتتمرّن على كتابة الصيغة؛ اختيار الزمن المناسب محتاج تبص للسياق."
+  },
+  {
+    "file": "src/components/PerfView.tsx",
+    "before": "أغلب الأفعال بتستخدم المساعد الأول. الانتقال من مكان لمكان وتغيير الحالة غالبًا بالمساعد التاني، بس المعنى والتركيب بيفرقوا. احفظ المساعد مع الاستخدام وراجع تبويب السياق.",
+    "after": "أغلب الأفعال بتاخد haben. أفعال كتير بتوصف انتقال أو تغيّر حالة بتاخد sein، بس المعنى والتركيب بيفرقوا. احفظ المساعد مع الاستخدام، وراجع تبويب السياق."
+  },
+  {
+    "file": "src/components/ThemeView.tsx",
+    "before": "المواضيع اللي بتتكرر في امتحانات Goethe من A1 لـ B1. كل كلمة بصورة حقيقية وأداة وجمع. اضغط على السماعة تسمعها.",
+    "after": "راجع أسماء من موضوعات الحياة اليومية، مع صور وأدوات تعريف والجمع لما يكون معروض. دي مجموعات تدريب، مش قائمة امتحان رسمية. اضغط على السماعة لو الصوت متاح."
+  },
+  {
+    "file": "src/components/ThemeView.tsx",
+    "before": "The themes that recur in Goethe exams from A1 to B1. Every word has a real photo, its article and plural. Tap the speaker to hear it.",
+    "after": "Review everyday nouns with photos, articles and plurals where shown. These are practice groups, not an official exam list. Tap the speaker if voice playback is available."
+  },
+  {
+    "file": "src/components/ThemeView.tsx",
+    "before": "مفردات حسب موضوع الامتحان",
+    "after": "مفردات حسب الموضوع"
+  },
+  {
+    "file": "src/components/ThemeView.tsx",
+    "before": "import Speaker from './Speaker';",
+    "after": "import Speaker from './Speaker';\nimport { arWords } from '@/lib/arcount';"
+  },
+  {
+    "file": "src/components/ThemeView.tsx",
+    "before": "{list.length} {t('كلمة', 'words')}",
+    "after": "{t(arWords(list.length), `${list.length} words`)}"
+  },
+  {
+    "file": "src/components/WritingView.tsx",
+    "before": "مهام قصيرة لكل مستوى. اكتب بنفسك، والصفحة بتشيّك لو كتبت العبارات الأساسية المطلوبة وعدد الكلمات. مفيش تقييم آلي للغة، وفي الآخر تقدر تشوف نموذج.",
+    "after": "اختار مهمة واكتب مسودتك بنفسك. الفحص بيشوف عدد الكلمات والعبارات المطلوبة بس، مش بيصحّح الألماني كله. بعد المحاولة، قارن كتابتك بالنموذج."
+  },
+  {
+    "file": "src/components/SpeakingPractice.tsx",
+    "before": "اسمع نموذج، كرر بصوتك، وقارن النص اللي المتصفح سمعه.",
+    "after": "اسمع المثال، كرّره بصوتك، وقارن كلامك بالنص اللي المتصفح التقطه."
+  },
+  {
+    "file": "src/app/levels/page.tsx",
+    "before": "Deutschy بتغطي كل المستويات من A1 لحد C2. بنفتح كل مستوى لما محتواه يخلص ويتراجع، من غير محتوى فاضي أو مزيف.",
+    "after": "اختار مسار تدريب من A1 لحد C2 وشوف المحتوى المتاح فيه. المسارات بتنظّم المذاكرة؛ مش شهادة كفاءة ولا منهج امتحان رسمي كامل."
+  },
+  {
+    "file": "src/app/levels/page.tsx",
+    "before": "Deutschy covers every level from A1 to C2. A level opens once its content is finished and reviewed, with no empty or fake content.",
+    "after": "Choose a practice path from A1 to C2 and explore its available content. Paths organize study; they are not a proficiency certificate or a complete official exam syllabus."
+  },
+  {
+    "file": "src/app/levels/page.tsx",
+    "before": "{l.status === 'live' && <p",
+    "after": "{l.status === 'live' && l.id === 'A1' && <p"
+  },
+  {
+    "file": "src/lib/levels.ts",
+    "before": "the simple past (Perfekt)",
+    "after": "the conversational past (Perfekt)"
+  },
+  {
+    "file": "src/lib/levels.ts",
+    "before": "الماضي البسيط (Perfekt)",
+    "after": "الماضي المستخدم في الكلام (Perfekt)"
+  },
+  {
+    "file": "src/app/wortschatz/page.tsx",
+    "before": "Vocabulary by exam theme",
+    "after": "Vocabulary by everyday theme"
+  },
+  {
+    "file": "src/lib/arcount.ts",
+    "before": "export const arTries",
+    "after": "export const arMinutes = (n: number) => arCount(n, 'دقيقة', 'دقيقتين', 'دقايق', 'دقيقة');\nexport const arTries"
+  }
+]
