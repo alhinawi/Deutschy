@@ -1,0 +1,21 @@
+// Complete examples, not isolated answer fragments from the correction drills.
+export const mapExamples:Record<string,string>={
+'a1-verb':'Ich bin müde.',
+'a1-position':'Heute Morgen lerne ich Deutsch.',
+'a1-negation':'Kommst du heute? - Nein, ich komme morgen.',
+'a2-weil':'Ich bleibe zu Hause, weil ich krank bin.',
+'a2-bracket':'Ich habe gestern Deutsch gelernt.',
+'a2-modal':'Ich muss heute Deutsch lernen.',
+'b1-front':'Weil ich krank bin, bleibe ich zu Hause.',
+'b1-denn':'Ich bleibe zu Hause, denn ich bin krank.',
+'b1-bekommen':'Ich bekomme eine Nachricht. = Ich erhalte eine Nachricht.',
+'b2-bridge-vermutung':'Die Akte dürfte im Archiv liegen. = Wahrscheinlich liegt sie dort.',
+'b2-bridge-distanzierung':'Nora will die Datei geprüft haben. (nach eigener Aussage)',
+'b2-bridge-vergleich':'Sie tut so, als ob sie alles wüsste.',
+'c1-vergleich':'Er spricht, als hätte er die Entscheidung allein getroffen.',
+'c1-konsekutiv':'Die Frist war zu kurz, als dass wir alle Rückmeldungen hätten auswerten können.',
+'c1-infinitiv-perfekt':'Er bedauert, zu spät angekommen zu sein.',
+'c2-irrelevanz':'Wer auch immer den Vorsitz übernimmt, die Regeln gelten für alle.',
+'c2-geltung':'Soweit ich beurteilen kann, ist die Dokumentation vollständig.',
+'c2-ausnahme':'Wir veröffentlichen den Bericht morgen, es sei denn, neue Fehler werden entdeckt.',
+};

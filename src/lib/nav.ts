@@ -25,6 +25,7 @@ export const sidebar: NavGroup[] = [
   ] },
   { id: 'levels', ar: 'المستويات', en: 'Levels', items: ['A1', 'A2', 'B1', 'B2', 'C1', 'C2'].map((l) => ({ href: `/levels/${l}/`, ar: `المستوى ${l}`, en: `Level ${l}`, tag: l })) },
   { id: 'content', ar: 'الموسوعة', en: 'Encyclopedia', items: [
+    { href: '/grammar-map/', ar: 'خريطة قواعد سريعة A1-C2', en: 'Quick grammar maps A1-C2' },
     { href: '/pitfalls/', ar: 'نقط بتلخبطك في الألماني', en: 'German pitfalls through Arabic' },
     { href: '/grammar/', ar: 'أكاديمية القواعد', en: 'Grammar academy' },
     { href: '/verbs/', ar: 'الأفعال والتصريف', en: 'Verbs' },
