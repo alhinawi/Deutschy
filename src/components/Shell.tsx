@@ -1,4 +1,6 @@
 'use client';
+import {localActivity} from '@/lib/local-activity';
+import {useLocalClock} from '@/lib/use-local-clock';
 import PwaStatus from './PwaStatus';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
@@ -14,6 +16,8 @@ import SearchBox, { SearchIcon } from './SearchBox';
 export default function Shell({ children }: { children: ReactNode }) {
   const user = useAuth();
   const { s,storageError } = useStore();
+  const now=useLocalClock();
+  const currentStreak=localActivity(s,now).currentStreak;
   const { lang, setLang } = useLang();
   const t = useT();
   const path = usePathname() ?? '/';
@@ -48,7 +52,7 @@ export default function Shell({ children }: { children: ReactNode }) {
           <Link href="/" className="de text-2xl font-semibold tracking-tight" dir="ltr">Deutsch<span className="text-accent">y</span></Link>
           <div className="num ms-auto max-[360px]:hidden flex items-center gap-1.5 sm:gap-2 whitespace-nowrap text-xs font-bold text-muted" dir="ltr">
             <span className="max-sm:hidden">Lv {level(s.xp)}</span><span title={`${s.xp} XP`}>{s.xp >= 10000 ? new Intl.NumberFormat('en', { notation: 'compact', maximumFractionDigits: 1 }).format(s.xp) : s.xp} XP</span>
-            <span className="inline-flex items-center gap-0.5 text-accent"><Flame />{s.streak}</span>
+            <span aria-label={t(`السلسلة الحالية: ${currentStreak}`,`Current streak: ${currentStreak}`)} className="inline-flex items-center gap-0.5 text-accent"><Flame />{currentStreak}</span>
           </div>
           <button onClick={() => setSearching(true)} aria-label={t('بحث', 'Search')} className="rounded-full border border-line p-1.5 hover:bg-card"><SearchIcon className="h-4 w-4" /></button>
           <button onClick={() => setLang(lang === 'ar' ? 'en' : 'ar')} aria-label={lang === 'ar' ? 'EN English' : 'عربي Arabic'} className="rounded-full border border-line px-2.5 py-1 text-xs font-bold whitespace-nowrap sm:px-3 hover:bg-card">
