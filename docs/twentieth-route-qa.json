@@ -1,0 +1,26 @@
+{
+  "scope": "19 affected routes/hubs, AR/EN \u00d7 390/1280",
+  "checks": 76,
+  "failures": [],
+  "routes": [
+    "",
+    "conversation/",
+    "credits/",
+    "dialogues/",
+    "dictation/",
+    "games/quiz/",
+    "grammar/akkusativ/",
+    "grammar/dativ-praepositionen/",
+    "grammar/komparativ/",
+    "grammar/modalverben/",
+    "grammar/possessiv/",
+    "grammar/praeteritum-basics/",
+    "lessons/",
+    "lessons/gartenpflege/",
+    "progress/",
+    "reading/",
+    "reading/alltag-a1-balkon/",
+    "reading/alltag-a2-spieleabend/",
+    "reading/alltag-b1-gartenplan/"
+  ]
+}

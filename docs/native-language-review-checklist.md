@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-16 after the nineteenth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the twentieth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -77,6 +77,16 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `src/lib/exercises-everyday.ts` | Review 24 appended contrasts across six grammar topics. Check imperative variants, separable infinitives, subordinate word order, dative reflexive pronouns, relative-clause cases and um/ohne ... zu. |
 | [ ] | `/lessons/waesche/` | Check Wäschekorb / Wäschekörbe, Wäscheständer / same-form plural, Bügelbrett / Bügelbretter, Kleiderbügel / same-form plural. Forms were dictionary-checked; assess Egyptian Arabic meanings and visual clarity independently. |
 
+### Twentieth update: new content, still pending
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-balkon/` and `/dialogues/#pflanzen-am-fenster` | Check beginner vocabulary, plant/watering-can references, Egyptian Arabic meanings and all 7 answers. Listen-first uses device voices, not a human recording. |
+| [ ] | `/reading/alltag-a2-spieleabend/` and `/dialogues/#spieleabend-nachfrage` | Check invitation register, approximate seven vs half past seven, what guests bring and the order of eating/playing. Verify all 7 answers and translations. |
+| [ ] | `/reading/alltag-b1-gartenplan/` and `/dialogues/#garten-verantwortung` | Check responsibility vs preference, missing weekend coverage, unconfirmed sun conditions and all 7 answers. It is a fictional plan, not gardening advice. |
+| [ ] | `src/lib/exercises-neighborhood.ts` | Review 24 appended accusative/possessive/modal/past/comparative/dative-preposition contrasts and both explanation languages. |
+| [ ] | `/lessons/gartenpflege/` | Check Gießkanne / Gießkannen, Blumentopf / Blumentöpfe, Schubkarre / Schubkarren and Egyptian Arabic meanings. Assess each photo as a teaching cue. Three new nouns, not duplicate copies of existing tools. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -91,7 +101,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **673 photo nouns / 59 topics**, **75 reading texts / 253 reading questions**, **41 core grammar topics / 406 core grammar questions**, **15 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **676 photo nouns / 60 topics**, **78 reading texts / 265 reading questions**, **41 core grammar topics / 430 core grammar questions**, **18 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -103,7 +113,7 @@ This is an inventory, not completed review. Snapshot: **673 photo nouns / 59 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 7 · A2 20 · B1 18 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 8 · A2 21 · B1 19 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
