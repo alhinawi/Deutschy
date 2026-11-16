@@ -243,3 +243,6 @@ for(const [key,rows]of Object.entries(wrappingGrammar))exercises[key]=[...(exerc
 
 import {tablewareGrammar} from './exercises-tableware';
 for(const [key,rows]of Object.entries(tablewareGrammar))exercises[key]=[...(exercises[key]??[]),...rows];
+
+import {readingcornerGrammar} from './exercises-readingcorner';
+for(const [topic,rows]of Object.entries(readingcornerGrammar))exercises[topic].push(...rows);
