@@ -5,10 +5,10 @@ export type Score = { game: string; score: number; at: number; name: string };
 export type State = {
   xp: number; streak: number; best: number; lastDay: string; name: string;
   seen: Record<string, { ok: number; bad: number }>; scores: Score[]; theme: string;
-  daily: Record<string, number>; goal: number;
+  daily: Record<string, number>; goal: number; srs: Record<string, { b: number; due: number }>;
 };
 const KEY = 'deutschy:v1';
-const empty: State = { xp: 0, streak: 0, best: 0, lastDay: '', name: '', seen: {}, scores: [], theme: 'papier', daily: {}, goal: 50 };
+const empty: State = { xp: 0, streak: 0, best: 0, lastDay: '', name: '', seen: {}, scores: [], theme: 'papier', daily: {}, goal: 50, srs: {} };
 const day = (d = new Date()) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
 
 export const load = (): State => {
@@ -67,8 +67,13 @@ export function useStore() {
     if (loggedIn) fetch('/api/me/score', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ game, score }) }).catch(() => {});
     save(cur);
   }, []);
+  const setCard = useCallback((id: string, card: { b: number; due: number }) => {
+    const cur = load();
+    cur.srs = { ...cur.srs, [id]: card };
+    save(cur);
+  }, []);
   const patch = useCallback((p: Partial<State>) => { save({ ...load(), ...p }); }, []);
-  return { s, ready, award, addScore, patch };
+  return { s, ready, award, addScore, patch, setCard };
 }
 
 export function useAuth() {

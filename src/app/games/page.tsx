@@ -4,7 +4,7 @@ import { T } from '@/lib/i18n';
 export const metadata = { title: 'Games – Deutschy' };
 
 const games = [
-  { id: 'flashcards', t: 'Karteikarten', ar: 'كروت المراجعة', en: 'Flashcards', d: 'اقلب الكارت وقول لنفسك عرفتها ولا لأ. +2 XP للي تعرفه.', de: 'Flip the card and tell yourself if you knew it. +2 XP for each known word.' },
+  { id: 'flashcards', t: 'Karteikarten', ar: 'كروت المراجعة', en: 'Flashcards', d: 'مراجعة متباعدة: الكلمة اللي بتعرفها بترجعلك بعد وقت أطول. +2 XP للي تعرفه.', de: 'Spaced repetition: words you know return after a longer gap. +2 XP for each known word.' },
   { id: 'quiz', t: 'Bild-Quiz', ar: 'اختبار الصور', en: 'Picture quiz', d: 'صورة وأربع اختيارات. 10 أسئلة، +10 XP لكل إجابة صح.', de: 'One photo and four choices. 10 questions, +10 XP per correct answer.' },
   { id: 'article', t: 'der · die · das', ar: 'اختار الأداة', en: 'Pick the article', d: 'كلمة وتلات أدوات. الأداة الصح هي اللي بتفرق. +10 XP.', de: 'One word and three articles. The right article is what matters. +10 XP.' },
   { id: 'spelling', t: 'Buchstabieren', ar: 'اكتب الكلمة', en: 'Spell it', d: 'صورة وتكتب الكلمة بالألماني. +15 XP لكل كلمة صح.', de: 'See a photo and type the German word. +15 XP per correct word.' },
