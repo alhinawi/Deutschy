@@ -26,6 +26,7 @@ export default function GameRunner({ game }: { game: string }) {
           {t('الموضوع', 'Topic')}{' '}
           <select className="max-w-full rounded-lg border border-line bg-card px-2 py-1 text-ink" value={topic ?? ''} onChange={(e) => { setTopic(e.target.value || null); setRound((r) => r + 1); }}>
             <option value="">{t('كل الكلمات', 'All words')}</option>
+            {topic&&!topics.some(tp=>tp.id===topic)&&<option value={topic}>{t("موضوع مش موجود","Unavailable topic")}</option>}
             {topics.map((tp) => <option key={tp.id} value={tp.id}>{topicTitles[tp.id]} · {topicName(tp.id, lang)}</option>)}
           </select>
         </label>
@@ -37,6 +38,8 @@ export default function GameRunner({ game }: { game: string }) {
 
 type Props = { game: string; list: Word[]; again: () => void };
 function Game({ game, list, again }: Props) {
+  const t=useT();
+  if(!list.length)return <section role="status" className="rounded-2xl border border-line bg-card p-6"><h2 className="ar-title text-2xl">{t('مفيش كلمات للموضوع ده','No words for this topic')}</h2><p>{t('اختار موضوع من القائمة أو كل الكلمات. مفيش جولة أو نقط اتسجلت.','Choose a listed topic or All words. No round or points have been recorded.')}</p></section>;
   if (game === 'flashcards') return <Flash list={list} />;
   if (game === 'memory') return <Memory list={list} again={again} />;
   return <Rounds game={game} list={list} again={again} />;
@@ -208,35 +211,36 @@ function Memory({ list, again }: { list: Word[]; again: () => void }) {
   const [open, setOpen] = useState<string[]>([]);
   const [matched, setMatched] = useState<string[]>([]);
   const [tries, setTries] = useState(0);
-  const [saved, setSaved] = useState(false);
+  const openKeys=useRef<string[]>([]);
+  const matchedIds=useRef(new Set<string>());
+  const saved=useRef(false);
   const finished = matched.length === pairs.length;
   const score = Math.max(0, pairs.length * 2 - Math.max(0, tries - pairs.length));
-  if (finished && !saved) { setSaved(true); addScore('memory', score); award(pairs.length * 10); }
+  useEffect(()=>{if(finished&&!saved.current&&pairs.length){saved.current=true;addScore('memory',score);award(pairs.length*10)}},[finished,pairs.length,score,addScore,award]);
   const tap = (c: (typeof cards)[number]) => {
-    if (finished || open.includes(c.k) || matched.includes(c.id) || open.length === 2) return;
-    const nx = [...open, c.k];
-    setOpen(nx);
-    if (nx.length === 2) {
-      setTries((t) => t + 1);
-      const [a, b] = nx.map((k) => cards.find((x) => x.k === k)!);
-      const ok = a.id === b.id;
-      setTimeout(() => { if (ok) setMatched((m) => [...m, a.id]); setOpen([]); }, ok ? 500 : 1100);
-    }
+    if(finished||openKeys.current.includes(c.k)||matchedIds.current.has(c.id)||openKeys.current.length===2)return;
+    const nx=[...openKeys.current,c.k];openKeys.current=nx;setOpen(nx);
+    if(nx.length===2)setTries(t=>t+1);
   };
+  const pair=open.length===2?open.map(k=>cards.find(c=>c.k===k)!):null;
+  const pairMatches=!!pair&&pair[0].id===pair[1].id;
+  const continuePair=()=>{if(openKeys.current.length!==2)return;const keys=openKeys.current;openKeys.current=[];const [a,b]=keys.map(k=>cards.find(c=>c.k===k)!);if(a.id===b.id){matchedIds.current.add(a.id);setMatched([...matchedIds.current])}setOpen([])};
   if (finished) return <Done title={t('كملت اللعبة', 'Game finished')} line={t(`${arTries(tries)} · سكور ${score}`, `${tries} tries · score ${score}`)} xp={pairs.length * 10} again={again} />;
   return (
     <div className="mx-auto max-w-2xl space-y-4">
       <p className="num text-center text-sm text-muted">{t('المحاولات', 'Tries')}: {tries}</p>
+      <p className="text-sm text-muted">{t('افتح كارتين وطابق الصورة بالكلمة. الزوج بيفضل ظاهر لحد ما تضغط كمل. المحاولات بتعد أزواج الكروت، مش عدد الضغطات.','Reveal two cards and match the photo to its word. The pair stays visible until Continue. Tries count card pairs, not taps.')}</p>
       <div className="grid grid-cols-3 gap-3 sm:grid-cols-4">
         {cards.map((c) => {
           const show = open.includes(c.k) || matched.includes(c.id);
           return (
-            <button key={c.k} onClick={() => tap(c)} className={`flex aspect-[4/3] items-center justify-center overflow-hidden rounded-xl border ${matched.includes(c.id) ? 'border-good' : 'border-line'} ${show ? 'bg-card' : 'bg-accent'}`}>
-              {show ? (c.kind === 'p' ? <Photo w={c.w} /> : <span className="de p-2 text-center text-lg font-semibold">{c.w.art} {c.w.de}</span>) : <span className="de text-2xl text-accent-ink">?</span>}
+            <button key={c.k} aria-label={show?`${c.kind==='p'?t('صورة','Photo'):t('كلمة','Word')}: ${c.w.art} ${c.w.de}${matched.includes(c.id)?' '+t('متطابق','matched'):''}`:t(`كارت مقفول ${cards.indexOf(c)+1}`,`Hidden card ${cards.indexOf(c)+1}`)} aria-pressed={show} disabled={matched.includes(c.id)||open.includes(c.k)||open.length===2} onClick={() => tap(c)} className={`flex min-h-28 items-center justify-center overflow-hidden rounded-xl border ${matched.includes(c.id) ? 'border-good' : 'border-line'} ${show ? 'bg-card' : 'bg-accent'}`}>
+              {show ? (c.kind === 'p' ? <Photo w={c.w} /> : <span dir="ltr" lang="de" className="de min-w-0 [overflow-wrap:anywhere] p-2 text-center text-base font-semibold">{c.w.art} {c.w.de}</span>) : <span className="de text-2xl text-accent-ink">?</span>}
             </button>
           );
         })}
       </div>
+      {pair&&<div role="status" className="space-y-3 rounded-xl border border-line bg-card p-4"><p>{pairMatches?t('الزوج متطابق.','The pair matches.'):t('مش نفس الكلمة. بص عليهم قبل ما تكمل.','Not a match. Compare the cards before continuing.')}</p><button onClick={continuePair} className="w-full rounded-full bg-accent px-5 py-3 font-bold text-accent-ink">{t('كمل','Continue')}</button></div>}
     </div>
   );
 }

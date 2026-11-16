@@ -282,3 +282,5 @@ console.log('PASS: review options remain three-way, word prompts hide German ans
 
 const roundsSource=readFileSync('src/components/GameRunner.tsx','utf8');assert(!roundsSource.includes('}, 900)'));assert(roundsSource.includes("typed.normalize('NFC')"));assert(roundsSource.includes('if(locked.current)return;locked.current=true;award'));assert(roundsSource.includes('disabled={picked!==null}'));assert(roundsSource.includes('saved.current=true;addScore(game,score)'));
 console.log('PASS: photo/article/spelling games retain manual feedback, Unicode input, answer locks and once-only completion');
+
+assert(roundsSource.includes('openKeys.current.length===2'));assert(roundsSource.includes('matchedIds.current'));assert(!roundsSource.includes('setTimeout'));assert(roundsSource.includes('No words for this topic'));assert(roundsSource.includes('aria-pressed={show}'));console.log('PASS: memory interaction uses synchronous pair state, manual continuation, named cards and unavailable-topic guard');
