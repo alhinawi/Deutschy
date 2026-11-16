@@ -1,0 +1,10 @@
+export const a2Themes = [
+  { id: 'a2-wohnen', de: 'Wohnen und Haushalt', ar: 'السكن وشغل البيت', en: 'Housing and household', topics: [], words: ['schreibtisch','balkon','wecker','buegeleisen','fernseher','spiegel'], example: 'Ich stelle den Schreibtisch ans Fenster, weil ich dort mehr Licht habe.' },
+  { id: 'a2-buero', de: 'Im Büro', ar: 'في المكتب', en: 'At the office', topics: [], words: ['kugelschreiber','taschenrechner','bueroklammer','tacker','locher','schreibblock'], example: 'Könnten Sie mir bitte den Locher und den Tacker geben?' },
+  { id: 'a2-gesundheit', de: 'Gesundheit und Pflege', ar: 'الصحة والعناية', en: 'Health and care', topics: [], words: ['tablette','pflaster','stethoskop','verband','krankenbett'], example: 'Ich brauche ein Pflaster. Wo ist die nächste Apotheke?' },
+  { id: 'a2-reisen', de: 'Unterwegs und auf Reisen', ar: 'في الطريق وفي السفر', en: 'Travel and transport', topics: [], words: ['koffer','taxi','u-bahn','flugzeug','wohnmobil','rolltreppe'], example: 'Wir sind mit der U-Bahn gefahren, weil das Taxi teurer war.' },
+  { id: 'a2-einkaufen', de: 'Kleidung einkaufen', ar: 'شراء الهدوم', en: 'Shopping for clothes', topics: [], words: ['mantel','guertel','tasche','regenschirm','brille','socke'], example: 'Der Mantel gefällt mir, aber ich brauche eine kleinere Größe.' },
+  { id: 'a2-kueche', de: 'In der Küche', ar: 'في المطبخ', en: 'In the kitchen', topics: [], words: ['wasserkocher','kochtopf','schneebesen','sieb','reibe','teekanne'], example: 'Kannst du den Wasserkocher einschalten, während ich den Tee vorbereite?' },
+  { id: 'a2-technik', de: 'Technik im Alltag', ar: 'التكنولوجيا اليومية', en: 'Everyday technology', topics: [], words: ['festplatte','tablet','monitor','fernbedienung','kopierer','spielkonsole'], example: 'Der Kopierer funktioniert nicht. Können Sie mir bitte helfen?' },
+  { id: 'a2-freizeit', de: 'Freizeit und Musik', ar: 'وقت الفراغ والموسيقى', en: 'Leisure and music', topics: [], words: ['tennisschlaeger','geige','floete','trompete','schlittschuh','trommel'], example: 'Früher habe ich Geige gespielt. Jetzt möchte ich Trompete lernen.' },
+];
