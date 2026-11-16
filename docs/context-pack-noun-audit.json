@@ -1,0 +1,364 @@
+[
+  {
+    "id": "bus",
+    "word": "Bus",
+    "article": "der",
+    "plural": "Busse",
+    "wiktionary_genders": [
+      "m",
+      "f",
+      "m",
+      "m",
+      "m"
+    ],
+    "wiktionary_plurals": [
+      "Busse",
+      "Buses",
+      "Busse",
+      "—"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Bus"
+  },
+  {
+    "id": "zug",
+    "word": "Zug",
+    "article": "der",
+    "plural": "Züge",
+    "wiktionary_genders": [
+      "m",
+      "m"
+    ],
+    "wiktionary_plurals": [
+      "Züge"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Zug"
+  },
+  {
+    "id": "bahnhof",
+    "word": "Bahnhof",
+    "article": "der",
+    "plural": "Bahnhöfe",
+    "wiktionary_genders": [
+      "m"
+    ],
+    "wiktionary_plurals": [
+      "Bahnhöfe"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Bahnhof"
+  },
+  {
+    "id": "flughafen",
+    "word": "Flughafen",
+    "article": "der",
+    "plural": "Flughäfen",
+    "wiktionary_genders": [
+      "m"
+    ],
+    "wiktionary_plurals": [
+      "Flughäfen"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Flughafen"
+  },
+  {
+    "id": "koffer",
+    "word": "Koffer",
+    "article": "der",
+    "plural": "Koffer",
+    "wiktionary_genders": [
+      "m"
+    ],
+    "wiktionary_plurals": [
+      "Koffer"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Koffer"
+  },
+  {
+    "id": "hotel",
+    "word": "Hotel",
+    "article": "das",
+    "plural": "Hotels",
+    "wiktionary_genders": [
+      "n"
+    ],
+    "wiktionary_plurals": [
+      "Hotels"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Hotel"
+  },
+  {
+    "id": "buch",
+    "word": "Buch",
+    "article": "das",
+    "plural": "Bücher",
+    "wiktionary_genders": [
+      "n"
+    ],
+    "wiktionary_plurals": [
+      "Bücher"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Buch"
+  },
+  {
+    "id": "stift",
+    "word": "Stift",
+    "article": "der",
+    "plural": "Stifte",
+    "wiktionary_genders": [
+      "m",
+      "m",
+      "n",
+      "f",
+      "f"
+    ],
+    "wiktionary_plurals": [
+      "Stifte",
+      "Stifte",
+      "Stifte",
+      "Stifter",
+      "Stiften"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Stift"
+  },
+  {
+    "id": "computer",
+    "word": "Computer",
+    "article": "der",
+    "plural": "Computer",
+    "wiktionary_genders": [
+      "m"
+    ],
+    "wiktionary_plurals": [
+      "Computer"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Computer"
+  },
+  {
+    "id": "heft",
+    "word": "Heft",
+    "article": "das",
+    "plural": "Hefte",
+    "wiktionary_genders": [
+      "n",
+      "n"
+    ],
+    "wiktionary_plurals": [
+      "Hefte",
+      "Hefte"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Heft"
+  },
+  {
+    "id": "telefon",
+    "word": "Telefon",
+    "article": "das",
+    "plural": "Telefone",
+    "wiktionary_genders": [
+      "n"
+    ],
+    "wiktionary_plurals": [
+      "Telefone"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Telefon"
+  },
+  {
+    "id": "bibliothek",
+    "word": "Bibliothek",
+    "article": "die",
+    "plural": "Bibliotheken",
+    "wiktionary_genders": [
+      "f"
+    ],
+    "wiktionary_plurals": [
+      "Bibliotheken"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Bibliothek"
+  },
+  {
+    "id": "tee",
+    "word": "Tee",
+    "article": "der",
+    "plural": "Tees",
+    "wiktionary_genders": [
+      "m",
+      "n"
+    ],
+    "wiktionary_plurals": [
+      "Tees",
+      "Tees"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Tee"
+  },
+  {
+    "id": "kaffee",
+    "word": "Kaffee",
+    "article": "der",
+    "plural": "",
+    "wiktionary_genders": [
+      "m",
+      "n"
+    ],
+    "wiktionary_plurals": [
+      "Kaffees",
+      "Kaffees"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Kaffee"
+  },
+  {
+    "id": "kuchen",
+    "word": "Kuchen",
+    "article": "der",
+    "plural": "Kuchen",
+    "wiktionary_genders": [
+      "m"
+    ],
+    "wiktionary_plurals": [
+      "Kuchen"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Kuchen"
+  },
+  {
+    "id": "tisch",
+    "word": "Tisch",
+    "article": "der",
+    "plural": "Tische",
+    "wiktionary_genders": [
+      "m"
+    ],
+    "wiktionary_plurals": [
+      "Tische"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Tisch"
+  },
+  {
+    "id": "kueche",
+    "word": "Küche",
+    "article": "die",
+    "plural": "Küchen",
+    "wiktionary_genders": [
+      "f"
+    ],
+    "wiktionary_plurals": [
+      "Küchen"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/K%C3%BCche"
+  },
+  {
+    "id": "familie",
+    "word": "Familie",
+    "article": "die",
+    "plural": "Familien",
+    "wiktionary_genders": [
+      "f"
+    ],
+    "wiktionary_plurals": [
+      "Familien"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Familie"
+  },
+  {
+    "id": "markt",
+    "word": "Markt",
+    "article": "der",
+    "plural": "Märkte",
+    "wiktionary_genders": [
+      "m",
+      "m"
+    ],
+    "wiktionary_plurals": [
+      "Märkte",
+      "—"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Markt"
+  },
+  {
+    "id": "apotheke",
+    "word": "Apotheke",
+    "article": "die",
+    "plural": "Apotheken",
+    "wiktionary_genders": [
+      "f"
+    ],
+    "wiktionary_plurals": [
+      "Apotheken"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Apotheke"
+  },
+  {
+    "id": "supermarkt",
+    "word": "Supermarkt",
+    "article": "der",
+    "plural": "Supermärkte",
+    "wiktionary_genders": [
+      "m"
+    ],
+    "wiktionary_plurals": [
+      "Supermärkte"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Supermarkt"
+  },
+  {
+    "id": "bank",
+    "word": "Bank",
+    "article": "die",
+    "plural": "Banken",
+    "wiktionary_genders": [
+      "f",
+      "f"
+    ],
+    "wiktionary_plurals": [
+      "Bänke",
+      "Banken"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Bank"
+  },
+  {
+    "id": "schluessel",
+    "word": "Schlüssel",
+    "article": "der",
+    "plural": "Schlüssel",
+    "wiktionary_genders": [
+      "m"
+    ],
+    "wiktionary_plurals": [
+      "Schlüssel"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Schl%C3%BCssel"
+  },
+  {
+    "id": "strasse",
+    "word": "Straße",
+    "article": "die",
+    "plural": "Straßen",
+    "wiktionary_genders": [
+      "f"
+    ],
+    "wiktionary_plurals": [
+      "Straßen"
+    ],
+    "matched": true,
+    "url": "https://de.wiktionary.org/wiki/Stra%C3%9Fe"
+  }
+]
