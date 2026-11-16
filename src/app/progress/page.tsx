@@ -2,7 +2,7 @@
 import Link from 'next/link';
 import { useT } from '@/lib/i18n';
 import { useStore, level, levelFloor, today } from '@/lib/store';
-import { LEVELS, levelProgress, wordProgress, readingProgress, accuracy, PASS } from '@/lib/progress';
+import { LEVELS, skills, cardsKnown, challengeDays, levelProgress, wordProgress, readingProgress, accuracy, PASS } from '@/lib/progress';
 
 const GOALS = [20, 50, 100, 200];
 function Bar({ v, max }: { v: number; max: number }) {
@@ -38,6 +38,30 @@ export default function Progress() {
           <div key={String(l)} className="rounded-2xl border border-line bg-card p-4"><p className="text-xs text-muted">{l}</p><p className="num text-3xl font-bold">{v}</p></div>
         ))}
         <div className="col-span-2 space-y-1 sm:col-span-4"><Bar v={s.xp - levelFloor(lv)} max={levelFloor(lv + 1) - levelFloor(lv)} /><p dir="ltr" className="num text-xs text-muted">{s.xp} / {levelFloor(lv + 1)} XP</p></div>
+      </section>
+
+      <section className="space-y-3">
+        <h2 className="ar-title text-2xl font-bold">{t('المهارات في كل مستوى', 'Skills by level')}</h2>
+        <div className="grid grid-cols-3 gap-3">
+          {[[t('أفضل سلسلة', 'Best streak'), s.best], [t('أيام التحدي', 'Challenge days'), challengeDays(s)], [t('كروت محفوظة', 'Cards known'), cardsKnown(s)]].map(([l, v]) => (
+            <div key={String(l)} className="rounded-2xl border border-line bg-card p-3"><p className="text-xs text-muted">{l}</p><p className="num text-2xl font-bold">{v}</p></div>
+          ))}
+        </div>
+        <div className="space-y-3">
+          {LEVELS.map((l) => {
+            const k = skills(s, l);
+            const rows: [string, { got: number; total: number }][] = [[t('القواعد', 'Grammar'), k.grammar], [t('القراءة', 'Reading'), k.reading], [t('الحوارات', 'Dialogues'), k.dialogue], [t('الكتابة', 'Writing'), k.writing]];
+            return (
+              <div key={l} className="space-y-2 rounded-2xl border border-line bg-card p-4">
+                <div className="flex items-center justify-between"><p className="num text-2xl font-bold">{l}</p><span className="num text-sm text-muted">{k.exam !== undefined ? <>{t('الامتحان', 'Exam')} <bdi dir="ltr">{k.exam}%</bdi></> : t('لسه ماتمتحنتش', 'No exam yet')}</span></div>
+                {rows.filter(([, v]) => v.total > 0).map(([n, v]) => (
+                  <div key={n} className="space-y-1"><div className="flex justify-between text-sm"><span>{n}</span><span dir="ltr" className="num text-muted">{v.got} / {v.total}</span></div><Bar v={v.got} max={v.total} /></div>
+                ))}
+              </div>
+            );
+          })}
+        </div>
+        <Link href="/exam/" className="inline-block rounded-full border border-line px-5 py-2 text-sm font-bold hover:bg-card">{t('امتحان المستوى', 'Level exam')}</Link>
       </section>
 
       <section className="grid gap-3 sm:grid-cols-2">

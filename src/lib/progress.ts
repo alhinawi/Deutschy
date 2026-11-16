@@ -33,3 +33,21 @@ export function accuracy(s: State) {
   return { ok, bad, pct: ok + bad ? Math.round((ok / (ok + bad)) * 100) : 0 };
 }
 export const topicCount = topics.length;
+
+import { dialogues } from './dialogues';
+import { writingTasks } from './writing';
+
+const frac = (got: number, total: number) => ({ got, total });
+// Skills covered per level, from device data only
+export function skills(s: State, l: Lvl) {
+  const g = levelProgress(s, l);
+  let rg = 0, rt = 0;
+  for (const r of readings.filter((x) => x.level === l)) for (let i = 0; i < r.q.length; i++) { rt++; if ((s.seen[`r:${r.id}:${i}`]?.ok ?? 0) > 0) rg++; }
+  let dg = 0, dt = 0;
+  for (const d of dialogues.filter((x) => x.level === l)) for (let i = 0; i < d.q.length; i++) { dt++; if ((s.seen[`d:${d.id}:${i}`]?.ok ?? 0) > 0) dg++; }
+  const wt = writingTasks.filter((x) => x.level === l);
+  const wg = wt.filter((x) => (s.seen[`w:${x.id}`]?.ok ?? 0) > 0).length;
+  return { grammar: frac(g.got, g.total), reading: frac(rg, rt), dialogue: frac(dg, dt), writing: frac(wg, wt.length), exam: s.exams?.[l] };
+}
+export function cardsKnown(s: State) { return Object.values(s.srs ?? {}).filter((c) => c.b >= 4).length; }
+export const challengeDays = (s: State) => Object.keys(s.challenge ?? {}).length;
