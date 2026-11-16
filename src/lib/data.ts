@@ -14,8 +14,22 @@ export const topicTitles: Record<string, string> = {
   family: 'Familie', food: 'Essen', drinks: 'Getränke', house: 'Haus', places: 'Stadt', transport: 'Verkehr',
   kitchen: 'Küche 2', devices: 'Geräte', outdoors: 'Draußen', town: 'Dorf & Stadt', clothes: 'Kleidung', animals: 'Tiere', body: 'Körper', school: 'Schule & Büro', nature: 'Natur', jobs: 'Berufe',
   obst: 'Obst & Gemüse', tiere2: 'Tiere 2', moebel: 'Möbel & Haus', werkzeug: 'Werkzeug & Dinge', sport: 'Sport & Musik',
+  kleidung2: 'Kleidung & Zubehör',
+  essen2: 'Essen & Trinken 2',
+  natur2: 'Natur 2',
+  fahrzeuge: 'Fahrzeuge',
+  gebaeude: 'Gebäude & Orte',
+  tiere3: 'Tiere 3',
+  dinge2: 'Alltagsdinge',
 };
-export const topicEn: Record<string, string> = {
+export const topicEn: Record<string, string> = {  kleidung2: 'Clothes and accessories',
+  essen2: 'Food and drink 2',
+  natur2: 'Nature 2',
+  fahrzeuge: 'Vehicles',
+  gebaeude: 'Buildings and places',
+  tiere3: 'Animals 3',
+  dinge2: 'Everyday things',
+
   family: 'Family', food: 'Food', drinks: 'Drinks', house: 'House', places: 'Places', transport: 'Transport', clothes: 'Clothes', animals: 'Animals', body: 'Body', school: 'School and office', nature: 'Nature', jobs: 'Jobs', kitchen: 'Kitchen and food 2', devices: 'Devices and things', outdoors: 'Outdoors', town: 'Village and city',
   obst: 'Fruit and vegetables 2', tiere2: 'Animals 2', moebel: 'Furniture and home items', werkzeug: 'Tools and objects', sport: 'Sport and music',
 };

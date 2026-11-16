@@ -1,0 +1,156 @@
+@kleidung2|ملابس وإكسسوارات
+der|Schal|Schals|شال|scarf wool
+der|Handschuh|Handschuhe|جوانتي|glove leather
+der|Stiefel|-|بوت|boot leather
+die|Krawatte|Krawatten|كرافت|necktie
+der|Anzug|Anzüge|بدلة|suit men
+der|Pullover|-|بلوفر|sweater knitted
+die|Sandale|Sandalen|صندل|sandal
+der|Hut|Hüte|برنيطة|hat straw
+die|Kette|Ketten|سلسلة|necklace
+die|Ohrring|Ohrringe|حلق|earring
+die|Sonnenbrille|Sonnenbrillen|نضارة شمس|sunglasses
+die|Armbanduhr|Armbanduhren|ساعة إيد|wristwatch
+der|Knopf|Knöpfe|زرار|button sewing
+die|Handtasche|Handtaschen|شنطة إيد|handbag
+der|Turnschuh|Turnschuhe|كوتشي|sneaker
+@essen2|أكل ومشروبات 2
+die|Wurst|Würste|سجق|sausage
+das|Brötchen|-|عيش صغير|bread roll
+der|Joghurt|Joghurts|زبادي|yogurt
+die|Marmelade|Marmeladen|مربى|jam jar
+das|Müsli|Müslis|موسلي|muesli
+der|Burger|-|برجر|hamburger
+die|Pommes|-|بطاطس مقلية|french fries
+das|Eis|-|آيس كريم|ice cream cone
+der|Keks|Kekse|بسكوت|cookie
+die|Sahne|-|كريمة|whipped cream
+die|Mandel|Mandeln|لوز|almond
+das|Popcorn|-|فشار|popcorn
+das|Steak|Steaks|ستيك|steak
+das|Sushi|-|سوشي|sushi
+der|Pfannkuchen|-|بانكيك|pancake
+die|Torte|Torten|تورتة|cake torte
+die|Brezel|Brezeln|برتزل|pretzel
+die|Spaghetti|-|سباجتي|spaghetti
+das|Sandwich|Sandwiches|ساندوتش|sandwich
+@natur2|الطبيعة 2
+das|Blatt|Blätter|ورقة شجر|leaf green
+die|Rose|Rosen|وردة|rose flower
+die|Tulpe|Tulpen|تيوليب|tulip
+die|Sonnenblume|Sonnenblumen|عباد الشمس|sunflower
+der|Kaktus|Kakteen|صبار|cactus
+das|Gras|Gräser|حشيش|grass meadow
+der|Hügel|-|تلة|hill
+der|Vulkan|Vulkane|بركان|volcano
+der|Wasserfall|Wasserfälle|شلال|waterfall
+die|Höhle|Höhlen|كهف|cave
+der|Gletscher|-|نهر جليدي|glacier
+die|Wiese|Wiesen|مرعى|meadow
+der|Blitz|Blitze|برق|lightning
+das|Feld|Felder|غيط|field wheat
+der|Nebel|-|ضباب|fog
+die|Palme|Palmen|نخلة|palm
+der|Sonnenuntergang|Sonnenuntergänge|غروب|sunset
+der|Stern|Sterne|نجمة|star sky
+die|Muschel|Muscheln|صدفة|seashell
+der|Ast|Äste|فرع شجرة|branch
+@fahrzeuge|مركبات
+der|Lastwagen|-|عربية نقل|truck
+der|Traktor|Traktoren|جرار|tractor
+der|Krankenwagen|-|إسعاف|ambulance
+der|Hubschrauber|-|هيليكوبتر|helicopter
+das|Boot|Boote|مركب|boat
+das|Segelboot|Segelboote|مركب شراع|sailboat
+die|Straßenbahn|Straßenbahnen|ترام|tram
+die|Fähre|Fähren|معدية|ferry
+der|Roller|-|اسكوتر|scooter
+die|Rakete|Raketen|صاروخ|rocket
+der|Kran|Kräne|ونش|crane
+der|Bagger|-|حفار|excavator
+der|Wohnwagen|-|كارافان|caravan
+das|Feuerwehrauto|Feuerwehrautos|عربية مطافي|fire truck
+der|Heißluftballon|Heißluftballons|منطاد|balloon hot air
+die|Lokomotive|Lokomotiven|قاطرة|locomotive
+@gebaeude|مباني وأماكن
+der|Leuchtturm|Leuchttürme|منارة|lighthouse
+die|Windmühle|Windmühlen|طاحونة هوا|windmill
+die|Pyramide|Pyramiden|هرم|pyramid
+die|Burg|Burgen|قلعة|castle
+die|Hütte|Hütten|كوخ|hut
+der|Tunnel|-|نفق|tunnel
+das|Hochhaus|Hochhäuser|برج سكني|skyscraper
+das|Denkmal|Denkmäler|نصب تذكاري|monument
+der|Friedhof|Friedhöfe|مقابر|cemetery
+die|Garage|Garagen|جراج|garage
+der|Zaun|Zäune|سور|fence
+das|Tor|Tore|بوابة|gate
+der|Briefkasten|Briefkästen|صندوق بريد|mailbox
+die|Laterne|Laternen|فانوس|lantern
+die|Ampel|Ampeln|إشارة مرور|traffic light
+der|Mülleimer|-|سلة زبالة|trash can
+die|Flagge|Flaggen|علم|flag
+das|Windrad|Windräder|توربين هوا|wind turbine
+der|Hafen|Häfen|ميناء|harbor
+das|Dach|Dächer|سقف|roof house
+@tiere3|حيوانات 3
+der|Krebs|Krebse|سلطعون|crab
+die|Qualle|Quallen|قنديل بحر|jellyfish
+der|Seestern|Seesterne|نجم البحر|starfish
+der|Hirsch|Hirsche|غزال|deer
+das|Eichhörnchen|-|سنجاب|squirrel
+die|Fledermaus|Fledermäuse|خفاش|bat
+das|Känguru|Kängurus|كنغر|kangaroo
+der|Panda|Pandas|باندا|panda
+der|Koala|Koalas|كوالا|koala
+der|Eisbär|Eisbären|دب قطبي|polar bear
+die|Gans|Gänse|وزة|goose
+der|Schwan|Schwäne|بجعة|swan
+der|Pfau|Pfauen|طاووس|peacock
+der|Storch|Störche|لقلق|stork
+der|Hase|Hasen|أرنب بري|hare
+der|Marienkäfer|-|دعسوقة|ladybug
+die|Libelle|Libellen|يعسوب|dragonfly
+der|Seehund|Seehunde|فقمة|seal
+der|Wal|Wale|حوت|whale
+das|Rentier|Rentiere|رنة|reindeer
+das|Lama|Lamas|لاما|llama
+das|Wildschwein|Wildschweine|خنزير بري|wild boar
+die|Möwe|Möwen|نورس|seagull
+der|Flamingo|Flamingos|فلامنجو|flamingo
+der|Spatz|Spatzen|عصفور|sparrow
+der|Tukan|Tukane|توكان|toucan
+die|Ratte|Ratten|فار كبير|rat
+das|Krokodil|Krokodile|تمساح|crocodile
+die|Schlange|Schlangen|تعبان|snake
+der|Tiger|-|نمر|tiger
+@dinge2|حاجات يومية
+der|Stuhl|Stühle|كرسي|chair wooden
+das|Kissen|-|مخدة|pillow
+der|Schrank|Schränke|دولاب|wardrobe
+die|Schaufel|Schaufeln|مجرفة|shovel
+der|Eimer|-|جردل|bucket
+die|Gießkanne|Gießkannen|رشاش مية|watering can
+der|Rasenmäher|-|ماكينة قص حشيش|lawn mower
+die|Axt|Äxte|فاس|axe
+der|Ballon|Ballons|بالونة|balloon
+das|Geschenk|Geschenke|هدية|gift
+die|Taschenlampe|Taschenlampen|كشاف|flashlight
+der|Anker|-|مرساة|anchor
+die|Schaukel|Schaukeln|أرجوحة|swing
+die|Rutsche|Rutschen|زحليقة|slide playground
+der|Schlitten|-|زحافة|sled
+der|Drachen|-|طيارة ورق|kite
+die|Puppe|Puppen|عروسة|doll
+der|Würfel|-|زهر|dice
+das|Schachspiel|Schachspiele|شطرنج|chess
+die|Glühbirne|Glühbirnen|لمبة|light bulb
+der|Stecker|-|فيشة|plug
+das|Kabel|-|سلك|cable
+die|Batterie|Batterien|بطارية|battery
+der|Laptop|Laptops|لابتوب|laptop
+die|Tastatur|Tastaturen|كيبورد|keyboard
+der|Drucker|-|طابعة|printer
+die|Sanduhr|Sanduhren|ساعة رملية|hourglass
+der|Pass|Pässe|جواز سفر|passport
+der|Schlauch|Schläuche|خرطوم|hose garden

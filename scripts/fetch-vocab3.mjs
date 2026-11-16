@@ -2,10 +2,11 @@
 import fs from 'node:fs';
 const UA = { 'User-Agent': 'Deutschy/0.1 (https://deutschy.pages.dev; alhinaawi@gmail.com)' };
 const slug = (s) => s.toLowerCase().replace(/ä/g,'ae').replace(/ö/g,'oe').replace(/ü/g,'ue').replace(/ß/g,'ss').replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');
-const lines = fs.readFileSync('data/vocab-source3.txt','utf8').split('\n').filter(l=>l.trim());
+const SRC=process.argv[2]||'data/vocab-source3.txt', CFILE=process.argv[3]||'data/cache3.json';
+const lines = fs.readFileSync(SRC,'utf8').split('\n').filter(l=>l.trim());
 let topic=null; const topics=[]; const items=[];
 for (const l of lines) { if (l.startsWith('@')) { const [id,ar]=l.slice(1).split('|'); topic={id,ar}; topics.push(topic); continue; } const [art,de,plural,ar,q]=l.split('|'); items.push({topic:topic.id,art,de,plural,ar,q}); }
-const CF='data/cache3.json'; const cache = fs.existsSync(CF)?JSON.parse(fs.readFileSync(CF,'utf8')):{};
+const CF=CFILE; const cache = fs.existsSync(CF)?JSON.parse(fs.readFileSync(CF,'utf8')):{};
 const api = async (p) => { const u='https://commons.wikimedia.org/w/api.php?format=json&origin=*&'+new URLSearchParams(p); for(let i=0;i<4;i++){const r=await fetch(u,{headers:UA}); if(r.ok) return r.json(); await new Promise(r=>setTimeout(r,1500*(i+1)));} throw new Error('api'); };
 const REJ=new Set(JSON.parse(fs.readFileSync('data/rejected3.json','utf8')));
 fs.mkdirSync('public/img',{recursive:true});
