@@ -6,10 +6,11 @@ import { useLang, useT } from '@/lib/i18n';
 import { speak } from '@/lib/speak';
 import Speaker from './Speaker';
 import Mixed from './Mixed';
+import RolePractice from './RolePractice';
 
 const order = (n: number, seed: number) => [[0, 1, 2], [1, 2, 0], [2, 0, 1], [0, 2, 1], [1, 0, 2], [2, 1, 0]][(seed * 5 + n * 3) % 6];
 
-export default function DialogueView() {
+export default function DialogueView({ conversation = false }: { conversation?: boolean } = {}) {
   const t = useT();
   const { lang } = useLang();
   const [open, setOpen] = useState<Dialogue | null>(null);
@@ -17,13 +18,13 @@ export default function DialogueView() {
   if (open) return <One d={open} back={() => setOpen(null)} />;
   return (
     <div className="space-y-6">
-      <h1 className="ar-title text-4xl font-bold">{t('حوارات', 'Dialogues')}</h1>
+      <h1 className="ar-title text-4xl font-bold">{conversation ? t('تدريب محادثة A1 و A2', 'A1 and A2 conversation practice') : t('حوارات', 'Dialogues')}</h1>
       <p className="text-muted">{t('اقرا واسمع حوارات من الحياة اليومية، مع الترجمة، وبعدها 3 أسئلة فهم.', 'Read and listen to everyday dialogues with translation, then answer 3 comprehension questions.')}</p>
       <div className="flex flex-wrap gap-2">
-        {['all', 'A1', 'A2', 'B1'].map((l) => <button key={l} onClick={() => setLv(l)} className={`num rounded-full border px-4 py-2 ${lv === l ? 'border-accent bg-accent text-accent-ink' : 'border-line bg-paper'}`}>{l === 'all' ? t('الكل', 'All') : l}</button>)}
+        {(conversation ? ['all', 'A1', 'A2'] : ['all', 'A1', 'A2', 'B1']).map((l) => <button key={l} onClick={() => setLv(l)} className={`num rounded-full border px-4 py-2 ${lv === l ? 'border-accent bg-accent text-accent-ink' : 'border-line bg-paper'}`}>{l === 'all' ? t('الكل', 'All') : l}</button>)}
       </div>
       <ul className="grid gap-3 sm:grid-cols-2">
-        {dialogues.filter((d) => lv === 'all' || d.level === lv).map((d) => (
+        {dialogues.filter((d) => (!conversation || ['A1', 'A2'].includes(d.level)) && (lv === 'all' || d.level === lv)).map((d) => (
           <li key={d.id}><button onClick={() => setOpen(d)} className="w-full rounded-2xl border border-line bg-card p-4 text-start hover:border-accent">
             <span className="num text-xs font-bold text-accent">{d.level}</span>
             <span className="de block text-xl font-semibold">{d.title[0]}</span>
@@ -54,6 +55,7 @@ function One({ d, back }: { d: Dialogue; back: () => void }) {
         <h1 className="de mt-2 text-3xl font-semibold" lang="de">{d.title[0]}</h1>
         <p className="ar-title text-lg text-muted">{d.title[1]}</p>
       </div>
+      <RolePractice key={d.id} d={d} />
       <button onClick={() => setTr(!tr)} className="rounded-full border border-line px-4 py-2 text-sm font-bold">{tr ? t('اخفي الترجمة', 'Hide translation') : t('اعرض الترجمة', 'Show translation')}</button>
       <ul className="space-y-2">
         {d.lines.map(([who, de, ar], k) => (
