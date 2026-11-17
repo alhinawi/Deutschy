@@ -467,6 +467,10 @@
   {
    "id": "werkstattalbum",
    "ar": "قمطة وفارة نجارة"
+  },
+  {
+   "id": "naehkistenfach",
+   "ar": "بكر خيط ودبابيس خياطة"
   }
  ],
  "words": [
@@ -12578,6 +12582,36 @@
     "file": "5691523.jpg",
     "commons": "https://www.pexels.com/photo/old-rusty-plane-with-polished-wooden-knob-5691523/",
     "author": "Ksenia Chernaya",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "spule",
+   "topic": "naehkistenfach",
+   "art": "die",
+   "de": "Spule",
+   "plural": "Spulen",
+   "ar": "بكرة خيط",
+   "photo": {
+    "file": "39053515.jpg",
+    "commons": "https://www.pexels.com/photo/colorful-spools-of-sewing-thread-on-wooden-table-39053515/",
+    "author": "Jahra Tasfia Reza",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "stecknadel",
+   "topic": "naehkistenfach",
+   "art": "die",
+   "de": "Stecknadel",
+   "plural": "Stecknadeln",
+   "ar": "دبوس خياطة",
+   "photo": {
+    "file": "38281127.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-of-colorful-sewing-pins-on-cushion-in-artistic-light-38281127/",
+    "author": "Pato Mec",
     "license": "Pexels License",
     "modified": true
    }

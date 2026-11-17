@@ -219,3 +219,6 @@ readings.push(...teeschrankTexts);
 
 import {werkstattalbumTexts} from './reading-werkstattalbum';
 readings.push(...werkstattalbumTexts);
+
+import {naehkistenfachTexts} from './reading-naehkistenfach';
+readings.push(...naehkistenfachTexts);

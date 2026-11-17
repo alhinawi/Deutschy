@@ -1145,3 +1145,24 @@ Object.assign(readingEvidence,{
     "ob die Beschriftungen zu den beiden Fotos passen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-die-kleine-naehkiste": [
+    "Die Kiste gehört ihrer Mutter.",
+    "Auf dem ersten Bild sieht Sami eine Spule mit blauem Faden.",
+    "Das erste Wort weiß er sofort.",
+    "Danach legt Lea das Bilderheft links neben die Kiste."
+  ],
+  "alltag-a2-rueckgabe-neu-absprechen": [
+    "dass sie am Freitag länger arbeiten muss.",
+    "Eine Stunde später schlägt Nora Samstag um elf vor. Eva bestätigt diese Uhrzeit.",
+    "Am Ende des Gesprächs ist die Kiste weiterhin bei Eva.",
+    "ob der Inhalt vollständig ist. Das wollen sie erst bei der Rückgabe gemeinsam ansehen."
+  ],
+  "alltag-b1-geschenk-oder-leihgabe": [
+    "Er versteht die Gegenstände zunächst als Geschenk.",
+    "Sie möchte sie danach wieder mitnehmen.",
+    "Einen genauen Termin für den nächsten Abend haben sie noch nicht vereinbart.",
+    "Die Sachen bleiben Jules Eigentum, und Karim bewahrt sie bis zum gemeinsamen Abend auf."
+  ]
+});

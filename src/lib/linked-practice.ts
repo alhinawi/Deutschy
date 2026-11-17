@@ -162,4 +162,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-werkstattalbum',dialogue:'die-woerter-auf-ein-extra-blatt'},
  {reading:'alltag-a2-getauschte-bildfolge',dialogue:'nummer-ist-nicht-aufnahmezeit'},
  {reading:'alltag-b1-erklaerung-mit-grenze',dialogue:'wortkenntnis-und-fachkenntnis'},
+ {reading:'alltag-a1-die-kleine-naehkiste',dialogue:'nur-mit-den-bildern'},
+ {reading:'alltag-a2-rueckgabe-neu-absprechen',dialogue:'samstag-um-elf-bestaetigt'},
+ {reading:'alltag-b1-geschenk-oder-leihgabe',dialogue:'nur-fuer-den-naechsten-abend'},
 ];

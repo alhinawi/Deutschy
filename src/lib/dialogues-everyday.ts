@@ -11598,3 +11598,218 @@ Object.assign(dialogueEvidence,{
     "Ich prüfe nur, ob Hobel und Schraubzwinge den richtigen Fotos zugeordnet sind."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "nur-mit-den-bildern",
+    "level": "A1",
+    "title": [
+      "Das zweite Wort noch einmal",
+      "الكلمة التانية كمان مرة"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Auf dem ersten Bild ist eine Spule. Der Plural heißt die Spulen.",
+        "في الصورة الأولى فيه بكرة خيط. الجمع بالألماني die Spulen."
+      ],
+      [
+        "Sami",
+        "Spule, Spulen. Und was ist auf dem zweiten Bild?",
+        "Spule, Spulen. وإيه في الصورة التانية؟"
+      ],
+      [
+        "Lea",
+        "Eine Stecknadel. Der rote Kopf ist gut zu sehen.",
+        "دبوس خياطة. الراس الحمرا باينة كويس."
+      ],
+      [
+        "Sami",
+        "Sag das zweite Wort bitte noch einmal langsam.",
+        "قولي الكلمة التانية بالراحة كمان مرة."
+      ],
+      [
+        "Lea",
+        "Stecknadel. Wir üben nur mit den Bildern und nehmen nichts aus der Kiste.",
+        "Stecknadel. بنتدرب بالصور بس ومش بناخد حاجة من العلبة."
+      ],
+      [
+        "Sami",
+        "Gut. Mein Heft bleibt hier vor meinem Stuhl liegen.",
+        "تمام. كراستي تفضل هنا قدام كرسيي."
+      ],
+      [
+        "Lea",
+        "Das Bilderheft lege ich links neben die Kiste. Morgen machen wir weiter.",
+        "كراسة الصور هحطها على شمال العلبة. بكرة نكمل."
+      ]
+    ],
+    "q": [
+      [
+        "Was ist auf dem ersten Bild?",
+        "Eine Spule.",
+        "Ein Stuhl.",
+        "Eine Schere."
+      ],
+      [
+        "Was soll Lea wiederholen?",
+        "Das zweite Wort langsam.",
+        "Alle Wörter sehr schnell.",
+        "Den Namen ihrer Mutter."
+      ],
+      [
+        "Was nehmen sie aus der Kiste?",
+        "Nichts.",
+        "Alle Spulen.",
+        "Eine Stecknadel."
+      ]
+    ]
+  },
+  {
+    "id": "samstag-um-elf-bestaetigt",
+    "level": "A2",
+    "title": [
+      "Nicht Freitag, sondern Samstag",
+      "مش الجمعة، السبت"
+    ],
+    "lines": [
+      [
+        "Eva",
+        "Ich muss am Freitag länger arbeiten. Kann ich die Nähkiste am Samstagvormittag zurückbringen?",
+        "لازم أشتغل وقت أطول يوم الجمعة. ينفع أرجع علبة الخياطة السبت الصبح؟"
+      ],
+      [
+        "Nora",
+        "Ich schaue kurz nach. Samstag um elf bin ich zu Hause. Passt dir das?",
+        "هبص بسرعة. السبت الساعة حداشر هبقى في البيت. يناسبك؟"
+      ],
+      [
+        "Eva",
+        "Ja, Samstag um elf passt. Die geschlossene Kiste steht schon neben meiner Tasche.",
+        "أيوه، السبت حداشر مناسب. العلبة المقفولة موجودة جنب شنطتي من دلوقتي."
+      ],
+      [
+        "Nora",
+        "Dann streiche ich Freitag und trage Samstag ein.",
+        "يبقى أشطب الجمعة وأسجل السبت."
+      ],
+      [
+        "Eva",
+        "Die Kiste ist also bis Samstag noch bei mir.",
+        "يعني العلبة لحد السبت لسه عندي."
+      ],
+      [
+        "Nora",
+        "Genau. Ob alles drin ist, sehen wir uns bei der Rückgabe gemeinsam an.",
+        "بالظبط. إذا كل حاجة جواها نبص عليه مع بعض وقت الترجيع."
+      ],
+      [
+        "Eva",
+        "Einverstanden. Schick mir bitte die Hausnummer noch einmal.",
+        "متفقين. ابعتيلي رقم البيت تاني لو سمحتي."
+      ]
+    ],
+    "q": [
+      [
+        "Welchen Termin bestätigt Eva?",
+        "Samstag um elf.",
+        "Freitagabend.",
+        "Sonntag um elf."
+      ],
+      [
+        "Wo steht die Kiste?",
+        "Neben Evas Tasche.",
+        "Vor Noras Tür.",
+        "Bei Noras Schwester."
+      ],
+      [
+        "Wann wollen sie den Inhalt gemeinsam ansehen?",
+        "Bei der Rückgabe.",
+        "Sie haben ihn gestern schon geprüft.",
+        "Erst nach einem Verkauf."
+      ]
+    ]
+  },
+  {
+    "id": "nur-fuer-den-naechsten-abend",
+    "level": "B1",
+    "title": [
+      "Was heißt hier Für dich?",
+      "هنا ليك معناها إيه؟"
+    ],
+    "lines": [
+      [
+        "Karim",
+        "Auf dem Zettel steht Für dich. Meinst du die Spulen und die Dose als Geschenk?",
+        "على الورقة مكتوب ليك. تقصدي البكر والعلبة هدية؟"
+      ],
+      [
+        "Jule",
+        "Nein, ich möchte sie nach unserem nächsten Abend wieder mitnehmen.",
+        "لأ، عايزة آخدهم تاني بعد القعدة المشتركة الجاية."
+      ],
+      [
+        "Karim",
+        "Dann sollten wir die Begrenzung dazuschreiben. Aus Für dich konnte ich das nicht erkennen.",
+        "يبقى نكتب الحد ده كمان. من كلمة ليك مكنتش أقدر أفهمه."
+      ],
+      [
+        "Jule",
+        "Stimmt. Ich schreibe Leihgabe für unseren nächsten Abend, danach zurück an Jule.",
+        "صح. هكتب إعارة للقعدة المشتركة الجاية، وبعدها ترجع ليوله."
+      ],
+      [
+        "Karim",
+        "Den genauen Termin haben wir noch nicht. Das Datum lassen wir deshalb offen.",
+        "لسه مش عندنا المعاد المحدد. عشان كده نسيب التاريخ مش محدد."
+      ],
+      [
+        "Jule",
+        "Wir ergänzen ihn, sobald wir uns auf einen Abend geeinigt haben.",
+        "نضيفه أول ما نتفق على ليلة."
+      ],
+      [
+        "Karim",
+        "Bis dahin bewahre ich deine Sachen getrennt von meinen auf.",
+        "لحد وقتها هحتفظ بحاجتك منفصلة عن حاجتي."
+      ]
+    ],
+    "q": [
+      [
+        "Was meint Jule mit den Sachen?",
+        "Eine Leihgabe, kein Geschenk.",
+        "Einen bereits bezahlten Verkauf.",
+        "Eine erledigte Rückgabe."
+      ],
+      [
+        "Was bleibt zunächst offen?",
+        "Das genaue Datum des nächsten Abends.",
+        "Wem die Sachen gehören.",
+        "Ob Karim eine eigene Sammlung hat."
+      ],
+      [
+        "Wie bewahrt Karim die Sachen auf?",
+        "Getrennt von seinen eigenen Sachen.",
+        "Er wirft sie sofort weg.",
+        "Er schickt sie ohne Absprache weiter."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "nur-mit-den-bildern": [
+    "Auf dem ersten Bild ist eine Spule.",
+    "Sag das zweite Wort bitte noch einmal langsam.",
+    "nehmen nichts aus der Kiste."
+  ],
+  "samstag-um-elf-bestaetigt": [
+    "Ja, Samstag um elf passt.",
+    "Die geschlossene Kiste steht schon neben meiner Tasche.",
+    "bei der Rückgabe gemeinsam an."
+  ],
+  "nur-fuer-den-naechsten-abend": [
+    "Leihgabe für unseren nächsten Abend",
+    "Den genauen Termin haben wir noch nicht.",
+    "getrennt von meinen auf."
+  ]
+});

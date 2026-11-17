@@ -682,6 +682,18 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Spelling | Submitted disabled answer stays full-opacity/ink-colored; prompt has text cursor. Existing label tap-to-focus, required/error/help, grading/XP and double-submit lock unchanged. |
 | [ ] | Listening/dictation | Check 60 segments and Egyptian Arabic. Native editorial and actual German device-voice checks pending. No tool-operation, maintenance, woodworking or safety instructions. |
 
+### List 73: thread spool, sewing pin and a clear loan agreement
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-die-kleine-naehkiste/` and linked dialogue | Mother's sewing box remains untouched; siblings practice names and plurals using two pictures. First word known immediately, second repeated slowly. Picture book ends left of box; Sami's notebook remains before his chair. No new words today. |
+| [ ] | `/reading/alltag-a2-rueckgabe-neu-absprechen/` and linked dialogue | Friday-evening return replaced only after Eva confirms Saturday at eleven. Own calendar updated, box still with Eva. Contents to be checked together at return, not already verified. Sunday's visit explains Nora's preference, not the return date. |
+| [ ] | `/reading/alltag-b1-geschenk-oder-leihgabe/` and linked dialogue | Friendly note initially read as gift; owner intended a loan for next shared evening. New wording defines scope and ownership. Date remains open because no next meeting agreed. Separate storage is not completed return. |
+| [ ] | `/lessons/naehkistenfach/` and `/credits/` | die Spule/Spulen and die Stecknadel/Stecknadeln. Egyptian Arabic بكرة خيط and دبوس خياطة. Thread-spool group with contextual bobbins/snaps; primary spools retained. Close-up colored round pin heads and visible shafts, tips naturally embedded in cushion; peripheral pins cropped. No people, brands, added bars or illustrations. Photos are noun examples, not exact fictional scenes. |
+| [ ] | Six appended grammar banks | 24 article/dative/present/possessive/two-way-preposition/negation rows. Prior saved keys unchanged. Verify ownership, case and Egyptian Arabic. |
+| [ ] | Spelling | Answer input refocuses on the next spelling question. Initial autofocus, label focus, required/help/error semantics, submitted-answer readability, scoring and duplicate guard retained. Check keyboard continuity and old/new topics. |
+| [ ] | Listening/dictation | Check 61 segments and Egyptian Arabic, including isolated German words inside translations. Native editorial and actual device-voice checks pending. No sewing, sharp-object handling or appliance instructions. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -696,7 +708,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **801 photo nouns / 117 topics**, **234 reading texts / 889 reading questions**, **41 core grammar topics / 1678 core grammar questions**, **174 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **803 photo nouns / 118 topics**, **237 reading texts / 901 reading questions**, **41 core grammar topics / 1702 core grammar questions**, **177 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -708,7 +720,7 @@ This is an inventory, not completed review. Snapshot: **801 photo nouns / 117 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 60 · A2 88 · B1 56 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 61 · A2 89 · B1 57 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

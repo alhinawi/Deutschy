@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  naehkistenfach: 'Spule und Stecknadel',
   werkstattalbum: 'Schraubzwinge und Hobel',
   teeschrank: 'Teesieb und Teekessel',
   naehablage: 'Knopf und Nadelkissen',
@@ -114,6 +115,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  naehkistenfach: 'Thread spool and sewing pin',
   werkstattalbum: 'Screw clamp and hand plane',
   teeschrank: 'Tea strainer and kettle',
   naehablage: 'Button and pincushion',
