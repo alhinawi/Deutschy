@@ -33,4 +33,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-umschlag',dialogue:'karte-noch-nicht-einpacken'},
  {reading:'alltag-a2-briefablage',dialogue:'leere-umschlaege-fragen'},
  {reading:'alltag-b1-stempeltisch',dialogue:'blattmotiv-keine-zusage'},
+ {reading:'alltag-a1-plektrum',dialogue:'plektrum-zurueckgeben'},
+ {reading:'alltag-a2-klangprobe',dialogue:'klaenge-nacheinander'},
+ {reading:'alltag-b1-rhythmusrunde',dialogue:'pause-sichtbar-machen'},
 ];

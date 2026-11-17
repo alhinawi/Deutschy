@@ -2353,3 +2353,218 @@ Object.assign(dialogueEvidence,{
     "Jede Person prüft ihre eigenen Karten."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "plektrum-zurueckgeben",
+    "level": "A1",
+    "title": [
+      "Das Plektrum zurückgeben",
+      "ترجيع ريشة الجيتار"
+    ],
+    "lines": [
+      [
+        "Nora",
+        "Ich suche mein Plektrum. Hast du es gesehen?",
+        "بدور على ريشة الجيتار بتاعتي. شوفتها؟"
+      ],
+      [
+        "Ben",
+        "Ja, ich habe es gestern benutzt. Entschuldigung.",
+        "آه، استخدمتها امبارح. معلش."
+      ],
+      [
+        "Nora",
+        "Liegt es auf dem Tisch?",
+        "هي على الترابيزة؟"
+      ],
+      [
+        "Ben",
+        "Nein, in meinem grünen Beutel. Hier, bitte.",
+        "لأ، في الكيس الأخضر بتاعي. اتفضلي."
+      ],
+      [
+        "Nora",
+        "Danke. Ich möchte jetzt Gitarre spielen.",
+        "شكراً. عايزة أعزف جيتار دلوقتي."
+      ],
+      [
+        "Ben",
+        "Brauchst du auch das Buch vom Tisch?",
+        "محتاجة كمان الكتاب اللي على الترابيزة؟"
+      ],
+      [
+        "Nora",
+        "Nein, heute spiele ich ohne Buch.",
+        "لأ، النهارده هلعب من غير كتاب."
+      ]
+    ],
+    "q": [
+      [
+        "Wann hat Ben das Plektrum benutzt?",
+        "Gestern.",
+        "Heute Morgen.",
+        "Letzte Woche."
+      ],
+      [
+        "Woher holt Ben das Plektrum?",
+        "Aus seinem grünen Beutel.",
+        "Aus dem Buch.",
+        "Aus der Küche."
+      ],
+      [
+        "Braucht Nora das Buch heute?",
+        "Nein.",
+        "Ja.",
+        "Erst am Abend."
+      ]
+    ]
+  },
+  {
+    "id": "klaenge-nacheinander",
+    "level": "A2",
+    "title": [
+      "Nicht alles auf einmal",
+      "مش كله في نفس الوقت"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Wenn wir gleichzeitig spielen, höre ich die einzelnen Klänge kaum.",
+        "لما بنعزف مع بعض، مش بسمع كل صوت لوحده كويس."
+      ],
+      [
+        "Sami",
+        "Dann probieren wir die Sachen nacheinander aus.",
+        "يبقى نجرب الحاجات واحدة ورا التانية."
+      ],
+      [
+        "Lea",
+        "Ich lege die Stimmgabel zur ersten Karte.",
+        "هحط الشوكة الرنانة عند أول كارت."
+      ],
+      [
+        "Sami",
+        "Gut. Danach die Trommel und zuletzt das Tamburin?",
+        "تمام. وبعدها الطبلة وفي الآخر الرق؟"
+      ],
+      [
+        "Lea",
+        "Ja, und nach jedem Klang machen wir eine Pause.",
+        "آه، وبعد كل صوت ناخد وقفة."
+      ],
+      [
+        "Sami",
+        "Soll ich entscheiden, welche Beschreibung richtig ist?",
+        "أحكم أنهي وصف صح؟"
+      ],
+      [
+        "Lea",
+        "Nein, schreib unsere verschiedenen Eindrücke auf.",
+        "لأ، اكتب انطباعاتنا المختلفة."
+      ]
+    ],
+    "q": [
+      [
+        "Wie wollen sie die Klänge hören?",
+        "Nacheinander.",
+        "Alle gleichzeitig.",
+        "Nur über eine Aufnahme."
+      ],
+      [
+        "Was machen sie nach jedem Klang?",
+        "Eine Pause.",
+        "Sie gehen nach Hause.",
+        "Sie wechseln den Raum."
+      ],
+      [
+        "Was soll Sami notieren?",
+        "Die verschiedenen Eindrücke.",
+        "Nur Leas Fehler.",
+        "Die Instrumentenpreise."
+      ]
+    ]
+  },
+  {
+    "id": "pause-sichtbar-machen",
+    "level": "B1",
+    "title": [
+      "Wer zeigt die nächste Runde?",
+      "مين هيشاور في الجولة الجاية؟"
+    ],
+    "lines": [
+      [
+        "Jonas",
+        "Wenn ich die ganze Zeit auf die Zeichen zeige, spiele ich gar nicht mit.",
+        "لو طول الوقت بشاور على العلامات، مش بعزف معاكم خالص."
+      ],
+      [
+        "Mira",
+        "Stimmt. Möchtest du in der nächsten Runde das Tamburin übernehmen?",
+        "صح. تحب تمسك الرق في الجولة الجاية؟"
+      ],
+      [
+        "Jonas",
+        "Ja, gern. Aber wer zeigt dann auf die Karte?",
+        "آه طبعاً. بس مين هيشاور على الكارت وقتها؟"
+      ],
+      [
+        "Mira",
+        "Das mache ich. Danach können wir wieder wechseln.",
+        "أنا هعمل كده. وبعدها نقدر نبدل تاني."
+      ],
+      [
+        "Jonas",
+        "Und die Pause bleibt ein eigenes Feld?",
+        "والوقفة تفضل ليها خانة لوحدها؟"
+      ],
+      [
+        "Mira",
+        "Ja. Sonst übersehen wir sie leicht. Das ist nur unsere Merkhilfe.",
+        "آه. غير كده ممكن ماناخدش بالنا منها. دي بس طريقتنا عشان نفتكر."
+      ],
+      [
+        "Jonas",
+        "Dann versuchen wir es noch einmal, aber etwas langsamer.",
+        "يبقى نجرب تاني، بس أبطأ شوية."
+      ]
+    ],
+    "q": [
+      [
+        "Was möchte Jonas ändern?",
+        "Er möchte auch mitspielen.",
+        "Er möchte die Karte wegwerfen.",
+        "Er möchte sofort öffentlich auftreten."
+      ],
+      [
+        "Wer zeigt in der nächsten Runde auf die Karte?",
+        "Mira.",
+        "Jonas.",
+        "Niemand."
+      ],
+      [
+        "Wie wollen sie den nächsten Versuch spielen?",
+        "Etwas langsamer.",
+        "Viel schneller.",
+        "Ganz ohne Pause."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "plektrum-zurueckgeben": [
+    "Ja, ich habe es gestern benutzt.",
+    "Nein, in meinem grünen Beutel. Hier, bitte.",
+    "Nein, heute spiele ich ohne Buch."
+  ],
+  "klaenge-nacheinander": [
+    "Dann probieren wir die Sachen nacheinander aus.",
+    "Ja, und nach jedem Klang machen wir eine Pause.",
+    "Nein, schreib unsere verschiedenen Eindrücke auf."
+  ],
+  "pause-sichtbar-machen": [
+    "Wenn ich die ganze Zeit auf die Zeichen zeige, spiele ich gar nicht mit.",
+    "Das mache ich. Danach können wir wieder wechseln.",
+    "Dann versuchen wir es noch einmal, aber etwas langsamer."
+  ]
+});

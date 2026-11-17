@@ -90,3 +90,6 @@ readings.push(...handarbeitTexts);
 
 import {briefplatzTexts} from './reading-briefplatz';
 readings.push(...briefplatzTexts);
+
+import {musikrundeTexts} from './reading-musikrunde';
+readings.push(...musikrundeTexts);

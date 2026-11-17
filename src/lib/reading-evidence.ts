@@ -242,3 +242,24 @@ Object.assign(readingEvidence,{
     "Die Gruppe behandelt das aber nicht als Beweis, dass jede Person die Karte richtig verstehen wird."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-plektrum": [
+    "Nora möchte heute Gitarre spielen.",
+    "Dort liegen nur ein Buch und ein Schlüssel.",
+    "Der Beutel gehört ihrem Bruder Ben.",
+    "Es liegt noch im Beutel."
+  ],
+  "alltag-a2-klangprobe": [
+    "Danach können sie nicht mehr sagen, welcher Klang ihnen besonders aufgefallen ist.",
+    "Die Trommel kommt in die Mitte, das Tamburin ans Ende.",
+    "Sami schreibt keine richtigen oder falschen Antworten auf, sondern die unterschiedlichen Eindrücke.",
+    "Beim zweiten Durchgang tauschen sie die Reihenfolge."
+  ],
+  "alltag-b1-rhythmusrunde": [
+    "Das Ergebnis ist lustig, aber der geplante Wechsel ist kaum zu erkennen.",
+    "Die Pause bekommt ebenfalls ein sichtbares Feld, statt als leere Stelle zu verschwinden.",
+    "Nach einem Durchgang sagt er, dass er lieber auch einen Klang beitragen würde.",
+    "Es ist ihre eigene Merkhilfe für diese Übung."
+  ]
+});
