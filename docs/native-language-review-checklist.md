@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the sixty-seventh practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the sixty-eighth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -622,6 +622,18 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Spelling | Explicit text input-mode hint only, no grading/storage changes. Existing wrong-answer semantics and duplicate-submit lock retained. |
 | [ ] | Listening/dictation | Check all 63 text segments and Egyptian Arabic. Actual German device voice/native review pending. These pages do not contain actual recorded instrument sounds or technical music instruction. |
 
+### List 68: spirit level, vernier caliper and photo descriptions
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-messtisch/` and linked dialogue | Caliper on blue cloth, level to long compartment first. Eva learns names, measures nothing, takes notebook only. Circle means word newly added to her list. Check Egyptian Arabic قدمة ذات ورنية and all evidence. |
+| [ ] | `/reading/alltag-a2-etiketten-vergleichen/` and linked dialogue | Swapped names found by inspecting both pages. Finn reads, Dalia points. Only two pages checked, remaining photos pending. No physical devices or measured values. |
+| [ ] | `/reading/alltag-b1-fotobeschreibung-mit-grenze/` and linked dialogue | Object recognition is not evidence of accuracy or technical suitability. Visible numbers not adopted as own measurement. Particular example not all variants; further reader checks clarity only. |
+| [ ] | `/lessons/messtisch/` and `/credits/` | die Wasserwaage/Wasserwaagen, der Messschieber/same plural (-). Whole level above plans, whole visible caliper jaws and scale in faceless hands; rear naturally occluded by hand. No logos/bars. Plan/scale numbers are photographic context, not language lesson measurements. |
+| [ ] | Six appended grammar banks | 24 appended rows; older identities unchanged. Cases, separable forms and Egyptian Arabic explanations pending review. |
+| [ ] | Spelling | Required-field semantics exposed to browser/accessibility tree. Empty answers still earn no points, existing trim/case/feedback and duplicate lock unchanged. |
+| [ ] | Listening/dictation | Check all source segments and Egyptian Arabic. Actual German device voice/native review pending. No measuring procedure, technical accuracy claim, construction/installation or tool-safety guidance. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -636,7 +648,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **791 photo nouns / 112 topics**, **219 reading texts / 829 reading questions**, **41 core grammar topics / 1558 core grammar questions**, **159 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **793 photo nouns / 113 topics**, **222 reading texts / 841 reading questions**, **41 core grammar topics / 1582 core grammar questions**, **162 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -648,7 +660,7 @@ This is an inventory, not completed review. Snapshot: **791 photo nouns / 112 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 55 · A2 83 · B1 51 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 56 · A2 84 · B1 52 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

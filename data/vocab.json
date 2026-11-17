@@ -447,6 +447,10 @@
   {
    "id": "musikzimmer",
    "ar": "حلقة شخاليل ومترونوم"
+  },
+  {
+   "id": "messtisch",
+   "ar": "ميزان ميه وقدمة ذات ورنية"
   }
  ],
  "words": [
@@ -12408,6 +12412,36 @@
     "file": "162550.jpg",
     "commons": "https://www.pexels.com/photo/black-and-red-electronic-device-162550/",
     "author": "Pixabay",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "wasserwaage",
+   "topic": "messtisch",
+   "art": "die",
+   "de": "Wasserwaage",
+   "plural": "Wasserwaagen",
+   "ar": "ميزان ميه",
+   "photo": {
+    "file": "7937315.jpg",
+    "commons": "https://www.pexels.com/photo/spirit-level-and-house-plans-in-overhead-view-7937315/",
+    "author": "Pavel Danilyuk",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "messschieber",
+   "topic": "messtisch",
+   "art": "der",
+   "de": "Messschieber",
+   "plural": "-",
+   "ar": "قدمة ذات ورنية",
+   "photo": {
+    "file": "7166998.jpg",
+    "commons": "https://www.pexels.com/photo/high-angle-shot-of-person-measuring-an-object-7166998/",
+    "author": "Antoni Shkraba",
     "license": "Pexels License",
     "modified": true
    }

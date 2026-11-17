@@ -10523,3 +10523,218 @@ Object.assign(dialogueEvidence,{
     "vor allem auf den Schellenkranz gehört."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "wie-heisst-das-auf-dem-tuch",
+    "level": "A1",
+    "title": [
+      "Sag das Wort noch einmal",
+      "قول الكلمة تاني"
+    ],
+    "lines": [
+      [
+        "Eva",
+        "Wie heißt der Gegenstand auf dem blauen Tuch?",
+        "اسم الحاجة اللي على القماشة الزرقا إيه؟"
+      ],
+      [
+        "Nils",
+        "Das ist ein Messschieber. Ich sage es noch einmal langsam.",
+        "دي قدمة ذات ورنية. هقولها تاني براحة."
+      ],
+      [
+        "Eva",
+        "Danke. Und die Wasserwaage kenne ich schon.",
+        "شكرًا. وميزان الميه عارفاه من قبل."
+      ],
+      [
+        "Nils",
+        "Die lege ich jetzt in das lange Fach.",
+        "ده هحطه دلوقتي في الجزء الطويل."
+      ],
+      [
+        "Eva",
+        "Lass den Messschieber bitte noch kurz hier. Ich schreibe das Wort auf.",
+        "سيب القدمة هنا شوية لو سمحت. هكتب الكلمة."
+      ],
+      [
+        "Nils",
+        "Gut. Heute messen wir nichts.",
+        "تمام. النهارده مش هنقيس حاجة."
+      ],
+      [
+        "Eva",
+        "Ich nehme danach nur mein Heft mit.",
+        "بعد كده هاخد كشكولي بس."
+      ]
+    ],
+    "q": [
+      [
+        "Was sagt Nils noch einmal langsam?",
+        "Das Wort Messschieber.",
+        "Eine Adresse.",
+        "Eine gemessene Zahl."
+      ],
+      [
+        "Wohin legt Nils die Wasserwaage?",
+        "In das lange Fach.",
+        "Auf Evas Stuhl.",
+        "In eine Tasche."
+      ],
+      [
+        "Warum bleibt der Messschieber kurz liegen?",
+        "Eva möchte das Wort aufschreiben.",
+        "Er ist festgeklebt.",
+        "Nils misst damit die Zeit."
+      ]
+    ]
+  },
+  {
+    "id": "zwei-vertauschte-namen",
+    "level": "A2",
+    "title": [
+      "Erst die zweite Seite ansehen",
+      "نبص الأول على الصفحة التانية"
+    ],
+    "lines": [
+      [
+        "Dalia",
+        "Unter diesem Foto steht Messschieber. Ich sehe aber eine Wasserwaage.",
+        "تحت الصورة دي مكتوب قدمة ذات ورنية. بس أنا شايفة ميزان ميه."
+      ],
+      [
+        "Finn",
+        "Vielleicht gehört der Name zur nächsten Seite. Schauen wir nach.",
+        "يمكن الاسم يخص الصفحة الجاية. نبص."
+      ],
+      [
+        "Dalia",
+        "Dort ist es umgekehrt. Die beiden Namen sind vertauscht.",
+        "هناك العكس. الاسمين متبدلين."
+      ],
+      [
+        "Finn",
+        "Dann lege ich jeden Namen unter das passende Foto.",
+        "يبقى أحط كل اسم تحت الصورة المناسبة."
+      ],
+      [
+        "Dalia",
+        "Lies bitte vor. Ich zeige auf das Bild.",
+        "اقرا بصوت مسموع لو سمحت. أنا هشاور على الصورة."
+      ],
+      [
+        "Finn",
+        "Damit prüfen wir diese zwei Seiten, nicht die ganze Mappe.",
+        "بكده بنراجع الصفحتين دول، مش الملف كله."
+      ],
+      [
+        "Dalia",
+        "Die übrigen Fotos nehmen wir uns später vor.",
+        "باقي الصور نراجعها بعدين."
+      ]
+    ],
+    "q": [
+      [
+        "Was sehen sie auf der nächsten Seite?",
+        "Die umgekehrte falsche Zuordnung.",
+        "Ein neues Gerät im Karton.",
+        "Eine leere Einkaufsliste."
+      ],
+      [
+        "Wer liest die Namen vor?",
+        "Finn.",
+        "Dalia.",
+        "Eine Lehrerin."
+      ],
+      [
+        "Was prüfen sie in diesem Gespräch?",
+        "Nur die zwei Seiten.",
+        "Die ganze Mappe.",
+        "Die Geräte auf einem Arbeitstisch."
+      ]
+    ]
+  },
+  {
+    "id": "das-foto-ist-kein-pruefbericht",
+    "level": "B1",
+    "title": [
+      "Was zeigt das Bild wirklich?",
+      "الصورة بتبين إيه فعلًا؟"
+    ],
+    "lines": [
+      [
+        "Salma",
+        "Du schreibst, die Geräte arbeiten genau. Woher weißt du das?",
+        "إنت كاتب إن الأجهزة شغالة بدقة. عرفت ده منين؟"
+      ],
+      [
+        "Joris",
+        "Eigentlich erkenne ich auf den Fotos nur Wasserwaage und Messschieber.",
+        "في الحقيقة أنا بتعرف في الصور بس على ميزان الميه والقدمة."
+      ],
+      [
+        "Salma",
+        "Dann beschreibe das Sichtbare. Die Bilder sind kein Prüfbericht.",
+        "يبقى اوصف اللي باين. الصور مش تقرير فحص."
+      ],
+      [
+        "Joris",
+        "Die Zahlen übernehme ich auch nicht als eigene Messung.",
+        "ومش هاخد الأرقام كنتيجة قياس عملته أنا برضه."
+      ],
+      [
+        "Salma",
+        "Für dein Wörterheft können die Fotos trotzdem passen.",
+        "الصور مع كده ممكن تناسب كشكول كلماتك."
+      ],
+      [
+        "Joris",
+        "Ich lasse noch prüfen, ob jemand die beiden Gegenstände unterscheiden kann.",
+        "هخلي حد يراجع كمان إذا كان يقدر يفرق بين الحاجتين."
+      ],
+      [
+        "Salma",
+        "Das prüft dann die Verständlichkeit, nicht die technische Eignung.",
+        "ده كده بيراجع الوضوح، مش الصلاحية الفنية."
+      ]
+    ],
+    "q": [
+      [
+        "Was erkennt Joris sicher auf den Fotos?",
+        "Die zwei Gegenstände.",
+        "Eine bestandene technische Prüfung.",
+        "Die Genauigkeit aller Geräte."
+      ],
+      [
+        "Wie behandelt er die sichtbaren Zahlen?",
+        "Er übernimmt sie nicht als eigene Messung.",
+        "Er bescheinigt damit die Genauigkeit.",
+        "Er trägt sie als seine Messergebnisse ein."
+      ],
+      [
+        "Was soll eine weitere Person beurteilen?",
+        "Ob sie die beiden Gegenstände unterscheiden kann.",
+        "Ob die Geräte technisch geeignet sind.",
+        "Ob alle Ausführungen gleich aussehen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "wie-heisst-das-auf-dem-tuch": [
+    "Das ist ein Messschieber. Ich sage es noch einmal langsam.",
+    "Die lege ich jetzt in das lange Fach.",
+    "Ich schreibe das Wort auf."
+  ],
+  "zwei-vertauschte-namen": [
+    "Dort ist es umgekehrt. Die beiden Namen sind vertauscht.",
+    "Lies bitte vor.",
+    "diese zwei Seiten, nicht die ganze Mappe."
+  ],
+  "das-foto-ist-kein-pruefbericht": [
+    "erkenne ich auf den Fotos nur Wasserwaage und Messschieber.",
+    "Die Zahlen übernehme ich auch nicht als eigene Messung.",
+    "ob jemand die beiden Gegenstände unterscheiden kann."
+  ]
+});

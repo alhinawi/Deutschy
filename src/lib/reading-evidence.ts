@@ -1040,3 +1040,24 @@ Object.assign(readingEvidence,{
     "Was diese Frage sein wird, entscheiden sie heute noch nicht."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-messtisch": [
+    "Auf einem blauen Tuch liegt ein Messschieber.",
+    "Dieses Wort kennt sie schon.",
+    "Das Wort ist neu für meine Liste.",
+    "Eva nimmt nur ihr Heft mit."
+  ],
+  "alltag-a2-etiketten-vergleichen": [
+    "Unter dem ersten Foto steht versehentlich Messschieber.",
+    "ob die Beschriftung vielleicht zur nächsten Seite gehört.",
+    "So prüfen sie nur die Zuordnung von Bild und Wort.",
+    "Die übrigen Fotos sind damit noch nicht geprüft."
+  ],
+  "alltag-b1-fotobeschreibung-mit-grenze": [
+    "kennt aber weder ihren Zustand noch eine Prüfung.",
+    "Das Heft soll helfen, Gegenstände zu benennen",
+    "ohne damit alle Ausführungen dieses Gegenstands abzudecken.",
+    "Diese Rückmeldung betrifft die Verständlichkeit des Hefts."
+  ]
+});

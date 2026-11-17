@@ -366,3 +366,6 @@ for(const[topic,rows]of Object.entries(gartenpauseGrammar))exercises[topic].push
 
 import {musikzimmerGrammar} from './exercises-musikzimmer';
 for(const[topic,rows]of Object.entries(musikzimmerGrammar))exercises[topic].push(...rows);
+
+import {messtischGrammar} from './exercises-messtisch';
+for(const[topic,rows]of Object.entries(messtischGrammar))exercises[topic].push(...rows);

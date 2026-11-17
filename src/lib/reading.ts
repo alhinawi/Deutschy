@@ -204,3 +204,6 @@ readings.push(...gartenpauseTexts);
 
 import {musikzimmerTexts} from './reading-musikzimmer';
 readings.push(...musikzimmerTexts);
+
+import {messtischTexts} from './reading-messtisch';
+readings.push(...messtischTexts);

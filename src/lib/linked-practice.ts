@@ -147,4 +147,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-musikzimmer',dialogue:'welches-instrument-klingt'},
  {reading:'alltag-a2-zwei-hoerbeschreibungen',dialogue:'schnell-und-hell'},
  {reading:'alltag-b1-hoerbericht-ohne-messung',dialogue:'ruhiger-ist-nicht-gemessen'},
+ {reading:'alltag-a1-messtisch',dialogue:'wie-heisst-das-auf-dem-tuch'},
+ {reading:'alltag-a2-etiketten-vergleichen',dialogue:'zwei-vertauschte-namen'},
+ {reading:'alltag-b1-fotobeschreibung-mit-grenze',dialogue:'das-foto-ist-kein-pruefbericht'},
 ];
