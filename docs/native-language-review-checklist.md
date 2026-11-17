@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-ninth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-tenth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1138,9 +1138,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Dialogue answer choices |44px minimum and themed keyboard focus/card-ground gap.36 AR/EN320/390 answer states, axe, Enter/Space correct answers, disabled duplicate guard and exact XP. Actual390AR/EN pixels inspected. Existing wording/option order/scoring/playback logic unchanged. |
 | [ ] | Listening/dictation |66 original segments,264 exact German payload/source/answer checks. Human editorial and real-device voice review pending. Level labels not certification; progress device-local. |
 
+### List 110: Pebbles, stump patterns and unsupported history
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-steine-und-holz/` and linked dialogue | Lea/Karim rounded speckled pebbles, reddish-brown central stone; gray-brown stump viewed from above with fine rings/dark cracks, green edge plants/brown leaves. Names/articles/visible forms, not at the site, no collecting or intervention. |
+| [ ] | `/reading/alltag-a2-artikel-und-mehrzahl/` and linked dialogue | Nele/Amir Kieselsteine versus Baumstümpfe: both e ending, only second umlaut. Same masculine singular article not all plural details. Fictional example number words not exact photo inventory, covered/edge-cut pebbles and one pictured stump. |
+| [ ] | `/reading/alltag-b1-muster-ohne-herkunftsnachweis/` and linked dialogue | Jule/Tarek visible patterns not verified river/place, rock type, precise size or age/date/cause history. No uncertain ring count converted to exact age; no removal/collecting instruction. Word practice not geology/tree assessment. |
+| [ ] | `/lessons/naturmuster/` and `/credits/` | der Kieselstein/Kieselsteine (حجر حصى), der Baumstumpf/Baumstümpfe (بقية جذع شجرة مقطوعة أو مكسورة). DWDS forms. Maximiliana Eligi Mtenga36902884 and Jake Biewer11690460 both1800x1350 resized800x600 with no crop/stretch/padding/face/brand. Central pebble whole, stump surface/rim/context identifiable.36212076 distant pebbles and15209793 abstract wood-only alternate not selected. |
+| [ ] | Six appended grammar banks |24 article/accusative/present/possessive/two-way/negation rows. Prior saved identities/fixtures unchanged. der/der/die/das; den/das/die/die; zeigt/vergleichst/liest/verändern; ihre/sein/seinen/unsere; neben dem/das Foto and auf der/die Karte; keinen/kein/keine/nicht. |
+| [ ] | Dialogue/conversation search field |Themed keyboard focus/page-ground gap on existing44px field.8 AR/EN320/390 states, axe, matching query/no-match/clear restores results and search focus without XP. Actual390AR/EN pixels inspected. Search/filter/routing/answer/scoring/playback logic unchanged. |
+| [ ] | Listening/dictation |68 original segments,272 exact German payload/source/answer checks. Human editorial and real-device voice review pending. Level labels not certification; progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **875 photo nouns / 154 topics**, **345 reading texts / 1333 reading questions**, **41 core grammar topics / 2566 core grammar questions**, **285 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **877 photo nouns / 155 topics**, **348 reading texts / 1345 reading questions**, **41 core grammar topics / 2590 core grammar questions**, **288 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1152,7 +1164,7 @@ This is an inventory, not completed review. Snapshot: **875 photo nouns / 154 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 97 · A2 125 · B1 93 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 98 · A2 126 · B1 94 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
