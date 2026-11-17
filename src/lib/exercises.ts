@@ -456,3 +456,6 @@ for(const[topic,rows]of Object.entries(beerennamenGrammar))exercises[topic].push
 
 import {gemuesebilderGrammar} from './exercises-gemuesebilder';
 for(const[topic,rows]of Object.entries(gemuesebilderGrammar))exercises[topic].push(...rows);
+
+import {fruchtformenGrammar} from './exercises-fruchtformen';
+for(const[topic,rows]of Object.entries(fruchtformenGrammar))exercises[topic].push(...rows);

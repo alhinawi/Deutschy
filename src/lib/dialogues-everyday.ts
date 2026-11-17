@@ -16973,3 +16973,218 @@ Object.assign(dialogueEvidence,{
     "Wir bewerten hier auch nicht die Frische."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "die-punkte-fehlen",
+    "level": "A1",
+    "title": [
+      "Die Punkte fehlen",
+      "النقط ناقصة"
+    ],
+    "lines": [
+      [
+        "Lina",
+        "Lies bitte die Mehrzahl von Drachenfrucht.",
+        "اقرا جمع دراخنفروخت من فضلك."
+      ],
+      [
+        "Erik",
+        "Die Drachenfrüchte. Ich habe die Punkte beim Schreiben vergessen.",
+        "دي دراخنفروخته. نسيت النقط وأنا بكتب."
+      ],
+      [
+        "Lina",
+        "Schau auf die Vorlage und ergänze sie selbst.",
+        "بص على النموذج وكملهم بنفسك."
+      ],
+      [
+        "Erik",
+        "Jetzt steht hier ein ü. Und am Ende ein e.",
+        "دلوقتي مكتوب هنا أو أوملاوت وفي الآخر إي."
+      ],
+      [
+        "Lina",
+        "Genau. Wie ist es bei Passionsfrucht?",
+        "بالظبط. وعند باسيونسفروخت؟"
+      ],
+      [
+        "Erik",
+        "Die Passionsfrüchte. Der letzte Wortteil ändert sich genauso.",
+        "دي باسيونسفروخته. آخر جزء من الكلمة بيتغير بنفس الطريقة."
+      ],
+      [
+        "Lina",
+        "Dann lesen wir beide Formen noch einmal.",
+        "يبقى نقرا الصيغتين تاني."
+      ]
+    ],
+    "q": [
+      [
+        "Was hat Erik vergessen?",
+        "Die Punkte über dem u.",
+        "Das gesamte zweite Wort.",
+        "Den Namen des Kurses."
+      ],
+      [
+        "Wer ergänzt die Punkte?",
+        "Erik selbst.",
+        "Lina ohne Erik.",
+        "Niemand."
+      ],
+      [
+        "Was wollen sie danach noch einmal tun?",
+        "Die Formen lesen.",
+        "Die Früchte kaufen.",
+        "Den Geschmack vergleichen."
+      ]
+    ]
+  },
+  {
+    "id": "wer-handelt-im-text",
+    "level": "A2",
+    "title": [
+      "Wer handelt im Text?",
+      "مين اللي بيعمل الفعل في النص؟"
+    ],
+    "lines": [
+      [
+        "Paul",
+        "Hast du die Drachenfrucht heute wirklich selbst geöffnet?",
+        "إنتي فعلًا فتحتي فاكهة التنين بنفسك النهارده؟"
+      ],
+      [
+        "Amira",
+        "Nein, ich habe nur den Übungstext in einer Rolle nacherzählt.",
+        "لأ. أنا حكيت نص التدريب تاني وأنا متقمصة دور بس."
+      ],
+      [
+        "Paul",
+        "Dann nenne die Vorlage am besten gleich am Anfang.",
+        "يبقى الأفضل تقولي النموذج من أول الكلام."
+      ],
+      [
+        "Amira",
+        "Gut. Im Übungstext öffnet eine Person eine Drachenfrucht.",
+        "تمام. في نص التدريب شخص بيفتح فاكهة تنين."
+      ],
+      [
+        "Paul",
+        "So ist klar, dass du nicht deinen eigenen Morgen beschreibst.",
+        "كده واضح إنك مش بتوصفي صباحك الشخصي."
+      ],
+      [
+        "Amira",
+        "Und beim zweiten Text sagst du die Quelle auch zuerst?",
+        "وفي النص التاني هتقول المصدر الأول برضه؟"
+      ],
+      [
+        "Paul",
+        "Ja. Ich gebe einen Übungstext über eine Passionsfrucht wieder.",
+        "أيوه. أنا بنقل نص تدريب عن باشن فروت."
+      ]
+    ],
+    "q": [
+      [
+        "Hat Amira selbst eine Frucht geöffnet?",
+        "Nein, sie hat einen Text nacherzählt.",
+        "Ja, heute im Kurs.",
+        "Ja, für Pauls Frühstück."
+      ],
+      [
+        "Was soll sie gleich am Anfang nennen?",
+        "Die Vorlage.",
+        "Eine erfundene Uhrzeit.",
+        "Den Kaufpreis."
+      ],
+      [
+        "Worüber gibt Paul einen Text wieder?",
+        "Über eine Passionsfrucht.",
+        "Über einen Flug.",
+        "Über einen neuen Kühlschrank."
+      ]
+    ]
+  },
+  {
+    "id": "das-war-die-andere-geschichte",
+    "level": "B1",
+    "title": [
+      "Das war die andere Geschichte",
+      "دي كانت الحكاية التانية"
+    ],
+    "lines": [
+      [
+        "Vera",
+        "Woher weißt du, dass die Früchte für ein gemeinsames Frühstück waren?",
+        "عرفت منين إن الفاكهة كانت لفطار مشترك؟"
+      ],
+      [
+        "Samir",
+        "Jetzt merke ich: Das Frühstück kam in der anderen Geschichte vor.",
+        "دلوقتي واخد بالي: الفطار كان في الحكاية التانية."
+      ],
+      [
+        "Vera",
+        "Dann ist es für diese Bilder noch nicht belegt.",
+        "يبقى ده لسه مش مثبت للصور دي."
+      ],
+      [
+        "Samir",
+        "Ich habe beides in meiner Erinnerung verbunden.",
+        "أنا وصلت الاتنين ببعض في ذاكرتي."
+      ],
+      [
+        "Vera",
+        "Prüfen wir jede Aussage mit ihrer Quelle.",
+        "نراجع كل جملة مع مصدرها."
+      ],
+      [
+        "Samir",
+        "Den Frühstückssatz streiche ich aus der Bildbeschreibung.",
+        "هشطب جملة الفطار من وصف الصورة."
+      ],
+      [
+        "Vera",
+        "Und die sichtbaren Merkmale bleiben bildbezogen, ohne neue Geschichte dazu.",
+        "والملامح الظاهرة تفضل مرتبطة بالصورة من غير حكاية جديدة معاها."
+      ]
+    ],
+    "q": [
+      [
+        "Wo kam das Frühstück vor?",
+        "In der anderen Geschichte.",
+        "Auf einem lesbaren Preisschild.",
+        "In Veras eigener Küche."
+      ],
+      [
+        "Was wollen sie prüfen?",
+        "Jede Aussage mit ihrer Quelle.",
+        "Nur die Länge der Wörter.",
+        "Die Gesundheit der Früchte."
+      ],
+      [
+        "Was streicht Samir?",
+        "Den Frühstückssatz aus der Bildbeschreibung.",
+        "Alle sichtbaren Merkmale.",
+        "Die Quellenangabe der Übung."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "die-punkte-fehlen": [
+    "die Punkte beim Schreiben vergessen.",
+    "ergänze sie selbst.",
+    "lesen wir beide Formen noch einmal."
+  ],
+  "wer-handelt-im-text": [
+    "nur den Übungstext in einer Rolle nacherzählt.",
+    "die Vorlage am besten gleich am Anfang.",
+    "einen Übungstext über eine Passionsfrucht wieder."
+  ],
+  "das-war-die-andere-geschichte": [
+    "in der anderen Geschichte vor.",
+    "jede Aussage mit ihrer Quelle.",
+    "Den Frühstückssatz streiche ich aus der Bildbeschreibung."
+  ]
+});

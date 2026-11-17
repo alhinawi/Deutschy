@@ -294,3 +294,6 @@ readings.push(...beerennamenTexts);
 
 import {gemuesebilderTexts} from './reading-gemuesebilder';
 readings.push(...gemuesebilderTexts);
+
+import {fruchtformenTexts} from './reading-fruchtformen';
+readings.push(...fruchtformenTexts);
