@@ -297,3 +297,6 @@ readings.push(...gemuesebilderTexts);
 
 import {fruchtformenTexts} from './reading-fruchtformen';
 readings.push(...fruchtformenTexts);
+
+import {instrumentenblickTexts} from './reading-instrumentenblick';
+readings.push(...instrumentenblickTexts);

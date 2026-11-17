@@ -17188,3 +17188,218 @@ Object.assign(dialogueEvidence,{
     "Den Frühstückssatz streiche ich aus der Bildbeschreibung."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "das-banjo-nicht-der",
+    "level": "A1",
+    "title": [
+      "Das Banjo",
+      "داس بانجو"
+    ],
+    "lines": [
+      [
+        "Jan",
+        "Wie heißt das Instrument mit dem runden Körper?",
+        "اسم الآلة اللي جسمها مدور إيه؟"
+      ],
+      [
+        "Huda",
+        "Der Banjo. Moment, ich schaue noch einmal auf die Karte.",
+        "دير بانجو. لحظة أبص على الكارت تاني."
+      ],
+      [
+        "Jan",
+        "Ich warte.",
+        "هستنى."
+      ],
+      [
+        "Huda",
+        "Hier steht das Banjo. Das verbessere ich.",
+        "مكتوب هنا داس بانجو. هصلح دي."
+      ],
+      [
+        "Jan",
+        "Und die Mehrzahl?",
+        "والجمع؟"
+      ],
+      [
+        "Huda",
+        "Die Banjos. Kalimba bekommt auch ein s: die Kalimbas.",
+        "دي بانجوس. كاليمبا كمان بتاخد إس: دي كاليمباس."
+      ],
+      [
+        "Jan",
+        "Gut. Jetzt zeige ich dir nur noch die Fotos.",
+        "تمام. دلوقتي هوريكي الصور بس."
+      ]
+    ],
+    "q": [
+      [
+        "Worauf schaut Huda noch einmal?",
+        "Auf die Karte.",
+        "Auf eine Rechnung.",
+        "Auf die Uhr am Bahnhof."
+      ],
+      [
+        "Wie lautet der Artikel von Banjo hier?",
+        "Das.",
+        "Der.",
+        "Die."
+      ],
+      [
+        "Was zeigt Jan danach nur noch?",
+        "Die Fotos.",
+        "Die Lösungen im Buch.",
+        "Eine Preisliste."
+      ]
+    ]
+  },
+  {
+    "id": "lass-mich-aussprechen",
+    "level": "A2",
+    "title": [
+      "Lass mich bitte aussprechen",
+      "سيبني أكمل من فضلك"
+    ],
+    "lines": [
+      [
+        "Fatma",
+        "Lass mich bitte erst den Satz beenden.",
+        "سيبني أخلص الجملة الأول من فضلك."
+      ],
+      [
+        "Ben",
+        "Gut. Danach nenne ich dir eine Stelle, bei der ich sicher bin.",
+        "تمام. بعدها أقولك على جزء أنا متأكد منه."
+      ],
+      [
+        "Fatma",
+        "Frag bitte zuerst, ob ich sie noch einmal hören möchte.",
+        "اسأل الأول من فضلك إذا حابة أسمعه تاني."
+      ],
+      [
+        "Ben",
+        "Einverstanden. Ich schreibe mir das Wort nur kurz auf.",
+        "موافق. هكتب الكلمة عندي بسرعة بس."
+      ],
+      [
+        "Fatma",
+        "Bei deiner Beschreibung mache ich es genauso.",
+        "في وصفك هعمل نفس الكلام."
+      ],
+      [
+        "Ben",
+        "Und wenn du dir bei einer Form nicht sicher bist?",
+        "ولو مش متأكدة من صيغة؟"
+      ],
+      [
+        "Fatma",
+        "Dann sage ich das und wir fragen die Lehrerin später.",
+        "يبقى أقول ده ونسأل المدرسة بعدين."
+      ]
+    ],
+    "q": [
+      [
+        "Wann soll Ben korrigieren?",
+        "Nach dem Satz und nach Rückfrage.",
+        "Sofort mitten im Satz.",
+        "Gar nicht, auch auf Wunsch nicht."
+      ],
+      [
+        "Was notiert sich Ben?",
+        "Das Wort.",
+        "Eine Konzertkarte.",
+        "Fatmas gesamte Beschreibung als eigene Arbeit."
+      ],
+      [
+        "Was tun sie bei Unsicherheit?",
+        "Später die Lehrerin fragen.",
+        "Sicherheit vortäuschen.",
+        "Jede Frage löschen."
+      ]
+    ]
+  },
+  {
+    "id": "gehoert-der-ton-zum-foto",
+    "level": "B1",
+    "title": [
+      "Gehört der Ton zum Foto?",
+      "النغمة تخص الصورة؟"
+    ],
+    "lines": [
+      [
+        "Max",
+        "Kannst du aus einem kurzen Ton sicher das Instrument nennen?",
+        "تقدري من نغمة قصيرة تسمي الآلة بثقة؟"
+      ],
+      [
+        "Leila",
+        "Zuerst müsste ich wissen, ob die Aufnahme zu einem dieser Fotos gehört.",
+        "الأول لازم أعرف إذا التسجيل يخص واحدة من الصور دي."
+      ],
+      [
+        "Max",
+        "Das haben wir in der erfundenen Aufgabe nicht angegeben.",
+        "إحنا ماذكرناش ده في المهمة المتخيلة."
+      ],
+      [
+        "Leila",
+        "Dann kann ich nur einen Eindruck vorsichtig beschreiben.",
+        "يبقى أقدر بس أوصف انطباع بحذر."
+      ],
+      [
+        "Max",
+        "Und die Fotos zeigen zunächst nur den sichtbaren Bau.",
+        "والصور مبدئيًا بتبين التركيب الظاهر بس."
+      ],
+      [
+        "Leila",
+        "Genau. Ohne belegte Klangquelle bleibt die Zuordnung offen.",
+        "بالظبط. من غير مصدر صوت مثبت الربط يفضل مفتوح."
+      ],
+      [
+        "Max",
+        "Unsere Vorlesefunktion spricht dabei nur die deutschen Sätze.",
+        "وخاصية القراية عندنا هنا بتنطق الجمل الألماني بس."
+      ]
+    ],
+    "q": [
+      [
+        "Was muss Leila zuerst wissen?",
+        "Ob die Aufnahme zu einem der Fotos gehört.",
+        "Den Preis beider Instrumente.",
+        "Den Namen des Ladens."
+      ],
+      [
+        "Was bleibt ohne belegte Klangquelle offen?",
+        "Die Zuordnung.",
+        "Dass es einen Dialog gibt.",
+        "Die Schreibweise von Max."
+      ],
+      [
+        "Was spricht die Vorlesefunktion?",
+        "Die deutschen Sätze.",
+        "Ein echtes Kalimbastück.",
+        "Den Klang eines Banjoakkords."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "das-banjo-nicht-der": [
+    "ich schaue noch einmal auf die Karte.",
+    "Hier steht das Banjo.",
+    "nur noch die Fotos."
+  ],
+  "lass-mich-aussprechen": [
+    "erst den Satz beenden.",
+    "Ich schreibe mir das Wort nur kurz auf.",
+    "wir fragen die Lehrerin später."
+  ],
+  "gehoert-der-ton-zum-foto": [
+    "ob die Aufnahme zu einem dieser Fotos gehört.",
+    "bleibt die Zuordnung offen.",
+    "nur die deutschen Sätze."
+  ]
+});

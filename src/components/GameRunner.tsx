@@ -111,8 +111,8 @@ function Flash({ list }: { list: Word[] }) {
       {flip && (
         <div className="flex gap-3">
           <button aria-label={t('اسمع الكلمة', 'Hear the word')} onClick={() => speak(`${w.art} ${w.de}`)} className="min-h-11 min-w-11 rounded-full border border-line px-4 py-3 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper"><Speaker /></button>
-          <button onClick={() => next(false)} className="flex-1 rounded-full border border-line py-3 font-bold">{t('لسه', 'Not yet')}</button>
-          <button onClick={() => next(true)} className="flex-1 rounded-full bg-accent py-3 font-bold text-accent-ink">{t('عرفتها', 'I knew it')}</button>
+          <button onClick={() => next(false)} className="flex-1 rounded-full border border-line py-3 font-bold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper">{t('لسه', 'Not yet')}</button>
+          <button onClick={() => next(true)} className="flex-1 rounded-full bg-accent py-3 font-bold text-accent-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper">{t('عرفتها', 'I knew it')}</button>
         </div>
       )}
     </div>

@@ -459,3 +459,6 @@ for(const[topic,rows]of Object.entries(gemuesebilderGrammar))exercises[topic].pu
 
 import {fruchtformenGrammar} from './exercises-fruchtformen';
 for(const[topic,rows]of Object.entries(fruchtformenGrammar))exercises[topic].push(...rows);
+
+import {instrumentenblickGrammar} from './exercises-instrumentenblick';
+for(const[topic,rows]of Object.entries(instrumentenblickGrammar))exercises[topic].push(...rows);

@@ -571,6 +571,10 @@
   {
    "id": "fruchtformen",
    "ar": "فاكهة التنين وباشن فروت"
+  },
+  {
+   "id": "instrumentenblick",
+   "ar": "الكاليمبا والبانجو"
   }
  ],
  "words": [
@@ -13462,6 +13466,36 @@
     "file": "5945951.jpg",
     "commons": "https://www.pexels.com/photo/half-of-fresh-delicious-passion-fruit-5945951/",
     "author": "Any Lane",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "kalimba",
+   "topic": "instrumentenblick",
+   "art": "die",
+   "de": "Kalimba",
+   "plural": "Kalimbas",
+   "ar": "كاليمبا",
+   "photo": {
+    "file": "6252161.jpg",
+    "commons": "https://www.pexels.com/photo/photo-of-a-person-s-hands-playing-a-kalimba-6252161/",
+    "author": "Antoni Shkraba",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "banjo",
+   "topic": "instrumentenblick",
+   "art": "das",
+   "de": "Banjo",
+   "plural": "Banjos",
+   "ar": "بانجو",
+   "photo": {
+    "file": "1629782.jpg",
+    "commons": "https://www.pexels.com/photo/grayscale-photo-of-man-holding-banjo-guitar-1629782/",
+    "author": "Ilargian Faus",
     "license": "Pexels License",
     "modified": true
    }
