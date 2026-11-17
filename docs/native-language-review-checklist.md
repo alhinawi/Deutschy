@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundredth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-first practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1030,9 +1030,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Memory keyboard focus | Mobile grid uses two wider columns below480px to avoid fragmented long nouns. Hidden card controls get themed keyboard ring/page-ground gap, Continue ring/card-ground gap. AR/EN320/390 keyboard/actual390pixels, pair stays open, two-pair completion20XP only once, reload unchanged. No matching/try/award algorithm change. |
 | [ ] | Listening/dictation |66 original segments,264 exact German payload/source checks. Native editorial/real-device voice review pending; level labels not proficiency claims. |
 
+### List 101: Photo colors, specific feedback and unscaled comparisons
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zwei-woerter-mit-die/` and linked dialogue | Amina/Leo die singular both, Yogamatten/Billardkugeln final n marked. Color only these photos, mat partly rolled/hands and red foreground ball number3. No sport exercise. |
+| [ ] | `/reading/alltag-a2-was-meinst-du-mit-gut/` and linked dialogue | Nora general good clarified by concrete image separation/foreground phrase. Elias splits one long two-thought sentence, not universal short-is-better rule. Feedback on this text, not complete proficiency judgment. |
+| [ ] | `/reading/alltag-b1-vergleich-ohne-massstab/` and linked dialogue | Dana/Robin distinguish screen representation from actual dimensions. General everyday plausibility does not prove pictured object dimensions; missing scale/measures, weight/material unknown. No weight order and no equal-weight inference. Visible colors/shapes image-specific; no actual measurement/result. |
+| [ ] | `/lessons/freizeitfarben/` and `/credits/` | die Yogamatte/Yogamatten (مفرش يوجا), die Billardkugel/Billardkugeln (كورة بلياردو), DWDS editorial forms. kaboompics4498606 1800x1200 crop640,350-1580,1055 whole partly rolled blue mat, hands only; dp singh Bhullar30483014 1800x1201 crop150,0-1750,1200 whole red foreground3ball, blurred blue ball behind. 800x600 no face/brand/padding. |
+| [ ] | Six appended grammar banks |24 article/accusative/present/possessive/two-way preposition/B1 connector rows. Saved earlier IDs unchanged. den Namen singular weak noun, liest/nennst/teilt/prüfen, seinen/ihre/ihre/unsere, unter dem/das Foto, in dem/das Heft, weil/Obwohl/damit/Bevor. Native German/Egyptian Arabic review pending. |
+| [ ] | Shared choice keyboard focus | Photo-quiz shared Choice gets themed keyboard ring/page-ground gap. AR/EN320/390 computed focus, actual390pixels, Enter/Space answer and lock4choices,20XPperfect2wordround. No scoring/answer logic change. |
+| [ ] | Listening/dictation |66 original segments,264 exact German payload/source checks. Human editorial/real-device voice review pending; level labels not proficiency claims. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **857 photo nouns / 145 topics**, **318 reading texts / 1225 reading questions**, **41 core grammar topics / 2350 core grammar questions**, **258 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **859 photo nouns / 146 topics**, **321 reading texts / 1237 reading questions**, **41 core grammar topics / 2374 core grammar questions**, **261 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1044,7 +1056,7 @@ This is an inventory, not completed review. Snapshot: **857 photo nouns / 145 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 88 · A2 116 · B1 84 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 89 · A2 117 · B1 85 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

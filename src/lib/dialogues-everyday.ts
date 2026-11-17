@@ -17618,3 +17618,218 @@ Object.assign(dialogueEvidence,{
     "meine Entscheidung, kein Bildbeleg."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "die-matte-auf-diesem-foto",
+    "level": "A1",
+    "title": [
+      "Die Matte auf diesem Foto",
+      "المفرش اللي في الصورة دي"
+    ],
+    "lines": [
+      [
+        "Leo",
+        "Was siehst du auf dem ersten Foto?",
+        "شايفة إيه في الصورة الأولى؟"
+      ],
+      [
+        "Amina",
+        "Eine Yogamatte. Sie ist hier blau und teilweise aufgerollt.",
+        "مفرش يوجا. لونه هنا أزرق وجزء منه ملفوف."
+      ],
+      [
+        "Leo",
+        "Und auf dem zweiten Foto?",
+        "وفي الصورة التانية؟"
+      ],
+      [
+        "Amina",
+        "Eine rote Billardkugel mit der Zahl 3.",
+        "كورة بلياردو حمرا عليها رقم 3."
+      ],
+      [
+        "Leo",
+        "Wie heißt die Mehrzahl von Billardkugel?",
+        "جمع بلياردكوجل إيه؟"
+      ],
+      [
+        "Amina",
+        "Die Billardkugeln. Yogamatte bekommt auch ein n: die Yogamatten.",
+        "دي بلياردكوجلن. يوجاماتّه كمان بتاخد نون: دي يوجاماتّن."
+      ],
+      [
+        "Leo",
+        "Jetzt decke ich die Namen ab und du fragst mich.",
+        "دلوقتي هغطي الأسامي وإنتي تسأليني."
+      ]
+    ],
+    "q": [
+      [
+        "Wie sieht Amina die Matte hier?",
+        "Blau und teilweise aufgerollt.",
+        "Rot und aus Glas.",
+        "Unsichtbar hinter einer Tür."
+      ],
+      [
+        "Wie lautet die Mehrzahl von Billardkugel?",
+        "Die Billardkugeln.",
+        "Die Billardkugels.",
+        "Die Billardkügel."
+      ],
+      [
+        "Was macht Leo am Ende?",
+        "Er deckt die Namen ab.",
+        "Er kauft eine Matte.",
+        "Er spielt eine Partie."
+      ]
+    ]
+  },
+  {
+    "id": "kannst-du-ein-beispiel-nennen",
+    "level": "A2",
+    "title": [
+      "Kannst du ein Beispiel nennen?",
+      "ممكن تقولي مثال؟"
+    ],
+    "lines": [
+      [
+        "Nora",
+        "Deine Beschreibung ist gut.",
+        "وصفك كويس."
+      ],
+      [
+        "Elias",
+        "Danke. Kannst du mir ein konkretes Beispiel nennen?",
+        "شكرًا. ممكن تقولي مثال محدد؟"
+      ],
+      [
+        "Nora",
+        "Du hast die beiden Fotos klar getrennt. Im Vordergrund zeigt genau, welche Kugel du meinst.",
+        "إنت فصلت الصورتين بوضوح. في المقدمة بتوضح بالظبط تقصد أنهي كورة."
+      ],
+      [
+        "Elias",
+        "Das markiere ich mir. Gibt es eine Stelle zum Überarbeiten?",
+        "هعلم على دي عندي. فيه جزء يتعدل؟"
+      ],
+      [
+        "Nora",
+        "Im letzten Satz stecken zwei Gedanken. Du könntest sie in zwei Sätze teilen.",
+        "آخر جملة فيها فكرتين. ممكن تقسمهم على جملتين."
+      ],
+      [
+        "Elias",
+        "Ich probiere das und lese die neue Fassung vor.",
+        "هجرب ده وأقرا النسخة الجديدة."
+      ],
+      [
+        "Nora",
+        "Dann vergleichen wir nur diese Stelle, nicht dein ganzes Sprachniveau.",
+        "يبقى نقارن الجزء ده بس مش مستواك في اللغة كله."
+      ]
+    ],
+    "q": [
+      [
+        "Worum bittet Elias nach dem Lob?",
+        "Um ein konkretes Beispiel.",
+        "Um eine Rechnung.",
+        "Um einen Trainingsplan."
+      ],
+      [
+        "Was schlägt Nora für den letzten Satz vor?",
+        "Die beiden Gedanken auf zwei Sätze zu verteilen.",
+        "Alle Wörter zu löschen.",
+        "Nur die Farbe zu ändern."
+      ],
+      [
+        "Was wollen sie vergleichen?",
+        "Nur die überarbeitete Stelle.",
+        "Das ganze Sprachniveau aller Lernenden.",
+        "Die Preise zweier Matten."
+      ]
+    ]
+  },
+  {
+    "id": "bildgroesse-oder-echte-masse",
+    "level": "B1",
+    "title": [
+      "Bildgröße oder echte Maße?",
+      "حجم الصورة ولا المقاسات الحقيقية؟"
+    ],
+    "lines": [
+      [
+        "Dana",
+        "Die Kugel wirkt im Bild groß. Kann ich daraus ihre echte Größe ableiten?",
+        "الكورة باينة كبيرة في الصورة. أقدر أستنتج من ده حجمها الحقيقي؟"
+      ],
+      [
+        "Robin",
+        "Nicht ohne einen verlässlichen Maßstab oder konkrete Maße.",
+        "مش من غير مقياس موثوق أو مقاسات محددة."
+      ],
+      [
+        "Dana",
+        "Und eine Gewichtsreihenfolge kann ich hier auch nicht belegen.",
+        "وكمان مش هقدر أثبت هنا ترتيب حسب الوزن."
+      ],
+      [
+        "Robin",
+        "Genau. Das beweist aber nicht, dass beide gleich schwer sind.",
+        "بالظبط. بس ده مش بيثبت إن الاتنين نفس الوزن."
+      ],
+      [
+        "Dana",
+        "Ich beschreibe deshalb die sichtbaren Farben und Formen auf diesen Fotos.",
+        "عشان كده هوصف الألوان والأشكال الظاهرة في الصور دي."
+      ],
+      [
+        "Robin",
+        "Und du benennst, welche Angaben für den Größenvergleich fehlen.",
+        "وتذكري إيه المعلومات الناقصة لمقارنة الحجم."
+      ],
+      [
+        "Dana",
+        "Die tatsächlichen Relationen bleiben ohne diese Angaben offen.",
+        "العلاقات الحقيقية تفضل مفتوحة من غير المعلومات دي."
+      ]
+    ],
+    "q": [
+      [
+        "Was fehlt für die echte Größe?",
+        "Ein verlässlicher Maßstab oder konkrete Maße.",
+        "Ein längerer Name.",
+        "Eine andere Überschrift."
+      ],
+      [
+        "Was beweist die fehlende Gewichtsreihenfolge nicht?",
+        "Dass beide gleich schwer sind.",
+        "Dass eine Relation ungeklärt bleibt.",
+        "Dass Dana keine Waage benutzt."
+      ],
+      [
+        "Was beschreibt Dana stattdessen?",
+        "Sichtbare Farben und Formen auf diesen Fotos.",
+        "Eine erfundene Materialanalyse.",
+        "Eine gemessene Länge."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "die-matte-auf-diesem-foto": [
+    "Sie ist hier blau und teilweise aufgerollt.",
+    "Die Billardkugeln.",
+    "Jetzt decke ich die Namen ab"
+  ],
+  "kannst-du-ein-beispiel-nennen": [
+    "ein konkretes Beispiel nennen?",
+    "in zwei Sätze teilen.",
+    "nur diese Stelle, nicht dein ganzes Sprachniveau."
+  ],
+  "bildgroesse-oder-echte-masse": [
+    "Maßstab oder konkrete Maße.",
+    "nicht, dass beide gleich schwer sind.",
+    "die sichtbaren Farben und Formen auf diesen Fotos."
+  ]
+});

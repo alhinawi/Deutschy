@@ -303,3 +303,6 @@ readings.push(...instrumentenblickTexts);
 
 import {spielablageTexts} from './reading-spielablage';
 readings.push(...spielablageTexts);
+
+import {freizeitfarbenTexts} from './reading-freizeitfarben';
+readings.push(...freizeitfarbenTexts);

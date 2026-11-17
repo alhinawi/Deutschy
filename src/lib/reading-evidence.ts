@@ -1733,3 +1733,24 @@ Object.assign(readingEvidence,{
     "offen bleibt daher, was vor oder nach den abgebildeten Zuständen geschehen ist."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zwei-woerter-mit-die": [
+    "Zwei Hände liegen darauf.",
+    "eine rote Billardkugel mit der Zahl 3.",
+    "Sie unterstreicht das n am Ende beider Formen.",
+    "Danach beschreibt Leo nur die Farben auf diesen Fotos."
+  ],
+  "alltag-a2-was-meinst-du-mit-gut": [
+    "weiß aber nicht, welcher Teil ihm gelungen ist.",
+    "die beiden Bilder klar getrennt hat.",
+    "an der zwei verschiedene Gedanken zusammenkommen.",
+    "leiten daraus keine vollständige Einschätzung seines Sprachniveaus ab."
+  ],
+  "alltag-b1-vergleich-ohne-massstab": [
+    "ob sie tatsächliche Abmessungen oder nur die Darstellung auf dem Bildschirm vergleicht.",
+    "sind nicht mit einem gemeinsamen Maßstab versehen.",
+    "werden dadurch nicht automatisch beide Gegenstände gleich schwer.",
+    "sichtbare Unterschiede: die blaue, teilweise gerollte Matte und die rote Kugel"
+  ]
+});
