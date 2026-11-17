@@ -15898,3 +15898,218 @@ Object.assign(dialogueEvidence,{
     "Die Gabelzinken helfen uns, die Formen zu unterscheiden."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "welchen-punkt-meinst-du",
+    "level": "A1",
+    "title": [
+      "Welchen Punkt meinst du?",
+      "تقصد أنهي نقطة؟"
+    ],
+    "lines": [
+      [
+        "Paul",
+        "Wie heißt das hier?",
+        "اللي هنا ده اسمه إيه؟"
+      ],
+      [
+        "Amina",
+        "Meinst du die ganze Pinnwand?",
+        "تقصد لوحة الدبابيس كلها؟"
+      ],
+      [
+        "Paul",
+        "Nein, den kleinen Punkt am runden weißen Zettel.",
+        "لأ، النقطة الصغيرة عند الورقة البيضا المدورة."
+      ],
+      [
+        "Amina",
+        "Für das neue Wort zeige ich dir dieses andere Foto: die Reißzwecke.",
+        "عشان الكلمة الجديدة هوريك الصورة التانية دي: دبوس الرسم."
+      ],
+      [
+        "Paul",
+        "Danke. Und der Plural heißt Reißzwecken?",
+        "شكرًا. والجمع بالألماني بيزود إن؟"
+      ],
+      [
+        "Amina",
+        "Ja. Bei Pinnwand heißt er Pinnwände, mit ä.",
+        "أيوه. واسم اللوحة جمعه بالألماني فيه آي أوملاوت."
+      ],
+      [
+        "Paul",
+        "Dann decken wir die Wörter ab und ich probiere es allein.",
+        "يبقى نغطي الكلمات وأجرب لوحدي."
+      ]
+    ],
+    "q": [
+      [
+        "Worauf zeigt Paul?",
+        "Auf den kleinen Punkt am runden weißen Zettel.",
+        "Auf die ganze Pinnwand.",
+        "Auf eine grüne Pflanze."
+      ],
+      [
+        "Welches Foto zeigt Amina für das neue Wort?",
+        "Das Foto der einzelnen Reißzwecke.",
+        "Ein Foto von einem Fahrrad.",
+        "Ein Foto von einer Uhr."
+      ],
+      [
+        "Welcher Plural enthält ä?",
+        "Pinnwände.",
+        "Reißzwecken.",
+        "Zettel."
+      ]
+    ]
+  },
+  {
+    "id": "geschrieben-aber-noch-nicht-gelesen",
+    "level": "A2",
+    "title": [
+      "Geschrieben, aber noch nicht gelesen",
+      "اتكتب بس لسه ماتقراش"
+    ],
+    "lines": [
+      [
+        "Sami",
+        "Habt ihr für Samstag schon alles vereinbart?",
+        "اتفقتوا على كل حاجة للسبت خلاص؟"
+      ],
+      [
+        "Nora",
+        "Mein Vorschlag hängt an der Pinnwand. Aber Eva hat ihn noch nicht gelesen.",
+        "اقتراحي على لوحة الدبابيس. بس إيفا لسه ماقرتوش."
+      ],
+      [
+        "Sami",
+        "Dann ist das noch keine gemeinsame Zusage.",
+        "يبقى ده لسه مش موافقة منكم مع بعض."
+      ],
+      [
+        "Nora",
+        "Stimmt. Die Pinnwand steht ja nur in meinem Zimmer.",
+        "صح. اللوحة أصلًا في أوضتي أنا بس."
+      ],
+      [
+        "Sami",
+        "Zeig ihr zuerst die Frage und warte auf ihre Antwort.",
+        "وريها السؤال الأول واستني ردها."
+      ],
+      [
+        "Nora",
+        "Bis dahin lasse ich das Kalenderfeld frei.",
+        "لحد وقتها هسيب خانة التقويم فاضية."
+      ],
+      [
+        "Sami",
+        "Genau. Ein fertiger Zettel ist noch kein vereinbarter Termin.",
+        "بالظبط. الورقة الجاهزة لسه مش ميعاد متفق عليه."
+      ]
+    ],
+    "q": [
+      [
+        "Was hat Eva noch nicht getan?",
+        "Den Vorschlag gelesen.",
+        "Die neue Uhrzeit eingetragen.",
+        "Den Bruder angerufen."
+      ],
+      [
+        "Wo steht Noras Pinnwand?",
+        "Nur in Noras Zimmer.",
+        "In der gemeinsamen Küche.",
+        "Im Garten."
+      ],
+      [
+        "Was bleibt bis zur Antwort frei?",
+        "Das Kalenderfeld.",
+        "Die ganze Küchenschublade.",
+        "Die Schachtel mit Reißzwecken."
+      ]
+    ]
+  },
+  {
+    "id": "die-farbe-reicht-nicht",
+    "level": "B1",
+    "title": [
+      "Die Farbe reicht nicht",
+      "اللون مش كفاية"
+    ],
+    "lines": [
+      [
+        "Karim",
+        "Ich habe Grün als erledigt und Weiß als offen gelesen.",
+        "فهمت الأخضر خلص والأبيض لسه مفتوح."
+      ],
+      [
+        "Julia",
+        "Dafür fehlt uns auf diesem Foto eine Legende.",
+        "ناقصنا في الصورة دي مفتاح يشرح المعنى ده."
+      ],
+      [
+        "Karim",
+        "Dann nenne ich nur Farben und Formen.",
+        "يبقى أقول الألوان والأشكال بس."
+      ],
+      [
+        "Julia",
+        "Und die Hand zeigt keinen vollständigen Ablauf.",
+        "والإيد مش بتبين تسلسل كامل."
+      ],
+      [
+        "Karim",
+        "Das Nahfoto der Reißzwecke hat auch keinen gemeinsamen Maßstab mit der Pinnwand.",
+        "وبرضه صورة الدبوس القريبة مالهاش مقياس مشترك مع اللوحة."
+      ],
+      [
+        "Julia",
+        "Genau. Es sind zwei getrennte Wortbeispiele.",
+        "بالظبط. هما مثالين كلمات منفصلين."
+      ],
+      [
+        "Karim",
+        "Dann ist unser Heft kein Aufgabenplan für die Person im Bild.",
+        "يبقى كراستنا مش خطة مهام للشخص اللي في الصورة."
+      ]
+    ],
+    "q": [
+      [
+        "Was fehlt für Karims Farbdeutung?",
+        "Eine Legende.",
+        "Ein grüner Zettel.",
+        "Ein weißer Zettel."
+      ],
+      [
+        "Was zeigt die Hand nicht?",
+        "Einen vollständigen Ablauf.",
+        "Eine sichtbare Haltung.",
+        "Eine Verbindung zum Blatt."
+      ],
+      [
+        "Wie behandeln beide die Fotos für das Wortheft?",
+        "Als zwei getrennte Wortbeispiele.",
+        "Als geprüfte Bilder derselben Reißzwecke.",
+        "Als gemeinsamen maßstabsgetreuen Bauplan."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "welchen-punkt-meinst-du": [
+    "den kleinen Punkt am runden weißen Zettel.",
+    "dieses andere Foto: die Reißzwecke.",
+    "Bei Pinnwand heißt er Pinnwände, mit ä."
+  ],
+  "geschrieben-aber-noch-nicht-gelesen": [
+    "Eva hat ihn noch nicht gelesen.",
+    "Die Pinnwand steht ja nur in meinem Zimmer.",
+    "Bis dahin lasse ich das Kalenderfeld frei."
+  ],
+  "die-farbe-reicht-nicht": [
+    "Dafür fehlt uns auf diesem Foto eine Legende.",
+    "die Hand zeigt keinen vollständigen Ablauf.",
+    "Es sind zwei getrennte Wortbeispiele."
+  ]
+});

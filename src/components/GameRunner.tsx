@@ -166,7 +166,7 @@ function Rounds({ game, list, again }: Props) {
       <Frame i={i} n={qs.length}>
         <p data-article-prompt className="text-center text-sm text-muted">{t('اختار أداة التعريف المناسبة للكلمة.', 'Choose the definite article for this noun.')}</p>
         <Photo w={w} />
-        <p className="de [overflow-wrap:anywhere] text-center text-4xl font-semibold" lang="de">{w.de}</p>
+        <p dir="ltr" className="de [overflow-wrap:anywhere] text-center text-4xl font-semibold" lang="de">{w.de}</p>
         <p className="ar-title text-center text-xl text-muted">{glossOf(w, lang)}</p>
         <div className="grid grid-cols-3 gap-3">
           {(['der', 'die', 'das'] as const).map((a) => (

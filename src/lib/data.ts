@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  pinnwoerter: 'Reißzwecke und Pinnwand',
   loeffelformen: 'Kochlöffel und Honiglöffel',
   instrumentenformen: 'Rumbakugel und Klangschale',
   denkobjekte: 'Abakus und Schachfigur',
@@ -134,6 +135,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  pinnwoerter: 'Thumbtack and pinboard',
   loeffelformen: 'Cooking spoon and honey dipper',
   instrumentenformen: 'Maraca and singing bowl',
   denkobjekte: 'Abacus and chess piece',

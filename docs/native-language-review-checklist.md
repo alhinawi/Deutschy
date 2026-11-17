@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the eighty-seventh practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the ninety-third practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -934,9 +934,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Flash revealed language | Revealed main German article/noun line explicitly lang de/dir ltr, independent of Arabic/English page.390 AR/EN revealed-card actual focused pixels inspected, keyboard front/back noXP regression retained. No scoring/schedule change. |
 | [ ] | Listening/dictation |66 original segments/Egyptian Arabic. Native editorial and real-device voice review pending. Practice labels are content organization, no proficiency statement. |
 
+### List 93: pinboard words, unanswered proposal and image limits
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-der-kleine-punkt-und-die-tafel/` and linked dialogue | Amina/Paul clarify whole board versus small fastening near round note, use separate whole thumbtack photo for name. Double n in Pinnwand; Reißzwecken/Pinnwände. Cover words for recall, no object count or hidden pin-type claim. |
+| [ ] | `/reading/alltag-a2-der-zettel-ist-noch-keine-antwort/` and linked dialogue | Nora's completed proposal in own room is unread by Eva and not an agreement. Dialogue ends waiting with blank calendar; reading continues to actual discussion/agreement Saturday3. Distinguish those endpoints, no inferred consent or automatic delivery. Cross out original morning proposal only after agreement. |
+| [ ] | `/reading/alltag-b1-kein-plan-auf-leeren-zetteln/` and linked dialogue | Karim/Julia do not infer completed/open task status from green/white without legend, full movement/intent from hand, actual relative scale or same pin identity across separate photos. Language exercise not work plan or inventory. Bound claims to these images, not universal impossibility. |
+| [ ] | `/lessons/pinnwoerter/` and `/credits/` | die Reißzwecke/Reißzwecken and die Pinnwand/Pinnwände, دبوس رسم and لوحة دبابيس. DWDS editorial entries. Whole flat head/short pointed stem versus whole framed corkboard with blank notes and natural hand. Real800x600 crops no branding/faces/padding. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way-preposition/negation rows. Old saved IDs unchanged. zeigt/liest/kann/beschreiben; ihren/sein/ihre/unsere; an der/die Pinnwand and auf dem/den Schreibtisch. Explanations pending native review. |
+| [ ] | Article-game German direction | Main German noun prompt explicit ltr/de on both AR/EN pages. Actual390 AR/EN keyboard-focused feedback inspected. Shared flash/spelling/scoring regressions retained. |
+| [ ] | Listening/dictation |63 original segments/Egyptian Arabic; native editorial and real-device voice review pending. Labels organize practice, not proficiency assessment. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **841 photo nouns / 137 topics**, **294 reading texts / 1129 reading questions**, **41 core grammar topics / 2158 core grammar questions**, **234 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **843 photo nouns / 138 topics**, **297 reading texts / 1141 reading questions**, **41 core grammar topics / 2182 core grammar questions**, **237 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -948,7 +960,7 @@ This is an inventory, not completed review. Snapshot: **841 photo nouns / 137 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 80 · A2 108 · B1 76 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 81 · A2 109 · B1 77 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

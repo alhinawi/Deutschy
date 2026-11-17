@@ -547,6 +547,10 @@
   {
    "id": "loeffelformen",
    "ar": "معلقة طبخ ومعلقة عسل"
+  },
+  {
+   "id": "pinnwoerter",
+   "ar": "دبوس رسم ولوحة دبابيس"
   }
  ],
  "words": [
@@ -13258,6 +13262,36 @@
     "file": "8805020.jpg",
     "commons": "https://www.pexels.com/photo/a-hand-holding-a-honey-dripper-over-a-glass-jar-of-honey-on-a-wooden-table-8805020/",
     "author": "Mike Jones",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "reisszwecke",
+   "topic": "pinnwoerter",
+   "art": "die",
+   "de": "Reißzwecke",
+   "plural": "Reißzwecken",
+   "ar": "دبوس رسم",
+   "photo": {
+    "file": "348391.jpg",
+    "commons": "https://www.pexels.com/photo/closeup-photography-of-thumb-tack-348391/",
+    "author": "George Becker",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "pinnwand",
+   "topic": "pinnwoerter",
+   "art": "die",
+   "de": "Pinnwand",
+   "plural": "Pinnwände",
+   "ar": "لوحة دبابيس",
+   "photo": {
+    "file": "4068301.jpg",
+    "commons": "https://www.pexels.com/photo/person-holding-brown-and-white-wooden-board-4068301/",
+    "author": "cottonbro studio",
     "license": "Pexels License",
     "modified": true
    }

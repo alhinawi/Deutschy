@@ -279,3 +279,6 @@ readings.push(...instrumentenformenTexts);
 
 import {loeffelformenTexts} from './reading-loeffelformen';
 readings.push(...loeffelformenTexts);
+
+import {pinnwoerterTexts} from './reading-pinnwoerter';
+readings.push(...pinnwoerterTexts);

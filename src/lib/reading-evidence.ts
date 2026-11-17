@@ -1565,3 +1565,24 @@ Object.assign(readingEvidence,{
     "Eine Dosieranleitung, eine Materialprüfung oder eine Freigabe für den Kontakt mit Lebensmitteln entsteht aus ihrer Bildbeschreibung nicht."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-der-kleine-punkt-und-die-tafel": [
+    "Auf dem ersten Bild liegt eine Reißzwecke mit der Spitze nach oben.",
+    "Eine Hand hält den großen weißen Zettel links.",
+    "Paul meint aber nicht die ganze Tafel.",
+    "Zum Schluss deckt Amina die Wörter mit einem Blatt ab. Paul versucht, die beiden Namen ohne Hilfe zu sagen."
+  ],
+  "alltag-a2-der-zettel-ist-noch-keine-antwort": [
+    "Sie schreibt einen Vorschlag auf einen Zettel und befestigt ihn an ihrer Pinnwand im Zimmer.",
+    "Sie hat den Vorschlag zwar geschrieben, Eva hat ihn aber noch nicht gelesen.",
+    "Beide sprechen kurz darüber und einigen sich auf Samstag um drei.",
+    "Den ursprünglichen Vorschlag streicht sie durch, damit er nicht mit der neuen Vereinbarung verwechselt wird."
+  ],
+  "alltag-b1-kein-plan-auf-leeren-zetteln": [
+    "keine lesbaren Aufgaben und keine Legende.",
+    "Julia möchte daher weder eine bereits abgeschlossene Änderung noch die Absicht der Person behaupten.",
+    "Sie liefert aber keinen gemeinsamen Maßstab mit der Pinnwand.",
+    "Die sprachliche Übung ist abgeschlossen. Ein gemeinsamer Arbeitsplan oder eine Bestandsaufnahme der abgebildeten Gegenstände wurde damit nicht erstellt."
+  ]
+});

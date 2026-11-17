@@ -222,4 +222,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zwei-karten-in-einer-mappe',dialogue:'eine-karte-fuer-jedes-foto'},
  {reading:'alltag-a2-erst-den-namen-dann-den-artikel',dialogue:'welche-runde-ist-jetzt'},
  {reading:'alltag-b1-ein-tropfen-ist-keine-mengenangabe',dialogue:'keine-grammzahl-aus-dem-foto'},
+ {reading:'alltag-a1-der-kleine-punkt-und-die-tafel',dialogue:'welchen-punkt-meinst-du'},
+ {reading:'alltag-a2-der-zettel-ist-noch-keine-antwort',dialogue:'geschrieben-aber-noch-nicht-gelesen'},
+ {reading:'alltag-b1-kein-plan-auf-leeren-zetteln',dialogue:'die-farbe-reicht-nicht'},
 ];
