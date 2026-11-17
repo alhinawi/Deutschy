@@ -106,7 +106,7 @@ function One({ d, back }: { d: Dialogue; back: () => void }) {
             </div>
             {pick!==null&&<p role="status">{pick===0?t('صح.','Correct.'):t('راجع الإجابة الصح.','Check the correct answer.')}</p>}
             {pick!==null&&dialogueEvidence[d.id]?.[i]&&<aside className="space-y-2 rounded-xl border border-line p-4"><h3>{t('الدليل من الحوار','Evidence from the dialogue')}</h3><blockquote dir="ltr" lang="de" className="de text-lg">{dialogueEvidence[d.id][i]}</blockquote></aside>}
-            {pick !== null && <button onClick={() => { setI(i + 1); setPick(null);locked.current=false; }} className="w-full rounded-full bg-accent py-2 font-bold text-accent-ink">{i + 1 >= d.q.length ? t('النتيجة', 'Result') : t('التالي', 'Next')}</button>}
+            {pick !== null && <button onClick={() => { setI(i + 1); setPick(null);locked.current=false; }} className="min-h-11 w-full rounded-full bg-accent py-2 font-bold text-accent-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-card">{i + 1 >= d.q.length ? t('النتيجة', 'Result') : t('التالي', 'Next')}</button>}
           </>
         )}
       </section>

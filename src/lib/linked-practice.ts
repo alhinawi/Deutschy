@@ -261,4 +261,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zwei-gartenbilder',dialogue:'gehalten-oder-hingelegt'},
  {reading:'alltag-a2-das-letzte-wort-im-kompositum',dialogue:'zuerst-schere-und-schaufel'},
  {reading:'alltag-b1-dateiname-und-bildinhalt',dialogue:'der-name-ist-kein-nachweis'},
+ {reading:'alltag-a1-ein-loch-viele-oeffnungen',dialogue:'das-dach-und-die-oeffnungen'},
+ {reading:'alltag-a2-ich-meine-das-rechte-bild',dialogue:'rechts-von-welchem-platz'},
+ {reading:'alltag-b1-ein-bild-ist-keine-beobachtungsreihe',dialogue:'nicht-erkennbar-ist-nicht-unbenutzt'},
 ];

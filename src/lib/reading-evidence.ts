@@ -1838,3 +1838,24 @@ Object.assign(readingEvidence,{
     "ihre Beschreibung verbessert, nicht die Herkunft oder den Zeitpunkt der Bilder geklärt."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-ein-loch-viele-oeffnungen": [
+    "Vorne ist ein rundes dunkles Loch.",
+    "Es hat ein spitzes grünes Dach",
+    "Nora sagt die Nistkästen und zeigt auf das ä.",
+    "sagen beide Namen mit Artikel."
+  ],
+  "alltag-a2-ich-meine-das-rechte-bild": [
+    "dass sie von verschiedenen Seiten auf den Tisch schauen.",
+    "das Bild mit dem grünen spitzen Dach und den vielen Öffnungen.",
+    "Für die nächste Runde setzen sich beide nebeneinander.",
+    "nicht aus diesem einen Griff schließen, dass er die Nomen wieder vergessen hat."
+  ],
+  "alltag-b1-ein-bild-ist-keine-beobachtungsreihe": [
+    "zwei einzelne Fotos vor, keine fortlaufende Dokumentation.",
+    "Die Namen benennen eine Art von Gegenstand und seinen vorgesehenen Zweck.",
+    "Auf diesen Fotos sind für ihn keine Tiere erkennbar.",
+    "diese Lücke sichtbar gemacht, aber nicht durch Vermutungen geschlossen."
+  ]
+});

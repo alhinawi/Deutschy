@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-fifth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-sixth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1090,9 +1090,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Dialogue retry button |44px minimum and keyboard ring with card-ground gap on result retry. All3 new dialogues AR/EN320/390,12 result-state axe and Enter/Space resets without extra XP. Actual390AR/EN pixels inspected. No answer/scoring/playback logic change. |
 | [ ] | Listening/dictation |68 original segments,272 exact German payload/source/answer checks. Human editorial and real-device voice review pending. Level labels not proficiency certification; progress is device-local. |
 
+### List 106: Nesting structures and limits of one photograph
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-ein-loch-viele-oeffnungen/` and linked dialogue | Emil/Nora one dark front hole and flat roof on wooden nest box versus many tubes/openings, pale frame, pink circles and pointed green roof. der Nistkasten/Nistkästen, das Insektenhotel/Insektenhotels. No opening/installation/nature procedure. |
+| [ ] | `/reading/alltag-a2-ich-meine-das-rechte-bild/` and linked dialogue | Alina/Sami opposite viewpoints make right/left ambiguous. Distinctive descriptions then sitting side-by-side. One mistaken reach not proof of vocabulary loss; no actual learner diagnosis. |
+| [ ] | `/reading/alltag-b1-ein-bild-ist-keine-beobachtungsreihe/` and linked dialogue | Dalia/Leon no visible animals in single photos not proof of permanent nonuse; names not proof of actual occupancy either. Interior/time unknown, repeated observations not performed. No suitability/ecological-success claim or opening/changing instructions. |
+| [ ] | `/lessons/naturbeobachtung/` and `/credits/` | der Nistkasten/Nistkästen (صندوق تعشيش للعصافير), das Insektenhotel/Insektenhotels (بيت للحشرات), editorial DWDS forms. Precise Nistkasten, not feeding house. Chris F15822413 1800x1202; Magda Ehlers38763461 1800x1211; each crop0,0-1600,1200 then800x600. Whole structures/no face/brand/padding/stretch/disturbing animals. |
+| [ ] | Six appended grammar banks |24 article/accusative/present/possessive/two-way/B1 connector rows. Earlier saved IDs/fixtures unchanged. den/das/die/den, dreht/zeigst/sitzt/grenzen, ihre/seinen/ihre/unsere, unter den Bildern/die Bilder, neben der/die Partnerin, weil/Obwohl/damit/Bevor. |
+| [ ] | Dialogue Next/Result button |44px minimum and keyboard ring with card-ground gap. All3 new dialogues AR/EN320/390,36 feedback-state axe and Enter/Space transitions to next unselected choices or3/3 result, no extra XP. Actual390AR/EN pixels inspected. No answer/scoring/playback logic change. |
+| [ ] | Listening/dictation |66 original segments,264 exact German payload/source/answer checks. Human editorial and real-device voice review pending. Level labels not proficiency certification; progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **867 photo nouns / 150 topics**, **333 reading texts / 1285 reading questions**, **41 core grammar topics / 2470 core grammar questions**, **273 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **869 photo nouns / 151 topics**, **336 reading texts / 1297 reading questions**, **41 core grammar topics / 2494 core grammar questions**, **276 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1104,7 +1116,7 @@ This is an inventory, not completed review. Snapshot: **867 photo nouns / 150 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 93 · A2 121 · B1 89 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 94 · A2 122 · B1 90 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

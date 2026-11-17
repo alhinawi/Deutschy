@@ -18693,3 +18693,218 @@ Object.assign(dialogueEvidence,{
     "nur zum Wiederfinden"
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "das-dach-und-die-oeffnungen",
+    "level": "A1",
+    "title": [
+      "Das Dach und die Öffnungen",
+      "السقف والفتحات"
+    ],
+    "lines": [
+      [
+        "Nora",
+        "Was siehst du auf dem ersten Foto?",
+        "شايف إيه في الصورة الأولى؟"
+      ],
+      [
+        "Emil",
+        "Einen Nistkasten mit einem runden Loch vorne.",
+        "صندوق تعشيش بفتحة مدورة من قدام."
+      ],
+      [
+        "Nora",
+        "Wie lautet die Mehrzahl?",
+        "الجمع إيه؟"
+      ],
+      [
+        "Emil",
+        "Die Nistkästen, mit ä.",
+        "دي نيستكستن بحرف أيه عليه نقطتين."
+      ],
+      [
+        "Nora",
+        "Und das andere Bild?",
+        "والصورة التانية؟"
+      ],
+      [
+        "Emil",
+        "Das Insektenhotel hat viele Öffnungen und ein grünes Dach.",
+        "بيت الحشرات فيه فتحات كتير وسقف أخضر."
+      ],
+      [
+        "Nora",
+        "Gut. Die Mehrzahl ist die Insektenhotels, mit s.",
+        "كويس. الجمع دي إنزكتنهوتيلز بإس."
+      ]
+    ],
+    "q": [
+      [
+        "Was nennt Emil beim Nistkasten?",
+        "Das runde Loch vorne.",
+        "Eine blaue Tür.",
+        "Einen roten Griff."
+      ],
+      [
+        "Welche Mehrzahl nennt Nora zuletzt?",
+        "Die Insektenhotels.",
+        "Die Nistkästen.",
+        "Die Dächer."
+      ],
+      [
+        "Welche Dachfarbe wird genannt?",
+        "Grün.",
+        "Weiß.",
+        "Gelb."
+      ]
+    ]
+  },
+  {
+    "id": "rechts-von-welchem-platz",
+    "level": "A2",
+    "title": [
+      "Rechts von welchem Platz?",
+      "يمين من مكان مين؟"
+    ],
+    "lines": [
+      [
+        "Alina",
+        "Leg die Wortkarte bitte zum rechten Bild.",
+        "حط كارت الكلمة مع الصورة اللي على اليمين لو سمحت."
+      ],
+      [
+        "Sami",
+        "Meinst du rechts von meinem Platz aus oder von deinem?",
+        "قصدك يمين من مكاني ولا من مكانك؟"
+      ],
+      [
+        "Alina",
+        "Von meinem. Wir sitzen ja einander gegenüber.",
+        "من مكاني. إحنا قاعدين قصاد بعض فعلًا."
+      ],
+      [
+        "Sami",
+        "Beschreib das Foto bitte kurz ohne rechts und links.",
+        "اوصفّي الصورة بسرعة من غير يمين وشمال لو سمحتي."
+      ],
+      [
+        "Alina",
+        "Ich meine das Insektenhotel mit dem grünen spitzen Dach.",
+        "قصدي بيت الحشرات بالسقف الأخضر المدبب."
+      ],
+      [
+        "Sami",
+        "Jetzt ist es klar. Setzen wir uns für die nächste Runde nebeneinander?",
+        "دلوقتي واضح. نقعد جنب بعض للجولة الجاية؟"
+      ],
+      [
+        "Alina",
+        "Ja, dann haben wir denselben Blickpunkt.",
+        "أيوه كده يبقى عندنا نفس نقطة النظر."
+      ]
+    ],
+    "q": [
+      [
+        "Was klärt Sami zuerst?",
+        "Von welchem Platz aus rechts gemeint ist.",
+        "Wer das Foto gekauft hat.",
+        "Wann das Dach gebaut wurde."
+      ],
+      [
+        "Welches Bild meint Alina?",
+        "Das Insektenhotel.",
+        "Den Nistkasten.",
+        "Ein leeres Blatt."
+      ],
+      [
+        "Warum setzen sie sich nebeneinander?",
+        "Damit sie denselben Blickpunkt haben.",
+        "Damit sie nichts mehr sehen.",
+        "Weil die Wörter geändert wurden."
+      ]
+    ]
+  },
+  {
+    "id": "nicht-erkennbar-ist-nicht-unbenutzt",
+    "level": "B1",
+    "title": [
+      "Nicht erkennbar ist nicht unbenutzt",
+      "مش باين مش معناه مش مستخدم"
+    ],
+    "lines": [
+      [
+        "Leon",
+        "Ich sehe keine Tiere. Soll ich unbenutzt schreiben?",
+        "أنا مش شايف حيوانات. أكتب مش مستخدم؟"
+      ],
+      [
+        "Dalia",
+        "Nein. Wir haben nur einzelne Fotos und keine längere Beobachtung.",
+        "لأ. معانا صور منفصلة بس مش متابعة لمدة أطول."
+      ],
+      [
+        "Leon",
+        "Dann schreibe ich, dass für mich auf diesen Bildern keine Tiere erkennbar sind.",
+        "يبقى أكتب إني مش قادر أميز حيوانات في الصور دي."
+      ],
+      [
+        "Dalia",
+        "Genau. Die Innenräume und die Beobachtungsdauer bleiben unbekannt.",
+        "بالظبط. الأجزاء الداخلية ومدة المتابعة لسه مش معروفين."
+      ],
+      [
+        "Leon",
+        "Die Namen allein beweisen aber auch keine tatsächliche Belegung.",
+        "بس الأسامي لوحدها برضه مش بتثبت وجود ساكنين فعلًا."
+      ],
+      [
+        "Dalia",
+        "Richtig. Wir öffnen oder verändern dafür nichts. Es ist eine Schreibübung.",
+        "صح. مش هنفتح ولا نغير حاجة عشان كده. ده تدريب كتابة."
+      ],
+      [
+        "Leon",
+        "Unser Satz bleibt bei der begrenzten Beobachtung.",
+        "جملتنا هتفضل عند الملاحظة المحدودة."
+      ]
+    ],
+    "q": [
+      [
+        "Was fehlt den beiden?",
+        "Eine längere Beobachtung.",
+        "Ein Name für das Thema.",
+        "Jede sichtbare Öffnung."
+      ],
+      [
+        "Was beweisen die Namen allein nicht?",
+        "Eine tatsächliche Belegung.",
+        "Dass Gegenstandsarten benannt werden.",
+        "Dass es zwei Bilder gibt."
+      ],
+      [
+        "Was machen sie nicht?",
+        "Die Unterkünfte öffnen oder verändern.",
+        "Eine begrenzte Aussage schreiben.",
+        "Ihre Wortwahl prüfen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "das-dach-und-die-oeffnungen": [
+    "mit einem runden Loch vorne.",
+    "die Insektenhotels, mit s.",
+    "ein grünes Dach."
+  ],
+  "rechts-von-welchem-platz": [
+    "rechts von meinem Platz aus oder von deinem?",
+    "Ich meine das Insektenhotel",
+    "dann haben wir denselben Blickpunkt."
+  ],
+  "nicht-erkennbar-ist-nicht-unbenutzt": [
+    "keine längere Beobachtung.",
+    "keine tatsächliche Belegung.",
+    "Wir öffnen oder verändern dafür nichts."
+  ]
+});
