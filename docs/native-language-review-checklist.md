@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-third practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-fourth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1066,9 +1066,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Dialogue translation toggle |44px minimum height and themed keyboard ring/page-ground gap. All3 new dialogues AR/EN320/390,12 keyboard/axe states, Enter/Space toggle twice/restored pressed state, no XP mutation. No translation content/answer/scoring logic change. |
 | [ ] | Listening/dictation |68 original segments,272 exact German payload/source/answer checks. Human editorial/real-device voice review pending; level labels not proficiency claims. |
 
+### List 104: Color parts, private notes and unverified equipment condition
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-farben-an-den-dingen/` and linked dialogue | Bela/Laila white shoes, pink laces, red wheels; black/green fins by blue water. der Rollschuh/die Rollschuhe versus die Schwimmflosse/die Schwimmflossen. Singular label versus pictured pair. Colors assigned to parts, not universal color rule. No sport instruction. |
+| [ ] | `/reading/alltag-a2-darf-ich-das-notieren/` and linked dialogue | Sina permits David one private example sentence without name; correct missing word by readback. She declines showing other partner today, honored. No audio/photo/publication/send; later disclosure needs new ask. Fictional specific agreement, not general legal rule. |
+| [ ] | `/reading/alltag-b1-sichtbar-ist-nicht-geprueft/` and linked dialogue | Farah/Luis photos not function/fit/material/safety examination. Visible surfaces, colors/open laces/positions only. Pool location not use authorization; no confirmed defect inferred either. No repair/use steps or safety promise. |
+| [ ] | `/lessons/sportdetails/` and `/credits/` | der Rollschuh/Rollschuhe (جزمة بعجل), die Schwimmflosse/Schwimmflossen (زعنفة سباحة), editorial DWDS forms. SHVETS production both:8413767 1800x1200 crop650,360-1450,960 white pair/pink laces/red wheels, legs only;8028468 1800x2700 crop100,1180-1700,2380 whole black-green pair by pool.800x600 no face/brand/padding. |
+| [ ] | Six appended grammar banks |24 article/accusative/present/possessive/two-way preposition/B1 connector rows. Earlier saved IDs unchanged. fragt/ergänzt/liest/sehen, seine/ihre/seinen/unsere, neben dem/das Foto, in dem/das Heft, weil/Obwohl/damit/Bevor. Bela explicitly male in possessive prompt. |
+| [ ] | Dialogue line audio buttons |Themed keyboard ring/page-ground gap on existing44px controls. All3 new dialogues AR/EN320/390,12 keyboard/axe states, Enter/Space exact first-line German de-DE payload, no XP mutation. No playback/answer/scoring logic change. |
+| [ ] | Listening/dictation |66 original segments,264 exact German payload/source/answer checks. Human editorial/real-device voice review pending; level labels not proficiency claims. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **863 photo nouns / 148 topics**, **327 reading texts / 1261 reading questions**, **41 core grammar topics / 2422 core grammar questions**, **267 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **865 photo nouns / 149 topics**, **330 reading texts / 1273 reading questions**, **41 core grammar topics / 2446 core grammar questions**, **270 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1080,7 +1092,7 @@ This is an inventory, not completed review. Snapshot: **863 photo nouns / 148 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 91 · A2 119 · B1 87 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 92 · A2 120 · B1 88 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

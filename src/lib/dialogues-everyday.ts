@@ -18263,3 +18263,218 @@ Object.assign(dialogueEvidence,{
     "die sichtbare Form und lasse den Zusammenhang offen."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "welcher-teil-ist-rosa",
+    "level": "A1",
+    "title": [
+      "Welcher Teil ist rosa?",
+      "أنهي جزء وردي؟"
+    ],
+    "lines": [
+      [
+        "Bela",
+        "Welche Farbe haben die Rollschuhe auf dem Foto?",
+        "الجزم اللي بعجل في الصورة لونها إيه؟"
+      ],
+      [
+        "Laila",
+        "Die Schuhe sind weiß, die Schnürsenkel rosa und die Rollen rot.",
+        "الجزم بيضا والرباط وردي والعجل أحمر."
+      ],
+      [
+        "Bela",
+        "Wie heißt die Einzahl?",
+        "المفرد إيه؟"
+      ],
+      [
+        "Laila",
+        "Der Rollschuh. Die Mehrzahl ist die Rollschuhe.",
+        "دير رولشوه. والجمع دي رولشوهه."
+      ],
+      [
+        "Bela",
+        "Und bei den Flossen?",
+        "وعند الزعانف؟"
+      ],
+      [
+        "Laila",
+        "Die Schwimmflosse, die Schwimmflossen. Hier sind sie schwarz und grün.",
+        "دي شفيمفلوسّه ودي شفيمفلوسّن. هنا لونهم أسود وأخضر."
+      ],
+      [
+        "Bela",
+        "Dann decke ich die Namen ab und frage noch einmal.",
+        "يبقى أغطي الأسامي وأسأل تاني."
+      ]
+    ],
+    "q": [
+      [
+        "Was ist auf dem ersten Foto rosa?",
+        "Die Schnürsenkel.",
+        "Die Rollen.",
+        "Das Wasser."
+      ],
+      [
+        "Welcher Artikel gehört zur Einzahl Rollschuh?",
+        "Der.",
+        "Die.",
+        "Das."
+      ],
+      [
+        "Welche Farben nennt Laila bei den Flossen?",
+        "Schwarz und grün.",
+        "Rosa und rot.",
+        "Nur weiß."
+      ]
+    ]
+  },
+  {
+    "id": "nur-im-eigenen-heft",
+    "level": "A2",
+    "title": [
+      "Nur im eigenen Heft",
+      "في كراستي بس"
+    ],
+    "lines": [
+      [
+        "David",
+        "Darf ich deinen Beispielsatz in mein Heft schreiben?",
+        "ينفع أكتب جملة المثال بتاعتك في كراستي؟"
+      ],
+      [
+        "Sina",
+        "Ja, aber bitte ohne meinen Namen.",
+        "أيوه بس من غير اسمي لو سمحت."
+      ],
+      [
+        "David",
+        "Ich lese die Notiz kurz vor. Fehlt etwas?",
+        "هقرا الملحوظة بسرعة. ناقص حاجة؟"
+      ],
+      [
+        "Sina",
+        "Hier fehlt ein Wort. Ergänze es bitte.",
+        "هنا ناقص كلمة. ضيفها لو سمحت."
+      ],
+      [
+        "David",
+        "Erledigt. Darf ich die Notiz später meinem anderen Lernpartner zeigen?",
+        "خلصت. ينفع أوري الملحوظة بعدين لشريكي التاني في التعلم؟"
+      ],
+      [
+        "Sina",
+        "Heute möchte ich das nicht. Bitte nur in deinem eigenen Heft.",
+        "النهارده مش عايزة كده. في كراستك إنت بس لو سمحت."
+      ],
+      [
+        "David",
+        "In Ordnung. Ich gebe sie nicht weiter und frage vor einer späteren Weitergabe neu.",
+        "ماشي. مش هشاركها وهسأل من جديد قبل أي مشاركة بعدين."
+      ]
+    ],
+    "q": [
+      [
+        "Was erlaubt Sina zuerst?",
+        "Eine Notiz ohne ihren Namen.",
+        "Eine öffentliche Aufnahme.",
+        "Das Teilen mit allen Lernpartnern."
+      ],
+      [
+        "Was ergänzt David?",
+        "Ein fehlendes Wort.",
+        "Eine Adresse.",
+        "Eine Rechnung."
+      ],
+      [
+        "Wie reagiert er auf die Grenze?",
+        "Er gibt die Notiz nicht weiter.",
+        "Er verschickt sie trotzdem.",
+        "Er veröffentlicht sie ohne Namen."
+      ]
+    ]
+  },
+  {
+    "id": "keine-freigabe-durch-ein-foto",
+    "level": "B1",
+    "title": [
+      "Keine Freigabe durch ein Foto",
+      "الصورة مش تصريح استخدام"
+    ],
+    "lines": [
+      [
+        "Luis",
+        "Die Gegenstände sehen ordentlich aus. Kann ich sie einsatzbereit nennen?",
+        "الحاجات شكلها مرتب. أقدر أقول جاهزة للاستخدام؟"
+      ],
+      [
+        "Farah",
+        "Wir haben sie nicht geprüft. Sichtbare Oberflächen reichen für diese Zusage nicht.",
+        "إحنا مافحصناهمش. الأسطح الظاهرة مش كفاية للضمان ده."
+      ],
+      [
+        "Luis",
+        "Dann beschreibe ich nur Farben, Formen und Positionen.",
+        "يبقى أوصف الألوان والأشكال والأماكن بس."
+      ],
+      [
+        "Farah",
+        "Und wir behaupten umgekehrt auch keinen Defekt.",
+        "وبالعكس مانقولش فيه عطل برضه."
+      ],
+      [
+        "Luis",
+        "Der Beckenrand auf dem Foto ist also keine Freigabe.",
+        "يبقى طرف حمام السباحة في الصورة مش تصريح استخدام."
+      ],
+      [
+        "Farah",
+        "Genau. Für eine Bewertung fehlen zusätzliche Informationen und eine passende Prüfung.",
+        "بالظبط. للتقييم ناقص معلومات إضافية وفحص مناسب."
+      ],
+      [
+        "Luis",
+        "Unsere Bildbeschreibung ersetzt keine Sicherheitskontrolle.",
+        "وصف الصور بتاعنا مش بديل لفحص أمان."
+      ]
+    ],
+    "q": [
+      [
+        "Was fehlt den beiden?",
+        "Eine passende Prüfung.",
+        "Jede sichtbare Farbe.",
+        "Ein Thema für die Beschreibung."
+      ],
+      [
+        "Welche umgekehrte Behauptung vermeiden sie?",
+        "Einen Defekt.",
+        "Dass sie keine Prüfung vorgenommen haben.",
+        "Dass Positionen beschrieben werden können."
+      ],
+      [
+        "Was ersetzt die Bildbeschreibung nicht?",
+        "Eine Sicherheitskontrolle.",
+        "Die Benennung sichtbarer Formen.",
+        "Einen Satz über Farben."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "welcher-teil-ist-rosa": [
+    "die Schnürsenkel rosa",
+    "Der Rollschuh.",
+    "schwarz und grün."
+  ],
+  "nur-im-eigenen-heft": [
+    "Ja, aber bitte ohne meinen Namen.",
+    "Hier fehlt ein Wort.",
+    "Ich gebe sie nicht weiter"
+  ],
+  "keine-freigabe-durch-ein-foto": [
+    "Wir haben sie nicht geprüft.",
+    "auch keinen Defekt.",
+    "ersetzt keine Sicherheitskontrolle."
+  ]
+});

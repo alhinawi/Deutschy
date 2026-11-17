@@ -312,3 +312,6 @@ readings.push(...bildanordnungTexts);
 
 import {spielteileTexts} from './reading-spielteile';
 readings.push(...spielteileTexts);
+
+import {sportdetailsTexts} from './reading-sportdetails';
+readings.push(...sportdetailsTexts);

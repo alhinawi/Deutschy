@@ -78,7 +78,7 @@ function One({ d, back }: { d: Dialogue; back: () => void }) {
               <p dir="ltr" className="num text-xs font-bold text-accent">{who}</p>
               <div className="flex items-start gap-2">
                 <p dir="ltr" lang="de" className="de text-lg">{de}</p>
-                <button onClick={() => speak(de)} aria-label={t('اسمع الجملة','Hear the sentence')} className="min-h-11 min-w-11 shrink-0 rounded-full border border-line p-2"><Speaker /></button>
+                <button onClick={() => speak(de)} aria-label={t('اسمع الجملة','Hear the sentence')} className="min-h-11 min-w-11 shrink-0 rounded-full border border-line p-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper"><Speaker /></button>
               </div>
               {tr && <p dir="rtl" lang="ar" className="ar-title mt-1 text-sm text-muted"><Mixed text={ar} /></p>}
             </div>

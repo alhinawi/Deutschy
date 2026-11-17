@@ -474,3 +474,6 @@ for(const[topic,rows]of Object.entries(bildanordnungGrammar))exercises[topic].pu
 
 import {spielteileGrammar} from './exercises-spielteile';
 for(const[topic,rows]of Object.entries(spielteileGrammar))exercises[topic].push(...rows);
+
+import {sportdetailsGrammar} from './exercises-sportdetails';
+for(const[topic,rows]of Object.entries(sportdetailsGrammar))exercises[topic].push(...rows);
