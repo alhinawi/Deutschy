@@ -369,3 +369,6 @@ readings.push(...freizeitformenTexts);
 
 import {grueneformenTexts} from './reading-grueneformen';
 readings.push(...grueneformenTexts);
+
+import {obstkartenTexts} from './reading-obstkarten';
+readings.push(...obstkartenTexts);

@@ -531,3 +531,6 @@ for(const[topic,rows]of Object.entries(freizeitformenGrammar))exercises[topic].p
 
 import {grueneformenGrammar} from './exercises-grueneformen';
 for(const[topic,rows]of Object.entries(grueneformenGrammar))exercises[topic].push(...rows);
+
+import {obstkartenGrammar} from './exercises-obstkarten';
+for(const[topic,rows]of Object.entries(obstkartenGrammar))exercises[topic].push(...rows);

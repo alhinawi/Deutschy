@@ -312,4 +312,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-gruene-karten-im-kreis',dialogue:'form-statt-nur-farbe'},
  {reading:'alltag-a2-zwei-pluralformen-auf-einem-blatt',dialogue:'beide-zucchini-plurale-gelten'},
  {reading:'alltag-b1-spielregeln-gemeinsam-aendern',dialogue:'neue-regel-ab-runde-zwei'},
+ {reading:'alltag-a1-die-karte-unter-dem-heft',dialogue:'wortkarte-unter-dem-heft'},
+ {reading:'alltag-a2-erinnern-mit-zwei-durchgaengen',dialogue:'zwei-durchgaenge-mit-rollentausch'},
+ {reading:'alltag-b1-ein-gemeinsamer-kurzvortrag',dialogue:'uebergang-mit-einer-frage'},
 ];

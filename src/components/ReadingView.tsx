@@ -72,7 +72,7 @@ export default function ReadingView({ r }: { r: ReadingText }) {
               {practiceOptionOrder(`${r.id}:${i}:${q[0]}`,String(round)).map((k) => {
                 const state = pick === null ? '' : k === 0 ? 'border-good border-2 bg-good/10' : pick === k ? 'border-bad bg-bad/10' : '';
                 return (
-                  <button dir="ltr" key={k} disabled={pick!==null} onClick={() => answer(k)} lang="de" className={`de flex items-center justify-between gap-2 rounded-xl border border-line bg-paper px-3 py-2.5 text-start text-lg ${state}`}>
+                  <button dir="ltr" key={k} disabled={pick!==null} onClick={() => answer(k)} lang="de" className={`de min-h-11 flex items-center justify-between gap-2 rounded-xl border border-line bg-paper px-3 py-2.5 text-start text-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-card ${state}`}>
                     <span>{q[1 + k]}</span>
                     
             {pick !== null && k === 0 && <svg viewBox="0 0 24 24" className="h-5 w-5 shrink-0 text-good" fill="none" stroke="currentColor" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" aria-label="correct"><path d="M5 12l5 5 9-10" /></svg>}

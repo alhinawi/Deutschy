@@ -667,6 +667,10 @@
   {
    "id": "grueneformen",
    "ar": "كوسة وليمون أخضر"
+  },
+  {
+   "id": "obstkarten",
+   "ar": "نكتارين وجوسبيري"
   }
  ],
  "words": [
@@ -14278,6 +14282,36 @@
     "file": "7657210.jpg",
     "commons": "https://www.pexels.com/photo/green-lime-fruits-on-yellow-surface-7657210/",
     "author": "Cup of Couple",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "nektarine",
+   "topic": "obstkarten",
+   "art": "die",
+   "de": "Nektarine",
+   "plural": "Nektarinen",
+   "ar": "نكتارين",
+   "photo": {
+    "file": "37852709.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-of-juicy-nectarines-in-sunlight-37852709/",
+    "author": "Tony Zohari",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "stachelbeere",
+   "topic": "obstkarten",
+   "art": "die",
+   "de": "Stachelbeere",
+   "plural": "Stachelbeeren",
+   "ar": "عنب الثعلب (جوسبيري)",
+   "photo": {
+    "file": "13272965.jpg",
+    "commons": "https://www.pexels.com/photo/photo-of-unripe-gooseberries-13272965/",
+    "author": "Eugene Golovesov",
     "license": "Pexels License",
     "modified": true
    }

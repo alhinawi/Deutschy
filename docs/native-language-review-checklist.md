@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-twenty-second practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-twenty-third practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1294,9 +1294,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Reading next/result/retry | Two existing controls gain44pxminimum/card-ground keyboard focus.60AR/EN320/390states across3sets: keyboard Enter advance/result/reset, visible rings, accessibility, nooverflow. Navigation/reset itself adds noXP; a fresh correct answer after retry retains existing8XP behavior. No scoring/target/routing changes. Actual390AR/EN result focus and photo cards inspected. |
 | [ ] | Listening/dictation |72 original segments,288exactGerman speech/source/answer checks. Native editorial and actual-device voice review pending. Level labels not certification; progress device-local. |
 
+### List 123: Nectarines and gooseberries
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-die-karte-unter-dem-heft/` and linked dialogue | Mara/Sami fictional course-table setup: missing physical wordcard under notebook, not an object inside photo. Nectarines in green dish, green pale-striped gooseberries. Card placed under second photo, plurals written, notebook stays right. |
+| [ ] | `/reading/alltag-a2-erinnern-mit-zwei-durchgaengen/` and linked dialogue | Nora/Emil two-pass recall with role swap: only photos stay visible, missing words marked rather than silently supplied, targeted article prompt. Both feminine, plural adds n. Scoped difficulty notes, not whole-language proficiency judgment. |
+| [ ] | `/reading/alltag-b1-ein-gemeinsamer-kurzvortrag/` and linked dialogue | Liv/Adam fictional presentation: avoid duplicate introductions, Adam names photos/Liv plurals, agreed question signals handover. No imagined audience approval; only rehearsal done, feedback after actual presentation. No tasting/purchase planned. |
+| [ ] | `/lessons/obstkarten/` and `/credits/` | die Nektarine/Nektarinen (نكتارين), die Stachelbeere/Stachelbeeren (عنب الثعلب، جوسبيري). Full DWDS entries, Cambridge Arabic for gooseberry. Tony Zohari37852709 nectarines1800x1200 crop100,0-1700,1200; Eugene Golovesov13272965 gooseberries1800x2400 crop0,450-1800,1800. Both800x600,no padding/stretch/brand/person. Actual390AR/ENcards inspected. Not Cape/Indian gooseberry or ordinary grape. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way/negation rows; earlier saved identities preserved. Native German/Egyptian examples/explanations pending. |
+| [ ] | Reading answer choices | Existing choices44pxminimum/card-ground keyboard ring.72AR/EN320/390focusstates across3sets and reading/listening modes;24axe plus24wrong-answer doubleclicklock/evidence/highlights/noXP/next checks. Actual390AR/ENfocus inspected. No behavior/answer/scoring changes. |
+| [ ] | Listening/dictation |72 original segments,288exactGerman speech/source/answer checks. Native editorial and actual-device voice review pending. Level labels not certification; progress local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **901 photo nouns / 167 topics**, **384 reading texts / 1489 reading questions**, **41 core grammar topics / 2878 core grammar questions**, **324 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **903 photo nouns / 168 topics**, **387 reading texts / 1501 reading questions**, **41 core grammar topics / 2902 core grammar questions**, **327 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1308,7 +1320,7 @@ This is an inventory, not completed review. Snapshot: **901 photo nouns / 167 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 110 · A2 138 · B1 106 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 111 · A2 139 · B1 107 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
