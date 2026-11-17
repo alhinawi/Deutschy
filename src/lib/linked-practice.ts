@@ -45,4 +45,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-schluesselring',dialogue:'den-leeren-ring'},
  {reading:'alltag-a2-tuerstopper',dialogue:'holzkeil-wegraeumen'},
  {reading:'alltag-b1-flurplan',dialogue:'ablage-keine-erlaubnis'},
+ {reading:'alltag-a1-pflanzkelle',dialogue:'kelle-aus-eimer'},
+ {reading:'alltag-a2-spruehflasche',dialogue:'werkzeug-ganz-zeigen'},
+ {reading:'alltag-b1-gartennotiz',dialogue:'foto-kein-nachweis'},
 ];

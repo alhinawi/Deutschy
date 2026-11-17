@@ -326,3 +326,24 @@ Object.assign(readingEvidence,{
     "Aus Janas Zeichnung lässt sich weder die Zustimmung zu weiteren Möbeln noch die Erlaubnis zum Benutzen fremder Gegenstände ableiten."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-pflanzkelle": [
+    "Rana und Tim sind im Garten.",
+    "Dort liegen nur drei Karten und ein Stift.",
+    "Darin liegt die Kelle.",
+    "Die dritte Karte bleibt leer."
+  ],
+  "alltag-a2-spruehflasche": [
+    "Mara und Yusuf sortieren Gegenstände auf einem Tisch im privaten Gartenschuppen.",
+    "Auf dem ersten Foto ist der Kopf der Sprühflasche abgeschnitten.",
+    "Mara nimmt den Karton aus dem Bild, ohne das Werkzeug zu verdecken.",
+    "Die Fotos sollen nur zeigen, welches Wort zu welchem Gegenstand gehört."
+  ],
+  "alltag-b1-gartennotiz": [
+    "Bisher hätten sie nur festgehalten, dass die Blätter auf dem Foto heller wirkten.",
+    "Ob der Standort tatsächlich geeigneter ist, bleibt offen.",
+    "Jonas hatte sie nur für ein Foto aus dem Schuppen genommen.",
+    "Die Freunde legen sie an den vereinbarten Platz zurück und wollen Lea vor einer weiteren Nutzung fragen."
+  ]
+});

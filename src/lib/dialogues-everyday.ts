@@ -3213,3 +3213,218 @@ Object.assign(dialogueEvidence,{
     "Wenn uns etwas nicht gehört, fragen wir die Person zuerst."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "kelle-aus-eimer",
+    "level": "A1",
+    "title": [
+      "Im Eimer, nicht auf dem Tisch",
+      "في الجردل مش على الترابيزة"
+    ],
+    "lines": [
+      [
+        "Rana",
+        "Siehst du die kleine Pflanzkelle?",
+        "شايف الجاروف الصغير للزرع؟"
+      ],
+      [
+        "Tim",
+        "Auf dem Tisch liegt sie nicht. Hier sind nur Karten.",
+        "مش على الترابيزة. هنا كروت بس."
+      ],
+      [
+        "Rana",
+        "Schau bitte in den Eimer unter der Bank.",
+        "بص في الجردل اللي تحت الدكة لو سمحت."
+      ],
+      [
+        "Tim",
+        "Ja, da ist sie. Ich bringe dir den ganzen Eimer.",
+        "آه، موجودة. هجيب لك الجردل كله."
+      ],
+      [
+        "Rana",
+        "Danke. Die Kelle nehme ich heraus.",
+        "شكراً. هطلع الجاروف."
+      ],
+      [
+        "Tim",
+        "Soll ich meinen Namen auf eine Karte schreiben?",
+        "أكتب اسمي على كارت؟"
+      ],
+      [
+        "Rana",
+        "Ja. Die dritte Karte lassen wir aber leer.",
+        "آه. بس نسيب الكارت التالت فاضي."
+      ]
+    ],
+    "q": [
+      [
+        "Wo soll Tim nachsehen?",
+        "Im Eimer unter der Bank.",
+        "Im Kühlschrank.",
+        "Im Briefkasten."
+      ],
+      [
+        "Was bringt Tim Rana?",
+        "Den ganzen Eimer.",
+        "Nur den Tisch.",
+        "Einen vollen Blumentopf."
+      ],
+      [
+        "Welche Karte bleibt leer?",
+        "Die dritte.",
+        "Alle Karten.",
+        "Tims Karte."
+      ]
+    ]
+  },
+  {
+    "id": "werkzeug-ganz-zeigen",
+    "level": "A2",
+    "title": [
+      "Noch ein Stück zurück",
+      "لسه خطوة لورا"
+    ],
+    "lines": [
+      [
+        "Yusuf",
+        "Ist die Sprühflasche auf dem Foto gut zu erkennen?",
+        "إزازة البخاخ باينة كويس في الصورة؟"
+      ],
+      [
+        "Mara",
+        "Der untere Teil ja, aber der Kopf fehlt.",
+        "الجزء اللي تحت آه، بس الرأس مش باينة."
+      ],
+      [
+        "Yusuf",
+        "Dann gehe ich noch ein Stück zurück.",
+        "يبقى أرجع لورا شوية كمان."
+      ],
+      [
+        "Mara",
+        "So ist die ganze Flasche zu sehen.",
+        "كده الإزازة كلها باينة."
+      ],
+      [
+        "Yusuf",
+        "Schreiben wir den Namen direkt aus dem Gedächtnis dazu?",
+        "نكتب الاسم من الذاكرة على طول؟"
+      ],
+      [
+        "Mara",
+        "Lieber erst nachschlagen. Wir sind uns noch nicht sicher.",
+        "الأفضل ندور عليه الأول. لسه مش متأكدين."
+      ],
+      [
+        "Yusuf",
+        "Gut. Danach kommt die Karte in die Mappe.",
+        "تمام. بعد كده الكارت يتحط في الملف."
+      ]
+    ],
+    "q": [
+      [
+        "Was fehlt zuerst auf dem Foto?",
+        "Der Kopf der Flasche.",
+        "Der ganze Tisch.",
+        "Die ganze Wand."
+      ],
+      [
+        "Was macht Yusuf für das zweite Foto?",
+        "Er geht etwas zurück.",
+        "Er schneidet den Flaschenkopf ab.",
+        "Er nimmt die Flasche auseinander."
+      ],
+      [
+        "Warum wollen sie den Namen nachschlagen?",
+        "Sie sind sich noch nicht sicher.",
+        "Die Mappe ist zu klein.",
+        "Sie wollen einen Preis berechnen."
+      ]
+    ]
+  },
+  {
+    "id": "foto-kein-nachweis",
+    "level": "B1",
+    "title": [
+      "Das Licht könnte anders sein",
+      "ممكن الإضاءة تكون مختلفة"
+    ],
+    "lines": [
+      [
+        "Jonas",
+        "Ich habe geschrieben: Die Pflanze wächst am neuen Platz besser.",
+        "كتبت: النبتة بتنمو أحسن في المكان الجديد."
+      ],
+      [
+        "Amina",
+        "Woran erkennst du das nach einem Nachmittag?",
+        "عرفت ده من إيه بعد ضهر واحد؟"
+      ],
+      [
+        "Jonas",
+        "Auf meinem Foto wirken die Blätter heller.",
+        "في صورتي الورق باين أفتح."
+      ],
+      [
+        "Amina",
+        "Das Licht könnte anders sein. Beschreiben wir erst nur das Bild.",
+        "ممكن الإضاءة تكون مختلفة. نوصف الصورة بس الأول."
+      ],
+      [
+        "Jonas",
+        "Dann bleibt die Frage nach dem besseren Standort offen.",
+        "يبقى سؤال المكان الأفضل لسه مفتوح."
+      ],
+      [
+        "Amina",
+        "Genau. Und Leas Kelle legen wir wieder an ihren Platz.",
+        "بالظبط. وجاروف ليا نرجعه مكانه تاني."
+      ],
+      [
+        "Jonas",
+        "Vor einer weiteren Nutzung fragen wir sie.",
+        "قبل ما نستخدمه تاني نسألها."
+      ]
+    ],
+    "q": [
+      [
+        "Worauf stützt Jonas seine erste Aussage?",
+        "Auf heller wirkende Blätter im Foto.",
+        "Auf eine fachliche Untersuchung.",
+        "Auf Leas schriftliche Pflegeanleitung."
+      ],
+      [
+        "Was schlägt Amina vor?",
+        "Zunächst nur das Bild beschreiben.",
+        "Den Standort sofort als ideal bezeichnen.",
+        "Die Fotos als Beweis für alles benutzen."
+      ],
+      [
+        "Was tun sie vor einer weiteren Nutzung der Kelle?",
+        "Lea fragen.",
+        "Jonas entscheidet für Lea.",
+        "Die Kelle ohne Rückfrage verleihen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "kelle-aus-eimer": [
+    "Schau bitte in den Eimer unter der Bank.",
+    "Ich bringe dir den ganzen Eimer.",
+    "Die dritte Karte lassen wir aber leer."
+  ],
+  "werkzeug-ganz-zeigen": [
+    "Der untere Teil ja, aber der Kopf fehlt.",
+    "Dann gehe ich noch ein Stück zurück.",
+    "Wir sind uns noch nicht sicher."
+  ],
+  "foto-kein-nachweis": [
+    "Auf meinem Foto wirken die Blätter heller.",
+    "Beschreiben wir erst nur das Bild.",
+    "Vor einer weiteren Nutzung fragen wir sie."
+  ]
+});

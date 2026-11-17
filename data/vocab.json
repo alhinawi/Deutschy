@@ -311,6 +311,10 @@
   {
    "id": "flurablage",
    "ar": "حاجات لمدخل البيت"
+  },
+  {
+   "id": "gartenecke",
+   "ar": "حاجات لركن الجنينة"
   }
  ],
  "words": [
@@ -11231,6 +11235,36 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Wooden_wedge_door_stop.jpg",
     "author": "Strait",
     "license": "Public domain",
+    "padding": true
+   }
+  },
+  {
+   "id": "pflanzkelle",
+   "topic": "gartenecke",
+   "art": "die",
+   "de": "Pflanzkelle",
+   "plural": "Pflanzkellen",
+   "ar": "جاروف صغير للزرع",
+   "photo": {
+    "file": "Steel trowel.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Steel_trowel.jpg",
+    "author": "Qurren",
+    "license": "CC BY-SA 3.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "spruehflasche",
+   "topic": "gartenecke",
+   "art": "die",
+   "de": "Sprühflasche",
+   "plural": "Sprühflaschen",
+   "ar": "إزازة بخاخ",
+   "photo": {
+    "file": "Spruehflasche 02 (fcm).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Spruehflasche_02_(fcm).jpg",
+    "author": "Photograph:  Frank C. Müller, Frankfurt am Main",
+    "license": "CC BY-SA 4.0",
     "padding": true
    }
   }

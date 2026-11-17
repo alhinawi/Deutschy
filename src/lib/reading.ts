@@ -102,3 +102,6 @@ readings.push(...kuechenprepTexts);
 
 import {flurablageTexts} from './reading-flurablage';
 readings.push(...flurablageTexts);
+
+import {garteneckeTexts} from './reading-gartenecke';
+readings.push(...garteneckeTexts);

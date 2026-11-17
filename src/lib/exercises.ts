@@ -264,3 +264,6 @@ for(const[topic,rows]of Object.entries(kuechenprepGrammar))exercises[topic].push
 
 import {flurablageGrammar} from './exercises-flurablage';
 for(const[topic,rows]of Object.entries(flurablageGrammar))exercises[topic].push(...rows);
+
+import {garteneckeGrammar} from './exercises-gartenecke';
+for(const[topic,rows]of Object.entries(garteneckeGrammar))exercises[topic].push(...rows);
