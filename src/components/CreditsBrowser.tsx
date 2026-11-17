@@ -25,7 +25,7 @@ export default function CreditsBrowser() {
           <th scope="row" className="p-3 de text-left font-normal">{w.art} {w.de}</th>
           <td className="p-3"><a className="underline" href={w.photo.commons} target="_blank" rel="noreferrer">{w.photo.file}</a></td>
           <td className="p-3">{w.photo.author || '-'}</td>
-          <td className="p-3">{w.photo.license==='CC BY-SA 3.0'?<a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="noreferrer" className="underline">{w.photo.license}</a>:w.photo.license}{w.photo.model && <span className="block text-xs text-muted">Photo of a physical 3D-printed model.</span>}{w.photo.padding&&<span className="block text-xs text-muted">{t('اتضافت مساحة فاضية حوالين الصورة؛ الأصل في الرابط.','Neutral padding added; original linked.')}</span>}{'modified' in w.photo && <span className="block text-xs text-muted">Cropped; original linked.</span>}</td>
+          <td className="p-3">{w.photo.license==='CC BY 4.0'?<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank" rel="noreferrer" className="underline">{w.photo.license}</a>:w.photo.license==='CC BY-SA 3.0'?<a href="https://creativecommons.org/licenses/by-sa/3.0/" target="_blank" rel="noreferrer" className="underline">{w.photo.license}</a>:w.photo.license}{w.photo.model && <span className="block text-xs text-muted">Photo of a physical 3D-printed model.</span>}{w.photo.padding&&<span className="block text-xs text-muted">{t('اتضافت مساحة فاضية حوالين الصورة؛ الأصل في الرابط.','Neutral padding added; original linked.')}</span>}{'modified' in w.photo && <span className="block text-xs text-muted">Cropped; original linked.</span>}</td>
         </tr>)}</tbody>
       </table>
     </div>

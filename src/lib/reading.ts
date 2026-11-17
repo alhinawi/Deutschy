@@ -192,3 +192,6 @@ readings.push(...backablageTexts);
 
 import {dekorundeTexts} from './reading-dekorunde';
 readings.push(...dekorundeTexts);
+
+import {technikablageTexts} from './reading-technikablage';
+readings.push(...technikablageTexts);

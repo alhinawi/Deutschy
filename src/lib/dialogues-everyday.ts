@@ -9663,3 +9663,218 @@ Object.assign(dialogueEvidence,{
     "Für später habe ich noch nichts zugesagt."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "schachtel-statt-ladegeraet",
+    "level": "A1",
+    "title": [
+      "Ich suche die blaue Schachtel",
+      "بدور على العلبة الزرقا"
+    ],
+    "lines": [
+      [
+        "Alva",
+        "Suchst du dieses Ladegerät?",
+        "بتدور على الشاحن ده؟"
+      ],
+      [
+        "Tom",
+        "Nein, die blaue Schachtel mit den Batterien.",
+        "لأ، العلبة الزرقا اللي فيها البطاريات."
+      ],
+      [
+        "Alva",
+        "Die steht im Regal zwischen den Büchern.",
+        "هي على الرف بين الكتب."
+      ],
+      [
+        "Tom",
+        "Danke. Die Batterien bleiben darin.",
+        "شكرًا. البطاريات تفضل جواها."
+      ],
+      [
+        "Alva",
+        "Das Ladegerät nehme ich in meiner Tasche mit. Es gehört mir.",
+        "هاخد الشاحن معايا في شنطتي. هو بتاعي."
+      ],
+      [
+        "Tom",
+        "Dann ist der Tisch frei für mein Deutschheft.",
+        "كده المكتب فاضي لكراسة الألماني بتاعتي."
+      ],
+      [
+        "Alva",
+        "Du schreibst Sätze, und ich lese sie vor.",
+        "إنت تكتب جمل وأنا أقراها بصوت عالي."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Farbe hat die gesuchte Schachtel?",
+        "Blau.",
+        "Rot.",
+        "Gelb."
+      ],
+      [
+        "Was nimmt Alva mit?",
+        "Ihr Ladegerät.",
+        "Toms Heft.",
+        "Die blaue Schachtel."
+      ],
+      [
+        "Was liest Alva vor?",
+        "Toms Sätze.",
+        "Eine Rechnung.",
+        "Die Namen auf einer Tasche."
+      ]
+    ]
+  },
+  {
+    "id": "nur-ein-besitzername",
+    "level": "A2",
+    "title": [
+      "Mara ist mein Vorname",
+      "مارا ده اسمي"
+    ],
+    "lines": [
+      [
+        "Silas",
+        "Ist Mara auf dem Aufkleber ein Gerätetyp?",
+        "مارا اللي على الاستيكر ده نوع جهاز؟"
+      ],
+      [
+        "Mara",
+        "Nein, mein Vorname. Das Ladegerät gehört mir.",
+        "لأ، اسمي الأول. الشاحن بتاعي."
+      ],
+      [
+        "Silas",
+        "Dann sagt der Name nicht, für welche Geräte es geeignet ist.",
+        "يبقى الاسم مش بيقول مناسب لأنهي أجهزة."
+      ],
+      [
+        "Mara",
+        "Genau. Das haben wir nicht geprüft.",
+        "بالظبط. إحنا مافحصناش ده."
+      ],
+      [
+        "Silas",
+        "Bei der blauen Schachtel notiere ich nur den Ort und Bens Namen.",
+        "وبالنسبة للعلبة الزرقا هسجل مكانها واسم بن بس."
+      ],
+      [
+        "Mara",
+        "Den Inhalt kennt Ben besser. Frag ihn später selbst.",
+        "بن عارف اللي جواها أكتر. اسأله بنفسك بعدين."
+      ],
+      [
+        "Silas",
+        "Gut. Unsere Liste ordnet die Sachen nur den Besitzern zu.",
+        "تمام. القايمة بتاعتنا بتحدد الحاجات بتاعة مين بس."
+      ]
+    ],
+    "q": [
+      [
+        "Wem gehört das Ladegerät?",
+        "Mara.",
+        "Silas.",
+        "Ben."
+      ],
+      [
+        "Was wurde nicht geprüft?",
+        "Die Eignung für bestimmte Geräte.",
+        "Der Name Mara.",
+        "Die Farbe der Schachtel."
+      ],
+      [
+        "Wen soll Silas nach dem Inhalt fragen?",
+        "Ben.",
+        "Eine Verkäuferin.",
+        "Niemanden, er kennt ihn schon."
+      ]
+    ]
+  },
+  {
+    "id": "rueckgabe-frage-idee",
+    "level": "B1",
+    "title": [
+      "Drei verschiedene Einträge",
+      "تلات تسجيلات مختلفة"
+    ],
+    "lines": [
+      [
+        "Leon",
+        "Du hast das Ladegerät zurückgegeben. Ist also ein neues bestellt?",
+        "رجعتي الشاحن. يعني اتطلب واحد جديد؟"
+      ],
+      [
+        "Kira",
+        "Nein. Die Rückgabe ist erledigt, der Kauf nur eine ungeprüfte Idee.",
+        "لأ. الترجيع خلص والشراء فكرة لسه ماتراجعتش بس."
+      ],
+      [
+        "Leon",
+        "Und die Batterien auf derselben Liste?",
+        "والبطاريات اللي في نفس القايمة؟"
+      ],
+      [
+        "Kira",
+        "Ich frage Ove nur, ob die Schachtel noch bei ihm steht.",
+        "بسأل أوفه بس إذا كانت العلبة لسه عنده."
+      ],
+      [
+        "Ove",
+        "Ja, die Schachtel steht noch hier.",
+        "أيوه، العلبة لسه هنا."
+      ],
+      [
+        "Kira",
+        "Danke. Damit ist die Nachfrage beantwortet.",
+        "شكرًا. كده السؤال اتجاوب."
+      ],
+      [
+        "Leon",
+        "Und über einen Kauf ist damit weiterhin nichts entschieden.",
+        "وكده برضه لسه مفيش قرار عن شراء."
+      ]
+    ],
+    "q": [
+      [
+        "Was ist der Kauf am Anfang?",
+        "Nur eine ungeprüfte Idee.",
+        "Eine bezahlte Bestellung.",
+        "Eine abgeschlossene Rückgabe."
+      ],
+      [
+        "Was fragt Kira Ove?",
+        "Ob die Schachtel noch bei ihm steht.",
+        "Wie viele Batterien sie gekauft hat.",
+        "Wann er ein neues Gerät bestellt."
+      ],
+      [
+        "Was ist nach Oves Antwort erledigt?",
+        "Die Nachfrage.",
+        "Der Kauf.",
+        "Die technische Prüfung."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "schachtel-statt-ladegeraet": [
+    "die blaue Schachtel",
+    "Das Ladegerät nehme ich",
+    "ich lese sie vor."
+  ],
+  "nur-ein-besitzername": [
+    "Das Ladegerät gehört mir.",
+    "Das haben wir nicht geprüft.",
+    "Den Inhalt kennt Ben besser."
+  ],
+  "rueckgabe-frage-idee": [
+    "der Kauf nur eine ungeprüfte Idee.",
+    "ob die Schachtel noch bei ihm steht.",
+    "Damit ist die Nachfrage beantwortet."
+  ]
+});

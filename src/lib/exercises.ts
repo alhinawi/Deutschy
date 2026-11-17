@@ -354,3 +354,6 @@ for(const[topic,rows]of Object.entries(backablageGrammar))exercises[topic].push(
 
 import {dekorundeGrammar} from './exercises-dekorunde';
 for(const[topic,rows]of Object.entries(dekorundeGrammar))exercises[topic].push(...rows);
+
+import {technikablageGrammar} from './exercises-technikablage';
+for(const[topic,rows]of Object.entries(technikablageGrammar))exercises[topic].push(...rows);

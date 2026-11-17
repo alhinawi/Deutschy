@@ -135,4 +135,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-dekorunde',dialogue:'platz-links-neben-dem-rahmen'},
  {reading:'alltag-a2-ausdruck-im-rahmen',dialogue:'zwei-kopien-zwei-plaetze'},
  {reading:'alltag-b1-deko-auf-zeit',dialogue:'nur-der-leere-rahmen'},
+ {reading:'alltag-a1-technikablage',dialogue:'schachtel-statt-ladegeraet'},
+ {reading:'alltag-a2-name-kein-geraetetyp',dialogue:'nur-ein-besitzername'},
+ {reading:'alltag-b1-rueckgabe-ohne-ersatzkauf',dialogue:'rueckgabe-frage-idee'},
 ];

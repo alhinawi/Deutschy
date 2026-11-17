@@ -956,3 +956,24 @@ Object.assign(readingEvidence,{
     "Esma möchte Lotte deshalb erneut fragen"
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-technikablage": [
+    "Er sucht nicht das Ladegerät, sondern die Schachtel.",
+    "Dort steht eine blaue Schachtel zwischen zwei Büchern.",
+    "Das Ladegerät gehört Alva.",
+    "Er schreibt lieber kurze Beispielsätze."
+  ],
+  "alltag-a2-name-kein-geraetetyp": [
+    "Mara erklärt ihm, dass es ihr Vorname ist.",
+    "Mara weiß, dass die Schachtel mit den Batterien Ben gehört.",
+    "Silas notiert nur, wo die Schachtel steht und welchen Namen sie trägt.",
+    "Das haben die beiden in diesem Gespräch nicht geprüft."
+  ],
+  "alltag-b1-rueckgabe-ohne-ersatzkauf": [
+    "Die Rückgabe ist abgeschlossen",
+    "Dieser Eintrag betrifft nur eine offene Nachfrage bei Ove.",
+    "Ove bestätigt später, dass die Schachtel noch bei ihm steht.",
+    "Die Kaufidee lässt sie unverändert."
+  ]
+});

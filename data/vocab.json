@@ -431,6 +431,10 @@
   {
    "id": "dekorunde",
    "ar": "برواز وفازة"
+  },
+  {
+   "id": "technikablage",
+   "ar": "بطارية وشاحن"
   }
  ],
  "words": [
@@ -12272,6 +12276,36 @@
     "file": "vase.jpg",
     "commons": "https://www.pexels.com/photo/bouquet-of-flowers-in-glass-vase-set-on-small-wooden-table-17109130/",
     "author": "Matheus Bertelli",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "batterie",
+   "topic": "technikablage",
+   "art": "die",
+   "de": "Batterie",
+   "plural": "Batterien",
+   "ar": "بطارية",
+   "photo": {
+    "file": "red-full.jpg",
+    "commons": "https://sciencestockphotos.com/free/electrical/slides/unbranded_batteries.html",
+    "author": "ScienceStockPhotos.com",
+    "license": "CC BY 4.0",
+    "modified": true
+   }
+  },
+  {
+   "id": "ladegeraet",
+   "topic": "technikablage",
+   "art": "das",
+   "de": "Ladegerät",
+   "plural": "Ladegeräte",
+   "ar": "شاحن",
+   "photo": {
+    "file": "charger3.jpg",
+    "commons": "https://www.pexels.com/photo/a-white-adapter-on-a-marble-surface-3921700/",
+    "author": "Pexels contributor (name not listed)",
     "license": "Pexels License",
     "modified": true
    }

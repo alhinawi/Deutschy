@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the sixty-third practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the sixty-fourth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -574,6 +574,18 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Spelling game | Input now references existing AR/EN help via described-by and carries done keyboard hint. Check noun-only instruction, case/trim handling, umlaut requirement, correction and unchanged scoring. |
 | [ ] | Listening/dictation | Check all 60 segments and Egyptian Arabic. Native and actual German device voice pending. Fictional loan scope, not real permission, installation advice or legal rule. |
 
+### List 64: battery, charger and different kinds of entries
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-technikablage/` and `schachtel-statt-ladegeraet` | Tom seeks blue battery box, not Alva's charger. Box between books then lower shelf, contents stay inside. Alva takes charger, Tom writes examples, she reads them aloud. All 7 questions/evidence and Egyptian Arabic. |
+| [ ] | `/reading/alltag-a2-name-kein-geraetetyp/` and `nur-ein-besitzername` | Mara is owner's name, not device type or compatibility claim. Ben owns box, contents/completeness not known. Record location/name only, ask Ben, no usage permission or technical test. |
+| [ ] | `/reading/alltag-b1-rueckgabe-ohne-ersatzkauf/` and `rueckgabe-frage-idee` | Charger returned, purchase idea unapproved, battery box only location question. Ove confirms box at his place. Question completed, idea still open. No order or device test. |
+| [ ] | `/lessons/technikablage/` | die Batterie / Batterien, das Ladegerät / Ladegeräte. Whole unbranded upright red batteries and whole white charging adapter, no face/logo/padding. Photo does not establish compatibility or charging instructions. |
+| [ ] | `exercises-technikablage.ts` | 24 append-only article/genus, dative, present, separable, two-way/dative-preposition and negation rows; earlier saved identities unchanged. |
+| [ ] | Spelling and photo credits | Autocorrect off without grading change. CC BY4.0 credit links license plus source/author/crop status. Charger creator not supplied by source, explicitly recorded rather than inferred. |
+| [ ] | Listening/dictation | Check all 62 segments and Egyptian Arabic. Actual device German voice/native review pending. No voltage, battery chemistry, connection, charging, repair or electrical-safety directions. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -588,7 +600,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **783 photo nouns / 108 topics**, **207 reading texts / 781 reading questions**, **41 core grammar topics / 1462 core grammar questions**, **147 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **785 photo nouns / 109 topics**, **210 reading texts / 793 reading questions**, **41 core grammar topics / 1486 core grammar questions**, **150 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -600,7 +612,7 @@ This is an inventory, not completed review. Snapshot: **783 photo nouns / 108 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 51 · A2 79 · B1 47 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 52 · A2 80 · B1 48 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
