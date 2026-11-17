@@ -525,3 +525,6 @@ for(const[topic,rows]of Object.entries(kleidermusterGrammar))exercises[topic].pu
 
 import {kleinebilderGrammar} from './exercises-kleinebilder';
 for(const[topic,rows]of Object.entries(kleinebilderGrammar))exercises[topic].push(...rows);
+
+import {freizeitformenGrammar} from './exercises-freizeitformen';
+for(const[topic,rows]of Object.entries(freizeitformenGrammar))exercises[topic].push(...rows);

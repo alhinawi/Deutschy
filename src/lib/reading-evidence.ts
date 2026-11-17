@@ -2153,3 +2153,24 @@ Object.assign(readingEvidence,{
     "einem eindeutigen Auftrag für zwei Bildkarten"
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-ball-und-ring-auf-zwei-fotos": [
+    "Auf dem ersten Bild liegt ein Basketball auf grauem Boden.",
+    "Durch das Loch sieht man ebenfalls Wasser.",
+    "Mara erkennt gelbe Bananen, rote Erdbeeren und rosa Melonenstücke.",
+    "Anschließend tauschen sie die Rollen."
+  ],
+  "alltag-a2-basketball-sport-oder-gegenstand": [
+    "der zweite einen einzelnen Gegenstand.",
+    "\"der Basketball\", \"die Basketbälle\".",
+    "am Ende kommt e dazu.",
+    "Nora und Emil tragen dafür auch keine Werte ein."
+  ],
+  "alltag-b1-fruchtmuster-ist-keine-zusatzlieferung": [
+    "Die Früchte gehören zum aufgedruckten Muster.",
+    "Aus einem Fruchtmotiv folgt nicht, dass der Gegenstand echte Früchte enthält",
+    "Die relative Lage wird im Entwurf also vertauscht.",
+    "ohne daraus eine genaue Uhrzeit abzuleiten."
+  ]
+});

@@ -21918,3 +21918,218 @@ Object.assign(dialogueEvidence,{
     "Wir schreiben auch die Handlung und unsere Namen dazu."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "ball-ohne-loch-ring-mit-loch",
+    "level": "A1",
+    "title": [
+      "Die Öffnung in der Mitte",
+      "الفتحة اللي في النص"
+    ],
+    "lines": [
+      [
+        "Mara",
+        "Welches Bild gehört zu \"der Basketball\"?",
+        "أنهي صورة تخص دير باسكتبال؟"
+      ],
+      [
+        "Sami",
+        "Das erste. Der orangebraune Ball liegt auf grauem Boden.",
+        "الأولى. الكورة البرتقاني البني على أرض رمادي."
+      ],
+      [
+        "Mara",
+        "Und woran erkennst du den Schwimmring?",
+        "وبتتعرف على العوامة الدائرية من إيه؟"
+      ],
+      [
+        "Sami",
+        "Er hat eine große Öffnung in der Mitte.",
+        "فيها فتحة كبيرة في النص."
+      ],
+      [
+        "Mara",
+        "Was ist auf der weißen Fläche zu sehen?",
+        "إيه اللي باين على السطح الأبيض؟"
+      ],
+      [
+        "Sami",
+        "Bunte Früchte, blaue Blätter und schwarze Punkte.",
+        "فواكه ملونة وورق أزرق ونقط سودا."
+      ],
+      [
+        "Mara",
+        "Jetzt decke ich die Wörter ab, und wir tauschen die Rollen.",
+        "دلوقتي هغطي الكلمات ونبدل الأدوار."
+      ]
+    ],
+    "q": [
+      [
+        "Wo liegt der Ball?",
+        "Auf grauem Boden.",
+        "Auf Wasser.",
+        "Im Schrank."
+      ],
+      [
+        "Was hat der Schwimmring in der Mitte?",
+        "Eine große Öffnung.",
+        "Einen Griff.",
+        "Einen Spiegel."
+      ],
+      [
+        "Was deckt Mara ab?",
+        "Die Wörter.",
+        "Das Wasser.",
+        "Einen Preis."
+      ]
+    ]
+  },
+  {
+    "id": "sportwort-und-bildwort",
+    "level": "A2",
+    "title": [
+      "Meinst du die Sportart?",
+      "تقصد الرياضة؟"
+    ],
+    "lines": [
+      [
+        "Emil",
+        "Beim Wort Basketball denke ich zuerst an die Sportart.",
+        "أول ما بسمع باسكتبال بفكر في الرياضة."
+      ],
+      [
+        "Nora",
+        "Auf unserer neuen Fotokarte ist aber der einzelne Ball gemeint.",
+        "بس على كارت صورتنا الجديد المقصود الكورة الواحدة."
+      ],
+      [
+        "Emil",
+        "Dann notiere ich \"der Basketball\" und \"die Basketbälle\".",
+        "يبقى أكتب دير باسكتبال ودي باسكتبيله."
+      ],
+      [
+        "Nora",
+        "Genau. Beim Schwimmring lautet die Mehrzahl Schwimmringe.",
+        "بالظبط. جمع شفيمرينج شفيمرينجه."
+      ],
+      [
+        "Emil",
+        "Ich achte auch auf die beiden m in Schwimmring.",
+        "هاخد بالي كمان من حرفين إم في شفيمرينج."
+      ],
+      [
+        "Nora",
+        "Die Sportverwendung legen wir als Vergleich daneben.",
+        "استخدام الرياضة نحطه جنبهم للمقارنة."
+      ],
+      [
+        "Emil",
+        "So bleibt klar, welche Bedeutung wir gerade üben.",
+        "كده يفضل واضح أنهي معنى بنتدرب عليه دلوقتي."
+      ]
+    ],
+    "q": [
+      [
+        "Was ist auf der neuen Fotokarte gemeint?",
+        "Der einzelne Ball.",
+        "Eine Mannschaft.",
+        "Ein Termin."
+      ],
+      [
+        "Welche Mehrzahl nennt Emil?",
+        "Basketbälle.",
+        "Basketballs.",
+        "Basketballen."
+      ],
+      [
+        "Worauf achtet Emil bei Schwimmring?",
+        "Auf die beiden m.",
+        "Auf ein ä.",
+        "Auf einen Bindestrich."
+      ]
+    ]
+  },
+  {
+    "id": "motiv-und-lage-klar-benennen",
+    "level": "B1",
+    "title": [
+      "Aufgedruckt oder dabei?",
+      "مرسوم ولا موجود معاه؟"
+    ],
+    "lines": [
+      [
+        "Liv",
+        "Der Satz mit Bananen und Erdbeeren ist mir zu ungenau.",
+        "الجملة اللي فيها موز وفراولة مش دقيقة كفاية بالنسبالي."
+      ],
+      [
+        "Adam",
+        "Du meinst, dass echte Früchte erwartet werden könnten?",
+        "تقصد إن ممكن حد يتوقع فواكه حقيقية؟"
+      ],
+      [
+        "Liv",
+        "Ja. Wir schreiben ausdrücklich, dass die Motive aufgedruckt sind.",
+        "أيوه. نكتب بوضوح إن الرسومات مطبوعة."
+      ],
+      [
+        "Adam",
+        "Beim Balltext stimmt außerdem die Lage zur Linie nicht.",
+        "في نص الكورة كمان الموقع بالنسبة للخط مش صح."
+      ],
+      [
+        "Liv",
+        "Die Linie verläuft links neben dem Ball, nicht umgekehrt.",
+        "الخط ماشي شمال الكورة مش العكس."
+      ],
+      [
+        "Adam",
+        "Dann korrigieren wir diese Beziehung aus der Bildperspektive.",
+        "يبقى نصحح العلاقة دي من منظور الصورة."
+      ],
+      [
+        "Liv",
+        "Und wir ergänzen keine ungeprüften Produkteigenschaften.",
+        "ومانزودش صفات منتج ماتراجعتش."
+      ]
+    ],
+    "q": [
+      [
+        "Was soll ausdrücklich im Ringtext stehen?",
+        "Dass die Motive aufgedruckt sind.",
+        "Dass echte Früchte geliefert werden.",
+        "Dass ein Kauf bezahlt ist."
+      ],
+      [
+        "Wo verläuft die weiße Linie?",
+        "Links neben dem Ball.",
+        "Im Loch des Rings.",
+        "Auf einer Tafel."
+      ],
+      [
+        "Was ergänzen sie nicht?",
+        "Ungeprüfte Produkteigenschaften.",
+        "Eine sprachliche Korrektur.",
+        "Die Bildperspektive."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "ball-ohne-loch-ring-mit-loch": [
+    "Der orangebraune Ball liegt auf grauem Boden.",
+    "Er hat eine große Öffnung in der Mitte.",
+    "Jetzt decke ich die Wörter ab, und wir tauschen die Rollen."
+  ],
+  "sportwort-und-bildwort": [
+    "Auf unserer neuen Fotokarte ist aber der einzelne Ball gemeint.",
+    "Dann notiere ich \"der Basketball\" und \"die Basketbälle\".",
+    "Ich achte auch auf die beiden m in Schwimmring."
+  ],
+  "motiv-und-lage-klar-benennen": [
+    "Wir schreiben ausdrücklich, dass die Motive aufgedruckt sind.",
+    "Die Linie verläuft links neben dem Ball, nicht umgekehrt.",
+    "Und wir ergänzen keine ungeprüften Produkteigenschaften."
+  ]
+});

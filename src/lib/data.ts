@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  freizeitformen: 'Basketball und Schwimmring',
   kleinebilder: 'Korken und Streichhölzer',
   kleidermuster: 'Krawatte und Fäustling',
   gebaeckkarten: 'Muffin und Donut',
@@ -162,6 +163,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  freizeitformen: 'Basketball and swim ring',
   kleinebilder: 'Cork and matches',
   kleidermuster: 'Necktie and mitten',
   gebaeckkarten: 'Muffin and doughnut',
