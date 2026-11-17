@@ -599,6 +599,10 @@
   {
    "id": "gartenbilder",
    "ar": "مقص وجاروف الجنينة"
+  },
+  {
+   "id": "naturbeobachtung",
+   "ar": "صندوق التعشيش وبيت الحشرات"
   }
  ],
  "words": [
@@ -13700,6 +13704,36 @@
     "file": "5397724.jpg",
     "commons": "https://www.pexels.com/photo/silver-and-brown-handle-hand-tool-5397724/",
     "author": "gryffyn m",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "nistkasten",
+   "topic": "naturbeobachtung",
+   "art": "der",
+   "de": "Nistkasten",
+   "plural": "Nistkästen",
+   "ar": "صندوق تعشيش للعصافير",
+   "photo": {
+    "file": "15822413.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-of-wooden-birdhouse-15822413/",
+    "author": "Chris F",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "insektenhotel",
+   "topic": "naturbeobachtung",
+   "art": "das",
+   "de": "Insektenhotel",
+   "plural": "Insektenhotels",
+   "ar": "بيت للحشرات",
+   "photo": {
+    "file": "38763461.jpg",
+    "commons": "https://www.pexels.com/photo/wooden-insect-hotel-in-sunlit-forest-38763461/",
+    "author": "Magda Ehlers",
     "license": "Pexels License",
     "modified": true
    }

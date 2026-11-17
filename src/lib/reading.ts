@@ -318,3 +318,6 @@ readings.push(...sportdetailsTexts);
 
 import {gartenbilderTexts} from './reading-gartenbilder';
 readings.push(...gartenbilderTexts);
+
+import {naturbeobachtungTexts} from './reading-naturbeobachtung';
+readings.push(...naturbeobachtungTexts);

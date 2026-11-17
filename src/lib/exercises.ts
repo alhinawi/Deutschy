@@ -480,3 +480,6 @@ for(const[topic,rows]of Object.entries(sportdetailsGrammar))exercises[topic].pus
 
 import {gartenbilderGrammar} from './exercises-gartenbilder';
 for(const[topic,rows]of Object.entries(gartenbilderGrammar))exercises[topic].push(...rows);
+
+import {naturbeobachtungGrammar} from './exercises-naturbeobachtung';
+for(const[topic,rows]of Object.entries(naturbeobachtungGrammar))exercises[topic].push(...rows);
