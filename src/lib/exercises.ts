@@ -246,3 +246,6 @@ for(const [key,rows]of Object.entries(tablewareGrammar))exercises[key]=[...(exer
 
 import {readingcornerGrammar} from './exercises-readingcorner';
 for(const [topic,rows]of Object.entries(readingcornerGrammar))exercises[topic].push(...rows);
+
+import {handarbeitGrammar} from './exercises-handarbeit';
+for(const [topic,rows]of Object.entries(handarbeitGrammar))exercises[topic].push(...rows);

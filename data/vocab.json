@@ -287,6 +287,10 @@
   {
    "id": "lesehelfer",
    "ar": "أدوات للقراية والورق"
+  },
+  {
+   "id": "handarbeit",
+   "ar": "أدوات أشغال يدوية"
   }
  ],
  "words": [
@@ -10981,6 +10985,55 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Glass_paperweight_with_a_blue_stylized_flower.jpg",
     "author": "W.carter",
     "license": "CC BY-SA 4.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "stricknadel",
+   "topic": "handarbeit",
+   "art": "die",
+   "de": "Stricknadel",
+   "plural": "Stricknadeln",
+   "ar": "إبرة تريكو",
+   "photo": {
+    "file": "Double pointed knitting needles.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Double_pointed_knitting_needles.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Double_pointed_knitting_needles.JPG",
+    "author": "Pschemp",
+    "license": "CC BY-SA 3.0",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "haekelnadel",
+   "topic": "handarbeit",
+   "art": "die",
+   "de": "Häkelnadel",
+   "plural": "Häkelnadeln",
+   "ar": "إبرة كروشيه",
+   "photo": {
+    "file": "Häkelnadel-01.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:H%C3%A4kelnadel-01.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:H%C3%A4kelnadel-01.jpg",
+    "author": "Priwo",
+    "license": "Public domain",
+    "padding": true
+   }
+  },
+  {
+   "id": "stickrahmen",
+   "topic": "handarbeit",
+   "art": "der",
+   "de": "Stickrahmen",
+   "plural": "-",
+   "ar": "طارة تطريز",
+   "photo": {
+    "file": "Cercle de borderie bois.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Cercle_de_borderie_bois.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Cercle_de_borderie_bois.jpg",
+    "author": "Clément Bucco-Lechat",
+    "license": "CC BY-SA 3.0",
     "padding": true
    }
   }

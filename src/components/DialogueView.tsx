@@ -19,7 +19,7 @@ export default function DialogueView({ conversation = false }: { conversation?: 
   const [open, setOpen] = useState<Dialogue | null>(null);
   const [lv, setLv] = useState('all');
   useEffect(()=>{const sync=()=>{const d=dialogues.find(d=>d.id===location.hash.slice(1));if(d&&(!conversation||['A1','A2'].includes(d.level)))setOpen(d)};sync();window.addEventListener('hashchange',sync);return()=>window.removeEventListener('hashchange',sync)},[conversation]);
-  if (open) return <One d={open} back={() => {history.replaceState(null,'',location.pathname);setOpen(null)}} />;
+  if (open) return <One key={open.id} d={open} back={() => {history.replaceState(null,'',location.pathname);setOpen(null)}} />;
   return (
     <div className="space-y-6">
       <h1 className="ar-title text-4xl font-bold">{conversation ? t('تدريب محادثة A1 و A2', 'A1 and A2 conversation practice') : t('حوارات', 'Dialogues')}</h1>
