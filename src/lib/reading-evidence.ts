@@ -1061,3 +1061,24 @@ Object.assign(readingEvidence,{
     "Diese Rückmeldung betrifft die Verständlichkeit des Hefts."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-tischmitte": [
+    "Neben der Vase steht auch eine Pfeffermühle.",
+    "Auf die Rückseite schreibt er die Bedeutung in seiner Sprache.",
+    "Bei Pfeffermühle braucht er noch Hilfe.",
+    "Sie üben nur die Namen."
+  ],
+  "alltag-a2-bitte-genauer-sagen": [
+    "möchte Elif den Salzstreuer als Beispiel für ein Wort verwenden.",
+    "nennt sie nun den Gegenstand beim Namen.",
+    "Aus Mats Blickrichtung lag die Schachtel näher an Elifs Hand.",
+    "Sie probieren diesen Satz aber noch nicht als neue Aufgabe aus."
+  ],
+  "alltag-b1-ein-hinweis-keine-gesamtbewertung": [
+    "Bei Pfeffermühle bittet sie um den Wortanfang.",
+    "Ein Wort wurde ohne Hilfe genannt, das andere erst nach einem Hinweis.",
+    "Der Hinweis wird nicht verschwiegen, aber auch nicht als Scheitern bewertet.",
+    "wann sie das machen, vereinbaren sie aber noch nicht."
+  ]
+});

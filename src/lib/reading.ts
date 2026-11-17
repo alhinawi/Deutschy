@@ -207,3 +207,6 @@ readings.push(...musikzimmerTexts);
 
 import {messtischTexts} from './reading-messtisch';
 readings.push(...messtischTexts);
+
+import {tischmitteTexts} from './reading-tischmitte';
+readings.push(...tischmitteTexts);

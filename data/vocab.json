@@ -451,6 +451,10 @@
   {
    "id": "messtisch",
    "ar": "ميزان ميه وقدمة ذات ورنية"
+  },
+  {
+   "id": "tischmitte",
+   "ar": "ملاحة ومطحنة فلفل"
   }
  ],
  "words": [
@@ -12442,6 +12446,36 @@
     "file": "7166998.jpg",
     "commons": "https://www.pexels.com/photo/high-angle-shot-of-person-measuring-an-object-7166998/",
     "author": "Antoni Shkraba",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "salzstreuer",
+   "topic": "tischmitte",
+   "art": "der",
+   "de": "Salzstreuer",
+   "plural": "-",
+   "ar": "ملاحة",
+   "photo": {
+    "file": "18403537.jpg",
+    "commons": "https://www.pexels.com/photo/vintage-crystal-salt-shakers-18403537/",
+    "author": "tomris",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "pfeffermuehle",
+   "topic": "tischmitte",
+   "art": "die",
+   "de": "Pfeffermühle",
+   "plural": "Pfeffermühlen",
+   "ar": "مطحنة فلفل",
+   "photo": {
+    "file": "11571275.jpg",
+    "commons": "https://www.pexels.com/zh-cn/photo/11571275/",
+    "author": "Creator not supplied by source",
     "license": "Pexels License",
     "modified": true
    }

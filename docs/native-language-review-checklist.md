@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the sixty-eighth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the sixty-ninth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -634,6 +634,18 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Spelling | Required-field semantics exposed to browser/accessibility tree. Empty answers still earn no points, existing trim/case/feedback and duplicate lock unchanged. |
 | [ ] | Listening/dictation | Check all source segments and Egyptian Arabic. Actual German device voice/native review pending. No measuring procedure, technical accuracy claim, construction/installation or tool-safety guidance. |
 
+### List 69: salt shaker, pepper mill and specific feedback
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-tischmitte/` and linked dialogue | Sami writes meaning on reverse. Salzstreuer recalled unaided, Pfeffermühle needs word beginning. Only names practiced, no food consumed or objects used. Check Egyptian Arabic ملاحة and all question evidence. |
+| [ ] | `/reading/alltag-a2-bitte-genauer-sagen/` and linked dialogue | Imprecise small thing request first suggests box to Mats. Elif names salt shaker instead of blaming. Mill-left-of-vase description remains hypothetical, no new trial yet. |
+| [ ] | `/reading/alltag-b1-ein-hinweis-keine-gesamtbewertung/` and linked dialogue | General mastery claim replaced by two specific answers, hint included without calling it failure. Later conversation practice proposed, not done or scheduled. No grade or language-level claim. |
+| [ ] | `/lessons/tischmitte/` and `/credits/` | der Salzstreuer/same plural (-), die Pfeffermühle/Pfeffermühlen. Two whole crystal shakers; whole wooden pepper mill beside salt shaker. No logos, faces, added bars or artwork in final crops. Mill-photo creator not supplied in retrieved source, explicitly unlisted. |
+| [ ] | Six appended grammar banks | 24 appended rows, previous saved identities unchanged. Check case forms, separable verbs and Egyptian Arabic explanations. |
+| [ ] | Spelling | Answer field has explicit form name. Existing required/invalid/help semantics, grade/points, trim/case and duplicate lock unchanged. |
+| [ ] | Listening/dictation | Check 63 segments and Egyptian Arabic. Native and actual German device voice pending. No food handling, seasoning quantity, nutrition, health or equipment-use advice. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -648,7 +660,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **793 photo nouns / 113 topics**, **222 reading texts / 841 reading questions**, **41 core grammar topics / 1582 core grammar questions**, **162 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **795 photo nouns / 114 topics**, **225 reading texts / 853 reading questions**, **41 core grammar topics / 1606 core grammar questions**, **165 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -660,7 +672,7 @@ This is an inventory, not completed review. Snapshot: **793 photo nouns / 113 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 56 · A2 84 · B1 52 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 57 · A2 85 · B1 53 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

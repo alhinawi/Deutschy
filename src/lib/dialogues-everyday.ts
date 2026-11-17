@@ -10738,3 +10738,218 @@ Object.assign(dialogueEvidence,{
     "ob jemand die beiden Gegenstände unterscheiden kann."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "wort-auf-der-rueckseite",
+    "level": "A1",
+    "title": [
+      "Erst sagen, dann umdrehen",
+      "قول الأول وبعدين اقلب"
+    ],
+    "lines": [
+      [
+        "Sami",
+        "Wie heißt der Gegenstand neben der Vase?",
+        "اسم الحاجة اللي جنب الفازة إيه؟"
+      ],
+      [
+        "Nele",
+        "Pfeffermühle. Schreib das Wort auf die Karte.",
+        "مطحنة فلفل. اكتب الكلمة على الكارت."
+      ],
+      [
+        "Sami",
+        "Die Bedeutung kommt auf die Rückseite.",
+        "المعنى ييجي على الضهر."
+      ],
+      [
+        "Nele",
+        "Genau. Und auf diese Karte schreibe ich Salzstreuer.",
+        "بالظبط. وعلى الكارت ده هكتب ملاحة."
+      ],
+      [
+        "Sami",
+        "Dieses Wort kenne ich schon.",
+        "الكلمة دي عارفها من قبل."
+      ],
+      [
+        "Nele",
+        "Sag die Wörter zuerst. Danach drehst du die Karten um.",
+        "قول الكلمات الأول. بعد كده اقلب الكروت."
+      ],
+      [
+        "Sami",
+        "Bei Pfeffermühle brauche ich noch den Anfang als Hilfe.",
+        "مع مطحنة الفلفل لسه محتاج أول الكلمة كمساعدة."
+      ]
+    ],
+    "q": [
+      [
+        "Wohin schreibt Sami die Bedeutung?",
+        "Auf die Rückseite.",
+        "Auf den Tisch.",
+        "Unter die Vase."
+      ],
+      [
+        "Welches Wort kennt Sami schon?",
+        "Salzstreuer.",
+        "Pfeffermühle.",
+        "Beide, ohne Hilfe."
+      ],
+      [
+        "Wann soll er die Karten umdrehen?",
+        "Nachdem er die Wörter gesagt hat.",
+        "Bevor er ein Wort sagt.",
+        "Er soll sie wegwerfen."
+      ]
+    ]
+  },
+  {
+    "id": "nicht-nur-das-kleine-ding",
+    "level": "A2",
+    "title": [
+      "Welchen Gegenstand meinst du?",
+      "تقصد أنهي حاجة؟"
+    ],
+    "lines": [
+      [
+        "Elif",
+        "Gibst du mir bitte das kleine Ding dort?",
+        "ممكن تديني الحاجة الصغيرة هناك؟"
+      ],
+      [
+        "Mats",
+        "Meinst du diese Schachtel?",
+        "تقصدي العلبة دي؟"
+      ],
+      [
+        "Elif",
+        "Nein, ich meine den Salzstreuer. Meine Beschreibung war ungenau.",
+        "لأ، أقصد الملاحة. وصفي ماكانش دقيق."
+      ],
+      [
+        "Mats",
+        "Hier, bitte. Von hier aus lag die Schachtel näher an deiner Hand.",
+        "اتفضلي. من هنا العلبة كانت أقرب لإيدك."
+      ],
+      [
+        "Elif",
+        "Nächstes Mal nenne ich das Wort oder beschreibe den Platz genauer.",
+        "المرة الجاية أقول الكلمة أو أوصف المكان بدقة أكتر."
+      ],
+      [
+        "Mats",
+        "Zum Beispiel die Pfeffermühle links neben der Vase.",
+        "مثلًا مطحنة الفلفل اللي شمال الفازة."
+      ],
+      [
+        "Elif",
+        "Ja. Jetzt setzen wir erst unser Wortspiel fort.",
+        "أيوه. دلوقتي نكمل لعبة الكلمات الأول."
+      ]
+    ],
+    "q": [
+      [
+        "Was bietet Mats zuerst an?",
+        "Die Schachtel.",
+        "Die Vase.",
+        "Den Stuhl."
+      ],
+      [
+        "Wie beschreibt Elif ihre erste Bitte?",
+        "Als ungenau.",
+        "Als völlig eindeutig.",
+        "Als schon erledigte neue Aufgabe."
+      ],
+      [
+        "Was machen sie jetzt?",
+        "Sie setzen das Wortspiel fort.",
+        "Sie bestellen neue Gegenstände.",
+        "Sie schreiben eine allgemeine Regel für alle Gäste."
+      ]
+    ]
+  },
+  {
+    "id": "mit-hinweis-ist-auch-eine-information",
+    "level": "B1",
+    "title": [
+      "Schreib den Hinweis dazu",
+      "اكتبي التلميح كمان"
+    ],
+    "lines": [
+      [
+        "Anja",
+        "Ich habe geschrieben, dass du die Wörter sicher beherrschst.",
+        "أنا كتبت إنك متمكنة من الكلمات بثقة."
+      ],
+      [
+        "Rika",
+        "Beim Salzstreuer brauchte ich keine Hilfe. Bei Pfeffermühle schon.",
+        "مع الملاحة ماحتجتش مساعدة. مع مطحنة الفلفل احتجت."
+      ],
+      [
+        "Tarek",
+        "Dann beschreiben wir beide Antworten getrennt.",
+        "يبقى نوصف الإجابتين كل واحدة لوحدها."
+      ],
+      [
+        "Anja",
+        "Ich schreibe den Hinweis dazu, ohne ihn als Scheitern zu bewerten.",
+        "هكتب التلميح كمان، من غير ما أعتبره فشل."
+      ],
+      [
+        "Rika",
+        "Das beschreibt die Runde genauer als ein allgemeines Lob.",
+        "ده بيوصف الجولة أدق من مدح عام."
+      ],
+      [
+        "Tarek",
+        "Später könnten wir die Wörter in einem Gespräch verwenden.",
+        "بعدين ممكن نستخدم الكلمات في حوار."
+      ],
+      [
+        "Anja",
+        "Wann, bleibt noch offen. Die zweite Übung hat noch nicht stattgefunden.",
+        "إمتى، لسه مفتوح. التدريب التاني لسه ماحصلش."
+      ]
+    ],
+    "q": [
+      [
+        "Welches Wort nennt Rika ohne Hilfe?",
+        "Salzstreuer.",
+        "Pfeffermühle.",
+        "Keines."
+      ],
+      [
+        "Was ergänzt Anja in der Notiz?",
+        "Dass ein Hinweis gegeben wurde.",
+        "Eine allgemeine Sprachnote.",
+        "Eine erfundene zweite Runde."
+      ],
+      [
+        "Hat die spätere Gesprächsübung schon stattgefunden?",
+        "Nein.",
+        "Ja, vor der ersten Runde.",
+        "Ja, direkt nach dem Hinweis."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "wort-auf-der-rueckseite": [
+    "Die Bedeutung kommt auf die Rückseite.",
+    "Dieses Wort kenne ich schon.",
+    "Sag die Wörter zuerst. Danach drehst du die Karten um."
+  ],
+  "nicht-nur-das-kleine-ding": [
+    "Meinst du diese Schachtel?",
+    "Meine Beschreibung war ungenau.",
+    "Jetzt setzen wir erst unser Wortspiel fort."
+  ],
+  "mit-hinweis-ist-auch-eine-information": [
+    "Beim Salzstreuer brauchte ich keine Hilfe.",
+    "Ich schreibe den Hinweis dazu",
+    "Die zweite Übung hat noch nicht stattgefunden."
+  ]
+});

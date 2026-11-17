@@ -150,4 +150,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-messtisch',dialogue:'wie-heisst-das-auf-dem-tuch'},
  {reading:'alltag-a2-etiketten-vergleichen',dialogue:'zwei-vertauschte-namen'},
  {reading:'alltag-b1-fotobeschreibung-mit-grenze',dialogue:'das-foto-ist-kein-pruefbericht'},
+ {reading:'alltag-a1-tischmitte',dialogue:'wort-auf-der-rueckseite'},
+ {reading:'alltag-a2-bitte-genauer-sagen',dialogue:'nicht-nur-das-kleine-ding'},
+ {reading:'alltag-b1-ein-hinweis-keine-gesamtbewertung',dialogue:'mit-hinweis-ist-auch-eine-information'},
 ];
