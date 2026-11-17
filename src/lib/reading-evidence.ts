@@ -1964,3 +1964,24 @@ Object.assign(readingEvidence,{
     "Die beiden geben keine Kaufempfehlung"
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-schoepfkelle-und-nagelfeile": [
+    "Ihr langer Stiel kommt von links oben ins Bild.",
+    "Eine Hand mit einem schwarzen Handschuh hält die Schale dahinter.",
+    "Das rechte Ende ist rosa und rund",
+    "Die Wörter stehen nur für die Sprachübung zusammen auf einer Seite."
+  ],
+  "alltag-a2-zwei-feminine-woerter": [
+    "Zu Schöpfkelle kommt ein n hinzu, genauso wie zu Nagelfeile.",
+    "das ganze Wort und den sichtbaren Gegenstand, nicht nur die Endung.",
+    "Diese Sätze üben die Mehrzahl und zählen nicht die Gegenstände auf den Fotos.",
+    "ohne aus der gemeinsamen Grammatik eine gemeinsame Verwendung zu machen."
+  ],
+  "alltag-b1-bildtext-ohne-nebenbehauptung": [
+    "Ein Handschuh allein ersetzt keinen entsprechenden Nachweis.",
+    "ohne daraus ein Rezept oder eine verlässliche Auskunft über Bestandteile zu machen.",
+    "Eine ordentliche Aufnahme zeigt weder, ob ein Gegenstand bereits benutzt wurde",
+    "Ihre Nachbarschaft auf dem Lernblatt stellt keine Verbindung zwischen Essen und Körperpflege her."
+  ]
+});

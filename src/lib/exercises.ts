@@ -498,3 +498,6 @@ for(const[topic,rows]of Object.entries(naturmusterGrammar))exercises[topic].push
 
 import {stiftundklammerGrammar} from './exercises-stiftundklammer';
 for(const[topic,rows]of Object.entries(stiftundklammerGrammar))exercises[topic].push(...rows);
+
+import {alltagsformenGrammar} from './exercises-alltagsformen';
+for(const[topic,rows]of Object.entries(alltagsformenGrammar))exercises[topic].push(...rows);

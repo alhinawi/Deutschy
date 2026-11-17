@@ -19983,3 +19983,218 @@ Object.assign(dialogueEvidence,{
     "weder Deckkraft noch Kompatibilität."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "welches-bild-hat-eine-schale",
+    "level": "A1",
+    "title": [
+      "Welches Bild hat eine Schale?",
+      "أنهي صورة فيها طبق؟"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Wo siehst du die Schöpfkelle?",
+        "شايف المغرفة فين؟"
+      ],
+      [
+        "Karim",
+        "Vor der Schale. Ihr Stiel kommt von links oben.",
+        "قدام الطبق. إيدها جاية من فوق شمال."
+      ],
+      [
+        "Lea",
+        "Und wie erkennst du die Nagelfeile?",
+        "وبتعرف مبرد الضوافر إزاي؟"
+      ],
+      [
+        "Karim",
+        "Sie ist lang und schmal und hat rechts ein rosa Ende.",
+        "طويل ورفيع وفي اليمين ليه طرف بمبي."
+      ],
+      [
+        "Lea",
+        "Zeigen beide Fotos denselben Ort?",
+        "الصورتين بيعرضوا نفس المكان؟"
+      ],
+      [
+        "Karim",
+        "Nein. Wir legen sie nur für unsere Wortübung nebeneinander.",
+        "لأ. إحنا حاطينهم جنب بعض عشان تدريب الكلمات بس."
+      ],
+      [
+        "Lea",
+        "Dann lesen wir die Namen mit Artikel.",
+        "يبقى نقرا الأسامي بالأداة."
+      ]
+    ],
+    "q": [
+      [
+        "Wo ist die Kelle zu sehen?",
+        "Vor der Schale.",
+        "Auf der Feile.",
+        "In einer Schublade."
+      ],
+      [
+        "Wo hat die Feile ein rosa Ende?",
+        "Rechts.",
+        "Links.",
+        "In der Schale."
+      ],
+      [
+        "Warum liegen die Fotos nebeneinander?",
+        "Für die Wortübung.",
+        "Als Beweis für denselben Ort.",
+        "Als Anleitung zur Körperpflege."
+      ]
+    ]
+  },
+  {
+    "id": "gleicher-artikel-andere-bedeutung",
+    "level": "A2",
+    "title": [
+      "Gleicher Artikel, andere Bedeutung",
+      "نفس الأداة ومعنى مختلف"
+    ],
+    "lines": [
+      [
+        "Nele",
+        "Beide Wörter haben den Artikel die.",
+        "الكلمتين أداتهم دي."
+      ],
+      [
+        "Amir",
+        "Und beide bekommen in der Mehrzahl ein n.",
+        "والاتنين في الجمع بياخدوا نون."
+      ],
+      [
+        "Nele",
+        "Müssen die Gegenstände deshalb zusammen benutzt werden?",
+        "كده لازم الحاجتين يتستخدموا مع بعض؟"
+      ],
+      [
+        "Amir",
+        "Nein. Gleiche Grammatik bedeutet keine gemeinsame Verwendung.",
+        "لأ. نفس النحو مش معناه استخدام مشترك."
+      ],
+      [
+        "Nele",
+        "Und mehrere Exemplare im Beispielsatz?",
+        "وأكتر من قطعة في جملة المثال؟"
+      ],
+      [
+        "Amir",
+        "Das ist eine Sprachübung, keine Zählung der Fotos.",
+        "ده تدريب لغة مش عد للحاجات في الصور."
+      ],
+      [
+        "Nele",
+        "Dann prüfen wir Wortform und Bild jeweils getrennt.",
+        "يبقى نراجع شكل الكلمة والصورة كل واحدة لوحدها."
+      ]
+    ],
+    "q": [
+      [
+        "Welchen Artikel haben beide Wörter in der Einzahl?",
+        "Die.",
+        "Der.",
+        "Das."
+      ],
+      [
+        "Was bedeutet gleiche Grammatik nicht?",
+        "Gemeinsame Verwendung.",
+        "Eine lernbare Wortform.",
+        "Zwei getrennte Wörter."
+      ],
+      [
+        "Was sind mehrere Exemplare im Beispielsatz hier?",
+        "Eine Sprachübung.",
+        "Eine bestätigte Fotozählung.",
+        "Ein verbindlicher Vorratsplan."
+      ]
+    ]
+  },
+  {
+    "id": "nur-was-das-foto-traegt",
+    "level": "B1",
+    "title": [
+      "Nur was das Foto trägt",
+      "اللي الصورة تثبته بس"
+    ],
+    "lines": [
+      [
+        "Tarek",
+        "Reicht der schwarze Handschuh als Beweis für einwandfreie Hygiene?",
+        "الجوانتي الأسود كفاية كدليل لنظافة سليمة تمامًا؟"
+      ],
+      [
+        "Jule",
+        "Nein. Wir sehen einen Handschuh, aber keine geprüften Bedingungen.",
+        "لأ. شايفين جوانتي بس مش ظروف متراجعة."
+      ],
+      [
+        "Tarek",
+        "Dann nenne ich nur die Kelle, die Schale und die helle Flüssigkeit.",
+        "يبقى أسمي المغرفة والطبق والسائل الفاتح بس."
+      ],
+      [
+        "Jule",
+        "Bei der Nagelfeile bleiben wir auch bei Form und Farbe.",
+        "ومع مبرد الضوافر نفضل برضه في الشكل واللون."
+      ],
+      [
+        "Tarek",
+        "Neu und besonders schonend sind also nicht durch das Bild belegt.",
+        "يبقى جديد ولطيف جدًا في الاستخدام مش مثبتين بالصورة."
+      ],
+      [
+        "Jule",
+        "Genau. Wir geben weder Pflegeanweisungen noch ein Qualitätsurteil.",
+        "بالظبط. مش بندي تعليمات عناية ولا حكم جودة."
+      ],
+      [
+        "Tarek",
+        "Die Wortkarten verbinden Namen mit Bildern, nicht ungeprüfte Versprechen.",
+        "كروت الكلمات بتربط أسامي بصور مش وعود ماتراجعتش."
+      ]
+    ],
+    "q": [
+      [
+        "Was sehen sie statt geprüfter Bedingungen?",
+        "Einen Handschuh.",
+        "Eine Zutatenliste.",
+        "Einen Prüfbericht."
+      ],
+      [
+        "Was bleibt bei der Nagelfeile im Text?",
+        "Form und Farbe.",
+        "Eine bestätigte Körnung.",
+        "Eine Pflegeanweisung."
+      ],
+      [
+        "Was ist nicht durch das Bild belegt?",
+        "Neu und besonders schonend.",
+        "Ein rosa Ende.",
+        "Ein heller Untergrund."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "welches-bild-hat-eine-schale": [
+    "Vor der Schale.",
+    "rechts ein rosa Ende.",
+    "nur für unsere Wortübung nebeneinander."
+  ],
+  "gleicher-artikel-andere-bedeutung": [
+    "den Artikel die.",
+    "keine gemeinsame Verwendung.",
+    "eine Sprachübung, keine Zählung der Fotos."
+  ],
+  "nur-was-das-foto-traegt": [
+    "Wir sehen einen Handschuh, aber keine geprüften Bedingungen.",
+    "bei Form und Farbe.",
+    "Neu und besonders schonend sind also nicht durch das Bild belegt."
+  ]
+});

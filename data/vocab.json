@@ -623,6 +623,10 @@
   {
    "id": "stiftundklammer",
    "ar": "أقلام الشمع ودبابيس الدباسة"
+  },
+  {
+   "id": "alltagsformen",
+   "ar": "المغرفة ومبرد الضوافر"
   }
  ],
  "words": [
@@ -13904,6 +13908,36 @@
     "file": "29157286.jpg",
     "commons": "https://www.pexels.com/photo/industrial-metal-texture-with-orange-accent-29157286/",
     "author": "Peppered Pixels Design Studio",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "schoepfkelle",
+   "topic": "alltagsformen",
+   "art": "die",
+   "de": "Schöpfkelle",
+   "plural": "Schöpfkellen",
+   "ar": "مغرفة",
+   "photo": {
+    "file": "29321559.jpg",
+    "commons": "https://www.pexels.com/photo/person-serving-hot-soup-outdoors-with-ladle-29321559/",
+    "author": "Sergei Starostin",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "nagelfeile",
+   "topic": "alltagsformen",
+   "art": "die",
+   "de": "Nagelfeile",
+   "plural": "Nagelfeilen",
+   "ar": "مبرد ضوافر",
+   "photo": {
+    "file": "5238082.jpg",
+    "commons": "https://www.pexels.com/photo/nail-polish-in-close-up-view-5238082/",
+    "author": "Kaboompics",
     "license": "Pexels License",
     "modified": true
    }

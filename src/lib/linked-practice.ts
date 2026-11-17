@@ -279,4 +279,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-farbige-spitzen-und-streifen',dialogue:'der-rosa-stift-unten'},
  {reading:'alltag-a2-eine-klammer-ein-streifen',dialogue:'was-zaehlst-du-gerade'},
  {reading:'alltag-b1-glanz-ohne-funktionsprobe',dialogue:'passend-ist-nicht-geprueft'},
+ {reading:'alltag-a1-schoepfkelle-und-nagelfeile',dialogue:'welches-bild-hat-eine-schale'},
+ {reading:'alltag-a2-zwei-feminine-woerter',dialogue:'gleicher-artikel-andere-bedeutung'},
+ {reading:'alltag-b1-bildtext-ohne-nebenbehauptung',dialogue:'nur-was-das-foto-traegt'},
 ];
