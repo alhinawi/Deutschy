@@ -471,6 +471,10 @@
   {
    "id": "naehkistenfach",
    "ar": "بكر خيط ودبابيس خياطة"
+  },
+  {
+   "id": "fruehstuecksplatz",
+   "ar": "سبت عيش وطبق فاكهة"
   }
  ],
  "words": [
@@ -12612,6 +12616,36 @@
     "file": "38281127.jpg",
     "commons": "https://www.pexels.com/photo/close-up-of-colorful-sewing-pins-on-cushion-in-artistic-light-38281127/",
     "author": "Pato Mec",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "brotkorb",
+   "topic": "fruehstuecksplatz",
+   "art": "der",
+   "de": "Brotkorb",
+   "plural": "Brotkörbe",
+   "ar": "سبت عيش",
+   "photo": {
+    "file": "10672638.jpg",
+    "commons": "https://www.pexels.com/photo/a-close-up-shot-of-a-sliced-loaf-10672638/",
+    "author": "Arturo A",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "obstschale",
+   "topic": "fruehstuecksplatz",
+   "art": "die",
+   "de": "Obstschale",
+   "plural": "Obstschalen",
+   "ar": "طبق فاكهة",
+   "photo": {
+    "file": "36988020.jpg",
+    "commons": "https://www.pexels.com/photo/elegant-still-life-of-apples-and-pears-in-bowl-36988020/",
+    "author": "Julia Olson",
     "license": "Pexels License",
     "modified": true
    }

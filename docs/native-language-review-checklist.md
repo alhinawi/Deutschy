@@ -694,6 +694,18 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Spelling | Answer input refocuses on the next spelling question. Initial autofocus, label focus, required/help/error semantics, submitted-answer readability, scoring and duplicate guard retained. Check keyboard continuity and old/new topics. |
 | [ ] | Listening/dictation | Check 61 segments and Egyptian Arabic, including isolated German words inside translations. Native editorial and actual device-voice checks pending. No sewing, sharp-object handling or appliance instructions. |
 
+### List 74: bread basket, fruit bowl and words in context
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-platz-auf-dem-tisch/` and linked dialogue | Four places for siblings and two visitors. Bread basket left, books moved from middle to shelf, fruit bowl to middle. Three glasses become four. Emil goes to door; Rosa remains at table. No arrival or meal completion claimed. |
+| [ ] | `/reading/alltag-a2-fruehstueck-im-anderen-zimmer/` and linked dialogue | Table changes within same home because passage narrow. Invitation day/time/address unchanged. Magazines moved, empty basket first, four plates next, fruit bowl last. Bread/drinks still in kitchen, guests not arrived. Note is inventory, not shopping list or new invitation. |
+| [ ] | `/reading/alltag-b1-zwei-bedeutungen-eines-wortes/` and linked dialogue | Obstschale can mean fruit peel or fruit bowl. Fictional full sentence with aus Glas selects vessel sense only here, not universal material. Both meanings retained on card, exact example added. Check wording and Egyptian Arabic context explanations. |
+| [ ] | `/lessons/fruehstuecksplatz/` and `/credits/` | der Brotkorb/Brotkörbe, die Obstschale/Obstschalen. Egyptian Arabic سبت عيش and طبق فاكهة. Whole flat woven bread basket with sliced loaf, partial cup contextual; whole light bowl with apples/pears. No people, brands, added bars or illustrations. Photos illustrate nouns, not the fictional glass bowl or exact scenes. |
+| [ ] | Six appended grammar banks | 24 article/accusative/present/connector/two-way-preposition/negation rows. Previous keys preserved, including original tischmitte/list69 banks. New topic is fruehstuecksplatz. Check plural den Tellern versus destination die Teller. |
+| [ ] | Round progress | Visual round bar now has localized accessible name, min0, max question count and current advanced-question count. Spelling focus, readability, label/help/error, grading/XP and duplicate guards unchanged. |
+| [ ] | Listening/dictation | Check60 segments and Egyptian Arabic. Native editorial and actual device German voice pending. No cooking, food storage, ingredient, dietary or hygiene advice. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -708,7 +720,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **803 photo nouns / 118 topics**, **237 reading texts / 901 reading questions**, **41 core grammar topics / 1702 core grammar questions**, **177 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **805 photo nouns / 119 topics**, **240 reading texts / 913 reading questions**, **41 core grammar topics / 1726 core grammar questions**, **180 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -720,7 +732,7 @@ This is an inventory, not completed review. Snapshot: **803 photo nouns / 118 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 61 · A2 89 · B1 57 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 62 · A2 90 · B1 58 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

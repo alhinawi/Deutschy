@@ -165,4 +165,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-die-kleine-naehkiste',dialogue:'nur-mit-den-bildern'},
  {reading:'alltag-a2-rueckgabe-neu-absprechen',dialogue:'samstag-um-elf-bestaetigt'},
  {reading:'alltag-b1-geschenk-oder-leihgabe',dialogue:'nur-fuer-den-naechsten-abend'},
+ {reading:'alltag-a1-platz-auf-dem-tisch',dialogue:'in-der-mitte-ist-noch-kein-platz'},
+ {reading:'alltag-a2-fruehstueck-im-anderen-zimmer',dialogue:'nur-der-tisch-wechselt'},
+ {reading:'alltag-b1-zwei-bedeutungen-eines-wortes',dialogue:'aus-glas-gibt-den-zusammenhang'},
 ];

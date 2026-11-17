@@ -11813,3 +11813,218 @@ Object.assign(dialogueEvidence,{
     "getrennt von meinen auf."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "in-der-mitte-ist-noch-kein-platz",
+    "level": "A1",
+    "title": [
+      "Erst die Bücher weg",
+      "نشيل الكتب الأول"
+    ],
+    "lines": [
+      [
+        "Rosa",
+        "Der Brotkorb steht links neben den Tellern. Wohin kommt die Obstschale?",
+        "سبت العيش على شمال الأطباق. طبق الفاكهة يتحط فين؟"
+      ],
+      [
+        "Emil",
+        "In die Mitte. Aber da liegen noch zwei Bücher.",
+        "في النص. بس لسه فيه هناك كتابين."
+      ],
+      [
+        "Rosa",
+        "Die lege ich auf das Regal. Dann ist dort Platz.",
+        "هحطهم على الرف. كده يبقى فيه مكان."
+      ],
+      [
+        "Emil",
+        "Wir haben vier Teller, aber erst drei Gläser.",
+        "عندنا أربع أطباق، بس لسه تلات كوبايات."
+      ],
+      [
+        "Rosa",
+        "Hol bitte noch ein Glas aus dem Schrank.",
+        "هات كوباية كمان من الدولاب لو سمحت."
+      ],
+      [
+        "Emil",
+        "Hier ist das vierte. Jetzt klingelt es an der Tür.",
+        "أهي الرابعة. دلوقتي الجرس بيرن على الباب."
+      ],
+      [
+        "Rosa",
+        "Ich bleibe am Tisch. Geh du bitte zur Tür.",
+        "هفضل عند الترابيزة. روح إنت للباب لو سمحت."
+      ]
+    ],
+    "q": [
+      [
+        "Was soll in die Mitte?",
+        "Die Obstschale.",
+        "Der Schrank.",
+        "Ein Stuhl."
+      ],
+      [
+        "Wohin legt Rosa die Bücher?",
+        "Auf das Regal.",
+        "In den Brotkorb.",
+        "Vor die Tür."
+      ],
+      [
+        "Wie viele Gläser gibt es nach Emils Rückkehr?",
+        "Vier.",
+        "Zwei.",
+        "Sechs."
+      ]
+    ]
+  },
+  {
+    "id": "nur-der-tisch-wechselt",
+    "level": "A2",
+    "title": [
+      "Die Einladung bleibt gleich",
+      "الدعوة زي ما هي"
+    ],
+    "lines": [
+      [
+        "Luis",
+        "Mit vier Stühlen wird es am Küchentisch zu eng. Nehmen wir den Tisch im Wohnzimmer?",
+        "بأربع كراسي ترابيزة المطبخ هتبقى زحمة قوي. نستخدم ترابيزة المعيشة؟"
+      ],
+      [
+        "Tessa",
+        "Ja. Tag und Uhrzeit ändern sich dadurch nicht.",
+        "أيوه. اليوم والمعاد مش بيتغيروا بكده."
+      ],
+      [
+        "Luis",
+        "Den leeren Brotkorb stelle ich schon hin. Die Obstschale bleibt erst in der Küche.",
+        "هحط سبت العيش الفاضي من دلوقتي. طبق الفاكهة يفضل في المطبخ الأول."
+      ],
+      [
+        "Tessa",
+        "Ich bringe zuerst die vier Teller. Danach sehe ich, ob die Schale noch Platz hat.",
+        "هجيب الأول الأربع أطباق. بعد كده أبص إذا لسه فيه مكان للطبق الكبير."
+      ],
+      [
+        "Luis",
+        "Auf meinen Zettel kommen nur die Sachen, die jetzt im Wohnzimmer stehen.",
+        "في ورقتي هكتب بس الحاجات اللي موجودة دلوقتي في أوضة المعيشة."
+      ],
+      [
+        "Tessa",
+        "Das ist also keine neue Einladung und keine Einkaufsliste.",
+        "يعني دي مش دعوة جديدة ولا قايمة مشتريات."
+      ],
+      [
+        "Luis",
+        "Genau. Brot und Getränke holen wir gleich noch aus der Küche.",
+        "بالظبط. العيش والمشروبات هنجيبهم كمان شوية من المطبخ."
+      ]
+    ],
+    "q": [
+      [
+        "Was ändern sie?",
+        "Den Tisch innerhalb derselben Wohnung.",
+        "Den Tag des Frühstücks.",
+        "Die Adresse."
+      ],
+      [
+        "Was bleibt zuerst in der Küche?",
+        "Die Obstschale.",
+        "Der leere Brotkorb.",
+        "Luis selbst bis zum Abend."
+      ],
+      [
+        "Was steht auf Luis Zettel?",
+        "Nur die nun im Wohnzimmer stehenden Sachen.",
+        "Eine neue Einladung.",
+        "Eine bezahlte Bestellung."
+      ]
+    ]
+  },
+  {
+    "id": "aus-glas-gibt-den-zusammenhang",
+    "level": "B1",
+    "title": [
+      "Lies den ganzen Satz",
+      "اقرا الجملة كاملة"
+    ],
+    "lines": [
+      [
+        "Farid",
+        "Bei Obstschale denke ich zuerst an die Hülle einer Frucht.",
+        "مع كلمة Obstschale بفكر الأول في قشر الفاكهة."
+      ],
+      [
+        "Pia",
+        "Das Wort kann auch ein Gefäß für Obst bezeichnen. Lies den ganzen Satz.",
+        "الكلمة ممكن تسمي إناء للفاكهة كمان. اقرا الجملة كاملة."
+      ],
+      [
+        "Farid",
+        "Hier steht: Neben dem Brotkorb steht eine große Obstschale aus Glas.",
+        "هنا مكتوب: جنب سبت العيش فيه طبق فاكهة كبير من إزاز."
+      ],
+      [
+        "Pia",
+        "Dann ist hier das Gefäß gemeint. Entscheidend ist der Zusammenhang.",
+        "يبقى المقصود هنا الإناء. السياق هو اللي بيحدد."
+      ],
+      [
+        "Farid",
+        "Ich ergänze den Beispielsatz auf meiner Karte, statt eine Bedeutung ganz zu streichen.",
+        "هضيف جملة المثال على الكارت بدل ما أشطب معنى خالص."
+      ],
+      [
+        "Pia",
+        "Und aus Glas beschreibt nur dieses Beispiel, nicht alle Obstschalen.",
+        "ومن إزاز بتوصف المثال ده بس، مش كل أطباق الفاكهة."
+      ],
+      [
+        "Farid",
+        "Genau. Ich notiere, was das Wort hier bedeutet, und behalte beide Möglichkeiten.",
+        "بالظبط. هكتب الكلمة معناها إيه هنا، وأحتفظ بالاحتمالين."
+      ]
+    ],
+    "q": [
+      [
+        "Was soll Farid lesen?",
+        "Den ganzen Satz.",
+        "Nur den ersten Buchstaben.",
+        "Eine Einkaufsliste."
+      ],
+      [
+        "Was beschreibt aus Glas?",
+        "Nur das Gefäß in diesem Beispiel.",
+        "Das Material aller Obstschalen.",
+        "Die äußere Hülle jeder Frucht."
+      ],
+      [
+        "Wie behandelt Farid die beiden Bedeutungen?",
+        "Er behält beide und markiert die hier gemeinte.",
+        "Er streicht die ihm schon bekannte ganz.",
+        "Er erklärt beide für falsch."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "in-der-mitte-ist-noch-kein-platz": [
+    "Wohin kommt die Obstschale?",
+    "Die lege ich auf das Regal.",
+    "Hier ist das vierte."
+  ],
+  "nur-der-tisch-wechselt": [
+    "Nehmen wir den Tisch im Wohnzimmer?",
+    "Die Obstschale bleibt erst in der Küche.",
+    "nur die Sachen, die jetzt im Wohnzimmer stehen."
+  ],
+  "aus-glas-gibt-den-zusammenhang": [
+    "Lies den ganzen Satz.",
+    "nur dieses Beispiel, nicht alle Obstschalen.",
+    "behalte beide Möglichkeiten."
+  ]
+});

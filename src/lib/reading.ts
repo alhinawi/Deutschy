@@ -222,3 +222,6 @@ readings.push(...werkstattalbumTexts);
 
 import {naehkistenfachTexts} from './reading-naehkistenfach';
 readings.push(...naehkistenfachTexts);
+
+import {fruehstuecksplatzTexts} from './reading-fruehstuecksplatz';
+readings.push(...fruehstuecksplatzTexts);

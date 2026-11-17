@@ -1166,3 +1166,24 @@ Object.assign(readingEvidence,{
     "Die Sachen bleiben Jules Eigentum, und Karim bewahrt sie bis zum gemeinsamen Abend auf."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-platz-auf-dem-tisch": [
+    "Er stellt ihn links neben die Teller.",
+    "Dort liegen aber noch zwei Bücher.",
+    "Es sind nur drei Gläser. Er holt ein viertes Glas aus dem Schrank.",
+    "Rosa bleibt am Tisch."
+  ],
+  "alltag-a2-fruehstueck-im-anderen-zimmer": [
+    "dass der Durchgang zum Fenster sehr eng wird.",
+    "gleicher Tag, gleiche Uhrzeit und dieselbe Wohnung.",
+    "Sie holt sie zuletzt.",
+    "Brot und Getränke müssen sie noch aus der Küche holen."
+  ],
+  "alltag-b1-zwei-bedeutungen-eines-wortes": [
+    "Er kennt Schale bisher als äußere Hülle einer Frucht",
+    "Der Zusatz aus Glas macht in dieser erfundenen Szene deutlich, dass ein Gefäß gemeint ist.",
+    "Daraus folgt aber nicht, dass jede Obstschale aus Glas besteht.",
+    "Farid ergänzt seine Lernkarte um den vollständigen Beispielsatz."
+  ]
+});

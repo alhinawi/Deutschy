@@ -384,3 +384,6 @@ for(const[topic,rows]of Object.entries(werkstattalbumGrammar))exercises[topic].p
 
 import {naehkistenfachGrammar} from './exercises-naehkistenfach';
 for(const[topic,rows]of Object.entries(naehkistenfachGrammar))exercises[topic].push(...rows);
+
+import {fruehstuecksplatzGrammar} from './exercises-fruehstuecksplatz';
+for(const[topic,rows]of Object.entries(fruehstuecksplatzGrammar))exercises[topic].push(...rows);
