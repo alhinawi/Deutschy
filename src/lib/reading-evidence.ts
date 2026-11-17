@@ -2048,3 +2048,24 @@ Object.assign(readingEvidence,{
     "Jule und Tarek notieren offene Fragen neben den Texten"
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-saiten-vor-buechern-und-stoff": [
+    "Hinter der Harfe stehen Bücher in Regalen.",
+    "Den unteren Teil des Instruments sehen die beiden nicht.",
+    "Sie sehen ungefähr wie der Buchstabe f aus.",
+    "Neben der Mandoline stehen zwei Kerzen ohne Flammen."
+  ],
+  "alltag-a2-viele-saiten-ein-instrument": [
+    "Mehrere Saiten machen aus einer Harfe nicht mehrere Harfen",
+    "die Harfe, die Harfen sowie die Mandoline, die Mandolinen.",
+    "Die Aufnahme zeigt ihn lediglich nicht.",
+    "Eine genaue Saitenzahl ermitteln sie nicht"
+  ],
+  "alltag-b1-ein-foto-ist-keine-klangprobe": [
+    "Eine solche Aufnahme haben sie nicht.",
+    "kein Nachweis für echtes Gold oder einen bestimmten Wert.",
+    "Das allein ist kein Hinweis auf einen Schaden.",
+    "Jule und Tarek geben keine Spiel-, Stimm- oder Reparaturanleitung."
+  ]
+});

@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-fifteenth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-sixteenth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1210,9 +1210,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Lesson practice navigation | Five existing Flashcards/Photoquiz/Articles/Spelling/Memory links gain themed keyboard ring/card-ground gap.20 AR/EN320/390 keyboard/axe states, Enter opens correct existing topic-scoped game without XP. Actual AR/EN390 pixels inspected. No link target/filter/routing/scoring/playback logic changed. |
 | [ ] | Listening/dictation |74 original segments,296 exact German payload/source/answer checks. Native editorial/real-device voice review pending. Level labels not certification; progress local. |
 
+### List 116: Harp and mandolin views
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-saiten-vor-buechern-und-stoff/` and linked dialogue | Lea/Karim upper harp before books, gold-colored decoration, curved frame and strings; lower part outside frame. Mandolin body with two f-like openings and neck against dark cloth, apples and unlit candles. Head outside crop. No playing, tuning or repair advice. |
+| [ ] | `/reading/alltag-a2-viele-saiten-ein-instrument/` and linked dialogue | Nele/Amir many strings do not mean many instruments. die Harfe/Harfen and die Mandoline/Mandolinen each add n, not a general plural rule or proof of visible inventory. One partial instrument view in each photo. |
+| [ ] | `/reading/alltag-b1-ein-foto-ist-keine-klangprobe/` and linked dialogue | Jule/Tarek a photo is not a sound sample. Missing-from-frame is not missing or damaged on the actual instrument. No exact string count, tuning, condition, sound, solid-gold material, age, value, size, identity or event claim. |
+| [ ] | `/lessons/saitenbilder/` and `/credits/` | die Harfe/Harfen (هارب), die Mandoline/Mandolinen (ماندولين). Full DWDS forms. Sue Rickhuss17646733 harp1800x1350 full frame to800x600. cottonbro7097789 mandolin1800x1200 crop0,250-1264,1198 to800x600 excludes entire branded head. No padding/stretch/face or visible instrument brand. Both explicitly partial views. |
+| [ ] | Six appended grammar banks |24 article/accusative/present/possessive/two-way/negation rows; old question identities unchanged. Human check of German and Egyptian Arabic examples/explanations pending. |
+| [ ] | Neighbor lesson navigation and dialogue heading | Existing previous/next lesson cards gain44px minimum and themed keyboard focus.12AR/EN320/390 keyboard/axe states, Enter correct lesson number/route/noXP. Dialogue heading wraps long compounds,4extra axe states. Final title uses shorter wording. Actual390AR/EN photos/navigation and320heading pixels inspected. No routing/scoring/playback logic changed. |
+| [ ] | Listening/dictation |73 original segments,292exactGerman payload/source/answer checks. Human editorial and real-device voice review pending. Labels not certification; progress local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **887 photo nouns / 160 topics**, **363 reading texts / 1405 reading questions**, **41 core grammar topics / 2710 core grammar questions**, **303 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **889 photo nouns / 161 topics**, **366 reading texts / 1417 reading questions**, **41 core grammar topics / 2734 core grammar questions**, **306 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1224,7 +1236,7 @@ This is an inventory, not completed review. Snapshot: **887 photo nouns / 160 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 103 · A2 131 · B1 99 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 104 · A2 132 · B1 100 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
