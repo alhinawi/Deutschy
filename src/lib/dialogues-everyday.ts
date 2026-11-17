@@ -17403,3 +17403,218 @@ Object.assign(dialogueEvidence,{
     "nur die deutschen Sätze."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "nicht-unter-dem-tisch",
+    "level": "A1",
+    "title": [
+      "Nicht unter dem Tisch",
+      "مش تحت الترابيزة"
+    ],
+    "lines": [
+      [
+        "Dalia",
+        "Ich suche das Springseil. Liegt es unter dem Tisch?",
+        "بدور على حبل النط. هو تحت الترابيزة؟"
+      ],
+      [
+        "Oskar",
+        "Nein, dort stehen nur zwei Taschen. Schau in den Korb neben der Tür.",
+        "لأ، هناك شنطتين بس. بصي في السلة جنب الباب."
+      ],
+      [
+        "Dalia",
+        "Hier ist es. Es hat zwei schwarze Griffe.",
+        "أهو. ليه مسكتين سودا."
+      ],
+      [
+        "Oskar",
+        "Und das Schachbrett liegt noch auf dem großen Tisch.",
+        "ورقعة الشطرنج لسه على الترابيزة الكبيرة."
+      ],
+      [
+        "Dalia",
+        "Ich lege die Wortkarte vor das Brett.",
+        "هحط كارت الكلمة قدام الرقعة."
+      ],
+      [
+        "Oskar",
+        "Wir spielen heute nicht, wir üben nur die Namen.",
+        "النهارده مش هنلعب، هنتدرب على الأسامي بس."
+      ],
+      [
+        "Dalia",
+        "Danach lege ich das Seil wieder in den Korb.",
+        "بعد كده هرجع الحبل السلة."
+      ]
+    ],
+    "q": [
+      [
+        "Wo soll Dalia nachsehen?",
+        "Im Korb neben der Tür.",
+        "Im Kühlschrank.",
+        "Auf dem Dach."
+      ],
+      [
+        "Wohin legt sie die Wortkarte?",
+        "Vor das Brett.",
+        "Unter den Korb.",
+        "In eine fremde Tasche."
+      ],
+      [
+        "Was üben sie heute?",
+        "Die Namen.",
+        "Einen Sprung.",
+        "Einen Schachzug."
+      ]
+    ]
+  },
+  {
+    "id": "brauchst-du-das-brett-noch",
+    "level": "A2",
+    "title": [
+      "Brauchst du das Brett noch?",
+      "لسه محتاجة الرقعة؟"
+    ],
+    "lines": [
+      [
+        "Jonas",
+        "Ich möchte aufräumen. Brauchst du das Brett noch?",
+        "عايز أرتب. لسه محتاجة الرقعة؟"
+      ],
+      [
+        "Hanan",
+        "Ja, bitte lass es mit diesen beiden Karten noch hier liegen.",
+        "أيوه، سيبها مع الكارتين دول هنا شوية من فضلك."
+      ],
+      [
+        "Jonas",
+        "Kann das Springseil schon in den Korb zurück?",
+        "حبل النط ينفع يرجع السلة خلاص؟"
+      ],
+      [
+        "Hanan",
+        "Ja. Das brauche ich für meine Beschreibung nicht.",
+        "أيوه. مش محتاجاه في وصفي."
+      ],
+      [
+        "Jonas",
+        "Also nur das Seil zurück, das Brett und zwei Karten bleiben. Richtig?",
+        "يعني الحبل بس يرجع والرقعة وكارتين يفضلوا. صح؟"
+      ],
+      [
+        "Hanan",
+        "Genau. Ich sage dir Bescheid, wenn ich fertig bin.",
+        "بالظبط. هقولك لما أخلص."
+      ],
+      [
+        "Jonas",
+        "Dann räumen wir den Rest später gemeinsam weg.",
+        "يبقى نرجع الباقي بعدين مع بعض."
+      ]
+    ],
+    "q": [
+      [
+        "Was soll noch liegen bleiben?",
+        "Das Brett mit zwei Karten.",
+        "Nur das Seil.",
+        "Eine volle Einkaufstasche."
+      ],
+      [
+        "Warum braucht Hanan das Seil nicht mehr?",
+        "Es gehört nicht zu ihrer Beschreibung.",
+        "Es ist sicher kaputt.",
+        "Jonas hat ein neues gekauft."
+      ],
+      [
+        "Wann räumen sie den Rest weg?",
+        "Später gemeinsam nach Hanans Nachricht.",
+        "Ohne Rückfrage während ihrer Arbeit.",
+        "Nie mehr."
+      ]
+    ]
+  },
+  {
+    "id": "beschreibung-oder-erzaehlung",
+    "level": "B1",
+    "title": [
+      "Beschreibung oder Erzählung?",
+      "وصف ولا حكاية؟"
+    ],
+    "lines": [
+      [
+        "Ella",
+        "Du schreibst anschließend. Woher kennst du die Reihenfolge?",
+        "إنت كاتب بعد كده. عرفت الترتيب منين؟"
+      ],
+      [
+        "Karim",
+        "Die kenne ich nicht. Ich habe aus den Fotos eine Geschichte gemacht.",
+        "مش عارفه. أنا عملت من الصور حكاية."
+      ],
+      [
+        "Ella",
+        "Für den ersten Auftrag brauchen wir nur die sichtbare Anordnung.",
+        "للمهمة الأولى محتاجين الترتيب الظاهر بس."
+      ],
+      [
+        "Karim",
+        "Die Geschichte schreibe ich dann in den ausdrücklich erlaubten Zusatzteil.",
+        "يبقى أكتب الحكاية في الجزء الإضافي المسموح به بوضوح."
+      ],
+      [
+        "Ella",
+        "Mit einer Überschrift, damit die Grenze sichtbar wird.",
+        "بعنوان عشان الحد يبقى واضح."
+      ],
+      [
+        "Karim",
+        "Dort ist die Reihenfolge meine Entscheidung, kein Bildbeleg.",
+        "هناك الترتيب قراري أنا مش دليل من الصورة."
+      ],
+      [
+        "Ella",
+        "Und was tatsächlich vorher passiert ist, bleibt ohne weitere Angaben offen.",
+        "واللي حصل فعلًا قبل كده يفضل مفتوح من غير معلومات زيادة."
+      ]
+    ],
+    "q": [
+      [
+        "Was kennt Karim nicht?",
+        "Die tatsächliche zeitliche Reihenfolge.",
+        "Dass er einen Text geschrieben hat.",
+        "Den Unterschied zwischen zwei Überschriften."
+      ],
+      [
+        "Was hilft, die Grenze zu zeigen?",
+        "Eine Überschrift für den Zusatzteil.",
+        "Ein erfundener Quellenstempel.",
+        "Das Löschen aller sichtbaren Details."
+      ],
+      [
+        "Was ist die Reihenfolge im erfundenen Zusatzteil?",
+        "Eine Entscheidung des Autors.",
+        "Ein bewiesener Ablauf im Bildmaterial.",
+        "Eine verbindliche Trainingsanweisung."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "nicht-unter-dem-tisch": [
+    "Schau in den Korb neben der Tür.",
+    "Ich lege die Wortkarte vor das Brett.",
+    "wir üben nur die Namen."
+  ],
+  "brauchst-du-das-brett-noch": [
+    "das Brett und zwei Karten bleiben.",
+    "Das brauche ich für meine Beschreibung nicht.",
+    "den Rest später gemeinsam weg."
+  ],
+  "beschreibung-oder-erzaehlung": [
+    "Die kenne ich nicht.",
+    "Mit einer Überschrift, damit die Grenze sichtbar wird.",
+    "meine Entscheidung, kein Bildbeleg."
+  ]
+});

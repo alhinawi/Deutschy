@@ -462,3 +462,6 @@ for(const[topic,rows]of Object.entries(fruchtformenGrammar))exercises[topic].pus
 
 import {instrumentenblickGrammar} from './exercises-instrumentenblick';
 for(const[topic,rows]of Object.entries(instrumentenblickGrammar))exercises[topic].push(...rows);
+
+import {spielablageGrammar} from './exercises-spielablage';
+for(const[topic,rows]of Object.entries(spielablageGrammar))exercises[topic].push(...rows);
