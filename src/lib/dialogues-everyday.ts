@@ -2783,3 +2783,218 @@ Object.assign(dialogueEvidence,{
     "Und bevor jemand fotografiert, fragen wir dich noch einmal."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "saft-extra-lassen",
+    "level": "A1",
+    "title": [
+      "Den Saft bitte extra",
+      "العصير لوحده لو سمحتي"
+    ],
+    "lines": [
+      [
+        "Lena",
+        "Wo ist die Zitronenpresse? In der Schublade liegt sie nicht.",
+        "عصارة الليمون فين؟ مش في الدرج."
+      ],
+      [
+        "Omar",
+        "Im oberen Regal, neben der Tasse.",
+        "على الرف اللي فوق، جنب الفنجان."
+      ],
+      [
+        "Lena",
+        "Danke, ich habe sie. Soll ich den Saft über den Salat gießen?",
+        "شكراً، لقيتها. أصب العصير على السلطة؟"
+      ],
+      [
+        "Omar",
+        "Bitte noch nicht. Ich esse meinen Teil lieber ohne.",
+        "لسه لو سمحتي. أفضل آكل نصيبي من غيره."
+      ],
+      [
+        "Lena",
+        "Dann stelle ich ihn in einer kleinen Schale auf den Tisch.",
+        "يبقى أحطه في طبق صغير على الترابيزة."
+      ],
+      [
+        "Omar",
+        "Gut. Du kannst dir dann selbst etwas nehmen.",
+        "تمام. تقدري تاخدي لنفسك شوية بعدين."
+      ],
+      [
+        "Lena",
+        "Ja, so machen wir es.",
+        "آه، نعمل كده."
+      ]
+    ],
+    "q": [
+      [
+        "Wo ist die Zitronenpresse?",
+        "Im oberen Regal.",
+        "In der Schublade.",
+        "Im Rucksack."
+      ],
+      [
+        "Was möchte Omar?",
+        "Salat ohne Zitronensaft.",
+        "Mehr Saft im ganzen Salat.",
+        "Gar keinen Salat."
+      ],
+      [
+        "Wohin stellt Lena den Saft?",
+        "In einer kleinen Schale auf den Tisch.",
+        "Zurück in die Zitrone.",
+        "Unter das Sofa."
+      ]
+    ]
+  },
+  {
+    "id": "zweiter-loeffel",
+    "level": "A2",
+    "title": [
+      "Nicht mit demselben Löffel",
+      "مش بنفس المعلقة"
+    ],
+    "lines": [
+      [
+        "Ben",
+        "Ich habe die erste Schale beschriftet. Was kommt auf die zweite Karte?",
+        "كتبت كارت أول طبق. أكتب إيه على الكارت التاني؟"
+      ],
+      [
+        "Nora",
+        "Die Zutaten, die wir tatsächlich benutzt haben.",
+        "المكونات اللي استخدمناها فعلاً."
+      ],
+      [
+        "Ben",
+        "Gut. Dann nehme ich denselben Löffel für beide Schalen.",
+        "تمام. يبقى أستخدم نفس المعلقة للطبقين."
+      ],
+      [
+        "Nora",
+        "Bitte einen zweiten. Ich möchte die Mischungen getrennt lassen.",
+        "واحدة تانية لو سمحت. عايزة الخلطات تفضل منفصلة."
+      ],
+      [
+        "Ben",
+        "Verstanden. Schreiben wir auch besser auf eine Karte?",
+        "فهمت. نكتب كمان أحسن على كارت؟"
+      ],
+      [
+        "Nora",
+        "Nein. Unsere Gäste sollen nach ihrem eigenen Geschmack wählen.",
+        "لأ. ضيوفنا يختاروا حسب ذوقهم هم."
+      ],
+      [
+        "Ben",
+        "Und bei Fragen können sie uns vor dem Probieren ansprechen.",
+        "ولو عندهم أسئلة يقدروا يسألونا قبل ما يدوقوا."
+      ]
+    ],
+    "q": [
+      [
+        "Was steht auf der zweiten Karte?",
+        "Die tatsächlich verwendeten Zutaten.",
+        "Nur das Wort besser.",
+        "Der Preis des Tisches."
+      ],
+      [
+        "Warum braucht Ben einen zweiten Löffel?",
+        "Die Mischungen sollen getrennt bleiben.",
+        "Er hat den ersten verkauft.",
+        "Die Gäste bringen keine Teller."
+      ],
+      [
+        "Wer entscheidet nach dem eigenen Geschmack?",
+        "Die Gäste.",
+        "Nur Ben.",
+        "Nur Nora."
+      ]
+    ]
+  },
+  {
+    "id": "vorlieben-neu-fragen",
+    "level": "B1",
+    "title": [
+      "Der leere Becher beweist das nicht",
+      "الكوباية الفاضية مش دليل على ده"
+    ],
+    "lines": [
+      [
+        "Tarek",
+        "Ich schreibe auf: Alle mögen Zitronensaft im Salat.",
+        "هكتب: كلهم بيحبوا عصير الليمون في السلطة."
+      ],
+      [
+        "Dalia",
+        "Das wissen wir nicht. Eine Person hat gar keinen benutzt.",
+        "إحنا مانعرفش كده. فيه حد ماستخدموش خالص."
+      ],
+      [
+        "Tarek",
+        "Aber die kleine Schale ist leer.",
+        "بس الطبق الصغير فاضي."
+      ],
+      [
+        "Dalia",
+        "Daraus folgt nicht, dass alle dasselbe genommen haben.",
+        "ده مش معناه إن كلهم خدوا نفس الحاجة."
+      ],
+      [
+        "Tarek",
+        "Dann notiere ich: Zutaten getrennt anzubieten war heute praktisch.",
+        "يبقى أكتب: تقديم المكونات منفصلة كان عملي النهارده."
+      ],
+      [
+        "Dalia",
+        "Genau. Und vor dem nächsten Treffen fragen wir wieder nach Wünschen.",
+        "بالظبط. وقبل المقابلة الجاية نسأل تاني عن الرغبات."
+      ],
+      [
+        "Tarek",
+        "Die alte Notiz hilft uns nur bei der Vorbereitung.",
+        "الملاحظة القديمة تساعدنا في التجهيز بس."
+      ]
+    ],
+    "q": [
+      [
+        "Was beweist die leere Schale nicht?",
+        "Dass alle dieselbe Vorliebe haben.",
+        "Dass eine Schale benutzt wurde.",
+        "Dass die Freunde zusammen gegessen haben."
+      ],
+      [
+        "Welche Notiz bleibt am Ende?",
+        "Getrennte Zutaten waren heute praktisch.",
+        "Alle müssen Zitronensaft nehmen.",
+        "Wünsche werden nicht mehr erfragt."
+      ],
+      [
+        "Was tun sie vor dem nächsten Treffen?",
+        "Wieder nach Wünschen fragen.",
+        "Die alte Liste als feste Regel benutzen.",
+        "Die Schalen wegwerfen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "saft-extra-lassen": [
+    "Im oberen Regal, neben der Tasse.",
+    "Ich esse meinen Teil lieber ohne.",
+    "Dann stelle ich ihn in einer kleinen Schale auf den Tisch."
+  ],
+  "zweiter-loeffel": [
+    "Die Zutaten, die wir tatsächlich benutzt haben.",
+    "Ich möchte die Mischungen getrennt lassen.",
+    "Unsere Gäste sollen nach ihrem eigenen Geschmack wählen."
+  ],
+  "vorlieben-neu-fragen": [
+    "Daraus folgt nicht, dass alle dasselbe genommen haben.",
+    "Zutaten getrennt anzubieten war heute praktisch.",
+    "Und vor dem nächsten Treffen fragen wir wieder nach Wünschen."
+  ]
+});

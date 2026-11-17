@@ -39,4 +39,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-malplatz',dialogue:'palette-aus-dem-regal'},
  {reading:'alltag-a2-farbproben',dialogue:'farbprobe-nicht-wegwerfen'},
  {reading:'alltag-b1-bilderrunde',dialogue:'bild-am-platz-lassen'},
+ {reading:'alltag-a1-zitronenpresse',dialogue:'saft-extra-lassen'},
+ {reading:'alltag-a2-moerser',dialogue:'zweiter-loeffel'},
+ {reading:'alltag-b1-kuechenzettel',dialogue:'vorlieben-neu-fragen'},
 ];

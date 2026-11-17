@@ -96,3 +96,6 @@ readings.push(...musikrundeTexts);
 
 import {malrundeTexts} from './reading-malrunde';
 readings.push(...malrundeTexts);
+
+import {kuechenprepTexts} from './reading-kuechenprep';
+readings.push(...kuechenprepTexts);

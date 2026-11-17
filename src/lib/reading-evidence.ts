@@ -284,3 +284,24 @@ Object.assign(readingEvidence,{
     "Die Beteiligten fragen zuerst, ob und wofür eine Aufnahme gewünscht ist."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zitronenpresse": [
+    "Lena und Omar machen einen Salat.",
+    "Sie schaut zuerst in die Schublade.",
+    "Neben einer Tasse steht die Presse.",
+    "Omar möchte seinen Teil ohne Zitronensaft essen."
+  ],
+  "alltag-a2-moerser": [
+    "Ben übernimmt lieber das Beschriften der kleinen Schalen.",
+    "Ben schreibt deshalb auf die Karten, was jeweils darin ist, statt nur gut oder besser daraufzuschreiben.",
+    "Sie möchte die Mischungen nicht unbeabsichtigt vermengen.",
+    "Wer Fragen hat, soll vor dem Probieren nachfragen."
+  ],
+  "alltag-b1-kuechenzettel": [
+    "Zwei Personen hatten den Saft getrennt genommen, und eine weitere hatte gar keinen benutzt.",
+    "Vor einem neuen Treffen wollen sie daher erneut nach Wünschen fragen.",
+    "Tarek wartet, bis sie die Mischung in eine andere Schale gegeben hat.",
+    "Die Liste bleibt bei Dalia, aber sie enthält keine Namen und keine persönlichen Gesundheitsangaben."
+  ]
+});
