@@ -22778,3 +22778,218 @@ Object.assign(dialogueEvidence,{
     "nachdem die Karten liegen."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "hagebutten-mirabellen-mit-n",
+    "level": "A1",
+    "title": [
+      "Beide mit n",
+      "الاتنين بإن"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Hier stehen die Hagebutte und die Mirabelle.",
+        "هنا مكتوب دي هاجه بوته ودي ميرابيله."
+      ],
+      [
+        "Ben",
+        "Und wie heißen die Mehrzahlformen?",
+        "وجمعهم إيه؟"
+      ],
+      [
+        "Lea",
+        "Hagebutten und Mirabellen. Bei beiden kommt ein n dazu.",
+        "هاجه بوتن وميرابيلن. بنزود إن للاتنين."
+      ],
+      [
+        "Ben",
+        "Der Artikel bleibt also die.",
+        "يعني أداة التعريف بتفضل دي."
+      ],
+      [
+        "Lea",
+        "Ja. Ich decke jetzt die rechte Spalte zu.",
+        "أيوه. هغطي العمود اليمين دلوقتي."
+      ],
+      [
+        "Ben",
+        "Ich schreibe beide Formen noch einmal ohne Vorlage.",
+        "هكتب الصيغتين تاني من غير نموذج قدامي."
+      ],
+      [
+        "Lea",
+        "Danach vergleichen wir die Buchstaben.",
+        "بعد كده نقارن الحروف."
+      ]
+    ],
+    "q": [
+      [
+        "Was kommt bei beiden Wörtern dazu?",
+        "Ein n.",
+        "Ein e.",
+        "Ein s."
+      ],
+      [
+        "Was bleibt gleich?",
+        "Der Artikel die.",
+        "Die Zahl der Buchstaben.",
+        "Die ganze Wortform."
+      ],
+      [
+        "Wann vergleichen sie die Buchstaben?",
+        "Nach dem Schreiben ohne Vorlage.",
+        "Vor jeder Erklärung.",
+        "Erst nach einem Einkauf."
+      ]
+    ]
+  },
+  {
+    "id": "sichtbares-und-vermutetes",
+    "level": "A2",
+    "title": [
+      "Den Ort offenlassen",
+      "نسيب المكان مفتوح"
+    ],
+    "lines": [
+      [
+        "Mina",
+        "Ich sehe Früchte zwischen grünen Blättern.",
+        "شايفة ثمار وسط ورق أخضر."
+      ],
+      [
+        "Oskar",
+        "Das schreibe ich zu den Beobachtungen.",
+        "هكتب ده مع الملاحظات."
+      ],
+      [
+        "Mina",
+        "Das ist bestimmt ein großer Garten.",
+        "دي أكيد جنينة كبيرة."
+      ],
+      [
+        "Oskar",
+        "Vielleicht. Aber der Bildausschnitt zeigt das nicht sicher.",
+        "ممكن. بس الكادر مش موضح ده بشكل أكيد."
+      ],
+      [
+        "Mina",
+        "Dann kommt dieser Satz in die Spalte für Vermutungen.",
+        "يبقى الجملة دي في عمود التخمينات."
+      ],
+      [
+        "Oskar",
+        "Genau. Den Ort lassen wir in der Beschreibung offen.",
+        "بالظبط. نسيب المكان مفتوح في الوصف."
+      ],
+      [
+        "Mina",
+        "Wir arbeiten nur mit den vorbereiteten Bildern am Tisch.",
+        "إحنا شغالين بالصور المتحضرة على الترابيزة بس."
+      ]
+    ],
+    "q": [
+      [
+        "Was ist direkt sichtbar?",
+        "Früchte zwischen grünen Blättern.",
+        "Die Größe des ganzen Gartens.",
+        "Die Adresse des Ortes."
+      ],
+      [
+        "Wohin kommt der Satz über den Garten?",
+        "Zu den Vermutungen.",
+        "Zu den sicheren Beobachtungen.",
+        "In eine Preisliste."
+      ],
+      [
+        "Womit arbeiten sie?",
+        "Mit vorbereiteten Bildern am Tisch.",
+        "Mit einem echten Ernteauftrag.",
+        "Mit einer Pflanzenprüfung draußen."
+      ]
+    ]
+  },
+  {
+    "id": "farbe-ohne-unbelegte-ursache",
+    "level": "B1",
+    "title": [
+      "Was belegt das Bild?",
+      "الصورة بتثبت إيه؟"
+    ],
+    "lines": [
+      [
+        "Rami",
+        "Ich habe geschrieben: Die Früchte sind rot, weil der Standort sonnig ist.",
+        "كتبت: الثمار حمرا عشان المكان مشمس."
+      ],
+      [
+        "Jule",
+        "Die Farbe sehe ich. Die Ursache belegt das Foto nicht.",
+        "شايفة اللون. الصورة مش بتثبت السبب."
+      ],
+      [
+        "Rami",
+        "Reicht es, wenn ich vielleicht ergänze?",
+        "كفاية أزود يمكن؟"
+      ],
+      [
+        "Jule",
+        "Das zeigt Unsicherheit, aber es schafft keinen Beleg.",
+        "ده بيبين عدم التأكد بس مش بيعمل دليل."
+      ],
+      [
+        "Rami",
+        "Dann beschreibe ich nur die sichtbaren Früchte am Zweig.",
+        "يبقى أوصف الثمار الظاهرة على الفرع بس."
+      ],
+      [
+        "Jule",
+        "Und die verschiedenen Farben zeigen hier keine zeitliche Reihenfolge.",
+        "واختلاف الألوان هنا مش بيبين ترتيب زمني."
+      ],
+      [
+        "Rami",
+        "Genau. Wir haben ein einzelnes Foto und keine Bildserie.",
+        "بالظبط. معانا صورة واحدة مش سلسلة صور."
+      ]
+    ],
+    "q": [
+      [
+        "Was ist am Foto sichtbar?",
+        "Die Farbe der Früchte.",
+        "Die genaue Ursache der Farbe.",
+        "Der gesamte Wachstumsverlauf."
+      ],
+      [
+        "Was bewirkt vielleicht?",
+        "Es kennzeichnet Unsicherheit, ohne einen Beleg zu schaffen.",
+        "Es beweist automatisch eine Ursache.",
+        "Es ersetzt eine ganze Bildserie."
+      ],
+      [
+        "Welches Material haben sie?",
+        "Ein einzelnes Foto statt einer Bildserie.",
+        "Ein Video über das ganze Jahr.",
+        "Eine Prüfung unbekannter Pflanzen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "hagebutten-mirabellen-mit-n": [
+    "Bei beiden kommt ein n dazu.",
+    "Der Artikel bleibt also die.",
+    "Danach vergleichen wir die Buchstaben."
+  ],
+  "sichtbares-und-vermutetes": [
+    "Ich sehe Früchte zwischen grünen Blättern.",
+    "in die Spalte für Vermutungen.",
+    "mit den vorbereiteten Bildern am Tisch."
+  ],
+  "farbe-ohne-unbelegte-ursache": [
+    "Die Farbe sehe ich.",
+    "Das zeigt Unsicherheit, aber es schafft keinen Beleg.",
+    "ein einzelnes Foto und keine Bildserie."
+  ]
+});

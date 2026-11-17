@@ -2237,3 +2237,24 @@ Object.assign(readingEvidence,{
     "Nun beschreibt Adam eine neue Anordnung aus Livs Sicht und sagt diese Perspektive ausdrücklich dazu."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-ein-n-fuer-die-mehrzahl": [
+    "Ben liest Hagebutte und ergänzt ein n.",
+    "Lea unterstreicht das letzte n in beiden Wörtern.",
+    "Anschließend deckt sie die rechte Spalte mit den Mehrzahlformen zu.",
+    "Erst danach nimmt Lea die Abdeckung weg."
+  ],
+  "alltag-a2-nur-der-bildausschnitt": [
+    "Oskar notiert diese Beobachtungen in der linken Spalte ihres Blattes.",
+    "Dann sagt Mina, die Früchte seien bestimmt in einem großen Garten fotografiert worden.",
+    "Es könnte ein Garten sein, doch der Ausschnitt zeigt das nicht.",
+    "Sie sollen nichts pflücken und keine Pflanze draußen bestimmen."
+  ],
+  "alltag-b1-beobachtung-ist-keine-erklaerung": [
+    "Den ersten Teil können beide am Bild prüfen.",
+    "Vielleicht zeigt zwar Unsicherheit, liefert aber keine zusätzliche Grundlage für die behauptete Ursache.",
+    "Doch sie haben nur ein einzelnes Bild und keine Bildserie.",
+    "Damit ist die Zuordnung von Text und sichtbarem Bild geprüft."
+  ]
+});

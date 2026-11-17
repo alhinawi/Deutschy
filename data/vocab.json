@@ -675,6 +675,10 @@
   {
    "id": "kleinefruechte",
    "ar": "كمكوات وليتشي"
+  },
+  {
+   "id": "zweigfruechte",
+   "ar": "ثمار على الفروع"
   }
  ],
  "words": [
@@ -14346,6 +14350,36 @@
     "file": "15221058.jpg",
     "commons": "https://www.pexels.com/photo/red-fruits-in-close-up-shot-15221058/",
     "author": "Consuelo Borroni",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "hagebutte",
+   "topic": "zweigfruechte",
+   "art": "die",
+   "de": "Hagebutte",
+   "plural": "Hagebutten",
+   "ar": "ثمر الورد البري",
+   "photo": {
+    "file": "39898893.jpg",
+    "commons": "https://www.pexels.com/photo/vibrant-red-rose-hips-on-green-leafy-branch-39898893/",
+    "author": "László Glatz",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "mirabelle",
+   "topic": "zweigfruechte",
+   "art": "die",
+   "de": "Mirabelle",
+   "plural": "Mirabellen",
+   "ar": "برقوق ميرابيل",
+   "photo": {
+    "file": "30560209.jpg",
+    "commons": "https://www.pexels.com/photo/ripe-mirabelle-plums-on-tree-branches-30560209/",
+    "author": "Jakub N",
     "license": "Pexels License",
     "modified": true
    }

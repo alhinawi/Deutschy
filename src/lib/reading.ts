@@ -375,3 +375,6 @@ readings.push(...obstkartenTexts);
 
 import {kleinefruechteTexts} from './reading-kleinefruechte';
 readings.push(...kleinefruechteTexts);
+
+import {zweigfruechteTexts} from './reading-zweigfruechte';
+readings.push(...zweigfruechteTexts);
