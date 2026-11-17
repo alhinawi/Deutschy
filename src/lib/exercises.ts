@@ -411,3 +411,6 @@ for(const[topic,rows]of Object.entries(tischbittenGrammar))exercises[topic].push
 
 import {lesestellenGrammar} from './exercises-lesestellen';
 for(const[topic,rows]of Object.entries(lesestellenGrammar))exercises[topic].push(...rows);
+
+import {tischaufgabenGrammar} from './exercises-tischaufgaben';
+for(const[topic,rows]of Object.entries(tischaufgabenGrammar))exercises[topic].push(...rows);

@@ -507,6 +507,10 @@
   {
    "id": "lesestellen",
    "ar": "علامة كتاب ومفصلة"
+  },
+  {
+   "id": "tischaufgaben",
+   "ar": "كاشطة عجين ومفرش فردي"
   }
  ],
  "words": [
@@ -12918,6 +12922,36 @@
     "file": "17503605.jpg",
     "commons": "https://www.pexels.com/photo/close-up-of-hinge-on-wooden-planks-17503605/",
     "author": "Brett Sayles",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "teigschaber",
+   "topic": "tischaufgaben",
+   "art": "der",
+   "de": "Teigschaber",
+   "plural": "-",
+   "ar": "كاشطة عجين",
+   "photo": {
+    "file": "13072134.jpg",
+    "commons": "https://www.pexels.com/photo/brownies-and-silicone-cooking-spatulas-beside-green-plant-13072134/",
+    "author": "Vija Rindo Pratama",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "platzdeckchen",
+   "topic": "tischaufgaben",
+   "art": "das",
+   "de": "Platzdeckchen",
+   "plural": "-",
+   "ar": "مفرش فردي للطبق",
+   "photo": {
+    "file": "4554335.jpg",
+    "commons": "https://www.pexels.com/photo/brown-woven-mat-on-white-background-4554335/",
+    "author": "Engin Akyurt",
     "license": "Pexels License",
     "modified": true
    }

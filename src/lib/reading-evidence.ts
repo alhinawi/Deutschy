@@ -1355,3 +1355,24 @@ Object.assign(readingEvidence,{
     "ob der jeweilige Zusammenhang erkennbar ist."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-nicht-der-pinsel": [
+    "Ben greift zuerst nach dem Pinsel.",
+    "Mira legt den benutzten Teigschaber auf ein Tablett.",
+    "Er legt es auf den Tisch, dann stellt er einen Teller darauf.",
+    "Sie hat noch nicht gespült."
+  ],
+  "alltag-a2-nur-die-deckchen-zaehlen": [
+    "Sie bittet ihn nur, die Platzdeckchen im Schrank zu zählen.",
+    "weil die Tante zwei eigene Deckchen verwenden will.",
+    "Während Nils zählt, legt Lea ihren sauberen Teigschaber in eine kleine Schachtel.",
+    "Die Zahl sechs beschreibt den Vorrat im Schrank vor dem Packen;"
+  ],
+  "alltag-b1-was-heisst-tisch-vorbereiten": [
+    "Eva versteht darunter zunächst die Arbeitsfläche,",
+    "Damit ist ihre vereinbarte Aufgabe erledigt,",
+    "Der neue Satz benennt Gegenstände, Ort und Aufteilung.",
+    "Wer später die Backgeräte spült"
+  ]
+});

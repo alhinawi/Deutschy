@@ -814,9 +814,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Mobile navigation/headings | Game-back link44px minimum and keyboard ring; actual focus inspected. QA found long compound title overflow at320px; reading/detail-list headings now break long words; rerun passes. Result rings/44px/wrap, grading/XP, progress/input/topic states unchanged. |
 | [ ] | Listening/dictation |63 original segments/Egyptian Arabic. Native editorial and actual-device voice pending. No real browser mutation or door/function inspection. |
 
+### List 83: preparation tools, counting and agreed tasks
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-nicht-der-pinsel/` and linked dialogue | Original fictional kitchen: both tools black, Ben initially reaches for brush; Mira specifies scraper's flat head. Used scraper to tray, bowl to sink but no washing yet. Placemat before plate; second mat stays cupboard and second plate waits. No finished cake served. |
+| [ ] | `/reading/alltag-a2-nur-die-deckchen-zaehlen/` and linked dialogue | Lea declines whole packing offer, asks counting only/no removal.6 in cupboard,4 selected/packed by Lea,2 remain; aunt has2 own. Nils checks off4 mats only, Lea records scraper herself. Closed bag by door, no departure yet. Distinguish initial offer, accepted request and later limited checkbox help. |
+| [ ] | `/reading/alltag-b1-was-heisst-tisch-vorbereiten/` and linked dialogue | Ambiguous table-preparation note allows work-surface/meal-table interpretations. Rami clarifies4 placemats only; plates/cutlery his. Eva agrees, returns unused tools to cupboard, lays mats. Her part done before plates. Revised private reminder not household plan; washing/further prep still to discuss. |
+| [ ] | `/lessons/tischaufgaben/` and `/credits/` | der Teigschaber/- and das Platzdeckchen/-. كاشطة عجين and مفرش فردي للطبق. Whole black scraper/head/handle along bottom of actual photo, separate brush and brownies above; whole round woven mat on original white background. Real faceless/unbranded800x600 crops, no padding. No product/material/heat-resistance claims. |
+| [ ] | Six appended grammar banks |24 article/accusative/perfect/modal/two-way-preposition/connector rows; old IDs retained. gezählt/gepackt/zurückgelegt/verstanden; sollen/wollen/müssen/können; auf dem/den Tisch and in der/die Tasche; weil/während/nachdem. |
+| [ ] | Keyboard spelling confirmation | Check submit now explicit offset focus ring. AR/EN390 actual keyboard-focused pixels inspected. Grading/state/XP unchanged. Existing44px navigation/results, topic/input/progress/linking states remain covered. |
+| [ ] | Listening/dictation |63 original segments/Egyptian Arabic. Native editorial and actual-device voice pending. All characters/tasks fictional. No actual message, packing arrangement or household commitment. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **821 photo nouns / 127 topics**, **264 reading texts / 1009 reading questions**, **41 core grammar topics / 1918 core grammar questions**, **204 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **823 photo nouns / 128 topics**, **267 reading texts / 1021 reading questions**, **41 core grammar topics / 1942 core grammar questions**, **207 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -828,7 +840,7 @@ This is an inventory, not completed review. Snapshot: **821 photo nouns / 127 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 70 · A2 98 · B1 66 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 71 · A2 99 · B1 67 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

@@ -192,4 +192,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-die-seite-wiederfinden',dialogue:'das-blaue-zeichen-im-buch'},
  {reading:'alltag-a2-die-wortliste-wartet',dialogue:'erst-den-abschnitt-beenden'},
  {reading:'alltag-b1-ein-wort-zwei-lesezeichen',dialogue:'band-im-buch-oder-browser'},
+ {reading:'alltag-a1-nicht-der-pinsel',dialogue:'das-andere-schwarze-geraet'},
+ {reading:'alltag-a2-nur-die-deckchen-zaehlen',dialogue:'zaehlen-ist-nicht-einpacken'},
+ {reading:'alltag-b1-was-heisst-tisch-vorbereiten',dialogue:'vier-deckchen-mehr-nicht'},
 ];

@@ -249,3 +249,6 @@ readings.push(...tischbittenTexts);
 
 import {lesestellenTexts} from './reading-lesestellen';
 readings.push(...lesestellenTexts);
+
+import {tischaufgabenTexts} from './reading-tischaufgaben';
+readings.push(...tischaufgabenTexts);

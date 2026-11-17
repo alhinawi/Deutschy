@@ -13748,3 +13748,218 @@ Object.assign(dialogueEvidence,{
     "Noch ist keines ausgewählt."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "das-andere-schwarze-geraet",
+    "level": "A1",
+    "title": [
+      "Das andere schwarze Gerät",
+      "الأداة السودا التانية"
+    ],
+    "lines": [
+      [
+        "Mira",
+        "Gib mir bitte den Teigschaber. Ich brauche ihn für den Rest in der Schüssel.",
+        "اديني كاشطة العجين لو سمحت. محتاجاها للباقي اللي في الطبق."
+      ],
+      [
+        "Ben",
+        "Meinst du diesen schwarzen Pinsel?",
+        "قصدك الفرشة السودا دي؟"
+      ],
+      [
+        "Mira",
+        "Nein, das andere Gerät mit dem flachen Kopf.",
+        "لأ، الأداة التانية اللي راسها مسطحة."
+      ],
+      [
+        "Ben",
+        "Hier bitte. Den Pinsel lege ich zurück.",
+        "اتفضلي. هرجع الفرشة مكانها."
+      ],
+      [
+        "Mira",
+        "Danke. Danach lege ich den Teigschaber auf das Tablett.",
+        "شكرًا. بعد كده هحط الكاشطة على الصينية."
+      ],
+      [
+        "Ben",
+        "Ich lege inzwischen ein Platzdeckchen auf den Tisch und stelle einen Teller darauf.",
+        "في الوقت ده هحط مفرش فردي على الترابيزة وأحط طبق عليه."
+      ],
+      [
+        "Mira",
+        "Gut. Mit dem zweiten Teller kannst du noch auf mich warten.",
+        "تمام. ممكن تستناني بالطبق التاني."
+      ]
+    ],
+    "q": [
+      [
+        "Welches Merkmal nennt Mira?",
+        "Den flachen Kopf.",
+        "Einen roten Stiel.",
+        "Eine goldene Schrift."
+      ],
+      [
+        "Was legt Ben zurück?",
+        "Den Backpinsel.",
+        "Den benutzten Teigschaber.",
+        "Den gefüllten Teller."
+      ],
+      [
+        "Worauf stellt Ben einen Teller?",
+        "Auf ein Platzdeckchen.",
+        "Auf die Form.",
+        "Auf Miras Tablett."
+      ]
+    ]
+  },
+  {
+    "id": "zaehlen-ist-nicht-einpacken",
+    "level": "A2",
+    "title": [
+      "Zählen ist nicht Einpacken",
+      "العد مش تحضير الشنطة"
+    ],
+    "lines": [
+      [
+        "Nils",
+        "Soll ich dir die ganze Tasche packen?",
+        "أحضّر لك الشنطة كلها؟"
+      ],
+      [
+        "Lea",
+        "Danke, aber ich ordne die Sachen selbst ein. Zähl bitte nur die Platzdeckchen im Schrank.",
+        "شكرًا بس هرتب الحاجات بنفسي. عد المفارش الفردية في الدولاب بس لو سمحت."
+      ],
+      [
+        "Nils",
+        "Hier liegen sechs. Soll ich alle herausnehmen?",
+        "هنا 6. أطلعهم كلهم؟"
+      ],
+      [
+        "Lea",
+        "Nein, lass sie noch liegen. Ich nehme selbst vier. Unsere Tante verwendet zwei eigene.",
+        "لأ سيبهم مكانهم دلوقتي. هاخد 4 بنفسي. خالتنا هتستخدم مفرشين عندها."
+      ],
+      [
+        "Nils",
+        "Und der Teigschaber?",
+        "وكاشطة العجين؟"
+      ],
+      [
+        "Lea",
+        "Den habe ich schon in die Schachtel gepackt. Hak bitte nur die vier Deckchen ab.",
+        "حطيتها خلاص في العلبة. حط علامة صح عند الـ4 مفارش بس لو سمحت."
+      ],
+      [
+        "Nils",
+        "Gut. Zwei Deckchen bleiben also im Schrank.",
+        "تمام. يبقى مفرشين هيفضلوا في الدولاب."
+      ]
+    ],
+    "q": [
+      [
+        "Was lehnt Lea ab?",
+        "Dass Nils die ganze Tasche packt.",
+        "Dass Nils die Deckchen zählt.",
+        "Dass ihre Tante eigene Deckchen verwendet."
+      ],
+      [
+        "Wie viele Deckchen nimmt Lea mit?",
+        "Vier.",
+        "Sechs.",
+        "Zwei."
+      ],
+      [
+        "Welchen Punkt soll Nils abhaken?",
+        "Die vier Platzdeckchen.",
+        "Den Teigschaber.",
+        "Die Abholung an der Tür."
+      ]
+    ]
+  },
+  {
+    "id": "vier-deckchen-mehr-nicht",
+    "level": "B1",
+    "title": [
+      "Vier Deckchen, mehr nicht",
+      "4 مفارش وبس"
+    ],
+    "lines": [
+      [
+        "Rami",
+        "Mit Tisch meinte ich den Esstisch. Meine Notiz war nicht eindeutig.",
+        "كنت أقصد ترابيزة الأكل. الملحوظة بتاعتي ماكانتش واضحة."
+      ],
+      [
+        "Eva",
+        "Ich dachte an die Arbeitsfläche für den Teig. Deshalb liegen hier die Schüssel und der Teigschaber.",
+        "افتكرت قصدك سطح الشغل للعجين. عشان كده هنا الطبق الغويط والكاشطة."
+      ],
+      [
+        "Rami",
+        "Leg bitte nur vier Platzdeckchen auf den Esstisch. Teller und Besteck übernehme ich.",
+        "حطي 4 مفارش فردية بس على ترابيزة الأكل لو سمحتي. أنا هتولى الأطباق وأدوات الأكل."
+      ],
+      [
+        "Eva",
+        "Einverstanden. Dann ist mein Teil mit den vier Deckchen erledigt.",
+        "موافقة. يبقى دوري يخلص بالـ4 مفارش."
+      ],
+      [
+        "Rami",
+        "Genau. Ich schreibe die Aufteilung für ein anderes Mal deutlicher auf.",
+        "بالظبط. هكتب التقسيم أوضح لمرة تانية."
+      ],
+      [
+        "Eva",
+        "Wer die Backgeräte später spült, haben wir damit noch nicht festgelegt.",
+        "كده لسه ماحددناش مين هيغسل أدوات الخَبز بعدين."
+      ],
+      [
+        "Rami",
+        "Das besprechen wir im Anschluss. Die Notiz ist kein vollständiger Haushaltsplan.",
+        "نتكلم في ده بعد كده. الملحوظة مش خطة كاملة لشغل البيت."
+      ]
+    ],
+    "q": [
+      [
+        "Was übernimmt Rami ausdrücklich?",
+        "Teller und Besteck.",
+        "Evas vier Platzdeckchen.",
+        "Garantiert alle späteren Spülarbeiten."
+      ],
+      [
+        "Welcher Aufgabe stimmt Eva zu?",
+        "Vier Platzdeckchen auf den Esstisch zu legen.",
+        "Den ganzen Haushalt allein zu führen.",
+        "Sofort alle Backgeräte zu spülen."
+      ],
+      [
+        "Was wollen sie erst anschließend besprechen?",
+        "Wer später die Backgeräte spült.",
+        "Ob mit Tisch der Esstisch gemeint war.",
+        "Wer Teller und Besteck übernimmt."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "das-andere-schwarze-geraet": [
+    "mit dem flachen Kopf.",
+    "Den Pinsel lege ich zurück.",
+    "ein Platzdeckchen auf den Tisch"
+  ],
+  "zaehlen-ist-nicht-einpacken": [
+    "ich ordne die Sachen selbst ein.",
+    "Ich nehme selbst vier.",
+    "nur die vier Deckchen ab."
+  ],
+  "vier-deckchen-mehr-nicht": [
+    "Teller und Besteck übernehme ich.",
+    "mein Teil mit den vier Deckchen erledigt.",
+    "Das besprechen wir im Anschluss."
+  ]
+});
