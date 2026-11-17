@@ -330,3 +330,6 @@ readings.push(...sportoberflaechenTexts);
 
 import {badbilderTexts} from './reading-badbilder';
 readings.push(...badbilderTexts);
+
+import {naturmusterTexts} from './reading-naturmuster';
+readings.push(...naturmusterTexts);

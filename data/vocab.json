@@ -615,6 +615,10 @@
   {
    "id": "badbilder",
    "ar": "أعواد القطن وبط اللعب"
+  },
+  {
+   "id": "naturmuster",
+   "ar": "الحصى وبقية جذع الشجرة"
   }
  ],
  "words": [
@@ -13836,6 +13840,36 @@
     "file": "30209468.jpg",
     "commons": "https://www.pexels.com/photo/yellow-rubber-ducks-by-poolside-30209468/",
     "author": "Thomas Parker",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "kieselstein",
+   "topic": "naturmuster",
+   "art": "der",
+   "de": "Kieselstein",
+   "plural": "Kieselsteine",
+   "ar": "حجر حصى",
+   "photo": {
+    "file": "36902884.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-of-smooth-pebbles-on-a-rocky-beach-36902884/",
+    "author": "Maximiliana Eligi Mtenga",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "baumstumpf",
+   "topic": "naturmuster",
+   "art": "der",
+   "de": "Baumstumpf",
+   "plural": "Baumstümpfe",
+   "ar": "بقية جذع شجرة مقطوعة أو مكسورة",
+   "photo": {
+    "file": "11690460.jpg",
+    "commons": "https://www.pexels.com/photo/brown-tree-stump-in-close-up-shot-11690460/",
+    "author": "Jake Biewer",
     "license": "Pexels License",
     "modified": true
    }

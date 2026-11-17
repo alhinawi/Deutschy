@@ -492,3 +492,6 @@ for(const[topic,rows]of Object.entries(sportoberflaechenGrammar))exercises[topic
 
 import {badbilderGrammar} from './exercises-badbilder';
 for(const[topic,rows]of Object.entries(badbilderGrammar))exercises[topic].push(...rows);
+
+import {naturmusterGrammar} from './exercises-naturmuster';
+for(const[topic,rows]of Object.entries(naturmusterGrammar))exercises[topic].push(...rows);

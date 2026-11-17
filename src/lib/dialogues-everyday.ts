@@ -19553,3 +19553,218 @@ Object.assign(dialogueEvidence,{
     "von einer Produktprüfung getrennt."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "wo-sind-die-ringe",
+    "level": "A1",
+    "title": [
+      "Wo sind die Ringe?",
+      "الحلقات فين؟"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Wo siehst du die feinen Ringe?",
+        "شايف الحلقات الرفيعة فين؟"
+      ],
+      [
+        "Karim",
+        "Auf dem Baumstumpf im zweiten Foto.",
+        "على بقية جذع الشجرة في الصورة التانية."
+      ],
+      [
+        "Lea",
+        "Und was liegt in der Mitte des ersten Fotos?",
+        "وفي نص الصورة الأولى فيه إيه؟"
+      ],
+      [
+        "Karim",
+        "Ein rötlich-brauner Kieselstein zwischen anderen Steinen.",
+        "حجر حصى بني محمر وسط حجارة تانية."
+      ],
+      [
+        "Lea",
+        "Wachsen grüne Pflanzen am Rand des Baumstumpfs?",
+        "فيه نباتات خضرا طالعة حوالين طرف بقية الجذع؟"
+      ],
+      [
+        "Karim",
+        "Ja. Und auf dem Holz liegen einige braune Blätter.",
+        "أيوه وعلى الخشب فيه شوية ورق شجر بني."
+      ],
+      [
+        "Lea",
+        "Dann beschreiben wir die Fotos und lesen die Wörter noch einmal.",
+        "يبقى نوصف الصور ونقرا الكلمات تاني."
+      ]
+    ],
+    "q": [
+      [
+        "Wo sind die Ringe?",
+        "Auf dem Baumstumpf.",
+        "Auf einer Spielkarte.",
+        "In einem Heft."
+      ],
+      [
+        "Was liegt zwischen den anderen Steinen?",
+        "Ein rötlich-brauner Kieselstein.",
+        "Ein gelber Hut.",
+        "Eine Holzschüssel."
+      ],
+      [
+        "Welche Blätter liegen auf dem Holz?",
+        "Braune Blätter.",
+        "Blaue Blätter.",
+        "Weiße Papierblätter."
+      ]
+    ]
+  },
+  {
+    "id": "ein-e-und-ein-umlaut",
+    "level": "A2",
+    "title": [
+      "Ein e und ein Umlaut",
+      "حرف إي وأوملاوت"
+    ],
+    "lines": [
+      [
+        "Nele",
+        "Beide Wörter haben der. Reicht das für die Mehrzahl?",
+        "الكلمتين ليهم دير. ده كفاية عشان الجمع؟"
+      ],
+      [
+        "Amir",
+        "Nein. Wir lernen Kieselsteine und Baumstümpfe getrennt.",
+        "لأ. بنتعلم كيزِلشتاينه وباومشتومفه كل واحدة لوحدها."
+      ],
+      [
+        "Nele",
+        "Beide enden auf e, aber Baumstümpfe hat auch einen Umlaut.",
+        "الاتنين آخرهم إي بس باومشتومفه فيها أوملاوت كمان."
+      ],
+      [
+        "Amir",
+        "Genau. Beim Kieselstein bleibt der Vokal unverändert.",
+        "بالظبط. في كيزِلشتاين حرف العلة بيفضل زي ما هو."
+      ],
+      [
+        "Nele",
+        "Unsere Sätze mit mehrere sind aber keine Zählung der Fotos.",
+        "بس جملنا اللي فيها كذا مش عد للصور."
+      ],
+      [
+        "Amir",
+        "Richtig. Beispiele und Bildbeschreibung stehen getrennt.",
+        "صح. الأمثلة ووصف الصور منفصلين."
+      ],
+      [
+        "Nele",
+        "Dann prüfe ich Artikel, Endung und Umlaut noch einmal.",
+        "يبقى أراجع الأداة والنهاية والأوملاوت تاني."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Mehrzahl hat einen Umlaut?",
+        "Baumstümpfe.",
+        "Kieselsteine.",
+        "Beide haben denselben Umlaut."
+      ],
+      [
+        "Was bleibt bei Kieselstein unverändert?",
+        "Der Vokal.",
+        "Das gesamte Nomen im Plural.",
+        "Jedes Zahlwort."
+      ],
+      [
+        "Was sind die Beispielsätze nicht?",
+        "Eine Zählung der Fotos.",
+        "Sprachübung.",
+        "Eigene Sätze."
+      ]
+    ]
+  },
+  {
+    "id": "kein-fachgutachten-aus-dem-foto",
+    "level": "B1",
+    "title": [
+      "Kein Fachgutachten aus dem Foto",
+      "مش تقرير خبير من الصورة"
+    ],
+    "lines": [
+      [
+        "Tarek",
+        "Kann ich dem Stein einen bestimmten Fluss zuordnen?",
+        "أقدر أنسب الحجر لنهر معين؟"
+      ],
+      [
+        "Jule",
+        "Nicht ohne zusätzliche verlässliche Angaben.",
+        "مش من غير بيانات إضافية موثوقة."
+      ],
+      [
+        "Tarek",
+        "Und die Ringlinien im Holz liefern mir sofort ein genaues Alter?",
+        "وخطوط الحلقات في الخشب تديني عمر دقيق فورًا؟"
+      ],
+      [
+        "Jule",
+        "Wir haben die Voraussetzungen dafür nicht geprüft.",
+        "إحنا ماراجعناش الشروط اللازمة لده."
+      ],
+      [
+        "Tarek",
+        "Dann beschreibe ich Muster, Risse und die Pflanzen am Rand.",
+        "يبقى أوصف النقشة والشقوق والنباتات على الطرف."
+      ],
+      [
+        "Jule",
+        "Ja. Herkunft, genaue Maße und frühere Ereignisse lassen wir offen.",
+        "أيوه. المصدر والمقاسات الدقيقة واللي حصل زمان هنسيبهم من غير حكم."
+      ],
+      [
+        "Tarek",
+        "Die Sprachübung soll kein Fachgutachten vortäuschen.",
+        "تدريب اللغة ماينفعش يدعي إنه تقرير خبير."
+      ]
+    ],
+    "q": [
+      [
+        "Was braucht die Zuordnung zu einem Fluss?",
+        "Zusätzliche verlässliche Angaben.",
+        "Nur einen rötlichen Farbton.",
+        "Eine gleiche Kartenbreite."
+      ],
+      [
+        "Was wurde nicht geprüft?",
+        "Die Voraussetzungen für die Altersbestimmung.",
+        "Dass Bilder angezeigt werden.",
+        "Dass Wörter gelernt werden."
+      ],
+      [
+        "Was soll die Übung nicht vortäuschen?",
+        "Ein Fachgutachten.",
+        "Eine Wortübung.",
+        "Eine Bildbeschreibung."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "wo-sind-die-ringe": [
+    "Auf dem Baumstumpf",
+    "Ein rötlich-brauner Kieselstein",
+    "einige braune Blätter."
+  ],
+  "ein-e-und-ein-umlaut": [
+    "Baumstümpfe hat auch einen Umlaut.",
+    "bleibt der Vokal unverändert.",
+    "keine Zählung der Fotos."
+  ],
+  "kein-fachgutachten-aus-dem-foto": [
+    "zusätzliche verlässliche Angaben.",
+    "die Voraussetzungen dafür nicht geprüft.",
+    "kein Fachgutachten vortäuschen."
+  ]
+});

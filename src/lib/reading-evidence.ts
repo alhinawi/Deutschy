@@ -1922,3 +1922,24 @@ Object.assign(readingEvidence,{
     "Die Gruppe gibt keine Anleitung zur Verwendung am Körper"
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-steine-und-holz": [
+    "In der Mitte liegt ein größer wirkender rötlich-brauner Stein.",
+    "einen Baumstumpf von oben.",
+    "Auf ihr sind feine Ringe und dunkle Risse zu sehen.",
+    "Sie nehmen keine Steine mit"
+  ],
+  "alltag-a2-artikel-und-mehrzahl": [
+    "Sie finden Kieselsteine und Baumstümpfe.",
+    "nur beim zweiten Wort verändert sich außerdem der Vokal zum Umlaut.",
+    "Diese Zahlwörter gehören zur Sprachübung.",
+    "Nele trennt deshalb die Beispielsätze von den Bildbeschreibungen."
+  ],
+  "alltag-b1-muster-ohne-herkunftsnachweis": [
+    "welche geprüften Angaben diese Behauptungen stützen. Solche Informationen liegen ihnen nicht vor.",
+    "ersetzt keinen gemessenen Maßstab.",
+    "Die Gruppe hat das nicht geleistet.",
+    "Sie fordert niemanden auf, Steine mitzunehmen, Holz zu entfernen oder Pflanzen zu verändern."
+  ]
+});
