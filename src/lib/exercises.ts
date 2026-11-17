@@ -249,3 +249,6 @@ for(const [topic,rows]of Object.entries(readingcornerGrammar))exercises[topic].p
 
 import {handarbeitGrammar} from './exercises-handarbeit';
 for(const [topic,rows]of Object.entries(handarbeitGrammar))exercises[topic].push(...rows);
+
+import {briefplatzGrammar} from './exercises-briefplatz';
+for(const [topic,rows]of Object.entries(briefplatzGrammar))exercises[topic].push(...rows);

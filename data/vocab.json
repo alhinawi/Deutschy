@@ -291,6 +291,10 @@
   {
    "id": "handarbeit",
    "ar": "أدوات أشغال يدوية"
+  },
+  {
+   "id": "briefplatz",
+   "ar": "حاجات للجوابات"
   }
  ],
  "words": [
@@ -11035,6 +11039,55 @@
     "author": "Clément Bucco-Lechat",
     "license": "CC BY-SA 3.0",
     "padding": true
+   }
+  },
+  {
+   "id": "briefoeffner",
+   "topic": "briefplatz",
+   "art": "der",
+   "de": "Brieföffner",
+   "plural": "-",
+   "ar": "فتاحة جوابات",
+   "photo": {
+    "file": "Bakelite letter opener.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bakelite_letter_opener.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Bakelite_letter_opener.jpg",
+    "author": "Sarefo",
+    "license": "CC BY-SA 4.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "briefumschlag",
+   "topic": "briefplatz",
+   "art": "der",
+   "de": "Briefumschlag",
+   "plural": "Briefumschläge",
+   "ar": "ظرف جواب",
+   "photo": {
+    "file": "Brown envelope 2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Brown_envelope_2.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Brown_envelope_2.jpg",
+    "author": "Taibhseoir",
+    "license": "CC BY-SA 4.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "stempel",
+   "topic": "briefplatz",
+   "art": "der",
+   "de": "Stempel",
+   "plural": "-",
+   "ar": "ختم",
+   "photo": {
+    "file": "Stempel, Stempelkissen, Stempelfarbe.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Stempel%2C_Stempelkissen%2C_Stempelfarbe.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Stempel%2C_Stempelkissen%2C_Stempelfarbe.jpg",
+    "author": "5snake5",
+    "license": "CC0",
+    "padding": true,
+    "modified": true
    }
   }
  ]
