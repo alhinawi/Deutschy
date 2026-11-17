@@ -111,3 +111,6 @@ readings.push(...fahrradeckeTexts);
 
 import {naehboxTexts} from './reading-naehbox';
 readings.push(...naehboxTexts);
+
+import {schultascheTexts} from './reading-schultasche';
+readings.push(...schultascheTexts);

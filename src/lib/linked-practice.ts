@@ -54,4 +54,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-garnrolle',dialogue:'garnrolle-bleibt'},
  {reading:'alltag-a2-nahttrenner',dialogue:'nahttrenner-karte'},
  {reading:'alltag-b1-stoffreste',dialogue:'stoffreste-erlaubnis'},
+ {reading:'alltag-a1-federmaeppchen',dialogue:'maeppchen-schon-da'},
+ {reading:'alltag-a2-gummiband',dialogue:'karten-getrennt'},
+ {reading:'alltag-b1-fundnotiz',dialogue:'maeppchen-zuordnen'},
 ];

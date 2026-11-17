@@ -389,3 +389,24 @@ Object.assign(readingEvidence,{
     "Der neue Zettel gilt nur für den Inhalt dieser Schachtel."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-federmaeppchen": [
+    "Lea packt ihre Tasche für den Deutschkurs.",
+    "Dort liegt aber nur ihr Schal.",
+    "Im kleinen Fach liegt das Mäppchen schon.",
+    "Sie hat es gestern Abend eingepackt."
+  ],
+  "alltag-a2-gummiband": [
+    "Für eine kleine Übung im Deutschkurs hat Nils sechs Wortkarten vorbereitet.",
+    "Eines liegt schon um einen Stapel alter Notizen. Dieses Band nimmt sie nicht weg.",
+    "Nils legt es zu seinen drei Schultaschen-Karten und steckt die drei Küchen-Karten in einen kleinen Umschlag.",
+    "Im Kurs möchte Nils erst beide Gruppen zeigen und sie danach mischen lassen."
+  ],
+  "alltag-b1-fundnotiz": [
+    "Die Farbe allein reicht nicht aus, um den Besitzer zu kennen.",
+    "Jan antwortet, sein Mäppchen habe einen blauen Reißverschluss. Das gefundene hat jedoch einen schwarzen.",
+    "Esra öffnet es nicht, um nach privaten Angaben zu suchen.",
+    "Es gibt noch keine vereinbarte Übergabe."
+  ]
+});

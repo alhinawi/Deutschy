@@ -3858,3 +3858,218 @@ Object.assign(dialogueEvidence,{
     "Der Zettel gilt also nicht für das ganze Regal."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "maeppchen-schon-da",
+    "level": "A1",
+    "title": [
+      "Schau ins kleine Fach",
+      "بصي في الخانة الصغيرة"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Ich finde mein Federmäppchen nicht.",
+        "مش لاقية المقلمة بتاعتي."
+      ],
+      [
+        "Tarek",
+        "Hast du schon in die Tasche geschaut?",
+        "بصيتي في الشنطة؟"
+      ],
+      [
+        "Lea",
+        "Nein, ich suche noch auf dem Stuhl.",
+        "لأ، لسه بدور على الكرسي."
+      ],
+      [
+        "Tarek",
+        "Da liegt nur dein Schal. Schau ins kleine Fach der Tasche.",
+        "هناك الشال بتاعك بس. بصي في الخانة الصغيرة بتاعة الشنطة."
+      ],
+      [
+        "Lea",
+        "Ach ja! Ich habe es gestern Abend eingepackt.",
+        "آه صح! أنا حطيته امبارح بالليل."
+      ],
+      [
+        "Tarek",
+        "Dann fehlen nur noch die Stifte.",
+        "يبقى ناقص الأقلام بس."
+      ],
+      [
+        "Lea",
+        "Die stecke ich jetzt hinein. Danke!",
+        "هحطهم جواها دلوقتي. شكراً!"
+      ]
+    ],
+    "q": [
+      [
+        "Was sucht Lea?",
+        "Ihr Federmäppchen.",
+        "Tareks Jacke.",
+        "Einen neuen Stuhl."
+      ],
+      [
+        "Wohin soll sie schauen?",
+        "Ins kleine Fach der Tasche.",
+        "Auf das Dach.",
+        "Hinter den Kühlschrank."
+      ],
+      [
+        "Was steckt Lea am Ende hinein?",
+        "Die Stifte.",
+        "Den Schal.",
+        "Den Stuhl."
+      ]
+    ]
+  },
+  {
+    "id": "karten-getrennt",
+    "level": "A2",
+    "title": [
+      "Das lose Band, bitte",
+      "الأستك السايب لو سمحتي"
+    ],
+    "lines": [
+      [
+        "Nils",
+        "Ich möchte die beiden Kartengruppen getrennt mitbringen.",
+        "عايز أجيب مجموعتين الكروت منفصلين."
+      ],
+      [
+        "Hana",
+        "Hier ist ein Gummiband um die alten Notizen.",
+        "فيه أستك هنا حوالين ورق الملاحظات القديم."
+      ],
+      [
+        "Nils",
+        "Das lass bitte dort. Neben dem Mäppchen liegt noch eines.",
+        "سيبيه هناك لو سمحتي. جنب المقلمة فيه واحد تاني."
+      ],
+      [
+        "Hana",
+        "Ja, das liegt lose. Hier, bitte.",
+        "آه، ده سايب. اتفضل."
+      ],
+      [
+        "Nils",
+        "Die Küchen-Karten kommen in den kleinen Umschlag.",
+        "كروت المطبخ هتتحط في الظرف الصغير."
+      ],
+      [
+        "Hana",
+        "Prüfen wir vor dem Mischen noch einmal, ob alle sechs Karten da sind?",
+        "نتأكد تاني قبل الخلط إن الكروت الـ6 موجودين؟"
+      ],
+      [
+        "Nils",
+        "Gern. Erst zeigen wir die Gruppen, danach mischen wir.",
+        "ماشي. نوري المجموعتين الأول، وبعدين نخلط."
+      ]
+    ],
+    "q": [
+      [
+        "Welches Band soll Hana nehmen?",
+        "Das lose neben dem Mäppchen.",
+        "Das um die alten Notizen.",
+        "Ein Band aus dem Umschlag."
+      ],
+      [
+        "Was kommt in den Umschlag?",
+        "Die Küchen-Karten.",
+        "Alle alten Notizen.",
+        "Das Federmäppchen."
+      ],
+      [
+        "Was möchten sie vor dem Mischen prüfen?",
+        "Ob alle sechs Karten da sind.",
+        "Ob ein Prüfungspreis feststeht.",
+        "Ob das Regal verkauft ist."
+      ]
+    ]
+  },
+  {
+    "id": "maeppchen-zuordnen",
+    "level": "B1",
+    "title": [
+      "Welche Farbe hat der Reißverschluss?",
+      "السوستة لونها إيه؟"
+    ],
+    "lines": [
+      [
+        "Jan",
+        "Du hast ein braunes Federmäppchen gefunden? Meines ist auch braun.",
+        "إنتي لقيتي مقلمة بنية؟ بتاعتي بنية برضه."
+      ],
+      [
+        "Esra",
+        "Ja, aber die Farbe allein reicht noch nicht. Kannst du deines genauer beschreiben?",
+        "آه، بس اللون لوحده لسه مش كفاية. تقدر توصف بتاعتك بدقة أكتر؟"
+      ],
+      [
+        "Jan",
+        "Es hat einen blauen Reißverschluss.",
+        "سوستتها زرقا."
+      ],
+      [
+        "Esra",
+        "Bei diesem hier ist der Reißverschluss schwarz.",
+        "دي هنا سوستتها سودة."
+      ],
+      [
+        "Jan",
+        "Dann ist meine Vermutung wohl nicht bestätigt.",
+        "يبقى تخميني لسه مش مؤكد."
+      ],
+      [
+        "Esra",
+        "Genau. Eine Übergabe haben wir noch nicht vereinbart.",
+        "بالظبط. لسه متفقناش على تسليم."
+      ],
+      [
+        "Jan",
+        "Dann klären wir erst mit der Gruppe, wie die Suche weitergeht.",
+        "يبقى نتفق الأول مع الجروب البحث هيكمل إزاي."
+      ]
+    ],
+    "q": [
+      [
+        "Was haben beide Mäppchen nach Jans Aussage gemeinsam?",
+        "Sie sind braun.",
+        "Sie haben einen blauen Reißverschluss.",
+        "Sie gehören sicher Jan."
+      ],
+      [
+        "Welche Farbe hat der Reißverschluss am Fundstück?",
+        "Schwarz.",
+        "Blau.",
+        "Grün."
+      ],
+      [
+        "Was wollen sie zuerst klären?",
+        "Wie die Suche mit der Gruppe weitergeht.",
+        "Einen bereits bestätigten Verkaufspreis.",
+        "Jans geplante Reparatur."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "maeppchen-schon-da": [
+    "Ich finde mein Federmäppchen nicht.",
+    "Schau ins kleine Fach der Tasche.",
+    "Die stecke ich jetzt hinein. Danke!"
+  ],
+  "karten-getrennt": [
+    "Neben dem Mäppchen liegt noch eines.",
+    "Die Küchen-Karten kommen in den kleinen Umschlag.",
+    "Prüfen wir vor dem Mischen noch einmal, ob alle sechs Karten da sind?"
+  ],
+  "maeppchen-zuordnen": [
+    "Meines ist auch braun.",
+    "Bei diesem hier ist der Reißverschluss schwarz.",
+    "Dann klären wir erst mit der Gruppe, wie die Suche weitergeht."
+  ]
+});
