@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the ninety-eighth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the ninety-ninth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1006,9 +1006,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Flash word audio focus | Revealed word audio control themed keyboard ring/page-ground gap. NativeAR/EN320/390 Tab focus after card, actual390pixels, card front/backEnter/Space/noXP. No score/schedule change. |
 | [ ] | Listening/dictation | Original linked segments, German speech payload/source checks. Native editorial/real-device voice review pending; labels not proficiency claims. |
 
+### List 99: Instrument names, agreed correction and sound-source limits
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zwei-namen-mit-s/` and linked dialogue | Huda/Jan identify Kalimba/Banjo from photos, record die Kalimbas/die Banjos, self-correct der to das Banjo from model. Partner waits. Names/articles only, not instrument playing. |
+| [ ] | `/reading/alltag-a2-korrektur-nach-dem-satz/` and linked dialogue | Fatma/Ben agree not to interrupt this practice round, ask before replaying error after description. Reciprocal agreement, one known correction, second uncertain form left for teacher. Not universal rule against interruption or forced correction. |
+| [ ] | `/reading/alltag-b1-nur-ein-kurzer-ton/` and linked dialogue | Explicit fictional listening situation, no actual instrumental audio supplied. Photo/source relationship and unchanged sound not established. Separate visible structure, tentative impression, documented source. No quality/skill diagnosis, no instrument comparison from speech synthesizer. |
+| [ ] | `/lessons/instrumentenblick/` and `/credits/` | die Kalimba/Kalimbas (كاليمبا), das Banjo/Banjos (بانجو). Duden Kalimba, DWDS Banjo. Antoni Shkraba6252161 1800x2700 rotated90, crop200,0-2600,1800 whole oval8tine instrument/natural hands. Ilargian Faus1629782 1800x1187 crop35,0-1617,1187 whole round body/neck/head with torso only. 800x600 no instrument brand/faces/padding, shirt has decorative lettering. |
+| [ ] | Six appended grammar banks |24 article/accusative/present/possessive/two-way preposition/B1 connector rows. Older saved IDs unchanged. den Namen singular weak noun, verbessert/wartest/stimmt/beschreiben, ihren/sein/ihren/unsere, neben dem/das Blatt, in dem/das Heft, weil/Obwohl/damit/Bevor. Native German/Egyptian Arabic review pending. |
+| [ ] | Flashcard grade focus | Both Not yet / I knew it buttons get themed keyboard focus and page-ground gap, AR/EN320/390 Tab in source order. Actual390pixels inspected. No scheduling/points change; card Enter/Space remains noXP. |
+| [ ] | Listening/dictation |61 original segments,244 exact German payload/source checks. Native editorial/real-device voice review pending. Level labels not proficiency claims. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **853 photo nouns / 143 topics**, **312 reading texts / 1201 reading questions**, **41 core grammar topics / 2302 core grammar questions**, **252 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **855 photo nouns / 144 topics**, **315 reading texts / 1213 reading questions**, **41 core grammar topics / 2326 core grammar questions**, **255 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1020,7 +1032,7 @@ This is an inventory, not completed review. Snapshot: **853 photo nouns / 143 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 86 · A2 114 · B1 82 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 87 · A2 115 · B1 83 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

@@ -240,4 +240,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zweimal-frucht',dialogue:'die-punkte-fehlen'},
  {reading:'alltag-a2-nacherzaehlt-nicht-gemacht',dialogue:'wer-handelt-im-text'},
  {reading:'alltag-b1-woher-kommt-das-detail',dialogue:'das-war-die-andere-geschichte'},
+ {reading:'alltag-a1-zwei-namen-mit-s',dialogue:'das-banjo-nicht-der'},
+ {reading:'alltag-a2-korrektur-nach-dem-satz',dialogue:'lass-mich-aussprechen'},
+ {reading:'alltag-b1-nur-ein-kurzer-ton',dialogue:'gehoert-der-ton-zum-foto'},
 ];

@@ -1691,3 +1691,24 @@ Object.assign(readingEvidence,{
     "Über den tatsächlichen Aufnahmeort, den Anlass der Fotos oder den späteren Verzehr wissen die beiden weiterhin nichts Sicheres."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zwei-namen-mit-s": [
+    "Auf dem ersten Bild hält jemand eine Kalimba mit Metallstreifen in beiden Händen.",
+    "Beide Wörter bekommen am Ende ein s.",
+    "Beim Banjo sagt sie zuerst der.",
+    "Heute üben sie die Namen, nicht das Spielen der Instrumente."
+  ],
+  "alltag-a2-korrektur-nach-dem-satz": [
+    "Fatma bittet Ben, sie nicht mitten im Satz zu unterbrechen.",
+    "Als Fatma fertig ist, fragt er, ob sie die Stelle noch einmal hören möchte.",
+    "Als sie bei einer Form unsicher ist, sagt sie das offen",
+    "Ihre Vereinbarung gilt für diese Übungsrunde"
+  ],
+  "alltag-b1-nur-ein-kurzer-ton": [
+    "Leila fragt zunächst, ob die Aufnahme überhaupt zu einem der Fotos gehört.",
+    "Beides wurde nicht bestätigt.",
+    "eine verlässliche Angabe zur tatsächlichen Klangquelle.",
+    "Die Vorlesefunktion liest die deutschen Sätze vor; sie ersetzt keinen Klangvergleich."
+  ]
+});
