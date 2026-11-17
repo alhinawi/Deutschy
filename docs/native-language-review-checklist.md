@@ -317,6 +317,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/grammar/akkusativ/`, `/grammar/possessiv/`, `/grammar/modalverben/`, `/grammar/imperativ/`, `/grammar/komparativ/`, `/grammar/dativ-praepositionen/` | Review 24 appended questions and both explanations: cases/possessives, infinitive placement, du/ihr/Sie imperatives, länger/dunkler/besser, den Handtüchern. Previous saved identities remain fixed. |
 | [ ] | `/sound-contrasts/` and `/dictation/` | Check temporary 0.65 / 0.85 / 1 listening-speed choices; changing speed/voice cancels the current question and audio. Replay retains selected word/rate, stale error ignored, current error cancels question, no-voice fallback. No scoring or saved history; reload returns 0.85. Listen to 43 new focused dictation sentences on a real German voice; mocks do not validate pronunciation. |
 
+### List 42: home entrance, stairwell and present-form controls
+
+| Review | Route / item | Focus |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-schluesselhaken/` | Review **Der Schlüssel hängt links** and **Nicht an den freien Haken**: brown mat outside, left hook for Dina, blue ring in middle, right hook free, cap on bench, shoes in rack, identify caller first. Check 7 questions/evidence and Egyptian meanings. |
+| [ ] | `/reading/alltag-a2-schirmstaender/` | Review **Zwei Schirme mit ähnlichem Griff** and **Der andere ist noch nicht meiner**: curved handles do not settle ownership; Felix confirms green band, gray-tag umbrella remains unclaimed pending flatmate reply. No borrowing or purchase. Check 7 questions and evidence. |
+| [ ] | `/reading/alltag-a2-briefkastenzettel/` | Review **Nur ein Hinweis zum Namensschild** and **Die Briefe bleiben an ihrem Platz**: loose nameplate, not new delivery instructions; letters untouched, no relabeling, repair not yet agreed. Fictional building, no current housing/postal rules claimed. Check 7 questions/evidence and Egyptian translation. |
+| [ ] | `/lessons/hauseingang/` | Check die Fußmatte / Fußmatten and der Schirmständer / die Schirmständer. Entire plain mat and complete physical metal umbrella stand, historic form, not a drawing. No faces, brands or object crop. Source/author/license/padding recorded in Credits. |
+| [ ] | `/grammar/satzbau/`, `/grammar/praesens/`, `/grammar/negation/`, `/grammar/trennbare-verben/`, `/grammar/dativ/`, `/grammar/perfekt/` | Review 24 appended questions: verb-second/neutral questions, hängt/liest, keinen Brief, aufschließen/mitnehmen, dem Nachbarn, den Freunden, aufgeschlossen/mitgenommen/vereinbart. Previous saved identities remain fixed. |
+| [ ] | `/conjugation/#present-focus` and `/dictation/` | Check current-attempt clear removes input/feedback without changing verb/person; clear and next-person return focus to input. Counter is person position, not mastery. Verb/person changes clear attempt; reload resets. No points/history. Review 42 focused dictation sentences with a real German voice, not mocks. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -331,7 +342,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **739 photo nouns / 86 topics**, **141 reading texts / 517 reading questions**, **41 core grammar topics / 934 core grammar questions**, **81 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **741 photo nouns / 87 topics**, **144 reading texts / 529 reading questions**, **41 core grammar topics / 958 core grammar questions**, **84 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -343,7 +354,7 @@ This is an inventory, not completed review. Snapshot: **739 photo nouns / 86 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 29 · A2 46 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 30 · A2 48 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

@@ -343,6 +343,10 @@
   {
    "id": "waescheregal",
    "ar": "حاجات لرف الغسيل"
+  },
+  {
+   "id": "hauseingang",
+   "ar": "مدخل البيت والسلم"
   }
  ],
  "words": [
@@ -11503,6 +11507,36 @@
     "commons": "https://commons.wikimedia.org/wiki/File:20140418_washboard.jpg",
     "author": "Yoshibay",
     "license": "Public domain",
+    "padding": true
+   }
+  },
+  {
+   "id": "fussmatte",
+   "topic": "hauseingang",
+   "art": "die",
+   "de": "Fußmatte",
+   "plural": "Fußmatten",
+   "ar": "دواسة قدام الباب",
+   "photo": {
+    "file": "Coconut peat mat.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Coconut_peat_mat.jpg",
+    "author": "Vis M",
+    "license": "CC BY-SA 4.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "schirmstaender",
+   "topic": "hauseingang",
+   "art": "der",
+   "de": "Schirmständer",
+   "plural": "-",
+   "ar": "حامل شماسي",
+   "photo": {
+    "file": "Schirmständer Metall (fcm).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Schirmst%C3%A4nder_Metall_(fcm).jpg",
+    "author": "Frank C. Müller",
+    "license": "CC BY-SA 4.0",
     "padding": true
    }
   }

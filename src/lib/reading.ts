@@ -126,3 +126,6 @@ readings.push(...schuhplatzTexts);
 
 import {waescheregalTexts} from './reading-waescheregal';
 readings.push(...waescheregalTexts);
+
+import {hauseingangTexts} from './reading-hauseingang';
+readings.push(...hauseingangTexts);

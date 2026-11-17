@@ -69,4 +69,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-fusselrolle',dialogue:'rolle-im-korb'},
  {reading:'alltag-a2-waschbrett',dialogue:'waschbrett-ganz-im-bild'},
  {reading:'alltag-a2-waeschezeichen',dialogue:'hemd-erst-naehen'},
+ {reading:'alltag-a1-schluesselhaken',dialogue:'linker-haken'},
+ {reading:'alltag-a2-schirmstaender',dialogue:'schirm-erst-zuordnen'},
+ {reading:'alltag-a2-briefkastenzettel',dialogue:'nur-das-schild'},
 ];

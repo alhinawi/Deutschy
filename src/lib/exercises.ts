@@ -288,3 +288,6 @@ for(const[topic,rows]of Object.entries(schuhplatzGrammar))exercises[topic].push(
 
 import {waescheregalGrammar} from './exercises-waescheregal';
 for(const[topic,rows]of Object.entries(waescheregalGrammar))exercises[topic].push(...rows);
+
+import {hauseingangGrammar} from './exercises-hauseingang';
+for(const[topic,rows]of Object.entries(hauseingangGrammar))exercises[topic].push(...rows);

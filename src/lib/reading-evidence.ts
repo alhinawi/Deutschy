@@ -494,3 +494,24 @@ Object.assign(readingEvidence,{
     "Sie besprechen keine Waschtemperatur und haben noch kein Waschprogramm gestartet."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-schluesselhaken": [
+    "Vor der Wohnungstür liegt eine braune Fußmatte.",
+    "Dina hängt ihren Schlüssel an den linken Haken.",
+    "Am mittleren hängt ein blauer Schlüsselring.",
+    "Seine Schuhe stellt er jetzt unten ins Schuhregal."
+  ],
+  "alltag-a2-schirmstaender": [
+    "Im Schirmständer im Hausflur stehen zwei schwarze Schirme mit gebogenem Griff.",
+    "Felix zeigt auf den Schirm mit dem grünen Band.",
+    "Daraus folgt aber noch nicht, dass der andere Mona gehört.",
+    "Sie möchte zuerst ihre Mitbewohnerin fragen, die ihren Schirm gestern benutzt hat."
+  ],
+  "alltag-a2-briefkastenzettel": [
+    "Darauf steht, dass das Namensschild an Noras Briefkasten locker ist.",
+    "Er möchte ihr helfen und schlägt vor, die Post vorübergehend auf das Schuhregal zu legen.",
+    "Rafi lässt die Post deshalb unangetastet.",
+    "Eine Reparatur ist aber noch nicht vereinbart."
+  ]
+});

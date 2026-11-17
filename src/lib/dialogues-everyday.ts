@@ -4933,3 +4933,218 @@ Object.assign(dialogueEvidence,{
     "fehlender Knopf am linken Ärmel."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "linker-haken",
+    "level": "A1",
+    "title": [
+      "Nicht an den freien Haken",
+      "مش في العلاقة الفاضية"
+    ],
+    "lines": [
+      [
+        "Noah",
+        "An welchen Haken hängst du deinen Schlüssel?",
+        "هتعلقي مفتاحك في أنهي علاقة؟"
+      ],
+      [
+        "Dina",
+        "An den linken. Am mittleren hängt schon der blaue Ring.",
+        "في اللي شمال. الحلقة الزرقا متعلقة في اللي في النص خلاص."
+      ],
+      [
+        "Noah",
+        "Der rechte ist noch frei.",
+        "اللي يمين لسه فاضية."
+      ],
+      [
+        "Dina",
+        "Ja, aber ich nehme wie immer den linken.",
+        "آه، بس هاخد اللي شمال زي كل مرة."
+      ],
+      [
+        "Noah",
+        "Ich lege meine Mütze auf die Bank und stelle die Schuhe ins Regal.",
+        "هحط طاقيتي على الدكة وأحط الجزمة في الجزامة."
+      ],
+      [
+        "Dina",
+        "Gut. Die braune Matte bleibt draußen vor der Tür.",
+        "تمام. الدواسة البنية تفضل بره قدام الباب."
+      ],
+      [
+        "Noah",
+        "Es klingelt. Ich schaue erst nach, wer da ist.",
+        "الجرس بيرن. هشوف الأول مين موجود."
+      ]
+    ],
+    "q": [
+      [
+        "Welchen Haken nimmt Dina?",
+        "Den linken.",
+        "Den rechten.",
+        "Den mittleren."
+      ],
+      [
+        "Wohin legt Noah seine Mütze?",
+        "Auf die Bank.",
+        "Auf die Fußmatte.",
+        "In den Briefkasten."
+      ],
+      [
+        "Was macht Noah beim Klingeln zuerst?",
+        "Er schaut nach, wer da ist.",
+        "Er hängt alle Schlüssel um.",
+        "Er nimmt einen fremden Schirm."
+      ]
+    ]
+  },
+  {
+    "id": "schirm-erst-zuordnen",
+    "level": "A2",
+    "title": [
+      "Der andere ist noch nicht meiner",
+      "التانية مش أكيد بتاعتي"
+    ],
+    "lines": [
+      [
+        "Mona",
+        "Gehört dir einer der schwarzen Schirme im Ständer?",
+        "واحدة من الشماسي السُود اللي في الحامل بتاعتك؟"
+      ],
+      [
+        "Felix",
+        "Ja, der mit dem grünen Band. Den habe ich heute früh abgestellt.",
+        "آه، اللي فيها الشريط الأخضر. حطيتها النهارده الصبح."
+      ],
+      [
+        "Mona",
+        "Dann bleibt der mit dem grauen Anhänger. Aber ich bin nicht sicher, ob er meiner ist.",
+        "يبقى فاضلة اللي فيها العلامة الرمادي. بس مش متأكدة إذا كانت بتاعتي."
+      ],
+      [
+        "Felix",
+        "Du erinnerst dich nur an den gebogenen Griff?",
+        "إنتي فاكرة الإيد المعقوفة بس؟"
+      ],
+      [
+        "Mona",
+        "Ja. Ich frage erst meine Mitbewohnerin.",
+        "آه. هسأل الأول اللي ساكنة معايا."
+      ],
+      [
+        "Felix",
+        "Gut, ich nehme jetzt nur meinen mit.",
+        "تمام، هاخد بتاعتي بس دلوقتي."
+      ],
+      [
+        "Mona",
+        "Den anderen lasse ich hier, bis ich eine Antwort habe.",
+        "هسيب التانية هنا لحد ما يبقى معايا رد."
+      ]
+    ],
+    "q": [
+      [
+        "Was kennzeichnet der Schirm von Felix?",
+        "Das grüne Band.",
+        "Der graue Anhänger.",
+        "Ein roter Griff."
+      ],
+      [
+        "Woran erinnert sich Mona sicher?",
+        "An den gebogenen Griff.",
+        "An eine rote Hülle.",
+        "An ein gelbes Band."
+      ],
+      [
+        "Was macht Mona mit dem anderen Schirm?",
+        "Sie lässt ihn bis zur Klärung stehen.",
+        "Sie nimmt ihn als Geschenk mit.",
+        "Sie verkauft ihn sofort."
+      ]
+    ]
+  },
+  {
+    "id": "nur-das-schild",
+    "level": "A2",
+    "title": [
+      "Die Briefe bleiben an ihrem Platz",
+      "الجوابات تفضل مكانها"
+    ],
+    "lines": [
+      [
+        "Rafi",
+        "Ich habe deinen Namen auf dem Zettel gesehen. Soll deine Post aufs Schuhregal?",
+        "شفت اسمك على الورقة. بريدك يتحط على الجزامة؟"
+      ],
+      [
+        "Nora",
+        "Nein. Nur das Namensschild am Briefkasten ist locker.",
+        "لأ. لوحة الاسم على صندوق البريد بس هي اللي مفكوكة."
+      ],
+      [
+        "Rafi",
+        "Dann lasse ich die Briefe an ihrem Platz.",
+        "يبقى أسيب الجوابات مكانها."
+      ],
+      [
+        "Nora",
+        "Danke. Ich möchte keine andere Zustellung.",
+        "شكراً. مش عايزة طريقة توصيل تانية."
+      ],
+      [
+        "Rafi",
+        "Hast du die Reparatur schon vereinbart?",
+        "اتفقتي على التصليح خلاص؟"
+      ],
+      [
+        "Nora",
+        "Noch nicht. Ich frage erst die zuständige Person im Haus.",
+        "لسه. هسأل الأول الشخص المسؤول في العمارة."
+      ],
+      [
+        "Rafi",
+        "Verstanden. Der Zettel beschreibt nur das Problem mit dem Schild.",
+        "فهمت. الورقة بتوصف بس مشكلة لوحة الاسم."
+      ]
+    ],
+    "q": [
+      [
+        "Was ist locker?",
+        "Das Namensschild am Briefkasten.",
+        "Das ganze Schuhregal.",
+        "Der Schirmständer."
+      ],
+      [
+        "Was macht Rafi mit den Briefen?",
+        "Er lässt sie an ihrem Platz.",
+        "Er legt sie auf das Regal.",
+        "Er öffnet sie für Nora."
+      ],
+      [
+        "Welcher nächste Schritt ist noch offen?",
+        "Nora fragt nach der Reparatur.",
+        "Rafi hat alle Namen geändert.",
+        "Nora hat den Briefkasten verkauft."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "linker-haken": [
+    "ich nehme wie immer den linken.",
+    "Ich lege meine Mütze auf die Bank",
+    "Ich schaue erst nach, wer da ist."
+  ],
+  "schirm-erst-zuordnen": [
+    "der mit dem grünen Band.",
+    "Du erinnerst dich nur an den gebogenen Griff?",
+    "Den anderen lasse ich hier, bis ich eine Antwort habe."
+  ],
+  "nur-das-schild": [
+    "Nur das Namensschild am Briefkasten ist locker.",
+    "Dann lasse ich die Briefe an ihrem Platz.",
+    "Ich frage erst die zuständige Person im Haus."
+  ]
+});
