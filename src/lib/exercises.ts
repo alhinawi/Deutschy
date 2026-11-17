@@ -261,3 +261,6 @@ for(const[topic,rows]of Object.entries(malrundeGrammar))exercises[topic].push(..
 
 import {kuechenprepGrammar} from './exercises-kuechenprep';
 for(const[topic,rows]of Object.entries(kuechenprepGrammar))exercises[topic].push(...rows);
+
+import {flurablageGrammar} from './exercises-flurablage';
+for(const[topic,rows]of Object.entries(flurablageGrammar))exercises[topic].push(...rows);

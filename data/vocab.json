@@ -307,6 +307,10 @@
   {
    "id": "kuechenprep",
    "ar": "تحضير الأكل"
+  },
+  {
+   "id": "flurablage",
+   "ar": "حاجات لمدخل البيت"
   }
  ],
  "words": [
@@ -11197,6 +11201,36 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Zitronenpresse-mit-zitrone.jpg",
     "author": "Alice Wiegand",
     "license": "CC BY-SA 3.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "schluesselring",
+   "topic": "flurablage",
+   "art": "der",
+   "de": "Schlüsselring",
+   "plural": "Schlüsselringe",
+   "ar": "حلقة مفاتيح",
+   "photo": {
+    "file": "Single empty keyring.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Single_empty_keyring.jpg",
+    "author": "Mbrickn",
+    "license": "CC0",
+    "padding": true
+   }
+  },
+  {
+   "id": "tuerstopper",
+   "topic": "flurablage",
+   "art": "der",
+   "de": "Türstopper",
+   "plural": "-",
+   "ar": "مصد باب",
+   "photo": {
+    "file": "Wooden wedge door stop.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Wooden_wedge_door_stop.jpg",
+    "author": "Strait",
+    "license": "Public domain",
     "padding": true
    }
   }
