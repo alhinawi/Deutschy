@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the twenty-ninth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the thirtieth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -185,6 +185,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/grammar/akkusativ/`, `/grammar/possessiv/`, `/grammar/modalverben/`, `/grammar/imperativ/`, `/grammar/komparativ/`, `/grammar/dativ-praepositionen/` | Review the 24 appended correspondence-desk prompts/explanations and alternative correct forms. Existing saved question IDs must not move. |
 | [ ] | `/perfekt/` and `/dictation/` | Check all 6 unchanged Perfekt-context prompts with new locks/counts, selected-choice feedback and temporary scoped reset. Review the 41 new dictation sentences with a real German voice, separate from mocked pronunciation-free QA. No points/history are written by these two practice tools. |
 
+### Thirtieth update: additional pending targets
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-plektrum/` | Check borrowed-plectrum language, yesterday/today, green pouch and all 4 evidence answers. Review linked dialogue **Das Plektrum zurückgeben**, informal apology, returning the object and its 3 answers separately. |
+| [ ] | `/reading/alltag-a2-klangprobe/` | Check listening sequence, Stimmgabel/Trommel/Tamburin, impressions versus marked answers and all 4 questions. Review **Nicht alles auf einmal**, pauses and its 3 answers. |
+| [ ] | `/reading/alltag-b1-rhythmusrunde/` | Check Abfolge, einsetzen, visible pause, rotating roles and Merkhilfe versus formal notation. Review **Wer zeigt die nächste Runde?** and all 7 reading/dialogue questions. This is an invented private exercise, not a music-teaching standard. |
+| [ ] | `/lessons/musikrunde/` | Check das Plektrum / Plektren (Plektra is also valid), die Stimmgabel / Stimmgabeln and Egyptian meanings. Do the complete isolated plectrum and tuning-fork photos clearly cue the nouns? No duplicate Tamburin entry was added. |
+| [ ] | `/grammar/satzbau/`, `/grammar/praesens/`, `/grammar/negation/`, `/grammar/trennbare-verben/`, `/grammar/dativ/`, `/grammar/perfekt/` | Review the 24 appended music-at-home prompts and explanations. Check neutral yes/no question versus a possible echo question and all separable/participle forms. Preserve earlier saved question indices. |
+| [ ] | `/case-lab/` and `/dictation/` | Check unchanged 12 case-comparison prompts with new locks, per-contrast counts, selected-answer feedback and scoped reset that keeps other groups. Review focused music-reading dictation on a real German voice. Mocked speech does not check pronunciation; these tools do not save points/history. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -199,7 +210,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **715 photo nouns / 74 topics**, **105 reading texts / 373 reading questions**, **41 core grammar topics / 646 core grammar questions**, **45 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **717 photo nouns / 75 topics**, **108 reading texts / 385 reading questions**, **41 core grammar topics / 670 core grammar questions**, **48 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -211,7 +222,7 @@ This is an inventory, not completed review. Snapshot: **715 photo nouns / 74 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 17 · A2 30 · B1 28 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 18 · A2 31 · B1 29 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
