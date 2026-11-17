@@ -489,3 +489,6 @@ for(const[topic,rows]of Object.entries(papierformenGrammar))exercises[topic].pus
 
 import {sportoberflaechenGrammar} from './exercises-sportoberflaechen';
 for(const[topic,rows]of Object.entries(sportoberflaechenGrammar))exercises[topic].push(...rows);
+
+import {badbilderGrammar} from './exercises-badbilder';
+for(const[topic,rows]of Object.entries(badbilderGrammar))exercises[topic].push(...rows);

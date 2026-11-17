@@ -19338,3 +19338,218 @@ Object.assign(dialogueEvidence,{
     "als Wortbeispiele, nicht als Messversuch."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "links-mit-hut",
+    "level": "A1",
+    "title": [
+      "Links mit Hut",
+      "على الشمال بقبعة"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Was liegt auf dem Holzlöffel?",
+        "إيه اللي على المعلقة الخشب؟"
+      ],
+      [
+        "Karim",
+        "Wattestäbchen mit weißen Enden und hellen Stielen.",
+        "أعواد قطن بأطراف بيضا وسيقان فاتحة."
+      ],
+      [
+        "Lea",
+        "Und wo stehen die zwei Badeenten?",
+        "والبطتين اللعب واقفين فين؟"
+      ],
+      [
+        "Karim",
+        "Auf roten Fliesen am Poolrand.",
+        "على بلاط أحمر على طرف حمام السباحة."
+      ],
+      [
+        "Lea",
+        "Welche trägt den Hut?",
+        "أنهي واحدة لابسة القبعة؟"
+      ],
+      [
+        "Karim",
+        "Die linke. Die rechte hat keinen Hut.",
+        "اللي على الشمال. اللي على اليمين من غير قبعة."
+      ],
+      [
+        "Lea",
+        "Dann üben wir jetzt die Namen und die Artikel zu diesen Bildern.",
+        "يبقى نتدرب دلوقتي على الأسامي والأدوات مع الصور دي."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Enden haben die Wattestäbchen?",
+        "Weiße Enden.",
+        "Blaue Schnäbel.",
+        "Rote Hüte."
+      ],
+      [
+        "Wo stehen die Enten?",
+        "Am Poolrand.",
+        "Auf einem Schreibtisch.",
+        "Im Löffel."
+      ],
+      [
+        "Welche Ente hat keinen Hut?",
+        "Die rechte.",
+        "Die linke.",
+        "Beide tragen einen Hut."
+      ]
+    ]
+  },
+  {
+    "id": "nicht-automatisch-im-bad",
+    "level": "A2",
+    "title": [
+      "Nicht automatisch im Bad",
+      "مش تلقائيًا في الحمام"
+    ],
+    "lines": [
+      [
+        "Nele",
+        "Ich habe Badewanne geschrieben, weil das Wort Badeente heißt.",
+        "أنا كتبت بانيو عشان الكلمة باده إنته."
+      ],
+      [
+        "Amir",
+        "Auf diesem Foto stehen die Enten aber am Poolrand.",
+        "بس في الصورة دي البط واقف على طرف حمام السباحة."
+      ],
+      [
+        "Nele",
+        "Dann muss ich den Namen vom sichtbaren Ort trennen.",
+        "يبقى لازم أفصل الاسم عن المكان اللي باين."
+      ],
+      [
+        "Amir",
+        "Genau. Auch der Holzlöffel beweist keine Küche.",
+        "بالظبط. والمعلقة الخشب برضه مش دليل على مطبخ."
+      ],
+      [
+        "Nele",
+        "Ich notiere nur den sichtbaren Untergrund und lasse den Raum offen.",
+        "هكتب السطح اللي باين بس وهسيب الأوضة من غير تحديد."
+      ],
+      [
+        "Amir",
+        "Und die Wörter mit Artikel stehen in einer eigenen Spalte.",
+        "والكلمات بالأداة تبقى في عمود لوحدها."
+      ],
+      [
+        "Nele",
+        "So wird aus einer Vermutung keine scheinbare Beobachtung.",
+        "كده التخمين مايتحولش لملاحظة شكلها مؤكدة."
+      ]
+    ],
+    "q": [
+      [
+        "Wo stehen die Enten auf dem Foto?",
+        "Am Poolrand.",
+        "In einer Badewanne.",
+        "In einer Küche."
+      ],
+      [
+        "Was soll getrennt werden?",
+        "Name und sichtbarer Ort.",
+        "Zwei belegte Eigentümernamen.",
+        "Zwei Bestellungen."
+      ],
+      [
+        "Was bleibt offen?",
+        "Der nicht erkennbare Raum.",
+        "Der sichtbare Holzlöffel.",
+        "Die Namen der Wörter."
+      ]
+    ]
+  },
+  {
+    "id": "keine-eigenschaft-ohne-beleg",
+    "level": "B1",
+    "title": [
+      "Keine Eigenschaft ohne Beleg",
+      "مفيش صفة من غير دليل"
+    ],
+    "lines": [
+      [
+        "Tarek",
+        "Die Enden sind weiß. Kann ich steril schreiben?",
+        "الأطراف بيضا. أقدر أكتب معقم؟"
+      ],
+      [
+        "Jule",
+        "Nicht aus dem Foto allein. Dafür fehlt ein verlässlicher Nachweis.",
+        "مش من الصورة لوحدها. ناقص دليل موثوق على ده."
+      ],
+      [
+        "Tarek",
+        "Und die Badeenten sehen wie freundliches Spielzeug aus.",
+        "والبط اللعب شكله لطيف."
+      ],
+      [
+        "Jule",
+        "Das beweist weder eine Altersfreigabe noch Produktsicherheit.",
+        "ده مش دليل على تصنيف سن ولا أمان منتج."
+      ],
+      [
+        "Tarek",
+        "Dann bleiben wir bei Namen, sichtbaren Formen und Farben.",
+        "يبقى نفضل في الأسامي والأشكال والألوان اللي باينة."
+      ],
+      [
+        "Jule",
+        "Und wir geben keine Anleitung zur Verwendung am Körper.",
+        "ومش هندي تعليمات استخدام على الجسم."
+      ],
+      [
+        "Tarek",
+        "Die Wortübung bleibt also von einer Produktprüfung getrennt.",
+        "يبقى تدريب الكلمات يفضل منفصل عن فحص منتج."
+      ]
+    ],
+    "q": [
+      [
+        "Wofür fehlt ein Nachweis?",
+        "Für die Behauptung steril.",
+        "Für die sichtbare weiße Farbe.",
+        "Für das Vorhandensein eines Fotos."
+      ],
+      [
+        "Was beweist der freundliche Eindruck nicht?",
+        "Produktsicherheit.",
+        "Dass die Bilder betrachtet werden.",
+        "Dass Wörter geübt werden."
+      ],
+      [
+        "Wovon bleibt die Wortübung getrennt?",
+        "Von einer Produktprüfung.",
+        "Von den Gegenstandsnamen.",
+        "Von sichtbaren Farben."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "links-mit-hut": [
+    "mit weißen Enden",
+    "am Poolrand.",
+    "Die rechte hat keinen Hut."
+  ],
+  "nicht-automatisch-im-bad": [
+    "am Poolrand.",
+    "den Namen vom sichtbaren Ort trennen.",
+    "lasse den Raum offen."
+  ],
+  "keine-eigenschaft-ohne-beleg": [
+    "Dafür fehlt ein verlässlicher Nachweis.",
+    "noch Produktsicherheit.",
+    "von einer Produktprüfung getrennt."
+  ]
+});

@@ -327,3 +327,6 @@ readings.push(...papierformenTexts);
 
 import {sportoberflaechenTexts} from './reading-sportoberflaechen';
 readings.push(...sportoberflaechenTexts);
+
+import {badbilderTexts} from './reading-badbilder';
+readings.push(...badbilderTexts);

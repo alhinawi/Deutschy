@@ -1901,3 +1901,24 @@ Object.assign(readingEvidence,{
     "eine Empfehlung für ein bestimmtes Spielniveau geben sie dagegen nicht ab."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-staebchen-und-spielenten": [
+    "liegen viele Wattestäbchen auf einem braunen Holzlöffel.",
+    "Die Ente links trägt einen Hut",
+    "stehen auf roten Fliesen am Rand eines Pools.",
+    "Sie schauen nur auf die Fotos."
+  ],
+  "alltag-a2-name-und-ort": [
+    "Die beiden gelben Spielzeuge stehen auf Fliesen neben einem Pool.",
+    "daraus folgt nicht, dass die Aufnahme in einer Küche entstanden ist.",
+    "in der zweiten nur die sichtbaren Ortsangaben.",
+    "Badeente erhält ein n."
+  ],
+  "alltag-b1-hell-ist-kein-pruefsiegel": [
+    "ein geprüfter hygienischer Zustand dagegen nicht.",
+    "Ihnen liegen weder eine geprüfte Produktbeschreibung noch ein Testbericht vor.",
+    "Tarek streicht die entsprechenden Adjektive",
+    "Die Gruppe gibt keine Anleitung zur Verwendung am Körper"
+  ]
+});
