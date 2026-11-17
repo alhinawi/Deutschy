@@ -345,3 +345,6 @@ readings.push(...wasserbilderTexts);
 
 import {knollenbilderTexts} from './reading-knollenbilder';
 readings.push(...knollenbilderTexts);
+
+import {obstansichtenTexts} from './reading-obstansichten';
+readings.push(...obstansichtenTexts);

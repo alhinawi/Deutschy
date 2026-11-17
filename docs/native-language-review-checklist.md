@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-fourteenth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-fifteenth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1198,9 +1198,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Word-card speech and long dialogue compounds | Existing word-card speech button gets themed keyboard focus on card ground;16 AR/EN320/390 Enter/Space states exact German payload/noXP/axe, Ingwer plural hidden. QA found Gesundheitsversprechen pushed dialogue speech button out at320: speech button now in speaker header, full-width shrinkable text with hyphenation/anywhere fallback; repeat content QA passed. No playback/scoring/filter/routing change. Actual AR/EN390 cards and320 dialogue inspected. |
 | [ ] | Listening/dictation |66 original segments,264 exact German payload/source/answer checks. Native editorial/real-device voice review pending. Level labels not certification; progress local. |
 
+### List 115: Open papaya and whole quinces
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-offene-papaya-ganze-quitten/` and linked dialogue | Lea/Karim open papaya with yellow flesh/dark seeds propped on green-skinned fruits, blurred fruit behind. Three whole yellow quinces on dark boards, left foreground/behind/right with large green leaf partly covering right fruit, lower leaf, light/shade. No buying/cutting/eating. |
+| [ ] | `/reading/alltag-a2-zwei-feminina-zwei-pluralformen/` and linked dialogue | Nele/Amir same feminine singular article not same plural ending: Papaya/Papayas retains y adds s, Quitte/Quitten adds n. No general feminine-fruit rule; open half not extra whole papaya, unclear total in that image. Three visible quinces separate from general plural form. |
+| [ ] | `/reading/alltag-b1-offene-und-geschlossene-ansicht/` and linked dialogue | Jule/Tarek similar card layout not same evidence: one open cut surface, other exterior only. Covered fruits/areas not assumed identical; leaf is visibility limit, no inferred interior/taste/ripeness/origin/health. No eating/preparation recommendation. |
+| [ ] | `/lessons/obstansichten/` and `/credits/` | die Papaya/Papayas (بابايا), die Quitte/Quitten (سفرجلة). Full DWDS forms. Juan Diaz10812833 papaya1800x1200 crop100,0-1700,1200; Sylwester Ficek18743047 quince1800x1200 crop0,0-1600,1200. Both800x600 no rotation/stretch/padding/face/brand.8181554,5626115,9944540,3698361,10899527 alternatives not selected. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way/negation rows, earlier IDs unchanged. die/die/das/der; der/dem/dem/den; wiederholt/markierst/zeigt/bestellen; ihre/sein/seinen/unsere; auf der/die Karte and neben dem/das Bild; keinen/kein/keine/nicht. |
+| [ ] | Lesson practice navigation | Five existing Flashcards/Photoquiz/Articles/Spelling/Memory links gain themed keyboard ring/card-ground gap.20 AR/EN320/390 keyboard/axe states, Enter opens correct existing topic-scoped game without XP. Actual AR/EN390 pixels inspected. No link target/filter/routing/scoring/playback logic changed. |
+| [ ] | Listening/dictation |74 original segments,296 exact German payload/source/answer checks. Native editorial/real-device voice review pending. Level labels not certification; progress local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **885 photo nouns / 159 topics**, **360 reading texts / 1393 reading questions**, **41 core grammar topics / 2686 core grammar questions**, **300 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **887 photo nouns / 160 topics**, **363 reading texts / 1405 reading questions**, **41 core grammar topics / 2710 core grammar questions**, **303 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1212,7 +1224,7 @@ This is an inventory, not completed review. Snapshot: **885 photo nouns / 159 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 102 · A2 130 · B1 98 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 103 · A2 131 · B1 99 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

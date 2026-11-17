@@ -2027,3 +2027,24 @@ Object.assign(readingEvidence,{
     "den gelernten Namen, die Beschreibung des sichtbaren Ausschnitts und offene Fragen"
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-offene-papaya-ganze-quitten": [
+    "Um die vielen dunklen Kerne herum ist das Fruchtfleisch gelb.",
+    "Eine Quitte liegt links vorn.",
+    "Das Blatt verdeckt einen Teil der Schale.",
+    "Im zweiten Foto sind die Früchte nicht aufgeschnitten."
+  ],
+  "alltag-a2-zwei-feminina-zwei-pluralformen": [
+    "Beide neuen Namen sind feminin: die Papaya und die Quitte.",
+    "Bei Papayas bleibt das y erhalten",
+    "Bei Quitten kommt ein n an das Wort Quitte.",
+    "Die offene Hälfte auf dem Papayafoto ist kein Nachweis für eine zusätzliche ganze Frucht."
+  ],
+  "alltag-b1-offene-und-geschlossene-ansicht": [
+    "wenn nur eines einen offenen Ausschnitt zeigt.",
+    "Er behauptet nicht, dass jedes verdeckte Exemplar auf dem Foto innen genauso aussieht.",
+    "Das große Blatt vor der rechten Frucht ist außerdem eine Sichtbegrenzung",
+    "Jule und Tarek notieren offene Fragen neben den Texten"
+  ]
+});

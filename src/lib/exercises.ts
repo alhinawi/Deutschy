@@ -507,3 +507,6 @@ for(const[topic,rows]of Object.entries(wasserbilderGrammar))exercises[topic].pus
 
 import {knollenbilderGrammar} from './exercises-knollenbilder';
 for(const[topic,rows]of Object.entries(knollenbilderGrammar))exercises[topic].push(...rows);
+
+import {obstansichtenGrammar} from './exercises-obstansichten';
+for(const[topic,rows]of Object.entries(obstansichtenGrammar))exercises[topic].push(...rows);

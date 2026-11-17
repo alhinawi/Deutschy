@@ -20628,3 +20628,218 @@ Object.assign(dialogueEvidence,{
     "keine Zubereitungsanleitung."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "papaya-offen-quitte-hinter-blatt",
+    "level": "A1",
+    "title": [
+      "Die Quitte hinter dem Blatt",
+      "السفرجلة ورا الورقة"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Was sehen wir in der offenen Papaya?",
+        "شايفين إيه في البابايا المفتوحة؟"
+      ],
+      [
+        "Karim",
+        "Gelbes Fruchtfleisch und viele dunkle Kerne.",
+        "لب أصفر وبذور غامقة كتير."
+      ],
+      [
+        "Lea",
+        "Und wie viele Quitten zeigt das zweite Foto?",
+        "والصورة التانية فيها كام ثمرة سفرجل؟"
+      ],
+      [
+        "Karim",
+        "Drei. Die rechte Quitte ist teilweise hinter einem Blatt.",
+        "تلاتة. السفرجلة اللي يمين جزء منها ورا ورقة."
+      ],
+      [
+        "Lea",
+        "Sehen wir auch ihr Inneres?",
+        "شايفين جوهها كمان؟"
+      ],
+      [
+        "Karim",
+        "Nein. Die Quitten sind nicht aufgeschnitten.",
+        "لأ. السفرجل مش مقطوع."
+      ],
+      [
+        "Lea",
+        "Dann beschreiben wir dort nur die sichtbare Außenseite.",
+        "يبقى نوصف هناك الجزء الخارجي اللي باين بس."
+      ]
+    ],
+    "q": [
+      [
+        "Was ist um die Papayakerne herum zu sehen?",
+        "Gelbes Fruchtfleisch.",
+        "Ein Preisschild.",
+        "Ein Holzdeckel."
+      ],
+      [
+        "Welche Quitte ist teilweise verdeckt?",
+        "Die rechte.",
+        "Keine, alle liegen frei.",
+        "Nur eine im Kühlschrank."
+      ],
+      [
+        "Welche Seite der Quitten beschreiben sie?",
+        "Die sichtbare Außenseite.",
+        "Eine frei erfundene Innenseite.",
+        "Nur eine Verpackung."
+      ]
+    ]
+  },
+  {
+    "id": "papayas-quitten-endungen-nicht-kopieren",
+    "level": "A2",
+    "title": [
+      "Die Endungen nicht kopieren",
+      "ماننسخش نهاية الكلمة"
+    ],
+    "lines": [
+      [
+        "Amir",
+        "Beide Namen haben den Artikel die. Haben sie auch dieselbe Pluralendung?",
+        "الاسمين أداتهم دي. جمعهم كمان ليه نفس النهاية؟"
+      ],
+      [
+        "Nele",
+        "Nein. Wir lernen die Papaya, die Papayas und die Quitte, die Quitten.",
+        "لأ. بنتعلم دي بابايا ودي باباياس ودي كفيته ودي كفيتن."
+      ],
+      [
+        "Amir",
+        "Bei Papayas bleibt das y und ein s kommt dazu.",
+        "في باباياس الواي بتفضل وبيتضاف إس."
+      ],
+      [
+        "Nele",
+        "Bei Quitten kommt ein n an Quitte.",
+        "في كفيتن بيتضاف إن لكفيته."
+      ],
+      [
+        "Amir",
+        "Daraus machen wir keine Regel für alle femininen Obstnamen.",
+        "مش هنعمل من ده قاعدة لكل أسامي الفاكهة المؤنث."
+      ],
+      [
+        "Nele",
+        "Und die offene Hälfte zählen wir nicht als zusätzliche ganze Papaya.",
+        "ومش هنعد النص المفتوح على إنه بابايا كاملة زيادة."
+      ],
+      [
+        "Amir",
+        "Ich trenne die Wortformen von der Beschreibung des Fotos.",
+        "هفصل صيغ الكلمات عن وصف الصورة."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Formen nennt Nele?",
+        "Papayas und Quitten.",
+        "Papayen und Quittes.",
+        "Papaya und Quitte als gleiche Pluralformen."
+      ],
+      [
+        "Was kommt an Quitte hinzu?",
+        "Ein n.",
+        "Ein s.",
+        "Ein y."
+      ],
+      [
+        "Was trennen sie?",
+        "Wortformen und Bildbeschreibung.",
+        "Zwei bezahlte Bestellungen.",
+        "Rezepte und Kochzeiten."
+      ]
+    ]
+  },
+  {
+    "id": "nicht-jede-ansicht-zeigt-das-innere",
+    "level": "B1",
+    "title": [
+      "Nicht jede Ansicht zeigt das Innere",
+      "مش كل منظر بيعرض اللي جوه"
+    ],
+    "lines": [
+      [
+        "Tarek",
+        "Soll ich bei beiden Fotos das Fruchtfleisch beschreiben?",
+        "أوصف اللب في الصورتين؟"
+      ],
+      [
+        "Jule",
+        "Nur die Papaya zeigt hier eine offene Schnittfläche.",
+        "البابايا بس اللي بتعرض هنا سطح قطع مفتوح."
+      ],
+      [
+        "Tarek",
+        "Bei den Quitten bleiben wir bei Schalen, Blättern und Holz.",
+        "في السفرجل هنكتفي بالقشرة والورق والخشب."
+      ],
+      [
+        "Jule",
+        "Das Blatt vor der rechten Frucht begrenzt unsere Sicht.",
+        "الورقة قدام الثمرة اليمين بتحجب جزء من رؤيتنا."
+      ],
+      [
+        "Tarek",
+        "Auch die Farbe ersetzt keinen Geschmacks- oder Reifetest.",
+        "وكمان اللون مش بديل لاختبار طعم أو نضج."
+      ],
+      [
+        "Jule",
+        "Genau. Wir geben keine Essens- oder Zubereitungsempfehlung.",
+        "بالظبط. مش بنقدم توصية أكل أو تحضير."
+      ],
+      [
+        "Tarek",
+        "Offene Fragen schreibe ich neben den Text, statt sie zu erfinden.",
+        "هكتب الأسئلة المفتوحة جنب النص بدل ما أخترع إجاباتها."
+      ]
+    ],
+    "q": [
+      [
+        "Welches Foto zeigt eine offene Schnittfläche?",
+        "Das Papayafoto.",
+        "Das Quittenfoto.",
+        "Keines von beiden."
+      ],
+      [
+        "Was begrenzt bei der rechten Quitte die Sicht?",
+        "Ein Blatt.",
+        "Ein Verpackungsetikett.",
+        "Ein Preisschild."
+      ],
+      [
+        "Was geben sie nicht?",
+        "Eine Essens- oder Zubereitungsempfehlung.",
+        "Eine Beschreibung sichtbarer Farben.",
+        "Eine Zuordnung zu den Obstnamen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "papaya-offen-quitte-hinter-blatt": [
+    "Gelbes Fruchtfleisch und viele dunkle Kerne.",
+    "Die rechte Quitte ist teilweise hinter einem Blatt.",
+    "die sichtbare Außenseite."
+  ],
+  "papayas-quitten-endungen-nicht-kopieren": [
+    "die Papayas und die Quitte, die Quitten.",
+    "Bei Quitten kommt ein n an Quitte.",
+    "die Wortformen von der Beschreibung des Fotos."
+  ],
+  "nicht-jede-ansicht-zeigt-das-innere": [
+    "Nur die Papaya zeigt hier eine offene Schnittfläche.",
+    "Das Blatt vor der rechten Frucht begrenzt unsere Sicht.",
+    "keine Essens- oder Zubereitungsempfehlung."
+  ]
+});
