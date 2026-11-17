@@ -204,4 +204,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-der-rote-griff',dialogue:'auf-das-foto-zeigen'},
  {reading:'alltag-a2-nur-die-wanne',dialogue:'nichts-mitnehmen'},
  {reading:'alltag-b1-sichtbar-oder-vermutet',dialogue:'die-art-bleibt-unbekannt'},
+ {reading:'alltag-a1-die-breite-oeffnung',dialogue:'nicht-der-kegel'},
+ {reading:'alltag-a2-die-ungeschickte-einladung',dialogue:'klarer-heisst-nicht-zugesagt'},
+ {reading:'alltag-b1-gegenstand-und-befugnis',dialogue:'was-das-bild-nicht-belegt'},
 ];

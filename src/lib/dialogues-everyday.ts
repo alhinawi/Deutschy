@@ -14608,3 +14608,218 @@ Object.assign(dialogueEvidence,{
     "Unser Heft bleibt eine Sprachhilfe, kein Materialbericht."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "nicht-der-kegel",
+    "level": "A1",
+    "title": [
+      "Nicht der Kegel",
+      "مش المخروط"
+    ],
+    "lines": [
+      [
+        "Yusuf",
+        "Ich lese Megafon. Ist das der Gegenstand auf dem rechten Foto?",
+        "بقرا ميجافون بالألماني. دي الحاجة اللي في الصورة على اليمين؟"
+      ],
+      [
+        "Sofia",
+        "Nein. Schau links auf die breite Öffnung und den Griff.",
+        "لأ. بص على الشمال على الفتحة الواسعة والمقبض."
+      ],
+      [
+        "Yusuf",
+        "Jetzt sehe ich es. Das Megafon ist weiß und rot.",
+        "دلوقتي شايفه. الميجافون أبيض وأحمر."
+      ],
+      [
+        "Sofia",
+        "Rechts steht der orange und weiße Leitkegel auf seiner Grundplatte.",
+        "وعلى اليمين مخروط المرور البرتقاني والأبيض على قاعدته."
+      ],
+      [
+        "Yusuf",
+        "Ich schreibe beide Namen mit Artikel in mein Heft.",
+        "هكتب الاسمين بأداة التعريف في كراستي."
+      ],
+      [
+        "Sofia",
+        "Gut. Danach lesen wir noch einmal und zeigen auf die Fotos.",
+        "تمام. بعد كده نقرا تاني ونشاور على الصور."
+      ],
+      [
+        "Yusuf",
+        "Zum Schluss lege ich mein Heft links neben die Bilder.",
+        "وفي الآخر هحط كراستي على شمال الصور."
+      ]
+    ],
+    "q": [
+      [
+        "Wo sieht Yusuf das Megafon nach Sofias Hinweis?",
+        "Auf dem linken Foto.",
+        "Auf dem rechten Foto.",
+        "Auf keinem der beiden Fotos."
+      ],
+      [
+        "Was steht auf einer Grundplatte?",
+        "Der Leitkegel.",
+        "Yusufs Heft.",
+        "Das Megafon."
+      ],
+      [
+        "Was schreibt Yusuf auf?",
+        "Beide Namen mit Artikel.",
+        "Eine fertige Durchsage.",
+        "Eine Wegbeschreibung durch die Küche."
+      ]
+    ]
+  },
+  {
+    "id": "klarer-heisst-nicht-zugesagt",
+    "level": "A2",
+    "title": [
+      "Klarer heißt nicht zugesagt",
+      "أوضح مش معناها موافقة"
+    ],
+    "lines": [
+      [
+        "Timo",
+        "Warum soll ich ein Megafon und einen Leitkegel mitbringen?",
+        "ليه أجيب معايا ميجافون ومخروط مرور؟"
+      ],
+      [
+        "Mina",
+        "Ich meine nur Fotos. Wir wollen Wörter beschreiben, keine Durchsage machen.",
+        "قصدي صور بس. هنوصف كلمات مش هنعمل إعلان بمكبر صوت."
+      ],
+      [
+        "Timo",
+        "Dann schreib das bitte so. Wir könnten die vorhandenen Bilder nehmen.",
+        "يبقى اكتبي ده كده. ممكن ناخد الصور اللي موجودة."
+      ],
+      [
+        "Mina",
+        "Ist die neue Einladung jetzt klar genug?",
+        "الدعوة الجديدة كده واضحة كفاية؟"
+      ],
+      [
+        "Timo",
+        "Ja, aber zugesagt habe ich noch nicht. Ich prüfe erst meinen Wochenendplan.",
+        "أيوه بس لسه موافقتش. هراجع خطة الويك إند الأول."
+      ],
+      [
+        "Mina",
+        "Gut. Ich lasse sie als Entwurf stehen und verschicke noch nichts.",
+        "تمام. هسيبها مسودة ومش هبعت حاجة لسه."
+      ],
+      [
+        "Timo",
+        "Morgen antworte ich dir. Über Ort und Uhrzeit haben wir noch nicht gesprochen.",
+        "هرد عليكي بكرة. لسه ماتكلمناش على المكان والساعة."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Bilder könnten sie nutzen?",
+        "Die vorhandenen Bilder.",
+        "Bilder, die Timo verbindlich besorgen muss.",
+        "Eine schon fertig geprüfte Tonaufnahme."
+      ],
+      [
+        "Hat Timo schon zugesagt?",
+        "Nein, er prüft erst seinen Wochenendplan.",
+        "Ja, für einen festen Termin.",
+        "Ja, für eine Durchsage draußen."
+      ],
+      [
+        "Was macht Mina vorerst nicht?",
+        "Die Einladung verschicken.",
+        "Den Text als Entwurf stehen lassen.",
+        "Über die Formulierung nachdenken."
+      ]
+    ]
+  },
+  {
+    "id": "was-das-bild-nicht-belegt",
+    "level": "B1",
+    "title": [
+      "Was das Bild nicht belegt",
+      "الصورة مش بتثبت إيه"
+    ],
+    "lines": [
+      [
+        "Karim",
+        "Ich wollte unter den Leitkegel schreiben: Die Straße ist gesperrt.",
+        "كنت عايز أكتب تحت مخروط المرور: الشارع مقفول."
+      ],
+      [
+        "Nora",
+        "Das Bild zeigt den Gegenstand, aber nicht sicher den Anlass oder die geltenden Regeln.",
+        "الصورة بتبين الحاجة بس مش بتثبت السبب ولا القواعد المطبقة."
+      ],
+      [
+        "Karim",
+        "Dann kennzeichne ich die Sperrung als unbestätigte Annahme.",
+        "يبقى هعلم على قفل الشارع إنه افتراض مش مؤكد."
+      ],
+      [
+        "Nora",
+        "Auch die Hand am Megafon beweist noch keine laufende Durchsage.",
+        "وكمان الإيد على الميجافون مش دليل على إعلان بيتقال دلوقتي."
+      ],
+      [
+        "Karim",
+        "Wir prüfen weder Funktion noch Lautstärke des Geräts.",
+        "مش بنفحص وظيفة الجهاز ولا علو صوته."
+      ],
+      [
+        "Nora",
+        "Die Wortformen notieren wir getrennt: Megafone und Leitkegel.",
+        "هنكتب صيغ الجمع لوحدها بالألماني."
+      ],
+      [
+        "Karim",
+        "Unser Heft übt Benennungen. Es erteilt uns keine Befugnis für einen Einsatz.",
+        "كراستنا بتدرب على التسمية. مش بتدينا صلاحية نستخدم الحاجات."
+      ]
+    ],
+    "q": [
+      [
+        "Wie wird die vermutete Sperrung behandelt?",
+        "Als unbestätigte Annahme.",
+        "Als sicherer Auftrag.",
+        "Als aktuelle Verkehrsfreigabe."
+      ],
+      [
+        "Was prüfen sie nicht?",
+        "Funktion und Lautstärke des Megafons.",
+        "Ob sie die Wortformen aufschreiben.",
+        "Ob das Bild einen Gegenstand zeigt."
+      ],
+      [
+        "Was erteilt das Heft nicht?",
+        "Eine Befugnis für einen Einsatz.",
+        "Eine Möglichkeit zum Üben der Benennungen.",
+        "Zwei aufgeschriebene Pluralformen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "nicht-der-kegel": [
+    "Schau links auf die breite Öffnung und den Griff.",
+    "Rechts steht der orange und weiße Leitkegel auf seiner Grundplatte.",
+    "Ich schreibe beide Namen mit Artikel in mein Heft."
+  ],
+  "klarer-heisst-nicht-zugesagt": [
+    "Wir könnten die vorhandenen Bilder nehmen.",
+    "Ja, aber zugesagt habe ich noch nicht.",
+    "Ich lasse sie als Entwurf stehen und verschicke noch nichts."
+  ],
+  "was-das-bild-nicht-belegt": [
+    "Dann kennzeichne ich die Sperrung als unbestätigte Annahme.",
+    "Wir prüfen weder Funktion noch Lautstärke des Geräts.",
+    "Es erteilt uns keine Befugnis für einen Einsatz."
+  ]
+});

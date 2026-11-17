@@ -523,6 +523,10 @@
   {
    "id": "malerwoerter",
    "ar": "رول وصينية دهان"
+  },
+  {
+   "id": "signalwoerter",
+   "ar": "ميجافون ومخروط مرور"
   }
  ],
  "words": [
@@ -13054,6 +13058,36 @@
     "file": "6474464.jpg",
     "commons": "https://www.pexels.com/photo/gray-paint-on-paint-roller-tray-6474464/",
     "author": "Tima Miroshnichenko",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "megafon",
+   "topic": "signalwoerter",
+   "art": "das",
+   "de": "Megafon",
+   "plural": "Megafone",
+   "ar": "ميجافون أو مكبر صوت محمول",
+   "photo": {
+    "file": "5926337.jpg",
+    "commons": "https://www.pexels.com/photo/a-person-holding-a-megaphone-5926337/",
+    "author": "Sora Shimazaki",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "leitkegel",
+   "topic": "signalwoerter",
+   "art": "der",
+   "de": "Leitkegel",
+   "plural": "-",
+   "ar": "مخروط مرور",
+   "photo": {
+    "file": "30544238.jpg",
+    "commons": "https://www.pexels.com/photo/orange-traffic-cone-on-urban-street-30544238/",
+    "author": "cnrdmroglu",
     "license": "Pexels License",
     "modified": true
    }

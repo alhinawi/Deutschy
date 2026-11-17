@@ -423,3 +423,6 @@ for(const[topic,rows]of Object.entries(klangwoerterGrammar))exercises[topic].pus
 
 import {malerwoerterGrammar} from './exercises-malerwoerter';
 for(const[topic,rows]of Object.entries(malerwoerterGrammar))exercises[topic].push(...rows);
+
+import {signalwoerterGrammar} from './exercises-signalwoerter';
+for(const[topic,rows]of Object.entries(signalwoerterGrammar))exercises[topic].push(...rows);

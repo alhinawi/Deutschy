@@ -1439,3 +1439,24 @@ Object.assign(readingEvidence,{
     "Die Pluralformen beschreiben die Sprache, nicht die Anzahl der Gegenstände auf jedem einzelnen Foto."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-die-breite-oeffnung": [
+    "Links liegt das Foto mit einem Megafon.",
+    "Dann zeigt er aber auf den Kegel.",
+    "Danach legt er das Heft links neben die Fotos.",
+    "Sie haben nur Wörter gelernt und kein Gerät ausprobiert."
+  ],
+  "alltag-a2-die-ungeschickte-einladung": [
+    "Mina erklärt, dass sie eigentlich nur passende Fotos meint.",
+    "Damit sagt er aber noch nicht zu.",
+    "Er muss zuerst seinen Wochenendplan prüfen",
+    "Sie ist noch nicht verschickt."
+  ],
+  "alltag-b1-gegenstand-und-befugnis": [
+    "Ein sichtbarer Kegel allein erklärt weder den Anlass seiner Aufstellung noch die geltenden Regeln am Aufnahmeort.",
+    "Auch die Hand am Griff beweist nicht, dass gerade eine Durchsage stattfindet.",
+    "Die vermutete Straßensperrung bleibt in der zweiten Spalte und wird als unbestätigt gekennzeichnet.",
+    "eine Sprachfrage, keine Angabe darüber, wie viele Kegel außerhalb des Bildes stehen."
+  ]
+});

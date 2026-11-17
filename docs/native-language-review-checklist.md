@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the eighty-sixth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the eighty-seventh practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -862,9 +862,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Feedback keyboard navigation | Next/Result in game word feedback now explicit theme-matched focus ring with offset. Actual AR/EN390 focused pixels inspected; shared article feedback gets same class. State/scoring/XP unchanged. Input/submit/progress/result/topic/back and correct/wrong regressions retained. |
 | [ ] | Listening/dictation |55 original segments/Egyptian Arabic. Actual-device voice and native-language review pending. No real message, loan, painting/safety recommendation, material test or commitment. |
 
+### List 87: names, draft invitations and evidence
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-die-breite-oeffnung/` and linked dialogue | Original photo word exercise: megaphone left with opening/handle, cone right with flat base. Yusuf initially points to wrong cone, corrects after Sofia's cue, writes noun/articles. Notebook left of pictures, photos stay desk, both to kitchen. No actual device test. |
+| [ ] | `/reading/alltag-a2-die-ungeschickte-einladung/` and linked dialogue | Draft wording incorrectly requests physical objects, clarified to describing existing photos. Timo finds wording clearer but does not accept invitation, checks weekend plan first. Mina marks draft, no send/calendar entry/assignment to obtain pictures. Reply tomorrow, time/place open. Fictional weekend not anchored to current calendar. |
+| [ ] | `/reading/alltag-b1-gegenstand-und-befugnis/` and linked dialogue | Cone photo alone not evidence of road closure/reason/current rules; date unknown. Megaphone hand not proof of live announcement, function/power/loudness untested. Visible features vs unconfirmed assumptions in separate columns. Plurals language forms not count beyond frame. Word exercise not traffic authorization/public-use permission. No actual traffic/announcement advice. |
+| [ ] | `/lessons/signalwoerter/` and `/credits/` | das Megafon/Megafone, der Leitkegel/-. ميجافون أو مكبر صوت محمول and مخروط مرور. Whole megaphone in hand with denim context, no face; whole orange/white cone including base. Real800x600 unbranded/faceless crops without padding. No sound, conformity, ownership or current restriction inferred. Duden/DWDS checked, native meanings pending. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way-preposition/negation rows preserve all earlier keys. zeigt/liest/wartet/probieren...aus; sein/ihre/seinen/unsere; auf dem/den Schreibtisch and neben den/die Fotos, dative plural Fotos no extra-n. Both explanation languages pending editorial. |
+| [ ] | Keyboard topic choice | Game topic selector focus ring now separate offset gap matching page ground. Actual AR/EN390 keyboard-focused selector pixels inspected, full readable ring. Choice/state/scoring unchanged. Spelling/article/input/submit/feedback/result/back/progress/help/error/label regressions retained. |
+| [ ] | Listening/dictation |56 original segments/Egyptian Arabic. Native editorial and real-device voice pending. No real invitation, public event, traffic setup, device test or commitment. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **829 photo nouns / 131 topics**, **276 reading texts / 1057 reading questions**, **41 core grammar topics / 2014 core grammar questions**, **216 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **831 photo nouns / 132 topics**, **279 reading texts / 1069 reading questions**, **41 core grammar topics / 2038 core grammar questions**, **219 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -876,7 +888,7 @@ This is an inventory, not completed review. Snapshot: **829 photo nouns / 131 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 74 · A2 102 · B1 70 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 75 · A2 103 · B1 71 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
