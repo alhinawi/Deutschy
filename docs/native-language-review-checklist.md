@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the fifty-sixth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the fifty-seventh practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -489,6 +489,18 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Neighboring lesson navigation | Previous/next noun lessons use original topic order and visible stable numbers. First only next; last only previous; middle both. Check AR/EN labels, long title wrapping, no score/storage writes. |
 | [ ] | Listening/dictation | Check all 55 new segments and Egyptian Arabic. Actual device-voice review pending. No sanitation, disposal, purchase or building-policy advice. |
 
+### List 57: kitchen textiles and clear borrowing scope
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-kuechentextilien/` and `schuerze-am-tuerhaken` | Check apron on door hook, white towel in upper drawer, striped towel taken with apron, Tom owns cookbook and keeps it. Check all 7 answers/evidence and Egyptian Arabic. |
+| [ ] | `/reading/alltag-a2-tuch-zuordnen/` and `gelber-faden-in-der-ecke` | Check yellow thread identifies upper towel, Jonas plate removed before apron packed, next evening has no agreed date. Similar stripes do not establish ownership. |
+| [ ] | `/reading/alltag-b1-kuechenaufteilung/` and `graue-schuerze-ausleihen` | Check only Nora's gray apron lent, black kept, neighbor aprons not available by assumption. Return time open; no doorstep drop without agreement. |
+| [ ] | `/lessons/kuechentextilien/` | die Schürze / Schürzen, das Geschirrtuch / Geschirrtücher. Whole rightmost hanging apron with neighboring aprons, folded kitchen-towel stack. Real faceless unbranded photos, crop/padding marked. Not fictional ownership evidence. |
+| [ ] | `exercises-kuechentextilien.ts` | 24 appended article/genus, dative, present, separable, two-way/dative-preposition and negation rows. Check forms and Arabic/English explanations; previous saved identities preserved. |
+| [ ] | Reading controls | Reading/listening modes expose selected pressed state; transcript and Egyptian Arabic translation toggles expose expanded state and linked content IDs. Switching mode resets both disclosures. No score changes or new writes. |
+| [ ] | Listening/dictation | Check all 59 segments and Egyptian Arabic. Actual device-voice review pending. No cooking-safety, sanitation, heat-protection or care instruction. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -503,7 +515,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **769 photo nouns / 101 topics**, **186 reading texts / 697 reading questions**, **41 core grammar topics / 1294 core grammar questions**, **126 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **771 photo nouns / 102 topics**, **189 reading texts / 709 reading questions**, **41 core grammar topics / 1318 core grammar questions**, **129 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -515,7 +527,7 @@ This is an inventory, not completed review. Snapshot: **769 photo nouns / 101 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 44 · A2 72 · B1 40 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 45 · A2 73 · B1 41 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

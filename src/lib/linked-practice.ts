@@ -114,4 +114,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-haushaltsfach',dialogue:'rolle-unten-im-schrank'},
  {reading:'alltag-a2-vorrat-zaehlen',dialogue:'nicht-alles-auf-die-liste'},
  {reading:'alltag-b1-haushaltsnotiz',dialogue:'welches-papier-welcher-eimer'},
+ {reading:'alltag-a1-kuechentextilien',dialogue:'schuerze-am-tuerhaken'},
+ {reading:'alltag-a2-tuch-zuordnen',dialogue:'gelber-faden-in-der-ecke'},
+ {reading:'alltag-b1-kuechenaufteilung',dialogue:'graue-schuerze-ausleihen'},
 ];

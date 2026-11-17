@@ -171,3 +171,6 @@ readings.push(...reisegepaeckTexts);
 
 import {haushaltsfachTexts} from './reading-haushaltsfach';
 readings.push(...haushaltsfachTexts);
+
+import {kuechentextilienTexts} from './reading-kuechentextilien';
+readings.push(...kuechentextilienTexts);

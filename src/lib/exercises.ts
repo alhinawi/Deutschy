@@ -333,3 +333,6 @@ for(const[topic,rows]of Object.entries(reisegepaeckGrammar))exercises[topic].pus
 
 import {haushaltsfachGrammar} from './exercises-haushaltsfach';
 for(const[topic,rows]of Object.entries(haushaltsfachGrammar))exercises[topic].push(...rows);
+
+import {kuechentextilienGrammar} from './exercises-kuechentextilien';
+for(const[topic,rows]of Object.entries(kuechentextilienGrammar))exercises[topic].push(...rows);

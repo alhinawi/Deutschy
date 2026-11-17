@@ -809,3 +809,24 @@ Object.assign(readingEvidence,{
     "Ein Name neben einer Aufgabe bedeutet hier nur, wer sie übernimmt, nicht dass sie schon erledigt ist."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-kuechentextilien": [
+    "Dort hängt die blaue Schürze.",
+    "Tom faltet das weiße Tuch. Er legt es in die obere Schublade.",
+    "Das Buch gehört Tom",
+    "Dann steckt sie auch das gestreifte Tuch ein."
+  ],
+  "alltag-a2-tuch-zuordnen": [
+    "Sie hat an einer Ecke ihres Tuchs einen kleinen gelben Faden eingenäht.",
+    "Der gelbe Faden ist am oberen Tuch.",
+    "Der Teller gehört Jonas.",
+    "Einen Termin dafür haben sie noch nicht vereinbart."
+  ],
+  "alltag-b1-kuechenaufteilung": [
+    "aber noch nicht verteilt sind.",
+    "Nora bietet ihm ihre graue Schürze an.",
+    "später einen passenden Zeitpunkt zu vereinbaren.",
+    "ersetzt aber keine Zustimmung der Besitzerin."
+  ]
+});

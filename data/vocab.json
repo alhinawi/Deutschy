@@ -403,6 +403,10 @@
   {
    "id": "haushaltsfach",
    "ar": "حاجات في دولاب البيت"
+  },
+  {
+   "id": "kuechentextilien",
+   "ar": "مرايل وفوط المطبخ"
   }
  ],
  "words": [
@@ -12031,6 +12035,38 @@
    "photo": {
     "file": "bin3.jpg",
     "commons": "https://www.pexels.com/photo/crumpled-papers-inside-a-trash-bin-6913190/",
+    "author": "Tima Miroshnichenko",
+    "license": "Pexels License",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "schuerze",
+   "topic": "kuechentextilien",
+   "art": "die",
+   "de": "Schürze",
+   "plural": "Schürzen",
+   "ar": "مريلة",
+   "photo": {
+    "file": "apron3.jpg",
+    "commons": "https://www.pexels.com/photo/aprons-hanging-on-coat-hooks-22487716/",
+    "author": "Irina Cherepanov",
+    "license": "Pexels License",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "geschirrtuch",
+   "topic": "kuechentextilien",
+   "art": "das",
+   "de": "Geschirrtuch",
+   "plural": "Geschirrtücher",
+   "ar": "فوطة مطبخ للمواعين",
+   "photo": {
+    "file": "cloth2.jpg",
+    "commons": "https://www.pexels.com/photo/blue-cloth-on-the-wooden-chair-4794851/",
     "author": "Tima Miroshnichenko",
     "license": "Pexels License",
     "padding": true,

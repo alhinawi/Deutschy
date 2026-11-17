@@ -8158,3 +8158,218 @@ Object.assign(dialogueEvidence,{
     "das Ergebnis deiner Prüfung tragen wir später ein."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "schuerze-am-tuerhaken",
+    "level": "A1",
+    "title": [
+      "Das Buch bleibt hier",
+      "الكتاب يفضل هنا"
+    ],
+    "lines": [
+      [
+        "Nela",
+        "Wo ist meine Schürze?",
+        "مريلتي فين؟"
+      ],
+      [
+        "Tom",
+        "Sie hängt am Haken neben der Tür.",
+        "متعلقة على الشماعة جنب الباب."
+      ],
+      [
+        "Nela",
+        "Danke. Und das gestreifte Geschirrtuch nehme ich auch mit.",
+        "شكرًا. وهاخد فوطة المطبخ المخططة كمان."
+      ],
+      [
+        "Tom",
+        "Das weiße lege ich in die obere Schublade.",
+        "البيضا هحطها في الدرج اللي فوق."
+      ],
+      [
+        "Nela",
+        "Gehört das Kochbuch dir?",
+        "كتاب الطبخ ده بتاعك؟"
+      ],
+      [
+        "Tom",
+        "Ja, das bleibt hier in der Küche.",
+        "آه، ده يفضل هنا في المطبخ."
+      ],
+      [
+        "Nela",
+        "Gut. Meine Schürze ist schon in der Tasche.",
+        "تمام. مريلتي في الشنطة خلاص."
+      ]
+    ],
+    "q": [
+      [
+        "Was nimmt Nela außer der Schürze mit?",
+        "Das gestreifte Geschirrtuch.",
+        "Das Kochbuch.",
+        "Den Stuhl."
+      ],
+      [
+        "Wohin kommt das weiße Tuch?",
+        "In die obere Schublade.",
+        "In Nelas Tasche.",
+        "Auf den Boden."
+      ],
+      [
+        "Wo bleibt das Buch?",
+        "In der Küche.",
+        "Im Auto.",
+        "Im Bad."
+      ]
+    ]
+  },
+  {
+    "id": "gelber-faden-in-der-ecke",
+    "level": "A2",
+    "title": [
+      "Warte, das ist mein Tuch",
+      "استنى، دي فوطتي"
+    ],
+    "lines": [
+      [
+        "Jonas",
+        "Ich nehme das obere Geschirrtuch mit.",
+        "هاخد فوطة المطبخ اللي فوق."
+      ],
+      [
+        "Salma",
+        "Warte bitte. Mein Tuch hat einen gelben Faden in einer Ecke.",
+        "استنى لو سمحت. فوطتي فيها خيط أصفر في ركن."
+      ],
+      [
+        "Jonas",
+        "Hier ist der Faden. Dann gehört dieses Tuch dir.",
+        "أهو الخيط. يبقى الفوطة دي بتاعتك."
+      ],
+      [
+        "Salma",
+        "Genau. Das andere ist deins.",
+        "بالظبط. التانية بتاعتك."
+      ],
+      [
+        "Jonas",
+        "Soll ich dir deine Schürze von der Tür reichen?",
+        "أناولك مريلتك من على الباب؟"
+      ],
+      [
+        "Salma",
+        "Ja, bitte. Ich packe sie selbst ein. Zuerst nehme ich deinen Teller heraus.",
+        "آه لو سمحت. هحطها بنفسي. الأول أطلع طبقك."
+      ],
+      [
+        "Jonas",
+        "Danke. Den Teller kannst du auf die Arbeitsfläche stellen.",
+        "شكرًا. ممكن تحطي الطبق على الرخامة."
+      ]
+    ],
+    "q": [
+      [
+        "Wo ist der gelbe Faden?",
+        "In einer Ecke von Salmas Tuch.",
+        "An Jonas Tasche.",
+        "Am Teller."
+      ],
+      [
+        "Was möchte Salma selbst einpacken?",
+        "Ihre Schürze.",
+        "Jonas Teller.",
+        "Beide Tücher."
+      ],
+      [
+        "Wohin kann Salma den Teller stellen?",
+        "Auf die Arbeitsfläche.",
+        "In den Mülleimer.",
+        "Unter den Stuhl."
+      ]
+    ]
+  },
+  {
+    "id": "graue-schuerze-ausleihen",
+    "level": "B1",
+    "title": [
+      "Nur die graue Schürze",
+      "المريلة الرمادي بس"
+    ],
+    "lines": [
+      [
+        "Malik",
+        "Kann ich ein Set von der Bank nehmen?",
+        "ممكن آخد طقم من على الدكة؟"
+      ],
+      [
+        "Nora",
+        "Lass uns erst schauen. Zwei Schürzen gehören meiner Nachbarin.",
+        "نشوف الأول. فيه مريلتين بتوع جارتي."
+      ],
+      [
+        "Malik",
+        "Ich brauche ohnehin nur eine Schürze. Tücher habe ich zu Hause.",
+        "أنا أصلًا محتاج مريلة بس. عندي فوط في البيت."
+      ],
+      [
+        "Nora",
+        "Du kannst meine graue ausleihen. Die schwarze behalte ich.",
+        "ممكن تستلف الرمادي بتاعتي. السودا هخليها معايا."
+      ],
+      [
+        "Malik",
+        "Wann soll ich sie zurückbringen?",
+        "أرجعها إمتى؟"
+      ],
+      [
+        "Nora",
+        "Das vereinbaren wir später. Bitte leg sie nicht einfach vor die Tür.",
+        "نتفق بعدين. لو سمحت ماتسيبهاش قدام الباب وخلاص."
+      ],
+      [
+        "Malik",
+        "Gut. Ich bewahre sie auf, bis wir einen Zeitpunkt vereinbart haben.",
+        "تمام. هحتفظ بيها لحد ما نتفق على وقت."
+      ]
+    ],
+    "q": [
+      [
+        "Was braucht Malik?",
+        "Nur eine Schürze.",
+        "Ein ganzes Set.",
+        "Zwei Geschirrtücher."
+      ],
+      [
+        "Welche Schürze behält Nora?",
+        "Die schwarze.",
+        "Die graue.",
+        "Keine."
+      ],
+      [
+        "Was soll Malik nicht ohne Absprache tun?",
+        "Die Schürze vor die Tür legen.",
+        "Sie bei sich aufbewahren.",
+        "Nach einem Zeitpunkt fragen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "schuerze-am-tuerhaken": [
+    "das gestreifte Geschirrtuch nehme ich auch mit.",
+    "Das weiße lege ich in die obere Schublade.",
+    "das bleibt hier in der Küche."
+  ],
+  "gelber-faden-in-der-ecke": [
+    "Mein Tuch hat einen gelben Faden in einer Ecke.",
+    "Ich packe sie selbst ein.",
+    "auf die Arbeitsfläche stellen."
+  ],
+  "graue-schuerze-ausleihen": [
+    "Ich brauche ohnehin nur eine Schürze.",
+    "Die schwarze behalte ich.",
+    "Bitte leg sie nicht einfach vor die Tür."
+  ]
+});
