@@ -49,7 +49,6 @@ export default function DialogueView({ conversation = false }: { conversation?: 
 
 function One({ d, back }: { d: Dialogue; back: () => void }) {
   const t = useT();
-  const { lang } = useLang();
   const { award } = useStore();
   const [tr, setTr] = useState(true);
   const [i, setI] = useState(0);
@@ -71,8 +70,8 @@ function One({ d, back }: { d: Dialogue; back: () => void }) {
       <GermanVoice text={d.lines.map(l=>l[1]).join(" ")}/><p className="text-sm text-muted">{t("حوار تخيلي للتدريب، مش نصيحة طبية أو عرض سكن أو سعر حقيقي.","Fictional practice dialogue, not medical advice, a housing offer or a live price.")}</p>
       {linkedPractice.find(p=>p.dialogue===d.id)&&<Link className="inline-block rounded-full border border-line px-5 py-3" href={`/reading/${linkedPractice.find(p=>p.dialogue===d.id)!.reading}/`}>{t('اقرا نفس الموقف بكلمات وسمع وإملاء','Read this scenario with vocabulary, listening and dictation')}</Link>}
       <RolePractice key={d.id} d={d} />
-      <button onClick={() => setTr(!tr)} className="rounded-full border border-line px-4 py-2 text-sm font-bold">{tr ? t('اخفي الترجمة', 'Hide translation') : t('اعرض الترجمة', 'Show translation')}</button>
-      <ul className="space-y-2">
+      <button aria-pressed={tr} aria-controls="dialogue-lines" onClick={() => setTr(!tr)} className="rounded-full border border-line px-4 py-2 text-sm font-bold">{tr ? t('اخفي الترجمة', 'Hide Egyptian Arabic') : t('اعرض الترجمة', 'Show Egyptian Arabic')}</button>
+      <ul id="dialogue-lines" className="space-y-2">
         {d.lines.map(([who, de, ar], k) => (
           <li key={k} className={`flex ${speakers.indexOf(who) === 0 ? 'justify-start' : 'justify-end'}`}>
             <div className={`max-w-[88%] rounded-2xl border p-3 ${speakers.indexOf(who) === 0 ? 'border-line bg-card' : 'border-accent/40 bg-paper'}`}>
@@ -81,7 +80,7 @@ function One({ d, back }: { d: Dialogue; back: () => void }) {
                 <p dir="ltr" lang="de" className="de text-lg">{de}</p>
                 <button onClick={() => speak(de)} aria-label={t('اسمع الجملة','Hear the sentence')} className="min-h-11 min-w-11 shrink-0 rounded-full border border-line p-2"><Speaker /></button>
               </div>
-              {tr && <p className="ar-title mt-1 text-sm text-muted">{lang === 'ar' ? <Mixed text={ar} /> : ''}</p>}
+              {tr && <p dir="rtl" lang="ar" className="ar-title mt-1 text-sm text-muted"><Mixed text={ar} /></p>}
             </div>
           </li>
         ))}

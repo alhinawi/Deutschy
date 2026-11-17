@@ -336,3 +336,6 @@ for(const[topic,rows]of Object.entries(haushaltsfachGrammar))exercises[topic].pu
 
 import {kuechentextilienGrammar} from './exercises-kuechentextilien';
 for(const[topic,rows]of Object.entries(kuechentextilienGrammar))exercises[topic].push(...rows);
+
+import {besteckrundeGrammar} from './exercises-besteckrunde';
+for(const[topic,rows]of Object.entries(besteckrundeGrammar))exercises[topic].push(...rows);

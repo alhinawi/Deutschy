@@ -8373,3 +8373,218 @@ Object.assign(dialogueEvidence,{
     "Bitte leg sie nicht einfach vor die Tür."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "die-dritte-gabel",
+    "level": "A1",
+    "title": [
+      "Jetzt sind es drei",
+      "دلوقتي بقوا تلاتة"
+    ],
+    "lines": [
+      [
+        "Eva",
+        "Wir sind heute zu dritt. Wie viele Gabeln liegen da?",
+        "إحنا النهارده تلاتة. فيه كام شوكة هناك؟"
+      ],
+      [
+        "Rami",
+        "Zwei. Ich hole noch eine aus der Schublade.",
+        "اتنين. هجيب واحدة كمان من الدرج."
+      ],
+      [
+        "Eva",
+        "Danke. Dann hat jeder Platz eine.",
+        "شكرًا. كده كل مكان فيه واحدة."
+      ],
+      [
+        "Rami",
+        "Soll ich auch die kleinen Schüsseln holen?",
+        "أجيب السلطانيات الصغيرة كمان؟"
+      ],
+      [
+        "Eva",
+        "Nein, die bleiben im Schrank. Ich nehme die große für den Salat.",
+        "لأ، دول يفضلوا في الدولاب. هاخد الكبيرة للسلطة."
+      ],
+      [
+        "Rami",
+        "Das Brot lege ich auf einen eigenen Teller.",
+        "العيش هحطه في طبق لوحده."
+      ],
+      [
+        "Eva",
+        "Gut. Der Salat kommt später.",
+        "تمام. السلطة هتيجي بعدين."
+      ]
+    ],
+    "q": [
+      [
+        "Wie viele Personen essen zusammen?",
+        "Drei.",
+        "Zwei.",
+        "Vier."
+      ],
+      [
+        "Welche Schüssel nimmt Eva?",
+        "Die große.",
+        "Die kleinste.",
+        "Keine."
+      ],
+      [
+        "Worauf kommt das Brot?",
+        "Auf einen eigenen Teller.",
+        "In die Schublade.",
+        "Auf eine Serviette im Schrank."
+      ]
+    ]
+  },
+  {
+    "id": "die-groessere-mit-salat",
+    "level": "A2",
+    "title": [
+      "Welche blaue Schüssel?",
+      "أنهي سلطانية زرقا؟"
+    ],
+    "lines": [
+      [
+        "Paul",
+        "Meinst du die kleine blaue Schüssel im Regal?",
+        "تقصدّي السلطانية الزرقا الصغيرة على الرف؟"
+      ],
+      [
+        "Leila",
+        "Nein, die größere auf der Arbeitsfläche. Da ist der Salat drin.",
+        "لأ، الكبيرة اللي على الرخامة. السلطة جواها."
+      ],
+      [
+        "Paul",
+        "Gut. Vier Gabeln liegen schon auf dem Tisch.",
+        "تمام. فيه أربع شوك على الترابيزة خلاص."
+      ],
+      [
+        "Leila",
+        "Unsere Freundin kommt aber allein. Ihr Bruder isst nicht mit.",
+        "بس صاحبتنا جاية لوحدها. أخوها مش هياكل معانا."
+      ],
+      [
+        "Paul",
+        "Dann nehme ich einen Teller und eine Gabel wieder weg.",
+        "يبقى أشيل طبق وشوكة تاني."
+      ],
+      [
+        "Leila",
+        "Ja. Die Salatschüssel bleibt in der Mitte.",
+        "آه. سلطانية السلطة تفضل في النص."
+      ],
+      [
+        "Paul",
+        "Über die Portionen sprechen wir später.",
+        "نتكلم عن الكميات لكل واحد بعدين."
+      ]
+    ],
+    "q": [
+      [
+        "Wo ist der Salat?",
+        "In der größeren Schüssel auf der Arbeitsfläche.",
+        "In der kleinen Schüssel im Regal.",
+        "Auf dem vierten Teller."
+      ],
+      [
+        "Wie viele Gabeln bleiben auf dem Tisch?",
+        "Drei.",
+        "Vier.",
+        "Zwei."
+      ],
+      [
+        "Was bleibt in der Mitte?",
+        "Die Salatschüssel.",
+        "Die kleine leere Schüssel.",
+        "Der vierte Teller."
+      ]
+    ]
+  },
+  {
+    "id": "drei-bestaetigt-eine-offen",
+    "level": "B1",
+    "title": [
+      "Geschirr ist keine Gästeliste",
+      "أدوات السفرة مش قايمة ضيوف"
+    ],
+    "lines": [
+      [
+        "David",
+        "Du hast vier Gabeln notiert. Kommen also vier Gäste?",
+        "إنتِ كاتبة أربع شوك. يعني فيه أربع ضيوف جايين؟"
+      ],
+      [
+        "Mira",
+        "Nein, das war nur der geplante Tischaufbau. Eine Freundin hat zugesagt.",
+        "لأ، ده كان شكل السفرة اللي مخططاله بس. صاحبة واحدة أكدت."
+      ],
+      [
+        "David",
+        "Mit uns sind es dann drei bestätigte Personen.",
+        "يبقى معانا فيه تلات أشخاص مؤكدين."
+      ],
+      [
+        "Mira",
+        "Genau. Eine weitere Antwort steht noch aus.",
+        "بالظبط. لسه مستنيين رد واحد كمان."
+      ],
+      [
+        "David",
+        "Ich halte den vierten Teller und eine Gabel im Schrank bereit.",
+        "هخلي الطبق الرابع وشوكة جاهزين في الدولاب."
+      ],
+      [
+        "Mira",
+        "Die große Schüssel brauchen wir in jedem Fall für den Salat.",
+        "السلطانية الكبيرة محتاجينها في كل الأحوال للسلطة."
+      ],
+      [
+        "David",
+        "Die Menge entscheiden wir nach der letzten Antwort.",
+        "الكمية نقررها بعد آخر رد."
+      ]
+    ],
+    "q": [
+      [
+        "Wie viele Personen sind einschließlich Mira und David bestätigt?",
+        "Drei.",
+        "Vier.",
+        "Eine."
+      ],
+      [
+        "Wo hält David den zusätzlichen Teller bereit?",
+        "Im Schrank.",
+        "Im Keller.",
+        "Vor der Tür."
+      ],
+      [
+        "Wofür brauchen sie die große Schüssel?",
+        "Für den gemeinsamen Salat.",
+        "Für die Gästeliste.",
+        "Für die Gabeln im Schrank."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "die-dritte-gabel": [
+    "Wir sind heute zu dritt.",
+    "Ich nehme die große für den Salat.",
+    "Das Brot lege ich auf einen eigenen Teller."
+  ],
+  "die-groessere-mit-salat": [
+    "die größere auf der Arbeitsfläche. Da ist der Salat drin.",
+    "Vier Gabeln liegen schon auf dem Tisch.",
+    "Die Salatschüssel bleibt in der Mitte."
+  ],
+  "drei-bestaetigt-eine-offen": [
+    "Mit uns sind es dann drei bestätigte Personen.",
+    "Ich halte den vierten Teller und eine Gabel im Schrank bereit.",
+    "für den Salat."
+  ]
+});

@@ -407,6 +407,10 @@
   {
    "id": "kuechentextilien",
    "ar": "مرايل وفوط المطبخ"
+  },
+  {
+   "id": "besteckrunde",
+   "ar": "شوك وسلطانيات للسفرة"
   }
  ],
  "words": [
@@ -12049,11 +12053,10 @@
    "plural": "Schürzen",
    "ar": "مريلة",
    "photo": {
-    "file": "apron3.jpg",
-    "commons": "https://www.pexels.com/photo/aprons-hanging-on-coat-hooks-22487716/",
-    "author": "Irina Cherepanov",
-    "license": "Pexels License",
-    "padding": true,
+    "file": "aprons-707604_1280.jpg",
+    "commons": "https://pixabay.com/photos/aprons-washing-line-drying-707604/",
+    "author": "Courton",
+    "license": "Pixabay Content License",
     "modified": true
    }
   },
@@ -12070,6 +12073,36 @@
     "author": "Tima Miroshnichenko",
     "license": "Pexels License",
     "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "gabel",
+   "topic": "besteckrunde",
+   "art": "die",
+   "de": "Gabel",
+   "plural": "Gabeln",
+   "ar": "شوكة أكل",
+   "photo": {
+    "file": "5719913.jpg",
+    "commons": "https://www.pexels.com/photo/white-plastic-spoon-and-fork-beside-clear-glass-bowl-5719913/",
+    "author": "Polina Tankilevitch",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "schuessel",
+   "topic": "besteckrunde",
+   "art": "die",
+   "de": "Schüssel",
+   "plural": "Schüsseln",
+   "ar": "سلطانية",
+   "photo": {
+    "file": "9160544.jpg",
+    "commons": "https://www.pexels.com/photo/a-wooden-bowl-and-fork-near-the-stainless-tumbler-9160544/",
+    "author": "Darina Belonogova",
+    "license": "Pexels License",
     "modified": true
    }
   }

@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the fifty-seventh practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the fifty-eighth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -496,10 +496,23 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/reading/alltag-a1-kuechentextilien/` and `schuerze-am-tuerhaken` | Check apron on door hook, white towel in upper drawer, striped towel taken with apron, Tom owns cookbook and keeps it. Check all 7 answers/evidence and Egyptian Arabic. |
 | [ ] | `/reading/alltag-a2-tuch-zuordnen/` and `gelber-faden-in-der-ecke` | Check yellow thread identifies upper towel, Jonas plate removed before apron packed, next evening has no agreed date. Similar stripes do not establish ownership. |
 | [ ] | `/reading/alltag-b1-kuechenaufteilung/` and `graue-schuerze-ausleihen` | Check only Nora's gray apron lent, black kept, neighbor aprons not available by assumption. Return time open; no doorstep drop without agreement. |
-| [ ] | `/lessons/kuechentextilien/` | die Schürze / Schürzen, das Geschirrtuch / Geschirrtücher. Whole rightmost hanging apron with neighboring aprons, folded kitchen-towel stack. Real faceless unbranded photos, crop/padding marked. Not fictional ownership evidence. |
+| [ ] | `/lessons/kuechentextilien/` | die Schürze / Schürzen, das Geschirrtuch / Geschirrtücher. Apron photo replaced in list 58 with wider real clothesline scene, no added bars; folded kitchen-towel stack unchanged. Real faceless unbranded photos, crops/padding marked where applicable. Not fictional ownership evidence. |
 | [ ] | `exercises-kuechentextilien.ts` | 24 appended article/genus, dative, present, separable, two-way/dative-preposition and negation rows. Check forms and Arabic/English explanations; previous saved identities preserved. |
 | [ ] | Reading controls | Reading/listening modes expose selected pressed state; transcript and Egyptian Arabic translation toggles expose expanded state and linked content IDs. Switching mode resets both disclosures. No score changes or new writes. |
 | [ ] | Listening/dictation | Check all 59 segments and Egyptian Arabic. Actual device-voice review pending. No cooking-safety, sanitation, heat-protection or care instruction. |
+
+### List 58: forks, bowls and counting table places
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-besteckrunde/` and `die-dritte-gabel` | Check three places, initially two forks, missing fork behind spoon in drawer, large empty bowl centered, small bowls stay in cupboard, bread on separate plate. Check all 7 answers/evidence and Egyptian Arabic. |
+| [ ] | `/reading/alltag-a2-schalen-verwechseln/` and `die-groessere-mit-salat` | Check larger blue salad bowl on worktop, small empty blue bowl stays in shelf, friend's brother not coming so four places become three. Portions not yet discussed. |
+| [ ] | `/reading/alltag-b1-tischliste/` and `drei-bestaetigt-eine-offen` | Check planned table layout versus attendance: three confirmed including hosts, one reply open, fourth plate/fork held in cupboard. Salad amount decided after remaining reply; bowl count not portions. |
+| [ ] | `/lessons/besteckrunde/` | die Gabel / Gabeln, die Schüssel / Schüsseln. Real whole white fork and wooden bowl; neighboring utensils/containers visible. No nutrition, food-safety or sustainability claims. Photos illustrate nouns, not fictional story-state evidence. |
+| [ ] | `/lessons/kuechentextilien/` | Wider real clothesline-apron photo replaces narrow padded apron. No added side bars; entire foreground aprons visible. Crop excludes edge hand. Decorative textile patterns are not illustrations substituted for photos. |
+| [ ] | `exercises-besteckrunde.ts` | 24 appended article/genus, dative, present, separable, two-way/dative-preposition and negation rows. Check German forms and AR/EN explanations, older saved identities preserved. |
+| [ ] | Dialogue translation control | Egyptian Arabic now actually appears in both UI languages; English toggle explicitly names Egyptian Arabic. Check RTL/language markup, pressed state, hide/show and no progress writes. Prior blank English translation lines removed. |
+| [ ] | Listening/dictation | Check all 56 new segments and Egyptian Arabic. Actual device-voice review pending. Fictional counts are practice details, not event RSVPs or current policies. |
 
 ## 2. Apply these checks to each text or exercise
 
@@ -515,7 +528,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **771 photo nouns / 102 topics**, **189 reading texts / 709 reading questions**, **41 core grammar topics / 1318 core grammar questions**, **129 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **773 photo nouns / 103 topics**, **192 reading texts / 721 reading questions**, **41 core grammar topics / 1342 core grammar questions**, **132 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -527,7 +540,7 @@ This is an inventory, not completed review. Snapshot: **771 photo nouns / 102 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 45 · A2 73 · B1 41 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 46 · A2 74 · B1 42 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

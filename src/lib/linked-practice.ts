@@ -117,4 +117,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-kuechentextilien',dialogue:'schuerze-am-tuerhaken'},
  {reading:'alltag-a2-tuch-zuordnen',dialogue:'gelber-faden-in-der-ecke'},
  {reading:'alltag-b1-kuechenaufteilung',dialogue:'graue-schuerze-ausleihen'},
+ {reading:'alltag-a1-besteckrunde',dialogue:'die-dritte-gabel'},
+ {reading:'alltag-a2-schalen-verwechseln',dialogue:'die-groessere-mit-salat'},
+ {reading:'alltag-b1-tischliste',dialogue:'drei-bestaetigt-eine-offen'},
 ];

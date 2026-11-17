@@ -830,3 +830,24 @@ Object.assign(readingEvidence,{
     "ersetzt aber keine Zustimmung der Besitzerin."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-besteckrunde": [
+    "Eine Gabel fehlt noch.",
+    "Rami findet sie hinter einem Löffel in der Schublade.",
+    "Sie stellt sie in die Mitte des Tisches.",
+    "Die kleinen Schüsseln bleiben im Schrank."
+  ],
+  "alltag-a2-schalen-verwechseln": [
+    "Leila meint jedoch die größere auf der Arbeitsfläche.",
+    "Sie kommt allein, weil ihr Bruder heute nicht mitessen kann.",
+    "Paul nimmt einen Teller und eine Gabel wieder vom Tisch.",
+    "Wie viel jeder davon essen möchte, haben sie noch nicht besprochen."
+  ],
+  "alltag-b1-tischliste": [
+    "dass sie damit nur den geplanten Tischaufbau festgehalten hat.",
+    "Zusammen mit Mira und David sind also drei Personen sicher dabei.",
+    "Wie viel Salat sie zubereiten, wollen sie erst nach der noch offenen Antwort entscheiden.",
+    "Die Angaben zu Tellern und Gabeln bleiben davon getrennt."
+  ]
+});

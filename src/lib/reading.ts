@@ -174,3 +174,6 @@ readings.push(...haushaltsfachTexts);
 
 import {kuechentextilienTexts} from './reading-kuechentextilien';
 readings.push(...kuechentextilienTexts);
+
+import {besteckrundeTexts} from './reading-besteckrunde';
+readings.push(...besteckrundeTexts);
