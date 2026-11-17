@@ -1775,3 +1775,24 @@ Object.assign(readingEvidence,{
     "Manche könnten zutreffen, sind hier aber nicht belegt."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-vorne-und-dahinter": [
+    "Das gelbe Auto steht vorne.",
+    "Die Figur steht vor einem Teil des grünen Autos.",
+    "die Spielzeugautos. Am Ende steht ein s.",
+    "Gelb ist hier der Hintergrund."
+  ],
+  "alltag-a2-erst-einen-hinweis": [
+    "Er möchte erst einen Hinweis, damit er selbst weiterdenken kann.",
+    "Nils wünscht sich zuerst den Artikel.",
+    "Rania sagt Puzzle, ohne den Rest zu ergänzen.",
+    "fragt die andere Person zuerst nach der gewünschten Hilfe."
+  ],
+  "alltag-b1-ein-teil-und-das-ganze": [
+    "Der Satz ergänzt also eine Geschichte, die das Foto allein nicht liefert.",
+    "Diese Möglichkeit beweist aber ebenso wenig, dass tatsächlich alles vorhanden ist.",
+    "zu welchem Puzzle das Teil gehört und welche Teile dort vorhanden sein sollen.",
+    "zwischen einem Ausschnitt der Darstellung und dem Zustand des Gegenstands zu unterscheiden."
+  ]
+});

@@ -587,6 +587,10 @@
   {
    "id": "bildanordnung",
    "ar": "الحصالة وكورة الريشة"
+  },
+  {
+   "id": "spielteile",
+   "ar": "العربية اللعبة وقطعة البازل"
   }
  ],
  "words": [
@@ -13598,6 +13602,36 @@
     "file": "7438729.jpg",
     "commons": "https://www.pexels.com/photo/three-shuttlecocks-on-the-floor-7438729/",
     "author": "Saif71.com",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "spielzeugauto",
+   "topic": "spielteile",
+   "art": "das",
+   "de": "Spielzeugauto",
+   "plural": "Spielzeugautos",
+   "ar": "عربية لعبة",
+   "photo": {
+    "file": "6865340.jpg",
+    "commons": "https://www.pexels.com/photo/yellow-and-blue-wooden-toy-cars-6865340/",
+    "author": "Ann Hannes",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "puzzleteil",
+   "topic": "spielteile",
+   "art": "das",
+   "de": "Puzzleteil",
+   "plural": "Puzzleteile",
+   "ar": "قطعة بازل",
+   "photo": {
+    "file": "3482443.jpg",
+    "commons": "https://www.pexels.com/photo/jigsaw-puzzle-on-yellow-background-3482443/",
+    "author": "Ann Hannes",
     "license": "Pexels License",
     "modified": true
    }

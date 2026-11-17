@@ -471,3 +471,6 @@ for(const[topic,rows]of Object.entries(freizeitfarbenGrammar))exercises[topic].p
 
 import {bildanordnungGrammar} from './exercises-bildanordnung';
 for(const[topic,rows]of Object.entries(bildanordnungGrammar))exercises[topic].push(...rows);
+
+import {spielteileGrammar} from './exercises-spielteile';
+for(const[topic,rows]of Object.entries(spielteileGrammar))exercises[topic].push(...rows);

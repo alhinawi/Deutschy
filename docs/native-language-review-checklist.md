@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-second practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-third practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1054,9 +1054,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Dialogue Back button |44px minimum height and themed keyboard ring/page-ground gap. All3 new dialogues AR/EN320/390,12 keyboard navigation/axe states, Enter/Space back to searchable list, no XP mutation. No answer/scoring logic change. |
 | [ ] | Listening/dictation |66 original segments,264 exact German payload/source/answer checks. Human editorial/real-device voice review pending; level labels not proficiency claims. |
 
+### List 103: Positions, requested hints and part-versus-whole claims
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-vorne-und-dahinter/` and linked dialogue | Emil/Salma yellow toy car front, green partly behind/wooden peg partly covers it. White puzzle piece versus yellow background. Both das, Spielzeugautos -s versus Puzzleteile -e. Position only this photo, not color rule. |
+| [ ] | `/reading/alltag-a2-erst-einen-hinweis/` and linked dialogue | Rania/Nils ask which help is wanted: article das first, Puzzle second, Nils supplies whole Puzzleteil. No universal claim that hints are best; direct answer allowed by preference. Next car word recalled without hint. |
+| [ ] | `/reading/alltag-b1-ein-teil-und-das-ganze/` and linked dialogue | Jasmin/Oskar single photographed piece does not establish a missing element in a specified puzzle. Need reference puzzle and expected inventory. Possible complete-but-unassembled origin proves no actual completeness. Neither complete/incomplete asserted. Occluded car side not automatically absent component. |
+| [ ] | `/lessons/spielteile/` and `/credits/` | das Spielzeugauto/Spielzeugautos (عربية لعبة), das Puzzleteil/Puzzleteile (قطعة بازل), editorial DWDS forms. Ann Hannes both:6865340 1800x1200 crop140,120-1580,1200 whole yellow toy, green behind/peg overlap;3482443 crop180,200-1180,950 whole white piece on yellow.800x600 no people/brand/padding. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way preposition/negation rows. Earlier saved IDs unchanged. helfen/antworten dative, nimmt/weißt/zeigt/tauschen, seine/ihre/seinen/unsere, vor dem/das Auto, hinter den/die Karten, kein/keine/nicht. |
+| [ ] | Dialogue translation toggle |44px minimum height and themed keyboard ring/page-ground gap. All3 new dialogues AR/EN320/390,12 keyboard/axe states, Enter/Space toggle twice/restored pressed state, no XP mutation. No translation content/answer/scoring logic change. |
+| [ ] | Listening/dictation |68 original segments,272 exact German payload/source/answer checks. Human editorial/real-device voice review pending; level labels not proficiency claims. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **861 photo nouns / 147 topics**, **324 reading texts / 1249 reading questions**, **41 core grammar topics / 2398 core grammar questions**, **264 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **863 photo nouns / 148 topics**, **327 reading texts / 1261 reading questions**, **41 core grammar topics / 2422 core grammar questions**, **267 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1068,7 +1080,7 @@ This is an inventory, not completed review. Snapshot: **861 photo nouns / 147 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 90 · A2 118 · B1 86 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 91 · A2 119 · B1 87 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
