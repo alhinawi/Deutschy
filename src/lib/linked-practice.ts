@@ -108,4 +108,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-hundeecke',dialogue:'napf-in-der-kueche'},
  {reading:'alltag-a2-hundesachen',dialogue:'napf-noch-zurueck'},
  {reading:'alltag-b1-hundenotiz',dialogue:'hundesachen-selbst-holen'},
+ {reading:'alltag-a1-reisebeutel',dialogue:'maske-im-reisefach'},
+ {reading:'alltag-a2-zwei-kulturbeutel',dialogue:'gruenes-band-am-griff'},
+ {reading:'alltag-b1-packliste-aendern',dialogue:'nur-die-grosse-tasche'},
 ];

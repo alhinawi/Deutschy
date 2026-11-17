@@ -395,6 +395,10 @@
   {
    "id": "hundeecke",
    "ar": "حاجات لركن الكلب"
+  },
+  {
+   "id": "reisegepaeck",
+   "ar": "حاجات في شنطة السفر"
   }
  ],
  "words": [
@@ -11960,6 +11964,38 @@
     "file": "bowl2.jpg",
     "commons": "https://www.pexels.com/photo/dog-food-in-a-pet-bowl-on-a-wooden-surface-8473516/",
     "author": "Cup of Couple",
+    "license": "Pexels License",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "schlafmaske",
+   "topic": "reisegepaeck",
+   "art": "die",
+   "de": "Schlafmaske",
+   "plural": "Schlafmasken",
+   "ar": "ماسك نوم",
+   "photo": {
+    "file": "mask.jpg",
+    "commons": "https://www.pexels.com/photo/book-beside-a-sleeping-mask-6541429/",
+    "author": "Polina ⠀",
+    "license": "Pexels License",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "kulturbeutel",
+   "topic": "reisegepaeck",
+   "art": "der",
+   "de": "Kulturbeutel",
+   "plural": "-",
+   "ar": "شنطة أدوات حمام",
+   "photo": {
+    "file": "bag3.jpg",
+    "commons": "https://www.pexels.com/photo/9185867/",
+    "author": "Timur Weber",
     "license": "Pexels License",
     "padding": true,
     "modified": true

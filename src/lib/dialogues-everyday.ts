@@ -7728,3 +7728,218 @@ Object.assign(dialogueEvidence,{
     "Meine Tasche vor der Tür räume ich weg."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "maske-im-reisefach",
+    "level": "A1",
+    "title": [
+      "Noch nicht zur Tür",
+      "لسه مش للباب"
+    ],
+    "lines": [
+      [
+        "Bruder",
+        "Soll ich deine Tasche schon zur Tür tragen?",
+        "أشيل شنطتك للباب خلاص؟"
+      ],
+      [
+        "Sara",
+        "Noch nicht, bitte. Ich suche meine Schlafmaske.",
+        "لسه لو سمحت. بدور على ماسك النوم."
+      ],
+      [
+        "Bruder",
+        "Vielleicht im kleinen Fach deiner alten Reisetasche?",
+        "يمكن في الجيب الصغير في شنطة سفرك القديمة؟"
+      ],
+      [
+        "Sara",
+        "Ja, hier ist sie. Den Kulturbeutel habe ich schon eingepackt.",
+        "آه، أهو. شنطة أدوات الحمام حطيتها خلاص."
+      ],
+      [
+        "Bruder",
+        "Und die Brille auf dem Nachttisch?",
+        "والنضارة اللي على الكومود؟"
+      ],
+      [
+        "Sara",
+        "Die brauche ich später noch zum Lesen. Jetzt hole ich meine Jacke.",
+        "لسه محتاجاها للقراية بعدين. دلوقتي هجيب جاكيتي."
+      ],
+      [
+        "Bruder",
+        "Gut. Dann warte ich mit der Tasche.",
+        "تمام. يبقى أستنى بالشنطة."
+      ]
+    ],
+    "q": [
+      [
+        "Was sucht Sara?",
+        "Ihre Schlafmaske.",
+        "Einen neuen Pullover.",
+        "Den Haustürschlüssel."
+      ],
+      [
+        "Was ist schon eingepackt?",
+        "Der Kulturbeutel.",
+        "Die Jacke.",
+        "Die Brille."
+      ],
+      [
+        "Wozu braucht Sara die Brille später noch?",
+        "Zum Lesen.",
+        "Zum Kochen.",
+        "Zum Packen des Autos."
+      ]
+    ]
+  },
+  {
+    "id": "gruenes-band-am-griff",
+    "level": "A2",
+    "title": [
+      "Ich stecke sie selbst ein",
+      "أنا هحطها بنفسي"
+    ],
+    "lines": [
+      [
+        "Tarek",
+        "Dieser Kulturbeutel steht neben meiner Jacke. Ist er meiner?",
+        "شنطة أدوات الحمام دي جنب جاكيتي. هي بتاعتي؟"
+      ],
+      [
+        "Dalia",
+        "Nicht unbedingt. Wir haben die Taschen vorhin verschoben.",
+        "مش شرط. إحنا نقلنا الشنط من شوية."
+      ],
+      [
+        "Tarek",
+        "Woran erkennst du deinen Beutel?",
+        "بتعرفي شنطتك من إيه؟"
+      ],
+      [
+        "Dalia",
+        "An dem grünen Band am Griff. Da ist er.",
+        "من الشريط الأخضر في المسكة. أهو هناك."
+      ],
+      [
+        "Tarek",
+        "Deine Schlafmaske liegt auf dem Sofa. Soll ich sie einpacken?",
+        "ماسك نومك على الكنبة. أحطه في الشنطة؟"
+      ],
+      [
+        "Dalia",
+        "Gib sie mir bitte. Ich stecke sie selbst in die Seitentasche.",
+        "ناولني إياه لو سمحت. هحطه بنفسي في الجيب الجانبي."
+      ],
+      [
+        "Tarek",
+        "Hier, bitte. Den fremden Kamm lassen wir hier.",
+        "اتفضلي. المشط اللي مش بتاعنا نسيبه هنا."
+      ]
+    ],
+    "q": [
+      [
+        "Was wurde vorhin verschoben?",
+        "Die Taschen.",
+        "Die Haustür.",
+        "Das Fenster."
+      ],
+      [
+        "Wo ist das grüne Band?",
+        "Am Griff von Dalias Beutel.",
+        "An Tareks Jacke.",
+        "Unter dem Sofa."
+      ],
+      [
+        "Was möchte Dalia selbst einstecken?",
+        "Ihre Schlafmaske.",
+        "Den fremden Kamm.",
+        "Tareks Jacke."
+      ]
+    ]
+  },
+  {
+    "id": "nur-die-grosse-tasche",
+    "level": "B1",
+    "title": [
+      "Gilt unsere Absprache noch?",
+      "اتفاقنا لسه زي ما هو؟"
+    ],
+    "lines": [
+      [
+        "Omar",
+        "Ich nehme die große Tasche und den kleinen Stoffbeutel, wie besprochen.",
+        "هاخد الشنطة الكبيرة والشنطة القماش الصغيرة زي ما اتفقنا."
+      ],
+      [
+        "Lea",
+        "Warte bitte kurz. Ich packe noch etwas um.",
+        "استنى شوية لو سمحت. لسه هنقل شوية حاجات."
+      ],
+      [
+        "Omar",
+        "Der Kulturbeutel kommt in die große Tasche?",
+        "شنطة أدوات الحمام هتتحط في الكبيرة؟"
+      ],
+      [
+        "Lea",
+        "Genau. Das Buch und die Schlafmaske kommen in den Stoffbeutel.",
+        "بالظبط. الكتاب وماسك النوم هيتحطوا في الشنطة القماش."
+      ],
+      [
+        "Omar",
+        "Soll ich den dann trotzdem tragen?",
+        "أشيلها برضه بعد كده؟"
+      ],
+      [
+        "Lea",
+        "Nein, die kleine Tasche bleibt bei mir. Nimm bitte nur die große.",
+        "لأ، الشنطة الصغيرة تفضل معايا. خد الكبيرة بس لو سمحت."
+      ],
+      [
+        "Omar",
+        "Verstanden: Ich trage nur die große Reisetasche zur Tür.",
+        "فهمت: هشيل شنطة السفر الكبيرة بس للباب."
+      ]
+    ],
+    "q": [
+      [
+        "Was macht Lea noch?",
+        "Sie packt etwas um.",
+        "Sie kauft einen neuen Koffer.",
+        "Sie sucht Omars Schuhe."
+      ],
+      [
+        "Welche Tasche bleibt bei Lea?",
+        "Der kleine Stoffbeutel.",
+        "Die große Reisetasche.",
+        "Keine."
+      ],
+      [
+        "Was bestätigt Omar am Ende?",
+        "Er trägt nur die große Reisetasche zur Tür.",
+        "Er nimmt weiterhin beide Taschen.",
+        "Er trägt den Kulturbeutel allein."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "maske-im-reisefach": [
+    "Ich suche meine Schlafmaske.",
+    "Den Kulturbeutel habe ich schon eingepackt.",
+    "Die brauche ich später noch zum Lesen."
+  ],
+  "gruenes-band-am-griff": [
+    "Wir haben die Taschen vorhin verschoben.",
+    "An dem grünen Band am Griff.",
+    "Deine Schlafmaske liegt auf dem Sofa."
+  ],
+  "nur-die-grosse-tasche": [
+    "Ich packe noch etwas um.",
+    "die kleine Tasche bleibt bei mir.",
+    "Ich trage nur die große Reisetasche zur Tür."
+  ]
+});

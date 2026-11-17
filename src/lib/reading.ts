@@ -165,3 +165,6 @@ readings.push(...picknickrundeTexts);
 
 import {hundeeckeTexts} from './reading-hundeecke';
 readings.push(...hundeeckeTexts);
+
+import {reisegepaeckTexts} from './reading-reisegepaeck';
+readings.push(...reisegepaeckTexts);

@@ -327,3 +327,6 @@ for(const[topic,rows]of Object.entries(picknickrundeGrammar))exercises[topic].pu
 
 import {hundeeckeGrammar} from './exercises-hundeecke';
 for(const[topic,rows]of Object.entries(hundeeckeGrammar))exercises[topic].push(...rows);
+
+import {reisegepaeckGrammar} from './exercises-reisegepaeck';
+for(const[topic,rows]of Object.entries(reisegepaeckGrammar))exercises[topic].push(...rows);

@@ -767,3 +767,24 @@ Object.assign(readingEvidence,{
     "denn genau das haben die beiden vereinbart."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-reisebeutel": [
+    "Sara packt eine Tasche für einen Besuch bei ihrer Schwester.",
+    "Sara schaut in das kleine Fach ihrer alten Reisetasche. Dort findet sie die blaue Maske.",
+    "Die Brille bleibt auf dem Nachttisch.",
+    "Sara möchte zuerst ihre Jacke holen."
+  ],
+  "alltag-a2-zwei-kulturbeutel": [
+    "dass die Taschen beim Aufräumen verschoben wurden.",
+    "Dalia hat ein grünes Band am Griff befestigt.",
+    "Er reicht sie ihr deshalb nur.",
+    "Sie lassen ihn liegen und fragen ihre Gastgeberin"
+  ],
+  "alltag-b1-packliste-aendern": [
+    "dass ihr Kulturbeutel noch im Bad steht. Außerdem möchte sie das Buch aus der großen Tasche später noch lesen.",
+    "legt es zusammen mit ihrer Schlafmaske in den kleinen Stoffbeutel.",
+    "Er soll nur die große Tasche zur Tür tragen.",
+    "Für Tickets oder andere Unterlagen müssen sie gesondert nachsehen."
+  ]
+});

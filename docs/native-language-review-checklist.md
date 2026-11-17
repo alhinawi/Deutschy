@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the fifty-second practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the fifty-fifth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -465,6 +465,18 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/dialogues/` and `/conversation/` | New normalized title/speaker-line search within practice group. AR/EN count, no matches, query-only clear, full reset, focus, pressed group buttons. Search persists when returning from a dialogue; A1/A2 conversation scope excludes B1. No search progress writes. |
 | [ ] | Listening/dictation | Check all 53 new German segments and Egyptian Arabic. Actual device-voice review pending. No feeding-quantity, veterinary, training or animal-health advice. |
 
+### List 55: travel-bag packing and revised carrying agreement
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-reisebeutel/` and `maske-im-reisefach` | Check mask found in old bag, packed in front compartment, glasses left for reading, brother waits while Sara gets jacket. Check all 7 answers/evidence and Egyptian Arabic. |
+| [ ] | `/reading/alltag-a2-zwei-kulturbeutel/` and `gruenes-band-am-griff` | Check ownership via green band on handle, location beside jacket not proof after moving bags, mask handed over rather than packed without consent, unfamiliar comb left pending host question. |
+| [ ] | `/reading/alltag-b1-packliste-aendern/` and `nur-die-grosse-tasche` | Check revised carrying agreement, book/mask moved to small cloth bag, Omar carries only large bag, tickets/documents not claimed checked. No real travel requirement. |
+| [ ] | `/lessons/reisegepaeck/` | die Schlafmaske / Schlafmasken, der Kulturbeutel / same-form plural (-). Whole real mask and hanging toiletry organizer. Cropped/padded; faceless hands allowed, no readable branding. Photos illustrate nouns, not story-state evidence. |
+| [ ] | `exercises-reisegepaeck.ts` | 24 appended article/genus, dative, present, separable, two-way/dative-preposition and negation rows. Check forms and Arabic/English explanations. Prior saved identities unchanged. |
+| [ ] | Every `/lessons/[topic]/` | Five direct scoped vocabulary-game links. Same lesson scope in flashcards, photo quiz, article, spelling and memory. No sentence-game links or score changes. Check Arabic/English wording and touch targets. |
+| [ ] | Listening/dictation | Check all 54 new segments and Egyptian Arabic. Actual device-voice review pending. No health/sleep-effect claim, packing requirement or ticket-policy advice. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -479,7 +491,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **765 photo nouns / 99 topics**, **180 reading texts / 673 reading questions**, **41 core grammar topics / 1246 core grammar questions**, **120 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **767 photo nouns / 100 topics**, **183 reading texts / 685 reading questions**, **41 core grammar topics / 1270 core grammar questions**, **123 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -491,7 +503,7 @@ This is an inventory, not completed review. Snapshot: **765 photo nouns / 99 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 42 · A2 70 · B1 38 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 43 · A2 71 · B1 39 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
