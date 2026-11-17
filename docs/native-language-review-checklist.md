@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the twenty-eighth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the twenty-ninth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -174,6 +174,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/lessons/handarbeit/` | Review Stricknadel / Stricknadeln, Häkelnadel / Häkelnadeln, Stickrahmen / same-form plural and Egyptian Arabic senses. Three real photo cues; the needle source is rotated/cropped to the complete unbranded group. Check clarity at phone size. Source/licence checks are not native editorial approval. |
 | [ ] | `/dialogues/` and `/dictation/` | Review fresh question/translation/role state after switching hashes between dialogues; earlier progress must stay saved. New focused dictation has 40 sentences. Listen on a real German device voice; mocked utterances check text selection, not pronunciation. |
 
+### Twenty-ninth update: additional pending targets
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-umschlag/` | Check card/envelope/address language, today at six versus tomorrow, and all 4 answers. Check the linked dialogue **Noch Platz für einen Gruß**, family terms and its 3 answers separately. |
+| [ ] | `/reading/alltag-a2-briefablage/` | Check Ablage, beschriftet, flache Schachtel, oberes Fach, privacy sequence and all 4 answers. Review **Welche Umschläge sind frei?**, asking before taking, and its 3 answers. |
+| [ ] | `/reading/alltag-b1-stempeltisch/` | Check Abdruck, Zusage, Rückmeldung and decorative mark versus confirmed place. Do not turn the invented private invitation into real registration policy. Review **Nur ein Muster, keine Zusage**, privacy wording and all 7 evidence answers across the pair. |
+| [ ] | `/lessons/briefplatz/` | Check der Brieföffner / same-form plural, der Briefumschlag / Briefumschläge, der Stempel / same-form plural; Egyptian meanings and real unbranded photos. Does each photo clearly show the intended noun? Stamp is cropped away from branded ink bottle; Credits preserve sources/modifications. |
+| [ ] | `/grammar/akkusativ/`, `/grammar/possessiv/`, `/grammar/modalverben/`, `/grammar/imperativ/`, `/grammar/komparativ/`, `/grammar/dativ-praepositionen/` | Review the 24 appended correspondence-desk prompts/explanations and alternative correct forms. Existing saved question IDs must not move. |
+| [ ] | `/perfekt/` and `/dictation/` | Check all 6 unchanged Perfekt-context prompts with new locks/counts, selected-choice feedback and temporary scoped reset. Review the 41 new dictation sentences with a real German voice, separate from mocked pronunciation-free QA. No points/history are written by these two practice tools. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -188,7 +199,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **712 photo nouns / 73 topics**, **102 reading texts / 361 reading questions**, **41 core grammar topics / 622 core grammar questions**, **42 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **715 photo nouns / 74 topics**, **105 reading texts / 373 reading questions**, **41 core grammar topics / 646 core grammar questions**, **45 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -200,7 +211,7 @@ This is an inventory, not completed review. Snapshot: **712 photo nouns / 73 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 16 · A2 29 · B1 27 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 17 · A2 30 · B1 28 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
