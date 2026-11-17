@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-sixth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-seventh practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1102,9 +1102,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Dialogue Next/Result button |44px minimum and keyboard ring with card-ground gap. All3 new dialogues AR/EN320/390,36 feedback-state axe and Enter/Space transitions to next unselected choices or3/3 result, no extra XP. Actual390AR/EN pixels inspected. No answer/scoring/playback logic change. |
 | [ ] | Listening/dictation |66 original segments,264 exact German payload/source/answer checks. Human editorial and real-device voice review pending. Level labels not proficiency certification; progress device-local. |
 
+### List 107: Paper forms, plural variants and visible sides
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-linien-und-ein-loch/` and linked dialogue | Lea/Karim ruled white index cards/red top line on wood, blank white tag/black reinforced hole/green-white patterned ground. die Karteikarte/Karteikarten, das Etikett/Etiketten as today's chosen form, not only valid plural. Visible fronts blank, no invented writing/purchase. |
+| [ ] | `/reading/alltag-a2-zwei-verschiedene-fragen/` and linked dialogue | Nele/Amir distinguish form on today's sheet from general valid variants. Duden also allows Etiketts/Etikette; never used as wrong alternatives. Reword question, no valid variant banned or universal noun rule. |
+| [ ] | `/reading/alltag-b1-leer-ist-kein-inhaltsnachweis/` and linked dialogue | Jule/Tarek tidy shapes not proof of correct content assignment. Blank limited to visible sides, backs and total count unknown. No invented prices/names/contents, no newness/prior-use claim or verified inventory. |
+| [ ] | `/lessons/papierformen/` and `/credits/` | die Karteikarte/Karteikarten (كارت فهرسة), das Etikett/Etiketten (تيكيت أو بطاقة تعريف). DWDS Karteikarte, Duden Etikett plural variants. Pixabay268351 1800x1200 and Eva Bronzini7967275 1800x1200 each crop100,0-1700,1200 then800x600. Whole foreground card and whole tag; real photograph of tag on printed paper, no face/brand/padding/stretch. Branded protractors rejected. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way/negation rows. Earlier saved IDs/fixtures unchanged. dem/der/den/dem, deckt/änderst/vergleicht/erfinden, ihr/sein/ihre/unsere, neben der/die Vorlage, auf dem/das Blatt, kein/keine/keinen/nicht. |
+| [ ] | Dialogue clear-query and clear-query/filter buttons |Themed keyboard ring/page-ground gap on existing44px controls.8 AR/EN320/390 states, axe and Enter/Space clear/reset and return focus to search, no XP. Actual390AR/EN pixels inspected. Search/filter/answer/scoring/playback logic unchanged. |
+| [ ] | Listening/dictation |64 original segments,256 exact German payload/source/answer checks. Human editorial and real-device voice review pending. Level labels not proficiency certification; progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **869 photo nouns / 151 topics**, **336 reading texts / 1297 reading questions**, **41 core grammar topics / 2494 core grammar questions**, **276 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **871 photo nouns / 152 topics**, **339 reading texts / 1309 reading questions**, **41 core grammar topics / 2518 core grammar questions**, **279 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1116,7 +1128,7 @@ This is an inventory, not completed review. Snapshot: **869 photo nouns / 151 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 94 · A2 122 · B1 90 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 95 · A2 123 · B1 91 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

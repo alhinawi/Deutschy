@@ -321,3 +321,6 @@ readings.push(...gartenbilderTexts);
 
 import {naturbeobachtungTexts} from './reading-naturbeobachtung';
 readings.push(...naturbeobachtungTexts);
+
+import {papierformenTexts} from './reading-papierformen';
+readings.push(...papierformenTexts);
