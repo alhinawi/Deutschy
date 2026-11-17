@@ -11383,3 +11383,218 @@ Object.assign(dialogueEvidence,{
     "Diese Frage haben wir bisher noch niemandem gestellt."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "die-woerter-auf-ein-extra-blatt",
+    "level": "A1",
+    "title": [
+      "Schreib nicht auf das Foto",
+      "ماتكتبش على الصورة"
+    ],
+    "lines": [
+      [
+        "Paul",
+        "Danke für den Brief. Wie heißt der Gegenstand vorn auf dem Foto?",
+        "شكرًا على الجواب. اسم الحاجة اللي قدام في الصورة إيه؟"
+      ],
+      [
+        "Ines",
+        "Das ist ein Hobel. Der andere Gegenstand heißt Schraubzwinge.",
+        "دي فارة نجارة. الحاجة التانية اسمها قمطة نجارة."
+      ],
+      [
+        "Paul",
+        "Ich schreibe die Wörter auf ein extra Blatt. Das Foto bleibt unverändert.",
+        "هكتب الكلمات على ورقة لوحدها. الصورة تفضل زي ما هي."
+      ],
+      [
+        "Ines",
+        "Gut. Das Foto habe ich erst gestern in einer Schublade gefunden.",
+        "تمام. أنا لقيت الصورة امبارح بس في درج."
+      ],
+      [
+        "Paul",
+        "Mila fragt, ob die Werkstatt noch offen ist.",
+        "ميلا بتسأل إذا الورشة لسه مفتوحة."
+      ],
+      [
+        "Ines",
+        "Das steht nicht in meinem Brief. Frag deinen Großvater später danach.",
+        "ده مش مكتوب في جوابي. اسأل جدك عن ده بعدين."
+      ],
+      [
+        "Paul",
+        "Das mache ich später. Heute lege ich erst alles in die Mappe.",
+        "هعمل ده بعدين. النهارده أحط الأول كل حاجة في الملف."
+      ]
+    ],
+    "q": [
+      [
+        "Worauf schreibt Paul die Wörter?",
+        "Auf ein extra Blatt.",
+        "Auf das alte Foto.",
+        "Auf den Briefumschlag."
+      ],
+      [
+        "Wann hat Ines das Foto gefunden?",
+        "Erst gestern.",
+        "Schon vor zehn Jahren.",
+        "Morgen."
+      ],
+      [
+        "Was möchte Paul heute zuerst machen?",
+        "Alles in die Mappe legen.",
+        "Die Werkstatt öffnen.",
+        "Neue Werkzeuge kaufen."
+      ]
+    ]
+  },
+  {
+    "id": "nummer-ist-nicht-aufnahmezeit",
+    "level": "A2",
+    "title": [
+      "Zwei Ansichten, keine Arbeitsfolge",
+      "منظرين، مش ترتيب شغل"
+    ],
+    "lines": [
+      [
+        "Denis",
+        "Werkstatt eins muss doch vor Werkstatt zwei aufgenommen worden sein.",
+        "ورشة واحد أكيد اتصورت قبل ورشة اتنين."
+      ],
+      [
+        "Rika",
+        "Nein, die Zahlen habe ich erst beim Kopieren vergeben.",
+        "لأ، الأرقام أنا اديتها لما نسختهم."
+      ],
+      [
+        "Denis",
+        "Dann zeigen wir die Bilder lieber als zwei Ansichten derselben Werkbank.",
+        "يبقى الأفضل نعرض الصور كمنظرين لنفس ترابيزة الشغل."
+      ],
+      [
+        "Rika",
+        "Ja. Für den Abend kommt der Hobel zuerst, die Schraubzwinge danach.",
+        "أيوه. بالنسبة لليلة فارة النجارة الأول، والقمطة بعدها."
+      ],
+      [
+        "Denis",
+        "Den Satz Danach ging die Arbeit weiter streiche ich. Dafür fehlt uns ein Beleg.",
+        "هشطب جملة بعد كده الشغل كمل. مش عندنا دليل على ده."
+      ],
+      [
+        "Rika",
+        "Die Originale behalten wir. Die neue Bildfolge speichere ich extra.",
+        "نحتفظ بالصور الأصلية. ترتيب العرض الجديد هحفظه لوحده."
+      ],
+      [
+        "Denis",
+        "Und nach Erinnerungen fragen wir erst am Abend. Antworten haben wir noch nicht.",
+        "وعلى الذكريات نسأل بالليل. لسه مش عندنا إجابات."
+      ]
+    ],
+    "q": [
+      [
+        "Wann hat Rika die Zahlen vergeben?",
+        "Beim Kopieren.",
+        "Sicher direkt bei der Aufnahme.",
+        "Nach einer bestätigten Arbeitsfolge."
+      ],
+      [
+        "Was kommt in der gewählten Bildfolge danach?",
+        "Die Schraubzwinge.",
+        "Der Hobel.",
+        "Ein Foto des Gartens."
+      ],
+      [
+        "Wie speichert Rika die neue Bildfolge?",
+        "Extra, die Originale bleiben erhalten.",
+        "Über allen Originalen ohne Sicherung.",
+        "Sie speichert gar nichts."
+      ]
+    ]
+  },
+  {
+    "id": "wortkenntnis-und-fachkenntnis",
+    "level": "B1",
+    "title": [
+      "Nur die Namen auf dieser Seite",
+      "الأسامي بس في الصفحة دي"
+    ],
+    "lines": [
+      [
+        "Dima",
+        "Sollen wir unter die Fotos auch eine Anleitung schreiben?",
+        "نكتب تعليمات استخدام تحت الصور كمان؟"
+      ],
+      [
+        "Arne",
+        "Ich kenne nur die Namen. Selbst verwendet habe ich die Werkzeuge noch nie.",
+        "أنا عارف الأسامي بس. عمري ماستخدمت الأدوات بنفسي."
+      ],
+      [
+        "Dima",
+        "Dann ist eine Wortübung der passendere Rahmen.",
+        "يبقى تدريب كلمات هو الإطار الأنسب."
+      ],
+      [
+        "Arne",
+        "Den Absatz mit vermuteten Schritten nehme ich heraus, ohne eine kurze Anleitung nachzuschieben.",
+        "هشيل الفقرة اللي فيها خطوات متخمنة، من غير ما أضيف تعليمات قصيرة بدلها."
+      ],
+      [
+        "Dima",
+        "Eine fachliche Erklärung müsste später eine qualifizierte Person prüfen.",
+        "الشرح المهني لازم شخص مؤهل يراجعه بعدين."
+      ],
+      [
+        "Arne",
+        "Das ist bisher noch nicht vereinbart. Heute bleiben wir bei den Namen.",
+        "ده لحد دلوقتي لسه مش متفق عليه. النهارده نكتفي بالأسامي."
+      ],
+      [
+        "Dima",
+        "Ich prüfe nur, ob Hobel und Schraubzwinge den richtigen Fotos zugeordnet sind.",
+        "هراجع بس إذا فارة النجارة وقمطة النجارة متوصلين بالصور الصح."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Erfahrung nennt Arne?",
+        "Er hat die Werkzeuge selbst noch nie verwendet.",
+        "Er hat die Anwendung beruflich geprüft.",
+        "Er hat die Werkzeuge für Dima gebaut."
+      ],
+      [
+        "Was ersetzt den entfernten Absatz?",
+        "Keine neue Anleitung, sie bleiben bei den Namen.",
+        "Eine ungeprüfte Kurzfassung der Schritte.",
+        "Ein verbindlich gebuchter Kurs."
+      ],
+      [
+        "Was prüft Dima?",
+        "Nur die Zuordnung von Namen und Fotos.",
+        "Die sichere Anwendung aller Werkzeuge.",
+        "Die Qualifikation eines schon beauftragten Prüfers."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "die-woerter-auf-ein-extra-blatt": [
+    "Ich schreibe die Wörter auf ein extra Blatt.",
+    "erst gestern in einer Schublade gefunden.",
+    "Heute lege ich erst alles in die Mappe."
+  ],
+  "nummer-ist-nicht-aufnahmezeit": [
+    "die Zahlen habe ich erst beim Kopieren vergeben.",
+    "die Schraubzwinge danach.",
+    "Die Originale behalten wir. Die neue Bildfolge speichere ich extra."
+  ],
+  "wortkenntnis-und-fachkenntnis": [
+    "Selbst verwendet habe ich die Werkzeuge noch nie.",
+    "Heute bleiben wir bei den Namen.",
+    "Ich prüfe nur, ob Hobel und Schraubzwinge den richtigen Fotos zugeordnet sind."
+  ]
+});

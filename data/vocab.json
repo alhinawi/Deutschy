@@ -463,6 +463,10 @@
   {
    "id": "teeschrank",
    "ar": "مصفاة شاي وبراد"
+  },
+  {
+   "id": "werkstattalbum",
+   "ar": "قمطة وفارة نجارة"
   }
  ],
  "words": [
@@ -12544,6 +12548,36 @@
     "file": "2298732.jpg",
     "commons": "https://www.pexels.com/photo/a-vintage-kettle-on-a-rustic-wood-stove-2298732/",
     "author": "Gül Işık",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "schraubzwinge",
+   "topic": "werkstattalbum",
+   "art": "die",
+   "de": "Schraubzwinge",
+   "plural": "Schraubzwingen",
+   "ar": "قمطة نجارة",
+   "photo": {
+    "file": "37162556.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-of-woodworking-with-clamps-and-hammer-37162556/",
+    "author": "Pew Nguyen",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "hobel",
+   "topic": "werkstattalbum",
+   "art": "der",
+   "de": "Hobel",
+   "plural": "-",
+   "ar": "فارة نجارة",
+   "photo": {
+    "file": "5691523.jpg",
+    "commons": "https://www.pexels.com/photo/old-rusty-plane-with-polished-wooden-knob-5691523/",
+    "author": "Ksenia Chernaya",
     "license": "Pexels License",
     "modified": true
    }

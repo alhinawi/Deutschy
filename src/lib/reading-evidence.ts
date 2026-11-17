@@ -1124,3 +1124,24 @@ Object.assign(readingEvidence,{
     "Diese Nachfrage hat noch nicht stattgefunden."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-werkstattalbum": [
+    "Paul bekommt einen Brief von seiner Tante Ines.",
+    "Paul schreibt das Wort auf ein neues Blatt.",
+    "Paul weiß es nicht.",
+    "Später möchte er seinen Großvater nach dem Raum fragen."
+  ],
+  "alltag-a2-getauschte-bildfolge": [
+    "dass sie die Namen selbst erst beim Kopieren vergeben hat.",
+    "Zuerst erscheint das Bild mit dem Hobel",
+    "Dieser Satz würde einen Ablauf verbinden, den sie nicht belegen können.",
+    "Die ursprünglichen Fotos und ihre bisherigen Namen bleiben erhalten."
+  ],
+  "alltag-b1-erklaerung-mit-grenze": [
+    "Arne kennt die Namen, hat die Werkzeuge aber selbst nie verwendet.",
+    "Sie soll beim Erkennen und Benennen helfen.",
+    "Eine solche Prüfung ist bisher weder erfolgt noch vereinbart.",
+    "ob die Beschriftungen zu den beiden Fotos passen."
+  ]
+});

@@ -216,3 +216,6 @@ readings.push(...naehablageTexts);
 
 import {teeschrankTexts} from './reading-teeschrank';
 readings.push(...teeschrankTexts);
+
+import {werkstattalbumTexts} from './reading-werkstattalbum';
+readings.push(...werkstattalbumTexts);

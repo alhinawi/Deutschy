@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the seventy-first practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the seventy-second practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -670,6 +670,18 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Spelling | Visible meaning prompt becomes associated label: tapping it focuses stable answer input. Existing help, required/invalid state, field name, focus ring, grading, points and double-submit lock unchanged. |
 | [ ] | Listening/dictation | Check 60 segments and Egyptian Arabic. Native editorial and actual German device-voice checks pending. No brewing, heating, stove-use, food-safety or storage instructions. |
 
+### List 72: screw clamp, hand plane and an old workshop album
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-werkstattalbum/` and linked dialogue | Aunt sends old workshop photo, names written on separate sheet. Original untouched. Finding photo yesterday is not photo date/current workshop status. Later question to grandfather proposed, not asked. |
+| [ ] | `/reading/alltag-a2-getauschte-bildfolge/` and linked dialogue | Numbers assigned during copying, not capture order. Plane first in chosen presentation, clamp after; no work chronology claimed. New sequence saved separately, originals kept. Guest memories not yet collected. |
+| [ ] | `/reading/alltag-b1-erklaerung-mit-grenze/` and linked dialogue | Word recognition does not establish tool-use knowledge, or vice versa. Guessed steps removed without a short replacement guide. Expert review neither done nor arranged. Dima checks two name/photo matches only. |
+| [ ] | `/lessons/werkstattalbum/` and `/credits/` | die Schraubzwinge/Schraubzwingen, der Hobel/same-form plural (-). Egyptian Arabic قمطة نجارة and فارة نجارة. Whole primary green screw clamp, lower jaw naturally hidden by wood, partial hammer/background clamps contextual. Whole unbranded hand plane on natural light surface. No people, added bars or illustrations. |
+| [ ] | Six appended grammar banks | 24 article/accusative/present/connector/two-way-preposition/negation rows, earlier saved identities unchanged. Check auxiliary word choices and Egyptian Arabic explanations. |
+| [ ] | Spelling | Submitted disabled answer stays full-opacity/ink-colored; prompt has text cursor. Existing label tap-to-focus, required/error/help, grading/XP and double-submit lock unchanged. |
+| [ ] | Listening/dictation | Check 60 segments and Egyptian Arabic. Native editorial and actual German device-voice checks pending. No tool-operation, maintenance, woodworking or safety instructions. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -684,7 +696,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **799 photo nouns / 116 topics**, **231 reading texts / 877 reading questions**, **41 core grammar topics / 1654 core grammar questions**, **171 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **801 photo nouns / 117 topics**, **234 reading texts / 889 reading questions**, **41 core grammar topics / 1678 core grammar questions**, **174 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -696,7 +708,7 @@ This is an inventory, not completed review. Snapshot: **799 photo nouns / 116 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 59 · A2 87 · B1 55 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 60 · A2 88 · B1 56 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

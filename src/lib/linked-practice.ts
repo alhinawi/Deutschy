@@ -159,4 +159,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-teeschrank',dialogue:'zettel-vor-der-schachtel'},
  {reading:'alltag-a2-zwei-aehnliche-kessel',dialogue:'nicht-nur-nach-dem-standort'},
  {reading:'alltag-b1-bildtitel-mit-fragezeichen',dialogue:'sichtbar-erinnert-noch-offen'},
+ {reading:'alltag-a1-werkstattalbum',dialogue:'die-woerter-auf-ein-extra-blatt'},
+ {reading:'alltag-a2-getauschte-bildfolge',dialogue:'nummer-ist-nicht-aufnahmezeit'},
+ {reading:'alltag-b1-erklaerung-mit-grenze',dialogue:'wortkenntnis-und-fachkenntnis'},
 ];
