@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-twenty-sixth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-twenty-seventh practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1342,9 +1342,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Dialogue question counter | Existing LTR English-digit counter gains localized accessible name and polite atomic status. 120 states, 36 mixed answers, 24 axe over 3 sets AR/EN320/390. Completion stays3/3; retry/reopen reset1/3, no extraXP, mixed score2/3 gives16XP. Actual390AR/ENcounter screens inspected. |
 | [ ] | Listening/dictation | 71 original segments, 284 exact German speech/source/answer checks. Native editorial and actual-device voice review pending. Level labels not certification; progress local. |
 
+### List 127: Cinnamon sticks and nutmeg
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zwei-verschiedene-mehrzahlformen/` and linked dialogue | Eva/Felix contrast Zimtstangen (+n) and Muskatnüsse (u to ü, +e), both feminine. Same article does not mean same plural pattern. Cover/reveal and compare. Paper/photos only. |
+| [ ] | `/reading/alltag-a2-das-foto-hat-keinen-geruch/` and linked dialogue | Lina/Mats separate visible rolled ends, brown colors and surface from an uncheckable smell-strength claim. A remembered smell is not necessarily false but cannot be verified by the still photo. No actual spice investigation or food-use advice. |
+| [ ] | `/reading/alltag-b1-hinweis-oder-freier-abruf/` and linked dialogue | Dana/Karim separate assisted spelling from free recall. Added ü/e hint must be recorded. Later unaided repetition is planned, not completed. One trial does not establish universal long-term retention. Informal practice, no standard test claim. |
+| [ ] | `/lessons/gewuerzbilder/` and `/credits/` | die Zimtstange/Zimtstangen (عود قرفة), die Muskatnuss/Muskatnüsse (جوزة الطيب). DWDS full forms checked. Zezen Zaenal Mutaqin4095076 cinnamon1800x1200crop0,0-1600,1200; Art35339664 nutmeg1800x1013crop225,0-1573,1011. Both800x600 no padding/stretch/brand/person. Actual390AR/ENcards inspected. |
+| [ ] | Six appended grammar banks |24article/dative/present/possessive/two-way/negation rows; earlier saved identities preserved. Native German/Egyptian examples/explanations pending. |
+| [ ] | Dialogue completion score | Localized result gains polite atomic status.120statechecks36mixedanswers24axe over3sets AR/EN320/390. Mixed2/3score16XP correct; retry/reopen no stale score and no extraXP. Actual390AR/ENresult screens inspected. |
+| [ ] | Listening/dictation |68originalsegments272exactGerman speech/source/answer checks. Native editorial and actual-device voice review pending. Level labels not certification; progress local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **909 photo nouns / 171 topics**, **396 reading texts / 1537 reading questions**, **41 core grammar topics / 2974 core grammar questions**, **336 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **911 photo nouns / 172 topics**, **399 reading texts / 1549 reading questions**, **41 core grammar topics / 2998 core grammar questions**, **339 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1356,7 +1368,7 @@ This is an inventory, not completed review. Snapshot: **909 photo nouns / 171 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 114 · A2 142 · B1 110 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 115 · A2 143 · B1 111 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

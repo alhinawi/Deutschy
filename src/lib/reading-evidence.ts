@@ -2279,3 +2279,24 @@ Object.assign(readingEvidence,{
     "Diese Aufgabe haben sie noch nicht durchgeführt."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zwei-verschiedene-mehrzahlformen": [
+    "Bei Zimtstange ergänzt sie ein n.",
+    "Das u bekommt zwei Punkte, und am Ende kommt ein e dazu.",
+    "Gleicher Artikel bedeutet hier nicht gleiche Mehrzahlbildung.",
+    "Die Übung benutzt nur Papier und Fotos."
+  ],
+  "alltag-a2-das-foto-hat-keinen-geruch": [
+    "Sie haben keine echten Gewürze vor sich.",
+    "Die gerollten Formen und die Farben kommen unter die erste Überschrift.",
+    "Sie kann nur durch dieses Bild nicht bestätigt werden.",
+    "Diese Wiederholung ist erst geplant."
+  ],
+  "alltag-b1-hinweis-oder-freier-abruf": [
+    "Beim zweiten Versuch zeigt Dana zusätzlich auf eine kleine Karte mit ü und e.",
+    "Die zweite Antwort zeigt, dass die Person mit dieser Hilfe die passende Form schreiben konnte.",
+    "Ein richtiges Ergebnis in diesem zweiten Schritt soll ausdrücklich als Antwort mit Hilfe notiert werden.",
+    "Diese findet in der beschriebenen Situation noch nicht statt."
+  ]
+});
