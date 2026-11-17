@@ -216,4 +216,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-kugeln-und-rahmen',dialogue:'nicht-nur-eine-kugel'},
  {reading:'alltag-a2-noch-nicht-vorgelesen',dialogue:'ein-haken-muss-warten'},
  {reading:'alltag-b1-ein-spiegelbild-ist-keine-zweite-figur',dialogue:'darstellung-und-gegenstand'},
+ {reading:'alltag-a1-zwei-runde-instrumente',dialogue:'zwei-woerter-mit-die'},
+ {reading:'alltag-a2-die-musik-kommt-vom-handy',dialogue:'nur-die-musik-leiser'},
+ {reading:'alltag-b1-ein-name-ist-kein-hoerbeispiel',dialogue:'das-leere-hoerfeld'},
 ];

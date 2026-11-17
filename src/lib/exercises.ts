@@ -435,3 +435,6 @@ for(const[topic,rows]of Object.entries(werkzeugnamenGrammar))exercises[topic].pu
 
 import {denkobjekteGrammar} from './exercises-denkobjekte';
 for(const[topic,rows]of Object.entries(denkobjekteGrammar))exercises[topic].push(...rows);
+
+import {instrumentenformenGrammar} from './exercises-instrumentenformen';
+for(const[topic,rows]of Object.entries(instrumentenformenGrammar))exercises[topic].push(...rows);

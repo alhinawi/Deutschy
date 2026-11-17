@@ -15468,3 +15468,218 @@ Object.assign(dialogueEvidence,{
     "Deshalb beschreiben wir Teile und Formen, ohne eine Rechnung zu erfinden."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "zwei-woerter-mit-die",
+    "level": "A1",
+    "title": [
+      "Zwei Wörter mit die",
+      "كلمتين بنفس أداة التعريف"
+    ],
+    "lines": [
+      [
+        "David",
+        "Hier sehe ich zwei Rumbakugeln. Wie heißt eine allein?",
+        "هنا شايف شخشيختين موسيقى. اسم الواحدة إيه؟"
+      ],
+      [
+        "Inas",
+        "Die Rumbakugel. Den Plural schreibst du mit n am Ende.",
+        "المفرد بالألماني مؤنث. وفي الجمع تزود حرف إن في الآخر."
+      ],
+      [
+        "David",
+        "Und die Schale auf dem blauen Kissen?",
+        "والطبق اللي على المخدة الزرقا؟"
+      ],
+      [
+        "Inas",
+        "Die Klangschale, im Plural die Klangschalen.",
+        "ده الطبق الرنان بالألماني ومع الجمع تزود إن."
+      ],
+      [
+        "David",
+        "Dann markiere ich in meinem Heft zweimal den Artikel die.",
+        "يبقى هعلم في كراستي مرتين على أداة التعريف المؤنث."
+      ],
+      [
+        "Inas",
+        "Gut. Lass die Fotos bitte ohne Markierungen.",
+        "تمام. سيب الصور من غير علامات لو سمحت."
+      ],
+      [
+        "David",
+        "Ja. Danach kommen sie wieder in die Mappe.",
+        "أيوه. وبعد كده هترجع في الملف."
+      ]
+    ],
+    "q": [
+      [
+        "Wie endet der Plural Rumbakugeln?",
+        "Mit n.",
+        "Mit s.",
+        "Ohne Endung."
+      ],
+      [
+        "Welche Farbe hat das Kissen im Gespräch?",
+        "Blau.",
+        "Schwarz.",
+        "Rot."
+      ],
+      [
+        "Was soll ohne Markierungen bleiben?",
+        "Die Fotos.",
+        "Davids Wortheft.",
+        "Die Artikel im Heft."
+      ]
+    ]
+  },
+  {
+    "id": "nur-die-musik-leiser",
+    "level": "A2",
+    "title": [
+      "Nur die Musik",
+      "الموسيقى بس"
+    ],
+    "lines": [
+      [
+        "Sara",
+        "Könnt ihr die Musik bitte leiser machen? Ich arbeite gegenüber.",
+        "ممكن توطوا الموسيقى لو سمحتوا؟ أنا بشتغل قصادكم."
+      ],
+      [
+        "Ben",
+        "Sollen wir die Fotos einpacken und ganz aufhören?",
+        "نلم الصور ونوقف خالص؟"
+      ],
+      [
+        "Sara",
+        "Nein, ich meine die Musik aus deinem Handy.",
+        "لأ، قصدي الموسيقى اللي من موبايلك."
+      ],
+      [
+        "Dalia",
+        "Können wir die Wörter weiter leise vorlesen?",
+        "نقدر نكمل نقرا الكلمات بصوت واطي؟"
+      ],
+      [
+        "Sara",
+        "Ja, das stört mich gerade nicht.",
+        "أيوه، ده مش مضايقني دلوقتي."
+      ],
+      [
+        "Ben",
+        "Dann stelle ich die Musik ganz aus. Die Mappe bleibt hier.",
+        "يبقى هقفل الموسيقى خالص. الملف يفضل هنا."
+      ],
+      [
+        "Dalia",
+        "Gut, wir machen mit den beiden Namen weiter.",
+        "تمام، نكمل بالاسمين."
+      ]
+    ],
+    "q": [
+      [
+        "Was meint Sara?",
+        "Die Musik aus Bens Handy.",
+        "Die Farbe der Fotos.",
+        "Das Kissen auf dem Foto."
+      ],
+      [
+        "Was darf jetzt weitergehen?",
+        "Das leise Vorlesen der Wörter.",
+        "Laute Musik am Handy.",
+        "Ein Instrumentenkonzert."
+      ],
+      [
+        "Wo bleibt die Mappe?",
+        "Hier bei Ben und Dalia.",
+        "Bei Sara am Schreibtisch.",
+        "Im Keller."
+      ]
+    ]
+  },
+  {
+    "id": "das-leere-hoerfeld",
+    "level": "B1",
+    "title": [
+      "Das leere Hörfeld",
+      "خانة الصوت الفاضية"
+    ],
+    "lines": [
+      [
+        "Omar",
+        "Ich wollte einen gehörten Klang neben jedes Foto schreiben.",
+        "كنت عايز أكتب صوت سمعته جنب كل صورة."
+      ],
+      [
+        "Lina",
+        "Du hast bisher nur Bilddateien geöffnet, keine Tonaufnahme.",
+        "إنت لحد دلوقتي فتحت ملفات صور بس مش تسجيل صوت."
+      ],
+      [
+        "Omar",
+        "Dann beschreibe ich zuerst Köpfe, Griffe und den Schalenrand.",
+        "يبقى أوصف الأول الرؤوس والمقابض وحافة الطبق."
+      ],
+      [
+        "Lina",
+        "Die genaue Füllung der Rumbakugeln bleibt dabei unbekannt.",
+        "الحشو المحدد للشخشيختين يفضل مش معروف بكده."
+      ],
+      [
+        "Omar",
+        "Und das Hörfeld lassen wir bis zur Auswahl einer Aufnahme frei.",
+        "ونسيب خانة الصوت فاضية لحد اختيار تسجيل."
+      ],
+      [
+        "Lina",
+        "Ja. Leer heißt hier noch nicht bearbeitet, nicht nachweislich still.",
+        "أيوه. فاضي هنا معناه لسه ماتعملش مش هادي بشكل مثبت."
+      ],
+      [
+        "Omar",
+        "Die beiden Pluralformen üben wir trotzdem schon jetzt.",
+        "بس نتدرب على صيغتين الجمع دلوقتي عادي."
+      ]
+    ],
+    "q": [
+      [
+        "Was hat Omar bisher geöffnet?",
+        "Nur Bilddateien.",
+        "Eine zugeordnete Tonaufnahme.",
+        "Eine fertige Höranalyse."
+      ],
+      [
+        "Was bleibt bei den Rumbakugeln unbekannt?",
+        "Die genaue Füllung.",
+        "Die sichtbare Form der Köpfe.",
+        "Dass Griffe auf dem Foto zu sehen sind."
+      ],
+      [
+        "Was heißt das leere Hörfeld hier?",
+        "Noch nicht bearbeitet.",
+        "Nachweislich still.",
+        "Schon vollständig ausgewertet."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "zwei-woerter-mit-die": [
+    "Den Plural schreibst du mit n am Ende.",
+    "Und die Schale auf dem blauen Kissen?",
+    "Lass die Fotos bitte ohne Markierungen."
+  ],
+  "nur-die-musik-leiser": [
+    "ich meine die Musik aus deinem Handy.",
+    "Ja, das stört mich gerade nicht.",
+    "Die Mappe bleibt hier."
+  ],
+  "das-leere-hoerfeld": [
+    "Du hast bisher nur Bilddateien geöffnet, keine Tonaufnahme.",
+    "Die genaue Füllung der Rumbakugeln bleibt dabei unbekannt.",
+    "Leer heißt hier noch nicht bearbeitet, nicht nachweislich still."
+  ]
+});

@@ -273,3 +273,6 @@ readings.push(...werkzeugnamenTexts);
 
 import {denkobjekteTexts} from './reading-denkobjekte';
 readings.push(...denkobjekteTexts);
+
+import {instrumentenformenTexts} from './reading-instrumentenformen';
+readings.push(...instrumentenformenTexts);

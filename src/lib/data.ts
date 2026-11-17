@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  instrumentenformen: 'Rumbakugel und Klangschale',
   denkobjekte: 'Abakus und Schachfigur',
   werkzeugnamen: 'Nagel und Schraubendreher',
   kuechenhelfer: 'Spritzbeutel und Knoblauchpresse',
@@ -132,6 +133,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  instrumentenformen: 'Maraca and singing bowl',
   denkobjekte: 'Abacus and chess piece',
   werkzeugnamen: 'Nail and screwdriver',
   kuechenhelfer: 'Piping bag and garlic press',

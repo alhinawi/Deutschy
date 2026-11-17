@@ -97,7 +97,7 @@ function Flash({ list }: { list: Word[] }) {
   return (
     <div className="mx-auto max-w-md space-y-4">
       <p dir="ltr" className="num text-center text-sm text-muted">{i + 1} / {deck.length}</p>{retry.has(w.id)&&<p role="status" className="rounded-xl border border-line bg-card p-3 text-sm">{t('إعادة تدريب واحدة. الكلمة هتفضل مستحقة النهارده، من غير نقط إضافية.','One practice retry. This word stays due today, with no extra points.')}</p>}
-      <button onClick={() => setFlip(!flip)} aria-expanded={flip} aria-label={flip?t("اخفي الكلمة", "Hide the word"):t("اعرض الكلمة", "Show the word")} className="block w-full overflow-hidden rounded-2xl border border-line bg-card text-start">
+      <button onClick={() => setFlip(!flip)} aria-expanded={flip} aria-label={flip?t("اخفي الكلمة", "Hide the word"):t("اعرض الكلمة", "Show the word")} className="block w-full overflow-hidden rounded-2xl border border-line bg-card text-start focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper">
         <Photo w={w} />
         <div className="p-5 text-center">
           {flip ? (

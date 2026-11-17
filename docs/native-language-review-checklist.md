@@ -910,9 +910,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Current-topic mixed language | Arabic gloss uses mixed-run isolation for embedded Latin words, English gloss explicit English language. German title remains separate LTR/de. AR/EN390 actual keyboard-focused selector and wrapped description pixels inspected. No state/scoring change. |
 | [ ] | Listening/dictation |66 original segments/Egyptian Arabic. Native editorial and real-device voice pending. Private word exercise, no arithmetic proficiency, game result or solved task claimed. |
 
+### List 91: instrument names and sources of sound
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zwei-runde-instrumente/` and linked dialogue | Inas/David name singular/plural maraca/singing bowl. Two black rattles in hands, one bowl on blue cushion, no face. Both nouns feminine, plural n appended. Circle articles in wordheft, leave photos unmarked. Images back in folder. |
+| [ ] | `/reading/alltag-a2-die-musik-kommt-vom-handy/` and linked dialogue | Dalia/Ben/Sara: request for less phone music, misunderstood as stopping whole preparation. Phone music off, photo-word exercise allowed to continue quietly now. No fixed daily quiet policy or universal tolerance inferred. No pictured instruments played in room. |
+| [ ] | `/reading/alltag-b1-ein-name-ist-kein-hoerbeispiel/` and linked dialogue | Lina/Omar distinguish visible features from actually heard recording. Still image/instrument name not sound sample. Hidden rattle filling, actual rhythm/loudness, bowl material content/origin unknown. No health effects claimed. Blank hearing field means selection/listening outstanding, not proven silence. |
+| [ ] | `/lessons/instrumentenformen/` and `/credits/` | die Rumbakugel/Rumbakugeln, die Klangschale/Klangschalen. شخشيخة موسيقى and طبق رنان. DWDS nouns verified. Two whole black rattle heads/visible shafts held naturally, hands obscure ends; whole plain bowl on braided blue/gold cushion.800x600 true crops no padding, faces/branding excluded. Not a close product-material analysis. |
+| [ ] | Six appended grammar banks |24 article/accusative/perfect/modal/two-way-preposition/B1 connector rows. Earlier saved IDs retained. ausgestellt/gekommen/notiert/ausgewählt; weil/bis/obwohl/damit with final verbs. All German/Egyptian Arabic/English teaching wording pending native review. |
+| [ ] | Flashcard flip focus | Themed keyboard focus ring outside front/back flip card, paper gap. Actual AR/EN320/390 focused pixels, Enter opens and Space closes, aria-expanded changes, no flip XP. Does not change spaced-repetition scheduling. |
+| [ ] | Listening/dictation |62 original segments/Egyptian Arabic. Instrument names as spoken language, not recordings of instruments. Native editorial/real-device voice pending. No proficiency or health-outcome claims. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **837 photo nouns / 135 topics**, **288 reading texts / 1105 reading questions**, **41 core grammar topics / 2110 core grammar questions**, **228 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **839 photo nouns / 136 topics**, **291 reading texts / 1117 reading questions**, **41 core grammar topics / 2134 core grammar questions**, **231 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -924,7 +936,7 @@ This is an inventory, not completed review. Snapshot: **837 photo nouns / 135 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 78 · A2 106 · B1 74 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 79 · A2 107 · B1 75 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

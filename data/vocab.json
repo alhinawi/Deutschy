@@ -539,6 +539,10 @@
   {
    "id": "denkobjekte",
    "ar": "عداد خرز وقطعة شطرنج"
+  },
+  {
+   "id": "instrumentenformen",
+   "ar": "شخشيخة موسيقى وطبق رنان"
   }
  ],
  "words": [
@@ -13190,6 +13194,36 @@
     "file": "31777209.jpg",
     "commons": "https://www.pexels.com/photo/black-knight-chess-piece-on-reflective-board-31777209/",
     "author": "Arturo A",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "rumbakugel",
+   "topic": "instrumentenformen",
+   "art": "die",
+   "de": "Rumbakugel",
+   "plural": "Rumbakugeln",
+   "ar": "شخشيخة موسيقى",
+   "photo": {
+    "file": "7285224.jpg",
+    "commons": "https://www.pexels.com/photo/a-man-wearing-glasses-plays-maracas-indoors-7285224/",
+    "author": "www.kaboompics.com",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "klangschale",
+   "topic": "instrumentenformen",
+   "art": "die",
+   "de": "Klangschale",
+   "plural": "Klangschalen",
+   "ar": "طبق رنان",
+   "photo": {
+    "file": "10574236.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-of-a-tibetan-singing-bowl-10574236/",
+    "author": "Clayton Leite",
     "license": "Pexels License",
     "modified": true
    }

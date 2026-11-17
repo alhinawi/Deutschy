@@ -1523,3 +1523,24 @@ Object.assign(readingEvidence,{
     "Ihr Heft dokumentiert damit die Sprachübung, keine gelöste Rechnung und keine analysierte Partie."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zwei-runde-instrumente": [
+    "Auf einem Foto hält eine Person zwei schwarze Rumbakugeln in den Händen.",
+    "Auf dem anderen Foto steht eine Klangschale auf einem kleinen blauen Kissen.",
+    "Beide Wörter haben den Artikel die.",
+    "Sie zieht einen Kreis um die Artikel im Heft, nicht auf den Fotos."
+  ],
+  "alltag-a2-die-musik-kommt-vom-handy": [
+    "Sie arbeitet im Zimmer gegenüber und möchte sich konzentrieren.",
+    "Er denkt, dass Sara die Vorbereitung ganz beenden möchte.",
+    "Ben stellt die Musik aus, statt die Mappe wegzuräumen.",
+    "Einen festen täglichen Ruheplan vereinbaren sie dabei nicht."
+  ],
+  "alltag-b1-ein-name-ist-kein-hoerbeispiel": [
+    "Lina weist darauf hin, dass ein stehendes Bild keinen Ton abspielt.",
+    "Welche Füllung genau in diesen beiden Instrumenten steckt, können sie auf dem Foto nicht erkennen.",
+    "Ihre goldfarbene Oberfläche beweist weder einen bestimmten Goldanteil noch eine Herkunft.",
+    "Sie wollen später eine passende, eindeutig zugeordnete Aufnahme anhören, haben aber noch keine ausgewählt."
+  ]
+});
