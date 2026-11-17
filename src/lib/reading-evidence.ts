@@ -2195,3 +2195,24 @@ Object.assign(readingEvidence,{
     "Zum Abschluss schreiben sie zwei getrennte Abschnitte: gültige Wortformen und Regeln für die Beschreibung."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-die-karte-unter-dem-heft": [
+    "Sami schaut jetzt unter das Heft. Dort liegt die fehlende Karte.",
+    "Das erste Foto zeigt Nektarinen in einer grünen Schale.",
+    "Dann schreibt Sami die Mehrzahl auf ein neues Blatt: Stachelbeeren.",
+    "Das Heft bleibt rechts neben den Bildern."
+  ],
+  "alltag-a2-erinnern-mit-zwei-durchgaengen": [
+    "Die Fotos bleiben sichtbar.",
+    "Nora übernimmt im ersten Durchgang das Fragen, Emil das Antworten.",
+    "Nora nennt beide Wörter richtig, vergisst aber bei Nektarine zunächst den Artikel.",
+    "Die beiden notieren nur, welche Stellen ihnen in diesem Versuch schwergefallen sind."
+  ],
+  "alltag-b1-ein-gemeinsamer-kurzvortrag": [
+    "dass ihre Einleitungen fast dasselbe sagen.",
+    "Adam übernimmt den Einstieg mit den Fotos.",
+    "Diese Frage ist für Liv das Zeichen, ihren Abschnitt zu beginnen.",
+    "Ob die Erklärung für andere verständlich ist, möchten sie erst nach der tatsächlichen Vorstellung erfragen."
+  ]
+});

@@ -22348,3 +22348,218 @@ Object.assign(dialogueEvidence,{
     "nachdem wir die neue Regel erklärt haben."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "wortkarte-unter-dem-heft",
+    "level": "A1",
+    "title": [
+      "Such unter dem Heft",
+      "دور تحت الكراسة"
+    ],
+    "lines": [
+      [
+        "Mara",
+        "Die Karte mit Stachelbeere fehlt noch.",
+        "كارت شتاخلبيره لسه ناقص."
+      ],
+      [
+        "Sami",
+        "Ich sehe nur die grüne Schale auf dem Foto.",
+        "أنا شايف الطبق الأخضر في الصورة بس."
+      ],
+      [
+        "Mara",
+        "Wir suchen die Papierkarte. Schau bitte unter das Heft.",
+        "بندور على كارت الورق. بص تحت الكراسة."
+      ],
+      [
+        "Sami",
+        "Hier ist sie. Ich lege sie unter das zweite Bild.",
+        "أهي. هحطها تحت الصورة التانية."
+      ],
+      [
+        "Mara",
+        "Kannst du auch die Mehrzahl aufschreiben?",
+        "ممكن تكتب الجمع كمان؟"
+      ],
+      [
+        "Sami",
+        "Ja: Stachelbeeren und Nektarinen.",
+        "أيوه: شتاخلبيرن ونكتارينن."
+      ],
+      [
+        "Mara",
+        "Gut. Das Heft bleibt rechts neben den Bildern.",
+        "تمام. الكراسة تفضل يمين الصور."
+      ]
+    ],
+    "q": [
+      [
+        "Was suchen die beiden?",
+        "Eine Papierkarte.",
+        "Eine echte Schale.",
+        "Einen Schlüssel."
+      ],
+      [
+        "Wohin legt Sami die Karte?",
+        "Unter das zweite Bild.",
+        "In die Dose.",
+        "Neben die Tür."
+      ],
+      [
+        "Welche Mehrzahl nennt Sami?",
+        "Stachelbeeren und Nektarinen.",
+        "Stachelbeeres und Nektarines.",
+        "Stachelbeer und Nektarin."
+      ]
+    ]
+  },
+  {
+    "id": "zwei-durchgaenge-mit-rollentausch",
+    "level": "A2",
+    "title": [
+      "Frag nach dem Artikel",
+      "اسأل على أداة التعريف"
+    ],
+    "lines": [
+      [
+        "Nora",
+        "Wollen wir die neuen Wörter mehrmals abschreiben?",
+        "ننقل الكلمات الجديدة كذا مرة؟"
+      ],
+      [
+        "Emil",
+        "Ich würde lieber erst lesen und dann die Karten umdrehen.",
+        "أنا أفضل نقرا الأول وبعد كده نقلب الكروت."
+      ],
+      [
+        "Nora",
+        "Gut. Die Fotos bleiben sichtbar, und ich frage zuerst.",
+        "تمام. الصور تفضل باينة وأنا أسأل الأول."
+      ],
+      [
+        "Emil",
+        "Danach wechseln wir. Bei einem fehlenden Wort machst du nur eine Markierung.",
+        "بعد كده نبدل. لو كلمة ناقصة اعملي علامة بس."
+      ],
+      [
+        "Nora",
+        "Und wenn ich den Artikel vergesse?",
+        "ولو نسيت أداة التعريف؟"
+      ],
+      [
+        "Emil",
+        "Dann frage ich gezielt danach. Beide neuen Nomen haben die.",
+        "هسأل عليها بالتحديد. الاسمين الجداد أداتهم دي."
+      ],
+      [
+        "Nora",
+        "Am Ende vergleichen wir mit der Vorlage.",
+        "في الآخر نقارن بالنموذج."
+      ]
+    ],
+    "q": [
+      [
+        "Was möchte Emil nach dem Lesen machen?",
+        "Die Wortkarten umdrehen.",
+        "Die Fotos zerreißen.",
+        "Sofort neue Früchte kaufen."
+      ],
+      [
+        "Was soll Nora bei einem fehlenden Wort machen?",
+        "Eine Markierung.",
+        "Die Antwort heimlich ergänzen.",
+        "Die ganze Liste löschen."
+      ],
+      [
+        "Womit vergleichen sie am Ende?",
+        "Mit der Vorlage.",
+        "Mit einer Rechnung.",
+        "Mit dem Kalender."
+      ]
+    ]
+  },
+  {
+    "id": "uebergang-mit-einer-frage",
+    "level": "B1",
+    "title": [
+      "Lass mich erst ausreden",
+      "سيبني أكمل الأول"
+    ],
+    "lines": [
+      [
+        "Liv",
+        "Unsere beiden Einleitungen sagen fast dasselbe.",
+        "المقدمتين بتوعنا بيقولوا تقريبًا نفس الكلام."
+      ],
+      [
+        "Adam",
+        "Dann benenne ich die Fotos, und du erklärst die Mehrzahl.",
+        "يبقى أنا أسمي الصور وإنت تشرحي الجمع."
+      ],
+      [
+        "Liv",
+        "Beim Wechsel habe ich dich gerade zu früh unterbrochen.",
+        "وقت التبديل أنا قاطعتك بدري من شوية."
+      ],
+      [
+        "Adam",
+        "Lass mich erst beide Bilder benennen. Dann frage ich nach mehreren Früchten.",
+        "سيبيني أسمي الصورتين الأول. بعد كده أسأل عن كذا ثمرة."
+      ],
+      [
+        "Liv",
+        "Diese Frage ist mein Zeichen. Danach beginne ich.",
+        "السؤال ده إشارتي. بعده أبدأ."
+      ],
+      [
+        "Adam",
+        "Genau. Wir haben bisher nur gemeinsam geprobt.",
+        "بالظبط. إحنا لحد دلوقتي عملنا بروفة مع بعض بس."
+      ],
+      [
+        "Liv",
+        "Ob andere es verstehen, fragen wir erst nach der Vorstellung.",
+        "إذا غيرنا فاهمين ولا لأ نسأل بعد التقديم بس."
+      ]
+    ],
+    "q": [
+      [
+        "Wer erklärt die Mehrzahl?",
+        "Liv.",
+        "Adam.",
+        "Das Publikum."
+      ],
+      [
+        "Wann beginnt Liv ihren Teil?",
+        "Nach Adams vereinbarter Frage.",
+        "Bei jeder kleinen Pause.",
+        "Bevor Adam das zweite Bild benennt."
+      ],
+      [
+        "Was haben die beiden bisher gemacht?",
+        "Gemeinsam geprobt.",
+        "Rückmeldungen des Publikums erhalten.",
+        "Früchte bestellt."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "wortkarte-unter-dem-heft": [
+    "Wir suchen die Papierkarte.",
+    "Ich lege sie unter das zweite Bild.",
+    "Stachelbeeren und Nektarinen."
+  ],
+  "zwei-durchgaenge-mit-rollentausch": [
+    "erst lesen und dann die Karten umdrehen.",
+    "Bei einem fehlenden Wort machst du nur eine Markierung.",
+    "Am Ende vergleichen wir mit der Vorlage."
+  ],
+  "uebergang-mit-einer-frage": [
+    "du erklärst die Mehrzahl.",
+    "Diese Frage ist mein Zeichen. Danach beginne ich.",
+    "Wir haben bisher nur gemeinsam geprobt."
+  ]
+});
