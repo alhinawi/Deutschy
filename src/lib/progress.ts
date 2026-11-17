@@ -27,11 +27,7 @@ export function readingProgress(s: State) {
   for (const r of readings) for (let i = 0; i < r.q.length; i++) { total++; if ((s.seen[`r:${r.id}:${i}`]?.ok ?? 0) > 0) got++; }
   return { total, got };
 }
-export function accuracy(s: State) {
-  let ok = 0, bad = 0;
-  for (const v of Object.values(s.seen)) { ok += v.ok; bad += v.bad; }
-  return { ok, bad, pct: ok + bad ? Math.round((ok / (ok + bad)) * 100) : 0 };
-}
+export { accuracy, cardsKnown, challengeDays } from './progress-lite';
 export const topicCount = topics.length;
 
 import { dialogues } from './dialogues';
@@ -49,8 +45,6 @@ export function skills(s: State, l: Lvl) {
   const wg = wt.filter((x) => (s.seen[`w:${x.id}`]?.ok ?? 0) > 0).length;
   return { grammar: frac(g.got, g.total), reading: frac(rg, rt), dialogue: frac(dg, dt), writing: frac(wg, wt.length), exam: s.exams?.[l] };
 }
-export function cardsKnown(s: State) { return Object.values(s.srs ?? {}).filter((c) => c.b >= 4).length; }
-export const challengeDays = (s: State) => Object.keys(s.challenge ?? {}).length;
 
 // Lernpfad: ordered A1 roadmap. Progress comes only from device data.
 export type Step = { id: string; href: string; ar: string; en: string; kind: 'count' | 'ratio' | 'manual'; goal?: number };
