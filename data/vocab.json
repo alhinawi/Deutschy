@@ -387,6 +387,10 @@
   {
    "id": "spielerunde",
    "ar": "حاجات رف الألعاب"
+  },
+  {
+   "id": "picknickrunde",
+   "ar": "حاجات للبيكنيك"
   }
  ],
  "words": [
@@ -11888,6 +11892,38 @@
     "file": "card-focus.jpg",
     "commons": "https://www.pexels.com/photo/photograph-of-an-ace-playing-card-4043022/",
     "author": "Jacob Yavin",
+    "license": "Pexels License",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "picknickkorb",
+   "topic": "picknickrunde",
+   "art": "der",
+   "de": "Picknickkorb",
+   "plural": "Picknickkörbe",
+   "ar": "سبت بيكنيك",
+   "photo": {
+    "file": "basket.jpg",
+    "commons": "https://www.pexels.com/photo/wicker-picnic-basket-on-white-blanket-outside-31233298/",
+    "author": "Jonathan Borba",
+    "license": "Pexels License",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "thermosflasche",
+   "topic": "picknickrunde",
+   "art": "die",
+   "de": "Thermosflasche",
+   "plural": "Thermosflaschen",
+   "ar": "ترمس مشروبات",
+   "photo": {
+    "file": "flask.jpg",
+    "commons": "https://www.pexels.com/photo/metal-thermos-on-the-balcony-in-the-mountains-travel-17662565/",
+    "author": "Meri Verbina",
     "license": "Pexels License",
     "padding": true,
     "modified": true

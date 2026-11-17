@@ -159,3 +159,6 @@ readings.push(...vorratsrundeTexts);
 
 import {spielerundeTexts} from './reading-spielerunde';
 readings.push(...spielerundeTexts);
+
+import {picknickrundeTexts} from './reading-picknickrunde';
+readings.push(...picknickrundeTexts);

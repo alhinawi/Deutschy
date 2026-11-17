@@ -321,3 +321,6 @@ for(const[topic,rows]of Object.entries(vorratsrundeGrammar))exercises[topic].pus
 
 import {spielerundeGrammar} from './exercises-spielerunde';
 for(const[topic,rows]of Object.entries(spielerundeGrammar))exercises[topic].push(...rows);
+
+import {picknickrundeGrammar} from './exercises-picknickrunde';
+for(const[topic,rows]of Object.entries(picknickrundeGrammar))exercises[topic].push(...rows);

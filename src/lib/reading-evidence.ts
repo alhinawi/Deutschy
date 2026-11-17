@@ -725,3 +725,24 @@ Object.assign(readingEvidence,{
     "Sie räumen die Karten und Dominosteine wieder ein"
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-picknickkorb": [
+    "Der Picknickkorb steht schon an der Tür.",
+    "Sie steht in der Küche neben dem Fenster.",
+    "Adam nimmt zwei leere Brotdosen vom Tisch. Diese Dosen brauchen sie heute nicht. Er stellt sie zurück ins Regal.",
+    "Dann schauen beide noch einmal auf ihre Liste. Erst danach gehen sie los."
+  ],
+  "alltag-a2-picknicknachricht": [
+    "Auf diesen Vorschlag hat noch nicht jeder geantwortet.",
+    "Sie fragt in der Gruppe nach, welcher Eingang nun gemeint ist.",
+    "In seinem Rucksack findet er die Decke",
+    "Alle haben sich inzwischen auf das große Parktor geeinigt."
+  ],
+  "alltag-b1-picknickliste": [
+    "diesmal braucht ihre Schwester sie selbst.",
+    "Ein Name soll erst dann bei einer Aufgabe stehen, wenn die betreffende Person zugesagt hat.",
+    "Mina übernimmt stattdessen die Decke.",
+    "Sie ist aber kein Beweis dafür, dass alle Dinge bereits eingepackt sind."
+  ]
+});

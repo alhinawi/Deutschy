@@ -102,4 +102,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-spieleregal',dialogue:'dominostein-gefunden'},
  {reading:'alltag-a2-gemischte-karten',dialogue:'karten-nicht-mischen'},
  {reading:'alltag-a2-spielepause',dialogue:'nina-mitentscheiden'},
+ {reading:'alltag-a1-picknickkorb',dialogue:'becher-zur-flasche'},
+ {reading:'alltag-a2-picknicknachricht',dialogue:'treffpunkt-noch-offen'},
+ {reading:'alltag-b1-picknickliste',dialogue:'aufgaben-neu-bestaetigen'},
 ];

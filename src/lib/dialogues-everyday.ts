@@ -7298,3 +7298,218 @@ Object.assign(dialogueEvidence,{
     "Können wir heute lieber ein Puzzle zusammenlegen?"
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "becher-zur-flasche",
+    "level": "A1",
+    "title": [
+      "Der Becher liegt noch im Schrank",
+      "الكوباية لسه في الدولاب"
+    ],
+    "lines": [
+      [
+        "Adam",
+        "Der Picknickkorb ist an der Tür. Wo ist die Decke?",
+        "سبت البيكنيك عند الباب. البطانية فين؟"
+      ],
+      [
+        "Lina",
+        "Noch auf dem Sofa. Kannst du sie holen?",
+        "لسه على الكنبة. ممكن تجيبها؟"
+      ],
+      [
+        "Adam",
+        "Ja. Und die Thermosflasche?",
+        "آه. وترمس المشروبات؟"
+      ],
+      [
+        "Lina",
+        "In der Küche neben dem Fenster. Aber der kleine Becher fehlt noch.",
+        "في المطبخ جنب الشباك. بس الكوباية الصغيرة لسه ناقصة."
+      ],
+      [
+        "Adam",
+        "Der liegt im Schrank. Ich habe ihn gesehen.",
+        "موجودة في الدولاب. أنا شفتها."
+      ],
+      [
+        "Lina",
+        "Danke. Die leeren Brotdosen nehmen wir heute nicht mit.",
+        "شكراً. علب الأكل الفاضية مش هناخدها النهارده."
+      ],
+      [
+        "Adam",
+        "Gut. Ich stelle sie zurück ins Regal.",
+        "تمام. هرجعها للرف."
+      ]
+    ],
+    "q": [
+      [
+        "Wo liegt die Decke?",
+        "Auf dem Sofa.",
+        "In der Flasche.",
+        "Unter dem Bett."
+      ],
+      [
+        "Wo liegt der kleine Becher?",
+        "Im Schrank.",
+        "Im Garten.",
+        "In Adams Jacke."
+      ],
+      [
+        "Was nehmen sie heute nicht mit?",
+        "Die leeren Brotdosen.",
+        "Den Picknickkorb.",
+        "Die Decke."
+      ]
+    ]
+  },
+  {
+    "id": "treffpunkt-noch-offen",
+    "level": "A2",
+    "title": [
+      "Ich frage lieber noch einmal",
+      "أفضل أسأل تاني"
+    ],
+    "lines": [
+      [
+        "Sami",
+        "Auf meinem Zettel steht das große Parktor.",
+        "في ورقتي مكتوب بوابة الجنينة الكبيرة."
+      ],
+      [
+        "Nora",
+        "Danach hat Lea einen anderen Eingang vorgeschlagen.",
+        "بعد كده ليا اقترحت مدخل تاني."
+      ],
+      [
+        "Sami",
+        "Dann ist der neue Eingang unser Treffpunkt?",
+        "يبقى المدخل الجديد هو مكان مقابلتنا؟"
+      ],
+      [
+        "Nora",
+        "Noch nicht sicher. Es fehlen Antworten. Ich frage lieber noch einmal.",
+        "لسه مش أكيد. فيه ردود ناقصة. أفضل أسأل تاني."
+      ],
+      [
+        "Sami",
+        "In Ordnung. Die Decke habe ich schon im Rucksack.",
+        "تمام. البطانية معايا في شنطة الضهر خلاص."
+      ],
+      [
+        "Nora",
+        "Lea hat jetzt geantwortet: Alle haben sich auf das große Parktor geeinigt.",
+        "ليا ردت دلوقتي: الكل اتفق على بوابة الجنينة الكبيرة."
+      ],
+      [
+        "Sami",
+        "Gut, dann ergänze ich meinen Zettel.",
+        "تمام، يبقى أكمل الورقة بتاعتي."
+      ]
+    ],
+    "q": [
+      [
+        "Was hat Lea später vorgeschlagen?",
+        "Einen anderen Eingang.",
+        "Ein neues Fahrrad.",
+        "Ein Essen im Restaurant."
+      ],
+      [
+        "Warum fragt Nora noch einmal?",
+        "Es fehlen noch Antworten.",
+        "Sie hat die Decke verloren.",
+        "Der Korb ist leer."
+      ],
+      [
+        "Wo hat Sami die Decke?",
+        "Im Rucksack.",
+        "Im Park.",
+        "Im Auto von Lea."
+      ]
+    ]
+  },
+  {
+    "id": "aufgaben-neu-bestaetigen",
+    "level": "B1",
+    "title": [
+      "Nicht einfach die Namen kopieren",
+      "ماننقلش الأسماء وخلاص"
+    ],
+    "lines": [
+      [
+        "Mina",
+        "Letztes Mal hatte ich die Thermosflasche. Diesmal braucht meine Schwester sie.",
+        "المرة اللي فاتت أنا جبت الترمس. المرة دي أختي محتاجاه."
+      ],
+      [
+        "Omar",
+        "Ich habe deinen Namen zu schnell aus der alten Liste übernommen.",
+        "نقلت اسمك من القائمة القديمة بسرعة زيادة."
+      ],
+      [
+        "Tarek",
+        "Ich kann meine eigene Flasche mitbringen.",
+        "أقدر أجيب الترمس بتاعي أنا."
+      ],
+      [
+        "Mina",
+        "Und ich übernehme stattdessen die Decke.",
+        "وأنا همسك البطانية بدل كده."
+      ],
+      [
+        "Omar",
+        "Bei den Bechern fehlen uns noch Angaben. Das bleibt erst einmal offen.",
+        "بالنسبة للكوبايات لسه ناقصانا معلومات. دي تفضل مفتوحة مؤقتاً."
+      ],
+      [
+        "Tarek",
+        "Gut. Ein Eintrag heißt noch nicht, dass alles schon eingepackt ist.",
+        "تمام. إن الحاجة مكتوبة مش معناه إن كله اتحط في الشنط خلاص."
+      ],
+      [
+        "Omar",
+        "Dann vergleichen wir die Sachen vor dem Losgehen mit der Liste.",
+        "يبقى نقارن الحاجات بالقائمة قبل ما نخرج."
+      ]
+    ],
+    "q": [
+      [
+        "Wer bietet seine eigene Flasche an?",
+        "Tarek.",
+        "Minas Schwester.",
+        "Niemand."
+      ],
+      [
+        "Was bleibt zunächst offen?",
+        "Die Angaben zu den Bechern.",
+        "Ob Mina die Decke übernimmt.",
+        "Ob Tarek seine Flasche anbietet."
+      ],
+      [
+        "Was wollen sie vor dem Losgehen tun?",
+        "Sachen und Liste vergleichen.",
+        "Alle Aufgaben unverändert kopieren.",
+        "Neue Becher bestellen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "becher-zur-flasche": [
+    "Noch auf dem Sofa.",
+    "Der liegt im Schrank.",
+    "Die leeren Brotdosen nehmen wir heute nicht mit."
+  ],
+  "treffpunkt-noch-offen": [
+    "Danach hat Lea einen anderen Eingang vorgeschlagen.",
+    "Es fehlen Antworten.",
+    "Die Decke habe ich schon im Rucksack."
+  ],
+  "aufgaben-neu-bestaetigen": [
+    "Ich kann meine eigene Flasche mitbringen.",
+    "Bei den Bechern fehlen uns noch Angaben.",
+    "Dann vergleichen wir die Sachen vor dem Losgehen mit der Liste."
+  ]
+});

@@ -441,6 +441,18 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/lessons/` | New AR/EN topic/word search, normalized German and Arabic matching, result count, empty state and clear/focus. Filtered cards keep original lesson numbers, including lesson 97. No saved progress. |
 | [ ] | Listening/dictation | Native device-voice review remains pending. Check all new segments in German against the original sources and Egyptian Arabic meanings; mock speech is not pronunciation review. |
 
+### List 53: picnic preparation
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-picknickkorb/` and `becher-zur-flasche` | Check basket by door, flask by kitchen window, cup in cupboard, unused empty food boxes returned. Check all 7 answers/evidence and Egyptian Arabic. |
+| [ ] | `/reading/alltag-a2-picknicknachricht/` and `treffpunkt-noch-offen` | Check older note, later unconfirmed entrance suggestion, question to group and final large-gate confirmation. Newer suggestion alone is not agreement. |
+| [ ] | `/reading/alltag-b1-picknickliste/` and `aufgaben-neu-bestaetigen` | Check names copied from old list, Mina unavailable for flask but taking blanket, Tarek offering his own flask, cups still open then counted. Entries are not proof of packed items. |
+| [ ] | `/lessons/picknickrunde/` | der Picknickkorb / Picknickkörbe; die Thermosflasche / Thermosflaschen. Whole real wicker lidded picnic basket and unbranded steel flask with cup. Surroundings cropped, neutral padding. Stock photos illustrate nouns, not fictional story state. |
+| [ ] | `exercises-picknickrunde.ts` | 24 appended accusative, possessive, modal, imperative, comparative and two-way-preposition rows. Check all forms and Arabic/English explanations; prior identities unchanged. |
+| [ ] | `/games/` | Topic selector affects only five vocabulary-game links, not four sentence games. Check AR/EN labels, counts, reset focus, query encoding and new-topic navigation. Round size described as up to 10, no blanket leaderboard promise. No saved-progress writes in picker. |
+| [ ] | Listening/dictation | Check all 53 German segments, actual device-voice pronunciation and Egyptian Arabic meaning. Mock speech is not native voice review. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -455,7 +467,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **761 photo nouns / 97 topics**, **174 reading texts / 649 reading questions**, **41 core grammar topics / 1198 core grammar questions**, **114 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **763 photo nouns / 98 topics**, **177 reading texts / 661 reading questions**, **41 core grammar topics / 1222 core grammar questions**, **117 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -467,7 +479,7 @@ This is an inventory, not completed review. Snapshot: **761 photo nouns / 97 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 40 · A2 68 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 41 · A2 69 · B1 37 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
