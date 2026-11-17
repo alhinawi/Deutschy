@@ -64,7 +64,7 @@ function One({ d, back }: { d: Dialogue; back: () => void }) {
       <button onClick={back} className="inline-flex min-h-11 items-center rounded-lg px-2 text-sm text-muted hover:text-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper">← {t('كل الحوارات', 'All dialogues')}</button>
       <div>
         <span className="num rounded-full bg-accent/10 px-2.5 py-0.5 text-xs font-bold text-accent">{d.level}</span>
-        <h1 className="de mt-2 text-3xl font-semibold" lang="de">{d.title[0]}</h1>
+        <h1 className="de mt-2 min-w-0 max-w-full hyphens-auto text-3xl font-semibold [overflow-wrap:anywhere]" lang="de">{d.title[0]}</h1>
         <p className="ar-title text-lg text-muted">{d.title[1]}</p>
       </div>
       <GermanVoice text={d.lines.map(l=>l[1]).join(" ")}/><p className="text-sm text-muted">{t("حوار تخيلي للتدريب، مش نصيحة طبية أو عرض سكن أو سعر حقيقي.","Fictional practice dialogue, not medical advice, a housing offer or a live price.")}</p>

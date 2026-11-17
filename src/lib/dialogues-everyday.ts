@@ -20843,3 +20843,218 @@ Object.assign(dialogueEvidence,{
     "keine Essens- oder Zubereitungsempfehlung."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "harfe-buecher-mandoline-stoff",
+    "level": "A1",
+    "title": [
+      "Bücher hinter der Harfe",
+      "كتب ورا الهارب"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Was sehen wir vor den Bücherregalen?",
+        "شايفين إيه قدام رفوف الكتب؟"
+      ],
+      [
+        "Karim",
+        "Den oberen Teil einer Harfe mit vielen Saiten.",
+        "الجزء اللي فوق من هارب بأوتار كتير."
+      ],
+      [
+        "Lea",
+        "Und welches Instrument steht vor dem dunklen Stoff?",
+        "وأنهي آلة قدام القماش الغامق؟"
+      ],
+      [
+        "Karim",
+        "Eine Mandoline. Ihr Kopf liegt außerhalb des Bildes.",
+        "ماندولين. راسها برا الصورة."
+      ],
+      [
+        "Lea",
+        "Brennen die zwei Kerzen daneben?",
+        "الشمعتين اللي جنبها والعتين؟"
+      ],
+      [
+        "Karim",
+        "Nein. Es sind keine Flammen zu sehen.",
+        "لأ. مفيش لهب باين."
+      ],
+      [
+        "Lea",
+        "Dann beschreiben wir die Instrumente und ihren sichtbaren Hintergrund.",
+        "يبقى نوصف الآلات وخلفيتها اللي باينة."
+      ]
+    ],
+    "q": [
+      [
+        "Welcher Teil der Harfe ist zu sehen?",
+        "Der obere Teil.",
+        "Nur ein Fußpedal.",
+        "Nur eine Tasche."
+      ],
+      [
+        "Was liegt außerhalb des Mandolinenbildes?",
+        "Der Kopf des Instruments.",
+        "Der ganze Körper.",
+        "Jeder Apfel."
+      ],
+      [
+        "Was ist an den Kerzen nicht sichtbar?",
+        "Flammen.",
+        "Ihre längliche Form.",
+        "Ihr Platz neben dem Instrument."
+      ]
+    ]
+  },
+  {
+    "id": "harfen-mandolinen-saiten-unterscheiden",
+    "level": "A2",
+    "title": [
+      "Ein Instrument mit vielen Saiten",
+      "آلة واحدة بأوتار كتير"
+    ],
+    "lines": [
+      [
+        "Amir",
+        "Das Foto zeigt viele Saiten. Schreiben wir deshalb Harfen darunter?",
+        "الصورة فيها أوتار كتير. نكتب عشان كده هارفن تحتها؟"
+      ],
+      [
+        "Nele",
+        "Nein. Mehrere Saiten gehören hier zu einer Harfe.",
+        "لأ. أوتار متعددة هنا تبع هارب واحدة."
+      ],
+      [
+        "Amir",
+        "Die Mehrzahl lernen wir extra: Harfen und Mandolinen.",
+        "هنتعلم الجمع لوحده: هارفن وماندولينن."
+      ],
+      [
+        "Nele",
+        "Genau. Unter jedem Foto bleibt der Instrumentenname im Singular.",
+        "بالظبط. تحت كل صورة اسم الآلة بيفضل بالمفرد."
+      ],
+      [
+        "Amir",
+        "Der Kopf der Mandoline ist nicht sichtbar. Fehlt er am Instrument?",
+        "راس الماندولين مش باينة. هي ناقصة من الآلة؟"
+      ],
+      [
+        "Nele",
+        "Das wissen wir nicht. Die Aufnahme zeigt ihn nicht.",
+        "مانعرفش. الصورة مش بتعرضها."
+      ],
+      [
+        "Amir",
+        "Dann beschreibe ich die Bildgrenze und behaupte keinen Schaden.",
+        "يبقى أوصف حدود الصورة ومش أدعي إن فيه تلف."
+      ]
+    ],
+    "q": [
+      [
+        "Wozu gehören die mehreren Saiten hier?",
+        "Zu einer Harfe.",
+        "Zu mehreren fotografierten Harfen.",
+        "Zu einem Küchenhobel."
+      ],
+      [
+        "Wo bleibt der Name im Singular?",
+        "Unter jedem Foto.",
+        "Nirgends, er wird überall ersetzt.",
+        "Nur in einer Rechnung."
+      ],
+      [
+        "Was zeigt die Aufnahme der Mandoline nicht?",
+        "Ihren Kopf.",
+        "Den ganzen Körper.",
+        "Den gesamten Hals."
+      ]
+    ]
+  },
+  {
+    "id": "keine-tonaufnahme-kein-klangurteil",
+    "level": "B1",
+    "title": [
+      "Keine Tonaufnahme, kein Klangurteil",
+      "مفيش تسجيل مفيش حكم على الصوت"
+    ],
+    "lines": [
+      [
+        "Tarek",
+        "Kann ich den Klang der Harfe als weich beschreiben?",
+        "أقدر أوصف صوت الهارب إنه ناعم؟"
+      ],
+      [
+        "Jule",
+        "Wir haben keine Tonaufnahme genau dieses Instruments.",
+        "معندناش تسجيل صوت للآلة دي نفسها."
+      ],
+      [
+        "Tarek",
+        "Dann nenne ich die goldfarbene Verzierung und die sichtbaren Saiten.",
+        "يبقى أقول الزخرفة اللي لونها دهبي والأوتار اللي باينة."
+      ],
+      [
+        "Jule",
+        "Goldfarben bedeutet aber nicht, dass echtes Gold nachgewiesen ist.",
+        "بس لون دهبي مش معناه إن دهب حقيقي اتثبت."
+      ],
+      [
+        "Tarek",
+        "Bei der Mandoline beschreibe ich Körper, Öffnungen und Hals.",
+        "في الماندولين هوصف الجسم والفتحات والرقبة."
+      ],
+      [
+        "Jule",
+        "Auch Zustand und Stimmung sind damit nicht geprüft.",
+        "وكمان الحالة وضبط الأوتار ماتراجعوش بكده."
+      ],
+      [
+        "Tarek",
+        "Unsere Wortkarten bleiben ohne Spiel- oder Reparaturanleitung.",
+        "كروت الكلمات بتاعتنا هتفضل من غير تعليمات عزف أو إصلاح."
+      ]
+    ],
+    "q": [
+      [
+        "Was haben sie nicht?",
+        "Eine Tonaufnahme genau dieses Instruments.",
+        "Ein Foto mit sichtbaren Saiten.",
+        "Eine passende Wortkarte."
+      ],
+      [
+        "Was ist durch goldfarben nicht nachgewiesen?",
+        "Echtes Gold.",
+        "Eine sichtbare Verzierung.",
+        "Eine Farbbeschreibung."
+      ],
+      [
+        "Was ist durch die Bildbeschreibung nicht geprüft?",
+        "Zustand und Stimmung.",
+        "Der sichtbare Hintergrund.",
+        "Die gelernten Namen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "harfe-buecher-mandoline-stoff": [
+    "Den oberen Teil einer Harfe",
+    "Ihr Kopf liegt außerhalb des Bildes.",
+    "Es sind keine Flammen zu sehen."
+  ],
+  "harfen-mandolinen-saiten-unterscheiden": [
+    "Mehrere Saiten gehören hier zu einer Harfe.",
+    "Unter jedem Foto bleibt der Instrumentenname im Singular.",
+    "Der Kopf der Mandoline ist nicht sichtbar."
+  ],
+  "keine-tonaufnahme-kein-klangurteil": [
+    "keine Tonaufnahme genau dieses Instruments.",
+    "nicht, dass echtes Gold nachgewiesen ist.",
+    "Zustand und Stimmung sind damit nicht geprüft."
+  ]
+});

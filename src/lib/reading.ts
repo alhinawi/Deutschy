@@ -348,3 +348,6 @@ readings.push(...knollenbilderTexts);
 
 import {obstansichtenTexts} from './reading-obstansichten';
 readings.push(...obstansichtenTexts);
+
+import {saitenbilderTexts} from './reading-saitenbilder';
+readings.push(...saitenbilderTexts);

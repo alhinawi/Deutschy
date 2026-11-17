@@ -291,4 +291,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-offene-papaya-ganze-quitten',dialogue:'papaya-offen-quitte-hinter-blatt'},
  {reading:'alltag-a2-zwei-feminina-zwei-pluralformen',dialogue:'papayas-quitten-endungen-nicht-kopieren'},
  {reading:'alltag-b1-offene-und-geschlossene-ansicht',dialogue:'nicht-jede-ansicht-zeigt-das-innere'},
+ {reading:'alltag-a1-saiten-vor-buechern-und-stoff',dialogue:'harfe-buecher-mandoline-stoff'},
+ {reading:'alltag-a2-viele-saiten-ein-instrument',dialogue:'harfen-mandolinen-saiten-unterscheiden'},
+ {reading:'alltag-b1-ein-foto-ist-keine-klangprobe',dialogue:'keine-tonaufnahme-kein-klangurteil'},
 ];

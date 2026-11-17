@@ -510,3 +510,6 @@ for(const[topic,rows]of Object.entries(knollenbilderGrammar))exercises[topic].pu
 
 import {obstansichtenGrammar} from './exercises-obstansichten';
 for(const[topic,rows]of Object.entries(obstansichtenGrammar))exercises[topic].push(...rows);
+
+import {saitenbilderGrammar} from './exercises-saitenbilder';
+for(const[topic,rows]of Object.entries(saitenbilderGrammar))exercises[topic].push(...rows);
