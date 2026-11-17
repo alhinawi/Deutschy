@@ -8588,3 +8588,218 @@ Object.assign(dialogueEvidence,{
     "für den Salat."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "blatt-statt-klemmbrett",
+    "level": "A1",
+    "title": [
+      "Du kannst ein Blatt haben",
+      "ممكن تاخد ورقة"
+    ],
+    "lines": [
+      [
+        "Jule",
+        "Wo ist mein gelber Textmarker?",
+        "قلم التحديد الأصفر بتاعي فين؟"
+      ],
+      [
+        "Amir",
+        "Im Regal, neben dem Wörterbuch.",
+        "على الرف جنب القاموس."
+      ],
+      [
+        "Jule",
+        "Danke. Ich markiere nur dieses eine Wort.",
+        "شكرًا. هحدد الكلمة دي بس."
+      ],
+      [
+        "Amir",
+        "Kann ich das Klemmbrett mitnehmen?",
+        "ممكن آخد اللوحة اللي بمشبك؟"
+      ],
+      [
+        "Jule",
+        "Ich brauche es noch. Aber du kannst ein leeres Blatt haben.",
+        "لسه محتاجاها. بس ممكن تاخد ورقة فاضية."
+      ],
+      [
+        "Amir",
+        "Gut, das lege ich in meinen Ordner.",
+        "تمام، هحطها في الملف بتاعي."
+      ],
+      [
+        "Jule",
+        "Das Klemmbrett bleibt dann hier.",
+        "يبقى اللوحة تفضل هنا."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Farbe hat der Textmarker?",
+        "Gelb.",
+        "Blau.",
+        "Rot."
+      ],
+      [
+        "Was braucht Jule noch?",
+        "Das Klemmbrett.",
+        "Amirs Ordner.",
+        "Ein neues Regal."
+      ],
+      [
+        "Wohin legt Amir das Blatt?",
+        "In seinen Ordner.",
+        "Auf den Boden.",
+        "Ins Wörterbuch."
+      ]
+    ]
+  },
+  {
+    "id": "nicht-direkt-ins-blatt",
+    "level": "A2",
+    "title": [
+      "Frag bitte erst nach",
+      "اسأل الأول لو سمحت"
+    ],
+    "lines": [
+      [
+        "Emil",
+        "Die gelben Stellen hast du also schon verstanden?",
+        "يعني الأماكن الصفرا فهمتيها خلاص؟"
+      ],
+      [
+        "Farah",
+        "Nein. Gelb heißt heute: Hier möchte ich noch nachfragen.",
+        "لأ. الأصفر النهارده معناه: هنا لسه عايزة أسأل."
+      ],
+      [
+        "Emil",
+        "Ich habe einen grünen Textmarker. Darf ich etwas ergänzen?",
+        "معايا قلم تحديد أخضر. ينفع أضيف حاجة؟"
+      ],
+      [
+        "Farah",
+        "Bitte nicht direkt auf dem Übungsblatt. Schreib deine Vorschläge auf ein leeres Blatt.",
+        "لو سمحت مش على ورقة التدريب مباشرة. اكتب اقتراحاتك على ورقة فاضية."
+      ],
+      [
+        "Emil",
+        "Dann vergleichen wir die Blätter danach.",
+        "يبقى نقارن الورق بعد كده."
+      ],
+      [
+        "Farah",
+        "Genau. Der Übungstext bleibt vorn am Klemmbrett.",
+        "بالظبط. نص التدريب يفضل قدام على اللوحة."
+      ],
+      [
+        "Emil",
+        "Die Farben für das nächste Treffen besprechen wir später.",
+        "نتكلم عن ألوان المقابلة الجاية بعدين."
+      ]
+    ],
+    "q": [
+      [
+        "Was hatte Emil zuerst angenommen?",
+        "Die gelben Stellen seien schon verstanden.",
+        "Das Klemmbrett sei leer.",
+        "Farah habe keinen Übungstext."
+      ],
+      [
+        "Welche Farbe hat Emils Textmarker?",
+        "Grün.",
+        "Gelb.",
+        "Blau."
+      ],
+      [
+        "Wann wollen sie die Blätter vergleichen?",
+        "Nach dem Notieren der Vorschläge.",
+        "Gar nicht.",
+        "Erst nach dem nächsten Treffen."
+      ]
+    ]
+  },
+  {
+    "id": "vorschlag-keine-auswahl",
+    "level": "B1",
+    "title": [
+      "Die Liste bleibt unverändert",
+      "القايمة تفضل زي ما هي"
+    ],
+    "lines": [
+      [
+        "Leon",
+        "Ist der gelb markierte Titel schon ausgewählt?",
+        "العنوان المتعلم بالأصفر اتختار خلاص؟"
+      ],
+      [
+        "Sina",
+        "Nein. Dazu habe ich noch eine Frage. Die Auswahl ist offen.",
+        "لأ. عندي سؤال عنه لسه. الاختيار لسه مفتوح."
+      ],
+      [
+        "Leon",
+        "Dann schreibe ich meine Vorschläge auf die ursprüngliche Liste.",
+        "يبقى أكتب اقتراحاتي على القايمة الأصلية."
+      ],
+      [
+        "Sina",
+        "Bitte auf ein eigenes Blatt. Die ursprüngliche Liste bleibt unverändert.",
+        "لو سمحت في ورقة لوحدها. القايمة الأصلية تفضل زي ما هي."
+      ],
+      [
+        "Leon",
+        "Gut. Ich schreibe meinen Namen dazu, damit die Herkunft klar ist.",
+        "تمام. هكتب اسمي معاهم عشان يبقى المصدر واضح."
+      ],
+      [
+        "Sina",
+        "Das ist keine Zustimmung der ganzen Gruppe.",
+        "ده مش موافقة المجموعة كلها."
+      ],
+      [
+        "Leon",
+        "Genau. Über die Auswahl sprechen wir erst gemeinsam.",
+        "بالظبط. الاختيار نتكلم عنه مع بعض الأول."
+      ]
+    ],
+    "q": [
+      [
+        "Was erklärt die gelbe Markierung hier?",
+        "Eine offene Frage.",
+        "Eine endgültige Auswahl.",
+        "Einen bezahlten Kauf."
+      ],
+      [
+        "Worauf schreibt Leon seine Vorschläge?",
+        "Auf ein eigenes Blatt.",
+        "Auf die ursprüngliche Liste.",
+        "Auf das Mäppchen."
+      ],
+      [
+        "Wofür steht sein Name?",
+        "Für die Herkunft der Vorschläge.",
+        "Für die Zustimmung aller.",
+        "Für den Preis der Bücher."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "blatt-statt-klemmbrett": [
+    "mein gelber Textmarker",
+    "Ich brauche es noch.",
+    "das lege ich in meinen Ordner."
+  ],
+  "nicht-direkt-ins-blatt": [
+    "Die gelben Stellen hast du also schon verstanden?",
+    "einen grünen Textmarker",
+    "Dann vergleichen wir die Blätter danach."
+  ],
+  "vorschlag-keine-auswahl": [
+    "Dazu habe ich noch eine Frage.",
+    "Bitte auf ein eigenes Blatt.",
+    "damit die Herkunft klar ist."
+  ]
+});

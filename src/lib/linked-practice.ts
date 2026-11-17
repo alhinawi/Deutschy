@@ -120,4 +120,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-besteckrunde',dialogue:'die-dritte-gabel'},
  {reading:'alltag-a2-schalen-verwechseln',dialogue:'die-groessere-mit-salat'},
  {reading:'alltag-b1-tischliste',dialogue:'drei-bestaetigt-eine-offen'},
+ {reading:'alltag-a1-schreibplatz',dialogue:'blatt-statt-klemmbrett'},
+ {reading:'alltag-a2-markierte-stelle',dialogue:'nicht-direkt-ins-blatt'},
+ {reading:'alltag-b1-arbeitskopie',dialogue:'vorschlag-keine-auswahl'},
 ];

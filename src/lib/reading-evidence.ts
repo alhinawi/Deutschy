@@ -851,3 +851,24 @@ Object.assign(readingEvidence,{
     "Die Angaben zu Tellern und Gabeln bleiben davon getrennt."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-schreibplatz": [
+    "Neben dem Wörterbuch liegt der gelbe Textmarker.",
+    "Dann markiert sie ein Wort gelb.",
+    "Sie gibt ihm stattdessen ein leeres Blatt aus der Schublade.",
+    "Jule braucht es aber noch."
+  ],
+  "alltag-a2-markierte-stelle": [
+    "Diese Wörter möchte sie noch nachfragen.",
+    "Stattdessen soll er seine Vorschläge auf ein leeres Blatt notieren.",
+    "Der Übungstext bleibt vorn.",
+    "Welche Markierungen sie beim nächsten Treffen verwenden, vereinbaren sie erst später."
+  ],
+  "alltag-b1-arbeitskopie": [
+    "dass sie zu diesem Titel noch eine Frage hat.",
+    "damit sie später beide Fassungen vergleichen können.",
+    "Sein Name bezeichnet die Herkunft der Vorschläge",
+    "Ob der markierte Titel am Ende in die Auswahl kommt, bleibt offen."
+  ]
+});

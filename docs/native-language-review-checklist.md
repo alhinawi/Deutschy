@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the fifty-eighth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the fifty-ninth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -514,6 +514,18 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Dialogue translation control | Egyptian Arabic now actually appears in both UI languages; English toggle explicitly names Egyptian Arabic. Check RTL/language markup, pressed state, hide/show and no progress writes. Prior blank English translation lines removed. |
 | [ ] | Listening/dictation | Check all 56 new segments and Egyptian Arabic. Actual device-voice review pending. Fictional counts are practice details, not event RSVPs or current policies. |
 
+### List 59: clipboard, highlighter and meaning of marks
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-schreibplatz/` and `blatt-statt-klemmbrett` | Check yellow highlighter beside dictionary, one word marked, Amir receives blank sheet not clipboard, Jule still needs clipboard. All 7 answers/evidence and Egyptian Arabic. |
+| [ ] | `/reading/alltag-a2-markierte-stelle/` and `nicht-direkt-ins-blatt` | Check yellow means questions today, not understood answers. Emil writes suggestions on separate blank paper with permission, original exercise front, explanations back. Future colors not agreed. |
+| [ ] | `/reading/alltag-b1-arbeitskopie/` and `vorschlag-keine-auswahl` | Check original list unchanged, working copy separate, Leon's name indicates origin not group consent, yellow title still open. Together-clipped sheets are not a joint decision. |
+| [ ] | `/lessons/schreibplatz/` | das Klemmbrett / Klemmbretter, der Textmarker / same-form plural (-). Whole real clipboard on dark desk and capped yellow highlighter beside other stationery. No faces/branding or added padding. Photo illustrates noun, not fictional story state. |
+| [ ] | `exercises-schreibplatz.ts` | 24 append-only article/genus, dative, present, separable, two-way/dative-preposition and negation rows. Check German/AR/EN wording; all earlier saved identities unchanged. |
+| [ ] | Vocabulary card audio | Explicit localized Hear the word plus article/noun accessible name; minimum 44px touch target. Check old/new topics, AR/EN x320/390, exact German speech and no progress writes. Device German voice still required. |
+| [ ] | Listening/dictation | Check all 55 new segments and Egyptian Arabic. Actual device-voice review pending. Marking conventions apply only to these fictional conversations, not an official correction/grading system. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -528,7 +540,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **773 photo nouns / 103 topics**, **192 reading texts / 721 reading questions**, **41 core grammar topics / 1342 core grammar questions**, **132 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **775 photo nouns / 104 topics**, **195 reading texts / 733 reading questions**, **41 core grammar topics / 1366 core grammar questions**, **135 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -540,7 +552,7 @@ This is an inventory, not completed review. Snapshot: **773 photo nouns / 103 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 46 · A2 74 · B1 42 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 47 · A2 75 · B1 43 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

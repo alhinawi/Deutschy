@@ -771,5 +771,7 @@
  "schuerze": "apron",
  "geschirrtuch": "dish towel",
  "gabel": "fork",
- "schuessel": "bowl"
+ "schuessel": "bowl",
+ "klemmbrett": "clipboard",
+ "textmarker": "highlighter"
 }

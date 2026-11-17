@@ -177,3 +177,6 @@ readings.push(...kuechentextilienTexts);
 
 import {besteckrundeTexts} from './reading-besteckrunde';
 readings.push(...besteckrundeTexts);
+
+import {schreibplatzTexts} from './reading-schreibplatz';
+readings.push(...schreibplatzTexts);

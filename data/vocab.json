@@ -411,6 +411,10 @@
   {
    "id": "besteckrunde",
    "ar": "شوك وسلطانيات للسفرة"
+  },
+  {
+   "id": "schreibplatz",
+   "ar": "لوحة بمشبك وقلم تحديد"
   }
  ],
  "words": [
@@ -12102,6 +12106,36 @@
     "file": "9160544.jpg",
     "commons": "https://www.pexels.com/photo/a-wooden-bowl-and-fork-near-the-stainless-tumbler-9160544/",
     "author": "Darina Belonogova",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "klemmbrett",
+   "topic": "schreibplatz",
+   "art": "das",
+   "de": "Klemmbrett",
+   "plural": "Klemmbretter",
+   "ar": "لوحة بمشبك للورق",
+   "photo": {
+    "file": "6192334.jpg",
+    "commons": "https://www.pexels.com/de-de/foto/stift-bleistift-mockup-zwischenablage-6192334/",
+    "author": "KATRIN BOLOVTSOVA",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "textmarker",
+   "topic": "schreibplatz",
+   "art": "der",
+   "de": "Textmarker",
+   "plural": "-",
+   "ar": "قلم تحديد",
+   "photo": {
+    "file": "7695000.jpg",
+    "commons": "https://www.pexels.com/photo/green-and-silver-click-pen-7695000/",
+    "author": "Ksenia Chernaya",
     "license": "Pexels License",
     "modified": true
    }

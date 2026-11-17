@@ -3,9 +3,10 @@ import Speaker from './Speaker';
 import { Word, img, contextualPhoto } from '@/lib/data';
 import { speak } from '@/lib/speak';
 import { Gloss, PluralText } from './L';
-import { T } from '@/lib/i18n';
+import { T, useT } from '@/lib/i18n';
 
 export default function WordCard({ w, first = false }: { w: Word; first?: boolean }) {
+  const t=useT();
   return (
     <article className="overflow-hidden rounded-2xl border border-line bg-card">
       {/* eslint-disable-next-line @next/next/no-img-element */}
@@ -17,7 +18,7 @@ export default function WordCard({ w, first = false }: { w: Word; first?: boolea
           <h2 className="de text-2xl font-semibold leading-tight" lang="de">
             <span className="text-accent">{w.art}</span> {w.de}
           </h2>
-          <button onClick={() => speak(`${w.art} ${w.de}`)} aria-label={`${w.de}`} className="shrink-0 rounded-full border border-line px-3 py-1 text-sm hover:bg-paper"><Speaker /></button>
+          <button onClick={() => speak(`${w.art} ${w.de}`)} aria-label={t(`اسمع الكلمة: ${w.art} ${w.de}`, `Hear the word: ${w.art} ${w.de}`)} className="min-h-11 min-w-11 shrink-0 inline-flex items-center justify-center rounded-full border border-line px-3 py-2 text-sm hover:bg-paper"><Speaker /></button>
         </div>
         <p className="ar-title text-xl text-ink"><Gloss w={w} /></p>
         {w.plural !== '' && <p className="de text-sm text-muted" lang="de"><PluralText w={w} /></p>}

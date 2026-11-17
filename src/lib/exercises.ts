@@ -339,3 +339,6 @@ for(const[topic,rows]of Object.entries(kuechentextilienGrammar))exercises[topic]
 
 import {besteckrundeGrammar} from './exercises-besteckrunde';
 for(const[topic,rows]of Object.entries(besteckrundeGrammar))exercises[topic].push(...rows);
+
+import {schreibplatzGrammar} from './exercises-schreibplatz';
+for(const[topic,rows]of Object.entries(schreibplatzGrammar))exercises[topic].push(...rows);
