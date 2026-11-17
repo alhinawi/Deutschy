@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the twenty-seventh practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the twenty-eighth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -163,6 +163,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/lessons/lesehelfer/` | Review die Lupe / Lupen and der Briefbeschwerer / same-form plural, Egyptian Arabic and the two complete-object real photo cues. Dictionary and licence checks are not native editorial sign-off. |
 | [ ] | `/grammar/modalverben/#modal-meaning` and `/dictation/` | Review six unchanged meanings with bilingual feedback, counts, locks and temporary/no-record reset wording. New focused dictation has 43 sentences. Listen on a real German device voice; mocked utterances do not review pronunciation. |
 
+### Twenty-eighth update: new content, still pending
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-haekeln/` and `/dialogues/#haekeln-erster-schritt` | Review crochet versus knitting, a small first sample rather than a bag, Friday/tomorrow/Saturday and all 7 answers with exact evidence. Check beginner difficulty and Egyptian Arabic. |
+| [ ] | `/reading/alltag-a2-stickrahmen/` and `/dialogues/#kleinen-rahmen-leihen` | Review smaller versus larger hoop, borrowed object references, testing on a different remnant, Monday evening return and asking before extending or lending onward. Check all 7 answers/evidence. Fictional household agreement. |
+| [ ] | `/reading/alltag-b1-handarbeitsrunde/` and `/dialogues/#handarbeit-ohne-frist` | Review voluntary goals versus group obligations, open questions/failed attempts, project titles without deadlines and borrowed-tool ownership. Check all 7 answers/evidence and Egyptian Arabic. This private group's agreement is not a universal rule. |
+| [ ] | `src/lib/exercises-handarbeit.ts` | Review 24 appended sentence-order, present, negation, separable-verb, dative and perfect questions/explanations. All 598 earlier rows retain exact saved positions/content. Confirm one supplied answer for each prompt. |
+| [ ] | `/lessons/handarbeit/` | Review Stricknadel / Stricknadeln, Häkelnadel / Häkelnadeln, Stickrahmen / same-form plural and Egyptian Arabic senses. Three real photo cues; the needle source is rotated/cropped to the complete unbranded group. Check clarity at phone size. Source/licence checks are not native editorial approval. |
+| [ ] | `/dialogues/` and `/dictation/` | Review fresh question/translation/role state after switching hashes between dialogues; earlier progress must stay saved. New focused dictation has 40 sentences. Listen on a real German device voice; mocked utterances check text selection, not pronunciation. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -177,7 +188,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **709 photo nouns / 72 topics**, **99 reading texts / 349 reading questions**, **41 core grammar topics / 598 core grammar questions**, **39 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **712 photo nouns / 73 topics**, **102 reading texts / 361 reading questions**, **41 core grammar topics / 622 core grammar questions**, **42 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -189,7 +200,7 @@ This is an inventory, not completed review. Snapshot: **709 photo nouns / 72 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 15 · A2 28 · B1 26 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 16 · A2 29 · B1 27 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
