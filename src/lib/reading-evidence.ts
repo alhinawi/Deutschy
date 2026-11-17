@@ -1859,3 +1859,24 @@ Object.assign(readingEvidence,{
     "diese Lücke sichtbar gemacht, aber nicht durch Vermutungen geschlossen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-linien-und-ein-loch": [
+    "oben eine rote Linie.",
+    "ein Loch mit einem schwarzen Ring.",
+    "das Etikett und dann die Etiketten. Diese Mehrzahl üben sie heute.",
+    "auf beiden Fotos keine Wörter auf den Gegenständen stehen."
+  ],
+  "alltag-a2-zwei-verschiedene-fragen": [
+    "zwischen zwei möglichen Aufgaben zu unterscheiden.",
+    "welche Mehrzahl auf ihrem heutigen Blatt verwendet wird.",
+    "das Wörterbuch hilft bei der Prüfung anderer Antworten.",
+    "Sie haben keine gültige Variante verboten"
+  ],
+  "alltag-b1-leer-ist-kein-inhaltsnachweis": [
+    "Die sichtbare Ordnung der Formen ersetzt keine inhaltliche Kennzeichnung.",
+    "Ob die Rückseiten beschriftet sind, ist nicht zu erkennen.",
+    "Sie ergänzen keine erfundenen Preise, Namen oder Inhalte.",
+    "kein Ordnungssystem überprüft."
+  ]
+});

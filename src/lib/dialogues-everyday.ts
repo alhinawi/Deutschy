@@ -18908,3 +18908,218 @@ Object.assign(dialogueEvidence,{
     "Wir öffnen oder verändern dafür nichts."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "welches-bild-hat-linien",
+    "level": "A1",
+    "title": [
+      "Welches Bild hat Linien?",
+      "أنهي صورة فيها سطور؟"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Wie heißt die Karte mit den Linien?",
+        "الكارت اللي فيه سطور اسمه إيه؟"
+      ],
+      [
+        "Karim",
+        "Die Karteikarte. Die Mehrzahl ist die Karteikarten.",
+        "دي كارتايكارته. الجمع دي كارتايكارتن."
+      ],
+      [
+        "Lea",
+        "Und was liegt auf dem grün-weißen Hintergrund?",
+        "وإيه اللي على الخلفية الأخضر والأبيض؟"
+      ],
+      [
+        "Karim",
+        "Das Etikett mit dem schwarzen Ring am Loch.",
+        "التيكيت اللي عند فتحته حلقة سودا."
+      ],
+      [
+        "Lea",
+        "Stehen Wörter darauf?",
+        "عليه كلمات؟"
+      ],
+      [
+        "Karim",
+        "Nein, es ist leer. Die Karteikarten sind auch nicht beschriftet.",
+        "لأ فاضي. وكروت الفهرسة مش متكتبة برضه."
+      ],
+      [
+        "Lea",
+        "Dann üben wir jetzt nur Namen, Artikel und die Formen auf unserem Blatt.",
+        "يبقى نتدرب دلوقتي على الأسامي والأدوات والصيغ اللي على ورقتنا بس."
+      ]
+    ],
+    "q": [
+      [
+        "Was hat Linien?",
+        "Die Karteikarte.",
+        "Das Etikett auf diesem Foto.",
+        "Der schwarze Ring."
+      ],
+      [
+        "Welche Farbe hat der Ring?",
+        "Schwarz.",
+        "Rot.",
+        "Braun."
+      ],
+      [
+        "Was sagt Karim über die Beschriftung?",
+        "Die Gegenstände sind nicht beschriftet.",
+        "Auf allem steht sein Name.",
+        "Nur die Karten haben Adressen."
+      ]
+    ]
+  },
+  {
+    "id": "auf-dem-blatt-oder-allgemein",
+    "level": "A2",
+    "title": [
+      "Auf dem Blatt oder allgemein?",
+      "على الورقة ولا عمومًا؟"
+    ],
+    "lines": [
+      [
+        "Nele",
+        "Auf meiner Vorlage steht Etiketten. Ist jede andere Form falsch?",
+        "في ورقتي مكتوب إتيكتن. يبقى أي صيغة تانية غلط؟"
+      ],
+      [
+        "Amir",
+        "Nein. Das Wörterbuch nennt auch Etiketts und Etikette.",
+        "لأ. القاموس بيقول كمان إتيكتس وإتيكته."
+      ],
+      [
+        "Nele",
+        "Dann muss ich genauer sagen, wonach ich frage.",
+        "يبقى لازم أقول بدقة أكتر أنا بسأل عن إيه."
+      ],
+      [
+        "Amir",
+        "Frag nach der Form auf diesem Blatt, wenn du genau diese Auswahl meinst.",
+        "اسألي عن الصيغة اللي على الورقة دي لو قصدك الاختيار ده تحديدًا."
+      ],
+      [
+        "Nele",
+        "Und andere gültige Varianten bleiben trotzdem gültig.",
+        "والصيغ التانية الصحيحة تفضل صحيحة برضه."
+      ],
+      [
+        "Amir",
+        "Genau. Die Übungsfrage und die allgemeine Wortnotiz sind nicht dasselbe.",
+        "بالظبط. سؤال التدريب وملحوظة الكلمة العامة مش نفس الحاجة."
+      ],
+      [
+        "Nele",
+        "Ich lese die neue Frage vor und prüfe, ob die Grenze klar ist.",
+        "هقرا السؤال الجديد وأراجع إذا الفرق واضح."
+      ]
+    ],
+    "q": [
+      [
+        "Welche weiteren Formen nennt Amir?",
+        "Etiketts und Etikette.",
+        "Karte und Karten.",
+        "Nur Etiketten."
+      ],
+      [
+        "Was soll Nele genauer formulieren?",
+        "Die Frage.",
+        "Eine Lieferadresse.",
+        "Den Namen einer Person."
+      ],
+      [
+        "Was bleibt mit anderen gültigen Varianten?",
+        "Sie bleiben gültig.",
+        "Sie werden automatisch verboten.",
+        "Sie gelten immer als Tippfehler."
+      ]
+    ]
+  },
+  {
+    "id": "nur-die-sichtbare-seite",
+    "level": "B1",
+    "title": [
+      "Nur die sichtbare Seite",
+      "الناحية اللي باينة بس"
+    ],
+    "lines": [
+      [
+        "Tarek",
+        "Alles wirkt ordentlich. Kann ich eindeutig zugeordnet schreiben?",
+        "كل حاجة شكلها منظم. أقدر أكتب متوصلة بوضوح باللي يخصها؟"
+      ],
+      [
+        "Jule",
+        "Nicht ohne lesbare Angaben oder weitere Informationen.",
+        "مش من غير بيانات مقروءة أو معلومات تانية."
+      ],
+      [
+        "Tarek",
+        "Dann nenne ich Linien, Überdeckungen und das Loch im Etikett.",
+        "يبقى أقول السطور وتغطية الكروت لبعض والفتحة في التيكيت."
+      ],
+      [
+        "Jule",
+        "Und leer bezieht sich nur auf die sichtbare Fläche.",
+        "وفاضي ترجع للمساحة اللي باينة بس."
+      ],
+      [
+        "Tarek",
+        "Über Rückseiten und zugehörige Gegenstände wissen wir nichts Sicheres.",
+        "عن الضهر والحاجات اللي تخصها مفيش عندنا حاجة مؤكدة."
+      ],
+      [
+        "Jule",
+        "Genau. Wir erfinden weder Preise noch Namen.",
+        "بالظبط. مش هنخترع أسعار ولا أسامي."
+      ],
+      [
+        "Tarek",
+        "Unsere Bildbeschreibung bleibt von einer Bestandsprüfung getrennt.",
+        "وصف الصور عندنا هيفضل منفصل عن مراجعة المخزون."
+      ]
+    ],
+    "q": [
+      [
+        "Was fehlt für eindeutig zugeordnet?",
+        "Lesbare Angaben oder weitere Informationen.",
+        "Jede erkennbare Form.",
+        "Eine weiße Fläche."
+      ],
+      [
+        "Worauf bezieht sich leer hier?",
+        "Nur auf die sichtbare Fläche.",
+        "Automatisch auf alle Rückseiten.",
+        "Auf einen geprüften Lagerbestand."
+      ],
+      [
+        "Wovon bleibt die Bildbeschreibung getrennt?",
+        "Von einer Bestandsprüfung.",
+        "Von sichtbaren Linien.",
+        "Von den deutschen Wörtern."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "welches-bild-hat-linien": [
+    "Die Karteikarte.",
+    "mit dem schwarzen Ring",
+    "sind auch nicht beschriftet."
+  ],
+  "auf-dem-blatt-oder-allgemein": [
+    "auch Etiketts und Etikette.",
+    "genauer sagen, wonach ich frage.",
+    "bleiben trotzdem gültig."
+  ],
+  "nur-die-sichtbare-seite": [
+    "Nicht ohne lesbare Angaben oder weitere Informationen.",
+    "nur auf die sichtbare Fläche.",
+    "von einer Bestandsprüfung getrennt."
+  ]
+});

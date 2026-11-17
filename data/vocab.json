@@ -603,6 +603,10 @@
   {
    "id": "naturbeobachtung",
    "ar": "صندوق التعشيش وبيت الحشرات"
+  },
+  {
+   "id": "papierformen",
+   "ar": "كارت الفهرسة والتيكيت"
   }
  ],
  "words": [
@@ -13734,6 +13738,36 @@
     "file": "38763461.jpg",
     "commons": "https://www.pexels.com/photo/wooden-insect-hotel-in-sunlit-forest-38763461/",
     "author": "Magda Ehlers",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "karteikarte",
+   "topic": "papierformen",
+   "art": "die",
+   "de": "Karteikarte",
+   "plural": "Karteikarten",
+   "ar": "كارت فهرسة",
+   "photo": {
+    "file": "268351.jpg",
+    "commons": "https://www.pexels.com/photo/white-ruled-paper-lot-on-brown-wooden-surface-268351/",
+    "author": "Pixabay",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "etikett",
+   "topic": "papierformen",
+   "art": "das",
+   "de": "Etikett",
+   "plural": "Etiketten",
+   "ar": "تيكيت أو بطاقة تعريف",
+   "photo": {
+    "file": "7967275.jpg",
+    "commons": "https://www.pexels.com/photo/white-paper-tag-with-a-hole-7967275/",
+    "author": "Eva Bronzini",
     "license": "Pexels License",
     "modified": true
    }

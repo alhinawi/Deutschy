@@ -264,4 +264,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-ein-loch-viele-oeffnungen',dialogue:'das-dach-und-die-oeffnungen'},
  {reading:'alltag-a2-ich-meine-das-rechte-bild',dialogue:'rechts-von-welchem-platz'},
  {reading:'alltag-b1-ein-bild-ist-keine-beobachtungsreihe',dialogue:'nicht-erkennbar-ist-nicht-unbenutzt'},
+ {reading:'alltag-a1-linien-und-ein-loch',dialogue:'welches-bild-hat-linien'},
+ {reading:'alltag-a2-zwei-verschiedene-fragen',dialogue:'auf-dem-blatt-oder-allgemein'},
+ {reading:'alltag-b1-leer-ist-kein-inhaltsnachweis',dialogue:'nur-die-sichtbare-seite'},
 ];
