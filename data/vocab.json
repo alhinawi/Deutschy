@@ -591,6 +591,10 @@
   {
    "id": "spielteile",
    "ar": "العربية اللعبة وقطعة البازل"
+  },
+  {
+   "id": "sportdetails",
+   "ar": "الجزمة بعجل وزعنفة السباحة"
   }
  ],
  "words": [
@@ -13632,6 +13636,36 @@
     "file": "3482443.jpg",
     "commons": "https://www.pexels.com/photo/jigsaw-puzzle-on-yellow-background-3482443/",
     "author": "Ann Hannes",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "rollschuh",
+   "topic": "sportdetails",
+   "art": "der",
+   "de": "Rollschuh",
+   "plural": "Rollschuhe",
+   "ar": "جزمة بعجل",
+   "photo": {
+    "file": "8413767.jpg",
+    "commons": "https://www.pexels.com/photo/tying-of-shoelace-on-a-roller-skate-8413767/",
+    "author": "SHVETS production",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "schwimmflosse",
+   "topic": "sportdetails",
+   "art": "die",
+   "de": "Schwimmflosse",
+   "plural": "Schwimmflossen",
+   "ar": "زعنفة سباحة",
+   "photo": {
+    "file": "8028468.jpg",
+    "commons": "https://www.pexels.com/photo/pair-of-flippers-on-poolside-8028468/",
+    "author": "SHVETS production",
     "license": "Pexels License",
     "modified": true
    }

@@ -255,4 +255,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-vorne-und-dahinter',dialogue:'das-teil-oder-der-hintergrund'},
  {reading:'alltag-a2-erst-einen-hinweis',dialogue:'verrat-es-noch-nicht'},
  {reading:'alltag-b1-ein-teil-und-das-ganze',dialogue:'fehlt-es-wirklich'},
+ {reading:'alltag-a1-farben-an-den-dingen',dialogue:'welcher-teil-ist-rosa'},
+ {reading:'alltag-a2-darf-ich-das-notieren',dialogue:'nur-im-eigenen-heft'},
+ {reading:'alltag-b1-sichtbar-ist-nicht-geprueft',dialogue:'keine-freigabe-durch-ein-foto'},
 ];

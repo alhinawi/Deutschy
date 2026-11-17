@@ -1796,3 +1796,24 @@ Object.assign(readingEvidence,{
     "zwischen einem Ausschnitt der Darstellung und dem Zustand des Gegenstands zu unterscheiden."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-farben-an-den-dingen": [
+    "Die Schnürsenkel sind rosa, die Rollen rot.",
+    "die Schwimmflossen. Bei diesem Wort kommt ein n dazu.",
+    "Dahinter sieht man blaues Wasser.",
+    "So ist klar, welche Farbe zu welchem sichtbaren Teil gehört."
+  ],
+  "alltag-a2-darf-ich-das-notieren": [
+    "möchte aber nicht, dass ihr Name neben dem Satz steht.",
+    "dass David ein Wort ausgelassen hat.",
+    "Sina möchte das heute nicht.",
+    "aber keinen Beitrag veröffentlicht oder verschickt."
+  ],
+  "alltag-b1-sichtbar-ist-nicht-geprueft": [
+    "Beide haben nur die Fotos gesehen und keinen der Gegenstände selbst untersucht.",
+    "Auch der Ort der Aufnahme ersetzt diese Prüfung nicht",
+    "Fehlende Belege für Einsatzbereitschaft beweisen umgekehrt keinen Defekt.",
+    "Das Ergebnis ist eine genauere Bildbeschreibung mit offenem Funktionszustand."
+  ]
+});
