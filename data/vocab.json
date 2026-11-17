@@ -327,6 +327,10 @@
   {
    "id": "schultasche",
    "ar": "حاجات لشنطة الدراسة"
+  },
+  {
+   "id": "badregal",
+   "ar": "حاجات لرف الحمام"
   }
  ],
  "words": [
@@ -11367,6 +11371,36 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Elastiek-01_(xndr).jpg",
     "author": "Svdmolen (attribution recorded by Commons)",
     "license": "CC BY 2.5",
+    "padding": true
+   }
+  },
+  {
+   "id": "nagelbuerste",
+   "topic": "badregal",
+   "art": "die",
+   "de": "Nagelbürste",
+   "plural": "Nagelbürsten",
+   "ar": "فرشة أظافر",
+   "photo": {
+    "file": "Wooden nail brush with natural bristles.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Wooden_nail_brush_with_natural_bristles.jpg",
+    "author": "Gill King",
+    "license": "CC BY-SA 2.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "waschlappen",
+   "topic": "badregal",
+   "art": "der",
+   "de": "Waschlappen",
+   "plural": "-",
+   "ar": "فوطة صغيرة لغسيل الوش والجسم",
+   "photo": {
+    "file": "Brown wash cloth.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Brown_wash_cloth.jpg",
+    "author": "Stilfehler",
+    "license": "CC BY-SA 3.0",
     "padding": true
    }
   }

@@ -57,4 +57,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-federmaeppchen',dialogue:'maeppchen-schon-da'},
  {reading:'alltag-a2-gummiband',dialogue:'karten-getrennt'},
  {reading:'alltag-b1-fundnotiz',dialogue:'maeppchen-zuordnen'},
+ {reading:'alltag-a1-nagelbuerste',dialogue:'kamm-links'},
+ {reading:'alltag-a2-waschlappen',dialogue:'fach-fuer-dalia'},
+ {reading:'alltag-a2-regalfoto',dialogue:'altes-regalfoto'},
 ];

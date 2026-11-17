@@ -410,3 +410,24 @@ Object.assign(readingEvidence,{
     "Es gibt noch keine vereinbarte Übergabe."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-nagelbuerste": [
+    "Auf dem unteren Brett steht eine kleine Nagelbürste.",
+    "Er sucht seinen Kamm.",
+    "Sami nimmt den Kamm und lässt die Bürste stehen.",
+    "Mira stellt noch eine leere Schale neben die Bürste."
+  ],
+  "alltag-a2-waschlappen": [
+    "Vor der Ankunft legt sie ein Handtuch und einen frischen Waschlappen in das freie Fach im Bad.",
+    "Lina merkt, dass die gleiche Farbe leicht zu einer Verwechslung führen kann.",
+    "Ihr eigener Waschlappen hängt schon an einem Haken neben dem Waschbecken.",
+    "Lina zeigt ihr einen leeren Korb unter dem Regal."
+  ],
+  "alltag-a2-regalfoto": [
+    "Damals stand die Nagelbürste links neben der Seifenschale.",
+    "Ben sucht links neben der Schale und findet dort nur einen Kamm.",
+    "Danach macht sie ein neues Foto und nennt es Badregal heute.",
+    "Das alte Bild löscht sie nicht, sondern legt es zu den Fotos vom Einzug."
+  ]
+});

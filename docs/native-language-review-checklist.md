@@ -273,6 +273,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/grammar/akkusativ/`, `/grammar/possessiv/`, `/grammar/modalverben/`, `/grammar/imperativ/`, `/grammar/komparativ/`, `/grammar/dativ-praepositionen/` | Review 24 appended school-bag questions/explanations: neuter case endings, possessive case endings, supplied pronouns, Nimm/Lies/Prüft, länger/genauer and den Freunden. Older saved topic/index identities retained. |
 | [ ] | `/redewendungen/` and `/dictation/` | Review unchanged idiom meanings/examples. Check labeled normalized search now also covers examples/literal gloss, selected-group live count, no-results guidance, clear-query keeping group, search-all keeping query, show-all reset and focus return. Filters are temporary, no points/history. Review new dictation with a real German voice; mocks do not establish pronunciation. |
 
+### Thirty-eighth update: additional pending targets
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-nagelbuerste/` | Check lower/upper shelves, brush on the right, comb on the left, Sami taking only his comb and the empty bowl. Review **Der Kamm liegt links**, all 7 reading/dialogue answers and Egyptian meanings separately. |
+| [ ] | `/reading/alltag-a2-waschlappen/` | Check two same-color cloths, Lina's at the hook, Dalia's fresh cloth beside the towel in her compartment, the name card staying dry and the used cloth going to the empty basket. Review **Das Fach mit deinem Namen**, all 7 answers and Egyptian Arabic. Fictional household arrangement, not hygiene advice. |
+| [ ] | `/reading/alltag-a2-regalfoto/` | Check the old photo versus the present shelf, comb on the left, brush now on the right, fresh cloths below, new photo and old photo retained among move-in photos. Review **Rechts, nicht mehr links**, all 7 answers and Egyptian meanings. |
+| [ ] | `/lessons/badregal/` | Check die Nagelbürste / Nagelbürsten and der Waschlappen / die Waschlappen, Egyptian meanings and complete unbranded brush/two-cloth photographs. Waschlappen names the physical cloth here, not the derogatory figurative sense. No cropped objects, faces or visible brands; neutral padding, source attribution and share-alike licenses recorded. |
+| [ ] | `/grammar/satzbau/`, `/grammar/praesens/`, `/grammar/negation/`, `/grammar/trennbare-verben/`, `/grammar/dativ/`, `/grammar/perfekt/` | Review 24 appended bathroom-shelf questions/explanations: neutral versus echo question, nimmt/gibt, nominative kein Kamm, accusative kein Foto, mitnehmen, den Gästen, mitgenommen and gefunden. Earlier saved topic/index identities retained. |
+| [ ] | `/practical-words/` and `/dictation/` | Review unchanged glossary terms and examples. Check search now includes German examples, normalized uppercase/NFD queries, selected-group scope, search-all keeping query, clear-search keeping group, reveal/hide acting only on results and two LTR live counts. Meanings stay temporary, with no points or saved history. Review new dictation on a real German voice; mocks do not validate pronunciation. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -287,7 +298,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **731 photo nouns / 82 topics**, **129 reading texts / 469 reading questions**, **41 core grammar topics / 838 core grammar questions**, **69 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **733 photo nouns / 83 topics**, **132 reading texts / 481 reading questions**, **41 core grammar topics / 862 core grammar questions**, **72 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -299,7 +310,7 @@ This is an inventory, not completed review. Snapshot: **731 photo nouns / 82 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 25 · A2 38 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 26 · A2 40 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

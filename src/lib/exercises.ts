@@ -276,3 +276,6 @@ for(const[topic,rows]of Object.entries(naehboxGrammar))exercises[topic].push(...
 
 import {schultascheGrammar} from './exercises-schultasche';
 for(const[topic,rows]of Object.entries(schultascheGrammar))exercises[topic].push(...rows);
+
+import {badregalGrammar} from './exercises-badregal';
+for(const[topic,rows]of Object.entries(badregalGrammar))exercises[topic].push(...rows);

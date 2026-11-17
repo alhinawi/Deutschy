@@ -4073,3 +4073,218 @@ Object.assign(dialogueEvidence,{
     "Dann klären wir erst mit der Gruppe, wie die Suche weitergeht."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "kamm-links",
+    "level": "A1",
+    "title": [
+      "Der Kamm liegt links",
+      "المشط على الشمال"
+    ],
+    "lines": [
+      [
+        "Sami",
+        "Mira, wo liegt mein Kamm?",
+        "ميرا، المشط بتاعي فين؟"
+      ],
+      [
+        "Mira",
+        "Auf dem unteren Brett, links neben der Nagelbürste.",
+        "على الرف اللي تحت، على شمال فرشة الأظافر."
+      ],
+      [
+        "Sami",
+        "Hier ist er. Hast du das Regal aufgeräumt?",
+        "أهو. إنتي رتبتي الرف؟"
+      ],
+      [
+        "Mira",
+        "Ja. Die Bürste steht jetzt rechts.",
+        "آه. الفرشة دلوقتي على اليمين."
+      ],
+      [
+        "Sami",
+        "Brauchst du die Handtücher oben?",
+        "محتاجة الفوط اللي فوق؟"
+      ],
+      [
+        "Mira",
+        "Nein, ich stelle nur noch diese leere Schale hin.",
+        "لأ، هحط الطبق الفاضي ده بس."
+      ],
+      [
+        "Sami",
+        "Gut, ich nehme nur meinen Kamm mit.",
+        "تمام، هاخد المشط بتاعي بس."
+      ]
+    ],
+    "q": [
+      [
+        "Wo liegt Samis Kamm?",
+        "Links neben der Nagelbürste.",
+        "In der leeren Schale.",
+        "Auf dem oberen Brett."
+      ],
+      [
+        "Was stellt Mira noch hin?",
+        "Eine leere Schale.",
+        "Einen neuen Schrank.",
+        "Einen Teller mit Obst."
+      ],
+      [
+        "Was nimmt Sami mit?",
+        "Nur seinen Kamm.",
+        "Beide Handtücher.",
+        "Die Nagelbürste."
+      ]
+    ]
+  },
+  {
+    "id": "fach-fuer-dalia",
+    "level": "A2",
+    "title": [
+      "Das Fach mit deinem Namen",
+      "الخانة اللي عليها اسمك"
+    ],
+    "lines": [
+      [
+        "Lina",
+        "Hier ist das freie Fach für deine Sachen.",
+        "دي الخانة الفاضية لحاجتك."
+      ],
+      [
+        "Dalia",
+        "Danke. Ist der Waschlappen am Haken auch für mich?",
+        "شكراً. الفوطة الصغيرة اللي على الخطاف ليا برضه؟"
+      ],
+      [
+        "Lina",
+        "Nein, das ist meiner. Deiner liegt hier beim Handtuch.",
+        "لأ، دي بتاعتي. بتاعتك هنا جنب الفوطة."
+      ],
+      [
+        "Dalia",
+        "Sie haben ja dieselbe Farbe. Gut, dass du mir das zeigst.",
+        "دول نفس اللون فعلاً. كويس إنك بتوريني."
+      ],
+      [
+        "Lina",
+        "Die kleine Karte mit deinem Namen bleibt im trockenen Fach.",
+        "الكارت الصغير اللي عليه اسمك بيفضل في الخانة الناشفة."
+      ],
+      [
+        "Dalia",
+        "Und wohin lege ich meinen Lappen, wenn ich ihn benutzt habe?",
+        "وأحط الفوطة الصغيرة بتاعتي فين لما أكون استخدمتها؟"
+      ],
+      [
+        "Lina",
+        "In den leeren Korb unter dem Regal, bitte.",
+        "في الباسكت الفاضي تحت الرف لو سمحتي."
+      ]
+    ],
+    "q": [
+      [
+        "Wo liegt Dalias frischer Waschlappen?",
+        "Beim Handtuch im Fach.",
+        "Am Haken neben dem Waschbecken.",
+        "Unter dem leeren Korb."
+      ],
+      [
+        "Wo bleibt die Namenskarte?",
+        "Im trockenen Fach.",
+        "Im Waschbecken.",
+        "Im nassen Lappen."
+      ],
+      [
+        "Wohin kommt der benutzte Lappen?",
+        "In den Korb unter dem Regal.",
+        "Zu den frischen Sachen.",
+        "Auf Linas Kamm."
+      ]
+    ]
+  },
+  {
+    "id": "altes-regalfoto",
+    "level": "A2",
+    "title": [
+      "Rechts, nicht mehr links",
+      "على اليمين، مش على الشمال زي الأول"
+    ],
+    "lines": [
+      [
+        "Ben",
+        "Auf deinem Foto steht die Nagelbürste links. Da finde ich nur einen Kamm.",
+        "في صورتك فرشة الأظافر على الشمال. مش لاقي هناك غير مشط."
+      ],
+      [
+        "Nora",
+        "Warte, ich schaue nach. Ach, das Foto ist von letzter Woche.",
+        "استنى أبص. آه، الصورة دي من الأسبوع اللي فات."
+      ],
+      [
+        "Ben",
+        "Hast du das Regal seitdem anders eingeräumt?",
+        "رتبتي الرف بشكل مختلف من وقتها؟"
+      ],
+      [
+        "Nora",
+        "Ja. Die Bürste steht jetzt rechts neben der Schale.",
+        "آه. الفرشة دلوقتي على يمين الطبق."
+      ],
+      [
+        "Ben",
+        "Jetzt sehe ich sie. Und die frischen Waschlappen?",
+        "شايفها دلوقتي. والفوط الصغيرة النضيفة؟"
+      ],
+      [
+        "Nora",
+        "Im unteren Fach. Ich schicke dir gleich ein neues Foto.",
+        "في الخانة اللي تحت. هبعتلك صورة جديدة حالاً."
+      ],
+      [
+        "Ben",
+        "Danke. Dann war die erste Angabe einfach nicht mehr aktuell.",
+        "شكراً. يبقى المعلومة الأولى بس ماعدتش حديثة."
+      ]
+    ],
+    "q": [
+      [
+        "Warum sucht Ben zuerst am falschen Platz?",
+        "Das Foto zeigt die alte Anordnung.",
+        "Er hat kein Foto bekommen.",
+        "Nora hat die Bürste verkauft."
+      ],
+      [
+        "Wo steht die Bürste jetzt?",
+        "Rechts neben der Schale.",
+        "Links neben dem Kamm.",
+        "Im unteren Fach unter den Lappen."
+      ],
+      [
+        "Was möchte Nora schicken?",
+        "Ein neues Foto.",
+        "Einen Kaufvertrag.",
+        "Ein altes Handtuch."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "kamm-links": [
+    "Auf dem unteren Brett, links neben der Nagelbürste.",
+    "Nein, ich stelle nur noch diese leere Schale hin.",
+    "Gut, ich nehme nur meinen Kamm mit."
+  ],
+  "fach-fuer-dalia": [
+    "Deiner liegt hier beim Handtuch.",
+    "Die kleine Karte mit deinem Namen bleibt im trockenen Fach.",
+    "In den leeren Korb unter dem Regal, bitte."
+  ],
+  "altes-regalfoto": [
+    "Warte, ich schaue nach. Ach, das Foto ist von letzter Woche.",
+    "Die Bürste steht jetzt rechts neben der Schale.",
+    "Ich schicke dir gleich ein neues Foto."
+  ]
+});

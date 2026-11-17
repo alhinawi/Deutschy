@@ -114,3 +114,6 @@ readings.push(...naehboxTexts);
 
 import {schultascheTexts} from './reading-schultasche';
 readings.push(...schultascheTexts);
+
+import {badregalTexts} from './reading-badregal';
+readings.push(...badregalTexts);
