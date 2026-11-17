@@ -2363,3 +2363,24 @@ Object.assign(readingEvidence,{
     "das Glas wird weder geöffnet noch nachgefüllt, und es wird keine reale Messung vorgenommen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zwei-woerter-mit-n": [
+    "Bei beiden kommt ein n dazu.",
+    "Danach legt sie ein Blatt über die Mehrzahl.",
+    "Beim zweiten Wort tauschen sie die Rollen.",
+    "Die Mehrzahlzeile nennt eine Wortform und zählt nicht die Dinge auf dem Foto."
+  ],
+  "alltag-a2-bildtexte-vertauscht": [
+    "weil die Tasse beim letzten Versuch links gelegen hat.",
+    "Danach vertauscht Mira nur die beiden Fotos.",
+    "begründet seine Entscheidung mit den Gegenständen, nicht mit links oder rechts.",
+    "Dafür müssten sie andere passende Aufnahmen verwenden."
+  ],
+  "alltag-b1-quellennotiz-und-lernwort": [
+    "Der Lernbegriff soll das abgebildete Ding benennen.",
+    "bewahren die vollständige Quellennotiz in einem eigenen Quellenverzeichnis auf.",
+    "Nora kontrolliert deshalb beide Verweise noch einmal.",
+    "Sie behaupten damit nicht, dass jede Lizenz dieselben Anforderungen stellt"
+  ]
+});

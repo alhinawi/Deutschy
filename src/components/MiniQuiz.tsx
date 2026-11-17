@@ -1,5 +1,5 @@
 'use client';
-import { useEffect, useMemo, useRef, useState } from 'react';
+import { useEffect, useId, useMemo, useRef, useState } from 'react';
 import { useStore } from '@/lib/store';
 import { useT } from '@/lib/i18n';
 import { speak,stopSpeaking } from '@/lib/speak';
@@ -20,6 +20,7 @@ export default function MiniQuiz(props: Props) {
 }
 function Quiz({ make, game, size = 10 }: Props) {
   const t = useT();
+  const promptId = useId();
   const { lang } = useLang();
   const { award, addScore } = useStore();
   const [run, setRun] = useState(0);
@@ -47,9 +48,9 @@ function Quiz({ make, game, size = 10 }: Props) {
     <div className="space-y-3 rounded-2xl border border-line bg-card p-5">
       <div className="flex items-center justify-between"><span dir="ltr" role="status" aria-live="polite" aria-atomic="true" aria-label={t(`السؤال ${i + 1} من ${items.length}`, `Question ${i + 1} of ${items.length}`)} className="num text-sm font-bold text-muted">{i + 1} / {items.length}</span>
         {q.hear && <button onClick={async () => setAudioError(!(await speak(q.hear!)))} aria-label={t("اسمع بالألماني", "Listen in German")} className="rounded-full border border-line px-3 py-1"><Speaker /></button>}</div>
-      <p dir="ltr" lang="de" className="de text-xl font-semibold">{q.prompt}</p>
+      <p id={promptId} dir="ltr" lang="de" className="de text-xl font-semibold">{q.prompt}</p>
       {q.hint && <p className="ar-title text-sm text-muted">{q.hint}</p>}
-      <div className="grid gap-2">
+      <div role="group" aria-labelledby={promptId} className="grid gap-2">
         {opts.map((o) => {
           const st = pick === null ? '' : o === q.options[0] ? 'border-good border-2 bg-good/10' : pick === o ? 'border-bad bg-bad/10' : '';
           return <button disabled={pick!==null} dir="ltr" lang="de" key={o} onClick={() => answer(o)} className={`de rounded-xl border border-line bg-paper px-3 py-2.5 text-start text-lg ${st}`}>{o}</button>;
