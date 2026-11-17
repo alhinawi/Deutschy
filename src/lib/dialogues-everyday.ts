@@ -11168,3 +11168,218 @@ Object.assign(dialogueEvidence,{
     "Diese Seite ordnen wir nach dem Wortbereich."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "zettel-vor-der-schachtel",
+    "level": "A1",
+    "title": [
+      "Der Name soll sichtbar sein",
+      "الاسم يبقى باين"
+    ],
+    "lines": [
+      [
+        "Emil",
+        "Wohin soll der leere Teekessel?",
+        "البراد الفاضي يتحط فين؟"
+      ],
+      [
+        "Nora",
+        "Links in das freie Fach. Die Schachtel kommt rechts daneben.",
+        "على الشمال في الجزء الفاضي. العلبة تيجي على اليمين جنبه."
+      ],
+      [
+        "Emil",
+        "Ist das Teesieb in der Schachtel?",
+        "مصفاة الشاي في العلبة؟"
+      ],
+      [
+        "Nora",
+        "Ja. Ich lege einen Zettel mit dem Namen hinein.",
+        "أيوه. هحط جواها ورقة عليها الاسم."
+      ],
+      [
+        "Emil",
+        "Dann kann ich den Namen bei geschlossener Schachtel nicht sehen.",
+        "كده مش هقدر أشوف الاسم والعلبة مقفولة."
+      ],
+      [
+        "Nora",
+        "Stimmt. Ich lege den Zettel vor die Schachtel.",
+        "صح. هحط الورقة قدام العلبة."
+      ],
+      [
+        "Emil",
+        "Gut. Die Tassen stehen jetzt oben und fehlen auf diesem Foto.",
+        "تمام. الفناجين دلوقتي فوق ومش في الصورة دي."
+      ]
+    ],
+    "q": [
+      [
+        "Wo steht die Schachtel?",
+        "Rechts neben dem Teekessel.",
+        "Links vor der Tür.",
+        "Auf dem Herd."
+      ],
+      [
+        "Was ist in der Schachtel?",
+        "Das Teesieb.",
+        "Die beiden Tassen.",
+        "Der Teekessel."
+      ],
+      [
+        "Wohin legt Nora den Zettel zuletzt?",
+        "Vor die Schachtel.",
+        "Hinter den Schrank.",
+        "Unter den Kessel."
+      ]
+    ]
+  },
+  {
+    "id": "nicht-nur-nach-dem-standort",
+    "level": "A2",
+    "title": [
+      "Erst die Fotos vergleichen",
+      "نقارن الصور الأول"
+    ],
+    "lines": [
+      [
+        "Ole",
+        "Vielleicht ist der Karton an der Tür deiner.",
+        "يمكن الكرتونة اللي عند الباب بتاعتك."
+      ],
+      [
+        "Jasmin",
+        "Lass uns zuerst die Kessel mit unseren älteren Fotos vergleichen.",
+        "خلينا الأول نقارن البرادين بصورنا الأقدم."
+      ],
+      [
+        "Ole",
+        "Deiner hat diese helle Stelle unter dem Griff.",
+        "بتاعك فيه العلامة الفاتحة دي تحت اليد."
+      ],
+      [
+        "Jasmin",
+        "Ja, sie ist auf meinem Foto zu sehen. Dann gehört der zweite Karton mir.",
+        "أيوه، هي باينة في صورتي. يبقى الكرتونة التانية بتاعتي."
+      ],
+      [
+        "Ole",
+        "Ich klebe meinen Namen auf den anderen Karton.",
+        "هلزق اسمي على الكرتونة التانية."
+      ],
+      [
+        "Jasmin",
+        "Und das Teesieb auf dem Tisch, ist das deins?",
+        "ومصفاة الشاي اللي على الترابيزة دي بتاعتك؟"
+      ],
+      [
+        "Ole",
+        "Ja, danke fürs Nachfragen. Ich lege es zu meinen Sachen.",
+        "أيوه، شكرًا إنك سألتي. هحطها مع حاجتي."
+      ]
+    ],
+    "q": [
+      [
+        "Was wollen sie zuerst vergleichen?",
+        "Die Kessel mit älteren Fotos.",
+        "Die Preise neuer Kessel.",
+        "Die Größe ihrer Wohnungen."
+      ],
+      [
+        "Welcher Karton gehört nach dem Vergleich Jasmin?",
+        "Der zweite Karton.",
+        "Der Karton an der Tür.",
+        "Keiner der beiden."
+      ],
+      [
+        "Was macht Ole mit dem Teesieb?",
+        "Er legt es zu seinen Sachen.",
+        "Er gibt es Jasmin als Geschenk.",
+        "Er lässt es im Flur liegen."
+      ]
+    ]
+  },
+  {
+    "id": "sichtbar-erinnert-noch-offen",
+    "level": "B1",
+    "title": [
+      "Was zeigt die Aufnahme wirklich?",
+      "الصورة بتبين إيه فعلًا؟"
+    ],
+    "lines": [
+      [
+        "Tariq",
+        "Woher weißt du, dass das der letzte Tee im Sommerhaus war?",
+        "عرفتي منين إن ده كان آخر شاي في بيت الصيف؟"
+      ],
+      [
+        "Lene",
+        "Eigentlich weiß ich nur, dass ich das Foto am Ende unseres Besuchs gemacht habe.",
+        "في الحقيقة أنا عارفة بس إني صورت الصورة في نهاية زيارتنا."
+      ],
+      [
+        "Tariq",
+        "Dann sollten wir Erinnerung und sichtbare Einzelheiten trennen.",
+        "يبقى المفروض نفصل الذكرى عن التفاصيل اللي باينة."
+      ],
+      [
+        "Lene",
+        "Den alten Titel behalte ich als persönliche Notiz. Unter das Bild kommt Teekessel auf dem Herd.",
+        "هحتفظ بالعنوان القديم كملحوظة شخصية. تحت الصورة نكتب براد على البوتاجاز."
+      ],
+      [
+        "Tariq",
+        "Und beim Teesieb kennen wir die genaue Sorte der Blätter nicht.",
+        "ومع مصفاة الشاي مش عارفين نوع الورق بالظبط."
+      ],
+      [
+        "Lene",
+        "Also bleibt der Sortenname offen. Nach weiteren Erinnerungen können wir später fragen.",
+        "يبقى اسم النوع يفضل مفتوح. ممكن نسأل على ذكريات تانية بعدين."
+      ],
+      [
+        "Tariq",
+        "Gut. Diese Frage haben wir bisher noch niemandem gestellt.",
+        "تمام. السؤال ده لحد دلوقتي لسه ماسألناهوش لحد."
+      ]
+    ],
+    "q": [
+      [
+        "Warum wird der alte Titel nicht als neutrale Bildunterschrift verwendet?",
+        "Er enthält eine nicht gesicherte Erinnerung.",
+        "Der Kessel ist auf dem Bild unsichtbar.",
+        "Alle persönlichen Notizen sind verboten."
+      ],
+      [
+        "Was bleibt beim Teesieb offen?",
+        "Der genaue Sortenname der Blätter.",
+        "Ob ein Sieb auf dem Bild ist.",
+        "Ob die Notiz schon gelöscht wurde."
+      ],
+      [
+        "Wurde schon nach weiteren Erinnerungen gefragt?",
+        "Nein, das ist nur für später vorgeschlagen.",
+        "Ja, alle Antworten sind bestätigt.",
+        "Ja, aber niemand durfte antworten."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "zettel-vor-der-schachtel": [
+    "Die Schachtel kommt rechts daneben.",
+    "Ist das Teesieb in der Schachtel?",
+    "Ich lege den Zettel vor die Schachtel."
+  ],
+  "nicht-nur-nach-dem-standort": [
+    "die Kessel mit unseren älteren Fotos vergleichen",
+    "Dann gehört der zweite Karton mir.",
+    "Ich lege es zu meinen Sachen."
+  ],
+  "sichtbar-erinnert-noch-offen": [
+    "Erinnerung und sichtbare Einzelheiten trennen.",
+    "die genaue Sorte der Blätter nicht.",
+    "Diese Frage haben wir bisher noch niemandem gestellt."
+  ]
+});

@@ -375,3 +375,6 @@ for(const[topic,rows]of Object.entries(tischmitteGrammar))exercises[topic].push(
 
 import {naehablageGrammar} from './exercises-naehablage';
 for(const[topic,rows]of Object.entries(naehablageGrammar))exercises[topic].push(...rows);
+
+import {teeschrankGrammar} from './exercises-teeschrank';
+for(const[topic,rows]of Object.entries(teeschrankGrammar))exercises[topic].push(...rows);

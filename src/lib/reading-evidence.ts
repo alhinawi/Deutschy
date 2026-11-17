@@ -1103,3 +1103,24 @@ Object.assign(readingEvidence,{
     "So kann eine andere Person ihre Entscheidung nachvollziehen"
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-teeschrank": [
+    "Die Tassen kommen auf das obere Brett.",
+    "Nora sagt ja und zeigt auf die linke Seite. Emil stellt ihn dorthin.",
+    "Emil möchte den Zettel außen sehen.",
+    "Die Tassen sind nicht auf dem Bild"
+  ],
+  "alltag-a2-zwei-aehnliche-kessel": [
+    "Jasmin möchte die Zuordnung lieber prüfen",
+    "Jasmins Kessel hat eine kleine helle Stelle unter dem Griff.",
+    "Das Teesieb, das noch auf dem Tisch liegt, gehört Ole.",
+    "Erst nach diesem Vergleich nimmt Jasmin ihren Karton mit."
+  ],
+  "alltag-b1-bildtitel-mit-fragezeichen": [
+    "dass das Foto am Ende eines Besuchs entstanden ist.",
+    "Sie verschiebt den bisherigen Titel in eine getrennte Notiz",
+    "Damit wird weder behauptet, dass der Herd eingeschaltet war",
+    "Diese Nachfrage hat noch nicht stattgefunden."
+  ]
+});

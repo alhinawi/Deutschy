@@ -213,3 +213,6 @@ readings.push(...tischmitteTexts);
 
 import {naehablageTexts} from './reading-naehablage';
 readings.push(...naehablageTexts);
+
+import {teeschrankTexts} from './reading-teeschrank';
+readings.push(...teeschrankTexts);

@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the seventieth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the seventy-first practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -658,6 +658,18 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Spelling | Added visible keyboard focus ring. Existing grading, field name, required/invalid/help semantics, trim/case, XP and duplicate lock unchanged. |
 | [ ] | Listening/dictation | Check 62 segments and Egyptian Arabic. Native editorial and actual German device-voice review pending. No sewing, needle-handling or appliance instructions. |
 
+### List 71: tea strainer, kettle and careful photo captions
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-teeschrank/` and linked dialogue | Empty kettle goes left in lower compartment, strainer in box right. Two cups move to upper shelf and are absent from lower-compartment photo. Label moved outside so readable when closed. No stove turned on. |
+| [ ] | `/reading/alltag-a2-zwei-aehnliche-kessel/` and linked dialogue | Personal older photos settle ownership of these two kettles, not a general bright-mark rule. Jasmin checks first, takes second box afterward. Ole owns strainer. No gift or brewing implied. |
+| [ ] | `/reading/alltag-b1-bildtitel-mit-fragezeichen/` and linked dialogue | End-of-visit memory does not prove last tea. Old title retained as personal impression, neutral caption names visible objects only. Kettle contents, stove state and tea variety not inferred. Later questions proposed, not asked. |
+| [ ] | `/lessons/teeschrank/` and `/credits/` | das Teesieb/Teesiebe, der Teekessel/same-form plural (-); Egyptian Arabic مصفاة شاي and براد. Whole basket-style strainer with lid/chain, whole kettle on rustic stove. Stove badge excluded. No people, brands or padding. Photo contents are not the fictional empty-kettle scene. |
+| [ ] | Six appended grammar banks | 24 article/dative/present/possessive/two-way-preposition/negation rows. Preserve old saved identities; check case and ownership explanations. |
+| [ ] | Spelling | Visible meaning prompt becomes associated label: tapping it focuses stable answer input. Existing help, required/invalid state, field name, focus ring, grading, points and double-submit lock unchanged. |
+| [ ] | Listening/dictation | Check 60 segments and Egyptian Arabic. Native editorial and actual German device-voice checks pending. No brewing, heating, stove-use, food-safety or storage instructions. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -672,7 +684,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **797 photo nouns / 115 topics**, **228 reading texts / 865 reading questions**, **41 core grammar topics / 1630 core grammar questions**, **168 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **799 photo nouns / 116 topics**, **231 reading texts / 877 reading questions**, **41 core grammar topics / 1654 core grammar questions**, **171 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -684,7 +696,7 @@ This is an inventory, not completed review. Snapshot: **797 photo nouns / 115 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 58 · A2 86 · B1 54 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 59 · A2 87 · B1 55 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

@@ -459,6 +459,10 @@
   {
    "id": "naehablage",
    "ar": "زرار ومخدة دبابيس"
+  },
+  {
+   "id": "teeschrank",
+   "ar": "مصفاة شاي وبراد"
   }
  ],
  "words": [
@@ -12510,6 +12514,36 @@
     "file": "6850456.jpg",
     "commons": "https://www.pexels.com/photo/needles-placed-near-cloth-and-skein-of-thread-6850456/",
     "author": "Teona Swift",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "teesieb",
+   "topic": "teeschrank",
+   "art": "das",
+   "de": "Teesieb",
+   "plural": "Teesiebe",
+   "ar": "مصفاة شاي",
+   "photo": {
+    "file": "4780859.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-photograph-of-a-tea-infuser-4780859/",
+    "author": "Lucas Oliveira",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "teekessel",
+   "topic": "teeschrank",
+   "art": "der",
+   "de": "Teekessel",
+   "plural": "-",
+   "ar": "براد",
+   "photo": {
+    "file": "2298732.jpg",
+    "commons": "https://www.pexels.com/photo/a-vintage-kettle-on-a-rustic-wood-stove-2298732/",
+    "author": "Gül Işık",
     "license": "Pexels License",
     "modified": true
    }

@@ -156,4 +156,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-naehablage',dialogue:'namen-unter-den-fotos'},
  {reading:'alltag-a2-ein-wort-zwei-bilder',dialogue:'kleidung-oder-bedienung'},
  {reading:'alltag-b1-bildgruppe-und-wortbedeutung',dialogue:'nicht-jede-gruppe-ist-eine-form'},
+ {reading:'alltag-a1-teeschrank',dialogue:'zettel-vor-der-schachtel'},
+ {reading:'alltag-a2-zwei-aehnliche-kessel',dialogue:'nicht-nur-nach-dem-standort'},
+ {reading:'alltag-b1-bildtitel-mit-fragezeichen',dialogue:'sichtbar-erinnert-noch-offen'},
 ];
