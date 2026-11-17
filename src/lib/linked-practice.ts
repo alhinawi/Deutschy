@@ -324,4 +324,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-das-gemeinsame-wortende',dialogue:'zweimal-kern-am-ende'},
  {reading:'alltag-a2-welchen-kern-meinst-du',dialogue:'bezug-statt-lautstaerke'},
  {reading:'alltag-b1-unklarheit-ist-kein-sprachfehler',dialogue:'erst-die-aufgabe-pruefen'},
+ {reading:'alltag-a1-zwei-verschiedene-mehrzahlformen',dialogue:'zimtstangen-muskatnuesse'},
+ {reading:'alltag-a2-das-foto-hat-keinen-geruch',dialogue:'sichtbar-oder-nicht-pruefbar'},
+ {reading:'alltag-b1-hinweis-oder-freier-abruf',dialogue:'hilfe-im-protokoll'},
 ];

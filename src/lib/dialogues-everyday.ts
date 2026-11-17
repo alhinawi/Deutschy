@@ -23208,3 +23208,218 @@ Object.assign(dialogueEvidence,{
     "Die Aufgabe ohne Bilder planen wir erst noch."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "zimtstangen-muskatnuesse",
+    "level": "A1",
+    "title": [
+      "Das ü nicht vergessen",
+      "ماننساش اليو أوملاوت"
+    ],
+    "lines": [
+      [
+        "Eva",
+        "Beide Wörter haben die. Bekommen beide einfach ein n?",
+        "الكلمتين أداتهم دي. نزود إن للاتنين وخلاص؟"
+      ],
+      [
+        "Felix",
+        "Nein. Zimtstange wird zu Zimtstangen.",
+        "لأ. تسيمت شتانجه بتبقى تسيمت شتانجن."
+      ],
+      [
+        "Eva",
+        "Und Muskatnuss?",
+        "وموسكات نوس؟"
+      ],
+      [
+        "Felix",
+        "Muskatnüsse: mit ü und einem e am Ende.",
+        "موسكات نوسه: بيو أوملاوت وإي في الآخر."
+      ],
+      [
+        "Eva",
+        "Dann schreibe ich jede Mehrzahlform in ein eigenes Feld.",
+        "يبقى أكتب كل جمع في مربع لوحده."
+      ],
+      [
+        "Felix",
+        "Danach decke ich die Vorlagen ab.",
+        "بعد كده أغطي النماذج."
+      ],
+      [
+        "Eva",
+        "Und ich vergleiche meine Wörter erst am Schluss mit den Karten.",
+        "وأقارن كلماتي بالكروت في الآخر بس."
+      ]
+    ],
+    "q": [
+      [
+        "Wie lautet die Mehrzahl von Zimtstange?",
+        "Zimtstangen.",
+        "Zimtstange.",
+        "Zimtstänges."
+      ],
+      [
+        "Was braucht Muskatnüsse?",
+        "ü und e.",
+        "Nur n.",
+        "Nur s."
+      ],
+      [
+        "Wann vergleicht Eva ihre Wörter?",
+        "Erst am Schluss.",
+        "Vor jeder Erklärung.",
+        "Erst nach einem Einkauf."
+      ]
+    ]
+  },
+  {
+    "id": "sichtbar-oder-nicht-pruefbar",
+    "level": "A2",
+    "title": [
+      "Nicht am Bild prüfbar",
+      "مش نقدر نراجعه من الصورة"
+    ],
+    "lines": [
+      [
+        "Mats",
+        "Auf dem Foto ist der Duft besonders stark.",
+        "في الصورة الريحة قوية جدًا."
+      ],
+      [
+        "Lina",
+        "Wie willst du die Stärke eines Geruchs am Bild prüfen?",
+        "هتراجع قوة الريحة إزاي من الصورة؟"
+      ],
+      [
+        "Mats",
+        "Das kann ich nicht. Ich denke an einen bekannten Duft.",
+        "مش هقدر. أنا بفكر في ريحة عارفها."
+      ],
+      [
+        "Lina",
+        "Die gerollten Formen und die Farbe können wir dagegen sehen.",
+        "لكن الأشكال الملفوفة واللون نقدر نشوفهم."
+      ],
+      [
+        "Mats",
+        "Dann bleiben diese sichtbaren Merkmale in der Beschreibung.",
+        "يبقى الصفات الظاهرة دي تفضل في الوصف."
+      ],
+      [
+        "Lina",
+        "Genau. Wir untersuchen keine echten Gewürze.",
+        "بالظبط. إحنا مش بنفحص توابل حقيقية."
+      ],
+      [
+        "Mats",
+        "Die Wörter ohne Fotos wiederholen wir erst später.",
+        "نراجع الكلمات من غير صور بعدين بس."
+      ]
+    ],
+    "q": [
+      [
+        "Woran denkt Mats?",
+        "An einen bekannten Duft.",
+        "An einen sichtbaren Preis.",
+        "An eine gesprochene Adresse."
+      ],
+      [
+        "Was können beide sehen?",
+        "Die gerollten Formen und die Farbe.",
+        "Die Stärke eines Geruchs.",
+        "Den Geschmack."
+      ],
+      [
+        "Was untersuchen sie nicht?",
+        "Echte Gewürze.",
+        "Die sichtbaren Fotos.",
+        "Die geschriebenen Sätze."
+      ]
+    ]
+  },
+  {
+    "id": "hilfe-im-protokoll",
+    "level": "B1",
+    "title": [
+      "Die Hilfe gehört dazu",
+      "المساعدة تتسجل معاها"
+    ],
+    "lines": [
+      [
+        "Karim",
+        "Beim zweiten Versuch steht Muskatnüsse richtig da. Ist die Form jetzt sicher gelernt?",
+        "في المحاولة التانية موسكات نوسه مكتوبة صح. كده الصيغة اتعلمت أكيد؟"
+      ],
+      [
+        "Dana",
+        "Wir haben diesmal zusätzlich ü und e gezeigt.",
+        "المرة دي ورينا يو أوملاوت وإي كمان."
+      ],
+      [
+        "Karim",
+        "Dann war das keine Antwort ohne Hilfe.",
+        "يبقى دي مش إجابة من غير مساعدة."
+      ],
+      [
+        "Dana",
+        "Genau. Diese Unterstützung muss im Protokoll stehen.",
+        "بالظبط. المساعدة دي لازم تتكتب في المحضر."
+      ],
+      [
+        "Karim",
+        "Bei Zimtstange notiere ich auch, ob der letzte Buchstabe sichtbar war.",
+        "مع تسيمت شتانجه هسجل كمان إذا آخر حرف كان ظاهر."
+      ],
+      [
+        "Dana",
+        "Die spätere Wiederholung ohne Hinweise steht noch aus.",
+        "المراجعة بعدين من غير تلميحات لسه ماحصلتش."
+      ],
+      [
+        "Karim",
+        "Und ein einzelner Versuch beweist nicht jedes langfristige Behalten.",
+        "ومحاولة واحدة مش بتثبت كل حفظ طويل المدى."
+      ]
+    ],
+    "q": [
+      [
+        "Was wurde zusätzlich gezeigt?",
+        "ü und e.",
+        "Nur ein Foto.",
+        "Eine Adresse."
+      ],
+      [
+        "Was muss im Protokoll stehen?",
+        "Die sichtbare Unterstützung.",
+        "Ein erfundener späterer Erfolg.",
+        "Eine offizielle Zertifizierung."
+      ],
+      [
+        "Was steht noch aus?",
+        "Die spätere Wiederholung ohne Hinweise.",
+        "Die Antwort mit Hilfskarte.",
+        "Das Zeigen von ü und e."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "zimtstangen-muskatnuesse": [
+    "Zimtstange wird zu Zimtstangen.",
+    "mit ü und einem e am Ende.",
+    "erst am Schluss mit den Karten."
+  ],
+  "sichtbar-oder-nicht-pruefbar": [
+    "Ich denke an einen bekannten Duft.",
+    "Die gerollten Formen und die Farbe",
+    "Wir untersuchen keine echten Gewürze."
+  ],
+  "hilfe-im-protokoll": [
+    "zusätzlich ü und e gezeigt.",
+    "Diese Unterstützung muss im Protokoll stehen.",
+    "Die spätere Wiederholung ohne Hinweise steht noch aus."
+  ]
+});

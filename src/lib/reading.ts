@@ -381,3 +381,6 @@ readings.push(...zweigfruechteTexts);
 
 import {kernkartenTexts} from './reading-kernkarten';
 readings.push(...kernkartenTexts);
+
+import {gewuerzbilderTexts} from './reading-gewuerzbilder';
+readings.push(...gewuerzbilderTexts);

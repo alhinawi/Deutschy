@@ -683,6 +683,10 @@
   {
    "id": "kernkarten",
    "ar": "كروت الكاجو والصنوبر"
+  },
+  {
+   "id": "gewuerzbilder",
+   "ar": "صور القرفة وجوزة الطيب"
   }
  ],
  "words": [
@@ -14414,6 +14418,36 @@
     "file": "36285399.jpg",
     "commons": "https://www.pexels.com/photo/assorted-nuts-in-wooden-bowls-on-dark-background-36285399/",
     "author": "Victoria Bowers",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "zimtstange",
+   "topic": "gewuerzbilder",
+   "art": "die",
+   "de": "Zimtstange",
+   "plural": "Zimtstangen",
+   "ar": "عود قرفة",
+   "photo": {
+    "file": "4095076.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-of-cinnamon-4095076/",
+    "author": "Zezen Zaenal Mutaqin",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "muskatnuss",
+   "topic": "gewuerzbilder",
+   "art": "die",
+   "de": "Muskatnuss",
+   "plural": "Muskatnüsse",
+   "ar": "جوزة الطيب",
+   "photo": {
+    "file": "35339664.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-of-whole-nutmeg-seeds-35339664/",
+    "author": "Art",
     "license": "Pexels License",
     "modified": true
    }

@@ -543,3 +543,6 @@ for(const[topic,rows]of Object.entries(zweigfruechteGrammar))exercises[topic].pu
 
 import {kernkartenGrammar} from './exercises-kernkarten';
 for(const[topic,rows]of Object.entries(kernkartenGrammar))exercises[topic].push(...rows);
+
+import {gewuerzbilderGrammar} from './exercises-gewuerzbilder';
+for(const[topic,rows]of Object.entries(gewuerzbilderGrammar))exercises[topic].push(...rows);
