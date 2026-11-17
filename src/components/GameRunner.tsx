@@ -207,7 +207,7 @@ function Frame({ i, n, children }: { i: number; n: number; children: React.React
 
 function Choice({ label, state, onClick,disabled,ariaLabel }: { ariaLabel?:string; disabled?:boolean; label: string; state: '' | 'good' | 'bad'; onClick: () => void }) {
   const c = state === 'good' ? 'border-good bg-good/15' : state === 'bad' ? 'border-bad bg-bad/15' : 'border-line bg-card hover:border-accent';
-  return <button aria-label={ariaLabel} disabled={disabled} onClick={onClick} dir="ltr" className={`de min-w-0 [overflow-wrap:anywhere] rounded-xl border px-3 py-3 text-lg font-semibold ${c}`} lang="de">{label}</button>;
+  return <button aria-label={ariaLabel} disabled={disabled} onClick={onClick} dir="ltr" className={`de min-w-0 [overflow-wrap:anywhere] rounded-xl border px-3 py-3 text-lg font-semibold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper ${c}`} lang="de">{label}</button>;
 }
 
 function Memory({ list, again }: { list: Word[]; again: () => void }) {

@@ -465,3 +465,6 @@ for(const[topic,rows]of Object.entries(instrumentenblickGrammar))exercises[topic
 
 import {spielablageGrammar} from './exercises-spielablage';
 for(const[topic,rows]of Object.entries(spielablageGrammar))exercises[topic].push(...rows);
+
+import {freizeitfarbenGrammar} from './exercises-freizeitfarben';
+for(const[topic,rows]of Object.entries(freizeitfarbenGrammar))exercises[topic].push(...rows);

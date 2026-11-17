@@ -246,4 +246,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-das-seil-im-korb',dialogue:'nicht-unter-dem-tisch'},
  {reading:'alltag-a2-erst-fragen-dann-umraeumen',dialogue:'brauchst-du-das-brett-noch'},
  {reading:'alltag-b1-standbild-ohne-ablauf',dialogue:'beschreibung-oder-erzaehlung'},
+ {reading:'alltag-a1-zwei-woerter-mit-die',dialogue:'die-matte-auf-diesem-foto'},
+ {reading:'alltag-a2-was-meinst-du-mit-gut',dialogue:'kannst-du-ein-beispiel-nennen'},
+ {reading:'alltag-b1-vergleich-ohne-massstab',dialogue:'bildgroesse-oder-echte-masse'},
 ];

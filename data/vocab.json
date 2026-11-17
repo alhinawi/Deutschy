@@ -579,6 +579,10 @@
   {
    "id": "spielablage",
    "ar": "رقعة الشطرنج وحبل النط"
+  },
+  {
+   "id": "freizeitfarben",
+   "ar": "مفرش اليوجا وكورة البلياردو"
   }
  ],
  "words": [
@@ -13530,6 +13534,36 @@
     "file": "8032841.jpg",
     "commons": "https://www.pexels.com/photo/close-up-shot-of-a-jumping-rope-8032841/",
     "author": "MART PRODUCTION",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "yogamatte",
+   "topic": "freizeitfarben",
+   "art": "die",
+   "de": "Yogamatte",
+   "plural": "Yogamatten",
+   "ar": "مفرش يوجا",
+   "photo": {
+    "file": "4498606.jpg",
+    "commons": "https://www.pexels.com/photo/crop-sportswoman-unfolding-sport-mat-on-wooden-floor-4498606/",
+    "author": "kaboompics",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "billardkugel",
+   "topic": "freizeitfarben",
+   "art": "die",
+   "de": "Billardkugel",
+   "plural": "Billardkugeln",
+   "ar": "كورة بلياردو",
+   "photo": {
+    "file": "30483014.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-of-red-number-3-pool-ball-on-green-table-30483014/",
+    "author": "dp singh Bhullar",
     "license": "Pexels License",
     "modified": true
    }
