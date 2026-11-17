@@ -75,4 +75,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-balkonstuhl',dialogue:'kanne-hinter-tisch'},
  {reading:'alltag-a2-blumenkasten',dialogue:'kasten-noch-am-boden'},
  {reading:'alltag-a2-untersetzer',dialogue:'schale-zum-topf'},
+ {reading:'alltag-a1-flurspiegel',dialogue:'schal-am-buegel'},
+ {reading:'alltag-a2-zwei-handschuhe',dialogue:'kein-sicheres-paar'},
+ {reading:'alltag-a2-flurbreite',dialogue:'staender-zurueckstellen'},
 ];

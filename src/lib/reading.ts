@@ -132,3 +132,6 @@ readings.push(...hauseingangTexts);
 
 import {balkonrundeTexts} from './reading-balkonrunde';
 readings.push(...balkonrundeTexts);
+
+import {garderobenrundeTexts} from './reading-garderobenrunde';
+readings.push(...garderobenrundeTexts);

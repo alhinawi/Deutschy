@@ -1,6 +1,6 @@
 'use client';
 import PerfektContext from './PerfektContext';
-import { useMemo, useState } from 'react';
+import { useMemo, useRef, useState } from 'react';
 import { verbs, type Verb } from '@/lib/verbs';
 import { useLang, useT } from '@/lib/i18n';
 import { speak } from '@/lib/speak';
@@ -24,7 +24,9 @@ export default function PerfView() {
   const { lang } = useLang();
   const [tab, setTab] = useState<'context' | 'rules' | 'table' | 'pp' | 'pret' | 'aux'>('context');
   const [q, setQ] = useState('');
-  const rows = useMemo(() => pool.filter((v) => !q || v.inf.includes(q.toLowerCase()) || v.en.toLowerCase().includes(q.toLowerCase())).sort((a, b) => a.inf.localeCompare(b.inf, 'de')), [q]);
+  const searchInput=useRef<HTMLInputElement>(null);
+  const query=q.trim().toLocaleLowerCase('de');
+  const rows = useMemo(() => pool.filter((v) => !query || v.inf.toLocaleLowerCase('de').includes(query) || v.en.toLocaleLowerCase('de').includes(query)).sort((a, b) => a.inf.localeCompare(b.inf, 'de')), [query]);
   const pill = (on: boolean) => `rounded-full border px-4 py-2 ${on ? 'border-accent bg-accent text-accent-ink' : 'border-line bg-paper'}`;
   const tabs = [['context', t('السياق والاستثناءات','Context and exceptions')], ['rules', t('القواعد', 'Rules')], ['table', t('جدول الأفعال', 'Verb table')], ['pp', 'Partizip II'], ['pret', 'Präteritum'], ['aux', 'haben / sein']] as const;
   const rules: [string, string, string, string[]][] = [
@@ -51,7 +53,9 @@ export default function PerfView() {
       )}
       {tab === 'table' && (
         <div className="space-y-3">
-          <input value={q} onChange={(e) => setQ(e.target.value)} dir="ltr" placeholder={t('ابحث عن فعل', 'Search a verb')} aria-label={t('ابحث عن فعل', 'Search a verb')} className="w-full rounded-xl border border-line bg-paper px-4 py-2" />
+          <input ref={searchInput} type="search" value={q} onChange={(e) => setQ(e.target.value)} dir="ltr" placeholder={t('ابحث عن فعل', 'Search a verb')} aria-label={t('ابحث عن فعل', 'Search a verb')} className="w-full rounded-xl border border-line bg-paper px-4 py-2" />
+          <div className="flex flex-wrap items-center gap-3"><p role="status" aria-atomic="true" className="text-sm text-muted">{t('أفعال ظاهرة: ','Matching verbs: ')}<bdi dir="ltr" className="num">{rows.length} / {pool.length}</bdi></p><button disabled={!q} onClick={()=>{setQ('');searchInput.current?.focus()}} className="min-h-11 rounded-full border border-line px-4 py-2 disabled:opacity-50">{t('امسح البحث','Clear search')}</button></div>
+          {!rows.length&&<p>{t('مفيش فعل مطابق. جرّب جزء من الفعل الألماني أو معناه بالإنجليزي، أو امسح البحث.','No matching verb. Try part of the German verb or its English meaning, or clear the search.')}</p>}
           <div dir="ltr" tabIndex={0} role="region" aria-label={t('جدول الأفعال', 'Verb table')} className="overflow-x-auto rounded-2xl border border-line bg-card">
             <table className="w-full min-w-[420px] text-start">
               <thead><tr className="border-b border-line text-sm text-muted"><th className="p-2 text-start">Infinitiv</th><th className="p-2 text-start">Präteritum</th><th className="p-2 text-start">Perfekt</th><th className="p-2 text-start">{lang === 'ar' ? 'المعنى' : 'Meaning'}</th></tr></thead>

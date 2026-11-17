@@ -351,6 +351,10 @@
   {
    "id": "balkonrunde",
    "ar": "البلكونة والزرع الصغير"
+  },
+  {
+   "id": "garderobenrunde",
+   "ar": "الطرقة ودولاب الهدوم"
   }
  ],
  "words": [
@@ -11571,6 +11575,36 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Partenheim_-_Blumenkasten_am_W%C3%B6rrst%C3%A4dter_Weg.jpg",
     "author": "ManuelB701",
     "license": "CC0",
+    "padding": true
+   }
+  },
+  {
+   "id": "schuhschrank",
+   "topic": "garderobenrunde",
+   "art": "der",
+   "de": "Schuhschrank",
+   "plural": "Schuhschränke",
+   "ar": "جزامة",
+   "photo": {
+    "file": "Schuhschrank.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Schuhschrank.jpg",
+    "author": "uliatcairo",
+    "license": "CC BY 2.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "hut",
+   "topic": "garderobenrunde",
+   "art": "der",
+   "de": "Hut",
+   "plural": "Hüte",
+   "ar": "قبعة",
+   "photo": {
+    "file": "pexels-photo-346732.jpeg",
+    "commons": "https://www.pexels.com/photo/beige-and-black-straw-hat-on-wooden-surface-346732/",
+    "author": "Porapak Apichodilok",
+    "license": "Pexels License",
     "padding": true
    }
   }

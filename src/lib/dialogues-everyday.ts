@@ -5363,3 +5363,218 @@ Object.assign(dialogueEvidence,{
     "bevor ich etwas anderes umstelle, frage ich nach."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "schal-am-buegel",
+    "level": "A1",
+    "title": [
+      "Neben der Jacke",
+      "جنب الجاكيت"
+    ],
+    "lines": [
+      [
+        "Sami",
+        "Ich finde meinen grauen Schal nicht.",
+        "مش لاقي الكوفية الرمادي بتاعتي."
+      ],
+      [
+        "Mila",
+        "Er hängt am Kleiderbügel neben deiner Jacke.",
+        "متعلقة على الشماعة جنب جاكيتك."
+      ],
+      [
+        "Sami",
+        "Ah, danke. Und wo sind meine Handschuhe?",
+        "آه، شكراً. والجوانتيات بتاعتي فين؟"
+      ],
+      [
+        "Mila",
+        "Auf der oberen Ablage. Ich gebe sie dir.",
+        "على الرف اللي فوق. هديهالك."
+      ],
+      [
+        "Sami",
+        "Gehört der braune Hut am Kleiderständer dir?",
+        "القبعة البني على الشماعة الواقفة دي بتاعتك؟"
+      ],
+      [
+        "Mila",
+        "Ja. Ich setze ihn kurz vor dem Wandspiegel auf.",
+        "آه. هلبسها قدام مراية الحيطة بسرعة."
+      ],
+      [
+        "Sami",
+        "Gut, dann können wir gleich losgehen.",
+        "تمام، يبقى نقدر نمشي حالاً."
+      ]
+    ],
+    "q": [
+      [
+        "Wo hängt Samis Schal?",
+        "Neben seiner Jacke.",
+        "Im Bad.",
+        "Unter dem Schuhschrank."
+      ],
+      [
+        "Wo liegen die Handschuhe?",
+        "Auf der oberen Ablage.",
+        "In Milas Tasche.",
+        "Auf dem Boden."
+      ],
+      [
+        "Was möchte Mila vor dem Spiegel tun?",
+        "Den Hut aufsetzen.",
+        "Den Schrank kaufen.",
+        "Die Schuhe putzen."
+      ]
+    ]
+  },
+  {
+    "id": "kein-sicheres-paar",
+    "level": "A2",
+    "title": [
+      "Erst genauer hinsehen",
+      "الأول نبص كويس"
+    ],
+    "lines": [
+      [
+        "Ben",
+        "Die beiden schwarzen Handschuhe lege ich als Paar zusammen.",
+        "هحط فرد الجوانتي السود مع بعض كزوج."
+      ],
+      [
+        "Nora",
+        "Warte bitte. Einer ist viel kleiner als der andere.",
+        "استنى لو سمحت. واحدة أصغر بكتير من التانية."
+      ],
+      [
+        "Ben",
+        "Stimmt, die ähnliche Farbe reicht nicht.",
+        "صح، تشابه اللون مش كفاية."
+      ],
+      [
+        "Nora",
+        "Meinen zweiten blauen habe ich in der Jackentasche gefunden.",
+        "لقيت الفردة الكحلي التانية بتاعتي في جيب الجاكيت."
+      ],
+      [
+        "Ben",
+        "Und was machen wir mit den schwarzen?",
+        "ونعمل إيه بالسود؟"
+      ],
+      [
+        "Nora",
+        "Wir lassen sie einzeln liegen und fragen später nach.",
+        "نسيبهم منفصلين ونسأل بعدين."
+      ],
+      [
+        "Ben",
+        "Dann schreiben wir keinen Namen dazu und werfen nichts weg.",
+        "يبقى مانكتبش اسم جنبهم ومانرميش حاجة."
+      ]
+    ],
+    "q": [
+      [
+        "Was fällt Nora an den schwarzen Handschuhen auf?",
+        "Sie sind unterschiedlich groß.",
+        "Sie sind beide rot.",
+        "Sie fehlen beide."
+      ],
+      [
+        "Wo war Noras zweiter blauer Handschuh?",
+        "In der Jackentasche.",
+        "Im Schuh.",
+        "Auf dem Balkon."
+      ],
+      [
+        "Was passiert mit den schwarzen Handschuhen?",
+        "Sie bleiben einzeln liegen.",
+        "Sie werden weggeworfen.",
+        "Sie werden Ben zugeordnet."
+      ]
+    ]
+  },
+  {
+    "id": "staender-zurueckstellen",
+    "level": "A2",
+    "title": [
+      "Noch keine feste Änderung",
+      "لسه مفيش تغيير نهائي"
+    ],
+    "lines": [
+      [
+        "Leon",
+        "Sollen wir den Kleiderständer an die andere Wand stellen?",
+        "ننقل الشماعة الواقفة للحيطة التانية؟"
+      ],
+      [
+        "Yara",
+        "Dort hängt der Wandspiegel. Lass uns erst den freien Bereich ausmessen.",
+        "هناك مراية الحيطة. خلينا الأول نقيس المساحة الفاضية."
+      ],
+      [
+        "Leon",
+        "Ich hänge die Jacken vorübergehend in den Kleiderschrank.",
+        "هعلق الجواكيت مؤقتاً في دولاب الهدوم."
+      ],
+      [
+        "Yara",
+        "Gut. Ich prüfe, ob sich die Tür des Schuhschranks öffnen lässt.",
+        "تمام. هشوف إذا باب الجزامة بيتفتح."
+      ],
+      [
+        "Leon",
+        "Nehmen wir den Spiegel dafür ab?",
+        "نفك المراية عشان كده؟"
+      ],
+      [
+        "Yara",
+        "Nein. Wir ändern heute nichts dauerhaft und bohren nicht.",
+        "لأ. النهارده مش هنغير حاجة بشكل دائم ومش هنخرم."
+      ],
+      [
+        "Leon",
+        "Dann kommt der Ständer danach wieder an seinen bisherigen Platz.",
+        "يبقى الشماعة ترجع بعد كده لمكانها القديم."
+      ]
+    ],
+    "q": [
+      [
+        "Was wollen sie zuerst tun?",
+        "Den freien Bereich ausmessen.",
+        "Einen neuen Spiegel kaufen.",
+        "Löcher bohren."
+      ],
+      [
+        "Wohin kommen die Jacken vorübergehend?",
+        "In den Kleiderschrank.",
+        "Ins Treppenhaus.",
+        "Auf die Schuhe."
+      ],
+      [
+        "Was wird heute nicht gemacht?",
+        "Eine dauerhafte Änderung.",
+        "Die Schranktür geprüft.",
+        "Der freie Bereich gemessen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "schal-am-buegel": [
+    "am Kleiderbügel neben deiner Jacke.",
+    "Auf der oberen Ablage.",
+    "Ich setze ihn kurz vor dem Wandspiegel auf."
+  ],
+  "kein-sicheres-paar": [
+    "Einer ist viel kleiner als der andere.",
+    "in der Jackentasche gefunden.",
+    "Wir lassen sie einzeln liegen"
+  ],
+  "staender-zurueckstellen": [
+    "erst den freien Bereich ausmessen.",
+    "vorübergehend in den Kleiderschrank.",
+    "Wir ändern heute nichts dauerhaft"
+  ]
+});

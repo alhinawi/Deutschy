@@ -536,3 +536,24 @@ Object.assign(readingEvidence,{
     "An den Pflanzen verändern sie nichts und vereinbaren keinen festen Gießplan."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-flurspiegel": [
+    "Darunter steht der Schuhschrank.",
+    "Der Schal hängt an einem Kleiderbügel neben der Jacke.",
+    "Mila gibt sie ihm.",
+    "Er gehört Mila."
+  ],
+  "alltag-a2-zwei-handschuhe": [
+    "Der eine schwarze Handschuh ist deutlich kleiner als der andere.",
+    "Nora findet in einer Jackentasche einen zweiten dunkelblauen Handschuh.",
+    "Zwei einzelne schwarze Handschuhe, Eigentümer noch offen.",
+    "Sie schreibt keinen Namen darauf und wirft nichts weg."
+  ],
+  "alltag-a2-flurbreite": [
+    "Wenn dessen Tür offen ist, kommt Yara schlecht an ihre Schuhe.",
+    "Dort hängt aber ein großer Wandspiegel.",
+    "Yara notiert nur ihre eigenen Maße, keine allgemeine Mindestbreite für Flure.",
+    "Nach dem Ausprobieren stellen sie den Ständer wieder an seinen bisherigen Platz und schließen alle Türen."
+  ]
+});

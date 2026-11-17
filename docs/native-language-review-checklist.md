@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the thirty-seventh practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the forty-fourth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -339,6 +339,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/grammar/akkusativ/`, `/grammar/possessiv/`, `/grammar/modalverben/`, `/grammar/imperativ/`, `/grammar/komparativ/`, `/grammar/dativ-praepositionen/` | Review 24 appended questions/explanations: den Klappstuhl, unseren Balkon, modal infinitives, du/ihr/Sie, breiter/schwerer/näher, mit dem Nachbarn, nach dem Aufräumen, seit zwei Tagen. Earlier saved identities retained. |
 | [ ] | `/zahlen/#typed-zahlen` and `/dictation/` | Check temporary clear-current-answer keeps example position, clears result and focuses input; next wraps/focuses, type switch resets index. Counter not score. No progress writes. Check all 16 digit items and long German number/month/day rows at 320px AR/EN. Listen to 41 focused dictation sentences on a real German voice, not mocks. |
 
+### Forty-fourth update: hallway and wardrobe (pending)
+
+| Review | Route / item | Focus |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-flurspiegel/` | Review **Der Schal hängt am Bügel** and **Neben der Jacke**: shoe cabinet below wall mirror, scarf on hanger, gloves on upper shelf, brown hat belongs to Mila. Check 7 questions/exact evidence and Egyptian meanings. |
+| [ ] | `/reading/alltag-a2-zwei-handschuhe/` | Review **Ähnliche Farbe, andere Größe** and **Erst genauer hinsehen**: black gloves differ in size and remain unassigned; Nora finds her second blue glove in jacket pocket. No names guessed, nothing thrown away. Check 7 questions/evidence. |
+| [ ] | `/reading/alltag-a2-flurbreite/` | Review **Der Ständer bleibt vorerst dort** and **Noch keine feste Änderung**: own space measured, no universal hallway-width rule, no mirror removal/drilling/purchase, stand returned after test. Check 7 questions/evidence. |
+| [ ] | `/lessons/garderobenrunde/` | Check der Schuhschrank / Schuhschränke and der Hut / Hüte. Complete real photos, no face/visible brand/object crop; Flickr/Commons CC BY 2.0 cabinet and Pexels-licensed hat, credited. Different real settings are not the fictional hallway. |
+| [ ] | `/grammar/artikel-genus/`, `/grammar/dativ/`, `/grammar/trennbare-verben/`, `/grammar/praesens/`, `/grammar/dativ-praepositionen/`, `/grammar/negation/` | Review 24 appended rows/explanations: nominative articles, dative recipient/gehören/helfen, separable prefixes, agreement, Wo/Wohin with dative/accusative, kein/nicht. Earlier saved identities unchanged. |
+| [ ] | `/perfekt/` table and `/dictation/` | Table-only filter count, case/trim-insensitive German/English search, scoped clear/focus and empty state; not score/progress. Real German voice check needed for 47 focused dictation sentences; mock speech is not pronunciation review. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -353,7 +364,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **743 photo nouns / 88 topics**, **147 reading texts / 541 reading questions**, **41 core grammar topics / 982 core grammar questions**, **87 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **745 photo nouns / 89 topics**, **150 reading texts / 553 reading questions**, **41 core grammar topics / 1006 core grammar questions**, **90 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -365,7 +376,7 @@ This is an inventory, not completed review. Snapshot: **743 photo nouns / 88 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 31 · A2 50 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 32 · A2 52 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
