@@ -324,3 +324,6 @@ readings.push(...naturbeobachtungTexts);
 
 import {papierformenTexts} from './reading-papierformen';
 readings.push(...papierformenTexts);
+
+import {sportoberflaechenTexts} from './reading-sportoberflaechen';
+readings.push(...sportoberflaechenTexts);

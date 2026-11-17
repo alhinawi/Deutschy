@@ -267,4 +267,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-linien-und-ein-loch',dialogue:'welches-bild-hat-linien'},
  {reading:'alltag-a2-zwei-verschiedene-fragen',dialogue:'auf-dem-blatt-oder-allgemein'},
  {reading:'alltag-b1-leer-ist-kein-inhaltsnachweis',dialogue:'nur-die-sichtbare-seite'},
+ {reading:'alltag-a1-belag-und-vertiefungen',dialogue:'das-wort-zum-griff'},
+ {reading:'alltag-a2-zwei-mehrzahlformen',dialogue:'gleiches-nomen-andere-zahl'},
+ {reading:'alltag-b1-bildausschnitt-und-vergleich',dialogue:'kein-gemeinsamer-massstab'},
 ];

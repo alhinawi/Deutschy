@@ -68,7 +68,7 @@ function One({ d, back }: { d: Dialogue; back: () => void }) {
         <p className="ar-title text-lg text-muted">{d.title[1]}</p>
       </div>
       <GermanVoice text={d.lines.map(l=>l[1]).join(" ")}/><p className="text-sm text-muted">{t("حوار تخيلي للتدريب، مش نصيحة طبية أو عرض سكن أو سعر حقيقي.","Fictional practice dialogue, not medical advice, a housing offer or a live price.")}</p>
-      {linkedPractice.find(p=>p.dialogue===d.id)&&<Link className="inline-block rounded-full border border-line px-5 py-3" href={`/reading/${linkedPractice.find(p=>p.dialogue===d.id)!.reading}/`}>{t('اقرا نفس الموقف بكلمات وسمع وإملاء','Read this scenario with vocabulary, listening and dictation')}</Link>}
+      {linkedPractice.find(p=>p.dialogue===d.id)&&<Link className="inline-flex min-h-11 items-center rounded-full border border-line px-5 py-3 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper" href={`/reading/${linkedPractice.find(p=>p.dialogue===d.id)!.reading}/`}>{t('اقرا نفس الموقف بكلمات وسمع وإملاء','Read this scenario with vocabulary, listening and dictation')}</Link>}
       <RolePractice key={d.id} d={d} />
       <button aria-pressed={tr} aria-controls="dialogue-lines" onClick={() => setTr(!tr)} className="min-h-11 rounded-full border border-line px-4 py-2 text-sm font-bold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper">{tr ? t('اخفي الترجمة', 'Hide Egyptian Arabic') : t('اعرض الترجمة', 'Show Egyptian Arabic')}</button>
       <ul id="dialogue-lines" className="space-y-2">

@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-seventh practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-eighth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1114,9 +1114,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Dialogue clear-query and clear-query/filter buttons |Themed keyboard ring/page-ground gap on existing44px controls.8 AR/EN320/390 states, axe and Enter/Space clear/reset and return focus to search, no XP. Actual390AR/EN pixels inspected. Search/filter/answer/scoring/playback logic unchanged. |
 | [ ] | Listening/dictation |64 original segments,256 exact German payload/source/answer checks. Human editorial and real-device voice review pending. Level labels not proficiency certification; progress device-local. |
 
+### List 108: Sports surfaces, plural forms and picture scale
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-belag-und-vertiefungen/` and linked dialogue | Lea/Karim blue-lit paddle resting on a white ball, handle to back, dotted surface. Separate golf ball with dimples and shadow on light ground. Names/articles, no claim the two photographed balls are identical, no actual play or purchase. |
+| [ ] | `/reading/alltag-a2-zwei-mehrzahlformen/` and linked dialogue | Nele/Amir der in singular does not fix plural. Tischtennisschläger same noun form, Golfbälle umlaut plus e. Example number words are fictional language practice, not a count of pictured objects. No invented extra paddle or universal masculine-noun rule. |
+| [ ] | `/reading/alltag-b1-bildausschnitt-und-vergleich/` and linked dialogue | Jule/Tarek equal display width is not common scale. Independent crops and lighting, visible surface not dimensions/material color/condition. No manufacturer, age, ownership, quality or skill-level recommendation. Word examples not measured product comparison. |
+| [ ] | `/lessons/sportoberflaechen/` and `/credits/` | der Tischtennisschläger/same-form plural (مضرب تنس طاولة), der Golfball/Golfbälle (كورة جولف). DWDS forms. Vladimir Srajber13793163 original1800x1178 crop350,80-1550,980; Steve A Johnson1004335 original1800x1200 crop90,70-1390,1045.800x600 each, no stretch/padding, actual full paddle and golf ball. Dim lighting retained; branded paddle976873 rejected. |
+| [ ] | Six appended grammar banks |24 article/accusative/present/possessive/two-way/negation rows. Prior saved identities/fixtures unchanged. der/der/die/das; den/das/die/die; nennt/lernst/schlägt/berechnen; ihre/sein/seinen/unsere; neben dem/das Foto and auf der/die Karte; keinen/kein/keine/nicht. |
+| [ ] | Linked-reading link in dialogue detail |44px minimum and themed keyboard focus/page-ground gap.12 AR/EN320/390 states, axe, Enter to matching original reading, no XP. Actual390AR/EN pixels inspected. Existing href/words/routing and answer/scoring/playback logic unchanged. |
+| [ ] | Listening/dictation |67 original segments,268 exact German payload/source/answer checks. Human editorial and real-device voice review pending. Level labels not certification; progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **871 photo nouns / 152 topics**, **339 reading texts / 1309 reading questions**, **41 core grammar topics / 2518 core grammar questions**, **279 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **873 photo nouns / 153 topics**, **342 reading texts / 1321 reading questions**, **41 core grammar topics / 2542 core grammar questions**, **282 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1128,7 +1140,7 @@ This is an inventory, not completed review. Snapshot: **871 photo nouns / 152 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 95 · A2 123 · B1 91 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 96 · A2 124 · B1 92 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

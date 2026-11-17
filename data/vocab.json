@@ -607,6 +607,10 @@
   {
    "id": "papierformen",
    "ar": "كارت الفهرسة والتيكيت"
+  },
+  {
+   "id": "sportoberflaechen",
+   "ar": "أسطح أدوات الرياضة"
   }
  ],
  "words": [
@@ -13768,6 +13772,36 @@
     "file": "7967275.jpg",
     "commons": "https://www.pexels.com/photo/white-paper-tag-with-a-hole-7967275/",
     "author": "Eva Bronzini",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "tischtennisschlaeger",
+   "topic": "sportoberflaechen",
+   "art": "der",
+   "de": "Tischtennisschläger",
+   "plural": "-",
+   "ar": "مضرب تنس طاولة",
+   "photo": {
+    "file": "13793163.jpg",
+    "commons": "https://www.pexels.com/photo/table-tennis-paddle-and-a-ball-13793163/",
+    "author": "Vladimir Srajber",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "golfball",
+   "topic": "sportoberflaechen",
+   "art": "der",
+   "de": "Golfball",
+   "plural": "Golfbälle",
+   "ar": "كورة جولف",
+   "photo": {
+    "file": "1004335.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-photography-of-golf-ball-1004335/",
+    "author": "Steve A Johnson",
     "license": "Pexels License",
     "modified": true
    }
