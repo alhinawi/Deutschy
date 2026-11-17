@@ -1670,3 +1670,24 @@ Object.assign(readingEvidence,{
     "In der Schlussfassung ersetzen sie die unbelegten Steigerungen durch konkrete Bildbeschreibungen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zweimal-frucht": [
+    "Beide Namen enden mit Frucht.",
+    "Erik sieht das ü und das e am Ende.",
+    "Beim ersten Wort vergisst er die Punkte über dem u.",
+    "Die Übung betrifft heute die Schreibweise, nicht den Geschmack der Früchte."
+  ],
+  "alltag-a2-nacherzaehlt-nicht-gemacht": [
+    "Ihr Partner Paul versteht das zunächst als Bericht über ihren eigenen Morgen.",
+    "Sie hat heute keine Frucht geöffnet.",
+    "Der Inhalt der Vorlage bleibt gleich",
+    "Am Ende der Stunde haben sie zwei Texte mündlich wiedergegeben."
+  ],
+  "alltag-b1-woher-kommt-das-detail": [
+    "Samir hat eine Information aus der anderen Geschichte mit seiner Erinnerung an die Bilder verbunden.",
+    "Sie schlägt vor, die Quelle jeder Aussage einzeln zu prüfen.",
+    "weil der andere Text ihn für diese Fotos nicht belegt.",
+    "Über den tatsächlichen Aufnahmeort, den Anlass der Fotos oder den späteren Verzehr wissen die beiden weiterhin nichts Sicheres."
+  ]
+});

@@ -237,4 +237,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-links-auf-dem-blatt',dialogue:'das-foto-bleibt-links'},
  {reading:'alltag-a2-die-kleinere-aufgabe',dialogue:'erst-der-name'},
  {reading:'alltag-b1-der-unfaire-bildvergleich',dialogue:'groesser-als-im-bild'},
+ {reading:'alltag-a1-zweimal-frucht',dialogue:'die-punkte-fehlen'},
+ {reading:'alltag-a2-nacherzaehlt-nicht-gemacht',dialogue:'wer-handelt-im-text'},
+ {reading:'alltag-b1-woher-kommt-das-detail',dialogue:'das-war-die-andere-geschichte'},
 ];

@@ -567,6 +567,10 @@
   {
    "id": "gemuesebilder",
    "ar": "خرشوف وكرنب أبو ركبة"
+  },
+  {
+   "id": "fruchtformen",
+   "ar": "فاكهة التنين وباشن فروت"
   }
  ],
  "words": [
@@ -13428,6 +13432,36 @@
     "file": "97311.jpg",
     "commons": "https://www.pexels.com/photo/red-onions-97311/",
     "author": "Francesco Ungaro",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "drachenfrucht",
+   "topic": "fruchtformen",
+   "art": "die",
+   "de": "Drachenfrucht",
+   "plural": "Drachenfrüchte",
+   "ar": "فاكهة التنين",
+   "photo": {
+    "file": "5945955.jpg",
+    "commons": "https://www.pexels.com/photo/cut-half-of-dragon-fruit-5945955/",
+    "author": "Any Lane",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "passionsfrucht",
+   "topic": "fruchtformen",
+   "art": "die",
+   "de": "Passionsfrucht",
+   "plural": "Passionsfrüchte",
+   "ar": "باشن فروت",
+   "photo": {
+    "file": "5945951.jpg",
+    "commons": "https://www.pexels.com/photo/half-of-fresh-delicious-passion-fruit-5945951/",
+    "author": "Any Lane",
     "license": "Pexels License",
     "modified": true
    }

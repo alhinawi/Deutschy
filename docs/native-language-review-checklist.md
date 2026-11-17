@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the ninety-seventh practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the ninety-eighth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -994,9 +994,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Flash gloss bidi/language | Arabic gloss now Mixed-isolates Latin runs; English gloss span lang=en. Native320/390AR/EN front/back keyboard Enter/Space noXP regression; German word still de/ltr and wrapping retained. No schedule/score change. |
 | [ ] | Listening/dictation | Original linked segments, exact German payload/source checks. Native editorial/real-device voice review pending, labels not proficiency claims. |
 
+### List 98: Frucht forms, retelling attribution and remembered detail
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zweimal-frucht/` and linked dialogue | Lina/Erik shared final Frucht -> Früchte, ü+e marked, missing umlaut points corrected by Erik from model, four singular/plural forms read. Spelling only, not taste. |
+| [ ] | `/reading/alltag-a2-nacherzaehlt-nicht-gemacht/` and linked dialogue | Amira first-person role retelling misread as own morning. Explicitly did not open fruit, restarts with source/person/third-person, same source content/photo unchanged. Paul names source first for second text, question about text not breakfast. Two oral retellings not actual preparation event/instructions. |
+| [ ] | `/reading/alltag-b1-woher-kommt-das-detail/` and linked dialogue | Samir imports breakfast detail from another story, not photo evidence. Vera checks each claim/source without global attention judgment. Visible features/text claims/own additions separated; breakfast moved to third because other story doesn't ground these photos, removed from final description. Not every memory false; origin/occasion/later consumption unknown, no taste/health speculation/color universal. |
+| [ ] | `/lessons/fruchtformen/` and `/credits/` | die Drachenfrucht/Drachenfrüchte (فاكهة التنين), die Passionsfrucht/Passionsfrüchte (باشن فروت), DWDS editorial forms. Any Lane5945955 1800x2700 rotated90 then crop0,0-2400,1800 retains complete half perimeter/stem;5945951 1800x1106 crop160,0-1632,1104 whole cut face among fruit. Real800x600/no people/brand/padding. Color image-specific, not variety/origin/quality identification. |
+| [ ] | Six appended grammar banks |24 article/accusative/present/possessive/two-way preposition/B1 connector rows. Saved older IDs unchanged. unterstreicht/nennst/hört/prüfen; seine/ihren/ihr/unsere; neben dem/das Heft, in dem/das Heft; weil/Obwohl/damit/Bevor. Native German/Egyptian Arabic review pending. |
+| [ ] | Flash word audio focus | Revealed word audio control themed keyboard ring/page-ground gap. NativeAR/EN320/390 Tab focus after card, actual390pixels, card front/backEnter/Space/noXP. No score/schedule change. |
+| [ ] | Listening/dictation | Original linked segments, German speech payload/source checks. Native editorial/real-device voice review pending; labels not proficiency claims. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **851 photo nouns / 142 topics**, **309 reading texts / 1189 reading questions**, **41 core grammar topics / 2278 core grammar questions**, **249 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **853 photo nouns / 143 topics**, **312 reading texts / 1201 reading questions**, **41 core grammar topics / 2302 core grammar questions**, **252 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1008,7 +1020,7 @@ This is an inventory, not completed review. Snapshot: **851 photo nouns / 142 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 85 · A2 113 · B1 81 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 86 · A2 114 · B1 82 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
