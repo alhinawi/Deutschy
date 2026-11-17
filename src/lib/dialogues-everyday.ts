@@ -21058,3 +21058,218 @@ Object.assign(dialogueEvidence,{
     "Zustand und Stimmung sind damit nicht geprüft."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "brezel-oder-bagel-erkennen",
+    "level": "A1",
+    "title": [
+      "Welches Gebäck meinst du?",
+      "تقصد أنهي مخبوزات؟"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Welches Gebäck liegt auf dem hellen Teller?",
+        "أنهي مخبوزات على الطبق الفاتح؟"
+      ],
+      [
+        "Karim",
+        "Die Brezel. Ihr Teig kreuzt sich vorn.",
+        "البريتسل. عجينتها متقاطعة قدام."
+      ],
+      [
+        "Lea",
+        "Und was liegt auf dem weißen Teller?",
+        "وإيه اللي على الطبق الأبيض؟"
+      ],
+      [
+        "Karim",
+        "Zwei Hälften eines Bagels. Eine liegt schräg auf der anderen.",
+        "نصين لبيجل واحدة. واحدة مايلة فوق التانية."
+      ],
+      [
+        "Lea",
+        "Meinst du also zwei ganze Bagel?",
+        "يعني تقصد اتنين بيجل كاملين؟"
+      ],
+      [
+        "Karim",
+        "Nein, ich beschreibe die beiden Hälften.",
+        "لأ، بوصف النصين."
+      ],
+      [
+        "Lea",
+        "Gut. Dann lege ich die passende Wortkarte daneben.",
+        "تمام. يبقى أحط كارت الكلمة المناسب جنبها."
+      ]
+    ],
+    "q": [
+      [
+        "Was kreuzt sich vorn?",
+        "Der Teig der Brezel.",
+        "Der Rand des Tellers.",
+        "Der Henkel einer Tasse."
+      ],
+      [
+        "Was liegt auf dem weißen Teller?",
+        "Zwei Hälften eines Bagels.",
+        "Zwei ganze Brezeln.",
+        "Nur eine Gabel."
+      ],
+      [
+        "Was legt Lea daneben?",
+        "Die passende Wortkarte.",
+        "Einen neuen Einkaufskorb.",
+        "Eine Rechnung."
+      ]
+    ]
+  },
+  {
+    "id": "bagel-bagels-beide-formen",
+    "level": "A2",
+    "title": [
+      "Beide Pluralformen bleiben richtig",
+      "صيغتين الجمع صح"
+    ],
+    "lines": [
+      [
+        "Amir",
+        "Ich sehe zwei Teile. Sind das zwei Bagels?",
+        "شايف جزئين. دول اتنين بيجل؟"
+      ],
+      [
+        "Nele",
+        "Nein, hier sehen wir zwei Hälften eines aufgeschnittenen Bagels.",
+        "لأ، هنا شايفين نصين لبيجل واحدة مفتوحة."
+      ],
+      [
+        "Amir",
+        "Und wie lautet die Mehrzahl des Wortes?",
+        "وجمع الكلمة إيه؟"
+      ],
+      [
+        "Nele",
+        "Die Bagel und die Bagels sind beide möglich.",
+        "دي بيجل ودي بيجلز الاتنين ينفعوا."
+      ],
+      [
+        "Amir",
+        "Ich verwende in unserem Text Bagels.",
+        "هستخدم في نصنا بيجلز."
+      ],
+      [
+        "Nele",
+        "Gut. Die Form Bagel bleibt trotzdem richtig.",
+        "تمام. صيغة بيجل بتفضل صح برضه."
+      ],
+      [
+        "Amir",
+        "Bei Brezel notiere ich Brezeln und zähle die Randstücke nicht vollständig.",
+        "في بريتسل هكتب بريتسلن ومش هعد أجزاء الحافة كأنها كلها باينة."
+      ]
+    ],
+    "q": [
+      [
+        "Was sehen sie auf dem Foto?",
+        "Zwei Hälften eines Bagels.",
+        "Zwei ganze Brotkörbe.",
+        "Einen leeren Teller."
+      ],
+      [
+        "Welche Form bleibt neben Bagels richtig?",
+        "Bagel.",
+        "Bägeler.",
+        "Bageln als hier gelernter Plural."
+      ],
+      [
+        "Welche Form notiert Amir bei Brezel?",
+        "Brezeln.",
+        "Brezels.",
+        "Brezeler."
+      ]
+    ]
+  },
+  {
+    "id": "welcher-bagel-welche-information",
+    "level": "B1",
+    "title": [
+      "Erst die Frage genau stellen",
+      "خلّي السؤال محدد الأول"
+    ],
+    "lines": [
+      [
+        "Tarek",
+        "Ist das dort geeignet?",
+        "الحاجة دي مناسبة؟"
+      ],
+      [
+        "Jule",
+        "Welches Gebäck meinst du, und welche Information brauchst du?",
+        "تقصد أنهي مخبوزات ومحتاج أنهي معلومة؟"
+      ],
+      [
+        "Tarek",
+        "Ich meine den aufgeschnittenen Bagel auf dem Foto.",
+        "أقصد البيجل المفتوحة اللي في الصورة."
+      ],
+      [
+        "Jule",
+        "Dann frage gezielt nach der Zutaten- und Allergeninformation zu diesem Produkt.",
+        "يبقى اسأل بالتحديد عن معلومات المكونات ومسببات الحساسية للمنتج ده."
+      ],
+      [
+        "Tarek",
+        "Das Foto allein beantwortet meine Frage also nicht.",
+        "يعني الصورة لوحدها مش بتجاوب سؤالي."
+      ],
+      [
+        "Jule",
+        "Genau. Eine bestätigte Auskunft liegt in unserem Dialog noch nicht vor.",
+        "بالظبط. لسه مفيش معلومة متأكدة في حوارنا."
+      ],
+      [
+        "Tarek",
+        "Dann lasse ich das Antwortfeld offen und erfinde keine Zusage.",
+        "يبقى أسيب خانة الإجابة فاضية ومش أخترع تأكيد."
+      ]
+    ],
+    "q": [
+      [
+        "Welches Gebäck meint Tarek?",
+        "Den aufgeschnittenen Bagel auf dem Foto.",
+        "Eine unsichtbare Torte.",
+        "Alle Brote eines Geschäfts."
+      ],
+      [
+        "Was beantwortet seine Frage nicht allein?",
+        "Das Foto.",
+        "Eine passende bestätigte Auskunft.",
+        "Eine konkrete Produktinformation."
+      ],
+      [
+        "Was macht er mit dem Antwortfeld?",
+        "Er lässt es offen.",
+        "Er trägt eine erfundene Zusage ein.",
+        "Er bestätigt eine Bestellung."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "brezel-oder-bagel-erkennen": [
+    "Ihr Teig kreuzt sich vorn.",
+    "Zwei Hälften eines Bagels.",
+    "Dann lege ich die passende Wortkarte daneben."
+  ],
+  "bagel-bagels-beide-formen": [
+    "zwei Hälften eines aufgeschnittenen Bagels.",
+    "Die Form Bagel bleibt trotzdem richtig.",
+    "Bei Brezel notiere ich Brezeln"
+  ],
+  "welcher-bagel-welche-information": [
+    "Ich meine den aufgeschnittenen Bagel auf dem Foto.",
+    "Das Foto allein beantwortet meine Frage also nicht.",
+    "Dann lasse ich das Antwortfeld offen"
+  ]
+});

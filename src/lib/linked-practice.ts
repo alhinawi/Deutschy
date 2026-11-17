@@ -294,4 +294,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-saiten-vor-buechern-und-stoff',dialogue:'harfe-buecher-mandoline-stoff'},
  {reading:'alltag-a2-viele-saiten-ein-instrument',dialogue:'harfen-mandolinen-saiten-unterscheiden'},
  {reading:'alltag-b1-ein-foto-ist-keine-klangprobe',dialogue:'keine-tonaufnahme-kein-klangurteil'},
+ {reading:'alltag-a1-brezel-und-bagel-auf-tellern',dialogue:'brezel-oder-bagel-erkennen'},
+ {reading:'alltag-a2-zwei-haelften-und-zwei-pluralformen',dialogue:'bagel-bagels-beide-formen'},
+ {reading:'alltag-b1-nachfragen-statt-zutaten-raten',dialogue:'welcher-bagel-welche-information'},
 ];

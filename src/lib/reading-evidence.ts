@@ -2069,3 +2069,24 @@ Object.assign(readingEvidence,{
     "Jule und Tarek geben keine Spiel-, Stimm- oder Reparaturanleitung."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-brezel-und-bagel-auf-tellern": [
+    "Auf dem ersten Foto liegt eine Brezel in der Mitte eines hellen Tellers.",
+    "Die obere Hälfte liegt schräg auf der unteren.",
+    "Der Teller steht auf einer orangefarbenen Fläche.",
+    "Eine Bestellung geben sie dabei nicht auf."
+  ],
+  "alltag-a2-zwei-haelften-und-zwei-pluralformen": [
+    "weil er zwei Teile sieht.",
+    "die Mehrzahlformen die Bagel und die Bagels möglich.",
+    "Er ersetzt eine genaue Gesamtzahl durch eine Beschreibung des mittleren Stücks.",
+    "Sie enthalten weder Preise noch eine Aussage darüber, was eine bestimmte Bäckerei gerade anbietet."
+  ],
+  "alltag-b1-nachfragen-statt-zutaten-raten": [
+    "helfen ihnen nur dabei, die gemeinten Backwaren zu benennen.",
+    "eine Bitte um die Zutaten- und Allergeninformation zu genau diesem Bagel.",
+    "Der Satz legt weder eine Menge fest noch löst er einen Kauf aus.",
+    "Sie erfinden keine Verkäuferantwort"
+  ]
+});

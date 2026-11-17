@@ -643,6 +643,10 @@
   {
    "id": "saitenbilder",
    "ar": "الهارب والماندولين"
+  },
+  {
+   "id": "gebaeckformen",
+   "ar": "البريتسل والبيجل"
   }
  ],
  "words": [
@@ -14074,6 +14078,36 @@
     "file": "7097789.jpg",
     "commons": "https://www.pexels.com/photo/7097789/",
     "author": "cottonbro studio",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "brezel",
+   "topic": "gebaeckformen",
+   "art": "die",
+   "de": "Brezel",
+   "plural": "Brezeln",
+   "ar": "بريتسل",
+   "photo": {
+    "file": "11221589.jpg",
+    "commons": "https://www.pexels.com/photo/flat-lay-of-pastry-on-the-plate-11221589/",
+    "author": "Rukiye Demir",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "bagel",
+   "topic": "gebaeckformen",
+   "art": "der",
+   "de": "Bagel",
+   "plural": "Bagel / Bagels",
+   "ar": "بيجل",
+   "photo": {
+    "file": "19495590.jpg",
+    "commons": "https://www.pexels.com/photo/bagel-on-white-plate-with-gold-fork-19495590/",
+    "author": "hiven zhu",
     "license": "Pexels License",
     "modified": true
    }
