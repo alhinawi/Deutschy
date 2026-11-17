@@ -263,3 +263,24 @@ Object.assign(readingEvidence,{
     "Es ist ihre eigene Merkhilfe für diese Übung."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-malplatz": [
+    "Dort macht er seine Hausaufgaben.",
+    "Mila nimmt deshalb den kleinen Tisch am Fenster.",
+    "Die Palette liegt noch im Regal.",
+    "Dann beginnt sie mit einem blauen Kreis."
+  ],
+  "alltag-a2-farbproben": [
+    "Als er ihn später noch einmal mischen will, erinnert er sich aber nicht an die verwendeten Farben.",
+    "Auf die Rückseite schreiben sie die verwendeten Farben, aber keine erfundenen genauen Mengen.",
+    "Stattdessen nimmt er ein leeres Reststück.",
+    "Die großen Bilder wollen sie erst am nächsten Tag beginnen."
+  ],
+  "alltag-b1-bilderrunde": [
+    "Sie würde lieber erfahren, welche Formen oder Farbstellen den anderen auffallen.",
+    "Die Person, der es gehört, möchte es lieber an seinem Platz lassen.",
+    "Er sagt ausdrücklich, dass dies seine Beobachtung und keine Erklärung der Absicht ist.",
+    "Die Beteiligten fragen zuerst, ob und wofür eine Aufnahme gewünscht ist."
+  ]
+});

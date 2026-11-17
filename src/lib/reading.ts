@@ -93,3 +93,6 @@ readings.push(...briefplatzTexts);
 
 import {musikrundeTexts} from './reading-musikrunde';
 readings.push(...musikrundeTexts);
+
+import {malrundeTexts} from './reading-malrunde';
+readings.push(...malrundeTexts);

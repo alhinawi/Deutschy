@@ -2568,3 +2568,218 @@ Object.assign(dialogueEvidence,{
     "Dann versuchen wir es noch einmal, aber etwas langsamer."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "palette-aus-dem-regal",
+    "level": "A1",
+    "title": [
+      "Kannst du mir die Palette geben?",
+      "ممكن تديني البالتة؟"
+    ],
+    "lines": [
+      [
+        "Mila",
+        "Ich male am kleinen Tisch. Brauchst du den großen noch?",
+        "هرسم على الترابيزة الصغيرة. لسه محتاج الكبيرة؟"
+      ],
+      [
+        "Ben",
+        "Ja, ich mache meine Hausaufgaben fertig.",
+        "آه، بخلص واجبي."
+      ],
+      [
+        "Mila",
+        "Dann bleibe ich hier am Fenster.",
+        "يبقى أفضل هنا جنب الشباك."
+      ],
+      [
+        "Ben",
+        "Brauchst du die Palette aus dem Regal?",
+        "محتاجة البالتة اللي على الرف؟"
+      ],
+      [
+        "Mila",
+        "Ja, bitte. Die Pinsel liegen schon hier.",
+        "آه لو سمحت. الفرش موجودة هنا خلاص."
+      ],
+      [
+        "Ben",
+        "Hier. Darf ich später mitmalen?",
+        "اتفضلي. ينفع أرسم معاكي بعدين؟"
+      ],
+      [
+        "Mila",
+        "Gern, nach deinen Hausaufgaben.",
+        "طبعاً، بعد واجبك."
+      ]
+    ],
+    "q": [
+      [
+        "Wo malt Mila?",
+        "Am kleinen Tisch am Fenster.",
+        "Im Flur.",
+        "Auf dem Balkon."
+      ],
+      [
+        "Woher kommt die Palette?",
+        "Aus dem Regal.",
+        "Aus dem Rucksack.",
+        "Aus der Küche."
+      ],
+      [
+        "Wann kann Ben mitmalen?",
+        "Nach seinen Hausaufgaben.",
+        "Vor dem Frühstück.",
+        "Erst nächste Woche."
+      ]
+    ]
+  },
+  {
+    "id": "farbprobe-nicht-wegwerfen",
+    "level": "A2",
+    "title": [
+      "Das ist noch keine Unterlage",
+      "دي لسه مش ورقة للشغل عليها"
+    ],
+    "lines": [
+      [
+        "Tom",
+        "Kann ich dieses kleine Blatt unter meine Arbeit legen?",
+        "ينفع أحط الورقة الصغيرة دي تحت شغلي؟"
+      ],
+      [
+        "Yara",
+        "Das möchte ich behalten. Auf der Rückseite steht meine Farbmischung.",
+        "عايزة أحتفظ بيها. على الضهر مكتوب خلطة اللون بتاعتي."
+      ],
+      [
+        "Tom",
+        "Gut, dann nehme ich das leere Reststück daneben.",
+        "تمام، يبقى آخد القصاصة الفاضية اللي جنبها."
+      ],
+      [
+        "Yara",
+        "Danke fürs Fragen. Hast du deine Mischung auch notiert?",
+        "شكراً إنك سألت. سجلت خلطتك إنت كمان؟"
+      ],
+      [
+        "Tom",
+        "Nur ungefähr: mehr Blau als Gelb. Die genaue Menge weiß ich nicht mehr.",
+        "تقريباً بس: أزرق أكتر من أصفر. المقدار بالظبط مش فاكره."
+      ],
+      [
+        "Yara",
+        "Dann schreiben wir es als Erinnerung auf, nicht als genaues Rezept.",
+        "يبقى نكتبها للتذكر، مش كوصفة دقيقة."
+      ],
+      [
+        "Tom",
+        "Und morgen fangen wir mit den großen Bildern an.",
+        "وبكرة نبدأ الصور الكبيرة."
+      ]
+    ],
+    "q": [
+      [
+        "Warum möchte Yara das kleine Blatt behalten?",
+        "Darauf steht ihre Farbmischung.",
+        "Es gehört dem Nachbarn.",
+        "Es ist ein Brief."
+      ],
+      [
+        "Was weiß Tom noch?",
+        "Er hat mehr Blau als Gelb genommen.",
+        "Er hat nur Rot benutzt.",
+        "Die genauen Mengen."
+      ],
+      [
+        "Wie verstehen sie Toms Notiz?",
+        "Als ungefähre Erinnerung.",
+        "Als genaues Rezept.",
+        "Als Bewertung von Yaras Bild."
+      ]
+    ]
+  },
+  {
+    "id": "bild-am-platz-lassen",
+    "level": "B1",
+    "title": [
+      "Erst fragen, dann bewegen",
+      "الأول نسأل وبعدين نحرك"
+    ],
+    "lines": [
+      [
+        "Salma",
+        "Darf ich dein unfertiges Bild für den Vergleich auf den Tisch legen?",
+        "ينفع أحط صورتك اللي لسه مش كاملة على الترابيزة للمقارنة؟"
+      ],
+      [
+        "Nina",
+        "Bitte lass es auf der Staffelei. Dort möchte ich es noch ansehen.",
+        "سيبيها على الحامل لو سمحتي. عايزة أبص عليها هناك لسه."
+      ],
+      [
+        "Salma",
+        "Gut, dann kommen wir zu dir.",
+        "تمام، يبقى نيجي عندك."
+      ],
+      [
+        "Karim",
+        "Mir fällt zuerst die große helle Fläche auf.",
+        "أول حاجة بتلفت نظري المساحة الفاتحة الكبيرة."
+      ],
+      [
+        "Nina",
+        "Möchtest du wissen, was ich damit ausprobieren wollte?",
+        "تحب تعرف كنت عايزة أجرب بيها إيه؟"
+      ],
+      [
+        "Karim",
+        "Ja. Meine Beschreibung war keine Vermutung über deine Absicht.",
+        "آه. وصفي مش تخمين للي إنتي كنتي قاصداه."
+      ],
+      [
+        "Salma",
+        "Und bevor jemand fotografiert, fragen wir dich noch einmal.",
+        "وقبل ما حد يصور، هنسألك تاني."
+      ]
+    ],
+    "q": [
+      [
+        "Wo bleibt das Bild?",
+        "Auf der Staffelei.",
+        "Unter dem Tisch.",
+        "Im Flur."
+      ],
+      [
+        "Was fällt Karim zuerst auf?",
+        "Die große helle Fläche.",
+        "Der Preis der Farben.",
+        "Ein grüner Beutel."
+      ],
+      [
+        "Was tun sie vor einem Foto?",
+        "Nina noch einmal fragen.",
+        "Das Bild automatisch veröffentlichen.",
+        "Den Rahmen wegwerfen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "palette-aus-dem-regal": [
+    "Dann bleibe ich hier am Fenster.",
+    "Brauchst du die Palette aus dem Regal?",
+    "Gern, nach deinen Hausaufgaben."
+  ],
+  "farbprobe-nicht-wegwerfen": [
+    "Auf der Rückseite steht meine Farbmischung.",
+    "Nur ungefähr: mehr Blau als Gelb.",
+    "Dann schreiben wir es als Erinnerung auf, nicht als genaues Rezept."
+  ],
+  "bild-am-platz-lassen": [
+    "Bitte lass es auf der Staffelei.",
+    "Mir fällt zuerst die große helle Fläche auf.",
+    "Und bevor jemand fotografiert, fragen wir dich noch einmal."
+  ]
+});

@@ -36,4 +36,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-plektrum',dialogue:'plektrum-zurueckgeben'},
  {reading:'alltag-a2-klangprobe',dialogue:'klaenge-nacheinander'},
  {reading:'alltag-b1-rhythmusrunde',dialogue:'pause-sichtbar-machen'},
+ {reading:'alltag-a1-malplatz',dialogue:'palette-aus-dem-regal'},
+ {reading:'alltag-a2-farbproben',dialogue:'farbprobe-nicht-wegwerfen'},
+ {reading:'alltag-b1-bilderrunde',dialogue:'bild-am-platz-lassen'},
 ];
