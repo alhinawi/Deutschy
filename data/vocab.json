@@ -611,6 +611,10 @@
   {
    "id": "sportoberflaechen",
    "ar": "أسطح أدوات الرياضة"
+  },
+  {
+   "id": "badbilder",
+   "ar": "أعواد القطن وبط اللعب"
   }
  ],
  "words": [
@@ -13802,6 +13806,36 @@
     "file": "1004335.jpg",
     "commons": "https://www.pexels.com/photo/close-up-photography-of-golf-ball-1004335/",
     "author": "Steve A Johnson",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "wattestaebchen",
+   "topic": "badbilder",
+   "art": "das",
+   "de": "Wattestäbchen",
+   "plural": "-",
+   "ar": "عود قطن",
+   "photo": {
+    "file": "9157170.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-shot-of-cotton-swabs-9157170/",
+    "author": "Rohan Dalal",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "badeente",
+   "topic": "badbilder",
+   "art": "die",
+   "de": "Badeente",
+   "plural": "Badeenten",
+   "ar": "بطة حمام لعبة",
+   "photo": {
+    "file": "30209468.jpg",
+    "commons": "https://www.pexels.com/photo/yellow-rubber-ducks-by-poolside-30209468/",
+    "author": "Thomas Parker",
     "license": "Pexels License",
     "modified": true
    }

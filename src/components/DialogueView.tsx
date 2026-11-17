@@ -101,7 +101,7 @@ function One({ d, back }: { d: Dialogue; back: () => void }) {
             <div className="grid gap-2">
               {practiceOptionOrder(`${d.id}:${i}:${q[0]}`,String(round)).map((k) => {
                 const st = pick === null ? '' : k === 0 ? 'border-good border-2 bg-good/10' : pick === k ? 'border-bad bg-bad/10' : 'opacity-60';
-                return <button dir="ltr" key={k} disabled={pick!==null} lang="de" onClick={() => answer(k)} className={`de rounded-xl border border-line bg-paper px-3 py-2.5 text-start text-lg ${st}`}>{q[1 + k]}</button>;
+                return <button dir="ltr" key={k} disabled={pick!==null} lang="de" onClick={() => answer(k)} className={`de min-h-11 rounded-xl border border-line bg-paper px-3 py-2.5 text-start text-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-card ${st}`}>{q[1 + k]}</button>;
               })}
             </div>
             {pick!==null&&<p role="status">{pick===0?t('صح.','Correct.'):t('راجع الإجابة الصح.','Check the correct answer.')}</p>}

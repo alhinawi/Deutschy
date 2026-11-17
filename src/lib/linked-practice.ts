@@ -270,4 +270,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-belag-und-vertiefungen',dialogue:'das-wort-zum-griff'},
  {reading:'alltag-a2-zwei-mehrzahlformen',dialogue:'gleiches-nomen-andere-zahl'},
  {reading:'alltag-b1-bildausschnitt-und-vergleich',dialogue:'kein-gemeinsamer-massstab'},
+ {reading:'alltag-a1-staebchen-und-spielenten',dialogue:'links-mit-hut'},
+ {reading:'alltag-a2-name-und-ort',dialogue:'nicht-automatisch-im-bad'},
+ {reading:'alltag-b1-hell-ist-kein-pruefsiegel',dialogue:'keine-eigenschaft-ohne-beleg'},
 ];
