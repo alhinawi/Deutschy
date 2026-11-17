@@ -2920,7 +2920,7 @@ everydayDialogues.push(...[
     "level": "B1",
     "title": [
       "Die leere Schale beweist das nicht",
-      "الكوباية الفاضية مش دليل على ده"
+      "الطبق الفاضي مش دليل على ده"
     ],
     "lines": [
       [
@@ -2996,5 +2996,220 @@ Object.assign(dialogueEvidence,{
     "Daraus folgt nicht, dass alle dasselbe genommen haben.",
     "Zutaten getrennt anzubieten war heute praktisch.",
     "Und vor dem nächsten Treffen fragen wir wieder nach Wünschen."
+  ]
+});
+
+everydayDialogues.push(...[
+  {
+    "id": "den-leeren-ring",
+    "level": "A1",
+    "title": [
+      "Nur den Ring, bitte",
+      "الحلقة بس لو سمحتي"
+    ],
+    "lines": [
+      [
+        "Sami",
+        "Brauchst du den leeren Schlüsselring noch?",
+        "لسه محتاجة حلقة المفاتيح الفاضية؟"
+      ],
+      [
+        "Mila",
+        "Nein. Meinen Schlüssel lege ich in meine Tasche.",
+        "لأ. هحط مفتاحي في شنطتي."
+      ],
+      [
+        "Sami",
+        "Kann ich den Ring haben? Er ist für meinen Schlüssel.",
+        "ممكن آخد الحلقة؟ لمفتاحي أنا."
+      ],
+      [
+        "Mila",
+        "Ja. Hier ist der Ring.",
+        "آه. اتفضل الحلقة."
+      ],
+      [
+        "Sami",
+        "Danke. Die blaue Schale bleibt hier, oder?",
+        "شكراً. الطبق الأزرق هيفضل هنا، صح؟"
+      ],
+      [
+        "Mila",
+        "Ja, auf der Kommode.",
+        "آه، على الكومود."
+      ],
+      [
+        "Sami",
+        "Gut. Ich nehme nur den Ring.",
+        "تمام. هاخد الحلقة بس."
+      ]
+    ],
+    "q": [
+      [
+        "Was möchte Sami haben?",
+        "Den leeren Schlüsselring.",
+        "Milas Tasche.",
+        "Die blaue Schale."
+      ],
+      [
+        "Wohin legt Mila ihren Schlüssel?",
+        "In ihre Tasche.",
+        "In den Kühlschrank.",
+        "Unter den Schuh."
+      ],
+      [
+        "Was bleibt auf der Kommode?",
+        "Die blaue Schale.",
+        "Samis Fahrrad.",
+        "Eine volle Einkaufstüte."
+      ]
+    ]
+  },
+  {
+    "id": "holzkeil-wegraeumen",
+    "level": "A2",
+    "title": [
+      "Wohin gehört das Holzstück?",
+      "القطعة الخشب مكانها فين؟"
+    ],
+    "lines": [
+      [
+        "Amir",
+        "Die Kiste steht jetzt im Flur. Sind wir fertig?",
+        "الصندوق دلوقتي في المدخل. إحنا كده خلصنا؟"
+      ],
+      [
+        "Lea",
+        "Mit dem Tragen ja. Den Türstopper räumen wir noch weg.",
+        "النقل آه. لسه هنشيل مصد الباب."
+      ],
+      [
+        "Amir",
+        "Soll ich ihn neben die Tür legen?",
+        "أحطه جنب الباب؟"
+      ],
+      [
+        "Lea",
+        "Bitte nicht. Er gehört in das unterste Fach der Kommode.",
+        "لأ لو سمحت. مكانه في الرف اللي تحت خالص في الكومود."
+      ],
+      [
+        "Amir",
+        "Gut, das wusste ich noch nicht.",
+        "تمام، مكنتش أعرف ده."
+      ],
+      [
+        "Lea",
+        "Und die leere Kiste nehmen wir wieder mit hinein.",
+        "والصندوق الفاضي ندخله تاني جوه."
+      ],
+      [
+        "Amir",
+        "Dann steht hier nichts mehr im Weg.",
+        "كده مش هيفضل هنا حاجة في السكة."
+      ]
+    ],
+    "q": [
+      [
+        "Was muss noch weggeräumt werden?",
+        "Der Türstopper.",
+        "Ein Fahrrad.",
+        "Ein Teller mit Salat."
+      ],
+      [
+        "Wo ist sein Platz?",
+        "Im untersten Fach der Kommode.",
+        "Neben der Tür auf dem Boden.",
+        "Im Briefkasten."
+      ],
+      [
+        "Was machen sie mit der leeren Kiste?",
+        "Sie nehmen sie wieder mit hinein.",
+        "Sie lassen sie im Weg stehen.",
+        "Sie geben sie einem unbekannten Gast."
+      ]
+    ]
+  },
+  {
+    "id": "ablage-keine-erlaubnis",
+    "level": "B1",
+    "title": [
+      "Eine Skizze ist noch keine Zusage",
+      "الرسمة لسه مش موافقة"
+    ],
+    "lines": [
+      [
+        "Jana",
+        "Auf meiner Skizze passen zwei Schalen auf die Ablage.",
+        "في رسمتي الطبقين ليهم مكان على سطح التخزين."
+      ],
+      [
+        "Moritz",
+        "Hast du den freien Platz schon gemessen?",
+        "قستي المساحة الفاضية خلاص؟"
+      ],
+      [
+        "Jana",
+        "Noch nicht. Die Zeichnung sieht größer aus als die echte Ablage.",
+        "لسه. الرسمة باينة أكبر من السطح الحقيقي."
+      ],
+      [
+        "Ela",
+        "Dann bleiben wir vorerst bei einer Schale und prüfen den Platz.",
+        "يبقى نفضل مؤقتاً على طبق واحد ونراجع المساحة."
+      ],
+      [
+        "Moritz",
+        "Und mein Ring dort ist nicht automatisch zum Ausleihen da.",
+        "وحلقتي اللي هناك مش متاحة للاستعارة تلقائي."
+      ],
+      [
+        "Jana",
+        "Klar. Wenn uns etwas nicht gehört, fragen wir die Person zuerst.",
+        "أكيد. لو حاجة مش بتاعتنا، نسأل صاحبها الأول."
+      ],
+      [
+        "Ela",
+        "Wir schreiben nur auf, was wir wirklich vereinbart haben.",
+        "نكتب اللي اتفقنا عليه فعلاً بس."
+      ]
+    ],
+    "q": [
+      [
+        "Was hat Jana noch nicht getan?",
+        "Den freien Platz gemessen.",
+        "Eine Skizze gemacht.",
+        "Über die Ablage gesprochen."
+      ],
+      [
+        "Wie viele Schalen sind vorerst vorgesehen?",
+        "Eine.",
+        "Zehn.",
+        "Keine einzige."
+      ],
+      [
+        "Was tun sie vor dem Benutzen fremder Dinge?",
+        "Zuerst die betreffende Person fragen.",
+        "Die Skizze als Erlaubnis benutzen.",
+        "Die Dinge ungefragt weitergeben."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "den-leeren-ring": [
+    "Kann ich den Ring haben? Er ist für meinen Schlüssel.",
+    "Meinen Schlüssel lege ich in meine Tasche.",
+    "Ja, auf der Kommode."
+  ],
+  "holzkeil-wegraeumen": [
+    "Den Türstopper räumen wir noch weg.",
+    "Er gehört in das unterste Fach der Kommode.",
+    "Und die leere Kiste nehmen wir wieder mit hinein."
+  ],
+  "ablage-keine-erlaubnis": [
+    "Noch nicht. Die Zeichnung sieht größer aus als die echte Ablage.",
+    "Dann bleiben wir vorerst bei einer Schale und prüfen den Platz.",
+    "Wenn uns etwas nicht gehört, fragen wir die Person zuerst."
   ]
 });

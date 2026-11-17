@@ -42,4 +42,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zitronenpresse',dialogue:'saft-extra-lassen'},
  {reading:'alltag-a2-moerser',dialogue:'zweiter-loeffel'},
  {reading:'alltag-b1-kuechenzettel',dialogue:'vorlieben-neu-fragen'},
+ {reading:'alltag-a1-schluesselring',dialogue:'den-leeren-ring'},
+ {reading:'alltag-a2-tuerstopper',dialogue:'holzkeil-wegraeumen'},
+ {reading:'alltag-b1-flurplan',dialogue:'ablage-keine-erlaubnis'},
 ];

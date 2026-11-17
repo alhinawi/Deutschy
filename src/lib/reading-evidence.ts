@@ -305,3 +305,24 @@ Object.assign(readingEvidence,{
     "Die Liste bleibt bei Dalia, aber sie enthält keine Namen und keine persönlichen Gesundheitsangaben."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-schluesselring": [
+    "Auf der Kommode steht eine blaue Schale.",
+    "Er ist noch in ihrer Jackentasche.",
+    "Er braucht den leeren Ring für seinen eigenen Schlüssel.",
+    "Mila gibt ihm den Ring."
+  ],
+  "alltag-a2-tuerstopper": [
+    "Lea und Amir tragen eine leere Kiste aus dem Wohnzimmer in den Flur ihrer Wohnung.",
+    "Die leichte Zimmertür fällt immer wieder zu.",
+    "Lea räumt ihn aber in das unterste Fach der Kommode.",
+    "Amir hat nur die Kiste getragen und weiß noch nicht, in welches Fach das Holzstück gehört."
+  ],
+  "alltag-b1-flurplan": [
+    "Sein Schlüsselring liegt manchmal nur kurz dort, weil er gerade seine Jacke wechselt.",
+    "Die anderen stimmen zu, wollen die Vereinbarung aber nach einigen Tagen gemeinsam prüfen.",
+    "Sie zeichnet deshalb kein zweites Gefäß ein, sondern misst zunächst den freien Platz.",
+    "Aus Janas Zeichnung lässt sich weder die Zustimmung zu weiteren Möbeln noch die Erlaubnis zum Benutzen fremder Gegenstände ableiten."
+  ]
+});

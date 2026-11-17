@@ -99,3 +99,6 @@ readings.push(...malrundeTexts);
 
 import {kuechenprepTexts} from './reading-kuechenprep';
 readings.push(...kuechenprepTexts);
+
+import {flurablageTexts} from './reading-flurablage';
+readings.push(...flurablageTexts);
