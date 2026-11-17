@@ -171,4 +171,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zwei-dinge-im-regal',dialogue:'die-zweite-karte-im-heft'},
  {reading:'alltag-a2-karte-mit-offener-frage',dialogue:'fundort-und-eigentum-trennen'},
  {reading:'alltag-b1-gleiches-wort-andere-form',dialogue:'beispiel-ist-keine-formenliste'},
+ {reading:'alltag-a1-bilder-in-der-mappe',dialogue:'foto-vorne-in-der-mappe'},
+ {reading:'alltag-a2-zwei-umschlaege-fuer-fotos',dialogue:'rueckseiten-einzeln-abgleichen'},
+ {reading:'alltag-b1-komposita-nicht-nur-das-ende',dialogue:'erst-das-gesamtwort-pruefen'},
 ];

@@ -228,3 +228,6 @@ readings.push(...fruehstuecksplatzTexts);
 
 import {vitrinenwoerterTexts} from './reading-vitrinenwoerter';
 readings.push(...vitrinenwoerterTexts);
+
+import {wortteilefachTexts} from './reading-wortteilefach';
+readings.push(...wortteilefachTexts);

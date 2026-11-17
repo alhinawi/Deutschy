@@ -12243,3 +12243,218 @@ Object.assign(dialogueEvidence,{
     "Heute prüfen wir nur die Zuordnung von Wort und Bild."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "foto-vorne-in-der-mappe",
+    "level": "A1",
+    "title": [
+      "Wo ist das Bild mit der Mühle?",
+      "صورة المطحنة فين؟"
+    ],
+    "lines": [
+      [
+        "Rita",
+        "Ich suche das Foto mit der Kaffeemühle.",
+        "بدور على صورة مطحنة البن."
+      ],
+      [
+        "Tom",
+        "Hier, hinter dem Glasfoto. Ich lege es nach vorn.",
+        "أهو، ورا صورة الكوباية. هحطه قدام."
+      ],
+      [
+        "Rita",
+        "Das Bild mit dem Korkenzieher liegt schon neben der Mappe.",
+        "صورة فتاحة الفلين موجودة أصلًا جنب الملف."
+      ],
+      [
+        "Tom",
+        "Achte beim Schreiben auf das h nach dem ü in Kaffeemühle.",
+        "خدي بالك وإنتي بتكتبي من حرف h بعد ü في Kaffeemühle."
+      ],
+      [
+        "Rita",
+        "Danke, ich verbessere das Wort. Kleben wir die Bilder jetzt ein?",
+        "شكرًا، هصحح الكلمة. نلزق الصور دلوقتي؟"
+      ],
+      [
+        "Tom",
+        "Der Kleber liegt noch bei deiner Schwester.",
+        "اللزق لسه عند أختك."
+      ],
+      [
+        "Rita",
+        "Dann kommen beide Bilder und das Blatt erst einmal zurück in die Mappe.",
+        "يبقى الصورتين والورقة يرجعوا في الملف مؤقتًا."
+      ]
+    ],
+    "q": [
+      [
+        "Wo liegt das Korkenzieherbild?",
+        "Neben der Mappe.",
+        "Im Bad.",
+        "Unter dem Kleber."
+      ],
+      [
+        "Worauf weist Tom hin?",
+        "Auf das h nach dem ü.",
+        "Auf ein fehlendes Bild mit einem Haus.",
+        "Auf einen neuen Klebestift."
+      ],
+      [
+        "Was kommt vorerst in die Mappe zurück?",
+        "Beide Bilder und das Blatt.",
+        "Nur ein leerer Umschlag.",
+        "Eine echte Kaffeemühle."
+      ]
+    ]
+  },
+  {
+    "id": "rueckseiten-einzeln-abgleichen",
+    "level": "A2",
+    "title": [
+      "Nicht nach der Kartengröße",
+      "مش حسب حجم الكارت"
+    ],
+    "lines": [
+      [
+        "Omar",
+        "Die beiden Rückseitenkarten liegen lose hier. Welche gehört zu welchem Bild?",
+        "كارتين الضهر سايبين هنا. أنهي واحد تابع لأنهي صورة؟"
+      ],
+      [
+        "Jule",
+        "Lesen wir die Beschreibungen ganz. Nach der Größe geht es nicht.",
+        "نقرا الوصف كامل. مش هينفع حسب الحجم."
+      ],
+      [
+        "Omar",
+        "Stimmt, beide Karten haben dasselbe Format. Hier steht etwas über Kaffeebohnen.",
+        "صح، الكارتين نفس المقاس. هنا مكتوب حاجة عن حبوب البن."
+      ],
+      [
+        "Jule",
+        "Das passt zum Foto der Kaffeemühle. Die Karte mit dem spiralförmigen Teil gehört zum Korkenzieher.",
+        "ده مناسب لصورة مطحنة البن. الكارت اللي فيه الجزء الحلزوني تابع لفتاحة الفلين."
+      ],
+      [
+        "Omar",
+        "Jetzt lege ich jede Karte zum passenden Foto. Stimmen auch die Umschlagwörter?",
+        "دلوقتي أحط كل كارت مع الصورة المناسبة. الكلمات على الأظرف متفقة برضه؟"
+      ],
+      [
+        "Jule",
+        "Ja. Ob die Geräte funktionieren, haben wir damit aber nicht geprüft.",
+        "أيوه. بس كده مش نكون راجعنا إذا الأجهزة بتشتغل."
+      ],
+      [
+        "Omar",
+        "Dann kommen die Umschläge in die Schublade. Wir verschicken sie heute nicht.",
+        "يبقى الأظرف تتحط في الدرج. مش هنبعتها النهارده."
+      ]
+    ],
+    "q": [
+      [
+        "Warum sortieren sie nicht nach Größe?",
+        "Beide Karten sind gleich groß.",
+        "Alle Karten sind verschwunden.",
+        "Die Bilder sind zu teuer."
+      ],
+      [
+        "Welche Karte passt zur Kaffeemühle?",
+        "Die mit der Beschreibung der Kaffeebohnen.",
+        "Die mit einem Fahrplan.",
+        "Die mit einem Straßennamen."
+      ],
+      [
+        "Was geschieht heute nicht?",
+        "Sie verschicken die Umschläge nicht.",
+        "Sie lesen die Beschreibungen nicht.",
+        "Sie prüfen die Umschlagwörter nicht."
+      ]
+    ]
+  },
+  {
+    "id": "erst-das-gesamtwort-pruefen",
+    "level": "B1",
+    "title": [
+      "Ein Teil ist nicht das ganze Wort",
+      "الجزء مش الكلمة كلها"
+    ],
+    "lines": [
+      [
+        "David",
+        "In Kaffeemühle steckt Mühle. Könnten wir also auch eine Windmühle zeigen?",
+        "في Kaffeemühle فيه Mühle. يبقى ممكن نعرض طاحونة هوا برضه؟"
+      ],
+      [
+        "Aylin",
+        "Nicht für diese Karte. Das ganze Wort bezeichnet eine Mühle für Kaffeebohnen.",
+        "مش للكارت ده. الكلمة كاملة بتسمي مطحنة لحبوب البن."
+      ],
+      [
+        "David",
+        "Und bei Korkenzieher ist keine Person gemeint, obwohl ich an jemanden denke, der zieht.",
+        "وفي Korkenzieher المقصود مش شخص، رغم إني بفكر في حد بيشد."
+      ],
+      [
+        "Aylin",
+        "Genau. Wir prüfen zuerst die Gesamtbedeutung und markieren danach hilfreiche Teile.",
+        "بالظبط. نراجع الأول المعنى الكامل وبعدين نعلم على أجزاء مفيدة."
+      ],
+      [
+        "David",
+        "Bei einer unklaren Zerlegung lassen wir eine Frage stehen. Wir erfinden keine Erklärung.",
+        "لو التقسيم مش واضح نسيب سؤال. مانألفش شرح."
+      ],
+      [
+        "Aylin",
+        "Das ist eine Merkhilfe, keine allgemeine Regel über alle deutschen Wörter.",
+        "دي مساعدة للحفظ، مش قاعدة عامة عن كل الكلمات الألماني."
+      ],
+      [
+        "David",
+        "Und über die Wortgeschichte behaupten wir heute nichts. Dazu haben wir nicht recherchiert.",
+        "ومش هنقول معلومات عن تاريخ الكلمة النهارده. مابحثناش ده."
+      ]
+    ],
+    "q": [
+      [
+        "Was wird zuerst geprüft?",
+        "Die Gesamtbedeutung.",
+        "Eine erfundene Wortgeschichte.",
+        "Nur die Länge der Karte."
+      ],
+      [
+        "Was ist die Wortteilmarkierung hier?",
+        "Eine Merkhilfe, keine allgemeine Regel.",
+        "Eine vollständige etymologische Studie.",
+        "Eine Bedienungsanleitung."
+      ],
+      [
+        "Was behaupten sie heute nicht?",
+        "Etwas über die Wortgeschichte.",
+        "Dass sie zwei Wörter vergleichen.",
+        "Dass Korkenzieher hier ein Gerät bezeichnet."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "foto-vorne-in-der-mappe": [
+    "Das Bild mit dem Korkenzieher liegt schon neben der Mappe.",
+    "Achte beim Schreiben auf das h nach dem ü",
+    "Dann kommen beide Bilder und das Blatt erst einmal zurück in die Mappe."
+  ],
+  "rueckseiten-einzeln-abgleichen": [
+    "beide Karten haben dasselbe Format.",
+    "Hier steht etwas über Kaffeebohnen.",
+    "Wir verschicken sie heute nicht."
+  ],
+  "erst-das-gesamtwort-pruefen": [
+    "Wir prüfen zuerst die Gesamtbedeutung",
+    "Das ist eine Merkhilfe, keine allgemeine Regel",
+    "über die Wortgeschichte behaupten wir heute nichts."
+  ]
+});

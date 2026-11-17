@@ -479,6 +479,10 @@
   {
    "id": "vitrinenwoerter",
    "ar": "سكرية وكسارة بندق"
+  },
+  {
+   "id": "wortteilefach",
+   "ar": "مطحنة بن وفتاحة فلين"
   }
  ],
  "words": [
@@ -12680,6 +12684,36 @@
     "file": "18454971.jpg",
     "commons": "https://www.pexels.com/photo/books-by-bowl-with-walnuts-and-nutcracker-18454971/",
     "author": "Meryem Şahin",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "kaffeemuehle",
+   "topic": "wortteilefach",
+   "art": "die",
+   "de": "Kaffeemühle",
+   "plural": "Kaffeemühlen",
+   "ar": "مطحنة بن",
+   "photo": {
+    "file": "29527516.jpg",
+    "commons": "https://www.pexels.com/photo/manual-coffee-bean-grinder-with-coffee-beans-29527516/",
+    "author": "Sedanur Kunuk",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "korkenzieher",
+   "topic": "wortteilefach",
+   "art": "der",
+   "de": "Korkenzieher",
+   "plural": "-",
+   "ar": "فتاحة فلين",
+   "photo": {
+    "file": "19753473.jpg",
+    "commons": "https://www.pexels.com/photo/wing-corkscrew-with-bottle-opener-19753473/",
+    "author": "Fco Javier Carriola",
     "license": "Pexels License",
     "modified": true
    }

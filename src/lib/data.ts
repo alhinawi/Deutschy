@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  wortteilefach: 'Kaffeemühle und Korkenzieher',
   vitrinenwoerter: 'Zuckerdose und Nussknacker',
   fruehstuecksplatz: 'Brotkorb und Obstschale',
   naehkistenfach: 'Spule und Stecknadel',
@@ -117,6 +118,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  wortteilefach: 'Coffee grinder and corkscrew',
   vitrinenwoerter: 'Sugar bowl and nutcracker',
   fruehstuecksplatz: 'Bread basket and fruit bowl',
   naehkistenfach: 'Thread spool and sewing pin',

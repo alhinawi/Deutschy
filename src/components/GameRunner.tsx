@@ -197,7 +197,7 @@ function Frame({ i, n, children }: { i: number; n: number; children: React.React
   return (
     <div className="mx-auto max-w-md space-y-4">
       <div role="progressbar" aria-label={t("التقدم في الجولة","Round progress")} aria-valuemin={0} aria-valuemax={n} aria-valuenow={i} aria-valuetext={t(`${i} من ${n} اتجاوب عليهم`, `${i} of ${n} answered`)} className="h-1.5 overflow-hidden rounded-full bg-line"><div aria-hidden="true" className="h-full bg-accent" style={{ width: `${(i / n) * 100}%` }} /></div>
-      <p dir="ltr" className="num text-center text-sm text-muted">{i + 1} / {n}</p>
+      <p dir="ltr" aria-label={t(`السؤال ${i + 1} من ${n}`, `Question ${i + 1} of ${n}`)} className="num text-center text-sm text-muted">{i + 1} / {n}</p>
       {children}
     </div>
   );

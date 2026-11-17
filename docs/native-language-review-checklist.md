@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the seventy-fifth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the seventy-sixth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -730,9 +730,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Round progress | Localized value text now explicitly says how many questions have been answered, not which one is currently open. Initial0, then1 in two-question rounds. Name/min/max/current preserved. Spelling focus, readability, required/help/error semantics and scoring unchanged. |
 | [ ] | Listening/dictation |58 segments, Egyptian Arabic, German word shapes and noun compounds. Actual device voice and native editorial approval pending. No food handling, tool-use instructions, health or provenance claims. |
 
+### List 76: coffee grinder, corkscrew and complete word meanings
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-bilder-in-der-mappe/` and linked dialogue | Five photos initially in folder, sixth corkscrew image outside. Grinder picture behind glass photo. Both target pictures plus written sheet returned to folder, other four stay. Six photos at end. Missing h after ü corrected in Kaffeemühle. No gluing yet, glue at sister's place. |
+| [ ] | `/reading/alltag-a2-zwei-umschlaege-fuer-fotos/` and linked dialogue | Two same-size reverse cards loose, one image in each labeled envelope. Full descriptions guide pairing, then envelope words checked. No brand/instructions/function test; envelopes put in drawer, not sent. Check Rückseitenkarte idiom and Egyptian Arabic. |
+| [ ] | `/reading/alltag-b1-komposita-nicht-nur-das-ende/` and linked dialogue | Kaffeemühle is not any Mühle; windmill not matching substitute. Korkenzieher means device here, not pulling person. Whole meaning checked before marking word parts as memory aids; unknown decomposition stays question. No universal compound rule or etymology claim. |
+| [ ] | `/lessons/wortteilefach/` and `/credits/` | die Kaffeemühle/Kaffeemühlen, der Korkenzieher/same plural. Egyptian Arabic مطحنة بن and فتاحة فلين. Whole manual grinder with open bean chamber, handle and lower jar; whole wing corkscrew, source rotated90 degrees before crop to preserve entire object without padding/distortion. No people/brands/bottles. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way-preposition/negation rows. Prior keys preserved. Fixed location der Mappe/dem Umschlag versus destination die Mappe/den Umschlag; singular seine/seinen versus plural unsere. |
+| [ ] | Question counter | Visible fraction now has localized explicit Question1of2 label. Current-question count differs intentionally from zero-based answered progress. Existing progress, spelling focus/required/help/error/readability, XP and duplicate guards preserved. |
+| [ ] | Listening/dictation |60 segments and Egyptian Arabic. Check compound spelling/pronunciation, article and complete-word explanations. Native editorial and actual device German voice pending. Vocabulary only, no use/drink-preparation instructions. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **807 photo nouns / 120 topics**, **243 reading texts / 925 reading questions**, **41 core grammar topics / 1750 core grammar questions**, **183 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **809 photo nouns / 121 topics**, **246 reading texts / 937 reading questions**, **41 core grammar topics / 1774 core grammar questions**, **186 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -744,7 +756,7 @@ This is an inventory, not completed review. Snapshot: **807 photo nouns / 120 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 63 · A2 91 · B1 59 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 64 · A2 92 · B1 60 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

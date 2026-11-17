@@ -1208,3 +1208,24 @@ Object.assign(readingEvidence,{
     "Eine Materialbestimmung, eine Funktionsprüfung oder eine Anleitung gehört nicht zu diesem Wortabend."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-bilder-in-der-mappe": [
+    "Tom findet es hinter einem Foto mit einem Glas.",
+    "Dort steht Kaffeemühle mit h nach dem ü. Rita verbessert das Wort.",
+    "Der Kleber liegt bei Ritas Schwester.",
+    "Jetzt legen sie die beiden Bilder zusammen mit dem Blatt in die blaue Mappe. Die anderen vier Fotos bleiben ebenfalls darin."
+  ],
+  "alltag-a2-zwei-umschlaege-fuer-fotos": [
+    "Beide Karten haben nämlich dasselbe Format.",
+    "Sie lesen die vollständigen Beschreibungen",
+    "Ob die fotografierten Geräte funktionieren, haben Jule und Omar nicht geprüft.",
+    "Sie packen die Umschläge in eine Schublade."
+  ],
+  "alltag-b1-komposita-nicht-nur-das-ende": [
+    "Das ganze Wort bezeichnet hier eine Mühle für Kaffeebohnen.",
+    "In Korkenzieher bezeichnet das Gesamtwort jedoch ein Gerät.",
+    "Wenn eine Zerlegung unklar ist, soll sie als Frage stehen bleiben und nicht durch eine erfundene Erklärung ersetzt werden.",
+    "Etymologische Aussagen haben sie an diesem Nachmittag nicht recherchiert."
+  ]
+});
