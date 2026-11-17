@@ -419,6 +419,10 @@
   {
    "id": "planungsplatz",
    "ar": "تقويم ونوتة ملاحظات"
+  },
+  {
+   "id": "teeregal",
+   "ar": "أكياس شاي ومصفاة كروية"
   }
  ],
  "words": [
@@ -12170,6 +12174,36 @@
     "file": "notebook.jpg",
     "commons": "https://www.pexels.com/photo/pen-on-a-blank-notebook-11911069/",
     "author": "dlxmedia.hu",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "teebeutel",
+   "topic": "teeregal",
+   "art": "der",
+   "de": "Teebeutel",
+   "plural": "-",
+   "ar": "كيس شاي",
+   "photo": {
+    "file": "bags.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-of-tea-ingredients-in-tea-bags-8329269/",
+    "author": "Anna Pou",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "tee-ei",
+   "topic": "teeregal",
+   "art": "das",
+   "de": "Tee-Ei",
+   "plural": "Tee-Eier",
+   "ar": "مصفاة شاي كروية",
+   "photo": {
+    "file": "chain.jpg",
+    "commons": "https://www.pexels.com/photo/silver-round-accessory-with-storage-227908/",
+    "author": "koko rahmadie",
     "license": "Pexels License",
     "modified": true
    }

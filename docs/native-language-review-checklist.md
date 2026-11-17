@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the sixtieth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the sixty-first practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -538,6 +538,18 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Photo quiz | Non-contextual photo questions now expose an equivalent written AR/EN meaning to screen readers, not the German answer. Decorative image alt stays empty. Check old/new topics, correct and incorrect answers, no changed scoring. Async image decode. |
 | [ ] | Listening/dictation | All 60 source segments, exact question evidence and Egyptian Arabic. Actual device-voice and native review pending. Fictional learning schedules only, no real event/calendar changes or sync promise. |
 
+### List 61: tea bags, infuser ball and borrowing
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-teeregal/` and `beutel-in-der-dose` | Ella finds bag in blue tin, empty cup, bag to plate, Jonas's infuser to small box. No water collected. Check all 7 questions/evidence and Egyptian Arabic. |
+| [ ] | `/reading/alltag-a2-welches-teezubehoer/` and `gegenstand-oder-sorte` | Pia first understands tea bag; Malik means metal infuser with chain. Item in box by cups, not drawer. Names read before tea choice; object choice not variety choice. |
+| [ ] | `/reading/alltag-b1-geliehenes-tee-ei/` and `bis-zum-naechsten-treffen` | David lends until next meeting, not gift/shared kitchen property. Name means owner, not tea-fund manager. No bags taken from Runa's stock. Next meeting day and own purchase not agreed. |
+| [ ] | `/lessons/teeregal/` | der Teebeutel / same-form plural (-), das Tee-Ei / Tee-Eier. Whole foreground tea bag and open two-half metal infuser with chain. Egyptian Arabic مصفاة شاي كروية is descriptive, not literal food egg. |
+| [ ] | `exercises-teeregal.ts` | 24 append-only article/genus, dative, present, separable, two-way/dative-preposition and negation rows. Earlier saved identities unchanged. |
+| [ ] | Flashcards | Explicit localized Show/Hide the word accessible label and expanded state track each reveal/hide and next card. Revealing never awards points or changes SRS. First answer only sets schedule, same as before. |
+| [ ] | Listening/dictation | Check 58 segments, exact evidence, Egyptian Arabic and actual German device voice. No brewing, temperature, dosage, health or safety guidance. Fictional household borrowing only. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -552,7 +564,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **777 photo nouns / 105 topics**, **198 reading texts / 745 reading questions**, **41 core grammar topics / 1390 core grammar questions**, **138 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **779 photo nouns / 106 topics**, **201 reading texts / 757 reading questions**, **41 core grammar topics / 1414 core grammar questions**, **141 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -564,7 +576,7 @@ This is an inventory, not completed review. Snapshot: **777 photo nouns / 105 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 48 · A2 76 · B1 44 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 49 · A2 77 · B1 45 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

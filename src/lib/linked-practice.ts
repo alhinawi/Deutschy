@@ -126,4 +126,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-planungsplatz',dialogue:'ben-erst-fragen'},
  {reading:'alltag-a2-zwei-zeiten',dialogue:'eine-zeit-auswaehlen'},
  {reading:'alltag-b1-verschobener-beginn',dialogue:'nur-ein-neuer-beginn'},
+ {reading:'alltag-a1-teeregal',dialogue:'beutel-in-der-dose'},
+ {reading:'alltag-a2-welches-teezubehoer',dialogue:'gegenstand-oder-sorte'},
+ {reading:'alltag-b1-geliehenes-tee-ei',dialogue:'bis-zum-naechsten-treffen'},
 ];

@@ -893,3 +893,24 @@ Object.assign(readingEvidence,{
     "Ob sie einen der Texte weglassen, bleibt bis zur Probe offen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-teeregal": [
+    "In der Dose liegen Teebeutel.",
+    "Es gehört Jonas.",
+    "Ella nimmt einen Beutel heraus und legt ihn auf einen Teller.",
+    "Wasser haben sie noch nicht geholt."
+  ],
+  "alltag-a2-welches-teezubehoer": [
+    "Malik meint aber das Tee-Ei aus Metall",
+    "in einer kleinen Schachtel neben den Tassen.",
+    "Malik möchte erst die Packungsnamen lesen.",
+    "Eine Auswahl des Tees ist damit noch nicht getroffen."
+  ],
+  "alltag-b1-geliehenes-tee-ei": [
+    "dass er es ihr bis zu ihrem nächsten Treffen leiht.",
+    "Der Name kennzeichnet hier den Eigentümer",
+    "David nimmt keinen davon mit.",
+    "Den genauen Tag legen sie in diesem Gespräch noch nicht fest."
+  ]
+});

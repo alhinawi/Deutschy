@@ -345,3 +345,6 @@ for(const[topic,rows]of Object.entries(schreibplatzGrammar))exercises[topic].pus
 
 import {planungsplatzGrammar} from './exercises-planungsplatz';
 for(const[topic,rows]of Object.entries(planungsplatzGrammar))exercises[topic].push(...rows);
+
+import {teeregalGrammar} from './exercises-teeregal';
+for(const[topic,rows]of Object.entries(teeregalGrammar))exercises[topic].push(...rows);

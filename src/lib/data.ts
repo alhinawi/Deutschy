@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  teeregal: 'Teebeutel und Tee-Ei',
   planungsplatz: 'Kalender und Notizbuch',
   schreibplatz: 'Klemmbrett und Textmarker',
   besteckrunde: 'Gabeln und Schüsseln',
@@ -102,6 +103,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  teeregal: 'Tea bags and infuser ball',
   planungsplatz: 'Calendar and notebook',
   schreibplatz: 'Clipboard and highlighter',
   besteckrunde: 'Forks and bowls',

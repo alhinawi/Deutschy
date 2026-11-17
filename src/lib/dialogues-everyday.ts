@@ -9018,3 +9018,218 @@ Object.assign(dialogueEvidence,{
     "erst bei der Probe."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "beutel-in-der-dose",
+    "level": "A1",
+    "title": [
+      "Schau in die blaue Dose",
+      "بصي في العلبة الزرقا"
+    ],
+    "lines": [
+      [
+        "Ella",
+        "Liegt ein Teebeutel in der Tasse?",
+        "فيه كيس شاي في الفنجان؟"
+      ],
+      [
+        "Jonas",
+        "Nein, die ist leer. Die Beutel sind in der blauen Dose.",
+        "لأ، هو فاضي. الأكياس في العلبة الزرقا."
+      ],
+      [
+        "Ella",
+        "Dann nehme ich einen und lege ihn auf den Teller.",
+        "يبقى آخد واحد وأحطه على الطبق."
+      ],
+      [
+        "Jonas",
+        "Brauchst du auch das Tee-Ei?",
+        "محتاجة كمان مصفاة الشاي الكروية؟"
+      ],
+      [
+        "Ella",
+        "Nein, das lasse ich hier.",
+        "لأ، هسيبها هنا."
+      ],
+      [
+        "Jonas",
+        "Ich lege es in die kleine Schachtel.",
+        "هحطها في العلبة الصغيرة."
+      ],
+      [
+        "Ella",
+        "Gut. Danach möchte ich mein Buch weiterlesen.",
+        "تمام. بعد كده عايزة أكمل قراية كتابي."
+      ]
+    ],
+    "q": [
+      [
+        "Was ist leer?",
+        "Die Tasse.",
+        "Die blaue Dose.",
+        "Das Regal."
+      ],
+      [
+        "Was nimmt Ella?",
+        "Einen Teebeutel.",
+        "Das Tee-Ei.",
+        "Die Schachtel."
+      ],
+      [
+        "Was möchte Ella danach tun?",
+        "Ihr Buch weiterlesen.",
+        "Eine Dose kaufen.",
+        "Das Regal tragen."
+      ]
+    ]
+  },
+  {
+    "id": "gegenstand-oder-sorte",
+    "level": "A2",
+    "title": [
+      "Ich meine das Tee-Ei",
+      "قصدي المصفاة الكروية"
+    ],
+    "lines": [
+      [
+        "Malik",
+        "Wo ist das kleine Ding für den Tee?",
+        "فين الحاجة الصغيرة بتاعة الشاي؟"
+      ],
+      [
+        "Pia",
+        "Meinst du einen Teebeutel? Die Packung steht im Regal.",
+        "تقصد كيس شاي؟ العبوة على الرف."
+      ],
+      [
+        "Malik",
+        "Nein, das Tee-Ei aus Metall, mit der Kette.",
+        "لأ، مصفاة الشاي الكروية المعدن، اللي بسلسلة."
+      ],
+      [
+        "Pia",
+        "Ach so. Das liegt in der Schachtel neben den Tassen.",
+        "آه فهمت. هي في العلبة الصغيرة جنب الفناجين."
+      ],
+      [
+        "Malik",
+        "Danke. Welche Sorten haben wir? Ich lese erst die Namen.",
+        "شكرًا. عندنا أنواع إيه؟ أقرا الأسامي الأول."
+      ],
+      [
+        "Pia",
+        "Dann hole ich noch keine Packung heraus.",
+        "يبقى لسه مش هطلع عبوة."
+      ],
+      [
+        "Malik",
+        "Genau. Den Gegenstand haben wir, die Sorte wählen wir noch.",
+        "بالظبط. لقينا الأداة، ولسه هنختار النوع."
+      ]
+    ],
+    "q": [
+      [
+        "Was hatte Pia zuerst verstanden?",
+        "Einen Teebeutel.",
+        "Ein Tee-Ei.",
+        "Einen Untersetzer."
+      ],
+      [
+        "Was nennt Malik zur Beschreibung?",
+        "Metall und Kette.",
+        "Rot und Papier.",
+        "Holz und Griff."
+      ],
+      [
+        "Was wählen sie noch?",
+        "Die Teesorte.",
+        "Den Tisch.",
+        "Die Schachtel."
+      ]
+    ]
+  },
+  {
+    "id": "bis-zum-naechsten-treffen",
+    "level": "B1",
+    "title": [
+      "Ich bringe es wieder mit",
+      "هجيبه معايا تاني"
+    ],
+    "lines": [
+      [
+        "Runa",
+        "Soll das Tee-Ei in unserer gemeinsamen Schublade bleiben?",
+        "مصفاة الشاي الكروية تفضل في الدرج المشترك بتاعنا؟"
+      ],
+      [
+        "David",
+        "Nur bis zu unserem nächsten Treffen. Ich leihe es dir.",
+        "لحد مقابلتنا الجاية بس. أنا مسلفهالك."
+      ],
+      [
+        "Runa",
+        "Also kein Geschenk. Ich lege es in eine Schachtel mit deinem Namen.",
+        "يعني مش هدية. هحطها في علبة صغيرة عليها اسمك."
+      ],
+      [
+        "David",
+        "Genau. Dann ist klar, wem es gehört.",
+        "بالظبط. كده يبقى واضح هي بتاعة مين."
+      ],
+      [
+        "Runa",
+        "Zum nächsten Treffen bringe ich es mit. Welcher Tag passt?",
+        "هجيبها معايا المقابلة الجاية. أنهي يوم مناسب؟"
+      ],
+      [
+        "David",
+        "Ich muss erst in meinen Kalender schauen.",
+        "لازم أبص الأول في التقويم بتاعي."
+      ],
+      [
+        "Runa",
+        "Dann notiere ich nur die Rückgabe, noch keinen festen Tag.",
+        "يبقى أسجل الترجيع بس، ولسه مش يوم ثابت."
+      ]
+    ],
+    "q": [
+      [
+        "Ist das Tee-Ei ein Geschenk?",
+        "Nein, es ist geliehen.",
+        "Ja, für alle Mitbewohner.",
+        "Ja, für David."
+      ],
+      [
+        "Warum steht Davids Name auf der Schachtel?",
+        "Damit klar ist, wem es gehört.",
+        "Weil er die Teekasse verwaltet.",
+        "Weil die Schachtel verkauft wird."
+      ],
+      [
+        "Was ist noch nicht fest?",
+        "Der Tag des nächsten Treffens.",
+        "Die Rückgabe beim nächsten Treffen.",
+        "Die Eigentümerschaft."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "beutel-in-der-dose": [
+    "die ist leer.",
+    "Dann nehme ich einen",
+    "mein Buch weiterlesen."
+  ],
+  "gegenstand-oder-sorte": [
+    "Meinst du einen Teebeutel?",
+    "aus Metall, mit der Kette.",
+    "die Sorte wählen wir noch."
+  ],
+  "bis-zum-naechsten-treffen": [
+    "Ich leihe es dir.",
+    "Dann ist klar, wem es gehört.",
+    "noch keinen festen Tag."
+  ]
+});
