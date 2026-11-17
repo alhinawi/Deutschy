@@ -515,3 +515,24 @@ Object.assign(readingEvidence,{
     "Eine Reparatur ist aber noch nicht vereinbart."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-balkonstuhl": [
+    "Lina stellt ihn an die Wand.",
+    "Unter dem Topf liegt ein brauner Untersetzer.",
+    "Sie steht hinter dem Tisch, nicht im Zimmer.",
+    "Die beiden haben noch keine Pflanze gegossen."
+  ],
+  "alltag-a2-blumenkasten": [
+    "Zuerst stellt Nabil ihn auf den Boden neben die Wand.",
+    "Es fehlen aber passende Halterungen, und die beiden wissen nicht, welche Befestigung für ihren Balkon geeignet ist.",
+    "Auf einem Zettel notiert Eva die Länge des Kastens, aber keine erfundene Belastungsgrenze für das Geländer.",
+    "Es ist noch keine Halterung ausgewählt oder gekauft."
+  ],
+  "alltag-a2-untersetzer": [
+    "Ihr Freund Leon hält den Untersetzer zunächst für einen weiteren Teller und möchte ihn auf den Tisch stellen.",
+    "Leon lässt den Untersetzer unter dem Topf.",
+    "Danach klappt er den Wäscheständer zusammen und stellt ihn ins Zimmer.",
+    "An den Pflanzen verändern sie nichts und vereinbaren keinen festen Gießplan."
+  ]
+});

@@ -328,6 +328,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/grammar/satzbau/`, `/grammar/praesens/`, `/grammar/negation/`, `/grammar/trennbare-verben/`, `/grammar/dativ/`, `/grammar/perfekt/` | Review 24 appended questions: verb-second/neutral questions, hängt/liest, keinen Brief, aufschließen/mitnehmen, dem Nachbarn, den Freunden, aufgeschlossen/mitgenommen/vereinbart. Previous saved identities remain fixed. |
 | [ ] | `/conjugation/#present-focus` and `/dictation/` | Check current-attempt clear removes input/feedback without changing verb/person; clear and next-person return focus to input. Counter is person position, not mastery. Verb/person changes clear attempt; reload resets. No points/history. Review 42 focused dictation sentences with a real German voice, not mocks. |
 
+### List 43: balcony, small plants and digit practice
+
+| Review | Route / item | Focus |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-balkonstuhl/` | Review **Der Stuhl steht an der Wand** and **Hinter dem kleinen Tisch**: folding chair at wall, plant pot on saucer, watering can behind table, towel on railing, drying rack opposite. Arranging items only, not watering yet. Check 7 questions/evidence and Egyptian meanings. |
+| [ ] | `/reading/alltag-a2-blumenkasten/` | Review **Der Kasten gehört noch auf den Boden** and **Erst Fragen sammeln**: empty box stays on ground, suitable fixings unknown, length recorded, no invented railing load limit, no installation or purchase. Fictional planning, not mounting advice. Check 7 questions/evidence. |
+| [ ] | `/reading/alltag-a2-untersetzer/` | Review **Die Schale ist kein freier Teller** and **Der gehört zur Pflanze**: plant saucer not eating plate, saucer stays under pot, clean plate on table, drying rack folded into room, chair closer, no watering schedule. Similar looks do not establish use. Check 7 questions/evidence and Egyptian translations. |
+| [ ] | `/lessons/balkonrunde/` | Check der Klappstuhl / Klappstühle, der Blumenkasten / Blumenkästen (another dictionary plural Blumenkasten also exists). Full wooden folding chair and complete planted boxes in real photos, no faces/brands/object crop. Source/author/license/padding preserved. Photo setting does not claim to be the fictional balcony. |
+| [ ] | `/grammar/akkusativ/`, `/grammar/possessiv/`, `/grammar/modalverben/`, `/grammar/imperativ/`, `/grammar/komparativ/`, `/grammar/dativ-praepositionen/` | Review 24 appended questions/explanations: den Klappstuhl, unseren Balkon, modal infinitives, du/ihr/Sie, breiter/schwerer/näher, mit dem Nachbarn, nach dem Aufräumen, seit zwei Tagen. Earlier saved identities retained. |
+| [ ] | `/zahlen/#typed-zahlen` and `/dictation/` | Check temporary clear-current-answer keeps example position, clears result and focuses input; next wraps/focuses, type switch resets index. Counter not score. No progress writes. Check all 16 digit items and long German number/month/day rows at 320px AR/EN. Listen to 41 focused dictation sentences on a real German voice, not mocks. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -342,7 +353,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **741 photo nouns / 87 topics**, **144 reading texts / 529 reading questions**, **41 core grammar topics / 958 core grammar questions**, **84 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **743 photo nouns / 88 topics**, **147 reading texts / 541 reading questions**, **41 core grammar topics / 982 core grammar questions**, **87 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -354,7 +365,7 @@ This is an inventory, not completed review. Snapshot: **741 photo nouns / 87 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 30 · A2 48 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 31 · A2 50 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

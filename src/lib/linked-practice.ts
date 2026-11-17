@@ -72,4 +72,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-schluesselhaken',dialogue:'linker-haken'},
  {reading:'alltag-a2-schirmstaender',dialogue:'schirm-erst-zuordnen'},
  {reading:'alltag-a2-briefkastenzettel',dialogue:'nur-das-schild'},
+ {reading:'alltag-a1-balkonstuhl',dialogue:'kanne-hinter-tisch'},
+ {reading:'alltag-a2-blumenkasten',dialogue:'kasten-noch-am-boden'},
+ {reading:'alltag-a2-untersetzer',dialogue:'schale-zum-topf'},
 ];

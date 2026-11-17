@@ -5148,3 +5148,218 @@ Object.assign(dialogueEvidence,{
     "Ich frage erst die zuständige Person im Haus."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "kanne-hinter-tisch",
+    "level": "A1",
+    "title": [
+      "Hinter dem kleinen Tisch",
+      "ورا الترابيزة الصغيرة"
+    ],
+    "lines": [
+      [
+        "Timo",
+        "Wo ist die Gießkanne? Im Zimmer sehe ich sie nicht.",
+        "كنكة سقي الزرع فين؟ مش شايفها جوه الأوضة."
+      ],
+      [
+        "Lina",
+        "Sie steht hinter dem kleinen Tisch auf dem Balkon.",
+        "ورا الترابيزة الصغيرة في البلكونة."
+      ],
+      [
+        "Timo",
+        "Danke. Ich stelle sie neben den Blumentopf.",
+        "شكراً. هحطها جنب قصيص الزرع."
+      ],
+      [
+        "Lina",
+        "Gut. Unter dem Topf bleibt der braune Untersetzer.",
+        "تمام. الطبق البني يفضل تحت القصيص."
+      ],
+      [
+        "Timo",
+        "Soll der Klappstuhl neben der Tür bleiben?",
+        "الكرسي يفضل جنب الباب؟"
+      ],
+      [
+        "Lina",
+        "Nein, ich stelle ihn an die Wand und lege mein Buch darauf.",
+        "لأ، هحطه عند الحيطة وأحط كتابي عليه."
+      ],
+      [
+        "Timo",
+        "Der Wäscheständer bleibt auf der anderen Seite.",
+        "والمنشر يفضل في الناحية التانية."
+      ]
+    ],
+    "q": [
+      [
+        "Wo steht die Kanne?",
+        "Hinter dem kleinen Tisch.",
+        "Im Zimmer.",
+        "Auf dem Stuhl."
+      ],
+      [
+        "Was bleibt unter dem Topf?",
+        "Der braune Untersetzer.",
+        "Das Buch.",
+        "Das blaue Tuch."
+      ],
+      [
+        "Wohin kommt Linas Buch?",
+        "Auf den Klappstuhl.",
+        "Unter den Topf.",
+        "An das Geländer."
+      ]
+    ]
+  },
+  {
+    "id": "kasten-noch-am-boden",
+    "level": "A2",
+    "title": [
+      "Erst Fragen sammeln",
+      "الأول نجمع الأسئلة"
+    ],
+    "lines": [
+      [
+        "Eva",
+        "Vielleicht könnten wir den Blumenkasten am Geländer aufhängen.",
+        "يمكن نقدر نعلّق صندوق الزرع على السور."
+      ],
+      [
+        "Nabil",
+        "Wir haben aber noch keine passenden Halterungen.",
+        "بس لسه معندناش حوامل مناسبة."
+      ],
+      [
+        "Eva",
+        "Stimmt. Dann bleibt er erst einmal auf dem Boden.",
+        "صح. يبقى يفضل على الأرض دلوقتي."
+      ],
+      [
+        "Nabil",
+        "Wir müssen zuerst klären, was für diesen Balkon geeignet ist.",
+        "لازم نعرف الأول إيه المناسب للبلكونة دي."
+      ],
+      [
+        "Eva",
+        "Ich schreibe die Länge des Kastens auf.",
+        "هكتب طول الصندوق."
+      ],
+      [
+        "Nabil",
+        "Und wir sammeln Fragen, statt eine Befestigung zu erraten.",
+        "ونجمع أسئلة بدل ما نخمن طريقة تثبيت."
+      ],
+      [
+        "Eva",
+        "Genau. Ausgewählt oder gekauft haben wir noch nichts.",
+        "بالظبط. لسه ماخترناش ولا اشترينا حاجة."
+      ]
+    ],
+    "q": [
+      [
+        "Wo bleibt der Kasten zunächst?",
+        "Auf dem Boden.",
+        "Außen am Geländer.",
+        "Auf dem Wäscheständer."
+      ],
+      [
+        "Was möchten sie zuerst klären?",
+        "Welche Lösung für diesen Balkon geeignet ist.",
+        "Wer den Stuhl schon gekauft hat.",
+        "Ob Eva einen Reisepass braucht."
+      ],
+      [
+        "Welcher Stand gilt am Ende?",
+        "Es ist noch nichts ausgewählt oder gekauft.",
+        "Die Halterung ist schon gekauft.",
+        "Der Kasten hängt bereits außen."
+      ]
+    ]
+  },
+  {
+    "id": "schale-zum-topf",
+    "level": "A2",
+    "title": [
+      "Der gehört zur Pflanze",
+      "ده بتاع الزرعة"
+    ],
+    "lines": [
+      [
+        "Leon",
+        "Soll ich diesen runden Untersetzer als Teller auf den Tisch stellen?",
+        "أحط طبق القصيص المدور ده على الترابيزة كطبق أكل؟"
+      ],
+      [
+        "Sara",
+        "Nein, der gehört zum Blumentopf und ist nicht fürs Essen gedacht.",
+        "لأ، ده بتاع قصيص الزرع ومش للأكل."
+      ],
+      [
+        "Leon",
+        "Dann lasse ich ihn unter dem Topf.",
+        "يبقى أسيبه تحت القصيص."
+      ],
+      [
+        "Sara",
+        "Danke. Der saubere Teller liegt schon auf dem Tisch.",
+        "شكراً. طبق الأكل النضيف على الترابيزة خلاص."
+      ],
+      [
+        "Leon",
+        "Ich klappe noch den Wäscheständer zusammen und stelle ihn ins Zimmer.",
+        "هطبق كمان المنشر وأحطه جوه الأوضة."
+      ],
+      [
+        "Sara",
+        "Gut. Ich rücke den Klappstuhl näher an den Tisch.",
+        "تمام. هقرب الكرسي من الترابيزة."
+      ],
+      [
+        "Leon",
+        "Und bevor ich etwas anderes umstelle, frage ich nach.",
+        "وقبل ما أغير مكان حاجة تانية، هسأل."
+      ]
+    ],
+    "q": [
+      [
+        "Wozu gehört der Untersetzer?",
+        "Zum Blumentopf.",
+        "Zum Teegeschirr.",
+        "Zu Leons Rucksack."
+      ],
+      [
+        "Wo liegt der saubere Teller?",
+        "Auf dem Tisch.",
+        "Unter der Pflanze.",
+        "Auf dem Geländer."
+      ],
+      [
+        "Was will Leon vor weiterem Umstellen tun?",
+        "Nachfragen.",
+        "Einen Kauf abschließen.",
+        "Den Untersetzer wegwerfen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "kanne-hinter-tisch": [
+    "hinter dem kleinen Tisch auf dem Balkon.",
+    "Unter dem Topf bleibt der braune Untersetzer.",
+    "ich stelle ihn an die Wand und lege mein Buch darauf."
+  ],
+  "kasten-noch-am-boden": [
+    "Dann bleibt er erst einmal auf dem Boden.",
+    "was für diesen Balkon geeignet ist.",
+    "Ausgewählt oder gekauft haben wir noch nichts."
+  ],
+  "schale-zum-topf": [
+    "der gehört zum Blumentopf",
+    "Der saubere Teller liegt schon auf dem Tisch.",
+    "bevor ich etwas anderes umstelle, frage ich nach."
+  ]
+});

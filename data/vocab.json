@@ -347,6 +347,10 @@
   {
    "id": "hauseingang",
    "ar": "مدخل البيت والسلم"
+  },
+  {
+   "id": "balkonrunde",
+   "ar": "البلكونة والزرع الصغير"
   }
  ],
  "words": [
@@ -11537,6 +11541,36 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Schirmst%C3%A4nder_Metall_(fcm).jpg",
     "author": "Frank C. Müller",
     "license": "CC BY-SA 4.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "klappstuhl",
+   "topic": "balkonrunde",
+   "art": "der",
+   "de": "Klappstuhl",
+   "plural": "Klappstühle",
+   "ar": "كرسي بيتطبق",
+   "photo": {
+    "file": "Klappstuhl Holz.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Klappstuhl_Holz.JPG",
+    "author": "4028mdk09",
+    "license": "CC BY-SA 3.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "blumenkasten",
+   "topic": "balkonrunde",
+   "art": "der",
+   "de": "Blumenkasten",
+   "plural": "Blumenkästen",
+   "ar": "صندوق زرع مستطيل",
+   "photo": {
+    "file": "Partenheim - Blumenkasten am Wörrstädter Weg.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Partenheim_-_Blumenkasten_am_W%C3%B6rrst%C3%A4dter_Weg.jpg",
+    "author": "ManuelB701",
+    "license": "CC0",
     "padding": true
    }
   }

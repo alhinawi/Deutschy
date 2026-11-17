@@ -54,9 +54,9 @@ function dateItem(hear: boolean): QItem {
 
 function Row({ k, v, say }: { k: string; v: string; say?: string }) {
   return (
-    <button onClick={() => speak(say ?? v)} className="flex w-full items-center justify-between gap-2 rounded-xl border border-line bg-paper px-3 py-2 text-start">
-      <span dir="ltr" lang="de" className="de">{v}</span>
-      <span className="flex items-center gap-2"><span className="num text-sm font-bold text-accent">{k}</span><Speaker className="h-4 w-4 text-muted" /></span>
+    <button onClick={() => speak(say ?? v)} className="flex min-w-0 w-full items-center justify-between gap-2 rounded-xl border border-line bg-paper px-3 py-2 text-start">
+      <span dir="ltr" lang="de" className="de min-w-0 flex-1 [overflow-wrap:anywhere]">{v}</span>
+      <span className="flex shrink-0 items-center gap-2"><span className="num text-sm font-bold text-accent">{k}</span><Speaker className="h-4 w-4 text-muted" /></span>
     </button>
   );
 }
@@ -111,7 +111,7 @@ export default function ZahlenView() {
               {[1, 2, 3, 7, 8, 15, 20, 21, 31].map((d) => <Row key={d} k={`${d}.`} v={`am ${ordWord(d)}`} />)}
             </div>
             <p dir="auto" className="ar-title text-sm text-muted">{t('الترتيب بيخلص بـ -ten لحد 19، و -sten من 20. شاذين: erste, dritte, siebte, achte.', 'Ordinals end in -ten up to 19 and -sten from 20. Irregular: erste, dritte, siebte, achte.')}</p>
-            <div className="grid grid-cols-2 gap-2">
+            <div className="grid gap-2 min-[400px]:grid-cols-2">
               {months.map((m, i) => <Row key={m} k={lang === 'ar' ? monthsAr[i] : String(i + 1)} v={m} />)}
               {days.map((m, i) => <Row key={m} k={lang === 'ar' ? daysAr[i] : String(i + 1)} v={m} />)}
             </div>

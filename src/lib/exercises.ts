@@ -291,3 +291,6 @@ for(const[topic,rows]of Object.entries(waescheregalGrammar))exercises[topic].pus
 
 import {hauseingangGrammar} from './exercises-hauseingang';
 for(const[topic,rows]of Object.entries(hauseingangGrammar))exercises[topic].push(...rows);
+
+import {balkonrundeGrammar} from './exercises-balkonrunde';
+for(const[topic,rows]of Object.entries(balkonrundeGrammar))exercises[topic].push(...rows);

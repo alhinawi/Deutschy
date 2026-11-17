@@ -129,3 +129,6 @@ readings.push(...waescheregalTexts);
 
 import {hauseingangTexts} from './reading-hauseingang';
 readings.push(...hauseingangTexts);
+
+import {balkonrundeTexts} from './reading-balkonrunde';
+readings.push(...balkonrundeTexts);
