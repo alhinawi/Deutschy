@@ -703,6 +703,10 @@
   {
    "id": "kaffeeformen",
    "ar": "الموكا بوت وفنجان القهوة"
+  },
+  {
+   "id": "gewuerzformen",
+   "ar": "اليانسون النجمي وحبات الفلفل"
   }
  ],
  "words": [
@@ -14584,6 +14588,36 @@
     "file": "20903189.jpg",
     "commons": "https://www.pexels.com/photo/white-cup-of-coffee-on-saucer-20903189/",
     "author": "José Karmel",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "sternanis",
+   "topic": "gewuerzformen",
+   "art": "der",
+   "de": "Sternanis",
+   "plural": "",
+   "ar": "يانسون نجمي",
+   "photo": {
+    "file": "10861392.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-shot-of-star-anise-10861392/",
+    "author": "Karyna Panchenko",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "pfefferkorn",
+   "topic": "gewuerzformen",
+   "art": "das",
+   "de": "Pfefferkorn",
+   "plural": "Pfefferkörner",
+   "ar": "حباية فلفل",
+   "photo": {
+    "file": "35809385.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-view-of-black-peppercorns-on-spoon-35809385/",
+    "author": "Marek Ruczaj",
     "license": "Pexels License",
     "modified": true
    }

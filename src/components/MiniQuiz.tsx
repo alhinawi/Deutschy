@@ -57,7 +57,7 @@ function Quiz({ make, game, size = 10 }: Props) {
         })}
       </div>
       {audioError&&<p role="status">{t("مفيش صوت ألماني متاح. كمل قراءة لو النص ظاهر.","No German voice is available. Continue reading if text is shown.")}</p>}
-      {pick!==null&&<p role="status" dir="auto">{pick===q.options[0]?t("صح.","Correct."):t("راجع الإجابة الصحيحة: ","Correct answer: ")+q.options[0]}</p>}
+      {pick!==null&&<p role="status" aria-live="polite" aria-atomic="true" dir="auto">{pick===q.options[0]?t("صح.","Correct."):t("راجع الإجابة الصحيحة: ","Correct answer: ")+q.options[0]}</p>}
       {pick !== null && q.note && <p className="ar-title text-sm text-muted">{lang === 'ar' ? <Mixed text={q.note[0]} /> : q.note[1]}</p>}
       {pick !== null && <button onClick={() => { stopSpeaking(); setAudioError(false); setI(i + 1); setPick(null);locked.current=false; }} className="w-full rounded-full bg-accent py-2 font-bold text-accent-ink">{i + 1 >= items.length ? t('النتيجة', 'Result') : t('التالي', 'Next')}</button>}
     </div>

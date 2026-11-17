@@ -396,3 +396,6 @@ readings.push(...suessbilderTexts);
 
 import {kaffeeformenTexts} from './reading-kaffeeformen';
 readings.push(...kaffeeformenTexts);
+
+import {gewuerzformenTexts} from './reading-gewuerzformen';
+readings.push(...gewuerzformenTexts);
