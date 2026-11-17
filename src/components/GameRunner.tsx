@@ -237,17 +237,17 @@ function Memory({ list, again }: { list: Word[]; again: () => void }) {
     <div className="mx-auto max-w-2xl space-y-4">
       <p className="num text-center text-sm text-muted">{t('المحاولات', 'Tries')}: {tries}</p>
       <p className="text-sm text-muted">{t('افتح كارتين وطابق الصورة بالكلمة. الزوج بيفضل ظاهر لحد ما تضغط كمل. المحاولات بتعد أزواج الكروت، مش عدد الضغطات.','Reveal two cards and match the photo to its word. The pair stays visible until Continue. Tries count card pairs, not taps.')}</p>
-      <div className="grid grid-cols-3 gap-3 sm:grid-cols-4">
+      <div className="grid grid-cols-2 gap-3 min-[480px]:grid-cols-3 sm:grid-cols-4">
         {cards.map((c) => {
           const show = open.includes(c.k) || matched.includes(c.id);
           return (
-            <button key={c.k} aria-label={show?`${c.kind==='p'?t('صورة','Photo'):t('كلمة','Word')}: ${c.w.art} ${c.w.de}${matched.includes(c.id)?' '+t('متطابق','matched'):''}`:t(`كارت مقفول ${cards.indexOf(c)+1}`,`Hidden card ${cards.indexOf(c)+1}`)} aria-pressed={show} disabled={matched.includes(c.id)||open.includes(c.k)||open.length===2} onClick={() => tap(c)} className={`flex min-h-28 items-center justify-center overflow-hidden rounded-xl border ${matched.includes(c.id) ? 'border-good' : 'border-line'} ${show ? 'bg-card' : 'bg-accent'}`}>
+            <button key={c.k} aria-label={show?`${c.kind==='p'?t('صورة','Photo'):t('كلمة','Word')}: ${c.w.art} ${c.w.de}${matched.includes(c.id)?' '+t('متطابق','matched'):''}`:t(`كارت مقفول ${cards.indexOf(c)+1}`,`Hidden card ${cards.indexOf(c)+1}`)} aria-pressed={show} disabled={matched.includes(c.id)||open.includes(c.k)||open.length===2} onClick={() => tap(c)} className={`flex min-h-28 items-center justify-center overflow-hidden rounded-xl border focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper ${matched.includes(c.id) ? 'border-good' : 'border-line'} ${show ? 'bg-card' : 'bg-accent'}`}>
               {show ? (c.kind === 'p' ? <Photo w={c.w} /> : <span dir="ltr" lang="de" className="de min-w-0 [overflow-wrap:anywhere] p-2 text-center text-base font-semibold">{c.w.art} {c.w.de}</span>) : <span className="de text-2xl text-accent-ink">?</span>}
             </button>
           );
         })}
       </div>
-      {pair&&<div role="status" className="space-y-3 rounded-xl border border-line bg-card p-4"><p>{pairMatches?t('الزوج متطابق.','The pair matches.'):t('مش نفس الكلمة. بص عليهم قبل ما تكمل.','Not a match. Compare the cards before continuing.')}</p><button onClick={continuePair} className="w-full rounded-full bg-accent px-5 py-3 font-bold text-accent-ink">{t('كمل','Continue')}</button></div>}
+      {pair&&<div role="status" className="space-y-3 rounded-xl border border-line bg-card p-4"><p>{pairMatches?t('الزوج متطابق.','The pair matches.'):t('مش نفس الكلمة. بص عليهم قبل ما تكمل.','Not a match. Compare the cards before continuing.')}</p><button onClick={continuePair} className="w-full rounded-full bg-accent px-5 py-3 font-bold text-accent-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-card">{t('كمل','Continue')}</button></div>}
     </div>
   );
 }

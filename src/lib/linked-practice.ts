@@ -243,4 +243,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zwei-namen-mit-s',dialogue:'das-banjo-nicht-der'},
  {reading:'alltag-a2-korrektur-nach-dem-satz',dialogue:'lass-mich-aussprechen'},
  {reading:'alltag-b1-nur-ein-kurzer-ton',dialogue:'gehoert-der-ton-zum-foto'},
+ {reading:'alltag-a1-das-seil-im-korb',dialogue:'nicht-unter-dem-tisch'},
+ {reading:'alltag-a2-erst-fragen-dann-umraeumen',dialogue:'brauchst-du-das-brett-noch'},
+ {reading:'alltag-b1-standbild-ohne-ablauf',dialogue:'beschreibung-oder-erzaehlung'},
 ];

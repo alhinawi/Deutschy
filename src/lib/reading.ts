@@ -300,3 +300,6 @@ readings.push(...fruchtformenTexts);
 
 import {instrumentenblickTexts} from './reading-instrumentenblick';
 readings.push(...instrumentenblickTexts);
+
+import {spielablageTexts} from './reading-spielablage';
+readings.push(...spielablageTexts);

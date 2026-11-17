@@ -1712,3 +1712,24 @@ Object.assign(readingEvidence,{
     "Die Vorlesefunktion liest die deutschen Sätze vor; sie ersetzt keinen Klangvergleich."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-das-seil-im-korb": [
+    "Dalia zeigt auf den großen Tisch am Fenster. Dort liegt das Brett",
+    "Dort stehen nur zwei Taschen.",
+    "Beide Namen haben im Singular den Artikel das.",
+    "Heute haben sie die Sachen nur gesucht und benannt."
+  ],
+  "alltag-a2-erst-fragen-dann-umraeumen": [
+    "Wenn Jonas die Sachen jetzt umstellt, passt ihre Beschreibung nicht mehr",
+    "Das Springseil darf er schon zurück in den Korb neben der Tür legen",
+    "Jonas wiederholt kurz, was er verstanden hat. Hanan bestätigt es.",
+    "Danach räumen sie das Brett und die beiden Karten gemeinsam weg."
+  ],
+  "alltag-b1-standbild-ohne-ablauf": [
+    "wie die Dinge im jeweiligen Bild angeordnet sind.",
+    "die beiden Fotos keine bestätigte Vorher-nachher-Serie.",
+    "weil die Lehrerin dafür ausdrücklich eine zusätzliche Schreibaufgabe stellt.",
+    "offen bleibt daher, was vor oder nach den abgebildeten Zuständen geschehen ist."
+  ]
+});

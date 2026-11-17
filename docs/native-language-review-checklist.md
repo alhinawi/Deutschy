@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the ninety-ninth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundredth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1018,9 +1018,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Flashcard grade focus | Both Not yet / I knew it buttons get themed keyboard focus and page-ground gap, AR/EN320/390 Tab in source order. Actual390pixels inspected. No scheduling/points change; card Enter/Space remains noXP. |
 | [ ] | Listening/dictation |61 original segments,244 exact German payload/source checks. Native editorial/real-device voice review pending. Level labels not proficiency claims. |
 
+### List 100: Shared materials, descriptions and imagined sequence
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-das-seil-im-korb/` and linked dialogue | Dalia/Oskar find board on window table, rope in basket by door, two bags under table. das singular both, Schachbretter/Springseile plurals. Objects named and returned, no actual chess/jumping session. |
+| [ ] | `/reading/alltag-a2-erst-fragen-dann-umraeumen/` and linked dialogue | Jonas asks before moving shared objects Hanan still uses for position description. Confirms understanding, returns only unused rope, leaves board/two cards, finishes with her later. Not rule that tidying always disrupts. |
+| [ ] | `/reading/alltag-b1-standbild-ohne-ablauf/` and linked dialogue | Karim cannot infer completed game/training or sequence from two unrelated photos. Separate visible arrangement from explicitly teacher-authorized fictional extra section and heading. Story order author choice, actual before/after unknown. No chess-rule/training advice. |
+| [ ] | `/lessons/spielablage/` and `/credits/` | das Schachbrett/Schachbretter (رقعة شطرنج), das Springseil/Springseile (حبل نط), DWDS forms. Mateusz Feliksik13427954 1800x1013 crop225,0-1575,1013 whole board with pieces aside, peripheral dark piece clipped but target board complete. MART PRODUCTION8032841 1800x1200 crop100,0-1700,1200 entire coiled rope and both handles. 800x600 no people/brand/padding. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way preposition/negation rows. Earlier saved IDs unchanged. dem Partner/der Kursgruppe/der Partnerin/den Lesern; legt/fragst/sammelt/trennen; sein/ihre/seinen/unsere; in dem/den Korb, vor dem/das Brett; noch nicht/keine/nicht/keine. Native German/Egyptian Arabic review pending. |
+| [ ] | Memory keyboard focus | Mobile grid uses two wider columns below480px to avoid fragmented long nouns. Hidden card controls get themed keyboard ring/page-ground gap, Continue ring/card-ground gap. AR/EN320/390 keyboard/actual390pixels, pair stays open, two-pair completion20XP only once, reload unchanged. No matching/try/award algorithm change. |
+| [ ] | Listening/dictation |66 original segments,264 exact German payload/source checks. Native editorial/real-device voice review pending; level labels not proficiency claims. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **855 photo nouns / 144 topics**, **315 reading texts / 1213 reading questions**, **41 core grammar topics / 2326 core grammar questions**, **255 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **857 photo nouns / 145 topics**, **318 reading texts / 1225 reading questions**, **41 core grammar topics / 2350 core grammar questions**, **258 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1032,7 +1044,7 @@ This is an inventory, not completed review. Snapshot: **855 photo nouns / 144 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 87 · A2 115 · B1 83 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 88 · A2 116 · B1 84 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

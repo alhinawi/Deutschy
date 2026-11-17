@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  spielablage: 'Schachbrett und Springseil',
   instrumentenblick: 'Kalimba und Banjo',
   fruchtformen: 'Drachenfrucht und Passionsfrucht',
   gemuesebilder: 'Artischocke und Kohlrabi',
@@ -141,6 +142,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  spielablage: 'Chessboard and jump rope',
   instrumentenblick: 'Kalimba and banjo',
   fruchtformen: 'Dragon fruit and passion fruit',
   gemuesebilder: 'Artichoke and kohlrabi',

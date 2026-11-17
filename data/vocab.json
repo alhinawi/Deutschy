@@ -575,6 +575,10 @@
   {
    "id": "instrumentenblick",
    "ar": "الكاليمبا والبانجو"
+  },
+  {
+   "id": "spielablage",
+   "ar": "رقعة الشطرنج وحبل النط"
   }
  ],
  "words": [
@@ -13496,6 +13500,36 @@
     "file": "1629782.jpg",
     "commons": "https://www.pexels.com/photo/grayscale-photo-of-man-holding-banjo-guitar-1629782/",
     "author": "Ilargian Faus",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "schachbrett",
+   "topic": "spielablage",
+   "art": "das",
+   "de": "Schachbrett",
+   "plural": "Schachbretter",
+   "ar": "رقعة شطرنج",
+   "photo": {
+    "file": "13427954.jpg",
+    "commons": "https://www.pexels.com/photo/brown-chess-board-game-on-blue-surface-13427954/",
+    "author": "Mateusz Feliksik",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "springseil",
+   "topic": "spielablage",
+   "art": "das",
+   "de": "Springseil",
+   "plural": "Springseile",
+   "ar": "حبل نط",
+   "photo": {
+    "file": "8032841.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-shot-of-a-jumping-rope-8032841/",
+    "author": "MART PRODUCTION",
     "license": "Pexels License",
     "modified": true
    }
