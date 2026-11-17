@@ -51,4 +51,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-luftpumpe',dialogue:'pumpe-laengere-tasche'},
  {reading:'alltag-a2-reifenheber',dialogue:'reifenheber-nachzaehlen'},
  {reading:'alltag-b1-werkstattnotiz',dialogue:'geraeusch-beschreiben'},
+ {reading:'alltag-a1-garnrolle',dialogue:'garnrolle-bleibt'},
+ {reading:'alltag-a2-nahttrenner',dialogue:'nahttrenner-karte'},
+ {reading:'alltag-b1-stoffreste',dialogue:'stoffreste-erlaubnis'},
 ];

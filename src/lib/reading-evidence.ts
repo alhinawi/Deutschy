@@ -368,3 +368,24 @@ Object.assign(readingEvidence,{
     "Sie packt nur ihre Notiz ein und lässt die Werkzeuge an ihrem Platz."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-garnrolle": [
+    "Vor ihnen steht eine offene Nähbox.",
+    "Darauf steht: Für den blauen Beutel.",
+    "Sami legt nur die leere weiße Rolle in das untere Fach.",
+    "Morgen möchte Mira den Beutel ihrer Schwester zeigen."
+  ],
+  "alltag-a2-nahttrenner": [
+    "Sie möchten die Namen der Gegenstände lernen, nicht eine Nähanleitung schreiben.",
+    "Hala erkennt, dass die Karte nicht zu diesem Werkzeug gehört.",
+    "Jonas ergänzt die ägyptisch-arabische Bedeutung auf einer zweiten Karte.",
+    "Die Bilder sollen nur dabei helfen, die Wörter wiederzuerkennen."
+  ],
+  "alltag-b1-stoffreste": [
+    "Stattdessen fragt er Daria, ob die Mappe ihr gehört und welche Stücke frei sind.",
+    "Daria zeigt auf zwei kleine grüne Stücke, die Malek für sein eigenes Übungsprojekt nehmen darf.",
+    "Daria möchte sie noch behalten.",
+    "Der neue Zettel gilt nur für den Inhalt dieser Schachtel."
+  ]
+});

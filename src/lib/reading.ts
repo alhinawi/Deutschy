@@ -108,3 +108,6 @@ readings.push(...garteneckeTexts);
 
 import {fahrradeckeTexts} from './reading-fahrradecke';
 readings.push(...fahrradeckeTexts);
+
+import {naehboxTexts} from './reading-naehbox';
+readings.push(...naehboxTexts);

@@ -3530,7 +3530,7 @@ everydayDialogues.push(...[
       ],
       [
         "Nele",
-        "Für den Moment ja. Für die kleine Tasche ist er zu lang.",
+        "Für den Moment ja. Für die kleine Tasche ist sie zu lang.",
         "دلوقتي آه. طويل على الشنطة الصغيرة."
       ],
       [
@@ -3635,11 +3635,226 @@ Object.assign(dialogueEvidence,{
   "reifenheber-nachzaehlen": [
     "Eins, zwei, drei. Du hast recht.",
     "Schreib bitte dazu, wann wir gezählt haben.",
-    "Für die kleine Tasche ist er zu lang."
+    "Für die kleine Tasche ist sie zu lang."
   ],
   "geraeusch-beschreiben": [
     "Beim Schieben habe ich ein Geräusch gehört, das sich wiederholt.",
     "Die Ursache ist noch offen.",
     "Ich frage die Werkstatt zuerst, ob jemand das Fahrrad ansehen kann."
+  ]
+});
+
+everydayDialogues.push(...[
+  {
+    "id": "garnrolle-bleibt",
+    "level": "A1",
+    "title": [
+      "Bitte noch nicht wegräumen",
+      "لسه ماتشيلهاش"
+    ],
+    "lines": [
+      [
+        "Sami",
+        "Soll ich die blaue Garnrolle wegräumen?",
+        "أشيل بكرة الخيط الزرقا مكانها؟"
+      ],
+      [
+        "Mira",
+        "Bitte noch nicht. Sie gehört zu meinem blauen Beutel.",
+        "لسه لو سمحت. دي مخصوص للكيس الأزرق بتاعي."
+      ],
+      [
+        "Sami",
+        "Ist der Beutel schon fertig?",
+        "الكيس خلص خلاص؟"
+      ],
+      [
+        "Mira",
+        "Nein. Lass die Rolle bitte neben dem Zettel liegen.",
+        "لأ. سيب البكرة جنب الورقة لو سمحت."
+      ],
+      [
+        "Sami",
+        "Dann lege ich nur die leere weiße Rolle nach unten.",
+        "يبقى أحط البكرة البيضا الفاضية بس تحت."
+      ],
+      [
+        "Mira",
+        "Danke. Morgen zeige ich den Beutel meiner Schwester.",
+        "شكراً. بكرة هوري الكيس لأختي."
+      ],
+      [
+        "Sami",
+        "Gut, die blaue Rolle bleibt hier.",
+        "تمام، البكرة الزرقا تفضل هنا."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Rolle soll liegen bleiben?",
+        "Die blaue Garnrolle.",
+        "Die leere weiße Rolle.",
+        "Eine grüne Rolle."
+      ],
+      [
+        "Wo soll sie liegen bleiben?",
+        "Neben dem Zettel.",
+        "Im Kühlschrank.",
+        "Unter dem Tisch."
+      ],
+      [
+        "Wem möchte Mira den Beutel zeigen?",
+        "Ihrer Schwester.",
+        "Einem Verkäufer.",
+        "Samis Nachbarn."
+      ]
+    ]
+  },
+  {
+    "id": "nahttrenner-karte",
+    "level": "A2",
+    "title": [
+      "Die Karte gehört zur Schere",
+      "الكارت ده بتاع المقص"
+    ],
+    "lines": [
+      [
+        "Jonas",
+        "Hier liegt die Karte mit dem Wort Schere.",
+        "أهو الكارت اللي عليه كلمة مقص."
+      ],
+      [
+        "Hala",
+        "Aber das kleine Werkzeug daneben ist ein Nahttrenner.",
+        "بس الأداة الصغيرة اللي جنبه دي أداة لفك الغرز."
+      ],
+      [
+        "Jonas",
+        "Dann bringe ich die Karte zur Schere zurück.",
+        "يبقى أرجع الكارت جنب المقص."
+      ],
+      [
+        "Hala",
+        "Ich schreibe inzwischen eine passende Karte.",
+        "وأنا في الوقت ده أكتب كارت مناسب."
+      ],
+      [
+        "Jonas",
+        "Fotografieren wir beide Werkzeuge zusammen?",
+        "نصور الأداتين مع بعض؟"
+      ],
+      [
+        "Hala",
+        "Lieber getrennt, jeweils mit der passenden Karte.",
+        "الأفضل كل واحدة لوحدها مع الكارت المناسب."
+      ],
+      [
+        "Jonas",
+        "Gut. Die Kappe bleibt beim Nahttrenner.",
+        "تمام. الغطا يفضل مع أداة فك الغرز."
+      ]
+    ],
+    "q": [
+      [
+        "Welches Wort steht auf der falschen Karte?",
+        "Schere.",
+        "Garnrolle.",
+        "Fenster."
+      ],
+      [
+        "Wie möchten sie die Werkzeuge fotografieren?",
+        "Getrennt mit der passenden Karte.",
+        "Ohne Karte in einer Tasche.",
+        "Zusammen im dunklen Schrank."
+      ],
+      [
+        "Was bleibt beim Nahttrenner?",
+        "Die Kappe.",
+        "Jonas' Jacke.",
+        "Ein leerer Koffer."
+      ]
+    ]
+  },
+  {
+    "id": "stoffreste-erlaubnis",
+    "level": "B1",
+    "title": [
+      "Nur die grünen Stücke",
+      "القطع الخضرا بس"
+    ],
+    "lines": [
+      [
+        "Malek",
+        "Darf ich Stoffreste aus dieser Mappe nehmen?",
+        "ينفع آخد بواقي قماش من الحافظة دي؟"
+      ],
+      [
+        "Daria",
+        "Die zwei kleinen grünen Stücke kannst du für dein Übungsprojekt haben.",
+        "ممكن تاخد القطعتين الخضر الصغيرين لمشروع التدريب بتاعك."
+      ],
+      [
+        "Malek",
+        "Und die blauen?",
+        "والزرق؟"
+      ],
+      [
+        "Daria",
+        "Die sind schon für ein Geschenk vorgesehen.",
+        "دول مخصصين لهدية من الأول."
+      ],
+      [
+        "Malek",
+        "Dann frage ich nach der Garnrolle lieber auch noch einmal.",
+        "يبقى أسأل عن بكرة الخيط لوحدها برضه أحسن."
+      ],
+      [
+        "Daria",
+        "Die möchte ich noch behalten. In die kleine Schachtel kommen nur freigegebene Reste.",
+        "دي لسه عايزة أحتفظ بيها. العلبة الصغيرة يتحط فيها البواقي المسموح باستخدامها بس."
+      ],
+      [
+        "Malek",
+        "Verstanden. Der Zettel gilt also nicht für das ganze Regal.",
+        "فهمت. يبقى الورقة مش خاصة بالرف كله."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Stücke bekommt Malek für sein Projekt?",
+        "Die zwei kleinen grünen Stücke.",
+        "Alle blauen Stoffe.",
+        "Keine Stoffstücke."
+      ],
+      [
+        "Wofür sind die blauen Stücke vorgesehen?",
+        "Für ein Geschenk.",
+        "Für den Müll.",
+        "Für Maleks Übungsprojekt."
+      ],
+      [
+        "Was darf Malek aus dem Zettel nicht ableiten?",
+        "Dass das ganze Regal freigegeben ist.",
+        "Dass es eine kleine Schachtel gibt.",
+        "Dass Daria eine Garnrolle behalten möchte."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "garnrolle-bleibt": [
+    "Soll ich die blaue Garnrolle wegräumen?",
+    "Lass die Rolle bitte neben dem Zettel liegen.",
+    "Morgen zeige ich den Beutel meiner Schwester."
+  ],
+  "nahttrenner-karte": [
+    "Hier liegt die Karte mit dem Wort Schere.",
+    "Lieber getrennt, jeweils mit der passenden Karte.",
+    "Die Kappe bleibt beim Nahttrenner."
+  ],
+  "stoffreste-erlaubnis": [
+    "Die zwei kleinen grünen Stücke kannst du für dein Übungsprojekt haben.",
+    "Die sind schon für ein Geschenk vorgesehen.",
+    "Der Zettel gilt also nicht für das ganze Regal."
   ]
 });
