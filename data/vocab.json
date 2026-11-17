@@ -299,6 +299,10 @@
   {
    "id": "musikrunde",
    "ar": "حاجات للعزف"
+  },
+  {
+   "id": "malrunde",
+   "ar": "حاجات للرسم"
   }
  ],
  "words": [
@@ -11125,6 +11129,38 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Diapason_-_ministudio.jpg",
     "author": "Clément Bucco-Lechat",
     "license": "CC BY-SA 3.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "palette",
+   "topic": "malrunde",
+   "art": "die",
+   "de": "Palette",
+   "plural": "Paletten",
+   "ar": "بالتة لخلط الألوان",
+   "photo": {
+    "file": "Palette.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Palette.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Palette.jpg",
+    "author": "Stonda",
+    "license": "Public domain",
+    "padding": true
+   }
+  },
+  {
+   "id": "staffelei",
+   "topic": "malrunde",
+   "art": "die",
+   "de": "Staffelei",
+   "plural": "Staffeleien",
+   "ar": "حامل رسم",
+   "photo": {
+    "file": "Tripod easel.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tripod_easel.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Tripod_easel.jpg",
+    "author": "Mrs Scarborough",
+    "license": "Public domain",
     "padding": true
    }
   }

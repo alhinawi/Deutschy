@@ -255,3 +255,6 @@ for(const [topic,rows]of Object.entries(briefplatzGrammar))exercises[topic].push
 
 import {musikrundeGrammar} from './exercises-musikrunde';
 for(const [topic,rows]of Object.entries(musikrundeGrammar))exercises[topic].push(...rows);
+
+import {malrundeGrammar} from './exercises-malrunde';
+for(const[topic,rows]of Object.entries(malrundeGrammar))exercises[topic].push(...rows);
