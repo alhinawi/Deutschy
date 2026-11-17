@@ -2405,3 +2405,24 @@ Object.assign(readingEvidence,{
     "Niemand öffnet eine Packung, riecht an einer Probe oder probiert etwas."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-das-ende-im-langen-wort": [
+    "Bei Lorbeerblatt heißt dieser Teil Blatt.",
+    "Unter Rosmarinzweig schreibt sie Rosmarinzweige.",
+    "Oskar deckt nun den Anfang der Wörter mit einem Blatt Papier ab.",
+    "ersetzen aber nicht das ganze Wort auf der fertigen Karte."
+  ],
+  "alltag-a2-erst-antwort-dann-hilfe": [
+    "Er hat die Form gerade gehört und nur nachgesprochen.",
+    "Wenn er Hilfe braucht, sagt er das ausdrücklich. Erst danach liest Elif die geprüfte Mehrzahl",
+    "Ben antwortet Rosmarinzweige",
+    "Sie beweist nicht, dass Ben die Form auch morgen oder in einem anderen Satz sicher verwenden wird."
+  ],
+  "alltag-b1-gedrehtes-bild-gleicher-begriff": [
+    "Damit es in das vorgesehene Bildfeld passt",
+    "Die neue Richtung im Bildfeld stammt von ihrer Bearbeitung.",
+    "Sie zeichnen keine fehlenden Enden hinzu und erzeugen auch keine künstlichen Ränder",
+    "nicht vom Bestimmen unbekannter Pflanzen in der Natur."
+  ]
+});

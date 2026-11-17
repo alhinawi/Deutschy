@@ -561,3 +561,6 @@ for(const[topic,rows]of Object.entries(kaffeeformenGrammar))exercises[topic].pus
 
 import {gewuerzformenGrammar} from './exercises-gewuerzformen';
 for(const[topic,rows]of Object.entries(gewuerzformenGrammar))exercises[topic].push(...rows);
+
+import {blaetterzweigeGrammar} from './exercises-blaetterzweige';
+for(const[topic,rows]of Object.entries(blaetterzweigeGrammar))exercises[topic].push(...rows);

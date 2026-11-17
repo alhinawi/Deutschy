@@ -399,3 +399,6 @@ readings.push(...kaffeeformenTexts);
 
 import {gewuerzformenTexts} from './reading-gewuerzformen';
 readings.push(...gewuerzformenTexts);
+
+import {blaetterzweigeTexts} from './reading-blaetterzweige';
+readings.push(...blaetterzweigeTexts);

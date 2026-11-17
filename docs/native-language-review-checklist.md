@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-thirty-second practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-thirty-third practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1414,9 +1414,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Shared MiniQuiz answer feedback | Explicit polite/atomic status. 32 alternating correct/wrong answers in 72 states, AR/EN 320/390px, 8 axe checks. Exact localized feedback, locked duplicate clicks, no stale feedback after advance/result/new round, 20 XP per mixed round. Actual 390px correct/wrong screens inspected. |
 | [ ] | Listening/dictation | 60 original segments, 240 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice grouping not certification; progress device-local. |
 
+### List 133: Bay leaves and rosemary sprigs
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-das-ende-im-langen-wort/` and linked dialogue | Nina/Oskar use Blatt and Zweig as visible final components, then return to full Lorbeerblatt/Rosmarinzweig. Plurals Lorbeerblätter (a to ä, +er), Rosmarinzweige (+e). Paper/photos only, no collecting. |
+| [ ] | `/reading/alltag-a2-erst-antwort-dann-hilfe/` and linked dialogue | Elif/Ben distinguish repetition after hearing answer from own response. Wait, help only on request, mark assistance accurately. One unaided attempt is not proof of later transfer. Voluntary, no grade/time pressure. |
+| [ ] | `/reading/alltag-b1-gedrehtes-bild-gleicher-begriff/` and linked dialogue | Greta/Milan rotate photo a quarter turn without changing proportions. No inference about growth direction. Source mapping kept, no invented ends/padding, unknown outside frame. No unknown-plant identification or use. |
+| [ ] | `/lessons/blaetterzweige/` and `/credits/` | das Lorbeerblatt/Lorbeerblätter (ورقة لورا); der Rosmarinzweig/Rosmarinzweige (فرع روزماري). Full DWDS forms. Marek Kupiec 9974502: 1800x1194, crop (104,0)-(1696,1194). Karen Laårk Boshoff 31192996: 1800x2400 rotated 90 degrees to 2400x1800. Both 800x600, no padding/stretch/people/brand. Source stem ends already outside frame. Actual 390px AR/EN cards inspected. |
+| [ ] | Six appended grammar banks | 24 article/dative/present/possessive/two-way/negation rows retain earlier saved identities. Native German/Egyptian examples/explanations pending. |
+| [ ] | Shared MiniQuiz German listen button | Minimum 44x44px target and themed card-offset keyboard focus ring. 8 voice states AR/EN 320/390px, 4 German calls, 8 axe. English-only voice blocked with localized fallback, no XP. Actual 390px available/unavailable screens inspected. |
+| [ ] | Listening/dictation | 64 original segments, 256 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice grouping not certification; progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **921 photo nouns / 177 topics**, **414 reading texts / 1609 reading questions**, **41 core grammar topics / 3118 core grammar questions**, **354 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **923 photo nouns / 178 topics**, **417 reading texts / 1621 reading questions**, **41 core grammar topics / 3142 core grammar questions**, **357 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1428,7 +1440,7 @@ This is an inventory, not completed review. Snapshot: **921 photo nouns / 177 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 120 · A2 148 · B1 116 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 121 · A2 149 · B1 117 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
