@@ -21703,3 +21703,218 @@ Object.assign(dialogueEvidence,{
     "Auch das beschreibt erst den Gegenstand"
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "korken-oben-schachtel-schraeg",
+    "level": "A1",
+    "title": [
+      "Oben an der Flasche",
+      "فوق الإزازة"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Wo siehst du den Korken?",
+        "شايف سدادة الفلين فين؟"
+      ],
+      [
+        "Karim",
+        "Oben in der Öffnung der kleinen Flasche.",
+        "فوق في فتحة الإزازة الصغيرة."
+      ],
+      [
+        "Lea",
+        "Welche Karte gehört zum zweiten Foto?",
+        "أنهي كارت يخص الصورة التانية؟"
+      ],
+      [
+        "Karim",
+        "Die Karte mit \"das Streichholz\". Die Köpfe sind grün.",
+        "الكارت اللي عليه داس شترايشهولتس. الروس خضرا."
+      ],
+      [
+        "Lea",
+        "Liegt die Schachtel gerade?",
+        "العلبة مستقيمة؟"
+      ],
+      [
+        "Karim",
+        "Nein, sie liegt schräg auf dem Stoff.",
+        "لأ، مايلة على القماش."
+      ],
+      [
+        "Lea",
+        "Dann ordnen wir die Namen den Fotos zu.",
+        "يبقى نوصل الأسامي بالصور."
+      ]
+    ],
+    "q": [
+      [
+        "Wo ist der Korken zu sehen?",
+        "Oben in der Flaschenöffnung.",
+        "Unter jedem Streichholz.",
+        "In einer Schublade."
+      ],
+      [
+        "Wie sind die Köpfe gefärbt?",
+        "Grün.",
+        "Blau.",
+        "Weiß."
+      ],
+      [
+        "Was ordnen sie zu?",
+        "Die Namen zu den Fotos.",
+        "Eine echte Lieferung.",
+        "Einen unbekannten Preis."
+      ]
+    ]
+  },
+  {
+    "id": "korken-bleibt-korken",
+    "level": "A2",
+    "title": [
+      "Bleibt das Wort gleich?",
+      "الكلمة بتفضل زي ما هي؟"
+    ],
+    "lines": [
+      [
+        "Amir",
+        "Wie schreibe ich die Mehrzahl von Korken?",
+        "أكتب جمع كوركن إزاي؟"
+      ],
+      [
+        "Nele",
+        "Die Korken. Das Wort selbst bleibt gleich.",
+        "دي كوركن. الكلمة نفسها بتفضل زي ما هي."
+      ],
+      [
+        "Amir",
+        "Bei Streichholz ist es anders.",
+        "في شترايشهولتس الموضوع مختلف."
+      ],
+      [
+        "Nele",
+        "Ja, die Mehrzahl lautet Streichhölzer, mit ö und er.",
+        "أيوه، الجمع شترايشهولتسر بأو بنقطتين وإر."
+      ],
+      [
+        "Amir",
+        "Ich schreibe aber keine genaue Anzahl unter die Schachtel.",
+        "بس مش هكتب عدد دقيق تحت العلبة."
+      ],
+      [
+        "Nele",
+        "Richtig. Ein Teil des Bildes fehlt, und die Stiele überlagern sich.",
+        "صح. جزء من الصورة مش ظاهر والأجسام متداخلة."
+      ],
+      [
+        "Amir",
+        "Die Beispielsätze markieren wir extra als Wortübung.",
+        "جمل الأمثلة نعلمها لوحدها إنها تدريب كلمات."
+      ]
+    ],
+    "q": [
+      [
+        "Was bleibt bei Korken gleich?",
+        "Das Wort selbst.",
+        "Jeder Artikel in jedem Satz.",
+        "Die Zahl der fotografierten Steine."
+      ],
+      [
+        "Was gehört zu Streichhölzer?",
+        "ö und die Endung er.",
+        "Nur ein zusätzliches s.",
+        "Ein a statt o."
+      ],
+      [
+        "Was markieren sie als Wortübung?",
+        "Die Beispielsätze.",
+        "Eine bezahlte Rechnung.",
+        "Einen tatsächlichen Bestand."
+      ]
+    ]
+  },
+  {
+    "id": "gegenstaende-oder-wortkarten",
+    "level": "B1",
+    "title": [
+      "Geht es um die Karten?",
+      "المقصود الكروت؟"
+    ],
+    "lines": [
+      [
+        "Tarek",
+        "Auf dem Zettel stehen Korken und Streichhölzer. Soll ich Gegenstände mitbringen?",
+        "على الورقة مكتوب فلين وكبريت. أجيب حاجات حقيقية؟"
+      ],
+      [
+        "Jule",
+        "In unserer Szene sind nur zwei beschriftete Bildkarten gemeint.",
+        "في مشهدنا المقصود كارتين صور مكتوب عليهم الأسامي بس."
+      ],
+      [
+        "Tarek",
+        "Dann bereite ich die Karte \"Korken\" vor.",
+        "يبقى أجهز كارت كوركن."
+      ],
+      [
+        "Jule",
+        "Ich übernehme die Karte \"Streichholz\".",
+        "أنا أتولى كارت شترايشهولتس."
+      ],
+      [
+        "Tarek",
+        "Wir schreiben auch die Handlung und unsere Namen dazu.",
+        "نكتب كمان الفعل وأسامينا جنبهم."
+      ],
+      [
+        "Jule",
+        "Genau. Echte Gegenstände werden dafür nicht gebraucht.",
+        "بالظبط. مش محتاجين حاجات حقيقية للمطلوب ده."
+      ],
+      [
+        "Tarek",
+        "So wird aus der unklaren Liste ein eindeutiger Kartenauftrag.",
+        "كده القايمة المش واضحة تبقى مهمة كروت محددة."
+      ]
+    ],
+    "q": [
+      [
+        "Was ist in der Szene gemeint?",
+        "Zwei beschriftete Bildkarten.",
+        "Ein echter Kauf.",
+        "Ein Versuch mit Flammen."
+      ],
+      [
+        "Welche Karte übernimmt Tarek?",
+        "Korken.",
+        "Streichholz.",
+        "Beide ohne Absprache."
+      ],
+      [
+        "Was schreiben sie zusätzlich dazu?",
+        "Die Handlung und ihre Namen.",
+        "Einen erfundenen Preis.",
+        "Eine ungeprüfte Füllmenge."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "korken-oben-schachtel-schraeg": [
+    "Oben in der Öffnung der kleinen Flasche.",
+    "Die Köpfe sind grün.",
+    "Dann ordnen wir die Namen den Fotos zu."
+  ],
+  "korken-bleibt-korken": [
+    "Das Wort selbst bleibt gleich.",
+    "mit ö und er.",
+    "Die Beispielsätze markieren wir extra als Wortübung."
+  ],
+  "gegenstaende-oder-wortkarten": [
+    "nur zwei beschriftete Bildkarten gemeint.",
+    "Dann bereite ich die Karte \"Korken\" vor.",
+    "Wir schreiben auch die Handlung und unsere Namen dazu."
+  ]
+});

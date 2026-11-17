@@ -2132,3 +2132,24 @@ Object.assign(readingEvidence,{
     "sichtbare Merkmale, Aussagen einer suchenden Figur und noch offene Zuordnung."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-korken-und-streichhoelzer-beschriften": [
+    "Oben in der Öffnung sitzt ein Korken.",
+    "Ihre Stiele sind schwarz und ihre Köpfe grün.",
+    "Die Schachtel liegt schräg auf hellem Stoff.",
+    "Sie benutzen dafür nur die Fotos."
+  ],
+  "alltag-a2-korken-gleich-streichhoelzer-anders": [
+    "Bei \"der Korken\" schreiben sie \"die Korken\".",
+    "Aus \"das Streichholz\" wird \"die Streichhölzer\".",
+    "Nele zeigt auf die Überlagerungen und den unteren Bildrand.",
+    "Unter diese Sätze schreiben sie \"Wortübung\""
+  ],
+  "alltag-b1-notiz-mitbringen-oder-beschriften": [
+    "Die knappe Notiz nennt weder eine Handlung noch eine verantwortliche Person.",
+    "dass zwei beschriftete Bildkarten gebraucht werden.",
+    "Ihre Karten enthalten keine Anleitung zum Entzünden",
+    "einem eindeutigen Auftrag für zwei Bildkarten"
+  ]
+});

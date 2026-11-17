@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-nineteenth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-twentieth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1258,9 +1258,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Linked reading follow-through actions | Existing dialogue/dictation links gain44pxminimum/inline target/themed keyboard focus.24AR/EN320/390 keyboard/axe states across all3sets: Enter correct scenario/source/noXP. Actual390AR/EN photos/link focus inspected. No target/routing/answer/scoring/playback logic changes. |
 | [ ] | Listening/dictation |75 original segments,300exactGerman payload/source/answer checks. Native editorial/real-device voice review pending. Level labels not certification; progress local. |
 
+### List 120: Cork and matches
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-korken-und-streichhoelzer-beschriften/` and linked dialogue | Lea/Karim assign two photo word cards: round brown cork top with dark lines, short neck/square bottle on sand, stones and shadows right; unlit black matches with green heads in diagonal white tray on pale cloth, lower shafts outside frame. Language-only identification, no handling or ignition instruction. |
+| [ ] | `/reading/alltag-a2-korken-gleich-streichhoelzer-anders/` and linked dialogue | Nele/Amir der Korken/die Korken unchanged noun form, no added s/en. das Streichholz/die Streichhölzer with ö and er. Multiple visible matches, overlap/crop prevent exact count. Word examples explicitly separate from photo inventory. |
+| [ ] | `/reading/alltag-b1-notiz-mitbringen-oder-beschriften/` and linked dialogue | Jule/Tarek fictional group note clarified as two named picture-card tasks, not transporting real items or a purchase. Make action/owner/material explicit. No real commitment or external event. No ignition/storage/functionality/bottle-content/seal claims. |
+| [ ] | `/lessons/kleinebilder/` and `/credits/` | der Korken/same-form plural (سدادة فلين), das Streichholz/Streichhölzer (عود كبريت). DWDS full entries checked. Jonas Thomann11585384 cork1800x2255 crop100,550-1700,1750; Cup of Couple7303329 matches1800x2700 crop0,1200-1800,2550. Both800x600, no padding/stretch/brand/person. |
+| [ ] | Six appended grammar banks |24 article/accusative/present/possessive/two-way/negation rows, prior saved question identities preserved. Native German/Egyptian examples/explanations review pending. |
+| [ ] | Reading translation and word help | Existing translation toggle and word-help summary gain44pxminimum/themed keyboard focus.24AR/EN320/390 states across3sets: Enter toggles, exact translation, LTR German/RTL Arabic help, noXP. Actual390AR/EN focus and photo cards inspected. No route/answer/scoring/speech logic changes. |
+| [ ] | Listening/dictation |76 original segments,304 exact German speech/source/answer checks. Native editorial/real-device voice review pending. Level labels not certification, progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **895 photo nouns / 164 topics**, **375 reading texts / 1453 reading questions**, **41 core grammar topics / 2806 core grammar questions**, **315 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **897 photo nouns / 165 topics**, **378 reading texts / 1465 reading questions**, **41 core grammar topics / 2830 core grammar questions**, **318 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1272,7 +1284,7 @@ This is an inventory, not completed review. Snapshot: **895 photo nouns / 164 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 107 · A2 135 · B1 103 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 108 · A2 136 · B1 104 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
