@@ -6438,3 +6438,218 @@ Object.assign(dialogueEvidence,{
     "Wir notieren beide Wünsche als noch offen."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "kaffee-ohne-milch",
+    "level": "A1",
+    "title": [
+      "Heute ohne Milch",
+      "النهارده من غير لبن"
+    ],
+    "lines": [
+      [
+        "Nina",
+        "Soll ich Milch in deinen Kaffee gießen?",
+        "أصب لبن في قهوتك؟"
+      ],
+      [
+        "Sami",
+        "Heute bitte nicht. Ich trinke ihn ohne Milch.",
+        "النهارده لأ لو سمحتي. هشربه من غير لبن."
+      ],
+      [
+        "Nina",
+        "Dann bleibt das Milchkännchen hier in der Mitte.",
+        "يبقى كنكة اللبن تفضل هنا في النص."
+      ],
+      [
+        "Sami",
+        "Und der Toaster?",
+        "والتوستر؟"
+      ],
+      [
+        "Nina",
+        "Er bleibt aus. Ich möchte das Brot nicht toasten.",
+        "يفضل مطفي. مش عايزة أحمص العيش."
+      ],
+      [
+        "Sami",
+        "Ich auch nicht. Den leeren Eierbecher bringe ich zurück.",
+        "وأنا كمان. هرجع كاس البيض الفاضي."
+      ],
+      [
+        "Nina",
+        "Danke. Die Butterdose lassen wir auf dem Tisch.",
+        "شكراً. علبة الزبدة نسيبها على الترابيزة."
+      ]
+    ],
+    "q": [
+      [
+        "Was möchte Sami nicht im Kaffee?",
+        "Milch.",
+        "Kaffee.",
+        "Eine Tasse."
+      ],
+      [
+        "Was bleibt aus?",
+        "Der Toaster.",
+        "Die Butterdose.",
+        "Der Korb."
+      ],
+      [
+        "Was bleibt auf dem Tisch?",
+        "Die Butterdose.",
+        "Der leere Eierbecher.",
+        "Der Schrank."
+      ]
+    ]
+  },
+  {
+    "id": "drei-tassen-zwei-personen",
+    "level": "A2",
+    "title": [
+      "Drei Tassen für uns beide",
+      "3 فناجين لينا إحنا الاتنين"
+    ],
+    "lines": [
+      [
+        "Nora",
+        "Kommt noch jemand? Ich sehe drei Tassen.",
+        "فيه حد تاني جاي؟ أنا شايفة 3 فناجين."
+      ],
+      [
+        "Ben",
+        "Nein. Eine ist für meinen Tee, eine für meinen Kaffee.",
+        "لأ. واحد للشاي بتاعي وواحد للقهوة بتاعتي."
+      ],
+      [
+        "Nora",
+        "Und die dritte ist für mich. Jetzt verstehe ich es.",
+        "والتالت ليا. كده فهمت."
+      ],
+      [
+        "Ben",
+        "Möchtest du heute Milch in deinen Tee?",
+        "عايزة لبن في الشاي النهارده؟"
+      ],
+      [
+        "Nora",
+        "Nein, heute ohne Milch.",
+        "لأ، النهارده من غير لبن."
+      ],
+      [
+        "Ben",
+        "Gut, ich lasse deine Tasse so.",
+        "تمام، هسيب فنجانك كده."
+      ],
+      [
+        "Nora",
+        "Die Butterdose stelle ich neben den Brotkorb.",
+        "هحط علبة الزبدة جنب سبت العيش."
+      ]
+    ],
+    "q": [
+      [
+        "Wie viele Personen frühstücken hier?",
+        "Zwei.",
+        "Drei.",
+        "Vier."
+      ],
+      [
+        "Was möchte Ben trinken?",
+        "Tee und Kaffee nacheinander.",
+        "Nur Wasser.",
+        "Noras Tee."
+      ],
+      [
+        "Wie bleibt Noras Tee heute?",
+        "Ohne Milch.",
+        "Mit viel Milch.",
+        "Im Brotkorb."
+      ]
+    ]
+  },
+  {
+    "id": "gefaess-nicht-inhalt",
+    "level": "A2",
+    "title": [
+      "Erst nachsehen, dann streichen",
+      "نبص الأول وبعدين نشطب"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Butter und Milch können wir von der Liste streichen.",
+        "نقدر نشطب الزبدة واللبن من القائمة."
+      ],
+      [
+        "Omar",
+        "Warum?",
+        "ليه؟"
+      ],
+      [
+        "Lea",
+        "Die Butterdose und das Milchkännchen stehen doch hier.",
+        "ما علبة الزبدة وكنكة اللبن هنا أهو."
+      ],
+      [
+        "Omar",
+        "Das sagt noch nichts über den übrigen Vorrat.",
+        "ده لسه مش بيقول حاجة عن باقي الموجود."
+      ],
+      [
+        "Lea",
+        "Dann sehe ich zuerst in der Butterdose nach.",
+        "يبقى أبص الأول في علبة الزبدة."
+      ],
+      [
+        "Omar",
+        "Und ich prüfe den Kühlschrank. Bestellt haben wir noch nichts.",
+        "وأنا أراجع التلاجة. إحنا لسه ماطلبناش حاجة."
+      ],
+      [
+        "Lea",
+        "Die Liste lassen wir vorerst unverändert.",
+        "نسيب القائمة مؤقتاً زي ما هي."
+      ]
+    ],
+    "q": [
+      [
+        "Warum sollen sie zuerst nachsehen?",
+        "Gefäße allein zeigen den Vorrat nicht.",
+        "Die Liste ist schon bestellt.",
+        "Die Tassen fehlen."
+      ],
+      [
+        "Wer prüft den Kühlschrank?",
+        "Omar.",
+        "Lea.",
+        "Ein Lieferant."
+      ],
+      [
+        "Was wurde schon bestellt?",
+        "Noch nichts.",
+        "Milch.",
+        "Eine Butterdose."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "kaffee-ohne-milch": [
+    "Ich trinke ihn ohne Milch.",
+    "Er bleibt aus.",
+    "Die Butterdose lassen wir auf dem Tisch."
+  ],
+  "drei-tassen-zwei-personen": [
+    "Und die dritte ist für mich.",
+    "Eine ist für meinen Tee, eine für meinen Kaffee.",
+    "Nein, heute ohne Milch."
+  ],
+  "gefaess-nicht-inhalt": [
+    "Das sagt noch nichts über den übrigen Vorrat.",
+    "Und ich prüfe den Kühlschrank.",
+    "Bestellt haben wir noch nichts."
+  ]
+});

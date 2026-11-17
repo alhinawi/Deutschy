@@ -371,6 +371,10 @@
   {
    "id": "wohnzimmer",
    "ar": "حاجات أوضة المعيشة"
+  },
+  {
+   "id": "fruehstuecksrunde",
+   "ar": "حاجات سفرة الفطار"
   }
  ],
  "words": [
@@ -11745,6 +11749,37 @@
     "file": "clock3.jpg",
     "commons": "https://www.pexels.com/photo/a-minimalist-clock-on-a-wall-19801745/",
     "author": "Julia Filirovska",
+    "license": "Pexels License",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "butterdose",
+   "topic": "fruehstuecksrunde",
+   "art": "die",
+   "de": "Butterdose",
+   "plural": "Butterdosen",
+   "ar": "علبة زبدة",
+   "photo": {
+    "file": "dose.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Butterdose2.jpg",
+    "author": "Doomkopf",
+    "license": "CC BY-SA 3.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "milchkaennchen",
+   "topic": "fruehstuecksrunde",
+   "art": "das",
+   "de": "Milchkännchen",
+   "plural": "-",
+   "ar": "كنكة لبن صغيرة للتقديم",
+   "photo": {
+    "file": "milk.jpg",
+    "commons": "https://www.pexels.com/photo/white-ceramic-jar-on-the-table-8473946/",
+    "author": "Cup of Couple",
     "license": "Pexels License",
     "padding": true,
     "modified": true

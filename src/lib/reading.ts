@@ -147,3 +147,6 @@ readings.push(...schlafzimmerTexts);
 
 import {wohnzimmerTexts} from './reading-wohnzimmer';
 readings.push(...wohnzimmerTexts);
+
+import {fruehstuecksrundeTexts} from './reading-fruehstuecksrunde';
+readings.push(...fruehstuecksrundeTexts);

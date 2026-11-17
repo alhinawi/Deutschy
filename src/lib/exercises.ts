@@ -309,3 +309,6 @@ for(const[topic,rows]of Object.entries(schlafzimmerGrammar))exercises[topic].pus
 
 import {wohnzimmerGrammar} from './exercises-wohnzimmer';
 for(const[topic,rows]of Object.entries(wohnzimmerGrammar))exercises[topic].push(...rows);
+
+import {fruehstuecksrundeGrammar} from './exercises-fruehstuecksrunde';
+for(const[topic,rows]of Object.entries(fruehstuecksrundeGrammar))exercises[topic].push(...rows);

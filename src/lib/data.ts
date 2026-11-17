@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  fruehstuecksrunde: 'Dinge für den Frühstückstisch',
   wohnzimmer: 'Dinge fürs Wohnzimmer',
   schlafzimmer: 'Dinge fürs Schlafzimmer',
   kochrunde: 'Werkzeuge fürs Kochen',
@@ -90,6 +91,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  fruehstuecksrunde: 'Things for the breakfast table',
   wohnzimmer: 'Things for the living room',
   schlafzimmer: 'Things for the bedroom',
   kochrunde: 'Tools for cooking',

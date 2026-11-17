@@ -641,3 +641,24 @@ Object.assign(readingEvidence,{
     "notieren sie beide Wünsche mit dem Zusatz noch offen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-fruehstueckstisch": [
+    "Nina stellt ein kleines Milchkännchen in die Mitte.",
+    "Sami möchte seinen Kaffee heute ohne Milch trinken.",
+    "denn beide möchten das Brot heute nicht toasten.",
+    "Sami bringt ihn in den Schrank zurück."
+  ],
+  "alltag-a2-zweite-tasse": [
+    "Er selbst möchte nacheinander Tee und Kaffee trinken.",
+    "Nora stellt die Butterdose neben den Brotkorb",
+    "dass sie ihren Tee heute ohne Milch möchte.",
+    "weil sie heute keine Eier auf den Tisch stellen."
+  ],
+  "alltag-a2-fruehstuecksliste": [
+    "weil die Butterdose und das Milchkännchen auf dem Tisch stehen.",
+    "Omar schaut in den Kühlschrank",
+    "nachdem sie auch den übrigen Vorrat geprüft haben.",
+    "Der Einkaufszettel bleibt vorerst unverändert."
+  ]
+});

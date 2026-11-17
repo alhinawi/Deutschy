@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the forty-eighth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the forty-ninth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -394,6 +394,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Six expanded grammar banks | Accusative, possessives, modal verbs, imperative, comparative and dative/two-way prepositions: 24 appended rows. Check den Couchtisch, meine Brille, muss, Nimm/Setzt/Warten Sie, höher and auf dem/den. Preserve prior saved identities. |
 | [ ] | `/grammar/`, `/dictation/` | Labeled normalized search; pressed level filters, live count, query-only clear preserves level, full reset and empty guidance with input focus. No saved progress. Review all 48 focused dictation sentences on a real German voice. Mocks verify controls/text, not pronunciation. |
 
+### Forty-ninth update: breakfast table (pending)
+
+| Review | Route / item | Focus |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-fruehstueckstisch/` | **Die kleine Kanne bleibt in der Mitte** / **Heute ohne Milch**: cups, napkins, bread basket, covered butter dish, milk jug, toaster and egg cup. Coffee without milk respected, toaster off, unused egg cup returned. Check 7 answers/evidence and Egyptian meanings. |
+| [ ] | `/reading/alltag-a2-zweite-tasse/` | **Eine zweite Tasse bedeutet nicht zwei Gäste** / **Drei Tassen für uns beide**: 3 cups for 2 people, Ben drinks tea and coffee in sequence. Nora wants tea without milk today; no permanent preference inferred. Check all 7 answers and dialogue speaker roles. |
+| [ ] | `/reading/alltag-a2-fruehstuecksliste/` | **Die Liste beschreibt nur diesen Morgen** / **Erst nachsehen, dann streichen**: presence of a container does not establish contents or remaining household stock. Both check before changing list; no order, quantity, price or storage advice. Check 7 answers and translations. |
+| [ ] | `/lessons/fruehstuecksrunde/` | die Butterdose / Butterdosen and das Milchkännchen / same-form plural; real whole glass covered dish and overhead ceramic jug with milk/spout. No brands/faces. Milk image surroundings crop, both neutrally padded; original photographers and license links in Credits. These are noun illustrations, not fictional scene evidence. |
+| [ ] | Six expanded grammar banks | Article/genus, dative, separable verbs, present, dative/two-way prepositions, negation: 24 appended rows. Check das Milchkännchen, ihr/ihm, zurückbringen/abräumen/nachsehen, gießt/siehst, neben dem/den and keine Gäste/kein Milchkännchen. Preserve prior IDs. |
+| [ ] | `/reading/`, `/credits/`, `/dictation/` | Query-only clear preserves practice group; full clear restores all texts; both focus search. Hint describes scope. CC BY-SA 3.0 credit now links directly to license. Review all 47 focused dictation sentences on an actual German voice; mocks do not verify pronunciation. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -408,7 +419,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **753 photo nouns / 93 topics**, **162 reading texts / 601 reading questions**, **41 core grammar topics / 1102 core grammar questions**, **102 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **755 photo nouns / 94 topics**, **165 reading texts / 613 reading questions**, **41 core grammar topics / 1126 core grammar questions**, **105 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -420,7 +431,7 @@ This is an inventory, not completed review. Snapshot: **753 photo nouns / 93 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 36 · A2 60 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 37 · A2 62 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
