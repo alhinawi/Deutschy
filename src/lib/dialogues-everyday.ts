@@ -19768,3 +19768,218 @@ Object.assign(dialogueEvidence,{
     "kein Fachgutachten vortäuschen."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "der-rosa-stift-unten",
+    "level": "A1",
+    "title": [
+      "Der rosa Stift unten",
+      "القلم البمبي اللي تحت"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Wohin zeigen die Spitzen der Wachsmalstifte?",
+        "سنون أقلام الشمع ناحية فين؟"
+      ],
+      [
+        "Karim",
+        "Nach rechts. Der rosa Stift liegt unten etwas getrennt.",
+        "ناحية اليمين. القلم البمبي تحت بعيد شوية."
+      ],
+      [
+        "Lea",
+        "Und was zeigt das andere Foto?",
+        "والصورة التانية بتعرض إيه؟"
+      ],
+      [
+        "Karim",
+        "Heftklammern in langen Streifen, die übereinanderliegen.",
+        "دبابيس دباسة في شرايط طويلة فوق بعض."
+      ],
+      [
+        "Lea",
+        "Welche Farben wirken dort besonders deutlich?",
+        "أنهي ألوان باينة هناك بوضوح؟"
+      ],
+      [
+        "Karim",
+        "Silber und bei einigen Streifen ein goldfarbener Ton.",
+        "فضي وفي شوية شرايط درجة لون ذهبي."
+      ],
+      [
+        "Lea",
+        "Dann nennen wir jetzt die Wörter mit ihren Artikeln.",
+        "يبقى نقول دلوقتي الكلمات بأدواتها."
+      ]
+    ],
+    "q": [
+      [
+        "Wo liegt der rosa Stift?",
+        "Unten etwas getrennt.",
+        "Oben auf einem Schrank.",
+        "Im Klammerstreifen."
+      ],
+      [
+        "Was liegt übereinander?",
+        "Lange Streifen mit Heftklammern.",
+        "Zwei Hefte mit Zeichnungen.",
+        "Drei Papiertüten."
+      ],
+      [
+        "Was üben sie jetzt?",
+        "Die Wörter mit Artikeln.",
+        "Einen Einkauf bezahlen.",
+        "Die Benutzung einer Maschine."
+      ]
+    ]
+  },
+  {
+    "id": "was-zaehlst-du-gerade",
+    "level": "A2",
+    "title": [
+      "Was zählst du gerade?",
+      "إنت بتعد إيه دلوقتي؟"
+    ],
+    "lines": [
+      [
+        "Nele",
+        "Ich habe einen Streifen als eine Heftklammer gezählt.",
+        "أنا عديت شريط كأنه دبوس دباسة واحد."
+      ],
+      [
+        "Amir",
+        "Im Streifen liegen aber viele Klammern aneinander.",
+        "بس في الشريط فيه دبابيس كتير ملامسة لبعض."
+      ],
+      [
+        "Nele",
+        "Dann muss ich sagen, welche Ebene ich zähle.",
+        "يبقى لازم أقول أنا بعد أنهي مستوى."
+      ],
+      [
+        "Amir",
+        "Genau. Und verdeckte Teile verhindern hier eine genaue Gesamtzahl.",
+        "بالظبط. والأجزاء المتغطية بتمنع هنا إجمالي دقيق."
+      ],
+      [
+        "Nele",
+        "Bei den Stiften sehe ich einzelne Gegenstände, aber kein geprüftes vollständiges Set.",
+        "في الأقلام شايفة حاجات منفصلة بس مش طقم كامل متراجع."
+      ],
+      [
+        "Amir",
+        "Wir beschreiben den Ausschnitt, nicht den ganzen Vorrat.",
+        "إحنا بنوصف الجزء اللي باين مش كل المخزون."
+      ],
+      [
+        "Nele",
+        "Und die Mehrzahlformen lernen wir daneben getrennt.",
+        "وصيغ الجمع نتعلمها جنب ده منفصلة."
+      ]
+    ],
+    "q": [
+      [
+        "Was liegt im Streifen aneinander?",
+        "Viele Klammern.",
+        "Nur ein Stift.",
+        "Leere Papierblätter."
+      ],
+      [
+        "Was verhindern verdeckte Teile?",
+        "Eine genaue Gesamtzahl.",
+        "Die Benennung des Wortes.",
+        "Jede sichtbare Linie."
+      ],
+      [
+        "Was beschreiben sie?",
+        "Den Ausschnitt.",
+        "Einen vollständig geprüften Vorrat.",
+        "Eine bereits gekaufte Packung."
+      ]
+    ]
+  },
+  {
+    "id": "passend-ist-nicht-geprueft",
+    "level": "B1",
+    "title": [
+      "Passend ist nicht geprüft",
+      "مناسب مش معناها متراجع"
+    ],
+    "lines": [
+      [
+        "Tarek",
+        "Die Klammern glänzen. Passen sie deshalb in jedes Heftgerät?",
+        "الدبابيس بتلمع. كده تنفع لكل دباسة؟"
+      ],
+      [
+        "Jule",
+        "Nein. Dafür fehlen Maße und eine geprüfte Zuordnung.",
+        "لأ. ناقص مقاسات وربط متراجع."
+      ],
+      [
+        "Tarek",
+        "Dann schreibe ich nur silberne und goldfarbene Streifen.",
+        "يبقى أكتب شرايط فضية وشكلها ذهبي بس."
+      ],
+      [
+        "Jule",
+        "Und nicht aus Gold, denn das wäre eine andere Behauptung.",
+        "ومش من دهب عشان ده ادعاء مختلف."
+      ],
+      [
+        "Tarek",
+        "Auch die Stifte zeigen im Foto keinen Farbauftrag auf Papier.",
+        "والأقلام برضه في الصورة مش بتعرض لون اتفرد على الورق."
+      ],
+      [
+        "Jule",
+        "Genau. Wir testen weder Deckkraft noch Kompatibilität.",
+        "بالظبط. إحنا مش بنختبر تغطية اللون ولا التوافق."
+      ],
+      [
+        "Tarek",
+        "Unsere Beschreibung bleibt von einer Produktempfehlung getrennt.",
+        "وصفنا يفضل منفصل عن توصية بمنتج."
+      ]
+    ],
+    "q": [
+      [
+        "Was fehlt für die Gerätezuordnung?",
+        "Maße und eine geprüfte Zuordnung.",
+        "Jeder sichtbare Farbton.",
+        "Jede erkennbare Form."
+      ],
+      [
+        "Welche Formulierung ist eine andere, unbelegte Behauptung?",
+        "Aus Gold.",
+        "Goldfarben.",
+        "Silbern wirkend."
+      ],
+      [
+        "Was testen sie nicht?",
+        "Deckkraft und Kompatibilität.",
+        "Ob Fotos angezeigt werden.",
+        "Ob Wörter benannt werden."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "der-rosa-stift-unten": [
+    "unten etwas getrennt.",
+    "langen Streifen, die übereinanderliegen.",
+    "die Wörter mit ihren Artikeln."
+  ],
+  "was-zaehlst-du-gerade": [
+    "viele Klammern aneinander.",
+    "verhindern hier eine genaue Gesamtzahl.",
+    "Wir beschreiben den Ausschnitt"
+  ],
+  "passend-ist-nicht-geprueft": [
+    "Maße und eine geprüfte Zuordnung.",
+    "nicht aus Gold",
+    "weder Deckkraft noch Kompatibilität."
+  ]
+});

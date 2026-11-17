@@ -619,6 +619,10 @@
   {
    "id": "naturmuster",
    "ar": "الحصى وبقية جذع الشجرة"
+  },
+  {
+   "id": "stiftundklammer",
+   "ar": "أقلام الشمع ودبابيس الدباسة"
   }
  ],
  "words": [
@@ -13870,6 +13874,36 @@
     "file": "11690460.jpg",
     "commons": "https://www.pexels.com/photo/brown-tree-stump-in-close-up-shot-11690460/",
     "author": "Jake Biewer",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "wachsmalstift",
+   "topic": "stiftundklammer",
+   "art": "der",
+   "de": "Wachsmalstift",
+   "plural": "Wachsmalstifte",
+   "ar": "قلم شمع تلوين",
+   "photo": {
+    "file": "9149206.jpg",
+    "commons": "https://www.pexels.com/photo/colorful-group-of-crayons-9149206/",
+    "author": "Katie Rainbow",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "heftklammer",
+   "topic": "stiftundklammer",
+   "art": "die",
+   "de": "Heftklammer",
+   "plural": "Heftklammern",
+   "ar": "دبوس دباسة",
+   "photo": {
+    "file": "29157286.jpg",
+    "commons": "https://www.pexels.com/photo/industrial-metal-texture-with-orange-accent-29157286/",
+    "author": "Peppered Pixels Design Studio",
     "license": "Pexels License",
     "modified": true
    }

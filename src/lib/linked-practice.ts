@@ -276,4 +276,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-steine-und-holz',dialogue:'wo-sind-die-ringe'},
  {reading:'alltag-a2-artikel-und-mehrzahl',dialogue:'ein-e-und-ein-umlaut'},
  {reading:'alltag-b1-muster-ohne-herkunftsnachweis',dialogue:'kein-fachgutachten-aus-dem-foto'},
+ {reading:'alltag-a1-farbige-spitzen-und-streifen',dialogue:'der-rosa-stift-unten'},
+ {reading:'alltag-a2-eine-klammer-ein-streifen',dialogue:'was-zaehlst-du-gerade'},
+ {reading:'alltag-b1-glanz-ohne-funktionsprobe',dialogue:'passend-ist-nicht-geprueft'},
 ];

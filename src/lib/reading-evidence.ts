@@ -1943,3 +1943,24 @@ Object.assign(readingEvidence,{
     "Sie fordert niemanden auf, Steine mitzunehmen, Holz zu entfernen oder Pflanzen zu verändern."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-farbige-spitzen-und-streifen": [
+    "Die Spitzen zeigen nach rechts.",
+    "Unten liegt ein rosa Stift etwas getrennt",
+    "in langen Streifen übereinander.",
+    "heften auch kein Papier zusammen."
+  ],
+  "alltag-a2-eine-klammer-ein-streifen": [
+    "Ein Streifen besteht hier aus vielen aneinanderliegenden Klammern.",
+    "Eine genaue Gesamtzahl tragen sie nicht ein.",
+    "Ob außerhalb des Bildes weitere Farben liegen, ist nicht bekannt.",
+    "bei der Heftklammer ein n."
+  ],
+  "alltag-b1-glanz-ohne-funktionsprobe": [
+    "Die Gruppe hat keine Funktionsprobe durchgeführt.",
+    "Daraus folgt nicht, dass die Klammern aus Gold bestehen",
+    "das Bild zeigt keinen tatsächlichen Farbauftrag auf Papier.",
+    "Die beiden geben keine Kaufempfehlung"
+  ]
+});
