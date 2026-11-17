@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-thirteenth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-fourteenth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1186,9 +1186,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Dialogue/conversation quick navigation |Existing Shop/Doctor/Flat buttons and Train link44px/themed keyboard ring/page-ground gap.32 AR/EN320/390 keyboard/axe states, Enter/Space opens correct existing dialogue or train route without XP.390AR/EN actual pixels inspected. No search/filter/routing/answer/scoring/playback logic changes. |
 | [ ] | Listening/dictation |70 original segments,280 exact German payload/source/answer checks. Native editorial/real-device voice review pending. Level labels not certification; progress local. |
 
+### List 114: Countable sweet potatoes and pieces of ginger
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-violette-knollen-helle-stuecke/` and linked dialogue | Lea/Karim violet sweet-potato skins on wood, long foreground specimen points lower left, dark backdrop. Ginger irregular light-brown branching pieces piled on metal plate with lighter cut ends and lower rim visible. No tasting/cutting/buying. |
+| [ ] | `/reading/alltag-a2-stuecke-statt-erfundener-mehrzahl/` and linked dialogue | Nele/Amir Süßkartoffeln countable plural versus Ingwer mass noun in singular. Stück/Stücke bears plural in Stücke Ingwer. Empty plural line is not unchanged plural dash. Invented quantities are exercise examples, no photo inventory/weight. |
+| [ ] | `/reading/alltag-b1-sichtbare-schale-kein-guetesiegel/` and linked dialogue | Jule/Tarek no harvest-date/organic/freshness/quality proof from image, no inferred taste/nutrients/interior of every sweet potato, storage or condition judgment. No health promise/dosage/medical or nutritional advice/recipe/purchase recommendation. |
+| [ ] | `/lessons/knollenbilder/` and `/credits/` | die Süßkartoffel/Süßkartoffeln (بطاطا), der Ingwer with empty plural (جنزبيل). Full DWDS forms. Marcelo Verfe13059602 sweet potatoes1800x1198 crop101,0-1699,1198; Engin Akyurt10899474 ginger1800x1350 full frame. Both800x600 no rotation/stretch/padding/face/brand. Nature candidates already represented and not added. |
+| [ ] | Six appended grammar banks |24 article/accusative/present/possessive/two-way/negation rows, earlier IDs unchanged. die/der/das/die; den/das/die/die; spricht/lässt/zeigt/prüfen; ihre/sein/seinen/unsere; neben dem/das Foto and auf der/die Karte; keinen/kein/keine/nicht. |
+| [ ] | Word-card speech and long dialogue compounds | Existing word-card speech button gets themed keyboard focus on card ground;16 AR/EN320/390 Enter/Space states exact German payload/noXP/axe, Ingwer plural hidden. QA found Gesundheitsversprechen pushed dialogue speech button out at320: speech button now in speaker header, full-width shrinkable text with hyphenation/anywhere fallback; repeat content QA passed. No playback/scoring/filter/routing change. Actual AR/EN390 cards and320 dialogue inspected. |
+| [ ] | Listening/dictation |66 original segments,264 exact German payload/source/answer checks. Native editorial/real-device voice review pending. Level labels not certification; progress local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **883 photo nouns / 158 topics**, **357 reading texts / 1381 reading questions**, **41 core grammar topics / 2662 core grammar questions**, **297 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **885 photo nouns / 159 topics**, **360 reading texts / 1393 reading questions**, **41 core grammar topics / 2686 core grammar questions**, **300 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1200,7 +1212,7 @@ This is an inventory, not completed review. Snapshot: **883 photo nouns / 158 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 101 · A2 129 · B1 97 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 102 · A2 130 · B1 98 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

@@ -18,7 +18,7 @@ export default function WordCard({ w, first = false }: { w: Word; first?: boolea
           <h2 className="de text-2xl font-semibold leading-tight" lang="de">
             <span className="text-accent">{w.art}</span> {w.de}
           </h2>
-          <button onClick={() => speak(`${w.art} ${w.de}`)} aria-label={t(`اسمع الكلمة: ${w.art} ${w.de}`, `Hear the word: ${w.art} ${w.de}`)} className="min-h-11 min-w-11 shrink-0 inline-flex items-center justify-center rounded-full border border-line px-3 py-2 text-sm hover:bg-paper"><Speaker /></button>
+          <button onClick={() => speak(`${w.art} ${w.de}`)} aria-label={t(`اسمع الكلمة: ${w.art} ${w.de}`, `Hear the word: ${w.art} ${w.de}`)} className="min-h-11 min-w-11 shrink-0 inline-flex items-center justify-center rounded-full border border-line px-3 py-2 text-sm hover:bg-paper focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-card"><Speaker /></button>
         </div>
         <p className="ar-title text-xl text-ink"><Gloss w={w} /></p>
         {w.plural !== '' && <p className="de text-sm text-muted" lang="de"><PluralText w={w} /></p>}

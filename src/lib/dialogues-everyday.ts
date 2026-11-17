@@ -20413,3 +20413,218 @@ Object.assign(dialogueEvidence,{
     "keine Sicherheitsberatung fürs Wasser."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "welches-bild-ist-violett",
+    "level": "A1",
+    "title": [
+      "Welches Bild ist violett?",
+      "أنهي صورة فيها بنفسجي؟"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Was liegt auf der Holzfläche?",
+        "إيه اللي على سطح الخشب؟"
+      ],
+      [
+        "Karim",
+        "Süßkartoffeln mit violetter Schale. Vorn liegt eine schräg.",
+        "بطاطا بقشرة بنفسجي. قدام واحدة بالجنب."
+      ],
+      [
+        "Lea",
+        "Und was zeigt das andere Foto?",
+        "والصورة التانية بتعرض إيه؟"
+      ],
+      [
+        "Karim",
+        "Viele hellbraune Stücke Ingwer auf einem Teller.",
+        "قطع جنزبيل بني فاتح كتير على طبق."
+      ],
+      [
+        "Lea",
+        "Probieren wir die Lebensmittel?",
+        "هندوق الأكل؟"
+      ],
+      [
+        "Karim",
+        "Nein. Wir beschreiben nur die Fotos.",
+        "لأ. إحنا بنوصف الصور بس."
+      ],
+      [
+        "Lea",
+        "Dann nennen wir jetzt die Wörter mit Artikel.",
+        "يبقى نقول دلوقتي الكلمات بالأداة."
+      ]
+    ],
+    "q": [
+      [
+        "Wie liegt eine Süßkartoffel vorn?",
+        "Schräg.",
+        "In einer Flasche.",
+        "Hinter einer Tür."
+      ],
+      [
+        "Welche Farbe haben die Ingwerstücke im Foto?",
+        "Hellbraun.",
+        "Violett.",
+        "Blau."
+      ],
+      [
+        "Was machen sie mit den Fotos?",
+        "Sie beschreiben sie.",
+        "Sie verkaufen das Essen.",
+        "Sie prüfen den Geschmack."
+      ]
+    ]
+  },
+  {
+    "id": "stuecke-ingwer-ohne-plural",
+    "level": "A2",
+    "title": [
+      "Was wird hier gezählt?",
+      "إيه اللي بيتعد هنا؟"
+    ],
+    "lines": [
+      [
+        "Amir",
+        "Warum ist die Pluralzeile bei Ingwer leer?",
+        "ليه سطر الجمع عند إنجفر فاضي؟"
+      ],
+      [
+        "Nele",
+        "Wir geben hier keinen Plural an. Ingwer ist in dieser Verwendung ein Stoffname.",
+        "إحنا هنا مش بنقدم جمع. إنجفر في الاستخدام ده اسم مادة."
+      ],
+      [
+        "Amir",
+        "Für einzelne Teile kann ich mehrere Stücke Ingwer sagen.",
+        "للأجزاء المنفصلة أقدر أقول قطع جنزبيل متعددة."
+      ],
+      [
+        "Nele",
+        "Genau. Stück wird zu Stücke, Ingwer bleibt unverändert.",
+        "بالظبط. شتوك بتبقى شتوكه وإنجفر بتفضل زي ما هي."
+      ],
+      [
+        "Amir",
+        "Und Süßkartoffel hat die Mehrzahl Süßkartoffeln.",
+        "وزوس كارتوفل جمعها زوس كارتوفلن."
+      ],
+      [
+        "Nele",
+        "Unsere Beispielsätze sind aber keine Fotozählung.",
+        "بس جمل المثال مش عد للصور."
+      ],
+      [
+        "Amir",
+        "Dann trenne ich die Wortnotiz von der Bildbeschreibung.",
+        "يبقى أفصل ملحوظة الكلمة عن وصف الصورة."
+      ]
+    ],
+    "q": [
+      [
+        "Was geben sie bei Ingwer nicht an?",
+        "Einen Plural.",
+        "Einen Artikel.",
+        "Einen Namen."
+      ],
+      [
+        "Was bleibt in Stücke Ingwer unverändert?",
+        "Ingwer.",
+        "Stück.",
+        "Die ganze Mengenangabe."
+      ],
+      [
+        "Was sind die Beispielsätze nicht?",
+        "Eine Fotozählung.",
+        "Eine Sprachübung.",
+        "Beispiele für Wortformen."
+      ]
+    ]
+  },
+  {
+    "id": "das-bild-liefert-kein-guetesiegel",
+    "level": "B1",
+    "title": [
+      "Das Bild liefert kein Gütesiegel",
+      "الصورة مش بتقدم شهادة جودة"
+    ],
+    "lines": [
+      [
+        "Tarek",
+        "Kann ich frisch und biologisch angebaut unter die Fotos schreiben?",
+        "ينفع أكتب طازة وزراعة عضوية تحت الصور؟"
+      ],
+      [
+        "Jule",
+        "Dafür haben wir weder ein Erntedatum noch eine Bescheinigung.",
+        "معندناش لده تاريخ حصاد ولا شهادة."
+      ],
+      [
+        "Tarek",
+        "Dann bleiben violette Schalen und hellbraune Stücke als Beschreibung.",
+        "يبقى نسيب القشور البنفسجي والقطع البني الفاتح كوصف."
+      ],
+      [
+        "Jule",
+        "Auch ein Gesundheitsversprechen gehört nicht in unsere Wortübung.",
+        "ووعد صحي برضه مش مكانه تدريب الكلمات بتاعنا."
+      ],
+      [
+        "Tarek",
+        "Ich nenne keine Wirkung und keine Dosierung für Ingwer.",
+        "مش هقول مفعول ولا جرعة للجنزبيل."
+      ],
+      [
+        "Jule",
+        "Genau. Die Bilder sind auch keine Zubereitungsanleitung.",
+        "بالظبط. الصور برضه مش تعليمات تحضير."
+      ],
+      [
+        "Tarek",
+        "Wir trennen Namen, Beobachtungen und offene Fragen.",
+        "هنفصل الأسامي والملاحظات والأسئلة المفتوحة."
+      ]
+    ],
+    "q": [
+      [
+        "Was fehlt für frisch und biologisch angebaut?",
+        "Erntedatum und Bescheinigung.",
+        "Jede sichtbare Farbe.",
+        "Jeder deutsche Name."
+      ],
+      [
+        "Was nennt Tarek für Ingwer nicht?",
+        "Wirkung und Dosierung.",
+        "Den Namen.",
+        "Die sichtbare Farbe."
+      ],
+      [
+        "Was sind die Bilder nicht?",
+        "Eine Zubereitungsanleitung.",
+        "Eine Grundlage für Wortkarten.",
+        "Eine sichtbare Anordnung."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "welches-bild-ist-violett": [
+    "Vorn liegt eine schräg.",
+    "Viele hellbraune Stücke Ingwer",
+    "Wir beschreiben nur die Fotos."
+  ],
+  "stuecke-ingwer-ohne-plural": [
+    "Wir geben hier keinen Plural an.",
+    "Ingwer bleibt unverändert.",
+    "keine Fotozählung."
+  ],
+  "das-bild-liefert-kein-guetesiegel": [
+    "weder ein Erntedatum noch eine Bescheinigung.",
+    "keine Wirkung und keine Dosierung",
+    "keine Zubereitungsanleitung."
+  ]
+});
