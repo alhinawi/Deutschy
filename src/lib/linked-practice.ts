@@ -339,4 +339,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zwei-woerter-mit-n',dialogue:'kanne-tasse-endung-n'},
  {reading:'alltag-a2-bildtexte-vertauscht',dialogue:'bild-und-wort-neu-zuordnen'},
  {reading:'alltag-b1-quellennotiz-und-lernwort',dialogue:'lernfeld-und-quellenverzeichnis'},
+ {reading:'alltag-a1-nicht-jedes-feld-ausfuellen',dialogue:'freies-feld-keine-erfundene-form'},
+ {reading:'alltag-a2-nach-dem-anfang-sortieren',dialogue:'p-vor-s-in-der-mappe'},
+ {reading:'alltag-b1-ein-foto-hat-keinen-geruch',dialogue:'erinnerung-ist-keine-geruchsprobe'},
 ];

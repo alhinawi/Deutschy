@@ -2384,3 +2384,24 @@ Object.assign(readingEvidence,{
     "Sie behaupten damit nicht, dass jede Lizenz dieselben Anforderungen stellt"
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-nicht-jedes-feld-ausfuellen": [
+    "In der geprüften Liste steht bei Sternanis aber keine Mehrzahl.",
+    "Darunter kommt die Form Pfefferkörner.",
+    "Paul möchte selbst eine Form mit s ergänzen.",
+    "Sie üben mit Papier und Fotos."
+  ],
+  "alltag-a2-nach-dem-anfang-sortieren": [
+    "Die Mappe ist nach den deutschen Nomen geordnet",
+    "In ihrem Alphabet steht P vor S.",
+    "Daria dreht anschließend beide Karten um und mischt sie noch einmal.",
+    "Ob sämtliche älteren Karten richtig liegen, haben sie noch nicht kontrolliert."
+  ],
+  "alltag-b1-ein-foto-hat-keinen-geruch": [
+    "Sie haben weder die fotografierten Gegenstände vor sich noch eine dokumentierte Geruchsprobe.",
+    "dass ihn die erkennbare Form an einen Geruch erinnert",
+    "Sie überarbeiten den Text und beschränken sich auf sichtbare Merkmale.",
+    "Niemand öffnet eine Packung, riecht an einer Probe oder probiert etwas."
+  ]
+});

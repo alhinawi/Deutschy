@@ -24283,3 +24283,218 @@ Object.assign(dialogueEvidence,{
     "Eine rechtliche Prüfung ersetzt diese Übung nicht."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "freies-feld-keine-erfundene-form",
+    "level": "A1",
+    "title": [
+      "Nicht einfach ein s ergänzen",
+      "مانزودش إس وخلاص"
+    ],
+    "lines": [
+      [
+        "Paul",
+        "Unter Sternanis ist die Zeile noch frei.",
+        "السطر تحت شتيرن أنيس لسه فاضي."
+      ],
+      [
+        "Anna",
+        "Unsere geprüfte Liste nennt hier keine Mehrzahl.",
+        "القايمة اللي راجعناها مش كاتبة جمع هنا."
+      ],
+      [
+        "Paul",
+        "Dann ergänze ich keine eigene Form mit s.",
+        "يبقى مش هزود صيغة بإس من عندي."
+      ],
+      [
+        "Anna",
+        "Beim Pfefferkorn steht die Mehrzahl Pfefferkörner.",
+        "مع بفيفر كورن الجمع المكتوب بفيفر كيرنر."
+      ],
+      [
+        "Paul",
+        "Mit ö und er am Ende.",
+        "بأو أوملاوت وإر في الآخر."
+      ],
+      [
+        "Anna",
+        "Jetzt decke ich die Wörter ab. Nenne zuerst die Artikel.",
+        "دلوقتي هغطي الكلمات. قول الأدوات الأول."
+      ],
+      [
+        "Paul",
+        "Danach prüfen wir meine Antworten mit der Liste.",
+        "بعد كده نراجع إجاباتي بالقايمة."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Zeile bleibt frei?",
+        "Die Mehrzahlzeile bei Sternanis.",
+        "Der Artikel bei Pfefferkorn.",
+        "Beide Nomenzeilen."
+      ],
+      [
+        "Was ergänzt Paul nicht?",
+        "Eine eigene Form mit s.",
+        "Den geprüften Artikel.",
+        "Die Form Pfefferkörner."
+      ],
+      [
+        "Was soll Paul zuerst nennen?",
+        "Die Artikel.",
+        "Die Preise.",
+        "Die Namen der Fotografen."
+      ]
+    ]
+  },
+  {
+    "id": "p-vor-s-in-der-mappe",
+    "level": "A2",
+    "title": [
+      "Das Bild entscheidet nicht",
+      "الصورة مش هي اللي بتحكم"
+    ],
+    "lines": [
+      [
+        "Felix",
+        "Sternanis fällt mir mehr auf. Kommt diese Karte zuerst?",
+        "شتيرن أنيس لافتة نظري أكتر. الكارت ده ييجي الأول؟"
+      ],
+      [
+        "Daria",
+        "Unsere Ordnung richtet sich nach den Nomen, ohne Artikel.",
+        "ترتيبنا بالأسامي من غير أدوات."
+      ],
+      [
+        "Felix",
+        "Dann vergleiche ich P und S. P steht vor S.",
+        "يبقى أقارن بي وإس. بي قبل إس."
+      ],
+      [
+        "Daria",
+        "Richtig. Ich drehe die Karten jetzt um und mische sie.",
+        "صح. هقلب الكروت وأخلطها دلوقتي."
+      ],
+      [
+        "Felix",
+        "Wenn ich die Wörter wieder sehe, kann ich sie erneut einordnen.",
+        "لما أشوف الكلمات تاني أقدر أرتبها من جديد."
+      ],
+      [
+        "Daria",
+        "Danach schreiben wir die Regel auf den Mappendeckel.",
+        "بعد كده نكتب القاعدة على غلاف الملف."
+      ],
+      [
+        "Felix",
+        "Die älteren Karten haben wir aber noch nicht geprüft.",
+        "بس الكروت القديمة لسه ماراجعناهاش."
+      ]
+    ],
+    "q": [
+      [
+        "Wonach richten sie sich?",
+        "Nach den Nomen ohne Artikel.",
+        "Nur nach dem schönsten Foto.",
+        "Nach der Größe des Tisches."
+      ],
+      [
+        "Welche Karte kommt zuerst?",
+        "Pfefferkorn.",
+        "Sternanis.",
+        "Beide ohne Reihenfolge."
+      ],
+      [
+        "Wo notieren sie die Regel?",
+        "Auf dem Mappendeckel.",
+        "Auf einem echten Gewürz.",
+        "In einer Bestellung."
+      ]
+    ]
+  },
+  {
+    "id": "erinnerung-ist-keine-geruchsprobe",
+    "level": "B1",
+    "title": [
+      "Sichtbar oder nur vorgestellt?",
+      "ظاهر ولا إحنا بنتخيله بس؟"
+    ],
+    "lines": [
+      [
+        "Karim",
+        "Ich habe geschrieben, dass man den Duft deutlich wahrnimmt.",
+        "كتبت إننا بنحس بالريحة بوضوح."
+      ],
+      [
+        "Jule",
+        "Wir sehen nur ein Foto. Welche Geruchsprobe haben wir dazu?",
+        "إحنا شايفين صورة بس. عندنا أنهي اختبار ريحة معاها؟"
+      ],
+      [
+        "Karim",
+        "Keine. Die Form erinnert mich an einen Geruch von früher.",
+        "مافيش. الشكل بيفكرني بريحة من زمان."
+      ],
+      [
+        "Jule",
+        "Diese Erinnerung ist keine am Foto überprüfbare Beobachtung.",
+        "الذكرى دي مش ملاحظة ممكن نراجعها من الصورة."
+      ],
+      [
+        "Karim",
+        "Dann beschreibe ich nur die sichtbare Form und die Körner auf dem Löffel.",
+        "يبقى أوصف الشكل الظاهر والحبات على المعلقة بس."
+      ],
+      [
+        "Jule",
+        "Eine Aussage über Alter oder Qualität leiten wir daraus auch nicht ab.",
+        "وبرضه مش هنستنتج من ده كلام عن العمر ولا الجودة."
+      ],
+      [
+        "Karim",
+        "Wir öffnen und probieren hier nichts. Es geht nur um die Bildtexte.",
+        "إحنا مش بنفتح ولا بنجرب حاجة هنا. الكلام عن تعليقات الصور بس."
+      ]
+    ],
+    "q": [
+      [
+        "Was liegt ihnen vor?",
+        "Nur ein Foto, keine Geruchsprobe.",
+        "Eine dokumentierte Qualitätsprüfung.",
+        "Eine geöffnete Packung zum Probieren."
+      ],
+      [
+        "Was beschreibt Karim stattdessen?",
+        "Sichtbare Form und Körner auf dem Löffel.",
+        "Eine sicher gemessene Duftstärke.",
+        "Ein geprüftes Alter."
+      ],
+      [
+        "Worum geht es in der Szene?",
+        "Um Bildtexte.",
+        "Um das Probieren von Gewürzen.",
+        "Um einen echten Verkauf."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "freies-feld-keine-erfundene-form": [
+    "Unter Sternanis ist die Zeile noch frei.",
+    "Dann ergänze ich keine eigene Form mit s.",
+    "Nenne zuerst die Artikel."
+  ],
+  "p-vor-s-in-der-mappe": [
+    "Unsere Ordnung richtet sich nach den Nomen, ohne Artikel.",
+    "P steht vor S.",
+    "auf den Mappendeckel."
+  ],
+  "erinnerung-ist-keine-geruchsprobe": [
+    "Wir sehen nur ein Foto.",
+    "die sichtbare Form und die Körner auf dem Löffel.",
+    "Es geht nur um die Bildtexte."
+  ]
+});

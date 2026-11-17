@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-thirty-first practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-thirty-second practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1402,9 +1402,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Shared MiniQuiz prompt-linked answer group | Options group named by its visible German prompt via unique stable id. 72 states across AR/EN at 320/390px: 8 questions, locked answers, no group at result, group restored on new round. 4 axe checks. Actual 390px AR/EN screens inspected. Scoring/audio unchanged. |
 | [ ] | Listening/dictation |64 original segments, 256 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice grouping not certification; progress device-local. |
 
+### List 132: Star anise and peppercorns
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-nicht-jedes-feld-ausfuellen/` and linked dialogue | Anna/Paul leave Sternanis plural field empty rather than invent a form. Contrast Pfefferkorn/Pfefferkörner (o to ö, +er). Wordlist practice with paper/photos only, no handling. |
+| [ ] | `/reading/alltag-a2-nach-dem-anfang-sortieren/` and linked dialogue | Daria/Felix file by German noun without article: P before S, not picture salience or color. Mix and repeat, note rule on cover. Only their collection rule; older cards not audited. |
+| [ ] | `/reading/alltag-b1-ein-foto-hat-keinen-geruch/` and linked dialogue | Jule/Karim distinguish memory of smell from verified observation. Describe visible form/dark grains/spoon, no inferred age/quality. Images may evoke memories, but no smell test occurred. No opening, smelling or tasting. |
+| [ ] | `/lessons/gewuerzformen/` and `/credits/` | der Sternanis (يانسون نجمي), DWDS singular-only: plural empty, not same-form dash. das Pfefferkorn/Pfefferkörner (حباية فلفل). Karyna Panchenko 10861392: 1800x1350 full image. Marek Ruczaj 35809385: 1800x1200, crop (100,0)-(1700,1200). Both 800x600, no padding/stretch/people/brand. Actual 390px AR/EN cards inspected, absent plural line confirmed. |
+| [ ] | Six appended grammar banks | 24 article/accusative/present/possessive/two-way/negation rows retain earlier saved identities. Native German/Egyptian examples/explanations pending. |
+| [ ] | Shared MiniQuiz answer feedback | Explicit polite/atomic status. 32 alternating correct/wrong answers in 72 states, AR/EN 320/390px, 8 axe checks. Exact localized feedback, locked duplicate clicks, no stale feedback after advance/result/new round, 20 XP per mixed round. Actual 390px correct/wrong screens inspected. |
+| [ ] | Listening/dictation | 60 original segments, 240 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice grouping not certification; progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **919 photo nouns / 176 topics**, **411 reading texts / 1597 reading questions**, **41 core grammar topics / 3094 core grammar questions**, **351 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **921 photo nouns / 177 topics**, **414 reading texts / 1609 reading questions**, **41 core grammar topics / 3118 core grammar questions**, **354 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1416,7 +1428,7 @@ This is an inventory, not completed review. Snapshot: **919 photo nouns / 176 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 119 · A2 147 · B1 115 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 120 · A2 148 · B1 116 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
