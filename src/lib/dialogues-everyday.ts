@@ -23423,3 +23423,218 @@ Object.assign(dialogueEvidence,{
     "Die spätere Wiederholung ohne Hinweise steht noch aus."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "g-v-statt-links-rechts",
+    "level": "A1",
+    "title": [
+      "Die Wörter, nicht die Bilder",
+      "الكلمات مش الصور"
+    ],
+    "lines": [
+      [
+        "Emil",
+        "Das linke Foto zeigt Vanilleschoten. Also kommt Vanilleschote zuerst.",
+        "الصورة الشمال فيها قرون فانيليا. يبقى فانيلا شوته الأول."
+      ],
+      [
+        "Nora",
+        "Die Aufgabe verlangt die Reihenfolge nach dem Alphabet.",
+        "المطلوب ترتيب أبجدي."
+      ],
+      [
+        "Emil",
+        "Dann lese ich die Nomen ohne Artikel.",
+        "يبقى أقرا الأسماء من غير أداة التعريف."
+      ],
+      [
+        "Nora",
+        "Gewürznelke beginnt mit G, Vanilleschote mit V.",
+        "جفورتس نيلكه بتبدأ بجي وفانيلا شوته بفاو."
+      ],
+      [
+        "Emil",
+        "G kommt vor V. Ich tausche die Wortkarten.",
+        "جي قبل فاو. هبدل كروت الكلمات."
+      ],
+      [
+        "Nora",
+        "Die Fotos müssen wir dafür nicht verschieben.",
+        "مش محتاجين نحرك الصور عشان ده."
+      ],
+      [
+        "Emil",
+        "Und beide Mehrzahlformen enden hier auf n.",
+        "والجمع بتاع الاتنين هنا آخره إن."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Reihenfolge verlangt die Aufgabe?",
+        "Die alphabetische.",
+        "Die räumliche von links nach rechts.",
+        "Die Reihenfolge der Aufnahmezeiten."
+      ],
+      [
+        "Was tauscht Emil?",
+        "Die Wortkarten.",
+        "Die Fotos.",
+        "Die Stühle."
+      ],
+      [
+        "Worauf enden die beiden Mehrzahlformen?",
+        "Auf n.",
+        "Auf s.",
+        "Auf er."
+      ]
+    ]
+  },
+  {
+    "id": "zuordnung-statt-buchstabe",
+    "level": "A2",
+    "title": [
+      "Nicht den Buchstaben ändern",
+      "مش نغير الحرف"
+    ],
+    "lines": [
+      [
+        "Timo",
+        "Auf dieser Rückseite passt etwas nicht. Soll ich einen Buchstaben ändern?",
+        "فيه حاجة مش راكبة في الضهر ده. أغير حرف؟"
+      ],
+      [
+        "Jasmin",
+        "Die Wörter sind richtig geschrieben. Die Rückseiten wurden vertauscht.",
+        "الكلمات مكتوبة صح. الضهرين اتبدلوا."
+      ],
+      [
+        "Timo",
+        "Dann lösen wir die Streifen ab.",
+        "يبقى نفك الشرايط."
+      ],
+      [
+        "Jasmin",
+        "Und legen jeden Streifen neben das passende Foto.",
+        "ونحط كل شريط جنب الصورة المناسبة."
+      ],
+      [
+        "Timo",
+        "Nach der zweiten Kontrolle klebe ich sie wieder auf.",
+        "بعد المراجعة التانية هلزقهم تاني."
+      ],
+      [
+        "Jasmin",
+        "Damit prüfen wir das Material, nicht den freien Wortabruf.",
+        "بكده بنراجع الخامة مش استدعاء الكلمة من غير نموذج."
+      ],
+      [
+        "Timo",
+        "Diese Wortabfrage haben wir noch nicht gemacht.",
+        "سؤال الكلمات بالشكل ده لسه ماعملناهوش."
+      ]
+    ],
+    "q": [
+      [
+        "Was wurde vertauscht?",
+        "Die Rückseiten.",
+        "Zwei Buchstaben im selben Wort.",
+        "Die Sitzplätze."
+      ],
+      [
+        "Was machen sie vor dem erneuten Aufkleben?",
+        "Sie kontrollieren die Zuordnung ein zweites Mal.",
+        "Sie bestellen neue Karten.",
+        "Sie streichen beide Nomen aus der Liste."
+      ],
+      [
+        "Was haben sie noch nicht geprüft?",
+        "Den freien Wortabruf.",
+        "Die Schreibweise auf den Streifen.",
+        "Die korrigierte Zuordnung."
+      ]
+    ]
+  },
+  {
+    "id": "artikel-einzahl-mehrzahl",
+    "level": "B1",
+    "title": [
+      "Welcher Teil stimmt?",
+      "أنهي جزء صح؟"
+    ],
+    "lines": [
+      [
+        "Jonas",
+        "Ich wollte für jede Antwort nur richtig oder falsch ankreuzen.",
+        "كنت هعلم لكل إجابة صح أو غلط بس."
+      ],
+      [
+        "Leila",
+        "Bei die Vanilleschote stimmen Artikel und Einzahl, aber Vanilleschotes ist als Mehrzahl falsch.",
+        "في دي فانيلا شوته الأداة والمفرد صح بس فانيلا شوتس جمع غلط."
+      ],
+      [
+        "Jonas",
+        "Dann trennen wir Artikel, Einzahl und Mehrzahl.",
+        "يبقى نفصل الأداة والمفرد والجمع."
+      ],
+      [
+        "Leila",
+        "Im zweiten erfundenen Beispiel steht der Gewürznelke. Die Wortformen selbst stimmen.",
+        "في المثال التاني المختلق مكتوب دير جفورتس نيلكه. صيغ الكلمة نفسها صح."
+      ],
+      [
+        "Jonas",
+        "Dort korrigieren wir nur den Artikel zu die.",
+        "هناك نصلح الأداة بس لدي."
+      ],
+      [
+        "Leila",
+        "Genau. Die richtigen Teile bleiben als richtig erkennbar.",
+        "بالظبط. الأجزاء الصح تفضل واضحة إنها صح."
+      ],
+      [
+        "Jonas",
+        "Über den Selbstvergleich der Korrekturen müssen wir noch sprechen.",
+        "لسه محتاجين نتكلم عن مقارنة التصحيحات بنفسهم."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Teile stimmen im ersten Beispiel?",
+        "Artikel und Einzahl.",
+        "Alle drei Teile.",
+        "Nur die Mehrzahl."
+      ],
+      [
+        "Was korrigieren sie beim zweiten Beispiel?",
+        "Den Artikel zu die.",
+        "Die Mehrzahl zu Gewürznelkes.",
+        "Die Einzahl zu Vanilleschote."
+      ],
+      [
+        "Was steht noch aus?",
+        "Das Gespräch über den Selbstvergleich.",
+        "Das Erfinden der Beispiele.",
+        "Das Trennen der drei Spalten."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "g-v-statt-links-rechts": [
+    "Die Aufgabe verlangt die Reihenfolge nach dem Alphabet.",
+    "Ich tausche die Wortkarten.",
+    "beide Mehrzahlformen enden hier auf n."
+  ],
+  "zuordnung-statt-buchstabe": [
+    "Die Rückseiten wurden vertauscht.",
+    "Nach der zweiten Kontrolle klebe ich sie wieder auf.",
+    "Diese Wortabfrage haben wir noch nicht gemacht."
+  ],
+  "artikel-einzahl-mehrzahl": [
+    "stimmen Artikel und Einzahl",
+    "Dort korrigieren wir nur den Artikel zu die.",
+    "Über den Selbstvergleich der Korrekturen müssen wir noch sprechen."
+  ]
+});

@@ -327,4 +327,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zwei-verschiedene-mehrzahlformen',dialogue:'zimtstangen-muskatnuesse'},
  {reading:'alltag-a2-das-foto-hat-keinen-geruch',dialogue:'sichtbar-oder-nicht-pruefbar'},
  {reading:'alltag-b1-hinweis-oder-freier-abruf',dialogue:'hilfe-im-protokoll'},
+ {reading:'alltag-a1-nach-dem-wort-sortieren',dialogue:'g-v-statt-links-rechts'},
+ {reading:'alltag-a2-vertauschte-rueckseiten',dialogue:'zuordnung-statt-buchstabe'},
+ {reading:'alltag-b1-getrennte-rueckmeldung',dialogue:'artikel-einzahl-mehrzahl'},
 ];

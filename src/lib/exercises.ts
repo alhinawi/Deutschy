@@ -546,3 +546,6 @@ for(const[topic,rows]of Object.entries(kernkartenGrammar))exercises[topic].push(
 
 import {gewuerzbilderGrammar} from './exercises-gewuerzbilder';
 for(const[topic,rows]of Object.entries(gewuerzbilderGrammar))exercises[topic].push(...rows);
+
+import {gewuerzkartenGrammar} from './exercises-gewuerzkarten';
+for(const[topic,rows]of Object.entries(gewuerzkartenGrammar))exercises[topic].push(...rows);

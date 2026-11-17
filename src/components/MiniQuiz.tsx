@@ -37,7 +37,7 @@ function Quiz({ make, game, size = 10 }: Props) {
   if (!q) {
     return (
       <div className="space-y-3 rounded-2xl border border-line bg-card p-5">
-        <p className="ar-title text-2xl">{t(`نتيجتك ${score} من ${items.length}`, `Your score: ${score} of ${items.length}`)}</p>
+        <p role="status" aria-live="polite" aria-atomic="true" className="ar-title text-2xl">{t(`نتيجتك ${score} من ${items.length}`, `Your score: ${score} of ${items.length}`)}</p>
         <button onClick={() => { saved.current=false;locked.current=false; setAudioError(false); setRun(run + 1); setI(0); setScore(0); setPick(null); }} className="rounded-full bg-accent px-5 py-2 font-bold text-accent-ink">{t('جولة جديدة', 'New round')}</button>
       </div>
     );

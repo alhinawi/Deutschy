@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  gewuerzkarten: 'Vanilleschoten und Gewürznelken',
   gewuerzbilder: 'Zimtstangen und Muskatnüsse',
   kernkarten: 'Cashewkerne und Pinienkerne',
   zweigfruechte: 'Hagebutten und Mirabellen',
@@ -169,6 +170,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  gewuerzkarten: 'Vanilla pods and cloves',
   gewuerzbilder: 'Cinnamon sticks and nutmeg',
   kernkarten: 'Cashew kernels and pine nuts',
   zweigfruechte: 'Rose hips and mirabelle plums',

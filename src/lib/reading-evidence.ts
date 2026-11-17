@@ -2300,3 +2300,24 @@ Object.assign(readingEvidence,{
     "Diese findet in der beschriebenen Situation noch nicht statt."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-nach-dem-wort-sortieren": [
+    "Links sieht man lange dunkle Vanilleschoten.",
+    "Ihr Partner Emil soll die Wörter nach dem Alphabet ordnen.",
+    "G kommt im Alphabet vor V.",
+    "Die Fotos bleiben an ihren Plätzen."
+  ],
+  "alltag-a2-vertauschte-rueckseiten": [
+    "Die Wörter sind auf zwei getrennten Papierstreifen richtig geschrieben.",
+    "Der Fehler liegt nicht in der Schreibweise, sondern in der Verbindung zwischen Bild und Wort.",
+    "Erst nach einer zweiten Kontrolle klebt Timo die Streifen wieder fest.",
+    "Eine solche Wortabfrage haben sie noch nicht durchgeführt."
+  ],
+  "alltag-b1-getrennte-rueckmeldung": [
+    "Die Mehrzahl stimmt nicht.",
+    "Sie teilen den Bogen deshalb in drei getrennte Spalten.",
+    "Nun erhält nur die Artikelspalte eine Korrektur zu die.",
+    "Leila und Jonas haben sie zur Prüfung ihres Bogens erfunden."
+  ]
+});

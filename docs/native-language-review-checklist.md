@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-twenty-seventh practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-twenty-eighth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1354,9 +1354,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Dialogue completion score | Localized result gains polite atomic status.120statechecks36mixedanswers24axe over3sets AR/EN320/390. Mixed2/3score16XP correct; retry/reopen no stale score and no extraXP. Actual390AR/ENresult screens inspected. |
 | [ ] | Listening/dictation |68originalsegments272exactGerman speech/source/answer checks. Native editorial and actual-device voice review pending. Level labels not certification; progress local. |
 
+### List 128: Vanilla pods and cloves
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-nach-dem-wort-sortieren/` and linked dialogue | Nora/Emil sort Nomen by alphabet, not photo position. Gewürznelke before Vanilleschote; both feminine, plural +n. Photos stay in place. Paper/photos only. |
+| [ ] | `/reading/alltag-a2-vertauschte-rueckseiten/` and linked dialogue | Jasmin/Timo fix mismatched card backs, not already-correct letter sequences. Compare original files/wordlist, detach/recheck/reapply. Material check is not free word recall; no unaided test completed. |
+| [ ] | `/reading/alltag-b1-getrennte-rueckmeldung/` and linked dialogue | Leila/Jonas separate article/singular/plural feedback. Invented examples, not real learner data. First wrong plural only, second wrong article only. No standardized assessment/general-level claim. Self-comparison discussion pending. |
+| [ ] | `/lessons/gewuerzkarten/` and `/credits/` | die Vanilleschote/Vanilleschoten (قرن فانيليا), die Gewürznelke/Gewürznelken (حبة قرنفل). DWDS forms; Duden also clove. B.navez vanilla explicitly identified by DWDS; CC BY-SA3.0, source/license linked. Original1057x2174rotated90deg,crop350,0-1758,1056; original white background only, no padding/stretch. Some long ends outside crop. Marek Ruczaj35783031cloves1800x1200crop100,0-1700,1200. Both800x600 actual390AR/ENcards inspected. Ambiguous-title Pexels4963318 rejected. |
+| [ ] | Six appended grammar banks |24article/accusative/present/possessive/two-way/negation rows retain saved identities. German/Egyptian examples/explanations need native review. |
+| [ ] | Shared MiniQuiz completion score | Localized polite atomic status.16statechecks8mixedanswers8axe AR/EN320/390.1/2score5XP; newround/close/reopen no stale result/noextraXP. All changed grammar banks also tested to completion. |
+| [ ] | Listening/dictation |66originalsegments264exactGerman speech/source/answer checks. Native editorial and actual-device voice pending. Practice levels not certification; progress local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **911 photo nouns / 172 topics**, **399 reading texts / 1549 reading questions**, **41 core grammar topics / 2998 core grammar questions**, **339 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **913 photo nouns / 173 topics**, **402 reading texts / 1561 reading questions**, **41 core grammar topics / 3022 core grammar questions**, **342 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1368,7 +1380,7 @@ This is an inventory, not completed review. Snapshot: **911 photo nouns / 172 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 115 · A2 143 · B1 111 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 116 · A2 144 · B1 112 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
