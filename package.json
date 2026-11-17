@@ -11,6 +11,7 @@
     "qa:export": "node scripts/qa-export.mjs",
     "test:study": "node scripts/test-study.mjs",
     "test:pwa": "node scripts/test-pwa.mjs",
+    "test:progress-bundle": "node scripts/test-progress-bundle.mjs",
     "test:speech": "node scripts/test-speech.mjs"
   },
   "dependencies": {
