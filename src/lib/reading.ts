@@ -162,3 +162,6 @@ readings.push(...spielerundeTexts);
 
 import {picknickrundeTexts} from './reading-picknickrunde';
 readings.push(...picknickrundeTexts);
+
+import {hundeeckeTexts} from './reading-hundeecke';
+readings.push(...hundeeckeTexts);

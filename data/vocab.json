@@ -391,6 +391,10 @@
   {
    "id": "picknickrunde",
    "ar": "حاجات للبيكنيك"
+  },
+  {
+   "id": "hundeecke",
+   "ar": "حاجات لركن الكلب"
   }
  ],
  "words": [
@@ -11924,6 +11928,38 @@
     "file": "flask.jpg",
     "commons": "https://www.pexels.com/photo/metal-thermos-on-the-balcony-in-the-mountains-travel-17662565/",
     "author": "Meri Verbina",
+    "license": "Pexels License",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "hundebett",
+   "topic": "hundeecke",
+   "art": "das",
+   "de": "Hundebett",
+   "plural": "Hundebetten",
+   "ar": "سرير كلب",
+   "photo": {
+    "file": "bed.jpg",
+    "commons": "https://www.pexels.com/photo/a-dog-lying-on-its-bed-4445456/",
+    "author": "Mathew Coulton",
+    "license": "Pexels License",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "fressnapf",
+   "topic": "hundeecke",
+   "art": "der",
+   "de": "Fressnapf",
+   "plural": "Fressnäpfe",
+   "ar": "طبق أكل للحيوان",
+   "photo": {
+    "file": "bowl2.jpg",
+    "commons": "https://www.pexels.com/photo/dog-food-in-a-pet-bowl-on-a-wooden-surface-8473516/",
+    "author": "Cup of Couple",
     "license": "Pexels License",
     "padding": true,
     "modified": true

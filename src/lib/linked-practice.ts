@@ -105,4 +105,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-picknickkorb',dialogue:'becher-zur-flasche'},
  {reading:'alltag-a2-picknicknachricht',dialogue:'treffpunkt-noch-offen'},
  {reading:'alltag-b1-picknickliste',dialogue:'aufgaben-neu-bestaetigen'},
+ {reading:'alltag-a1-hundeecke',dialogue:'napf-in-der-kueche'},
+ {reading:'alltag-a2-hundesachen',dialogue:'napf-noch-zurueck'},
+ {reading:'alltag-b1-hundenotiz',dialogue:'hundesachen-selbst-holen'},
 ];

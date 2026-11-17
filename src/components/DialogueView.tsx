@@ -1,7 +1,7 @@
 'use client';
 import Link from 'next/link';
 import GermanVoice from './GermanVoice';
-import { useEffect,useState,useRef } from 'react';
+import { useEffect,useState,useRef,useMemo } from 'react';
 import { dialogues, type Dialogue } from '@/lib/dialogues';
 import { useStore } from '@/lib/store';
 import { useLang, useT } from '@/lib/i18n';
@@ -18,6 +18,9 @@ export default function DialogueView({ conversation = false }: { conversation?: 
   const { lang } = useLang();
   const [open, setOpen] = useState<Dialogue | null>(null);
   const [lv, setLv] = useState('all');
+  const [query,setQuery]=useState('');const searchInput=useRef<HTMLInputElement>(null);
+  const filtered=useMemo(()=>{const q=query.trim().normalize('NFC').toLocaleLowerCase('de');return dialogues.filter(d=>(!conversation||['A1','A2'].includes(d.level))&&(lv==='all'||d.level===lv)&&[...d.title,...d.lines.flat()].join(' ').normalize('NFC').toLocaleLowerCase('de').includes(q))},[conversation,lv,query]);
+  const available=dialogues.filter(d=>!conversation||['A1','A2'].includes(d.level)).length;
   useEffect(()=>{const sync=()=>{const d=dialogues.find(d=>d.id===location.hash.slice(1));if(d&&(!conversation||['A1','A2'].includes(d.level)))setOpen(d)};sync();window.addEventListener('hashchange',sync);return()=>window.removeEventListener('hashchange',sync)},[conversation]);
   if (open) return <One key={open.id} d={open} back={() => {history.replaceState(null,'',location.pathname);setOpen(null)}} />;
   return (
@@ -25,11 +28,14 @@ export default function DialogueView({ conversation = false }: { conversation?: 
       <h1 className="ar-title text-4xl font-bold">{conversation ? t('تدريب محادثة A1 و A2', 'A1 and A2 conversation practice') : t('حوارات', 'Dialogues')}</h1>
       <p className="text-muted">{t('اقرا حوار من الحياة اليومية، واسمعه لو الصوت متاح. استخدم الترجمة وقت الحاجة، وبعدين جاوب على 3 أسئلة فهم.', 'Read and listen to everyday dialogues with translation, then answer 3 comprehension questions.')}</p>
       <nav aria-label={t("مواقف يومية","Everyday situations")} className="flex flex-wrap gap-3">{[["im-kleidergeschaeft","المحل","Shop"],["beim-arzt-termin","الدكتور","Doctor"],["wohnungsbesichtigung","الشقة","Flat"]].map(([id,ar,en])=><button key={id} onClick={()=>setOpen(dialogues.find(d=>d.id===id)!)} className="rounded-full border border-line px-4 py-3">{t(ar,en)}</button>)}<Link className="rounded-full border border-line px-4 py-3" href="/egypt-dialogues/a1-reise/">{t("القطر","Train")}</Link></nav>
+      <div className="space-y-2"><label htmlFor="dialogue-search" className="block font-semibold">{t('دوّر بعنوان أو كلمة ألماني أو عربي','Search by title or a German or Arabic word')}</label><input id="dialogue-search" ref={searchInput} type="search" value={query} onChange={e=>setQuery(e.target.value)} aria-describedby="dialogue-search-help" className="min-h-11 w-full rounded-xl border border-line bg-card p-3"/><p id="dialogue-search-help" className="text-sm text-muted">{t('البحث في عناوين الحوارات وكلام الشخصيات، جوّه مجموعة التدريب اللي اخترتها. مسح البحث بس بيسيّب مجموعة التدريب.','Search covers dialogue titles and speaker lines within your selected practice group. Clearing only the query keeps your practice group.')}</p></div>
       <div className="flex flex-wrap gap-2">
-        {(conversation ? ['all', 'A1', 'A2'] : ['all', 'A1', 'A2', 'B1']).map((l) => <button key={l} onClick={() => setLv(l)} className={`num rounded-full border px-4 py-2 ${lv === l ? 'border-accent bg-accent text-accent-ink' : 'border-line bg-paper'}`}>{l === 'all' ? t('الكل', 'All') : l}</button>)}
+        {(conversation ? ['all', 'A1', 'A2'] : ['all', 'A1', 'A2', 'B1']).map((l) => <button key={l} aria-pressed={lv === l} onClick={() => setLv(l)} className={`num rounded-full border px-4 py-2 ${lv === l ? 'border-accent bg-accent text-accent-ink' : 'border-line bg-paper'}`}>{l === 'all' ? t('الكل', 'All') : l}</button>)}
       </div>
+      <div className="flex flex-wrap items-center gap-3"><p className="num text-sm text-muted" role="status" aria-atomic="true">{t(`الحوارات الظاهرة: ${filtered.length} من ${available}`,`Showing ${filtered.length} of ${available} dialogues`)}</p>{query&&<button type="button" onClick={()=>{setQuery('');searchInput.current?.focus()}} className="min-h-11 rounded-full border border-line px-4 py-2">{t('امسح البحث بس','Clear query only')}</button>}{(query||lv!=='all')&&<button type="button" onClick={()=>{setQuery('');setLv('all');searchInput.current?.focus()}} className="min-h-11 rounded-full border border-line px-4 py-2">{t('امسح البحث والفلتر','Clear search and filter')}</button>}</div>
+      {filtered.length===0&&<p className="rounded-2xl border border-line bg-card p-5">{t('مفيش حوارات مطابقة. جرّب كلمة أقصر أو امسح البحث والفلتر.','No matching dialogues. Try a shorter word or clear the search and filter.')}</p>}
       <ul className="grid gap-3 sm:grid-cols-2">
-        {dialogues.filter((d) => (!conversation || ['A1', 'A2'].includes(d.level)) && (lv === 'all' || d.level === lv)).map((d) => (
+        {filtered.map((d) => (
           <li key={d.id}><button onClick={() => {history.replaceState(null,'','#'+d.id);window.dispatchEvent(new HashChangeEvent('hashchange'));setOpen(d)}} className="w-full rounded-2xl border border-line bg-card p-4 text-start hover:border-accent">
             <span className="num text-xs font-bold text-accent">{d.level}</span>
             <span dir="ltr" lang="de" className="de block text-xl font-semibold">{d.title[0]}</span>

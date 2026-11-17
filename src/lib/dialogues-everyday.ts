@@ -7513,3 +7513,218 @@ Object.assign(dialogueEvidence,{
     "Dann vergleichen wir die Sachen vor dem Losgehen mit der Liste."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "napf-in-der-kueche",
+    "level": "A1",
+    "title": [
+      "Schau neben dem Schrank",
+      "بصي جنب الدولاب"
+    ],
+    "lines": [
+      [
+        "Mila",
+        "Ich suche den Fressnapf. Im Karton ist er nicht.",
+        "بدور على طبق أكل الحيوان. مش في الكرتونة."
+      ],
+      [
+        "Ben",
+        "Er steht in der Küche neben dem Schrank.",
+        "موجود في المطبخ جنب الدولاب."
+      ],
+      [
+        "Mila",
+        "Danke. Ich stelle ihn erst einmal auf den Tisch.",
+        "شكراً. هحطه على الترابيزة مؤقتاً."
+      ],
+      [
+        "Ben",
+        "Der Ball liegt jetzt im kleinen Korb.",
+        "الكورة دلوقتي في السبت الصغير."
+      ],
+      [
+        "Mila",
+        "Und das blaue Handtuch?",
+        "والفوطة الزرقا؟"
+      ],
+      [
+        "Ben",
+        "Das lege ich auf das untere Regal.",
+        "هحطها على الرف اللي تحت."
+      ],
+      [
+        "Mila",
+        "Gut. Das Hundebett lassen wir an seinem Platz.",
+        "تمام. هنسيب سرير الكلب في مكانه."
+      ]
+    ],
+    "q": [
+      [
+        "Wo steht der Napf zuerst?",
+        "In der Küche.",
+        "Im Karton.",
+        "Auf dem Balkon."
+      ],
+      [
+        "Wo liegt der Ball jetzt?",
+        "Im kleinen Korb.",
+        "Im Napf.",
+        "Unter dem Schrank."
+      ],
+      [
+        "Wohin legt Ben das blaue Handtuch?",
+        "Auf das untere Regal.",
+        "In den Napf.",
+        "Vor die Haustür."
+      ]
+    ]
+  },
+  {
+    "id": "napf-noch-zurueck",
+    "level": "A2",
+    "title": [
+      "Der Aufkleber ist unten",
+      "الاستيكر من تحت"
+    ],
+    "lines": [
+      [
+        "Nora",
+        "Die beiden Näpfe sehen fast gleich aus. Ich packe sie zusammen ein.",
+        "الطبقين شكلهم واحد تقريباً. هحطهم مع بعض في الشنطة."
+      ],
+      [
+        "Sami",
+        "Warte bitte. Einer gehört unserer Nachbarin.",
+        "استني لو سمحتي. واحد بتاع جارتنا."
+      ],
+      [
+        "Nora",
+        "Weißt du, welcher?",
+        "عارف أنهي واحد؟"
+      ],
+      [
+        "Sami",
+        "In ihrer Nachricht steht etwas von einem Aufkleber an der Unterseite.",
+        "في رسالتها فيه كلام عن استيكر من تحت."
+      ],
+      [
+        "Nora",
+        "Hier ist er. Diesen Napf stelle ich getrennt hin.",
+        "أهو. هحط الطبق ده منفصل."
+      ],
+      [
+        "Sami",
+        "Gut. Einen Abholzeitpunkt hat sie noch nicht genannt.",
+        "تمام. لسه ماحددتش وقت تاخده فيه."
+      ],
+      [
+        "Nora",
+        "Dann bleibt die Rückgabe auf unserer Liste offen.",
+        "يبقى ترجيع الطبق يفضل مفتوح في قايمتنا."
+      ]
+    ],
+    "q": [
+      [
+        "Wem gehört einer der Näpfe?",
+        "Der Nachbarin.",
+        "Noras Lehrerin.",
+        "Niemandem."
+      ],
+      [
+        "Wo ist der Aufkleber?",
+        "An der Unterseite.",
+        "Im Hundebett.",
+        "Auf der Haustür."
+      ],
+      [
+        "Was ist noch nicht vereinbart?",
+        "Ein Abholzeitpunkt.",
+        "Die Farbe der Tasche.",
+        "Ein neuer Kauf."
+      ]
+    ]
+  },
+  {
+    "id": "hundesachen-selbst-holen",
+    "level": "B1",
+    "title": [
+      "Ich kann erst am Abend",
+      "أنا أقدر بالليل بس"
+    ],
+    "lines": [
+      [
+        "Omar",
+        "Kannst du meine Hundesachen am Nachmittag in den Flur stellen?",
+        "تقدري تحطي حاجات كلبي في الطرقة بعد الضهر؟"
+      ],
+      [
+        "Lea",
+        "Ich könnte das erst am Abend machen. Passt dir das?",
+        "أقدر أعمل ده بالليل بس. ينفع معاك؟"
+      ],
+      [
+        "Omar",
+        "Leider nicht. Ich möchte sie schon vorher abholen.",
+        "للأسف لأ. عايز آخدها قبل كده."
+      ],
+      [
+        "Lea",
+        "Dann holst du sie lieber selbst aus dem Wohnzimmer.",
+        "يبقى الأفضل تاخدها بنفسك من أوضة المعيشة."
+      ],
+      [
+        "Omar",
+        "Einverstanden. Lass das Hundebett und den Napf bitte dort.",
+        "متفقين. سيبي سرير الكلب والطبق هناك لو سمحتي."
+      ],
+      [
+        "Lea",
+        "Meine Tasche vor der Tür räume ich weg.",
+        "هشيل شنطتي من قدام الباب."
+      ],
+      [
+        "Omar",
+        "Danke. Dann ist klar, wer was übernimmt.",
+        "شكراً. كده واضح مين هيعمل إيه."
+      ]
+    ],
+    "q": [
+      [
+        "Wann könnte Lea die erste Aufgabe übernehmen?",
+        "Erst am Abend.",
+        "Sofort am Morgen.",
+        "Gar nicht mehr."
+      ],
+      [
+        "Was soll Lea mit Hundebett und Napf tun?",
+        "Sie dort lassen.",
+        "Sie verkaufen.",
+        "Sie in den Garten stellen."
+      ],
+      [
+        "Was räumt Lea weg?",
+        "Ihre Tasche vor der Tür.",
+        "Omars Hundebett.",
+        "Alle Möbel."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "napf-in-der-kueche": [
+    "Er steht in der Küche neben dem Schrank.",
+    "Der Ball liegt jetzt im kleinen Korb.",
+    "Das lege ich auf das untere Regal."
+  ],
+  "napf-noch-zurueck": [
+    "Einer gehört unserer Nachbarin.",
+    "einem Aufkleber an der Unterseite.",
+    "Einen Abholzeitpunkt hat sie noch nicht genannt."
+  ],
+  "hundesachen-selbst-holen": [
+    "Ich könnte das erst am Abend machen.",
+    "Lass das Hundebett und den Napf bitte dort.",
+    "Meine Tasche vor der Tür räume ich weg."
+  ]
+});

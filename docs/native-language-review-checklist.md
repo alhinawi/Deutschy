@@ -453,6 +453,18 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/games/` | Topic selector affects only five vocabulary-game links, not four sentence games. Check AR/EN labels, counts, reset focus, query encoding and new-topic navigation. Round size described as up to 10, no blanket leaderboard promise. No saved-progress writes in picker. |
 | [ ] | Listening/dictation | Check all 53 German segments, actual device-voice pronunciation and Egyptian Arabic meaning. Mock speech is not native voice review. |
 
+### List 54: dog supplies and coordination
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-hundeecke/` and `napf-in-der-kueche` | Check bed in living-room corner, empty bowl by kitchen cupboard, ball in basket, towel on lower shelf, bed left in place. Check all 7 answers/evidence and Egyptian Arabic. |
+| [ ] | `/reading/alltag-a2-hundesachen/` and `napf-noch-zurueck` | Check ownership of similar bowls established by message plus underside sticker, neighbor bowl separated, return still open without pickup time. No purchase. |
+| [ ] | `/reading/alltag-b1-hundenotiz/` and `hundesachen-selbst-holen` | Check request versus limited availability, revised agreement that Omar collects his objects himself, Lea only moves her own bag. No implied animal-care commitment. |
+| [ ] | `/lessons/hundeecke/` | das Hundebett / Hundebetten, der Fressnapf / Fressnäpfe. Whole real bed with resting dog and whole pet-food bowl. Cropped/padded; no human face, brand or fake substitute. Stock images illustrate nouns, not fictional story-state evidence. |
+| [ ] | `exercises-hundeecke.ts` | 24 appended article/genus, dative, present, separable, two-way/dative-preposition and negation rows. Check forms and Arabic/English explanations. Prior saved identities unchanged. |
+| [ ] | `/dialogues/` and `/conversation/` | New normalized title/speaker-line search within practice group. AR/EN count, no matches, query-only clear, full reset, focus, pressed group buttons. Search persists when returning from a dialogue; A1/A2 conversation scope excludes B1. No search progress writes. |
+| [ ] | Listening/dictation | Check all 53 new German segments and Egyptian Arabic. Actual device-voice review pending. No feeding-quantity, veterinary, training or animal-health advice. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -467,7 +479,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **763 photo nouns / 98 topics**, **177 reading texts / 661 reading questions**, **41 core grammar topics / 1222 core grammar questions**, **117 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **765 photo nouns / 99 topics**, **180 reading texts / 673 reading questions**, **41 core grammar topics / 1246 core grammar questions**, **120 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -479,7 +491,7 @@ This is an inventory, not completed review. Snapshot: **763 photo nouns / 98 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 41 · A2 69 · B1 37 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 42 · A2 70 · B1 38 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

@@ -746,3 +746,24 @@ Object.assign(readingEvidence,{
     "Sie ist aber kein Beweis dafür, dass alle Dinge bereits eingepackt sind."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-hundeecke": [
+    "Mila und Ben räumen eine Ecke im Wohnzimmer auf. Dort steht das Hundebett.",
+    "Darin liegen nur alte Handtücher.",
+    "Der leere Napf steht neben dem Schrank.",
+    "Das Hundebett bleibt an seinem Platz."
+  ],
+  "alltag-a2-hundesachen": [
+    "Er erinnert sich nicht sicher daran, welcher Napf seiner ist.",
+    "Darin beschreibt sie einen kleinen Aufkleber an der Unterseite ihres Napfes.",
+    "es wird heute nicht mitgenommen.",
+    "Die Nachbarin hat noch keinen Abholzeitpunkt genannt."
+  ],
+  "alltag-b1-hundenotiz": [
+    "Sie kann die Aufgabe erst am Abend übernehmen.",
+    "dass er sie selbst aus dem Wohnzimmer holt.",
+    "Sie räumt lediglich ihre eigene Tasche vor der Wohnzimmertür weg.",
+    "denn genau das haben die beiden vereinbart."
+  ]
+});
