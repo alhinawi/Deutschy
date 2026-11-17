@@ -438,3 +438,6 @@ for(const[topic,rows]of Object.entries(denkobjekteGrammar))exercises[topic].push
 
 import {instrumentenformenGrammar} from './exercises-instrumentenformen';
 for(const[topic,rows]of Object.entries(instrumentenformenGrammar))exercises[topic].push(...rows);
+
+import {loeffelformenGrammar} from './exercises-loeffelformen';
+for(const[topic,rows]of Object.entries(loeffelformenGrammar))exercises[topic].push(...rows);

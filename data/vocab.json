@@ -543,6 +543,10 @@
   {
    "id": "instrumentenformen",
    "ar": "شخشيخة موسيقى وطبق رنان"
+  },
+  {
+   "id": "loeffelformen",
+   "ar": "معلقة طبخ ومعلقة عسل"
   }
  ],
  "words": [
@@ -13224,6 +13228,36 @@
     "file": "10574236.jpg",
     "commons": "https://www.pexels.com/photo/close-up-of-a-tibetan-singing-bowl-10574236/",
     "author": "Clayton Leite",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "kochloeffel",
+   "topic": "loeffelformen",
+   "art": "der",
+   "de": "Kochlöffel",
+   "plural": "-",
+   "ar": "معلقة طبخ",
+   "photo": {
+    "file": "350417.jpg",
+    "commons": "https://www.pexels.com/photo/top-view-of-wooden-spoons-350417/",
+    "author": "Aphiwat chuangchoem",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "honigloeffel",
+   "topic": "loeffelformen",
+   "art": "der",
+   "de": "Honiglöffel",
+   "plural": "-",
+   "ar": "معلقة عسل",
+   "photo": {
+    "file": "8805020.jpg",
+    "commons": "https://www.pexels.com/photo/a-hand-holding-a-honey-dripper-over-a-glass-jar-of-honey-on-a-wooden-table-8805020/",
+    "author": "Mike Jones",
     "license": "Pexels License",
     "modified": true
    }

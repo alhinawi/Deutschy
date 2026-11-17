@@ -1544,3 +1544,24 @@ Object.assign(readingEvidence,{
     "Sie wollen später eine passende, eindeutig zugeordnete Aufnahme anhören, haben aber noch keine ausgewählt."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zwei-karten-in-einer-mappe": [
+    "Ein großer rötlicher Löffel liegt quer in der Mitte.",
+    "Lukas legt zuerst beide Karten unter dasselbe Foto.",
+    "Lukas nimmt die Karte mit Honiglöffel und legt sie unter das Glasfoto.",
+    "Die zwei Karten kommen danach in eine kleine Hülle."
+  ],
+  "alltag-a2-erst-den-namen-dann-den-artikel": [
+    "In der ersten Runde nennt Rami nur den Gegenstand auf einem Foto.",
+    "In der ersten Runde ist der Artikel ausdrücklich noch nicht gefragt.",
+    "Jetzt sagt Rami beim Honiglöffel versehentlich das statt der.",
+    "Umgekehrt beweist ein richtiger Name noch keinen richtigen Artikel."
+  ],
+  "alltag-b1-ein-tropfen-ist-keine-mengenangabe": [
+    "Das zeigt eine sichtbare Situation, aber weder den Beginn noch das Ende des Vorgangs.",
+    "Der sichtbare Faden ist keine Messskala.",
+    "Jonas weist auf die Gabelzinken hin",
+    "Eine Dosieranleitung, eine Materialprüfung oder eine Freigabe für den Kontakt mit Lebensmitteln entsteht aus ihrer Bildbeschreibung nicht."
+  ]
+});

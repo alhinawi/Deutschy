@@ -15683,3 +15683,218 @@ Object.assign(dialogueEvidence,{
     "Leer heißt hier noch nicht bearbeitet, nicht nachweislich still."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "eine-karte-fuer-jedes-foto",
+    "level": "A1",
+    "title": [
+      "Eine Karte für jedes Foto",
+      "كارت لكل صورة"
+    ],
+    "lines": [
+      [
+        "Lukas",
+        "Ich habe beide Karten unter dieses Foto gelegt.",
+        "حطيت الكارتين تحت الصورة دي."
+      ],
+      [
+        "Hana",
+        "Dann fehlt dem Foto mit dem Glas noch ein Name.",
+        "يبقى صورة البرطمان لسه ناقصها اسم."
+      ],
+      [
+        "Lukas",
+        "Stimmt. Die Karte mit Honiglöffel kommt dorthin.",
+        "صح. كارت معلقة العسل يتحط هناك."
+      ],
+      [
+        "Hana",
+        "Und hier bleibt der Kochlöffel. Beide Wörter sind maskulin.",
+        "وهنا تفضل معلقة الطبخ. الكلمتين بالألماني مذكر."
+      ],
+      [
+        "Lukas",
+        "Ändert sich die Wortform im Plural?",
+        "شكل الكلمة بيتغير في الجمع؟"
+      ],
+      [
+        "Hana",
+        "Nein. Wir schreiben die Kochlöffel und die Honiglöffel.",
+        "لأ. بنكتب نفس الشكل مع أداة تعريف الجمع."
+      ],
+      [
+        "Lukas",
+        "Gut. Die Karten stecke ich in die kleine Hülle.",
+        "تمام. هحط الكارتين في الغلاف الصغير."
+      ]
+    ],
+    "q": [
+      [
+        "Welchem Foto fehlt noch ein Name?",
+        "Dem Foto mit dem Glas.",
+        "Dem Foto mit dem großen Kochlöffel.",
+        "Einem Foto ohne Gegenstände."
+      ],
+      [
+        "Welches Genus haben beide Wörter?",
+        "Maskulinum.",
+        "Femininum.",
+        "Neutrum."
+      ],
+      [
+        "Was ändert sich bei diesen Pluralformen nicht?",
+        "Die Wortform.",
+        "Der Artikel.",
+        "Die Zahl der gemeinten Gegenstände."
+      ]
+    ]
+  },
+  {
+    "id": "welche-runde-ist-jetzt",
+    "level": "A2",
+    "title": [
+      "Welche Runde ist jetzt?",
+      "إحنا في أنهي جولة دلوقتي؟"
+    ],
+    "lines": [
+      [
+        "Rami",
+        "Soll ich jetzt schon den Artikel nennen?",
+        "أقول أداة التعريف من دلوقتي؟"
+      ],
+      [
+        "Mira",
+        "Noch nicht. In der ersten Runde geht es nur um den Namen.",
+        "لسه لأ. في الجولة الأولى المطلوب الاسم بس."
+      ],
+      [
+        "Rami",
+        "Honiglöffel.",
+        "معلقة عسل."
+      ],
+      [
+        "Mira",
+        "Richtig. Jetzt beginnt Runde zwei. Bitte mit Artikel.",
+        "صح. دلوقتي الجولة التانية بتبدأ. بأداة التعريف لو سمحت."
+      ],
+      [
+        "Rami",
+        "Das Honiglöffel?",
+        "أداة التعريف المحايد مع معلقة عسل؟"
+      ],
+      [
+        "Mira",
+        "Der Honiglöffel. Den Namen hattest du schon richtig.",
+        "أداة التعريف المذكر. الاسم كنت قايله صح أصلًا."
+      ],
+      [
+        "Rami",
+        "Dann wiederhole ich später nur die Artikel.",
+        "يبقى أكرر أدوات التعريف بس بعدين."
+      ]
+    ],
+    "q": [
+      [
+        "Worum geht es in der ersten Runde?",
+        "Nur um den Namen.",
+        "Nur um einen Preis.",
+        "Um ein Rezept."
+      ],
+      [
+        "Was korrigiert Mira?",
+        "Den Artikel beim Honiglöffel.",
+        "Den schon richtigen Namen.",
+        "Die Farbe des Fotos."
+      ],
+      [
+        "Was möchte Rami später wiederholen?",
+        "Nur die Artikel.",
+        "Ein Kochrezept.",
+        "Eine Einkaufsliste."
+      ]
+    ]
+  },
+  {
+    "id": "keine-grammzahl-aus-dem-foto",
+    "level": "B1",
+    "title": [
+      "Keine Grammzahl aus dem Foto",
+      "مافيش عدد جرامات من الصورة"
+    ],
+    "lines": [
+      [
+        "Selma",
+        "Ich habe eine genaue Portion Honig notiert. Das war zu bestimmt.",
+        "كتبت مقدار معلقة عسل بالظبط. ده كان تحديد زيادة."
+      ],
+      [
+        "Jonas",
+        "Wir sehen weder den Anfang noch das Ende des Vorgangs.",
+        "إحنا مش شايفين لا بداية العملية ولا نهايتها."
+      ],
+      [
+        "Selma",
+        "Also beschreibe ich den gerillten Kopf und den Faden über dem Glas.",
+        "يبقى أوصف الراس المحززة والخيط فوق البرطمان."
+      ],
+      [
+        "Jonas",
+        "Genau. Der Name allein ist keine genormte Mengenangabe.",
+        "بالظبط. الاسم لوحده مش قياس كمية بمعيار محدد."
+      ],
+      [
+        "Selma",
+        "Beim anderen Foto zähle ich auch nicht jede Form als Kochlöffel.",
+        "وفي الصورة التانية مش هعد كل شكل معلقة طبخ برضه."
+      ],
+      [
+        "Jonas",
+        "Die Gabelzinken helfen uns, die Formen zu unterscheiden.",
+        "سنون الشوكة بتساعدنا نفرق بين الأشكال."
+      ],
+      [
+        "Selma",
+        "Die Wortübung ist damit genauer, aber noch keine Materialprüfung.",
+        "كده تدريب الكلمات أدق بس لسه مش فحص خامة."
+      ]
+    ],
+    "q": [
+      [
+        "Was sehen beide nicht?",
+        "Den Anfang und das Ende des Vorgangs.",
+        "Den sichtbaren Faden.",
+        "Den gerillten Kopf."
+      ],
+      [
+        "Was ist der Name allein nicht?",
+        "Eine genormte Mengenangabe.",
+        "Eine Bezeichnung im Wortheft.",
+        "Ein Wort mit Artikel."
+      ],
+      [
+        "Was hilft beim Unterscheiden der Formen?",
+        "Die Gabelzinken.",
+        "Eine Grammzahl auf dem Foto.",
+        "Ein Materialzertifikat."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "eine-karte-fuer-jedes-foto": [
+    "Dann fehlt dem Foto mit dem Glas noch ein Name.",
+    "Beide Wörter sind maskulin.",
+    "Nein. Wir schreiben die Kochlöffel und die Honiglöffel."
+  ],
+  "welche-runde-ist-jetzt": [
+    "In der ersten Runde geht es nur um den Namen.",
+    "Der Honiglöffel. Den Namen hattest du schon richtig.",
+    "Dann wiederhole ich später nur die Artikel."
+  ],
+  "keine-grammzahl-aus-dem-foto": [
+    "Wir sehen weder den Anfang noch das Ende des Vorgangs.",
+    "Der Name allein ist keine genormte Mengenangabe.",
+    "Die Gabelzinken helfen uns, die Formen zu unterscheiden."
+  ]
+});

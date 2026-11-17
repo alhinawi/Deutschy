@@ -922,9 +922,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Flashcard flip focus | Themed keyboard focus ring outside front/back flip card, paper gap. Actual AR/EN320/390 focused pixels, Enter opens and Space closes, aria-expanded changes, no flip XP. Does not change spaced-repetition scheduling. |
 | [ ] | Listening/dictation |62 original segments/Egyptian Arabic. Instrument names as spoken language, not recordings of instruments. Native editorial/real-device voice pending. No proficiency or health-outcome claims. |
 
+### List 92: spoon forms, two rounds and measurement limits
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zwei-karten-in-einer-mappe/` and linked dialogue | Hana/Lukas distinguish two photo names, move Honiglöffel card under jar photo, cards into small sleeve/photos remain large folder. Whole central reddish cooking spoon, grooved honey dipper over jar. Both masculine, same-form plurals with plural die, not feminine singular. |
+| [ ] | `/reading/alltag-a2-erst-den-namen-dann-den-artikel/` and linked dialogue | Mira/Rami expressly agree name-only round then article round. Do not mark missing article as error before requested. Second-round das instead of der corrected without erasing right noun. Separate notebook columns, no fixed follow-up time, not a cooking instruction. |
+| [ ] | `/reading/alltag-b1-ein-tropfen-ist-keine-mengenangabe/` and linked dialogue | Selma/Jonas remove measured portion/duration inferred from honey thread. Start/end/dose unknown; Honiglöffel name not standard measure. Jar contents/composition/origin unchecked. Fork tines mean not every wooden shape a cooking spoon; no total inventory guessed from overlaps/edges. No material or food-contact certification. |
+| [ ] | `/lessons/loeffelformen/` and `/credits/` | der Kochlöffel/- and der Honiglöffel/-, معلقة طبخ and معلقة عسل. DWDS Kochlöffel editorial entry. Honiglöffel machine-generated DWDS form explicitly crosschecked with German grooved-head manufacturer wording, not product identity. Whole central reddish spoon among other wooden utensils, hand-held dipper with natural hidden handle end and jar context. Real800x600 crops, no padding/face/brand. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way-preposition/negation rows; old saved IDs unchanged. öffnet/liest/legt/verzichten; ihre/sein/ihren/unsere; in der/die Hülle, neben dem/das Heft. Both explanations pending native review. |
+| [ ] | Flash revealed language | Revealed main German article/noun line explicitly lang de/dir ltr, independent of Arabic/English page.390 AR/EN revealed-card actual focused pixels inspected, keyboard front/back noXP regression retained. No scoring/schedule change. |
+| [ ] | Listening/dictation |66 original segments/Egyptian Arabic. Native editorial and real-device voice review pending. Practice labels are content organization, no proficiency statement. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **839 photo nouns / 136 topics**, **291 reading texts / 1117 reading questions**, **41 core grammar topics / 2134 core grammar questions**, **231 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **841 photo nouns / 137 topics**, **294 reading texts / 1129 reading questions**, **41 core grammar topics / 2158 core grammar questions**, **234 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -936,7 +948,7 @@ This is an inventory, not completed review. Snapshot: **839 photo nouns / 136 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 79 · A2 107 · B1 75 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 80 · A2 108 · B1 76 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

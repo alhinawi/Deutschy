@@ -219,4 +219,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zwei-runde-instrumente',dialogue:'zwei-woerter-mit-die'},
  {reading:'alltag-a2-die-musik-kommt-vom-handy',dialogue:'nur-die-musik-leiser'},
  {reading:'alltag-b1-ein-name-ist-kein-hoerbeispiel',dialogue:'das-leere-hoerfeld'},
+ {reading:'alltag-a1-zwei-karten-in-einer-mappe',dialogue:'eine-karte-fuer-jedes-foto'},
+ {reading:'alltag-a2-erst-den-namen-dann-den-artikel',dialogue:'welche-runde-ist-jetzt'},
+ {reading:'alltag-b1-ein-tropfen-ist-keine-mengenangabe',dialogue:'keine-grammzahl-aus-dem-foto'},
 ];

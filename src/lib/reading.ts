@@ -276,3 +276,6 @@ readings.push(...denkobjekteTexts);
 
 import {instrumentenformenTexts} from './reading-instrumentenformen';
 readings.push(...instrumentenformenTexts);
+
+import {loeffelformenTexts} from './reading-loeffelformen';
+readings.push(...loeffelformenTexts);
