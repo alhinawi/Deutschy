@@ -583,6 +583,10 @@
   {
    "id": "freizeitfarben",
    "ar": "مفرش اليوجا وكورة البلياردو"
+  },
+  {
+   "id": "bildanordnung",
+   "ar": "الحصالة وكورة الريشة"
   }
  ],
  "words": [
@@ -13564,6 +13568,36 @@
     "file": "30483014.jpg",
     "commons": "https://www.pexels.com/photo/close-up-of-red-number-3-pool-ball-on-green-table-30483014/",
     "author": "dp singh Bhullar",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "sparschwein",
+   "topic": "bildanordnung",
+   "art": "das",
+   "de": "Sparschwein",
+   "plural": "Sparschweine",
+   "ar": "حصالة على شكل خنزير",
+   "photo": {
+    "file": "4146005.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-photo-of-cute-pink-piggy-bank-4146005/",
+    "author": "Ann Hannes",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "federball",
+   "topic": "bildanordnung",
+   "art": "der",
+   "de": "Federball",
+   "plural": "Federbälle",
+   "ar": "كورة ريشة",
+   "photo": {
+    "file": "7438729.jpg",
+    "commons": "https://www.pexels.com/photo/three-shuttlecocks-on-the-floor-7438729/",
+    "author": "Saif71.com",
     "license": "Pexels License",
     "modified": true
    }

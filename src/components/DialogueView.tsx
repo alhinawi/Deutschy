@@ -61,7 +61,7 @@ function One({ d, back }: { d: Dialogue; back: () => void }) {
   const speakers = [...new Set(d.lines.map((l) => l[0]))];
   return (
     <div className="mx-auto max-w-2xl space-y-5">
-      <button onClick={back} className="text-sm text-muted hover:text-ink">← {t('كل الحوارات', 'All dialogues')}</button>
+      <button onClick={back} className="inline-flex min-h-11 items-center rounded-lg px-2 text-sm text-muted hover:text-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper">← {t('كل الحوارات', 'All dialogues')}</button>
       <div>
         <span className="num rounded-full bg-accent/10 px-2.5 py-0.5 text-xs font-bold text-accent">{d.level}</span>
         <h1 className="de mt-2 text-3xl font-semibold" lang="de">{d.title[0]}</h1>

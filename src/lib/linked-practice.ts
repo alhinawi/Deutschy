@@ -249,4 +249,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zwei-woerter-mit-die',dialogue:'die-matte-auf-diesem-foto'},
  {reading:'alltag-a2-was-meinst-du-mit-gut',dialogue:'kannst-du-ein-beispiel-nennen'},
  {reading:'alltag-b1-vergleich-ohne-massstab',dialogue:'bildgroesse-oder-echte-masse'},
+ {reading:'alltag-a1-eins-und-drei',dialogue:'welches-bild-zeigt-drei'},
+ {reading:'alltag-a2-nur-das-wort-noch-einmal',dialogue:'nur-nach-drei'},
+ {reading:'alltag-b1-anordnung-ist-keine-anleitung',dialogue:'was-zeigt-die-anordnung'},
 ];
