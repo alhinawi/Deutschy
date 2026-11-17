@@ -528,3 +528,6 @@ for(const[topic,rows]of Object.entries(kleinebilderGrammar))exercises[topic].pus
 
 import {freizeitformenGrammar} from './exercises-freizeitformen';
 for(const[topic,rows]of Object.entries(freizeitformenGrammar))exercises[topic].push(...rows);
+
+import {grueneformenGrammar} from './exercises-grueneformen';
+for(const[topic,rows]of Object.entries(grueneformenGrammar))exercises[topic].push(...rows);

@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-twenty-first practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-twenty-second practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1282,9 +1282,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Reading playback and transcript controls | Four existing controls gain44pxminimum/card-ground keyboard focus.48AR/EN320/390 keyboard+axe states over3sets: article/listening exactGerman de-DE payload, stop cancellation, transcript show/hide/exacttext/noXP. Actual390AR/EN focus/cards inspected. No routing/scoring/playback behavior change. |
 | [ ] | Listening/dictation |75 original segments,300 exactGerman speech/source/answer checks. Native editorial and real-device voice review pending. Level labels not certification; progress device-local. |
 
+### List 122: Zucchini and limes
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-gruene-karten-im-kreis/` and linked dialogue | Mara/Sami fictional classroom description game: striped elongated zucchini on wooden bench versus round green limes on yellow ground. Color alone matches both; add shape. Role swap and another game tomorrow, no actual purchase. |
+| [ ] | `/reading/alltag-a2-zwei-pluralformen-auf-einem-blatt/` and linked dialogue | Nora/Emil keep both Zucchini and Zucchinis plurals, Limette/Limetten adds n, Zucchini cch and Limette double t. Usual feminine Zucchini taught; rare Austrian masculine form explicitly outside this lesson's target. Singular on card reverse. |
+| [ ] | `/reading/alltag-b1-spielregeln-gemeinsam-aendern/` and linked dialogue | Liv/Adam fictional rule revision: correct one wrongly rejected valid plural, do not silently rewrite all past results. Harder no-background-clue variant explained before round2. Distinguish word forms from clue rules, no official exam claim. |
+| [ ] | `/lessons/grueneformen/` and `/credits/` | die Zucchini / Zucchini or Zucchinis (كوسة), die Limette / Limetten (ليمون أخضر). Full DWDS entries checked. Nati33171853 zucchini1800x1200 crop0,220-1300,1195; Cup of Couple7657210 lime1800x1201 center4:3 crop. Both800x600 real photos, no padding/stretch/brand/person. Both plural variants visible in4AR/EN320/390states. Rettich photo conflicts and rare Rotkohl plural avoided. |
+| [ ] | Six appended grammar banks |24 article/accusative/present/possessive/two-way/negation rows; all prior saved identities retained. Native German/Egyptian examples and explanations review pending. |
+| [ ] | Reading next/result/retry | Two existing controls gain44pxminimum/card-ground keyboard focus.60AR/EN320/390states across3sets: keyboard Enter advance/result/reset, visible rings, accessibility, nooverflow. Navigation/reset itself adds noXP; a fresh correct answer after retry retains existing8XP behavior. No scoring/target/routing changes. Actual390AR/EN result focus and photo cards inspected. |
+| [ ] | Listening/dictation |72 original segments,288exactGerman speech/source/answer checks. Native editorial and actual-device voice review pending. Level labels not certification; progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **899 photo nouns / 166 topics**, **381 reading texts / 1477 reading questions**, **41 core grammar topics / 2854 core grammar questions**, **321 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **901 photo nouns / 167 topics**, **384 reading texts / 1489 reading questions**, **41 core grammar topics / 2878 core grammar questions**, **324 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1296,7 +1308,7 @@ This is an inventory, not completed review. Snapshot: **899 photo nouns / 166 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 109 · A2 137 · B1 105 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 110 · A2 138 · B1 106 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

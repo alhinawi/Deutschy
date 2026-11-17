@@ -309,4 +309,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-ball-und-ring-auf-zwei-fotos',dialogue:'ball-ohne-loch-ring-mit-loch'},
  {reading:'alltag-a2-basketball-sport-oder-gegenstand',dialogue:'sportwort-und-bildwort'},
  {reading:'alltag-b1-fruchtmuster-ist-keine-zusatzlieferung',dialogue:'motiv-und-lage-klar-benennen'},
+ {reading:'alltag-a1-gruene-karten-im-kreis',dialogue:'form-statt-nur-farbe'},
+ {reading:'alltag-a2-zwei-pluralformen-auf-einem-blatt',dialogue:'beide-zucchini-plurale-gelten'},
+ {reading:'alltag-b1-spielregeln-gemeinsam-aendern',dialogue:'neue-regel-ab-runde-zwei'},
 ];
