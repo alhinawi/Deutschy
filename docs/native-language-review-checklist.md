@@ -838,9 +838,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Keyboard game navigation | Game-back focus ring now has offset gap, actual AR/EN390 focused pixels inspected. Existing44px target/input/topic/result/progress/submit states and grading/XP unchanged. |
 | [ ] | Listening/dictation |63 original segments/Egyptian Arabic. Native editorial and actual-device voice pending. No actual recipe advice, conversion, measurement, external message or commitment. |
 
+### List 85: quiet object names, actual order and counting units
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-die-beiden-koepfe/` and linked dialogue | Original fictional quiet word exercise: round-headed mallets on white blanket, castanet in box with cord/two shells. Singular dictionary entries, pointing then roles swap. No music. Instrument back to box beside sofa, mallets stay blanket/not cleared. |
+| [ ] | `/reading/alltag-a2-die-reihenfolge-auf-dem-zettel/` and linked dialogue | Plan Jana then Luis, actual Luis first at Jana's request while she finds word for cord. Both describe names/features, no music/recording. Keep plan/add actual order; one-round note not future rule. Castanet to Jana's fabric bag, mallets to Luis's box. Next starter/objects still open. |
+| [ ] | `/reading/alltag-b1-schalen-und-instrumente/` and linked dialogue | Two linked castanet shells constitute one instrument; full mallet stick/head one object. Distinguish parts versus instruments/counting unit. Blank function-check line, no sound/playability claim or trial. Singular dictionary heading not photo count, Schlägel same-form plural/article changes, Kastagnetten separate plural. Word cards not inventory/test report. More photos not chosen. |
+| [ ] | `/lessons/klangwoerter/` and `/credits/` | der Schlägel/- and die Kastagnette/Kastagnetten. عصاية ضرب لآلة إيقاع and كاستنيت. Whole pair of mallets at top, partial metal-bar instrument only context, not called xylophone. Whole open castanet in hand, original monochrome. Real faceless/unbranded800x600 crops, no padding. No sound/material/playability inference. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way-preposition/negation rows; old saved keys retained. der/dem versus die/der; zeigt/liest/ergänzt/probieren...aus; ihr/seine/ihren/unsere; in der/die Kiste and auf der/die Decke. |
+| [ ] | Keyboard spelling confirmation | Check focus gap now uses page-ground theme token rather than default white. Actual AR/EN390 focused pixels inspected. Scoring/state unchanged; existing44px/navigation/topic/input/progress/result/error/label and submit-ring regressions retained. |
+| [ ] | Listening/dictation |67 original segments/Egyptian Arabic. Native editorial and actual-device voice pending. No music recording, external messages, instrument test or commitment. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **825 photo nouns / 129 topics**, **270 reading texts / 1033 reading questions**, **41 core grammar topics / 1966 core grammar questions**, **210 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **827 photo nouns / 130 topics**, **273 reading texts / 1045 reading questions**, **41 core grammar topics / 1990 core grammar questions**, **213 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -852,7 +864,7 @@ This is an inventory, not completed review. Snapshot: **825 photo nouns / 129 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 72 · A2 100 · B1 68 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 73 · A2 101 · B1 69 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

@@ -515,6 +515,10 @@
   {
    "id": "mengenangaben",
    "ar": "معلقة معيارية وميزان مطبخ"
+  },
+  {
+   "id": "klangwoerter",
+   "ar": "عصاية إيقاع وكاستنيت"
   }
  ],
  "words": [
@@ -12986,6 +12990,36 @@
     "file": "6303718.jpg",
     "commons": "https://www.pexels.com/photo/electronic-scales-with-heap-of-sugar-6303718/",
     "author": "Klaus Nielsen",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "schlaegel",
+   "topic": "klangwoerter",
+   "art": "der",
+   "de": "Schlägel",
+   "plural": "-",
+   "ar": "عصاية ضرب لآلة إيقاع",
+   "photo": {
+    "file": "6274913.jpg",
+    "commons": "https://www.pexels.com/photo/a-xylophone-lying-over-a-white-blanket-6274913/",
+    "author": "Kaboompics",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "kastagnette",
+   "topic": "klangwoerter",
+   "art": "die",
+   "de": "Kastagnette",
+   "plural": "Kastagnetten",
+   "ar": "كاستنيت",
+   "photo": {
+    "file": "31466348.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-of-hand-holding-traditional-castanets-31466348/",
+    "author": "Samantha Luna",
     "license": "Pexels License",
     "modified": true
    }

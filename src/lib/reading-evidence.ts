@@ -1397,3 +1397,24 @@ Object.assign(readingEvidence,{
     "bestätigt aber weder die Richtigkeit der alten Mengen"
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-die-beiden-koepfe": [
+    "Mara zeigt zuerst auf die beiden langen Stäbe mit den runden Köpfen.",
+    "Mara legt das Instrument zurück in die Kiste.",
+    "Danach tauschen sie die Rollen.",
+    "Die Schlägel bleiben auf der Decke."
+  ],
+  "alltag-a2-die-reihenfolge-auf-dem-zettel": [
+    "Sie bittet Luis, seinen Gegenstand zuerst vorzustellen.",
+    "Luis schreibt deshalb Luis zuerst, Jana danach unter die alte Zeile.",
+    "Wer bei einer nächsten Runde beginnt und welche Gegenstände dann gezeigt werden, lassen sie offen.",
+    "aber keine Musik gespielt und keine Aufnahme gemacht."
+  ],
+  "alltag-b1-schalen-und-instrumente": [
+    "Die beiden Schalen bilden hier zusammen eine Kastagnette.",
+    "weder einen bestimmten Klang noch die Spielbarkeit der Gegenstände ableiten.",
+    "Die Form des Wortes bleibt im Plural gleich, der Artikel verändert sich.",
+    "nicht ein vollständiges Inventar oder einen Prüfbericht ersetzen."
+  ]
+});

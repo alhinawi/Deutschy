@@ -417,3 +417,6 @@ for(const[topic,rows]of Object.entries(tischaufgabenGrammar))exercises[topic].pu
 
 import {mengenangabenGrammar} from './exercises-mengenangaben';
 for(const[topic,rows]of Object.entries(mengenangabenGrammar))exercises[topic].push(...rows);
+
+import {klangwoerterGrammar} from './exercises-klangwoerter';
+for(const[topic,rows]of Object.entries(klangwoerterGrammar))exercises[topic].push(...rows);

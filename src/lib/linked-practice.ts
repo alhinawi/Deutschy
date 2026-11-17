@@ -198,4 +198,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-welches-geraet-zuerst',dialogue:'der-loeffel-mit-der-angabe'},
  {reading:'alltag-a2-das-leere-messfeld',dialogue:'nicht-als-ergebnis-abschreiben'},
  {reading:'alltag-b1-zahl-mit-einheit',dialogue:'die-einheit-bleibt-dabei'},
+ {reading:'alltag-a1-die-beiden-koepfe',dialogue:'zeigen-statt-spielen'},
+ {reading:'alltag-a2-die-reihenfolge-auf-dem-zettel',dialogue:'heute-war-luis-zuerst'},
+ {reading:'alltag-b1-schalen-und-instrumente',dialogue:'was-wird-hier-gezaehlt'},
 ];

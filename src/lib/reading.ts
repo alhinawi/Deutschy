@@ -255,3 +255,6 @@ readings.push(...tischaufgabenTexts);
 
 import {mengenangabenTexts} from './reading-mengenangaben';
 readings.push(...mengenangabenTexts);
+
+import {klangwoerterTexts} from './reading-klangwoerter';
+readings.push(...klangwoerterTexts);

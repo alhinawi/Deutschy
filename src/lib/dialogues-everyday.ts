@@ -14178,3 +14178,218 @@ Object.assign(dialogueEvidence,{
     "Antworten haben wir noch nicht."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "zeigen-statt-spielen",
+    "level": "A1",
+    "title": [
+      "Zeigen statt spielen",
+      "نشاور بدل ما نعزف"
+    ],
+    "lines": [
+      [
+        "Mara",
+        "Wie heißen diese Stäbe mit den runden Köpfen?",
+        "اسم العصايات اللي راسها مدورة دي إيه؟"
+      ],
+      [
+        "Emil",
+        "Das sind Schlägel. Im Wörterbuch steht der Schlägel.",
+        "دي عصايات ضرب لآلة إيقاع. في القاموس الكلمة بأداة التعريف المذكر بالألماني."
+      ],
+      [
+        "Mara",
+        "Und in der Kiste liegt eine Kastagnette mit zwei Schalen.",
+        "وفي الصندوق كاستنيت فيه صدفتين."
+      ],
+      [
+        "Emil",
+        "Genau. Wir lesen die Wörter und zeigen nur auf die Gegenstände.",
+        "بالظبط. نقرا الكلمات ونشاور على الحاجات بس."
+      ],
+      [
+        "Mara",
+        "Dann lege ich die Kastagnette wieder in die Kiste.",
+        "يبقى أرجع الكاستنيت للصندوق."
+      ],
+      [
+        "Emil",
+        "Die Schlägel bleiben hier auf der Decke. Danach tauschen wir die Rollen.",
+        "العصايات تفضل هنا على البطانية. بعد كده نبدل الأدوار."
+      ],
+      [
+        "Mara",
+        "Gut. Heute spielen wir damit keine Musik.",
+        "تمام. النهارده مش هنعزف بيهم موسيقى."
+      ]
+    ],
+    "q": [
+      [
+        "Was steht im Wörterbucheintrag zu Schlägel?",
+        "Der Schlägel.",
+        "Die Schlägel als Singular.",
+        "Das Schlägel als Singular."
+      ],
+      [
+        "Was tun sie mit den Gegenständen heute?",
+        "Nur beim Wörterlesen darauf zeigen.",
+        "Ein fertiges Konzert aufnehmen.",
+        "Sie an einen Nachbarn verkaufen."
+      ],
+      [
+        "Wohin kommt die Kastagnette?",
+        "Wieder in die Kiste.",
+        "Auf ein laufendes Aufnahmegerät.",
+        "In Maras geschlossenes Heft."
+      ]
+    ]
+  },
+  {
+    "id": "heute-war-luis-zuerst",
+    "level": "A2",
+    "title": [
+      "Heute war Luis zuerst",
+      "النهارده لويس كان الأول"
+    ],
+    "lines": [
+      [
+        "Jana",
+        "Mir fehlt noch das Wort für die Schnur. Kannst du mit den Schlägeln anfangen?",
+        "لسه ناقصاني كلمة الخيط. ممكن تبدأ بالعصايات؟"
+      ],
+      [
+        "Luis",
+        "Ja. Ich nenne den Namen und die runden Köpfe, ohne etwas zu spielen.",
+        "أيوه. هقول الاسم والراسين المدورين من غير ما أعزف حاجة."
+      ],
+      [
+        "Jana",
+        "Danach beschreibe ich die Kastagnette.",
+        "بعد كده أوصف الكاستنيت."
+      ],
+      [
+        "Luis",
+        "Auf unserem Zettel stehst du aber noch zuerst.",
+        "بس على ورقتنا إنتي لسه الأول."
+      ],
+      [
+        "Jana",
+        "Lass die Planung stehen und ergänze den tatsächlichen Ablauf darunter.",
+        "سيب الخطة زي ما هي وضيف اللي حصل فعليًا تحتها."
+      ],
+      [
+        "Luis",
+        "Also heute Luis zuerst, Jana danach. Das ist keine neue Dauerregel.",
+        "يبقى النهارده لويس الأول ويانا بعده. دي مش قاعدة ثابتة جديدة."
+      ],
+      [
+        "Jana",
+        "Genau. Wer beim nächsten Mal anfängt, ist noch offen.",
+        "بالظبط. مين يبدأ المرة الجاية لسه مفتوح."
+      ]
+    ],
+    "q": [
+      [
+        "Was bittet Jana Luis zu tun?",
+        "Mit seinen Schlägeln anzufangen.",
+        "Die ursprüngliche Planung zu löschen.",
+        "Sofort eine Musikaufnahme zu starten."
+      ],
+      [
+        "Was soll mit der Planung geschehen?",
+        "Sie bleibt stehen und wird um den tatsächlichen Ablauf ergänzt.",
+        "Sie wird als unverändert ausgeführt bezeichnet.",
+        "Sie wird heimlich entfernt."
+      ],
+      [
+        "Was beschreibt die neue Zeile?",
+        "Diese eine Runde.",
+        "Eine feste Regel für alle künftigen Runden.",
+        "Eine bereits bestätigte Konzertbuchung."
+      ]
+    ]
+  },
+  {
+    "id": "was-wird-hier-gezaehlt",
+    "level": "B1",
+    "title": [
+      "Was wird hier gezählt?",
+      "هنا بنعد إيه؟"
+    ],
+    "lines": [
+      [
+        "Noah",
+        "Die Kastagnette hat auf dem Foto zwei Schalen. Soll ich zwei Instrumente schreiben?",
+        "الكاستنيت في الصورة فيه صدفتين. أكتب آلتين؟"
+      ],
+      [
+        "Selma",
+        "Nein. Die Schalen gehören hier zu einer Kastagnette. Wir müssen die Zähleinheit nennen.",
+        "لأ. الصدفتين هنا تابعين لكاستنيت واحد. لازم نقول وحدة العد."
+      ],
+      [
+        "Noah",
+        "Bei den Schlägeln ist dagegen jeder vollständige Stab mit Kopf ein Gegenstand.",
+        "لكن عند العصايات كل عصاية كاملة براسها حاجة واحدة."
+      ],
+      [
+        "Selma",
+        "Genau. Und der Wörterbucheintrag bleibt im Singular, auch wenn das Bild mehrere zeigt.",
+        "بالظبط. وعنوان القاموس يفضل بالمفرد حتى لو الصورة فيها أكتر من واحد."
+      ],
+      [
+        "Noah",
+        "Die Zeile zur Funktionsprüfung bleibt leer. Einen Klang haben wir nicht geprüft.",
+        "سطر فحص الوظيفة يفضل فاضي. إحنا مافحصناش أي صوت."
+      ],
+      [
+        "Selma",
+        "Unsere Kartei ordnet Wörter und Beschreibungen, keinen Prüfbericht.",
+        "القصاصات بتنظم كلمات وأوصاف مش تقرير فحص."
+      ],
+      [
+        "Noah",
+        "Weitere Fotos haben wir noch nicht ausgewählt.",
+        "لسه ماختارناش صور زيادة."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Einheit muss ausdrücklich unterschieden werden?",
+        "Instrumente gegenüber sichtbaren Teilen.",
+        "Nur die Farbe der Überschriften.",
+        "Künftige Termine gegenüber Ticketpreisen."
+      ],
+      [
+        "Was bleibt ungeprüft?",
+        "Der Klang.",
+        "Ob eine neue Überschrift notiert wurde.",
+        "Ob zwei sichtbare Schalen besprochen wurden."
+      ],
+      [
+        "Was ist noch offen?",
+        "Die Auswahl weiterer Fotos.",
+        "Ob die beiden Schalen zusammengehören.",
+        "Ob Schlägel als Wort im Singular notiert wurde."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "zeigen-statt-spielen": [
+    "der Schlägel.",
+    "zeigen nur auf die Gegenstände.",
+    "wieder in die Kiste."
+  ],
+  "heute-war-luis-zuerst": [
+    "mit den Schlägeln anfangen?",
+    "Lass die Planung stehen",
+    "heute Luis zuerst, Jana danach."
+  ],
+  "was-wird-hier-gezaehlt": [
+    "Wir müssen die Zähleinheit nennen.",
+    "Einen Klang haben wir nicht geprüft.",
+    "noch nicht ausgewählt."
+  ]
+});
