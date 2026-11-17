@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the fifty-ninth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the sixtieth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -526,6 +526,18 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Vocabulary card audio | Explicit localized Hear the word plus article/noun accessible name; minimum 44px touch target. Check old/new topics, AR/EN x320/390, exact German speech and no progress writes. Device German voice still required. |
 | [ ] | Listening/dictation | Check all 55 new segments and Egyptian Arabic. Actual device-voice review pending. Marking conventions apply only to these fictional conversations, not an official correction/grading system. |
 
+### List 60: calendar, notebook and agreed times
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-planungsplatz/` and `ben-erst-fragen` | Lara writes Ben fragen as a private reminder. Ben must check his calendar at home, will write in evening, no time agreed. Blank calendar page versus vocabulary page in notebook. All 7 questions/evidence and Egyptian Arabic. |
+| [ ] | `/reading/alltag-a2-zwei-zeiten/` and `eine-zeit-auswaehlen` | 16/18 Uhr are alternatives, not two meetings. Timo works at 16, both agree 18 in Nora's kitchen; length still open. Verify spoken numbers on actual device. |
+| [ ] | `/reading/alltag-b1-verschobener-beginn/` and `nur-ein-neuer-beginn` | Both confirm 17 to 18, same living room. Struck-through old time remains legible, not a second rehearsal. Oskar changes separate reminder; paper calendar does not sync devices. Text order/omission undecided. |
+| [ ] | `/lessons/planungsplatz/` | der Kalender / same-form plural (-), das Notizbuch / Notizbücher. Real whole calendar sheet and spiral notebook, no added bars. Calendar's photographed January grid is illustrative, not the fictional current date or a German-localized calendar. |
+| [ ] | `exercises-planungsplatz.ts` | 24 append-only article/genus, dative, present, separable, two-way/dative-preposition and negation rows; all previous saved identities retained. |
+| [ ] | Photo quiz | Non-contextual photo questions now expose an equivalent written AR/EN meaning to screen readers, not the German answer. Decorative image alt stays empty. Check old/new topics, correct and incorrect answers, no changed scoring. Async image decode. |
+| [ ] | Listening/dictation | All 60 source segments, exact question evidence and Egyptian Arabic. Actual device-voice and native review pending. Fictional learning schedules only, no real event/calendar changes or sync promise. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -540,7 +552,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **775 photo nouns / 104 topics**, **195 reading texts / 733 reading questions**, **41 core grammar topics / 1366 core grammar questions**, **135 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **777 photo nouns / 105 topics**, **198 reading texts / 745 reading questions**, **41 core grammar topics / 1390 core grammar questions**, **138 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -552,7 +564,7 @@ This is an inventory, not completed review. Snapshot: **775 photo nouns / 104 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 47 · A2 75 · B1 43 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 48 · A2 76 · B1 44 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

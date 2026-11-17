@@ -872,3 +872,24 @@ Object.assign(readingEvidence,{
     "Ob der markierte Titel am Ende in die Auswahl kommt, bleibt offen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-planungsplatz": [
+    "Darunter schreibt sie: Ben fragen.",
+    "Sein Kalender liegt aber zu Hause.",
+    "Auf dieser Seite sammelt sie Wörter für die nächste Übung.",
+    "Lara lässt die Seite im Kalender leer."
+  ],
+  "alltag-a2-zwei-zeiten": [
+    "dass sie nur eine der beiden Zeiten wählen möchten.",
+    "Timo kann um 16 Uhr nicht, weil er noch arbeitet.",
+    "Sie vereinbaren einen Treffpunkt in Noras Küche und wollen um 18 Uhr anfangen.",
+    "Wie lange sie an dem Text arbeiten werden, haben sie noch nicht besprochen."
+  ],
+  "alltag-b1-verschobener-beginn": [
+    "Sie antwortet, dass 18 Uhr für sie möglich ist, und beide bestätigen die Änderung im Gespräch.",
+    "Die frühere Angabe bleibt lesbar.",
+    "ändert auch sie auf die neue Anfangszeit.",
+    "Ob sie einen der Texte weglassen, bleibt bis zur Probe offen."
+  ]
+});

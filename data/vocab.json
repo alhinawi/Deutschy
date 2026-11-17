@@ -415,6 +415,10 @@
   {
    "id": "schreibplatz",
    "ar": "لوحة بمشبك وقلم تحديد"
+  },
+  {
+   "id": "planungsplatz",
+   "ar": "تقويم ونوتة ملاحظات"
   }
  ],
  "words": [
@@ -12136,6 +12140,36 @@
     "file": "7695000.jpg",
     "commons": "https://www.pexels.com/photo/green-and-silver-click-pen-7695000/",
     "author": "Ksenia Chernaya",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "kalender",
+   "topic": "planungsplatz",
+   "art": "der",
+   "de": "Kalender",
+   "plural": "-",
+   "ar": "تقويم",
+   "photo": {
+    "file": "calendar3.jpg",
+    "commons": "https://www.pexels.com/photo/clipboard-with-calendar-placed-on-desk-amidst-stationery-6408282/",
+    "author": "Marko Klaric",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "notizbuch",
+   "topic": "planungsplatz",
+   "art": "das",
+   "de": "Notizbuch",
+   "plural": "Notizbücher",
+   "ar": "نوتة ملاحظات",
+   "photo": {
+    "file": "notebook.jpg",
+    "commons": "https://www.pexels.com/photo/pen-on-a-blank-notebook-11911069/",
+    "author": "dlxmedia.hu",
     "license": "Pexels License",
     "modified": true
    }

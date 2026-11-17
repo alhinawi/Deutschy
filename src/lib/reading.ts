@@ -180,3 +180,6 @@ readings.push(...besteckrundeTexts);
 
 import {schreibplatzTexts} from './reading-schreibplatz';
 readings.push(...schreibplatzTexts);
+
+import {planungsplatzTexts} from './reading-planungsplatz';
+readings.push(...planungsplatzTexts);

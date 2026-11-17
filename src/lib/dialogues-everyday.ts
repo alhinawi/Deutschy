@@ -8803,3 +8803,218 @@ Object.assign(dialogueEvidence,{
     "damit die Herkunft klar ist."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "ben-erst-fragen",
+    "level": "A1",
+    "title": [
+      "Schau erst zu Hause nach",
+      "بص الأول في البيت"
+    ],
+    "lines": [
+      [
+        "Lara",
+        "Ich möchte mit dir lernen. Wann hast du Zeit?",
+        "عايزة أذاكر معاك. إنت فاضي إمتى؟"
+      ],
+      [
+        "Ben",
+        "Ich muss erst in meinen Kalender schauen.",
+        "لازم أبص الأول في التقويم بتاعي."
+      ],
+      [
+        "Lara",
+        "Hast du ihn dabei?",
+        "هو معاك؟"
+      ],
+      [
+        "Ben",
+        "Nein, er liegt zu Hause. Ich schreibe dir am Abend.",
+        "لأ، هو في البيت. هبعتلك بالليل."
+      ],
+      [
+        "Lara",
+        "Dann schreibe ich noch keine Uhrzeit auf.",
+        "يبقى لسه مش هكتب ساعة."
+      ],
+      [
+        "Ben",
+        "Was steht in deinem Notizbuch?",
+        "إيه المكتوب في نوتتك؟"
+      ],
+      [
+        "Lara",
+        "Nur eine Erinnerung: Ben fragen.",
+        "تذكير بس: أسأل بن."
+      ]
+    ],
+    "q": [
+      [
+        "Wo liegt Bens Kalender?",
+        "Zu Hause.",
+        "In Laras Tasche.",
+        "Im Wohnzimmer."
+      ],
+      [
+        "Wann möchte Ben schreiben?",
+        "Am Abend.",
+        "Sofort.",
+        "Erst im nächsten Jahr."
+      ],
+      [
+        "Was ist der Eintrag im Notizbuch?",
+        "Eine Erinnerung.",
+        "Eine feste Uhrzeit.",
+        "Eine Absage."
+      ]
+    ]
+  },
+  {
+    "id": "eine-zeit-auswaehlen",
+    "level": "A2",
+    "title": [
+      "Wir meinen ein Treffen",
+      "إحنا قصدنا مقابلة واحدة"
+    ],
+    "lines": [
+      [
+        "Timo",
+        "16 Uhr und 18 Uhr: Treffen wir uns zweimal?",
+        "الساعة 16 والساعة 18: هنتقابل مرتين؟"
+      ],
+      [
+        "Nora",
+        "Nein, das sind zwei Vorschläge für ein Treffen.",
+        "لأ، دول اقتراحين لمقابلة واحدة."
+      ],
+      [
+        "Timo",
+        "Um 16 Uhr arbeite ich noch. 18 Uhr passt.",
+        "الساعة 16 لسه بشتغل. الساعة 18 مناسبة."
+      ],
+      [
+        "Nora",
+        "Mir auch. Dann fangen wir um 18 Uhr in meiner Küche an.",
+        "ليا كمان. يبقى نبدأ الساعة 18 في مطبخي."
+      ],
+      [
+        "Timo",
+        "Ich trage das in meinen Kalender ein.",
+        "هكتب ده في التقويم بتاعي."
+      ],
+      [
+        "Nora",
+        "Ich streiche die andere Zeit im Notizbuch durch.",
+        "هشطب الوقت التاني في النوتة."
+      ],
+      [
+        "Timo",
+        "Wie lange arbeiten wir? Das müssen wir noch besprechen.",
+        "هنشتغل قد إيه؟ لسه لازم نتكلم في ده."
+      ]
+    ],
+    "q": [
+      [
+        "Wie viele Treffen wollen sie?",
+        "Eines.",
+        "Zwei.",
+        "Keines."
+      ],
+      [
+        "Welche Zeit passt beiden?",
+        "18 Uhr.",
+        "16 Uhr.",
+        "12 Uhr."
+      ],
+      [
+        "Was müssen sie noch besprechen?",
+        "Die Dauer.",
+        "Noras Namen.",
+        "Ob Timo einen Kalender hat."
+      ]
+    ]
+  },
+  {
+    "id": "nur-ein-neuer-beginn",
+    "level": "B1",
+    "title": [
+      "Auch die Erinnerung ändern",
+      "نغير التذكير كمان"
+    ],
+    "lines": [
+      [
+        "Oskar",
+        "Dann gilt jetzt 18 Uhr statt 17 Uhr, richtig?",
+        "يبقى دلوقتي الساعة 18 بدل الساعة 17، صح؟"
+      ],
+      [
+        "Mila",
+        "Ja, das haben wir beide bestätigt. Der Ort bleibt mein Wohnzimmer.",
+        "أيوه، إحنا الاتنين أكدنا ده. المكان لسه أوضة المعيشة عندي."
+      ],
+      [
+        "Oskar",
+        "Mein Kalender ist angepasst. Aber die alte Erinnerung ist noch aktiv.",
+        "التقويم اتعدل. بس التذكير القديم لسه شغال."
+      ],
+      [
+        "Mila",
+        "Die musst du getrennt ändern. Mein Papierkalender macht das nicht.",
+        "لازم تغيره لوحده. التقويم الورقي بتاعي مش بيعمل ده."
+      ],
+      [
+        "Oskar",
+        "Erledigt. Die Erinnerung passt jetzt zum neuen Beginn.",
+        "اتعمل. التذكير دلوقتي موافق البداية الجديدة."
+      ],
+      [
+        "Mila",
+        "Über die Reihenfolge der Texte sprechen wir erst bei der Probe.",
+        "ترتيب النصوص نتكلم فيه وقت التمرين الأول."
+      ],
+      [
+        "Oskar",
+        "Gut. Eine Probe, um 18 Uhr, bei dir im Wohnzimmer.",
+        "تمام. تمرين واحد، الساعة 18، عندك في أوضة المعيشة."
+      ]
+    ],
+    "q": [
+      [
+        "Was bleibt gleich?",
+        "Der Treffpunkt.",
+        "Die alte Anfangszeit.",
+        "Die alte Handy-Erinnerung."
+      ],
+      [
+        "Was musste Oskar getrennt ändern?",
+        "Die Erinnerung.",
+        "Milas Papierkalender.",
+        "Den Namen der Mitbewohnerin."
+      ],
+      [
+        "Wann besprechen sie die Textreihenfolge?",
+        "Bei der Probe.",
+        "Das haben sie bereits abgeschlossen.",
+        "Gar nicht."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "ben-erst-fragen": [
+    "er liegt zu Hause.",
+    "Ich schreibe dir am Abend.",
+    "Nur eine Erinnerung: Ben fragen."
+  ],
+  "eine-zeit-auswaehlen": [
+    "zwei Vorschläge für ein Treffen.",
+    "Dann fangen wir um 18 Uhr",
+    "Wie lange arbeiten wir?"
+  ],
+  "nur-ein-neuer-beginn": [
+    "Der Ort bleibt mein Wohnzimmer.",
+    "Die musst du getrennt ändern.",
+    "erst bei der Probe."
+  ]
+});

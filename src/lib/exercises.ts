@@ -342,3 +342,6 @@ for(const[topic,rows]of Object.entries(besteckrundeGrammar))exercises[topic].pus
 
 import {schreibplatzGrammar} from './exercises-schreibplatz';
 for(const[topic,rows]of Object.entries(schreibplatzGrammar))exercises[topic].push(...rows);
+
+import {planungsplatzGrammar} from './exercises-planungsplatz';
+for(const[topic,rows]of Object.entries(planungsplatzGrammar))exercises[topic].push(...rows);

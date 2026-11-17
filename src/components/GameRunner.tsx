@@ -47,7 +47,7 @@ function Game({ game, list, again }: Props) {
 
 function Photo({ w }: { w: Word }) {
   // eslint-disable-next-line @next/next/no-img-element
-  return <img src={img(w)} alt="" className="photo rounded-2xl" width={480} height={360} />;
+  return <img src={img(w)} alt="" decoding="async" className="photo rounded-2xl" width={480} height={360} />;
 }
 
 function Flash({ list }: { list: Word[] }) {
@@ -178,6 +178,7 @@ function Rounds({ game, list, again }: Props) {
     <Frame i={i} n={qs.length}>
       <Photo w={w} />
       {contextualPhoto(w) ? <div className="space-y-2 text-center"><p className="ar-title text-2xl" data-meaning-cue>{glossOf(w, lang)}</p><p className="text-sm text-muted">{t('اختار الكلمة الألماني للمعنى المكتوب. الصورة للسياق بس، مش دليل على هوية الشخص أو صلة القرابة.', 'Choose the German word for the written meaning. The photo gives context only; it does not identify the person or their relationship.')}</p></div> : <p className="ar-title text-center text-xl text-muted">{t('إيه الكلمة الألماني للصورة دي؟', 'What is the German word for this picture?')}</p>}
+      {!contextualPhoto(w) && <p className="sr-only" data-photo-meaning-cue>{t("المعنى المكتوب للصورة: ", "Written meaning of the photo: ")}{glossOf(w, lang)}</p>}
       <div className="grid grid-cols-1 gap-3 min-[480px]:grid-cols-2">
         {opts.map((o) => (
           <Choice key={o.id} label={`${o.art} ${o.de}`} state={picked === null ? '' : o.id === w.id ? 'good' : picked === o.id ? 'bad' : ''} disabled={picked!==null} onClick={() => { if (picked || locked.current) return; setPicked(o.id); advance(o.id === w.id); }} />

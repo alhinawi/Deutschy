@@ -773,5 +773,7 @@
  "gabel": "fork",
  "schuessel": "bowl",
  "klemmbrett": "clipboard",
- "textmarker": "highlighter"
+ "textmarker": "highlighter",
+ "kalender": "calendar",
+ "notizbuch": "notebook"
 }
