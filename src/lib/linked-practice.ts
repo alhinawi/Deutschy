@@ -48,4 +48,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-pflanzkelle',dialogue:'kelle-aus-eimer'},
  {reading:'alltag-a2-spruehflasche',dialogue:'werkzeug-ganz-zeigen'},
  {reading:'alltag-b1-gartennotiz',dialogue:'foto-kein-nachweis'},
+ {reading:'alltag-a1-luftpumpe',dialogue:'pumpe-laengere-tasche'},
+ {reading:'alltag-a2-reifenheber',dialogue:'reifenheber-nachzaehlen'},
+ {reading:'alltag-b1-werkstattnotiz',dialogue:'geraeusch-beschreiben'},
 ];

@@ -347,3 +347,24 @@ Object.assign(readingEvidence,{
     "Die Freunde legen sie an den vereinbarten Platz zurück und wollen Lea vor einer weiteren Nutzung fragen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-luftpumpe": [
+    "Emil und Salma räumen die Fahrradecke im Keller auf.",
+    "Darin liegt nur ein Tuch.",
+    "Unter der Jacke liegt die Pumpe.",
+    "Der Beutel ist zu kurz für die Pumpe."
+  ],
+  "alltag-a2-reifenheber": [
+    "Nele findet drei metallene Reifenheber.",
+    "Die Luftpumpe liegt getrennt auf dem Tisch, weil sie nicht in dieselbe kleine Tasche passt.",
+    "Er ergänzt das Datum der heutigen Bestandsaufnahme und die Zahl drei.",
+    "Über eine passende Tasche entscheiden sie später."
+  ],
+  "alltag-b1-werkstattnotiz": [
+    "Paula erzählt, dass sie beim Schieben ein wiederkehrendes Geräusch gehört habe.",
+    "Deniz schlägt vor, in der Notiz zwischen Beobachtung und offener Frage zu unterscheiden.",
+    "Es gibt noch keinen bestätigten Termin und keine Preiszusage.",
+    "Sie packt nur ihre Notiz ein und lässt die Werkzeuge an ihrem Platz."
+  ]
+});

@@ -3428,3 +3428,218 @@ Object.assign(dialogueEvidence,{
     "Vor einer weiteren Nutzung fragen wir sie."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "pumpe-laengere-tasche",
+    "level": "A1",
+    "title": [
+      "Der Beutel ist zu kurz",
+      "الكيس قصير"
+    ],
+    "lines": [
+      [
+        "Emil",
+        "Ich suche meine kleine Luftpumpe. Ist sie im roten Beutel?",
+        "بدور على منفاخ العجلة الصغير بتاعي. هو في الكيس الأحمر؟"
+      ],
+      [
+        "Salma",
+        "Nein, da liegt nur ein Tuch.",
+        "لأ، فيه فوطة بس."
+      ],
+      [
+        "Emil",
+        "Dann schaue ich noch einmal auf das Regal.",
+        "يبقى أبص على الرف تاني."
+      ],
+      [
+        "Salma",
+        "Hier ist sie, unter der grauen Jacke.",
+        "أهي، تحت الجاكيت الرمادي."
+      ],
+      [
+        "Emil",
+        "Gut. Aber sie passt nicht in den kurzen Beutel.",
+        "تمام. بس مش داخلة في الكيس القصير."
+      ],
+      [
+        "Salma",
+        "Ich hole die längere Tasche.",
+        "هجيب الشنطة الأطول."
+      ],
+      [
+        "Emil",
+        "Danke. Das Tuch kann im roten Beutel bleiben.",
+        "شكراً. الفوطة ممكن تفضل في الكيس الأحمر."
+      ]
+    ],
+    "q": [
+      [
+        "Was sucht Emil?",
+        "Seine kleine Luftpumpe.",
+        "Eine blaue Tasse.",
+        "Salmas Schuhe."
+      ],
+      [
+        "Wo liegt sie?",
+        "Unter der grauen Jacke.",
+        "Im roten Beutel.",
+        "Unter dem Fahrradreifen."
+      ],
+      [
+        "Was holt Salma am Ende?",
+        "Die längere Tasche.",
+        "Noch eine Jacke.",
+        "Einen neuen Reifen."
+      ]
+    ]
+  },
+  {
+    "id": "reifenheber-nachzaehlen",
+    "level": "A2",
+    "title": [
+      "Zählen wir noch einmal nach",
+      "نعدهم تاني"
+    ],
+    "lines": [
+      [
+        "Karim",
+        "Auf der alten Liste stehen zwei Reifenheber.",
+        "القايمة القديمة مكتوب فيها عتلتين لفك الكاوتش."
+      ],
+      [
+        "Nele",
+        "In der Kiste liegen aber drei. Zählen wir noch einmal nach.",
+        "بس في الصندوق فيه 3. نعدهم تاني."
+      ],
+      [
+        "Karim",
+        "Eins, zwei, drei. Du hast recht.",
+        "1، 2، 3. عندك حق."
+      ],
+      [
+        "Nele",
+        "Schreib bitte dazu, wann wir gezählt haben.",
+        "اكتب كمان إحنا عدينا إمتى لو سمحت."
+      ],
+      [
+        "Karim",
+        "Ja. Die Luftpumpe bleibt auf dem Tisch?",
+        "آه. المنفاخ يفضل على الترابيزة؟"
+      ],
+      [
+        "Nele",
+        "Für den Moment ja. Für die kleine Tasche ist er zu lang.",
+        "دلوقتي آه. طويل على الشنطة الصغيرة."
+      ],
+      [
+        "Karim",
+        "Dann entscheiden wir über die Tasche später.",
+        "يبقى نقرر موضوع الشنطة بعدين."
+      ]
+    ],
+    "q": [
+      [
+        "Wie viele Reifenheber zählen sie?",
+        "Drei.",
+        "Zwei.",
+        "Fünf."
+      ],
+      [
+        "Welche zusätzliche Information soll Karim notieren?",
+        "Wann sie gezählt haben.",
+        "Den Namen einer Werkstatt.",
+        "Eine erfundene Reparaturdauer."
+      ],
+      [
+        "Warum bleibt die Pumpe zunächst auf dem Tisch?",
+        "Sie ist zu lang für die kleine Tasche.",
+        "Sie gehört zum Tisch.",
+        "Es gibt keinen Reifenheber."
+      ]
+    ]
+  },
+  {
+    "id": "geraeusch-beschreiben",
+    "level": "B1",
+    "title": [
+      "Noch keine Diagnose",
+      "لسه مش تشخيص"
+    ],
+    "lines": [
+      [
+        "Paula",
+        "Ich habe nur geschrieben: Das Rad ist kaputt.",
+        "كتبت بس: العجلة بايظة."
+      ],
+      [
+        "Deniz",
+        "Was hast du denn genau bemerkt?",
+        "إيه بالظبط اللي لاحظتيه؟"
+      ],
+      [
+        "Paula",
+        "Beim Schieben habe ich ein Geräusch gehört, das sich wiederholt.",
+        "وأنا بزقها سمعت صوت بيتكرر."
+      ],
+      [
+        "Deniz",
+        "Das können wir so notieren. Die Ursache ist noch offen.",
+        "نقدر نكتب كده. السبب لسه مش معروف."
+      ],
+      [
+        "Paula",
+        "Ich frage die Werkstatt zuerst, ob jemand das Fahrrad ansehen kann.",
+        "هسأل الورشة الأول إذا فيه حد يقدر يبص على العجلة."
+      ],
+      [
+        "Deniz",
+        "Dann schreib noch keinen festen Termin oder Preis dazu.",
+        "يبقى لسه ماتكتبيش معاد ولا سعر ثابت."
+      ],
+      [
+        "Paula",
+        "Genau. Ich nehme die Beschreibung mit, keine erfundene Diagnose.",
+        "بالظبط. هاخد الوصف معايا، مش تشخيص من عندي."
+      ]
+    ],
+    "q": [
+      [
+        "Was hat Paula beim Schieben gehört?",
+        "Ein sich wiederholendes Geräusch.",
+        "Eine bestätigte Preiszusage.",
+        "Eine Wettervorhersage."
+      ],
+      [
+        "Was bleibt offen?",
+        "Die Ursache des Geräuschs.",
+        "Ob Paula schreiben kann.",
+        "Ob Deniz zugehört hat."
+      ],
+      [
+        "Was möchte Paula zuerst von der Werkstatt wissen?",
+        "Ob jemand das Fahrrad ansehen kann.",
+        "Ob Deniz die Pumpe fotografiert hat.",
+        "Wo ihre rote Jacke ist."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "pumpe-laengere-tasche": [
+    "Ich suche meine kleine Luftpumpe.",
+    "Hier ist sie, unter der grauen Jacke.",
+    "Ich hole die längere Tasche."
+  ],
+  "reifenheber-nachzaehlen": [
+    "Eins, zwei, drei. Du hast recht.",
+    "Schreib bitte dazu, wann wir gezählt haben.",
+    "Für die kleine Tasche ist er zu lang."
+  ],
+  "geraeusch-beschreiben": [
+    "Beim Schieben habe ich ein Geräusch gehört, das sich wiederholt.",
+    "Die Ursache ist noch offen.",
+    "Ich frage die Werkstatt zuerst, ob jemand das Fahrrad ansehen kann."
+  ]
+});
