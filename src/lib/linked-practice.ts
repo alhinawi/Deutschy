@@ -342,4 +342,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-nicht-jedes-feld-ausfuellen',dialogue:'freies-feld-keine-erfundene-form'},
  {reading:'alltag-a2-nach-dem-anfang-sortieren',dialogue:'p-vor-s-in-der-mappe'},
  {reading:'alltag-b1-ein-foto-hat-keinen-geruch',dialogue:'erinnerung-ist-keine-geruchsprobe'},
+ {reading:'alltag-a1-das-ende-im-langen-wort',dialogue:'blatt-und-zweig-im-wort'},
+ {reading:'alltag-a2-erst-antwort-dann-hilfe',dialogue:'antwort-oder-nachgesprochen'},
+ {reading:'alltag-b1-gedrehtes-bild-gleicher-begriff',dialogue:'vierteldrehung-ohne-neue-eigenschaft'},
 ];

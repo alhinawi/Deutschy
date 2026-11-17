@@ -707,6 +707,10 @@
   {
    "id": "gewuerzformen",
    "ar": "اليانسون النجمي وحبات الفلفل"
+  },
+  {
+   "id": "blaetterzweige",
+   "ar": "ورق اللورا وفروع الروزماري"
   }
  ],
  "words": [
@@ -14618,6 +14622,36 @@
     "file": "35809385.jpg",
     "commons": "https://www.pexels.com/photo/close-up-view-of-black-peppercorns-on-spoon-35809385/",
     "author": "Marek Ruczaj",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "lorbeerblatt",
+   "topic": "blaetterzweige",
+   "art": "das",
+   "de": "Lorbeerblatt",
+   "plural": "Lorbeerblätter",
+   "ar": "ورقة لورا",
+   "photo": {
+    "file": "9974502.jpg",
+    "commons": "https://www.pexels.com/photo/green-leaves-of-laurel-9974502/",
+    "author": "Marek Kupiec",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "rosmarinzweig",
+   "topic": "blaetterzweige",
+   "art": "der",
+   "de": "Rosmarinzweig",
+   "plural": "Rosmarinzweige",
+   "ar": "فرع روزماري",
+   "photo": {
+    "file": "31192996.jpg",
+    "commons": "https://www.pexels.com/photo/minimalist-rosemary-sprigs-on-red-surface-31192996/",
+    "author": "Karen Laårk Boshoff",
     "license": "Pexels License",
     "modified": true
    }

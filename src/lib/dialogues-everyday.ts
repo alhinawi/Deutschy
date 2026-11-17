@@ -24498,3 +24498,218 @@ Object.assign(dialogueEvidence,{
     "Es geht nur um die Bildtexte."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "blatt-und-zweig-im-wort",
+    "level": "A1",
+    "title": [
+      "Erst kurz, dann vollständig",
+      "الأول قصير وبعدين كامل"
+    ],
+    "lines": [
+      [
+        "Nina",
+        "Lorbeerblatt ist ein langes Wort.",
+        "لوربير بلات كلمة طويلة."
+      ],
+      [
+        "Oskar",
+        "Schau zuerst auf den letzten Teil: Blatt.",
+        "بصي الأول للجزء الأخير: بلات."
+      ],
+      [
+        "Nina",
+        "Die Mehrzahl lautet Lorbeerblätter.",
+        "الجمع لوربير بليتر."
+      ],
+      [
+        "Oskar",
+        "Und Rosmarinzweig endet mit Zweig.",
+        "وروزمارين تسفايج بتنتهي بتسفايج."
+      ],
+      [
+        "Nina",
+        "Hier heißt die Mehrzahl Rosmarinzweige.",
+        "هنا الجمع روزمارين تسفايجه."
+      ],
+      [
+        "Oskar",
+        "Ich decke den Anfang ab. Danach lesen wir wieder die ganzen Wörter.",
+        "هغطي البداية. بعد كده نقرا الكلمات كاملة تاني."
+      ],
+      [
+        "Nina",
+        "Auf den fertigen Karten bleiben die vollständigen Wörter.",
+        "على الكروت النهائية الكلمات بتفضل كاملة."
+      ]
+    ],
+    "q": [
+      [
+        "Was betrachten sie zuerst?",
+        "Den letzten Wortteil.",
+        "Nur den roten Hintergrund.",
+        "Eine Adresse."
+      ],
+      [
+        "Wie lautet die Mehrzahl von Lorbeerblatt?",
+        "Lorbeerblätter.",
+        "Lorbeerblatts.",
+        "Lorbeerblatten."
+      ],
+      [
+        "Was bleibt auf den fertigen Karten?",
+        "Die vollständigen Wörter.",
+        "Nur Blatt und Zweig.",
+        "Gar kein Text."
+      ]
+    ]
+  },
+  {
+    "id": "antwort-oder-nachgesprochen",
+    "level": "A2",
+    "title": [
+      "Das war noch keine eigene Antwort",
+      "ده لسه مش إجابة من عندي"
+    ],
+    "lines": [
+      [
+        "Elif",
+        "Du hast Lorbeerblätter richtig gesagt. Ich notiere ohne Hilfe.",
+        "قلت لوربير بليتر صح. هسجل من غير مساعدة."
+      ],
+      [
+        "Ben",
+        "Du hast die Lösung vorher vorgelesen. Ich habe sie nur nachgesprochen.",
+        "إنتي قريتي الحل قبلها. أنا كررته بس."
+      ],
+      [
+        "Elif",
+        "Dann ändere ich die Notiz. Beim nächsten Wort warte ich auf deine Antwort.",
+        "يبقى أعدل الملحوظة. مع الكلمة الجاية هستنى إجابتك."
+      ],
+      [
+        "Ben",
+        "Wenn ich Hilfe brauche, sage ich es ausdrücklich.",
+        "لو احتجت مساعدة هقول بوضوح."
+      ],
+      [
+        "Elif",
+        "Wie lautet die Mehrzahl von Rosmarinzweig?",
+        "إيه جمع روزمارين تسفايج؟"
+      ],
+      [
+        "Ben",
+        "Rosmarinzweige. Danach vergleichen wir mit der Liste.",
+        "روزمارين تسفايجه. بعد كده نقارن بالقايمة."
+      ],
+      [
+        "Elif",
+        "Eine Wiederholung an einem anderen Tag bleibt ein eigener Versuch.",
+        "المراجعة في يوم تاني بتفضل محاولة لوحدها."
+      ]
+    ],
+    "q": [
+      [
+        "Warum passt ohne Hilfe zuerst nicht?",
+        "Elif hat die Lösung vorher vorgelesen.",
+        "Ben hat nie geantwortet.",
+        "Es gibt keine geprüfte Liste."
+      ],
+      [
+        "Was macht Elif beim nächsten Wort?",
+        "Sie wartet auf Bens Antwort.",
+        "Sie löscht beide Wörter.",
+        "Sie nennt sofort beide Lösungen."
+      ],
+      [
+        "Was ist eine spätere Wiederholung?",
+        "Ein eigener Versuch.",
+        "Automatisch dieselbe erste Antwort.",
+        "Eine offizielle Abschlussprüfung."
+      ]
+    ]
+  },
+  {
+    "id": "vierteldrehung-ohne-neue-eigenschaft",
+    "level": "B1",
+    "title": [
+      "Nur die Darstellung ist gedreht",
+      "طريقة العرض بس هي اللي اتلفت"
+    ],
+    "lines": [
+      [
+        "Milan",
+        "Das Rosmarinfoto ist jetzt quer. Sind die Zweige waagerecht gewachsen?",
+        "صورة الروزماري دلوقتي بالعرض. الفروع نمت أفقي؟"
+      ],
+      [
+        "Greta",
+        "Das können wir daraus nicht ableiten. Wir haben das Foto gedreht.",
+        "مانقدرش نستنتج ده. إحنا لفينا الصورة."
+      ],
+      [
+        "Milan",
+        "Der Lernbegriff bleibt also Rosmarinzweig.",
+        "يبقى اسم المذاكرة يفضل روزمارين تسفايج."
+      ],
+      [
+        "Greta",
+        "Ja. Die Vierteldrehung verändert nicht den Namen des Gegenstands.",
+        "أيوه. ربع اللفة مش بيغير اسم الحاجة."
+      ],
+      [
+        "Milan",
+        "Fehlende Enden zeichnen wir nicht hinzu.",
+        "مش هنرسم أطراف ناقصة."
+      ],
+      [
+        "Greta",
+        "Und die Quellenzuordnung muss erhalten bleiben.",
+        "وربط الصورة بالمصدر لازم يفضل موجود."
+      ],
+      [
+        "Milan",
+        "Wir prüfen Bildkarten, keine unbekannten Pflanzen in der Natur.",
+        "إحنا بنراجع كروت صور مش نباتات مجهولة في الطبيعة."
+      ]
+    ],
+    "q": [
+      [
+        "Was haben sie verändert?",
+        "Die Richtung der Darstellung.",
+        "Die Pflanzenart.",
+        "Die tatsächliche Wachstumsrichtung."
+      ],
+      [
+        "Was bleibt der Lernbegriff?",
+        "Rosmarinzweig.",
+        "Lorbeerwurzel.",
+        "Bildfeld."
+      ],
+      [
+        "Was muss erhalten bleiben?",
+        "Die Quellenzuordnung.",
+        "Eine erfundene Wachstumsaussage.",
+        "Ein künstlich ergänztes Ende."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "blatt-und-zweig-im-wort": [
+    "Schau zuerst auf den letzten Teil: Blatt.",
+    "Die Mehrzahl lautet Lorbeerblätter.",
+    "Auf den fertigen Karten bleiben die vollständigen Wörter."
+  ],
+  "antwort-oder-nachgesprochen": [
+    "Du hast die Lösung vorher vorgelesen.",
+    "Beim nächsten Wort warte ich auf deine Antwort.",
+    "Eine Wiederholung an einem anderen Tag bleibt ein eigener Versuch."
+  ],
+  "vierteldrehung-ohne-neue-eigenschaft": [
+    "Wir haben das Foto gedreht.",
+    "Der Lernbegriff bleibt also Rosmarinzweig.",
+    "die Quellenzuordnung muss erhalten bleiben."
+  ]
+});
