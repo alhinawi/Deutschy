@@ -384,3 +384,6 @@ readings.push(...kernkartenTexts);
 
 import {gewuerzbilderTexts} from './reading-gewuerzbilder';
 readings.push(...gewuerzbilderTexts);
+
+import {gewuerzkartenTexts} from './reading-gewuerzkarten';
+readings.push(...gewuerzkartenTexts);

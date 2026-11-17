@@ -687,6 +687,10 @@
   {
    "id": "gewuerzbilder",
    "ar": "صور القرفة وجوزة الطيب"
+  },
+  {
+   "id": "gewuerzkarten",
+   "ar": "كروت الفانيليا والقرنفل"
   }
  ],
  "words": [
@@ -14448,6 +14452,36 @@
     "file": "35339664.jpg",
     "commons": "https://www.pexels.com/photo/close-up-of-whole-nutmeg-seeds-35339664/",
     "author": "Art",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "vanilleschote",
+   "topic": "gewuerzkarten",
+   "art": "die",
+   "de": "Vanilleschote",
+   "plural": "Vanilleschoten",
+   "ar": "قرن فانيليا",
+   "photo": {
+    "file": "Vanilla_6beans.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Vanilla_6beans.JPG",
+    "author": "B.navez",
+    "license": "CC BY-SA 3.0",
+    "modified": true
+   }
+  },
+  {
+   "id": "gewuerznelke",
+   "topic": "gewuerzkarten",
+   "art": "die",
+   "de": "Gewürznelke",
+   "plural": "Gewürznelken",
+   "ar": "حبة قرنفل",
+   "photo": {
+    "file": "35783031.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-of-cloves-on-a-teaspoon-35783031/",
+    "author": "Marek Ruczaj",
     "license": "Pexels License",
     "modified": true
    }
