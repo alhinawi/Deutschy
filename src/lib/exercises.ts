@@ -501,3 +501,6 @@ for(const[topic,rows]of Object.entries(stiftundklammerGrammar))exercises[topic].
 
 import {alltagsformenGrammar} from './exercises-alltagsformen';
 for(const[topic,rows]of Object.entries(alltagsformenGrammar))exercises[topic].push(...rows);
+
+import {wasserbilderGrammar} from './exercises-wasserbilder';
+for(const[topic,rows]of Object.entries(wasserbilderGrammar))exercises[topic].push(...rows);

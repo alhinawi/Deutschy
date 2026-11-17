@@ -282,4 +282,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-schoepfkelle-und-nagelfeile',dialogue:'welches-bild-hat-eine-schale'},
  {reading:'alltag-a2-zwei-feminine-woerter',dialogue:'gleicher-artikel-andere-bedeutung'},
  {reading:'alltag-b1-bildtext-ohne-nebenbehauptung',dialogue:'nur-was-das-foto-traegt'},
+ {reading:'alltag-a1-gelbe-maske-blaue-brille',dialogue:'die-brille-haengt-am-band'},
+ {reading:'alltag-a2-zwei-glaeser-eine-brille',dialogue:'eine-brille-mit-zwei-bereichen'},
+ {reading:'alltag-b1-kein-dichtigkeitstest',dialogue:'bilder-sind-kein-pruefzeugnis'},
 ];

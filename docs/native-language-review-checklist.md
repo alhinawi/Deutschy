@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-twelfth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-thirteenth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1174,9 +1174,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Dialogue/conversation list cards |44px minimum and themed keyboard ring/page-ground gap on existing cards.16 AR/EN320/390 states, keyboard Enter/Space opens exact dialogue/hash without XP, axe and no overflow.390AR/EN actual pixels inspected. No filter/routing/answer/scoring/playback logic changes. |
 | [ ] | Listening/dictation |72 original segments,288 exact German payload/source/answer checks. Human editorial and real-device voice review pending. Level labels not certification; progress device-local. |
 
+### List 113: Two lenses, one object and no equipment promise
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-gelbe-maske-blaue-brille/` and linked dialogue | Lea/Karim yellow/black mask held in two hands before blue background, clear nose area; blue swimming goggles held by band in one hand, hanging down with eye parts vertically arranged against light background. No face/wearing scene, no going into water. |
+| [ ] | `/reading/alltag-a2-zwei-glaeser-eine-brille/` and linked dialogue | Nele/Amir two eye parts belong to one Schwimmbrille, not two objects. German singular not copied from English goggles. Both feminine plural add n, fictional plural examples not inventory, separate photos not verified set. |
+| [ ] | `/reading/alltag-b1-kein-dichtigkeitstest/` and linked dialogue | Jule/Tarek photo not documented leak/fit/condition/care test, clean backdrop not newness, no common measuring scale/set/manufacturer/compatibility proof. No swimming/diving/breathing instruction, depth/child-adult suitability or water-safety advice. |
+| [ ] | `/lessons/wasserbilder/` and `/credits/` | die Tauchmaske/Tauchmasken (ماسك غطس), die Schwimmbrille/Schwimmbrillen (نضارة سباحة). DWDS full mask and Duden goggles forms. Ink Drop15387675 mask1800x1200 crop100,0-1700,1200; SHVETS production8028342 goggles1800x2700 crop0,550-1800,1900. Both800x600 no rotation/stretch/padding/face/brand.21630945 mixed gear not selected. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way/negation rows, prior IDs unchanged. die/die/der/das; der/dem/dem/den; wiederholt/zählst/zeigt/empfehlen; ihre/sein/seinen/unsere; unter dem/das Bild and auf der/die Karte; keinen/kein/keine/nicht. |
+| [ ] | Dialogue/conversation quick navigation |Existing Shop/Doctor/Flat buttons and Train link44px/themed keyboard ring/page-ground gap.32 AR/EN320/390 keyboard/axe states, Enter/Space opens correct existing dialogue or train route without XP.390AR/EN actual pixels inspected. No search/filter/routing/answer/scoring/playback logic changes. |
+| [ ] | Listening/dictation |70 original segments,280 exact German payload/source/answer checks. Native editorial/real-device voice review pending. Level labels not certification; progress local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **881 photo nouns / 157 topics**, **354 reading texts / 1369 reading questions**, **41 core grammar topics / 2638 core grammar questions**, **294 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **883 photo nouns / 158 topics**, **357 reading texts / 1381 reading questions**, **41 core grammar topics / 2662 core grammar questions**, **297 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1188,7 +1200,7 @@ This is an inventory, not completed review. Snapshot: **881 photo nouns / 157 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 100 · A2 128 · B1 96 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 101 · A2 129 · B1 97 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

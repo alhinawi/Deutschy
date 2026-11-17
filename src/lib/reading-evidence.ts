@@ -1985,3 +1985,24 @@ Object.assign(readingEvidence,{
     "Ihre Nachbarschaft auf dem Lernblatt stellt keine Verbindung zwischen Essen und Körperpflege her."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-gelbe-maske-blaue-brille": [
+    "vor einen blauen Hintergrund.",
+    "Eine Hand hält eine blaue Schwimmbrille am Band.",
+    "liegen im Bild untereinander.",
+    "Lea und Karim gehen nicht ins Wasser."
+  ],
+  "alltag-a2-zwei-glaeser-eine-brille": [
+    "Die beiden Bereiche gehören hier zu einer Brille.",
+    "Amir verbessert seine Beschriftung zu eine Schwimmbrille.",
+    "In beiden Fällen kommt ein n hinzu.",
+    "Die zwei Fotos beweisen auch nicht, dass beide Dinge zusammen verkauft werden"
+  ],
+  "alltag-b1-kein-dichtigkeitstest": [
+    "Sie zeigen aber keinen dokumentierten Dichtigkeitstest",
+    "Auch ein sauberer Hintergrund beweist weder einen unbenutzten Zustand",
+    "Die Bilder haben keine gemeinsame Messskala.",
+    "Jule und Tarek geben keine Anleitung zum Schwimmen, Tauchen oder Atmen mit Ausrüstung."
+  ]
+});

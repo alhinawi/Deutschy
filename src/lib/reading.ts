@@ -339,3 +339,6 @@ readings.push(...stiftundklammerTexts);
 
 import {alltagsformenTexts} from './reading-alltagsformen';
 readings.push(...alltagsformenTexts);
+
+import {wasserbilderTexts} from './reading-wasserbilder';
+readings.push(...wasserbilderTexts);

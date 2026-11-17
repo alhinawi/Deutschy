@@ -20198,3 +20198,218 @@ Object.assign(dialogueEvidence,{
     "Neu und besonders schonend sind also nicht durch das Bild belegt."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "die-brille-haengt-am-band",
+    "level": "A1",
+    "title": [
+      "Die Brille hängt am Band",
+      "النضارة متعلقة من الرباط"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Welche Farben siehst du an der Tauchmaske?",
+        "شايف أنهي ألوان في ماسك الغطس؟"
+      ],
+      [
+        "Karim",
+        "Gelbe und schwarze Ränder und einen durchsichtigen Bereich.",
+        "حواف صفرا وسودا وجزء شفاف."
+      ],
+      [
+        "Lea",
+        "Wie wird die Schwimmbrille gehalten?",
+        "نضارة السباحة متشالة إزاي؟"
+      ],
+      [
+        "Karim",
+        "Eine Hand hält sie am Band. Die Brille hängt nach unten.",
+        "إيد ماسكاها من الرباط. النضارة نازلة لتحت."
+      ],
+      [
+        "Lea",
+        "Trägt jemand im Ausschnitt die Gegenstände im Gesicht?",
+        "فيه حد في الجزء المصور لابس الحاجات على وشه؟"
+      ],
+      [
+        "Karim",
+        "Nein. Wir sehen Hände und die Gegenstände.",
+        "لأ. شايفين إيدين والحاجات."
+      ],
+      [
+        "Lea",
+        "Dann lesen wir jetzt die beiden Namen.",
+        "يبقى نقرا دلوقتي الاسمين."
+      ]
+    ],
+    "q": [
+      [
+        "Was ist an der Maske zu sehen?",
+        "Gelbe und schwarze Ränder.",
+        "Ein roter Stiel.",
+        "Ein brauner Korken."
+      ],
+      [
+        "Wie hängt die Brille?",
+        "Nach unten am Band.",
+        "Aufrecht auf einem Tisch.",
+        "An einer Wand hinter einer Tür."
+      ],
+      [
+        "Was sehen sie im Ausschnitt?",
+        "Hände und die Gegenstände.",
+        "Zwei Gesichter mit getragenen Brillen.",
+        "Eine Schwimmprüfung."
+      ]
+    ]
+  },
+  {
+    "id": "eine-brille-mit-zwei-bereichen",
+    "level": "A2",
+    "title": [
+      "Eine Brille mit zwei Bereichen",
+      "نضارة واحدة بجزئين"
+    ],
+    "lines": [
+      [
+        "Amir",
+        "Ich habe wegen der zwei Augenteile zwei Brillen geschrieben.",
+        "أنا كتبت نضارتين عشان جزئين العينين."
+      ],
+      [
+        "Nele",
+        "Hier gehören beide Teile zu einer Schwimmbrille.",
+        "هنا الجزئين تابعين لنضارة سباحة واحدة."
+      ],
+      [
+        "Amir",
+        "Dann beschrifte ich den ganzen Gegenstand in der Einzahl.",
+        "يبقى أسمي الحاجة كاملة بالمفرد."
+      ],
+      [
+        "Nele",
+        "Genau. Die Mehrzahl Schwimmbrillen lernen wir getrennt dazu.",
+        "بالظبط. الجمع شفيم بريلن نتعلمه جنبها منفصل."
+      ],
+      [
+        "Amir",
+        "Und die Tauchmaske bekommt auch ein n: Tauchmasken.",
+        "وماسك الغطس برضه بياخد نون: تاوخ ماسكن."
+      ],
+      [
+        "Nele",
+        "Die Pluralsätze zählen aber nicht unsere Fotos.",
+        "بس جمل الجمع مش بتعد صورنا."
+      ],
+      [
+        "Amir",
+        "Wir prüfen jeweils die Wortform und die gemeinte Einheit.",
+        "إحنا بنراجع كل مرة شكل الكلمة والوحدة المقصودة."
+      ]
+    ],
+    "q": [
+      [
+        "Wozu gehören beide Augenteile?",
+        "Zu einer Schwimmbrille.",
+        "Zu zwei vollständigen Brillen.",
+        "Zu einer Verpackung mit drei Masken."
+      ],
+      [
+        "Welche Mehrzahl nennen sie für Tauchmaske?",
+        "Tauchmasken.",
+        "Tauchmaskes.",
+        "Tauchmaske ohne Änderung."
+      ],
+      [
+        "Was zählen die Pluralsätze nicht?",
+        "Die Fotos.",
+        "Die Endung als Sprachform.",
+        "Die Wörter auf einem Lernblatt."
+      ]
+    ]
+  },
+  {
+    "id": "bilder-sind-kein-pruefzeugnis",
+    "level": "B1",
+    "title": [
+      "Bilder sind kein Prüfzeugnis",
+      "الصور مش شهادة اختبار"
+    ],
+    "lines": [
+      [
+        "Tarek",
+        "Darf ich schreiben, dass die Brille dicht ist und allen passt?",
+        "ينفع أكتب إن النضارة مابتسربش ومقاسها مناسب للكل؟"
+      ],
+      [
+        "Jule",
+        "Nicht aufgrund dieser Fotos. Ein dokumentierter Test fehlt.",
+        "مش على أساس الصور دي. مفيش اختبار موثق."
+      ],
+      [
+        "Tarek",
+        "Dann beschreibe ich nur Farbe, Teile und Halteposition.",
+        "يبقى أوصف اللون والأجزاء وطريقة المسك بس."
+      ],
+      [
+        "Jule",
+        "Die Fotos belegen auch kein gemeinsames Set.",
+        "والصور برضه مش بتثبت طقم مشترك."
+      ],
+      [
+        "Tarek",
+        "Und für echte Größenverhältnisse fehlt eine gemeinsame Skala.",
+        "ولنسبة الحجم الحقيقية ناقص مقياس مشترك."
+      ],
+      [
+        "Jule",
+        "Genau. Unsere Wörter sind keine Sicherheitsberatung fürs Wasser.",
+        "بالظبط. كلماتنا مش نصيحة أمان للمية."
+      ],
+      [
+        "Tarek",
+        "Wir bleiben bei der Sprachübung ohne Ausrüstungsversprechen.",
+        "هنفضل في تدريب اللغة من غير وعود عن المعدات."
+      ]
+    ],
+    "q": [
+      [
+        "Was fehlt für die Behauptung dicht?",
+        "Ein dokumentierter Test.",
+        "Ein sichtbarer Farbton.",
+        "Eine Wortkarte."
+      ],
+      [
+        "Was belegen die Fotos auch nicht?",
+        "Ein gemeinsames Set.",
+        "Zwei Aufnahmen.",
+        "Sichtbare Haltepositionen."
+      ],
+      [
+        "Was sind ihre Wörter nicht?",
+        "Sicherheitsberatung fürs Wasser.",
+        "Eine Sprachübung.",
+        "Eine Möglichkeit zur Benennung."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "die-brille-haengt-am-band": [
+    "Gelbe und schwarze Ränder",
+    "Die Brille hängt nach unten.",
+    "Wir sehen Hände und die Gegenstände."
+  ],
+  "eine-brille-mit-zwei-bereichen": [
+    "zu einer Schwimmbrille.",
+    "ein n: Tauchmasken.",
+    "Die Pluralsätze zählen aber nicht unsere Fotos."
+  ],
+  "bilder-sind-kein-pruefzeugnis": [
+    "Ein dokumentierter Test fehlt.",
+    "auch kein gemeinsames Set.",
+    "keine Sicherheitsberatung fürs Wasser."
+  ]
+});
