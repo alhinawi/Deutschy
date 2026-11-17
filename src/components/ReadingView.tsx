@@ -58,7 +58,7 @@ export default function ReadingView({ r }: { r: ReadingText }) {
       <section className="space-y-3 rounded-2xl border border-line bg-card p-5">
         <div className="flex items-center justify-between">
           <h2 className="ar-title text-2xl font-bold">{t('أسئلة', 'Questions')}</h2>
-          <span dir="ltr" className="num text-sm font-bold text-muted">{Math.min(i + 1, r.q.length)} / {r.q.length}</span>
+          <span dir="ltr" role="status" aria-live="polite" aria-atomic="true" aria-label={t(`السؤال ${Math.min(i + 1, r.q.length)} من ${r.q.length}`, `Question ${Math.min(i + 1, r.q.length)} of ${r.q.length}`)} className="num text-sm font-bold text-muted">{Math.min(i + 1, r.q.length)} / {r.q.length}</span>
         </div>
         {done ? (
           <div className="space-y-3">
