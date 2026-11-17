@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-eleventh practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-twelfth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1162,9 +1162,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Dialogue/conversation level filters |44px minimum height and themed keyboard focus on existing All/A1/A2/B1 controls.28 AR/EN320/390 keyboard/axe states, Enter/Space switches pressed state and corresponding list without XP.390AR/EN pixels inspected. No filtering/routing/answer/scoring/playback logic change. |
 | [ ] | Listening/dictation |64 original segments,256 exact German payload/source/answer checks. Native editorial and real-device voice review pending. Level labels not certification; progress device-local. |
 
+### List 112: Separate settings, shared grammar and extra claims
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-schoepfkelle-und-nagelfeile/` and linked dialogue | Lea/Karim ladle shaft from upper left, deep rounded bowl before a held serving bowl, pale liquid and black glove; separate photo whole long narrow file, pink round right end/light tapered left on textured light background. Different scenes together for vocabulary only. No bodily use instruction. |
+| [ ] | `/reading/alltag-a2-zwei-feminine-woerter/` and linked dialogue | Nele/Amir both feminine singular die, both plural add n, not all feminine forms. Whole word/visible object, not article alone. Fictional plural examples not exact photo inventory; shared grammar not shared use. |
+| [ ] | `/reading/alltag-b1-bildtext-ohne-nebenbehauptung/` and linked dialogue | Jule/Tarek glove not verified hygiene, liquid not checked ingredients/temperature/recipe, no person identification. File photo not newness/gentleness/material/grit/suitability test. No nutrition/personal-care advice, quality verdict or implied food-care link. |
+| [ ] | `/lessons/alltagsformen/` and `/credits/` | die Schöpfkelle/Schöpfkellen (مغرفة), die Nagelfeile/Nagelfeilen (مبرد ضوافر), full DWDS entries. Sergei Starostin29321559 ladle1800x1200 crop0,0-1600,1200, handle continues past edge but deep head/shaft clear. Kaboompics5238082 file1800x2700 rotated90 then crop150,0-2550,1800. Both800x600 no stretch/padding/face/brand.9098768 mislabeled ladles actually spatulas/whisk,5908328 abstract cork edge rejected. |
+| [ ] | Six appended grammar banks |24 article/accusative/present/possessive/two-way/negation rows, prior identities unchanged. die/die/der/das; den/das/die/die; liest/prüfst/zeigt/identifizieren; ihre/sein/seinen/unsere; auf dem/das Lernblatt and neben der/die Zeile; keinen/kein/keine/nicht. |
+| [ ] | Dialogue/conversation list cards |44px minimum and themed keyboard ring/page-ground gap on existing cards.16 AR/EN320/390 states, keyboard Enter/Space opens exact dialogue/hash without XP, axe and no overflow.390AR/EN actual pixels inspected. No filter/routing/answer/scoring/playback logic changes. |
+| [ ] | Listening/dictation |72 original segments,288 exact German payload/source/answer checks. Human editorial and real-device voice review pending. Level labels not certification; progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **879 photo nouns / 156 topics**, **351 reading texts / 1357 reading questions**, **41 core grammar topics / 2614 core grammar questions**, **291 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **881 photo nouns / 157 topics**, **354 reading texts / 1369 reading questions**, **41 core grammar topics / 2638 core grammar questions**, **294 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1176,7 +1188,7 @@ This is an inventory, not completed review. Snapshot: **879 photo nouns / 156 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 99 · A2 127 · B1 95 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 100 · A2 128 · B1 96 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

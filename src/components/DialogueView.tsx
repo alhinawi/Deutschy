@@ -36,7 +36,7 @@ export default function DialogueView({ conversation = false }: { conversation?: 
       {filtered.length===0&&<p className="rounded-2xl border border-line bg-card p-5">{t('مفيش حوارات مطابقة. جرّب كلمة أقصر أو امسح البحث والفلتر.','No matching dialogues. Try a shorter word or clear the search and filter.')}</p>}
       <ul className="grid gap-3 sm:grid-cols-2">
         {filtered.map((d) => (
-          <li key={d.id}><button onClick={() => {history.replaceState(null,'','#'+d.id);window.dispatchEvent(new HashChangeEvent('hashchange'));setOpen(d)}} className="w-full rounded-2xl border border-line bg-card p-4 text-start hover:border-accent">
+          <li key={d.id}><button onClick={() => {history.replaceState(null,'','#'+d.id);window.dispatchEvent(new HashChangeEvent('hashchange'));setOpen(d)}} className="min-h-11 w-full rounded-2xl border border-line bg-card p-4 text-start hover:border-accent focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper">
             <span className="num text-xs font-bold text-accent">{d.level}</span>
             <span dir="ltr" lang="de" className="de block text-xl font-semibold">{d.title[0]}</span>
             <span className="ar-title block text-muted">{lang === 'ar' ? d.title[1] : `${d.lines.length} lines`}</span>

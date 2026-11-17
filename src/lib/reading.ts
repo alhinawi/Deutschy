@@ -336,3 +336,6 @@ readings.push(...naturmusterTexts);
 
 import {stiftundklammerTexts} from './reading-stiftundklammer';
 readings.push(...stiftundklammerTexts);
+
+import {alltagsformenTexts} from './reading-alltagsformen';
+readings.push(...alltagsformenTexts);
