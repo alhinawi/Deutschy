@@ -141,3 +141,6 @@ readings.push(...badrundeTexts);
 
 import {kochrundeTexts} from './reading-kochrunde';
 readings.push(...kochrundeTexts);
+
+import {schlafzimmerTexts} from './reading-schlafzimmer';
+readings.push(...schlafzimmerTexts);

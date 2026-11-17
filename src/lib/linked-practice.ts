@@ -84,4 +84,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-schneidebrett',dialogue:'kelle-am-haken'},
  {reading:'alltag-a2-kelle-statt-sieb',dialogue:'bruehe-nicht-weg'},
  {reading:'alltag-a2-reibe-extra',dialogue:'kaese-in-eigene-schale'},
+ {reading:'alltag-a1-kissen-am-fenster',dialogue:'graues-kissen-sessel'},
+ {reading:'alltag-a2-wecker-sieben',dialogue:'neue-weckzeit'},
+ {reading:'alltag-a2-matratzenzettel',dialogue:'breiten-nicht-mischen'},
 ];

@@ -6008,3 +6008,218 @@ Object.assign(dialogueEvidence,{
     "vor dem nächsten Essen fragen wir wieder nach Wünschen."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "graues-kissen-sessel",
+    "level": "A1",
+    "title": [
+      "Das graue kommt auf den Sessel",
+      "الرمادي يتحط على الكرسي الكبير"
+    ],
+    "lines": [
+      [
+        "Sami",
+        "Welches Kissen kommt an das Kopfende?",
+        "أنهي مخدة تتحط عند راس السرير؟"
+      ],
+      [
+        "Emma",
+        "Das weiße mit dem braunen Muster.",
+        "البيضا اللي عليها النقشة البني."
+      ],
+      [
+        "Sami",
+        "Dann lege ich das graue auf den Sessel.",
+        "يبقى أحط الرمادي على الكرسي الكبير."
+      ],
+      [
+        "Emma",
+        "Der Wecker steht rechts neben der Nachttischlampe.",
+        "المنبّه على يمين الأباجورة."
+      ],
+      [
+        "Sami",
+        "Gut. Ich lege mein Buch daneben.",
+        "تمام. هحط كتابي جنبه."
+      ],
+      [
+        "Emma",
+        "Ich ziehe den Vorhang zur Seite. Die Lampe bleibt aus.",
+        "هزيح الستارة على جنب. الأباجورة تفضل مطفية."
+      ],
+      [
+        "Sami",
+        "Die Decke kommt kurz auf den Sessel. Ich ziehe noch das Laken glatt.",
+        "البطانية تتحط شوية على الكرسي الكبير. لسه هفرد الملاية."
+      ]
+    ],
+    "q": [
+      [
+        "Wohin kommt das graue Kissen?",
+        "Auf den Sessel.",
+        "Unter die Matratze.",
+        "Auf die Lampe."
+      ],
+      [
+        "Wo steht der Wecker?",
+        "Rechts neben der Nachttischlampe.",
+        "Im Schrank.",
+        "Am Fußende."
+      ],
+      [
+        "Was macht Sami noch mit dem Laken?",
+        "Er zieht es glatt.",
+        "Er verkauft es.",
+        "Er schneidet es durch."
+      ]
+    ]
+  },
+  {
+    "id": "neue-weckzeit",
+    "level": "A2",
+    "title": [
+      "Der alte Zettel gilt heute nicht",
+      "الورقة القديمة مش سارية النهارده"
+    ],
+    "lines": [
+      [
+        "Malik",
+        "Auf dem Zettel steht sechs Uhr. Soll ich den Wecker so stellen?",
+        "مكتوب على الورقة الساعة 6. أظبط المنبّه كده؟"
+      ],
+      [
+        "Jana",
+        "Nein, diesmal bitte sieben Uhr. Der Zettel ist vom letzten Besuch.",
+        "لأ، المرة دي الساعة 7 لو سمحت. الورقة من الزيارة اللي فاتت."
+      ],
+      [
+        "Malik",
+        "Gut. Hier ist die Einstellung. Schau bitte noch einmal nach.",
+        "تمام. أهو الإعداد. راجعيه مرة كمان لو سمحتي."
+      ],
+      [
+        "Jana",
+        "Ja, sieben Uhr. Das stimmt.",
+        "آه، الساعة 7. كده صح."
+      ],
+      [
+        "Malik",
+        "Brauchst du später die Nachttischlampe?",
+        "هتحتاجي الأباجورة بعدين؟"
+      ],
+      [
+        "Jana",
+        "Darum kümmere ich mich selbst. Den Vorhang lasse ich jetzt noch offen.",
+        "هتصرف في ده بنفسي. الستارة هسيبها مفتوحة دلوقتي."
+      ],
+      [
+        "Malik",
+        "Den alten Zettel lege ich zu meinen anderen Notizen.",
+        "هحط الورقة القديمة مع باقي ملاحظاتي."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Zeit gilt diesmal?",
+        "Sieben Uhr.",
+        "Sechs Uhr.",
+        "Fünf Uhr."
+      ],
+      [
+        "Was soll Jana prüfen?",
+        "Die Einstellung des Weckers.",
+        "Den Preis der Matratze.",
+        "Die Farbe der Decke."
+      ],
+      [
+        "Wohin kommt der alte Zettel?",
+        "Zu Maliks anderen Notizen.",
+        "Unter Janas Kissen.",
+        "An den Vorhang."
+      ]
+    ]
+  },
+  {
+    "id": "breiten-nicht-mischen",
+    "level": "A2",
+    "title": [
+      "Die Zahlen bleiben erst getrennt",
+      "الأرقام تفضل منفصلة الأول"
+    ],
+    "lines": [
+      [
+        "Omar",
+        "Auf dem Einkaufszettel stehen neunzig Zentimeter.",
+        "على ورقة المشتريات مكتوب 90 سنتيمتر."
+      ],
+      [
+        "Lea",
+        "Auf dem Etikett dieser Matratze stehen hundert.",
+        "على بطاقة المرتبة دي مكتوب 100."
+      ],
+      [
+        "Omar",
+        "Soll ich die Zahl auf dem Zettel ändern?",
+        "أغيّر الرقم اللي على الورقة؟"
+      ],
+      [
+        "Lea",
+        "Noch nicht. Wir wissen nicht, ob die Notiz zu dieser Matratze gehört.",
+        "لسه. إحنا مش عارفين إذا الملاحظة تخص المرتبة دي."
+      ],
+      [
+        "Omar",
+        "Dann halte ich fest, woher die beiden Angaben kommen.",
+        "يبقى أسجل المعلومتين جايين منين."
+      ],
+      [
+        "Lea",
+        "Genau. Wir wählen jetzt keine neue Matratze aus.",
+        "بالظبط. مش هنختار مرتبة جديدة دلوقتي."
+      ],
+      [
+        "Omar",
+        "Die Unterlagen vergleichen wir später in Ruhe.",
+        "نقارن الورق بعدين بهدوء."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Zahl steht auf dem Einkaufszettel?",
+        "Neunzig Zentimeter.",
+        "Hundert Zentimeter.",
+        "Siebzig Zentimeter."
+      ],
+      [
+        "Warum wird die Zahl noch nicht geändert?",
+        "Die Zuordnung der Notiz ist unklar.",
+        "Es gibt keine Matratze.",
+        "Omar hat schon bestellt."
+      ],
+      [
+        "Was wollen sie später vergleichen?",
+        "Die Unterlagen.",
+        "Die Preise aller Lampen.",
+        "Die Farbe des Vorhangs."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "graues-kissen-sessel": [
+    "das graue auf den Sessel.",
+    "rechts neben der Nachttischlampe.",
+    "Ich ziehe noch das Laken glatt."
+  ],
+  "neue-weckzeit": [
+    "diesmal bitte sieben Uhr.",
+    "Hier ist die Einstellung. Schau bitte noch einmal nach.",
+    "zu meinen anderen Notizen."
+  ],
+  "breiten-nicht-mischen": [
+    "Auf dem Einkaufszettel stehen neunzig Zentimeter.",
+    "Wir wissen nicht, ob die Notiz zu dieser Matratze gehört.",
+    "Die Unterlagen vergleichen wir später in Ruhe."
+  ]
+});

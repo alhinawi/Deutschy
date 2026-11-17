@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the forty-sixth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the forty-seventh practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -372,6 +372,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Six expanded grammar banks | Accusative, possessives, modals, imperative, comparative, dative prepositions: 24 append-only rows, die Reibe/den Pfannenwender, ihr Brett/seine Pfanne, möchte/wollen, Leg/Stellt/Nehmen/Gib, größer/breiter/leichter/länger, nach dem Sieb/aus der Schublade/mit seinem Bruder/seit einem Monat. Preserve earlier IDs. |
 | [ ] | `/verbs/table/`, `/reading/`, `/dictation/` | Table pressed level/count, strong/irregular/modal scope, keyboard horizontal scrolling with visible focus and no saved progress. Long German reading words wrap without clipping. Review 46 focused dictation sentences on an actual German voice; mocks test text and controls only. |
 
+### Forty-seventh update: bedroom (pending)
+
+| Review | Route / item | Focus |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-kissen-am-fenster/` | **Das Kissen mit dem Muster** / **Das graue kommt auf den Sessel**: white patterned pillow at head of bed, gray cushion on armchair, blanket temporarily moved to smooth sheet, mattress under sheet, alarm right of lamp, curtain aside. Check 7 questions/evidence and Egyptian meanings. |
+| [ ] | `/reading/alltag-a2-wecker-sieben/` | **Sieben Uhr, nicht sechs** / **Der alte Zettel gilt heute nicht**: fictional current seven o'clock overrides old six-o'clock note, guest checks setting, open curtain not proof of later lighting plans. Check 7 questions/evidence; no real alarm was set. |
+| [ ] | `/reading/alltag-a2-matratzenzettel/` | **Zwei verschiedene Angaben** / **Die Zahlen bleiben erst getrennt**: old shopping note says ninety centimeters, current mattress label says one hundred; uncertain link kept explicit, sources not silently merged. No mattress selected/ordered, fit/firmness recommendation or medical claim. Check 7 questions/evidence. |
+| [ ] | `/lessons/schlafzimmer/` | Check das Kissen / same-form plural and die Nachttischlampe / Nachttischlampen, Egyptian meanings and complete real unbranded white pillow/lamp photos. Both surroundings-only crops, full object retained, padding/crop/photographers in Credits. Generic Kissen is used, not an unsupported sleeping-pillow subtype. Photos are not evidence of fictional bedroom. |
+| [ ] | Six expanded grammar banks | Article/genus, dative, separable verbs, present, two-way/dative prepositions and negation: 24 appended rows. Check das Kissen/die Matratze, personal-name dative Jana, zusammenlegen/ausschalten, liest/nimmt, neben der/den, ihrem Bruder and keine Matratze/kein Kissen. Preserve all prior saved IDs. |
+| [ ] | `/conjugation/`, `/dictation/` | Reference table has captioned keyboard-scroll region and explanation that toggle preserves answer, atomic position status; reset still keeps verb/tense/person and focuses empty answer. Check all 50 focused dictation sentences on a real German voice. Mocks do not verify pronunciation. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -386,7 +397,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **749 photo nouns / 91 topics**, **156 reading texts / 577 reading questions**, **41 core grammar topics / 1054 core grammar questions**, **96 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **751 photo nouns / 92 topics**, **159 reading texts / 589 reading questions**, **41 core grammar topics / 1078 core grammar questions**, **99 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -398,7 +409,7 @@ This is an inventory, not completed review. Snapshot: **749 photo nouns / 91 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 34 · A2 56 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 35 · A2 58 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

@@ -599,3 +599,24 @@ Object.assign(readingEvidence,{
     "Vor einem neuen Essen wollen sie erneut nach Wünschen fragen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-kissen-am-fenster": [
+    "Sami legt das weiße Kissen an das Kopfende und das graue auf den Sessel.",
+    "Unter dem Bettlaken liegt die Matratze.",
+    "Der Wecker steht rechts neben ihr.",
+    "Er möchte das Bettlaken noch glattziehen."
+  ],
+  "alltag-a2-wecker-sieben": [
+    "Jana sagt sieben Uhr.",
+    "Jana erklärt, dass der Zettel vom letzten Besuch stammt.",
+    "Sie prüft sie selbst noch einmal.",
+    "Jana möchte den Vorhang zunächst offen lassen, weil sie noch ein paar Seiten lesen will."
+  ],
+  "alltag-a2-matratzenzettel": [
+    "Auf dem Etikett der vorhandenen Matratze steht dagegen eine Breite von hundert Zentimetern.",
+    "Die beiden wissen noch nicht, ob sich die alte Notiz überhaupt auf diese Matratze bezieht.",
+    "Sie lassen die beiden Angaben deshalb getrennt und schreiben dazu, von welchem Gegenstand oder Zettel jede Angabe stammt.",
+    "Eine neue Matratze haben sie nicht ausgewählt"
+  ]
+});

@@ -363,6 +363,10 @@
   {
    "id": "kochrunde",
    "ar": "أدوات تجهيز الأكل"
+  },
+  {
+   "id": "schlafzimmer",
+   "ar": "حاجات أوضة النوم"
   }
  ],
  "words": [
@@ -11673,6 +11677,38 @@
     "file": "black.jpg",
     "commons": "https://www.pexels.com/photo/black-ladle-and-cookware-on-a-woven-mat-10936545/",
     "author": "DRAKE NICOLLS",
+    "license": "Pexels License",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "kissen",
+   "topic": "schlafzimmer",
+   "art": "das",
+   "de": "Kissen",
+   "plural": "-",
+   "ar": "مخدة",
+   "photo": {
+    "file": "pillow5.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-shot-of-a-white-pillow-on-a-chair-6312050/",
+    "author": "KATRIN BOLOVTSOVA",
+    "license": "Pexels License",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "nachttischlampe",
+   "topic": "schlafzimmer",
+   "art": "die",
+   "de": "Nachttischlampe",
+   "plural": "Nachttischlampen",
+   "ar": "أباجورة جنب السرير",
+   "photo": {
+    "file": "lamp.jpg",
+    "commons": "https://www.pexels.com/photo/lamp-on-night-stand-18280834/",
+    "author": "Vladimir Gladkov",
     "license": "Pexels License",
     "padding": true,
     "modified": true
