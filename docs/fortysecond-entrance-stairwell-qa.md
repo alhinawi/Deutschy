@@ -15,7 +15,7 @@ Three original fictional linked A1/A2/A2 reading/dialogue/listening sets, 12 rea
 Two whole unbranded photo nouns, no faces or object crop:
 
 - die Fußmatte / die Fußmatten: plain rectangular mat, entire perimeter visible. https://commons.wikimedia.org/wiki/File:Coconut_peat_mat.jpg - Vis M, CC BY-SA 4.0. Resized to fit 4:3, neutral padding, original/source/license retained in Credits.
-- der Schirmständer / die Schirmständer: complete metal umbrella stand with base tray and full upper frame, historic physical object, not a drawing. https://commons.wikimedia.org/wiki/File:Schirmständer_Metall_(fcm).jpg - Frank C. Müller, CC BY-SA 3.0. Resized and neutrally padded to 4:3 without cropping. Source/attribution/license preserved.
+- der Schirmständer / die Schirmständer: complete metal umbrella stand with base tray and full upper frame, historic physical object, not a drawing. https://commons.wikimedia.org/wiki/File:Schirmständer_Metall_(fcm).jpg - Frank C. Müller, CC BY-SA 4.0. Resized and neutrally padded to 4:3 without cropping. Source/attribution/license preserved.
 - https://www.duden.de/rechtschreibung/Fuszmatte - feminine, plural Fußmatten, mat for wiping dirt from shoes.
 - https://www.duden.de/rechtschreibung/Schirmstaender - masculine, unchanged plural Schirmständer, stand for umbrellas.
 
