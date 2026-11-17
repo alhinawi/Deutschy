@@ -24068,3 +24068,218 @@ Object.assign(dialogueEvidence,{
     "Wir messen hier nichts und füllen das Glas nicht nach."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "kanne-tasse-endung-n",
+    "level": "A1",
+    "title": [
+      "Zwei Wörter, dieselbe Endung",
+      "كلمتين ونفس النهاية"
+    ],
+    "lines": [
+      [
+        "Tom",
+        "Welche Mehrzahl gehört zu Espressokanne?",
+        "إيه جمع إسبرسو كانه؟"
+      ],
+      [
+        "Lea",
+        "Espressokannen. Ein n kommt dazu.",
+        "إسبرسو كانن. بنزود إن."
+      ],
+      [
+        "Tom",
+        "Und bei Kaffeetasse?",
+        "ومع كافيه تاسه؟"
+      ],
+      [
+        "Lea",
+        "Kaffeetassen. Auch hier kommt ein n dazu.",
+        "كافيه تاسن. هنا برضه بنزود إن."
+      ],
+      [
+        "Tom",
+        "Jetzt legen wir das Blatt über die Mehrzahlzeilen.",
+        "دلوقتي نحط الورقة على سطور الجمع."
+      ],
+      [
+        "Lea",
+        "Beim zweiten Wort tauschen wir die Rollen.",
+        "مع الكلمة التانية نبدل الأدوار."
+      ],
+      [
+        "Tom",
+        "Die Formen prüfen wir danach mit der Wortliste.",
+        "بعد كده نراجع الصيغ بقايمة الكلمات."
+      ]
+    ],
+    "q": [
+      [
+        "Wie lautet die Mehrzahl von Espressokanne?",
+        "Espressokannen.",
+        "Espressokannes.",
+        "Espressokanneer."
+      ],
+      [
+        "Was decken sie ab?",
+        "Die Mehrzahlzeilen.",
+        "Alle Bilder im Raum.",
+        "Nur die Namen der Personen."
+      ],
+      [
+        "Womit prüfen sie die Formen?",
+        "Mit der Wortliste.",
+        "Mit einer echten Bestellung.",
+        "Mit einem Preisschild."
+      ]
+    ]
+  },
+  {
+    "id": "bild-und-wort-neu-zuordnen",
+    "level": "A2",
+    "title": [
+      "Was erkennst du im Bild?",
+      "إنت شايف إيه في الصورة؟"
+    ],
+    "lines": [
+      [
+        "Jan",
+        "Ich lege Kaffeetasse wieder nach links.",
+        "هحط كافيه تاسه على الشمال تاني."
+      ],
+      [
+        "Mira",
+        "Sieh dir das aktuelle Bild an. Was erkennst du dort?",
+        "بص للصورة الحالية. شايف فيها إيه؟"
+      ],
+      [
+        "Jan",
+        "Eine Espressokanne. Ich habe mir nur die alte Position gemerkt.",
+        "موكا بوت. أنا حفظت المكان القديم بس."
+      ],
+      [
+        "Mira",
+        "Ich vertausche jetzt nur die Fotos. Die Wortkarten bleiben liegen.",
+        "هبدل الصور بس دلوقتي. كروت الكلمات تفضل مكانها."
+      ],
+      [
+        "Jan",
+        "Dann muss ich beide Wortkarten verschieben.",
+        "يبقى لازم أنقل كارتين الكلمات."
+      ],
+      [
+        "Mira",
+        "Danach legen wir die Fotos untereinander.",
+        "بعد كده نحط الصور تحت بعض."
+      ],
+      [
+        "Jan",
+        "Andere Aufnahmen haben wir damit noch nicht geprüft.",
+        "كده لسه ماراجعناش صور تانية."
+      ]
+    ],
+    "q": [
+      [
+        "Was hat sich Jan zunächst gemerkt?",
+        "Die alte Position.",
+        "Alle anderen Aufnahmen.",
+        "Den Namen des Fotografen."
+      ],
+      [
+        "Was bleibt beim Vertauschen zunächst liegen?",
+        "Die Wortkarten.",
+        "Beide Fotos am alten Platz.",
+        "Eine echte Kanne."
+      ],
+      [
+        "Wie legen sie die Fotos danach?",
+        "Untereinander.",
+        "In eine verschlossene Kanne.",
+        "Beide mit der Rückseite nach oben."
+      ]
+    ]
+  },
+  {
+    "id": "lernfeld-und-quellenverzeichnis",
+    "level": "B1",
+    "title": [
+      "Die Quelle bleibt erreichbar",
+      "المصدر يفضل نقدر نوصله"
+    ],
+    "lines": [
+      [
+        "Emil",
+        "Soll die ganze Quellennotiz in das Antwortfeld?",
+        "ملحوظة المصدر كلها تتحط في خانة الإجابة؟"
+      ],
+      [
+        "Nora",
+        "Dort soll das Ding benannt werden, nicht der Fotograf.",
+        "هناك المفروض نسمي الحاجة مش المصور."
+      ],
+      [
+        "Emil",
+        "Dann kommt der Lernbegriff in das Feld. Wo bleibt die Quelle?",
+        "يبقى اسم المذاكرة ييجي في الخانة. المصدر يفضل فين؟"
+      ],
+      [
+        "Nora",
+        "Vollständig im Quellenverzeichnis, mit einem passenden Verweis.",
+        "كامل في قايمة المصادر بإشارة مناسبة ليه."
+      ],
+      [
+        "Emil",
+        "Wir prüfen also, ob beide Bildkarten noch zur richtigen Quelle führen.",
+        "يبقى نراجع إن كارتين الصور لسه بيوصلوا للمصدر الصح."
+      ],
+      [
+        "Nora",
+        "Ja. Getrennte Plätze dürfen den Zusammenhang nicht auflösen.",
+        "أيوه. الأماكن المنفصلة ماينفعش تضيع الصلة بينهم."
+      ],
+      [
+        "Emil",
+        "Eine rechtliche Prüfung ersetzt diese Übung nicht.",
+        "التدريب ده مش بديل لمراجعة قانونية."
+      ]
+    ],
+    "q": [
+      [
+        "Was gehört in das Lernfeld?",
+        "Der Begriff für das Ding.",
+        "Nur der Name des Fotografen.",
+        "Eine erfundene Lizenz."
+      ],
+      [
+        "Wie bleibt die Quelle erreichbar?",
+        "Mit einem passenden Verweis.",
+        "Durch Löschen des Verzeichnisses.",
+        "Nur durch die Position links."
+      ],
+      [
+        "Was ersetzt die Übung nicht?",
+        "Eine rechtliche Prüfung.",
+        "Die Frage nach dem Lernbegriff.",
+        "Das Zuordnen beider Bildkarten."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "kanne-tasse-endung-n": [
+    "Espressokannen. Ein n kommt dazu.",
+    "das Blatt über die Mehrzahlzeilen.",
+    "Die Formen prüfen wir danach mit der Wortliste."
+  ],
+  "bild-und-wort-neu-zuordnen": [
+    "Ich habe mir nur die alte Position gemerkt.",
+    "Die Wortkarten bleiben liegen.",
+    "Danach legen wir die Fotos untereinander."
+  ],
+  "lernfeld-und-quellenverzeichnis": [
+    "Dort soll das Ding benannt werden, nicht der Fotograf.",
+    "Vollständig im Quellenverzeichnis, mit einem passenden Verweis.",
+    "Eine rechtliche Prüfung ersetzt diese Übung nicht."
+  ]
+});

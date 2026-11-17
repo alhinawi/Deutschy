@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  kaffeeformen: 'Espressokannen und Kaffeetassen',
   suessbilder: 'Zuckerwürfel und Honiggläser',
   kaffeebilder: 'Filtertüten und Kaffeebohnen',
   gewuerzkarten: 'Vanilleschoten und Gewürznelken',
@@ -172,6 +173,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  kaffeeformen: 'Moka pots and coffee cups',
   suessbilder: 'Sugar cubes and honey jars',
   kaffeebilder: 'Paper coffee filters and coffee beans',
   gewuerzkarten: 'Vanilla pods and cloves',

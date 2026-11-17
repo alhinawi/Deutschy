@@ -336,4 +336,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zwei-arten-mehrzahl',dialogue:'zuckerwuerfel-honigglaeser'},
  {reading:'alltag-a2-korrektur-lesbar-lassen',dialogue:'alte-und-neue-fassung'},
  {reading:'alltag-b1-fuellstand-ohne-mengenangabe',dialogue:'hoehe-ist-kein-volumenwert'},
+ {reading:'alltag-a1-zwei-woerter-mit-n',dialogue:'kanne-tasse-endung-n'},
+ {reading:'alltag-a2-bildtexte-vertauscht',dialogue:'bild-und-wort-neu-zuordnen'},
+ {reading:'alltag-b1-quellennotiz-und-lernwort',dialogue:'lernfeld-und-quellenverzeichnis'},
 ];

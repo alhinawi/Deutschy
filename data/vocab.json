@@ -699,6 +699,10 @@
   {
    "id": "suessbilder",
    "ar": "صور السكر والعسل"
+  },
+  {
+   "id": "kaffeeformen",
+   "ar": "الموكا بوت وفنجان القهوة"
   }
  ],
  "words": [
@@ -14550,6 +14554,36 @@
     "file": "35282122.jpg",
     "commons": "https://www.pexels.com/photo/clear-glass-honey-jar-with-dipper-on-white-35282122/",
     "author": "Gundula Vogel",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "espressokanne",
+   "topic": "kaffeeformen",
+   "art": "die",
+   "de": "Espressokanne",
+   "plural": "Espressokannen",
+   "ar": "موكا بوت",
+   "photo": {
+    "file": "6766676.jpg",
+    "commons": "https://www.pexels.com/photo/moka-pot-beside-a-ceramic-cup-on-wooden-surface-6766676/",
+    "author": "KATRIN BOLOVTSOVA",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "kaffeetasse",
+   "topic": "kaffeeformen",
+   "art": "die",
+   "de": "Kaffeetasse",
+   "plural": "Kaffeetassen",
+   "ar": "فنجان قهوة",
+   "photo": {
+    "file": "20903189.jpg",
+    "commons": "https://www.pexels.com/photo/white-cup-of-coffee-on-saucer-20903189/",
+    "author": "José Karmel",
     "license": "Pexels License",
     "modified": true
    }

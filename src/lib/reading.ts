@@ -393,3 +393,6 @@ readings.push(...kaffeebilderTexts);
 
 import {suessbilderTexts} from './reading-suessbilder';
 readings.push(...suessbilderTexts);
+
+import {kaffeeformenTexts} from './reading-kaffeeformen';
+readings.push(...kaffeeformenTexts);

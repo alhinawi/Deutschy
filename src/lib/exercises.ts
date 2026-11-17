@@ -555,3 +555,6 @@ for(const[topic,rows]of Object.entries(kaffeebilderGrammar))exercises[topic].pus
 
 import {suessbilderGrammar} from './exercises-suessbilder';
 for(const[topic,rows]of Object.entries(suessbilderGrammar))exercises[topic].push(...rows);
+
+import {kaffeeformenGrammar} from './exercises-kaffeeformen';
+for(const[topic,rows]of Object.entries(kaffeeformenGrammar))exercises[topic].push(...rows);

@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-thirtieth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-thirty-first practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1390,9 +1390,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Shared MiniQuiz German listen label | Localized accessible name replaces English-only Speak.8voice states AR/EN320/390:4Germanpayloadcalls, English-onlyvoice blocked with localizedfallback, noXP. Actual390AR/ENavailable/unavailable screens inspected. |
 | [ ] | Listening/dictation |62originalsegments248exactGerman speech/source/answer checks. Native editorial and actual-device voice pending. Practice grouping not certification; progress device-local. |
 
+### List 131: Moka pots and coffee cups
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zwei-woerter-mit-n/` and linked dialogue | Lea/Tom add n to both Espressokanne and Kaffeetasse. Cover/reveal plural lines, switch roles, check wordlist. Plural line is a word form, not photo count. Paper/photos only, no brewing. |
+| [ ] | `/reading/alltag-a2-bildtexte-vertauscht/` and linked dialogue | Mira/Jan distinguish object recognition from memorized left/right positions. Swap photos without wordcards, then arrange vertically. Other photos not yet tested. No use instructions. |
+| [ ] | `/reading/alltag-b1-quellennotiz-und-lernwort/` and linked dialogue | Nora/Emil separate learner noun from full source note while preserving correct reachable references. No claim that license requirements are identical or that practice replaces legal review. No actual third-party publication changed. |
+| [ ] | `/lessons/kaffeeformen/` and `/credits/` | die Espressokanne/Espressokannen (موكا بوت); die Kaffeetasse/Kaffeetassen (فنجان قهوة). Wiktionary DE/EN pot forms and DWDS cup. KATRIN BOLOVTSOVA 6766676: pot 1800x2700, crop (200,1220)-(1500,2195). José Karmel 20903189: cup 1800x1200, crop (340,0)-(1800,1095). Both 800x600, no padding, stretching, people or brand. Actual 390px AR/EN cards inspected. Branded Brewista jug and ambiguous Chemex rejected, no Kaffeekanne mislabel. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way/negation rows retain earlier saved identities. Native German/Egyptian examples/explanations pending. |
+| [ ] | Shared MiniQuiz prompt-linked answer group | Options group named by its visible German prompt via unique stable id. 72 states across AR/EN at 320/390px: 8 questions, locked answers, no group at result, group restored on new round. 4 axe checks. Actual 390px AR/EN screens inspected. Scoring/audio unchanged. |
+| [ ] | Listening/dictation |64 original segments, 256 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice grouping not certification; progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **917 photo nouns / 175 topics**, **408 reading texts / 1585 reading questions**, **41 core grammar topics / 3070 core grammar questions**, **348 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **919 photo nouns / 176 topics**, **411 reading texts / 1597 reading questions**, **41 core grammar topics / 3094 core grammar questions**, **351 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1404,7 +1416,7 @@ This is an inventory, not completed review. Snapshot: **917 photo nouns / 175 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 118 · A2 146 · B1 114 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 119 · A2 147 · B1 115 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
