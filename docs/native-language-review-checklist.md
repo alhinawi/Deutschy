@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the eightieth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the eighty-first practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -790,9 +790,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Game result controls | Both again and Games controls retain44px minimum height, row still wraps. AR/EN320 results checked. Grading/XP, duplicate lock, question/progress, topic focus and spelling states unchanged. |
 | [ ] | Listening/dictation |62 original segments/Egyptian Arabic. Native editorial and real device voice pending. All stories fictional; no real appointment, inventory count, purchase or physical-object check. |
 
+### List 81: requests, a forgotten pouch and wording feedback
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-das-falsche-wort-am-tisch/` and linked dialogue | Fictional café: Mona wants straw for juice, points vaguely at Paul's chopsticks. Paul clarifies, names der Trinkhalm/das Essstäbchen; Mona writes private word card and rehearses precise question. No actual request sent to staff, availability unknown. Check natural request contrast and singular item versus pair. |
+| [ ] | `/reading/alltag-a2-das-etui-bleibt-zu-hause/` and linked dialogue | Daria forgot pouch with straw/pair of chopsticks. Noel confirms closed pouch on hallway chest, not contents. She declines bringing/return trip, asks sister only for fork. Phone pack-list entry reminds later bag check, not possession now. No handover/travel arranged. Content known from packing, not Noel's message. |
+| [ ] | `/reading/alltag-b1-zwei-versionen-einer-frage/` and linked dialogue | Invented request versions, not sent or recorded encounter. Clear polite naming versus vague command. Split request/material question. Feedback columns comprehension/politeness only; no hygiene/environment/material/availability verification. Saved practice sentences trigger no order or café promise. |
+| [ ] | `/lessons/tischbitten/` and `/credits/` | der Trinkhalm/Trinkhalme and das Essstäbchen/-. شفّاطة شرب and عود أكل. Duden recommends Essstäbchen, permits Ess-Stäbchen, notes mainly plural usage; singular is dictionary form. Whole real straw next to brush on original white ground rotated90/cropped, no added padding. Whole black chopstick pair on table mat, no marks/people. No product safety or environmental claims. |
+| [ ] | Six appended grammar banks |24 article/accusative/present/connector/two-way-preposition/negation rows; old saved IDs retained. damit/obwohl/bevor/ob discriminated by stated meaning. der/die Kommode and dem/den Teller location versus destination. |
+| [ ] | Game result actions | Both controls have offset2px keyboard-focus rings; Tab moves from again to Games, focus screenshot inspected.44px minimum/wrapping retained; routes/grading/XP unchanged. All previous topic/spelling/progress states kept. |
+| [ ] | Listening/dictation |64 original segments/Egyptian Arabic. Native editorial and actual-device voice pending. No real staff message/order, trip, handover, material/hygiene/environment assessment. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **817 photo nouns / 125 topics**, **258 reading texts / 985 reading questions**, **41 core grammar topics / 1870 core grammar questions**, **198 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **819 photo nouns / 126 topics**, **261 reading texts / 997 reading questions**, **41 core grammar topics / 1894 core grammar questions**, **201 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -804,7 +816,7 @@ This is an inventory, not completed review. Snapshot: **817 photo nouns / 125 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 68 · A2 96 · B1 64 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 69 · A2 97 · B1 65 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

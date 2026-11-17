@@ -243,3 +243,6 @@ readings.push(...eingangsnotizenTexts);
 
 import {bildregisterTexts} from './reading-bildregister';
 readings.push(...bildregisterTexts);
+
+import {tischbittenTexts} from './reading-tischbitten';
+readings.push(...tischbittenTexts);

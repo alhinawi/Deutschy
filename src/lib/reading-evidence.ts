@@ -1313,3 +1313,24 @@ Object.assign(readingEvidence,{
     "Anja prüft dabei nur die Schreibweise anhand ihrer Wortliste."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-das-falsche-wort-am-tisch": [
+    "Mona möchte einen Trinkhalm für ihr Glas.",
+    "Paul fragt nach, denn er versteht den Wunsch noch nicht.",
+    "Die Karte ist nur für ihre Wortliste.",
+    "Ob das Café Trinkhalme hat, wissen die beiden noch nicht."
+  ],
+  "alltag-a2-das-etui-bleibt-zu-hause": [
+    "Das Etui liegt auf der Kommode im Flur.",
+    "dass er es bitte zu Hause lassen soll.",
+    "Daria fragt ihre Schwester nur nach einer Gabel für das Essen.",
+    "Er hat nur den Standort des geschlossenen Etuis bestätigt."
+  ],
+  "alltag-b1-zwei-versionen-einer-frage": [
+    "Sie benennt den gewünschten Gegenstand und verwendet eine Bitte.",
+    "Iman schlägt vor, die beiden Anliegen zu trennen.",
+    "zwei Spalten an: Verständlichkeit und Höflichkeit.",
+    "Das Ergebnis des Treffens sind präzisere Beispielsätze, keine Zusage eines Cafés und kein Testbericht über Trinkhalme oder Essstäbchen."
+  ]
+});

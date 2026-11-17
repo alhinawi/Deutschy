@@ -405,3 +405,6 @@ for(const[topic,rows]of Object.entries(eingangsnotizenGrammar))exercises[topic].
 
 import {bildregisterGrammar} from './exercises-bildregister';
 for(const[topic,rows]of Object.entries(bildregisterGrammar))exercises[topic].push(...rows);
+
+import {tischbittenGrammar} from './exercises-tischbitten';
+for(const[topic,rows]of Object.entries(tischbittenGrammar))exercises[topic].push(...rows);

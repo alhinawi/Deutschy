@@ -13318,3 +13318,218 @@ Object.assign(dialogueEvidence,{
     "der Artikel im Plural ist die."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "zum-saft-oder-zum-essen",
+    "level": "A1",
+    "title": [
+      "Für mein Glas",
+      "للكوباية بتاعتي"
+    ],
+    "lines": [
+      [
+        "Mona",
+        "Ich brauche auch so etwas wie die Stäbchen neben deiner Schale.",
+        "محتاجة أنا كمان حاجة زي العيدان اللي جنب طبقك."
+      ],
+      [
+        "Paul",
+        "Meinst du Essstäbchen zum Essen oder einen Trinkhalm für deinen Saft?",
+        "تقصدِي عيدان أكل ولا شفاطة للعصير بتاعك؟"
+      ],
+      [
+        "Mona",
+        "Für meinen Saft. Mir fehlt gerade das Wort.",
+        "للعصير بتاعي. الكلمة مش جاية في بالي دلوقتي."
+      ],
+      [
+        "Paul",
+        "Das heißt der Trinkhalm. Ein einzelnes Essstäbchen heißt das Essstäbchen.",
+        "دي اسمها شفاطة بالألماني وبأداة التعريف المذكر. وعود الأكل الواحد اسمه بالألماني بأداة التعريف المحايد."
+      ],
+      [
+        "Mona",
+        "Danke. Ich schreibe beide Wörter auf meine Karte.",
+        "شكرًا. هكتب الكلمتين على الكارت بتاعي."
+      ],
+      [
+        "Paul",
+        "Frag genauer: Haben Sie einen Trinkhalm für meinen Saft?",
+        "اسألي بشكل أوضح إذا عندهم شفاطة للعصير بتاعك."
+      ],
+      [
+        "Mona",
+        "Das übe ich erst mit dir. Ob das Café welche hat, weiß ich noch nicht.",
+        "هتدرب على ده الأول معاك. لسه معرفش إذا الكافيه عنده."
+      ]
+    ],
+    "q": [
+      [
+        "Wofür sucht Mona etwas?",
+        "Für den Saft.",
+        "Für eine Reparatur.",
+        "Für die Rechnung."
+      ],
+      [
+        "Wohin schreibt sie die Wörter?",
+        "Auf ihre Karte.",
+        "Auf Pauls Schale.",
+        "In den Kalender des Cafés."
+      ],
+      [
+        "Mit wem übt sie zuerst?",
+        "Mit Paul.",
+        "Mit einer bestätigten Bedienung.",
+        "Mit dem Lieferdienst."
+      ]
+    ]
+  },
+  {
+    "id": "kein-weg-wegen-des-etuis",
+    "level": "A2",
+    "title": [
+      "Lass es bitte dort",
+      "سيبه هناك لو سمحت"
+    ],
+    "lines": [
+      [
+        "Noel",
+        "Dein Etui liegt auf der Kommode im Flur. Ich habe es nicht geöffnet.",
+        "الجراب بتاعك على الكومود في الطرقة. مافتحتوش."
+      ],
+      [
+        "Daria",
+        "Danke fürs Nachsehen. Lass es bitte zu Hause.",
+        "شكرًا إنك بصيت. سيبه في البيت لو سمحت."
+      ],
+      [
+        "Noel",
+        "Soll ich es später mitbringen?",
+        "أجيبه معايا بعدين؟"
+      ],
+      [
+        "Daria",
+        "Nein, du brauchst es nicht zu bringen. Ich frage hier nur nach einer Gabel.",
+        "لأ، مش محتاج تجيبه. هطلب هنا شوكة بس."
+      ],
+      [
+        "Noel",
+        "Dann bleibt es weiterhin dort.",
+        "يبقى يفضل هناك."
+      ],
+      [
+        "Daria",
+        "Ich ergänze meine Packliste: vor dem Losgehen den Inhalt der Tasche prüfen.",
+        "هكمل قايمة تجهيز شنطتي: أراجع اللي في الشنطة قبل ما أمشي."
+      ],
+      [
+        "Noel",
+        "Das ist eine Erinnerung für später, keine Bestätigung, dass du das Etui jetzt hast.",
+        "ده تذكير لبعدين مش تأكيد إن الجراب معاكي دلوقتي."
+      ]
+    ],
+    "q": [
+      [
+        "Was hat Noel nicht gemacht?",
+        "Das Etui geöffnet.",
+        "Zu Hause nachgesehen.",
+        "Den Standort genannt."
+      ],
+      [
+        "Was antwortet Daria auf das Angebot, es zu bringen?",
+        "Sie lehnt es ab.",
+        "Sie bestellt sofort eine Fahrt.",
+        "Sie nennt eine Übergabezeit."
+      ],
+      [
+        "Was ist der neue Listeneintrag?",
+        "Eine Erinnerung für später.",
+        "Eine erledigte Übergabe.",
+        "Eine bezahlte Bestellung."
+      ]
+    ]
+  },
+  {
+    "id": "hoeflich-ist-kein-materialtest",
+    "level": "B1",
+    "title": [
+      "Sprache und Sache trennen",
+      "نفصل اللغة عن المعلومة"
+    ],
+    "lines": [
+      [
+        "Erik",
+        "In meinem Beispielsatz bitte ich um Essstäbchen und frage gleichzeitig nach dem Material.",
+        "في جملة المثال بتاعتي بطلب عيدان أكل وبسأل في نفس الوقت عن الخامة."
+      ],
+      [
+        "Iman",
+        "Trennen wir die Anliegen. Erst die klare Bitte, dann bei Bedarf die zusätzliche Frage.",
+        "نفصل النقطتين. الأول الطلب الواضح وبعده السؤال الزيادة لو محتاجينه."
+      ],
+      [
+        "Erik",
+        "Eine höfliche Bitte sagt aber noch nichts über das tatsächliche Material.",
+        "بس الطلب المؤدب لسه مابيقولش حاجة عن الخامة الفعلية."
+      ],
+      [
+        "Iman",
+        "Genau. Wir bewerten hier Verständlichkeit und Höflichkeit, nicht die Gegenstände.",
+        "بالظبط. هنا بنقيم سهولة الفهم والأدب مش الحاجات نفسها."
+      ],
+      [
+        "Erik",
+        "Also keine Spalte für Hygiene oder Umweltwirkung ohne Prüfung.",
+        "يبقى مفيش عمود للنضافة أو التأثير البيئي من غير فحص."
+      ],
+      [
+        "Iman",
+        "Ich speichere die überarbeiteten Sätze als Übungsversionen.",
+        "هحفظ الجمل بعد التعديل كنسخ تدريب."
+      ],
+      [
+        "Erik",
+        "Damit haben wir nichts bestellt und keine Verfügbarkeit bestätigt.",
+        "كده ماطلبناش حاجة ومأكدناش إن حاجة متاحة."
+      ]
+    ],
+    "q": [
+      [
+        "Was soll zuerst kommen?",
+        "Die klare Bitte.",
+        "Ein erfundener Testbericht.",
+        "Eine bestätigte Lieferung."
+      ],
+      [
+        "Was bewerten sie?",
+        "Verständlichkeit und Höflichkeit.",
+        "Das tatsächliche Material.",
+        "Die Hygiene des Cafés."
+      ],
+      [
+        "Was wird durch das Speichern nicht bestätigt?",
+        "Die Verfügbarkeit.",
+        "Dass Übungssätze gespeichert werden.",
+        "Dass Iman Sätze überarbeitet."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "zum-saft-oder-zum-essen": [
+    "Für meinen Saft.",
+    "auf meine Karte.",
+    "Das übe ich erst mit dir."
+  ],
+  "kein-weg-wegen-des-etuis": [
+    "Ich habe es nicht geöffnet.",
+    "Nein, du brauchst es nicht zu bringen.",
+    "eine Erinnerung für später"
+  ],
+  "hoeflich-ist-kein-materialtest": [
+    "Erst die klare Bitte",
+    "Wir bewerten hier Verständlichkeit und Höflichkeit",
+    "keine Verfügbarkeit bestätigt."
+  ]
+});

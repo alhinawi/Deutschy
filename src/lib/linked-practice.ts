@@ -186,4 +186,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-die-bilder-im-album',dialogue:'links-die-glocke'},
  {reading:'alltag-a2-erst-ordnen-dann-vorlesen',dialogue:'danach-ist-keine-uhrzeit'},
  {reading:'alltag-b1-wortetikett-und-stueckzahl',dialogue:'singular-als-worteintrag'},
+ {reading:'alltag-a1-das-falsche-wort-am-tisch',dialogue:'zum-saft-oder-zum-essen'},
+ {reading:'alltag-a2-das-etui-bleibt-zu-hause',dialogue:'kein-weg-wegen-des-etuis'},
+ {reading:'alltag-b1-zwei-versionen-einer-frage',dialogue:'hoeflich-ist-kein-materialtest'},
 ];

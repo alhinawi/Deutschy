@@ -499,6 +499,10 @@
   {
    "id": "bildregister",
    "ar": "جرس وحامل شمع"
+  },
+  {
+   "id": "tischbitten",
+   "ar": "شفّاطة شرب وعود أكل"
   }
  ],
  "words": [
@@ -12850,6 +12854,36 @@
     "file": "5644687.jpg",
     "commons": "https://www.pexels.com/photo/golden-candle-holders-with-white-candles-on-green-wooden-drawer-5644687/",
     "author": "Polina ⠀",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "trinkhalm",
+   "topic": "tischbitten",
+   "art": "der",
+   "de": "Trinkhalm",
+   "plural": "Trinkhalme",
+   "ar": "شفّاطة شرب",
+   "photo": {
+    "file": "8128845.jpg",
+    "commons": "https://www.pexels.com/photo/steel-straw-and-cleaning-tool-on-white-background-8128845/",
+    "author": "Julia Filirovska",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "essstaebchen",
+   "topic": "tischbitten",
+   "art": "das",
+   "de": "Essstäbchen",
+   "plural": "-",
+   "ar": "عود أكل",
+   "photo": {
+    "file": "38643105.jpg",
+    "commons": "https://www.pexels.com/photo/minimalist-dining-table-setting-with-chopsticks-38643105/",
+    "author": "FENG HE",
     "license": "Pexels License",
     "modified": true
    }
