@@ -231,4 +231,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zwei-bilder-zwei-raeume',dialogue:'kueche-oder-bad'},
  {reading:'alltag-a2-die-falsche-bildnummer',dialogue:'nur-die-nummern-tauschen'},
  {reading:'alltag-b1-ein-bild-ist-kein-funktionstest',dialogue:'wo-ist-der-test'},
+ {reading:'alltag-a1-eine-beere-viele-beeren',dialogue:'das-zweite-e'},
+ {reading:'alltag-a2-der-rezeptvorschlag',dialogue:'das-fragezeichen-bleibt'},
+ {reading:'alltag-b1-zwei-namen-ein-eintrag',dialogue:'namen-oder-fruechte-zaehlen'},
 ];
