@@ -23638,3 +23638,218 @@ Object.assign(dialogueEvidence,{
     "Über den Selbstvergleich der Korrekturen müssen wir noch sprechen."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "wortform-und-bildmenge",
+    "level": "A1",
+    "title": [
+      "Die Einzahl ist kein Zählergebnis",
+      "المفرد مش نتيجة عد"
+    ],
+    "lines": [
+      [
+        "Paul",
+        "Hier sind viele Bohnen. Warum steht darunter die Kaffeebohne?",
+        "هنا حبات بن كتير. ليه مكتوب تحتها دي كافيه بونه؟"
+      ],
+      [
+        "Elena",
+        "Die Karte nennt das neue Wort in der Einzahl.",
+        "الكارت بيسمي الكلمة الجديدة مفرد."
+      ],
+      [
+        "Paul",
+        "Sie zählt also nicht die Bohnen auf dem Foto.",
+        "يبقى مش بيعد حبات البن في الصورة."
+      ],
+      [
+        "Elena",
+        "Genau. Die Mehrzahl schreiben wir daneben: Kaffeebohnen.",
+        "بالظبط. نكتب الجمع جنبها كافيه بونن."
+      ],
+      [
+        "Paul",
+        "Und bei Filtertüte heißt die Mehrzahl Filtertüten.",
+        "ومع فيلتر توته الجمع فيلتر توتن."
+      ],
+      [
+        "Elena",
+        "Auf dem Foto ist trotzdem nur eine Filtertüte zu sehen.",
+        "ومع كده في الصورة ظاهر ورقة فلتر واحدة بس."
+      ],
+      [
+        "Paul",
+        "Dann trenne ich Wortform und Bildmenge.",
+        "يبقى أفصل بين صيغة الكلمة والكمية في الصورة."
+      ]
+    ],
+    "q": [
+      [
+        "Was nennt die erste Kartenzeile?",
+        "Das Wort in der Einzahl.",
+        "Die Zahl aller Bohnen.",
+        "Den Preis der Fotos."
+      ],
+      [
+        "Wie lautet die Mehrzahl von Kaffeebohne?",
+        "Kaffeebohnen.",
+        "Kaffeebohnes.",
+        "Kaffeeböhn."
+      ],
+      [
+        "Wie viele Filtertüten sieht man auf dem Foto?",
+        "Eine.",
+        "Drei.",
+        "Keine."
+      ]
+    ]
+  },
+  {
+    "id": "helles-papier-dunkler-inhalt",
+    "level": "A2",
+    "title": [
+      "Nicht Papier und Inhalt verwechseln",
+      "مانخلطش الورق بالمحتوى"
+    ],
+    "lines": [
+      [
+        "Anton",
+        "Ich habe geschrieben: Die Filtertüte ist dunkelbraun.",
+        "كتبت إن ورقة الفلتر بني غامق."
+      ],
+      [
+        "Meral",
+        "Meinst du das Papier oder den Inhalt in der Mitte?",
+        "تقصد الورق ولا المحتوى في النص؟"
+      ],
+      [
+        "Anton",
+        "Den Inhalt. Am Rand ist das Papier heller.",
+        "المحتوى. عند الحافة الورق أفتح."
+      ],
+      [
+        "Meral",
+        "Dann beschreiben wir beides getrennt.",
+        "يبقى نوصف الاتنين منفصلين."
+      ],
+      [
+        "Anton",
+        "Am Übergang sehe ich auch dunklere Stellen im Papier.",
+        "عند الحد بين الاتنين شايف أماكن أغمق في الورق كمان."
+      ],
+      [
+        "Meral",
+        "Gut. Eine genaue Temperatur können wir am Foto nicht ablesen.",
+        "تمام. مش نقدر نقرا حرارة دقيقة من الصورة."
+      ],
+      [
+        "Anton",
+        "Unsere Aufgabe ist nur die Bildbeschreibung.",
+        "المهمة بتاعتنا وصف الصورة بس."
+      ]
+    ],
+    "q": [
+      [
+        "Was ist in der Mitte dunkel?",
+        "Der Inhalt.",
+        "Ein Schriftzug.",
+        "Eine leere Wortkarte."
+      ],
+      [
+        "Was wollen sie getrennt beschreiben?",
+        "Papier und Inhalt.",
+        "Zwei Rezepte.",
+        "Zwei echte Bestellungen."
+      ],
+      [
+        "Was können sie nicht ablesen?",
+        "Eine genaue Temperatur.",
+        "Die sichtbaren Falten.",
+        "Den dunkleren Übergang."
+      ]
+    ]
+  },
+  {
+    "id": "was-zeigt-dieser-ausschnitt",
+    "level": "B1",
+    "title": [
+      "Die Bildgrenze ist keine Gegenstandsgrenze",
+      "حد الصورة مش حد الحاجة"
+    ],
+    "lines": [
+      [
+        "Ruben",
+        "Im engen Ausschnitt sehe ich fast nur die dunkle Mitte.",
+        "في القصة الضيقة شايف النص الغامق تقريبًا بس."
+      ],
+      [
+        "Aylin",
+        "Der helle Rand ist weitgehend abgeschnitten.",
+        "معظم الحافة الفاتحة مقصوصة."
+      ],
+      [
+        "Ruben",
+        "Das heißt aber nicht, dass das Papier vorher nicht da war.",
+        "بس ده مش معناه إن الورق ماكانش موجود قبل كده."
+      ],
+      [
+        "Aylin",
+        "Genau. Die verfügbare Bildinformation hat sich verändert.",
+        "بالظبط. معلومات الصورة المتاحة اتغيرت."
+      ],
+      [
+        "Ruben",
+        "Für Angaben zum Rand zeigen wir auch die weitere Ansicht.",
+        "للمعلومات عن الحافة نعرض النسخة الأوسع كمان."
+      ],
+      [
+        "Aylin",
+        "Und ein Bohnenausschnitt zeigt nicht die Gesamtzahl außerhalb des Bildes.",
+        "وجزء من صورة البن مش بيبين العدد الكلي برا الصورة."
+      ],
+      [
+        "Ruben",
+        "Eine tatsächliche Zählung haben wir hier nicht durchgeführt.",
+        "إحنا ماعملناش عد فعلي هنا."
+      ]
+    ],
+    "q": [
+      [
+        "Was hat sich verändert?",
+        "Die verfügbare Bildinformation.",
+        "Nachweislich der echte Gegenstand.",
+        "Die Bedeutung von Kaffeebohne."
+      ],
+      [
+        "Was zeigen sie bei Angaben zum Rand ebenfalls?",
+        "Die weitere Ansicht.",
+        "Eine erfundene Gesamtzahl.",
+        "Eine Temperaturanzeige."
+      ],
+      [
+        "Was haben sie nicht durchgeführt?",
+        "Eine tatsächliche Zählung.",
+        "Das Ansehen zweier Ausschnitte.",
+        "Das Besprechen des Randes."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "wortform-und-bildmenge": [
+    "Die Karte nennt das neue Wort in der Einzahl.",
+    "Kaffeebohnen.",
+    "nur eine Filtertüte zu sehen."
+  ],
+  "helles-papier-dunkler-inhalt": [
+    "Den Inhalt.",
+    "Dann beschreiben wir beides getrennt.",
+    "Eine genaue Temperatur können wir am Foto nicht ablesen."
+  ],
+  "was-zeigt-dieser-ausschnitt": [
+    "Die verfügbare Bildinformation hat sich verändert.",
+    "zeigen wir auch die weitere Ansicht.",
+    "Eine tatsächliche Zählung haben wir hier nicht durchgeführt."
+  ]
+});

@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-twenty-eighth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-twenty-ninth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1366,9 +1366,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Shared MiniQuiz completion score | Localized polite atomic status.16statechecks8mixedanswers8axe AR/EN320/390.1/2score5XP; newround/close/reopen no stale result/noextraXP. All changed grammar banks also tested to completion. |
 | [ ] | Listening/dictation |66originalsegments264exactGerman speech/source/answer checks. Native editorial and actual-device voice pending. Practice levels not certification; progress local. |
 
+### List 129: Paper coffee filters and coffee beans
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-einzahl-unter-vielen-bohnen/` and linked dialogue | Elena/Paul separate dictionary-style singular label from visible quantity. Many beans can have a singular word label; one visible filter can have plural form on wordcard. Plural+n for both. No actual objects used. |
+| [ ] | `/reading/alltag-a2-papier-und-inhalt-trennen/` and linked dialogue | Meral/Anton distinguish light paper and dark contents, noting darker transition areas. No claim all paper uniformly clean. No exact grind/temperature/taste inferred. Photos only, no actual preparation. |
+| [ ] | `/reading/alltag-b1-ausschnitt-und-beleg/` and linked dialogue | Ruben/Aylin distinguish missing visible edge from vanished object. Wider view or explicit provenance for extra facts. A crop cannot establish total beans outside image. No actual counting or automated image check performed. |
+| [ ] | `/lessons/kaffeebilder/` and `/credits/` | die Filtertüte/Filtertüten (ورقة فلتر قهوة), die Kaffeebohne/Kaffeebohnen (حبة بن). FullDWDS/Duden forms. Cihan Yüce30349812filter1800x2700crop0,350-1800,1700; Robert Śliwiński37073348beans1800x1200crop100,0-1700,1200. Both800x600,no padding/stretch/person/brand. Actual390AR/ENcards inspected. |
+| [ ] | Six appended grammar banks |24article/dative/present/possessive/two-way/negation rows retain earlier saved identities. Native German/Egyptian examples/explanations pending. |
+| [ ] | Shared MiniQuiz question counter | Localized LTR polite atomic status.40statechecks8mixedanswers16axe AR/EN320/390.1/2..2/2, absent on result, newround/reopen1/2. Mixed1/2score5XP; no stale result/noextraXP. Actual390counter/feedback screens inspected. |
+| [ ] | Listening/dictation |63originalsegments252exactGerman speech/source/answer checks. Native editorial and actual-device voice pending. Practice grouping not certification; progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **913 photo nouns / 173 topics**, **402 reading texts / 1561 reading questions**, **41 core grammar topics / 3022 core grammar questions**, **342 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **915 photo nouns / 174 topics**, **405 reading texts / 1573 reading questions**, **41 core grammar topics / 3046 core grammar questions**, **345 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1380,7 +1392,7 @@ This is an inventory, not completed review. Snapshot: **913 photo nouns / 173 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 116 · A2 144 · B1 112 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 117 · A2 145 · B1 113 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

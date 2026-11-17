@@ -2321,3 +2321,24 @@ Object.assign(readingEvidence,{
     "Leila und Jonas haben sie zur Prüfung ihres Bogens erfunden."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-einzahl-unter-vielen-bohnen": [
+    "Das zweite zeigt viele braune Kaffeebohnen.",
+    "Die Karte nennt also ein Wort in der Einzahl.",
+    "darunter die Filtertüten.",
+    "Die Karten zeigen die Wortformen."
+  ],
+  "alltag-a2-papier-und-inhalt-trennen": [
+    "Anton zeigt auf die dunkle Mitte.",
+    "Dort ist das helle Papier mit seinen Falten sichtbar.",
+    "Über einen genauen Mahlgrad, die Temperatur oder den Geschmack können sie aus diesen Bildern nichts Sicheres sagen.",
+    "ihre Aufgabe betrifft ausschließlich die Fotos."
+  ],
+  "alltag-b1-ausschnitt-und-beleg": [
+    "Im engen Ausschnitt ist dieser Rand weitgehend abgeschnitten.",
+    "Das Papier ist dadurch nicht aus der ursprünglichen Situation verschwunden.",
+    "müssen sie die weitere Ansicht ebenfalls zeigen oder die Herkunft dieser Zusatzinformation ausdrücklich nennen.",
+    "Eine automatische Bildprüfung oder tatsächliche Zählung führen sie in der beschriebenen Situation nicht durch."
+  ]
+});
