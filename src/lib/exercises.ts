@@ -414,3 +414,6 @@ for(const[topic,rows]of Object.entries(lesestellenGrammar))exercises[topic].push
 
 import {tischaufgabenGrammar} from './exercises-tischaufgaben';
 for(const[topic,rows]of Object.entries(tischaufgabenGrammar))exercises[topic].push(...rows);
+
+import {mengenangabenGrammar} from './exercises-mengenangaben';
+for(const[topic,rows]of Object.entries(mengenangabenGrammar))exercises[topic].push(...rows);

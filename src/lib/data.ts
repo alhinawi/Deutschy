@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  mengenangaben: 'Messlöffel und Küchenwaage',
   tischaufgaben: 'Teigschaber und Platzdeckchen',
   lesestellen: 'Lesezeichen und Scharnier',
   tischbitten: 'Trinkhalm und Essstäbchen',
@@ -125,6 +126,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  mengenangaben: 'Measuring spoon and kitchen scale',
   tischaufgaben: 'Dough scraper and placemat',
   lesestellen: 'Bookmark and hinge',
   tischbitten: 'Drinking straw and chopstick',

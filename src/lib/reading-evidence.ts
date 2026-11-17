@@ -1376,3 +1376,24 @@ Object.assign(readingEvidence,{
     "Wer später die Backgeräte spült"
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-welches-geraet-zuerst": [
+    "Er hält zuerst einen Esslöffel hoch.",
+    "Sie stellt sie neben das Tablett, nicht darauf.",
+    "Unter Messlöffel notiert er den Artikel der. Unter Küchenwaage schreibt er die.",
+    "Sie füllen noch nichts in den Löffel und wiegen keine Zutat ab."
+  ],
+  "alltag-a2-das-leere-messfeld": [
+    "Die Zahl auf der Rezeptkarte ist eine Vorgabe, aber noch kein Ergebnis ihres heutigen Versuchs.",
+    "Sie tragen deshalb keine Umrechnung ein.",
+    "Als es an der Tür klingelt, unterbrechen sie die Vorbereitung.",
+    "Das Ergebnisfeld bleibt leer und bekommt keinen Haken."
+  ],
+  "alltag-b1-zahl-mit-einheit": [
+    "Ohne Einheit, Zutat und Herkunft der Notiz",
+    "nur als Anschauung für ihre sprachliche Erklärung.",
+    "übernehmen sie genau diese Unsicherheit als offene Rückfrage.",
+    "bestätigt aber weder die Richtigkeit der alten Mengen"
+  ]
+});

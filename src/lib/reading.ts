@@ -252,3 +252,6 @@ readings.push(...lesestellenTexts);
 
 import {tischaufgabenTexts} from './reading-tischaufgaben';
 readings.push(...tischaufgabenTexts);
+
+import {mengenangabenTexts} from './reading-mengenangaben';
+readings.push(...mengenangabenTexts);

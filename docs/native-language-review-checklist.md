@@ -826,9 +826,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Keyboard spelling confirmation | Check submit now explicit offset focus ring. AR/EN390 actual keyboard-focused pixels inspected. Grading/state/XP unchanged. Existing44px navigation/results, topic/input/progress/linking states remain covered. |
 | [ ] | Listening/dictation |63 original segments/Egyptian Arabic. Native editorial and actual-device voice pending. All characters/tasks fictional. No actual message, packing arrangement or household commitment. |
 
+### List 84: quantity wording, targets and missing results
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-welches-geraet-zuerst/` and linked dialogue | Original kitchen preparation: Tarek initially holds normal spoon, Leni identifies smaller measuring spoon by amount marking. Spoon on tray, scale beside not on tray, scale stays off. Article notes and recipe card compared only; nothing filled/weighed. |
+| [ ] | `/reading/alltag-a2-das-leere-messfeld/` and linked dialogue | Copied old flour-weight target is planned work, not today's measured result. No spoon-to-weight equivalence inferred. Tools still unused when doorbell interrupts; result field blank/no check. Later weighing planned, not done; no physical-volume question answered. |
+| [ ] | `/reading/alltag-b1-zahl-mit-einheit/` and linked dialogue | Preserve original wording/unit/ingredient/source in private recipe transcription. Weight versus spoon wording not automatically comparable. Devices for language explanation only, no actual measurement or fixed conversion. Missing detail retained as open question; neat layout not recipe validation/successful cooking. Authors not yet asked/answers absent. |
+| [ ] | `/lessons/mengenangaben/` and `/credits/` | der Messlöffel/- and die Küchenwaage/Küchenwaagen. معلقة معيارية and ميزان مطبخ. Whole four measuring spoons, unbranded crop; whole digital scale with sugar, no legible number. Real faceless800x600 crops, no padding. No numerical/accuracy/capacity/conversion claim from photos. |
+| [ ] | Six appended grammar banks |24 article/accusative/perfect/modal/two-way-preposition/connector rows, old IDs retained. notiert/gelesen/unterbrochen/übernommen; darfst/will/müssen/könnt; neben dem/das Tablett and in der/die Mappe; weil/während/obwohl/damit. |
+| [ ] | Keyboard game navigation | Game-back focus ring now has offset gap, actual AR/EN390 focused pixels inspected. Existing44px target/input/topic/result/progress/submit states and grading/XP unchanged. |
+| [ ] | Listening/dictation |63 original segments/Egyptian Arabic. Native editorial and actual-device voice pending. No actual recipe advice, conversion, measurement, external message or commitment. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **823 photo nouns / 128 topics**, **267 reading texts / 1021 reading questions**, **41 core grammar topics / 1942 core grammar questions**, **207 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **825 photo nouns / 129 topics**, **270 reading texts / 1033 reading questions**, **41 core grammar topics / 1966 core grammar questions**, **210 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -840,7 +852,7 @@ This is an inventory, not completed review. Snapshot: **823 photo nouns / 128 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 71 · A2 99 · B1 67 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 72 · A2 100 · B1 68 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

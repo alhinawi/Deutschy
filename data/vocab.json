@@ -511,6 +511,10 @@
   {
    "id": "tischaufgaben",
    "ar": "كاشطة عجين ومفرش فردي"
+  },
+  {
+   "id": "mengenangaben",
+   "ar": "معلقة معيارية وميزان مطبخ"
   }
  ],
  "words": [
@@ -12952,6 +12956,36 @@
     "file": "4554335.jpg",
     "commons": "https://www.pexels.com/photo/brown-woven-mat-on-white-background-4554335/",
     "author": "Engin Akyurt",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "messloeffel",
+   "topic": "mengenangaben",
+   "art": "der",
+   "de": "Messlöffel",
+   "plural": "-",
+   "ar": "معلقة معيارية",
+   "photo": {
+    "file": "9737802.jpg",
+    "commons": "https://www.pexels.com/photo/measuring-spoons-beside-flour-9737802/",
+    "author": "Hannah Grapp",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "kuechenwaage",
+   "topic": "mengenangaben",
+   "art": "die",
+   "de": "Küchenwaage",
+   "plural": "Küchenwaagen",
+   "ar": "ميزان مطبخ",
+   "photo": {
+    "file": "6303718.jpg",
+    "commons": "https://www.pexels.com/photo/electronic-scales-with-heap-of-sugar-6303718/",
+    "author": "Klaus Nielsen",
     "license": "Pexels License",
     "modified": true
    }

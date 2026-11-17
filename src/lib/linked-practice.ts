@@ -195,4 +195,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-nicht-der-pinsel',dialogue:'das-andere-schwarze-geraet'},
  {reading:'alltag-a2-nur-die-deckchen-zaehlen',dialogue:'zaehlen-ist-nicht-einpacken'},
  {reading:'alltag-b1-was-heisst-tisch-vorbereiten',dialogue:'vier-deckchen-mehr-nicht'},
+ {reading:'alltag-a1-welches-geraet-zuerst',dialogue:'der-loeffel-mit-der-angabe'},
+ {reading:'alltag-a2-das-leere-messfeld',dialogue:'nicht-als-ergebnis-abschreiben'},
+ {reading:'alltag-b1-zahl-mit-einheit',dialogue:'die-einheit-bleibt-dabei'},
 ];

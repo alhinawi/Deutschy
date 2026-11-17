@@ -13963,3 +13963,218 @@ Object.assign(dialogueEvidence,{
     "Das besprechen wir im Anschluss."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "der-loeffel-mit-der-angabe",
+    "level": "A1",
+    "title": [
+      "Der Löffel mit der Angabe",
+      "المعلقة اللي عليها بيان"
+    ],
+    "lines": [
+      [
+        "Tarek",
+        "Brauchst du diesen Esslöffel?",
+        "محتاجة معلقة الأكل دي؟"
+      ],
+      [
+        "Leni",
+        "Nein, bitte den kleineren Messlöffel mit der Mengenangabe am Griff.",
+        "لأ، المعلقة المعيارية الأصغر اللي على إيدها بيان كمية لو سمحت."
+      ],
+      [
+        "Tarek",
+        "Gut. Ich lege ihn auf das saubere Tablett.",
+        "تمام. هحطها على الصينية النضيفة."
+      ],
+      [
+        "Leni",
+        "Die Küchenwaage stelle ich daneben. Sie bleibt noch aus.",
+        "هحط ميزان المطبخ جنبها. هيفضل مطفي دلوقتي."
+      ],
+      [
+        "Tarek",
+        "Ich notiere der Messlöffel und die Küchenwaage.",
+        "هكتب المعلقة المعيارية بأداة التعريف المذكر وميزان المطبخ بأداة التعريف المؤنث بالألماني."
+      ],
+      [
+        "Leni",
+        "Heute vergleichen wir erst einmal nur die Wörter und Geräte.",
+        "النهارده الأول نقارن الكلمات والأدوات بس."
+      ],
+      [
+        "Tarek",
+        "Also noch nichts abwiegen und den Löffel nicht füllen.",
+        "يبقى لسه مانوزنش حاجة ولانملأ المعلقة."
+      ]
+    ],
+    "q": [
+      [
+        "Welchen Löffel meint Leni?",
+        "Den kleineren mit der Mengenangabe.",
+        "Den normalen Esslöffel ohne weitere Angabe.",
+        "Einen bereits gefüllten Suppenlöffel."
+      ],
+      [
+        "Wie bleibt die Küchenwaage zunächst?",
+        "Ausgeschaltet.",
+        "Mit Teig gefüllt.",
+        "Im geschlossenen Rucksack."
+      ],
+      [
+        "Worauf beschränken sie sich heute zunächst?",
+        "Auf Wörter und Geräte.",
+        "Auf bestätigte Messergebnisse.",
+        "Auf einen Einkauf im Geschäft."
+      ]
+    ]
+  },
+  {
+    "id": "nicht-als-ergebnis-abschreiben",
+    "level": "A2",
+    "title": [
+      "Nicht als Ergebnis abschreiben",
+      "مش ننقله كأنه نتيجة"
+    ],
+    "lines": [
+      [
+        "Jonas",
+        "Auf der alten Karte steht eine Zahl für das Mehl. Ich schreibe sie ins Ergebnisfeld.",
+        "على الكارت القديم رقم للدقيق. هكتبه في خانة النتيجة."
+      ],
+      [
+        "Paula",
+        "Warte bitte. Das ist die Vorgabe, noch keine Messung von heute.",
+        "استنى لو سمحت. دي القيمة المطلوبة مش قياس من النهارده."
+      ],
+      [
+        "Jonas",
+        "Und entspricht ein voller Messlöffel dieser Menge?",
+        "ومعلقة معيارية مليانة تساوي الكمية دي؟"
+      ],
+      [
+        "Paula",
+        "Das wissen wir daraus nicht. Wir tragen keine Umrechnung ein.",
+        "مانعرفش ده من الكلام ده. مش هنسجل تحويل وحدات."
+      ],
+      [
+        "Jonas",
+        "Dann legen wir später das Mehl auf die Küchenwaage.",
+        "يبقى نحط الدقيق على ميزان المطبخ بعدين."
+      ],
+      [
+        "Paula",
+        "Genau. Jetzt klingelt es. Das Ergebnisfeld bleibt erst einmal leer.",
+        "بالظبط. دلوقتي الجرس بيرن. خانة النتيجة تفضل فاضية دلوقتي."
+      ],
+      [
+        "Jonas",
+        "Ich stelle die Geräte unbenutzt beiseite.",
+        "هحط الأدوات على جنب من غير ما نستخدمها."
+      ]
+    ],
+    "q": [
+      [
+        "Was korrigiert Paula?",
+        "Die Einordnung der alten Zahl als heutiges Ergebnis.",
+        "Ein tatsächlich gemessenes Gewicht.",
+        "Die Schreibweise ihres eigenen Namens."
+      ],
+      [
+        "Was wissen sie über die Gleichheit der Mengen?",
+        "Sie ist aus diesen Angaben nicht bekannt.",
+        "Sie ist durch ihren Versuch bestätigt.",
+        "Sie gilt sicher für jeden Messlöffel."
+      ],
+      [
+        "Was ist die spätere Messung am Ende?",
+        "Geplant, aber noch nicht erfolgt.",
+        "Bereits vollständig abgeschlossen.",
+        "Durch einen Haken bestätigt."
+      ]
+    ]
+  },
+  {
+    "id": "die-einheit-bleibt-dabei",
+    "level": "B1",
+    "title": [
+      "Die Einheit bleibt dabei",
+      "الوحدة تفضل مع الرقم"
+    ],
+    "lines": [
+      [
+        "Cem",
+        "Ich könnte alle Zahlen allein in diese Spalte schreiben.",
+        "ممكن أكتب كل الأرقام لوحدها في العمود ده."
+      ],
+      [
+        "Alina",
+        "Bitte nicht ohne Einheit, Zutat und Herkunft. Sonst werden unterschiedliche Angaben scheinbar vergleichbar.",
+        "بلاش من غير وحدة ومكون ومصدر لو سمحت. وإلا بيانات مختلفة ممكن تبان قابلة للمقارنة."
+      ],
+      [
+        "Cem",
+        "Die Küchenwaage und der Messlöffel helfen uns also nur beim Erklären?",
+        "يبقى الميزان والمعلقة المعيارية بيساعدونا في الشرح بس؟"
+      ],
+      [
+        "Alina",
+        "Ja, wir messen heute nichts und behaupten keine feste Umrechnung.",
+        "أيوه، مش بنقيس النهارده ومش بندعي تحويل ثابت."
+      ],
+      [
+        "Cem",
+        "Wo nur Löffel steht, lasse ich die fehlende Erklärung offen.",
+        "المكان اللي مكتوب فيه معالق بس هسيب التوضيح الناقص مفتوح."
+      ],
+      [
+        "Alina",
+        "Genau. Eine schönere Abschrift ist noch keine geprüfte Anleitung.",
+        "بالظبط. نسخة منقولة شكلها أحلى لسه مش تعليمات متراجعة ومؤكدة."
+      ],
+      [
+        "Cem",
+        "Wir wollen später nachfragen. Antworten haben wir noch nicht.",
+        "ناويين نسأل بعدين. لسه ماعندناش ردود."
+      ]
+    ],
+    "q": [
+      [
+        "Was soll bei den Zahlen bleiben?",
+        "Einheit, Zutat und Herkunft.",
+        "Nur eine dekorative Farbe.",
+        "Eine erfundene Bestätigung."
+      ],
+      [
+        "Welche Behauptung vermeiden sie?",
+        "Eine feste Umrechnung zwischen den Angaben.",
+        "Dass Fragen noch offen sind.",
+        "Dass die Abschrift lesbarer werden soll."
+      ],
+      [
+        "Was liegt am Ende noch nicht vor?",
+        "Antworten auf ihre geplanten Rückfragen.",
+        "Die alten Notizen.",
+        "Die beiden Anschauungsgeräte."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "der-loeffel-mit-der-angabe": [
+    "mit der Mengenangabe am Griff.",
+    "Sie bleibt noch aus.",
+    "nur die Wörter und Geräte."
+  ],
+  "nicht-als-ergebnis-abschreiben": [
+    "noch keine Messung von heute.",
+    "Das wissen wir daraus nicht.",
+    "bleibt erst einmal leer."
+  ],
+  "die-einheit-bleibt-dabei": [
+    "nicht ohne Einheit, Zutat und Herkunft.",
+    "behaupten keine feste Umrechnung.",
+    "Antworten haben wir noch nicht."
+  ]
+});

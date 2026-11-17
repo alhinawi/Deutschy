@@ -21,7 +21,7 @@ export default function GameRunner({ game }: { game: string }) {
   return (
     <div className="space-y-6">
       <div className="flex flex-wrap items-center justify-between gap-3">
-        <Link href="/games/" className="inline-flex min-h-11 items-center rounded-lg px-2 text-sm text-muted hover:text-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent">← {t('الألعاب', 'Games')}</Link>
+        <Link href="/games/" className="inline-flex min-h-11 items-center rounded-lg px-2 text-sm text-muted hover:text-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2">← {t('الألعاب', 'Games')}</Link>
         <label className="block max-w-full text-sm text-muted">
           {t('الموضوع', 'Topic')}{' '}
           <select className="min-h-11 max-w-full rounded-lg border border-line bg-card px-2 py-1 text-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent" value={topic ?? ''} onChange={(e) => { setTopic(e.target.value || null); setRound((r) => r + 1); }}>
