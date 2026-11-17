@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-fourth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-fifth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1078,9 +1078,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Dialogue line audio buttons |Themed keyboard ring/page-ground gap on existing44px controls. All3 new dialogues AR/EN320/390,12 keyboard/axe states, Enter/Space exact first-line German de-DE payload, no XP mutation. No playback/answer/scoring logic change. |
 | [ ] | Listening/dictation |66 original segments,264 exact German payload/source/answer checks. Human editorial/real-device voice review pending; level labels not proficiency claims. |
 
+### List 105: Garden compounds and filenames versus evidence
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zwei-gartenbilder/` and linked dialogue | Ida/Nabil green shears held over leaves versus silver trowel/brown handle on wood, soil/leaves/chain. Both feminine and plural-n. Names and descriptions only; no actual gardening or tool instructions. |
+| [ ] | `/reading/alltag-a2-das-letzte-wort-im-kompositum/` and linked dialogue | Rana/Jonas split Garten+Schere/Garten+Schaufel; last part distinguishes these two examples. Whole-word article and separate plural line, pause/reread. No all-compounds rule, universal method or claim about tomorrow's recall. |
+| [ ] | `/reading/alltag-b1-dateiname-und-bildinhalt/` and linked dialogue | Mira/Oskar fictional exercise filename Werkzeug-fertig not proof of completed work or sequence. Separate search identifier from visible image content; source/time/same garden/person remain unknown. No invented provenance or instructions. |
+| [ ] | `/lessons/gartenbilder/` and `/credits/` | die Gartenschere/Gartenscheren (مقص جنينة), die Gartenschaufel/Gartenschaufeln (جاروف جنينة صغير), precise noun for small trowel. DWDS forms. Tamara Elnova12142540 1800x1186 crop109,0-1690,1186; gryffyn m5397724 1800x2700 rotated90 then480,0-2700,1665. Both800x600 whole tools, hands only/no face/brand/padding/stretch. Material stamp on trowel not a brand. Pink branded shears rejected. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way/negation rows. Earlier saved IDs/fixtures unchanged. dem/der/den/dem, tauscht/kennst/stockt/trennen, ihre/seinen/ihre/unsere, auf dem/das Holz, in dem/das Feld, kein/keinen/keine/nicht. |
+| [ ] | Dialogue retry button |44px minimum and keyboard ring with card-ground gap on result retry. All3 new dialogues AR/EN320/390,12 result-state axe and Enter/Space resets without extra XP. Actual390AR/EN pixels inspected. No answer/scoring/playback logic change. |
+| [ ] | Listening/dictation |68 original segments,272 exact German payload/source/answer checks. Human editorial and real-device voice review pending. Level labels not proficiency certification; progress is device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **865 photo nouns / 149 topics**, **330 reading texts / 1273 reading questions**, **41 core grammar topics / 2446 core grammar questions**, **270 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **867 photo nouns / 150 topics**, **333 reading texts / 1285 reading questions**, **41 core grammar topics / 2470 core grammar questions**, **273 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1092,7 +1104,7 @@ This is an inventory, not completed review. Snapshot: **865 photo nouns / 149 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 92 · A2 120 · B1 88 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 93 · A2 121 · B1 89 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

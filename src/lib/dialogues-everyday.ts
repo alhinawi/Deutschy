@@ -18478,3 +18478,218 @@ Object.assign(dialogueEvidence,{
     "ersetzt keine Sicherheitskontrolle."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "gehalten-oder-hingelegt",
+    "level": "A1",
+    "title": [
+      "Gehalten oder hingelegt?",
+      "ممسوك ولا محطوط؟"
+    ],
+    "lines": [
+      [
+        "Nabil",
+        "Welche Wortkarte gehört zum ersten Bild?",
+        "أنهي كارت كلمة تبع الصورة الأولى؟"
+      ],
+      [
+        "Ida",
+        "Die Gartenschere. Auf dem Foto ist sie grün.",
+        "مقص الجنينة. في الصورة لونه أخضر."
+      ],
+      [
+        "Nabil",
+        "Und die kleine Schaufel auf dem Holz?",
+        "والجاروف الصغير اللي على الخشب؟"
+      ],
+      [
+        "Ida",
+        "Das ist die Gartenschaufel. Ihr Griff ist braun.",
+        "ده جاروف الجنينة الصغير. إيده بني."
+      ],
+      [
+        "Nabil",
+        "Die Gartenscheren, die Gartenschaufeln. Beide Mehrzahlen enden auf n.",
+        "دي جارتنشيرن ودي جارتنشاوفلن. الجمع في الاتنين بينتهي بنون."
+      ],
+      [
+        "Ida",
+        "Genau. Die Schere wird gehalten, die Schaufel liegt auf einer Fläche.",
+        "بالظبط. المقص ممسوك والجاروف على سطح."
+      ],
+      [
+        "Nabil",
+        "Dann schreibe ich diese Beobachtungen unter die Karten.",
+        "يبقى أكتب الملاحظات دي تحت الكروت."
+      ]
+    ],
+    "q": [
+      [
+        "Was liegt auf Holz?",
+        "Die Gartenschaufel.",
+        "Die Wortkarte auf dem ersten Foto.",
+        "Ein blauer Schuh."
+      ],
+      [
+        "Was ist auf dem ersten Bild grün?",
+        "Die Gartenschere.",
+        "Das Holz.",
+        "Die Kette."
+      ],
+      [
+        "Was schreibt Nabil unter die Karten?",
+        "Die Beobachtungen zu den Bildern.",
+        "Eine Einkaufsliste.",
+        "Eine Gartenanleitung."
+      ]
+    ]
+  },
+  {
+    "id": "zuerst-schere-und-schaufel",
+    "level": "A2",
+    "title": [
+      "Zuerst Schere und Schaufel",
+      "الأول مقص وجاروف"
+    ],
+    "lines": [
+      [
+        "Jonas",
+        "Garten kenne ich, aber die beiden langen Wörter verwechsle ich.",
+        "أنا عارف جارتن بس بلخبط بين الكلمتين الطويلين."
+      ],
+      [
+        "Rana",
+        "Lies zuerst die letzten Teile: Schere und Schaufel.",
+        "اقرا الأجزاء الأخيرة الأول: شيره وشاوفل."
+      ],
+      [
+        "Jonas",
+        "Jetzt kann ich sie mit den verschiedenen Formen verbinden.",
+        "دلوقتي أقدر أوصلهم بالأشكال المختلفة."
+      ],
+      [
+        "Rana",
+        "Schreib den Artikel neben das ganze Wort und die Mehrzahl in eine neue Zeile.",
+        "اكتب الأداة جنب الكلمة كلها والجمع في سطر جديد."
+      ],
+      [
+        "Jonas",
+        "Das hilft mir bei diesen zwei Beispielen.",
+        "ده بيساعدني في المثالين دول."
+      ],
+      [
+        "Rana",
+        "Sollen wir deshalb sofort jedes lange Wort so zerlegen?",
+        "يبقى نقسم كل كلمة طويلة بالطريقة دي فورًا؟"
+      ],
+      [
+        "Jonas",
+        "Lieber nicht. Beim nächsten Beispiel prüfe ich erst die sinnvolle Trennung.",
+        "بلاش. في المثال الجاي أبص الأول على التقسيم المناسب."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Teile liest Jonas zuerst?",
+        "Schere und Schaufel.",
+        "Nur Garten.",
+        "Die Namen der Personen."
+      ],
+      [
+        "Wohin gehört der Artikel in dieser Übung?",
+        "Neben das ganze Wort.",
+        "Nur neben die Mehrzahl.",
+        "In den Dateinamen."
+      ],
+      [
+        "Was will Jonas beim nächsten Beispiel zuerst prüfen?",
+        "Die sinnvolle Trennung.",
+        "Den Kaufpreis.",
+        "Die Uhrzeit des Fotos."
+      ]
+    ]
+  },
+  {
+    "id": "der-name-ist-kein-nachweis",
+    "level": "B1",
+    "title": [
+      "Der Name ist kein Nachweis",
+      "الاسم مش دليل"
+    ],
+    "lines": [
+      [
+        "Oskar",
+        "Die Datei heißt Werkzeug-fertig. Ist die Arbeit also abgeschlossen?",
+        "اسم الملف أداة-خلصت. يبقى الشغل خلص؟"
+      ],
+      [
+        "Mira",
+        "Das wissen wir nicht. Wer den Namen vergeben hat, ist uns nicht bekannt.",
+        "مانعرفش. إحنا مش عارفين مين سمى الملف."
+      ],
+      [
+        "Oskar",
+        "Dann trenne ich den Dateinamen von der Bildbeschreibung.",
+        "يبقى أفصل اسم الملف عن وصف الصورة."
+      ],
+      [
+        "Mira",
+        "Ja. Beschreibe die sichtbaren Hände, Werkzeuge und Blätter, keinen erfundenen Ablauf.",
+        "أيوه. اوصف الإيدين والأدوات وورق الشجر الظاهرين مش تسلسل متخيل."
+      ],
+      [
+        "Oskar",
+        "Den ursprünglichen Namen behalte ich nur zum Wiederfinden in einem eigenen Feld.",
+        "هسيب الاسم الأصلي عشان ألاقي الملف تاني بس في خانة لوحده."
+      ],
+      [
+        "Mira",
+        "Damit sind Herkunft und Aufnahmezeitpunkt aber noch nicht geklärt.",
+        "بس كده أصل الصور ووقت التصوير لسه ماتوضحوش."
+      ],
+      [
+        "Oskar",
+        "Richtig. Eine Ordnerbezeichnung ersetzt keinen Nachweis über den Bildinhalt.",
+        "صح. اسم في الفولدر مش بديل لدليل على محتوى الصورة."
+      ]
+    ],
+    "q": [
+      [
+        "Was trennt Oskar?",
+        "Dateinamen und Bildbeschreibung.",
+        "Die Werkzeuge von ihren Griffen.",
+        "Zwei gekaufte Pakete."
+      ],
+      [
+        "Was bleibt ungeklärt?",
+        "Herkunft und Aufnahmezeitpunkt.",
+        "Dass Hände sichtbar sind.",
+        "Dass die Datei einen Namen hat."
+      ],
+      [
+        "Wozu behält er den ursprünglichen Namen?",
+        "Zum Wiederfinden der Datei.",
+        "Als Beweis für abgeschlossene Arbeit.",
+        "Als Sicherheitsanleitung."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "gehalten-oder-hingelegt": [
+    "die kleine Schaufel auf dem Holz",
+    "Auf dem Foto ist sie grün.",
+    "diese Beobachtungen unter die Karten."
+  ],
+  "zuerst-schere-und-schaufel": [
+    "die letzten Teile: Schere und Schaufel.",
+    "den Artikel neben das ganze Wort",
+    "die sinnvolle Trennung."
+  ],
+  "der-name-ist-kein-nachweis": [
+    "trenne ich den Dateinamen von der Bildbeschreibung.",
+    "Herkunft und Aufnahmezeitpunkt aber noch nicht geklärt.",
+    "nur zum Wiederfinden"
+  ]
+});

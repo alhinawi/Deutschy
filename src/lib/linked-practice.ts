@@ -258,4 +258,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-farben-an-den-dingen',dialogue:'welcher-teil-ist-rosa'},
  {reading:'alltag-a2-darf-ich-das-notieren',dialogue:'nur-im-eigenen-heft'},
  {reading:'alltag-b1-sichtbar-ist-nicht-geprueft',dialogue:'keine-freigabe-durch-ein-foto'},
+ {reading:'alltag-a1-zwei-gartenbilder',dialogue:'gehalten-oder-hingelegt'},
+ {reading:'alltag-a2-das-letzte-wort-im-kompositum',dialogue:'zuerst-schere-und-schaufel'},
+ {reading:'alltag-b1-dateiname-und-bildinhalt',dialogue:'der-name-ist-kein-nachweis'},
 ];
