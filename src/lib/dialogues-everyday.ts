@@ -21273,3 +21273,218 @@ Object.assign(dialogueEvidence,{
     "Dann lasse ich das Antwortfeld offen"
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "die-karten-sind-vertauscht",
+    "level": "A1",
+    "title": [
+      "Die Karten sind vertauscht",
+      "الكروت متبدلة"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Hier liegt die Donutkarte neben dem ersten Foto.",
+        "هنا الكارت اللي عليه دير دونات جنب الصورة الأولى."
+      ],
+      [
+        "Karim",
+        "Auf dem ersten Foto sehen wir aber Muffins in Papierförmchen.",
+        "بس في الصورة الأولى شايفين مافن في قوالب ورق."
+      ],
+      [
+        "Lea",
+        "Dann habe ich die Karten vertauscht.",
+        "يبقى أنا بدلت الكروت بالغلط."
+      ],
+      [
+        "Karim",
+        "Die Donutkarte gehört neben das Foto mit dem offenen Buch.",
+        "كارت الدونات مكانه جنب الصورة اللي فيها كتاب مفتوح."
+      ],
+      [
+        "Lea",
+        "Gut, ich tausche sie. Jetzt passt es.",
+        "تمام، هبدلهم. دلوقتي كده صح."
+      ],
+      [
+        "Karim",
+        "Lies bitte beide Namen mit Artikel vor.",
+        "اقري لو سمحتي الاسمين بالأداة."
+      ],
+      [
+        "Lea",
+        "Der Muffin und der Donut.",
+        "دير مافن ودير دونات."
+      ]
+    ],
+    "q": [
+      [
+        "Was zeigt das erste Foto?",
+        "Muffins in Papierförmchen.",
+        "Nur einen Donut.",
+        "Eine leere Buchseite."
+      ],
+      [
+        "Wohin gehört die Donutkarte?",
+        "Neben das Foto mit dem offenen Buch.",
+        "In den Kühlschrank.",
+        "Neben ein unsichtbares Fenster."
+      ],
+      [
+        "Wie soll Lea die Namen vorlesen?",
+        "Mit Artikel.",
+        "Nur rückwärts.",
+        "Ohne die Wörter zu nennen."
+      ]
+    ]
+  },
+  {
+    "id": "variante-oder-tippfehler",
+    "level": "A2",
+    "title": [
+      "Variante oder Tippfehler?",
+      "صيغة بديلة ولا غلطة كتابة؟"
+    ],
+    "lines": [
+      [
+        "Amir",
+        "Ich habe auch die Schreibung Doughnut gefunden. Ist sie falsch?",
+        "لقيت كمان كتابة دوغنات. هي غلط؟"
+      ],
+      [
+        "Nele",
+        "Nein. Donut und Doughnut sind beide mögliche Schreibweisen.",
+        "لأ. دونات ودوغنات الاتنين ينفعوا في الكتابة."
+      ],
+      [
+        "Amir",
+        "Wir bleiben auf unserer Karte bei Donut und Donuts.",
+        "هنفضل على كارتنا مع دونات ودوناتس."
+      ],
+      [
+        "Nele",
+        "Gut. Die andere Schreibung notieren wir am Rand.",
+        "تمام. الكتابة التانية نسجلها على الجنب."
+      ],
+      [
+        "Amir",
+        "Bei Muffin habe ich aber nur ein f geschrieben.",
+        "بس في مافن كتبت إف واحدة بس."
+      ],
+      [
+        "Nele",
+        "Das verbessern wir. Muffin hat zwei f.",
+        "دي نصلحها. مافن فيها اتنين إف."
+      ],
+      [
+        "Amir",
+        "Dann ist nicht jede Abweichung automatisch ein Fehler.",
+        "يبقى مش كل اختلاف غلطة تلقائيًا."
+      ]
+    ],
+    "q": [
+      [
+        "Welche zusätzliche Schreibung hat Amir gefunden?",
+        "Doughnut.",
+        "Dognutten.",
+        "Muffine."
+      ],
+      [
+        "Welche Form verwenden sie auf ihrer Karte?",
+        "Donut und Donuts.",
+        "Nur Donutten.",
+        "Nur Doughnutten."
+      ],
+      [
+        "Wie viele f hat Muffin?",
+        "Zwei.",
+        "Eins.",
+        "Keins."
+      ]
+    ]
+  },
+  {
+    "id": "welches-stueck-meinen-sie",
+    "level": "B1",
+    "title": [
+      "Welches Stück meinen Sie?",
+      "تقصد أنهي قطعة؟"
+    ],
+    "lines": [
+      [
+        "Tarek",
+        "Ich hätte gern den da.",
+        "عايز دي لو سمحت."
+      ],
+      [
+        "Jule",
+        "Meinen Sie den Muffin im Papierförmchen oder den Donut mit dem rosa Belag?",
+        "تقصد المافن في قالب الورق ولا الدونات اللي عليها طبقة بينك؟"
+      ],
+      [
+        "Tarek",
+        "In unserem Rollenspiel meine ich den Donut.",
+        "في تمثيل الأدوار بتاعنا أقصد الدونات."
+      ],
+      [
+        "Jule",
+        "Dann haben wir den Bezug geklärt, aber noch keinen echten Preis.",
+        "كده وضحنا المقصود بس لسه مفيش سعر حقيقي."
+      ],
+      [
+        "Tarek",
+        "Jetzt tauschen wir die Rollen. Welche Beschreibung ist deutlicher?",
+        "دلوقتي نبدل الأدوار. أنهي وصف أوضح؟"
+      ],
+      [
+        "Jule",
+        "Ein sichtbares Merkmal hilft mehr als nur rechts oder links.",
+        "صفة باينة تساعد أكتر من يمين أو شمال بس."
+      ],
+      [
+        "Tarek",
+        "Danach prüfen wir, ob wir dasselbe Stück meinen.",
+        "بعد كده نتأكد إننا نقصد نفس القطعة."
+      ]
+    ],
+    "q": [
+      [
+        "Welches Gebäck meint Tarek im Rollenspiel?",
+        "Den Donut.",
+        "Eine Torte.",
+        "Ein Croissant."
+      ],
+      [
+        "Was ist noch nicht bekannt?",
+        "Ein echter Preis.",
+        "Der gemeinte Gegenstand.",
+        "Die genannte Farbe."
+      ],
+      [
+        "Was prüfen sie danach?",
+        "Ob sie dasselbe Stück meinen.",
+        "Ob ein Betrieb bezahlt wurde.",
+        "Ob die Fotos identisch groß sind."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "die-karten-sind-vertauscht": [
+    "Auf dem ersten Foto sehen wir aber Muffins in Papierförmchen.",
+    "Die Donutkarte gehört neben das Foto mit dem offenen Buch.",
+    "Lies bitte beide Namen mit Artikel vor."
+  ],
+  "variante-oder-tippfehler": [
+    "Ich habe auch die Schreibung Doughnut gefunden.",
+    "Wir bleiben auf unserer Karte bei Donut und Donuts.",
+    "Muffin hat zwei f."
+  ],
+  "welches-stueck-meinen-sie": [
+    "In unserem Rollenspiel meine ich den Donut.",
+    "aber noch keinen echten Preis.",
+    "ob wir dasselbe Stück meinen."
+  ]
+});

@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  gebaeckkarten: 'Muffin und Donut',
   gebaeckformen: 'Brezel und Bagel',
   saitenbilder: 'Harfe und Mandoline',
   obstansichten: 'Papaya und Quitte',
@@ -159,6 +160,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  gebaeckkarten: 'Muffin and doughnut',
   gebaeckformen: 'Pretzel and bagel',
   saitenbilder: 'Harp and mandolin',
   obstansichten: 'Papaya and quince',

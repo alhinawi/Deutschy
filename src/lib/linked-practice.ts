@@ -297,4 +297,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-brezel-und-bagel-auf-tellern',dialogue:'brezel-oder-bagel-erkennen'},
  {reading:'alltag-a2-zwei-haelften-und-zwei-pluralformen',dialogue:'bagel-bagels-beide-formen'},
  {reading:'alltag-b1-nachfragen-statt-zutaten-raten',dialogue:'welcher-bagel-welche-information'},
+ {reading:'alltag-a1-muffin-donut-wortkarten',dialogue:'die-karten-sind-vertauscht'},
+ {reading:'alltag-a2-donut-doughnut-zwei-schreibweisen',dialogue:'variante-oder-tippfehler'},
+ {reading:'alltag-b1-cafe-dialog-rollen-klaeren',dialogue:'welches-stueck-meinen-sie'},
 ];

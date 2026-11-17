@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-seventeenth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-eighteenth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1234,9 +1234,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Lesson back and primary quiz actions | Two existing lesson-header links gain44px minimum and themed keyboard focus.8AR/EN320/390 keyboard/axe states, Enter correct route/topic/noXP. Both accepted bagel plurals visible in all4locale/width states. Actual390AR/EN photos/actions inspected. No routing/scoring/playback changes. |
 | [ ] | Listening/dictation |76 original segments,304exactGerman payload/source/answer checks. Human editorial and real-device voice review pending. Level labels not certification; progress local. |
 
+### List 118: Muffin and donut word cards
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-muffin-donut-wortkarten/` and linked dialogue | Lea/Karim match swapped cards. Dominant whole muffin upper center in white pleated paper on speckled pale-brown plate; other muffins cut by frame, egg at right, pale cloth. Whole donut left on white plate with pink topping and two pink balls, open book behind. No reading actual book text or recipe claim. |
+| [ ] | `/reading/alltag-a2-donut-doughnut-zwei-schreibweisen/` and linked dialogue | Nele/Amir Donut/Donuts and Doughnut/Doughnuts are accepted spelling pairs, not different sizes or fillings. Own card chooses Donut consistently; alternative retained in text. Muffin/Muffins has double f. Variant differs from typo, no general borrowed-noun rule. |
+| [ ] | `/reading/alltag-b1-cafe-dialog-rollen-klaeren/` and linked dialogue | Jule/Tarek fictional cafe-roleplay. Clarify den da with product name/visible trait, swap roles, confirm same referent. Right/left depends on viewpoint. Naming a referent does not confirm a real price or availability. Egg in photo not proof of recipe; book not personal story. No actual order or dietary/health claim. |
+| [ ] | `/lessons/gebaeckkarten/` and `/credits/` | der Muffin/Muffins (مافن), der Donut/Donuts (دونات). Full DWDS records including Doughnut/Doughnuts alternative. Anete Lusina4792397 muffin1800x2696 crop0,970-1800,2320; Jess Bailey Designs1479119 donut1800x1350 full frame. Both800x600 no padding/stretch/face/brand, dominant object retained. |
+| [ ] | Six appended grammar banks |24 article/accusative/present/possessive/two-way/negation rows; old question identities unchanged. Human German/Egyptian Arabic examples/explanations review pending. |
+| [ ] | Reading-back and reading/listening modes | Three existing controls gain44px minimum/themed keyboard focus.12AR/EN320/390 keyboard/axe states: Enter toggles mode/transcript correctly, back opens reading index, noXP. Actual390AR/EN photos/mode focus inspected. No routing/answer/scoring/playback logic changes. |
+| [ ] | Listening/dictation |78 original segments,312exactGerman payload/source/answer checks. Native editorial and real-device voice review pending. Level labels not certification; progress local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **891 photo nouns / 162 topics**, **369 reading texts / 1429 reading questions**, **41 core grammar topics / 2758 core grammar questions**, **309 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **893 photo nouns / 163 topics**, **372 reading texts / 1441 reading questions**, **41 core grammar topics / 2782 core grammar questions**, **312 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1248,7 +1260,7 @@ This is an inventory, not completed review. Snapshot: **891 photo nouns / 162 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 105 · A2 133 · B1 101 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 106 · A2 134 · B1 102 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

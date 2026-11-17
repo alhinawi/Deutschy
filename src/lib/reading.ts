@@ -354,3 +354,6 @@ readings.push(...saitenbilderTexts);
 
 import {gebaeckformenTexts} from './reading-gebaeckformen';
 readings.push(...gebaeckformenTexts);
+
+import {gebaeckkartenTexts} from './reading-gebaeckkarten';
+readings.push(...gebaeckkartenTexts);
