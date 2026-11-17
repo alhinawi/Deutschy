@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the thirty-sixth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the thirty-seventh practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -262,6 +262,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/grammar/satzbau/`, `/grammar/praesens/`, `/grammar/negation/`, `/grammar/trennbare-verben/`, `/grammar/dativ/`, `/grammar/perfekt/` | Review 24 appended sewing-box questions/explanations: behält, neutral yes/no versus echo questions, keinen Namen, räumt weg, schlägt nach, nachgeschlagen and zurückgebracht. Earlier saved topic/index identities retained. |
 | [ ] | `/dialogues/` role practice and `/dictation/` | Check bounded previous-line and same-role restart, hidden suggestions restored, audio canceled on moves/restarts, stale audio errors ignored and no saved position/points. Check **Zählen wir noch einmal nach** now uses **Für die kleine Tasche ist sie zu lang.** for Luftpumpe, including exact support quote. Review new dictation on a real German voice; mocks do not validate pronunciation. |
 
+### Thirty-seventh update: additional pending targets
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-federmaeppchen/` | Check already-packed Mäppchen, only a scarf on the chair, small/large bag compartments, yesterday evening and all 4 evidence answers. Review **Schau ins kleine Fach**, its 3 answers and Egyptian meanings separately. |
+| [ ] | `/reading/alltag-a2-gummiband/` | Check six cards in two groups, the band around old notes left alone, the loose band, kitchen cards in an envelope and showing groups before mixing. Review **Das lose Band, bitte**, all 7 answers and Egyptian Arabic. This activity is not a scored exam. |
+| [ ] | `/reading/alltag-b1-fundnotiz/` | Check same brown color does not identify the owner; blue versus black zipper; no search for private details inside; no agreed handover or general lost-property policy. Review **Welche Farbe hat der Reißverschluss?**, all 7 reading/dialogue answers and Egyptian meanings. |
+| [ ] | `/lessons/schultasche/` | Check das Federmäppchen / die Federmäppchen and das Gummiband / Gummibänder, Egyptian meanings and complete plain brown case/single rubber-band photos. Federmäppchen is a regional/common variant alongside Federmappe. No visible brand, face or cropped pile; neutral padding and original-source credits recorded. |
+| [ ] | `/grammar/akkusativ/`, `/grammar/possessiv/`, `/grammar/modalverben/`, `/grammar/imperativ/`, `/grammar/komparativ/`, `/grammar/dativ-praepositionen/` | Review 24 appended school-bag questions/explanations: neuter case endings, possessive case endings, supplied pronouns, Nimm/Lies/Prüft, länger/genauer and den Freunden. Older saved topic/index identities retained. |
+| [ ] | `/redewendungen/` and `/dictation/` | Review unchanged idiom meanings/examples. Check labeled normalized search now also covers examples/literal gloss, selected-group live count, no-results guidance, clear-query keeping group, search-all keeping query, show-all reset and focus return. Filters are temporary, no points/history. Review new dictation with a real German voice; mocks do not establish pronunciation. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -276,7 +287,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **729 photo nouns / 81 topics**, **126 reading texts / 457 reading questions**, **41 core grammar topics / 814 core grammar questions**, **66 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **731 photo nouns / 82 topics**, **129 reading texts / 469 reading questions**, **41 core grammar topics / 838 core grammar questions**, **69 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -288,7 +299,7 @@ This is an inventory, not completed review. Snapshot: **729 photo nouns / 81 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 24 · A2 37 · B1 35 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 25 · A2 38 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

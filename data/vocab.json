@@ -323,6 +323,10 @@
   {
    "id": "naehbox",
    "ar": "حاجات لعلبة الخياطة"
+  },
+  {
+   "id": "schultasche",
+   "ar": "حاجات لشنطة الدراسة"
   }
  ],
  "words": [
@@ -11333,6 +11337,36 @@
     "commons": "https://commons.wikimedia.org/wiki/File:SEAM_RIPPER.jpg",
     "author": "Ranjithkumar Murugesan",
     "license": "CC0; cropped empty background, complete object preserved",
+    "padding": true
+   }
+  },
+  {
+   "id": "federmaeppchen",
+   "topic": "schultasche",
+   "art": "das",
+   "de": "Federmäppchen",
+   "plural": "-",
+   "ar": "مقلمة",
+   "photo": {
+    "file": "Kleine Federmappe.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Kleine_Federmappe.jpg",
+    "author": "Stiftchen2",
+    "license": "CC BY-SA 4.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "gummiband",
+   "topic": "schultasche",
+   "art": "das",
+   "de": "Gummiband",
+   "plural": "Gummibänder",
+   "ar": "أستك",
+   "photo": {
+    "file": "Elastiek-01 (xndr).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Elastiek-01_(xndr).jpg",
+    "author": "Svdmolen (attribution recorded by Commons)",
+    "license": "CC BY 2.5",
     "padding": true
    }
   }
