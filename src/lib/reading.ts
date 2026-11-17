@@ -138,3 +138,6 @@ readings.push(...garderobenrundeTexts);
 
 import {badrundeTexts} from './reading-badrunde';
 readings.push(...badrundeTexts);
+
+import {kochrundeTexts} from './reading-kochrunde';
+readings.push(...kochrundeTexts);

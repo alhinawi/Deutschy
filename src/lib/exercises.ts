@@ -300,3 +300,6 @@ for(const[topic,rows]of Object.entries(garderobenrundeGrammar))exercises[topic].
 
 import {badrundeGrammar} from './exercises-badrunde';
 for(const[topic,rows]of Object.entries(badrundeGrammar))exercises[topic].push(...rows);
+
+import {kochrundeGrammar} from './exercises-kochrunde';
+for(const[topic,rows]of Object.entries(kochrundeGrammar))exercises[topic].push(...rows);

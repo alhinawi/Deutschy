@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the forty-fifth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the forty-sixth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -361,6 +361,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Six expanded grammar banks | `/grammar/akkusativ/`, `/grammar/possessiv/`, `/grammar/modalverben/`, `/grammar/imperativ/`, `/grammar/komparativ/`, `/grammar/dativ-praepositionen/`: 24 appended rows, den Deckel, ihr Handtuch, möchte aufhängen, du/ihr/Sie, größer/höher/weicher, nach dem Ring/mit seiner Schwester. Earlier identities retained. |
 | [ ] | `/verbs/` and `/dictation/` | Clear-query-only keeps level/type filters and focuses search; full reset clears all filters/focuses. Temporary controls, not progress. Singular English verb count corrected. Real German voice review of 45 focused dictation sentences needed; mocks do not verify pronunciation. |
 
+### Forty-sixth update: cooking tools (pending)
+
+| Review | Route / item | Focus |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-schneidebrett/` | **Das Brett liegt neben der Schüssel** / **Noch ist alles aus**: board, ladle on hook, grater out of drawer, sieve by bowl, kettle and hob off, pan and turner. Check 7 questions/evidence and Egyptian meanings. |
+| [ ] | `/reading/alltag-a2-kelle-statt-sieb/` | **Die Brühe soll bleiben** / **Was soll mit der Flüssigkeit passieren?**: both broth and vegetables retained, second bowl prepared, ladle beside pot, no universal recipe or food-safety instructions. Check 7 answers and vocabulary/difficulty. |
+| [ ] | `/reading/alltag-a2-reibe-extra/` | **Der Käse kommt getrennt auf den Tisch** / **Nicht gleich über alles**: cheese offered in separate bowl with own spoon, grater stays in kitchen, empty past bowl not proof of everyone's preference, future wishes asked again. No individual intolerance claim. Check 7 answers/evidence. |
+| [ ] | `/lessons/kochrunde/` | Check das Schneidebrett / Schneidebretter and der Pfannenwender / same-form plural, Egyptian meanings, whole real unbranded board/turner cues. Turner cropped from flatlay with full handle and blade retained; neutral padding and crop credited. Source title calls it ladle, but the selected object is visibly a flat slotted pan turner. Schöpfkelle remains text vocabulary, not a mislabeled photo. |
+| [ ] | Six expanded grammar banks | Accusative, possessives, modals, imperative, comparative, dative prepositions: 24 append-only rows, die Reibe/den Pfannenwender, ihr Brett/seine Pfanne, möchte/wollen, Leg/Stellt/Nehmen/Gib, größer/breiter/leichter/länger, nach dem Sieb/aus der Schublade/mit seinem Bruder/seit einem Monat. Preserve earlier IDs. |
+| [ ] | `/verbs/table/`, `/reading/`, `/dictation/` | Table pressed level/count, strong/irregular/modal scope, keyboard horizontal scrolling with visible focus and no saved progress. Long German reading words wrap without clipping. Review 46 focused dictation sentences on an actual German voice; mocks test text and controls only. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -375,7 +386,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **747 photo nouns / 90 topics**, **153 reading texts / 565 reading questions**, **41 core grammar topics / 1030 core grammar questions**, **93 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **749 photo nouns / 91 topics**, **156 reading texts / 577 reading questions**, **41 core grammar topics / 1054 core grammar questions**, **96 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -387,7 +398,7 @@ This is an inventory, not completed review. Snapshot: **747 photo nouns / 90 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 33 · A2 54 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 34 · A2 56 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

@@ -578,3 +578,24 @@ Object.assign(readingEvidence,{
     "Es ist noch kein Ersatz ausgewählt oder bestellt."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-schneidebrett": [
+    "Sie hängt am Haken neben der Tür.",
+    "Lara nimmt die Reibe aus der Schublade und stellt sie auf den Tisch.",
+    "Karim holt es und stellt es neben die Schüssel.",
+    "Er ist ausgeschaltet. Die Pfanne liegt auf dem Herd, aber der Herd ist noch aus."
+  ],
+  "alltag-a2-kelle-statt-sieb": [
+    "Er möchte die Brühe also nicht wegschütten.",
+    "Die beiden stellen eine zweite, leere Schüssel bereit",
+    "Die Schöpfkelle liegt neben dem Topf",
+    "Gemüsestücke und Brühe sollen beide erhalten bleiben."
+  ],
+  "alltag-a2-reibe-extra": [
+    "Er weiß nicht, ob alle am Tisch Käse möchten.",
+    "Deshalb stellen sie den geriebenen Käse diesmal in einer eigenen Schale auf den Tisch. Dazu legen sie einen eigenen Löffel.",
+    "Die Reibe bleibt in der Küche.",
+    "Vor einem neuen Essen wollen sie erneut nach Wünschen fragen."
+  ]
+});

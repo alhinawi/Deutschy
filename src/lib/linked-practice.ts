@@ -81,4 +81,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-badbecher',dialogue:'mittlerer-haken'},
  {reading:'alltag-a2-korbdeckel',dialogue:'kein-tablett-im-bad'},
  {reading:'alltag-a2-vorhangring',dialogue:'ring-getrennt-lassen'},
+ {reading:'alltag-a1-schneidebrett',dialogue:'kelle-am-haken'},
+ {reading:'alltag-a2-kelle-statt-sieb',dialogue:'bruehe-nicht-weg'},
+ {reading:'alltag-a2-reibe-extra',dialogue:'kaese-in-eigene-schale'},
 ];

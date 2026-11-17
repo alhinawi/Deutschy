@@ -5793,3 +5793,218 @@ Object.assign(dialogueEvidence,{
     "zusammengelegt auf der Ablage."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "kelle-am-haken",
+    "level": "A1",
+    "title": [
+      "Noch ist alles aus",
+      "لسه كله مطفي"
+    ],
+    "lines": [
+      [
+        "Karim",
+        "Wo ist die Schöpfkelle?",
+        "الكبشة فين؟"
+      ],
+      [
+        "Lara",
+        "Sie hängt neben der Tür am Haken.",
+        "متعلقة على الخطاف جنب الباب."
+      ],
+      [
+        "Karim",
+        "Und das Sieb steht noch im Schrank, richtig?",
+        "والمصفاة لسه في الدولاب، صح؟"
+      ],
+      [
+        "Lara",
+        "Ja. Stell es bitte neben die große Schüssel.",
+        "آه. حطها جنب الطبق الغويط الكبير لو سمحت."
+      ],
+      [
+        "Karim",
+        "Ist der Wasserkocher schon an?",
+        "الكاتل شغال خلاص؟"
+      ],
+      [
+        "Lara",
+        "Nein. Auch der Herd ist noch aus. Wir stellen zuerst alles bereit.",
+        "لأ. البوتاجاز كمان لسه مطفي. الأول نجهز كل حاجة."
+      ],
+      [
+        "Karim",
+        "Dann lege ich den Pfannenwender neben die Pfanne.",
+        "يبقى أحط مقلب الطاسة جنب الطاسة."
+      ]
+    ],
+    "q": [
+      [
+        "Wo ist die Kelle?",
+        "Am Haken neben der Tür.",
+        "In der Schüssel.",
+        "Im Kühlschrank."
+      ],
+      [
+        "Wohin soll das Sieb?",
+        "Neben die große Schüssel.",
+        "Unter den Tisch.",
+        "Auf den Herd."
+      ],
+      [
+        "Was tun sie zuerst?",
+        "Alles bereitstellen.",
+        "Den Herd einschalten.",
+        "Den Wasserkocher kaufen."
+      ]
+    ]
+  },
+  {
+    "id": "bruehe-nicht-weg",
+    "level": "A2",
+    "title": [
+      "Was soll mit der Flüssigkeit passieren?",
+      "نعمل إيه في السائل؟"
+    ],
+    "lines": [
+      [
+        "Ben",
+        "Ich nehme das Sieb und gieße alles aus.",
+        "هاخد المصفاة وأصفي كل اللي موجود."
+      ],
+      [
+        "Dalia",
+        "Warte. Möchtest du die Brühe behalten oder wegschütten?",
+        "استنى. عايز تحتفظ بالشوربة السايلة ولا ترميها؟"
+      ],
+      [
+        "Ben",
+        "Behalten. Sie soll später wieder zum Gemüse kommen.",
+        "أحتفظ بيها. هترجع للخضار بعدين."
+      ],
+      [
+        "Dalia",
+        "Dann stellen wir zuerst eine zweite Schüssel bereit.",
+        "يبقى نجهز الأول طبق غويط تاني."
+      ],
+      [
+        "Ben",
+        "Die Kelle liegt neben dem Topf. Das Sieb bleibt erst einmal hier.",
+        "الكبشة جنب الحلة. والمصفاة تفضل هنا دلوقتي."
+      ],
+      [
+        "Dalia",
+        "Genau. Wir klären erst, welche Teile wir getrennt brauchen.",
+        "بالظبط. نحدد الأول أنهي أجزاء محتاجينها منفصلة."
+      ],
+      [
+        "Ben",
+        "Gemüsestücke und Brühe sollen beide erhalten bleiben.",
+        "قطع الخضار والشوربة السايلة الاتنين يفضلوا موجودين."
+      ]
+    ],
+    "q": [
+      [
+        "Was möchte Ben mit der Brühe tun?",
+        "Sie behalten.",
+        "Sie wegschütten.",
+        "Sie durch Wasser ersetzen."
+      ],
+      [
+        "Was wird zuerst bereitgestellt?",
+        "Eine zweite Schüssel.",
+        "Eine neue Pfanne.",
+        "Eine Einkaufsliste."
+      ],
+      [
+        "Was soll erhalten bleiben?",
+        "Gemüsestücke und Brühe.",
+        "Nur das Gemüse.",
+        "Nur die Brühe."
+      ]
+    ]
+  },
+  {
+    "id": "kaese-in-eigene-schale",
+    "level": "A2",
+    "title": [
+      "Nicht gleich über alles",
+      "مش على الأكل كله فوراً"
+    ],
+    "lines": [
+      [
+        "Nora",
+        "Soll ich den Käse gleich über das ganze Essen geben?",
+        "أحط الجبنة على الأكل كله فوراً؟"
+      ],
+      [
+        "Elias",
+        "Bitte noch nicht. Wir wissen nicht, ob alle Käse möchten.",
+        "لسه لو سمحتي. إحنا مش عارفين إذا كلهم عايزين جبنة."
+      ],
+      [
+        "Nora",
+        "Dann stelle ich ihn in einer eigenen Schale auf den Tisch.",
+        "يبقى أحطها في طبق لوحدها على الترابيزة."
+      ],
+      [
+        "Elias",
+        "Mit einem eigenen Löffel dazu, bitte.",
+        "ومعاها معلقة خاصة بيها لو سمحتي."
+      ],
+      [
+        "Nora",
+        "Die Reibe bleibt in der Küche.",
+        "المبشرة تفضل في المطبخ."
+      ],
+      [
+        "Elias",
+        "Und vor dem nächsten Essen fragen wir wieder nach Wünschen.",
+        "وقبل الأكلة الجاية نسأل تاني عن الرغبات."
+      ],
+      [
+        "Nora",
+        "Ja. Die heutige Lösung ist keine feste Regel für alle.",
+        "آه. حل النهارده مش قاعدة ثابتة لكل الناس."
+      ]
+    ],
+    "q": [
+      [
+        "Warum bleibt der Käse zunächst getrennt?",
+        "Nicht alle Wünsche sind bekannt.",
+        "Es gibt keinen Löffel.",
+        "Nora möchte nichts essen."
+      ],
+      [
+        "Wo bleibt die Reibe?",
+        "In der Küche.",
+        "Im Wasserkocher.",
+        "Unter dem Tisch."
+      ],
+      [
+        "Was tun sie vor dem nächsten Essen?",
+        "Wieder nach Wünschen fragen.",
+        "Nichts mehr besprechen.",
+        "Immer dieselbe Vorliebe annehmen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "kelle-am-haken": [
+    "neben der Tür am Haken.",
+    "neben die große Schüssel.",
+    "Wir stellen zuerst alles bereit."
+  ],
+  "bruehe-nicht-weg": [
+    "Behalten.",
+    "zuerst eine zweite Schüssel bereit.",
+    "Gemüsestücke und Brühe sollen beide erhalten bleiben."
+  ],
+  "kaese-in-eigene-schale": [
+    "Wir wissen nicht, ob alle Käse möchten.",
+    "Die Reibe bleibt in der Küche.",
+    "vor dem nächsten Essen fragen wir wieder nach Wünschen."
+  ]
+});
