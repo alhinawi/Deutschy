@@ -2216,3 +2216,24 @@ Object.assign(readingEvidence,{
     "Ob die Erklärung für andere verständlich ist, möchten sie erst nach der tatsächlichen Vorstellung erfragen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zwei-fotos-und-eine-leere-karte": [
+    "Die leere Karte liegt zwischen den Fotos.",
+    "Links liegt das Foto mit den Kumquats.",
+    "Sami ergänzt bei beiden Wörtern die.",
+    "In beiden Fällen kommt ein s dazu."
+  ],
+  "alltag-a2-nach-dem-nomen-sortieren": [
+    "Vergleicht die Anfangsbuchstaben von Kumquat und Litschi, nicht den Artikel.",
+    "K steht im Alphabet vor L, also kommt Kumquat zuerst.",
+    "Erst danach hat er die Wörter den Bildern zugeordnet.",
+    "Ob die ergänzte Anweisung dafür schon ausreicht, haben Nora und Emil noch nicht getestet."
+  ],
+  "alltag-b1-links-aus-wessen-sicht": [
+    "Beide haben dieselben Wörter gehört, aber links auf unterschiedliche Standpunkte bezogen.",
+    "Sie entscheiden sich dafür, die Richtung künftig immer aus Adams Sicht zu beschreiben.",
+    "Die Bestätigung betrifft also zunächst sein Verständnis der Anweisung, nicht schon das fertige Ergebnis.",
+    "Nun beschreibt Adam eine neue Anordnung aus Livs Sicht und sagt diese Perspektive ausdrücklich dazu."
+  ]
+});

@@ -372,3 +372,6 @@ readings.push(...grueneformenTexts);
 
 import {obstkartenTexts} from './reading-obstkarten';
 readings.push(...obstkartenTexts);
+
+import {kleinefruechteTexts} from './reading-kleinefruechte';
+readings.push(...kleinefruechteTexts);

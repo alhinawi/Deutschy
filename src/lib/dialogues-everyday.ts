@@ -22563,3 +22563,218 @@ Object.assign(dialogueEvidence,{
     "Wir haben bisher nur gemeinsam geprobt."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "kumquat-links-litschi-rechts",
+    "level": "A1",
+    "title": [
+      "Schreib in die Mitte",
+      "اكتب في النص"
+    ],
+    "lines": [
+      [
+        "Mara",
+        "Links liegt das Kumquatfoto, rechts das Litschifoto.",
+        "على الشمال صورة الكمكوات وعلى اليمين صورة الليتشي."
+      ],
+      [
+        "Sami",
+        "Und die leere Karte liegt dazwischen.",
+        "والكارت الفاضي بينهم."
+      ],
+      [
+        "Mara",
+        "Schreib bitte beide Namen auf die Karte.",
+        "اكتب الاسمين على الكارت."
+      ],
+      [
+        "Sami",
+        "Oben Kumquat und unten Litschi?",
+        "فوق كمكوات وتحت ليتشي؟"
+      ],
+      [
+        "Mara",
+        "Genau. Ergänze auch die Artikel.",
+        "بالظبط. زود أدوات التعريف كمان."
+      ],
+      [
+        "Sami",
+        "Beide haben die. Die Mehrzahl schreiben wir auf die Rückseite.",
+        "الاتنين أداتهم دي. الجمع نكتبه على الضهر."
+      ],
+      [
+        "Mara",
+        "Ja: Kumquats und Litschis, beide mit s am Ende.",
+        "أيوه: كمكواتس وليتشيس الاتنين بإس في الآخر."
+      ]
+    ],
+    "q": [
+      [
+        "Wo liegt die leere Karte?",
+        "Zwischen den Fotos.",
+        "Im Glas.",
+        "Unter dem Stuhl."
+      ],
+      [
+        "Was soll Sami zusätzlich schreiben?",
+        "Die Artikel.",
+        "Einen Preis.",
+        "Seine Adresse."
+      ],
+      [
+        "Welche Mehrzahlformen nennt Mara?",
+        "Kumquats und Litschis.",
+        "Kumquaten und Litschen.",
+        "Kumquat und Litschi."
+      ]
+    ]
+  },
+  {
+    "id": "k-vor-l-ohne-artikel",
+    "level": "A2",
+    "title": [
+      "Nicht nach die sortieren",
+      "مش نرتب على أساس دي"
+    ],
+    "lines": [
+      [
+        "Emil",
+        "Beide Karten fangen mit die an. Wie soll ich sie sortieren?",
+        "الكارتين بيبدأوا بدي. أرتبهم إزاي؟"
+      ],
+      [
+        "Nora",
+        "Vergleiche die Nomen selbst: Kumquat und Litschi.",
+        "قارن الأسماء نفسها: كمكوات وليتشي."
+      ],
+      [
+        "Emil",
+        "Dann kommt Kumquat zuerst, weil K vor L steht.",
+        "يبقى كمكوات الأول عشان كي قبل إل."
+      ],
+      [
+        "Nora",
+        "Richtig. Die Fotos bleiben zunächst verdeckt.",
+        "صح. الصور تفضل مقلوبة في الأول."
+      ],
+      [
+        "Emil",
+        "Erst sortieren, dann die Wörter den Bildern zuordnen.",
+        "نرتب الأول وبعد كده نوصل الكلمات بالصور."
+      ],
+      [
+        "Nora",
+        "Ich schreibe diese beiden Schritte genauer auf.",
+        "هكتب الخطوتين دول بشكل أدق."
+      ],
+      [
+        "Emil",
+        "Ob das für die andere Gruppe reicht, müssen wir noch ausprobieren.",
+        "لسه محتاجين نجرب إذا ده كفاية للمجموعة التانية."
+      ]
+    ],
+    "q": [
+      [
+        "Was soll Emil vergleichen?",
+        "Die Nomen selbst.",
+        "Nur den Artikel die.",
+        "Die Größe des Papiers."
+      ],
+      [
+        "Was passiert zuerst?",
+        "Die Wortkarten werden sortiert.",
+        "Die Bilder werden verkauft.",
+        "Die Fotos werden umgedreht."
+      ],
+      [
+        "Was bleibt noch zu prüfen?",
+        "Ob die Anweisung für die andere Gruppe reicht.",
+        "Ob beide Wörter mit die stehen.",
+        "Ob Kumquat ein K am Anfang hat."
+      ]
+    ]
+  },
+  {
+    "id": "perspektive-vor-dem-legen",
+    "level": "B1",
+    "title": [
+      "Aus deiner Sicht",
+      "من ناحيتك إنت"
+    ],
+    "lines": [
+      [
+        "Liv",
+        "Für mich liegt die Kumquatkarte jetzt auf der falschen Seite.",
+        "بالنسبالي كارت الكمكوات دلوقتي في الناحية الغلط."
+      ],
+      [
+        "Adam",
+        "Ich habe sie aus meiner Sicht nach links gelegt.",
+        "أنا حطيته على الشمال من ناحيتي."
+      ],
+      [
+        "Liv",
+        "Dann war die Perspektive nicht klar. Wir nehmen zunächst deine Sicht.",
+        "يبقى المنظور ماكانش واضح. ناخد ناحيتك الأول."
+      ],
+      [
+        "Adam",
+        "Ich wiederhole die Anweisung, bevor ich die Karten verschiebe.",
+        "هكرر التعليمات قبل ما أحرك الكروت."
+      ],
+      [
+        "Liv",
+        "Ja. So kann ich erst dein Verständnis bestätigen.",
+        "أيوه. كده أقدر أأكد فهمك الأول."
+      ],
+      [
+        "Adam",
+        "Und das Ergebnis prüfen wir, nachdem die Karten liegen.",
+        "والنتيجة نراجعها بعد ما الكروت تتحط."
+      ],
+      [
+        "Liv",
+        "Beim Rollentausch sagst du dann ausdrücklich: aus Livs Sicht.",
+        "ولما نبدل الأدوار تقول بوضوح من ناحية ليف."
+      ]
+    ],
+    "q": [
+      [
+        "Aus welcher Sicht hat Adam zuerst gelegt?",
+        "Aus seiner eigenen.",
+        "Aus Livs.",
+        "Aus der eines Zuschauers."
+      ],
+      [
+        "Wann wiederholt Adam die Anweisung?",
+        "Vor dem Verschieben der Karten.",
+        "Erst nach dem Aufräumen.",
+        "Gar nicht."
+      ],
+      [
+        "Wann prüfen sie das Ergebnis?",
+        "Nachdem die Karten liegen.",
+        "Bevor Adam etwas versteht.",
+        "Schon vor der Erklärung der Perspektive."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "kumquat-links-litschi-rechts": [
+    "die leere Karte liegt dazwischen.",
+    "Ergänze auch die Artikel.",
+    "Kumquats und Litschis, beide mit s am Ende."
+  ],
+  "k-vor-l-ohne-artikel": [
+    "Vergleiche die Nomen selbst",
+    "Erst sortieren, dann die Wörter den Bildern zuordnen.",
+    "müssen wir noch ausprobieren."
+  ],
+  "perspektive-vor-dem-legen": [
+    "aus meiner Sicht nach links gelegt.",
+    "bevor ich die Karten verschiebe.",
+    "nachdem die Karten liegen."
+  ]
+});

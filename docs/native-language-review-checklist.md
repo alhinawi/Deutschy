@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-twenty-third practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-twenty-fourth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1306,9 +1306,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Reading answer choices | Existing choices44pxminimum/card-ground keyboard ring.72AR/EN320/390focusstates across3sets and reading/listening modes;24axe plus24wrong-answer doubleclicklock/evidence/highlights/noXP/next checks. Actual390AR/ENfocus inspected. No behavior/answer/scoring changes. |
 | [ ] | Listening/dictation |72 original segments,288exactGerman speech/source/answer checks. Native editorial and actual-device voice review pending. Level labels not certification; progress local. |
 
+### List 124: Kumquats and lychees
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zwei-fotos-und-eine-leere-karte/` and linked dialogue | Mara/Sami fictional table setup: kumquatphoto left, lycheephoto right, blankcard middle. Orange fruit beside/inside sideways glass; reddish textured lychees. Feminine articles and plural-s written front/reverse. |
+| [ ] | `/reading/alltag-a2-nach-dem-nomen-sortieren/` and linked dialogue | Nora/Emil clarify alphabetizing by noun initial, not shared article die; K before L. First sort words with photos covered, then match photos. Other group's unaided understanding not yet tested. |
+| [ ] | `/reading/alltag-b1-links-aus-wessen-sicht/` and linked dialogue | Liv/Adam opposite seats: different left/right perspectives. Agree Adam's view, repeat instruction before moving, confirm understanding separately from finished result. Swap roles explicitly using Liv's view. No personal orientation/proficiency judgment. |
+| [ ] | `/lessons/kleinefruechte/` and `/credits/` | die Kumquat/Kumquats (كمكوات), die Litschi/Litschis (ليتشي). Duden Kumquat forms and DWDS Litschi checked. Polina7250018 kumquat1800x1201 crop0,0-1600,1200; Consuelo Borroni15221058 lychee1800x1094 crop170,0-1626,1092. Both800x600,no padding/stretch/brand/person. Actual390AR/ENcards inspected. Clothing/instrument candidates rejected for framing/branding/identity conflicts. |
+| [ ] | Six appended grammar banks |24 article/accusative/present/possessive/two-way/negation rows, earlier saved identities preserved. Native German/Egyptian examples/explanations pending. |
+| [ ] | Reading question counter | Existing LTR English-digit counter gains localized accessible name, polite atomic status.168AR/EN320/390counterstates across3sets/reading-listening modes;48axe plus96answers, completion/retry/modes reset counter, retry/mode adds noXP. Actual390AR/ENcounter screens inspected. No scoring/answer/routing change. |
+| [ ] | Listening/dictation |70 original segments,280exactGerman speech/source/answer checks. Native editorial and actual-device voice review pending. Level labels not certification; progress local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **903 photo nouns / 168 topics**, **387 reading texts / 1501 reading questions**, **41 core grammar topics / 2902 core grammar questions**, **327 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **905 photo nouns / 169 topics**, **390 reading texts / 1513 reading questions**, **41 core grammar topics / 2926 core grammar questions**, **330 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1320,7 +1332,7 @@ This is an inventory, not completed review. Snapshot: **903 photo nouns / 168 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 111 · A2 139 · B1 107 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 112 · A2 140 · B1 108 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

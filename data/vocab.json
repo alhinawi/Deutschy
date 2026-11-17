@@ -671,6 +671,10 @@
   {
    "id": "obstkarten",
    "ar": "نكتارين وجوسبيري"
+  },
+  {
+   "id": "kleinefruechte",
+   "ar": "كمكوات وليتشي"
   }
  ],
  "words": [
@@ -14312,6 +14316,36 @@
     "file": "13272965.jpg",
     "commons": "https://www.pexels.com/photo/photo-of-unripe-gooseberries-13272965/",
     "author": "Eugene Golovesov",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "kumquat",
+   "topic": "kleinefruechte",
+   "art": "die",
+   "de": "Kumquat",
+   "plural": "Kumquats",
+   "ar": "كمكوات",
+   "photo": {
+    "file": "7250018.jpg",
+    "commons": "https://www.pexels.com/photo/a-bunch-of-kumquat-fruits-in-a-lying-martini-glass-7250018/",
+    "author": "Polina ⠀",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "litschi",
+   "topic": "kleinefruechte",
+   "art": "die",
+   "de": "Litschi",
+   "plural": "Litschis",
+   "ar": "ليتشي",
+   "photo": {
+    "file": "15221058.jpg",
+    "commons": "https://www.pexels.com/photo/red-fruits-in-close-up-shot-15221058/",
+    "author": "Consuelo Borroni",
     "license": "Pexels License",
     "modified": true
    }
