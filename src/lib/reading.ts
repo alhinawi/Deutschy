@@ -309,3 +309,6 @@ readings.push(...freizeitfarbenTexts);
 
 import {bildanordnungTexts} from './reading-bildanordnung';
 readings.push(...bildanordnungTexts);
+
+import {spielteileTexts} from './reading-spielteile';
+readings.push(...spielteileTexts);

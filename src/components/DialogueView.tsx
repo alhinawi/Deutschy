@@ -70,7 +70,7 @@ function One({ d, back }: { d: Dialogue; back: () => void }) {
       <GermanVoice text={d.lines.map(l=>l[1]).join(" ")}/><p className="text-sm text-muted">{t("حوار تخيلي للتدريب، مش نصيحة طبية أو عرض سكن أو سعر حقيقي.","Fictional practice dialogue, not medical advice, a housing offer or a live price.")}</p>
       {linkedPractice.find(p=>p.dialogue===d.id)&&<Link className="inline-block rounded-full border border-line px-5 py-3" href={`/reading/${linkedPractice.find(p=>p.dialogue===d.id)!.reading}/`}>{t('اقرا نفس الموقف بكلمات وسمع وإملاء','Read this scenario with vocabulary, listening and dictation')}</Link>}
       <RolePractice key={d.id} d={d} />
-      <button aria-pressed={tr} aria-controls="dialogue-lines" onClick={() => setTr(!tr)} className="rounded-full border border-line px-4 py-2 text-sm font-bold">{tr ? t('اخفي الترجمة', 'Hide Egyptian Arabic') : t('اعرض الترجمة', 'Show Egyptian Arabic')}</button>
+      <button aria-pressed={tr} aria-controls="dialogue-lines" onClick={() => setTr(!tr)} className="min-h-11 rounded-full border border-line px-4 py-2 text-sm font-bold focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper">{tr ? t('اخفي الترجمة', 'Hide Egyptian Arabic') : t('اعرض الترجمة', 'Show Egyptian Arabic')}</button>
       <ul id="dialogue-lines" className="space-y-2">
         {d.lines.map(([who, de, ar], k) => (
           <li key={k} className={`flex ${speakers.indexOf(who) === 0 ? 'justify-start' : 'justify-end'}`}>

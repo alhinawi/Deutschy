@@ -18048,3 +18048,218 @@ Object.assign(dialogueEvidence,{
     "kann trotzdem stimmen, nur beweist dieses Foto sie nicht."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "das-teil-oder-der-hintergrund",
+    "level": "A1",
+    "title": [
+      "Das Teil oder der Hintergrund?",
+      "القطعة ولا الخلفية؟"
+    ],
+    "lines": [
+      [
+        "Emil",
+        "Ist das Puzzleteil gelb?",
+        "قطعة البازل صفرا؟"
+      ],
+      [
+        "Salma",
+        "Nein, es ist weiß. Der Hintergrund ist gelb.",
+        "لأ بيضا. الخلفية هي اللي صفرا."
+      ],
+      [
+        "Emil",
+        "Und welches Spielzeugauto steht vorne?",
+        "وأنهي عربية لعبة قدام؟"
+      ],
+      [
+        "Salma",
+        "Das gelbe. Das grüne steht dahinter.",
+        "الصفرا. الخضرا وراها."
+      ],
+      [
+        "Emil",
+        "Wie heißt die Mehrzahl von Spielzeugauto?",
+        "جمع شبيلتسويج أوتو إيه؟"
+      ],
+      [
+        "Salma",
+        "Die Spielzeugautos. Bei Puzzleteil heißt es die Puzzleteile.",
+        "دي شبيلتسويج أوتوس. ومع بوتسل تايل بتبقى دي بوتسل تايله."
+      ],
+      [
+        "Emil",
+        "Dann drehen wir die Karten um und üben ohne Bild.",
+        "يبقى نقلب الكروت ونتدرب من غير صورة."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Farbe hat das Puzzleteil?",
+        "Weiß.",
+        "Gelb.",
+        "Grün."
+      ],
+      [
+        "Welches Auto steht dahinter?",
+        "Das grüne.",
+        "Das gelbe.",
+        "Ein blaues."
+      ],
+      [
+        "Was machen sie am Ende?",
+        "Sie üben ohne Bild.",
+        "Sie zählen alle Teile eines Puzzles.",
+        "Sie kaufen ein Auto."
+      ]
+    ]
+  },
+  {
+    "id": "verrat-es-noch-nicht",
+    "level": "A2",
+    "title": [
+      "Verrat es noch nicht",
+      "ماتقوليش الحل لسه"
+    ],
+    "lines": [
+      [
+        "Rania",
+        "Soll ich dir das ganze Wort sagen?",
+        "أقولك الكلمة كلها؟"
+      ],
+      [
+        "Nils",
+        "Noch nicht. Kannst du mir zuerst den Artikel nennen?",
+        "لسه لأ. ممكن تقولي الأداة الأول؟"
+      ],
+      [
+        "Rania",
+        "Das. Möchtest du einen weiteren Hinweis?",
+        "داس. عايز تلميح كمان؟"
+      ],
+      [
+        "Nils",
+        "Ja, bitte nur den ersten Teil des Wortes.",
+        "أيوه الجزء الأول من الكلمة بس لو سمحتي."
+      ],
+      [
+        "Rania",
+        "Puzzle. Den Rest lasse ich offen.",
+        "بازل. هسيب الباقي مفتوح."
+      ],
+      [
+        "Nils",
+        "Jetzt weiß ich es: das Puzzleteil.",
+        "دلوقتي عرفتها: داس بوتسل تايل."
+      ],
+      [
+        "Rania",
+        "Genau. Beim nächsten Mal frage ich zuerst, welche Hilfe du möchtest.",
+        "بالظبط. المرة الجاية هسأل الأول عايز أنهي مساعدة."
+      ]
+    ],
+    "q": [
+      [
+        "Was möchte Nils zuerst hören?",
+        "Den Artikel.",
+        "Die vollständige Lösung.",
+        "Eine Kaufempfehlung."
+      ],
+      [
+        "Was lässt Rania offen?",
+        "Den Rest nach Puzzle.",
+        "Den Artikel nach ihrer Antwort.",
+        "Den Namen ihrer Partnerin."
+      ],
+      [
+        "Wie endet die Wortsuche?",
+        "Nils nennt das Puzzleteil selbst.",
+        "Rania nennt sofort beide Wörter.",
+        "Das Wort bleibt unbekannt."
+      ]
+    ]
+  },
+  {
+    "id": "fehlt-es-wirklich",
+    "level": "B1",
+    "title": [
+      "Fehlt es wirklich?",
+      "هي ناقصة فعلًا؟"
+    ],
+    "lines": [
+      [
+        "Jasmin",
+        "Kann ich schreiben, dass dem Puzzle dieses Teil fehlt?",
+        "أقدر أكتب إن البازل ناقصاه القطعة دي؟"
+      ],
+      [
+        "Oskar",
+        "Wir kennen das zugehörige Puzzle nicht. Das Foto zeigt nur ein einzelnes Teil.",
+        "إحنا مش عارفين البازل اللي هي تبعه. الصورة بتبين قطعة لوحدها بس."
+      ],
+      [
+        "Jasmin",
+        "Dann ist weder vollständig noch unvollständig hier belegt.",
+        "يبقى لا كامل ولا ناقص مثبتة هنا."
+      ],
+      [
+        "Oskar",
+        "Genau. Eine mögliche Herkunft aus einem vollständigen Puzzle beweist dessen Vollständigkeit auch nicht.",
+        "بالظبط. احتمال إنها من بازل كامل مش بيثبت اكتماله برضه."
+      ],
+      [
+        "Jasmin",
+        "Ich beschreibe die sichtbare Form und lasse den Zusammenhang offen.",
+        "هوصف الشكل الظاهر وأسيب العلاقة مفتوحة."
+      ],
+      [
+        "Oskar",
+        "Beim Auto ist eine verdeckte Seite ebenfalls nicht automatisch ein fehlendes Bauteil.",
+        "وفي العربية برضه جانب متغطي مش تلقائيًا جزء ناقص."
+      ],
+      [
+        "Jasmin",
+        "Ich trenne also die Darstellung vom tatsächlichen Zustand.",
+        "يبقى أفصل طريقة العرض عن الحالة الحقيقية."
+      ]
+    ],
+    "q": [
+      [
+        "Was kennen die beiden nicht?",
+        "Das zugehörige Puzzle.",
+        "Die sichtbare Farbe des Teils.",
+        "Den gelben Hintergrund."
+      ],
+      [
+        "Was ist eine verdeckte Autoseite nicht automatisch?",
+        "Ein fehlendes Bauteil.",
+        "Ein nicht sichtbarer Bereich.",
+        "Ein Teil der Darstellung."
+      ],
+      [
+        "Wie ändert Jasmin ihre Beschreibung?",
+        "Sie beschreibt die Form und lässt den Zusammenhang offen.",
+        "Sie behauptet einen sicheren Verlust.",
+        "Sie bestätigt ungeprüft ein vollständiges Puzzle."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "das-teil-oder-der-hintergrund": [
+    "es ist weiß.",
+    "Das grüne steht dahinter.",
+    "üben ohne Bild."
+  ],
+  "verrat-es-noch-nicht": [
+    "zuerst den Artikel nennen?",
+    "Den Rest lasse ich offen.",
+    "Jetzt weiß ich es: das Puzzleteil."
+  ],
+  "fehlt-es-wirklich": [
+    "Wir kennen das zugehörige Puzzle nicht.",
+    "nicht automatisch ein fehlendes Bauteil.",
+    "die sichtbare Form und lasse den Zusammenhang offen."
+  ]
+});
