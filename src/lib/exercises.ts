@@ -267,3 +267,6 @@ for(const[topic,rows]of Object.entries(flurablageGrammar))exercises[topic].push(
 
 import {garteneckeGrammar} from './exercises-gartenecke';
 for(const[topic,rows]of Object.entries(garteneckeGrammar))exercises[topic].push(...rows);
+
+import {fahrradeckeGrammar} from './exercises-fahrradecke';
+for(const[topic,rows]of Object.entries(fahrradeckeGrammar))exercises[topic].push(...rows);

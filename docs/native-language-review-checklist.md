@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the thirty-fourth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the thirty-fifth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -240,6 +240,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/grammar/satzbau/`, `/grammar/praesens/`, `/grammar/negation/`, `/grammar/trennbare-verben/`, `/grammar/dativ/`, `/grammar/perfekt/` | Review 24 appended garden-corner questions and explanations: weak-noun keinen Namen, neutral yes/no versus echo questions, schlägt nach, nimmt heraus, separable umstellen and umgestellt. Earlier saved topic/index identities retained. |
 | [ ] | `/shadowing/` and `/dictation/` | Check direct segment selector, bounded previous/next, text-scoped restart to first visible segment, retained title/group and hidden-text choice when merely moving. Audio must stop on move/restart, including restarting the same first sentence. These counters show position, not mastery; no points or saved position. Review focused new dictation on a real German voice; mock tests do not check pronunciation. |
 
+### Thirty-fifth update: additional pending targets
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-luftpumpe/` | Check pump under the jacket, cloth in the red bag, too-short bag versus longer bag and all 4 evidence answers. Review **Der Beutel ist zu kurz**, its 3 answers and Egyptian meanings separately. |
+| [ ] | `/reading/alltag-a2-reifenheber/` | Check inventory versus purchase, 3 metal levers versus 2 on the old list, dated correction, the separate pump and unresolved bag decision. Review **Zählen wir noch einmal nach**, all 7 reading/dialogue answers and Egyptian Arabic. Counting tools does not establish suitability or repair ability. |
+| [ ] | `/reading/alltag-b1-werkstattnotiz/` | Check noise while pushing, observation versus diagnosis, unanswered price/time and no confirmed appointment. Review **Noch keine Diagnose** and all 7 answers. Fictional language practice, not repair or riding-safety advice. |
+| [ ] | `/lessons/fahrradecke/` | Check die Luftpumpe / Luftpumpen and der Reifenheber / die Reifenheber, Egyptian meanings and the complete unbranded compact pump/three metal levers photos. Neutral padding and original-source credits recorded. |
+| [ ] | `/grammar/akkusativ/`, `/grammar/possessiv/`, `/grammar/modalverben/`, `/grammar/imperativ/`, `/grammar/komparativ/`, `/grammar/dativ-praepositionen/` | Review 24 appended bicycle-corner questions and explanations: supplied pronoun cues, possessive endings, Zähl with valid Zähle alternative stated, Nehmt/Gib, länger/genauer and den Freunden. Earlier saved topic/index identities retained. |
+| [ ] | `/speaking-cards/` and `/dictation/` | Check per-card notes/checkmarks survive switching, selected-card reset leaves other cards intact, hides the model and returns focus to notes. Self-check count is not a speaking score. Leaving/reloading clears this temporary practice. Review new focused dictation with a real German voice; mock tests do not validate pronunciation. No speech recorded or points/history saved here. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -254,7 +265,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **725 photo nouns / 79 topics**, **120 reading texts / 433 reading questions**, **41 core grammar topics / 766 core grammar questions**, **60 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **727 photo nouns / 80 topics**, **123 reading texts / 445 reading questions**, **41 core grammar topics / 790 core grammar questions**, **63 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -266,7 +277,7 @@ This is an inventory, not completed review. Snapshot: **725 photo nouns / 79 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 22 · A2 35 · B1 33 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 23 · A2 36 · B1 34 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

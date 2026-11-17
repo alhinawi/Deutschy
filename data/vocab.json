@@ -315,6 +315,10 @@
   {
    "id": "gartenecke",
    "ar": "حاجات لركن الجنينة"
+  },
+  {
+   "id": "fahrradecke",
+   "ar": "حاجات لركن العجل"
   }
  ],
  "words": [
@@ -11265,6 +11269,36 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Spruehflasche_02_(fcm).jpg",
     "author": "Photograph:  Frank C. Müller, Frankfurt am Main",
     "license": "CC BY-SA 4.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "luftpumpe",
+   "topic": "fahrradecke",
+   "art": "die",
+   "de": "Luftpumpe",
+   "plural": "Luftpumpen",
+   "ar": "منفاخ هوا",
+   "photo": {
+    "file": "Bicycle pump.jpeg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Bicycle_pump.jpeg",
+    "author": "User:GodOfKittens",
+    "license": "CC BY-SA 3.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "reifenheber",
+   "topic": "fahrradecke",
+   "art": "der",
+   "de": "Reifenheber",
+   "plural": "-",
+   "ar": "عتلة لفك كاوتش العجلة",
+   "photo": {
+    "file": "Reifenheber-metall.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Reifenheber-metall.jpg",
+    "author": "Gmhofmann",
+    "license": "Public domain",
     "padding": true
    }
   }
