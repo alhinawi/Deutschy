@@ -153,3 +153,6 @@ readings.push(...fruehstuecksrundeTexts);
 
 import {computerrundeTexts} from './reading-computerrunde';
 readings.push(...computerrundeTexts);
+
+import {vorratsrundeTexts} from './reading-vorratsrunde';
+readings.push(...vorratsrundeTexts);

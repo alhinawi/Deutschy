@@ -379,6 +379,10 @@
   {
    "id": "computerrunde",
    "ar": "حاجات مكتب الكمبيوتر"
+  },
+  {
+   "id": "vorratsrunde",
+   "ar": "حاجات رف التموين"
   }
  ],
  "words": [
@@ -11816,6 +11820,38 @@
     "file": "mouse-crop.jpg",
     "commons": "https://www.pexels.com/photo/white-wireless-computer-mouse-on-wooden-table-34396238/",
     "author": "Andrey Matveev",
+    "license": "Pexels License",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "vorratsglas",
+   "topic": "vorratsrunde",
+   "art": "das",
+   "de": "Vorratsglas",
+   "plural": "Vorratsgläser",
+   "ar": "برطمان تخزين",
+   "photo": {
+    "file": "jar-focus.jpg",
+    "commons": "https://www.pexels.com/photo/clear-glass-jar-with-ingredients-3735167/",
+    "author": "Polina Tankilevitch",
+    "license": "Pexels License",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "vorratsdose",
+   "topic": "vorratsrunde",
+   "art": "die",
+   "de": "Vorratsdose",
+   "plural": "Vorratsdosen",
+   "ar": "علبة تخزين",
+   "photo": {
+    "file": "tin-focus.jpg",
+    "commons": "https://www.pexels.com/photo/high-angle-view-of-metal-box-for-coffee-beans-10568478/",
+    "author": "Ron Lach",
     "license": "Pexels License",
     "padding": true,
     "modified": true

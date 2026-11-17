@@ -96,4 +96,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-computertisch',dialogue:'kabel-erst-klaeren'},
  {reading:'alltag-a2-offenes-fenster',dialogue:'alter-entwurf-adresse'},
  {reading:'alltag-a2-maus-geteilt',dialogue:'maus-bis-rueckkehr'},
+ {reading:'alltag-a1-vorratsregal',dialogue:'reisglas-unten'},
+ {reading:'alltag-a2-deckelzettel',dialogue:'deckel-vertauscht'},
+ {reading:'alltag-a2-regalplatz',dialogue:'regal-skizze'},
 ];

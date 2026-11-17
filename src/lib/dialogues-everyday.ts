@@ -6868,3 +6868,218 @@ Object.assign(dialogueEvidence,{
     "Ich nehme nur meine eigene Maus."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "reisglas-unten",
+    "level": "A1",
+    "title": [
+      "Nur das Glas mit Reis",
+      "برطمان الرز بس"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Ich suche den Reis. Siehst du das Vorratsglas?",
+        "بدور على الرز. شايف برطمان التخزين؟"
+      ],
+      [
+        "Omar",
+        "Ja, unten im Küchenschrank. Neben der kleinen Dose.",
+        "آه، تحت في دولاب المطبخ. جنب العلبة الصغيرة."
+      ],
+      [
+        "Lea",
+        "Auf der Dose steht Kaffee. Die bleibt hier.",
+        "مكتوب على العلبة قهوة. دي تفضل هنا."
+      ],
+      [
+        "Omar",
+        "Soll ich den Trichter holen?",
+        "أجيب القمع؟"
+      ],
+      [
+        "Lea",
+        "Für die Schüssel brauchen wir ihn nicht.",
+        "مش محتاجينه للطبق الغويط."
+      ],
+      [
+        "Omar",
+        "Dann lasse ich ihn in der Schublade.",
+        "يبقى أسيبه في الدرج."
+      ],
+      [
+        "Lea",
+        "Ich lese jetzt erst die Zutatenliste.",
+        "هقرأ دلوقتي قائمة المكونات الأول."
+      ]
+    ],
+    "q": [
+      [
+        "Was sucht Lea?",
+        "Den Reis.",
+        "Den Kaffee.",
+        "Die Tassen."
+      ],
+      [
+        "Was bleibt im Schrank?",
+        "Die kleine Dose.",
+        "Die Schüssel.",
+        "Der Bleistift."
+      ],
+      [
+        "Was liest Lea als Nächstes?",
+        "Die Zutatenliste.",
+        "Eine Rechnung.",
+        "Eine Zeitung."
+      ]
+    ]
+  },
+  {
+    "id": "deckel-vertauscht",
+    "level": "A2",
+    "title": [
+      "Nicht auf den falschen Deckel",
+      "مش على الغطا الغلط"
+    ],
+    "lines": [
+      [
+        "Nina",
+        "Ich klebe den Zettel auf diesen Deckel.",
+        "هلزق الورقة على الغطا ده."
+      ],
+      [
+        "Ben",
+        "Warte bitte. Ich habe die beiden Deckel vertauscht.",
+        "استني لو سمحتي. أنا بدلت الغطاين مكان بعض."
+      ],
+      [
+        "Nina",
+        "Dann gehört der Zettel vielleicht zum anderen Glas?",
+        "يبقى الورقة ممكن تبقى تبع البرطمان التاني؟"
+      ],
+      [
+        "Ben",
+        "Er gehört zu diesem Glas hier. Ich lege ihn erst daneben.",
+        "هي تبع البرطمان ده هنا. هحطها جنبه الأول."
+      ],
+      [
+        "Nina",
+        "Beide Gläser sind noch leer. Ich schreibe nur auf, welches wir meinen.",
+        "البرطمانين لسه فاضيين. هكتب بس أنهي واحد قصدنا عليه."
+      ],
+      [
+        "Ben",
+        "Die Dose oben lassen wir unverändert. Sie gehört unserer Mitbewohnerin.",
+        "العلبة اللي فوق نسيبها زي ما هي. دي بتاعة زميلتنا في السكن."
+      ],
+      [
+        "Nina",
+        "Nach dem freien Platz daneben fragen wir sie später.",
+        "هنسألها بعدين عن المكان الفاضي اللي جنبها."
+      ]
+    ],
+    "q": [
+      [
+        "Was hat Ben vertauscht?",
+        "Die Deckel.",
+        "Die Schränke.",
+        "Die Bleistifte."
+      ],
+      [
+        "Wo legt Ben den Zettel zunächst hin?",
+        "Neben das zugehörige Glas.",
+        "In den Kaffee.",
+        "Unter den Herd."
+      ],
+      [
+        "Was geschieht mit der fremden Dose?",
+        "Sie bleibt unverändert.",
+        "Sie bekommt sofort einen neuen Zettel.",
+        "Sie wird verschenkt."
+      ]
+    ]
+  },
+  {
+    "id": "regal-skizze",
+    "level": "A2",
+    "title": [
+      "Erst ein Vorschlag auf Papier",
+      "اقتراح على الورق الأول"
+    ],
+    "lines": [
+      [
+        "Dalia",
+        "Dieses Brett könnten wir für gemeinsame Vorräte nutzen.",
+        "ممكن نستخدم الرف ده للتموين المشترك."
+      ],
+      [
+        "Jonas",
+        "Die Idee gefällt mir. Fragen wir zuerst die anderen beiden.",
+        "الفكرة عجباني. نسأل الاتنين التانيين الأول."
+      ],
+      [
+        "Dalia",
+        "Ich zeichne nur eine Skizze. Noch räume ich nichts Fremdes um.",
+        "هرسم رسمة تخطيطية بس. لسه مش هغير مكان حاجة مش بتاعتي."
+      ],
+      [
+        "Jonas",
+        "Und die Tasche neben dem Schrank?",
+        "والشنطة اللي جنب الدولاب؟"
+      ],
+      [
+        "Dalia",
+        "Die gehört unserem Besucher. Sie bleibt, wie sie ist.",
+        "دي بتاعة ضيفنا. تفضل زي ما هي."
+      ],
+      [
+        "Jonas",
+        "Gut. Die Skizze lege ich zu unserem Notizbuch.",
+        "تمام. هحط الرسمة مع النوتة بتاعتنا."
+      ],
+      [
+        "Dalia",
+        "Meine Dose stelle ich jetzt wieder zurück.",
+        "هرجع دلوقتي علبتي مكانها تاني."
+      ]
+    ],
+    "q": [
+      [
+        "Was zeichnet Dalia?",
+        "Eine Skizze.",
+        "Eine Rechnung.",
+        "Einen Fahrplan."
+      ],
+      [
+        "Wem gehört die Tasche?",
+        "Dem Besucher.",
+        "Dem Händler.",
+        "Jonas allein."
+      ],
+      [
+        "Was stellt Dalia am Ende zurück?",
+        "Ihre Dose.",
+        "Den neuen Schrank.",
+        "Die fremde Tasche."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "reisglas-unten": [
+    "Ich suche den Reis.",
+    "Die bleibt hier.",
+    "Ich lese jetzt erst die Zutatenliste."
+  ],
+  "deckel-vertauscht": [
+    "Ich habe die beiden Deckel vertauscht.",
+    "Ich lege ihn erst daneben.",
+    "Die Dose oben lassen wir unverändert."
+  ],
+  "regal-skizze": [
+    "Ich zeichne nur eine Skizze.",
+    "Die gehört unserem Besucher.",
+    "Meine Dose stelle ich jetzt wieder zurück."
+  ]
+});

@@ -683,3 +683,24 @@ Object.assign(readingEvidence,{
     "Schließlich entdeckt Emil seine Maus in seiner Laptoptasche."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-vorratsregal": [
+    "unten steht ein großes Vorratsglas.",
+    "Auf der Dose steht Kaffee.",
+    "Omar lässt den Trichter dort.",
+    "Sie liest zuerst die Zutatenliste."
+  ],
+  "alltag-a2-deckelzettel": [
+    "Er hat die Deckel beim Abstellen vertauscht.",
+    "Noch sind beide Gläser leer.",
+    "Auf dem Zettel steht deshalb zunächst nur, welches Glas gemeint ist.",
+    "Eine Vorratsdose auf dem oberen Brett gehört ihrer Mitbewohnerin."
+  ],
+  "alltag-a2-regalplatz": [
+    "Dalia schlägt vor, ein Brett nur für gemeinsam benutzte Dinge freizuhalten.",
+    "möchte aber die anderen beiden Mitbewohner zuerst fragen.",
+    "Ihre eigene Vorratsdose stellt sie vorübergehend auf den Tisch",
+    "Neu ist nur die Skizze mit der Idee für die gemeinsame Besprechung."
+  ]
+});
