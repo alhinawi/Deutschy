@@ -177,4 +177,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zwei-bilder-fuer-die-wand',dialogue:'rahmen-bleiben-auf-dem-tisch'},
  {reading:'alltag-a2-auf-dem-plan-nicht-im-garten',dialogue:'nur-eine-bilduebung'},
  {reading:'alltag-b1-bildausschnitt-und-behauptung',dialogue:'eindruck-getrennt-notieren'},
+ {reading:'alltag-a1-zwei-woerter-am-fenster',dialogue:'ganze-woerter-mit-artikel'},
+ {reading:'alltag-a2-rueckgabe-der-uebungsblaetter',dialogue:'acht-blaetter-zurueck'},
+ {reading:'alltag-b1-uebungswort-ist-keine-pruefung',dialogue:'haekchen-betrifft-nur-abschrift'},
 ];

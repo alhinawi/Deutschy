@@ -12673,3 +12673,218 @@ Object.assign(dialogueEvidence,{
     "wir haben weder Stabilität noch Belastbarkeit geprüft."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "ganze-woerter-mit-artikel",
+    "level": "A1",
+    "title": [
+      "Nicht nur Ring und Rohr",
+      "مش حلقة وماسورة بس"
+    ],
+    "lines": [
+      [
+        "Sami",
+        "Ich nehme die Karten Ring und Rohr.",
+        "هاخد كروت حلقة وماسورة."
+      ],
+      [
+        "Eva",
+        "Schau, hier stehen die vollständigen Wörter mit Artikel.",
+        "بص، هنا الكلمات كاملة بأداة التعريف."
+      ],
+      [
+        "Sami",
+        "Stimmt: der Rettungsring und das Fernrohr.",
+        "صح: طوق نجاة وتليسكوب بالألماني وبأدوات التعريف."
+      ],
+      [
+        "Eva",
+        "Schreiben wir beide in die Hefte.",
+        "نكتب الاتنين في الكراسات."
+      ],
+      [
+        "Sami",
+        "Bei Fernrohr fehlt mir noch das. Das ergänze ich.",
+        "ناقص عندي أداة التعريف بتاعة تليسكوب. هضيفها."
+      ],
+      [
+        "Eva",
+        "Die Fotos kommen danach in den blauen Umschlag.",
+        "بعد كده الصور تتحط في الظرف الأزرق."
+      ],
+      [
+        "Sami",
+        "Und die vier Karten in den weißen. Die Hefte lassen wir hier.",
+        "والأربع كروت في الأبيض. نسيب الكراسات هنا."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Wörter wählen sie?",
+        "Rettungsring und Fernrohr mit Artikel.",
+        "Nur Ring und Rohr.",
+        "Nur zwei Personennamen."
+      ],
+      [
+        "Was fehlt Sami zuerst?",
+        "Der Artikel das.",
+        "Das ganze Heft.",
+        "Ein roter Umschlag."
+      ],
+      [
+        "Wo bleiben die Hefte?",
+        "Hier auf dem Tisch.",
+        "Im blauen Umschlag.",
+        "Im weißen Umschlag."
+      ]
+    ]
+  },
+  {
+    "id": "acht-blaetter-zurueck",
+    "level": "A2",
+    "title": [
+      "Erst noch einmal zählen",
+      "نعد تاني الأول"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Ich habe sieben Arbeitsblätter. Wir erwarten acht.",
+        "معايا سبع ورقات تدريب. المفروض تمانية."
+      ],
+      [
+        "Deniz",
+        "Drucken wir ein neues Blatt?",
+        "نطبع ورقة جديدة؟"
+      ],
+      [
+        "Lea",
+        "Noch nicht. Ich sehe zuerst auf den anderen Tischen nach.",
+        "لسه لأ. أبص الأول على الترابيزات التانية."
+      ],
+      [
+        "Paul",
+        "Meins liegt hier unter der durchsichtigen Mappe. Mein Name fehlt noch.",
+        "ورقتي هنا تحت الملف الشفاف. لسه اسمي ناقص."
+      ],
+      [
+        "Lea",
+        "Trag ihn bitte oben rechts ein. Dann zähle ich noch einmal.",
+        "اكتبه فوق على اليمين لو سمحت. بعد كده أعد تاني."
+      ],
+      [
+        "Deniz",
+        "Jetzt sind alle acht zurück. Das notiere ich.",
+        "دلوقتي كل التمان ورقات رجعوا. هكتب ده."
+      ],
+      [
+        "Lea",
+        "Die Antworten besprechen wir später. Zurückgegeben heißt nicht automatisch richtig.",
+        "نتناقش في الإجابات بعدين. رجعت مش معناها تلقائيًا صح."
+      ]
+    ],
+    "q": [
+      [
+        "Wie viele Blätter fehlen am Anfang auf Leas Stapel?",
+        "Eines.",
+        "Drei.",
+        "Acht."
+      ],
+      [
+        "Was trägt Paul ein?",
+        "Seinen Namen.",
+        "Einen Gerätepreis.",
+        "Einen Druckauftrag."
+      ],
+      [
+        "Was wird erst später besprochen?",
+        "Die Antworten.",
+        "Die Zahl acht.",
+        "Die Farbe der durchsichtigen Mappe."
+      ]
+    ]
+  },
+  {
+    "id": "haekchen-betrifft-nur-abschrift",
+    "level": "B1",
+    "title": [
+      "Was bestätigt das Häkchen?",
+      "علامة الصح بتأكد إيه؟"
+    ],
+    "lines": [
+      [
+        "Jule",
+        "Bedeutet das Häkchen, dass du den Rettungsring geprüft hast?",
+        "علامة الصح معناها إنك فحصت طوق النجاة؟"
+      ],
+      [
+        "Karim",
+        "Nein. Ich habe nur die vollständige Abschrift des Worts mit Artikel kontrolliert.",
+        "لأ. راجعت بس نقل الكلمة كاملة بأداة التعريف."
+      ],
+      [
+        "Jule",
+        "Dann fehlt der Tabelle eine klare Überschrift.",
+        "يبقى الجدول ناقصه عنوان واضح."
+      ],
+      [
+        "Karim",
+        "Ich schreibe Wortabschrift kontrolliert direkt darüber. Die Geräte habe ich nicht untersucht.",
+        "هكتب نقل الكلمات اتراجع فوقها على طول. أنا مافحصتش الأجهزة."
+      ],
+      [
+        "Jule",
+        "Und die Notiz zur Pluralform von Fernrohr?",
+        "وملحوظة جمع كلمة تليسكوب؟"
+      ],
+      [
+        "Karim",
+        "Die kommt in eine eigene Spalte für offene Sprachfragen. Das ist eine andere Aufgabe.",
+        "تتحط في عمود لوحده لأسئلة اللغة المفتوحة. دي مهمة تانية."
+      ],
+      [
+        "Jule",
+        "Gut. So verwechselt niemand die Wortliste mit einem technischen Prüfbericht.",
+        "تمام. كده محدش يخلط قايمة الكلمات بتقرير فحص فني."
+      ]
+    ],
+    "q": [
+      [
+        "Was betrifft das Häkchen?",
+        "Die Abschrift mit Artikel.",
+        "Die Tragfähigkeit des Rings.",
+        "Den Preis des Fernrohrs."
+      ],
+      [
+        "Wohin kommt die offene Pluralfrage?",
+        "In eine eigene Spalte.",
+        "In die Fotodatei.",
+        "Auf eine Rechnung."
+      ],
+      [
+        "Was ist die Liste nicht?",
+        "Ein technischer Prüfbericht.",
+        "Eine Sammlung von Wörtern.",
+        "Eine Tabelle mit Fotos."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "ganze-woerter-mit-artikel": [
+    "der Rettungsring und das Fernrohr.",
+    "Bei Fernrohr fehlt mir noch das.",
+    "Die Hefte lassen wir hier."
+  ],
+  "acht-blaetter-zurueck": [
+    "Ich habe sieben Arbeitsblätter. Wir erwarten acht.",
+    "Mein Name fehlt noch.",
+    "Die Antworten besprechen wir später."
+  ],
+  "haekchen-betrifft-nur-abschrift": [
+    "nur die vollständige Abschrift des Worts mit Artikel",
+    "in eine eigene Spalte für offene Sprachfragen",
+    "mit einem technischen Prüfbericht."
+  ]
+});

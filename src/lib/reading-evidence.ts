@@ -1250,3 +1250,24 @@ Object.assign(readingEvidence,{
     "Über Stabilität, Befestigung oder Belastbarkeit der Gegenstände haben die beiden ebenfalls keine Prüfung vorgenommen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zwei-woerter-am-fenster": [
+    "Dort stehen die vollständigen Wörter mit Artikel.",
+    "Er ergänzt das Wort das.",
+    "Zum Schluss legt Eva die Bilder in den blauen Umschlag.",
+    "Die Hefte bleiben auf dem Tisch."
+  ],
+  "alltag-a2-rueckgabe-der-uebungsblaetter": [
+    "Lea möchte erst auf den anderen Tischen nachsehen",
+    "Er hat sein Arbeitsblatt unter eine durchsichtige Mappe gelegt.",
+    "Er schreibt ihn oben rechts hin",
+    "Das heißt nicht, dass alle Antworten richtig sind."
+  ],
+  "alltag-b1-uebungswort-ist-keine-pruefung": [
+    "Er hat nur kontrolliert, ob er die Wörter vollständig mit Artikel übernommen hat.",
+    "Sie bestätigen weder den Zustand eines Rettungsrings noch die Funktion eines Fernrohrs.",
+    "Sie beschreibt eine andere Aufgabe.",
+    "die Erklärung steht direkt über den Zeilen"
+  ]
+});

@@ -396,3 +396,6 @@ for(const[topic,rows]of Object.entries(wortteilefachGrammar))exercises[topic].pu
 
 import {bildausschnittGrammar} from './exercises-bildausschnitt';
 for(const[topic,rows]of Object.entries(bildausschnittGrammar))exercises[topic].push(...rows);
+
+import {wortkontrolleGrammar} from './exercises-wortkontrolle';
+for(const[topic,rows]of Object.entries(wortkontrolleGrammar))exercises[topic].push(...rows);

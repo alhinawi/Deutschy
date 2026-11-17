@@ -234,3 +234,6 @@ readings.push(...wortteilefachTexts);
 
 import {bildausschnittTexts} from './reading-bildausschnitt';
 readings.push(...bildausschnittTexts);
+
+import {wortkontrolleTexts} from './reading-wortkontrolle';
+readings.push(...wortkontrolleTexts);

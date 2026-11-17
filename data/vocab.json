@@ -487,6 +487,10 @@
   {
    "id": "bildausschnitt",
    "ar": "كرسي هزاز وأرجوحة شبك"
+  },
+  {
+   "id": "wortkontrolle",
+   "ar": "طوق نجاة وتليسكوب"
   }
  ],
  "words": [
@@ -12748,6 +12752,36 @@
     "file": "18670081.jpg",
     "commons": "https://www.pexels.com/photo/hammock-hanging-between-palm-trees-in-the-garden-of-a-seaside-resort-18670081/",
     "author": "Aaron King",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "rettungsring",
+   "topic": "wortkontrolle",
+   "art": "der",
+   "de": "Rettungsring",
+   "plural": "Rettungsringe",
+   "ar": "طوق نجاة",
+   "photo": {
+    "file": "13043854.jpg",
+    "commons": "https://www.pexels.com/photo/lifebuoy-hanging-on-stone-wall-13043854/",
+    "author": "Nati",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "fernrohr",
+   "topic": "wortkontrolle",
+   "art": "das",
+   "de": "Fernrohr",
+   "plural": "Fernrohre",
+   "ar": "تليسكوب",
+   "photo": {
+    "file": "2568091.jpg",
+    "commons": "https://www.pexels.com/photo/vintage-metal-made-telescope-on-tower-2568091/",
+    "author": "Matt Hardy",
     "license": "Pexels License",
     "modified": true
    }

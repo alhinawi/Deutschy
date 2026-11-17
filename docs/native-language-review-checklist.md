@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the seventy-seventh practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the seventy-eighth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -754,9 +754,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Game topic picker | Clear2px accent keyboard-focus ring. Existing native-select semantics and selection behavior retained. Spelling focus/help/error/required/readability, question/progress labels, grading/XP and duplicate lock unchanged. |
 | [ ] | Listening/dictation |61 segments and Egyptian Arabic. Native editorial and actual device voice pending. No installation, use, load rating or safety advice. |
 
+### List 78: full words, returned sheets and limited checkmarks
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zwei-woerter-am-fenster/` and linked dialogue | Full Rettungsring/Fernrohr with articles versus shortened Ring/Rohr. Sami adds missing das. Photos in blue envelope, all4 cards in white, notebooks stay on table. No real objects handled. Check quoted-word syntax and Egyptian Arabic. |
+| [ ] | `/reading/alltag-a2-rueckgabe-der-uebungsblaetter/` and linked dialogue |7 sheets collected,8 expected. Paul's eighth sheet under transparent folder; name missing, added upper right. All8 returned, not all answers checked correct. Green folder with Lea; no replacement printed. |
+| [ ] | `/reading/alltag-b1-uebungswort-ist-keine-pruefung/` and linked dialogue | Checkmarks concern complete singular word-copy with article only. No technical condition/function/availability check. Own column for open plural question, no contradiction. Explanation directly above rows, unchanged photos, new filename, no technical inspection/use agreed. |
+| [ ] | `/lessons/wortkontrolle/` and `/credits/` | der Rettungsring/Rettungsringe, das Fernrohr/Fernrohre. طوق نجاة and تليسكوب. Whole orange ring against stone wall, rope leaves upper crop; faint handwritten marks not vocabulary/source. Whole mounted telescope tube/finder, support leaves lower crop. No people/product branding/padding. Photos not fictional objects or confirmed present equipment. |
+| [ ] | Six appended grammar banks |24 article/accusative/present/connector/two-way-preposition/negation rows. Earlier identities retained. Under der Mappe versus under die Mappe; nominative kein Prüfbericht versus accusative keinen Namen. |
+| [ ] | Game topic picker |44px minimum height for touch. Existing native selection and2px keyboard ring retained. Spelling focus/help/error/required/disabled readability, counter/progress, XP/key identities and duplicate guards unchanged. |
+| [ ] | Listening/dictation |64 segments and Egyptian Arabic. Native editorial and actual device voice pending. No rescue, safety, optical-use or technical-inspection instructions. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **811 photo nouns / 122 topics**, **249 reading texts / 949 reading questions**, **41 core grammar topics / 1798 core grammar questions**, **189 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **813 photo nouns / 123 topics**, **252 reading texts / 961 reading questions**, **41 core grammar topics / 1822 core grammar questions**, **192 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -768,7 +780,7 @@ This is an inventory, not completed review. Snapshot: **811 photo nouns / 122 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 65 · A2 93 · B1 61 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 66 · A2 94 · B1 62 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
