@@ -540,3 +540,6 @@ for(const[topic,rows]of Object.entries(kleinefruechteGrammar))exercises[topic].p
 
 import {zweigfruechteGrammar} from './exercises-zweigfruechte';
 for(const[topic,rows]of Object.entries(zweigfruechteGrammar))exercises[topic].push(...rows);
+
+import {kernkartenGrammar} from './exercises-kernkarten';
+for(const[topic,rows]of Object.entries(kernkartenGrammar))exercises[topic].push(...rows);

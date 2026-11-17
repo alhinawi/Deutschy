@@ -88,7 +88,7 @@ function One({ d, back }: { d: Dialogue; back: () => void }) {
       <section className="space-y-3 rounded-2xl border border-line bg-card p-5">
         <div className="flex items-center justify-between">
           <h2 className="ar-title text-2xl font-bold">{t('أسئلة', 'Questions')}</h2>
-          <span dir="ltr" className="num text-sm font-bold text-muted">{Math.min(i + 1, d.q.length)} / {d.q.length}</span>
+          <span dir="ltr" role="status" aria-live="polite" aria-atomic="true" aria-label={t(`السؤال ${Math.min(i + 1, d.q.length)} من ${d.q.length}`, `Question ${Math.min(i + 1, d.q.length)} of ${d.q.length}`)} className="num text-sm font-bold text-muted">{Math.min(i + 1, d.q.length)} / {d.q.length}</span>
         </div>
         {i >= d.q.length ? (
           <div className="space-y-3">

@@ -378,3 +378,6 @@ readings.push(...kleinefruechteTexts);
 
 import {zweigfruechteTexts} from './reading-zweigfruechte';
 readings.push(...zweigfruechteTexts);
+
+import {kernkartenTexts} from './reading-kernkarten';
+readings.push(...kernkartenTexts);
