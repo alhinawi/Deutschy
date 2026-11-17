@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the thirty-fifth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the thirty-sixth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -251,6 +251,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/grammar/akkusativ/`, `/grammar/possessiv/`, `/grammar/modalverben/`, `/grammar/imperativ/`, `/grammar/komparativ/`, `/grammar/dativ-praepositionen/` | Review 24 appended bicycle-corner questions and explanations: supplied pronoun cues, possessive endings, Zähl with valid Zähle alternative stated, Nehmt/Gib, länger/genauer and den Freunden. Earlier saved topic/index identities retained. |
 | [ ] | `/speaking-cards/` and `/dictation/` | Check per-card notes/checkmarks survive switching, selected-card reset leaves other cards intact, hides the model and returns focus to notes. Self-check count is not a speaking score. Leaving/reloading clears this temporary practice. Review new focused dictation with a real German voice; mock tests do not validate pronunciation. No speech recorded or points/history saved here. |
 
+### Thirty-sixth update: additional pending targets
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-garnrolle/` | Check a spool reserved for the unfinished blue bag, the empty white spool put below, tomorrow's plan to show the sister the bag and all 4 evidence answers. Review **Bitte noch nicht wegräumen**, its 3 answers and Egyptian meanings separately. |
+| [ ] | `/reading/alltag-a2-nahttrenner/` | Check Schere versus Nahttrenner, two language cards for the same spool, separate photos, the cap staying with its tool and all 4 questions. Review **Die Karte gehört zur Schere**, its 3 answers and Egyptian Arabic. Object labels are not sewing instructions. |
+| [ ] | `/reading/alltag-b1-stoffreste/` | Check permission limited to two green offcuts and this project; blue fabric and spool excluded; the labeled small box does not authorize using the entire shelf or later materials. Review **Nur die grünen Stücke**, all 7 reading/dialogue answers and Egyptian meanings. No price or exchange agreed. |
+| [ ] | `/lessons/naehbox/` | Check die Garnrolle / Garnrollen and der Nahttrenner / die Nahttrenner, Egyptian meanings and complete unbranded spool/green-tool photos. Spool has native dark background, not an added black frame; seam-ripper crop removes empty background only. Neutral padding and original-source credits recorded. Existing Fingerhut not duplicated. |
+| [ ] | `/grammar/satzbau/`, `/grammar/praesens/`, `/grammar/negation/`, `/grammar/trennbare-verben/`, `/grammar/dativ/`, `/grammar/perfekt/` | Review 24 appended sewing-box questions/explanations: behält, neutral yes/no versus echo questions, keinen Namen, räumt weg, schlägt nach, nachgeschlagen and zurückgebracht. Earlier saved topic/index identities retained. |
+| [ ] | `/dialogues/` role practice and `/dictation/` | Check bounded previous-line and same-role restart, hidden suggestions restored, audio canceled on moves/restarts, stale audio errors ignored and no saved position/points. Check **Zählen wir noch einmal nach** now uses **Für die kleine Tasche ist sie zu lang.** for Luftpumpe, including exact support quote. Review new dictation on a real German voice; mocks do not validate pronunciation. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -265,7 +276,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **727 photo nouns / 80 topics**, **123 reading texts / 445 reading questions**, **41 core grammar topics / 790 core grammar questions**, **63 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **729 photo nouns / 81 topics**, **126 reading texts / 457 reading questions**, **41 core grammar topics / 814 core grammar questions**, **66 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -277,7 +288,7 @@ This is an inventory, not completed review. Snapshot: **727 photo nouns / 80 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 23 · A2 36 · B1 34 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 24 · A2 37 · B1 35 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

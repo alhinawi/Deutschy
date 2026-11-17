@@ -270,3 +270,6 @@ for(const[topic,rows]of Object.entries(garteneckeGrammar))exercises[topic].push(
 
 import {fahrradeckeGrammar} from './exercises-fahrradecke';
 for(const[topic,rows]of Object.entries(fahrradeckeGrammar))exercises[topic].push(...rows);
+
+import {naehboxGrammar} from './exercises-naehbox';
+for(const[topic,rows]of Object.entries(naehboxGrammar))exercises[topic].push(...rows);

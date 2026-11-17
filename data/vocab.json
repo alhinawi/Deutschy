@@ -319,6 +319,10 @@
   {
    "id": "fahrradecke",
    "ar": "حاجات لركن العجل"
+  },
+  {
+   "id": "naehbox",
+   "ar": "حاجات لعلبة الخياطة"
   }
  ],
  "words": [
@@ -11299,6 +11303,36 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Reifenheber-metall.jpg",
     "author": "Gmhofmann",
     "license": "Public domain",
+    "padding": true
+   }
+  },
+  {
+   "id": "garnrolle",
+   "topic": "naehbox",
+   "art": "die",
+   "de": "Garnrolle",
+   "plural": "Garnrollen",
+   "ar": "بكرة خيط",
+   "photo": {
+    "file": "Spool of white thread.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Spool_of_white_thread.jpg",
+    "author": "Dmeranda (attribution recorded by Commons)",
+    "license": "CC BY-SA 3.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "nahttrenner",
+   "topic": "naehbox",
+   "art": "der",
+   "de": "Nahttrenner",
+   "plural": "-",
+   "ar": "أداة لفك غرز الخياطة",
+   "photo": {
+    "file": "SEAM RIPPER.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:SEAM_RIPPER.jpg",
+    "author": "Ranjithkumar Murugesan",
+    "license": "CC0; cropped empty background, complete object preserved",
     "padding": true
    }
   }
