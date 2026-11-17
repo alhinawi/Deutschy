@@ -475,6 +475,10 @@
   {
    "id": "fruehstuecksplatz",
    "ar": "سبت عيش وطبق فاكهة"
+  },
+  {
+   "id": "vitrinenwoerter",
+   "ar": "سكرية وكسارة بندق"
   }
  ],
  "words": [
@@ -12646,6 +12650,36 @@
     "file": "36988020.jpg",
     "commons": "https://www.pexels.com/photo/elegant-still-life-of-apples-and-pears-in-bowl-36988020/",
     "author": "Julia Olson",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "zuckerdose",
+   "topic": "vitrinenwoerter",
+   "art": "die",
+   "de": "Zuckerdose",
+   "plural": "Zuckerdosen",
+   "ar": "سكرية",
+   "photo": {
+    "file": "38465369.jpg",
+    "commons": "https://www.pexels.com/photo/traditional-copper-sugar-bowl-with-tassel-on-vibrant-background-38465369/",
+    "author": "Toygar Par",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "nussknacker",
+   "topic": "vitrinenwoerter",
+   "art": "der",
+   "de": "Nussknacker",
+   "plural": "-",
+   "ar": "كسارة بندق",
+   "photo": {
+    "file": "18454971.jpg",
+    "commons": "https://www.pexels.com/photo/books-by-bowl-with-walnuts-and-nutcracker-18454971/",
+    "author": "Meryem Şahin",
     "license": "Pexels License",
     "modified": true
    }

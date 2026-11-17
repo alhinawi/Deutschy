@@ -1187,3 +1187,24 @@ Object.assign(readingEvidence,{
     "Farid ergänzt seine Lernkarte um den vollständigen Beispielsatz."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zwei-dinge-im-regal": [
+    "Auf dem oberen Brett steht eine Zuckerdose.",
+    "Sie steckt noch im Heft.",
+    "Sie machen heute keine neuen Fotos. Ben hat schon zwei passende Aufnahmen auf seinem Computer.",
+    "Anja nimmt ihr eigenes Heft mit nach Hause."
+  ],
+  "alltag-a2-karte-mit-offener-frage": [
+    "Auf einem losen Zettel steht der Name ihrer Großmutter.",
+    "Unter jedes Foto kommen der Name des Gegenstands und der Ort, an dem Selin ihn gefunden hat.",
+    "Selin möchte ihre Tante bei einem späteren Besuch danach fragen. Einen Termin dafür hat sie noch nicht.",
+    "Nach dem Gespräch sind weder die frühere Besitzerin noch das Alter der beiden Gegenstände geklärt."
+  ],
+  "alltag-b1-gleiches-wort-andere-form": [
+    "Für Nussknacker wählen sie das zangenähnliche Gerät.",
+    "Dabei behaupten sie nicht, dass jede dekorative Figur tatsächlich Nüsse öffnen kann.",
+    "Auch bei der Zuckerdose vermeiden sie eine Regel über Henkel, Farbe oder Deckelhöhe.",
+    "Eine Materialbestimmung, eine Funktionsprüfung oder eine Anleitung gehört nicht zu diesem Wortabend."
+  ]
+});

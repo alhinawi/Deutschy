@@ -12028,3 +12028,218 @@ Object.assign(dialogueEvidence,{
     "behalte beide Möglichkeiten."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "die-zweite-karte-im-heft",
+    "level": "A1",
+    "title": [
+      "Wo ist die zweite Karte?",
+      "الكارت التاني فين؟"
+    ],
+    "lines": [
+      [
+        "Anja",
+        "Wie heißt die Dose auf dem oberen Brett?",
+        "اسم السكرية اللي على الرف اللي فوق إيه؟"
+      ],
+      [
+        "Ben",
+        "Zuckerdose. Die Karte liegt direkt darunter.",
+        "Zuckerdose. الكارت موجود تحتها على طول."
+      ],
+      [
+        "Anja",
+        "Und unter dem Nussknacker liegt noch keine Karte.",
+        "وتحت كسارة البندق لسه مفيش كارت."
+      ],
+      [
+        "Ben",
+        "Die steckt noch in meinem Heft. Ich lege sie auf das untere Brett.",
+        "لسه جوه كراستي. هحطها على الرف اللي تحت."
+      ],
+      [
+        "Anja",
+        "Machen wir heute Fotos von beiden Sachen?",
+        "نصور الحاجتين النهارده؟"
+      ],
+      [
+        "Ben",
+        "Nein, die Bilder auf meinem Computer passen schon. Ausdrucken möchte ich sie später.",
+        "لأ، الصور اللي على الكمبيوتر مناسبة من قبل كده. عايز أطبعها بعدين."
+      ],
+      [
+        "Anja",
+        "Dann schreibe ich jetzt nur die Wörter in mein Heft.",
+        "يبقى دلوقتي أكتب الكلمات بس في كراستي."
+      ]
+    ],
+    "q": [
+      [
+        "Wo liegt die erste Karte?",
+        "Direkt unter der Zuckerdose.",
+        "Im Computer.",
+        "Bei Anja zu Hause."
+      ],
+      [
+        "Was holt Ben aus seinem Heft?",
+        "Die zweite Karte.",
+        "Eine neue Zuckerdose.",
+        "Einen Teller."
+      ],
+      [
+        "Was möchte Ben später machen?",
+        "Die vorhandenen Bilder ausdrucken.",
+        "Neue Sachen kaufen.",
+        "Alle Karten wegwerfen."
+      ]
+    ]
+  },
+  {
+    "id": "fundort-und-eigentum-trennen",
+    "level": "A2",
+    "title": [
+      "Das wissen wir noch nicht",
+      "ده لسه مانعرفوش"
+    ],
+    "lines": [
+      [
+        "Marek",
+        "Auf dem Zettel steht der Name deiner Großmutter. Waren die Sachen also ihre?",
+        "على الورقة اسم جدتك. يبقى الحاجات كانت بتاعتها؟"
+      ],
+      [
+        "Selin",
+        "Das vermuten wir nur. Wir wissen nicht, worauf sich der Name bezieht.",
+        "ده تخمين بس. مش عارفين الاسم متعلق بإيه."
+      ],
+      [
+        "Marek",
+        "Dann schreibe ich unter die Fotos nur Zuckerdose und Nussknacker und den Fundort.",
+        "يبقى أكتب تحت الصور Zuckerdose وNussknacker بس ومكان اللقيا."
+      ],
+      [
+        "Selin",
+        "Die Frage nach der früheren Besitzerin kommt auf ein eigenes Blatt.",
+        "السؤال عن المالكة القديمة يتحط على ورقة لوحده."
+      ],
+      [
+        "Marek",
+        "Heißt das, dass deine Großmutter sicher nicht die Besitzerin war?",
+        "ده معناه إن جدتك أكيد مكنتش المالكة؟"
+      ],
+      [
+        "Selin",
+        "Nein. Es ist weder bestätigt noch widerlegt. Ich frage meine Tante bei einem späteren Besuch.",
+        "لأ. ده لا اتأكد ولا اتثبت غلط. هسأل خالتي في زيارة بعدين."
+      ],
+      [
+        "Marek",
+        "Einen Termin dafür haben wir noch nicht. Den alten Zettel behalten wir.",
+        "لسه مش عندنا معاد لكده. نحتفظ بالورقة القديمة."
+      ]
+    ],
+    "q": [
+      [
+        "Wie sicher ist die Eigentumsvermutung?",
+        "Weder bestätigt noch widerlegt.",
+        "Bereits bewiesen.",
+        "Sicher falsch."
+      ],
+      [
+        "Wohin kommt die Frage nach der Besitzerin?",
+        "Auf ein eigenes Blatt.",
+        "Als bestätigte Tatsache unter jedes Foto.",
+        "In eine schon gesendete Bestellung."
+      ],
+      [
+        "Was behalten sie?",
+        "Den alten Zettel.",
+        "Nur eine neu erfundene Jahreszahl.",
+        "Nichts aus der Schachtel."
+      ]
+    ]
+  },
+  {
+    "id": "beispiel-ist-keine-formenliste",
+    "level": "B1",
+    "title": [
+      "Nicht alle sehen gleich aus",
+      "مش كلهم شكل واحد"
+    ],
+    "lines": [
+      [
+        "Ada",
+        "Meine Zuckerdose sieht anders aus. Ist das Foto trotzdem ein passendes Beispiel?",
+        "السكرية عندي شكلها مختلف. الصورة برضه مثال مناسب؟"
+      ],
+      [
+        "Leon",
+        "Ja. Das Wort verlangt nicht, dass jede Dose dieselbe Farbe oder dieselben Henkel hat.",
+        "أيوه. الكلمة مش بتشترط إن كل سكرية ليها نفس اللون أو نفس الودان."
+      ],
+      [
+        "Ada",
+        "Und beim Nussknacker kenne ich auch die bemalte Holzfigur.",
+        "وبالنسبة لكسارة البندق عارفة كمان الشخصية الخشب المتلونة."
+      ],
+      [
+        "Leon",
+        "Wir zeigen heute das zangenähnliche Gerät. Die andere Form kommt als Hinweis auf ein extra Blatt.",
+        "النهارده بنعرض الأداة اللي شبه الزرادية. الشكل التاني يتحط كملحوظة على ورقة لوحده."
+      ],
+      [
+        "Ada",
+        "Damit bestätigen wir aber nicht, dass jede Dekorationsfigur funktioniert.",
+        "بس كده مش بنأكد إن كل شخصية زينة بتشتغل."
+      ],
+      [
+        "Leon",
+        "Genau. Heute prüfen wir nur die Zuordnung von Wort und Bild.",
+        "بالظبط. النهارده بنراجع بس توصيل الكلمة بالصورة."
+      ],
+      [
+        "Ada",
+        "Dann nenne ich die Sammlung Beispiele, keine vollständige Formenliste.",
+        "يبقى أسمي المجموعة أمثلة، مش قايمة كاملة للأشكال."
+      ]
+    ],
+    "q": [
+      [
+        "Was zeigt die Sammlung?",
+        "Beispiele, keine vollständige Formenliste.",
+        "Eine geprüfte Bedienungsanleitung.",
+        "Alle möglichen Materialien."
+      ],
+      [
+        "Welche Nussknackerform zeigen sie heute?",
+        "Das zangenähnliche Gerät.",
+        "Ausschließlich die Holzfigur.",
+        "Keine der genannten Formen."
+      ],
+      [
+        "Was prüfen sie heute?",
+        "Nur die Zuordnung von Wort und Bild.",
+        "Die Funktion jeder Dekorationsfigur.",
+        "Die Materialien aller Gegenstände."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "die-zweite-karte-im-heft": [
+    "Die Karte liegt direkt darunter.",
+    "Die steckt noch in meinem Heft.",
+    "Ausdrucken möchte ich sie später."
+  ],
+  "fundort-und-eigentum-trennen": [
+    "Es ist weder bestätigt noch widerlegt.",
+    "kommt auf ein eigenes Blatt.",
+    "Den alten Zettel behalten wir."
+  ],
+  "beispiel-ist-keine-formenliste": [
+    "Beispiele, keine vollständige Formenliste.",
+    "Wir zeigen heute das zangenähnliche Gerät.",
+    "Heute prüfen wir nur die Zuordnung von Wort und Bild."
+  ]
+});

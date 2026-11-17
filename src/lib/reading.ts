@@ -225,3 +225,6 @@ readings.push(...naehkistenfachTexts);
 
 import {fruehstuecksplatzTexts} from './reading-fruehstuecksplatz';
 readings.push(...fruehstuecksplatzTexts);
+
+import {vitrinenwoerterTexts} from './reading-vitrinenwoerter';
+readings.push(...vitrinenwoerterTexts);

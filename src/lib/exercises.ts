@@ -387,3 +387,6 @@ for(const[topic,rows]of Object.entries(naehkistenfachGrammar))exercises[topic].p
 
 import {fruehstuecksplatzGrammar} from './exercises-fruehstuecksplatz';
 for(const[topic,rows]of Object.entries(fruehstuecksplatzGrammar))exercises[topic].push(...rows);
+
+import {vitrinenwoerterGrammar} from './exercises-vitrinenwoerter';
+for(const[topic,rows]of Object.entries(vitrinenwoerterGrammar))exercises[topic].push(...rows);

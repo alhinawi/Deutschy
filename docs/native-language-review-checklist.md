@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the seventy-second practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the seventy-fifth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -718,9 +718,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 - [ ] Listening: listen on a German device voice if available. Check sentence segmentation, numbers and abbreviations. A pronunciation issue may belong to the device voice rather than the text.
 - [ ] Safety and context: fictional prices, timetables, ticket validity, medical scenarios and workplace arrangements must not read as current policy, medical advice or real events.
 
+### List 75: sugar bowl, nutcracker and uncertain descriptions
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zwei-dinge-im-regal/` and linked dialogue | Sugar bowl above, nutcracker below. First card under bowl, second initially inside Ben's notebook, then on lower shelf. Existing pictures on computer, printing later, no new photos today. Anja takes only her own notebook home. |
+| [ ] | `/reading/alltag-a2-karte-mit-offener-frage/` and linked dialogue | Box found in aunt's cupboard; loose grandmother-name slip does not confirm ownership of both items. Names/find-location go below photos, ownership question on separate sheet. Aunt to be asked later, no date fixed. Previous owner and age remain unknown, hypothesis neither proved nor disproved. |
+| [ ] | `/reading/alltag-b1-gleiches-wort-andere-form/` and linked dialogue | Device versus wooden-figure form of Nussknacker. Display shows pliers-style device only. No claim that every decorative figure functions. Zuckerdose examples need not share handles/color/lid height. Examples not full forms list; no material/function test or instructions. |
+| [ ] | `/lessons/vitrinenwoerter/` and `/credits/` | die Zuckerdose/Zuckerdosen, der Nussknacker/same plural. Egyptian Arabic سكرية and كسارة بندق. Whole ornate lidded metal bowl with tassel/saucer; whole nutcracker on bowl of nuts, bowl partly cropped. Original book covers, candle and flowers excluded. Photos illustrate words, not exact fictional scenes or proven contents/material. |
+| [ ] | Six appended grammar banks |24 article/accusative/present/connector/two-way-preposition/negation rows. Prior identities retained. Check fixed-location dem Nussknacker versus destination den Nussknacker and relative ownership uncertainty. |
+| [ ] | Round progress | Localized value text now explicitly says how many questions have been answered, not which one is currently open. Initial0, then1 in two-question rounds. Name/min/max/current preserved. Spelling focus, readability, required/help/error semantics and scoring unchanged. |
+| [ ] | Listening/dictation |58 segments, Egyptian Arabic, German word shapes and noun compounds. Actual device voice and native editorial approval pending. No food handling, tool-use instructions, health or provenance claims. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **805 photo nouns / 119 topics**, **240 reading texts / 913 reading questions**, **41 core grammar topics / 1726 core grammar questions**, **180 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **807 photo nouns / 120 topics**, **243 reading texts / 925 reading questions**, **41 core grammar topics / 1750 core grammar questions**, **183 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -732,7 +744,7 @@ This is an inventory, not completed review. Snapshot: **805 photo nouns / 119 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 62 · A2 90 · B1 58 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 63 · A2 91 · B1 59 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

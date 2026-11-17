@@ -168,4 +168,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-platz-auf-dem-tisch',dialogue:'in-der-mitte-ist-noch-kein-platz'},
  {reading:'alltag-a2-fruehstueck-im-anderen-zimmer',dialogue:'nur-der-tisch-wechselt'},
  {reading:'alltag-b1-zwei-bedeutungen-eines-wortes',dialogue:'aus-glas-gibt-den-zusammenhang'},
+ {reading:'alltag-a1-zwei-dinge-im-regal',dialogue:'die-zweite-karte-im-heft'},
+ {reading:'alltag-a2-karte-mit-offener-frage',dialogue:'fundort-und-eigentum-trennen'},
+ {reading:'alltag-b1-gleiches-wort-andere-form',dialogue:'beispiel-ist-keine-formenliste'},
 ];
