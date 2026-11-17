@@ -557,3 +557,24 @@ Object.assign(readingEvidence,{
     "Nach dem Ausprobieren stellen sie den Ständer wieder an seinen bisherigen Platz und schließen alle Türen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-badbecher": [
+    "Links neben dem Waschbecken steht ein Zahnputzbecher.",
+    "Der rechte Haken bleibt frei.",
+    "Paul hebt den Deckel vom Wäschekorb und legt ein altes Tuch hinein.",
+    "Sie sucht dahinter eine leere Flasche und findet sie auf der Ablage."
+  ],
+  "alltag-a2-korbdeckel": [
+    "Seine Mitbewohnerin Lea hält ihn für ein flaches Tablett und möchte einige Flaschen daraufstellen.",
+    "Sie stellt sie auf das freie Regal neben dem Waschbecken.",
+    "Lea hängt ihr Handtuch an den linken Haken, der rechte bleibt für Amir frei.",
+    "Persönliche Zahnbürsten werden nicht getauscht."
+  ],
+  "alltag-a2-vorhangring": [
+    "Auf der Ablage liegen mehrere Ringe, aber einer fehlt.",
+    "Nina weiß jedoch nicht, ob er zu diesem Vorhang und zu seiner Stange passt.",
+    "Der Vorhang bleibt zusammengelegt auf einer freien Ablage.",
+    "Es ist noch kein Ersatz ausgewählt oder bestellt."
+  ]
+});

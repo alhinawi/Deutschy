@@ -78,4 +78,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-flurspiegel',dialogue:'schal-am-buegel'},
  {reading:'alltag-a2-zwei-handschuhe',dialogue:'kein-sicheres-paar'},
  {reading:'alltag-a2-flurbreite',dialogue:'staender-zurueckstellen'},
+ {reading:'alltag-a1-badbecher',dialogue:'mittlerer-haken'},
+ {reading:'alltag-a2-korbdeckel',dialogue:'kein-tablett-im-bad'},
+ {reading:'alltag-a2-vorhangring',dialogue:'ring-getrennt-lassen'},
 ];

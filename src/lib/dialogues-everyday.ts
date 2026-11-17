@@ -5578,3 +5578,218 @@ Object.assign(dialogueEvidence,{
     "Wir ändern heute nichts dauerhaft"
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "mittlerer-haken",
+    "level": "A1",
+    "title": [
+      "Der rechte bleibt frei",
+      "اليمين يفضل فاضي"
+    ],
+    "lines": [
+      [
+        "Paul",
+        "Wohin kommt das blaue Handtuch?",
+        "الفوطة الزرقا تتحط فين؟"
+      ],
+      [
+        "Mina",
+        "An den mittleren Handtuchhaken, bitte.",
+        "على خطاف الفوط اللي في النص لو سمحت."
+      ],
+      [
+        "Paul",
+        "Dann bleibt der rechte Haken frei.",
+        "يبقى الخطاف اليمين يفضل فاضي."
+      ],
+      [
+        "Mina",
+        "Genau. Der Zahnputzbecher steht links neben dem Waschbecken.",
+        "بالظبط. كوباية فرش السنان على شمال الحوض."
+      ],
+      [
+        "Paul",
+        "Ich lege die Seife in die Schale auf der rechten Seite.",
+        "هحط الصابونة في الصبانة في الناحية اليمين."
+      ],
+      [
+        "Mina",
+        "Und ich suche die leere Flasche hinter dem Duschvorhang.",
+        "وأنا هدور على الإزازة الفاضية ورا ستارة الدش."
+      ],
+      [
+        "Paul",
+        "Den Deckel setze ich wieder auf den Wäschekorb.",
+        "وهرجع الغطا على سبت الغسيل."
+      ]
+    ],
+    "q": [
+      [
+        "An welchen Haken kommt das Handtuch?",
+        "An den mittleren.",
+        "An den rechten.",
+        "An keinen."
+      ],
+      [
+        "Wo steht der Zahnputzbecher?",
+        "Links neben dem Waschbecken.",
+        "Im Wäschekorb.",
+        "Auf der Badematte."
+      ],
+      [
+        "Wohin kommt der Deckel?",
+        "Wieder auf den Wäschekorb.",
+        "Unter die Seifenschale.",
+        "In den Becher."
+      ]
+    ]
+  },
+  {
+    "id": "kein-tablett-im-bad",
+    "level": "A2",
+    "title": [
+      "Nicht als Ablage gedacht",
+      "مش معمول كرف"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Kann ich diese Flaschen auf das runde Tablett stellen?",
+        "ممكن أحط الإزازات دي على الصينية المدورة؟"
+      ],
+      [
+        "Amir",
+        "Das ist der Deckel vom Wäschekorb, kein Tablett.",
+        "ده غطا سبت الغسيل، مش صينية."
+      ],
+      [
+        "Lea",
+        "Ach so. Dann stelle ich sie auf das freie Regal.",
+        "آه فهمت. يبقى أحطهم على الرف الفاضي."
+      ],
+      [
+        "Amir",
+        "Danke. Ich setze den Deckel wieder auf den Korb.",
+        "شكراً. هرجع الغطا على السبت."
+      ],
+      [
+        "Lea",
+        "Der rechte Handtuchhaken bleibt für dich frei.",
+        "خطاف الفوط اليمين يفضل فاضي ليك."
+      ],
+      [
+        "Amir",
+        "Gut. Unsere Zahnbürsten tauschen wir nicht.",
+        "تمام. فرش السنان بتاعتنا مانبدلهاش."
+      ],
+      [
+        "Lea",
+        "Und bei unbekannten Dingen frage ich erst nach dem Zweck.",
+        "ولما ألاقي حاجة مش عارفاها هسأل الأول هي معمولة لإيه."
+      ]
+    ],
+    "q": [
+      [
+        "Was ist das runde Teil?",
+        "Der Deckel des Wäschekorbs.",
+        "Ein Tablett.",
+        "Eine Seifenschale."
+      ],
+      [
+        "Wo stellt Lea die Flaschen hin?",
+        "Auf das freie Regal.",
+        "Auf den Deckel.",
+        "In den Zahnputzbecher."
+      ],
+      [
+        "Was will Lea bei unbekannten Dingen tun?",
+        "Zuerst nach dem Zweck fragen.",
+        "Sofort alles wegwerfen.",
+        "Den Preis erraten."
+      ]
+    ]
+  },
+  {
+    "id": "ring-getrennt-lassen",
+    "level": "A2",
+    "title": [
+      "Passt der wirklich dazu?",
+      "هو فعلاً مناسب ليها؟"
+    ],
+    "lines": [
+      [
+        "Tom",
+        "Neben dem Wäschekorb liegt ein ähnlicher Ring. Nehmen wir den?",
+        "جنب سبت الغسيل فيه حلقة شبههم. ناخدها؟"
+      ],
+      [
+        "Nina",
+        "Ich weiß noch nicht, ob er zu diesem Vorhang passt.",
+        "لسه مش عارفة إذا كانت مناسبة للستارة دي."
+      ],
+      [
+        "Tom",
+        "Dann lege ich ihn getrennt neben die anderen Ringe.",
+        "يبقى أحطها منفصلة جنب باقي الحلقات."
+      ],
+      [
+        "Nina",
+        "Ja. Wir sehen später die Angaben zum Vorhang nach.",
+        "آه. نراجع معلومات الستارة بعدين."
+      ],
+      [
+        "Tom",
+        "Bestellen wir jetzt schon Ersatz?",
+        "نطلب بديل من دلوقتي؟"
+      ],
+      [
+        "Nina",
+        "Nein, wir haben noch nichts ausgewählt.",
+        "لأ، لسه ماخترناش حاجة."
+      ],
+      [
+        "Tom",
+        "Der Vorhang bleibt bis dahin zusammengelegt auf der Ablage.",
+        "الستارة تفضل لحد وقتها متطبقة على الرف."
+      ]
+    ],
+    "q": [
+      [
+        "Was ist über den gefundenen Ring noch unklar?",
+        "Ob er zum Vorhang passt.",
+        "Ob er neben dem Korb lag.",
+        "Ob Tom ihn gesehen hat."
+      ],
+      [
+        "Was wollen sie später nachsehen?",
+        "Die Angaben zum Vorhang.",
+        "Den Fahrplan.",
+        "Die Größe der Zahnbürste."
+      ],
+      [
+        "Wie bleibt der Vorhang zunächst?",
+        "Zusammengelegt auf der Ablage.",
+        "Fertig montiert.",
+        "Im Wäschekorb versteckt."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "mittlerer-haken": [
+    "An den mittleren Handtuchhaken",
+    "links neben dem Waschbecken.",
+    "wieder auf den Wäschekorb."
+  ],
+  "kein-tablett-im-bad": [
+    "der Deckel vom Wäschekorb",
+    "auf das freie Regal.",
+    "frage ich erst nach dem Zweck."
+  ],
+  "ring-getrennt-lassen": [
+    "ob er zu diesem Vorhang passt.",
+    "die Angaben zum Vorhang nach.",
+    "zusammengelegt auf der Ablage."
+  ]
+});

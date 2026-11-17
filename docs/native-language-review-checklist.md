@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the forty-fourth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the forty-fifth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -350,6 +350,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/grammar/artikel-genus/`, `/grammar/dativ/`, `/grammar/trennbare-verben/`, `/grammar/praesens/`, `/grammar/dativ-praepositionen/`, `/grammar/negation/` | Review 24 appended rows/explanations: nominative articles, dative recipient/gehören/helfen, separable prefixes, agreement, Wo/Wohin with dative/accusative, kein/nicht. Earlier saved identities unchanged. |
 | [ ] | `/perfekt/` table and `/dictation/` | Table-only filter count, case/trim-insensitive German/English search, scoped clear/focus and empty state; not score/progress. Real German voice check needed for 47 focused dictation sentences; mock speech is not pronunciation review. |
 
+### Forty-fifth update: small bathroom (pending)
+
+| Review | Route / item | Focus |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-badbecher/` | Review **Der Becher steht links** and **Der rechte bleibt frei**: cup left of sink, soap dish right, towel on middle hook, right hook empty, old cloth in basket and lid replaced, empty bottle behind curtain. Check 7 questions/evidence and Egyptian meanings. |
+| [ ] | `/reading/alltag-a2-korbdeckel/` | Review **Der Deckel gehört zum Korb** and **Nicht als Ablage gedacht**: basket lid not tray, bottles on shelf, right hook for Amir, personal brushes not swapped. No load claim or general cleaning instruction. Check 7 questions/evidence. |
+| [ ] | `/reading/alltag-a2-vorhangring/` | Review **Ein Ring fehlt noch** and **Passt der wirklich dazu?**: found ring not assumed compatible, separated from others, curtain folded on shelf, no new hook mounted or replacement ordered. No fixing/load instruction. Check 7 questions/evidence. |
+| [ ] | `/lessons/badrunde/` | Check der Zahnputzbecher and der Handtuchhaken, both same-form plurals. Whole cup/brushes after surroundings-only crop; hand has no face. Whole towel hooks visible. Pexels sources/photographers/license and changes in Credits. Real photo settings are not fictional bathroom. |
+| [ ] | Six expanded grammar banks | `/grammar/akkusativ/`, `/grammar/possessiv/`, `/grammar/modalverben/`, `/grammar/imperativ/`, `/grammar/komparativ/`, `/grammar/dativ-praepositionen/`: 24 appended rows, den Deckel, ihr Handtuch, möchte aufhängen, du/ihr/Sie, größer/höher/weicher, nach dem Ring/mit seiner Schwester. Earlier identities retained. |
+| [ ] | `/verbs/` and `/dictation/` | Clear-query-only keeps level/type filters and focuses search; full reset clears all filters/focuses. Temporary controls, not progress. Singular English verb count corrected. Real German voice review of 45 focused dictation sentences needed; mocks do not verify pronunciation. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -364,7 +375,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **745 photo nouns / 89 topics**, **150 reading texts / 553 reading questions**, **41 core grammar topics / 1006 core grammar questions**, **90 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **747 photo nouns / 90 topics**, **153 reading texts / 565 reading questions**, **41 core grammar topics / 1030 core grammar questions**, **93 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -376,7 +387,7 @@ This is an inventory, not completed review. Snapshot: **745 photo nouns / 89 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 32 · A2 52 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 33 · A2 54 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

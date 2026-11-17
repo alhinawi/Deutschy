@@ -135,3 +135,6 @@ readings.push(...balkonrundeTexts);
 
 import {garderobenrundeTexts} from './reading-garderobenrunde';
 readings.push(...garderobenrundeTexts);
+
+import {badrundeTexts} from './reading-badrunde';
+readings.push(...badrundeTexts);

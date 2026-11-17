@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  badrunde: 'Dinge fürs kleine Bad',
   garderobenrunde: 'Flur und Kleiderschrank',
   balkonrunde: 'Balkon und kleine Pflanzen',
   hauseingang: 'Hauseingang und Treppenhaus',
@@ -86,6 +87,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  badrunde: 'Things for the small bathroom',
   garderobenrunde: 'Hallway and wardrobe',
   balkonrunde: 'Balcony and small plants',
   hauseingang: 'Home entrance and stairwell',

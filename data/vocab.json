@@ -355,6 +355,10 @@
   {
    "id": "garderobenrunde",
    "ar": "الطرقة ودولاب الهدوم"
+  },
+  {
+   "id": "badrunde",
+   "ar": "حاجات الحمام الصغير"
   }
  ],
  "words": [
@@ -11604,6 +11608,37 @@
     "file": "pexels-photo-346732.jpeg",
     "commons": "https://www.pexels.com/photo/beige-and-black-straw-hat-on-wooden-surface-346732/",
     "author": "Porapak Apichodilok",
+    "license": "Pexels License",
+    "padding": true
+   }
+  },
+  {
+   "id": "zahnputzbecher",
+   "topic": "badrunde",
+   "art": "der",
+   "de": "Zahnputzbecher",
+   "plural": "-",
+   "ar": "كوباية لفرش السنان",
+   "photo": {
+    "file": "pexels-photo-7608289.jpeg",
+    "commons": "https://www.pexels.com/photo/wooden-toothbrushes-in-a-cup-7608289/",
+    "author": "Tima Miroshnichenko",
+    "license": "Pexels License",
+    "padding": true,
+    "modified": "Surroundings cropped; complete cup and toothbrushes retained."
+   }
+  },
+  {
+   "id": "handtuchhaken",
+   "topic": "badrunde",
+   "art": "der",
+   "de": "Handtuchhaken",
+   "plural": "-",
+   "ar": "خطاف لتعليق الفوط",
+   "photo": {
+    "file": "pexels-photo-8159651.jpeg",
+    "commons": "https://www.pexels.com/photo/white-towel-on-white-tiled-bathroom-8159651/",
+    "author": "Ron Lach",
     "license": "Pexels License",
     "padding": true
    }
