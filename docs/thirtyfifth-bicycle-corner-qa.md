@@ -24,11 +24,11 @@ Speaking cards: selected-card reset clears only its keywords/checkmarks/model an
 -132 reading/dialogue answer checks including support, lock and transcript gates.
 -984 grammar answer checks covering every question in all6 expanded banks and existing saved keys.
 -8 photo-quiz answers; both complete photos decoded on AR/EN320/390px lessons.
--4 speaking flows: two cards retain independent notes/checkmarks; scoped reset, model hiding, focus return, live count and reload clearing. No saved progress mutation.
+-4 speaking flows: two cards retain independent notes/checkmarks; scoped reset, model hiding, focus return, hash-link selection without stale reset status, live count and reload clearing. No saved progress mutation.
 -180 focused dictation selections across45 sentences; source jump, exact match, speech text/de-DE, no progress writes. Speech calls mocked: actual pronunciation remains a device-voice/manual check.
 -76 clean axe states.132 route/viewport checks, no tested page overflow, broken images or console errors.
 -6 visited routes reopen offline; uncached route shows honest fallback. Offline does not preload the whole library.
--615 generated HTML pages /597 sitemap URLs. Versioned worker svVB7528WepJjucWdHu1i.
+-615 generated HTML pages /597 sitemap URLs. Versioned worker f4Gwm8CWhOJOdOmYpl1j2.
 -21-page native editorial review PDF updated with focused list35 queue; inspected new batch, inventory and sign-off pages. Every review box remains pending.
 
 ## Caveats
