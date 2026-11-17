@@ -111,4 +111,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-reisebeutel',dialogue:'maske-im-reisefach'},
  {reading:'alltag-a2-zwei-kulturbeutel',dialogue:'gruenes-band-am-griff'},
  {reading:'alltag-b1-packliste-aendern',dialogue:'nur-die-grosse-tasche'},
+ {reading:'alltag-a1-haushaltsfach',dialogue:'rolle-unten-im-schrank'},
+ {reading:'alltag-a2-vorrat-zaehlen',dialogue:'nicht-alles-auf-die-liste'},
+ {reading:'alltag-b1-haushaltsnotiz',dialogue:'welches-papier-welcher-eimer'},
 ];

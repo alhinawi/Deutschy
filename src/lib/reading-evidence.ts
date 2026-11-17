@@ -788,3 +788,24 @@ Object.assign(readingEvidence,{
     "Für Tickets oder andere Unterlagen müssen sie gesondert nachsehen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-haushaltsfach": [
+    "Auf dem unteren Brett steht eine Toilettenpapierrolle.",
+    "Dort findet sie nur ihren Bademantel.",
+    "Jana möchte ihn später selbst leeren.",
+    "Auf der Liste steht noch kein Toilettenpapier."
+  ],
+  "alltag-a2-vorrat-zaehlen": [
+    "Die Rolle im Bad zeigt schließlich nicht, wie viel insgesamt noch da ist.",
+    "Im Schrank finden sie eine ungeöffnete Packung mit sechs Rollen.",
+    "Ben hat ihn hinter den Stuhl gestellt, als er eine Tasche vorbeigetragen hat.",
+    "Erst später wollen sie entscheiden, welche anderen Dinge tatsächlich auf die Liste gehören."
+  ],
+  "alltag-b1-haushaltsnotiz": [
+    "dass weder die Art des Papiers noch der gemeinte Eimer eindeutig benannt ist.",
+    "Beim Eimer meint er den kleinen Mülleimer, den sie zum Umstellen der Möbel in den Keller gebracht haben.",
+    "Mina prüft zuerst, ob im Vorratsschrank noch Toilettenpapier liegt.",
+    "Ein Name neben einer Aufgabe bedeutet hier nur, wer sie übernimmt, nicht dass sie schon erledigt ist."
+  ]
+});

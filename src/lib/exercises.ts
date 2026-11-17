@@ -330,3 +330,6 @@ for(const[topic,rows]of Object.entries(hundeeckeGrammar))exercises[topic].push(.
 
 import {reisegepaeckGrammar} from './exercises-reisegepaeck';
 for(const[topic,rows]of Object.entries(reisegepaeckGrammar))exercises[topic].push(...rows);
+
+import {haushaltsfachGrammar} from './exercises-haushaltsfach';
+for(const[topic,rows]of Object.entries(haushaltsfachGrammar))exercises[topic].push(...rows);

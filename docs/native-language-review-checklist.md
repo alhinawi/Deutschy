@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the fifty-fifth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the fifty-sixth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -477,6 +477,18 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Every `/lessons/[topic]/` | Five direct scoped vocabulary-game links. Same lesson scope in flashcards, photo quiz, article, spelling and memory. No sentence-game links or score changes. Check Arabic/English wording and touch targets. |
 | [ ] | Listening/dictation | Check all 54 new segments and Egyptian Arabic. Actual device-voice review pending. No health/sleep-effect claim, packing requirement or ticket-policy advice. |
 
+### List 56: household inventory and clear task notes
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-haushaltsfach/` and `rolle-unten-im-schrank` | Check roll on lower shelf, towels stay above, bathrobe behind door, Jana plans to empty bin later, list not yet including toilet paper. Check all 7 answers and Egyptian Arabic. |
+| [ ] | `/reading/alltag-a2-vorrat-zaehlen/` and `nicht-alles-auf-die-liste` | Check six rolls in unopened stock pack, moved bin returned from behind chair, neither item needs adding, other compartments unchecked. No purchase completed. |
+| [ ] | `/reading/alltag-b1-haushaltsnotiz/` and `welches-papier-welcher-eimer` | Check paper/bin ambiguity, existing waste bin versus cleaning bucket, stock check before possible list addition, assigned name not completion. No actual purchase agreed. |
+| [ ] | `/lessons/haushaltsfach/` | die Toilettenpapierrolle / Toilettenpapierrollen, der Mülleimer / same-form plural (-). Whole real roll and mesh waste bin. Cropped/padded; no face or branding. Paper in bin is not a local waste-sorting rule. |
+| [ ] | `exercises-haushaltsfach.ts` | 24 appended article/genus, dative, present, separable, two-way/dative-preposition and negation rows. Check forms and Arabic/English explanations. Earlier saved identities preserved. |
+| [ ] | Neighboring lesson navigation | Previous/next noun lessons use original topic order and visible stable numbers. First only next; last only previous; middle both. Check AR/EN labels, long title wrapping, no score/storage writes. |
+| [ ] | Listening/dictation | Check all 55 new segments and Egyptian Arabic. Actual device-voice review pending. No sanitation, disposal, purchase or building-policy advice. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -491,7 +503,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **767 photo nouns / 100 topics**, **183 reading texts / 685 reading questions**, **41 core grammar topics / 1270 core grammar questions**, **123 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **769 photo nouns / 101 topics**, **186 reading texts / 697 reading questions**, **41 core grammar topics / 1294 core grammar questions**, **126 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -503,7 +515,7 @@ This is an inventory, not completed review. Snapshot: **767 photo nouns / 100 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 43 · A2 71 · B1 39 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 44 · A2 72 · B1 40 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

@@ -399,6 +399,10 @@
   {
    "id": "reisegepaeck",
    "ar": "حاجات في شنطة السفر"
+  },
+  {
+   "id": "haushaltsfach",
+   "ar": "حاجات في دولاب البيت"
   }
  ],
  "words": [
@@ -11996,6 +12000,38 @@
     "file": "bag3.jpg",
     "commons": "https://www.pexels.com/photo/9185867/",
     "author": "Timur Weber",
+    "license": "Pexels License",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "toilettenpapierrolle",
+   "topic": "haushaltsfach",
+   "art": "die",
+   "de": "Toilettenpapierrolle",
+   "plural": "Toilettenpapierrollen",
+   "ar": "رول ورق تواليت",
+   "photo": {
+    "file": "roll.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-of-toilet-paper-roll-on-white-background-5729364/",
+    "author": "Garreth Brown",
+    "license": "Pexels License",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "muelleimer",
+   "topic": "haushaltsfach",
+   "art": "der",
+   "de": "Mülleimer",
+   "plural": "-",
+   "ar": "باسكت زبالة",
+   "photo": {
+    "file": "bin3.jpg",
+    "commons": "https://www.pexels.com/photo/crumpled-papers-inside-a-trash-bin-6913190/",
+    "author": "Tima Miroshnichenko",
     "license": "Pexels License",
     "padding": true,
     "modified": true

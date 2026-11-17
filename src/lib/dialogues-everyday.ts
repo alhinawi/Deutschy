@@ -7943,3 +7943,218 @@ Object.assign(dialogueEvidence,{
     "Ich trage nur die große Reisetasche zur Tür."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "rolle-unten-im-schrank",
+    "level": "A1",
+    "title": [
+      "Schau auf das untere Brett",
+      "بصّي على الرف اللي تحت"
+    ],
+    "lines": [
+      [
+        "Jana",
+        "Weißt du, wo die neue Toilettenpapierrolle ist?",
+        "تعرف رول ورق التواليت الجديد فين؟"
+      ],
+      [
+        "Max",
+        "Im Schrank, auf dem unteren Brett.",
+        "في الدولاب على الرف اللي تحت."
+      ],
+      [
+        "Jana",
+        "Danke, hier ist sie. Die Handtücher bleiben oben.",
+        "شكرًا، أهو. الفوط تفضل فوق."
+      ],
+      [
+        "Max",
+        "Soll ich den Mülleimer mitnehmen?",
+        "آخد باسكت الزبالة؟"
+      ],
+      [
+        "Jana",
+        "Nein, den leere ich später selbst.",
+        "لأ، هفضيه بنفسي بعدين."
+      ],
+      [
+        "Max",
+        "Dann mache ich den Schrank wieder zu.",
+        "يبقى أقفل الدولاب تاني."
+      ],
+      [
+        "Jana",
+        "Gut. Die Liste liegt auf dem Küchentisch.",
+        "تمام. القايمة على ترابيزة المطبخ."
+      ]
+    ],
+    "q": [
+      [
+        "Wo soll Jana nachsehen?",
+        "Auf dem unteren Brett im Schrank.",
+        "Im Kühlschrank.",
+        "Unter dem Küchentisch."
+      ],
+      [
+        "Was bleibt oben?",
+        "Die Handtücher.",
+        "Der Mülleimer.",
+        "Die Liste."
+      ],
+      [
+        "Was macht Max mit dem Schrank?",
+        "Er macht ihn wieder zu.",
+        "Er trägt ihn in die Küche.",
+        "Er kauft einen neuen."
+      ]
+    ]
+  },
+  {
+    "id": "nicht-alles-auf-die-liste",
+    "level": "A2",
+    "title": [
+      "Wir haben noch sechs Rollen",
+      "لسه عندنا ست رولات"
+    ],
+    "lines": [
+      [
+        "Ben",
+        "Ich schreibe Toilettenpapier auf. Im Bad steht nur eine Rolle.",
+        "هكتب ورق تواليت. في الحمام فيه رول واحد بس."
+      ],
+      [
+        "Hana",
+        "Schauen wir erst in den Vorratsschrank.",
+        "نبص الأول في دولاب المخزون."
+      ],
+      [
+        "Ben",
+        "Stimmt, hier ist noch eine Packung mit sechs Rollen.",
+        "صح، لسه فيه باكت هنا فيه ست رولات."
+      ],
+      [
+        "Hana",
+        "Und der Mülleimer neben dem Schreibtisch?",
+        "وباسكت الزبالة اللي جنب المكتب؟"
+      ],
+      [
+        "Ben",
+        "Den habe ich hinter den Stuhl gestellt. Ich stelle ihn zurück.",
+        "أنا حطيته ورا الكرسي. هرجعه مكانه."
+      ],
+      [
+        "Hana",
+        "Dann brauchen wir dafür nichts aufzuschreiben.",
+        "يبقى مش محتاجين نكتب حاجة بخصوصه."
+      ],
+      [
+        "Ben",
+        "Die anderen Schrankfächer haben wir aber noch nicht geprüft.",
+        "بس باقي أجزاء الدولاب لسه ماراجعناهاش."
+      ]
+    ],
+    "q": [
+      [
+        "Wohin schauen sie zuerst?",
+        "In den Vorratsschrank.",
+        "In den Briefkasten.",
+        "Unter das Bett."
+      ],
+      [
+        "Wo steht der Mülleimer gerade?",
+        "Hinter dem Stuhl.",
+        "Im Auto.",
+        "Auf dem Schrank."
+      ],
+      [
+        "Was wurde noch nicht geprüft?",
+        "Die anderen Schrankfächer.",
+        "Die Packung mit sechs Rollen.",
+        "Der Platz hinter dem Stuhl."
+      ]
+    ]
+  },
+  {
+    "id": "welches-papier-welcher-eimer",
+    "level": "B1",
+    "title": [
+      "Was meinst du mit Papier?",
+      "تقصد إيه بالورق؟"
+    ],
+    "lines": [
+      [
+        "Mina",
+        "Auf dem Zettel steht nur: Papier besorgen. Meinst du Toilettenpapier?",
+        "مكتوب في الورقة نجيب ورق بس. تقصد ورق تواليت؟"
+      ],
+      [
+        "Felix",
+        "Ich dachte an Druckerpapier. Gut, dass du fragst.",
+        "أنا كنت فاكر ورق طابعة. كويس إنك بتسألي."
+      ],
+      [
+        "Mina",
+        "Dann prüfe ich zuerst den Vorrat im Schrank. Und welchen Eimer meinst du?",
+        "يبقى أبص الأول على المخزون في الدولاب. وتقصد أنهي جردل؟"
+      ],
+      [
+        "Felix",
+        "Den kleinen Mülleimer im Keller, nicht den Putzeimer. Den hole ich.",
+        "باسكت الزبالة الصغير اللي في البدروم، مش جردل التنضيف. أنا هجيبه."
+      ],
+      [
+        "Mina",
+        "Ich schreibe unsere Namen neben die Aufgaben.",
+        "هكتب أسامينا جنب المهمات."
+      ],
+      [
+        "Felix",
+        "Und das Ergebnis deiner Prüfung tragen wir später ein.",
+        "ونتيجة مراجعتك نكتبها بعدين."
+      ],
+      [
+        "Mina",
+        "Genau. Die Namen allein bedeuten noch nicht, dass alles erledigt ist.",
+        "بالظبط. الأسامي لوحدها مش معناها إن كل حاجة اتعملت."
+      ]
+    ],
+    "q": [
+      [
+        "Woran hatte Felix bei Papier gedacht?",
+        "An Druckerpapier.",
+        "An Geschenkband.",
+        "An Servietten."
+      ],
+      [
+        "Wer holt den Mülleimer?",
+        "Felix.",
+        "Mina.",
+        "Niemand, sie kaufen einen neuen."
+      ],
+      [
+        "Was tragen sie später ein?",
+        "Das Ergebnis der Vorratsprüfung.",
+        "Eine schon bezahlte Rechnung.",
+        "Den Namen des Vermieters."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "rolle-unten-im-schrank": [
+    "Im Schrank, auf dem unteren Brett.",
+    "Die Handtücher bleiben oben.",
+    "Dann mache ich den Schrank wieder zu."
+  ],
+  "nicht-alles-auf-die-liste": [
+    "Schauen wir erst in den Vorratsschrank.",
+    "Den habe ich hinter den Stuhl gestellt.",
+    "Die anderen Schrankfächer haben wir aber noch nicht geprüft."
+  ],
+  "welches-papier-welcher-eimer": [
+    "Ich dachte an Druckerpapier.",
+    "Den kleinen Mülleimer im Keller, nicht den Putzeimer. Den hole ich.",
+    "das Ergebnis deiner Prüfung tragen wir später ein."
+  ]
+});

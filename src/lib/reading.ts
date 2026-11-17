@@ -168,3 +168,6 @@ readings.push(...hundeeckeTexts);
 
 import {reisegepaeckTexts} from './reading-reisegepaeck';
 readings.push(...reisegepaeckTexts);
+
+import {haushaltsfachTexts} from './reading-haushaltsfach';
+readings.push(...haushaltsfachTexts);

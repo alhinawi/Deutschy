@@ -16,6 +16,8 @@ export default async function Topic({ params }: { params: Promise<{ topic: strin
   const t = topics.find((x) => x.id === topic);
   if (!t) notFound();
   const ws = wordsOf(topic);
+  const topicIndex = topics.findIndex(x=>x.id===topic);
+  const neighbors = [{item:topics[topicIndex-1],index:topicIndex-1,previous:true},{item:topics[topicIndex+1],index:topicIndex+1,previous:false}].filter(x=>x.item);
   return (
     <div className="space-y-6">
       <div className="flex flex-wrap items-end justify-between gap-3">
@@ -33,6 +35,7 @@ export default async function Topic({ params }: { params: Promise<{ topic: strin
           ['flashcards','كروت المراجعة','Flashcards'],['quiz','اختبار الصور','Photo quiz'],['article','أداة التعريف','Articles'],['spelling','الهجاء','Spelling'],['memory','لعبة الذاكرة','Memory'],
         ].map(([game,ar,en])=><Link key={game} href={gameHref(game,topic)} className="min-h-11 inline-flex items-center rounded-full border border-line px-4 py-2 text-sm font-semibold hover:bg-paper"><T ar={ar} en={en}/></Link>)}</div>
       </nav>
+      <nav aria-label="Neighboring lessons" className="grid gap-3 sm:grid-cols-2">{neighbors.map(({item,index,previous})=><Link key={item.id} rel={previous?'prev':'next'} href={`/lessons/${item.id}/`} className="min-w-0 rounded-2xl border border-line bg-card p-4 hover:border-accent [overflow-wrap:anywhere]"><p className="text-sm font-semibold"><T ar={previous?'الدرس اللي فات':'الدرس اللي بعده'} en={previous?'Previous lesson':'Next lesson'}/> · <span className="num">{index+1}</span></p><p dir="ltr" lang="de" className="de mt-1 text-xl">{topicTitles[item.id]}</p><p className="text-sm text-muted"><TopicName id={item.id}/></p></Link>)}</nav>
       <VocabularyQuiz pool={ws} id={`topic-${topic}`} />
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">{ws.map((w, n) => <WordCard key={w.id} w={w} first={n < 2} />)}</div>
     </div>
