@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  musikzimmer: 'Schellenkranz und Metronom',
   gartenpause: 'Sonnenschirm und Liegestuhl',
   reisefach: 'Haarbürste und Haartrockner',
   technikablage: 'Batterien und Ladegerät',
@@ -108,6 +109,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  musikzimmer: 'Jingle ring and metronome',
   gartenpause: 'Sun umbrella and deck chair',
   reisefach: 'Hairbrush and hair dryer',
   technikablage: 'Batteries and charger',

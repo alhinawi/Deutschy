@@ -10308,3 +10308,218 @@ Object.assign(dialogueEvidence,{
     "keine Regel für das ganze Haus."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "welches-instrument-klingt",
+    "level": "A1",
+    "title": [
+      "Das Metronom ist still",
+      "المترونوم ساكت"
+    ],
+    "lines": [
+      [
+        "Lina",
+        "Liegt der gelbe Schellenkranz auf dem Teppich?",
+        "حلقة الشخاليل الصفرا على السجادة؟"
+      ],
+      [
+        "Ole",
+        "Ja. Ich spiele eine kurze Folge. Hör erst einmal zu.",
+        "أيوه. هعزف تتابع قصير. اسمعي الأول."
+      ],
+      [
+        "Lina",
+        "Jetzt ist es wieder still. Kam der Klang vom Metronom?",
+        "دلوقتي هديت تاني. الصوت كان من المترونوم؟"
+      ],
+      [
+        "Ole",
+        "Nein, das Metronom war die ganze Zeit still.",
+        "لأ، المترونوم كان ساكت طول الوقت."
+      ],
+      [
+        "Lina",
+        "Dann war es der Schellenkranz. Ich habe ein helles Klingeln gehört.",
+        "يبقى كانت حلقة الشخاليل. سمعت رنة حادة."
+      ],
+      [
+        "Ole",
+        "Jetzt spiele ich etwas länger. Eine genaue Zahl brauchst du nicht.",
+        "دلوقتي هعزف أطول شوية. مش محتاجة عدد محدد."
+      ],
+      [
+        "Lina",
+        "Gut. Danach beschreibe ich den Unterschied.",
+        "تمام. بعد كده أوصف الفرق."
+      ]
+    ],
+    "q": [
+      [
+        "Was spielt Ole zuerst?",
+        "Eine kurze Folge.",
+        "Ein langes Konzert.",
+        "Gar nichts."
+      ],
+      [
+        "Was war die ganze Zeit still?",
+        "Das Metronom.",
+        "Der Schellenkranz.",
+        "Lina und Ole ohne Gespräch."
+      ],
+      [
+        "Was soll Lina danach beschreiben?",
+        "Den Unterschied.",
+        "Eine Reparatur.",
+        "Den Preis."
+      ]
+    ]
+  },
+  {
+    "id": "schnell-und-hell",
+    "level": "A2",
+    "title": [
+      "Welche Eigenschaft meinst du?",
+      "تقصد أنهي صفة؟"
+    ],
+    "lines": [
+      [
+        "Jule",
+        "Für mich war die Vorführung schnell.",
+        "بالنسبة لي العرض كان سريع."
+      ],
+      [
+        "Karim",
+        "Ich hätte zuerst hell gesagt. Besonders der Schellenkranz fiel mir auf.",
+        "أنا كنت هقول حاد الأول. حلقة الشخاليل لفتت نظري خصوصًا."
+      ],
+      [
+        "Senta",
+        "Jule, meinst du das Ticken des Metronoms?",
+        "يوله، تقصدي تكة المترونوم؟"
+      ],
+      [
+        "Jule",
+        "Ja. Darauf habe ich besonders geachtet.",
+        "أيوه. ده اللي ركزت عليه خصوصًا."
+      ],
+      [
+        "Senta",
+        "Dann beschreiben eure Wörter verschiedene Eigenschaften.",
+        "يبقى كلماتكم بتوصف صفات مختلفة."
+      ],
+      [
+        "Karim",
+        "Beim nächsten Durchgang achten wir beide auf den Beginn.",
+        "في الجولة الجاية نركز إحنا الاتنين على البداية."
+      ],
+      [
+        "Jule",
+        "Danach vergleichen wir unsere Eindrücke noch einmal.",
+        "بعد كده نقارن انطباعاتنا تاني."
+      ]
+    ],
+    "q": [
+      [
+        "Worauf hat Karim besonders geachtet?",
+        "Auf den Schellenkranz.",
+        "Auf einen Preiszettel.",
+        "Auf eine Aufnahme."
+      ],
+      [
+        "Was meint Jule mit ihrem Eindruck?",
+        "Das Ticken des Metronoms.",
+        "Die Farbe des Tisches.",
+        "Die Größe des Raumes."
+      ],
+      [
+        "Wann vergleichen sie die Eindrücke erneut?",
+        "Nach dem nächsten Durchgang.",
+        "Vor jeder Vorführung überhaupt.",
+        "Gar nicht mehr."
+      ]
+    ]
+  },
+  {
+    "id": "ruhiger-ist-nicht-gemessen",
+    "level": "B1",
+    "title": [
+      "Was kannst du wirklich sagen?",
+      "تقدر تقول إيه فعلًا؟"
+    ],
+    "lines": [
+      [
+        "Enna",
+        "Du schreibst genauer. Hast du etwas gemessen?",
+        "إنت كاتب أدق. قست حاجة؟"
+      ],
+      [
+        "Ramin",
+        "Nein. Das Zusammenspiel von Metronom und Schellenkranz kam mir ruhiger vor.",
+        "لأ. العزف مع بعض بين المترونوم وحلقة الشخاليل حسيته أهدى."
+      ],
+      [
+        "Enna",
+        "Dann beschreibe lieber, dass du leichter folgen konntest.",
+        "يبقى الأفضل توصف إنك قدرت تتابع أسهل."
+      ],
+      [
+        "Ramin",
+        "Gut. Deine andere Einschätzung lasse ich ebenfalls stehen.",
+        "تمام. وهسيب تقييمك المختلف برضه."
+      ],
+      [
+        "Lotte",
+        "Ich habe vor allem auf den Schellenkranz gehört. Zum Metronom allein kann ich wenig sagen.",
+        "أنا سمعت مركزة خصوصًا على حلقة الشخاليل. عن المترونوم لوحده مش هقدر أقول كتير."
+      ],
+      [
+        "Enna",
+        "Bei einer späteren Probe wählen wir zuerst eine gemeinsame Frage.",
+        "في بروفة بعدين نختار الأول سؤال مشترك."
+      ],
+      [
+        "Ramin",
+        "Welche das wird, entscheiden wir noch nicht. Heute halten wir unsere Eindrücke fest.",
+        "هيبقى أنهي سؤال لسه مش هنقرر. النهارده بنسجل انطباعاتنا."
+      ]
+    ],
+    "q": [
+      [
+        "Was hat Ramin gemessen?",
+        "Nichts.",
+        "Die Lautstärke exakt.",
+        "Das Tempo exakt."
+      ],
+      [
+        "Was lässt Ramin im Text stehen?",
+        "Ennas andere Einschätzung.",
+        "Eine erfundene Messung.",
+        "Eine allgemeine Note."
+      ],
+      [
+        "Worauf hat Lotte vor allem gehört?",
+        "Auf den Schellenkranz.",
+        "Nur auf das Metronom.",
+        "Auf eine Aufnahme vom Vortag."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "welches-instrument-klingt": [
+    "Ich spiele eine kurze Folge.",
+    "das Metronom war die ganze Zeit still.",
+    "beschreibe ich den Unterschied."
+  ],
+  "schnell-und-hell": [
+    "Besonders der Schellenkranz fiel mir auf.",
+    "meinst du das Ticken des Metronoms?",
+    "Danach vergleichen wir unsere Eindrücke"
+  ],
+  "ruhiger-ist-nicht-gemessen": [
+    "Nein. Das Zusammenspiel",
+    "Deine andere Einschätzung lasse ich ebenfalls stehen.",
+    "vor allem auf den Schellenkranz gehört."
+  ]
+});

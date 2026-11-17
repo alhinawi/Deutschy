@@ -443,6 +443,10 @@
   {
    "id": "gartenpause",
    "ar": "شمسية وكرسي استرخاء"
+  },
+  {
+   "id": "musikzimmer",
+   "ar": "حلقة شخاليل ومترونوم"
   }
  ],
  "words": [
@@ -12374,6 +12378,36 @@
     "file": "29318023.jpg",
     "commons": "https://www.pexels.com/photo/peaceful-park-scene-with-empty-deck-chairs-29318023/",
     "author": "Jan van der Wolf",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "schellenkranz",
+   "topic": "musikzimmer",
+   "art": "der",
+   "de": "Schellenkranz",
+   "plural": "Schellenkränze",
+   "ar": "حلقة شخاليل",
+   "photo": {
+    "file": "7285230.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-shot-of-a-person-playing-tambourine-7285230/",
+    "author": "https://kaboompics.com/",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "metronom",
+   "topic": "musikzimmer",
+   "art": "das",
+   "de": "Metronom",
+   "plural": "Metronome",
+   "ar": "مترونوم",
+   "photo": {
+    "file": "162550.jpg",
+    "commons": "https://www.pexels.com/photo/black-and-red-electronic-device-162550/",
+    "author": "Pixabay",
     "license": "Pexels License",
     "modified": true
    }

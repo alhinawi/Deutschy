@@ -144,4 +144,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-gartenpause',dialogue:'vogel-nicht-mehr-am-zaun'},
  {reading:'alltag-a2-hoeren-statt-sehen',dialogue:'neben-dir-hoere-ich-besser'},
  {reading:'alltag-b1-zwei-arten-gartenzeit',dialogue:'lesen-und-reden-nebeneinander'},
+ {reading:'alltag-a1-musikzimmer',dialogue:'welches-instrument-klingt'},
+ {reading:'alltag-a2-zwei-hoerbeschreibungen',dialogue:'schnell-und-hell'},
+ {reading:'alltag-b1-hoerbericht-ohne-messung',dialogue:'ruhiger-ist-nicht-gemessen'},
 ];

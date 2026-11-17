@@ -1019,3 +1019,24 @@ Object.assign(readingEvidence,{
     "Aus diesem Nachmittag leiten sie keine Hausordnung und keine dauerhafte Einteilung des Hofes ab."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-musikzimmer": [
+    "Auf dem Teppich liegt ein gelber Schellenkranz.",
+    "Lina schaut zum Metronom. Es ist still.",
+    "dieses Mal etwas länger.",
+    "Die beiden üben heute, Klänge mit einfachen Wörtern zu beschreiben."
+  ],
+  "alltag-a2-zwei-hoerbeschreibungen": [
+    "Zuerst hören sie nur das gleichmäßige Ticken des Metronoms.",
+    "Jule meint den zeitlichen Eindruck, Karim den Klang.",
+    "Senta fragt deshalb genauer nach",
+    "Beim nächsten Durchgang möchten Jule und Karim beide auf den Beginn achten."
+  ],
+  "alltag-b1-hoerbericht-ohne-messung": [
+    "Eine Aufnahme oder eine Messung hat er jedoch nicht.",
+    "Beim zweiten Durchgang konnte Ramin dem Zusammenspiel leichter folgen.",
+    "Ihre abweichende Einschätzung streicht er nicht.",
+    "Was diese Frage sein wird, entscheiden sie heute noch nicht."
+  ]
+});

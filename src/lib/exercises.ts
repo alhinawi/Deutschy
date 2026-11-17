@@ -363,3 +363,6 @@ for(const[topic,rows]of Object.entries(reisefachGrammar))exercises[topic].push(.
 
 import {gartenpauseGrammar} from './exercises-gartenpause';
 for(const[topic,rows]of Object.entries(gartenpauseGrammar))exercises[topic].push(...rows);
+
+import {musikzimmerGrammar} from './exercises-musikzimmer';
+for(const[topic,rows]of Object.entries(musikzimmerGrammar))exercises[topic].push(...rows);
