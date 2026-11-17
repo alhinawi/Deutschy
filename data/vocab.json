@@ -659,6 +659,10 @@
   {
    "id": "kleinebilder",
    "ar": "الفلين والكبريت"
+  },
+  {
+   "id": "freizeitformen",
+   "ar": "كورة باسكت وعوامة"
   }
  ],
  "words": [
@@ -14210,6 +14214,36 @@
     "file": "7303329.jpg",
     "commons": "https://www.pexels.com/photo/close-up-shot-of-black-matchsticks-in-white-background-7303329/",
     "author": "Cup of Couple",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "basketball",
+   "topic": "freizeitformen",
+   "art": "der",
+   "de": "Basketball",
+   "plural": "Basketbälle",
+   "ar": "كورة باسكت",
+   "photo": {
+    "file": "8337517.jpg",
+    "commons": "https://www.pexels.com/photo/brown-basketball-on-concrete-ground-8337517/",
+    "author": "RDNE Stock project",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "schwimmring",
+   "topic": "freizeitformen",
+   "art": "der",
+   "de": "Schwimmring",
+   "plural": "Schwimmringe",
+   "ar": "عوامة دائرية",
+   "photo": {
+    "file": "33501296.jpg",
+    "commons": "https://www.pexels.com/photo/colorful-inflatable-ring-floating-in-pool-33501296/",
+    "author": "Sümeyye Acar",
     "license": "Pexels License",
     "modified": true
    }

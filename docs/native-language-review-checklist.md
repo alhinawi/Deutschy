@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-twentieth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-twenty-first practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1270,9 +1270,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Reading translation and word help | Existing translation toggle and word-help summary gain44pxminimum/themed keyboard focus.24AR/EN320/390 states across3sets: Enter toggles, exact translation, LTR German/RTL Arabic help, noXP. Actual390AR/EN focus and photo cards inspected. No route/answer/scoring/speech logic changes. |
 | [ ] | Listening/dictation |76 original segments,304 exact German speech/source/answer checks. Native editorial/real-device voice review pending. Level labels not certification, progress device-local. |
 
+### List 121: Basketball and swim ring
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-ball-und-ring-auf-zwei-fotos/` and linked dialogue | Mara/Sami orangebrown ball/black grooves on gray floor, two white lines left and diagonally below, shadow lowerleft. White fruitpattern ring with yellow inner edge on blue water, open middle, printed bananas/strawberries/melon/blue leaves/black dots. Picture word-card role swap, no actual play/swimming. |
+| [ ] | `/reading/alltag-a2-basketball-sport-oder-gegenstand/` and linked dialogue | Nora/Emil distinguish Basketball sport usage from singular physical ball sense. Object der Basketball/Basketbälle with ä/e, der Schwimmring/Schwimmringe with e/no vowel change/double m. Sport usage not pluralized as object count. No rules/training/size/weight/suitability claim. |
+| [ ] | `/reading/alltag-b1-fruchtmuster-ist-keine-zusatzlieferung/` and linked dialogue | Liv/Adam fictional editing: fruit motif versus actual contents/delivery/material/scent, left-of relation corrected from image perspective. Shadow not exact-time proof. No product property or water-use recommendation. |
+| [ ] | `/lessons/freizeitformen/` and `/credits/` | der Basketball/Basketbälle (كورة باسكت, physical ball masculine), der Schwimmring/Schwimmringe (عوامة دائرية). Full DWDS entries. RDNE8337517 basketball1800x1200 crop550,250-1450,925; Sümeyye Acar33501296 ring1800x2400 crop0,850-1800,2200. Both800x600 no padding/stretch/brand/person. Volleyball candidates rejected for branding/torso framing, orange ring for visible warning block. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way/negation rows, prior saved question identities retained. Native German/Egyptian examples/explanations review pending. |
+| [ ] | Reading playback and transcript controls | Four existing controls gain44pxminimum/card-ground keyboard focus.48AR/EN320/390 keyboard+axe states over3sets: article/listening exactGerman de-DE payload, stop cancellation, transcript show/hide/exacttext/noXP. Actual390AR/EN focus/cards inspected. No routing/scoring/playback behavior change. |
+| [ ] | Listening/dictation |75 original segments,300 exactGerman speech/source/answer checks. Native editorial and real-device voice review pending. Level labels not certification; progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **897 photo nouns / 165 topics**, **378 reading texts / 1465 reading questions**, **41 core grammar topics / 2830 core grammar questions**, **318 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **899 photo nouns / 166 topics**, **381 reading texts / 1477 reading questions**, **41 core grammar topics / 2854 core grammar questions**, **321 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1284,7 +1296,7 @@ This is an inventory, not completed review. Snapshot: **897 photo nouns / 165 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 108 · A2 136 · B1 104 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 109 · A2 137 · B1 105 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

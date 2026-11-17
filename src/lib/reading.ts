@@ -363,3 +363,6 @@ readings.push(...kleidermusterTexts);
 
 import {kleinebilderTexts} from './reading-kleinebilder';
 readings.push(...kleinebilderTexts);
+
+import {freizeitformenTexts} from './reading-freizeitformen';
+readings.push(...freizeitformenTexts);

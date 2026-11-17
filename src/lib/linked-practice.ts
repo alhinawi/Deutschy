@@ -306,4 +306,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-korken-und-streichhoelzer-beschriften',dialogue:'korken-oben-schachtel-schraeg'},
  {reading:'alltag-a2-korken-gleich-streichhoelzer-anders',dialogue:'korken-bleibt-korken'},
  {reading:'alltag-b1-notiz-mitbringen-oder-beschriften',dialogue:'gegenstaende-oder-wortkarten'},
+ {reading:'alltag-a1-ball-und-ring-auf-zwei-fotos',dialogue:'ball-ohne-loch-ring-mit-loch'},
+ {reading:'alltag-a2-basketball-sport-oder-gegenstand',dialogue:'sportwort-und-bildwort'},
+ {reading:'alltag-b1-fruchtmuster-ist-keine-zusatzlieferung',dialogue:'motiv-und-lage-klar-benennen'},
 ];
