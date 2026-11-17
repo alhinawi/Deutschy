@@ -303,6 +303,10 @@
   {
    "id": "malrunde",
    "ar": "حاجات للرسم"
+  },
+  {
+   "id": "kuechenprep",
+   "ar": "تحضير الأكل"
   }
  ],
  "words": [
@@ -11161,6 +11165,38 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Tripod_easel.jpg",
     "author": "Mrs Scarborough",
     "license": "Public domain",
+    "padding": true
+   }
+  },
+  {
+   "id": "moerser",
+   "topic": "kuechenprep",
+   "art": "der",
+   "de": "Mörser",
+   "plural": "-",
+   "ar": "هون",
+   "photo": {
+    "file": "Hmoždíř.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Hmo%C5%BEd%C3%AD%C5%99.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Hmo%C5%BEd%C3%AD%C5%99.JPG",
+    "author": "Reaperman",
+    "license": "CC BY-SA 3.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "zitronenpresse",
+   "topic": "kuechenprep",
+   "art": "die",
+   "de": "Zitronenpresse",
+   "plural": "Zitronenpressen",
+   "ar": "عصارة ليمون",
+   "photo": {
+    "file": "Zitronenpresse-mit-zitrone.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Zitronenpresse-mit-zitrone.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Zitronenpresse-mit-zitrone.jpg",
+    "author": "Alice Wiegand",
+    "license": "CC BY-SA 3.0",
     "padding": true
    }
   }

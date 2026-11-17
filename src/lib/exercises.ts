@@ -258,3 +258,6 @@ for(const [topic,rows]of Object.entries(musikrundeGrammar))exercises[topic].push
 
 import {malrundeGrammar} from './exercises-malrunde';
 for(const[topic,rows]of Object.entries(malrundeGrammar))exercises[topic].push(...rows);
+
+import {kuechenprepGrammar} from './exercises-kuechenprep';
+for(const[topic,rows]of Object.entries(kuechenprepGrammar))exercises[topic].push(...rows);

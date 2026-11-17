@@ -2919,7 +2919,7 @@ everydayDialogues.push(...[
     "id": "vorlieben-neu-fragen",
     "level": "B1",
     "title": [
-      "Der leere Becher beweist das nicht",
+      "Die leere Schale beweist das nicht",
       "الكوباية الفاضية مش دليل على ده"
     ],
     "lines": [

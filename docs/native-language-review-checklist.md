@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the thirty-first practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the thirty-second practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -207,6 +207,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/grammar/akkusativ/`, `/grammar/possessiv/`, `/grammar/modalverben/`, `/grammar/imperativ/`, `/grammar/komparativ/`, `/grammar/dativ-praepositionen/` | Review 24 appended painting-at-home prompts/explanations, supplied distractors and alternative correct forms. Preserve saved topic/index identities. |
 | [ ] | `/sound-contrasts/` and `/dictation/` | Check same-word replay, one-choice lock, stop/cancel, voice-switch cancellation and playback-failure wording. Original six sound pairs/tips remain unchanged. Review 44 new dictation sentences with a real German voice; mocked speech does not check pronunciation. No points/history are saved by either tool. |
 
+### Thirty-second update: additional pending targets
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zitronenpresse/` | Check kitchen-tool and shelf/drawer language, separate juice for individual choice and all 4 answers. Review **Den Saft bitte extra**, its 3 answers and Egyptian meanings. |
+| [ ] | `/reading/alltag-a2-moerser/` | Check mortar, ingredient labels versus value judgments, separate spoons and asking before tasting. Review **Nicht mit demselben Löffel** and all 7 reading/dialogue questions. No claim is made that ingredients or separate spoons guarantee allergy safety. |
+| [ ] | `/reading/alltag-b1-kuechenzettel/` | Check empty-bowl inference, old notes versus current preferences, ownership after transferring a mixture and all 4 questions. Review **Die leere Schale beweist das nicht**, its 3 answers and Egyptian Arabic. These are fictional household choices, not nutrition guidance. |
+| [ ] | `/lessons/kuechenprep/` | Check der Mörser / die Mörser (kitchen tool, not weapon), die Zitronenpresse / Zitronenpressen and Egyptian meanings. Do the complete-object real photos clearly cue the nouns? Native black background belongs to the press photograph; neutral outer padding is recorded in Credits. |
+| [ ] | `/grammar/satzbau/`, `/grammar/praesens/`, `/grammar/negation/`, `/grammar/trennbare-verben/`, `/grammar/dativ/`, `/grammar/perfekt/` | Review 24 appended kitchen-preparation prompts and explanations, neutral yes/no question qualification, mitgebracht/umgefüllt and all alternatives. Earlier saved topic/index identities are preserved. |
+| [ ] | `/conjugation/` and `/dictation/` | Check current-attempt reset clears only typed answer, feedback and reference table while keeping verb, person and tense; input regains focus. Form/reference content is unchanged. Review focused new dictation with a real German voice; mocked speech cannot check pronunciation. Neither tool saves points/history. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -221,7 +232,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **719 photo nouns / 76 topics**, **111 reading texts / 397 reading questions**, **41 core grammar topics / 694 core grammar questions**, **51 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **721 photo nouns / 77 topics**, **114 reading texts / 409 reading questions**, **41 core grammar topics / 718 core grammar questions**, **54 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -233,7 +244,7 @@ This is an inventory, not completed review. Snapshot: **719 photo nouns / 76 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 19 · A2 32 · B1 30 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 20 · A2 33 · B1 31 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
