@@ -12888,3 +12888,218 @@ Object.assign(dialogueEvidence,{
     "mit einem technischen Prüfbericht."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "erst-frau-berg-fragen",
+    "level": "A1",
+    "title": [
+      "Wir kennen ihren Kasten nicht",
+      "مش عارفين صندوقها"
+    ],
+    "lines": [
+      [
+        "Tim",
+        "Der Umschlag ist für Frau Berg. Ich habe ihn hier auf der Bank gefunden.",
+        "الظرف للست بيرج. أنا لقيته هنا على الدكة."
+      ],
+      [
+        "Rosa",
+        "Wir lassen ihn geschlossen. Welcher Briefkasten ist ihrer?",
+        "نسيبه مقفول. أنهي صندوق بريد بتاعها؟"
+      ],
+      [
+        "Tim",
+        "Das weiß ich nicht. Die Namen sind nicht lesbar.",
+        "مش عارف. الأسامي مش مقروءة."
+      ],
+      [
+        "Rosa",
+        "Dann frage ich sie später direkt. Der Umschlag bleibt erst hier.",
+        "يبقى أسألها بنفسها بعدين. الظرف يفضل هنا مؤقتًا."
+      ],
+      [
+        "Tim",
+        "In meinem Heft habe ich auch ein Bild von einem Briefkasten. Daneben ist ein Türklopfer.",
+        "في كراستي كمان صورة صندوق بريد. جنبها دقّاقة باب."
+      ],
+      [
+        "Rosa",
+        "Ich lese dir beide Wörter mit Artikel vor.",
+        "هقرالك الكلمتين بأداة التعريف."
+      ],
+      [
+        "Tim",
+        "Danke. Ich schreibe sie unter die Bilder und mache das Heft zu.",
+        "شكرًا. هكتبهم تحت الصور وأقفل الكراسة."
+      ]
+    ],
+    "q": [
+      [
+        "Warum bleibt der Umschlag zunächst hier?",
+        "Der richtige Briefkasten ist ihnen nicht bekannt.",
+        "Tim möchte ihn lesen.",
+        "Rosa hat ihn schon verschickt."
+      ],
+      [
+        "Welche Gegenstände zeigen die Heftbilder?",
+        "Briefkasten und Türklopfer.",
+        "Kühlschrank und Herd.",
+        "Zwei offene Umschläge."
+      ],
+      [
+        "Was macht Tim nach dem Schreiben?",
+        "Er macht das Heft zu.",
+        "Er öffnet den Umschlag.",
+        "Er liest die privaten Briefe."
+      ]
+    ]
+  },
+  {
+    "id": "erst-essen-dann-woerter",
+    "level": "A2",
+    "title": [
+      "Die Karten auf die Kommode",
+      "الكروت على الكومود"
+    ],
+    "lines": [
+      [
+        "Nele",
+        "Das Essen steht schon auf dem Tisch. Üben wir die Wörter lieber danach?",
+        "الأكل على الترابيزة خلاص. نتدرب على الكلمات بعده أحسن؟"
+      ],
+      [
+        "Amir",
+        "Gern. Ich hole die Karten vom Schreibtisch und lege sie auf die Kommode.",
+        "ماشي. أجيب الكروت من المكتب وأحطهم على الكومود."
+      ],
+      [
+        "Nele",
+        "Ich ändere den Zettel: nach dem Abendessen. Eine Uhrzeit brauchen wir hier nicht.",
+        "هغير الورقة: بعد العشا. مش محتاجين ساعة معينة هنا."
+      ],
+      [
+        "Amir",
+        "Wir üben nur zu Hause. Einen Besuch haben wir nicht verabredet.",
+        "إحنا بنتدرب في البيت بس. مش متفقين على زيارة."
+      ],
+      [
+        "Nele",
+        "Ich lese zuerst vor, und du nennst die Bedeutung. Dann wechseln wir.",
+        "أقرا الأول بصوت مسموع وإنت تقول المعنى. بعد كده نبدل."
+      ],
+      [
+        "Amir",
+        "Bitte wiederhole Türklopfer noch einmal.",
+        "ممكن تعيدي كلمة دقّاقة باب بالألماني مرة كمان؟"
+      ],
+      [
+        "Nele",
+        "Mache ich. Danach kommen beide Karten zurück in die Mappe.",
+        "حاضر. بعد كده الكارتين يرجعوا في الملف."
+      ]
+    ],
+    "q": [
+      [
+        "Wann wollen sie üben?",
+        "Nach dem Abendessen.",
+        "Bei der nächsten Lieferung.",
+        "Vor dem Frühstück."
+      ],
+      [
+        "Woher holt Amir die Karten?",
+        "Vom Schreibtisch.",
+        "Aus dem Briefkasten.",
+        "Aus einer Einkaufstasche."
+      ],
+      [
+        "Was machen sie nach dem Vorlesen und Nennen der Bedeutung?",
+        "Sie wechseln die Rollen.",
+        "Sie verschicken die Karten.",
+        "Sie rufen einen Lieferdienst."
+      ]
+    ]
+  },
+  {
+    "id": "nebeneinander-ist-kein-beleg",
+    "level": "B1",
+    "title": [
+      "Nicht automatisch dasselbe Haus",
+      "مش تلقائيًا نفس البيت"
+    ],
+    "lines": [
+      [
+        "Jonas",
+        "Ich habe geschrieben, dass Türklopfer und Briefkasten zum selben Haus gehören.",
+        "كتبت إن دقّاقة الباب وصندوق البريد تابعين لنفس البيت."
+      ],
+      [
+        "Selma",
+        "Woher weißt du das? Auf den Fotos sehe ich keine gemeinsame Adresse.",
+        "عرفت منين؟ مش شايفة عنوان مشترك في الصور."
+      ],
+      [
+        "Jonas",
+        "Eigentlich liegen die Bilder nur nebeneinander in meiner Mappe.",
+        "في الحقيقة الصور بس جنب بعض في ملفي."
+      ],
+      [
+        "Selma",
+        "Dann ist die Verbindung nicht belegt. Beschreibe sie als getrennte Aufnahmen.",
+        "يبقى العلاقة مش مثبتة. اوصفهم كصورتين منفصلتين."
+      ],
+      [
+        "Jonas",
+        "Ich streiche den Satz über dasselbe Haus. Den Zusammenhang kenne ich nicht.",
+        "هشطب جملة نفس البيت. مش عارف العلاقة."
+      ],
+      [
+        "Selma",
+        "Jetzt ist es genauer. Diesen langen Satz würde ich noch in zwei kurze teilen.",
+        "دلوقتي أدق. الجملة الطويلة دي أقسمها كمان لاتنين قصيرين."
+      ],
+      [
+        "Jonas",
+        "Das ändere ich sprachlich. Über den heutigen Standort wissen wir dadurch nichts Neues.",
+        "هغير ده لغويًا. كده مش بنعرف حاجة جديدة عن مكانهم النهارده."
+      ]
+    ],
+    "q": [
+      [
+        "Was war Jonas einziger Anlass für die Verbindung?",
+        "Die Bilder lagen nebeneinander in seiner Mappe.",
+        "Eine bestätigte Adresse.",
+        "Ein Bewohner hatte es erklärt."
+      ],
+      [
+        "Was streicht er?",
+        "Den Satz über dasselbe Haus.",
+        "Alle deutschen Wörter.",
+        "Selmas ganzen Text."
+      ],
+      [
+        "Was bringt die Teilung des langen Satzes nicht?",
+        "Neue Informationen über den heutigen Standort.",
+        "Eine sprachliche Änderung.",
+        "Zwei kürzere Sätze."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "erst-frau-berg-fragen": [
+    "Das weiß ich nicht. Die Namen sind nicht lesbar.",
+    "ein Bild von einem Briefkasten. Daneben ist ein Türklopfer.",
+    "mache das Heft zu."
+  ],
+  "erst-essen-dann-woerter": [
+    "nach dem Abendessen.",
+    "vom Schreibtisch",
+    "Dann wechseln wir."
+  ],
+  "nebeneinander-ist-kein-beleg": [
+    "nur nebeneinander in meiner Mappe.",
+    "den Satz über dasselbe Haus.",
+    "Über den heutigen Standort wissen wir dadurch nichts Neues."
+  ]
+});

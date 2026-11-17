@@ -1271,3 +1271,24 @@ Object.assign(readingEvidence,{
     "die Erklärung steht direkt über den Zeilen"
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-umschlag-bleibt-geschlossen": [
+    "Er ist an ihre Nachbarin Frau Berg adressiert.",
+    "Die beiden wissen aber nicht, welcher Briefkasten ihrer ist.",
+    "Tim schreibt sie unter die passenden Bilder.",
+    "Der wirkliche Umschlag bleibt geschlossen auf der Bank."
+  ],
+  "alltag-a2-wortprobe-nach-dem-abendessen": [
+    "die Wörter danach zu wiederholen.",
+    "legt sie aber auf die Kommode statt zwischen die Teller.",
+    "Sie haben weder einen Besuch bei jemandem noch einen Termin für eine Lieferung vereinbart.",
+    "Beim Wort Türklopfer bittet Amir um eine zweite Wiederholung."
+  ],
+  "alltag-b1-unterschiede-in-bildbeschreibungen": [
+    "Dafür hat er jedoch keinen Beleg.",
+    "Eine ähnliche Farbe oder eine gemeinsame Mappe belegt keine gemeinsame Adresse.",
+    "möchte aber einen langen Satz in zwei kürzere teilen. Jonas übernimmt diesen Vorschlag.",
+    "Auch ob der Türklopfer oder der Briefkasten noch am Aufnahmeort vorhanden ist, haben sie nicht überprüft."
+  ]
+});

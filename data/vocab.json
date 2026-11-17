@@ -491,6 +491,10 @@
   {
    "id": "wortkontrolle",
    "ar": "طوق نجاة وتليسكوب"
+  },
+  {
+   "id": "eingangsnotizen",
+   "ar": "دقّاقة باب وصندوق بريد"
   }
  ],
  "words": [
@@ -12782,6 +12786,36 @@
     "file": "2568091.jpg",
     "commons": "https://www.pexels.com/photo/vintage-metal-made-telescope-on-tower-2568091/",
     "author": "Matt Hardy",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "tuerklopfer",
+   "topic": "eingangsnotizen",
+   "art": "der",
+   "de": "Türklopfer",
+   "plural": "-",
+   "ar": "دقّاقة باب",
+   "photo": {
+    "file": "35769474.jpg",
+    "commons": "https://www.pexels.com/photo/vintage-wooden-door-with-ornate-brass-knocker-35769474/",
+    "author": "Ayşegül Aytören",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "briefkasten",
+   "topic": "eingangsnotizen",
+   "art": "der",
+   "de": "Briefkasten",
+   "plural": "Briefkästen",
+   "ar": "صندوق بريد",
+   "photo": {
+    "file": "26647321.jpg",
+    "commons": "https://www.pexels.com/photo/a-mailbox-on-a-wall-26647321/",
+    "author": "Benoit Roy",
     "license": "Pexels License",
     "modified": true
    }

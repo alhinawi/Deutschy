@@ -257,7 +257,7 @@ function Done({ title, line, xp, again }: { title: string; line: string; xp: num
       <h2 className="ar-title text-3xl font-bold">{title}</h2>
       <p className="num text-xl">{line}</p>
       <p className="num font-bold text-accent">+{xp} XP</p>
-      <div className="flex justify-center gap-3">
+      <div className="flex flex-wrap justify-center gap-3">
         {again && <button onClick={again} className="rounded-full bg-accent px-5 py-2.5 font-bold text-accent-ink">{t('جولة تانية', 'Play again')}</button>}
         <Link href="/games/" className="rounded-full border border-line px-5 py-2.5 font-bold">{t('الألعاب', 'Games')}</Link>
       </div>

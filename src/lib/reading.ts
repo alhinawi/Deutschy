@@ -237,3 +237,6 @@ readings.push(...bildausschnittTexts);
 
 import {wortkontrolleTexts} from './reading-wortkontrolle';
 readings.push(...wortkontrolleTexts);
+
+import {eingangsnotizenTexts} from './reading-eingangsnotizen';
+readings.push(...eingangsnotizenTexts);

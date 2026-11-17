@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the seventy-eighth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the seventy-ninth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -766,9 +766,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Game topic picker |44px minimum height for touch. Existing native selection and2px keyboard ring retained. Spelling focus/help/error/required/disabled readability, counter/progress, XP/key identities and duplicate guards unchanged. |
 | [ ] | Listening/dictation |64 segments and Egyptian Arabic. Native editorial and actual device voice pending. No rescue, safety, optical-use or technical-inspection instructions. |
 
+### List 79: entrance nouns and limits of a shared setting
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-umschlag-bleibt-geschlossen/` and linked dialogue | Fictional neighbor envelope found on bench, external name only. Correct mailbox unknown, no readable names. Closed on bench, no insertion/opening, neighbor not yet spoken to. Separate noun exercise in Tim's notebook; word cards in bag. Check mit Frau Berg sprechen and Egyptian Arabic. |
+| [ ] | `/reading/alltag-a2-wortprobe-nach-dem-abendessen/` and linked dialogue | Private at-home word rehearsal before-to-after dinner, no exact time/visit/delivery. Cards from desk to chest before dinner, not between plates. Role swap, Türklopfer repeated, cards in folder, amended note beside it. Real door/mailbox unchanged. |
+| [ ] | `/reading/alltag-b1-unterschiede-in-bildbeschreibungen/` and linked dialogue | Adjacent photos do not establish same house/address. Unsupported sentence removed. No resident name/address. Later sentence split is linguistic edit, not new fact. Separate files, no directions/invitation/insertion order/current-location verification. |
+| [ ] | `/lessons/eingangsnotizen/` and `/credits/` | der Türklopfer/- and der Briefkasten/Briefkästen. دقّاقة باب and صندوق بريد. Duden also permits same-form plural Briefkasten; selected common umlaut form is valid, not exclusive. Whole ornate non-face knocker on wooden door; whole black mailbox on stone wall with generic MAIL marking, no address/person/product brand. Photos not same-house evidence. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way-preposition/negation rows, earlier IDs preserved. Helping/answering/belonging with dative, sein Heft/ihre Tasche/seine Karten/unsere Texte. |
+| [ ] | Game result actions | Action row can wrap on narrow screen.320px AR/EN rendered result inspected, again/games controls remain readable. Topic44px minimum/focus ring, input/help/error/required/disabled readability, counter/progress, grading/XP and duplicate lock unchanged. |
+| [ ] | Listening/dictation |65 segments/Egyptian Arabic. Native editorial and actual device voice pending. No real correspondence read/sent; no address/ownership/same-house inference from photos. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **813 photo nouns / 123 topics**, **252 reading texts / 961 reading questions**, **41 core grammar topics / 1822 core grammar questions**, **192 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **815 photo nouns / 124 topics**, **255 reading texts / 973 reading questions**, **41 core grammar topics / 1846 core grammar questions**, **195 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -780,7 +792,7 @@ This is an inventory, not completed review. Snapshot: **813 photo nouns / 123 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 66 · A2 94 · B1 62 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 67 · A2 95 · B1 63 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

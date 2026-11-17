@@ -399,3 +399,6 @@ for(const[topic,rows]of Object.entries(bildausschnittGrammar))exercises[topic].p
 
 import {wortkontrolleGrammar} from './exercises-wortkontrolle';
 for(const[topic,rows]of Object.entries(wortkontrolleGrammar))exercises[topic].push(...rows);
+
+import {eingangsnotizenGrammar} from './exercises-eingangsnotizen';
+for(const[topic,rows]of Object.entries(eingangsnotizenGrammar))exercises[topic].push(...rows);

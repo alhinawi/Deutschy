@@ -180,4 +180,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zwei-woerter-am-fenster',dialogue:'ganze-woerter-mit-artikel'},
  {reading:'alltag-a2-rueckgabe-der-uebungsblaetter',dialogue:'acht-blaetter-zurueck'},
  {reading:'alltag-b1-uebungswort-ist-keine-pruefung',dialogue:'haekchen-betrifft-nur-abschrift'},
+ {reading:'alltag-a1-umschlag-bleibt-geschlossen',dialogue:'erst-frau-berg-fragen'},
+ {reading:'alltag-a2-wortprobe-nach-dem-abendessen',dialogue:'erst-essen-dann-woerter'},
+ {reading:'alltag-b1-unterschiede-in-bildbeschreibungen',dialogue:'nebeneinander-ist-kein-beleg'},
 ];
