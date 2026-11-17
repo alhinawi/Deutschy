@@ -288,4 +288,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-violette-knollen-helle-stuecke',dialogue:'welches-bild-ist-violett'},
  {reading:'alltag-a2-stuecke-statt-erfundener-mehrzahl',dialogue:'stuecke-ingwer-ohne-plural'},
  {reading:'alltag-b1-sichtbare-schale-kein-guetesiegel',dialogue:'das-bild-liefert-kein-guetesiegel'},
+ {reading:'alltag-a1-offene-papaya-ganze-quitten',dialogue:'papaya-offen-quitte-hinter-blatt'},
+ {reading:'alltag-a2-zwei-feminina-zwei-pluralformen',dialogue:'papayas-quitten-endungen-nicht-kopieren'},
+ {reading:'alltag-b1-offene-und-geschlossene-ansicht',dialogue:'nicht-jede-ansicht-zeigt-das-innere'},
 ];

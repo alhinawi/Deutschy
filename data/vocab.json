@@ -635,6 +635,10 @@
   {
    "id": "knollenbilder",
    "ar": "البطاطا والجنزبيل"
+  },
+  {
+   "id": "obstansichten",
+   "ar": "البابايا والسفرجل"
   }
  ],
  "words": [
@@ -14006,6 +14010,36 @@
     "file": "10899474.jpg",
     "commons": "https://www.pexels.com/photo/a-bowl-of-ginger-10899474/",
     "author": "Engin Akyurt",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "papaya",
+   "topic": "obstansichten",
+   "art": "die",
+   "de": "Papaya",
+   "plural": "Papayas",
+   "ar": "بابايا",
+   "photo": {
+    "file": "10812833.jpg",
+    "commons": "https://www.pexels.com/photo/sliced-papaya-with-seeds-10812833/",
+    "author": "Juan Diaz",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "quitte",
+   "topic": "obstansichten",
+   "art": "die",
+   "de": "Quitte",
+   "plural": "Quitten",
+   "ar": "سفرجلة",
+   "photo": {
+    "file": "18743047.jpg",
+    "commons": "https://www.pexels.com/photo/fresh-quince-fruits-on-rustic-wooden-surface-18743047/",
+    "author": "Sylwester Ficek",
     "license": "Pexels License",
     "modified": true
    }
