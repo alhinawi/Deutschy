@@ -240,3 +240,6 @@ readings.push(...wortkontrolleTexts);
 
 import {eingangsnotizenTexts} from './reading-eingangsnotizen';
 readings.push(...eingangsnotizenTexts);
+
+import {bildregisterTexts} from './reading-bildregister';
+readings.push(...bildregisterTexts);

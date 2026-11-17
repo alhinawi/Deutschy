@@ -13103,3 +13103,218 @@ Object.assign(dialogueEvidence,{
     "Über den heutigen Standort wissen wir dadurch nichts Neues."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "links-die-glocke",
+    "level": "A1",
+    "title": [
+      "Noch nicht einkleben",
+      "لسه مانلزقش"
+    ],
+    "lines": [
+      [
+        "Lina",
+        "Das Glockenbild kommt links hin. Das andere legen wir rechts daneben.",
+        "صورة الجرس تتحط على الشمال. التانية نحطها على يمينها."
+      ],
+      [
+        "Oskar",
+        "Ich lese die Karten: die Glocke, der Kerzenständer.",
+        "هقرا الكروت: الجرس وحامل الشمع بالألماني وبأدوات التعريف."
+      ],
+      [
+        "Lina",
+        "Kleben wir sie schon ein?",
+        "نلزقهم خلاص؟"
+      ],
+      [
+        "Oskar",
+        "Noch nicht. Vergleichen wir erst die Schreibweise mit der Wortliste.",
+        "لسه لأ. نقارن الأول الكتابة بقايمة الكلمات."
+      ],
+      [
+        "Lina",
+        "Beide Wörter stehen hier.",
+        "الكلمتين مكتوبين هنا."
+      ],
+      [
+        "Oskar",
+        "Ich ergänze Glocken auf meiner Notiz. Das ist die Pluralform.",
+        "هضيف جمع جرس بالألماني على ملحوظتي. دي صيغة الجمع."
+      ],
+      [
+        "Lina",
+        "Gut. Nach der Pause lesen wir die Karten noch einmal.",
+        "تمام. بعد الاستراحة نقرا الكروت تاني."
+      ]
+    ],
+    "q": [
+      [
+        "Welches Bild liegt links?",
+        "Das Glockenbild.",
+        "Das Bild mit den Kerzenständern.",
+        "Ein Stiftbild."
+      ],
+      [
+        "Warum warten sie mit dem Einkleben?",
+        "Sie vergleichen zuerst die Schreibweise.",
+        "Der echte Kerzenständer ist heiß.",
+        "Sie erwarten einen Lieferdienst."
+      ],
+      [
+        "Wann wollen sie die Karten erneut lesen?",
+        "Nach der Pause.",
+        "Vor dem Aufstehen am Morgen.",
+        "Erst im nächsten Monat."
+      ]
+    ]
+  },
+  {
+    "id": "danach-ist-keine-uhrzeit",
+    "level": "A2",
+    "title": [
+      "Drei Schritte, keine Termine",
+      "تلات خطوات مش مواعيد"
+    ],
+    "lines": [
+      [
+        "Farah",
+        "Du hast danach neben Schritt zwei geschrieben. Meinst du eine Uhrzeit?",
+        "إنت كاتب بعد كده جنب الخطوة التانية. تقصد ساعة معينة؟"
+      ],
+      [
+        "Lukas",
+        "Nein, nur die Reihenfolge: erst ordnen, dann vorlesen, zuletzt vergleichen.",
+        "لأ، الترتيب بس: الأول نرتب، بعد كده نقرا، وفي الآخر نقارن."
+      ],
+      [
+        "Farah",
+        "Dann schreiben wir darunter, dass keine Uhrzeiten festgelegt sind.",
+        "يبقى نكتب تحت إن مفيش ساعات محددة."
+      ],
+      [
+        "Lukas",
+        "Gut. Ich zeige die deutsche Seite der Karten erst nach dem Ordnen.",
+        "تمام. أوري الناحية الألماني بتاعة الكروت بعد الترتيب بس."
+      ],
+      [
+        "Farah",
+        "Bei mir steht Glocken als Plural.",
+        "عندي مكتوب جمع جرس بالألماني."
+      ],
+      [
+        "Lukas",
+        "Und ich habe die unveränderte Form Kerzenständer markiert.",
+        "وأنا معلم على إن حامل الشمع بالألماني نفس الشكل في الجمع."
+      ],
+      [
+        "Farah",
+        "Zum Schluss legen wir den Zettel oben in die Schachtel.",
+        "في الآخر نحط الورقة فوق في العلبة."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Aufgabe kommt zuerst?",
+        "Bilder ordnen.",
+        "Notizen vergleichen.",
+        "Einen Termin buchen."
+      ],
+      [
+        "Wann zeigt Lukas die deutsche Seite?",
+        "Nach dem Ordnen.",
+        "Schon vor jedem Bild.",
+        "Erst in einem Monat."
+      ],
+      [
+        "Was ist nicht festgelegt?",
+        "Uhrzeiten.",
+        "Die Aufgabenreihenfolge.",
+        "Der Platz für den Zettel am Ende."
+      ]
+    ]
+  },
+  {
+    "id": "singular-als-worteintrag",
+    "level": "B1",
+    "title": [
+      "Benennen ist nicht zählen",
+      "التسمية مش عد"
+    ],
+    "lines": [
+      [
+        "Malte",
+        "Auf dem Foto sehe ich mehrere Kerzenständer. Warum steht darunter der Kerzenständer?",
+        "شايف كذا حامل شمع في الصورة. ليه مكتوب تحتها المفرد بالألماني؟"
+      ],
+      [
+        "Anja",
+        "Ich übe die Wortform im Singular. Das Etikett benennt den Typ und zählt nicht.",
+        "بتدرب على صيغة الكلمة بالمفرد. الكارت بيسمي النوع مش بيعد."
+      ],
+      [
+        "Malte",
+        "Schreib diesen Hinweis bitte direkt über die Bilder.",
+        "اكتبي التوضيح ده فوق الصور على طول."
+      ],
+      [
+        "Anja",
+        "Mache ich. Ein eigenes Zählblatt lege ich für später an. Es bleibt jetzt leer.",
+        "حاضر. هجهز ورقة عد لوحدها لبعدين. تفضل فاضية دلوقتي."
+      ],
+      [
+        "Malte",
+        "Die Pluralformen sind die Glocken und die Kerzenständer.",
+        "صيغ الجمع هي الأجراس وحوامل الشمع بالألماني."
+      ],
+      [
+        "Anja",
+        "Genau. Bei Kerzenständer bleibt das Nomen gleich, aber der Artikel im Plural ist die.",
+        "بالظبط. في جمع حامل الشمع بالألماني الاسم نفسه ثابت بس أداة التعريف بتتغير."
+      ],
+      [
+        "Malte",
+        "Dann ergänzt die Pluralnotiz die Singularangabe, ohne eine Stückzahl zu behaupten.",
+        "يبقى ملحوظة الجمع بتكمل المفرد من غير ما تقول عدد القطع."
+      ]
+    ],
+    "q": [
+      [
+        "Was macht das Etikett laut Anja?",
+        "Es benennt den Typ.",
+        "Es bestätigt einen Preis.",
+        "Es zählt die ganze Sammlung."
+      ],
+      [
+        "Was bleibt zunächst leer?",
+        "Das Zählblatt.",
+        "Beide Bildkarten.",
+        "Die gesamte Wortliste."
+      ],
+      [
+        "Was ändert sich bei der Kerzenständer zur Pluralform?",
+        "Der bestimmte Artikel wird die.",
+        "Das Nomen bekommt immer -n.",
+        "Die Bilddatei wird ersetzt."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "links-die-glocke": [
+    "Das Glockenbild kommt links hin.",
+    "Vergleichen wir erst die Schreibweise",
+    "Nach der Pause lesen wir die Karten noch einmal."
+  ],
+  "danach-ist-keine-uhrzeit": [
+    "erst ordnen",
+    "erst nach dem Ordnen.",
+    "keine Uhrzeiten festgelegt sind."
+  ],
+  "singular-als-worteintrag": [
+    "Das Etikett benennt den Typ",
+    "Es bleibt jetzt leer.",
+    "der Artikel im Plural ist die."
+  ]
+});

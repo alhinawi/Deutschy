@@ -1292,3 +1292,24 @@ Object.assign(readingEvidence,{
     "Auch ob der Türklopfer oder der Briefkasten noch am Aufnahmeort vorhanden ist, haben sie nicht überprüft."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-die-bilder-im-album": [
+    "Danach legt er das Glockenbild links auf die Albumseite.",
+    "Sie möchten zuerst noch die Schreibweise in ihrer Wortliste vergleichen.",
+    "Bei Glocke ergänzt er auf seiner eigenen Notiz noch die Pluralform Glocken.",
+    "Echte Glocken oder Kerzenständer haben sie nicht mitgebracht."
+  ],
+  "alltag-a2-erst-ordnen-dann-vorlesen": [
+    "Das Wort bezeichnet hier nur die Reihenfolge der Aufgaben.",
+    "Dann beginnen sie mit dem Ordnen.",
+    "Lukas hat bei Kerzenständer die unveränderte Pluralform markiert.",
+    "sondern legen ihn oben in die Schachtel."
+  ],
+  "alltag-b1-wortetikett-und-stueckzahl": [
+    "Die Beschriftung soll den Gegenstandstyp benennen und keine Stückzahl angeben.",
+    "Dieses Blatt bleibt vorerst leer.",
+    "Bei der zweiten Form bleibt das Nomen unverändert, während der Artikel im Plural die lautet.",
+    "Anja prüft dabei nur die Schreibweise anhand ihrer Wortliste."
+  ]
+});

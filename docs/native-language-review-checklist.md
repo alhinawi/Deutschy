@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the seventy-ninth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the eightieth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -778,9 +778,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Game result actions | Action row can wrap on narrow screen.320px AR/EN rendered result inspected, again/games controls remain readable. Topic44px minimum/focus ring, input/help/error/required/disabled readability, counter/progress, grading/XP and duplicate lock unchanged. |
 | [ ] | Listening/dictation |65 segments/Egyptian Arabic. Native editorial and actual device voice pending. No real correspondence read/sent; no address/ownership/same-house inference from photos. |
 
+### List 80: singular labels, order and quantity
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-die-bilder-im-album/` and linked dialogue | Fictional album: bell photo left, candlestick photo right. Cards under matching photos; no gluing until spelling compared. Glocken added to Oskar's own note. Album/photos/Stift stay on table during pause, no real objects brought. Check Egyptian cousin wording and German album placement. |
+| [ ] | `/reading/alltag-a2-erst-ordnen-dann-vorlesen/` and linked dialogue | Private speaking exercise: order pictures, read words, compare notes. Numbered positions and danach are sequence, not clock times, appointments or grades. Cards turned over then revealed after ordering. Farah/Glocken versus Lukas/unchanged Kerzenständer; own missing notes filled. Final sequence sheet inside top of box, not wall. |
+| [ ] | `/reading/alltag-b1-wortetikett-und-stueckzahl/` and linked dialogue | Singular dictionary label names object type, not quantity despite multiple visible holders. Explicit singular/no-counting note added above pictures. Separate later counting sheet remains empty. Photo gives no total outside frame. Plural note supplements singular cards: die Glocken/die Kerzenständer, noun unchanged in second pair but article changes. Only spelling checked, not actual objects/material/price/date. |
+| [ ] | `/lessons/bildregister/` and `/credits/` | die Glocke/Glocken and der Kerzenständer/-. جرس and حامل شمع. Whole unbranded bell/bracket/clapper, pull rope exits lower frame;3 complete holders/bases with unlit candles. No people/illustrations/padding. No bell-use, flame, installation or material advice. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way-preposition/negation rows; old IDs retained. ihr Album/seinen Stift/ihre Notizen/unsere Liste. Wo versus Wohin with dem/das Sofa and der/die Schachtel. |
+| [ ] | Game result controls | Both again and Games controls retain44px minimum height, row still wraps. AR/EN320 results checked. Grading/XP, duplicate lock, question/progress, topic focus and spelling states unchanged. |
+| [ ] | Listening/dictation |62 original segments/Egyptian Arabic. Native editorial and real device voice pending. All stories fictional; no real appointment, inventory count, purchase or physical-object check. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **815 photo nouns / 124 topics**, **255 reading texts / 973 reading questions**, **41 core grammar topics / 1846 core grammar questions**, **195 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **817 photo nouns / 125 topics**, **258 reading texts / 985 reading questions**, **41 core grammar topics / 1870 core grammar questions**, **198 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -792,7 +804,7 @@ This is an inventory, not completed review. Snapshot: **815 photo nouns / 124 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 67 · A2 95 · B1 63 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 68 · A2 96 · B1 64 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

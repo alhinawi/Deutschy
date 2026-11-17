@@ -813,5 +813,7 @@
  "rettungsring": "lifebuoy",
  "fernrohr": "telescope",
  "tuerklopfer": "door knocker",
- "briefkasten": "mailbox"
+ "briefkasten": "mailbox",
+ "glocke": "bell",
+ "kerzenstaender": "candlestick"
 }

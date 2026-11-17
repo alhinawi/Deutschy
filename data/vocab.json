@@ -495,6 +495,10 @@
   {
    "id": "eingangsnotizen",
    "ar": "دقّاقة باب وصندوق بريد"
+  },
+  {
+   "id": "bildregister",
+   "ar": "جرس وحامل شمع"
   }
  ],
  "words": [
@@ -12816,6 +12820,36 @@
     "file": "26647321.jpg",
     "commons": "https://www.pexels.com/photo/a-mailbox-on-a-wall-26647321/",
     "author": "Benoit Roy",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "glocke",
+   "topic": "bildregister",
+   "art": "die",
+   "de": "Glocke",
+   "plural": "Glocken",
+   "ar": "جرس",
+   "photo": {
+    "file": "20069741.jpg",
+    "commons": "https://www.pexels.com/photo/brass-hanging-bell-on-a-wall-20069741/",
+    "author": "Boys in Bristol Photography",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "kerzenstaender",
+   "topic": "bildregister",
+   "art": "der",
+   "de": "Kerzenständer",
+   "plural": "-",
+   "ar": "حامل شمع",
+   "photo": {
+    "file": "5644687.jpg",
+    "commons": "https://www.pexels.com/photo/golden-candle-holders-with-white-candles-on-green-wooden-drawer-5644687/",
+    "author": "Polina ⠀",
     "license": "Pexels License",
     "modified": true
    }

@@ -402,3 +402,6 @@ for(const[topic,rows]of Object.entries(wortkontrolleGrammar))exercises[topic].pu
 
 import {eingangsnotizenGrammar} from './exercises-eingangsnotizen';
 for(const[topic,rows]of Object.entries(eingangsnotizenGrammar))exercises[topic].push(...rows);
+
+import {bildregisterGrammar} from './exercises-bildregister';
+for(const[topic,rows]of Object.entries(bildregisterGrammar))exercises[topic].push(...rows);

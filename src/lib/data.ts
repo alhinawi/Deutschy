@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  bildregister: 'Glocke und Kerzenständer',
   eingangsnotizen: 'Türklopfer und Briefkasten',
   wortkontrolle: 'Rettungsring und Fernrohr',
   bildausschnitt: 'Schaukelstuhl und Hängematte',
@@ -121,6 +122,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  bildregister: 'Bell and candlestick',
   eingangsnotizen: 'Door knocker and mailbox',
   wortkontrolle: 'Lifebuoy and telescope',
   bildausschnitt: 'Rocking chair and hammock',

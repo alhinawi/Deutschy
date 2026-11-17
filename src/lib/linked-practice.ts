@@ -183,4 +183,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-umschlag-bleibt-geschlossen',dialogue:'erst-frau-berg-fragen'},
  {reading:'alltag-a2-wortprobe-nach-dem-abendessen',dialogue:'erst-essen-dann-woerter'},
  {reading:'alltag-b1-unterschiede-in-bildbeschreibungen',dialogue:'nebeneinander-ist-kein-beleg'},
+ {reading:'alltag-a1-die-bilder-im-album',dialogue:'links-die-glocke'},
+ {reading:'alltag-a2-erst-ordnen-dann-vorlesen',dialogue:'danach-ist-keine-uhrzeit'},
+ {reading:'alltag-b1-wortetikett-und-stueckzahl',dialogue:'singular-als-worteintrag'},
 ];
