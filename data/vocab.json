@@ -595,6 +595,10 @@
   {
    "id": "sportdetails",
    "ar": "الجزمة بعجل وزعنفة السباحة"
+  },
+  {
+   "id": "gartenbilder",
+   "ar": "مقص وجاروف الجنينة"
   }
  ],
  "words": [
@@ -13666,6 +13670,36 @@
     "file": "8028468.jpg",
     "commons": "https://www.pexels.com/photo/pair-of-flippers-on-poolside-8028468/",
     "author": "SHVETS production",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "gartenschere",
+   "topic": "gartenbilder",
+   "art": "die",
+   "de": "Gartenschere",
+   "plural": "Gartenscheren",
+   "ar": "مقص جنينة",
+   "photo": {
+    "file": "12142540.jpg",
+    "commons": "https://www.pexels.com/photo/a-person-using-pruning-shears-12142540/",
+    "author": "Tamara Elnova",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "gartenschaufel",
+   "topic": "gartenbilder",
+   "art": "die",
+   "de": "Gartenschaufel",
+   "plural": "Gartenschaufeln",
+   "ar": "جاروف جنينة صغير",
+   "photo": {
+    "file": "5397724.jpg",
+    "commons": "https://www.pexels.com/photo/silver-and-brown-handle-hand-tool-5397724/",
+    "author": "gryffyn m",
     "license": "Pexels License",
     "modified": true
    }

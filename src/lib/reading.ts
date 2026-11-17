@@ -315,3 +315,6 @@ readings.push(...spielteileTexts);
 
 import {sportdetailsTexts} from './reading-sportdetails';
 readings.push(...sportdetailsTexts);
+
+import {gartenbilderTexts} from './reading-gartenbilder';
+readings.push(...gartenbilderTexts);

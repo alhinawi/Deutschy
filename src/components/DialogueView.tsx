@@ -93,7 +93,7 @@ function One({ d, back }: { d: Dialogue; back: () => void }) {
         {i >= d.q.length ? (
           <div className="space-y-3">
             <p className="ar-title text-2xl">{t(`نتيجتك ${score} من ${d.q.length}`, `Your score: ${score} of ${d.q.length}`)}</p>
-            <button onClick={() => { setI(0); setPick(null); setScore(0);setRound(r=>r+1);locked.current=false; }} className="rounded-full bg-accent px-5 py-2 font-bold text-accent-ink">{t('أعد المحاولة', 'Try again')}</button>
+            <button onClick={() => { setI(0); setPick(null); setScore(0);setRound(r=>r+1);locked.current=false; }} className="min-h-11 rounded-full bg-accent px-5 py-2 font-bold text-accent-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-card">{t('أعد المحاولة', 'Try again')}</button>
           </div>
         ) : (
           <>

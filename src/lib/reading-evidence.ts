@@ -1817,3 +1817,24 @@ Object.assign(readingEvidence,{
     "Das Ergebnis ist eine genauere Bildbeschreibung mit offenem Funktionszustand."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zwei-gartenbilder": [
+    "Man sieht nur die Hände und einen Teil der Arme.",
+    "Ihr Griff ist braun",
+    "Beide bekommen in der Mehrzahl ein n.",
+    "Sie lernen die Namen und beschreiben die Bilder."
+  ],
+  "alltag-a2-das-letzte-wort-im-kompositum": [
+    "Garten allein hilft Jonas nicht, zwischen den Fotos zu unterscheiden.",
+    "Die Mehrzahl ergänzt er in einer eigenen Zeile.",
+    "schaut noch einmal auf seine eigene Zeile. Danach liest er die Form vollständig.",
+    "Ob er sie morgen noch sicher erkennt, haben sie heute nicht geprüft."
+  ],
+  "alltag-b1-dateiname-und-bildinhalt": [
+    "Diese Angaben stehen ihnen nicht zur Verfügung.",
+    "keine vollständige Reihenfolge von Arbeitsschritten ableiten.",
+    "damit die Datei wiedergefunden werden kann.",
+    "ihre Beschreibung verbessert, nicht die Herkunft oder den Zeitpunkt der Bilder geklärt."
+  ]
+});
