@@ -300,4 +300,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-muffin-donut-wortkarten',dialogue:'die-karten-sind-vertauscht'},
  {reading:'alltag-a2-donut-doughnut-zwei-schreibweisen',dialogue:'variante-oder-tippfehler'},
  {reading:'alltag-b1-cafe-dialog-rollen-klaeren',dialogue:'welches-stueck-meinen-sie'},
+ {reading:'alltag-a1-krawatten-und-ein-faeustling',dialogue:'krawattenmuster-und-baerengesicht'},
+ {reading:'alltag-a2-ein-faeustling-ist-kein-paar',dialogue:'ein-sichtbarer-faeustling'},
+ {reading:'alltag-b1-fundbuero-beschreibung-und-zuordnung',dialogue:'fundstueck-erst-beschreiben'},
 ];

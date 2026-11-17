@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  kleidermuster: 'Krawatte und Fäustling',
   gebaeckkarten: 'Muffin und Donut',
   gebaeckformen: 'Brezel und Bagel',
   saitenbilder: 'Harfe und Mandoline',
@@ -160,6 +161,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  kleidermuster: 'Necktie and mitten',
   gebaeckkarten: 'Muffin and doughnut',
   gebaeckformen: 'Pretzel and bagel',
   saitenbilder: 'Harp and mandolin',

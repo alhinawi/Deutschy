@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-eighteenth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-nineteenth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1246,9 +1246,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Reading-back and reading/listening modes | Three existing controls gain44px minimum/themed keyboard focus.12AR/EN320/390 keyboard/axe states: Enter toggles mode/transcript correctly, back opens reading index, noXP. Actual390AR/EN photos/mode focus inspected. No routing/answer/scoring/playback logic changes. |
 | [ ] | Listening/dictation |78 original segments,312exactGerman payload/source/answer checks. Native editorial and real-device voice review pending. Level labels not certification; progress local. |
 
+### List 119: Necktie and mitten patterns
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-krawatten-und-ein-faeustling/` and linked dialogue | Lea/Karim close-up knotted neckties, checks left, ring patterns red/lightblue/green and partial pink right; long ends outside frame. Brown worn mitten with bear-face knit decoration, two small ears/thumb lower right/light cuff, snowy blurred branches. No personal identity or ownership claim. |
+| [ ] | `/reading/alltag-a2-ein-faeustling-ist-kein-paar/` and linked dialogue | Nele/Amir die Krawatte/Krawatten, der Fäustling/Fäustlinge. ä already in singular, plural adds e. One visible mitten not a visible pair, but not proof person lacks second. Separate two-piece example not photo inventory. No size/material/thermal-protection/dress-code claim. |
+| [ ] | `/reading/alltag-b1-fundbuero-beschreibung-und-zuordnung/` and linked dialogue | Jule/Tarek fictional lost-property dialogue, not actual submitted items. Describe traits, distinguish speaker claim from confirmed ownership, leave attribution open. Matching photo not confirmed return. Do not invent label/brand/owner or prescribe office procedure. Snow not temperature/protection evidence. |
+| [ ] | `/lessons/kleidermuster/` and `/credits/` | die Krawatte/Krawatten (كرافتة), der Fäustling/Fäustlinge (جوانتي بصوابع متجمعة). Full DWDS forms. Pixabay63580 neckties1800x1200 crop100,0-1700,1200; Valeriia Miller6866219 mitten1800x1200 same crop. Both800x600 no padding/stretch/face/brand. Bear decoration is on a photographed real mitten. Rejected labels/unclear crops on garment alternatives. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way/negation rows; earlier question identities unchanged. Native German/Egyptian examples/explanations review pending. |
+| [ ] | Linked reading follow-through actions | Existing dialogue/dictation links gain44pxminimum/inline target/themed keyboard focus.24AR/EN320/390 keyboard/axe states across all3sets: Enter correct scenario/source/noXP. Actual390AR/EN photos/link focus inspected. No target/routing/answer/scoring/playback logic changes. |
+| [ ] | Listening/dictation |75 original segments,300exactGerman payload/source/answer checks. Native editorial/real-device voice review pending. Level labels not certification; progress local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **893 photo nouns / 163 topics**, **372 reading texts / 1441 reading questions**, **41 core grammar topics / 2782 core grammar questions**, **312 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **895 photo nouns / 164 topics**, **375 reading texts / 1453 reading questions**, **41 core grammar topics / 2806 core grammar questions**, **315 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1260,7 +1272,7 @@ This is an inventory, not completed review. Snapshot: **893 photo nouns / 163 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 106 · A2 134 · B1 102 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 107 · A2 135 · B1 103 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
