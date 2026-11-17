@@ -691,6 +691,10 @@
   {
    "id": "gewuerzkarten",
    "ar": "كروت الفانيليا والقرنفل"
+  },
+  {
+   "id": "kaffeebilder",
+   "ar": "صور البن وورق الفلتر"
   }
  ],
  "words": [
@@ -14482,6 +14486,36 @@
     "file": "35783031.jpg",
     "commons": "https://www.pexels.com/photo/close-up-of-cloves-on-a-teaspoon-35783031/",
     "author": "Marek Ruczaj",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "filtertuete",
+   "topic": "kaffeebilder",
+   "art": "die",
+   "de": "Filtertüte",
+   "plural": "Filtertüten",
+   "ar": "ورقة فلتر قهوة",
+   "photo": {
+    "file": "30349812.jpg",
+    "commons": "https://www.pexels.com/zh-cn/photo/30349812/",
+    "author": "Cihan Yüce",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "kaffeebohne",
+   "topic": "kaffeebilder",
+   "art": "die",
+   "de": "Kaffeebohne",
+   "plural": "Kaffeebohnen",
+   "ar": "حبة بن",
+   "photo": {
+    "file": "37073348.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-of-roasted-coffee-beans-37073348/",
+    "author": "Robert Śliwiński",
     "license": "Pexels License",
     "modified": true
    }

@@ -387,3 +387,6 @@ readings.push(...gewuerzbilderTexts);
 
 import {gewuerzkartenTexts} from './reading-gewuerzkarten';
 readings.push(...gewuerzkartenTexts);
+
+import {kaffeebilderTexts} from './reading-kaffeebilder';
+readings.push(...kaffeebilderTexts);

@@ -549,3 +549,6 @@ for(const[topic,rows]of Object.entries(gewuerzbilderGrammar))exercises[topic].pu
 
 import {gewuerzkartenGrammar} from './exercises-gewuerzkarten';
 for(const[topic,rows]of Object.entries(gewuerzkartenGrammar))exercises[topic].push(...rows);
+
+import {kaffeebilderGrammar} from './exercises-kaffeebilder';
+for(const[topic,rows]of Object.entries(kaffeebilderGrammar))exercises[topic].push(...rows);

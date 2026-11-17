@@ -330,4 +330,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-nach-dem-wort-sortieren',dialogue:'g-v-statt-links-rechts'},
  {reading:'alltag-a2-vertauschte-rueckseiten',dialogue:'zuordnung-statt-buchstabe'},
  {reading:'alltag-b1-getrennte-rueckmeldung',dialogue:'artikel-einzahl-mehrzahl'},
+ {reading:'alltag-a1-einzahl-unter-vielen-bohnen',dialogue:'wortform-und-bildmenge'},
+ {reading:'alltag-a2-papier-und-inhalt-trennen',dialogue:'helles-papier-dunkler-inhalt'},
+ {reading:'alltag-b1-ausschnitt-und-beleg',dialogue:'was-zeigt-dieser-ausschnitt'},
 ];
