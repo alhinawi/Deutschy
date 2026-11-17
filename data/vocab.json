@@ -339,6 +339,10 @@
   {
    "id": "schuhplatz",
    "ar": "حاجات لركن الجزم"
+  },
+  {
+   "id": "waescheregal",
+   "ar": "حاجات لرف الغسيل"
   }
  ],
  "words": [
@@ -11468,6 +11472,36 @@
     "file": "Shoelaces 20050719 001.jpg",
     "commons": "https://commons.wikimedia.org/wiki/File:Shoelaces_20050719_001.jpg",
     "author": "Jonas Bergsten",
+    "license": "Public domain",
+    "padding": true
+   }
+  },
+  {
+   "id": "fusselrolle",
+   "topic": "waescheregal",
+   "art": "die",
+   "de": "Fusselrolle",
+   "plural": "Fusselrollen",
+   "ar": "رول إزالة الوبر",
+   "photo": {
+    "file": "Green Handle White Sticky Brush (44273709980).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Green_Handle_White_Sticky_Brush_(44273709980).jpg",
+    "author": "Jernej Furman",
+    "license": "CC BY 2.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "waschbrett",
+   "topic": "waescheregal",
+   "art": "das",
+   "de": "Waschbrett",
+   "plural": "Waschbretter",
+   "ar": "لوح غسيل يدوي",
+   "photo": {
+    "file": "20140418 washboard.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:20140418_washboard.jpg",
+    "author": "Yoshibay",
     "license": "Public domain",
     "padding": true
    }

@@ -473,3 +473,24 @@ Object.assign(readingEvidence,{
     "Es ist noch nichts verschenkt, verkauft oder für eine andere Person reserviert."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-fusselrolle": [
+    "Auf dem Ärmel sieht sie helle Fusseln.",
+    "Ihr Bruder Sami zeigt auf den kleinen Korb unter dem Regal.",
+    "Der Griff ist grün.",
+    "Sami nimmt die Bürste mit in sein Zimmer."
+  ],
+  "alltag-a2-waschbrett": [
+    "Ihr Vater erklärt, dass ihre Großmutter früher damit Wäsche gewaschen hat.",
+    "Auf dem ersten Bild liegt ein Tuch vor dem Brett und verdeckt den unteren Rand.",
+    "Sie ergänzt deshalb keine Jahreszahl.",
+    "Das Brett bleibt vorerst auf dem Regal; die beiden haben nur ein Foto gemacht."
+  ],
+  "alltag-a2-waeschezeichen": [
+    "Ines möchte das Hemd mit dem fehlenden Knopf zunächst reparieren.",
+    "Karim nimmt das Hemd mit dem fehlenden Knopf wieder heraus.",
+    "Seine Schwester Ines hat zwei blaue Hemden auf den Stuhl gelegt.",
+    "Sie besprechen keine Waschtemperatur und haben noch kein Waschprogramm gestartet."
+  ]
+});

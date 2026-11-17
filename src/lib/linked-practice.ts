@@ -66,4 +66,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-hausschuhe',dialogue:'braunes-paar-unten'},
  {reading:'alltag-a2-schnuersenkel',dialogue:'senkel-zwei-merkmale'},
  {reading:'alltag-a2-schuhregalnotiz',dialogue:'kiste-erst-fragen'},
+ {reading:'alltag-a1-fusselrolle',dialogue:'rolle-im-korb'},
+ {reading:'alltag-a2-waschbrett',dialogue:'waschbrett-ganz-im-bild'},
+ {reading:'alltag-a2-waeschezeichen',dialogue:'hemd-erst-naehen'},
 ];

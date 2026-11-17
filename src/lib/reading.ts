@@ -123,3 +123,6 @@ readings.push(...kuechenschubladeTexts);
 
 import {schuhplatzTexts} from './reading-schuhplatz';
 readings.push(...schuhplatzTexts);
+
+import {waescheregalTexts} from './reading-waescheregal';
+readings.push(...waescheregalTexts);

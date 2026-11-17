@@ -4718,3 +4718,218 @@ Object.assign(dialogueEvidence,{
     "Ich verspreche niemandem etwas daraus."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "rolle-im-korb",
+    "level": "A1",
+    "title": [
+      "Unter dem Regal",
+      "تحت الرف"
+    ],
+    "lines": [
+      [
+        "Mila",
+        "Ich suche die Fusselrolle. Liegt sie neben der Bürste?",
+        "بدور على رول الوبر. هو جنب الفرشة؟"
+      ],
+      [
+        "Sami",
+        "Nein, schau in den kleinen Korb unter dem Regal.",
+        "لأ، بصي في السلة الصغيرة تحت الرف."
+      ],
+      [
+        "Mila",
+        "Hier sind zwei Handtücher. Ah, die Rolle liegt dazwischen.",
+        "هنا فيه فوطتين. آه، الرول بينهم."
+      ],
+      [
+        "Sami",
+        "Genau, die mit dem grünen Griff.",
+        "بالظبط، اللي إيده خضرا."
+      ],
+      [
+        "Mila",
+        "Ich lege sie nachher wieder in den Korb.",
+        "هرجعه للسلة بعدين."
+      ],
+      [
+        "Sami",
+        "Danke. Die Bürste nehme ich mit in mein Zimmer.",
+        "شكراً. هاخد الفرشة معايا أوضتي."
+      ],
+      [
+        "Mila",
+        "Gut, das weiße Tuch lasse ich oben liegen.",
+        "تمام، هسيب الفوطة البيضا فوق."
+      ]
+    ],
+    "q": [
+      [
+        "Wo soll Mila suchen?",
+        "Im Korb unter dem Regal.",
+        "In einem Schrank im Bad.",
+        "Unter ihrem Bett."
+      ],
+      [
+        "Was hat einen grünen Griff?",
+        "Die Fusselrolle.",
+        "Die Bürste.",
+        "Der Korb."
+      ],
+      [
+        "Was bleibt oben auf dem Regal?",
+        "Das weiße Tuch.",
+        "Der Pullover.",
+        "Samis Tasche."
+      ]
+    ]
+  },
+  {
+    "id": "waschbrett-ganz-im-bild",
+    "level": "A2",
+    "title": [
+      "Noch einmal ohne das Tuch",
+      "تاني من غير الفوطة"
+    ],
+    "lines": [
+      [
+        "Leyla",
+        "Ist das ein Waschbrett?",
+        "ده لوح غسيل؟"
+      ],
+      [
+        "Vater",
+        "Ja, es gehört deiner Großmutter. Sie hat früher damit gewaschen.",
+        "آه، بتاع جدتك. كانت بتغسل عليه زمان."
+      ],
+      [
+        "Leyla",
+        "Ich mache ein Foto für unser Familienalbum.",
+        "هصور صورة لألبوم العيلة."
+      ],
+      [
+        "Vater",
+        "Das Tuch verdeckt den unteren Rand. Nimm es bitte weg.",
+        "الفوطة مغطية الحافة اللي تحت. شيليها لو سمحتي."
+      ],
+      [
+        "Leyla",
+        "Jetzt sieht man das ganze Brett. Wie alt ist es?",
+        "دلوقتي اللوح كله باين. عمره قد إيه؟"
+      ],
+      [
+        "Vater",
+        "Das weiß ich nicht genau. Wir fragen deine Großmutter später.",
+        "مش عارف بالظبط. نسأل جدتك بعدين."
+      ],
+      [
+        "Leyla",
+        "Dann schreibe ich erst einmal keine Jahreszahl dazu.",
+        "يبقى مش هكتب معاه سنة دلوقتي."
+      ]
+    ],
+    "q": [
+      [
+        "Wofür macht Leyla das Foto?",
+        "Für das Familienalbum.",
+        "Für eine Verkaufsanzeige.",
+        "Für einen Reisepass."
+      ],
+      [
+        "Was soll sie vor dem zweiten Foto entfernen?",
+        "Das Tuch.",
+        "Den Griff des Brettes.",
+        "Das ganze Regal."
+      ],
+      [
+        "Warum schreibt sie keine Jahreszahl?",
+        "Das genaue Alter ist noch unklar.",
+        "Sie kann keine Zahlen schreiben.",
+        "Das Brett hat kein Muster."
+      ]
+    ]
+  },
+  {
+    "id": "hemd-erst-naehen",
+    "level": "A2",
+    "title": [
+      "Das mit dem fehlenden Knopf",
+      "اللي ناقصه زرار"
+    ],
+    "lines": [
+      [
+        "Karim",
+        "Ich lege die beiden blauen Hemden in den Korb.",
+        "هحط القميصين الزرق في السلة."
+      ],
+      [
+        "Ines",
+        "Warte, das mit dem fehlenden Knopf möchte ich erst reparieren.",
+        "استنى، اللي ناقصه زرار عايزة أصلحه الأول."
+      ],
+      [
+        "Karim",
+        "Ach, deshalb liegt der Zettel darauf.",
+        "آه، عشان كده عليه الورقة."
+      ],
+      [
+        "Ines",
+        "Ja. Bitte leg dieses Hemd getrennt auf den Tisch.",
+        "آه. حط القميص ده لوحده على الترابيزة لو سمحت."
+      ],
+      [
+        "Karim",
+        "Das andere bleibt also im Korb.",
+        "يبقى التاني يفضل في السلة."
+      ],
+      [
+        "Ines",
+        "Genau. Ich ergänze noch: fehlender Knopf am linken Ärmel.",
+        "بالظبط. هضيف كمان: ناقصه زرار في الكم الشمال."
+      ],
+      [
+        "Karim",
+        "Gut, nur blau wäre bei zwei blauen Hemden nicht eindeutig.",
+        "تمام، أزرق بس مش هتبقى واضحة مع قميصين زرق."
+      ]
+    ],
+    "q": [
+      [
+        "Was soll zuerst mit einem Hemd passieren?",
+        "Es soll repariert werden.",
+        "Es soll verkauft werden.",
+        "Es soll jemand abholen."
+      ],
+      [
+        "Wohin legt Karim dieses Hemd?",
+        "Getrennt auf den Tisch.",
+        "Zurück zu beiden Hemden im Korb.",
+        "Auf das Waschbrett."
+      ],
+      [
+        "Was ergänzt Ines?",
+        "Fehlender Knopf am linken Ärmel.",
+        "Weiße Streifen am Kragen.",
+        "Eine fertige Waschtemperatur."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "rolle-im-korb": [
+    "schau in den kleinen Korb unter dem Regal.",
+    "die mit dem grünen Griff.",
+    "das weiße Tuch lasse ich oben liegen."
+  ],
+  "waschbrett-ganz-im-bild": [
+    "für unser Familienalbum.",
+    "Das Tuch verdeckt den unteren Rand. Nimm es bitte weg.",
+    "Das weiß ich nicht genau."
+  ],
+  "hemd-erst-naehen": [
+    "möchte ich erst reparieren.",
+    "Bitte leg dieses Hemd getrennt auf den Tisch.",
+    "fehlender Knopf am linken Ärmel."
+  ]
+});

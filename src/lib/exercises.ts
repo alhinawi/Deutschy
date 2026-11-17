@@ -285,3 +285,6 @@ for(const[topic,rows]of Object.entries(kuechenschubladeGrammar))exercises[topic]
 
 import {schuhplatzGrammar} from './exercises-schuhplatz';
 for(const[topic,rows]of Object.entries(schuhplatzGrammar))exercises[topic].push(...rows);
+
+import {waescheregalGrammar} from './exercises-waescheregal';
+for(const[topic,rows]of Object.entries(waescheregalGrammar))exercises[topic].push(...rows);
