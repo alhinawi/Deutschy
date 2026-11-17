@@ -285,3 +285,6 @@ readings.push(...pinnwoerterTexts);
 
 import {klangnamenTexts} from './reading-klangnamen';
 readings.push(...klangnamenTexts);
+
+import {raumfotosTexts} from './reading-raumfotos';
+readings.push(...raumfotosTexts);

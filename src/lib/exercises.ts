@@ -447,3 +447,6 @@ for(const[topic,rows]of Object.entries(pinnwoerterGrammar))exercises[topic].push
 
 import {klangnamenGrammar} from './exercises-klangnamen';
 for(const[topic,rows]of Object.entries(klangnamenGrammar))exercises[topic].push(...rows);
+
+import {raumfotosGrammar} from './exercises-raumfotos';
+for(const[topic,rows]of Object.entries(raumfotosGrammar))exercises[topic].push(...rows);

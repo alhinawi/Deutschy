@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the ninety-fourth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the ninety-fifth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -958,9 +958,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Article-choice semantics | Three article choices now one labelled group linked to the existing prompt. AR/EN320/390 group relationship/keyboard/XP checked and actual390 focused feedback pixels inspected. No score/schedule change. |
 | [ ] | Listening/dictation |64 original segments/Egyptian Arabic. Native editorial and real-device voice review pending. Labels organize practice, no proficiency claim. |
 
+### List 95: room photos, wrong reference and untested function
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zwei-bilder-zwei-raeume/` and linked dialogue | Yara/Leon sort separate kitchen/bath photos under headings, name both masculine nouns. Same-form Pizzaschneider versus Duschköpfe with ö. Remove headings, retain separate photos and recall names. No same-scene claim. |
+| [ ] | `/reading/alltag-a2-die-falsche-bildnummer/` and linked dialogue | Mona swaps reference numbers while correct noun sentences remain. David initially proposes word change, they fix references only and compare before sending. Group has not received draft, actual corrected send only at end of reading, dialogue remains before send. Photos themselves not renumbered; no claim all other notes checked. |
+| [ ] | `/reading/alltag-b1-ein-bild-ist-kein-funktionstest/` and linked dialogue | Farid/Hannah remove easy-cut/water-saving claims not measured. Rad touching filled dough doesn't show force, full underside separation or blade condition. No visible stream not proof of defect/saving technology. Visible naming versus description versus function evidence; material, dimensions, condition untested, no handling guide or purchase/replacement advice. |
+| [ ] | `/lessons/raumfotos/` and `/credits/` | der Pizzaschneider/- (قطاعة بيتزا), der Duschkopf/Duschköpfe (راس الدش). DWDS Duschkopf editorial. Pizzaschneider machine-generated DWDS forms crosschecked German circular-wheel masculine naming, not pictured product. Whole wheel/handle naturally held; whole fixed showerhead and wall arm. Real800x600 no face/brand/padding. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way-preposition/negation rows. Old saved IDs unchanged. sortiert/vertauschst/prüft/beschreiben; ihre/seinen/ihr/unsere; unter der/die Überschrift, neben dem/das Heft. Both languages pending native review. |
+| [ ] | Flash gloss wrapping | Revealed translation uses break-words for long fallback words. Native AR/EN320/390 keyboard front/back/Enter/Space/noXP and actual390 revealed pixels inspected. No schedule/score change. |
+| [ ] | Listening/dictation |60 original segments/Egyptian Arabic. Native editorial and real-device voice review pending. Practice labels not proficiency claims. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **845 photo nouns / 139 topics**, **300 reading texts / 1153 reading questions**, **41 core grammar topics / 2206 core grammar questions**, **240 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **847 photo nouns / 140 topics**, **303 reading texts / 1165 reading questions**, **41 core grammar topics / 2230 core grammar questions**, **243 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -972,7 +984,7 @@ This is an inventory, not completed review. Snapshot: **845 photo nouns / 139 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 82 · A2 110 · B1 78 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 83 · A2 111 · B1 79 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

@@ -228,4 +228,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-das-wort-neben-dem-bild',dialogue:'wohin-kommt-die-karte'},
  {reading:'alltag-a2-ein-hinweis-nach-dem-versuch',dialogue:'warte-bis-ich-frage'},
  {reading:'alltag-b1-einfach-ist-kein-fester-massstab',dialogue:'welche-schwierigkeit-meinst-du'},
+ {reading:'alltag-a1-zwei-bilder-zwei-raeume',dialogue:'kueche-oder-bad'},
+ {reading:'alltag-a2-die-falsche-bildnummer',dialogue:'nur-die-nummern-tauschen'},
+ {reading:'alltag-b1-ein-bild-ist-kein-funktionstest',dialogue:'wo-ist-der-test'},
 ];

@@ -1607,3 +1607,24 @@ Object.assign(readingEvidence,{
     "keine Empfehlung für den Kauf oder das Erlernen eines Instruments."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zwei-bilder-zwei-raeume": [
+    "Leon legt das Foto unter Küche.",
+    "Auf dem zweiten Foto sieht man einen Duschkopf vor hellen Fliesen.",
+    "Leon markiert das ö im zweiten Plural.",
+    "Zum Schluss nimmt Yara die zwei Überschriften weg."
+  ],
+  "alltag-a2-die-falsche-bildnummer": [
+    "Beim Übertragen in die gemeinsame Notiz vertauscht sie jedoch die Zahlen.",
+    "Sie tauschen deshalb die zwei Nummern aus und lassen die richtigen Wörter stehen.",
+    "Die Lerngruppe hat die erste Fassung noch nicht erhalten.",
+    "Die Fotos werden dabei nicht neu nummeriert."
+  ],
+  "alltag-b1-ein-bild-ist-kein-funktionstest": [
+    "weder einen vergleichenden Schneidtest noch eine Messung des Wasserverbrauchs.",
+    "wie viel Kraft aufgewendet wird oder wie sauber die Unterseite getrennt ist.",
+    "belegt weder einen Defekt noch eine bestimmte Wasserspartechnik.",
+    "eine begrenzte Sprachübung, keine technische Empfehlung für Küche oder Bad."
+  ]
+});

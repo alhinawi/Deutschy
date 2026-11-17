@@ -555,6 +555,10 @@
   {
    "id": "klangnamen",
    "ar": "جلوكنشبيل وكاباسا"
+  },
+  {
+   "id": "raumfotos",
+   "ar": "قطاعة بيتزا وراس الدش"
   }
  ],
  "words": [
@@ -13326,6 +13330,36 @@
     "file": "7285251.jpg",
     "commons": "https://www.pexels.com/photo/hands-holding-a-cabasa-7285251/",
     "author": "www.kaboompics.com",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "pizzaschneider",
+   "topic": "raumfotos",
+   "art": "der",
+   "de": "Pizzaschneider",
+   "plural": "-",
+   "ar": "قطاعة بيتزا",
+   "photo": {
+    "file": "5903385.jpg",
+    "commons": "https://www.pexels.com/photo/person-cutting-a-pie-5903385/",
+    "author": "ROMAN ODINTSOV",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "duschkopf",
+   "topic": "raumfotos",
+   "art": "der",
+   "de": "Duschkopf",
+   "plural": "Duschköpfe",
+   "ar": "راس الدش",
+   "photo": {
+    "file": "5644300.jpg",
+    "commons": "https://www.pexels.com/photo/stainless-steel-shower-head-on-white-brick-wall-5644300/",
+    "author": "Polina",
     "license": "Pexels License",
     "modified": true
    }

@@ -16328,3 +16328,218 @@ Object.assign(dialogueEvidence,{
     "aber noch kein Maßstab für alle."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "kueche-oder-bad",
+    "level": "A1",
+    "title": [
+      "Küche oder Bad?",
+      "مطبخ ولا حمام؟"
+    ],
+    "lines": [
+      [
+        "Yara",
+        "Zu welcher Überschrift gehört das Foto mit dem Pizzaschneider?",
+        "صورة قطاعة البيتزا تخص أنهي عنوان؟"
+      ],
+      [
+        "Leon",
+        "Zur Küche. Das andere Foto kommt zum Bad.",
+        "المطبخ. الصورة التانية تيجي عند الحمام."
+      ],
+      [
+        "Yara",
+        "Lies jetzt bitte die beiden Namen mit Artikel.",
+        "اقرا دلوقتي الاسمين بأداة التعريف."
+      ],
+      [
+        "Leon",
+        "Der Pizzaschneider und der Duschkopf.",
+        "دير بيتساشنايدر ودير دوشكوبف."
+      ],
+      [
+        "Yara",
+        "Und die Pluralformen?",
+        "وصيغ الجمع؟"
+      ],
+      [
+        "Leon",
+        "Die Pizzaschneider und die Duschköpfe. Das ö markiere ich.",
+        "دي بيتساشنايدر ودي دوشكوبفه. هعلم على الأو أوملاوت."
+      ],
+      [
+        "Yara",
+        "Danach üben wir noch einmal ohne die Überschriften.",
+        "بعد كده نتدرب تاني من غير العناوين."
+      ]
+    ],
+    "q": [
+      [
+        "Wohin kommt das andere Foto?",
+        "Zum Bad.",
+        "Zum Bahnhof.",
+        "In eine Schublade."
+      ],
+      [
+        "Welchen Artikel haben beide Namen im Singular hier?",
+        "Der.",
+        "Die.",
+        "Das."
+      ],
+      [
+        "Was wollen sie danach weglassen?",
+        "Die Überschriften.",
+        "Die Pluralformen für immer.",
+        "Alle Fotos und Wörter."
+      ]
+    ]
+  },
+  {
+    "id": "nur-die-nummern-tauschen",
+    "level": "A2",
+    "title": [
+      "Nur die Nummern tauschen",
+      "نبدل الأرقام بس"
+    ],
+    "lines": [
+      [
+        "David",
+        "Der Satz mit den Fliesen steht beim falschen Bild.",
+        "جملة البلاط عند الصورة الغلط."
+      ],
+      [
+        "Mona",
+        "Dann prüfen wir zuerst die Bildnummern.",
+        "يبقى نراجع الأول أرقام الصور."
+      ],
+      [
+        "David",
+        "Sollen wir auch die Wörter ändern?",
+        "نغير الكلمات كمان؟"
+      ],
+      [
+        "Mona",
+        "Nein, die stimmen. Nur die Zuordnung ist vertauscht.",
+        "لأ دي صح. التوصيل بس متبدل."
+      ],
+      [
+        "David",
+        "Gut, ich tausche die beiden Nummern aus.",
+        "تمام. هبدل الرقمين."
+      ],
+      [
+        "Mona",
+        "Danach vergleichen wir jeden Satz mit seinem Foto.",
+        "بعد كده نقارن كل جملة بصورتها."
+      ],
+      [
+        "David",
+        "Und erst dann gebe ich die aktuelle Fassung weiter.",
+        "وبعدها بس أبعت النسخة الحالية."
+      ]
+    ],
+    "q": [
+      [
+        "Was prüfen sie zuerst?",
+        "Die Bildnummern.",
+        "Die Gruppengröße.",
+        "Den Preis der Gegenstände."
+      ],
+      [
+        "Warum ändern sie die Wörter nicht?",
+        "Die Wörter stimmen bereits.",
+        "Sie können kein Deutsch lesen.",
+        "Die Fotos wurden gelöscht."
+      ],
+      [
+        "Wann gibt David die Notiz weiter?",
+        "Erst nach dem Vergleich.",
+        "Vor jeder Prüfung.",
+        "Gar nicht, die Gruppe existiert nicht."
+      ]
+    ]
+  },
+  {
+    "id": "wo-ist-der-test",
+    "level": "B1",
+    "title": [
+      "Wo ist der Test?",
+      "الاختبار فين؟"
+    ],
+    "lines": [
+      [
+        "Hannah",
+        "Worauf stützt du schneidet mühelos?",
+        "بتستند لإيه في بتقطع بسهولة؟"
+      ],
+      [
+        "Farid",
+        "Nur auf den Kontakt zwischen Rad und Teig. Das reicht nicht.",
+        "على ملامسة العجلة للعجين بس. ده مش كفاية."
+      ],
+      [
+        "Hannah",
+        "Und für spart Wasser fehlt uns eine Messung.",
+        "وبالنسبة لبتوفر مية ناقصنا قياس."
+      ],
+      [
+        "Farid",
+        "Dann beschreibe ich nur, was ich im Bild erkenne.",
+        "يبقى أوصف اللي شايفه في الصورة بس."
+      ],
+      [
+        "Hannah",
+        "Ohne Wasserstrahl ist auch kein Defekt nachgewiesen.",
+        "ومن غير اندفاع مية برضه مش مثبت إن فيه عطل."
+      ],
+      [
+        "Farid",
+        "Benennung, Beschreibung und Funktionsnachweis bleiben getrennt.",
+        "التسمية والوصف وإثبات الوظيفة يفضلوا منفصلين."
+      ],
+      [
+        "Hannah",
+        "Genau. Wir geben hier keine technische Kaufempfehlung.",
+        "بالظبط. إحنا هنا مش بندي توصية شراء فنية."
+      ]
+    ],
+    "q": [
+      [
+        "Reicht Farids erster Eindruck als Test?",
+        "Nein.",
+        "Ja, er ersetzt jede Messung.",
+        "Ja, wenn das Foto farbig ist."
+      ],
+      [
+        "Was fehlt für die Wassersparaussage?",
+        "Eine Messung.",
+        "Eine Küchenüberschrift.",
+        "Ein Teigstück."
+      ],
+      [
+        "Was geben beide ausdrücklich nicht?",
+        "Eine technische Kaufempfehlung.",
+        "Eine begrenzte Bildbeschreibung.",
+        "Deutsche Namen für die Wortübung."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "kueche-oder-bad": [
+    "Das andere Foto kommt zum Bad.",
+    "Der Pizzaschneider und der Duschkopf.",
+    "ohne die Überschriften."
+  ],
+  "nur-die-nummern-tauschen": [
+    "zuerst die Bildnummern.",
+    "Nein, die stimmen.",
+    "erst dann gebe ich die aktuelle Fassung weiter."
+  ],
+  "wo-ist-der-test": [
+    "Das reicht nicht.",
+    "für spart Wasser fehlt uns eine Messung.",
+    "keine technische Kaufempfehlung."
+  ]
+});
