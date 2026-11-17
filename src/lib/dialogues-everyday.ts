@@ -2138,3 +2138,218 @@ Object.assign(dialogueEvidence,{
     "Die Liste macht daraus keinen gemeinsamen Vorrat."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "karte-noch-nicht-einpacken",
+    "level": "A1",
+    "title": [
+      "Noch Platz für einen Gruß",
+      "لسه فيه مكان لكلمتين"
+    ],
+    "lines": [
+      [
+        "Lina",
+        "Ich habe eine Karte für unsere Tante geschrieben.",
+        "كتبت كارت لخالتنا."
+      ],
+      [
+        "Sami",
+        "Kann ich auch etwas darauf schreiben?",
+        "ينفع أكتب عليه حاجة كمان؟"
+      ],
+      [
+        "Lina",
+        "Ja. Die Karte liegt neben dem braunen Briefumschlag.",
+        "آه. الكارت جنب الظرف البني."
+      ],
+      [
+        "Sami",
+        "Gut. Ich komme heute um sechs Uhr nach Hause.",
+        "تمام. هرجع البيت النهارده الساعة 6."
+      ],
+      [
+        "Lina",
+        "Ich lege dir einen Stift dazu. Die Karte bleibt bis dahin draußen.",
+        "هحطلك قلم جنبها. الكارت هيفضل بره لحد ساعتها."
+      ],
+      [
+        "Sami",
+        "Hast du die Adresse schon aufgeschrieben?",
+        "كتبتي العنوان خلاص؟"
+      ],
+      [
+        "Lina",
+        "Noch nicht. Sie steht im kleinen Heft in der Schublade.",
+        "لسه. هو في الكراسة الصغيرة اللي في الدرج."
+      ]
+    ],
+    "q": [
+      [
+        "Wo liegt die Karte?",
+        "Neben dem braunen Briefumschlag.",
+        "Im geschlossenen Umschlag.",
+        "Unter dem Sofa."
+      ],
+      [
+        "Wann kommt Sami nach Hause?",
+        "Heute um sechs Uhr.",
+        "Morgen um sechs Uhr.",
+        "Heute um sieben Uhr."
+      ],
+      [
+        "Was hat Lina noch nicht aufgeschrieben?",
+        "Die Adresse.",
+        "Den Gruß auf der Karte.",
+        "Den Namen ihres Bruders."
+      ]
+    ]
+  },
+  {
+    "id": "leere-umschlaege-fragen",
+    "level": "A2",
+    "title": [
+      "Welche Umschläge sind frei?",
+      "أنهي ظروف أقدر أستخدمها؟"
+    ],
+    "lines": [
+      [
+        "Omar",
+        "Kann ich einen dieser Umschläge nehmen?",
+        "ينفع آخد ظرف من دول؟"
+      ],
+      [
+        "Dina",
+        "Aus der flachen Schachtel gern. Die beschrifteten lässt du bitte hier.",
+        "من العلبة المسطحة طبعاً. اللي مكتوب عليهم سيبهم هنا لو سمحت."
+      ],
+      [
+        "Omar",
+        "Gut, diesen lege ich zurück. Ich habe ihn nicht geöffnet.",
+        "تمام، هرجع ده مكانه. أنا مافتحتوش."
+      ],
+      [
+        "Dina",
+        "Danke. Meine privaten Briefe sortiere ich selbst.",
+        "شكراً. جواباتي الخاصة هرتبها بنفسي."
+      ],
+      [
+        "Omar",
+        "Soll ich die Schachtel mit den leeren Umschlägen beschriften?",
+        "أكتب علامة على علبة الظروف الفاضية؟"
+      ],
+      [
+        "Dina",
+        "Ja. Den Brieföffner lege ich in das obere Fach.",
+        "آه. وفتاحة الجوابات هحطها في الخانة اللي فوق."
+      ],
+      [
+        "Omar",
+        "Dann prüfen wir nächste Woche, ob wir alles besser finden.",
+        "يبقى نشوف الأسبوع الجاي إذا كنا بنلاقي كل حاجة أسهل."
+      ]
+    ],
+    "q": [
+      [
+        "Woher darf Omar einen Umschlag nehmen?",
+        "Aus der flachen Schachtel.",
+        "Aus dem Stapel privater Briefe.",
+        "Aus Dinas Tasche."
+      ],
+      [
+        "Hat Omar den beschrifteten Umschlag geöffnet?",
+        "Nein.",
+        "Ja, sofort.",
+        "Nur zur Hälfte."
+      ],
+      [
+        "Wer sortiert Dinas private Briefe?",
+        "Dina selbst.",
+        "Omar.",
+        "Beide Nachbarn."
+      ]
+    ]
+  },
+  {
+    "id": "blattmotiv-keine-zusage",
+    "level": "B1",
+    "title": [
+      "Nur ein Muster, keine Zusage",
+      "ده شكل للزينة مش موافقة"
+    ],
+    "lines": [
+      [
+        "Helfer",
+        "Bedeutet der Stempel neben Anmeldung, dass mein Platz bestätigt ist?",
+        "الختم اللي جنب التسجيل معناه إن مكاني اتأكد؟"
+      ],
+      [
+        "Gestalterin",
+        "Nein, er soll nur verzieren. Aber so kann man ihn offenbar falsch verstehen.",
+        "لأ، هو للزينة بس. بس واضح إنه كده ممكن يتفهم غلط."
+      ],
+      [
+        "Helfer",
+        "Dann würde ich das Blattmotiv auf die Rückseite setzen.",
+        "يبقى أنا شايف نحط شكل الورقة على الضهر."
+      ],
+      [
+        "Gestalterin",
+        "Ja. Vorn schreiben wir ausdrücklich, dass die Karte keine Zusage enthält.",
+        "آه. وقدام نكتب بوضوح إن الكارت مش موافقة مؤكدة."
+      ],
+      [
+        "Helfer",
+        "Öffnen wir dafür alle schon verschlossenen Umschläge?",
+        "هنفتح عشان كده كل الظروف اللي اتقفلت خلاص؟"
+      ],
+      [
+        "Gestalterin",
+        "Nicht einfach so. Einige enthalten private Grüße. Jede Person prüft ihre eigenen Karten.",
+        "مش كده وخلاص. بعضها فيه تحيات خاصة. كل واحد يراجع كروته بنفسه."
+      ],
+      [
+        "Helfer",
+        "Und die Kontaktmöglichkeit bleibt für Rückfragen stehen.",
+        "ووسيلة التواصل تفضل موجودة لو فيه أسئلة."
+      ]
+    ],
+    "q": [
+      [
+        "Was sollte der Stempel ursprünglich tun?",
+        "Nur verzieren.",
+        "Einen Platz bestätigen.",
+        "Einen Preis festlegen."
+      ],
+      [
+        "Was schreiben sie auf die Vorderseite?",
+        "Dass die Karte keine Zusage enthält.",
+        "Dass alle Plätze bestätigt sind.",
+        "Dass Rückfragen verboten sind."
+      ],
+      [
+        "Wer prüft die bereits verpackten Karten?",
+        "Jede Person ihre eigenen Karten.",
+        "Der Helfer alle privaten Briefe.",
+        "Niemand."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "karte-noch-nicht-einpacken": [
+    "Die Karte liegt neben dem braunen Briefumschlag.",
+    "Ich komme heute um sechs Uhr nach Hause.",
+    "Noch nicht. Sie steht im kleinen Heft in der Schublade."
+  ],
+  "leere-umschlaege-fragen": [
+    "Aus der flachen Schachtel gern. Die beschrifteten lässt du bitte hier.",
+    "Ich habe ihn nicht geöffnet.",
+    "Meine privaten Briefe sortiere ich selbst."
+  ],
+  "blattmotiv-keine-zusage": [
+    "Nein, er soll nur verzieren.",
+    "Vorn schreiben wir ausdrücklich, dass die Karte keine Zusage enthält.",
+    "Jede Person prüft ihre eigenen Karten."
+  ]
+});

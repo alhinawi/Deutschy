@@ -221,3 +221,24 @@ Object.assign(readingEvidence,{
     "Die Gruppe ergänzt deshalb eine freiwillige Liste mit Projekttiteln, aber ohne Fristen oder Vergleichspunkte."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-umschlag": [
+    "Auf dem Tisch liegt ein brauner Briefumschlag.",
+    "Ihr Bruder möchte auch etwas schreiben.",
+    "Er kommt heute um sechs Uhr nach Hause.",
+    "Die Adresse ihrer Tante steht in einem kleinen Heft."
+  ],
+  "alltag-a2-briefablage": [
+    "Als Omar einen Umschlag nehmen möchte, merkt er, dass nicht alle leer sind.",
+    "Er öffnet ihn nicht, sondern fragt Dina, welche Sachen er benutzen darf.",
+    "Sie legt ihn in das obere Fach, damit er nicht mehr unter den Heften verschwindet.",
+    "Die privaten Briefe sortiert Dina selbst."
+  ],
+  "alltag-b1-stempeltisch": [
+    "Die Gestalterin erkennt, dass die Anordnung missverständlich ist.",
+    "Das Blattmotiv kommt auf die Rückseite.",
+    "Bereits verschlossene Umschläge werden nicht einfach geöffnet, weil einige private Grüße enthalten.",
+    "Die Gruppe behandelt das aber nicht als Beweis, dass jede Person die Karte richtig verstehen wird."
+  ]
+});

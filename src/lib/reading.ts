@@ -87,3 +87,6 @@ export const readingOf = (id: string) => readings.find((r) => r.id === id);
 
 import {handarbeitTexts} from './reading-handarbeit';
 readings.push(...handarbeitTexts);
+
+import {briefplatzTexts} from './reading-briefplatz';
+readings.push(...briefplatzTexts);
