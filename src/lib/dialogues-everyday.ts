@@ -9233,3 +9233,218 @@ Object.assign(dialogueEvidence,{
     "noch keinen festen Tag."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "pinsel-auf-dem-tablett",
+    "level": "A1",
+    "title": [
+      "Lass ihn auf dem Tablett",
+      "سيبه على الصينية"
+    ],
+    "lines": [
+      [
+        "Mira",
+        "Wo steht der Messbecher? Bei den Tassen?",
+        "كوباية المعيار فين؟ عند الفناجين؟"
+      ],
+      [
+        "Nils",
+        "Nein, im Regal hinter der Schüssel.",
+        "لأ، على الرف ورا السلطانية."
+      ],
+      [
+        "Mira",
+        "Danke. Ich stelle ihn auf den Tisch.",
+        "شكرًا. هحطها على الترابيزة."
+      ],
+      [
+        "Nils",
+        "Und den Backpinsel lege ich in die Schublade.",
+        "وفرشة المعجنات هحطها في الدرج."
+      ],
+      [
+        "Mira",
+        "Die ist voll. Lass ihn bitte auf dem Tablett.",
+        "هو مليان. سيبها على الصينية لو سمحت."
+      ],
+      [
+        "Nils",
+        "Für die Löffel habe ich eine kleine Schachtel gefunden.",
+        "لقيت علبة صغيرة للمعلقتين."
+      ],
+      [
+        "Mira",
+        "Gut, die Löffel kommen hinein.",
+        "تمام، المعلقتين يتحطوا جواها."
+      ]
+    ],
+    "q": [
+      [
+        "Wo findet Mira den Messbecher?",
+        "Hinter der Schüssel.",
+        "Unter dem Tablett.",
+        "Bei den Tassen."
+      ],
+      [
+        "Was ist voll?",
+        "Die Schublade.",
+        "Der Messbecher.",
+        "Die Schachtel."
+      ],
+      [
+        "Wofür ist die Schachtel?",
+        "Für die Löffel.",
+        "Für den Pinsel.",
+        "Für das Regal."
+      ]
+    ]
+  },
+  {
+    "id": "keine-aktuelle-einkaufsliste",
+    "level": "A2",
+    "title": [
+      "Die Notiz gehört zum Rezept",
+      "الملحوظة تخص الوصفة"
+    ],
+    "lines": [
+      [
+        "Paul",
+        "Die Menge Milch auf dem Zettel soll ich also kaufen?",
+        "يعني أشتري كمية اللبن اللي مكتوبة في الورقة؟"
+      ],
+      [
+        "Enna",
+        "Nein, das ist eine ältere Rezeptnotiz, keine Einkaufsliste.",
+        "لأ، دي ملحوظة وصفة قديمة، مش قايمة مشتريات."
+      ],
+      [
+        "Paul",
+        "Dann gehe ich noch nicht los. Und brauchen wir einen neuen Backpinsel?",
+        "يبقى لسه مش هنزل. ومحتاجين فرشة معجنات جديدة؟"
+      ],
+      [
+        "Enna",
+        "Nein. Der hier bekommt nur einen anderen Platz.",
+        "لأ. دي مكانها هيتغير بس."
+      ],
+      [
+        "Paul",
+        "In das freie Fach neben den Backformen?",
+        "في الخانة الفاضية جنب قوالب الخبيز؟"
+      ],
+      [
+        "Enna",
+        "Genau. Danach schauen wir erst in den Kühlschrank.",
+        "بالظبط. بعد كده نبص الأول في التلاجة."
+      ],
+      [
+        "Paul",
+        "Die Zutaten prüfen wir später mit dem ausgewählten Rezept.",
+        "نراجع المكونات بعدين مع الوصفة اللي نختارها."
+      ]
+    ],
+    "q": [
+      [
+        "Ist der Zettel eine aktuelle Einkaufsliste?",
+        "Nein, eine ältere Rezeptnotiz.",
+        "Ja, für Paul.",
+        "Ja, für Ennas Besuch."
+      ],
+      [
+        "Was passiert mit dem vorhandenen Pinsel?",
+        "Er bekommt einen anderen Platz.",
+        "Er wird verkauft.",
+        "Er wird weggeworfen."
+      ],
+      [
+        "Womit prüfen sie später die Zutaten?",
+        "Mit dem ausgewählten Rezept.",
+        "Mit Pauls Tasche.",
+        "Mit einem Kalender."
+      ]
+    ]
+  },
+  {
+    "id": "erst-zurueck-dann-pruefen",
+    "level": "B1",
+    "title": [
+      "Die Rückgabe ist erledigt",
+      "الترجيع خلص"
+    ],
+    "lines": [
+      [
+        "Liv",
+        "Karims Name heißt: Er soll die Sachen noch mitbringen?",
+        "اسم كريم معناه إنه لسه هيجيب الحاجات؟"
+      ],
+      [
+        "Ada",
+        "Nein, ich habe sie von ihm geliehen und möchte sie zurückgeben.",
+        "لأ، أنا واخداهم منه سلفة وعايزة أرجعهم."
+      ],
+      [
+        "Liv",
+        "Die Einkaufsideen schreibe ich dann auf ein anderes Blatt.",
+        "يبقى أكتب أفكار المشتريات في ورقة تانية."
+      ],
+      [
+        "Karim",
+        "Ich kann Messbecher und Backpinsel jetzt mitnehmen.",
+        "أقدر آخد كوباية المعيار وفرشة المعجنات دلوقتي."
+      ],
+      [
+        "Ada",
+        "Hier sind beide. Ich notiere die Rückgabe.",
+        "الاتنين أهو. هسجل الترجيع."
+      ],
+      [
+        "Liv",
+        "Brauchen wir später einen eigenen Messbecher?",
+        "هنحتاج كوباية معيار بتاعتنا بعدين؟"
+      ],
+      [
+        "Ada",
+        "Das prüfen wir erst. Die Rückgabe ist erledigt, ein Kauf nicht beschlossen.",
+        "نبص على ده الأول. الترجيع خلص، والشراء ماتقررش."
+      ]
+    ],
+    "q": [
+      [
+        "Was kommt auf das andere Blatt?",
+        "Die Einkaufsideen.",
+        "Karims Rechnung.",
+        "Eine feste Bestellung."
+      ],
+      [
+        "Wer nimmt die beiden Gegenstände mit?",
+        "Karim.",
+        "Liv.",
+        "Niemand."
+      ],
+      [
+        "Was ist bereits erledigt?",
+        "Die Rückgabe.",
+        "Ein neuer Einkauf.",
+        "Die Prüfung des gesamten Vorrats."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "pinsel-auf-dem-tablett": [
+    "im Regal hinter der Schüssel.",
+    "Die ist voll.",
+    "Für die Löffel"
+  ],
+  "keine-aktuelle-einkaufsliste": [
+    "eine ältere Rezeptnotiz",
+    "nur einen anderen Platz.",
+    "mit dem ausgewählten Rezept."
+  ],
+  "erst-zurueck-dann-pruefen": [
+    "Die Einkaufsideen",
+    "jetzt mitnehmen.",
+    "Die Rückgabe ist erledigt"
+  ]
+});

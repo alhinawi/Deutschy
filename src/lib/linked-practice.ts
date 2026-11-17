@@ -129,4 +129,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-teeregal',dialogue:'beutel-in-der-dose'},
  {reading:'alltag-a2-welches-teezubehoer',dialogue:'gegenstand-oder-sorte'},
  {reading:'alltag-b1-geliehenes-tee-ei',dialogue:'bis-zum-naechsten-treffen'},
+ {reading:'alltag-a1-backablage',dialogue:'pinsel-auf-dem-tablett'},
+ {reading:'alltag-a2-mass-oder-einkauf',dialogue:'keine-aktuelle-einkaufsliste'},
+ {reading:'alltag-b1-rueckgabe-eintrag',dialogue:'erst-zurueck-dann-pruefen'},
 ];

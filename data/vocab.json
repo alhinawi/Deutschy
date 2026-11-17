@@ -423,6 +423,10 @@
   {
    "id": "teeregal",
    "ar": "أكياس شاي ومصفاة كروية"
+  },
+  {
+   "id": "backablage",
+   "ar": "كوباية معيار وفرشة معجنات"
   }
  ],
  "words": [
@@ -12204,6 +12208,36 @@
     "file": "chain.jpg",
     "commons": "https://www.pexels.com/photo/silver-round-accessory-with-storage-227908/",
     "author": "koko rahmadie",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "messbecher",
+   "topic": "backablage",
+   "art": "der",
+   "de": "Messbecher",
+   "plural": "-",
+   "ar": "كوباية معيار",
+   "photo": {
+    "file": "cup.jpg",
+    "commons": "https://www.pexels.com/photo/a-clear-glass-measuring-cup-5514785/",
+    "author": "Chris Flaten",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "backpinsel",
+   "topic": "backablage",
+   "art": "der",
+   "de": "Backpinsel",
+   "plural": "-",
+   "ar": "فرشة معجنات",
+   "photo": {
+    "file": "brush2.jpg",
+    "commons": "https://www.pexels.com/photo/man-brushing-pastry-with-egg-wash-10307513/",
+    "author": "Skyler Ewing",
     "license": "Pexels License",
     "modified": true
    }

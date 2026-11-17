@@ -186,3 +186,6 @@ readings.push(...planungsplatzTexts);
 
 import {teeregalTexts} from './reading-teeregal';
 readings.push(...teeregalTexts);
+
+import {backablageTexts} from './reading-backablage';
+readings.push(...backablageTexts);

@@ -914,3 +914,24 @@ Object.assign(readingEvidence,{
     "Den genauen Tag legen sie in diesem Gespräch noch nicht fest."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-backablage": [
+    "Dort steht der leere Messbecher hinter einer Schüssel.",
+    "Die Schublade ist schon voll.",
+    "Mira legt die Löffel hinein.",
+    "Sie hat noch nichts eingekauft."
+  ],
+  "alltag-a2-mass-oder-einkauf": [
+    "dass der Zettel zu ihren älteren Rezeptnotizen gehört.",
+    "Der vorhandene Pinsel soll nur einen anderen Platz bekommen.",
+    "Sie legen ihn in ein freies Fach neben den Backformen.",
+    "Welche Zutaten sie für den Besuch benötigen, wollen sie später anhand eines ausgewählten Rezepts prüfen."
+  ],
+  "alltag-b1-rueckgabe-eintrag": [
+    "dass der Name an die Rückgabe erinnert.",
+    "Ada möchte beides getrennt halten.",
+    "Er sagt ja und nimmt Messbecher und Backpinsel mit.",
+    "Die Rückgabe entscheidet nicht darüber, ob später eigene Geräte gekauft werden."
+  ]
+});

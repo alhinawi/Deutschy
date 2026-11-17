@@ -348,3 +348,6 @@ for(const[topic,rows]of Object.entries(planungsplatzGrammar))exercises[topic].pu
 
 import {teeregalGrammar} from './exercises-teeregal';
 for(const[topic,rows]of Object.entries(teeregalGrammar))exercises[topic].push(...rows);
+
+import {backablageGrammar} from './exercises-backablage';
+for(const[topic,rows]of Object.entries(backablageGrammar))exercises[topic].push(...rows);

@@ -160,12 +160,13 @@ function Rounds({ game, list, again }: Props) {
   if (game === 'article') {
     return (
       <Frame i={i} n={qs.length}>
+        <p data-article-prompt className="text-center text-sm text-muted">{t('اختار أداة التعريف المناسبة للكلمة.', 'Choose the definite article for this noun.')}</p>
         <Photo w={w} />
         <p className="de [overflow-wrap:anywhere] text-center text-4xl font-semibold" lang="de">{w.de}</p>
         <p className="ar-title text-center text-xl text-muted">{glossOf(w, lang)}</p>
         <div className="grid grid-cols-3 gap-3">
           {(['der', 'die', 'das'] as const).map((a) => (
-            <Choice key={a} label={a} state={picked === null ? '' : a === w.art ? 'good' : picked === a ? 'bad' : ''} disabled={picked!==null} onClick={() => { if (picked || locked.current) return; setPicked(a); advance(a === w.art); }} />
+            <Choice key={a} label={a} ariaLabel={t(`اختار ${a}`, `Choose ${a}`)} state={picked === null ? '' : a === w.art ? 'good' : picked === a ? 'bad' : ''} disabled={picked!==null} onClick={() => { if (picked || locked.current) return; setPicked(a); advance(a === w.art); }} />
           ))}
         </div>
         {picked!==null&&feedback(picked===w.art)}
@@ -199,9 +200,9 @@ function Frame({ i, n, children }: { i: number; n: number; children: React.React
   );
 }
 
-function Choice({ label, state, onClick,disabled }: { disabled?:boolean; label: string; state: '' | 'good' | 'bad'; onClick: () => void }) {
+function Choice({ label, state, onClick,disabled,ariaLabel }: { ariaLabel?:string; disabled?:boolean; label: string; state: '' | 'good' | 'bad'; onClick: () => void }) {
   const c = state === 'good' ? 'border-good bg-good/15' : state === 'bad' ? 'border-bad bg-bad/15' : 'border-line bg-card hover:border-accent';
-  return <button disabled={disabled} onClick={onClick} dir="ltr" className={`de min-w-0 [overflow-wrap:anywhere] rounded-xl border px-3 py-3 text-lg font-semibold ${c}`} lang="de">{label}</button>;
+  return <button aria-label={ariaLabel} disabled={disabled} onClick={onClick} dir="ltr" className={`de min-w-0 [overflow-wrap:anywhere] rounded-xl border px-3 py-3 text-lg font-semibold ${c}`} lang="de">{label}</button>;
 }
 
 function Memory({ list, again }: { list: Word[]; again: () => void }) {

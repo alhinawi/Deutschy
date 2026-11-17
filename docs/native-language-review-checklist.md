@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the sixty-first practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the sixty-second practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -550,6 +550,18 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Flashcards | Explicit localized Show/Hide the word accessible label and expanded state track each reveal/hide and next card. Revealing never awards points or changes SRS. First answer only sets schedule, same as before. |
 | [ ] | Listening/dictation | Check 58 segments, exact evidence, Egyptian Arabic and actual German device voice. No brewing, temperature, dosage, health or safety guidance. Fictional household borrowing only. |
 
+### List 62: measuring cup, pastry brush and separate notes
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-backablage/` and `pinsel-auf-dem-tablett` | Mira finds measuring cup behind bowl, places it on table. Drawer full, brush remains on tray, spoons go in small box. No shopping yet. All 7 questions/evidence and Egyptian Arabic. |
+| [ ] | `/reading/alltag-a2-mass-oder-einkauf/` and `keine-aktuelle-einkaufsliste` | Older recipe quantity is not current shopping request. Existing brush gets new place beside baking tins, no second brush needed. Check fridge first, ingredients later against chosen recipe; list still empty. |
+| [ ] | `/reading/alltag-b1-rueckgabe-eintrag/` and `erst-zurueck-dann-pruefen` | Karim is owner, name reminds Ada to return two borrowed objects. Ideas kept separate, extra cup only a proposal. Karim takes both away, return recorded, own purchase remains open. |
+| [ ] | `/lessons/backablage/` | der Messbecher and der Backpinsel, both same-form plurals (-). Whole glass measuring cup with printed scale, whole wooden-handled brush in use over dough. Hands only, no faces or branding, no added bars. Photos illustrate nouns, not story state. |
+| [ ] | `exercises-backablage.ts` | 24 append-only article/genus, dative, present, separable, two-way/dative-preposition and negation rows. All older saved identities unchanged. |
+| [ ] | Article game | Explicit AR/EN prompt to choose definite article, each answer named Choose der/die/das in interface language. German answer not exposed in cue. Review unchanged scoring/correction behavior on old/new topics. |
+| [ ] | Listening/dictation | Check 58 segments and Egyptian Arabic. Actual German device voice and native review pending. Fictional organization only, no recipe quantities, food preparation/safety instruction, purchase or actual borrowing. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -564,7 +576,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **779 photo nouns / 106 topics**, **201 reading texts / 757 reading questions**, **41 core grammar topics / 1414 core grammar questions**, **141 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **781 photo nouns / 107 topics**, **204 reading texts / 769 reading questions**, **41 core grammar topics / 1438 core grammar questions**, **144 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -576,7 +588,7 @@ This is an inventory, not completed review. Snapshot: **779 photo nouns / 106 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 49 · A2 77 · B1 45 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 50 · A2 78 · B1 46 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
