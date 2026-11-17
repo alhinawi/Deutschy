@@ -1880,3 +1880,24 @@ Object.assign(readingEvidence,{
     "kein Ordnungssystem überprüft."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-belag-und-vertiefungen": [
+    "liegt ein Tischtennisschläger schräg auf einem weißen Ball.",
+    "Der Griff zeigt nach hinten.",
+    "Der Ball hat viele kleine Vertiefungen.",
+    "spielen heute nicht mit den abgebildeten Gegenständen."
+  ],
+  "alltag-a2-zwei-mehrzahlformen": [
+    "statt die Form allein aus dem Artikel abzuleiten.",
+    "Bei Tischtennisschläger ändert sich das Nomen im Plural nicht",
+    "Hier kommen der Umlaut und das e am Ende hinzu.",
+    "Die Zahlwörter darin gehören zu ihrer eigenen Sprachübung"
+  ],
+  "alltag-b1-bildausschnitt-und-vergleich": [
+    "Gleiche Kartenbreite bedeutet hier keinen gemeinsamen Maßstab.",
+    "Tarek streicht deshalb seine Zahlen aus dem ersten Entwurf.",
+    "Die sichtbare Farbwirkung ist nicht automatisch ein Nachweis für die tatsächliche Materialfarbe.",
+    "eine Empfehlung für ein bestimmtes Spielniveau geben sie dagegen nicht ab."
+  ]
+});

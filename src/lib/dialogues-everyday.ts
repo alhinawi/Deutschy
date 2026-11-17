@@ -19123,3 +19123,218 @@ Object.assign(dialogueEvidence,{
     "von einer Bestandsprüfung getrennt."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "das-wort-zum-griff",
+    "level": "A1",
+    "title": [
+      "Das Wort zum Griff",
+      "الكلمة اللي ليها إيد"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Welches lange Wort gehört zum Griff?",
+        "أنهي كلمة طويلة تبع الإيد؟"
+      ],
+      [
+        "Karim",
+        "Der Tischtennisschläger. Er liegt auf einem weißen Ball.",
+        "دير تيش تنس شليجر. هو على كورة بيضا."
+      ],
+      [
+        "Lea",
+        "Und wo sehen wir kleine Vertiefungen?",
+        "والحفر الصغيرة بنشوفها فين؟"
+      ],
+      [
+        "Karim",
+        "Auf dem Golfball im zweiten Foto.",
+        "على كورة الجولف في الصورة التانية."
+      ],
+      [
+        "Lea",
+        "Ist das der Ball unter dem Schläger?",
+        "هي دي الكورة اللي تحت المضرب؟"
+      ],
+      [
+        "Karim",
+        "Nein. Das sind zwei verschiedene Fotos.",
+        "لأ. دول صورتين مختلفتين."
+      ],
+      [
+        "Lea",
+        "Dann nennen wir zu jedem Foto den passenden Namen.",
+        "يبقى نقول مع كل صورة اسمها المناسب."
+      ]
+    ],
+    "q": [
+      [
+        "Was liegt auf einem weißen Ball?",
+        "Der Tischtennisschläger.",
+        "Das Heft.",
+        "Der Golfball des zweiten Fotos."
+      ],
+      [
+        "Wo sind die kleinen Vertiefungen?",
+        "Auf dem Golfball.",
+        "Am Griff.",
+        "Im Heft."
+      ],
+      [
+        "Was sagt Karim über die Bilder?",
+        "Es sind zwei verschiedene Fotos.",
+        "Es ist derselbe Ball in einem einzigen Foto.",
+        "Es sind Einkaufslisten."
+      ]
+    ]
+  },
+  {
+    "id": "gleiches-nomen-andere-zahl",
+    "level": "A2",
+    "title": [
+      "Gleiches Nomen, andere Zahl",
+      "نفس الاسم وعدد مختلف"
+    ],
+    "lines": [
+      [
+        "Nele",
+        "Beide Wörter haben der. Bilden sie auch dieselbe Mehrzahl?",
+        "الكلمتين ليهم دير. جمعهم بيتعمل بنفس الطريقة برضه؟"
+      ],
+      [
+        "Amir",
+        "Nicht hier. Es heißt die Tischtennisschläger, aber die Golfbälle.",
+        "مش هنا. بنقول دي تيش تنس شليجر بس دي جولفبيله."
+      ],
+      [
+        "Nele",
+        "Beim ersten Wort bleibt das Nomen also gleich.",
+        "يعني في الكلمة الأولى الاسم نفسه بيفضل زي ما هو."
+      ],
+      [
+        "Amir",
+        "Ja. Im Beispiel helfen Artikel und Zahlwort beim Unterscheiden.",
+        "أيوه. في المثال الأداة وكلمة العدد بيساعدوا في التفريق."
+      ],
+      [
+        "Nele",
+        "Und beim Golfball sehe ich im Plural den Umlaut und das e.",
+        "وفي جولفبال بشوف في الجمع الأوملاوت وحرف إي."
+      ],
+      [
+        "Amir",
+        "Unsere Beispiele zählen aber nicht die Gegenstände auf den Fotos.",
+        "بس أمثلتنا مش بتعد الحاجات اللي في الصور."
+      ],
+      [
+        "Nele",
+        "Ich kennzeichne sie als Sprachübung und lerne beide Formen getrennt.",
+        "هوضح إنها تدريب لغوي وهتعلم الصيغتين كل واحدة لوحدها."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Form nennt Amir?",
+        "Die Golfbälle.",
+        "Die Golfballs.",
+        "Die Golfballen."
+      ],
+      [
+        "Was bleibt bei Tischtennisschläger gleich?",
+        "Die Nomenform.",
+        "Jedes Zahlwort.",
+        "Jeder Artikel in jedem Satz."
+      ],
+      [
+        "Was zählen die Beispiele nicht?",
+        "Die Gegenstände auf den Fotos.",
+        "Die Silben der Beispielsätze.",
+        "Die Buchstaben des Wortes Umlaut."
+      ]
+    ]
+  },
+  {
+    "id": "kein-gemeinsamer-massstab",
+    "level": "B1",
+    "title": [
+      "Kein gemeinsamer Maßstab",
+      "مفيش مقياس مشترك"
+    ],
+    "lines": [
+      [
+        "Tarek",
+        "Die Bilder sind gleich breit. Kann ich die echte Größe vergleichen?",
+        "الصور نفس العرض. أقدر أقارن الحجم الحقيقي؟"
+      ],
+      [
+        "Jule",
+        "Nicht allein damit. Die Aufnahmen haben keinen gemeinsamen Maßstab.",
+        "مش بكده لوحده. اللقطتين مفيهمش مقياس مشترك."
+      ],
+      [
+        "Tarek",
+        "Dann beschreibe ich Griff, Spielfläche und Vertiefungen.",
+        "يبقى أوصف الإيد ومساحة اللعب والحفر الصغيرة."
+      ],
+      [
+        "Jule",
+        "Ja, und die blaue Lichtwirkung ist kein sicherer Materialnachweis.",
+        "أيوه وتأثير الإضاءة الأزرق مش دليل مضمون على الخامة."
+      ],
+      [
+        "Tarek",
+        "Hersteller, Alter und Qualität lasse ich offen.",
+        "هسيب الشركة والعمر والجودة من غير حكم."
+      ],
+      [
+        "Jule",
+        "Eine Produktempfehlung wäre mit diesen Angaben nicht belegt.",
+        "توصية بمنتج مش هتبقى مسنودة بالبيانات دي."
+      ],
+      [
+        "Tarek",
+        "Unsere Fotos dienen also als Wortbeispiele, nicht als Messversuch.",
+        "يبقى صورنا أمثلة للكلمات مش تجربة قياس."
+      ]
+    ],
+    "q": [
+      [
+        "Was fehlt für den Größenvergleich?",
+        "Ein gemeinsamer Maßstab.",
+        "Jede erkennbare Form.",
+        "Eine gleich breite Darstellung."
+      ],
+      [
+        "Was lässt Tarek offen?",
+        "Hersteller, Alter und Qualität.",
+        "Dass ein Griff sichtbar ist.",
+        "Dass die Fotos Wörter erklären."
+      ],
+      [
+        "Wozu dienen die Fotos hier?",
+        "Als Wortbeispiele.",
+        "Als geprüfter Messversuch.",
+        "Als bestätigte Produktempfehlung."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "das-wort-zum-griff": [
+    "Er liegt auf einem weißen Ball.",
+    "Auf dem Golfball",
+    "zwei verschiedene Fotos."
+  ],
+  "gleiches-nomen-andere-zahl": [
+    "die Golfbälle.",
+    "bleibt das Nomen also gleich.",
+    "zählen aber nicht die Gegenstände auf den Fotos."
+  ],
+  "kein-gemeinsamer-massstab": [
+    "keinen gemeinsamen Maßstab.",
+    "Hersteller, Alter und Qualität lasse ich offen.",
+    "als Wortbeispiele, nicht als Messversuch."
+  ]
+});

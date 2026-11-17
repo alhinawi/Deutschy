@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  sportoberflaechen: 'Schläger und Golfball',
   papierformen: 'Karteikarte und Etikett',
   naturbeobachtung: 'Nistkasten und Insektenhotel',
   gartenbilder: 'Gartenschere und Gartenschaufel',
@@ -149,6 +150,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  sportoberflaechen: 'Paddle and golf ball',
   papierformen: 'Index card and label',
   naturbeobachtung: 'Nest box and insect hotel',
   gartenbilder: 'Pruning shears and garden trowel',
