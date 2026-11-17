@@ -63,4 +63,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-sparschaeler',dialogue:'schaeler-vorne'},
  {reading:'alltag-a2-kartoffelstampfer',dialogue:'nur-stampfer-leihen'},
  {reading:'alltag-a2-schubladenplan',dialogue:'karten-richtig-zuordnen'},
+ {reading:'alltag-a1-hausschuhe',dialogue:'braunes-paar-unten'},
+ {reading:'alltag-a2-schnuersenkel',dialogue:'senkel-zwei-merkmale'},
+ {reading:'alltag-a2-schuhregalnotiz',dialogue:'kiste-erst-fragen'},
 ];

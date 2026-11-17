@@ -452,3 +452,24 @@ Object.assign(readingEvidence,{
     "Danach legen die beiden jede Karte zum passenden Gegenstand und prüfen die Zuordnung noch einmal gemeinsam. Erst dann kommen die Karten an die beiden Schubladen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-hausschuhe": [
+    "Das gehört ihrem Bruder Emil.",
+    "Ranas braune Hausschuhe stehen unten im Schuhregal.",
+    "Sie stellt die grauen Schuhe nicht um.",
+    "Ihre Tasche legt sie auf die Bank."
+  ],
+  "alltag-a2-schnuersenkel": [
+    "Darin liegen zwei schwarze Schnürsenkel.",
+    "Sie sagt, ihr Senkel sei kurz und habe graue Enden.",
+    "Keiner passt also zu beiden Merkmalen.",
+    "Die beiden legen beide Senkel wieder in die Schachtel und suchen später in Halas eigener Sporttasche weiter."
+  ],
+  "alltag-a2-schuhregalnotiz": [
+    "Sie möchte später entscheiden, ob sie die Schuhe noch behält.",
+    "Bevor er die Hausschuhe einer Freundin anbietet, fragt er Esma noch einmal.",
+    "Diese Sachen sortiert Esma noch. Bitte vorher fragen.",
+    "Es ist noch nichts verschenkt, verkauft oder für eine andere Person reserviert."
+  ]
+});

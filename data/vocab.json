@@ -335,6 +335,10 @@
   {
    "id": "kuechenschublade",
    "ar": "حاجات لدرج المطبخ"
+  },
+  {
+   "id": "schuhplatz",
+   "ar": "حاجات لركن الجزم"
   }
  ],
  "words": [
@@ -11435,6 +11439,36 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Kartoffelstampfer_2015.jpg",
     "author": "© Superbass / CC-BY-SA-4.0 (via Wikimedia Commons)",
     "license": "CC BY-SA 4.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "hausschuh",
+   "topic": "schuhplatz",
+   "art": "der",
+   "de": "Hausschuh",
+   "plural": "Hausschuhe",
+   "ar": "شبشب أو حذاء للبيت",
+   "photo": {
+    "file": "2023 Kapcie.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:2023_Kapcie.jpg",
+    "author": "Jacek Halicki",
+    "license": "CC BY-SA 4.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "schnuersenkel",
+   "topic": "schuhplatz",
+   "art": "der",
+   "de": "Schnürsenkel",
+   "plural": "-",
+   "ar": "رباط جزمة",
+   "photo": {
+    "file": "Shoelaces 20050719 001.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Shoelaces_20050719_001.jpg",
+    "author": "Jonas Bergsten",
+    "license": "Public domain",
     "padding": true
    }
   }

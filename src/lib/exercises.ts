@@ -282,3 +282,6 @@ for(const[topic,rows]of Object.entries(badregalGrammar))exercises[topic].push(..
 
 import {kuechenschubladeGrammar} from './exercises-kuechenschublade';
 for(const[topic,rows]of Object.entries(kuechenschubladeGrammar))exercises[topic].push(...rows);
+
+import {schuhplatzGrammar} from './exercises-schuhplatz';
+for(const[topic,rows]of Object.entries(schuhplatzGrammar))exercises[topic].push(...rows);

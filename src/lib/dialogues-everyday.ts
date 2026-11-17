@@ -4503,3 +4503,218 @@ Object.assign(dialogueEvidence,{
     "Wir prüfen beide Zuordnungen, bevor wir die Karten anbringen."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "braunes-paar-unten",
+    "level": "A1",
+    "title": [
+      "Nicht das graue Paar",
+      "مش الجوز الرمادي"
+    ],
+    "lines": [
+      [
+        "Rana",
+        "Wo sind meine Hausschuhe? Hier steht nur das graue Paar.",
+        "شبشب البيت بتاعي فين؟ هنا فيه الجوز الرمادي بس."
+      ],
+      [
+        "Emil",
+        "Das ist meins. Dein braunes Paar steht unten im Regal.",
+        "ده بتاعي. الجوز البني بتاعك تحت في الجزامة."
+      ],
+      [
+        "Rana",
+        "Ach, jetzt sehe ich es. Ich lasse deine Schuhe hier.",
+        "آه، شايفاه دلوقتي. هسيب شبشبك هنا."
+      ],
+      [
+        "Emil",
+        "Danke. Wohin legst du deine Tasche?",
+        "شكراً. هتحطي شنطتك فين؟"
+      ],
+      [
+        "Rana",
+        "Auf die Bank neben der Tür.",
+        "على الدكة اللي جنب الباب."
+      ],
+      [
+        "Emil",
+        "Und der Schlüssel?",
+        "والمفتاح؟"
+      ],
+      [
+        "Rana",
+        "Der kommt in die kleine Schale daneben.",
+        "ده هيتحط في الطبق الصغير اللي جنبها."
+      ]
+    ],
+    "q": [
+      [
+        "Welches Paar gehört Rana?",
+        "Das braune.",
+        "Das graue.",
+        "Beide Paare."
+      ],
+      [
+        "Wo bleibt Emils Paar?",
+        "An seinem bisherigen Platz.",
+        "In Ranas Tasche.",
+        "Im Wohnzimmer."
+      ],
+      [
+        "Wohin kommt der Schlüssel?",
+        "In die kleine Schale.",
+        "Unter das Regal.",
+        "In Emils Jacke."
+      ]
+    ]
+  },
+  {
+    "id": "senkel-zwei-merkmale",
+    "level": "A2",
+    "title": [
+      "Kurz und mit grauen Enden",
+      "قصير وطرفيه رمادي"
+    ],
+    "lines": [
+      [
+        "Jonas",
+        "Ich habe hier zwei schwarze Schnürsenkel gefunden. Ist einer deiner?",
+        "لقيت هنا رباطين جزم سُود. واحد فيهم بتاعك؟"
+      ],
+      [
+        "Hala",
+        "Meiner ist kurz und hat graue Enden.",
+        "بتاعي قصير وطرفيه رمادي."
+      ],
+      [
+        "Jonas",
+        "Der kurze hier hat schwarze Enden. Nur der lange hat graue.",
+        "القصير هنا طرفيه سُود. الطويل بس اللي طرفيه رمادي."
+      ],
+      [
+        "Hala",
+        "Dann passt keiner zu beiden Merkmalen.",
+        "يبقى ولا واحد مطابق للصفتين."
+      ],
+      [
+        "Jonas",
+        "Soll ich sie zurück in die Schachtel legen?",
+        "أرجعهم للعلبة؟"
+      ],
+      [
+        "Hala",
+        "Ja, bitte. Ich suche später noch in meiner Sporttasche.",
+        "آه لو سمحت. هدور بعدين كمان في شنطة الرياضة بتاعتي."
+      ],
+      [
+        "Jonas",
+        "Gut. Einen Ersatz haben wir also noch nicht ausgewählt.",
+        "تمام. يبقى لسه ماخترناش بديل."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Enden hat der kurze Senkel auf der Bank?",
+        "Schwarze.",
+        "Graue.",
+        "Weiße."
+      ],
+      [
+        "Was soll Jonas mit beiden Senkeln machen?",
+        "Sie zurück in die Schachtel legen.",
+        "Sie sofort wegwerfen.",
+        "Sie als Halas Eigentum beschriften."
+      ],
+      [
+        "Was ist noch nicht ausgewählt?",
+        "Ein Ersatz.",
+        "Halas Sporttasche.",
+        "Der Platz der Bank."
+      ]
+    ]
+  },
+  {
+    "id": "kiste-erst-fragen",
+    "level": "A2",
+    "title": [
+      "Die Kiste ist noch nicht fertig",
+      "الصندوق لسه ماتفرزش"
+    ],
+    "lines": [
+      [
+        "Niko",
+        "Sind die Hausschuhe in der Kiste zum Verschenken?",
+        "شباشب البيت اللي في الصندوق عشان تتوهب؟"
+      ],
+      [
+        "Esma",
+        "Nein. Ich habe noch nicht entschieden, ob ich sie behalte.",
+        "لأ. لسه ماقررتش إذا كنت هحتفظ بيهم."
+      ],
+      [
+        "Niko",
+        "Gut, dass ich frage. Ich wollte sie einer Freundin anbieten.",
+        "كويس إني بسأل. كنت هعرضهم على صاحبة ليا."
+      ],
+      [
+        "Esma",
+        "Bitte noch nicht. Die Kiste ist noch nicht fertig sortiert.",
+        "لسه لو سمحت. الصندوق لسه ماخلصش فرز."
+      ],
+      [
+        "Niko",
+        "Dann schreibe ich dazu, dass man vorher fragen soll.",
+        "يبقى أكتب معاها إن الواحد يسأل الأول."
+      ],
+      [
+        "Esma",
+        "Ja. Es ist noch nichts verschenkt oder reserviert.",
+        "آه. لسه مفيش حاجة اتوهبت ولا اتحجزت."
+      ],
+      [
+        "Niko",
+        "Verstanden. Ich verspreche niemandem etwas daraus.",
+        "فهمت. مش هوعد حد بحاجة من جواه."
+      ]
+    ],
+    "q": [
+      [
+        "Was hat Esma noch nicht entschieden?",
+        "Ob sie die Hausschuhe behält.",
+        "Wo Niko wohnt.",
+        "Wann ihre Freundin Geburtstag hat."
+      ],
+      [
+        "Was soll die neue Notiz deutlich machen?",
+        "Man soll vorher fragen.",
+        "Niko darf alles verteilen.",
+        "Die Schuhe sind schon reserviert."
+      ],
+      [
+        "Was verspricht Niko am Ende?",
+        "Niemandem etwas aus der Kiste zu versprechen.",
+        "Die Schuhe sofort zu verkaufen.",
+        "Die Kiste wegzuwerfen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "braunes-paar-unten": [
+    "Dein braunes Paar steht unten im Regal.",
+    "Ich lasse deine Schuhe hier.",
+    "Der kommt in die kleine Schale daneben."
+  ],
+  "senkel-zwei-merkmale": [
+    "Der kurze hier hat schwarze Enden.",
+    "Soll ich sie zurück in die Schachtel legen?",
+    "Einen Ersatz haben wir also noch nicht ausgewählt."
+  ],
+  "kiste-erst-fragen": [
+    "Ich habe noch nicht entschieden, ob ich sie behalte.",
+    "dass man vorher fragen soll.",
+    "Ich verspreche niemandem etwas daraus."
+  ]
+});

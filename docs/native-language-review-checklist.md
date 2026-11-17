@@ -295,6 +295,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/grammar/akkusativ/`, `/grammar/possessiv/`, `/grammar/modalverben/`, `/grammar/imperativ/`, `/grammar/komparativ/`, `/grammar/dativ-praepositionen/` | Review 24 appended kitchen-drawer questions/explanations: masculine accusative, ihrem Nachbarn, supplied pronoun cues, Gib/Nimm/Vergleicht, schmaler with valid schmäler alternative noted, länger and den Freunden. Existing saved question identities retained. |
 | [ ] | `/pitfalls/` and `/dictation/` | Review unchanged pitfalls examples. Check synchronous answer lock, atomic feedback, answered count with LTR digits, reset limited to selected grouping, other choices retained, focus returned to heading and temporary/no-points copy. Review new dictation with a real German voice; mocked speech does not validate pronunciation. |
 
+### Fortieth update: additional pending targets
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-hausschuhe/` | Check gray pair belongs to Emil, Rana's brown pair below, gray pair left in place, bag on bench and key in bowl. Review **Nicht das graue Paar**, all 7 answers and Egyptian meanings. |
+| [ ] | `/reading/alltag-a2-schnuersenkel/` | Check two black laces, short with black ends versus long with gray ends, Hala's description requiring short plus gray ends, neither matching both, return to box and later search in her own sports bag. Review **Kurz und mit grauen Enden**, all 7 answers. No replacement selected or purchase made. |
+| [ ] | `/reading/alltag-a2-schuhregalnotiz/` | Check sorting box is not a giveaway offer; Niko asks before promising, Esma undecided, clarified note, no gift/sale/reservation. Review **Die Kiste ist noch nicht fertig**, all 7 answers and Egyptian meanings. |
+| [ ] | `/lessons/schuhplatz/` | Check der Hausschuh / Hausschuhe and der Schnürsenkel / die Schnürsenkel, Egyptian meanings, entire brown slipper pair and loose complete black lace with both tips. Slipper size/country stamp is not a brand; no faces, packaging or object crop. Neutral padding/source licenses recorded. |
+| [ ] | `/grammar/satzbau/`, `/grammar/praesens/`, `/grammar/negation/`, `/grammar/trennbare-verben/`, `/grammar/dativ/`, `/grammar/perfekt/` | Review 24 appended shoe-corner questions/explanations: plural Schuhe versus singular Paar, nimmt/trifft, keinen Ersatz, herausnehmen/weitersuchen, den Freunden, gelegt versus gelegen and verschenkt without ge. Earlier saved question IDs retained. |
+| [ ] | `/shadowing/` and `/dictation/` | Check temporary per-segment self-checkmarks remain when switching texts, clear affects only selected text and returns segment-select focus, restart keeps marks and resets playback position. Counts are checkmarks, not mastery; reload/leave clears them. No recording, points or saved history. Review new dictation with a real German voice; mocks do not validate pronunciation. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -309,7 +320,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **735 photo nouns / 84 topics**, **135 reading texts / 493 reading questions**, **41 core grammar topics / 886 core grammar questions**, **75 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **737 photo nouns / 85 topics**, **138 reading texts / 505 reading questions**, **41 core grammar topics / 910 core grammar questions**, **78 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -321,7 +332,7 @@ This is an inventory, not completed review. Snapshot: **735 photo nouns / 84 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 27 · A2 42 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 28 · A2 44 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

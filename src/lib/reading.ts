@@ -120,3 +120,6 @@ readings.push(...badregalTexts);
 
 import {kuechenschubladeTexts} from './reading-kuechenschublade';
 readings.push(...kuechenschubladeTexts);
+
+import {schuhplatzTexts} from './reading-schuhplatz';
+readings.push(...schuhplatzTexts);
