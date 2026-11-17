@@ -1,10 +1,11 @@
 'use client';
-import { useMemo, useState } from 'react';
+import { useMemo, useRef, useState } from 'react';
 import { words } from '@/lib/data';
 import { useT } from '@/lib/i18n';
 const PAGE_SIZE = 40;
 export default function CreditsBrowser() {
   const t = useT();
+  const searchInput = useRef<HTMLInputElement>(null);
   const [query, setQuery] = useState('');
   const [page, setPage] = useState(0);
   const filtered = useMemo(() => words.filter(w => `${w.de} ${w.ar} ${w.photo.file} ${w.photo.author}`.toLocaleLowerCase().includes(query.trim().toLocaleLowerCase())), [query]);
@@ -12,7 +13,9 @@ export default function CreditsBrowser() {
   const current = Math.min(page, pages - 1);
   return <section className="space-y-4">
     <label htmlFor="credit-search" className="block">{t('دوّر باسم الكلمة أو المصوّر أو الملف', 'Search by word, photographer or file')}</label>
-    <input id="credit-search" value={query} onChange={e => { setQuery(e.target.value); setPage(0); }} className="w-full rounded-xl border border-line bg-card p-3" />
+    <input type="search" ref={searchInput} aria-describedby="credit-search-help" id="credit-search" value={query} onChange={e => { setQuery(e.target.value); setPage(0); }} className="w-full rounded-xl border border-line bg-card p-3" />
+    <p id="credit-search-help" className="text-sm text-muted">{t('البحث بيشمل كل صفحات حقوق الصور. مسح البحث بيرجّعك لأول صفحة.', 'Search covers all photo credit pages. Clearing search returns to the first page.')}</p>
+    {query && <button type="button" className="min-h-11 rounded-full border border-line px-4 py-2" onClick={() => {setQuery('');setPage(0);searchInput.current?.focus();}}>{t('امسح البحث', 'Clear search')}</button>}
     <p className="num text-sm text-muted" role="status">{t(`النتائج: ${filtered.length} · الصفحة ${current + 1} من ${pages}`, `Results: ${filtered.length} · Page ${current + 1} of ${pages}`)}</p>
     <div dir="ltr" className="overflow-x-auto rounded-2xl border border-line bg-card" tabIndex={0} role="region" aria-label={t('جدول حقوق الصور، يتحرك بالعرض', 'Photo credits table, scroll horizontally')}>
       <table className="w-full text-start text-sm" dir="ltr">

@@ -6653,3 +6653,218 @@ Object.assign(dialogueEvidence,{
     "Bestellt haben wir noch nichts."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "kabel-erst-klaeren",
+    "level": "A1",
+    "title": [
+      "Welches Kabel brauchst du?",
+      "محتاج أنهي كابل؟"
+    ],
+    "lines": [
+      [
+        "Sami",
+        "Wo liegen die Kabel?",
+        "الكابلات فين؟"
+      ],
+      [
+        "Lina",
+        "In der kleinen Kiste im Regal.",
+        "في الصندوق الصغير على الرف."
+      ],
+      [
+        "Sami",
+        "Hier liegen zwei. Ich weiß noch nicht, welches ich brauche.",
+        "هنا فيه اتنين. لسه مش عارف محتاج أنهي واحد."
+      ],
+      [
+        "Lina",
+        "Dann klär das zuerst.",
+        "يبقى حدد ده الأول."
+      ],
+      [
+        "Sami",
+        "Gut, ich nehme noch keines mit.",
+        "تمام، لسه مش هاخد أي واحد."
+      ],
+      [
+        "Lina",
+        "Ich suche jetzt das richtige Dokument für meine Hörübung.",
+        "أنا هدور دلوقتي على المستند الصح لتدريب السمع."
+      ],
+      [
+        "Sami",
+        "Deine Computermaus liegt rechts neben der Tastatur.",
+        "الماوس بتاعك على يمين الكيبورد."
+      ]
+    ],
+    "q": [
+      [
+        "Wo sind die Kabel?",
+        "In einer Kiste im Regal.",
+        "Unter dem Laptop.",
+        "In der Jacke."
+      ],
+      [
+        "Was nimmt Sami zunächst mit?",
+        "Kein Kabel.",
+        "Beide Kabel.",
+        "Die Tastatur."
+      ],
+      [
+        "Was sucht Lina?",
+        "Das richtige Dokument.",
+        "Einen neuen Tisch.",
+        "Samis Jacke."
+      ]
+    ]
+  },
+  {
+    "id": "alter-entwurf-adresse",
+    "level": "A2",
+    "title": [
+      "Nicht aus dem alten Entwurf übernehmen",
+      "مش ننقل من المسودة القديمة"
+    ],
+    "lines": [
+      [
+        "Jonas",
+        "Ich nehme die Adresse aus dem offenen Dokument.",
+        "هاخد العنوان من المستند المفتوح."
+      ],
+      [
+        "Mira",
+        "Bitte warte. Das ist ein älterer Entwurf.",
+        "استنى لو سمحت. دي مسودة قديمة."
+      ],
+      [
+        "Jonas",
+        "Dann wissen wir noch nicht, ob die Angabe aktuell ist.",
+        "يبقى لسه مش عارفين إذا المعلومة محدثة."
+      ],
+      [
+        "Mira",
+        "Genau. Offen bedeutet nicht automatisch bestätigt.",
+        "بالظبط. مفتوح مش معناها تلقائياً متأكد."
+      ],
+      [
+        "Jonas",
+        "Ich notiere die offene Frage und verschicke noch nichts.",
+        "هسجل السؤال اللي لسه مفتوح ومش هبعت حاجة دلوقتي."
+      ],
+      [
+        "Mira",
+        "Die Kopfhörer lasse ich vorerst in der Schublade.",
+        "هسيب السماعة مؤقتاً في الدرج."
+      ],
+      [
+        "Jonas",
+        "Gut. An den Einstellungen ändern wir nichts.",
+        "تمام. مش هنغير حاجة في الإعدادات."
+      ]
+    ],
+    "q": [
+      [
+        "Woraus wollte Jonas die Adresse nehmen?",
+        "Aus einem offenen alten Entwurf.",
+        "Aus einem neuen bestätigten Brief.",
+        "Von der Tastatur."
+      ],
+      [
+        "Was verschickt Jonas jetzt?",
+        "Noch nichts.",
+        "Den Brief sofort.",
+        "Die Kopfhörer."
+      ],
+      [
+        "Was ändern sie an den Einstellungen?",
+        "Nichts.",
+        "Alle Passwörter.",
+        "Die Adresse im Gerät."
+      ]
+    ]
+  },
+  {
+    "id": "maus-bis-rueckkehr",
+    "level": "A2",
+    "title": [
+      "Nur bis zu meiner Rückkehr",
+      "لحد ما أرجع بس"
+    ],
+    "lines": [
+      [
+        "Emil",
+        "Kann ich deine Computermaus heute Nachmittag ausleihen?",
+        "ينفع أستلف الماوس بتاعك بعد الضهر النهارده؟"
+      ],
+      [
+        "Sara",
+        "Nur bis zu meiner Rückkehr. Danach brauche ich sie selbst.",
+        "لحد ما أرجع بس. بعدها محتاجاه أنا."
+      ],
+      [
+        "Emil",
+        "Wann kommst du zurück? Das weiß ich noch nicht genau.",
+        "هترجعي إمتى؟ لسه مش عارف ده بالظبط."
+      ],
+      [
+        "Sara",
+        "Dann klären wir das zuerst. Die Maus bleibt vorerst hier.",
+        "يبقى نحدد ده الأول. الماوس يفضل هنا مؤقتاً."
+      ],
+      [
+        "Emil",
+        "Ich suche lieber noch einmal nach meiner eigenen.",
+        "أفضل أدور تاني على بتاعي."
+      ],
+      [
+        "Sara",
+        "Hast du in deiner Laptoptasche nachgesehen?",
+        "بصيت في شنطة اللابتوب بتاعتك؟"
+      ],
+      [
+        "Emil",
+        "Da ist sie. Ich nehme nur meine eigene Maus.",
+        "أهي. هاخد الماوس بتاعي أنا بس."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Grenze nennt Sara?",
+        "Bis zu ihrer Rückkehr.",
+        "Ohne Zeitgrenze.",
+        "Nur nach einer Zahlung."
+      ],
+      [
+        "Was bleibt zunächst hier?",
+        "Saras Maus.",
+        "Emils Tasche.",
+        "Der Laptop eines Gastes."
+      ],
+      [
+        "Welche Maus nimmt Emil am Ende?",
+        "Seine eigene.",
+        "Saras Maus.",
+        "Eine neu bestellte."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "kabel-erst-klaeren": [
+    "In der kleinen Kiste im Regal.",
+    "ich nehme noch keines mit.",
+    "Ich suche jetzt das richtige Dokument für meine Hörübung."
+  ],
+  "alter-entwurf-adresse": [
+    "Das ist ein älterer Entwurf.",
+    "Ich notiere die offene Frage und verschicke noch nichts.",
+    "An den Einstellungen ändern wir nichts."
+  ],
+  "maus-bis-rueckkehr": [
+    "Nur bis zu meiner Rückkehr.",
+    "Die Maus bleibt vorerst hier.",
+    "Ich nehme nur meine eigene Maus."
+  ]
+});

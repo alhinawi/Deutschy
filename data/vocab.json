@@ -375,6 +375,10 @@
   {
    "id": "fruehstuecksrunde",
    "ar": "حاجات سفرة الفطار"
+  },
+  {
+   "id": "computerrunde",
+   "ar": "حاجات مكتب الكمبيوتر"
   }
  ],
  "words": [
@@ -11780,6 +11784,38 @@
     "file": "milk.jpg",
     "commons": "https://www.pexels.com/photo/white-ceramic-jar-on-the-table-8473946/",
     "author": "Cup of Couple",
+    "license": "Pexels License",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "tastatur",
+   "topic": "computerrunde",
+   "art": "die",
+   "de": "Tastatur",
+   "plural": "Tastaturen",
+   "ar": "كيبورد",
+   "photo": {
+    "file": "keyboard-crop.jpg",
+    "commons": "https://www.pexels.com/photo/colorful-mechanical-keyboard-on-desk-35471658/",
+    "author": "FOX",
+    "license": "Pexels License",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "computermaus",
+   "topic": "computerrunde",
+   "art": "die",
+   "de": "Computermaus",
+   "plural": "Computermäuse",
+   "ar": "ماوس كمبيوتر",
+   "photo": {
+    "file": "mouse-crop.jpg",
+    "commons": "https://www.pexels.com/photo/white-wireless-computer-mouse-on-wooden-table-34396238/",
+    "author": "Andrey Matveev",
     "license": "Pexels License",
     "padding": true,
     "modified": true

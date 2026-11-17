@@ -150,3 +150,6 @@ readings.push(...wohnzimmerTexts);
 
 import {fruehstuecksrundeTexts} from './reading-fruehstuecksrunde';
 readings.push(...fruehstuecksrundeTexts);
+
+import {computerrundeTexts} from './reading-computerrunde';
+readings.push(...computerrundeTexts);

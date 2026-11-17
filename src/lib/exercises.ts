@@ -312,3 +312,6 @@ for(const[topic,rows]of Object.entries(wohnzimmerGrammar))exercises[topic].push(
 
 import {fruehstuecksrundeGrammar} from './exercises-fruehstuecksrunde';
 for(const[topic,rows]of Object.entries(fruehstuecksrundeGrammar))exercises[topic].push(...rows);
+
+import {computerrundeGrammar} from './exercises-computerrunde';
+for(const[topic,rows]of Object.entries(computerrundeGrammar))exercises[topic].push(...rows);

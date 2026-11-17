@@ -93,4 +93,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-fruehstueckstisch',dialogue:'kaffee-ohne-milch'},
  {reading:'alltag-a2-zweite-tasse',dialogue:'drei-tassen-zwei-personen'},
  {reading:'alltag-a2-fruehstuecksliste',dialogue:'gefaess-nicht-inhalt'},
+ {reading:'alltag-a1-computertisch',dialogue:'kabel-erst-klaeren'},
+ {reading:'alltag-a2-offenes-fenster',dialogue:'alter-entwurf-adresse'},
+ {reading:'alltag-a2-maus-geteilt',dialogue:'maus-bis-rueckkehr'},
 ];

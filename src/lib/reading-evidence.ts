@@ -662,3 +662,24 @@ Object.assign(readingEvidence,{
     "Der Einkaufszettel bleibt vorerst unverändert."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-computertisch": [
+    "Rechts von der Tastatur liegt eine Computermaus.",
+    "Ihre Kopfhörer liegen noch in einer Schublade.",
+    "Sami weiß noch nicht, welches er braucht.",
+    "Sie möchte zuerst das richtige Dokument öffnen."
+  ],
+  "alltag-a2-offenes-fenster": [
+    "Das Dokument stammt von einem früheren Entwurf.",
+    "Er notiert nur, welche Angabe noch geklärt werden muss.",
+    "sie lässt sie in der Schublade.",
+    "aber niemand schließt es probeweise an."
+  ],
+  "alltag-a2-maus-geteilt": [
+    "bietet sie nur bis zu ihrer Rückkehr an.",
+    "Emil sagt, dass er diesen Zeitpunkt noch nicht genau kennt.",
+    "Dort findet er seine Kopfhörer",
+    "Schließlich entdeckt Emil seine Maus in seiner Laptoptasche."
+  ]
+});
