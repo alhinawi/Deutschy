@@ -284,6 +284,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/grammar/satzbau/`, `/grammar/praesens/`, `/grammar/negation/`, `/grammar/trennbare-verben/`, `/grammar/dativ/`, `/grammar/perfekt/` | Review 24 appended bathroom-shelf questions/explanations: neutral versus echo question, nimmt/gibt, nominative kein Kamm, accusative kein Foto, mitnehmen, den Gästen, mitgenommen and gefunden. Earlier saved topic/index identities retained. |
 | [ ] | `/practical-words/` and `/dictation/` | Review unchanged glossary terms and examples. Check search now includes German examples, normalized uppercase/NFD queries, selected-group scope, search-all keeping query, clear-search keeping group, reveal/hide acting only on results and two LTR live counts. Meanings stay temporary, with no points or saved history. Review new dictation on a real German voice; mocks do not validate pronunciation. |
 
+### Thirty-ninth update: additional pending targets
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-sparschaeler/` | Check the large drawer first, peeler in front of three small spoons in the narrow drawer, bowl from cupboard and clearing the table before cooking. Review **In der schmalen Schublade**, all 7 answers and Egyptian meanings. |
+| [ ] | `/reading/alltag-a2-kartoffelstampfer/` | Check borrowing only the masher, Eva bringing it to Malik's door, bowl excluded because she needs it, Monday-evening return and no key or other items. Review **Die Schüssel bleibt hier**, all 7 answers and Egyptian meanings. Fictional relative days, not a real arrangement. |
+| [ ] | `/reading/alltag-a2-schubladenplan/` | Check similar photo backgrounds do not make the tools identical; only the wrong label changes, then both mappings are checked before hanging cards. Review **Der Name passt nicht zum Bild**, all 7 answers and Egyptian Arabic. Labels are not tool-safety instructions. |
+| [ ] | `/lessons/kuechenschublade/` | Check der Sparschäler / die Sparschäler and der Kartoffelstampfer / die Kartoffelstampfer, Egyptian meanings, complete unbranded black-handle peeler and metal masher. Author/license/source, neutral padding and required masher attribution recorded in Credits. |
+| [ ] | `/grammar/akkusativ/`, `/grammar/possessiv/`, `/grammar/modalverben/`, `/grammar/imperativ/`, `/grammar/komparativ/`, `/grammar/dativ-praepositionen/` | Review 24 appended kitchen-drawer questions/explanations: masculine accusative, ihrem Nachbarn, supplied pronoun cues, Gib/Nimm/Vergleicht, schmaler with valid schmäler alternative noted, länger and den Freunden. Existing saved question identities retained. |
+| [ ] | `/pitfalls/` and `/dictation/` | Review unchanged pitfalls examples. Check synchronous answer lock, atomic feedback, answered count with LTR digits, reset limited to selected grouping, other choices retained, focus returned to heading and temporary/no-points copy. Review new dictation with a real German voice; mocked speech does not validate pronunciation. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -298,7 +309,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **733 photo nouns / 83 topics**, **132 reading texts / 481 reading questions**, **41 core grammar topics / 862 core grammar questions**, **72 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **735 photo nouns / 84 topics**, **135 reading texts / 493 reading questions**, **41 core grammar topics / 886 core grammar questions**, **75 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -310,7 +321,7 @@ This is an inventory, not completed review. Snapshot: **733 photo nouns / 83 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 26 · A2 40 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 27 · A2 42 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

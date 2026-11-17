@@ -431,3 +431,24 @@ Object.assign(readingEvidence,{
     "Das alte Bild löscht sie nicht, sondern legt es zu den Fotos vom Einzug."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-sparschaeler": [
+    "Sie öffnet die große Schublade unter der Arbeitsplatte.",
+    "Der Sparschäler liegt ganz vorne.",
+    "Hinter ihm liegen drei kleine Löffel.",
+    "Zuerst räumen sie aber den Tisch frei."
+  ],
+  "alltag-a2-kartoffelstampfer": [
+    "Er besitzt keinen Kartoffelstampfer und fragt seine Nachbarin Eva, ob er ihren ausleihen kann.",
+    "Eva bringt ihn ihm am Nachmittag an die Wohnungstür.",
+    "Sie braucht die Schüssel am selben Abend.",
+    "Die beiden vereinbaren, dass er das Werkzeug am Montagabend zurückbringt."
+  ],
+  "alltag-a2-schubladenplan": [
+    "Auf jeder Karte soll ein Foto und der deutsche Name des gezeigten Gegenstands stehen.",
+    "Ronja bemerkt, dass Karim unter beide Bilder Sparschäler geschrieben hat.",
+    "Er ändert nur den falschen Namen, nicht das richtige Bild.",
+    "Danach legen die beiden jede Karte zum passenden Gegenstand und prüfen die Zuordnung noch einmal gemeinsam. Erst dann kommen die Karten an die beiden Schubladen."
+  ]
+});

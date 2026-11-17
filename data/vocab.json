@@ -331,6 +331,10 @@
   {
    "id": "badregal",
    "ar": "حاجات لرف الحمام"
+  },
+  {
+   "id": "kuechenschublade",
+   "ar": "حاجات لدرج المطبخ"
   }
  ],
  "words": [
@@ -11401,6 +11405,36 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Brown_wash_cloth.jpg",
     "author": "Stilfehler",
     "license": "CC BY-SA 3.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "sparschaeler",
+   "topic": "kuechenschublade",
+   "art": "der",
+   "de": "Sparschäler",
+   "plural": "-",
+   "ar": "مقشرة خضار",
+   "photo": {
+    "file": "Couteau-econome.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Couteau-econome.jpg",
+    "author": "Fred Klein",
+    "license": "CC BY-SA 4.0",
+    "padding": true
+   }
+  },
+  {
+   "id": "kartoffelstampfer",
+   "topic": "kuechenschublade",
+   "art": "der",
+   "de": "Kartoffelstampfer",
+   "plural": "-",
+   "ar": "هراسة بطاطس",
+   "photo": {
+    "file": "Kartoffelstampfer 2015.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Kartoffelstampfer_2015.jpg",
+    "author": "© Superbass / CC-BY-SA-4.0 (via Wikimedia Commons)",
+    "license": "CC BY-SA 4.0",
     "padding": true
    }
   }

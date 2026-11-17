@@ -279,3 +279,6 @@ for(const[topic,rows]of Object.entries(schultascheGrammar))exercises[topic].push
 
 import {badregalGrammar} from './exercises-badregal';
 for(const[topic,rows]of Object.entries(badregalGrammar))exercises[topic].push(...rows);
+
+import {kuechenschubladeGrammar} from './exercises-kuechenschublade';
+for(const[topic,rows]of Object.entries(kuechenschubladeGrammar))exercises[topic].push(...rows);

@@ -60,4 +60,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-nagelbuerste',dialogue:'kamm-links'},
  {reading:'alltag-a2-waschlappen',dialogue:'fach-fuer-dalia'},
  {reading:'alltag-a2-regalfoto',dialogue:'altes-regalfoto'},
+ {reading:'alltag-a1-sparschaeler',dialogue:'schaeler-vorne'},
+ {reading:'alltag-a2-kartoffelstampfer',dialogue:'nur-stampfer-leihen'},
+ {reading:'alltag-a2-schubladenplan',dialogue:'karten-richtig-zuordnen'},
 ];

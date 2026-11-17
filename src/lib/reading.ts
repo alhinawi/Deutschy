@@ -117,3 +117,6 @@ readings.push(...schultascheTexts);
 
 import {badregalTexts} from './reading-badregal';
 readings.push(...badregalTexts);
+
+import {kuechenschubladeTexts} from './reading-kuechenschublade';
+readings.push(...kuechenschubladeTexts);

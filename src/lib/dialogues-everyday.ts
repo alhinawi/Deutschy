@@ -4288,3 +4288,218 @@ Object.assign(dialogueEvidence,{
     "Ich schicke dir gleich ein neues Foto."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "schaeler-vorne",
+    "level": "A1",
+    "title": [
+      "In der schmalen Schublade",
+      "في الدرج الرفيع"
+    ],
+    "lines": [
+      [
+        "Jana",
+        "Amir, ist der Sparschäler bei den Kochlöffeln?",
+        "أمير، مقشرة الخضار مع معالق الطبخ؟"
+      ],
+      [
+        "Amir",
+        "Nein, schau in die schmale Schublade daneben.",
+        "لأ، بصي في الدرج الرفيع اللي جنبه."
+      ],
+      [
+        "Jana",
+        "Hier vorne liegt er. Dahinter sind drei kleine Löffel.",
+        "أهو قدام هنا. وراه 3 معالق صغيرة."
+      ],
+      [
+        "Amir",
+        "Gut. Ich hole noch die Schüssel aus dem Schrank.",
+        "تمام. هجيب كمان الطبق الغويط من الدولاب."
+      ],
+      [
+        "Jana",
+        "Die Kartoffeln liegen schon auf dem Tisch.",
+        "البطاطس على الترابيزة خلاص."
+      ],
+      [
+        "Amir",
+        "Räumen wir den Tisch erst frei?",
+        "نفضي الترابيزة الأول؟"
+      ],
+      [
+        "Jana",
+        "Ja. Danach haben wir mehr Platz.",
+        "آه. بعد كده يبقى عندنا مكان أكتر."
+      ]
+    ],
+    "q": [
+      [
+        "Wo soll Jana nachsehen?",
+        "In der schmalen Schublade.",
+        "Auf dem Balkon.",
+        "Im Backofen."
+      ],
+      [
+        "Was holt Amir?",
+        "Eine Schüssel.",
+        "Drei neue Schäler.",
+        "Einen Tisch."
+      ],
+      [
+        "Warum räumen sie zuerst auf?",
+        "Danach haben sie mehr Platz.",
+        "Die Kartoffeln sind verschwunden.",
+        "Sie wollen die Küche verkaufen."
+      ]
+    ]
+  },
+  {
+    "id": "nur-stampfer-leihen",
+    "level": "A2",
+    "title": [
+      "Die Schüssel bleibt hier",
+      "الطبق هيفضل هنا"
+    ],
+    "lines": [
+      [
+        "Malik",
+        "Danke, dass du mir den Kartoffelstampfer leihst.",
+        "شكراً إنك بتسلفيني هراسة البطاطس."
+      ],
+      [
+        "Eva",
+        "Gern. Ich bringe ihn dir heute Nachmittag an die Tür.",
+        "العفو. هجيبهالك النهارده بعد الضهر عند الباب."
+      ],
+      [
+        "Malik",
+        "Auf deinem Foto steht auch eine Schüssel daneben. Kann ich die auch haben?",
+        "في صورتك فيه طبق غويط جنبها برضه. ينفع آخده هو كمان؟"
+      ],
+      [
+        "Eva",
+        "Die brauche ich heute Abend selbst.",
+        "ده محتاجاه بنفسي الليلة."
+      ],
+      [
+        "Malik",
+        "Kein Problem, ich habe eine passende. Dann nur den Stampfer.",
+        "مفيش مشكلة، عندي واحد مناسب. يبقى الهراسة بس."
+      ],
+      [
+        "Eva",
+        "Bringst du ihn am Montagabend zurück?",
+        "هترجعهالي مساء الاتنين؟"
+      ],
+      [
+        "Malik",
+        "Ja, Montagabend. Das passt.",
+        "آه، مساء الاتنين. مناسب."
+      ]
+    ],
+    "q": [
+      [
+        "Wohin bringt Eva den Stampfer?",
+        "An Maliks Tür.",
+        "Zum Supermarkt.",
+        "In Maliks Keller."
+      ],
+      [
+        "Was bleibt bei Eva?",
+        "Die Schüssel.",
+        "Maliks Schlüssel.",
+        "Maliks Kartoffeln."
+      ],
+      [
+        "Welche Rückgabe bestätigt Malik?",
+        "Montagabend.",
+        "Dienstagmorgen.",
+        "Erst nach einem Monat."
+      ]
+    ]
+  },
+  {
+    "id": "karten-richtig-zuordnen",
+    "level": "A2",
+    "title": [
+      "Der Name passt nicht zum Bild",
+      "الاسم مش راكب على الصورة"
+    ],
+    "lines": [
+      [
+        "Ronja",
+        "Hier steht zweimal Sparschäler. Sind das wirklich zwei gleiche Bilder?",
+        "هنا مكتوب مقشرة خضار مرتين. دول فعلاً صورتين زي بعض؟"
+      ],
+      [
+        "Karim",
+        "Moment, ich vergrößere sie. Nein, auf dem zweiten Foto ist der Kartoffelstampfer.",
+        "لحظة أكبرهم. لأ، الصورة التانية فيها هراسة البطاطس."
+      ],
+      [
+        "Ronja",
+        "Dann ist das Foto richtig, aber der Name darunter nicht.",
+        "يبقى الصورة صح، بس الاسم اللي تحتها لأ."
+      ],
+      [
+        "Karim",
+        "Genau. Ich ändere nur diesen Namen.",
+        "بالظبط. هغير الاسم ده بس."
+      ],
+      [
+        "Ronja",
+        "Legen wir die Karten noch einmal neben die Gegenstände?",
+        "نحط الكروت تاني جنب الحاجات؟"
+      ],
+      [
+        "Karim",
+        "Ja. Wir prüfen beide Zuordnungen, bevor wir die Karten anbringen.",
+        "آه. نتأكد من الربطين قبل ما نحط الكروت."
+      ],
+      [
+        "Ronja",
+        "Gut. Die Anleitung zur Benutzung ist das aber nicht.",
+        "تمام. بس ده مش دليل طريقة الاستخدام."
+      ]
+    ],
+    "q": [
+      [
+        "Was zeigt das zweite Foto?",
+        "Den Kartoffelstampfer.",
+        "Zwei gleiche Schäler.",
+        "Einen leeren Tisch."
+      ],
+      [
+        "Was ist falsch?",
+        "Der Name unter dem zweiten Bild.",
+        "Das zweite Foto selbst.",
+        "Die Farbe der Gegenstände."
+      ],
+      [
+        "Was prüfen sie vor dem Anbringen?",
+        "Beide Zuordnungen von Karten und Gegenständen.",
+        "Die Preise neuer Schubladen.",
+        "Die Namen aller Hausbewohner."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "schaeler-vorne": [
+    "Nein, schau in die schmale Schublade daneben.",
+    "Ich hole noch die Schüssel aus dem Schrank.",
+    "Danach haben wir mehr Platz."
+  ],
+  "nur-stampfer-leihen": [
+    "Ich bringe ihn dir heute Nachmittag an die Tür.",
+    "Die brauche ich heute Abend selbst.",
+    "Ja, Montagabend. Das passt."
+  ],
+  "karten-richtig-zuordnen": [
+    "auf dem zweiten Foto ist der Kartoffelstampfer.",
+    "Dann ist das Foto richtig, aber der Name darunter nicht.",
+    "Wir prüfen beide Zuordnungen, bevor wir die Karten anbringen."
+  ]
+});
