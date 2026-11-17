@@ -2396,7 +2396,7 @@ everydayDialogues.push(...[
       [
         "Nora",
         "Nein, heute spiele ich ohne Buch.",
-        "لأ، النهارده هلعب من غير كتاب."
+        "لأ، النهارده هعزف من غير كتاب."
       ]
     ],
     "q": [

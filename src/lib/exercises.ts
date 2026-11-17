@@ -252,3 +252,6 @@ for(const [topic,rows]of Object.entries(handarbeitGrammar))exercises[topic].push
 
 import {briefplatzGrammar} from './exercises-briefplatz';
 for(const [topic,rows]of Object.entries(briefplatzGrammar))exercises[topic].push(...rows);
+
+import {musikrundeGrammar} from './exercises-musikrunde';
+for(const [topic,rows]of Object.entries(musikrundeGrammar))exercises[topic].push(...rows);

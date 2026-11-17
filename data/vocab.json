@@ -295,6 +295,10 @@
   {
    "id": "briefplatz",
    "ar": "حاجات للجوابات"
+  },
+  {
+   "id": "musikrunde",
+   "ar": "حاجات للعزف"
   }
  ],
  "words": [
@@ -11089,6 +11093,39 @@
     "license": "CC0",
     "padding": true,
     "modified": true
+   }
+  },
+  {
+   "id": "plektrum",
+   "topic": "musikrunde",
+   "art": "das",
+   "de": "Plektrum",
+   "plural": "Plektren",
+   "ar": "ريشة جيتار",
+   "photo": {
+    "file": "Guitar picks-KayEss-1.jpeg",
+    "page": "https://commons.wikimedia.org/wiki/File:Guitar_picks-KayEss-1.jpeg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Guitar_picks-KayEss-1.jpeg",
+    "author": "KayEss",
+    "license": "CC BY-SA 3.0",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "stimmgabel",
+   "topic": "musikrunde",
+   "art": "die",
+   "de": "Stimmgabel",
+   "plural": "Stimmgabeln",
+   "ar": "شوكة رنانة",
+   "photo": {
+    "file": "Diapason - ministudio.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Diapason_-_ministudio.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Diapason_-_ministudio.jpg",
+    "author": "Clément Bucco-Lechat",
+    "license": "CC BY-SA 3.0",
+    "padding": true
    }
   }
  ]
