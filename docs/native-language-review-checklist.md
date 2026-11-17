@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-sixteenth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-seventeenth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1222,9 +1222,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Neighbor lesson navigation and dialogue heading | Existing previous/next lesson cards gain44px minimum and themed keyboard focus.12AR/EN320/390 keyboard/axe states, Enter correct lesson number/route/noXP. Dialogue heading wraps long compounds,4extra axe states. Final title uses shorter wording. Actual390AR/EN photos/navigation and320heading pixels inspected. No routing/scoring/playback logic changed. |
 | [ ] | Listening/dictation |73 original segments,292exactGerman payload/source/answer checks. Human editorial and real-device voice review pending. Labels not certification; progress local. |
 
+### List 117: Pretzel and bagel views
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-brezel-und-bagel-auf-tellern/` and linked dialogue | Lea/Karim central brown twisted pretzel with pale grains on pale plate, coarse cloth and partial pastries at right edge. Two horizontally sliced bagel halves overlap on white plate/orange ground; light cut surface/dark specks, checked cloth above. Two halves not two whole bagels. No order made. |
+| [ ] | `/reading/alltag-a2-zwei-haelften-und-zwei-pluralformen/` and linked dialogue | Nele/Amir die Brezel/Brezeln and der Bagel with BOTH accepted plurals Bagel and Bagels. Card preserves both. Own text chooses Bagels consistently without declaring Bagel wrong. Visible parts not count of whole pieces; cropped pastry edges not total-table inventory. |
+| [ ] | `/reading/alltag-b1-nachfragen-statt-zutaten-raten/` and linked dialogue | Jule/Tarek fictional bakery language practice. Name the specific product, ask for its ingredients/allergen information, leave unanswered field open. No invented vendor answer, price/availability or dietary/health promise. Photos are not full recipes. Product identification alone is not quantity or purchase. |
+| [ ] | `/lessons/gebaeckformen/` and `/credits/` | die Brezel/Brezeln (بريتسل), der Bagel/Bagel or Bagels (بيجل). Full DWDS forms. Rukiye Demir11221589 pretzel1800x2251 crop0,370-1800,1720; hiven zhu19495590 bagel1800x2700 crop0,620-1800,1970. Both800x600 no padding/stretch/face/brand; main objects retained. Rejected indistinct pretzel close-ups and small dry ring pictures. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way/negation rows. Old question identities unchanged. Native German/Egyptian Arabic examples/explanations review pending. |
+| [ ] | Lesson back and primary quiz actions | Two existing lesson-header links gain44px minimum and themed keyboard focus.8AR/EN320/390 keyboard/axe states, Enter correct route/topic/noXP. Both accepted bagel plurals visible in all4locale/width states. Actual390AR/EN photos/actions inspected. No routing/scoring/playback changes. |
+| [ ] | Listening/dictation |76 original segments,304exactGerman payload/source/answer checks. Human editorial and real-device voice review pending. Level labels not certification; progress local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **889 photo nouns / 161 topics**, **366 reading texts / 1417 reading questions**, **41 core grammar topics / 2734 core grammar questions**, **306 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **891 photo nouns / 162 topics**, **369 reading texts / 1429 reading questions**, **41 core grammar topics / 2758 core grammar questions**, **309 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1236,7 +1248,7 @@ This is an inventory, not completed review. Snapshot: **889 photo nouns / 161 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 104 · A2 132 · B1 100 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 105 · A2 133 · B1 101 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

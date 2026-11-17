@@ -351,3 +351,6 @@ readings.push(...obstansichtenTexts);
 
 import {saitenbilderTexts} from './reading-saitenbilder';
 readings.push(...saitenbilderTexts);
+
+import {gebaeckformenTexts} from './reading-gebaeckformen';
+readings.push(...gebaeckformenTexts);
