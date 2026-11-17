@@ -383,6 +383,10 @@
   {
    "id": "vorratsrunde",
    "ar": "حاجات رف التموين"
+  },
+  {
+   "id": "spielerunde",
+   "ar": "حاجات رف الألعاب"
   }
  ],
  "words": [
@@ -11852,6 +11856,38 @@
     "file": "tin-focus.jpg",
     "commons": "https://www.pexels.com/photo/high-angle-view-of-metal-box-for-coffee-beans-10568478/",
     "author": "Ron Lach",
+    "license": "Pexels License",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "dominostein",
+   "topic": "spielerunde",
+   "art": "der",
+   "de": "Dominostein",
+   "plural": "Dominosteine",
+   "ar": "حجر دومينو",
+   "photo": {
+    "file": "domino-focus.jpg",
+    "commons": "https://www.pexels.com/photo/a-black-and-white-photo-of-a-dice-27601763/",
+    "author": "Jacob",
+    "license": "Pexels License",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "spielkarte",
+   "topic": "spielerunde",
+   "art": "die",
+   "de": "Spielkarte",
+   "plural": "Spielkarten",
+   "ar": "ورقة كوتشينة",
+   "photo": {
+    "file": "card-focus.jpg",
+    "commons": "https://www.pexels.com/photo/photograph-of-an-ace-playing-card-4043022/",
+    "author": "Jacob Yavin",
     "license": "Pexels License",
     "padding": true,
     "modified": true

@@ -757,5 +757,7 @@
  "tastatur": "keyboard",
  "computermaus": "computer mouse",
  "vorratsglas": "glass storage jar",
- "vorratsdose": "storage tin"
+ "vorratsdose": "storage tin",
+ "dominostein": "domino tile",
+ "spielkarte": "playing card"
 }

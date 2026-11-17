@@ -156,3 +156,6 @@ readings.push(...computerrundeTexts);
 
 import {vorratsrundeTexts} from './reading-vorratsrunde';
 readings.push(...vorratsrundeTexts);
+
+import {spielerundeTexts} from './reading-spielerunde';
+readings.push(...spielerundeTexts);

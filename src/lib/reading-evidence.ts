@@ -704,3 +704,24 @@ Object.assign(readingEvidence,{
     "Neu ist nur die Skizze mit der Idee für die gemeinsame Besprechung."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-spieleregal": [
+    "Er schaut zuerst in die Schachtel.",
+    "Neben einem Stuhl liegt ein weißer Dominostein.",
+    "Er gehört zu einem anderen Spiel.",
+    "Heute möchten sie nur aufräumen."
+  ],
+  "alltag-a2-gemischte-karten": [
+    "Die Rückseiten sehen sehr ähnlich aus.",
+    "Die Anleitung liegt im Regal und soll ihnen helfen, die Karten zuzuordnen.",
+    "Die Dominosteine in der Schublade bleiben getrennt.",
+    "die unbekannten Karten bleiben als eigener Stapel liegen."
+  ],
+  "alltag-a2-spielepause": [
+    "hat noch nicht gesagt, welches Spiel sie spielen möchte.",
+    "weil noch niemand eine Zeitbegrenzung vereinbart hat.",
+    "ob sie heute lieber ein Puzzle zusammenlegen können.",
+    "Sie räumen die Karten und Dominosteine wieder ein"
+  ]
+});

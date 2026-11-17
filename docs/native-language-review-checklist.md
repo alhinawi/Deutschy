@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the fifty-first practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the fifty-second practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -429,6 +429,18 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/credits/` | First/last-page buttons, disabled boundaries, current result page after search/clear, named pagination group and atomic status in AR/EN. No progress writes. |
 | [ ] | Linked listening/dictation | Native German device-voice review remains pending. Compare segment boundaries, complete source sentences and Egyptian Arabic meanings. Mock speech is not pronunciation review. |
 
+### Fifty-second update: games shelf (pending)
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-spieleregal/` and `dominostein-gefunden` | Check missing domino under table, other game's die left out, cards still on table, no new round. Check all 7 answers/evidence and Egyptian Arabic. |
+| [ ] | `/reading/alltag-a2-gemischte-karten/` and `karten-nicht-mischen` | Check Rückseite/Vorderseite, Stapel, Satz, zuordnen. Similar backs do not prove a shared card set; unknown cards remain separate, completeness not assumed. No universal game rules. |
+| [ ] | `/reading/alltag-a2-spielepause/` and `nina-mitentscheiden` | Check game choice waiting for Nina, puzzle agreed, cards/tiles put away. No time limit, fixed game rules, money stakes or purchase. |
+| [ ] | `/lessons/spielerunde/` | der Dominostein / Dominosteine, die Spielkarte / Spielkarten. Real whole double-six domino tile and ace card, no brand/face. Dark photographic backgrounds tightly cropped, neutral padding added. No generated artwork or game-state evidence. |
+| [ ] | `exercises-spielerunde.ts` | 24 appended article/genus, dative, present, separable, two-way/dative-preposition and negation rows. Check all forms and Arabic/English explanations; old saved identities unchanged. |
+| [ ] | `/lessons/` | New AR/EN topic/word search, normalized German and Arabic matching, result count, empty state and clear/focus. Filtered cards keep original lesson numbers, including lesson 97. No saved progress. |
+| [ ] | Listening/dictation | Native device-voice review remains pending. Check all new segments in German against the original sources and Egyptian Arabic meanings; mock speech is not pronunciation review. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -443,7 +455,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **759 photo nouns / 96 topics**, **171 reading texts / 637 reading questions**, **41 core grammar topics / 1174 core grammar questions**, **111 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **761 photo nouns / 97 topics**, **174 reading texts / 649 reading questions**, **41 core grammar topics / 1198 core grammar questions**, **114 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -455,7 +467,7 @@ This is an inventory, not completed review. Snapshot: **759 photo nouns / 96 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 39 · A2 66 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 40 · A2 68 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

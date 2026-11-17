@@ -7083,3 +7083,218 @@ Object.assign(dialogueEvidence,{
     "Meine Dose stelle ich jetzt wieder zurück."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "dominostein-gefunden",
+    "level": "A1",
+    "title": [
+      "Hier ist der fehlende Stein",
+      "أهو الحجر اللي بندور عليه"
+    ],
+    "lines": [
+      [
+        "Tarek",
+        "Ich suche einen Dominostein. In der Schachtel liegt er nicht.",
+        "بدور على حجر دومينو. مش موجود في العلبة."
+      ],
+      [
+        "Mia",
+        "Ich sehe einen unter dem Tisch, neben dem Stuhl.",
+        "شايفة واحد تحت الترابيزة جنب الكرسي."
+      ],
+      [
+        "Tarek",
+        "Kannst du ihn mir geben?",
+        "ممكن تديهولي؟"
+      ],
+      [
+        "Mia",
+        "Hier, bitte. Die Spielkarten lasse ich noch auf dem Tisch.",
+        "اتفضل أهو. هسيب ورق الكوتشينة على الترابيزة لسه."
+      ],
+      [
+        "Tarek",
+        "Der Würfel gehört zu einem anderen Spiel.",
+        "الزهر تبع لعبة تانية."
+      ],
+      [
+        "Mia",
+        "Dann kommt er nicht in diese Schachtel.",
+        "يبقى مش يتحط في العلبة دي."
+      ],
+      [
+        "Tarek",
+        "Gut. Heute räumen wir nur auf.",
+        "تمام. النهارده بنرتب بس."
+      ]
+    ],
+    "q": [
+      [
+        "Was sucht Tarek?",
+        "Einen Dominostein.",
+        "Eine Tasse.",
+        "Einen Schlüssel."
+      ],
+      [
+        "Wo lässt Mia die Spielkarten?",
+        "Auf dem Tisch.",
+        "Unter dem Sofa.",
+        "In der Küche."
+      ],
+      [
+        "Was machen die beiden heute?",
+        "Nur aufräumen.",
+        "Ein Spiel kaufen.",
+        "Eine neue Runde beginnen."
+      ]
+    ]
+  },
+  {
+    "id": "karten-nicht-mischen",
+    "level": "A2",
+    "title": [
+      "Erst die Vorderseiten ansehen",
+      "نبص على الوش الأول"
+    ],
+    "lines": [
+      [
+        "Sami",
+        "Die Rückseiten sehen gleich aus. Ich lege alles zusammen.",
+        "ضهر الورق شكله واحد. هحط كله مع بعض."
+      ],
+      [
+        "Nora",
+        "Bitte schau zuerst auf die Vorderseiten.",
+        "بص على وش الورق الأول لو سمحت."
+      ],
+      [
+        "Sami",
+        "Du hast recht. Einige Karten gehören zu einem anderen Spiel.",
+        "عندك حق. بعض الورق تبع لعبة تانية."
+      ],
+      [
+        "Nora",
+        "Die Anleitung liegt im Regal. Wir können nachsehen.",
+        "التعليمات موجودة في الرف. نقدر نبص فيها."
+      ],
+      [
+        "Sami",
+        "Und die Karten, die wir noch nicht zuordnen können?",
+        "والورق اللي لسه مش عارفين نحدده؟"
+      ],
+      [
+        "Nora",
+        "Die lassen wir als eigenen Stapel liegen.",
+        "نسيبه رصة لوحده."
+      ],
+      [
+        "Sami",
+        "Dann schreiben wir die offenen Fragen auf den Zettel.",
+        "يبقى نكتب الأسئلة اللي لسه مفتوحة في الورقة."
+      ]
+    ],
+    "q": [
+      [
+        "Was soll Sami zuerst ansehen?",
+        "Die Vorderseiten.",
+        "Die Schranktür.",
+        "Den Kassenzettel."
+      ],
+      [
+        "Wo liegt die Anleitung?",
+        "Im Regal.",
+        "Im Briefkasten.",
+        "Im Garten."
+      ],
+      [
+        "Was bleibt ein eigener Stapel?",
+        "Die noch nicht zugeordneten Karten.",
+        "Alle Dominosteine im Haus.",
+        "Die neuen Rechnungen."
+      ]
+    ]
+  },
+  {
+    "id": "nina-mitentscheiden",
+    "level": "A2",
+    "title": [
+      "Wir warten mit der Entscheidung",
+      "نستنى عشان نقرر"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Ich habe die Dominosteine geholt.",
+        "جبت حجارة الدومينو."
+      ],
+      [
+        "Omar",
+        "Und ich habe Spielkarten. Aber Nina ist noch in der Küche.",
+        "وأنا معايا ورق كوتشينة. بس نينا لسه في المطبخ."
+      ],
+      [
+        "Lea",
+        "Dann warten wir mit der Entscheidung.",
+        "يبقى نستنى عشان نقرر."
+      ],
+      [
+        "Omar",
+        "Gut. Ich verteile noch keine Karten.",
+        "تمام. لسه مش هوزع ورق."
+      ],
+      [
+        "Nina",
+        "Da bin ich. Können wir heute lieber ein Puzzle zusammenlegen?",
+        "أنا جيت. ينفع نركب بازل مع بعض النهارده بدل كده؟"
+      ],
+      [
+        "Lea",
+        "Ja, gern. Wir räumen die anderen Sachen wieder ein.",
+        "آه، نحب كده. هنلم الحاجات التانية تاني."
+      ],
+      [
+        "Omar",
+        "Die Sanduhr brauchen wir dafür gerade nicht.",
+        "مش محتاجين الساعة الرملية لده دلوقتي."
+      ]
+    ],
+    "q": [
+      [
+        "Wo ist Nina zuerst?",
+        "In der Küche.",
+        "Am Bahnhof.",
+        "Im Garten."
+      ],
+      [
+        "Was verteilt Omar zunächst?",
+        "Noch keine Karten.",
+        "Alle Karten sofort.",
+        "Geld."
+      ],
+      [
+        "Was möchten die drei schließlich machen?",
+        "Ein Puzzle zusammenlegen.",
+        "Ein neues Spiel bestellen.",
+        "Punkte für Domino zählen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "dominostein-gefunden": [
+    "Ich suche einen Dominostein.",
+    "Die Spielkarten lasse ich noch auf dem Tisch.",
+    "Heute räumen wir nur auf."
+  ],
+  "karten-nicht-mischen": [
+    "Bitte schau zuerst auf die Vorderseiten.",
+    "Die Anleitung liegt im Regal.",
+    "Die lassen wir als eigenen Stapel liegen."
+  ],
+  "nina-mitentscheiden": [
+    "Nina ist noch in der Küche.",
+    "Ich verteile noch keine Karten.",
+    "Können wir heute lieber ein Puzzle zusammenlegen?"
+  ]
+});

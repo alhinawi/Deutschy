@@ -99,4 +99,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-vorratsregal',dialogue:'reisglas-unten'},
  {reading:'alltag-a2-deckelzettel',dialogue:'deckel-vertauscht'},
  {reading:'alltag-a2-regalplatz',dialogue:'regal-skizze'},
+ {reading:'alltag-a1-spieleregal',dialogue:'dominostein-gefunden'},
+ {reading:'alltag-a2-gemischte-karten',dialogue:'karten-nicht-mischen'},
+ {reading:'alltag-a2-spielepause',dialogue:'nina-mitentscheiden'},
 ];
