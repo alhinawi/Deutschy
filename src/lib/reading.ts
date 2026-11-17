@@ -270,3 +270,6 @@ readings.push(...kuechenhelferTexts);
 
 import {werkzeugnamenTexts} from './reading-werkzeugnamen';
 readings.push(...werkzeugnamenTexts);
+
+import {denkobjekteTexts} from './reading-denkobjekte';
+readings.push(...denkobjekteTexts);

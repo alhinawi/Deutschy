@@ -1502,3 +1502,24 @@ Object.assign(readingEvidence,{
     "Sie machen daraus keine allgemeine Behauptung, dass alle ähnlich aussehenden Werkzeuge austauschbar seien."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-kugeln-und-rahmen": [
+    "Ein Foto zeigt einen Abakus auf einem hellen Teppich.",
+    "Dann zeigt er auf eine Kugel.",
+    "Der Name Abakus steht für den ganzen Gegenstand mit Rahmen und Stangen.",
+    "Das Heft kommt in Toms Tasche."
+  ],
+  "alltag-a2-noch-nicht-vorgelesen": [
+    "Fotos ansehen, Namen notieren, Einträge vorlesen.",
+    "weil alle Schritte auf dem Zettel stehen.",
+    "Erst nach dieser Runde hakt er auch den dritten Punkt ab.",
+    "Sie haben weder mit einem Abakus gerechnet noch eine Schachpartie gespielt."
+  ],
+  "alltag-b1-ein-spiegelbild-ist-keine-zweite-figur": [
+    "Die untere Form ist das Spiegelbild der stehenden Figur, kein zweiter eigenständiger Gegenstand.",
+    "Eine Geschichte über Sieg oder Niederlage ergänzen sie nicht.",
+    "Julia fragt nach einer erklärten Zuordnung der Stellenwerte und nach der Aufgabe. Beides liegt ihnen für diese Aufnahme nicht vor.",
+    "Ihr Heft dokumentiert damit die Sprachübung, keine gelöste Rechnung und keine analysierte Partie."
+  ]
+});

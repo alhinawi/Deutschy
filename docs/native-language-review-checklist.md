@@ -898,9 +898,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Full current topic | Wrapped current-topic description below native select, aria-describedby links selection to full readable name. AR/EN390 pixels inspected with actual keyboard-focused dropdown; long noun and translation remain fully readable. Choice/state/scoring unchanged. |
 | [ ] | Listening/dictation |67 original segments/Egyptian Arabic. Native editorial and real-device voice pending. Private word learning, no repair, tool operation, purchase or suitability test. |
 
+### List 90: parts, completion and reflection
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-kugeln-und-rahmen/` and linked dialogue | Leila/Tom distinguish individual bead from whole abacus with frame/rods/beads, point round existing photo not create drawing. Dark horse-head chess piece second photo. Names read/pointed, photos stay table, notebook in bag. |
+| [ ] | `/reading/alltag-a2-noch-nicht-vorgelesen/` and linked dialogue | Nora/Sami plan photos/names/read aloud. Written step list not evidence all done. Only first two checked before actual read aloud with picture pointing, third afterward. No arithmetic/chess game required or completed. |
+| [ ] | `/reading/alltag-b1-ein-spiegelbild-ist-keine-zweite-figur/` and linked dialogue | Reflection beneath knight base not second independent piece, no claim about outside frame. Image not game outcome/last move/full position. Abacus parts visible but task/place-value assignment unavailable, no invented arithmetic result. Distinguish object/part/representation, not universal calculating/chess instruction. |
+| [ ] | `/lessons/denkobjekte/` and `/credits/` | der Abakus/Abakusse, die Schachfigur/Schachfiguren. عداد خرز للحساب and قطعة شطرنج. Whole unbranded frame flat on carpet (rotated crop), whole black knight/base on board with partial reflection.800x600 real faceless photos, no padding. Rejected tiny-logo upright alternative. DWDS primary plural Abakusse; rare Abaki not in starter card, not declared wrong. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way-preposition/negation rows, all earlier saved IDs retained. wiederholt/zeigst/hakt...ab/korrigieren; sein/ihre/seinen/unsere; auf dem/den Tisch, in der/die Tasche. Dative recipient and negation explanations pending both languages. |
+| [ ] | Current-topic mixed language | Arabic gloss uses mixed-run isolation for embedded Latin words, English gloss explicit English language. German title remains separate LTR/de. AR/EN390 actual keyboard-focused selector and wrapped description pixels inspected. No state/scoring change. |
+| [ ] | Listening/dictation |66 original segments/Egyptian Arabic. Native editorial and real-device voice pending. Private word exercise, no arithmetic proficiency, game result or solved task claimed. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **835 photo nouns / 134 topics**, **285 reading texts / 1093 reading questions**, **41 core grammar topics / 2086 core grammar questions**, **225 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **837 photo nouns / 135 topics**, **288 reading texts / 1105 reading questions**, **41 core grammar topics / 2110 core grammar questions**, **228 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -912,7 +924,7 @@ This is an inventory, not completed review. Snapshot: **835 photo nouns / 134 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 77 · A2 105 · B1 73 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 78 · A2 106 · B1 74 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

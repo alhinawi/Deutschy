@@ -535,6 +535,10 @@
   {
    "id": "werkzeugnamen",
    "ar": "مسمار ومفك"
+  },
+  {
+   "id": "denkobjekte",
+   "ar": "عداد خرز وقطعة شطرنج"
   }
  ],
  "words": [
@@ -13156,6 +13160,36 @@
     "file": "8478337.jpg",
     "commons": "https://www.pexels.com/photo/close-up-of-a-mini-screwdriver-on-a-wooden-container-8478337/",
     "author": "Sergey Meshkov",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "abakus",
+   "topic": "denkobjekte",
+   "art": "der",
+   "de": "Abakus",
+   "plural": "Abakusse",
+   "ar": "عداد خرز للحساب",
+   "photo": {
+    "file": "6692906.jpg",
+    "commons": "https://www.pexels.com/photo/aesthetic-close-up-of-abacus-6692906/",
+    "author": "Tara Winstead",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "schachfigur",
+   "topic": "denkobjekte",
+   "art": "die",
+   "de": "Schachfigur",
+   "plural": "Schachfiguren",
+   "ar": "قطعة شطرنج",
+   "photo": {
+    "file": "31777209.jpg",
+    "commons": "https://www.pexels.com/photo/black-knight-chess-piece-on-reflective-board-31777209/",
+    "author": "Arturo A",
     "license": "Pexels License",
     "modified": true
    }

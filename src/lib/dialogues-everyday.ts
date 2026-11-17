@@ -15253,3 +15253,218 @@ Object.assign(dialogueEvidence,{
     "Bei Nagel müssen wir dagegen die gemeinte Bedeutung aus dem Kontext klären."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "nicht-nur-eine-kugel",
+    "level": "A1",
+    "title": [
+      "Nicht nur eine Kugel",
+      "مش خرزة واحدة بس"
+    ],
+    "lines": [
+      [
+        "Tom",
+        "Ist diese einzelne Kugel der Abakus?",
+        "هي الخرزة الواحدة دي عداد الخرز؟"
+      ],
+      [
+        "Leila",
+        "Nein. Die Kugel ist nur ein Teil davon.",
+        "لأ. الخرزة جزء منه بس."
+      ],
+      [
+        "Tom",
+        "Meinst du den ganzen Gegenstand mit dem Rahmen?",
+        "قصدك الحاجة كلها بالإطار؟"
+      ],
+      [
+        "Leila",
+        "Ja, mit den Stangen und allen Kugeln.",
+        "أيوه بالقضبان وكل الخرز."
+      ],
+      [
+        "Tom",
+        "Dann zeige ich einmal um den Rahmen herum.",
+        "يبقى همشي بصباعي مرة حوالين الإطار."
+      ],
+      [
+        "Leila",
+        "Gut. Auf dem anderen Bild steht die Schachfigur.",
+        "تمام. وفي الصورة التانية قطعة الشطرنج."
+      ],
+      [
+        "Tom",
+        "Ich schreibe beide Namen auf und stecke danach das Heft in meine Tasche.",
+        "هكتب الاسمين وبعد كده أحط الكراسة في شنطتي."
+      ]
+    ],
+    "q": [
+      [
+        "Was ist die einzelne Kugel?",
+        "Ein Teil des Abakus.",
+        "Der ganze Abakus.",
+        "Die Schachfigur."
+      ],
+      [
+        "Was gehört zum ganzen Abakus?",
+        "Rahmen, Stangen und Kugeln.",
+        "Nur ein Pferdekopf.",
+        "Toms Tasche und das Heft."
+      ],
+      [
+        "Was macht Tom nach dem Aufschreiben?",
+        "Er steckt das Heft in seine Tasche.",
+        "Er beginnt eine Schachpartie.",
+        "Er wirft beide Fotos weg."
+      ]
+    ]
+  },
+  {
+    "id": "ein-haken-muss-warten",
+    "level": "A2",
+    "title": [
+      "Ein Haken muss warten",
+      "علامة صح لازم تستنى"
+    ],
+    "lines": [
+      [
+        "Sami",
+        "Die Liste ist vollständig. Dann sind wir fertig.",
+        "القايمة كاملة. يبقى إحنا خلصنا."
+      ],
+      [
+        "Nora",
+        "Die Liste nennt unseren Plan. Vorgelesen hast du noch nicht.",
+        "القايمة بتقول خطتنا. إنت لسه ماقريتش بصوت."
+      ],
+      [
+        "Sami",
+        "Stimmt. Ich habe nur die Bilder angesehen und die Namen notiert.",
+        "صح. أنا بصيت على الصور وكتبت الأسامي بس."
+      ],
+      [
+        "Nora",
+        "Dann hake vorerst nur diese beiden Schritte ab.",
+        "يبقى دلوقتي علم على الخطوتين دول بس."
+      ],
+      [
+        "Sami",
+        "Jetzt lese ich vor. Zeigst du jeweils auf das passende Bild?",
+        "هقرا دلوقتي بصوت. تشاوري كل مرة على الصورة المناسبة؟"
+      ],
+      [
+        "Nora",
+        "Ja. Danach kannst du den letzten Punkt abhaken.",
+        "أيوه. بعد كده تقدر تعلم على آخر نقطة."
+      ],
+      [
+        "Sami",
+        "Gut. Eine Rechnung oder eine Schachpartie gehört nicht zu dieser Übung.",
+        "تمام. مافيش عملية حساب أو جيم شطرنج ضمن التدريب ده."
+      ]
+    ],
+    "q": [
+      [
+        "Was fehlt anfangs noch?",
+        "Das Vorlesen.",
+        "Das Aufschreiben der Namen.",
+        "Das Ansehen der Bilder."
+      ],
+      [
+        "Was soll Nora beim Vorlesen tun?",
+        "Auf das passende Bild zeigen.",
+        "Die Bilder verstecken.",
+        "Einen neuen Abakus besorgen."
+      ],
+      [
+        "Was gehört nicht zu dieser Übung?",
+        "Eine Rechnung oder eine Schachpartie.",
+        "Das Notieren der Namen.",
+        "Das Zuordnen zu Bildern."
+      ]
+    ]
+  },
+  {
+    "id": "darstellung-und-gegenstand",
+    "level": "B1",
+    "title": [
+      "Darstellung und Gegenstand",
+      "الظهور والحاجة نفسها"
+    ],
+    "lines": [
+      [
+        "Karim",
+        "Unter dem Sockel habe ich eine zweite Figur gezählt.",
+        "عديت تحت القاعدة قطعة تانية."
+      ],
+      [
+        "Julia",
+        "Das ist die Spiegelung auf der glänzenden Fläche, kein eigener Gegenstand.",
+        "ده الانعكاس على السطح اللامع مش حاجة لوحدها."
+      ],
+      [
+        "Karim",
+        "Dann korrigiere ich den Satz. Über Figuren außerhalb des Bildes wissen wir nichts.",
+        "يبقى هصلح الجملة. مانعرفش حاجة عن القطع اللي بره الصورة."
+      ],
+      [
+        "Julia",
+        "Auch ein Ergebnis der Partie ist damit nicht belegt.",
+        "وبرضه نتيجة الجيم مش مثبتة بكده."
+      ],
+      [
+        "Karim",
+        "Und beim Abakus fehlt uns die erklärte Stellenwertzuordnung.",
+        "ومع عداد الخرز ناقصنا شرح قيمة الخانات."
+      ],
+      [
+        "Julia",
+        "Deshalb beschreiben wir Teile und Formen, ohne eine Rechnung zu erfinden.",
+        "عشان كده بنوصف الأجزاء والأشكال من غير ما نخترع عملية حساب."
+      ],
+      [
+        "Karim",
+        "Unsere Zusammenfassung bleibt eine Sprachübung, keine Spielanalyse.",
+        "ملخصنا بيفضل تدريب لغة مش تحليل لعب."
+      ]
+    ],
+    "q": [
+      [
+        "Was ist die Form unter dem Sockel?",
+        "Eine Spiegelung.",
+        "Eine sicher belegte zweite Figur.",
+        "Ein Teil des Abakus."
+      ],
+      [
+        "Worüber wissen sie nach Karims Korrektur weiterhin nichts?",
+        "Über Figuren außerhalb des Bildes.",
+        "Über die sichtbare Spiegelung.",
+        "Über den notierten Namen Schachfigur."
+      ],
+      [
+        "Was wollen sie beim Abakus nicht erfinden?",
+        "Eine Rechnung.",
+        "Eine Beschreibung seiner Teile.",
+        "Einen Eintrag ins Wortheft."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "nicht-nur-eine-kugel": [
+    "Die Kugel ist nur ein Teil davon.",
+    "Ja, mit den Stangen und allen Kugeln.",
+    "Ich schreibe beide Namen auf und stecke danach das Heft in meine Tasche."
+  ],
+  "ein-haken-muss-warten": [
+    "Vorgelesen hast du noch nicht.",
+    "Zeigst du jeweils auf das passende Bild?",
+    "Eine Rechnung oder eine Schachpartie gehört nicht zu dieser Übung."
+  ],
+  "darstellung-und-gegenstand": [
+    "Das ist die Spiegelung auf der glänzenden Fläche, kein eigener Gegenstand.",
+    "Über Figuren außerhalb des Bildes wissen wir nichts.",
+    "Deshalb beschreiben wir Teile und Formen, ohne eine Rechnung zu erfinden."
+  ]
+});

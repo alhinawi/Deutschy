@@ -1,5 +1,6 @@
 'use client';
 import Speaker from './Speaker';
+import Mixed from './Mixed';
 import { arTries } from '@/lib/arcount';
 import { useEffect, useMemo, useRef, useState } from 'react';
 import Link from 'next/link';
@@ -31,7 +32,7 @@ export default function GameRunner({ game }: { game: string }) {
           </select>
         </label>
       </div>
-      {topic&&topics.some(tp=>tp.id===topic)&&<p id="game-current-topic" className="break-words text-sm text-muted">{t('الموضوع الحالي:','Current topic:')} <span dir="ltr" lang="de" className="de">{topicTitles[topic]}</span> · <span>{topicName(topic,lang)}</span></p>}
+      {topic&&topics.some(tp=>tp.id===topic)&&<p id="game-current-topic" className="break-words text-sm text-muted">{t('الموضوع الحالي:','Current topic:')} <span dir="ltr" lang="de" className="de">{topicTitles[topic]}</span> · {lang==='ar'?<Mixed text={topicName(topic,lang)}/>:<span lang="en">{topicName(topic,lang)}</span>}</p>}
       <Game key={`${game}-${topic}-${round}`} game={game} list={pool(topic)} again={() => setRound((r) => r + 1)} />
     </div>
   );

@@ -213,4 +213,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-der-kleine-umlaut',dialogue:'zwei-punkte-fehlen'},
  {reading:'alltag-a2-ein-name-fuer-mehrere-beispiele',dialogue:'ueberschrift-oder-bildsatz'},
  {reading:'alltag-b1-zwei-namen-kein-zweites-werkzeug',dialogue:'wortwahl-ist-kein-eignungstest'},
+ {reading:'alltag-a1-kugeln-und-rahmen',dialogue:'nicht-nur-eine-kugel'},
+ {reading:'alltag-a2-noch-nicht-vorgelesen',dialogue:'ein-haken-muss-warten'},
+ {reading:'alltag-b1-ein-spiegelbild-ist-keine-zweite-figur',dialogue:'darstellung-und-gegenstand'},
 ];
