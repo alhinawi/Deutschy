@@ -267,3 +267,6 @@ readings.push(...signalwoerterTexts);
 
 import {kuechenhelferTexts} from './reading-kuechenhelfer';
 readings.push(...kuechenhelferTexts);
+
+import {werkzeugnamenTexts} from './reading-werkzeugnamen';
+readings.push(...werkzeugnamenTexts);

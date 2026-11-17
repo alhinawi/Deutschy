@@ -1481,3 +1481,24 @@ Object.assign(readingEvidence,{
     "aber kein Rezept rekonstruiert."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-der-kleine-umlaut": [
+    "Daneben sieht man eine Schraube.",
+    "Dort steht die Nägel mit einem Umlaut.",
+    "Die Pluralform sieht hier genauso aus wie der Singular.",
+    "Sie kennen das Wort schon."
+  ],
+  "alltag-a2-ein-name-fuer-mehrere-beispiele": [
+    "Auf dem Foto könne er schließlich mehrere sehen.",
+    "das neue Wort in seiner Grundform einführen",
+    "weil sich einzelne Schäfte und Köpfe überdecken.",
+    "So kann Leon erkennen, dass kein Plural vergessen wurde."
+  ],
+  "alltag-b1-zwei-namen-kein-zweites-werkzeug": [
+    "fachsprachliche und Schraubenzieher als umgangssprachliche Bezeichnung für denselben Werkzeugtyp.",
+    "den Gegenstand mit Kopf und spitzem Schaft, nicht einen Fingernagel.",
+    "Dieser Formwechsel erklärt jedoch nicht, wie viele Nägel auf dem teilweise überdeckten Haufen liegen",
+    "Sie machen daraus keine allgemeine Behauptung, dass alle ähnlich aussehenden Werkzeuge austauschbar seien."
+  ]
+});

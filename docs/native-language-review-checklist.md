@@ -886,9 +886,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Game back-link keyboard focus | Focus gap now explicitly matches paper ground. AR/EN390 actual Tab/Shift+Tab focused pixels inspected, complete ring and44px target. Game choice/scoring unchanged, spelling/article/shared feedback/input/error/label/result regressions retained. |
 | [ ] | Listening/dictation |69 original segments with Egyptian Arabic translation. Real-device voices and native editorial review pending. Fictional private word exercises, no ingredient/allergen/cleanliness/use recommendation. |
 
+### List 89: word forms, labels and meanings
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-der-kleine-umlaut/` and linked dialogue | Dana/Samir use two photo cards. Nagel plural initially missing umlaut, two dots added; Schraubendreher form unchanged. Familiar Schraube gets no new card. No tools operated. Check Egyptian distinction مسمار versus مسمار قلاووظ. |
+| [ ] | `/reading/alltag-a2-ein-name-fuer-mehrere-beispiele/` and linked dialogue | Mira's singular lexical heading not claim of exactly one visible object. Leon asks, heading function labeled, separate sentence says several nails, exact overlapping heap count open. Same-form plural marked, no material list or procurement request. |
+| [ ] | `/reading/alltag-b1-zwei-namen-kein-zweites-werkzeug/` and linked dialogue | Schraubendreher technical and Schraubenzieher colloquial names for same tool type checked DWDS. Reference rather than duplicate picture/count. Nagel context selects pointed fastener not fingernail. No general interchangeability or fit assertion; gold color not proof of gold material. Meaning/form exercise not technical suitability test. |
+| [ ] | `/lessons/werkzeugnamen/` and `/credits/` | der Nagel/Nägel/مسمار, der Schraubendreher/-/مفك. Whole foreground gold-colored nail in heap, broad heads and pointed shafts; whole short red-orange screwdriver on wood with screw nearby.800x600 real faceless unbranded crops, no padding. No exact alloy, size, coating or compatible fastener asserted. |
+| [ ] | Six appended grammar banks |24 article/accusative/perfect/modal/two-way-preposition/connector rows, earlier saved IDs preserved. ergänzt/vorgelesen/getrennt/geprüft; muss/kannst/wollen/dürft; neben dem/das Foto and auf der/die Karte; weil/damit/obwohl/ob. Both explanation languages pending. |
+| [ ] | Full current topic | Wrapped current-topic description below native select, aria-describedby links selection to full readable name. AR/EN390 pixels inspected with actual keyboard-focused dropdown; long noun and translation remain fully readable. Choice/state/scoring unchanged. |
+| [ ] | Listening/dictation |67 original segments/Egyptian Arabic. Native editorial and real-device voice pending. Private word learning, no repair, tool operation, purchase or suitability test. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **833 photo nouns / 133 topics**, **282 reading texts / 1081 reading questions**, **41 core grammar topics / 2062 core grammar questions**, **222 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **835 photo nouns / 134 topics**, **285 reading texts / 1093 reading questions**, **41 core grammar topics / 2086 core grammar questions**, **225 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -900,7 +912,7 @@ This is an inventory, not completed review. Snapshot: **833 photo nouns / 133 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 76 · A2 104 · B1 72 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 77 · A2 105 · B1 73 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

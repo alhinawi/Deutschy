@@ -210,4 +210,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-die-spitze-im-bild',dialogue:'nur-den-artikel-aendern'},
  {reading:'alltag-a2-welche-davon',dialogue:'das-foto-nicht-die-karte'},
  {reading:'alltag-b1-farbe-ist-keine-zutatenliste',dialogue:'was-steckt-im-beutel'},
+ {reading:'alltag-a1-der-kleine-umlaut',dialogue:'zwei-punkte-fehlen'},
+ {reading:'alltag-a2-ein-name-fuer-mehrere-beispiele',dialogue:'ueberschrift-oder-bildsatz'},
+ {reading:'alltag-b1-zwei-namen-kein-zweites-werkzeug',dialogue:'wortwahl-ist-kein-eignungstest'},
 ];

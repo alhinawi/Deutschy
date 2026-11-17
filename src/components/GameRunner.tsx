@@ -24,13 +24,14 @@ export default function GameRunner({ game }: { game: string }) {
         <Link href="/games/" className="inline-flex min-h-11 items-center rounded-lg px-2 text-sm text-muted hover:text-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper">← {t('الألعاب', 'Games')}</Link>
         <label className="block max-w-full text-sm text-muted">
           {t('الموضوع', 'Topic')}{' '}
-          <select className="min-h-11 max-w-full rounded-lg border border-line bg-card px-2 py-1 text-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper" value={topic ?? ''} onChange={(e) => { setTopic(e.target.value || null); setRound((r) => r + 1); }}>
+          <select aria-describedby={topic&&topics.some(tp=>tp.id===topic)?"game-current-topic":undefined} className="min-h-11 max-w-full rounded-lg border border-line bg-card px-2 py-1 text-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper" value={topic ?? ''} onChange={(e) => { setTopic(e.target.value || null); setRound((r) => r + 1); }}>
             <option value="">{t('كل الكلمات', 'All words')}</option>
             {topic&&!topics.some(tp=>tp.id===topic)&&<option value={topic}>{t("موضوع مش موجود","Unavailable topic")}</option>}
             {topics.map((tp) => <option key={tp.id} value={tp.id}>{topicTitles[tp.id]} · {topicName(tp.id, lang)}</option>)}
           </select>
         </label>
       </div>
+      {topic&&topics.some(tp=>tp.id===topic)&&<p id="game-current-topic" className="break-words text-sm text-muted">{t('الموضوع الحالي:','Current topic:')} <span dir="ltr" lang="de" className="de">{topicTitles[topic]}</span> · <span>{topicName(topic,lang)}</span></p>}
       <Game key={`${game}-${topic}-${round}`} game={game} list={pool(topic)} again={() => setRound((r) => r + 1)} />
     </div>
   );

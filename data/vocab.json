@@ -531,6 +531,10 @@
   {
    "id": "kuechenhelfer",
    "ar": "كيس تزيين وهراسة توم"
+  },
+  {
+   "id": "werkzeugnamen",
+   "ar": "مسمار ومفك"
   }
  ],
  "words": [
@@ -13122,6 +13126,36 @@
     "file": "40051281.jpg",
     "commons": "https://www.pexels.com/photo/close-up-of-garlic-press-with-garlic-bulbs-40051281/",
     "author": "Сокіл Sokil",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "nagel",
+   "topic": "werkzeugnamen",
+   "art": "der",
+   "de": "Nagel",
+   "plural": "Nägel",
+   "ar": "مسمار",
+   "photo": {
+    "file": "5583070.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-photo-of-gold-nails-5583070/",
+    "author": "Polina Tankilevitch",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "schraubendreher",
+   "topic": "werkzeugnamen",
+   "art": "der",
+   "de": "Schraubendreher",
+   "plural": "-",
+   "ar": "مفك",
+   "photo": {
+    "file": "8478337.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-of-a-mini-screwdriver-on-a-wooden-container-8478337/",
+    "author": "Sergey Meshkov",
     "license": "Pexels License",
     "modified": true
    }

@@ -15038,3 +15038,218 @@ Object.assign(dialogueEvidence,{
     "Unsere Notizen bleiben Sprachübungen und ergeben kein geprüftes Rezept."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "zwei-punkte-fehlen",
+    "level": "A1",
+    "title": [
+      "Zwei Punkte fehlen",
+      "ناقص نقطتين"
+    ],
+    "lines": [
+      [
+        "Samir",
+        "Wie lautet der Plural von Nagel?",
+        "جمع مسمار بالألماني إيه؟"
+      ],
+      [
+        "Dana",
+        "Ich habe die Nagel geschrieben.",
+        "كتبت أداة التعريف للجمع مع نفس الاسم من غير تغيير."
+      ],
+      [
+        "Samir",
+        "In der Wortliste steht Nägel. Über dem a fehlen noch zwei Punkte.",
+        "في قايمة الكلمات الجمع بأوملاوت. لسه ناقص نقطتين فوق الحرف."
+      ],
+      [
+        "Dana",
+        "Danke. Ich ergänze den Umlaut auf der Karte.",
+        "شكرا. هضيف الأوملاوت على الكارت."
+      ],
+      [
+        "Samir",
+        "Bei Schraubendreher bleibt die Form dagegen gleich.",
+        "لكن مع كلمة مفك الشكل بيفضل زي ما هو."
+      ],
+      [
+        "Dana",
+        "Dann lese bitte beide Formen vor. Ich höre zu.",
+        "يبقى اقرا الصيغتين بصوت لو سمحت. هسمع."
+      ],
+      [
+        "Samir",
+        "Danach legen wir jede Karte neben das passende Foto.",
+        "وبعد كده نحط كل كارت جنب الصورة المناسبة."
+      ]
+    ],
+    "q": [
+      [
+        "Was ergänzt Dana?",
+        "Den Umlaut.",
+        "Eine neue Schraube.",
+        "Einen anderen Griff."
+      ],
+      [
+        "Was gilt für den Plural Schraubendreher?",
+        "Er hat dieselbe Form wie der Singular.",
+        "Er bekommt immer einen Umlaut.",
+        "Er endet auf en."
+      ],
+      [
+        "Was machen sie nach dem Vorlesen?",
+        "Die Karten neben die passenden Fotos legen.",
+        "Mit den Werkzeugen arbeiten.",
+        "Die Bilder wegwerfen."
+      ]
+    ]
+  },
+  {
+    "id": "ueberschrift-oder-bildsatz",
+    "level": "A2",
+    "title": [
+      "Überschrift oder Bildsatz?",
+      "عنوان ولا جملة عن الصورة؟"
+    ],
+    "lines": [
+      [
+        "Leon",
+        "Hier steht der Nagel. Auf dem Bild sehe ich aber mehrere.",
+        "هنا الكلمة بالمفرد. بس أنا شايف كذا مسمار في الصورة."
+      ],
+      [
+        "Mira",
+        "Die Überschrift nennt das Wort im Singular. Das habe ich noch nicht deutlich gemacht.",
+        "العنوان بيسمي الكلمة بالمفرد. لسه موضحتش ده."
+      ],
+      [
+        "Leon",
+        "Dann braucht das Foto einen eigenen Satz.",
+        "يبقى الصورة محتاجة جملة لوحدها."
+      ],
+      [
+        "Mira",
+        "Ich schreibe: Auf dem Bild liegen mehrere Nägel. Eine genaue Zahl lasse ich offen.",
+        "هكتب إن فيه كذا مسمار في الصورة. هسيب العدد الدقيق مفتوح."
+      ],
+      [
+        "Leon",
+        "Und bei Schraubendreher sieht der Plural wie der Singular aus?",
+        "ومع كلمة مفك الجمع شكله زي المفرد؟"
+      ],
+      [
+        "Mira",
+        "Ja. Ich ergänze gleiche Form, damit das nicht wie eine Lücke aussieht.",
+        "أيوه. هضيف ملحوظة إن الشكل واحد عشان مايبانش كأنه ناقص."
+      ],
+      [
+        "Leon",
+        "Jetzt unterscheiden wir Wortform und Bildbeschreibung klar.",
+        "دلوقتي فرقنا بين صيغة الكلمة ووصف الصورة بوضوح."
+      ]
+    ],
+    "q": [
+      [
+        "Was beschreibt der zusätzliche Satz?",
+        "Die sichtbaren Beispiele im Foto.",
+        "Den Kaufpreis des Hefts.",
+        "Eine geplante Reparatur."
+      ],
+      [
+        "Welche Zahl nennt Mira?",
+        "Keine genaue Zahl.",
+        "Genau zwei.",
+        "Genau zehn."
+      ],
+      [
+        "Was wird durch die Überarbeitung klar?",
+        "Der Unterschied zwischen Wortform und Bildbeschreibung.",
+        "Die Belastbarkeit aller Gegenstände.",
+        "Die Anzahl außerhalb des Bildes."
+      ]
+    ]
+  },
+  {
+    "id": "wortwahl-ist-kein-eignungstest",
+    "level": "B1",
+    "title": [
+      "Wortwahl ist kein Eignungstest",
+      "اختيار الاسم مش اختبار ملاءمة"
+    ],
+    "lines": [
+      [
+        "Jonas",
+        "Ich dachte, Schraubenzieher müsse ein anderes Werkzeug sein.",
+        "كنت فاكر الاسم التاني للمفك لازم يبقى أداة تانية."
+      ],
+      [
+        "Selma",
+        "Das Wörterbuch ordnet beide Wörter demselben Werkzeugtyp zu. Der Sprachgebrauch ist unterschiedlich.",
+        "القاموس بيربط الاسمين بنفس نوع الأداة. استعمالهم في اللغة مختلف."
+      ],
+      [
+        "Jonas",
+        "Dann genügt ein Verweis. Eine zweite Bildkarte brauchen wir dafür nicht.",
+        "يبقى إحالة تكفي. مش محتاجين كارت صورة تاني عشان ده."
+      ],
+      [
+        "Selma",
+        "Ob unser kurzer Schraubendreher passt, ist damit aber nicht geprüft.",
+        "لكن كده لسه مافحصناش إذا كان المفك القصير عندنا مناسب."
+      ],
+      [
+        "Jonas",
+        "Bei Nagel müssen wir dagegen die gemeinte Bedeutung aus dem Kontext klären.",
+        "لكن مع كلمة مسمار بالألماني محتاجين نوضح المعنى المقصود من السياق."
+      ],
+      [
+        "Selma",
+        "Genau. Unsere Karte zeigt den Gegenstand mit Kopf und spitzem Schaft.",
+        "بالضبط. كارتنا بيبين الحاجة اللي ليها راس وساق مدببة."
+      ],
+      [
+        "Jonas",
+        "Wir ordnen Wörter, ohne daraus einen technischen Eignungstest zu machen.",
+        "بنرتب كلمات من غير ما نحول ده لاختبار ملاءمة فنية."
+      ]
+    ],
+    "q": [
+      [
+        "Was ersetzt die zweite Bildkarte?",
+        "Ein Verweis im vorhandenen Eintrag.",
+        "Ein zweites Werkzeug.",
+        "Ein Auftrag zur Reparatur."
+      ],
+      [
+        "Was ist durch die Wortklärung nicht geprüft?",
+        "Ob der kurze Schraubendreher zu einer bestimmten Schraube passt.",
+        "Ob das Wörterbuch beide Namen erwähnt.",
+        "Ob sie einen Verweis ergänzen wollen."
+      ],
+      [
+        "Wobei hilft der Kontext bei Nagel?",
+        "Bei der gemeinten Bedeutung.",
+        "Bei der sicheren Materialbestimmung.",
+        "Bei einer genauen Zählung aller verdeckten Nägel."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "zwei-punkte-fehlen": [
+    "Ich ergänze den Umlaut auf der Karte.",
+    "Bei Schraubendreher bleibt die Form dagegen gleich.",
+    "Danach legen wir jede Karte neben das passende Foto."
+  ],
+  "ueberschrift-oder-bildsatz": [
+    "Dann braucht das Foto einen eigenen Satz.",
+    "Eine genaue Zahl lasse ich offen.",
+    "Jetzt unterscheiden wir Wortform und Bildbeschreibung klar."
+  ],
+  "wortwahl-ist-kein-eignungstest": [
+    "Dann genügt ein Verweis.",
+    "Ob unser kurzer Schraubendreher passt, ist damit aber nicht geprüft.",
+    "Bei Nagel müssen wir dagegen die gemeinte Bedeutung aus dem Kontext klären."
+  ]
+});

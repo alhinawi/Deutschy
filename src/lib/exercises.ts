@@ -429,3 +429,6 @@ for(const[topic,rows]of Object.entries(signalwoerterGrammar))exercises[topic].pu
 
 import {kuechenhelferGrammar} from './exercises-kuechenhelfer';
 for(const[topic,rows]of Object.entries(kuechenhelferGrammar))exercises[topic].push(...rows);
+
+import {werkzeugnamenGrammar} from './exercises-werkzeugnamen';
+for(const[topic,rows]of Object.entries(werkzeugnamenGrammar))exercises[topic].push(...rows);
