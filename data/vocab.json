@@ -695,6 +695,10 @@
   {
    "id": "kaffeebilder",
    "ar": "صور البن وورق الفلتر"
+  },
+  {
+   "id": "suessbilder",
+   "ar": "صور السكر والعسل"
   }
  ],
  "words": [
@@ -14516,6 +14520,36 @@
     "file": "37073348.jpg",
     "commons": "https://www.pexels.com/photo/close-up-of-roasted-coffee-beans-37073348/",
     "author": "Robert Śliwiński",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "zuckerwuerfel",
+   "topic": "suessbilder",
+   "art": "der",
+   "de": "Zuckerwürfel",
+   "plural": "-",
+   "ar": "مكعب سكر",
+   "photo": {
+    "file": "35793177.jpg",
+    "commons": "https://www.pexels.com/photo/geometric-sugar-cube-pattern-on-blue-surface-35793177/",
+    "author": "cleo beater",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "honigglas",
+   "topic": "suessbilder",
+   "art": "das",
+   "de": "Honigglas",
+   "plural": "Honiggläser",
+   "ar": "برطمان عسل",
+   "photo": {
+    "file": "35282122.jpg",
+    "commons": "https://www.pexels.com/photo/clear-glass-honey-jar-with-dipper-on-white-35282122/",
+    "author": "Gundula Vogel",
     "license": "Pexels License",
     "modified": true
    }

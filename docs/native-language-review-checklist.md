@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-twenty-ninth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-thirtieth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1378,9 +1378,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Shared MiniQuiz question counter | Localized LTR polite atomic status.40statechecks8mixedanswers16axe AR/EN320/390.1/2..2/2, absent on result, newround/reopen1/2. Mixed1/2score5XP; no stale result/noextraXP. Actual390counter/feedback screens inspected. |
 | [ ] | Listening/dictation |63originalsegments252exactGerman speech/source/answer checks. Native editorial and actual-device voice pending. Practice grouping not certification; progress device-local. |
 
+### List 130: Sugar cubes and honey jars
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zwei-arten-mehrzahl/` and linked dialogue | Ines/David contrast unchanged Zuckerwürfel with Honiggläser (a to ä, +er). Extra n crossed out. Cover/reveal plural lines and compare. Paper/photos only. |
+| [ ] | `/reading/alltag-a2-korrektur-lesbar-lassen/` and linked dialogue | Rita/Sven single-strike wrong old form and place correction clearly beside it. Correct Zuckerwürfel line unchanged. Working note, not official exam. Material correction does not test unaided recall; later repetition separate. |
+| [ ] | `/reading/alltag-b1-fuellstand-ohne-mengenangabe/` and linked dialogue | Maja/Nils reject unsupported exact milliliters: no scale, known capacity or shared reference across photos. Describe visible content/free space, not universal impossibility of measurement. No actual measurement/opening/refilling. |
+| [ ] | `/lessons/suessbilder/` and `/credits/` | der Zuckerwürfel/plural same form (مكعب سكر); das Honigglas/Honiggläser (برطمان عسل). FullDWDS forms. cleo beater35793177sugar1800x2700crop0,650-1800,2000; Gundula Vogel35282122jar1800x2700crop0,950-1800,2300. Both800x600,no padding/stretch/people/brand. Whole jar body/lid/dipper visible. Actual390AR/ENcards inspected. |
+| [ ] | Six appended grammar banks |24article/accusative/present/possessive/two-way/negation rows retain earlier saved identities. Native German/Egyptian examples/explanations pending. |
+| [ ] | Shared MiniQuiz German listen label | Localized accessible name replaces English-only Speak.8voice states AR/EN320/390:4Germanpayloadcalls, English-onlyvoice blocked with localizedfallback, noXP. Actual390AR/ENavailable/unavailable screens inspected. |
+| [ ] | Listening/dictation |62originalsegments248exactGerman speech/source/answer checks. Native editorial and actual-device voice pending. Practice grouping not certification; progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **915 photo nouns / 174 topics**, **405 reading texts / 1573 reading questions**, **41 core grammar topics / 3046 core grammar questions**, **345 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **917 photo nouns / 175 topics**, **408 reading texts / 1585 reading questions**, **41 core grammar topics / 3070 core grammar questions**, **348 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1392,7 +1404,7 @@ This is an inventory, not completed review. Snapshot: **915 photo nouns / 174 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 117 · A2 145 · B1 113 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 118 · A2 146 · B1 114 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

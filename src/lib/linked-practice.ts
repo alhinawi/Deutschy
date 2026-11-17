@@ -333,4 +333,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-einzahl-unter-vielen-bohnen',dialogue:'wortform-und-bildmenge'},
  {reading:'alltag-a2-papier-und-inhalt-trennen',dialogue:'helles-papier-dunkler-inhalt'},
  {reading:'alltag-b1-ausschnitt-und-beleg',dialogue:'was-zeigt-dieser-ausschnitt'},
+ {reading:'alltag-a1-zwei-arten-mehrzahl',dialogue:'zuckerwuerfel-honigglaeser'},
+ {reading:'alltag-a2-korrektur-lesbar-lassen',dialogue:'alte-und-neue-fassung'},
+ {reading:'alltag-b1-fuellstand-ohne-mengenangabe',dialogue:'hoehe-ist-kein-volumenwert'},
 ];
