@@ -527,6 +527,10 @@
   {
    "id": "signalwoerter",
    "ar": "ميجافون ومخروط مرور"
+  },
+  {
+   "id": "kuechenhelfer",
+   "ar": "كيس تزيين وهراسة توم"
   }
  ],
  "words": [
@@ -13088,6 +13092,36 @@
     "file": "30544238.jpg",
     "commons": "https://www.pexels.com/photo/orange-traffic-cone-on-urban-street-30544238/",
     "author": "cnrdmroglu",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "spritzbeutel",
+   "topic": "kuechenhelfer",
+   "art": "der",
+   "de": "Spritzbeutel",
+   "plural": "-",
+   "ar": "كيس تزيين حلويات",
+   "photo": {
+    "file": "3992192.jpg",
+    "commons": "https://www.pexels.com/photo/clear-bowl-with-water-and-white-and-purple-icing-bag-on-brown-wooden-table-3992192/",
+    "author": "cottonbro studio",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "knoblauchpresse",
+   "topic": "kuechenhelfer",
+   "art": "die",
+   "de": "Knoblauchpresse",
+   "plural": "Knoblauchpressen",
+   "ar": "هراسة توم",
+   "photo": {
+    "file": "40051281.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-of-garlic-press-with-garlic-bulbs-40051281/",
+    "author": "Сокіл Sokil",
     "license": "Pexels License",
     "modified": true
    }

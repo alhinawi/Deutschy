@@ -1460,3 +1460,24 @@ Object.assign(readingEvidence,{
     "eine Sprachfrage, keine Angabe darüber, wie viele Kegel außerhalb des Bildes stehen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-die-spitze-im-bild": [
+    "Auf dem ersten Foto sehen sie einen lila Spritzbeutel in einer Schüssel.",
+    "Paul zeigt auf diese Fläche.",
+    "Im Singular heißt es der Spritzbeutel.",
+    "Die Schüsseln und der Knoblauch bekommen heute keine eigenen Wortkarten."
+  ],
+  "alltag-a2-welche-davon": [
+    "Die Fotos liegen jedoch noch in der umgekehrten Reihenfolge.",
+    "Er meinte das Foto der Presse, nicht die Karte.",
+    "Jetzt bewegt Jana nur dieses Bild.",
+    "Sie ist keine Regel, nach der das kurze Wort die in jedem Gespräch falsch wäre."
+  ],
+  "alltag-b1-farbe-ist-keine-zutatenliste": [
+    "Nabil verweist auf die Farbe.",
+    "Nabil streicht deshalb die behauptete Beerenzutat und ergänzt in einer eigenen Spalte: Zusammensetzung unbekannt.",
+    "Sie belegen aber nicht, dass die Presse zuvor mit genau diesem Knoblauch benutzt wurde.",
+    "aber kein Rezept rekonstruiert."
+  ]
+});

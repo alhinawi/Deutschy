@@ -14823,3 +14823,218 @@ Object.assign(dialogueEvidence,{
     "Es erteilt uns keine Befugnis für einen Einsatz."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "nur-den-artikel-aendern",
+    "level": "A1",
+    "title": [
+      "Nur den Artikel ändern",
+      "نغير أداة التعريف بس"
+    ],
+    "lines": [
+      [
+        "Paul",
+        "Wie heißt das Ding mit den kleinen Löchern?",
+        "اسم الحاجة اللي فيها الخرم الصغير ده إيه؟"
+      ],
+      [
+        "Amina",
+        "Die Knoblauchpresse. Auf dem Foto ist sie gebogen.",
+        "هراسة التوم. في الصورة شكلها منحني."
+      ],
+      [
+        "Paul",
+        "Und der lila Beutel in der Schüssel?",
+        "والكيس الموف اللي في الطبق الغويط؟"
+      ],
+      [
+        "Amina",
+        "Das ist ein Spritzbeutel. Schreib bitte der Spritzbeutel.",
+        "ده كيس تزيين حلويات. اكتبه بأداة التعريف المذكر."
+      ],
+      [
+        "Paul",
+        "Ich habe die geschrieben. Ist auch das Nomen falsch?",
+        "أنا كتبت أداة التعريف المؤنث. هو الاسم كمان غلط؟"
+      ],
+      [
+        "Amina",
+        "Nein. Streiche nur den Artikel durch und schreibe der darüber.",
+        "لأ. اشطب على أداة التعريف بس واكتب أداة التعريف المذكر فوقها."
+      ],
+      [
+        "Paul",
+        "Gut. Dann lese ich beide Namen noch einmal vor.",
+        "تمام. يبقى هقرا الاسمين بصوت تاني."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Form hat die Presse auf dem Foto?",
+        "Sie ist gebogen.",
+        "Sie ist eine Kugel.",
+        "Sie hat eine lange Stofftasche."
+      ],
+      [
+        "Was ist an Pauls Notiz zu Spritzbeutel falsch?",
+        "Nur der Artikel.",
+        "Das ganze Nomen.",
+        "Die Reihenfolge beider Fotos."
+      ],
+      [
+        "Was macht Paul danach?",
+        "Er liest beide Namen noch einmal vor.",
+        "Er kocht sofort ein Gericht.",
+        "Er wirft das Blatt weg."
+      ]
+    ]
+  },
+  {
+    "id": "das-foto-nicht-die-karte",
+    "level": "A2",
+    "title": [
+      "Das Foto, nicht die Karte",
+      "الصورة مش الكارت"
+    ],
+    "lines": [
+      [
+        "Rami",
+        "Leg die bitte nach oben.",
+        "حطي دي فوق لو سمحتي."
+      ],
+      [
+        "Jana",
+        "Meinst du die Karte zur Knoblauchpresse?",
+        "قصدك كارت هراسة التوم؟"
+      ],
+      [
+        "Rami",
+        "Nein, das Foto. Meine Bitte war zu ungenau.",
+        "لأ الصورة. طلبي كان مش محدد كفاية."
+      ],
+      [
+        "Jana",
+        "Dann nenne das Motiv bitte noch einmal.",
+        "يبقى قول الحاجة اللي في الصورة تاني لو سمحت."
+      ],
+      [
+        "Rami",
+        "Lege bitte das Foto mit der gebogenen Knoblauchpresse über das andere Foto.",
+        "حطي صورة هراسة التوم المنحنية فوق الصورة التانية لو سمحتي."
+      ],
+      [
+        "Jana",
+        "Jetzt ist es klar. Erst bewege ich das Bild, danach tausche ich die Karten.",
+        "دلوقتي واضح. هحرك الصورة الأول وبعد كده هبدل الكروت."
+      ],
+      [
+        "Rami",
+        "Danach lese ich vor und du zeigst auf das passende Motiv.",
+        "وبعد كده هقرا بصوت وإنتي تشاوري على الحاجة المناسبة."
+      ]
+    ],
+    "q": [
+      [
+        "Was will Jana zuerst klären?",
+        "Ob Rami die Karte meint.",
+        "Ob Rami Knoblauch essen möchte.",
+        "Ob alle Bilder weggeworfen werden."
+      ],
+      [
+        "Wie verbessert Rami seine Bitte?",
+        "Er nennt das Foto und das Motiv genau.",
+        "Er wiederholt nur die.",
+        "Er nimmt beide Karten weg."
+      ],
+      [
+        "Was folgt nach dem Bewegen des Bildes?",
+        "Jana tauscht die Karten.",
+        "Rami kocht mit der Presse.",
+        "Jana schließt das Wortheft ungeprüft."
+      ]
+    ]
+  },
+  {
+    "id": "was-steckt-im-beutel",
+    "level": "B1",
+    "title": [
+      "Was steckt im Beutel?",
+      "إيه اللي جوه الكيس؟"
+    ],
+    "lines": [
+      [
+        "Nabil",
+        "Ich habe eine Creme aus Beeren notiert, weil die Füllung lila ist.",
+        "كتبت كريمة من التوت عشان الحشو موف."
+      ],
+      [
+        "Lea",
+        "Die Farbe sehen wir. Die Zutaten kennen wir deshalb noch nicht.",
+        "إحنا شايفين اللون. ده مش معناه إننا عرفنا المكونات."
+      ],
+      [
+        "Nabil",
+        "Dann streiche ich die Beeren und schreibe Zusammensetzung unbekannt.",
+        "يبقى هشطب التوت وأكتب المكونات مش معروفة."
+      ],
+      [
+        "Lea",
+        "Behaupte auch nicht einfach, dass Lebensmittelfarbe enthalten ist.",
+        "وبرضه ماتقولش من عندك إن فيه لون أكل."
+      ],
+      [
+        "Nabil",
+        "Bei der Presse beweist der Knoblauch daneben keine frühere Benutzung.",
+        "ومع الهراسة التوم اللي جنبها مش دليل على استخدامها قبل كده."
+      ],
+      [
+        "Lea",
+        "Genau. Wir beschreiben die Form, nicht den Reinigungszustand oder die Vorgeschichte.",
+        "بالضبط. بنوصف الشكل مش حالة النضافة ولا تاريخ الاستخدام."
+      ],
+      [
+        "Nabil",
+        "Unsere Notizen bleiben Sprachübungen und ergeben kein geprüftes Rezept.",
+        "ملحوظاتنا بتفضل تدريبات لغة ومش بتطلع وصفة متراجعة."
+      ]
+    ],
+    "q": [
+      [
+        "Was kennen beide trotz der sichtbaren Farbe nicht?",
+        "Die Zutaten.",
+        "Die Farbe selbst.",
+        "Den notierten deutschen Namen."
+      ],
+      [
+        "Welche neue Behauptung soll Nabil vermeiden?",
+        "Dass sicher Lebensmittelfarbe enthalten ist.",
+        "Dass die Zusammensetzung unbekannt bleibt.",
+        "Dass sie keine Zutatenliste haben."
+      ],
+      [
+        "Was entsteht aus den Notizen nicht?",
+        "Ein geprüftes Rezept.",
+        "Eine Sprachübung.",
+        "Eine Beschreibung der Form."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "nur-den-artikel-aendern": [
+    "Auf dem Foto ist sie gebogen.",
+    "Streiche nur den Artikel durch und schreibe der darüber.",
+    "Dann lese ich beide Namen noch einmal vor."
+  ],
+  "das-foto-nicht-die-karte": [
+    "Meinst du die Karte zur Knoblauchpresse?",
+    "Lege bitte das Foto mit der gebogenen Knoblauchpresse über das andere Foto.",
+    "Erst bewege ich das Bild, danach tausche ich die Karten."
+  ],
+  "was-steckt-im-beutel": [
+    "Die Zutaten kennen wir deshalb noch nicht.",
+    "Behaupte auch nicht einfach, dass Lebensmittelfarbe enthalten ist.",
+    "Unsere Notizen bleiben Sprachübungen und ergeben kein geprüftes Rezept."
+  ]
+});

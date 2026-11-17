@@ -426,3 +426,6 @@ for(const[topic,rows]of Object.entries(malerwoerterGrammar))exercises[topic].pus
 
 import {signalwoerterGrammar} from './exercises-signalwoerter';
 for(const[topic,rows]of Object.entries(signalwoerterGrammar))exercises[topic].push(...rows);
+
+import {kuechenhelferGrammar} from './exercises-kuechenhelfer';
+for(const[topic,rows]of Object.entries(kuechenhelferGrammar))exercises[topic].push(...rows);

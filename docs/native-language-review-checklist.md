@@ -874,9 +874,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Keyboard topic choice | Game topic selector focus ring now separate offset gap matching page ground. Actual AR/EN390 keyboard-focused selector pixels inspected, full readable ring. Choice/state/scoring unchanged. Spelling/article/input/submit/feedback/result/back/progress/help/error/label regressions retained. |
 | [ ] | Listening/dictation |56 original segments/Egyptian Arabic. Native editorial and real-device voice pending. No real invitation, public event, traffic setup, device test or commitment. |
 
+### List 88: precise references and visible filling
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-die-spitze-im-bild/` and linked dialogue | Amina/Paul name purple piping bag in bowl and curved perforated garlic press beside bulbs. Paul writes wrong article for Spritzbeutel, corrects only article, noun was right. Bowls/garlic not separate cards today. German reference/Arabic naturalness pending. |
+| [ ] | `/reading/alltag-a2-welche-davon/` and linked dialogue | Photos initially opposite order to word cards. Ambiguous die: Jana reaches for card, Rami meant press photo. Explicit photo/motif request, move only image first, then swap cards, read-and-point check. Short die not universally wrong. No cooking or external request. |
+| [ ] | `/reading/alltag-b1-farbe-ist-keine-zutatenliste/` and linked dialogue | Purple visible filling does not prove berry ingredient, taste, smell or food coloring. Composition unknown, not replacement guess. Nearby bulbs do not prove prior use with exact garlic, cleanliness or readiness. Shape descriptions and plurals, not recipe reconstruction/hygiene certification. |
+| [ ] | `/lessons/kuechenhelfer/` and `/credits/` | der Spritzbeutel/- and die Knoblauchpresse/Knoblauchpressen. كيس تزيين حلويات and هراسة توم. Whole purple bag from tied end to tip, secondary white bag partial. Whole curved rocker press, garlic context.800x600 real photos, no padding/branding/faces. Rocker category checked with German manufacturer Knoblauchpresse Wippe, not just image title. No exact model/material identification. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way-preposition/negation rows; all earlier saved keys preserved. streicht...durch/fragst/bewegt/kennen; seinen Artikel/ihre Anordnung/sein Wortheft/unsere Beschreibungen; in der/die Schüssel, neben dem/das Foto. Explanations both languages pending. |
+| [ ] | Game back-link keyboard focus | Focus gap now explicitly matches paper ground. AR/EN390 actual Tab/Shift+Tab focused pixels inspected, complete ring and44px target. Game choice/scoring unchanged, spelling/article/shared feedback/input/error/label/result regressions retained. |
+| [ ] | Listening/dictation |69 original segments with Egyptian Arabic translation. Real-device voices and native editorial review pending. Fictional private word exercises, no ingredient/allergen/cleanliness/use recommendation. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **831 photo nouns / 132 topics**, **279 reading texts / 1069 reading questions**, **41 core grammar topics / 2038 core grammar questions**, **219 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **833 photo nouns / 133 topics**, **282 reading texts / 1081 reading questions**, **41 core grammar topics / 2062 core grammar questions**, **222 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -888,7 +900,7 @@ This is an inventory, not completed review. Snapshot: **831 photo nouns / 132 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 75 · A2 103 · B1 71 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 76 · A2 104 · B1 72 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

@@ -264,3 +264,6 @@ readings.push(...malerwoerterTexts);
 
 import {signalwoerterTexts} from './reading-signalwoerter';
 readings.push(...signalwoerterTexts);
+
+import {kuechenhelferTexts} from './reading-kuechenhelfer';
+readings.push(...kuechenhelferTexts);

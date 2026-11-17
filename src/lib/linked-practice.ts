@@ -207,4 +207,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-die-breite-oeffnung',dialogue:'nicht-der-kegel'},
  {reading:'alltag-a2-die-ungeschickte-einladung',dialogue:'klarer-heisst-nicht-zugesagt'},
  {reading:'alltag-b1-gegenstand-und-befugnis',dialogue:'was-das-bild-nicht-belegt'},
+ {reading:'alltag-a1-die-spitze-im-bild',dialogue:'nur-den-artikel-aendern'},
+ {reading:'alltag-a2-welche-davon',dialogue:'das-foto-nicht-die-karte'},
+ {reading:'alltag-b1-farbe-ist-keine-zutatenliste',dialogue:'was-steckt-im-beutel'},
 ];
