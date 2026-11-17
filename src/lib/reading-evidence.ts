@@ -1628,3 +1628,24 @@ Object.assign(readingEvidence,{
     "eine begrenzte Sprachübung, keine technische Empfehlung für Küche oder Bad."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-eine-beere-viele-beeren": [
+    "Salma schreibt zuerst die Namen in der Einzahl.",
+    "Am Ende kommt jeweils ein n dazu.",
+    "Finn vergisst in Heidelbeere zuerst ein e.",
+    "Die Fotos bleiben auf dem Tisch, die Wortkarten liegen verdeckt daneben."
+  ],
+  "alltag-a2-der-rezeptvorschlag": [
+    "Seine Notiz ist nur ein Vorschlag.",
+    "Im Entwurf bleiben vorerst die Himbeeren stehen.",
+    "Vor dem Senden merken beide, dass ein gemeinsamer Chat mit allen Beteiligten fehlt.",
+    "Auch das hat sie am Ende des Gesprächs noch nicht getan."
+  ],
+  "alltag-b1-zwei-namen-ein-eintrag": [
+    "Im Wörterbuch wird Blaubeere bei der Fruchtbedeutung als Synonym zu Heidelbeere genannt.",
+    "Ihre Zählregel betrifft Einträge nach Bedeutung, nicht die Anzahl verschiedener Schreibweisen.",
+    "Ein gemeinsamer Wortteil macht aus zwei Wörtern noch keine Synonyme.",
+    "Die Fotos dienen als Anschauung für die Sprachübung."
+  ]
+});

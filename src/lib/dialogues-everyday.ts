@@ -16543,3 +16543,218 @@ Object.assign(dialogueEvidence,{
     "keine technische Kaufempfehlung."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "das-zweite-e",
+    "level": "A1",
+    "title": [
+      "Da fehlt ein e",
+      "ناقص حرف إي"
+    ],
+    "lines": [
+      [
+        "Finn",
+        "Ist Heidelbere so richtig geschrieben?",
+        "هايدلبيره بحرف إي واحد في الجزء الأخير صح كده؟"
+      ],
+      [
+        "Salma",
+        "Fast. In Beere stehen zwei e nebeneinander.",
+        "قربت. في جزء بيره فيه حرفين إي جنب بعض."
+      ],
+      [
+        "Finn",
+        "Danke, ich ergänze das zweite e.",
+        "شكرًا. هكمل حرف الإي التاني."
+      ],
+      [
+        "Salma",
+        "Lies auch die Mehrzahl.",
+        "اقرا الجمع كمان."
+      ],
+      [
+        "Finn",
+        "Die Heidelbeeren. Am Ende steht ein n.",
+        "دي هايدلبيرن. في الآخر حرف إن."
+      ],
+      [
+        "Salma",
+        "Bei Himbeeren ist das genauso.",
+        "في هيمبيرن الموضوع زيه."
+      ],
+      [
+        "Finn",
+        "Jetzt decke ich die Namen ab. Die Fotos bleiben sichtbar.",
+        "دلوقتي هغطي الأسامي. الصور تفضل باينة."
+      ]
+    ],
+    "q": [
+      [
+        "Was fehlt zuerst?",
+        "Das zweite e in Beere.",
+        "Der ganze Artikel der.",
+        "Der Name Salma."
+      ],
+      [
+        "Wie lautet die Mehrzahl von Heidelbeere?",
+        "Heidelbeeren.",
+        "Heidelbeeres.",
+        "Heidelbeerer."
+      ],
+      [
+        "Was deckt Finn ab?",
+        "Die Namen.",
+        "Die Fotos.",
+        "Den Tisch."
+      ]
+    ]
+  },
+  {
+    "id": "das-fragezeichen-bleibt",
+    "level": "A2",
+    "title": [
+      "Das Fragezeichen bleibt",
+      "علامة الاستفهام تفضل"
+    ],
+    "lines": [
+      [
+        "Jana",
+        "Soll ich Himbeeren im Rezept jetzt streichen?",
+        "أشطب توت العليق من الوصفة دلوقتي؟"
+      ],
+      [
+        "Nils",
+        "Noch nicht. Heidelbeeren am Rand war nur mein Vorschlag.",
+        "لسه لأ. توت أزرق على الهامش كان اقتراحي بس."
+      ],
+      [
+        "Jana",
+        "Dann frage ich die beiden anderen zuerst.",
+        "يبقى أسأل الاتنين التانيين الأول."
+      ],
+      [
+        "Nils",
+        "Haben wir dafür einen gemeinsamen Chat?",
+        "عندنا شات مشترك عشان كده؟"
+      ],
+      [
+        "Jana",
+        "Nein, ich werde ihnen später einzeln schreiben.",
+        "لأ هبعت لكل واحد لوحده بعدين."
+      ],
+      [
+        "Nils",
+        "Dann lasse ich das Fragezeichen stehen.",
+        "يبقى أسيب علامة الاستفهام."
+      ],
+      [
+        "Jana",
+        "Genau. Die Nachricht ist noch nicht verschickt und die Änderung nicht beschlossen.",
+        "بالظبط. الرسالة لسه ماتبعتتش والتغيير لسه ماتقررش."
+      ]
+    ],
+    "q": [
+      [
+        "Warum soll Jana das Wort noch nicht streichen?",
+        "Die Änderung ist noch nicht beschlossen.",
+        "Das Rezept wurde schon gekocht.",
+        "Niemand kann die Notiz lesen."
+      ],
+      [
+        "Wie will Jana später fragen?",
+        "Einzeln per Nachricht.",
+        "Über einen schon vorhandenen gemeinsamen Chat.",
+        "Gar nicht."
+      ],
+      [
+        "Was lässt Nils stehen?",
+        "Das Fragezeichen.",
+        "Eine bestätigte Bestellung.",
+        "Die Zahl der gekauften Packungen."
+      ]
+    ]
+  },
+  {
+    "id": "namen-oder-fruechte-zaehlen",
+    "level": "B1",
+    "title": [
+      "Was zählt unsere Liste?",
+      "قايمتنا بتعد إيه؟"
+    ],
+    "lines": [
+      [
+        "Oskar",
+        "Zählst du Blaubeere jetzt als eine weitere Frucht?",
+        "هتعدي بلاوبيره دلوقتي كفاكهة زيادة؟"
+      ],
+      [
+        "Rima",
+        "Nein. Hier ist es ein alternativer Name zu Heidelbeere.",
+        "لأ. هنا ده اسم بديل لهايدلبيره."
+      ],
+      [
+        "Oskar",
+        "Dann gehören beide Namen in denselben Eintrag?",
+        "يبقى الاسمين يخصوا نفس المدخل؟"
+      ],
+      [
+        "Rima",
+        "Für unsere Liste ja. Wir zählen nach Bedeutung, nicht nach Schreibweise.",
+        "لقايمتنا أيوه. بنعد حسب المعنى مش حسب شكل الكتابة."
+      ],
+      [
+        "Oskar",
+        "Und Himbeere bleibt getrennt?",
+        "وهيمبيره تفضل منفصلة؟"
+      ],
+      [
+        "Rima",
+        "Ja. Der gemeinsame Teil Beere allein bedeutet nicht, dass die Wörter Synonyme sind.",
+        "أيوه. الجزء المشترك بيره لوحده مش معناه إن الكلمات مرادفات."
+      ],
+      [
+        "Oskar",
+        "Schreib die Zählregel bitte über die Tabelle. Dann ist unsere Entscheidung verständlich.",
+        "اكتبي قاعدة العد فوق الجدول. كده قرارنا يبقى مفهوم."
+      ]
+    ],
+    "q": [
+      [
+        "Was ist Blaubeere hier?",
+        "Ein alternativer Name zu Heidelbeere.",
+        "Die Mehrzahl von Himbeere.",
+        "Der Name eines Fotoservices."
+      ],
+      [
+        "Wonach zählt diese Liste?",
+        "Nach Bedeutung.",
+        "Nur nach Wortlänge.",
+        "Nach den Farben der Buchstaben."
+      ],
+      [
+        "Was soll Rima über die Tabelle schreiben?",
+        "Die Zählregel.",
+        "Einen Qualitätsnachweis.",
+        "Eine Einkaufsempfehlung."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "das-zweite-e": [
+    "ich ergänze das zweite e.",
+    "Die Heidelbeeren.",
+    "Jetzt decke ich die Namen ab."
+  ],
+  "das-fragezeichen-bleibt": [
+    "Heidelbeeren am Rand war nur mein Vorschlag.",
+    "ich werde ihnen später einzeln schreiben.",
+    "Dann lasse ich das Fragezeichen stehen."
+  ],
+  "namen-oder-fruechte-zaehlen": [
+    "Hier ist es ein alternativer Name zu Heidelbeere.",
+    "Wir zählen nach Bedeutung, nicht nach Schreibweise.",
+    "Schreib die Zählregel bitte über die Tabelle."
+  ]
+});

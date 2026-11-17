@@ -450,3 +450,6 @@ for(const[topic,rows]of Object.entries(klangnamenGrammar))exercises[topic].push(
 
 import {raumfotosGrammar} from './exercises-raumfotos';
 for(const[topic,rows]of Object.entries(raumfotosGrammar))exercises[topic].push(...rows);
+
+import {beerennamenGrammar} from './exercises-beerennamen';
+for(const[topic,rows]of Object.entries(beerennamenGrammar))exercises[topic].push(...rows);

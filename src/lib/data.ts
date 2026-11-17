@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  beerennamen: 'Himbeere und Heidelbeere',
   raumfotos: 'Pizzaschneider und Duschkopf',
   klangnamen: 'Glockenspiel und Cabasa',
   pinnwoerter: 'Reißzwecke und Pinnwand',
@@ -137,6 +138,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  beerennamen: 'Raspberry and blueberry',
   raumfotos: 'Pizza cutter and showerhead',
   klangnamen: 'Glockenspiel and cabasa',
   pinnwoerter: 'Thumbtack and pinboard',

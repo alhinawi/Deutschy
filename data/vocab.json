@@ -559,6 +559,10 @@
   {
    "id": "raumfotos",
    "ar": "قطاعة بيتزا وراس الدش"
+  },
+  {
+   "id": "beerennamen",
+   "ar": "توت العليق وتوت أزرق"
   }
  ],
  "words": [
@@ -13360,6 +13364,36 @@
     "file": "5644300.jpg",
     "commons": "https://www.pexels.com/photo/stainless-steel-shower-head-on-white-brick-wall-5644300/",
     "author": "Polina",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "himbeere",
+   "topic": "beerennamen",
+   "art": "die",
+   "de": "Himbeere",
+   "plural": "Himbeeren",
+   "ar": "توت العليق",
+   "photo": {
+    "file": "7438528.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-shot-of-raspberries-7438528/",
+    "author": "Valeriya Kobzar",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "heidelbeere",
+   "topic": "beerennamen",
+   "art": "die",
+   "de": "Heidelbeere",
+   "plural": "Heidelbeeren",
+   "ar": "توت أزرق",
+   "photo": {
+    "file": "33102411.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-of-fresh-blueberries-full-frame-33102411/",
+    "author": "Natalia Sevruk",
     "license": "Pexels License",
     "modified": true
    }

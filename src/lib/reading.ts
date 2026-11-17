@@ -288,3 +288,6 @@ readings.push(...klangnamenTexts);
 
 import {raumfotosTexts} from './reading-raumfotos';
 readings.push(...raumfotosTexts);
+
+import {beerennamenTexts} from './reading-beerennamen';
+readings.push(...beerennamenTexts);

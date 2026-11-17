@@ -77,7 +77,7 @@ function Flash({ list }: { list: Word[] }) {
           <div className="rounded-xl bg-paper p-3"><dt className="text-xs text-muted">{t('صندوق 4 أو أعلى', 'Box 4 or higher')}</dt><dd className="text-2xl font-bold">{st.known}</dd></div>
         </dl>
         {q.length > 0 ? (
-          <button onClick={() => setDeck(q)} className="w-full rounded-full bg-accent py-3 font-bold text-accent-ink">{t(`ابدأ (${q.length} كارت)`, `Start (${q.length} cards)`)}</button>
+          <button onClick={() => setDeck(q)} className="w-full rounded-full bg-accent py-3 font-bold text-accent-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper">{t(`ابدأ (${q.length} كارت)`, `Start (${q.length} cards)`)}</button>
         ) : <p className="ar-title text-lg">{t('مفيش كروت مستحقة دلوقتي. ارجع بكرة.', 'No cards are due right now. Come back tomorrow.')}</p>}
       </div>
     );

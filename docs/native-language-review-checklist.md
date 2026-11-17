@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the ninety-fifth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the ninety-sixth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -970,9 +970,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Flash gloss wrapping | Revealed translation uses break-words for long fallback words. Native AR/EN320/390 keyboard front/back/Enter/Space/noXP and actual390 revealed pixels inspected. No schedule/score change. |
 | [ ] | Listening/dictation |60 original segments/Egyptian Arabic. Native editorial and real-device voice review pending. Practice labels not proficiency claims. |
 
+### List 96: berry forms, open recipe suggestion and synonym counting
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-eine-beere-viele-beeren/` and linked dialogue | Salma/Finn singular first, plural adds n in both. Double e in Beere, missing e corrected from model; photos stay visible while word cards covered, swap roles. Do not count fruit in dense separate photos. |
+| [ ] | `/reading/alltag-a2-der-rezeptvorschlag/` and linked dialogue | Jana initially misreads Nils' margin note as agreed change; still suggestion, Himbeeren remain in main draft. Reads proposed message aloud, no all-participant chat; individual messages planned later but not sent by ending. No agreement/purchase/quantity/preparation claim. |
+| [ ] | `/reading/alltag-b1-zwei-namen-ein-eintrag/` and linked dialogue | DWDS fruit sense Heidelbeere/Blaubeere synonym. Rima counts meaning-based entries, not universal vocabulary metric; adds alternative label without additional learned fruit. Himbeere remains separate, common Beere not synonym proof. Not exhaustive regional survey, botanical/wild-fruit guide, provenance/taste/quality claim. |
+| [ ] | `/lessons/beerennamen/` and `/credits/` | die Himbeere/Himbeeren (توت العليق); die Heidelbeere/Heidelbeeren (توت أزرق). Both DWDS editorial forms, blueberry fruit sense, not species identification. Valeriya Kobzar7438528 red hollow clustered fruit crop0,400-1800,1750; Natalia Sevruk33102411 blue round crown-tipped fruit crop76,0-1724,1236. Multiple central whole fruit/no people/brand/padding, real800x600. |
+| [ ] | Six appended grammar banks |24 article/accusative/present/possessive/two-way preposition/B1 connector rows; all older saved IDs retained. ergänzt/liest/zählt/tauschen; ihre/seinen/sein/unsere; über der/die Tabelle, neben dem/das Foto; weil/obwohl/damit/Bevor. Native German/Egyptian Arabic review pending. |
+| [ ] | Flash session start keyboard focus | Start button gets themed visible keyboard ring and page-ground gap. Native AR/EN320/390 focus check/pixels; card front/back Enter/Space/noXP regressions, session start doesn't score. No schedule changes. |
+| [ ] | Listening/dictation | Original linked sentences, exact German speech payload/source links checked. Native editorial/real-device voice review pending. Practice labels not proficiency claims. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **847 photo nouns / 140 topics**, **303 reading texts / 1165 reading questions**, **41 core grammar topics / 2230 core grammar questions**, **243 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **849 photo nouns / 141 topics**, **306 reading texts / 1177 reading questions**, **41 core grammar topics / 2254 core grammar questions**, **246 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -984,7 +996,7 @@ This is an inventory, not completed review. Snapshot: **847 photo nouns / 140 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 83 · A2 111 · B1 79 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 84 · A2 112 · B1 80 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
