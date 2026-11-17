@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  wasserbilder: 'Tauchmaske und Schwimmbrille',
   alltagsformen: 'Schöpfkelle und Nagelfeile',
   stiftundklammer: 'Wachsmalstift und Heftklammer',
   naturmuster: 'Kieselstein und Baumstumpf',
@@ -154,6 +155,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  wasserbilder: 'Diving mask and swimming goggles',
   alltagsformen: 'Ladle and nail file',
   stiftundklammer: 'Wax crayon and staple',
   naturmuster: 'Pebble and tree stump',

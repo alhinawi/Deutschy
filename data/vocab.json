@@ -627,6 +627,10 @@
   {
    "id": "alltagsformen",
    "ar": "المغرفة ومبرد الضوافر"
+  },
+  {
+   "id": "wasserbilder",
+   "ar": "ماسك الغطس ونضارة السباحة"
   }
  ],
  "words": [
@@ -13938,6 +13942,36 @@
     "file": "5238082.jpg",
     "commons": "https://www.pexels.com/photo/nail-polish-in-close-up-view-5238082/",
     "author": "Kaboompics",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "tauchmaske",
+   "topic": "wasserbilder",
+   "art": "die",
+   "de": "Tauchmaske",
+   "plural": "Tauchmasken",
+   "ar": "ماسك غطس",
+   "photo": {
+    "file": "15387675.jpg",
+    "commons": "https://www.pexels.com/photo/snorkle-mask-15387675/",
+    "author": "Ink Drop",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "schwimmbrille",
+   "topic": "wasserbilder",
+   "art": "die",
+   "de": "Schwimmbrille",
+   "plural": "Schwimmbrillen",
+   "ar": "نضارة سباحة",
+   "photo": {
+    "file": "8028342.jpg",
+    "commons": "https://www.pexels.com/photo/a-person-holding-a-blue-goggles-8028342/",
+    "author": "SHVETS production",
     "license": "Pexels License",
     "modified": true
    }
