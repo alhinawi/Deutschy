@@ -75,11 +75,11 @@ function One({ d, back }: { d: Dialogue; back: () => void }) {
         {d.lines.map(([who, de, ar], k) => (
           <li key={k} className={`flex ${speakers.indexOf(who) === 0 ? 'justify-start' : 'justify-end'}`}>
             <div className={`max-w-[88%] rounded-2xl border p-3 ${speakers.indexOf(who) === 0 ? 'border-line bg-card' : 'border-accent/40 bg-paper'}`}>
-              <p dir="ltr" className="num text-xs font-bold text-accent">{who}</p>
-              <div className="flex items-start gap-2">
-                <p dir="ltr" lang="de" className="de text-lg">{de}</p>
+              <div className="flex items-center justify-between gap-2">
+                <p dir="ltr" className="num text-xs font-bold text-accent">{who}</p>
                 <button onClick={() => speak(de)} aria-label={t('اسمع الجملة','Hear the sentence')} className="min-h-11 min-w-11 shrink-0 rounded-full border border-line p-2 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper"><Speaker /></button>
               </div>
+              <p dir="ltr" lang="de" className="de min-w-0 hyphens-auto text-lg [overflow-wrap:anywhere]">{de}</p>
               {tr && <p dir="rtl" lang="ar" className="ar-title mt-1 text-sm text-muted"><Mixed text={ar} /></p>}
             </div>
           </li>

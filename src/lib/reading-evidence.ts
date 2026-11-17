@@ -2006,3 +2006,24 @@ Object.assign(readingEvidence,{
     "Jule und Tarek geben keine Anleitung zum Schwimmen, Tauchen oder Atmen mit Ausrüstung."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-violette-knollen-helle-stuecke": [
+    "liegen Süßkartoffeln auf einer braunen Holzfläche.",
+    "Ihr schmales Ende zeigt nach links unten.",
+    "Unten erkennen die beiden einen Teil des Tellerrands.",
+    "Sie kaufen, schneiden und probieren nichts."
+  ],
+  "alltag-a2-stuecke-statt-erfundener-mehrzahl": [
+    "die Süßkartoffel, die Süßkartoffeln.",
+    "Beim Wort Ingwer lassen sie die Zeile für die Mehrzahl dagegen frei.",
+    "Das Wort Stück bekommt dabei die Mehrzahl Stücke",
+    "Eine genaue Gesamtzahl oder ein Gewicht haben Nele und Amir nicht bestimmt."
+  ],
+  "alltag-b1-sichtbare-schale-kein-guetesiegel": [
+    "Weder ein Erntedatum noch eine Bescheinigung über den Anbau ist dadurch belegt.",
+    "noch eine Lebensmittelprüfung vorgenommen.",
+    "keine Wirkungsversprechen, Dosierungen oder Empfehlungen für Beschwerden.",
+    "den gelernten Namen, die Beschreibung des sichtbaren Ausschnitts und offene Fragen"
+  ]
+});

@@ -285,4 +285,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-gelbe-maske-blaue-brille',dialogue:'die-brille-haengt-am-band'},
  {reading:'alltag-a2-zwei-glaeser-eine-brille',dialogue:'eine-brille-mit-zwei-bereichen'},
  {reading:'alltag-b1-kein-dichtigkeitstest',dialogue:'bilder-sind-kein-pruefzeugnis'},
+ {reading:'alltag-a1-violette-knollen-helle-stuecke',dialogue:'welches-bild-ist-violett'},
+ {reading:'alltag-a2-stuecke-statt-erfundener-mehrzahl',dialogue:'stuecke-ingwer-ohne-plural'},
+ {reading:'alltag-b1-sichtbare-schale-kein-guetesiegel',dialogue:'das-bild-liefert-kein-guetesiegel'},
 ];

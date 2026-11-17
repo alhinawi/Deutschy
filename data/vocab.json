@@ -631,6 +631,10 @@
   {
    "id": "wasserbilder",
    "ar": "ماسك الغطس ونضارة السباحة"
+  },
+  {
+   "id": "knollenbilder",
+   "ar": "البطاطا والجنزبيل"
   }
  ],
  "words": [
@@ -13972,6 +13976,36 @@
     "file": "8028342.jpg",
     "commons": "https://www.pexels.com/photo/a-person-holding-a-blue-goggles-8028342/",
     "author": "SHVETS production",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "suesskartoffel",
+   "topic": "knollenbilder",
+   "art": "die",
+   "de": "Süßkartoffel",
+   "plural": "Süßkartoffeln",
+   "ar": "بطاطا",
+   "photo": {
+    "file": "13059602.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-shot-of-sweet-potatoes-13059602/",
+    "author": "Marcelo Verfe",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "ingwer",
+   "topic": "knollenbilder",
+   "art": "der",
+   "de": "Ingwer",
+   "plural": "",
+   "ar": "جنزبيل",
+   "photo": {
+    "file": "10899474.jpg",
+    "commons": "https://www.pexels.com/photo/a-bowl-of-ginger-10899474/",
+    "author": "Engin Akyurt",
     "license": "Pexels License",
     "modified": true
    }

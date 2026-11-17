@@ -504,3 +504,6 @@ for(const[topic,rows]of Object.entries(alltagsformenGrammar))exercises[topic].pu
 
 import {wasserbilderGrammar} from './exercises-wasserbilder';
 for(const[topic,rows]of Object.entries(wasserbilderGrammar))exercises[topic].push(...rows);
+
+import {knollenbilderGrammar} from './exercises-knollenbilder';
+for(const[topic,rows]of Object.entries(knollenbilderGrammar))exercises[topic].push(...rows);

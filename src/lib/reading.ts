@@ -342,3 +342,6 @@ readings.push(...alltagsformenTexts);
 
 import {wasserbilderTexts} from './reading-wasserbilder';
 readings.push(...wasserbilderTexts);
+
+import {knollenbilderTexts} from './reading-knollenbilder';
+readings.push(...knollenbilderTexts);
