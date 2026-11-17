@@ -393,3 +393,6 @@ for(const[topic,rows]of Object.entries(vitrinenwoerterGrammar))exercises[topic].
 
 import {wortteilefachGrammar} from './exercises-wortteilefach';
 for(const[topic,rows]of Object.entries(wortteilefachGrammar))exercises[topic].push(...rows);
+
+import {bildausschnittGrammar} from './exercises-bildausschnitt';
+for(const[topic,rows]of Object.entries(bildausschnittGrammar))exercises[topic].push(...rows);

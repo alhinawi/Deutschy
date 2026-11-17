@@ -483,6 +483,10 @@
   {
    "id": "wortteilefach",
    "ar": "مطحنة بن وفتاحة فلين"
+  },
+  {
+   "id": "bildausschnitt",
+   "ar": "كرسي هزاز وأرجوحة شبك"
   }
  ],
  "words": [
@@ -12714,6 +12718,36 @@
     "file": "19753473.jpg",
     "commons": "https://www.pexels.com/photo/wing-corkscrew-with-bottle-opener-19753473/",
     "author": "Fco Javier Carriola",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "schaukelstuhl",
+   "topic": "bildausschnitt",
+   "art": "der",
+   "de": "Schaukelstuhl",
+   "plural": "Schaukelstühle",
+   "ar": "كرسي هزاز",
+   "photo": {
+    "file": "7561182.jpg",
+    "commons": "https://www.pexels.com/photo/rocking-chair-on-shabby-wooden-porch-7561182/",
+    "author": "Erik Mclean",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "haengematte",
+   "topic": "bildausschnitt",
+   "art": "die",
+   "de": "Hängematte",
+   "plural": "Hängematten",
+   "ar": "أرجوحة شبك",
+   "photo": {
+    "file": "18670081.jpg",
+    "commons": "https://www.pexels.com/photo/hammock-hanging-between-palm-trees-in-the-garden-of-a-seaside-resort-18670081/",
+    "author": "Aaron King",
     "license": "Pexels License",
     "modified": true
    }

@@ -24,7 +24,7 @@ export default function GameRunner({ game }: { game: string }) {
         <Link href="/games/" className="text-sm text-muted hover:text-ink">← {t('الألعاب', 'Games')}</Link>
         <label className="block max-w-full text-sm text-muted">
           {t('الموضوع', 'Topic')}{' '}
-          <select className="max-w-full rounded-lg border border-line bg-card px-2 py-1 text-ink" value={topic ?? ''} onChange={(e) => { setTopic(e.target.value || null); setRound((r) => r + 1); }}>
+          <select className="max-w-full rounded-lg border border-line bg-card px-2 py-1 text-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent" value={topic ?? ''} onChange={(e) => { setTopic(e.target.value || null); setRound((r) => r + 1); }}>
             <option value="">{t('كل الكلمات', 'All words')}</option>
             {topic&&!topics.some(tp=>tp.id===topic)&&<option value={topic}>{t("موضوع مش موجود","Unavailable topic")}</option>}
             {topics.map((tp) => <option key={tp.id} value={tp.id}>{topicTitles[tp.id]} · {topicName(tp.id, lang)}</option>)}

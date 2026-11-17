@@ -174,4 +174,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-bilder-in-der-mappe',dialogue:'foto-vorne-in-der-mappe'},
  {reading:'alltag-a2-zwei-umschlaege-fuer-fotos',dialogue:'rueckseiten-einzeln-abgleichen'},
  {reading:'alltag-b1-komposita-nicht-nur-das-ende',dialogue:'erst-das-gesamtwort-pruefen'},
+ {reading:'alltag-a1-zwei-bilder-fuer-die-wand',dialogue:'rahmen-bleiben-auf-dem-tisch'},
+ {reading:'alltag-a2-auf-dem-plan-nicht-im-garten',dialogue:'nur-eine-bilduebung'},
+ {reading:'alltag-b1-bildausschnitt-und-behauptung',dialogue:'eindruck-getrennt-notieren'},
 ];

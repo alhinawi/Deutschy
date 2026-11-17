@@ -231,3 +231,6 @@ readings.push(...vitrinenwoerterTexts);
 
 import {wortteilefachTexts} from './reading-wortteilefach';
 readings.push(...wortteilefachTexts);
+
+import {bildausschnittTexts} from './reading-bildausschnitt';
+readings.push(...bildausschnittTexts);

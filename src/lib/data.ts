@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  bildausschnitt: 'Schaukelstuhl und Hängematte',
   wortteilefach: 'Kaffeemühle und Korkenzieher',
   vitrinenwoerter: 'Zuckerdose und Nussknacker',
   fruehstuecksplatz: 'Brotkorb und Obstschale',
@@ -118,6 +119,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  bildausschnitt: 'Rocking chair and hammock',
   wortteilefach: 'Coffee grinder and corkscrew',
   vitrinenwoerter: 'Sugar bowl and nutcracker',
   fruehstuecksplatz: 'Bread basket and fruit bowl',

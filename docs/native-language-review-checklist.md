@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the seventy-sixth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the seventy-seventh practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -742,9 +742,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Question counter | Visible fraction now has localized explicit Question1of2 label. Current-question count differs intentionally from zero-based answered progress. Existing progress, spelling focus/required/help/error/readability, XP and duplicate guards preserved. |
 | [ ] | Listening/dictation |60 segments and Egyptian Arabic. Check compound spelling/pronunciation, article and complete-word explanations. Native editorial and actual device German voice pending. Vocabulary only, no use/drink-preparation instructions. |
 
+### List 77: rocking chair, hammock and limits of a photo
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zwei-bilder-fuer-die-wand/` and linked dialogue | Three images: chair/hammock/window. Window returned to folder; chair in white frame, hammock in brown. Both stay on table. Mother absent, Elif wants to ask first. Word cards beside frames, no picture hung yet. |
+| [ ] | `/reading/alltag-a2-auf-dem-plan-nicht-im-garten/` and linked dialogue | Fictional paper garden, not measured or real installation. Chair next to drawn house. Hammock image moves right edge to center for word space, no actual garden change. Only word-practice date recorded, no build/garden appointment. Images not glued. |
+| [ ] | `/reading/alltag-b1-bildausschnitt-und-behauptung/` and linked dialogue | Empty visible furniture is not proof of always-empty place. Limited captions versus personal impression on separate sheet. Ownership/use permission/location unknown. No stability, fastening or load assessment. Check register, scope and Egyptian Arabic. |
+| [ ] | `/lessons/bildausschnitt/` and `/credits/` | der Schaukelstuhl/Schaukelstühle, die Hängematte/Hängematten. Egyptian Arabic كرسي هزاز and أرجوحة شبك. Whole cushioned wooden rocking chair on porch; whole empty net hammock bed between trunks, attachment ropes leave frame. Distant people from original excluded. No brands/padding/illustrations. Photos are examples, not fictional home or real-use invitation. |
+| [ ] | Six appended grammar banks |24 article/accusative/present/connector/two-way-preposition/negation rows. Earlier IDs preserved. Location auf dem Tisch/in der Mappe versus destination auf den Tisch/in die Mappe. |
+| [ ] | Game topic picker | Clear2px accent keyboard-focus ring. Existing native-select semantics and selection behavior retained. Spelling focus/help/error/required/readability, question/progress labels, grading/XP and duplicate lock unchanged. |
+| [ ] | Listening/dictation |61 segments and Egyptian Arabic. Native editorial and actual device voice pending. No installation, use, load rating or safety advice. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **809 photo nouns / 121 topics**, **246 reading texts / 937 reading questions**, **41 core grammar topics / 1774 core grammar questions**, **186 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **811 photo nouns / 122 topics**, **249 reading texts / 949 reading questions**, **41 core grammar topics / 1798 core grammar questions**, **189 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -756,7 +768,7 @@ This is an inventory, not completed review. Snapshot: **809 photo nouns / 121 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 64 · A2 92 · B1 60 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 65 · A2 93 · B1 61 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

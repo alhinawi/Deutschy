@@ -1229,3 +1229,24 @@ Object.assign(readingEvidence,{
     "Etymologische Aussagen haben sie an diesem Nachmittag nicht recherchiert."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zwei-bilder-fuer-die-wand": [
+    "Das Fensterbild kommt zurück in die Mappe.",
+    "Elif legt das Bild mit dem Schaukelstuhl in den weißen Rahmen.",
+    "Elif möchte erst ihre Mutter nach dem Platz fragen.",
+    "Beide Rahmen bleiben zunächst auf dem Tisch."
+  ],
+  "alltag-a2-auf-dem-plan-nicht-im-garten": [
+    "Für einen erfundenen Garten entwerfen Nora und Cem einen einfachen Papierplan.",
+    "damit daneben Platz für das längere Wort bleibt.",
+    "Der Schaukelstuhl bleibt auf dem Plan neben dem Haus.",
+    "Nora schreibt das Datum der Wortübung auf die Rückseite. Einen Termin für Gartenarbeiten tragen sie nicht ein."
+  ],
+  "alltag-b1-bildausschnitt-und-behauptung": [
+    "Die Bilder zeigen nur einen begrenzten Ausschnitt in einem bestimmten Moment.",
+    "Das Wort leer beschreibt hier nur, dass im sichtbaren Sitz- oder Liegebereich keine Person zu sehen ist.",
+    "Deshalb schreibt Jens auf ein eigenes Blatt",
+    "Über Stabilität, Befestigung oder Belastbarkeit der Gegenstände haben die beiden ebenfalls keine Prüfung vorgenommen."
+  ]
+});

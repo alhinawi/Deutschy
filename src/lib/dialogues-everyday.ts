@@ -12458,3 +12458,218 @@ Object.assign(dialogueEvidence,{
     "über die Wortgeschichte behaupten wir heute nichts."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "rahmen-bleiben-auf-dem-tisch",
+    "level": "A1",
+    "title": [
+      "Noch nicht an die Wand",
+      "لسه مش على الحيطة"
+    ],
+    "lines": [
+      [
+        "Elif",
+        "Welches Bild nehmen wir: das Fenster oder den Schaukelstuhl?",
+        "ناخد أنهي صورة: الشباك ولا الكرسي الهزاز؟"
+      ],
+      [
+        "Nils",
+        "Den Schaukelstuhl und dazu die Hängematte. Das Fensterbild legen wir zurück.",
+        "الكرسي الهزاز ومعاه الأرجوحة الشبك. صورة الشباك نرجعها."
+      ],
+      [
+        "Elif",
+        "Ich nehme für den Schaukelstuhl den weißen Rahmen.",
+        "هاخد للكرسي الهزاز البرواز الأبيض."
+      ],
+      [
+        "Nils",
+        "Dann kommt die Hängematte in den braunen Rahmen.",
+        "يبقى الأرجوحة الشبك تتحط في البرواز البني."
+      ],
+      [
+        "Elif",
+        "Aber wir hängen noch nichts auf. Ich möchte erst Mama nach dem Platz fragen.",
+        "بس لسه مش هنعلق حاجة. عايزة أسأل ماما الأول عن المكان."
+      ],
+      [
+        "Nils",
+        "Gut, beide Rahmen bleiben auf dem Tisch. Die Mappe räume ich weg.",
+        "تمام، البروازين يفضلوا على الترابيزة. هشيل الملف."
+      ],
+      [
+        "Elif",
+        "Die Wortkarten lege ich daneben.",
+        "هحط كروت الكلمات جنبهم."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Bilder wählen sie?",
+        "Schaukelstuhl und Hängematte.",
+        "Nur das Fenster.",
+        "Fenster und Haustür."
+      ],
+      [
+        "Welcher Rahmen gehört zum Hängemattenbild?",
+        "Der braune.",
+        "Der weiße.",
+        "Ein gelber."
+      ],
+      [
+        "Was machen sie noch nicht?",
+        "Bilder aufhängen.",
+        "Die Mappe wegräumen.",
+        "Wortkarten danebenlegen."
+      ]
+    ]
+  },
+  {
+    "id": "nur-eine-bilduebung",
+    "level": "A2",
+    "title": [
+      "Das ist kein Aufbauplan",
+      "ده مش رسم تركيب"
+    ],
+    "lines": [
+      [
+        "Freundin",
+        "Hängt die Hängematte schon rechts im Garten?",
+        "الأرجوحة الشبك متعلقة خلاص على يمين الجنينة؟"
+      ],
+      [
+        "Cem",
+        "Nein, das hier ist nur eine Bildübung für einen erfundenen Garten.",
+        "لأ، ده هنا تدريب صور بس لجنينة خيالية."
+      ],
+      [
+        "Nora",
+        "Die Abstände sind nicht gemessen. Ich schreibe nicht maßstabsgetreu dazu.",
+        "المسافات مش مقاسة. هضيف مش بمقياس رسم."
+      ],
+      [
+        "Cem",
+        "Ich schiebe das Hängemattenbild in die Mitte, damit das Wort daneben passt.",
+        "هحرك صورة الأرجوحة الشبك للنص عشان الكلمة ينفع تتحط جنبها."
+      ],
+      [
+        "Freundin",
+        "Und der Schaukelstuhl bleibt neben dem gezeichneten Haus?",
+        "والكرسي الهزاز يفضل جنب البيت المرسوم؟"
+      ],
+      [
+        "Nora",
+        "Ja. Auf die Rückseite kommt nur das Datum unserer Wortübung.",
+        "أيوه. على الضهر يتحط بس تاريخ تدريب الكلمات بتاعنا."
+      ],
+      [
+        "Cem",
+        "Wir haben keinen Aufbau und keinen Gartentermin vereinbart.",
+        "مفيش تركيب ولا معاد شغل جنينة اتفقنا عليهم."
+      ]
+    ],
+    "q": [
+      [
+        "Sind die Abstände gemessen?",
+        "Nein.",
+        "Ja, alle genau.",
+        "Nur die des wirklichen Gartens."
+      ],
+      [
+        "Wohin schiebt Cem das Hängemattenbild?",
+        "In die Mitte.",
+        "In den Kühlschrank.",
+        "An einen echten Baum."
+      ],
+      [
+        "Was wurde nicht vereinbart?",
+        "Ein Aufbau oder Gartentermin.",
+        "Eine Wortübung.",
+        "Das Beschriften mit Wörtern."
+      ]
+    ]
+  },
+  {
+    "id": "eindruck-getrennt-notieren",
+    "level": "B1",
+    "title": [
+      "Ruhig wirkt es auf mich",
+      "أنا حاسه هادي"
+    ],
+    "lines": [
+      [
+        "Jens",
+        "Die leere Hängematte sieht ruhig aus. Schreiben wir, dass dort nie jemand vorbeikommt?",
+        "الأرجوحة الشبك الفاضية شكلها هادي. نكتب إن عمر ما حد بيعدي هناك؟"
+      ],
+      [
+        "Mira",
+        "Nein. Das Bild zeigt nur einen Ausschnitt in einem Moment.",
+        "لأ. الصورة بتبين جزء من المشهد في لحظة بس."
+      ],
+      [
+        "Jens",
+        "Dann beschreibe ich nur die leere Hängematte und den Schaukelstuhl auf der Veranda.",
+        "يبقى أوصف بس الأرجوحة الشبك الفاضية والكرسي الهزاز على الفرندا."
+      ],
+      [
+        "Mira",
+        "Deinen Eindruck von Ruhe kannst du getrennt aufschreiben.",
+        "انطباعك عن الهدوء ممكن تكتبه لوحده."
+      ],
+      [
+        "Jens",
+        "Also: Die Aufnahmen wirken auf mich ruhig. Das ist mein Eindruck, keine Aussage über den ganzen Ort.",
+        "يعني الصور بتديني إحساس بالهدوء. ده انطباعي، مش كلام عن المكان كله."
+      ],
+      [
+        "Mira",
+        "Genau. Auch Eigentum oder Nutzungserlaubnis sind aus diesen Bildern nicht geklärt.",
+        "بالظبط. الملكية أو الإذن بالاستخدام برضه مش واضحين من الصور دي."
+      ],
+      [
+        "Jens",
+        "Und wir haben weder Stabilität noch Belastbarkeit geprüft.",
+        "وكمان ماراجعناش الثبات ولا قدرة التحمل."
+      ]
+    ],
+    "q": [
+      [
+        "Was darf Jens getrennt notieren?",
+        "Seinen persönlichen Eindruck.",
+        "Eine erfundene Nutzungserlaubnis.",
+        "Eine bestätigte Traglast."
+      ],
+      [
+        "Was bleibt aus den Bildern ungeklärt?",
+        "Eigentum und Nutzungserlaubnis.",
+        "Dass es zwei Fotos gibt.",
+        "Dass ein Schaukelstuhl abgebildet ist."
+      ],
+      [
+        "Welche Prüfung haben sie nicht vorgenommen?",
+        "Stabilität und Belastbarkeit.",
+        "Ihre Texte zu lesen.",
+        "Eine Eindrucksnotiz zu schreiben."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "rahmen-bleiben-auf-dem-tisch": [
+    "Den Schaukelstuhl und dazu die Hängematte.",
+    "Dann kommt die Hängematte in den braunen Rahmen.",
+    "wir hängen noch nichts auf."
+  ],
+  "nur-eine-bilduebung": [
+    "Die Abstände sind nicht gemessen.",
+    "Ich schiebe das Hängemattenbild in die Mitte",
+    "Wir haben keinen Aufbau und keinen Gartentermin vereinbart."
+  ],
+  "eindruck-getrennt-notieren": [
+    "Deinen Eindruck von Ruhe kannst du getrennt aufschreiben.",
+    "Auch Eigentum oder Nutzungserlaubnis sind aus diesen Bildern nicht geklärt.",
+    "wir haben weder Stabilität noch Belastbarkeit geprüft."
+  ]
+});
