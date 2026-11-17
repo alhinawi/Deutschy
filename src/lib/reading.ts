@@ -189,3 +189,6 @@ readings.push(...teeregalTexts);
 
 import {backablageTexts} from './reading-backablage';
 readings.push(...backablageTexts);
+
+import {dekorundeTexts} from './reading-dekorunde';
+readings.push(...dekorundeTexts);

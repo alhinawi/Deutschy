@@ -132,4 +132,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-backablage',dialogue:'pinsel-auf-dem-tablett'},
  {reading:'alltag-a2-mass-oder-einkauf',dialogue:'keine-aktuelle-einkaufsliste'},
  {reading:'alltag-b1-rueckgabe-eintrag',dialogue:'erst-zurueck-dann-pruefen'},
+ {reading:'alltag-a1-dekorunde',dialogue:'platz-links-neben-dem-rahmen'},
+ {reading:'alltag-a2-ausdruck-im-rahmen',dialogue:'zwei-kopien-zwei-plaetze'},
+ {reading:'alltag-b1-deko-auf-zeit',dialogue:'nur-der-leere-rahmen'},
 ];

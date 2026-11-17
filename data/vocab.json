@@ -427,6 +427,10 @@
   {
    "id": "backablage",
    "ar": "كوباية معيار وفرشة معجنات"
+  },
+  {
+   "id": "dekorunde",
+   "ar": "برواز وفازة"
   }
  ],
  "words": [
@@ -12238,6 +12242,36 @@
     "file": "brush2.jpg",
     "commons": "https://www.pexels.com/photo/man-brushing-pastry-with-egg-wash-10307513/",
     "author": "Skyler Ewing",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "bilderrahmen",
+   "topic": "dekorunde",
+   "art": "der",
+   "de": "Bilderrahmen",
+   "plural": "-",
+   "ar": "برواز",
+   "photo": {
+    "file": "frame.jpg",
+    "commons": "https://www.pexels.com/photo/empty-photo-frame-on-desk-decorated-with-green-plants-5797991/",
+    "author": "Ann poan",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "vase",
+   "topic": "dekorunde",
+   "art": "die",
+   "de": "Vase",
+   "plural": "Vasen",
+   "ar": "فازة",
+   "photo": {
+    "file": "vase.jpg",
+    "commons": "https://www.pexels.com/photo/bouquet-of-flowers-in-glass-vase-set-on-small-wooden-table-17109130/",
+    "author": "Matheus Bertelli",
     "license": "Pexels License",
     "modified": true
    }

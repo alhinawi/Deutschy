@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the sixty-second practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the sixty-third practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -562,6 +562,18 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Article game | Explicit AR/EN prompt to choose definite article, each answer named Choose der/die/das in interface language. German answer not exposed in cue. Review unchanged scoring/correction behavior on old/new topics. |
 | [ ] | Listening/dictation | Check 58 segments and Egyptian Arabic. Actual German device voice and native review pending. Fictional organization only, no recipe quantities, food preparation/safety instruction, purchase or actual borrowing. |
 
+### List 63: picture frame, vase and a limited loan
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-dekorunde/` and `platz-links-neben-dem-rahmen` | Book moves to coffee table, empty vase left of frame. Lake photo stays in frame, boxes remain below. Check all 7 questions/evidence and Egyptian Arabic. |
+| [ ] | `/reading/alltag-a2-ausdruck-im-rahmen/` and `zwei-kopien-zwei-plaetze` | Second photo copy is additional, not damaged-copy replacement. Format checked, new print still beside frame, only vase moves to desk. First print remains unchanged. |
+| [ ] | `/reading/alltag-b1-deko-auf-zeit/` and `nur-der-leere-rahmen` | Lotte lends only empty frame for first reading evening, not vase or private photos. Own welcome text allowed. Frame returned without text, return recorded. Later use needs new question, no renewed permission yet. |
+| [ ] | `/lessons/dekorunde/` | der Bilderrahmen / same-form plural (-), die Vase / Vasen. Whole white blank frame among plants and whole glass vase with flowers. No people, logos, artwork or added bars. Photo demonstrates noun, not story contents. |
+| [ ] | `exercises-dekorunde.ts` | 24 append-only article/genus, dative, present, separable, two-way/dative-preposition and negation rows; previous saved identities unchanged. |
+| [ ] | Spelling game | Input now references existing AR/EN help via described-by and carries done keyboard hint. Check noun-only instruction, case/trim handling, umlaut requirement, correction and unchanged scoring. |
+| [ ] | Listening/dictation | Check all 60 segments and Egyptian Arabic. Native and actual German device voice pending. Fictional loan scope, not real permission, installation advice or legal rule. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -576,7 +588,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **781 photo nouns / 107 topics**, **204 reading texts / 769 reading questions**, **41 core grammar topics / 1438 core grammar questions**, **144 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **783 photo nouns / 108 topics**, **207 reading texts / 781 reading questions**, **41 core grammar topics / 1462 core grammar questions**, **147 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -588,7 +600,7 @@ This is an inventory, not completed review. Snapshot: **781 photo nouns / 107 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 50 · A2 78 · B1 46 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 51 · A2 79 · B1 47 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

@@ -9448,3 +9448,218 @@ Object.assign(dialogueEvidence,{
     "Die Rückgabe ist erledigt"
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "platz-links-neben-dem-rahmen",
+    "level": "A1",
+    "title": [
+      "Das Buch kommt auf den Tisch",
+      "الكتاب يتحط على الترابيزة"
+    ],
+    "lines": [
+      [
+        "Nele",
+        "Die Vase soll links neben den Bilderrahmen.",
+        "الفازة تتحط شمال البرواز."
+      ],
+      [
+        "Jona",
+        "Dort liegt noch mein Buch. Ich lege es auf den Couchtisch.",
+        "لسه كتابي هناك. هحطه على ترابيزة الصالون."
+      ],
+      [
+        "Nele",
+        "Jetzt ist genug Platz. Soll das Foto im Rahmen bleiben?",
+        "دلوقتي فيه مكان كفاية. الصورة تفضل في البرواز؟"
+      ],
+      [
+        "Jona",
+        "Ja. Das Foto vom See gefällt mir.",
+        "أيوه. صورة البحيرة عاجباني."
+      ],
+      [
+        "Nele",
+        "Blumen haben wir heute nicht. Die Vase bleibt leer.",
+        "معندناش ورد النهارده. الفازة تفضل فاضية."
+      ],
+      [
+        "Jona",
+        "Das ist in Ordnung. Die zwei Schachteln lassen wir unten.",
+        "عادي. نسيب العلبتين تحت."
+      ],
+      [
+        "Nele",
+        "Dann setzen wir uns aufs Sofa. Erzähl mir von dem See.",
+        "يبقى نقعد على الكنبة. احكي لي عن البحيرة."
+      ]
+    ],
+    "q": [
+      [
+        "Wohin soll die Vase?",
+        "Links neben den Bilderrahmen.",
+        "Unter das Sofa.",
+        "In eine Schachtel."
+      ],
+      [
+        "Was gefällt Jona?",
+        "Das Foto vom See.",
+        "Ein neues Buch im Rahmen.",
+        "Die kaputte Vase."
+      ],
+      [
+        "Was lassen sie unten?",
+        "Die zwei Schachteln.",
+        "Die Blumen.",
+        "Das Foto."
+      ]
+    ]
+  },
+  {
+    "id": "zwei-kopien-zwei-plaetze",
+    "level": "A2",
+    "title": [
+      "Die erste Kopie bleibt",
+      "النسخة الأولى تفضل"
+    ],
+    "lines": [
+      [
+        "Daria",
+        "Soll die neue Kopie das Foto auf deinem Schreibtisch ersetzen?",
+        "النسخة الجديدة هتبدل الصورة اللي على مكتبك؟"
+      ],
+      [
+        "Ruben",
+        "Nein. Eine bleibt in meiner Mappe, die andere kommt in den Flur.",
+        "لأ. واحدة تفضل في الملف بتاعي والتانية تبقى في الطرقة."
+      ],
+      [
+        "Daria",
+        "Der Ausdruck passt in den Bilderrahmen.",
+        "مقاس النسخة المطبوعة مناسب للبرواز."
+      ],
+      [
+        "Ruben",
+        "Danke. Ich setze ihn später ein.",
+        "شكرًا. هدخله فيه بعدين."
+      ],
+      [
+        "Daria",
+        "Und die Vase stellen wir auf die freie Ecke deines Schreibtischs?",
+        "والفازة نحطها على الركن الفاضي في مكتبك؟"
+      ],
+      [
+        "Ruben",
+        "Ja, nur die Vase. Alles andere im Flur bleibt stehen.",
+        "أيوه، الفازة بس. باقي الحاجات اللي في الطرقة تفضل مكانها."
+      ],
+      [
+        "Daria",
+        "Gut. Der Ausdruck liegt bis später neben dem Rahmen.",
+        "تمام. النسخة المطبوعة تفضل جنب البرواز لبعدين."
+      ]
+    ],
+    "q": [
+      [
+        "Was wird nicht ersetzt?",
+        "Die erste Kopie.",
+        "Eine kaputte Scheibe.",
+        "Ein verlorener Rahmen."
+      ],
+      [
+        "Wann setzt Ruben den Ausdruck ein?",
+        "Später.",
+        "Noch vor dem Gespräch.",
+        "Gar nicht, er wirft ihn weg."
+      ],
+      [
+        "Was bekommt einen neuen Platz?",
+        "Nur die Vase.",
+        "Alle Flurmöbel.",
+        "Die Mappe."
+      ]
+    ]
+  },
+  {
+    "id": "nur-der-leere-rahmen",
+    "level": "B1",
+    "title": [
+      "Die Vase bleibt bei mir",
+      "الفازة تفضل عندي"
+    ],
+    "lines": [
+      [
+        "Finn",
+        "Dürfen wir Bilderrahmen und Vase für den Leseabend mitnehmen?",
+        "ينفع ناخد البرواز والفازة لليلة القراية؟"
+      ],
+      [
+        "Lotte",
+        "Nur den leeren Rahmen, und nur für diesen Abend. Die Vase bleibt bei mir.",
+        "البرواز الفاضي بس ولليلة دي بس. الفازة تفضل عندي."
+      ],
+      [
+        "Esma",
+        "Wir möchten unseren eigenen Begrüßungstext darin zeigen.",
+        "عايزين نعرض جواه كلمة الترحيب اللي إحنا كاتبينها."
+      ],
+      [
+        "Lotte",
+        "Damit bin ich einverstanden. Meine privaten Fotos bleiben hier.",
+        "موافقة على ده. صوري الخاصة تفضل هنا."
+      ],
+      [
+        "Finn",
+        "Nach dem Abend bringe ich den Rahmen ohne den Text zurück.",
+        "بعد الليلة هرجع البرواز من غير النص."
+      ],
+      [
+        "Esma",
+        "Für einen weiteren Abend fragen wir dich wieder.",
+        "ولليلة تانية نسألك من جديد."
+      ],
+      [
+        "Lotte",
+        "Genau. Für später habe ich noch nichts zugesagt.",
+        "بالظبط. لسه ماوافقتش على حاجة لبعدين."
+      ]
+    ],
+    "q": [
+      [
+        "Wo bleibt die Vase?",
+        "Bei Lotte.",
+        "Im Leseraum.",
+        "Bei Finn auf dem Schreibtisch."
+      ],
+      [
+        "Welche Bilder dürfen sie auswählen?",
+        "Keine privaten Fotos von Lotte.",
+        "Alle Fotos aus Lottes Wohnung.",
+        "Ein Foto, das Finn heimlich mitnimmt."
+      ],
+      [
+        "Was sagt Lotte über später?",
+        "Sie hat noch nichts zugesagt.",
+        "Sie leiht den Rahmen dauerhaft.",
+        "Die Vase ist automatisch dabei."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "platz-links-neben-dem-rahmen": [
+    "links neben den Bilderrahmen.",
+    "Das Foto vom See gefällt mir.",
+    "Die zwei Schachteln lassen wir unten."
+  ],
+  "zwei-kopien-zwei-plaetze": [
+    "Nein. Eine bleibt in meiner Mappe",
+    "Ich setze ihn später ein.",
+    "Ja, nur die Vase."
+  ],
+  "nur-der-leere-rahmen": [
+    "Die Vase bleibt bei mir.",
+    "Meine privaten Fotos bleiben hier.",
+    "Für später habe ich noch nichts zugesagt."
+  ]
+});

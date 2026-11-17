@@ -935,3 +935,24 @@ Object.assign(readingEvidence,{
     "Die Rückgabe entscheidet nicht darüber, ob später eigene Geräte gekauft werden."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-dekorunde": [
+    "Neben dem Rahmen liegt ein Buch.",
+    "Jona nimmt das Buch und legt es auf den Couchtisch.",
+    "Die Vase bleibt leer, denn sie haben heute keine Blumen.",
+    "Das Foto bleibt im Bilderrahmen."
+  ],
+  "alltag-a2-ausdruck-im-rahmen": [
+    "Eine bleibt in seiner Mappe, die andere soll im Flur stehen.",
+    "Daria hat den gewünschten Ausdruck schon vorbereitet",
+    "Ruben stimmt nur diesem neuen Platz für die Vase zu.",
+    "der Ausdruck liegt noch neben dem Rahmen."
+  ],
+  "alltag-b1-deko-auf-zeit": [
+    "Lotte bestätigt: nur der Rahmen, nur für diesen Abend.",
+    "Lotte ist damit einverstanden.",
+    "Eine leere Zeile würde sonst leicht wie eine unerledigte Aufgabe wirken.",
+    "Esma möchte Lotte deshalb erneut fragen"
+  ]
+});

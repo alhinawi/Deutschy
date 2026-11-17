@@ -351,3 +351,6 @@ for(const[topic,rows]of Object.entries(teeregalGrammar))exercises[topic].push(..
 
 import {backablageGrammar} from './exercises-backablage';
 for(const[topic,rows]of Object.entries(backablageGrammar))exercises[topic].push(...rows);
+
+import {dekorundeGrammar} from './exercises-dekorunde';
+for(const[topic,rows]of Object.entries(dekorundeGrammar))exercises[topic].push(...rows);
