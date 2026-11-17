@@ -408,3 +408,6 @@ for(const[topic,rows]of Object.entries(bildregisterGrammar))exercises[topic].pus
 
 import {tischbittenGrammar} from './exercises-tischbitten';
 for(const[topic,rows]of Object.entries(tischbittenGrammar))exercises[topic].push(...rows);
+
+import {lesestellenGrammar} from './exercises-lesestellen';
+for(const[topic,rows]of Object.entries(lesestellenGrammar))exercises[topic].push(...rows);

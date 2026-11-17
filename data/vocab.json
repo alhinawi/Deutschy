@@ -503,6 +503,10 @@
   {
    "id": "tischbitten",
    "ar": "شفّاطة شرب وعود أكل"
+  },
+  {
+   "id": "lesestellen",
+   "ar": "علامة كتاب ومفصلة"
   }
  ],
  "words": [
@@ -12884,6 +12888,36 @@
     "file": "38643105.jpg",
     "commons": "https://www.pexels.com/photo/minimalist-dining-table-setting-with-chopsticks-38643105/",
     "author": "FENG HE",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "lesezeichen",
+   "topic": "lesestellen",
+   "art": "das",
+   "de": "Lesezeichen",
+   "plural": "-",
+   "ar": "علامة كتاب",
+   "photo": {
+    "file": "265078.jpg",
+    "commons": "https://www.pexels.com/photo/selective-focus-photography-of-opened-book-265078/",
+    "author": "Pixabay",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "scharnier",
+   "topic": "lesestellen",
+   "art": "das",
+   "de": "Scharnier",
+   "plural": "Scharniere",
+   "ar": "مفصلة",
+   "photo": {
+    "file": "17503605.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-of-hinge-on-wooden-planks-17503605/",
+    "author": "Brett Sayles",
     "license": "Pexels License",
     "modified": true
    }

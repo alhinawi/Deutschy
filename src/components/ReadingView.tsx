@@ -40,7 +40,7 @@ export default function ReadingView({ r }: { r: ReadingText }) {
       <Link href="/reading/" className="text-sm text-muted hover:text-ink">← {t('القراءة', 'Reading')}</Link>
       <div>
         <span className="num rounded-full bg-accent/10 px-2.5 py-0.5 text-xs font-bold text-accent">{r.level}</span>
-        <h1 className="de mt-2 text-4xl font-semibold" lang="de">{r.title[0]}</h1>
+        <h1 className="de mt-2 break-words text-4xl font-semibold" lang="de">{r.title[0]}</h1>
         <p className="ar-title text-xl text-muted">{r.title[1]}</p>
       </div>
       {(r.id.startsWith('c1-') || r.id.startsWith('c2-') || r.id.startsWith('micro-') || r.id.startsWith('alltag-')) && <p className="text-sm text-muted">{t('نص أصلي بموقف افتراضي للتدريب، مش تقرير عن واقعة حقيقية.', 'Original fictional practice scenario, not a report of real events.')}</p>}

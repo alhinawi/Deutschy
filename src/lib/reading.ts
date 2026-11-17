@@ -246,3 +246,6 @@ readings.push(...bildregisterTexts);
 
 import {tischbittenTexts} from './reading-tischbitten';
 readings.push(...tischbittenTexts);
+
+import {lesestellenTexts} from './reading-lesestellen';
+readings.push(...lesestellenTexts);

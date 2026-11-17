@@ -189,4 +189,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-das-falsche-wort-am-tisch',dialogue:'zum-saft-oder-zum-essen'},
  {reading:'alltag-a2-das-etui-bleibt-zu-hause',dialogue:'kein-weg-wegen-des-etuis'},
  {reading:'alltag-b1-zwei-versionen-einer-frage',dialogue:'hoeflich-ist-kein-materialtest'},
+ {reading:'alltag-a1-die-seite-wiederfinden',dialogue:'das-blaue-zeichen-im-buch'},
+ {reading:'alltag-a2-die-wortliste-wartet',dialogue:'erst-den-abschnitt-beenden'},
+ {reading:'alltag-b1-ein-wort-zwei-lesezeichen',dialogue:'band-im-buch-oder-browser'},
 ];

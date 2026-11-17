@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the eighty-first practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the eighty-second practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -802,9 +802,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Game result actions | Both controls have offset2px keyboard-focus rings; Tab moves from again to Games, focus screenshot inspected.44px minimum/wrapping retained; routes/grading/XP unchanged. All previous topic/spelling/progress states kept. |
 | [ ] | Listening/dictation |64 original segments/Egyptian Arabic. Native editorial and actual-device voice pending. No real staff message/order, trip, handover, material/hygiene/environment assessment. |
 
+### List 82: reading places and two bookmark meanings
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-die-seite-wiederfinden/` and linked dialogue | Fictional reading at home: hinge named from door detail, wordheft; blue paper bookmark keeps reading place. Karim notes Scharniere separately. After pause caption reread, plural note by notebook, bookmark in book; only section read, no real door changed. |
+| [ ] | `/reading/alltag-a2-die-wortliste-wartet/` and linked dialogue | Nora finishes a thought before private noun exercise, not whole book. Levin reviews notes while waiting. He adds das to Nora's list; she supplies Scharniere for his. Later start, unchanged task sequence, no fixed clock time. Cards in folder, bookmark in book, Levin takes own list. No hinge-function inspection. |
+| [ ] | `/reading/alltag-b1-ein-wort-zwei-lesezeichen/` and linked dialogue | Physical bookmark versus browser bookmark both valid. Context/example distinguishes meanings. Digital sentence only discussed, no browser action. Hinge on separate page outside two-meaning comparison. Shared folder does not merge meanings. More words not yet chosen. Long compound in heading now wraps at320px on reading/detail list. |
+| [ ] | `/lessons/lesestellen/` and `/credits/` | das Lesezeichen/- and das Scharnier/Scharniere. علامة كتاب and مفصلة. Visible ribbon bookmark ends on open book, attachment in binding naturally hidden. Whole hinge leaves/pin on weathered wood. Real faceless/unbranded crops, no padding. No inference of ownership/function/reading completion from photos. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way-preposition/negation rows; old saved IDs retained. zwischen den/die Seiten; auf dem/den Schreibtisch; ihr Wortheft/seinen Zettel/ihre Beispiele/unsere Liste. |
+| [ ] | Mobile navigation/headings | Game-back link44px minimum and keyboard ring; actual focus inspected. QA found long compound title overflow at320px; reading/detail-list headings now break long words; rerun passes. Result rings/44px/wrap, grading/XP, progress/input/topic states unchanged. |
+| [ ] | Listening/dictation |63 original segments/Egyptian Arabic. Native editorial and actual-device voice pending. No real browser mutation or door/function inspection. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **819 photo nouns / 126 topics**, **261 reading texts / 997 reading questions**, **41 core grammar topics / 1894 core grammar questions**, **201 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **821 photo nouns / 127 topics**, **264 reading texts / 1009 reading questions**, **41 core grammar topics / 1918 core grammar questions**, **204 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -816,7 +828,7 @@ This is an inventory, not completed review. Snapshot: **819 photo nouns / 126 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 69 · A2 97 · B1 65 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 70 · A2 98 · B1 66 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

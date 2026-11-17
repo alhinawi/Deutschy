@@ -1334,3 +1334,24 @@ Object.assign(readingEvidence,{
     "Das Ergebnis des Treffens sind präzisere Beispielsätze, keine Zusage eines Cafés und kein Testbericht über Trinkhalme oder Essstäbchen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-die-seite-wiederfinden": [
+    "Jule möchte die Seite nach einer kurzen Pause wiederfinden.",
+    "Sie nimmt ein blaues Lesezeichen aus Papier.",
+    "Karim schreibt derweil die Pluralform Scharniere auf einen Zettel.",
+    "Heute liest sie nur diesen Abschnitt."
+  ],
+  "alltag-a2-die-wortliste-wartet": [
+    "weil sie den Gedanken zu Ende lesen möchte.",
+    "Levin ergänzt das.",
+    "Ihr Lesezeichen bleibt im Buch",
+    "nicht die Reihenfolge der Aufgaben."
+  ],
+  "alltag-b1-ein-wort-zwei-lesezeichen": [
+    "Beide Verwendungen sind möglich",
+    "Diesen Satz behandeln sie nur als Sprachbeispiel.",
+    "weil es nicht zu dieser Bedeutungsgegenüberstellung gehört.",
+    "ob der jeweilige Zusammenhang erkennbar ist."
+  ]
+});

@@ -21,7 +21,7 @@ export default function ReadingBrowser(){
   <div className="flex flex-wrap items-center justify-between gap-3"><p className="num text-sm text-muted" role="status" aria-atomic="true">{t(`النصوص الظاهرة: ${filtered.length} من ${readings.length}`,`Showing ${filtered.length} of ${readings.length} texts`)}</p>{query&&<button type="button" onClick={()=>{setQuery('');searchInput.current?.focus()}} className="min-h-11 rounded-full border border-line px-4 py-2">{t('امسح البحث بس','Clear query only')}</button>}{(query||level!=='all')&&<button type="button" onClick={clear} className="min-h-11 rounded-full border border-line px-4 py-2">{t('امسح البحث والفلتر','Clear search and filter')}</button>}</div>
   {filtered.length===0?<p className="rounded-2xl border border-line bg-card p-5">{t('مفيش نصوص مطابقة. جرّب كلمة أقصر أو امسح البحث والفلتر.','No matching texts. Try a shorter word or clear the search and filter.')}</p>:<div className="grid gap-4 sm:grid-cols-2">{filtered.map(r=><Link key={r.id} href={`/reading/${r.id}/`} className="min-w-0 rounded-2xl border border-line bg-card p-5 hover:border-accent [overflow-wrap:anywhere]">
    <span dir="ltr" className="num rounded-full bg-accent/10 px-2.5 py-0.5 text-xs font-bold text-accent">{r.level}</span>
-   <h2 dir="ltr" lang="de" className="de mt-2 text-2xl font-semibold">{r.title[0]}</h2>
+   <h2 dir="ltr" lang="de" className="de mt-2 break-words text-2xl font-semibold">{r.title[0]}</h2>
    <p className="ar-title text-lg text-muted">{t(r.title[1],r.de[0].slice(0,70)+(r.de[0].length>70?'…':''))}</p>
   </Link>)}</div>}
  </section>

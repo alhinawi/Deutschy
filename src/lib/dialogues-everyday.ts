@@ -13533,3 +13533,218 @@ Object.assign(dialogueEvidence,{
     "keine Verfügbarkeit bestätigt."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "das-blaue-zeichen-im-buch",
+    "level": "A1",
+    "title": [
+      "Hier lese ich weiter",
+      "هكمل قراية هنا"
+    ],
+    "lines": [
+      [
+        "Jule",
+        "Unter dem Detailbild steht Scharnier. Was ist damit gemeint?",
+        "تحت صورة التفصيلة مكتوب مفصلة بالألماني. المقصود إيه؟"
+      ],
+      [
+        "Karim",
+        "Dieses Teil zwischen der Tür und dem Rahmen im Bild. Das Wort heißt das Scharnier.",
+        "الجزء ده بين الباب والإطار في الصورة. الكلمة مفصلة بالألماني بأداة التعريف المحايد."
+      ],
+      [
+        "Jule",
+        "Ich schreibe es ins Wortheft. Dann mache ich eine Pause.",
+        "هكتبها في كراسة الكلمات. بعد كده آخد استراحة."
+      ],
+      [
+        "Karim",
+        "Leg dein blaues Lesezeichen zwischen die Seiten.",
+        "حطي علامة الكتاب الزرقا بين الصفحات."
+      ],
+      [
+        "Jule",
+        "Gut, dann finde ich den Abschnitt wieder.",
+        "تمام، كده ألاقي الجزء تاني."
+      ],
+      [
+        "Karim",
+        "Ich notiere Scharniere als Plural auf diesem Zettel.",
+        "هكتب جمع مفصلة بالألماني على الورقة دي."
+      ],
+      [
+        "Jule",
+        "Nach der Pause lese ich nur hier weiter, nicht das ganze Buch.",
+        "بعد الاستراحة هكمل هنا بس مش الكتاب كله."
+      ]
+    ],
+    "q": [
+      [
+        "Worauf zeigt Karim?",
+        "Auf ein Teil im Türbild.",
+        "Auf ein echtes beschädigtes Fenster.",
+        "Auf einen Computerlink."
+      ],
+      [
+        "Was legt Jule zwischen die Seiten?",
+        "Ein blaues Lesezeichen.",
+        "Karims ganzes Heft.",
+        "Einen Türgriff."
+      ],
+      [
+        "Wann liest sie weiter?",
+        "Nach der Pause.",
+        "Während einer Reparatur.",
+        "Erst nach einer Buchbestellung."
+      ]
+    ]
+  },
+  {
+    "id": "erst-den-abschnitt-beenden",
+    "level": "A2",
+    "title": [
+      "Noch einen Gedanken lesen",
+      "أكمل الفكرة بس"
+    ],
+    "lines": [
+      [
+        "Nora",
+        "Warte bitte kurz. Ich möchte diesen Gedanken noch zu Ende lesen.",
+        "استنى شوية لو سمحت. عايزة أكمل الفكرة دي للآخر."
+      ],
+      [
+        "Levin",
+        "Kein Problem. Ich schaue inzwischen meine Notizen durch.",
+        "مفيش مشكلة. هبص في ملحوظاتي في الوقت ده."
+      ],
+      [
+        "Nora",
+        "Jetzt lege ich das Lesezeichen hierhin und schließe das Buch.",
+        "دلوقتي أحط علامة الكتاب هنا وأقفل الكتاب."
+      ],
+      [
+        "Levin",
+        "Bei Lesezeichen fehlt dir noch das. Bei mir fehlt der Plural von Scharnier.",
+        "عند كلمة علامة كتاب بالألماني ناقصك أداة التعريف المحايد. وعندي ناقص جمع مفصلة."
+      ],
+      [
+        "Nora",
+        "Der Plural ist Scharniere. Dann tauschen wir die Rollen.",
+        "الجمع مفصلات بالألماني. بعد كده نبدل الأدوار."
+      ],
+      [
+        "Levin",
+        "Unsere Aufgaben bleiben also in derselben Reihenfolge.",
+        "يبقى المهمات بتاعتنا تفضل بنفس الترتيب."
+      ],
+      [
+        "Nora",
+        "Genau. Wir haben nur etwas später angefangen, ohne feste Uhrzeit.",
+        "بالظبط. بدأنا متأخر شوية بس من غير ساعة ثابتة."
+      ]
+    ],
+    "q": [
+      [
+        "Was macht Levin während des Wartens?",
+        "Er schaut seine Notizen durch.",
+        "Er fährt wieder nach Hause.",
+        "Er untersucht ein Scharnier."
+      ],
+      [
+        "Welche Form fehlt in Levins Liste?",
+        "Die Pluralform von Scharnier.",
+        "Der Artikel bei Lesezeichen.",
+        "Noras Adresse."
+      ],
+      [
+        "Was ist unverändert?",
+        "Die Reihenfolge der Aufgaben.",
+        "Der tatsächliche Beginn.",
+        "Die leeren Einträge in beiden Listen."
+      ]
+    ]
+  },
+  {
+    "id": "band-im-buch-oder-browser",
+    "level": "B1",
+    "title": [
+      "Der Zusammenhang entscheidet",
+      "السياق هو اللي بيوضح"
+    ],
+    "lines": [
+      [
+        "Seda",
+        "Beim Wort Lesezeichen denke ich hier an ein Band im Buch.",
+        "عند كلمة علامة كتاب بالألماني بفكر هنا في شريط جوه كتاب."
+      ],
+      [
+        "Tom",
+        "Ich habe zuerst an einen gespeicherten Verweis im Browser gedacht.",
+        "أنا فكرت الأول في رابط محفوظ في المتصفح."
+      ],
+      [
+        "Seda",
+        "Wir ergänzen für beide Bedeutungen einen Beispielsatz. Keine davon ist allein deshalb falsch.",
+        "نضيف جملة مثال للمعنيين. ولا واحد فيهم غلط لمجرد الاختلاف ده."
+      ],
+      [
+        "Tom",
+        "Den digitalen Satz sprechen wir nur durch. Wir ändern keine Browserdaten.",
+        "الجملة الرقمية بنتكلم عنها بس. مش بنغير بيانات المتصفح."
+      ],
+      [
+        "Seda",
+        "Und Scharnier bekommt ein eigenes Blatt, außerhalb dieser Gegenüberstellung.",
+        "وكلمة مفصلة يبقالها ورقة لوحدها بره المقارنة دي."
+      ],
+      [
+        "Tom",
+        "Auch wenn später alles in derselben Mappe liegt, bleiben die Überschriften getrennt.",
+        "حتى لو كله اتحط بعدين في نفس الملف، العناوين تفضل منفصلة."
+      ],
+      [
+        "Seda",
+        "Für weitere Wörter suchen wir beim nächsten Mal. Noch ist keines ausgewählt.",
+        "الكلمات الزيادة ندور عليها المرة الجاية. لسه ماختارناش حاجة."
+      ]
+    ],
+    "q": [
+      [
+        "Was wollen sie zu beiden Bedeutungen hinzufügen?",
+        "Einen passenden Beispielsatz.",
+        "Eine bestätigte Browserbuchung.",
+        "Eine Reparaturanleitung."
+      ],
+      [
+        "Was verändern sie nicht?",
+        "Browserdaten.",
+        "Ihre handschriftlichen Beispiele.",
+        "Die Ordnung ihrer Blätter."
+      ],
+      [
+        "Was ist für das nächste Mal noch offen?",
+        "Welche weiteren Wörter sie wählen.",
+        "Ob zwei Lesezeichenbedeutungen besprochen wurden.",
+        "Wo die Blätter am Ende liegen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "das-blaue-zeichen-im-buch": [
+    "zwischen der Tür und dem Rahmen im Bild.",
+    "dein blaues Lesezeichen",
+    "Nach der Pause"
+  ],
+  "erst-den-abschnitt-beenden": [
+    "meine Notizen durch.",
+    "Bei mir fehlt der Plural von Scharnier.",
+    "in derselben Reihenfolge."
+  ],
+  "band-im-buch-oder-browser": [
+    "für beide Bedeutungen einen Beispielsatz.",
+    "Wir ändern keine Browserdaten.",
+    "Noch ist keines ausgewählt."
+  ]
+});
