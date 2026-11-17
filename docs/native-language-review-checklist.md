@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-first practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-second practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1042,9 +1042,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Shared choice keyboard focus | Photo-quiz shared Choice gets themed keyboard ring/page-ground gap. AR/EN320/390 computed focus, actual390pixels, Enter/Space answer and lock4choices,20XPperfect2wordround. No scoring/answer logic change. |
 | [ ] | Listening/dictation |66 original segments,264 exact German payload/source checks. Human editorial/real-device voice review pending; level labels not proficiency claims. |
 
+### List 102: Counting, targeted repetition and pictured arrangements
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-eins-und-drei/` and linked dialogue | Yara/Tim count one piggy bank and3 shuttlecocks on these pictures, not room inventory. Middle shuttlecock upside down, round head below. das Sparschwein/die Sparschweine and der Federball/die Federbälle, e versus umlaut+e. |
+| [ ] | `/reading/alltag-a2-nur-das-wort-noch-einmal/` and linked dialogue | Mara/Jonas ask to repeat only unclear word after drei, slower segmented practice then unbroken word, written ä. Most text understood, repetition not a global ability judgment. Human German pronunciation and Egyptian Arabic naturalness review pending. |
+| [ ] | `/reading/alltag-b1-anordnung-ist-keine-anleitung/` and linked dialogue | Leonie/Karim separate visible arrangement from storage advice, unknown arranger/reason. Piggy-bank slot does not prove present contents or owner/use habit. Plausible conjecture not automatically false, merely unproven here. No actual storage/financial recommendation. |
+| [ ] | `/lessons/bildanordnung/` and `/credits/` | das Sparschwein/Sparschweine (حصالة على شكل خنزير), der Federball/Federbälle (كورة ريشة), editorial DWDS forms. Ann Hannes4146005 1800x1200 crop500,230-1450,943 whole pink piggybank; Saif71.com7438729 crop350,200-1470,1040 three white shuttlecocks, full center upside-down silhouette, sides partly overlap.800x600 no people/brand/padding. |
+| [ ] | Six appended grammar banks |24 article/accusative/present/possessive/two-way preposition/B1 connector rows. Earlier saved IDs unchanged. sieht/liest/spricht/trennen, seine/ihren/seinen/unsere, neben dem/das Bild, auf den/die Karten, weil/Obwohl/damit/Bevor. |
+| [ ] | Dialogue Back button |44px minimum height and themed keyboard ring/page-ground gap. All3 new dialogues AR/EN320/390,12 keyboard navigation/axe states, Enter/Space back to searchable list, no XP mutation. No answer/scoring logic change. |
+| [ ] | Listening/dictation |66 original segments,264 exact German payload/source/answer checks. Human editorial/real-device voice review pending; level labels not proficiency claims. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **859 photo nouns / 146 topics**, **321 reading texts / 1237 reading questions**, **41 core grammar topics / 2374 core grammar questions**, **261 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **861 photo nouns / 147 topics**, **324 reading texts / 1249 reading questions**, **41 core grammar topics / 2398 core grammar questions**, **264 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1056,7 +1068,7 @@ This is an inventory, not completed review. Snapshot: **859 photo nouns / 146 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 89 · A2 117 · B1 85 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 90 · A2 118 · B1 86 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

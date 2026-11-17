@@ -17833,3 +17833,218 @@ Object.assign(dialogueEvidence,{
     "die sichtbaren Farben und Formen auf diesen Fotos."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "welches-bild-zeigt-drei",
+    "level": "A1",
+    "title": [
+      "Welches Bild zeigt drei?",
+      "أنهي صورة فيها تلاتة؟"
+    ],
+    "lines": [
+      [
+        "Tim",
+        "Auf diesem Bild sehe ich drei Federbälle.",
+        "في الصورة دي شايف تلات كور ريشة."
+      ],
+      [
+        "Yara",
+        "Und auf dem anderen steht ein rosa Sparschwein.",
+        "وفي التانية فيه حصالة وردي على شكل خنزير."
+      ],
+      [
+        "Tim",
+        "Der mittlere Federball steht auf dem Kopf.",
+        "كورة الريشة اللي في النص واقفة على راسها."
+      ],
+      [
+        "Yara",
+        "Wie lautet die Mehrzahl von Federball?",
+        "جمع فيدربال إيه؟"
+      ],
+      [
+        "Tim",
+        "Die Federbälle, mit ä.",
+        "دي فيدربيلّه بالأيه بنقطتين."
+      ],
+      [
+        "Yara",
+        "Richtig. Bei Sparschwein heißt es die Sparschweine.",
+        "صح. ومع شبارشفاين بتبقى دي شبارشفاينه."
+      ],
+      [
+        "Tim",
+        "Jetzt decken wir die Namen ab und tauschen die Rollen.",
+        "دلوقتي نغطي الأسامي ونبدل الأدوار."
+      ]
+    ],
+    "q": [
+      [
+        "Wie viele Federbälle nennt Tim?",
+        "Drei.",
+        "Einen.",
+        "Zehn."
+      ],
+      [
+        "Welcher Ball steht auf dem Kopf?",
+        "Der mittlere.",
+        "Nur der linke.",
+        "Keiner."
+      ],
+      [
+        "Was tun sie am Ende?",
+        "Sie decken die Namen ab und tauschen die Rollen.",
+        "Sie zählen Münzen.",
+        "Sie kaufen neue Bälle."
+      ]
+    ]
+  },
+  {
+    "id": "nur-nach-drei",
+    "level": "A2",
+    "title": [
+      "Nur das Wort nach drei",
+      "الكلمة اللي بعد تلاتة بس"
+    ],
+    "lines": [
+      [
+        "Jonas",
+        "Kannst du das bitte noch einmal vorlesen?",
+        "ممكن تقري ده تاني؟"
+      ],
+      [
+        "Mara",
+        "Gern. Ich beginne wieder beim ersten Satz.",
+        "حاضر. هبدأ تاني من أول جملة."
+      ],
+      [
+        "Jonas",
+        "Entschuldige, nur das Wort nach drei war unklar.",
+        "معلش الكلمة اللي بعد تلاتة بس ماكانتش واضحة."
+      ],
+      [
+        "Mara",
+        "Federbälle. Ich sage es noch einmal langsamer.",
+        "فيدربيلّه. هقولها تاني أبطأ."
+      ],
+      [
+        "Jonas",
+        "Federbälle. Hat die Mehrzahl ein ä?",
+        "فيدربيلّه. الجمع فيه أيه بنقطتين؟"
+      ],
+      [
+        "Mara",
+        "Ja, hier steht es. Den Rest soll ich normal weiterlesen?",
+        "أيوه أهي مكتوبة هنا. أكمل الباقي عادي؟"
+      ],
+      [
+        "Jonas",
+        "Ja, den ersten Satz habe ich verstanden.",
+        "أيوه أنا فهمت أول جملة."
+      ]
+    ],
+    "q": [
+      [
+        "Welches Wort braucht Jonas noch einmal?",
+        "Federbälle.",
+        "Sparschwein.",
+        "Zimmer."
+      ],
+      [
+        "Wie sagt Mara das Wort erneut?",
+        "Langsamer.",
+        "Nur schriftlich ohne zu sprechen.",
+        "Mit einem anderen Plural."
+      ],
+      [
+        "Was hat Jonas bereits verstanden?",
+        "Den ersten Satz.",
+        "Gar nichts.",
+        "Eine Preisliste."
+      ]
+    ]
+  },
+  {
+    "id": "was-zeigt-die-anordnung",
+    "level": "B1",
+    "title": [
+      "Was zeigt die Anordnung?",
+      "الترتيب بيبين إيه؟"
+    ],
+    "lines": [
+      [
+        "Leonie",
+        "Der mittlere Federball steht auf dem Kopf. Ist das eine Empfehlung zur Aufbewahrung?",
+        "كورة الريشة اللي في النص واقفة على راسها. دي توصية للتخزين؟"
+      ],
+      [
+        "Karim",
+        "Das Foto zeigt eine Position, aber keine belegte Empfehlung.",
+        "الصورة بتبين وضع بس مش توصية مثبتة."
+      ],
+      [
+        "Leonie",
+        "Dann lasse ich die erfundene Begründung weg.",
+        "يبقى أشيل السبب اللي من تأليفي."
+      ],
+      [
+        "Karim",
+        "Beim Sparschwein sehen wir auch nicht, wie viele Münzen darin liegen.",
+        "وعند الحصالة مش شايفين كام عملة جواها برضه."
+      ],
+      [
+        "Leonie",
+        "Wir können weder den Inhalt noch die besitzende Person bestimmen.",
+        "مانقدرش نحدد المحتوى ولا صاحب الحاجة."
+      ],
+      [
+        "Karim",
+        "Eine Vermutung kann trotzdem stimmen, nur beweist dieses Foto sie nicht.",
+        "تخمين ممكن برضه يكون صح بس الصورة دي مش بتثبته."
+      ],
+      [
+        "Leonie",
+        "Ich beschreibe deshalb nur die sichtbaren Merkmale und die offenen Fragen.",
+        "عشان كده هوصف الصفات الظاهرة والأسئلة المفتوحة بس."
+      ]
+    ],
+    "q": [
+      [
+        "Was belegt das Foto nicht?",
+        "Eine Empfehlung zur Aufbewahrung.",
+        "Die Position des mittleren Balls.",
+        "Die sichtbare Farbe."
+      ],
+      [
+        "Was bleibt beim Sparschwein unbekannt?",
+        "Der Inhalt und wem es gehört.",
+        "Dass es rosa erscheint.",
+        "Dass es einen sichtbaren Schlitz hat."
+      ],
+      [
+        "Was sagt Karim über eine Vermutung?",
+        "Sie kann stimmen, ohne durch dieses Foto bewiesen zu sein.",
+        "Sie ist immer falsch.",
+        "Sie muss als Tatsache im Text stehen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "welches-bild-zeigt-drei": [
+    "drei Federbälle.",
+    "Der mittlere Federball steht auf dem Kopf.",
+    "die Namen ab und tauschen die Rollen."
+  ],
+  "nur-nach-drei": [
+    "nur das Wort nach drei war unklar.",
+    "Ich sage es noch einmal langsamer.",
+    "den ersten Satz habe ich verstanden."
+  ],
+  "was-zeigt-die-anordnung": [
+    "aber keine belegte Empfehlung.",
+    "weder den Inhalt noch die besitzende Person bestimmen.",
+    "kann trotzdem stimmen, nur beweist dieses Foto sie nicht."
+  ]
+});

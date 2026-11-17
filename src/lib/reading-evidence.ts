@@ -1754,3 +1754,24 @@ Object.assign(readingEvidence,{
     "sichtbare Unterschiede: die blaue, teilweise gerollte Matte und die rote Kugel"
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-eins-und-drei": [
+    "Auf dem Foto ist aber nur ein Sparschwein zu sehen.",
+    "Sein runder Kopf ist unten.",
+    "die Mehrzahl im Heft nach: die Federbälle.",
+    "Sie zählen die Dinge auf diesen Bildern, nicht alle Dinge im Zimmer."
+  ],
+  "alltag-a2-nur-das-wort-noch-einmal": [
+    "ist aber bei der Mehrzahl von Federball unsicher.",
+    "Jonas bittet nur um das Wort nach drei.",
+    "Mara zeigt ihm die geschriebene Form mit ä.",
+    "sagt nicht, dass er den ganzen Text nicht versteht."
+  ],
+  "alltag-b1-anordnung-ist-keine-anleitung": [
+    "Leonie möchte daraus einen Satz über die richtige Aufbewahrung ableiten.",
+    "Wer sie so aufgestellt hat und aus welchem Grund, ist aus dem Bild allein nicht ersichtlich.",
+    "dass die Aufnahme keinen Blick ins Innere erlaubt.",
+    "Manche könnten zutreffen, sind hier aber nicht belegt."
+  ]
+});
