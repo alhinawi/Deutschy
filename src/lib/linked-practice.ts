@@ -138,4 +138,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-technikablage',dialogue:'schachtel-statt-ladegeraet'},
  {reading:'alltag-a2-name-kein-geraetetyp',dialogue:'nur-ein-besitzername'},
  {reading:'alltag-b1-rueckgabe-ohne-ersatzkauf',dialogue:'rueckgabe-frage-idee'},
+ {reading:'alltag-a1-reisefach',dialogue:'buerste-vorderes-fach'},
+ {reading:'alltag-a2-ein-zettel-zwei-seiten',dialogue:'auch-hinten-steht-etwas'},
+ {reading:'alltag-b1-notiz-von-der-vorwoche',dialogue:'alter-zettel-neue-frage'},
 ];

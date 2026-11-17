@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the sixty-fourth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the sixty-fifth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -586,6 +586,18 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Spelling and photo credits | Autocorrect off without grading change. CC BY4.0 credit links license plus source/author/crop status. Charger creator not supplied by source, explicitly recorded rather than inferred. |
 | [ ] | Listening/dictation | Check all 62 segments and Egyptian Arabic. Actual device German voice/native review pending. No voltage, battery chemistry, connection, charging, repair or electrical-safety directions. |
 
+### List 65: hairbrush, hair dryer and an old note
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-reisefach/` and linked dialogue | Brush packed, dryer stays at home. Book packed after being found under shirt, note left on table. Breakfast now, aunt visit in afternoon. Check all evidence and Egyptian Arabic. |
+| [ ] | `/reading/alltag-a2-ein-zettel-zwei-seiten/` and linked dialogue | Reverse side says dryer stays home; own packing note, no promise about host equipment. Brush packed but book not packed yet because Ivo still wants to read it. |
+| [ ] | `/reading/alltag-b1-notiz-von-der-vorwoche/` and linked dialogue | Old brush task completed during previous visit. Current dryer-ownership question unresolved, device at sister's home, no photo sent or owner identified. Check pronoun references and temporal distinctions. |
+| [ ] | `/lessons/reisefach/` and `/credits/` | die Haarbürste/Haarbürsten, der Haartrockner/same plural. Whole wooden palm hairbrush and wall-mounted dryer body, real faceless unbranded photos, crop only. Photos show noun forms, not the particular story objects or packing choices. Dryer cord extends out of crop. |
+| [ ] | Six appended grammar banks | 24 rows, article/dative/present/separable/two-way/dative-preposition/negation, appended after all previous rows. Saved identities retained. |
+| [ ] | Spelling | Invalid state exposed only after submitted wrong answer, false for unsubmitted or correct. No grading or storage change. |
+| [ ] | Listening/dictation | Check all 58 segments and Egyptian Arabic. Actual German device voice/native review pending. No appliance-use, electrical, care or safety directions. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -600,7 +612,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **785 photo nouns / 109 topics**, **210 reading texts / 793 reading questions**, **41 core grammar topics / 1486 core grammar questions**, **150 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **787 photo nouns / 110 topics**, **213 reading texts / 805 reading questions**, **41 core grammar topics / 1510 core grammar questions**, **153 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -612,7 +624,7 @@ This is an inventory, not completed review. Snapshot: **785 photo nouns / 109 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 52 · A2 80 · B1 48 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 53 · A2 81 · B1 49 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

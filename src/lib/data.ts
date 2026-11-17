@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  reisefach: 'Haarbürste und Haartrockner',
   technikablage: 'Batterien und Ladegerät',
   dekorunde: 'Bilderrahmen und Vase',
   backablage: 'Messbecher und Backpinsel',
@@ -106,6 +107,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  reisefach: 'Hairbrush and hair dryer',
   technikablage: 'Batteries and charger',
   dekorunde: 'Picture frame and vase',
   backablage: 'Measuring cup and pastry brush',

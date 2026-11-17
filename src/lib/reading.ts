@@ -195,3 +195,6 @@ readings.push(...dekorundeTexts);
 
 import {technikablageTexts} from './reading-technikablage';
 readings.push(...technikablageTexts);
+
+import {reisefachTexts} from './reading-reisefach';
+readings.push(...reisefachTexts);

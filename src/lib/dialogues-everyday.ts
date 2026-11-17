@@ -9878,3 +9878,218 @@ Object.assign(dialogueEvidence,{
     "Damit ist die Nachfrage beantwortet."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "buerste-vorderes-fach",
+    "level": "A1",
+    "title": [
+      "Nur die Bürste und das Buch",
+      "الفرشة والكتاب بس"
+    ],
+    "lines": [
+      [
+        "Joris",
+        "Hier ist deine Haarbürste vom Tisch am Fenster.",
+        "دي فرشة شعرك من على الترابيزة جنب الشباك."
+      ],
+      [
+        "Nele",
+        "Danke. Sie kommt in das vordere Fach.",
+        "شكرًا. هحطها في الجيب اللي قدام."
+      ],
+      [
+        "Joris",
+        "Und der Haartrockner im Schrank?",
+        "والسيشوار اللي في الدولاب؟"
+      ],
+      [
+        "Nele",
+        "Der bleibt hier. Ich brauche nur noch mein Buch.",
+        "هيفضل هنا. فاضل بس كتابي."
+      ],
+      [
+        "Joris",
+        "Es liegt unter dem T-Shirt auf dem Bett.",
+        "هو تحت التيشيرت اللي على السرير."
+      ],
+      [
+        "Nele",
+        "Jetzt ist es in der Tasche. Den Zettel lasse ich auf dem Tisch.",
+        "دلوقتي بقى في الشنطة. هسيب الورقة على الترابيزة."
+      ],
+      [
+        "Joris",
+        "Dann können wir jetzt frühstücken.",
+        "يبقى نقدر نفطر دلوقتي."
+      ]
+    ],
+    "q": [
+      [
+        "In welches Fach kommt die Haarbürste?",
+        "In das vordere Fach.",
+        "In das hintere Fach.",
+        "In kein Fach."
+      ],
+      [
+        "Wo liegt das Buch zuerst?",
+        "Unter dem T-Shirt.",
+        "Im Schrank.",
+        "Auf dem Küchenstuhl."
+      ],
+      [
+        "Was machen sie danach?",
+        "Frühstücken.",
+        "Einen Haartrockner kaufen.",
+        "Zur Tante fahren."
+      ]
+    ]
+  },
+  {
+    "id": "auch-hinten-steht-etwas",
+    "level": "A2",
+    "title": [
+      "Der Hinweis steht hinten",
+      "التنبيه مكتوب ورا"
+    ],
+    "lines": [
+      [
+        "Runa",
+        "Ich habe Kleidung, Buch und Haarbürste auf das Sofa gelegt.",
+        "حطيت الهدوم والكتاب وفرشة الشعر على الكنبة."
+      ],
+      [
+        "Ivo",
+        "Danke. Hinten steht noch: Der Haartrockner bleibt zu Hause.",
+        "شكرًا. ورا مكتوب كمان: السيشوار يفضل في البيت."
+      ],
+      [
+        "Runa",
+        "Das hatte ich nicht gesehen. Ich lege ihn in den Schrank zurück.",
+        "ماكنتش شفت ده. هرجعه في الدولاب."
+      ],
+      [
+        "Ivo",
+        "Die Bürste kommt in das kleine Innenfach.",
+        "الفرشة تتحط في الجيب الداخلي الصغير."
+      ],
+      [
+        "Runa",
+        "Schreib vorne einen Hinweis auf die Rückseite.",
+        "اكتب قدام تنبيه لضهر الورقة."
+      ],
+      [
+        "Ivo",
+        "Mache ich. Das Buch möchte ich erst noch lesen.",
+        "هعمل كده. عايز بس أقرا الكتاب الأول."
+      ],
+      [
+        "Runa",
+        "Dann bleibt die Tasche dafür noch offen.",
+        "يبقى الشنطة تفضل مفتوحة عشان ده."
+      ]
+    ],
+    "q": [
+      [
+        "Was hatte Runa nicht gesehen?",
+        "Die Notiz auf der Rückseite.",
+        "Das Sofa.",
+        "Die Kleidung."
+      ],
+      [
+        "Wohin kommt die Bürste?",
+        "In das kleine Innenfach.",
+        "Auf den Küchentisch.",
+        "Zurück in den Schrank."
+      ],
+      [
+        "Was macht Ivo vor dem Einpacken des Buches?",
+        "Er liest es noch.",
+        "Er verkauft es.",
+        "Er bringt es zu Runa."
+      ]
+    ]
+  },
+  {
+    "id": "alter-zettel-neue-frage",
+    "level": "B1",
+    "title": [
+      "Die Bürste ist längst angekommen",
+      "الفرشة وصلت من زمان"
+    ],
+    "lines": [
+      [
+        "Milan",
+        "Auf diesem Zettel steht eine Haarbürste für deine Schwester.",
+        "مكتوب في الورقة دي فرشة شعر لأختك."
+      ],
+      [
+        "Daria",
+        "Der ist von letzter Woche. Die Bürste habe ich ihr schon gegeben.",
+        "دي من الأسبوع اللي فات. أنا اديتها الفرشة خلاص."
+      ],
+      [
+        "Milan",
+        "Und die heutige Frage nach dem Haartrockner?",
+        "وسؤال النهارده عن السيشوار؟"
+      ],
+      [
+        "Daria",
+        "Ich möchte wissen, ob das Gerät bei meiner Schwester dir gehört.",
+        "عايزة أعرف الجهاز اللي عند أختي بتاعك ولا لأ."
+      ],
+      [
+        "Milan",
+        "Nach der Beschreibung bin ich unsicher. Ich würde gern erst ein Foto sehen.",
+        "مش متأكد من الوصف. أحب أشوف صورة الأول."
+      ],
+      [
+        "Daria",
+        "Dann notiere ich noch keinen Besitzer. Die Frage bleibt offen.",
+        "يبقى لسه مش هسجل صاحب للحاجة. السؤال يفضل مفتوح."
+      ],
+      [
+        "Milan",
+        "Mit Datum und Anlass lassen sich die beiden Zettel besser unterscheiden.",
+        "بالتاريخ والمناسبة نقدر نفرق بين الورقتين أسهل."
+      ]
+    ],
+    "q": [
+      [
+        "Wann hat Daria die Haarbürste übergeben?",
+        "Schon beim letzten Besuch.",
+        "Erst nach diesem Gespräch.",
+        "Noch gar nicht."
+      ],
+      [
+        "Was möchte Milan zuerst sehen?",
+        "Ein Foto.",
+        "Eine bezahlte Rechnung.",
+        "Einen Fahrplan."
+      ],
+      [
+        "Was notiert Daria noch nicht?",
+        "Einen Besitzer des Haartrockners.",
+        "Dass die Frage offen bleibt.",
+        "Dass der alte Zettel von letzter Woche ist."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "buerste-vorderes-fach": [
+    "Sie kommt in das vordere Fach.",
+    "Es liegt unter dem T-Shirt",
+    "Dann können wir jetzt frühstücken."
+  ],
+  "auch-hinten-steht-etwas": [
+    "Hinten steht noch",
+    "Die Bürste kommt in das kleine Innenfach.",
+    "Das Buch möchte ich erst noch lesen."
+  ],
+  "alter-zettel-neue-frage": [
+    "Die Bürste habe ich ihr schon gegeben.",
+    "erst ein Foto sehen.",
+    "Dann notiere ich noch keinen Besitzer."
+  ]
+});

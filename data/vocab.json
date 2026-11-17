@@ -435,6 +435,10 @@
   {
    "id": "technikablage",
    "ar": "بطارية وشاحن"
+  },
+  {
+   "id": "reisefach",
+   "ar": "فرشة شعر وسيشوار"
   }
  ],
  "words": [
@@ -12306,6 +12310,36 @@
     "file": "charger3.jpg",
     "commons": "https://www.pexels.com/photo/a-white-adapter-on-a-marble-surface-3921700/",
     "author": "Pexels contributor (name not listed)",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "haarbuerste",
+   "topic": "reisefach",
+   "art": "die",
+   "de": "Haarbürste",
+   "plural": "Haarbürsten",
+   "ar": "فرشة شعر",
+   "photo": {
+    "file": "4386886.jpg",
+    "commons": "https://www.pexels.com/photo/cotton-buds-and-hairbrushes-on-white-background-4386886/",
+    "author": "alleksana",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "haartrockner",
+   "topic": "reisefach",
+   "art": "der",
+   "de": "Haartrockner",
+   "plural": "-",
+   "ar": "سيشوار",
+   "photo": {
+    "file": "3758494.jpg",
+    "commons": "https://www.pexels.com/photo/photo-of-hairdryer-attached-to-the-wall-3758494/",
+    "author": "La Miko",
     "license": "Pexels License",
     "modified": true
    }

@@ -977,3 +977,24 @@ Object.assign(readingEvidence,{
     "Die Kaufidee lässt sie unverändert."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-reisefach": [
+    "Ihre Haarbürste liegt noch auf dem kleinen Tisch neben dem Fenster.",
+    "Er bleibt zu Hause.",
+    "Sie legt ihn auf den Tisch am Fenster.",
+    "Erst am Nachmittag fährt sie zu ihrer Tante."
+  ],
+  "alltag-a2-ein-zettel-zwei-seiten": [
+    "Runa liest nur diese Seite",
+    "Runa legt den Haartrockner wieder in den Schrank.",
+    "So fällt die zusätzliche Information leichter auf.",
+    "weil Ivo das Buch noch lesen möchte, bevor er es einpackt."
+  ],
+  "alltag-b1-notiz-von-der-vorwoche": [
+    "Damals hatte sie die Bürste tatsächlich mitgenommen und ihrer Schwester gegeben.",
+    "bei ihr im Gästezimmer liegt",
+    "Milan erkennt die Beschreibung nicht sicher wieder.",
+    "In diesem Gespräch wird noch kein Foto geschickt und kein Besitzer festgestellt."
+  ]
+});
