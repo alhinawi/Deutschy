@@ -258,3 +258,6 @@ readings.push(...mengenangabenTexts);
 
 import {klangwoerterTexts} from './reading-klangwoerter';
 readings.push(...klangwoerterTexts);
+
+import {malerwoerterTexts} from './reading-malerwoerter';
+readings.push(...malerwoerterTexts);

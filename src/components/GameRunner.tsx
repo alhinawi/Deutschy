@@ -140,7 +140,7 @@ function Rounds({ game, list, again }: Props) {
   const { w, opts } = qs[i];
   const xp = game === 'spelling' ? 15 : 10;
   const advance = (ok: boolean) => { if(locked.current)return;locked.current=true;award(ok ? xp : 0, w.id, ok); if (ok) setScore((s) => s + 1); };
-  const feedback=(ok:boolean)=><div id="spelling-feedback" role="status" className="space-y-3"><p>{ok?t('صح.','Correct.'):t('راجع الكلمة الصح.','Check the correct word.')}</p><p dir="ltr" lang="de" className="de break-words text-xl">{w.art} {w.de}</p><button type="button" onClick={next} className="w-full rounded-full bg-accent px-5 py-3 font-bold text-accent-ink">{i+1>=qs.length?t('النتيجة','Result'):t('التالي','Next')}</button></div>;
+  const feedback=(ok:boolean)=><div id="spelling-feedback" role="status" className="space-y-3"><p>{ok?t('صح.','Correct.'):t('راجع الكلمة الصح.','Check the correct word.')}</p><p dir="ltr" lang="de" className="de break-words text-xl">{w.art} {w.de}</p><button type="button" onClick={next} className="w-full rounded-full bg-accent px-5 py-3 font-bold text-accent-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper">{i+1>=qs.length?t('النتيجة','Result'):t('التالي','Next')}</button></div>;
 
   if (game === 'spelling') {
     const correct = typed.normalize('NFC').trim().toLocaleLowerCase('de') === w.de.normalize('NFC').toLocaleLowerCase('de');

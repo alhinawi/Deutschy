@@ -14393,3 +14393,218 @@ Object.assign(dialogueEvidence,{
     "noch nicht ausgewählt."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "auf-das-foto-zeigen",
+    "level": "A1",
+    "title": [
+      "Auf das Foto zeigen",
+      "نشاور على الصورة"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Die Farbrolle auf dem ersten Foto hat einen roten Griff.",
+        "رول الدهان في الصورة الأولى ليه إيد حمرا."
+      ],
+      [
+        "Sami",
+        "Und auf dem zweiten Foto sehe ich eine orange Farbwanne.",
+        "وفي الصورة التانية شايف صينية دهان برتقاني."
+      ],
+      [
+        "Lea",
+        "Suchst du dort einen Pinsel?",
+        "بتدور هناك على فرشة؟"
+      ],
+      [
+        "Sami",
+        "Ja, aber auf diesem Foto ist keiner zu sehen.",
+        "أيوه بس مفيش فرشة ظاهرة في الصورة دي."
+      ],
+      [
+        "Lea",
+        "Wir lesen die Wörter und zeigen auf die Bilder. Danach wechseln wir.",
+        "هنقرا الكلمات ونشاور على الصور. بعد كده نبدل."
+      ],
+      [
+        "Sami",
+        "Gut. Mein Heft stecke ich danach in meine Tasche.",
+        "تمام. كراستي هحطها بعد كده في شنطتي."
+      ],
+      [
+        "Lea",
+        "Die Fotos lassen wir auf dem Tisch.",
+        "هنسيب الصور على الترابيزة."
+      ]
+    ],
+    "q": [
+      [
+        "Was ist am Griff der Farbrolle auffällig?",
+        "Er ist rot.",
+        "Er ist orange.",
+        "Er fehlt auf dem Foto."
+      ],
+      [
+        "Was ist auf dem zweiten Foto nicht zu sehen?",
+        "Ein Pinsel.",
+        "Eine Farbwanne.",
+        "Die orange Wanne."
+      ],
+      [
+        "Was machen sie nach der ersten Runde?",
+        "Sie wechseln.",
+        "Sie streichen sofort eine Wand.",
+        "Sie werfen die Fotos weg."
+      ]
+    ]
+  },
+  {
+    "id": "nichts-mitnehmen",
+    "level": "A2",
+    "title": [
+      "Nichts mitnehmen",
+      "مش هناخد حاجة"
+    ],
+    "lines": [
+      [
+        "Ben",
+        "Mit Farbsachen meinst du auch meine Farbrolle und die Pinsel?",
+        "تقصدّي بحاجات الدهان الرول والفرش كمان؟"
+      ],
+      [
+        "Nora",
+        "Nein, nur die leere Farbwanne. Ich möchte sie fotografieren, nicht streichen.",
+        "لأ صينية الدهان الفاضية بس. عايزة أصورها مش أدهن."
+      ],
+      [
+        "Ben",
+        "Dann könnte ich die Wanne vorbeibringen.",
+        "يبقى ممكن أجيب الصينية عندك."
+      ],
+      [
+        "Nora",
+        "Ich komme lieber am Samstag zu dir und mache das Foto dort.",
+        "أفضل أجي لك يوم السبت وأصور هناك."
+      ],
+      [
+        "Ben",
+        "Gut. Dann bleibt alles hier. Eine Uhrzeit fehlt uns noch.",
+        "تمام. يبقى كل حاجة تفضل هنا. لسه ناقصنا نتفق على ساعة."
+      ],
+      [
+        "Nora",
+        "Ich notiere den neuen Plan deutlich: Foto bei Ben, nichts mitnehmen.",
+        "هكتب الخطة الجديدة بوضوح: الصورة عند بن ومش هناخد حاجة."
+      ],
+      [
+        "Ben",
+        "Ich räume die Wanne bis dahin wieder zu meinen Farbsachen.",
+        "هرجع الصينية وسط حاجات الدهان بتاعتي لحد وقتها."
+      ]
+    ],
+    "q": [
+      [
+        "Was will Nora mit der Wanne tun?",
+        "Sie fotografieren.",
+        "Damit eine Wand streichen.",
+        "Sie zusammen mit allen Pinseln abholen."
+      ],
+      [
+        "Wo soll das Foto entstehen?",
+        "Bei Ben.",
+        "In einem Paketlager.",
+        "Am selben Abend bei Nora."
+      ],
+      [
+        "Was ist noch nicht vereinbart?",
+        "Eine Uhrzeit.",
+        "Dass alles bei Ben bleibt.",
+        "Dass Nora nur die Wanne fotografieren will."
+      ]
+    ]
+  },
+  {
+    "id": "die-art-bleibt-unbekannt",
+    "level": "B1",
+    "title": [
+      "Die Art bleibt unbekannt",
+      "النوع لسه مش معروف"
+    ],
+    "lines": [
+      [
+        "Paul",
+        "Ich habe geschrieben, dass beide Fotos dieselbe Farbe zeigen.",
+        "كتبت إن الصورتين بيبينوا نفس الدهان."
+      ],
+      [
+        "Daria",
+        "Können wir aus dem sichtbaren Farbton wirklich auf dieselbe Zusammensetzung schließen?",
+        "نقدر فعلًا نستنتج من درجة اللون الظاهرة إن التركيبة واحدة؟"
+      ],
+      [
+        "Paul",
+        "Nein. Ich trenne die Beschreibungen und notiere die Art als unbekannt.",
+        "لأ. هفصل الوصفين وأكتب إن النوع مش معروف."
+      ],
+      [
+        "Daria",
+        "Und der Zustand der Farbrolle ist damit auch nicht geprüft.",
+        "وكده حالة رول الدهان ماتعملهاش فحص برضه."
+      ],
+      [
+        "Paul",
+        "Unser Heft bleibt eine Sprachhilfe, kein Materialbericht.",
+        "كراستنا تفضل مساعدة للغة مش تقرير عن المادة."
+      ],
+      [
+        "Daria",
+        "Genau. Die Formen Farbrollen und Farbwannen sagen auch nicht, wie viele Dinge jedes Foto zeigt.",
+        "بالظبط. وصيغ الجمع بالألماني مش بتقول كل صورة فيها كام حاجة."
+      ],
+      [
+        "Paul",
+        "Weitere Bilder suchen wir später aus.",
+        "هنختار صور تانية بعدين."
+      ]
+    ],
+    "q": [
+      [
+        "Was wird als unbekannt notiert?",
+        "Die Art des Farbmittels.",
+        "Ob das Heft deutsche Wörter enthält.",
+        "Ob Paul seine Beschreibung ändert."
+      ],
+      [
+        "Was wurde nicht geprüft?",
+        "Der Zustand der Farbrolle.",
+        "Ob zwei getrennte Beschreibungen geplant sind.",
+        "Ob die Formen Farbrollen und Farbwannen genannt wurden."
+      ],
+      [
+        "Was bleibt das Heft?",
+        "Eine Sprachhilfe.",
+        "Ein fertiger Materialbericht.",
+        "Ein verbindlicher Arbeitsauftrag zum Streichen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "auf-das-foto-zeigen": [
+    "Die Farbrolle auf dem ersten Foto hat einen roten Griff.",
+    "Ja, aber auf diesem Foto ist keiner zu sehen.",
+    "Danach wechseln wir."
+  ],
+  "nichts-mitnehmen": [
+    "Ich möchte sie fotografieren, nicht streichen.",
+    "Ich komme lieber am Samstag zu dir und mache das Foto dort.",
+    "Eine Uhrzeit fehlt uns noch."
+  ],
+  "die-art-bleibt-unbekannt": [
+    "Ich trenne die Beschreibungen und notiere die Art als unbekannt.",
+    "Und der Zustand der Farbrolle ist damit auch nicht geprüft.",
+    "Unser Heft bleibt eine Sprachhilfe, kein Materialbericht."
+  ]
+});

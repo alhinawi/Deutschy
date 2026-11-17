@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the eighty-second practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the eighty-sixth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -850,9 +850,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Keyboard spelling confirmation | Check focus gap now uses page-ground theme token rather than default white. Actual AR/EN390 focused pixels inspected. Scoring/state unchanged; existing44px/navigation/topic/input/progress/result/error/label and submit-ring regressions retained. |
 | [ ] | Listening/dictation |67 original segments/Egyptian Arabic. Native editorial and actual-device voice pending. No music recording, external messages, instrument test or commitment. |
 
+### List 86: picture descriptions and narrowed requests
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-der-rote-griff/` and linked dialogue | Original picture-only language exercise: red-handled roller in first image, orange tray with gray paint second. No brush visible in second, not a claim that none exists elsewhere. Read names/point then swap. Photos remain table, notebook to Sami's bag. No painting. |
+| [ ] | `/reading/alltag-a2-nur-die-wanne/` and linked dialogue | Broad borrowing request clarified to empty tray only, no roller/brushes/painting. Ben sets beside bag but does not pack. Later plan Nora photographs at Ben on Saturday, nothing transported. New note marked rather than old plan mistaken for completion. Tray returned to stored tools, no photo yet, exact time/background open. Fictional communication, not actual message/lending arrangement. |
+| [ ] | `/reading/alltag-b1-sichtbar-oder-vermutet/` and linked dialogue | Visible colors do not establish same paint composition/source. Two separate descriptions, type unknown. Photo surface not proof of recent use, dryness or readiness; language aid not material inspection/painting instructions. Reliable labeling/further information absent, unknowns remain questions. Plurals language forms not per-image count. Additional photos not selected. |
+| [ ] | `/lessons/malerwoerter/` and `/credits/` | die Farbrolle/Farbrollen and die Farbwanne/Farbwannen. رول دهان and صينية دهان. Whole red-handled roller in context tray, and whole orange tray with gray paint. Faceless/unbranded800x600 real crops, no padding. DWDS and trade-language sources checked; Duden compound pages unavailable. No material/readiness/capacity claim from images. |
+| [ ] | Six appended grammar banks |24 article/accusative/perfect/modal/two-way-preposition/connector rows, existing keys preserved. vorgelesen/gestellt/bestätigt/ersetzt; willst/muss/können/sollt; in der/die Tasche and neben der/die Tasche; weil/bevor/damit/obwohl. Both feedback languages pending editorial. |
+| [ ] | Feedback keyboard navigation | Next/Result in game word feedback now explicit theme-matched focus ring with offset. Actual AR/EN390 focused pixels inspected; shared article feedback gets same class. State/scoring/XP unchanged. Input/submit/progress/result/topic/back and correct/wrong regressions retained. |
+| [ ] | Listening/dictation |55 original segments/Egyptian Arabic. Actual-device voice and native-language review pending. No real message, loan, painting/safety recommendation, material test or commitment. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **827 photo nouns / 130 topics**, **273 reading texts / 1045 reading questions**, **41 core grammar topics / 1990 core grammar questions**, **213 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **829 photo nouns / 131 topics**, **276 reading texts / 1057 reading questions**, **41 core grammar topics / 2014 core grammar questions**, **216 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -864,7 +876,7 @@ This is an inventory, not completed review. Snapshot: **827 photo nouns / 130 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 73 · A2 101 · B1 69 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 74 · A2 102 · B1 70 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

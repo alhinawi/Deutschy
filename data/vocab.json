@@ -519,6 +519,10 @@
   {
    "id": "klangwoerter",
    "ar": "عصاية إيقاع وكاستنيت"
+  },
+  {
+   "id": "malerwoerter",
+   "ar": "رول وصينية دهان"
   }
  ],
  "words": [
@@ -13020,6 +13024,36 @@
     "file": "31466348.jpg",
     "commons": "https://www.pexels.com/photo/close-up-of-hand-holding-traditional-castanets-31466348/",
     "author": "Samantha Luna",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "farbrolle",
+   "topic": "malerwoerter",
+   "art": "die",
+   "de": "Farbrolle",
+   "plural": "Farbrollen",
+   "ar": "رول دهان",
+   "photo": {
+    "file": "5317151.jpg",
+    "commons": "https://www.pexels.com/photo/paint-roller-on-tray-5317151/",
+    "author": "Karl Solano",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "farbwanne",
+   "topic": "malerwoerter",
+   "art": "die",
+   "de": "Farbwanne",
+   "plural": "Farbwannen",
+   "ar": "صينية دهان",
+   "photo": {
+    "file": "6474464.jpg",
+    "commons": "https://www.pexels.com/photo/gray-paint-on-paint-roller-tray-6474464/",
+    "author": "Tima Miroshnichenko",
     "license": "Pexels License",
     "modified": true
    }

@@ -1418,3 +1418,24 @@ Object.assign(readingEvidence,{
     "nicht ein vollständiges Inventar oder einen Prüfbericht ersetzen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-der-rote-griff": [
+    "Die Farbrolle hat einen roten Griff.",
+    "Sami sucht zuerst einen Pinsel auf diesem Bild.",
+    "Das Heft kommt in Samis Tasche.",
+    "Heute lernen sie Wörter."
+  ],
+  "alltag-a2-nur-die-wanne": [
+    "Sie erklärt, dass sie nur die leere Farbwanne fotografieren möchte.",
+    "Danach vereinbaren sie, dass Nora am Samstag selbst zu ihm kommt und das Foto bei ihm macht.",
+    "Die genaue Uhrzeit für Samstag wollen sie später absprechen.",
+    "Ben räumt die Wanne wieder zu seinen Farbsachen."
+  ],
+  "alltag-b1-sichtbar-oder-vermutet": [
+    "aus den Bildern lässt sich weder die genaue Zusammensetzung noch eine gemeinsame Herkunft feststellen.",
+    "kennzeichnet die Art des Farbmittels als unbekannt.",
+    "keine Prüfung des Materials oder eine Anleitung zum Streichen ersetzen.",
+    "Die Pluralformen beschreiben die Sprache, nicht die Anzahl der Gegenstände auf jedem einzelnen Foto."
+  ]
+});

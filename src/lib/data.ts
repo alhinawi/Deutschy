@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  malerwoerter: 'Farbrolle und Farbwanne',
   klangwoerter: 'Schlägel und Kastagnette',
   mengenangaben: 'Messlöffel und Küchenwaage',
   tischaufgaben: 'Teigschaber und Platzdeckchen',
@@ -127,6 +128,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  malerwoerter: 'Paint roller and paint tray',
   klangwoerter: 'Percussion mallet and castanet',
   mengenangaben: 'Measuring spoon and kitchen scale',
   tischaufgaben: 'Dough scraper and placemat',

@@ -201,4 +201,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-die-beiden-koepfe',dialogue:'zeigen-statt-spielen'},
  {reading:'alltag-a2-die-reihenfolge-auf-dem-zettel',dialogue:'heute-war-luis-zuerst'},
  {reading:'alltag-b1-schalen-und-instrumente',dialogue:'was-wird-hier-gezaehlt'},
+ {reading:'alltag-a1-der-rote-griff',dialogue:'auf-das-foto-zeigen'},
+ {reading:'alltag-a2-nur-die-wanne',dialogue:'nichts-mitnehmen'},
+ {reading:'alltag-b1-sichtbar-oder-vermutet',dialogue:'die-art-bleibt-unbekannt'},
 ];

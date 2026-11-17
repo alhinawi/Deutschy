@@ -420,3 +420,6 @@ for(const[topic,rows]of Object.entries(mengenangabenGrammar))exercises[topic].pu
 
 import {klangwoerterGrammar} from './exercises-klangwoerter';
 for(const[topic,rows]of Object.entries(klangwoerterGrammar))exercises[topic].push(...rows);
+
+import {malerwoerterGrammar} from './exercises-malerwoerter';
+for(const[topic,rows]of Object.entries(malerwoerterGrammar))exercises[topic].push(...rows);
