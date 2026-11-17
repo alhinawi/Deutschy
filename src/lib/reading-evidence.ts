@@ -2174,3 +2174,24 @@ Object.assign(readingEvidence,{
     "ohne daraus eine genaue Uhrzeit abzuleiten."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-gruene-karten-im-kreis": [
+    "Auf der ersten Karte sehen sie längliche Zucchini auf einer Holzbank.",
+    "Sie sagt: Die Früchte sind grün und rund.",
+    "Beide Bilder zeigen grüne Früchte.",
+    "Sie wollen das Spiel morgen mit anderen Bildern wiederholen."
+  ],
+  "alltag-a2-zwei-pluralformen-auf-einem-blatt": [
+    "daneben die Mehrzahl Limetten.",
+    "Beide entscheiden, im Spiel beide Varianten gelten zu lassen.",
+    "Emil hatte zuerst nur ein c geschrieben.",
+    "Auf die Rückseite schreiben sie jeweils die Einzahl."
+  ],
+  "alltag-b1-spielregeln-gemeinsam-aendern": [
+    "Die Beschreibung grün passt zu beiden Motiven.",
+    "Weil beide zulässig sind, erweitern sie die Liste und berichtigen die Bewertung des betroffenen Beispiels.",
+    "Sie einigen sich darauf, die neue Variante erst nach einer kurzen Erklärung in der zweiten Runde zu verwenden.",
+    "Zum Abschluss schreiben sie zwei getrennte Abschnitte: gültige Wortformen und Regeln für die Beschreibung."
+  ]
+});

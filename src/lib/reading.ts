@@ -366,3 +366,6 @@ readings.push(...kleinebilderTexts);
 
 import {freizeitformenTexts} from './reading-freizeitformen';
 readings.push(...freizeitformenTexts);
+
+import {grueneformenTexts} from './reading-grueneformen';
+readings.push(...grueneformenTexts);

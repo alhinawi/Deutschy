@@ -63,7 +63,7 @@ export default function ReadingView({ r }: { r: ReadingText }) {
         {done ? (
           <div className="space-y-3">
             <p className="ar-title text-2xl">{t(`نتيجتك ${score} من ${r.q.length}`, `Your score: ${score} of ${r.q.length}`)}</p>
-            <button onClick={() => { setI(0); setPick(null); setScore(0);setRound(r=>r+1);locked.current=false; }} className="rounded-full bg-accent px-5 py-2 font-bold text-accent-ink">{t('أعد المحاولة', 'Try again')}</button>
+            <button onClick={() => { setI(0); setPick(null); setScore(0);setRound(r=>r+1);locked.current=false; }} className="min-h-11 rounded-full bg-accent px-5 py-2 font-bold text-accent-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-card">{t('أعد المحاولة', 'Try again')}</button>
           </div>
         ) : (
           <>
@@ -84,7 +84,7 @@ export default function ReadingView({ r }: { r: ReadingText }) {
             {pick !== null && <p role="status">{pick===0?t('صح.','Correct.'):t('راجع الإجابة الصح.','Check the correct answer.')}</p>}
             {pick !== null && evidence && <aside className="space-y-2 rounded-xl border border-line p-4" aria-label={t('دليل من النص','Evidence from the text')}><h3>{t('راجع الدليل من النص','Check the evidence from the text')}</h3><blockquote dir="ltr" lang="de" className="de text-lg">{evidence}</blockquote><p className="text-sm text-muted">{t('قارن معنى الجملة بالسؤال؛ الإجابة ممكن تعيد نفس المعنى بكلمات مختلفة.','Compare the sentence with the question; the answer may paraphrase the same meaning.')}</p></aside>}
             {pick !== null && (
-              <button onClick={() => { setI(i + 1); setPick(null);locked.current=false; }} className="rounded-full bg-accent px-5 py-2 font-bold text-accent-ink">{i + 1 >= r.q.length ? t('النتيجة', 'Result') : t('التالي', 'Next')}</button>
+              <button onClick={() => { setI(i + 1); setPick(null);locked.current=false; }} className="min-h-11 rounded-full bg-accent px-5 py-2 font-bold text-accent-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-card">{i + 1 >= r.q.length ? t('النتيجة', 'Result') : t('التالي', 'Next')}</button>
             )}
           </>
         )}

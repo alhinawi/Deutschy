@@ -663,6 +663,10 @@
   {
    "id": "freizeitformen",
    "ar": "كورة باسكت وعوامة"
+  },
+  {
+   "id": "grueneformen",
+   "ar": "كوسة وليمون أخضر"
   }
  ],
  "words": [
@@ -14244,6 +14248,36 @@
     "file": "33501296.jpg",
     "commons": "https://www.pexels.com/photo/colorful-inflatable-ring-floating-in-pool-33501296/",
     "author": "Sümeyye Acar",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "zucchini",
+   "topic": "grueneformen",
+   "art": "die",
+   "de": "Zucchini",
+   "plural": "Zucchini / Zucchinis",
+   "ar": "كوسة",
+   "photo": {
+    "file": "33171853.jpg",
+    "commons": "https://www.pexels.com/photo/fresh-green-zucchinis-on-outdoor-bench-33171853/",
+    "author": "Nati",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "limette",
+   "topic": "grueneformen",
+   "art": "die",
+   "de": "Limette",
+   "plural": "Limetten",
+   "ar": "ليمون أخضر",
+   "photo": {
+    "file": "7657210.jpg",
+    "commons": "https://www.pexels.com/photo/green-lime-fruits-on-yellow-surface-7657210/",
+    "author": "Cup of Couple",
     "license": "Pexels License",
     "modified": true
    }

@@ -22133,3 +22133,218 @@ Object.assign(dialogueEvidence,{
     "Und wir ergänzen keine ungeprüften Produkteigenschaften."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "form-statt-nur-farbe",
+    "level": "A1",
+    "title": [
+      "Jetzt bist du dran",
+      "دلوقتي دورك"
+    ],
+    "lines": [
+      [
+        "Mara",
+        "Ich beschreibe eine Karte: Die Früchte sind grün und rund.",
+        "هوصف كارت: الثمار خضرا ومدورة."
+      ],
+      [
+        "Sami",
+        "Du meinst die Limetten auf dem gelben Grund.",
+        "تقصد الليمون الأخضر على الخلفية الصفرا."
+      ],
+      [
+        "Mara",
+        "Richtig. Jetzt bist du dran.",
+        "صح. دلوقتي دورك."
+      ],
+      [
+        "Sami",
+        "Auf meiner Karte sieht man eine Holzbank.",
+        "على كارتي فيه دكة خشب."
+      ],
+      [
+        "Mara",
+        "Dann sind es die Zucchini.",
+        "يبقى دي الكوسة."
+      ],
+      [
+        "Sami",
+        "Bei der nächsten Runde nenne ich nur die Farbe.",
+        "في الجولة الجاية هقول اللون بس."
+      ],
+      [
+        "Mara",
+        "Die reicht hier nicht. Nenne bitte auch die Form.",
+        "اللون مش كفاية هنا. قول الشكل كمان."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Früchte meint Mara?",
+        "Die Limetten.",
+        "Die Äpfel.",
+        "Die Birnen."
+      ],
+      [
+        "Was sieht man auf Samis Karte?",
+        "Eine Holzbank.",
+        "Eine Treppe.",
+        "Einen Spiegel."
+      ],
+      [
+        "Was soll Sami zusätzlich nennen?",
+        "Die Form.",
+        "Einen Preis.",
+        "Eine Telefonnummer."
+      ]
+    ]
+  },
+  {
+    "id": "beide-zucchini-plurale-gelten",
+    "level": "A2",
+    "title": [
+      "Mit oder ohne s",
+      "بحرف إس أو من غيره"
+    ],
+    "lines": [
+      [
+        "Emil",
+        "Muss die Mehrzahl von Zucchini anders aussehen?",
+        "جمع تسوكيني لازم شكله يختلف؟"
+      ],
+      [
+        "Nora",
+        "Nein. Zucchini und Zucchinis sind beide möglich.",
+        "لأ. تسوكيني وتسوكينيس الاتنين ينفعوا."
+      ],
+      [
+        "Emil",
+        "Dann lassen wir beide Formen gelten.",
+        "يبقى نقبل الصيغتين."
+      ],
+      [
+        "Nora",
+        "Achte beim Schreiben auf cch.",
+        "خد بالك في الكتابة من سي سي إتش."
+      ],
+      [
+        "Emil",
+        "In meinem ersten Entwurf fehlte ein c.",
+        "في مسودتي الأولى كان ناقص سي."
+      ],
+      [
+        "Nora",
+        "Und bei Limette lautet die Mehrzahl Limetten.",
+        "وفي ليميته الجمع ليميتن."
+      ],
+      [
+        "Emil",
+        "Die Einzahl schreiben wir auf die Rückseite.",
+        "المفرد نكتبه على الضهر."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Formen sind im Spiel möglich?",
+        "Zucchini und Zucchinis.",
+        "Nur Zucchinis.",
+        "Nur Zucchini."
+      ],
+      [
+        "Welcher Buchstabe fehlte bei Emil?",
+        "Ein c.",
+        "Ein m.",
+        "Ein t."
+      ],
+      [
+        "Wohin schreiben sie die Einzahl?",
+        "Auf die Rückseite.",
+        "An die Tür.",
+        "In den Kalender."
+      ]
+    ]
+  },
+  {
+    "id": "neue-regel-ab-runde-zwei",
+    "level": "B1",
+    "title": [
+      "Ab der zweiten Runde",
+      "من الجولة التانية"
+    ],
+    "lines": [
+      [
+        "Liv",
+        "Meine Antwort Zucchini wurde nicht gezählt.",
+        "إجابتي تسوكيني ماتحسبتش."
+      ],
+      [
+        "Adam",
+        "Unsere Liste war zu eng. Beide Mehrzahlformen sind möglich.",
+        "قايمتنا كانت ضيقة. صيغتين الجمع ينفعوا."
+      ],
+      [
+        "Liv",
+        "Dann korrigieren wir genau dieses Ergebnis.",
+        "يبقى نصحح النتيجة دي بالتحديد."
+      ],
+      [
+        "Adam",
+        "Für eine schwierigere Runde könnten wir Hinweise auf den Hintergrund ausschließen.",
+        "لجولة أصعب ممكن نستبعد تلميحات الخلفية."
+      ],
+      [
+        "Liv",
+        "Sollen wir damit sofort anfangen?",
+        "نبدأ بده فورًا؟"
+      ],
+      [
+        "Adam",
+        "Erst in Runde zwei, nachdem wir die neue Regel erklärt haben.",
+        "في الجولة التانية بس بعد ما نشرح القاعدة الجديدة."
+      ],
+      [
+        "Liv",
+        "Gut. Wortformen und Beschreibungsregeln schreiben wir getrennt auf.",
+        "تمام. صيغ الكلمات وقواعد الوصف نكتبهم منفصلين."
+      ]
+    ],
+    "q": [
+      [
+        "Was war zu eng?",
+        "Die Lösungsliste.",
+        "Der Raum.",
+        "Die Holzbank."
+      ],
+      [
+        "Welche Hinweise sollen in der schwierigeren Runde nicht genügen?",
+        "Hinweise auf den Hintergrund.",
+        "Hinweise auf die Form.",
+        "Hinweise auf sichtbare Streifen."
+      ],
+      [
+        "Was passiert vor der zweiten Runde?",
+        "Die neue Regel wird erklärt.",
+        "Alle alten Ergebnisse werden gelöscht.",
+        "Die Karten werden verkauft."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "form-statt-nur-farbe": [
+    "Du meinst die Limetten auf dem gelben Grund.",
+    "Auf meiner Karte sieht man eine Holzbank.",
+    "Nenne bitte auch die Form."
+  ],
+  "beide-zucchini-plurale-gelten": [
+    "Zucchini und Zucchinis sind beide möglich.",
+    "In meinem ersten Entwurf fehlte ein c.",
+    "Die Einzahl schreiben wir auf die Rückseite."
+  ],
+  "neue-regel-ab-runde-zwei": [
+    "Unsere Liste war zu eng.",
+    "Hinweise auf den Hintergrund ausschließen.",
+    "nachdem wir die neue Regel erklärt haben."
+  ]
+});
