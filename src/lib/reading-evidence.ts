@@ -200,3 +200,24 @@ Object.assign(readingEvidence,{
     "Am Ende der Probephase möchten sie erneut besprechen, ob die Abmachung für sie funktioniert."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-haekeln": [
+    "Auf dem Tisch liegen gelbe Wolle und eine Häkelnadel.",
+    "Ihre Freundin Sara kommt am Samstag.",
+    "Sie möchte zuerst ein kleines Stück häkeln.",
+    "Der Korb steht neben dem Sofa."
+  ],
+  "alltag-a2-stickrahmen": [
+    "Nabil darf deshalb nur den kleinen ausleihen.",
+    "Bevor er ihn mitnimmt, macht er ein Foto vom Rahmen, damit er ihn später nicht mit einem anderen verwechselt.",
+    "Nabil probiert das Einspannen an einem anderen Rest aus.",
+    "Wenn er noch nicht fertig ist, will er vorher nach einer Verlängerung fragen."
+  ],
+  "alltag-b1-handarbeitsrunde": [
+    "Andere kommen gerade deshalb, weil sie ohne Zeitdruck etwas ausprobieren können.",
+    "Am Ende kann jede Person einen Fortschritt, eine offene Frage oder einen misslungenen Versuch zeigen.",
+    "Geliehene Häkelnadeln und Stickrahmen sollen weiterhin den jeweiligen Personen zugeordnet bleiben; die Runde ist kein gemeinsamer Materialbestand.",
+    "Die Gruppe ergänzt deshalb eine freiwillige Liste mit Projekttiteln, aber ohne Fristen oder Vergleichspunkte."
+  ]
+});

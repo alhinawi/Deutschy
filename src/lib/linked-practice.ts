@@ -27,4 +27,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-lesezeichen',dialogue:'buch-morgen-abend'},
  {reading:'alltag-a2-buchstuetzen',dialogue:'lupe-schublade'},
  {reading:'alltag-b1-leseecke',dialogue:'leseecke-pausenzettel'},
+ {reading:'alltag-a1-haekeln',dialogue:'haekeln-erster-schritt'},
+ {reading:'alltag-a2-stickrahmen',dialogue:'kleinen-rahmen-leihen'},
+ {reading:'alltag-b1-handarbeitsrunde',dialogue:'handarbeit-ohne-frist'},
 ];

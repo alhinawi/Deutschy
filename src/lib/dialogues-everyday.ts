@@ -1923,3 +1923,218 @@ Object.assign(dialogueEvidence,{
     "Am Ende der zwei Wochen prüfen wir, ob das für uns funktioniert."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "haekeln-erster-schritt",
+    "level": "A1",
+    "title": [
+      "Erst ein kleines Stück",
+      "حتة صغيرة الأول"
+    ],
+    "lines": [
+      [
+        "Mila",
+        "Kannst du mir morgen das Häkeln zeigen?",
+        "ممكن توريني الكروشيه بكرة؟"
+      ],
+      [
+        "Sara",
+        "Ja, am Samstag. Hast du schon Wolle und eine Häkelnadel?",
+        "آه، يوم السبت. عندك صوف وإبرة كروشيه؟"
+      ],
+      [
+        "Mila",
+        "Ja. Die Wolle ist gelb, der Griff an der Nadel grau.",
+        "آه. الصوف أصفر ومقبض الإبرة رمادي."
+      ],
+      [
+        "Sara",
+        "Was möchtest du machen?",
+        "عايزة تعملي إيه؟"
+      ],
+      [
+        "Mila",
+        "Zuerst nur ein kleines Stück, keine Tasche.",
+        "في الأول حتة صغيرة بس، مش شنطة."
+      ],
+      [
+        "Sara",
+        "Gut. Leg die Sachen in den Korb, dann finden wir sie morgen.",
+        "تمام. حطي الحاجات في الباسكت عشان نلاقيها بكرة."
+      ],
+      [
+        "Mila",
+        "Der Korb steht neben dem Sofa.",
+        "الباسكت جنب الكنبة."
+      ]
+    ],
+    "q": [
+      [
+        "Wann hilft Sara?",
+        "Am Samstag.",
+        "Am Freitag.",
+        "Am Sonntag."
+      ],
+      [
+        "Was ist grau?",
+        "Der Griff an der Nadel.",
+        "Die Wolle.",
+        "Das Sofa."
+      ],
+      [
+        "Was möchte Mila zuerst machen?",
+        "Ein kleines Stück.",
+        "Eine Tasche.",
+        "Einen Mantel."
+      ]
+    ]
+  },
+  {
+    "id": "kleinen-rahmen-leihen",
+    "level": "A2",
+    "title": [
+      "Nur den kleinen Rahmen",
+      "الطارة الصغيرة بس"
+    ],
+    "lines": [
+      [
+        "Nabil",
+        "Kann ich einen deiner Stickrahmen ausleihen?",
+        "ممكن أستلف طارة تطريز من عندك؟"
+      ],
+      [
+        "Eva",
+        "Den kleinen gern. Den großen brauche ich für meine Tischdecke.",
+        "الصغيرة طبعاً. الكبيرة محتاجاها لمفرش الترابيزة."
+      ],
+      [
+        "Nabil",
+        "Danke. Ich bringe ihn am Montagabend zurück.",
+        "شكراً. هرجعهالك يوم الاتنين بالليل."
+      ],
+      [
+        "Eva",
+        "Falls du länger brauchst, frag bitte vorher.",
+        "لو محتاج وقت أطول، اسأل قبلها لو سمحت."
+      ],
+      [
+        "Nabil",
+        "Darf meine Schwester den Rahmen danach nehmen?",
+        "ينفع أختي تاخد الطارة بعدي؟"
+      ],
+      [
+        "Eva",
+        "Sie soll mich selbst fragen. Ich weiß noch nicht, wann ich ihn wieder brauche.",
+        "هي تسألني بنفسها. لسه مش عارفة هحتاجها تاني إمتى."
+      ],
+      [
+        "Nabil",
+        "Gut, ich sage ihr Bescheid.",
+        "تمام، هبلغها."
+      ]
+    ],
+    "q": [
+      [
+        "Welchen Rahmen verleiht Eva?",
+        "Den kleinen.",
+        "Den großen.",
+        "Keinen."
+      ],
+      [
+        "Wann will Nabil ihn zurückbringen?",
+        "Am Montagabend.",
+        "Am Montagmorgen.",
+        "Am Sonntagabend."
+      ],
+      [
+        "Was soll seine Schwester tun?",
+        "Eva selbst fragen.",
+        "Den Rahmen einfach mitnehmen.",
+        "Nabil einen neuen Rahmen kaufen."
+      ]
+    ]
+  },
+  {
+    "id": "handarbeit-ohne-frist",
+    "level": "B1",
+    "title": [
+      "Ein Ziel ist keine Pflicht",
+      "الهدف مش إلزام"
+    ],
+    "lines": [
+      [
+        "Leila",
+        "Müssen wir wirklich bei jedem Treffen etwas Fertiges zeigen?",
+        "لازم فعلاً نعرض حاجة كاملة في كل مقابلة؟"
+      ],
+      [
+        "Tom",
+        "Mich würde das motivieren. Aber ich möchte niemanden unter Druck setzen.",
+        "ده هيشجعني. بس مش عايز أضغط على حد."
+      ],
+      [
+        "Leila",
+        "Dann lass uns persönliche Ziele freiwillig lassen. Auch Fragen und misslungene Versuche gehören dazu.",
+        "يبقى نخلي الأهداف الشخصية اختيارية. والأسئلة والمحاولات اللي مانجحتش ليها مكان كمان."
+      ],
+      [
+        "Tom",
+        "Können wir wenigstens Projekttitel sammeln? Dann sehe ich, woran die anderen arbeiten.",
+        "ممكن على الأقل نجمع عناوين المشاريع؟ كده أعرف الباقيين بيشتغلوا على إيه."
+      ],
+      [
+        "Leila",
+        "Ja, freiwillig und ohne Fristen. Wir probieren die Liste aus und sprechen später noch einmal darüber.",
+        "آه، اختياري ومن غير مواعيد نهائية. نجرب القايمة ونتكلم عنها تاني بعدين."
+      ],
+      [
+        "Tom",
+        "Einverstanden. Die ausgeliehenen Werkzeuge bleiben aber bei ihren bisherigen Besitzern, richtig?",
+        "موافق. بس الأدوات المستلفة بتفضل ملك أصحابها، صح؟"
+      ],
+      [
+        "Leila",
+        "Genau. Die Liste macht daraus keinen gemeinsamen Vorrat.",
+        "بالضبط. القايمة مش بتحولها لمخزون مشترك."
+      ]
+    ],
+    "q": [
+      [
+        "Was soll freiwillig bleiben?",
+        "Persönliche Ziele.",
+        "Die Rückgabe fremder Werkzeuge.",
+        "Die Beachtung aller Absprachen."
+      ],
+      [
+        "Wozu möchte Tom Projekttitel sammeln?",
+        "Um zu sehen, woran andere arbeiten.",
+        "Um allen Fristen zu setzen.",
+        "Um Werkzeuge zu verkaufen."
+      ],
+      [
+        "Was ändert die Liste nicht?",
+        "Die Zuordnung der geliehenen Werkzeuge.",
+        "Die Zahl aller Projekte.",
+        "Den Ort der nächsten Reise."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "haekeln-erster-schritt": [
+    "Ja, am Samstag. Hast du schon Wolle und eine Häkelnadel?",
+    "Die Wolle ist gelb, der Griff an der Nadel grau.",
+    "Zuerst nur ein kleines Stück, keine Tasche."
+  ],
+  "kleinen-rahmen-leihen": [
+    "Den kleinen gern. Den großen brauche ich für meine Tischdecke.",
+    "Ich bringe ihn am Montagabend zurück.",
+    "Sie soll mich selbst fragen. Ich weiß noch nicht, wann ich ihn wieder brauche."
+  ],
+  "handarbeit-ohne-frist": [
+    "Dann lass uns persönliche Ziele freiwillig lassen. Auch Fragen und misslungene Versuche gehören dazu.",
+    "Dann sehe ich, woran die anderen arbeiten.",
+    "Die Liste macht daraus keinen gemeinsamen Vorrat."
+  ]
+});

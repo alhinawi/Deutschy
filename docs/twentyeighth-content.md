@@ -1,0 +1,5 @@
+# List 28 original handcraft practice
+
+Three original fictional linked reading/dialogue/listen-first sets: a first crochet sample rather than a bag; a smaller borrowed embroidery hoop with an agreed return and no onward-loan assumption; and a private handcraft group separating voluntary goals from group requirements. Four questions per reading, three per dialogue, exact supporting quotes and Egyptian Arabic. Focused dictation uses the same original sentences. Approximate practice groups, not certified level coverage. Native German/Egyptian Arabic editorial review remains pending.
+
+QA: typecheck, study/content tests and production build passed. 24 reading/listening sessions / 96 answers, 12 dialogue sessions / 36 answers, 36 axe states at Arabic/English 320/390px. Double-input locks, transcript visibility, supporting quotes and no overflow passed. Inspected Arabic reading and English dialogue screenshots. A same-page dialogue hash-change state leak was discovered in the test harness and is being fixed separately; fresh entry into each dialogue passes. No old text/question changed. Fixture count extended to 33 everyday dialogue extensions.
