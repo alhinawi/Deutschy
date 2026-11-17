@@ -2090,3 +2090,24 @@ Object.assign(readingEvidence,{
     "Sie erfinden keine Verkäuferantwort"
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-muffin-donut-wortkarten": [
+    "Ein Muffin oben in der Mitte ist ganz zu sehen.",
+    "Auf dem Belag liegen zwei rosa Kugeln.",
+    "Sie legt die Karte aber zuerst neben das Muffinfoto.",
+    "Zum Schluss drehen sie die Karten um und nennen die Wörter noch einmal."
+  ],
+  "alltag-a2-donut-doughnut-zwei-schreibweisen": [
+    "Donut und Doughnut sind hier zwei Schreibweisen desselben Namens.",
+    "Doughnuts neben Doughnut.",
+    "lässt Amir im Wort Muffin versehentlich ein f weg.",
+    "keine bestimmte Geschmacksrichtung."
+  ],
+  "alltag-b1-cafe-dialog-rollen-klaeren": [
+    "eine unklare Bezugnahme höflich zu klären.",
+    "Damit ist zunächst der Bezug des Satzes geklärt.",
+    "Tarek bittet sie, zusätzlich ein sichtbares Merkmal zu nennen.",
+    "Das Ei am Rand des Muffinfotos beweist keine bestimmte Rezeptur;"
+  ]
+});

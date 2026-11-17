@@ -647,6 +647,10 @@
   {
    "id": "gebaeckformen",
    "ar": "البريتسل والبيجل"
+  },
+  {
+   "id": "gebaeckkarten",
+   "ar": "المافن والدونات"
   }
  ],
  "words": [
@@ -14108,6 +14112,36 @@
     "file": "19495590.jpg",
     "commons": "https://www.pexels.com/photo/bagel-on-white-plate-with-gold-fork-19495590/",
     "author": "hiven zhu",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "muffin",
+   "topic": "gebaeckkarten",
+   "art": "der",
+   "de": "Muffin",
+   "plural": "Muffins",
+   "ar": "مافن",
+   "photo": {
+    "file": "4792397.jpg",
+    "commons": "https://www.pexels.com/photo/set-of-tasty-homemade-muffins-on-plate-4792397/",
+    "author": "Anete Lusina",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "donut",
+   "topic": "gebaeckkarten",
+   "art": "der",
+   "de": "Donut",
+   "plural": "Donuts",
+   "ar": "دونات",
+   "photo": {
+    "file": "1479119.jpg",
+    "commons": "https://www.pexels.com/photo/doughnut-on-plate-1479119/",
+    "author": "Jess Bailey Designs",
     "license": "Pexels License",
     "modified": true
    }

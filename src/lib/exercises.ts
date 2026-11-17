@@ -516,3 +516,6 @@ for(const[topic,rows]of Object.entries(saitenbilderGrammar))exercises[topic].pus
 
 import {gebaeckformenGrammar} from './exercises-gebaeckformen';
 for(const[topic,rows]of Object.entries(gebaeckformenGrammar))exercises[topic].push(...rows);
+
+import {gebaeckkartenGrammar} from './exercises-gebaeckkarten';
+for(const[topic,rows]of Object.entries(gebaeckkartenGrammar))exercises[topic].push(...rows);
