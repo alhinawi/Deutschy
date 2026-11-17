@@ -453,3 +453,6 @@ for(const[topic,rows]of Object.entries(raumfotosGrammar))exercises[topic].push(.
 
 import {beerennamenGrammar} from './exercises-beerennamen';
 for(const[topic,rows]of Object.entries(beerennamenGrammar))exercises[topic].push(...rows);
+
+import {gemuesebilderGrammar} from './exercises-gemuesebilder';
+for(const[topic,rows]of Object.entries(gemuesebilderGrammar))exercises[topic].push(...rows);

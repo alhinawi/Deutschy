@@ -16758,3 +16758,218 @@ Object.assign(dialogueEvidence,{
     "Schreib die Zählregel bitte über die Tabelle."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "das-foto-bleibt-links",
+    "level": "A1",
+    "title": [
+      "Das Foto bleibt links",
+      "الصورة تفضل على الشمال"
+    ],
+    "lines": [
+      [
+        "Tom",
+        "Soll das Foto mit den Artischocken links bleiben?",
+        "صورة الخرشوف تفضل على الشمال؟"
+      ],
+      [
+        "Dalia",
+        "Ja. Die Kohlrabis liegen auf unserem Blatt rechts daneben.",
+        "أيوه. الكرنب أبو ركبة على ورقتنا على يمينها."
+      ],
+      [
+        "Tom",
+        "Dann kommen die Wortkarten darunter.",
+        "يبقى كروت الكلمات تيجي تحتهم."
+      ],
+      [
+        "Dalia",
+        "Jetzt nehme ich die Karten kurz weg. Sag die Namen.",
+        "دلوقتي هشيل الكروت شوية. قول الأسامي."
+      ],
+      [
+        "Tom",
+        "Die Artischocke. Beim anderen Wort brauche ich noch Hilfe.",
+        "دي أرتيشوكه. محتاج مساعدة لسه في الكلمة التانية."
+      ],
+      [
+        "Dalia",
+        "Hier steht der Kohlrabi.",
+        "مكتوب هنا دير كولرابي."
+      ],
+      [
+        "Tom",
+        "Danke. Danach kommen die Karten in den Umschlag.",
+        "شكرًا. بعد كده الكروت تيجي في الظرف."
+      ]
+    ],
+    "q": [
+      [
+        "Was bleibt links?",
+        "Das Foto mit den Artischocken.",
+        "Der Umschlag.",
+        "Toms Tasche."
+      ],
+      [
+        "Was nimmt Dalia kurz weg?",
+        "Die Wortkarten.",
+        "Beide Stühle.",
+        "Das große Blatt."
+      ],
+      [
+        "Welchen Artikel liest Dalia mit Kohlrabi?",
+        "Der.",
+        "Die.",
+        "Das."
+      ]
+    ]
+  },
+  {
+    "id": "erst-der-name",
+    "level": "A2",
+    "title": [
+      "Erst der Name",
+      "الاسم الأول"
+    ],
+    "lines": [
+      [
+        "Elif",
+        "Kann ich mit einer kleineren Aufgabe anfangen?",
+        "ممكن أبدأ بمهمة أصغر؟"
+      ],
+      [
+        "Jonas",
+        "Wir können zuerst nur den Namen mit Artikel sagen.",
+        "ممكن نقول الأول الاسم بالأداة بس."
+      ],
+      [
+        "Elif",
+        "Danach mache ich einen Satz zur Position.",
+        "بعد كده أعمل جملة عن المكان."
+      ],
+      [
+        "Jonas",
+        "Ich schreibe die Reihenfolge auf, aber keine fertigen Sätze.",
+        "هكتب ترتيب الخطوات بس مش جمل جاهزة."
+      ],
+      [
+        "Elif",
+        "Gut. Beim zweiten Foto möchte ich es allein versuchen.",
+        "تمام. في الصورة التانية عايزة أجرب لوحدي."
+      ],
+      [
+        "Jonas",
+        "Dann lege ich die Karte daneben und sage nichts vor.",
+        "يبقى أحط الكارت جنبها ومش ألقنك."
+      ],
+      [
+        "Elif",
+        "Danke. Warte bitte, bis ich meinen Satz beendet habe.",
+        "شكرًا. استنى من فضلك لحد ما أخلص جملتي."
+      ]
+    ],
+    "q": [
+      [
+        "Was wollen sie zuerst sagen?",
+        "Den Namen mit Artikel.",
+        "Eine vollständige Einkaufsliste.",
+        "Die endgültige Note."
+      ],
+      [
+        "Was schreibt Jonas nicht auf?",
+        "Fertige Sätze.",
+        "Die Reihenfolge.",
+        "Den ersten Schritt."
+      ],
+      [
+        "Wie soll Jonas beim zweiten Foto helfen?",
+        "Warten und nichts vorsagen.",
+        "Sofort jeden Satz beenden.",
+        "Die Aufgabe ganz streichen."
+      ]
+    ]
+  },
+  {
+    "id": "groesser-als-im-bild",
+    "level": "B1",
+    "title": [
+      "Größer als im Bild?",
+      "أكبر في الصورة؟"
+    ],
+    "lines": [
+      [
+        "Nora",
+        "Worauf bezieht sich dein größer genau?",
+        "أكبر عندك بتشير لإيه بالظبط؟"
+      ],
+      [
+        "Malek",
+        "Ich habe nur den Platz im Foto verglichen.",
+        "أنا قارنت المساحة في الصورة بس."
+      ],
+      [
+        "Nora",
+        "Dann wissen wir noch nichts über die wirklichen Größen. Ein gemeinsamer Maßstab fehlt.",
+        "يبقى لسه مانعرفش حاجة عن الحجم الحقيقي. مفيش مقياس مشترك."
+      ],
+      [
+        "Malek",
+        "Und für schwerer habe ich gar keine Messung.",
+        "وبالنسبة لأتقل أنا معنديش أي قياس."
+      ],
+      [
+        "Nora",
+        "Beschreiben wir lieber den sichtbaren Teller und die grünen Stiele.",
+        "نوصف أحسن الطبق الظاهر والسيقان الخضرا."
+      ],
+      [
+        "Malek",
+        "Die Farbe gilt dabei nur für diesen Bildeindruck, nicht für jeden Kohlrabi.",
+        "واللون يخص الانطباع ده في الصورة بس مش كل كرنب أبو ركبة."
+      ],
+      [
+        "Nora",
+        "Genau. Wir bewerten hier auch nicht die Frische.",
+        "بالظبط. وكمان مش بنقيم الطزاجة هنا."
+      ]
+    ],
+    "q": [
+      [
+        "Was hat Malek zunächst verglichen?",
+        "Den Platz im Foto.",
+        "Zwei gemessene Gewichte.",
+        "Die Einkaufspreise."
+      ],
+      [
+        "Was fehlt für schwerer?",
+        "Eine Messung.",
+        "Eine Wortkarte.",
+        "Eine zweite Meinung zum Artikel."
+      ],
+      [
+        "Was wollen sie nicht bewerten?",
+        "Die Frische.",
+        "Den sichtbaren Bildinhalt.",
+        "Die Formulierung ihrer Sätze."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "das-foto-bleibt-links": [
+    "das Foto mit den Artischocken links bleiben?",
+    "Jetzt nehme ich die Karten kurz weg.",
+    "Hier steht der Kohlrabi."
+  ],
+  "erst-der-name": [
+    "zuerst nur den Namen mit Artikel sagen.",
+    "aber keine fertigen Sätze.",
+    "und sage nichts vor."
+  ],
+  "groesser-als-im-bild": [
+    "den Platz im Foto verglichen.",
+    "gar keine Messung.",
+    "Wir bewerten hier auch nicht die Frische."
+  ]
+});

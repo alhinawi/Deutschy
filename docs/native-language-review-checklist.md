@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the ninety-sixth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the ninety-seventh practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -982,9 +982,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Flash session start keyboard focus | Start button gets themed visible keyboard ring and page-ground gap. Native AR/EN320/390 focus check/pixels; card front/back Enter/Space/noXP regressions, session start doesn't score. No schedule changes. |
 | [ ] | Listening/dictation | Original linked sentences, exact German speech payload/source links checked. Native editorial/real-device voice review pending. Practice labels not proficiency claims. |
 
+### List 97: vegetable layout, smaller task and limited comparison
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-links-auf-dem-blatt/` and linked dialogue | Dalia/Tom arrange artichoke left/kohlrabi right on their sheet, not universal identity cue. Two artichokes on plate, several purple kohlrabi/stalks. Word cards removed for recall; Kohlrabi needs brief model view; cards into envelope, photos remain. |
+| [ ] | `/reading/alltag-a2-die-kleinere-aufgabe/` and linked dialogue | Elif asks smaller first task, teacher suggests name/article then simple position sentence; Elif agrees. Jonas writes steps not answers, waits/not finishing sentences. Elif tries second photo independently, benefit limited to this round, not diagnosis/guarantee/course grade. |
+| [ ] | `/reading/alltag-b1-der-unfaire-bildvergleich/` and linked dialogue | No distance information/common scale/weight measurement, image area not true object size. Replace larger/heavier claims with visible plate coverage/stalks; photo color not all kohlrabi or neutral-light proof, brown outer artichoke parts not freshness assessment. No consumption/purchase/quality advice. |
+| [ ] | `/lessons/gemuesebilder/` and `/credits/` | die Artischocke/Artischocken (خرشوف), der Kohlrabi/Kohlrabis (كرنب أبو ركبة). DWDS permits Kohlrabi and Kohlrabis plural; s chosen for card, zero form not claimed wrong. Andie3647046 crop0,330-1800,1680 whole heads/plate; Francesco Ungaro97311 crop55,0-1747,1269 purple swollen stems/radiating stalks, whole central exemplars. Legacy title red onions conflicts with actual pixels/page description kohlrabi, not teaching onion. Real800x600/no faces/brand/padding. |
+| [ ] | Six appended grammar banks |24 article/dative/modal/possessive/two-way preposition/negation rows. Old saved IDs unchanged. möchte/sollst/können/muss; ihre/seinen/ihr/unsere; auf dem/das Blatt, unter dem/das Foto; no scale/measurement/freshness guarantee. Native German/Egyptian Arabic pending. |
+| [ ] | Flash gloss bidi/language | Arabic gloss now Mixed-isolates Latin runs; English gloss span lang=en. Native320/390AR/EN front/back keyboard Enter/Space noXP regression; German word still de/ltr and wrapping retained. No schedule/score change. |
+| [ ] | Listening/dictation | Original linked segments, exact German payload/source checks. Native editorial/real-device voice review pending, labels not proficiency claims. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **849 photo nouns / 141 topics**, **306 reading texts / 1177 reading questions**, **41 core grammar topics / 2254 core grammar questions**, **246 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **851 photo nouns / 142 topics**, **309 reading texts / 1189 reading questions**, **41 core grammar topics / 2278 core grammar questions**, **249 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -996,7 +1008,7 @@ This is an inventory, not completed review. Snapshot: **849 photo nouns / 141 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 84 · A2 112 · B1 80 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 85 · A2 113 · B1 81 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

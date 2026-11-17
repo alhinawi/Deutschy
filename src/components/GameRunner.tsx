@@ -103,7 +103,7 @@ function Flash({ list }: { list: Word[] }) {
           {flip ? (
             <>
               <p dir="ltr" lang="de" className="de text-3xl font-semibold"><span className="text-accent">{w.art}</span> {w.de}</p>
-              <p className="ar-title mt-1 break-words text-2xl">{glossOf(w, lang)}</p>
+              <p className="ar-title mt-1 break-words text-2xl">{lang==='ar'?<Mixed text={glossOf(w,lang)}/>:<span lang="en">{glossOf(w,lang)}</span>}</p>
             </>
           ) : <p className="text-muted">{t('اضغط عشان تشوف الكلمة', 'Tap to see the word')}</p>}
         </div>
