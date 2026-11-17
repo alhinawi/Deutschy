@@ -998,3 +998,24 @@ Object.assign(readingEvidence,{
     "In diesem Gespräch wird noch kein Foto geschickt und kein Besitzer festgestellt."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-gartenpause": [
+    "Unter dem Schirm stehen zwei Liegestühle.",
+    "Ava sitzt im linken Liegestuhl.",
+    "denn Till zeigt noch immer auf den leeren Zaun.",
+    "Er zeichnet den Baum, nicht den Vogel."
+  ],
+  "alltag-a2-hoeren-statt-sehen": [
+    "weil zwischen ihnen ein kleiner Brunnen plätschert.",
+    "Niko schlägt vor, sich auf den Stuhl direkt neben Tessa zu setzen.",
+    "Für das Gespräch ist ihnen die Nähe aber wichtiger als der freie Blick.",
+    "Die beiden gehen zu ihr an den Tisch."
+  ],
+  "alltag-b1-zwei-arten-gartenzeit": [
+    "verliert Fina beim Lesen wiederholt die Zeile.",
+    "ob Fina und Emil ihre Bücher so leichter verfolgen können.",
+    "möchte sich nun aber am Gespräch beteiligen.",
+    "Aus diesem Nachmittag leiten sie keine Hausordnung und keine dauerhafte Einteilung des Hofes ab."
+  ]
+});

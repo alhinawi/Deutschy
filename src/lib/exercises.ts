@@ -360,3 +360,6 @@ for(const[topic,rows]of Object.entries(technikablageGrammar))exercises[topic].pu
 
 import {reisefachGrammar} from './exercises-reisefach';
 for(const[topic,rows]of Object.entries(reisefachGrammar))exercises[topic].push(...rows);
+
+import {gartenpauseGrammar} from './exercises-gartenpause';
+for(const[topic,rows]of Object.entries(gartenpauseGrammar))exercises[topic].push(...rows);

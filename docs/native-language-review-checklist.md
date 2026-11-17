@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the sixty-fifth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the sixty-sixth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -598,6 +598,18 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Spelling | Invalid state exposed only after submitted wrong answer, false for unsubmitted or correct. No grading or storage change. |
 | [ ] | Listening/dictation | Check all 58 segments and Egyptian Arabic. Actual German device voice/native review pending. No appliance-use, electrical, care or safety directions. |
 
+### List 66: parasol, deck chair and different ways to relax
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-gartenpause/` and linked dialogue | Two deck chairs under parasol, Ava left and Till right. Bird moves from fence to tree before Ava looks. Till draws tree, Ava reads passage aloud later. |
+| [ ] | `/reading/alltag-a2-hoeren-statt-sehen/` and linked dialogue | Fountain between speakers makes conversation difficult. Niko changes to ordinary nearby chair, not another deck chair. No fountain/umbrella adjustment. Closeness prioritized over flower view; tea on terrace later. |
+| [ ] | `/reading/alltag-b1-zwei-arten-gartenzeit/` and linked dialogue | Readers and conversation split, local trial not general rule. Fina reports fewer rereads; Emil joins conversation, not failure. No permanent courtyard policy or guaranteed silence. |
+| [ ] | `/lessons/gartenpause/` and `/credits/` | der Sonnenschirm/Sonnenschirme, der Liegestuhl/Liegestühle. Whole parasol canopy/pole on beach, whole fabric deck chairs on grass. Unbranded faceless real photos, crop only. Photos not exact story objects. |
+| [ ] | Six appended grammar banks | 24 rows appended, previous saved identities unchanged; check cases and separable verbs, Egyptian Arabic explanations. |
+| [ ] | Spelling | Wrong submitted answer links input error-message semantics to visible feedback. Correct/unsubmitted input has no error reference. Grading/points/storage unchanged. |
+| [ ] | Listening/dictation | Check all 63 segments and Egyptian Arabic. Actual German device voice/native review pending. No health, UV-protection, weather or equipment-setup advice. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -612,7 +624,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **787 photo nouns / 110 topics**, **213 reading texts / 805 reading questions**, **41 core grammar topics / 1510 core grammar questions**, **153 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **789 photo nouns / 111 topics**, **216 reading texts / 817 reading questions**, **41 core grammar topics / 1534 core grammar questions**, **156 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -624,7 +636,7 @@ This is an inventory, not completed review. Snapshot: **787 photo nouns / 110 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 53 · A2 81 · B1 49 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 54 · A2 82 · B1 50 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

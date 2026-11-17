@@ -141,4 +141,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-reisefach',dialogue:'buerste-vorderes-fach'},
  {reading:'alltag-a2-ein-zettel-zwei-seiten',dialogue:'auch-hinten-steht-etwas'},
  {reading:'alltag-b1-notiz-von-der-vorwoche',dialogue:'alter-zettel-neue-frage'},
+ {reading:'alltag-a1-gartenpause',dialogue:'vogel-nicht-mehr-am-zaun'},
+ {reading:'alltag-a2-hoeren-statt-sehen',dialogue:'neben-dir-hoere-ich-besser'},
+ {reading:'alltag-b1-zwei-arten-gartenzeit',dialogue:'lesen-und-reden-nebeneinander'},
 ];

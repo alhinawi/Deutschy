@@ -10093,3 +10093,218 @@ Object.assign(dialogueEvidence,{
     "Dann notiere ich noch keinen Besitzer."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "vogel-nicht-mehr-am-zaun",
+    "level": "A1",
+    "title": [
+      "Schau mal zum Zaun",
+      "بصي على السور"
+    ],
+    "lines": [
+      [
+        "Till",
+        "Hier sind die Gläser. Dein Liegestuhl steht links.",
+        "دي الكوبايات. كرسي الاسترخاء بتاعك على الشمال."
+      ],
+      [
+        "Ava",
+        "Danke. Unter dem Sonnenschirm kann ich schön lesen.",
+        "شكرًا. حلو إني أقرا تحت الشمسية."
+      ],
+      [
+        "Till",
+        "Schau mal zum Zaun. Dort sitzt ein Vogel.",
+        "بصي على السور. فيه عصفور واقف هناك."
+      ],
+      [
+        "Ava",
+        "Jetzt sehe ich nur den Zaun. Der Vogel ist schon im Baum.",
+        "دلوقتي شايفة السور بس. العصفور بقى في الشجرة خلاص."
+      ],
+      [
+        "Till",
+        "Dann hole ich meinen Zeichenblock. Ich zeichne den Baum.",
+        "يبقى أجيب كراسة الرسم. هرسم الشجرة."
+      ],
+      [
+        "Ava",
+        "Danach lese ich dir eine kurze Stelle vor.",
+        "بعد كده هقرا لك جزء قصير بصوت عالي."
+      ],
+      [
+        "Till",
+        "Gut. Die Gläser bleiben auf dem Tisch.",
+        "تمام. الكوبايات تفضل على الترابيزة."
+      ]
+    ],
+    "q": [
+      [
+        "Wo steht Avas Liegestuhl?",
+        "Links.",
+        "Rechts.",
+        "Im Haus."
+      ],
+      [
+        "Wo ist der Vogel, als Ava hinschaut?",
+        "Im Baum.",
+        "Auf dem Tisch.",
+        "Noch auf dem Zaun."
+      ],
+      [
+        "Was möchte Ava später machen?",
+        "Eine kurze Stelle vorlesen.",
+        "Den Vogel zeichnen.",
+        "Den Schirm kaufen."
+      ]
+    ]
+  },
+  {
+    "id": "neben-dir-hoere-ich-besser",
+    "level": "A2",
+    "title": [
+      "Der nähere Stuhl",
+      "الكرسي الأقرب"
+    ],
+    "lines": [
+      [
+        "Tessa",
+        "Vom Liegestuhl aus sehe ich die Blumen gut, aber ich verstehe dich schlecht.",
+        "من كرسي الاسترخاء شايفة الورد كويس بس مش سامعاك كويس."
+      ],
+      [
+        "Niko",
+        "Der Brunnen ist genau zwischen uns. Ich setze mich neben dich.",
+        "النافورة بينا بالظبط. هقعد جنبك."
+      ],
+      [
+        "Tessa",
+        "Der Stuhl dort ist frei. Dann musst du nicht lauter sprechen.",
+        "الكرسي اللي هناك فاضي. كده مش هتضطر تعلي صوتك."
+      ],
+      [
+        "Niko",
+        "Den Sonnenschirm lassen wir so stehen.",
+        "نسيب الشمسية زي ما هي."
+      ],
+      [
+        "Tessa",
+        "Jetzt kann ich dir von meinem Buch erzählen.",
+        "دلوقتي أقدر أحكي لك عن كتابي."
+      ],
+      [
+        "Niko",
+        "Wer ist die Hauptfigur?",
+        "مين الشخصية الرئيسية؟"
+      ],
+      [
+        "Tessa",
+        "Eine junge Lehrerin. Später gehen wir zum Tee auf die Terrasse.",
+        "مدرسة شابة. بعدين نروح نشرب شاي على التراس."
+      ]
+    ],
+    "q": [
+      [
+        "Was steht zwischen den beiden?",
+        "Der Brunnen.",
+        "Ein Bücherregal.",
+        "Ein geschlossener Schirm."
+      ],
+      [
+        "Was machen sie mit dem Sonnenschirm?",
+        "Sie lassen ihn unverändert stehen.",
+        "Sie kaufen einen neuen.",
+        "Sie tragen ihn ins Haus."
+      ],
+      [
+        "Wovon erzählt Tessa?",
+        "Von ihrem Buch.",
+        "Von einer neuen Teemaschine.",
+        "Von einem verkauften Garten."
+      ]
+    ]
+  },
+  {
+    "id": "lesen-und-reden-nebeneinander",
+    "level": "B1",
+    "title": [
+      "Zwei Gruppen, kein fester Plan",
+      "مجموعتين مش خطة ثابتة"
+    ],
+    "lines": [
+      [
+        "Fina",
+        "Ich verliere bei eurem Gespräch oft die Zeile. Ihr müsst deshalb aber nicht schweigen.",
+        "السطر بيضيع مني كتير مع كلامكم. بس مش لازم تسكتوا عشان كده."
+      ],
+      [
+        "Levin",
+        "Dann probieren wir zwei Gruppen. Die Liegestühle können hinten stehen.",
+        "يبقى نجرب مجموعتين. كراسي الاسترخاء ممكن تبقى ورا."
+      ],
+      [
+        "Emil",
+        "Ich lese erst mit Fina. Später möchte ich vielleicht zu euch kommen.",
+        "هقرا مع فينا الأول. يمكن بعدين أحب أجي أقعد معاكم."
+      ],
+      [
+        "Levin",
+        "Natürlich. Der Platz ist keine Verpflichtung für den ganzen Nachmittag.",
+        "طبعًا. المكان مش التزام لطول بعد الضهر."
+      ],
+      [
+        "Fina",
+        "Der Sonnenschirm bleibt also bei eurem Tisch.",
+        "يبقى الشمسية تفضل عند ترابيزتكم."
+      ],
+      [
+        "Levin",
+        "Ja. Wir schauen später, ob uns die Anordnung gefällt.",
+        "أيوه. نبص بعدين إذا كان الترتيب عاجبنا."
+      ],
+      [
+        "Emil",
+        "Und wir machen daraus keine Regel für das ganze Haus.",
+        "ومش هنعمل من ده قاعدة للبيت كله."
+      ]
+    ],
+    "q": [
+      [
+        "Was schlägt Levin vor?",
+        "Zwei Gruppen auszuprobieren.",
+        "Ein Sprechverbot einzuführen.",
+        "Alle Bücher wegzuräumen."
+      ],
+      [
+        "Muss Emil den ganzen Nachmittag lesen?",
+        "Nein, er kann später zur Gesprächsgruppe wechseln.",
+        "Ja, der Platz verpflichtet ihn dazu.",
+        "Nur wenn er den Schirm kauft."
+      ],
+      [
+        "Was entsteht daraus nicht?",
+        "Eine Regel für das ganze Haus.",
+        "Ein Vorschlag für zwei Gruppen.",
+        "Eine spätere Prüfung der Anordnung."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "vogel-nicht-mehr-am-zaun": [
+    "Dein Liegestuhl steht links.",
+    "Der Vogel ist schon im Baum.",
+    "lese ich dir eine kurze Stelle vor."
+  ],
+  "neben-dir-hoere-ich-besser": [
+    "Der Brunnen ist genau zwischen uns.",
+    "Den Sonnenschirm lassen wir so stehen.",
+    "von meinem Buch erzählen."
+  ],
+  "lesen-und-reden-nebeneinander": [
+    "Dann probieren wir zwei Gruppen.",
+    "Der Platz ist keine Verpflichtung",
+    "keine Regel für das ganze Haus."
+  ]
+});

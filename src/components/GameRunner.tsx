@@ -138,7 +138,7 @@ function Rounds({ game, list, again }: Props) {
   const { w, opts } = qs[i];
   const xp = game === 'spelling' ? 15 : 10;
   const advance = (ok: boolean) => { if(locked.current)return;locked.current=true;award(ok ? xp : 0, w.id, ok); if (ok) setScore((s) => s + 1); };
-  const feedback=(ok:boolean)=><div role="status" className="space-y-3"><p>{ok?t('صح.','Correct.'):t('راجع الكلمة الصح.','Check the correct word.')}</p><p dir="ltr" lang="de" className="de break-words text-xl">{w.art} {w.de}</p><button type="button" onClick={next} className="w-full rounded-full bg-accent px-5 py-3 font-bold text-accent-ink">{i+1>=qs.length?t('النتيجة','Result'):t('التالي','Next')}</button></div>;
+  const feedback=(ok:boolean)=><div id="spelling-feedback" role="status" className="space-y-3"><p>{ok?t('صح.','Correct.'):t('راجع الكلمة الصح.','Check the correct word.')}</p><p dir="ltr" lang="de" className="de break-words text-xl">{w.art} {w.de}</p><button type="button" onClick={next} className="w-full rounded-full bg-accent px-5 py-3 font-bold text-accent-ink">{i+1>=qs.length?t('النتيجة','Result'):t('التالي','Next')}</button></div>;
 
   if (game === 'spelling') {
     const correct = typed.normalize('NFC').trim().toLocaleLowerCase('de') === w.de.normalize('NFC').toLocaleLowerCase('de');
@@ -148,7 +148,7 @@ function Rounds({ game, list, again }: Props) {
         <Photo w={w} />
         <p className="ar-title text-center text-2xl">{glossOf(w, lang)}</p>
         <form onSubmit={(e) => { e.preventDefault(); if (done || locked.current || !typed.trim()) return; setPicked(typed); advance(correct); }} className="space-y-3">
-          <input aria-invalid={done&&!correct} autoCorrect="off" aria-describedby="spelling-help" enterKeyHint="done" dir="ltr" lang="de" aria-label={t("اكتب الكلمة الألماني","Type the German noun")} maxLength={150} autoComplete="off" spellCheck={false} autoCapitalize="none" autoFocus value={typed} onChange={(e) => setTyped(e.target.value)} disabled={done} placeholder="…" className="de w-full rounded-xl border border-line bg-card px-4 py-3 text-center text-2xl outline-none focus:border-accent" />
+          <input aria-errormessage={done&&!correct?"spelling-feedback":undefined} aria-invalid={done&&!correct} autoCorrect="off" aria-describedby="spelling-help" enterKeyHint="done" dir="ltr" lang="de" aria-label={t("اكتب الكلمة الألماني","Type the German noun")} maxLength={150} autoComplete="off" spellCheck={false} autoCapitalize="none" autoFocus value={typed} onChange={(e) => setTyped(e.target.value)} disabled={done} placeholder="…" className="de w-full rounded-xl border border-line bg-card px-4 py-3 text-center text-2xl outline-none focus:border-accent" />
           <p id="spelling-help" className="text-center text-xs text-muted">{t('اكتب الكلمة من غير der/die/das. هنا مش بنفرق الحرف الكبير والصغير؛ ä ö ü ß لازم صح. الاسم الألماني بيبدأ عادة بحرف كبير.', 'Type the word without der/die/das. Case is ignored in this practice; ä ö ü ß must match. German nouns normally start with a capital.')}</p>
           {done && feedback(correct)}
           <button disabled={done||!typed.trim()} className="w-full rounded-full bg-accent py-3 font-bold text-accent-ink disabled:opacity-50">{t('تأكيد', 'Check')}</button>

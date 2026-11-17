@@ -198,3 +198,6 @@ readings.push(...technikablageTexts);
 
 import {reisefachTexts} from './reading-reisefach';
 readings.push(...reisefachTexts);
+
+import {gartenpauseTexts} from './reading-gartenpause';
+readings.push(...gartenpauseTexts);

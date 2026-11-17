@@ -439,6 +439,10 @@
   {
    "id": "reisefach",
    "ar": "فرشة شعر وسيشوار"
+  },
+  {
+   "id": "gartenpause",
+   "ar": "شمسية وكرسي استرخاء"
   }
  ],
  "words": [
@@ -12340,6 +12344,36 @@
     "file": "3758494.jpg",
     "commons": "https://www.pexels.com/photo/photo-of-hairdryer-attached-to-the-wall-3758494/",
     "author": "La Miko",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "sonnenschirm",
+   "topic": "gartenpause",
+   "art": "der",
+   "de": "Sonnenschirm",
+   "plural": "Sonnenschirme",
+   "ar": "شمسية",
+   "photo": {
+    "file": "9276737.jpg",
+    "commons": "https://www.pexels.com/photo/beach-umbrella-and-a-sunbed-in-front-of-a-wooden-beach-hut-9276737/",
+    "author": "Paul G",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "liegestuhl",
+   "topic": "gartenpause",
+   "art": "der",
+   "de": "Liegestuhl",
+   "plural": "Liegestühle",
+   "ar": "كرسي استرخاء",
+   "photo": {
+    "file": "29318023.jpg",
+    "commons": "https://www.pexels.com/photo/peaceful-park-scene-with-empty-deck-chairs-29318023/",
+    "author": "Jan van der Wolf",
     "license": "Pexels License",
     "modified": true
    }
