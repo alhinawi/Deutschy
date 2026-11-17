@@ -360,3 +360,6 @@ readings.push(...gebaeckkartenTexts);
 
 import {kleidermusterTexts} from './reading-kleidermuster';
 readings.push(...kleidermusterTexts);
+
+import {kleinebilderTexts} from './reading-kleinebilder';
+readings.push(...kleinebilderTexts);

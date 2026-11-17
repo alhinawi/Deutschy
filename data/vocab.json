@@ -655,6 +655,10 @@
   {
    "id": "kleidermuster",
    "ar": "الكرافتة والجوانتي"
+  },
+  {
+   "id": "kleinebilder",
+   "ar": "الفلين والكبريت"
   }
  ],
  "words": [
@@ -14176,6 +14180,36 @@
     "file": "6866219.jpg",
     "commons": "https://www.pexels.com/photo/a-person-wearing-brown-mitten-6866219/",
     "author": "Valeriia Miller",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "korken",
+   "topic": "kleinebilder",
+   "art": "der",
+   "de": "Korken",
+   "plural": "-",
+   "ar": "سدادة فلين",
+   "photo": {
+    "file": "11585384.jpg",
+    "commons": "https://www.pexels.com/photo/cork-seal-on-a-small-bottle-11585384/",
+    "author": "Jonas Thomann",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "streichholz",
+   "topic": "kleinebilder",
+   "art": "das",
+   "de": "Streichholz",
+   "plural": "Streichhölzer",
+   "ar": "عود كبريت",
+   "photo": {
+    "file": "7303329.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-shot-of-black-matchsticks-in-white-background-7303329/",
+    "author": "Cup of Couple",
     "license": "Pexels License",
     "modified": true
    }

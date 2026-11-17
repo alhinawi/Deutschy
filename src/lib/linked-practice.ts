@@ -303,4 +303,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-krawatten-und-ein-faeustling',dialogue:'krawattenmuster-und-baerengesicht'},
  {reading:'alltag-a2-ein-faeustling-ist-kein-paar',dialogue:'ein-sichtbarer-faeustling'},
  {reading:'alltag-b1-fundbuero-beschreibung-und-zuordnung',dialogue:'fundstueck-erst-beschreiben'},
+ {reading:'alltag-a1-korken-und-streichhoelzer-beschriften',dialogue:'korken-oben-schachtel-schraeg'},
+ {reading:'alltag-a2-korken-gleich-streichhoelzer-anders',dialogue:'korken-bleibt-korken'},
+ {reading:'alltag-b1-notiz-mitbringen-oder-beschriften',dialogue:'gegenstaende-oder-wortkarten'},
 ];
