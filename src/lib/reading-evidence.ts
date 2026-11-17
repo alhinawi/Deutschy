@@ -620,3 +620,24 @@ Object.assign(readingEvidence,{
     "Eine neue Matratze haben sie nicht ausgewählt"
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-couchtisch": [
+    "Die Fernbedienung bleibt auf dem Tisch.",
+    "ins Bücherregal neben der Tür.",
+    "Über dem Bücherregal hängt eine Wanduhr.",
+    "Neben dem blauen Kissen liegt die Brille."
+  ],
+  "alltag-a2-uhr-vergleich": [
+    "dass die Wanduhr seit einigen Tagen nachgeht.",
+    "Die beiden prüfen die Uhrzeit auf dem Handy",
+    "David legt die Fernbedienung auf den Fernsehschrank",
+    "weil ihre Freundin später dazukommen und mitentscheiden möchte."
+  ],
+  "alltag-a2-regalfach": [
+    "Er möchte sofort seine Spielesammlung hineinstellen.",
+    "die beiden haben noch nicht besprochen, wofür sie es gemeinsam nutzen möchten.",
+    "Elias stellt die Spiele deshalb vorerst in seine eigene Kiste zurück.",
+    "notieren sie beide Wünsche mit dem Zusatz noch offen."
+  ]
+});

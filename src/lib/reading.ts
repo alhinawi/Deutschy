@@ -144,3 +144,6 @@ readings.push(...kochrundeTexts);
 
 import {schlafzimmerTexts} from './reading-schlafzimmer';
 readings.push(...schlafzimmerTexts);
+
+import {wohnzimmerTexts} from './reading-wohnzimmer';
+readings.push(...wohnzimmerTexts);

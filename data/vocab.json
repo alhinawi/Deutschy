@@ -367,6 +367,10 @@
   {
    "id": "schlafzimmer",
    "ar": "حاجات أوضة النوم"
+  },
+  {
+   "id": "wohnzimmer",
+   "ar": "حاجات أوضة المعيشة"
   }
  ],
  "words": [
@@ -11709,6 +11713,38 @@
     "file": "lamp.jpg",
     "commons": "https://www.pexels.com/photo/lamp-on-night-stand-18280834/",
     "author": "Vladimir Gladkov",
+    "license": "Pexels License",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "couchtisch",
+   "topic": "wohnzimmer",
+   "art": "der",
+   "de": "Couchtisch",
+   "plural": "Couchtische",
+   "ar": "ترابيزة أنترية",
+   "photo": {
+    "file": "table-high.jpg",
+    "commons": "https://www.pexels.com/photo/spacious-interior-with-a-wooden-floor-and-a-coffee-table-19966784/",
+    "author": "Alex Tyson",
+    "license": "Pexels License",
+    "padding": true,
+    "modified": true
+   }
+  },
+  {
+   "id": "wanduhr",
+   "topic": "wohnzimmer",
+   "art": "die",
+   "de": "Wanduhr",
+   "plural": "Wanduhren",
+   "ar": "ساعة حيطة",
+   "photo": {
+    "file": "clock3.jpg",
+    "commons": "https://www.pexels.com/photo/a-minimalist-clock-on-a-wall-19801745/",
+    "author": "Julia Filirovska",
     "license": "Pexels License",
     "padding": true,
     "modified": true

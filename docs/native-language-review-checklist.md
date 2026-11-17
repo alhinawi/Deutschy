@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the forty-seventh practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the forty-eighth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -383,6 +383,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Six expanded grammar banks | Article/genus, dative, separable verbs, present, two-way/dative prepositions and negation: 24 appended rows. Check das Kissen/die Matratze, personal-name dative Jana, zusammenlegen/ausschalten, liest/nimmt, neben der/den, ihrem Bruder and keine Matratze/kein Kissen. Preserve all prior saved IDs. |
 | [ ] | `/conjugation/`, `/dictation/` | Reference table has captioned keyboard-scroll region and explanation that toggle preserves answer, atomic position status; reset still keeps verb/tense/person and focuses empty answer. Check all 50 focused dictation sentences on a real German voice. Mocks do not verify pronunciation. |
 
+### Forty-eighth update: living room (pending)
+
+| Review | Route / item | Focus |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-couchtisch/` | **Das Buch liegt auf dem Tisch** / **Nicht auf dem Couchtisch**: sofa, coffee table, carpet, bookshelf, TV cabinet and wall clock. Book moves to bookshelf, remote stays on table, glasses beside blue cushion. Check all 7 answers/evidence and Egyptian meanings. |
+| [ ] | `/reading/alltag-a2-uhr-vergleich/` | **Die Uhr geht nach** / **Nicht nach dieser Uhr planen**: inaccurate wall clock checked against phone, no specific current broadcast schedule or repair instruction. Remote on TV cabinet; film not chosen until friend can take part. Check all 7 answers. |
+| [ ] | `/reading/alltag-a2-regalfach/` | **Das freie Fach ist nicht reserviert** / **Leer heißt nicht zugeteilt**: empty shelf is not assigned; games stay in own box until shared use is agreed. Two wishes remain open, no furniture purchase or installation. Check all 7 answers and translation. |
+| [ ] | `/lessons/wohnzimmer/` | der Couchtisch / Couchtische and die Wanduhr / Wanduhren, Egyptian meanings and real unbranded photos. Coffee tabletop and object edges retained; foreground ottoman naturally hides part of one leg. Whole clock rim retained. Crops, neutral padding and photographers in Credits. Photos do not document fictional scenes. |
+| [ ] | Six expanded grammar banks | Accusative, possessives, modal verbs, imperative, comparative and dative/two-way prepositions: 24 appended rows. Check den Couchtisch, meine Brille, muss, Nimm/Setzt/Warten Sie, höher and auf dem/den. Preserve prior saved identities. |
+| [ ] | `/grammar/`, `/dictation/` | Labeled normalized search; pressed level filters, live count, query-only clear preserves level, full reset and empty guidance with input focus. No saved progress. Review all 48 focused dictation sentences on a real German voice. Mocks verify controls/text, not pronunciation. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -397,7 +408,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **751 photo nouns / 92 topics**, **159 reading texts / 589 reading questions**, **41 core grammar topics / 1078 core grammar questions**, **99 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **753 photo nouns / 93 topics**, **162 reading texts / 601 reading questions**, **41 core grammar topics / 1102 core grammar questions**, **102 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -409,7 +420,7 @@ This is an inventory, not completed review. Snapshot: **751 photo nouns / 92 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 35 · A2 58 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 36 · A2 60 · B1 36 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

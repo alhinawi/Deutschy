@@ -6223,3 +6223,218 @@ Object.assign(dialogueEvidence,{
     "Die Unterlagen vergleichen wir später in Ruhe."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "brille-neben-kissen",
+    "level": "A1",
+    "title": [
+      "Nicht auf dem Couchtisch",
+      "مش على ترابيزة الأنترية"
+    ],
+    "lines": [
+      [
+        "Noah",
+        "Liegt meine Brille auf dem Couchtisch?",
+        "نضارتي على ترابيزة الأنترية؟"
+      ],
+      [
+        "Salma",
+        "Nein. Da liegen nur das Buch und die Fernbedienung.",
+        "لأ. هناك الكتاب والريموت بس."
+      ],
+      [
+        "Noah",
+        "Wo soll ich dann suchen?",
+        "أدور فين طيب؟"
+      ],
+      [
+        "Salma",
+        "Auf dem Sofa, neben dem blauen Kissen.",
+        "على الكنبة، جنب المخدة الزرقا."
+      ],
+      [
+        "Noah",
+        "Danke, da ist sie. Wohin kommt das Buch?",
+        "شكراً، أهي. الكتاب يتحط فين؟"
+      ],
+      [
+        "Salma",
+        "Ins Bücherregal neben der Tür. Ich stelle es hinein.",
+        "في مكتبة الكتب جنب الباب. هحطه فيها."
+      ],
+      [
+        "Noah",
+        "Die Fernbedienung lassen wir auf dem Tisch.",
+        "الريموت نسيبه على الترابيزة."
+      ]
+    ],
+    "q": [
+      [
+        "Wo liegt die Brille?",
+        "Neben dem blauen Kissen.",
+        "Auf dem Couchtisch.",
+        "In der Tür."
+      ],
+      [
+        "Wohin kommt das Buch?",
+        "Ins Bücherregal.",
+        "Unter den Teppich.",
+        "Hinter die Uhr."
+      ],
+      [
+        "Was bleibt auf dem Tisch?",
+        "Die Fernbedienung.",
+        "Die Brille.",
+        "Das Kissen."
+      ]
+    ]
+  },
+  {
+    "id": "uhr-geht-nach",
+    "level": "A2",
+    "title": [
+      "Nicht nach dieser Uhr planen",
+      "مش نخطط على الساعة دي"
+    ],
+    "lines": [
+      [
+        "David",
+        "Nach der Wanduhr haben wir noch viel Zeit.",
+        "حسب ساعة الحيطة لسه معانا وقت كتير."
+      ],
+      [
+        "Mira",
+        "Sie geht seit einigen Tagen nach. Schau bitte aufs Handy.",
+        "هي متأخرة من كام يوم. بص على الموبايل لو سمحت."
+      ],
+      [
+        "David",
+        "Stimmt. Die Wanduhr müssen wir später überprüfen.",
+        "صح. ساعة الحيطة محتاجين نراجعها بعدين."
+      ],
+      [
+        "Mira",
+        "Jetzt bleibt sie an ihrem Platz. Wir steigen auf keine Möbel.",
+        "دلوقتي تفضل مكانها. مش هنطلع على أي عفش."
+      ],
+      [
+        "David",
+        "Ich lege die Fernbedienung auf den Fernsehschrank.",
+        "هحط الريموت على وحدة التلفزيون."
+      ],
+      [
+        "Mira",
+        "Mit der Filmauswahl warten wir noch auf unsere Freundin.",
+        "نستنى صاحبتنا لسه قبل اختيار الفيلم."
+      ],
+      [
+        "David",
+        "Ja. Sie möchte heute mitentscheiden.",
+        "آه. هي عايزة تشارك في الاختيار النهارده."
+      ]
+    ],
+    "q": [
+      [
+        "Was stimmt mit der Wanduhr nicht?",
+        "Sie geht nach.",
+        "Sie fehlt.",
+        "Sie liegt im Regal."
+      ],
+      [
+        "Wo soll David die Zeit prüfen?",
+        "Auf dem Handy.",
+        "Auf dem Teppich.",
+        "Im Buch."
+      ],
+      [
+        "Warum warten sie mit der Auswahl?",
+        "Die Freundin möchte mitentscheiden.",
+        "Der Film wurde schon gewählt.",
+        "David muss den Tisch reparieren."
+      ]
+    ]
+  },
+  {
+    "id": "fach-noch-offen",
+    "level": "A2",
+    "title": [
+      "Leer heißt nicht zugeteilt",
+      "فاضي مش معناها متقسم لحد"
+    ],
+    "lines": [
+      [
+        "Elias",
+        "Das Fach ist leer. Ich stelle meine Spiele hinein.",
+        "الرف فاضي. هحط ألعابي فيه."
+      ],
+      [
+        "Lina",
+        "Bitte erst absprechen. Wir haben die Nutzung noch nicht geklärt.",
+        "نتفق الأول لو سمحت. لسه ماحددناش الاستخدام."
+      ],
+      [
+        "Elias",
+        "Dann bleiben die Spiele vorerst in meiner Kiste.",
+        "يبقى الألعاب تفضل مؤقتاً في الصندوق بتاعي."
+      ],
+      [
+        "Lina",
+        "Ich hätte gern ein Fach für unsere aktuellen Bücher.",
+        "أنا عايزة رف للكتب اللي بنقراها حالياً."
+      ],
+      [
+        "Elias",
+        "Und ich wünsche mir einen Platz für Spiele.",
+        "وأنا عايز مكان للألعاب."
+      ],
+      [
+        "Lina",
+        "Wir notieren beide Wünsche als noch offen.",
+        "نسجل الرغبتين إنهم لسه مفتوحين للنقاش."
+      ],
+      [
+        "Elias",
+        "Genau. Eine fertige Vereinbarung haben wir noch nicht.",
+        "بالظبط. لسه ماعندناش اتفاق نهائي."
+      ]
+    ],
+    "q": [
+      [
+        "Warum werden die Spiele noch nicht ins Fach gestellt?",
+        "Die Nutzung ist noch nicht geklärt.",
+        "Die Kiste fehlt.",
+        "Lina hat das Regal verschenkt."
+      ],
+      [
+        "Was möchte Lina?",
+        "Ein Fach für aktuelle Bücher.",
+        "Einen neuen Fernseher.",
+        "Einen zweiten Teppich."
+      ],
+      [
+        "Welchen Status haben die Wünsche?",
+        "Noch offen.",
+        "Endgültig vereinbart.",
+        "Schon bestellt."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "brille-neben-kissen": [
+    "neben dem blauen Kissen.",
+    "Ins Bücherregal neben der Tür.",
+    "Die Fernbedienung lassen wir auf dem Tisch."
+  ],
+  "uhr-geht-nach": [
+    "Sie geht seit einigen Tagen nach.",
+    "Schau bitte aufs Handy.",
+    "Sie möchte heute mitentscheiden."
+  ],
+  "fach-noch-offen": [
+    "Wir haben die Nutzung noch nicht geklärt.",
+    "ein Fach für unsere aktuellen Bücher.",
+    "Wir notieren beide Wünsche als noch offen."
+  ]
+});

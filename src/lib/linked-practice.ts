@@ -87,4 +87,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-kissen-am-fenster',dialogue:'graues-kissen-sessel'},
  {reading:'alltag-a2-wecker-sieben',dialogue:'neue-weckzeit'},
  {reading:'alltag-a2-matratzenzettel',dialogue:'breiten-nicht-mischen'},
+ {reading:'alltag-a1-couchtisch',dialogue:'brille-neben-kissen'},
+ {reading:'alltag-a2-uhr-vergleich',dialogue:'uhr-geht-nach'},
+ {reading:'alltag-a2-regalfach',dialogue:'fach-noch-offen'},
 ];
