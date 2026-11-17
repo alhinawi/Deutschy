@@ -2342,3 +2342,24 @@ Object.assign(readingEvidence,{
     "Eine automatische Bildprüfung oder tatsächliche Zählung führen sie in der beschriebenen Situation nicht durch."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zwei-arten-mehrzahl": [
+    "Dort steht die Zuckerwürfel.",
+    "David streicht das zusätzliche n durch.",
+    "Das a wird zu ä, und er kommt am Ende dazu.",
+    "Ines deckt die Mehrzahlzeilen ab."
+  ],
+  "alltag-a2-korrektur-lesbar-lassen": [
+    "die Form Honiggläser.",
+    "die alte Form mit einem einzelnen Strich zu kennzeichnen.",
+    "Dort war Zuckerwürfel bereits richtig notiert.",
+    "haben sie mit dieser Materialkorrektur noch nicht geprüft."
+  ],
+  "alltag-b1-fuellstand-ohne-mengenangabe": [
+    "Nichts davon steht ihnen in dieser Aufgabe zur Verfügung.",
+    "Die beiden leiten deshalb aus einer sichtbaren Höhe keine konkrete Milliliterzahl ab.",
+    "Ohne eine verlässliche gemeinsame Referenz wäre die Berechnung nur eine ungesicherte Annahme.",
+    "das Glas wird weder geöffnet noch nachgefüllt, und es wird keine reale Messung vorgenommen."
+  ]
+});

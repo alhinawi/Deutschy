@@ -390,3 +390,6 @@ readings.push(...gewuerzkartenTexts);
 
 import {kaffeebilderTexts} from './reading-kaffeebilder';
 readings.push(...kaffeebilderTexts);
+
+import {suessbilderTexts} from './reading-suessbilder';
+readings.push(...suessbilderTexts);

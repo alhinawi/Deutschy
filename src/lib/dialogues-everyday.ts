@@ -23853,3 +23853,218 @@ Object.assign(dialogueEvidence,{
     "Eine tatsächliche Zählung haben wir hier nicht durchgeführt."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "zuckerwuerfel-honigglaeser",
+    "level": "A1",
+    "title": [
+      "Das n kommt weg",
+      "الإن تتشال"
+    ],
+    "lines": [
+      [
+        "David",
+        "Ich habe Zuckerwürfeln geschrieben.",
+        "كتبت تسوكر فورفلن."
+      ],
+      [
+        "Ines",
+        "In der Mehrzahl bleibt das Nomen hier gleich: Zuckerwürfel.",
+        "في الجمع الاسم هنا بيفضل زي ما هو: تسوكر فورفل."
+      ],
+      [
+        "David",
+        "Dann streiche ich das zusätzliche n durch.",
+        "يبقى أشطب الإن الزيادة."
+      ],
+      [
+        "Ines",
+        "Beim Honigglas heißt die Mehrzahl Honiggläser.",
+        "مع هونيش جلاس الجمع هونيش جليزر."
+      ],
+      [
+        "David",
+        "Mit ä und er am Ende.",
+        "بآ أوملاوت وإر في الآخر."
+      ],
+      [
+        "Ines",
+        "Jetzt decke ich die Mehrzahlzeilen ab.",
+        "دلوقتي هغطي سطور الجمع."
+      ],
+      [
+        "David",
+        "Danach vergleichen wir meine Antworten mit den Karten.",
+        "بعد كده نقارن إجاباتي بالكروت."
+      ]
+    ],
+    "q": [
+      [
+        "Welches Nomen bleibt in der Mehrzahl gleich?",
+        "Zuckerwürfel.",
+        "Honigglas.",
+        "Beide genau gleich."
+      ],
+      [
+        "Wie lautet die Mehrzahl von Honigglas?",
+        "Honiggläser.",
+        "Honigglasen.",
+        "Honigglass."
+      ],
+      [
+        "Was vergleichen sie am Schluss?",
+        "Die Antworten mit den Karten.",
+        "Zwei echte Bestellungen.",
+        "Die Preise zweier Gläser."
+      ]
+    ]
+  },
+  {
+    "id": "alte-und-neue-fassung",
+    "level": "A2",
+    "title": [
+      "Ein klarer Strich reicht",
+      "خط واضح واحد يكفي"
+    ],
+    "lines": [
+      [
+        "Sven",
+        "Ich mache die alte Form ganz unlesbar.",
+        "هخلي الصيغة القديمة مش مقروءة خالص."
+      ],
+      [
+        "Rita",
+        "Dann ist vielleicht unklar, welche Fassung gilt.",
+        "كده يمكن مش يبقى واضح أنهي نسخة السارية."
+      ],
+      [
+        "Sven",
+        "Also ein Strich durch die alte Form und die Korrektur daneben?",
+        "يبقى خط على القديمة والتصحيح جنبها؟"
+      ],
+      [
+        "Rita",
+        "Ja. Honiggläser kommt deutlich in das freie Feld.",
+        "أيوه. هونيش جليزر تتكتب واضحة في الخانة الفاضية."
+      ],
+      [
+        "Sven",
+        "Bei Zuckerwürfel war die Mehrzahl schon richtig.",
+        "مع تسوكر فورفل الجمع كان صح أصلًا."
+      ],
+      [
+        "Rita",
+        "Diese Zeile lassen wir unverändert.",
+        "السطر ده نسيبه زي ما هو."
+      ],
+      [
+        "Sven",
+        "Die Wiederholung ohne Wortliste machen wir getrennt.",
+        "المراجعة من غير قايمة كلمات نعملها لوحدها."
+      ]
+    ],
+    "q": [
+      [
+        "Wo steht die Korrektur?",
+        "Im freien Feld neben der alten Form.",
+        "Unsichtbar unter vielen Strichen.",
+        "Nur auf der Rückseite eines echten Glases."
+      ],
+      [
+        "Welche Zeile bleibt unverändert?",
+        "Die Zuckerwürfelzeile.",
+        "Die falsche Honigglasmehrzahl.",
+        "Beide bleiben ohne Korrektur."
+      ],
+      [
+        "Was machen sie getrennt?",
+        "Die Wiederholung ohne Wortliste.",
+        "Die erste Materialkorrektur.",
+        "Das Eintragen von Honiggläser."
+      ]
+    ]
+  },
+  {
+    "id": "hoehe-ist-kein-volumenwert",
+    "level": "B1",
+    "title": [
+      "Welche Messgrundlage haben wir?",
+      "إيه أساس القياس عندنا؟"
+    ],
+    "lines": [
+      [
+        "Nils",
+        "Ich wollte eine genaue Milliliterzahl unter das Honigglasfoto schreiben.",
+        "كنت هكتب عدد ملليلترات دقيق تحت صورة برطمان العسل."
+      ],
+      [
+        "Maja",
+        "Welche verlässliche Messgrundlage haben wir dafür?",
+        "إيه أساس القياس الموثوق عندنا لكده؟"
+      ],
+      [
+        "Nils",
+        "Eine Skala oder bekannte Gefäßgröße haben wir nicht.",
+        "ماعندناش تدريج ولا حجم معروف للوعاء."
+      ],
+      [
+        "Maja",
+        "Dann beschreiben wir Inhalt und freien Raum, ohne eine genaue Zahl abzuleiten.",
+        "يبقى نوصف المحتوى والفراغ من غير ما نستنتج رقم دقيق."
+      ],
+      [
+        "Nils",
+        "Die Zuckerwürfel auf dem anderen Foto sind auch kein gemeinsamer Maßstab.",
+        "ومكعبات السكر في الصورة التانية مش مقياس مشترك برضه."
+      ],
+      [
+        "Maja",
+        "Genau. Dafür fehlt eine verlässliche Referenz zwischen den Bildern.",
+        "بالظبط. ناقص مرجع موثوق بين الصورتين عشان كده."
+      ],
+      [
+        "Nils",
+        "Wir messen hier nichts und füllen das Glas nicht nach.",
+        "إحنا مش بنقيس حاجة هنا ولا بنزود البرطمان."
+      ]
+    ],
+    "q": [
+      [
+        "Was fehlt ihnen?",
+        "Eine Skala oder bekannte Gefäßgröße.",
+        "Ein Bild des Honigglases.",
+        "Ein sichtbarer Deckel."
+      ],
+      [
+        "Was beschreiben sie stattdessen?",
+        "Inhalt und freien Raum.",
+        "Eine erfundene Milliliterzahl.",
+        "Eine bezahlte Bestellung."
+      ],
+      [
+        "Was machen sie nicht?",
+        "Messen oder nachfüllen.",
+        "Die Referenzfrage besprechen.",
+        "Das Foto ansehen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "zuckerwuerfel-honigglaeser": [
+    "bleibt das Nomen hier gleich: Zuckerwürfel.",
+    "Honiggläser.",
+    "vergleichen wir meine Antworten mit den Karten."
+  ],
+  "alte-und-neue-fassung": [
+    "Honiggläser kommt deutlich in das freie Feld.",
+    "Bei Zuckerwürfel war die Mehrzahl schon richtig.",
+    "Die Wiederholung ohne Wortliste machen wir getrennt."
+  ],
+  "hoehe-ist-kein-volumenwert": [
+    "Eine Skala oder bekannte Gefäßgröße haben wir nicht.",
+    "beschreiben wir Inhalt und freien Raum",
+    "Wir messen hier nichts und füllen das Glas nicht nach."
+  ]
+});
