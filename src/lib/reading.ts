@@ -333,3 +333,6 @@ readings.push(...badbilderTexts);
 
 import {naturmusterTexts} from './reading-naturmuster';
 readings.push(...naturmusterTexts);
+
+import {stiftundklammerTexts} from './reading-stiftundklammer';
+readings.push(...stiftundklammerTexts);

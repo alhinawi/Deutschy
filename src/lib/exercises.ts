@@ -495,3 +495,6 @@ for(const[topic,rows]of Object.entries(badbilderGrammar))exercises[topic].push(.
 
 import {naturmusterGrammar} from './exercises-naturmuster';
 for(const[topic,rows]of Object.entries(naturmusterGrammar))exercises[topic].push(...rows);
+
+import {stiftundklammerGrammar} from './exercises-stiftundklammer';
+for(const[topic,rows]of Object.entries(stiftundklammerGrammar))exercises[topic].push(...rows);

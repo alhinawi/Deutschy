@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-tenth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-eleventh practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1150,9 +1150,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Dialogue/conversation search field |Themed keyboard focus/page-ground gap on existing44px field.8 AR/EN320/390 states, axe, matching query/no-match/clear restores results and search focus without XP. Actual390AR/EN pixels inspected. Search/filter/routing/answer/scoring/playback logic unchanged. |
 | [ ] | Listening/dictation |68 original segments,272 exact German payload/source/answer checks. Human editorial and real-device voice review pending. Level labels not certification; progress device-local. |
 
+### List 111: Colored points, joined strips and untested function
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-farbige-spitzen-und-streifen/` and linked dialogue | Lea/Karim colored Wachsmalstifte pointing right on white, red top/pink lower separated; silver/gold-toned Heftklammer strips overlap with fine parallel lines. Articles/names/visible arrangement, not drawing or stapling. |
+| [ ] | `/reading/alltag-a2-eine-klammer-ein-streifen/` and linked dialogue | Nele/Amir one staple versus strip of many joined staples, covered/edge-cut areas not precise inventory. Separate crayons not verified complete set. Wachsmalstifte e ending versus Heftklammern n, not universal rules. |
+| [ ] | `/reading/alltag-b1-glanz-ohne-funktionsprobe/` and linked dialogue | Jule/Tarek no verified size/device compatibility, gold-colored appearance not gold composition/coating test. No actual color application, coverage/durability/age-suitability/composition proof, no purchase recommendation or machine-use instructions. |
+| [ ] | `/lessons/stiftundklammer/` and `/credits/` | der Wachsmalstift/Wachsmalstifte (قلم شمع تلوين), die Heftklammer/Heftklammern (دبوس دباسة), DWDS verified. Katie Rainbow9149206 whole unwrapped crayons,1800x2700 crop80,750-1720,1980; Peppered Pixels Design Studio29157286 strips,1800x2400 crop0,700-1800,2050. Both800x600 without stretch/padding/brand/face.2078147 pencils and4049356 furniture connectors rejected;8605030/8014303 alternative crayon framing not selected. |
+| [ ] | Six appended grammar banks |24 article/dative/present/possessive/two-way/negation rows, prior identities preserved. der/die/der/das; der/dem/dem/den; nennt/prüfst/ändert/testen; ihre/sein/seinen/unsere; unter dem/das Foto and neben der/die Tabelle; keinen/kein/keine/nicht. |
+| [ ] | Dialogue/conversation level filters |44px minimum height and themed keyboard focus on existing All/A1/A2/B1 controls.28 AR/EN320/390 keyboard/axe states, Enter/Space switches pressed state and corresponding list without XP.390AR/EN pixels inspected. No filtering/routing/answer/scoring/playback logic change. |
+| [ ] | Listening/dictation |64 original segments,256 exact German payload/source/answer checks. Native editorial and real-device voice review pending. Level labels not certification; progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **877 photo nouns / 155 topics**, **348 reading texts / 1345 reading questions**, **41 core grammar topics / 2590 core grammar questions**, **288 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **879 photo nouns / 156 topics**, **351 reading texts / 1357 reading questions**, **41 core grammar topics / 2614 core grammar questions**, **291 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1164,7 +1176,7 @@ This is an inventory, not completed review. Snapshot: **877 photo nouns / 155 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 98 · A2 126 · B1 94 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 99 · A2 127 · B1 95 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
