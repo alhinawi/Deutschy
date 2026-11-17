@@ -357,3 +357,6 @@ readings.push(...gebaeckformenTexts);
 
 import {gebaeckkartenTexts} from './reading-gebaeckkarten';
 readings.push(...gebaeckkartenTexts);
+
+import {kleidermusterTexts} from './reading-kleidermuster';
+readings.push(...kleidermusterTexts);

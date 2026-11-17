@@ -21488,3 +21488,218 @@ Object.assign(dialogueEvidence,{
     "ob wir dasselbe Stück meinen."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "krawattenmuster-und-baerengesicht",
+    "level": "A1",
+    "title": [
+      "Welche Karte passt?",
+      "أنهي كارت مناسب؟"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Welche Krawatte meinst du?",
+        "تقصد أنهي كرافتة؟"
+      ],
+      [
+        "Karim",
+        "Die rote mit den kleinen Ringen.",
+        "الحمرا اللي عليها حلقات صغيرة."
+      ],
+      [
+        "Lea",
+        "Und welches Wort gehört zum braunen Handschuh?",
+        "وأنهي كلمة تخص الجوانتي البني؟"
+      ],
+      [
+        "Karim",
+        "Der Fäustling. Der Daumen hat einen eigenen Teil.",
+        "دير فويستلينج. الإبهام ليه جزء لوحده."
+      ],
+      [
+        "Lea",
+        "Vorn sehe ich ein Bärengesicht als Verzierung.",
+        "قدام شايفة زينة على شكل وش دب."
+      ],
+      [
+        "Karim",
+        "Dann lege die zweite Karte neben dieses Foto.",
+        "يبقى حطي الكارت التاني جنب الصورة دي."
+      ],
+      [
+        "Lea",
+        "Gut. Jetzt lese ich beide Namen mit Artikel.",
+        "تمام. دلوقتي هقرا الاسمين بالأداة."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Krawatte meint Karim?",
+        "Die rote mit den kleinen Ringen.",
+        "Eine unsichtbare schwarze.",
+        "Nur eine blaue Mütze."
+      ],
+      [
+        "Welcher Teil hat einen eigenen Bereich?",
+        "Der Daumen.",
+        "Jeder einzelne Finger sichtbar.",
+        "Ein Schuhabsatz."
+      ],
+      [
+        "Was ist das Bärengesicht hier?",
+        "Eine Verzierung.",
+        "Ein lebender Bär.",
+        "Der Name des Besitzers."
+      ]
+    ]
+  },
+  {
+    "id": "ein-sichtbarer-faeustling",
+    "level": "A2",
+    "title": [
+      "Wo ist das zweite Stück?",
+      "القطعة التانية فين؟"
+    ],
+    "lines": [
+      [
+        "Amir",
+        "Ich schreibe ein Paar Fäustlinge unter das Foto.",
+        "هكتب زوج جوانتيات تحت الصورة."
+      ],
+      [
+        "Nele",
+        "Wo siehst du den zweiten Fäustling?",
+        "شايف الجوانتي التاني فين؟"
+      ],
+      [
+        "Amir",
+        "Im Ausschnitt erkenne ich nur einen.",
+        "في الجزء الظاهر شايف واحدة بس."
+      ],
+      [
+        "Nele",
+        "Dann beschreibe ein Stück, nicht ein sichtbares Paar.",
+        "يبقى اوصف قطعة مش زوج باين."
+      ],
+      [
+        "Amir",
+        "Die Person kann trotzdem einen zweiten besitzen.",
+        "الشخص ممكن مع كده يكون عنده واحدة تانية."
+      ],
+      [
+        "Nele",
+        "Ja. Das Foto beantwortet diese Frage nicht.",
+        "أيوه. الصورة مش بتجاوب السؤال ده."
+      ],
+      [
+        "Amir",
+        "Die Mehrzahl Fäustlinge bleibt als Wortform auf der Karte.",
+        "الجمع فويستلينجه يفضل كصيغة كلمة على الكارت."
+      ]
+    ],
+    "q": [
+      [
+        "Wie viele Fäustlinge erkennt Amir im Ausschnitt?",
+        "Einen.",
+        "Vier.",
+        "Keinen."
+      ],
+      [
+        "Was kann die Person trotzdem besitzen?",
+        "Einen zweiten Fäustling.",
+        "Sicher keine Kleidung.",
+        "Nur die Wortkarte."
+      ],
+      [
+        "Was bleibt auf der Karte?",
+        "Die Mehrzahlform Fäustlinge.",
+        "Ein bestätigter Kaufpreis.",
+        "Eine genaue Temperaturangabe."
+      ]
+    ]
+  },
+  {
+    "id": "fundstueck-erst-beschreiben",
+    "level": "B1",
+    "title": [
+      "Ein passendes Bild ist kein Nachweis",
+      "الصورة المناسبة مش إثبات"
+    ],
+    "lines": [
+      [
+        "Tarek",
+        "Ich suche einen braunen Fäustling mit einem Bärengesicht.",
+        "بدور على جوانتي بني بصوابع متجمعة وعليه وش دب."
+      ],
+      [
+        "Jule",
+        "Welche weiteren Merkmale kann deine Figur aus eigener Erinnerung nennen?",
+        "إيه الصفات الزيادة اللي شخصيتك تقدر تقولها من ذاكرتها؟"
+      ],
+      [
+        "Tarek",
+        "Eine Marke erfinde ich nicht. Auf dem Foto ist keine lesbar.",
+        "مش هخترع ماركة. مفيش واحدة مقروءة في الصورة."
+      ],
+      [
+        "Jule",
+        "Ein passendes Bild bestätigt noch keine Rückgabe.",
+        "الصورة المناسبة لسه مش بتأكد إرجاع الحاجة."
+      ],
+      [
+        "Tarek",
+        "Bei der Krawatte sage ich rot mit kleinen Ringen statt nur bunt.",
+        "في الكرافتة هقول حمرا بحلقات صغيرة بدل ملونة بس."
+      ],
+      [
+        "Jule",
+        "Auch das beschreibt erst den Gegenstand, nicht seinen Eigentümer.",
+        "وده برضه بيوصف الحاجة الأول مش صاحبها."
+      ],
+      [
+        "Tarek",
+        "Dann trennen wir Beschreibung, Aussage und offene Zuordnung.",
+        "يبقى نفصل الوصف والكلام المتقال وربط الملكية اللي لسه مفتوح."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Marke nennt Tarek?",
+        "Keine, er erfindet keine.",
+        "Eine bestätigte aus dem Innenetikett.",
+        "Eine aus einem Kaufbeleg."
+      ],
+      [
+        "Was bestätigt ein passendes Bild noch nicht?",
+        "Eine Rückgabe.",
+        "Eine mögliche Ähnlichkeit.",
+        "Eine sichtbare Farbe."
+      ],
+      [
+        "Was beschreibt rot mit kleinen Ringen zunächst?",
+        "Den Gegenstand.",
+        "Den nachgewiesenen Eigentümer.",
+        "Die bestätigte Öffnungszeit."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "krawattenmuster-und-baerengesicht": [
+    "Die rote mit den kleinen Ringen.",
+    "Der Daumen hat einen eigenen Teil.",
+    "ein Bärengesicht als Verzierung."
+  ],
+  "ein-sichtbarer-faeustling": [
+    "Im Ausschnitt erkenne ich nur einen.",
+    "Die Person kann trotzdem einen zweiten besitzen.",
+    "Die Mehrzahl Fäustlinge bleibt als Wortform auf der Karte."
+  ],
+  "fundstueck-erst-beschreiben": [
+    "Eine Marke erfinde ich nicht.",
+    "Ein passendes Bild bestätigt noch keine Rückgabe.",
+    "Auch das beschreibt erst den Gegenstand"
+  ]
+});

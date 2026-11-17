@@ -651,6 +651,10 @@
   {
    "id": "gebaeckkarten",
    "ar": "المافن والدونات"
+  },
+  {
+   "id": "kleidermuster",
+   "ar": "الكرافتة والجوانتي"
   }
  ],
  "words": [
@@ -14142,6 +14146,36 @@
     "file": "1479119.jpg",
     "commons": "https://www.pexels.com/photo/doughnut-on-plate-1479119/",
     "author": "Jess Bailey Designs",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "krawatte",
+   "topic": "kleidermuster",
+   "art": "die",
+   "de": "Krawatte",
+   "plural": "Krawatten",
+   "ar": "كرافتة",
+   "photo": {
+    "file": "63580.jpg",
+    "commons": "https://www.pexels.com/photo/blue-and-black-dotted-neck-tie-63580/",
+    "author": "Pixabay",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "faeustling",
+   "topic": "kleidermuster",
+   "art": "der",
+   "de": "Fäustling",
+   "plural": "Fäustlinge",
+   "ar": "جوانتي بصوابع متجمعة",
+   "photo": {
+    "file": "6866219.jpg",
+    "commons": "https://www.pexels.com/photo/a-person-wearing-brown-mitten-6866219/",
+    "author": "Valeriia Miller",
     "license": "Pexels License",
     "modified": true
    }

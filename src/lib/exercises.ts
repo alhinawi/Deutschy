@@ -519,3 +519,6 @@ for(const[topic,rows]of Object.entries(gebaeckformenGrammar))exercises[topic].pu
 
 import {gebaeckkartenGrammar} from './exercises-gebaeckkarten';
 for(const[topic,rows]of Object.entries(gebaeckkartenGrammar))exercises[topic].push(...rows);
+
+import {kleidermusterGrammar} from './exercises-kleidermuster';
+for(const[topic,rows]of Object.entries(kleidermusterGrammar))exercises[topic].push(...rows);

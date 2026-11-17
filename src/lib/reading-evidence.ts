@@ -2111,3 +2111,24 @@ Object.assign(readingEvidence,{
     "Das Ei am Rand des Muffinfotos beweist keine bestimmte Rezeptur;"
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-krawatten-und-ein-faeustling": [
+    "Ihre oberen Teile haben Knoten.",
+    "Links sieht Lea Karomuster",
+    "Vorn hat er eine Verzierung wie ein Bärengesicht.",
+    "Wem die Kleidungsstücke gehören, wissen sie nicht."
+  ],
+  "alltag-a2-ein-faeustling-ist-kein-paar": [
+    "die Mehrzahl die Krawatten.",
+    "Bei Fäustling gehört das ä bereits zur Einzahl.",
+    "Im Ausschnitt ist er nicht erkennbar.",
+    "Das heißt nicht, dass die Person keinen zweiten besitzt."
+  ],
+  "alltag-b1-fundbuero-beschreibung-und-zuordnung": [
+    "Die Fotos stammen nicht von Gegenständen, die in einem wirklichen Fundbüro abgegeben wurden.",
+    "nur ein Anlass für weitere Prüfung, keine bestätigte Rückgabe.",
+    "aber unterschiedliche Muster.",
+    "sichtbare Merkmale, Aussagen einer suchenden Figur und noch offene Zuordnung."
+  ]
+});
