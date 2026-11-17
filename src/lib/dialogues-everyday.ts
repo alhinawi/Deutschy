@@ -16113,3 +16113,218 @@ Object.assign(dialogueEvidence,{
     "Es sind zwei getrennte Wortbeispiele."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "wohin-kommt-die-karte",
+    "level": "A1",
+    "title": [
+      "Wohin kommt die Karte?",
+      "الكارت ييجي فين؟"
+    ],
+    "lines": [
+      [
+        "Rana",
+        "Lies bitte zuerst die Karte mit Glockenspiel.",
+        "اقرا الأول الكارت اللي عليه اسم الجلوكنشبيل."
+      ],
+      [
+        "Tim",
+        "Die kommt zum bunten Instrument mit den Metallplatten.",
+        "دي تيجي عند الآلة الملونة اللي فيها شرائح معدن."
+      ],
+      [
+        "Rana",
+        "Und welcher Artikel gehört dazu?",
+        "وأداة التعريف اللي معاها إيه؟"
+      ],
+      [
+        "Tim",
+        "Das. Bei Cabasa heißt es die.",
+        "داس. ومع كاباسا تبقى دي."
+      ],
+      [
+        "Rana",
+        "Schau auch auf die beiden Pluralformen.",
+        "بص كمان على صيغتين الجمع."
+      ],
+      [
+        "Tim",
+        "Glockenspiele mit e am Ende und Cabasas mit s.",
+        "جمع الجلوكنشبيل بإي في الآخر وجمع الكاباسا بإس."
+      ],
+      [
+        "Rana",
+        "Gut. Jetzt mische ich die Karten noch einmal.",
+        "تمام. دلوقتي هلخبط الكروت تاني."
+      ]
+    ],
+    "q": [
+      [
+        "Welches Bild bekommt die erste Karte?",
+        "Das bunte Instrument mit Metallplatten.",
+        "Das Bild mit einem Fahrrad.",
+        "Das Foto mit dem Meer."
+      ],
+      [
+        "Welchen Artikel nennt Tim für Cabasa?",
+        "Die.",
+        "Das.",
+        "Der."
+      ],
+      [
+        "Was macht Rana am Ende?",
+        "Sie mischt die Karten noch einmal.",
+        "Sie hängt die Fotos auf.",
+        "Sie schreibt ein Lied."
+      ]
+    ]
+  },
+  {
+    "id": "warte-bis-ich-frage",
+    "level": "A2",
+    "title": [
+      "Warte, bis ich frage",
+      "استنى لحد ما أسأل"
+    ],
+    "lines": [
+      [
+        "Dina",
+        "Ich kenne den Namen. Beim Artikel überlege ich noch.",
+        "أنا عارفة الاسم. لسه بفكر في أداة التعريف."
+      ],
+      [
+        "Alex",
+        "Das! Oh, ich habe zu früh geholfen.",
+        "داس! آه أنا ساعدت بدري."
+      ],
+      [
+        "Dina",
+        "Ich wollte es erst selbst versuchen.",
+        "كنت عايزة أجرب بنفسي الأول."
+      ],
+      [
+        "Alex",
+        "Sollen wir deshalb die ganze Runde neu starten?",
+        "نبدأ الجولة كلها من جديد بسبب كده؟"
+      ],
+      [
+        "Dina",
+        "Nein. Nur diese Karte kommt zur Wiederholung.",
+        "لأ. الكارت ده بس يروح للمراجعة."
+      ],
+      [
+        "Alex",
+        "Und beim nächsten Mal warte ich auf deine Frage.",
+        "والمرة الجاية هستنى سؤالك."
+      ],
+      [
+        "Dina",
+        "Genau. Eine kurze Pause ist noch keine Bitte um Hilfe.",
+        "بالظبط. الوقفة الصغيرة لسه مش طلب مساعدة."
+      ]
+    ],
+    "q": [
+      [
+        "Wobei überlegt Dina noch?",
+        "Beim Artikel.",
+        "Beim Namen ihrer Freundin.",
+        "Bei der Uhrzeit des Konzerts."
+      ],
+      [
+        "Was kommt zur Wiederholung?",
+        "Nur die betroffene Karte.",
+        "Alle früheren richtigen Karten.",
+        "Die ganze Musikschule."
+      ],
+      [
+        "Worauf will Alex beim nächsten Mal warten?",
+        "Auf Dinas Frage.",
+        "Auf ein Signal vom Instrument.",
+        "Auf einen Anruf."
+      ]
+    ]
+  },
+  {
+    "id": "welche-schwierigkeit-meinst-du",
+    "level": "B1",
+    "title": [
+      "Welche Schwierigkeit meinst du?",
+      "تقصد أنهي صعوبة؟"
+    ],
+    "lines": [
+      [
+        "Ben",
+        "Unsere Überschrift Schwierigkeit der Instrumente stimmt so nicht.",
+        "عنواننا صعوبة الآلات مش مظبوط بالشكل ده."
+      ],
+      [
+        "Leila",
+        "Richtig. Wir haben nur die Namen den Fotos zugeordnet.",
+        "صح. إحنا وصلنا الأسامي بالصور بس."
+      ],
+      [
+        "Ben",
+        "Und ich kannte Cabasa schon vorher.",
+        "وأنا كنت عارف اسم الكاباسا من قبل كده."
+      ],
+      [
+        "Leila",
+        "Dann schreiben wir persönliche Schwierigkeit beim Erinnern dazu.",
+        "يبقى نكتب معاها الصعوبة الشخصية في الافتكار."
+      ],
+      [
+        "Ben",
+        "Außerdem notiere ich, ob ich einen Hinweis gebraucht habe.",
+        "وكمان هكتب إذا كنت احتجت تلميح."
+      ],
+      [
+        "Leila",
+        "Das ist genauer, aber noch kein Maßstab für alle.",
+        "ده أدق بس لسه مش مقياس للكل."
+      ],
+      [
+        "Ben",
+        "Und daraus wird keine Empfehlung zum Instrumentenkauf.",
+        "ومش هيطلع منه توصية بشراء آلة."
+      ]
+    ],
+    "q": [
+      [
+        "Was haben beide tatsächlich gemacht?",
+        "Namen den Fotos zugeordnet.",
+        "Beide Instrumente gekauft.",
+        "Einen Klangvergleich aufgezeichnet."
+      ],
+      [
+        "Welche Vorerfahrung nennt Ben?",
+        "Er kannte Cabasa schon vorher.",
+        "Er hatte das Glockenspiel selbst gebaut.",
+        "Er kannte alle Lernenden."
+      ],
+      [
+        "Wofür gilt die Notiz nicht als Maßstab?",
+        "Für alle Lernenden.",
+        "Für ihre eigene beschriebene Runde.",
+        "Für den vermerkten Hinweisbedarf."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "wohin-kommt-die-karte": [
+    "zum bunten Instrument mit den Metallplatten.",
+    "Bei Cabasa heißt es die.",
+    "Jetzt mische ich die Karten noch einmal."
+  ],
+  "warte-bis-ich-frage": [
+    "Beim Artikel überlege ich noch.",
+    "Nur diese Karte kommt zur Wiederholung.",
+    "warte ich auf deine Frage."
+  ],
+  "welche-schwierigkeit-meinst-du": [
+    "nur die Namen den Fotos zugeordnet.",
+    "ich kannte Cabasa schon vorher.",
+    "aber noch kein Maßstab für alle."
+  ]
+});

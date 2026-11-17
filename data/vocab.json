@@ -551,6 +551,10 @@
   {
    "id": "pinnwoerter",
    "ar": "دبوس رسم ولوحة دبابيس"
+  },
+  {
+   "id": "klangnamen",
+   "ar": "جلوكنشبيل وكاباسا"
   }
  ],
  "words": [
@@ -13292,6 +13296,36 @@
     "file": "4068301.jpg",
     "commons": "https://www.pexels.com/photo/person-holding-brown-and-white-wooden-board-4068301/",
     "author": "cottonbro studio",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "glockenspiel",
+   "topic": "klangnamen",
+   "art": "das",
+   "de": "Glockenspiel",
+   "plural": "Glockenspiele",
+   "ar": "جلوكنشبيل، آلة شرائح معدنية",
+   "photo": {
+    "file": "6743155.jpg",
+    "commons": "https://www.pexels.com/photo/brightly-colored-xylophone-with-wooden-mallet-6743155/",
+    "author": "Polina Tankilevitch",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "cabasa",
+   "topic": "klangnamen",
+   "art": "die",
+   "de": "Cabasa",
+   "plural": "Cabasas",
+   "ar": "كاباسا، شخشيخة خرز",
+   "photo": {
+    "file": "7285251.jpg",
+    "commons": "https://www.pexels.com/photo/hands-holding-a-cabasa-7285251/",
+    "author": "www.kaboompics.com",
     "license": "Pexels License",
     "modified": true
    }

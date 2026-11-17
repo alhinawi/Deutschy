@@ -225,4 +225,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-der-kleine-punkt-und-die-tafel',dialogue:'welchen-punkt-meinst-du'},
  {reading:'alltag-a2-der-zettel-ist-noch-keine-antwort',dialogue:'geschrieben-aber-noch-nicht-gelesen'},
  {reading:'alltag-b1-kein-plan-auf-leeren-zetteln',dialogue:'die-farbe-reicht-nicht'},
+ {reading:'alltag-a1-das-wort-neben-dem-bild',dialogue:'wohin-kommt-die-karte'},
+ {reading:'alltag-a2-ein-hinweis-nach-dem-versuch',dialogue:'warte-bis-ich-frage'},
+ {reading:'alltag-b1-einfach-ist-kein-fester-massstab',dialogue:'welche-schwierigkeit-meinst-du'},
 ];

@@ -1586,3 +1586,24 @@ Object.assign(readingEvidence,{
     "Die sprachliche Übung ist abgeschlossen. Ein gemeinsamer Arbeitsplan oder eine Bestandsaufnahme der abgebildeten Gegenstände wurde damit nicht erstellt."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-das-wort-neben-dem-bild": [
+    "Er liest zuerst Glockenspiel und legt die Karte zum bunten Instrument.",
+    "In Glockenspiel stehen c und k direkt nebeneinander.",
+    "Er vergisst zuerst das e am Ende von Glockenspiele.",
+    "Danach tauschen beide die Rollen."
+  ],
+  "alltag-a2-ein-hinweis-nach-dem-versuch": [
+    "Die andere Person gibt nur dann einen Hinweis, wenn ausdrücklich danach gefragt wird.",
+    "Die bereits ohne Hilfe beantwortete Karte mit Cabasa bleibt bei den fertigen Karten.",
+    "Das Schweigen allein behandelt Alex diesmal nicht als Bitte um Hilfe.",
+    "Die Markierung gilt nur für diese Wortrunde."
+  ],
+  "alltag-b1-einfach-ist-kein-fester-massstab": [
+    "Er kannte den Namen Cabasa schon aus einem Musikvideo,",
+    "Sie haben weder gespielt noch die Handhabung oder den Klang verglichen.",
+    "Ben ergänzt, ob eine Antwort ohne Hilfe oder nach einem Hinweis kam.",
+    "keine Empfehlung für den Kauf oder das Erlernen eines Instruments."
+  ]
+});

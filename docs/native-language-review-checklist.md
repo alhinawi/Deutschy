@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the ninety-third practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the ninety-fourth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -946,9 +946,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Article-game German direction | Main German noun prompt explicit ltr/de on both AR/EN pages. Actual390 AR/EN keyboard-focused feedback inspected. Shared flash/spelling/scoring regressions retained. |
 | [ ] | Listening/dictation |63 original segments/Egyptian Arabic; native editorial and real-device voice review pending. Labels organize practice, not proficiency assessment. |
 
+### List 94: instrument names, requested hints and personal difficulty
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-das-wort-neben-dem-bild/` and linked dialogue | Rana/Tim match two photos/cards, das Glockenspiel/die Cabasa. c+k in Glockenspiel, capital C in Cabasa; plural e/s. Missing e correction, shuffle/rematch then role swap. Names practice, no instrument played. |
+| [ ] | `/reading/alltag-a2-ein-hinweis-nach-dem-versuch/` and linked dialogue | Dina/Alex agree hints only on explicit request. Premature article answer goes to repeat pile, previous independent Cabasa answer unchanged. Short silence is not a request. Later explicit first-sound hint, aided/unaided record scoped to word round, not musical ability. |
+| [ ] | `/reading/alltag-b1-einfach-ist-kein-fester-massstab/` and linked dialogue | Leila/Ben rate name recall differently due to prior exposure. Replace instrument difficulty title with personal name-recall difficulty in this round; record hints. No universal learner ranking, instrument skill/handling/sound comparison or purchase advice. No set revisit time. Color alone not pitch label. |
+| [ ] | `/lessons/klangnamen/` and `/credits/` | das Glockenspiel/Glockenspiele, جلوكنشبيل، آلة شرائح معدنية; die Cabasa/Cabasas, كاباسا، شخشيخة خرز. DWDS Glockenspiel instrument sense, Cabasa German feminine/plural corroboration and modern beaded-cylinder manufacturer description. Stock6743155 loosely labelled xylophone but actual thin metal bars are Glockenspiel, not wooden-bar Xylophon. Whole instrument/mallet; Cabasa head whole/handle naturally hand-occluded. No brand/face/padding. |
+| [ ] | Six appended grammar banks |24 article/accusative/perfect/modal/two-way-preposition/connector rows. Old saved IDs unchanged. gemischt/ergänzt/gefragt/zugeordnet; kannst/soll/wollen/dürft; neben dem/das Foto, in der/die Tabelle; bis/obwohl/weil/damit. Both languages pending native review. |
+| [ ] | Article-choice semantics | Three article choices now one labelled group linked to the existing prompt. AR/EN320/390 group relationship/keyboard/XP checked and actual390 focused feedback pixels inspected. No score/schedule change. |
+| [ ] | Listening/dictation |64 original segments/Egyptian Arabic. Native editorial and real-device voice review pending. Labels organize practice, no proficiency claim. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **843 photo nouns / 138 topics**, **297 reading texts / 1141 reading questions**, **41 core grammar topics / 2182 core grammar questions**, **237 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **845 photo nouns / 139 topics**, **300 reading texts / 1153 reading questions**, **41 core grammar topics / 2206 core grammar questions**, **240 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -960,7 +972,7 @@ This is an inventory, not completed review. Snapshot: **843 photo nouns / 138 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 81 · A2 109 · B1 77 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 82 · A2 110 · B1 78 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

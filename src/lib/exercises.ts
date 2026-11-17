@@ -444,3 +444,6 @@ for(const[topic,rows]of Object.entries(loeffelformenGrammar))exercises[topic].pu
 
 import {pinnwoerterGrammar} from './exercises-pinnwoerter';
 for(const[topic,rows]of Object.entries(pinnwoerterGrammar))exercises[topic].push(...rows);
+
+import {klangnamenGrammar} from './exercises-klangnamen';
+for(const[topic,rows]of Object.entries(klangnamenGrammar))exercises[topic].push(...rows);

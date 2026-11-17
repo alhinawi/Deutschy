@@ -282,3 +282,6 @@ readings.push(...loeffelformenTexts);
 
 import {pinnwoerterTexts} from './reading-pinnwoerter';
 readings.push(...pinnwoerterTexts);
+
+import {klangnamenTexts} from './reading-klangnamen';
+readings.push(...klangnamenTexts);

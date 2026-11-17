@@ -164,11 +164,11 @@ function Rounds({ game, list, again }: Props) {
   if (game === 'article') {
     return (
       <Frame i={i} n={qs.length}>
-        <p data-article-prompt className="text-center text-sm text-muted">{t('اختار أداة التعريف المناسبة للكلمة.', 'Choose the definite article for this noun.')}</p>
+        <p id="article-help" data-article-prompt className="text-center text-sm text-muted">{t('اختار أداة التعريف المناسبة للكلمة.', 'Choose the definite article for this noun.')}</p>
         <Photo w={w} />
         <p dir="ltr" className="de [overflow-wrap:anywhere] text-center text-4xl font-semibold" lang="de">{w.de}</p>
         <p className="ar-title text-center text-xl text-muted">{glossOf(w, lang)}</p>
-        <div className="grid grid-cols-3 gap-3">
+        <div role="group" aria-labelledby="article-help" className="grid grid-cols-3 gap-3">
           {(['der', 'die', 'das'] as const).map((a) => (
             <Choice key={a} label={a} ariaLabel={t(`اختار ${a}`, `Choose ${a}`)} state={picked === null ? '' : a === w.art ? 'good' : picked === a ? 'bad' : ''} disabled={picked!==null} onClick={() => { if (picked || locked.current) return; setPicked(a); advance(a === w.art); }} />
           ))}
