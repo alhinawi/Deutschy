@@ -291,3 +291,6 @@ readings.push(...raumfotosTexts);
 
 import {beerennamenTexts} from './reading-beerennamen';
 readings.push(...beerennamenTexts);
+
+import {gemuesebilderTexts} from './reading-gemuesebilder';
+readings.push(...gemuesebilderTexts);

@@ -563,6 +563,10 @@
   {
    "id": "beerennamen",
    "ar": "توت العليق وتوت أزرق"
+  },
+  {
+   "id": "gemuesebilder",
+   "ar": "خرشوف وكرنب أبو ركبة"
   }
  ],
  "words": [
@@ -13394,6 +13398,36 @@
     "file": "33102411.jpg",
     "commons": "https://www.pexels.com/photo/close-up-of-fresh-blueberries-full-frame-33102411/",
     "author": "Natalia Sevruk",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "artischocke",
+   "topic": "gemuesebilder",
+   "art": "die",
+   "de": "Artischocke",
+   "plural": "Artischocken",
+   "ar": "خرشوف",
+   "photo": {
+    "file": "3647046.jpg",
+    "commons": "https://www.pexels.com/photo/green-artichoke-on-gray-round-plate-3647046/",
+    "author": "Andie",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "kohlrabi",
+   "topic": "gemuesebilder",
+   "art": "der",
+   "de": "Kohlrabi",
+   "plural": "Kohlrabis",
+   "ar": "كرنب أبو ركبة",
+   "photo": {
+    "file": "97311.jpg",
+    "commons": "https://www.pexels.com/photo/red-onions-97311/",
+    "author": "Francesco Ungaro",
     "license": "Pexels License",
     "modified": true
    }

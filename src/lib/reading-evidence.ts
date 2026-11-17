@@ -1649,3 +1649,24 @@ Object.assign(readingEvidence,{
     "Die Fotos dienen als Anschauung für die Sprachübung."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-links-auf-dem-blatt": [
+    "Dalia legt das Foto mit den Artischocken links auf das Blatt.",
+    "Auf dem linken Bild liegen zwei grüne Artischocken auf einem Teller.",
+    "Bei Kohlrabi braucht er noch einen Blick auf die Karte.",
+    "Am Ende legen sie die Karten in einen Umschlag."
+  ],
+  "alltag-a2-die-kleinere-aufgabe": [
+    "Sie bittet um eine kleinere erste Aufgabe.",
+    "Die fertigen Antworten schreibt er nicht dazu.",
+    "Beim Kohlrabifoto möchte sie die neue Reihenfolge selbst ausprobieren.",
+    "Die Lehrerin notiert, dass die veränderte Aufgabe in dieser Runde geholfen hat."
+  ],
+  "alltag-b1-der-unfaire-bildvergleich": [
+    "Zu den Aufnahmen fehlt eine Angabe zum Abstand; ein gemeinsamer Maßstab ist ebenfalls nicht zu sehen.",
+    "Für die Aussage über das Gewicht fehlt ebenfalls eine Messung.",
+    "Damit ist nicht behauptet, jeder Kohlrabi habe dieselbe Farbe",
+    "In der Schlussfassung ersetzen sie die unbelegten Steigerungen durch konkrete Bildbeschreibungen."
+  ]
+});

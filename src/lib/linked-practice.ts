@@ -234,4 +234,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-eine-beere-viele-beeren',dialogue:'das-zweite-e'},
  {reading:'alltag-a2-der-rezeptvorschlag',dialogue:'das-fragezeichen-bleibt'},
  {reading:'alltag-b1-zwei-namen-ein-eintrag',dialogue:'namen-oder-fruechte-zaehlen'},
+ {reading:'alltag-a1-links-auf-dem-blatt',dialogue:'das-foto-bleibt-links'},
+ {reading:'alltag-a2-die-kleinere-aufgabe',dialogue:'erst-der-name'},
+ {reading:'alltag-b1-der-unfaire-bildvergleich',dialogue:'groesser-als-im-bild'},
 ];
