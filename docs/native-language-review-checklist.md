@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the thirtieth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the thirty-first practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -196,6 +196,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/grammar/satzbau/`, `/grammar/praesens/`, `/grammar/negation/`, `/grammar/trennbare-verben/`, `/grammar/dativ/`, `/grammar/perfekt/` | Review the 24 appended music-at-home prompts and explanations. Check neutral yes/no question versus a possible echo question and all separable/participle forms. Preserve earlier saved question indices. |
 | [ ] | `/case-lab/` and `/dictation/` | Check unchanged 12 case-comparison prompts with new locks, per-contrast counts, selected-answer feedback and scoped reset that keeps other groups. Review focused music-reading dictation on a real German voice. Mocked speech does not check pronunciation; these tools do not save points/history. |
 
+### Thirty-first update: additional pending targets
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-malplatz/` | Check shared-table sequence, paper/brush/palette language, blue circle and all 4 answers. Review **Kannst du mir die Palette geben?**, later versus after homework and its 3 answers separately. |
+| [ ] | `/reading/alltag-a2-farbproben/` | Check Farbton, Rückseite, Unterlage, Reststück, approximate notes versus exact recipe and all 4 questions. Review **Das ist noch keine Unterlage**, asking before reusing a sample and its 3 answers. |
+| [ ] | `/reading/alltag-b1-bilderrunde/` | Check feedback, observation versus intent, leaving the unfinished image on its easel, voluntary participation and permission before photos. Review **Erst fragen, dann bewegen** and all 7 questions across the pair. This is a fictional private discussion, not a universal art-criticism method. |
+| [ ] | `/lessons/malrunde/` | Check die Palette / Paletten in the artist-tool sense, die Staffelei / Staffeleien, Egyptian meanings and complete-object photos. No drawings, paintings, people or branded tools were used as noun photos. |
+| [ ] | `/grammar/akkusativ/`, `/grammar/possessiv/`, `/grammar/modalverben/`, `/grammar/imperativ/`, `/grammar/komparativ/`, `/grammar/dativ-praepositionen/` | Review 24 appended painting-at-home prompts/explanations, supplied distractors and alternative correct forms. Preserve saved topic/index identities. |
+| [ ] | `/sound-contrasts/` and `/dictation/` | Check same-word replay, one-choice lock, stop/cancel, voice-switch cancellation and playback-failure wording. Original six sound pairs/tips remain unchanged. Review 44 new dictation sentences with a real German voice; mocked speech does not check pronunciation. No points/history are saved by either tool. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -210,7 +221,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **717 photo nouns / 75 topics**, **108 reading texts / 385 reading questions**, **41 core grammar topics / 670 core grammar questions**, **48 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **719 photo nouns / 76 topics**, **111 reading texts / 397 reading questions**, **41 core grammar topics / 694 core grammar questions**, **51 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -222,7 +233,7 @@ This is an inventory, not completed review. Snapshot: **717 photo nouns / 75 top
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 18 · A2 31 · B1 29 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 19 · A2 32 · B1 30 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
