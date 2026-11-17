@@ -318,4 +318,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zwei-fotos-und-eine-leere-karte',dialogue:'kumquat-links-litschi-rechts'},
  {reading:'alltag-a2-nach-dem-nomen-sortieren',dialogue:'k-vor-l-ohne-artikel'},
  {reading:'alltag-b1-links-aus-wessen-sicht',dialogue:'perspektive-vor-dem-legen'},
+ {reading:'alltag-a1-ein-n-fuer-die-mehrzahl',dialogue:'hagebutten-mirabellen-mit-n'},
+ {reading:'alltag-a2-nur-der-bildausschnitt',dialogue:'sichtbares-und-vermutetes'},
+ {reading:'alltag-b1-beobachtung-ist-keine-erklaerung',dialogue:'farbe-ohne-unbelegte-ursache'},
 ];

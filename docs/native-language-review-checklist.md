@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the hundred-and-twenty-fourth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-twenty-fifth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1318,9 +1318,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Reading question counter | Existing LTR English-digit counter gains localized accessible name, polite atomic status.168AR/EN320/390counterstates across3sets/reading-listening modes;48axe plus96answers, completion/retry/modes reset counter, retry/mode adds noXP. Actual390AR/ENcounter screens inspected. No scoring/answer/routing change. |
 | [ ] | Listening/dictation |70 original segments,280exactGerman speech/source/answer checks. Native editorial and actual-device voice review pending. Level labels not certification; progress local. |
 
+### List 125: Rose hips and mirabelle plums
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-ein-n-fuer-die-mehrzahl/` and linked dialogue | Lea/Ben add final n to Hagebutte and Mirabelle, with die unchanged. Underline the n, cover the plural column, write from memory, then reveal and compare. Check German spelling explanations and Egyptian pronunciation aids. |
+| [ ] | `/reading/alltag-a2-nur-der-bildausschnitt/` and linked dialogue | Mina/Oskar separate visible fruits, leaves and colors from the unsupported large-garden guess. The place stays open. Prepared pictures at a table only, no picking or outdoor identification. |
+| [ ] | `/reading/alltag-b1-beobachtung-ist-keine-erklaerung/` and linked dialogue | Rami/Jule remove unsupported sunny-location cause. Adding perhaps supplies no evidence. One still image shows no photo sequence. Third person's picture/text match is not a later unaided-recall test. No botanical identification/use advice. |
+| [ ] | `/lessons/zweigfruechte/` and `/credits/` | die Hagebutte/Hagebutten (ثمر الورد البري), die Mirabelle/Mirabellen (برقوق ميرابيل), fruit senses only. DWDS full forms checked. László Glatz 39898893 rose hips, 1125 x 750 crop 60,0-1060,750; Jakub N 30560209 mirabelles, 1125 x 750 crop 125,0-1125,750. Both 800 x 600, no padding/stretch/brand/person. Actual 390px AR/EN cards inspected. |
+| [ ] | Six appended grammar banks | 24 article/dative/present/possessive/two-way/negation rows, earlier saved identities preserved. Native German/Egyptian examples and explanations pending. |
+| [ ] | Reading completion score | Localized result has polite atomic status. 96 states and 96 mixed answers over 3 sets, reading/listening, AR/EN, 320/390px; 24 axe checks. Mixed 3/4 score and 24XP correct; first load, retry and mode changes show no stale result and add no XP. Actual 390px AR/EN result screens inspected. |
+| [ ] | Listening/dictation | 72 original segments, 288 exact German speech/source/answer checks. Native editorial and actual-device voice review pending. Level labels not certification; progress local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **905 photo nouns / 169 topics**, **390 reading texts / 1513 reading questions**, **41 core grammar topics / 2926 core grammar questions**, **330 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **907 photo nouns / 170 topics**, **393 reading texts / 1525 reading questions**, **41 core grammar topics / 2950 core grammar questions**, **333 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1332,7 +1344,7 @@ This is an inventory, not completed review. Snapshot: **905 photo nouns / 169 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 112 · A2 140 · B1 108 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 113 · A2 141 · B1 109 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
