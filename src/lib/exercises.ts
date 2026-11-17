@@ -372,3 +372,6 @@ for(const[topic,rows]of Object.entries(messtischGrammar))exercises[topic].push(.
 
 import {tischmitteGrammar} from './exercises-tischmitte';
 for(const[topic,rows]of Object.entries(tischmitteGrammar))exercises[topic].push(...rows);
+
+import {naehablageGrammar} from './exercises-naehablage';
+for(const[topic,rows]of Object.entries(naehablageGrammar))exercises[topic].push(...rows);

@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the sixty-ninth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-17 after the seventieth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -646,6 +646,18 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Spelling | Answer field has explicit form name. Existing required/invalid/help semantics, grade/points, trim/case and duplicate lock unchanged. |
 | [ ] | Listening/dictation | Check 63 segments and Egyptian Arabic. Native and actual German device voice pending. No food handling, seasoning quantity, nutrition, health or equipment-use advice. |
 
+### List 70: button, pincushion and grouping criteria
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-naehablage/` and linked dialogue | Names covered, photos still visible. Luis needs only Kissen as a cue, then says the whole word. Mara keeps her own book. No real needles on their practice table. |
+| [ ] | `/reading/alltag-a2-ein-wort-zwei-bilder/` and linked dialogue | Knopf at a shirt and a radio: context selects the use. Nadelkissen is a separate object, not another meaning of Knopf. No radio operated; other meanings not researched in story. |
+| [ ] | `/reading/alltag-b1-bildgruppe-und-wortbedeutung/` and linked dialogue | Shape label rejected because not all examples fit. Nähzubehör groups by word area, not identical shape or function. Material sorting proposed, not done, uncertain materials not inferred. |
+| [ ] | `/lessons/naehablage/` and `/credits/` | der Knopf/Knöpfe, das Nadelkissen/same-form plural (-). Egyptian Arabic زرار and مخدة دبابيس. Button group includes peripheral partly cropped buttons and a contextual safety pin; pincushion keeps full main object and pin tips. No people, logos, illustrations or added bars. Lesson photos show nouns, not exact fictional scenes. |
+| [ ] | Six appended grammar banks | 24 appended article/accusative/present/connector/two-way-preposition/negation rows, earlier identities unchanged. Verify Namen case contrast and all translations. |
+| [ ] | Spelling | Added visible keyboard focus ring. Existing grading, field name, required/invalid/help semantics, trim/case, XP and duplicate lock unchanged. |
+| [ ] | Listening/dictation | Check 62 segments and Egyptian Arabic. Native editorial and actual German device-voice review pending. No sewing, needle-handling or appliance instructions. |
+
 ## 2. Apply these checks to each text or exercise
 
 - [ ] German: spelling, capitalization, articles, cases, agreement, tense, word order and punctuation.
@@ -660,7 +672,7 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **795 photo nouns / 114 topics**, **225 reading texts / 853 reading questions**, **41 core grammar topics / 1606 core grammar questions**, **165 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **797 photo nouns / 115 topics**, **228 reading texts / 865 reading questions**, **41 core grammar topics / 1630 core grammar questions**, **168 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -672,7 +684,7 @@ This is an inventory, not completed review. Snapshot: **795 photo nouns / 114 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 57 · A2 85 · B1 53 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 58 · A2 86 · B1 54 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

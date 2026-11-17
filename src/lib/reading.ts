@@ -210,3 +210,6 @@ readings.push(...messtischTexts);
 
 import {tischmitteTexts} from './reading-tischmitte';
 readings.push(...tischmitteTexts);
+
+import {naehablageTexts} from './reading-naehablage';
+readings.push(...naehablageTexts);

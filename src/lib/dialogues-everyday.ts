@@ -10953,3 +10953,218 @@ Object.assign(dialogueEvidence,{
     "Die zweite Übung hat noch nicht stattgefunden."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "namen-unter-den-fotos",
+    "level": "A1",
+    "title": [
+      "Die Fotos bleiben sichtbar",
+      "الصور تفضل باينة"
+    ],
+    "lines": [
+      [
+        "Mara",
+        "Auf dieser Seite sind Knöpfe. Auf der nächsten ist ein Nadelkissen.",
+        "في الصفحة دي زراير. في اللي بعدها مخدة دبابيس."
+      ],
+      [
+        "Luis",
+        "Lies die Namen bitte noch einmal vor.",
+        "اقري الأسامي تاني لو سمحتي."
+      ],
+      [
+        "Mara",
+        "Gern. Danach decke ich nur die Namen ab.",
+        "حاضر. بعد كده هغطي الأسامي بس."
+      ],
+      [
+        "Luis",
+        "Die Fotos kann ich also weiter sehen.",
+        "يعني هقدر أفضل أشوف الصور."
+      ],
+      [
+        "Mara",
+        "Ja. Versuch dann, die Wörter selbst zu sagen.",
+        "أيوه. حاول بعد كده تقول الكلمات بنفسك."
+      ],
+      [
+        "Luis",
+        "Bei Nadelkissen brauche ich noch den letzten Teil.",
+        "مع مخدة دبابيس لسه محتاج الجزء الأخير."
+      ],
+      [
+        "Mara",
+        "Kissen. Das ganze Wort sagst du danach selbst.",
+        "كيسن. الكلمة كلها تقولها بعد كده بنفسك."
+      ]
+    ],
+    "q": [
+      [
+        "Was deckt Mara ab?",
+        "Nur die Namen.",
+        "Nur die Fotos.",
+        "Beide Seiten vollständig."
+      ],
+      [
+        "Worum bittet Luis zuerst?",
+        "Die Namen noch einmal vorzulesen.",
+        "Das Heft mitnehmen zu dürfen.",
+        "Echte Nadeln zu holen."
+      ],
+      [
+        "Welchen Teil sagt Mara als Hilfe?",
+        "Kissen.",
+        "Nadel.",
+        "Das ganze Wort."
+      ]
+    ]
+  },
+  {
+    "id": "kleidung-oder-bedienung",
+    "level": "A2",
+    "title": [
+      "Hier passt das Wort auch",
+      "هنا الكلمة تنفع برضه"
+    ],
+    "lines": [
+      [
+        "Milan",
+        "Beim Hemd verstehe ich Knopf. Ist das Wort beim Radio ein Fehler?",
+        "مع القميص فاهم زرار. الكلمة مع الراديو غلطة؟"
+      ],
+      [
+        "Oda",
+        "Nein, hier hat Knopf eine andere Verwendung.",
+        "لأ، هنا زرار ليها استخدام تاني."
+      ],
+      [
+        "Milan",
+        "Dann brauche ich den Zusammenhang, nicht nur das einzelne Wort.",
+        "يبقى محتاج السياق، مش الكلمة لوحدها بس."
+      ],
+      [
+        "Oda",
+        "Genau. Das Nadelkissen ist dagegen ein zusätzlicher Gegenstand.",
+        "بالظبط. مخدة الدبابيس على العكس حاجة إضافية مختلفة."
+      ],
+      [
+        "Milan",
+        "Ich lege die beiden Knopf-Fotos zusammen.",
+        "هحط صورتي الزرار جنب بعض."
+      ],
+      [
+        "Oda",
+        "Weitere Bedeutungen suchen wir heute noch nicht.",
+        "لسه مش هندور على معاني تانية النهارده."
+      ],
+      [
+        "Milan",
+        "Gut. Wir halten nur die zwei besprochenen Verwendungen fest.",
+        "تمام. نسجل بس الاستخدامين اللي اتكلمنا عنهم."
+      ]
+    ],
+    "q": [
+      [
+        "Was ist laut Oda kein Fehler?",
+        "Das Wort Knopf beim Radio.",
+        "Eine fehlende Karte.",
+        "Das Wort Nadelkissen als Radiofunktion."
+      ],
+      [
+        "Welche Rolle hat das Nadelkissen hier?",
+        "Es ist ein zusätzlicher Gegenstand.",
+        "Es ist eine dritte Bedeutung von Knopf.",
+        "Es ersetzt das Radiofoto."
+      ],
+      [
+        "Was halten sie fest?",
+        "Nur die zwei besprochenen Verwendungen.",
+        "Alle möglichen Bedeutungen des Wortes.",
+        "Eine Anleitung zum Bedienen des Radios."
+      ]
+    ]
+  },
+  {
+    "id": "nicht-jede-gruppe-ist-eine-form",
+    "level": "B1",
+    "title": [
+      "Nach welchem Merkmal sortieren wir?",
+      "بنرتب على أساس إيه؟"
+    ],
+    "lines": [
+      [
+        "Sina",
+        "Ich habe die Gruppe kleine runde Dinge genannt.",
+        "أنا سميت المجموعة حاجات صغيرة مدورة."
+      ],
+      [
+        "Keno",
+        "Das Nadelkissen ist auf diesem Foto rechteckig. Nicht alle Knöpfe sind rund.",
+        "مخدة الدبابيس في الصورة دي مستطيلة. ومش كل الزراير مدورة."
+      ],
+      [
+        "Sina",
+        "Dann passt der Name nicht zu allen Beispielen. Ich möchte Wörter aus einem Bereich sammeln.",
+        "يبقى الاسم مش مناسب لكل الأمثلة. أنا عايزة أجمع كلمات من مجال واحد."
+      ],
+      [
+        "Keno",
+        "Dafür wäre Nähzubehör eine passendere Überschrift.",
+        "لده أدوات خياطة تبقى عنوان أنسب."
+      ],
+      [
+        "Sina",
+        "Ich ändere sie und schreibe unser Merkmal dazu.",
+        "هغيره وأكتب المعيار بتاعنا كمان."
+      ],
+      [
+        "Keno",
+        "Nach Material könnten wir auf einer späteren Seite sortieren.",
+        "ممكن نرتب حسب الخامة في صفحة بعدين."
+      ],
+      [
+        "Sina",
+        "Das bleibt erst einmal ein Vorschlag. Diese Seite ordnen wir nach dem Wortbereich.",
+        "ده يفضل اقتراح دلوقتي. الصفحة دي نرتبها حسب مجال الكلمات."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Form hat das Nadelkissen auf dem besprochenen Foto?",
+        "Rechteckig.",
+        "Rund.",
+        "Dreieckig."
+      ],
+      [
+        "Welche Überschrift schlägt Keno vor?",
+        "Nähzubehör.",
+        "Nur runde Knöpfe.",
+        "Alles aus demselben Material."
+      ],
+      [
+        "Wie wird die jetzige Seite geordnet?",
+        "Nach dem Wortbereich.",
+        "Nach sicher gemessenem Gewicht.",
+        "Nach einer schon durchgeführten Materialprüfung."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "namen-unter-den-fotos": [
+    "decke ich nur die Namen ab.",
+    "Lies die Namen bitte noch einmal vor.",
+    "Kissen. Das ganze Wort sagst du danach selbst."
+  ],
+  "kleidung-oder-bedienung": [
+    "hier hat Knopf eine andere Verwendung.",
+    "Das Nadelkissen ist dagegen ein zusätzlicher Gegenstand.",
+    "nur die zwei besprochenen Verwendungen"
+  ],
+  "nicht-jede-gruppe-ist-eine-form": [
+    "Das Nadelkissen ist auf diesem Foto rechteckig.",
+    "Dafür wäre Nähzubehör eine passendere Überschrift.",
+    "Diese Seite ordnen wir nach dem Wortbereich."
+  ]
+});

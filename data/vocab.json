@@ -455,6 +455,10 @@
   {
    "id": "tischmitte",
    "ar": "ملاحة ومطحنة فلفل"
+  },
+  {
+   "id": "naehablage",
+   "ar": "زرار ومخدة دبابيس"
   }
  ],
  "words": [
@@ -12476,6 +12480,36 @@
     "file": "11571275.jpg",
     "commons": "https://www.pexels.com/zh-cn/photo/11571275/",
     "author": "Creator not supplied by source",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "knopf",
+   "topic": "naehablage",
+   "art": "der",
+   "de": "Knopf",
+   "plural": "Knöpfe",
+   "ar": "زرار",
+   "photo": {
+    "file": "6461488.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-photo-of-wooden-buttons-6461488/",
+    "author": "Pavel Danilyuk",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "nadelkissen",
+   "topic": "naehablage",
+   "art": "das",
+   "de": "Nadelkissen",
+   "plural": "-",
+   "ar": "مخدة دبابيس",
+   "photo": {
+    "file": "6850456.jpg",
+    "commons": "https://www.pexels.com/photo/needles-placed-near-cloth-and-skein-of-thread-6850456/",
+    "author": "Teona Swift",
     "license": "Pexels License",
     "modified": true
    }

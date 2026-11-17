@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  naehablage: 'Knopf und Nadelkissen',
   tischmitte: 'Salzstreuer und Pfeffermühle',
   messtisch: 'Wasserwaage und Messschieber',
   musikzimmer: 'Schellenkranz und Metronom',
@@ -111,6 +112,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  naehablage: 'Button and pincushion',
   tischmitte: 'Salt shaker and pepper mill',
   messtisch: 'Spirit level and vernier caliper',
   musikzimmer: 'Jingle ring and metronome',

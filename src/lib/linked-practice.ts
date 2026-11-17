@@ -153,4 +153,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-tischmitte',dialogue:'wort-auf-der-rueckseite'},
  {reading:'alltag-a2-bitte-genauer-sagen',dialogue:'nicht-nur-das-kleine-ding'},
  {reading:'alltag-b1-ein-hinweis-keine-gesamtbewertung',dialogue:'mit-hinweis-ist-auch-eine-information'},
+ {reading:'alltag-a1-naehablage',dialogue:'namen-unter-den-fotos'},
+ {reading:'alltag-a2-ein-wort-zwei-bilder',dialogue:'kleidung-oder-bedienung'},
+ {reading:'alltag-b1-bildgruppe-und-wortbedeutung',dialogue:'nicht-jede-gruppe-ist-eine-form'},
 ];

@@ -1082,3 +1082,24 @@ Object.assign(readingEvidence,{
     "wann sie das machen, vereinbaren sie aber noch nicht."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-naehablage": [
+    "Auf der nächsten Seite ist ein Nadelkissen zu sehen.",
+    "Mara legt ein leeres Blatt über die Namen.",
+    "Sie sagt nur Kissen.",
+    "Das Heft gehört Mara und bleibt bei ihr."
+  ],
+  "alltag-a2-ein-wort-zwei-bilder": [
+    "Milan kennt bisher nur die Bedeutung an der Kleidung.",
+    "sie beschreiben nur die Aufnahme.",
+    "Die beiden Knopf-Bilder liegen zusammen, das Nadelkissen daneben.",
+    "Ob es noch weitere Bedeutungen gibt, prüfen sie heute nicht."
+  ],
+  "alltag-b1-bildgruppe-und-wortbedeutung": [
+    "dass das Nadelkissen auf seinem Foto rechteckig ist. Außerdem sind nicht alle abgebildeten Knöpfe rund.",
+    "weil beide hier zum gewählten Wortbereich gehören",
+    "Eine solche Sortierung haben sie noch nicht durchgeführt",
+    "So kann eine andere Person ihre Entscheidung nachvollziehen"
+  ]
+});
