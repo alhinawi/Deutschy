@@ -321,4 +321,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-ein-n-fuer-die-mehrzahl',dialogue:'hagebutten-mirabellen-mit-n'},
  {reading:'alltag-a2-nur-der-bildausschnitt',dialogue:'sichtbares-und-vermutetes'},
  {reading:'alltag-b1-beobachtung-ist-keine-erklaerung',dialogue:'farbe-ohne-unbelegte-ursache'},
+ {reading:'alltag-a1-das-gemeinsame-wortende',dialogue:'zweimal-kern-am-ende'},
+ {reading:'alltag-a2-welchen-kern-meinst-du',dialogue:'bezug-statt-lautstaerke'},
+ {reading:'alltag-b1-unklarheit-ist-kein-sprachfehler',dialogue:'erst-die-aufgabe-pruefen'},
 ];

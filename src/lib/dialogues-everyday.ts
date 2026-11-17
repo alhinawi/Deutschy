@@ -22993,3 +22993,218 @@ Object.assign(dialogueEvidence,{
     "ein einzelnes Foto und keine Bildserie."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "zweimal-kern-am-ende",
+    "level": "A1",
+    "title": [
+      "Zwei Wörter mit Kern",
+      "كلمتين آخرهم كيرن"
+    ],
+    "lines": [
+      [
+        "Jana",
+        "Lies bitte der Cashewkern und der Pinienkern.",
+        "اقرا دير كاشو كيرن ودير بينين كيرن."
+      ],
+      [
+        "Tim",
+        "Beide Wörter enden mit Kern.",
+        "الكلمتين آخرهم كيرن."
+      ],
+      [
+        "Jana",
+        "Genau. Und beide haben den Artikel der.",
+        "بالظبط. والاتنين أداتهم دير."
+      ],
+      [
+        "Tim",
+        "In der Mehrzahl heißt es Cashewkerne und Pinienkerne.",
+        "في الجمع كاشو كيرنه وبينين كيرنه."
+      ],
+      [
+        "Jana",
+        "Bei beiden kommt ein e dazu. Der Artikel ist dann die.",
+        "بنزود إي للاتنين. وأداة التعريف ساعتها دي."
+      ],
+      [
+        "Tim",
+        "Ich schreibe die Formen jetzt ohne Vorlage.",
+        "هكتب الصيغ دلوقتي من غير نموذج قدامي."
+      ],
+      [
+        "Jana",
+        "Danach drehen wir die Karten zum Vergleichen um.",
+        "بعد كده نقلب الكروت عشان نقارن."
+      ]
+    ],
+    "q": [
+      [
+        "Was ist bei beiden Wörtern gleich?",
+        "Der letzte Wortteil Kern.",
+        "Der erste Wortteil.",
+        "Die ganze Schreibweise."
+      ],
+      [
+        "Welcher Artikel gilt in der Einzahl?",
+        "Der.",
+        "Die.",
+        "Das."
+      ],
+      [
+        "Wann drehen sie die Karten um?",
+        "Nach dem Schreiben ohne Vorlage.",
+        "Vor dem ersten Lesen.",
+        "Erst nach einem Einkauf."
+      ]
+    ]
+  },
+  {
+    "id": "bezug-statt-lautstaerke",
+    "level": "A2",
+    "title": [
+      "Nicht lauter, sondern genauer",
+      "أدق مش أعلى"
+    ],
+    "lines": [
+      [
+        "Elif",
+        "Leg ihn bitte unter das Bild.",
+        "حطه تحت الصورة."
+      ],
+      [
+        "Paul",
+        "Welchen meinst du? Beide Nomen sind maskulin.",
+        "تقصد أنهي واحد؟ الاسمين مذكر."
+      ],
+      [
+        "Elif",
+        "Ich sage es noch einmal lauter.",
+        "هقولها تاني بصوت أعلى."
+      ],
+      [
+        "Paul",
+        "Ich höre dich. Mir fehlt der eindeutige Bezug.",
+        "سامعك. ناقصني المرجع الواضح."
+      ],
+      [
+        "Elif",
+        "Dann: die Wortkarte Cashewkern unter das Foto mit den gebogenen Kernen.",
+        "يبقى كارت كاشو كيرن تحت صورة الحبات المقوسة."
+      ],
+      [
+        "Paul",
+        "Jetzt ist die Karte klar. Die andere bleibt erst einmal liegen.",
+        "دلوقتي الكارت واضح. التاني يفضل مكانه الأول."
+      ],
+      [
+        "Elif",
+        "Bei der zweiten Karte gibst du die genaue Anweisung.",
+        "في الكارت التاني إنت تدي التعليمات الدقيقة."
+      ]
+    ],
+    "q": [
+      [
+        "Was fehlt Paul?",
+        "Ein eindeutiger Bezug.",
+        "Mehr Lautstärke.",
+        "Ein neues Telefon."
+      ],
+      [
+        "Welche Wortkarte nennt Elif genauer?",
+        "Cashewkern.",
+        "Pinienkern.",
+        "Hagebutte."
+      ],
+      [
+        "Wer gibt beim zweiten Auftrag die Anweisung?",
+        "Paul.",
+        "Nur Elif.",
+        "Eine dritte Person."
+      ]
+    ]
+  },
+  {
+    "id": "erst-die-aufgabe-pruefen",
+    "level": "B1",
+    "title": [
+      "Die Änderung festhalten",
+      "نسجل اللي اتغير"
+    ],
+    "lines": [
+      [
+        "Nils",
+        "Beim ersten Versuch war die Person unsicher. Fehlen ihr die Wörter?",
+        "في المحاولة الأولى الشخص كان متردد. ناقصه الكلمات؟"
+      ],
+      [
+        "Sora",
+        "Das wissen wir noch nicht. Der Bezug in der Anweisung war unklar.",
+        "لسه مانعرفش. المرجع في التعليمات ماكانش واضح."
+      ],
+      [
+        "Nils",
+        "Dann nennen wir die Wortkarte im zweiten Versuch vollständig.",
+        "يبقى نقول اسم كارت الكلمة بالكامل في المحاولة التانية."
+      ],
+      [
+        "Sora",
+        "Ja. Die Wörter und Fotos bleiben gleich.",
+        "أيوه. الكلمات والصور زي ما هم."
+      ],
+      [
+        "Nils",
+        "Im Protokoll notiere ich auch diese Änderung.",
+        "هسجل التغيير ده كمان في المحضر."
+      ],
+      [
+        "Sora",
+        "Gut. Die richtige Zuordnung ist noch kein Nachweis für späteren freien Abruf.",
+        "كويس. التوصيل الصح مش دليل على افتكار حر بعدين."
+      ],
+      [
+        "Nils",
+        "Die Aufgabe ohne Bilder planen wir erst noch.",
+        "المهمة من غير صور لسه بنخططلها."
+      ]
+    ],
+    "q": [
+      [
+        "Was war zuerst unklar?",
+        "Der Bezug in der Anweisung.",
+        "Die Zahl der Fotos im zweiten Versuch.",
+        "Der Ort des Tisches."
+      ],
+      [
+        "Was bleibt im zweiten Versuch gleich?",
+        "Die Wörter und Fotos.",
+        "Der unklare Wortlaut.",
+        "Jede mögliche Schwierigkeit."
+      ],
+      [
+        "Was ist erst geplant?",
+        "Die Aufgabe ohne Bilder.",
+        "Die neue genaue Anweisung.",
+        "Die Notiz über die Änderung."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "zweimal-kern-am-ende": [
+    "Beide Wörter enden mit Kern.",
+    "beide haben den Artikel der.",
+    "Danach drehen wir die Karten zum Vergleichen um."
+  ],
+  "bezug-statt-lautstaerke": [
+    "Mir fehlt der eindeutige Bezug.",
+    "die Wortkarte Cashewkern",
+    "gibst du die genaue Anweisung."
+  ],
+  "erst-die-aufgabe-pruefen": [
+    "Der Bezug in der Anweisung war unklar.",
+    "Die Wörter und Fotos bleiben gleich.",
+    "Die Aufgabe ohne Bilder planen wir erst noch."
+  ]
+});

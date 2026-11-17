@@ -679,6 +679,10 @@
   {
    "id": "zweigfruechte",
    "ar": "ثمار على الفروع"
+  },
+  {
+   "id": "kernkarten",
+   "ar": "كروت الكاجو والصنوبر"
   }
  ],
  "words": [
@@ -14380,6 +14384,36 @@
     "file": "30560209.jpg",
     "commons": "https://www.pexels.com/photo/ripe-mirabelle-plums-on-tree-branches-30560209/",
     "author": "Jakub N",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "cashewkern",
+   "topic": "kernkarten",
+   "art": "der",
+   "de": "Cashewkern",
+   "plural": "Cashewkerne",
+   "ar": "حبة كاجو",
+   "photo": {
+    "file": "33653865.jpg",
+    "commons": "https://www.pexels.com/photo/closeup-of-fresh-organic-cashews-33653865/",
+    "author": "Engin Akyurt",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "pinienkern",
+   "topic": "kernkarten",
+   "art": "der",
+   "de": "Pinienkern",
+   "plural": "Pinienkerne",
+   "ar": "حبة صنوبر",
+   "photo": {
+    "file": "36285399.jpg",
+    "commons": "https://www.pexels.com/photo/assorted-nuts-in-wooden-bowls-on-dark-background-36285399/",
+    "author": "Victoria Bowers",
     "license": "Pexels License",
     "modified": true
    }

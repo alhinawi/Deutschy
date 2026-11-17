@@ -2258,3 +2258,24 @@ Object.assign(readingEvidence,{
     "Damit ist die Zuordnung von Text und sichtbarem Bild geprüft."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-das-gemeinsame-wortende": [
+    "Jana markiert diesen gemeinsamen Teil mit einem blauen Stift.",
+    "Tim liest auf beiden Karten der.",
+    "In beiden Fällen kommt am Ende ein e dazu.",
+    "Sie arbeiten nur mit Bildern und Papier, nicht mit echten Lebensmitteln."
+  ],
+  "alltag-a2-welchen-kern-meinst-du": [
+    "Das Pronomen allein macht in dieser Situation nicht klar, welche Karte gemeint ist.",
+    "Elif wiederholt zunächst denselben Satz etwas lauter.",
+    "Die Pinienkernkarte bleibt zunächst an ihrem Platz.",
+    "sie müssen nur zuerst klären, worauf sie sich beziehen."
+  ],
+  "alltag-b1-unklarheit-ist-kein-sprachfehler": [
+    "Der Versuch erlaubt deshalb noch kein klares Urteil über den Wortschatz.",
+    "Sie ändern zunächst nur die Anweisung.",
+    "Sora möchte zusätzlich festhalten, was zwischen den Versuchen geändert wurde.",
+    "Diese Aufgabe haben sie noch nicht durchgeführt."
+  ]
+});
