@@ -1,0 +1,10 @@
+{
+ "name":"audio-fallback",
+ "main":"src/index.ts",
+ "compatibility_date":"2026-11-18",
+ "workers_dev":false,
+ "preview_urls":false,
+ "vars":{"FALLBACK_ENABLED":"false","POOL_ROTATION_ENABLED":"false","ELIGIBLE_SLOTS":"","SINGLE_SLOT":"","DAILY_CHAR_CAP":"1000"},
+ "durable_objects":{"bindings":[{"name":"LEDGER","class_name":"AudioLedger"}]},
+ "migrations":[{"tag":"v1","new_sqlite_classes":["AudioLedger"]}]
+}
