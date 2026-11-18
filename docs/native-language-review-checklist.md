@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-fifty-sixth product update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-fifty-seventh product update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1689,6 +1689,12 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | Done | Route / location | What needs a human decision |
 | --- | --- | --- |
 | [ ] | Next PostCSS build dependency | Scoped override replaces vulnerable nested 8.4.31 with existing shared 8.5.33, no Next/React major update. Clean full and production-only install, actual dependency resolution, source-map fixture regressions and current npm audit 0 pass. Full build/PWA/export/progress, 132 route checks, 276 dictation checks, 6 offline routes, search keyboard regression and 10 axe snapshots pass. Rebuilt390pxAR/EN search screenshots inspected. No content/score/identity changes. Reassess override on future Next upgrade. Actual-device and native editorial checks remain manual. |
+
+### List 157: Mobile navigation modal workflow
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | Mobile navigation, all routes | Native named dialog, localized close, bounded Tab/Shift+Tab, focus return, inert background, saved/restored body overflow and responsive cleanup. Escape/backdrop/same-route/destination close and search shortcut interaction pass. Four AR/EN 320/390 variants, 436 assertions and 4 axe snapshots; search regressions also pass. Actual 390 px screenshots inspected. Desktop sidebar/destinations retained. Actual-device keyboard/screen-reader and older native-dialog support remain manual checks. No content/score/history changes. |
 
 ## 3. Wider review queue after the focused batch
 

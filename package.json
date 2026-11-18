@@ -14,7 +14,8 @@
     "test:progress-bundle": "node scripts/test-progress-bundle.mjs",
     "test:speech": "node scripts/test-speech.mjs",
     "test:search:browser": "node scripts/test-search-browser.mjs",
-    "test:dependencies": "node scripts/test-postcss.mjs"
+    "test:dependencies": "node scripts/test-postcss.mjs",
+    "test:navigation:browser": "node scripts/test-navigation-browser.mjs"
   },
   "dependencies": {
     "hono": "^4.13.18",
