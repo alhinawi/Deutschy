@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-sixty-sixth product update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-sixty-seventh product update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1753,9 +1753,17 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 - [ ] Check the Egyptian Arabic explanation of ambiguous simple forms, would+infinitive and reported speech. Notes explain grammar but are not native-reviewed. New material has no photos or audio-generation side effects.
 - [ ] Confirm the original12present-focus entries/order remain unchanged, with no duplicates or shifted identities. Browser tests cover352new correct-form submissions,4wrong auxiliaries,4AR/EN320/390variants,740assertions and4axe snapshots. Real-device/screen-reader and native teaching review remain pending.
 
+### Hundred-and-sixty-seventh update: earlier past and indirect questions
+
+- [ ] Two new dedicated core topics: `/grammar/plusquamperfekt/` and `/grammar/indirekte-fragen/`, with printable sheets. Core inventory now43topics/3662questions. Existing41banks/3646questions are unchanged in the loaded content comparison.
+- [ ] Plusquamperfekt: review5rule points,4translated examples,6person auxiliary table,worked example and8questions. Check relative earlier time,haben/sein choice,participle position and subordinate-before-main inversion. No blanket rule that every before/after clause must use this tense.
+- [ ] Indirect questions: review6rule points,4translated examples,3row contrast table,worked example and8questions. Check ob versus conditional wenn,question-word clause order,separable verbs,Perfekt order and final punctuation based on the outer clause. Indicative examples are not a ban on formal reported-speech Konjunktiv.
+- [ ] Review Egyptian Arabic clarity and the German examples independently. Source links support the rules,not native editorial certification. New content uses neutral SVG topic tiles,no irrelevant photos or public audio-generation side effects.
+- [ ] Browser checks:8AR/EN320/390topic variants,320assertions,64correct submissions,8axe snapshots and8cheat-sheet checks. Existing saved question identities remain unchanged;new IDs belong only to the2newtopics. Real-device/screen-reader/native-teacher checks remain pending.
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **965 photo nouns / 199 topics**, **480 reading texts / 1873 reading questions**, **41 core grammar topics / 3646 core grammar questions**, **420 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **965 photo nouns / 199 topics**, **480 reading texts / 1873 reading questions**, **43 core grammar topics / 3662 core grammar questions**, **420 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |

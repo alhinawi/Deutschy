@@ -400,7 +400,7 @@ for(const list of [lib('reading').readings,lib('dialogues').dialogues]){assert.e
 console.log('PASS: linked scenario reading/dialogue/dictation sets resolve, unique IDs and within-scenario questions');
 const {resumeEntry,resumeLabel}=lib('resume');assert.equal(resumeEntry({href:'https://evil.invalid/',at:100},100),null);assert.equal(resumeEntry({href:'/account/',at:100},100),null);assert.equal(resumeEntry({href:'/reading/not-real/',at:100},100),null);assert.equal(resumeEntry({href:'/reading/alltag-a2-lerntandem/?q=1',at:100},100),null);assert.equal(resumeEntry({href:'/dialogues/#lerntandem-ort',at:100},100).href,'/dialogues/#lerntandem-ort');assert.equal(resumeEntry({href:'/grammar/dativ/',at:1000000},100),null);assert(resumeLabel('/reading/alltag-a2-lerntandem/'));console.log('PASS: resume only accepts known local study paths, valid fragments/times and excludes accounts/external/query links');
 
-for(const g of lib('grammar').grammar){assert.equal(lib('grammar-walkthrough').grammarWalkthrough[g.id].length,2);assert(g.ex[0]);assert(lib('exercises').exercises[g.id]?.length>=3)}assert(readFileSync('src/components/Practice.tsx','utf8').includes('g:${topic}:${indices[i]}'));console.log('PASS: all 41 grammar topics have worked walkthroughs and quick rounds preserve original question keys');
+for(const g of lib('grammar').grammar){assert.equal(lib('grammar-walkthrough').grammarWalkthrough[g.id].length,2);assert(g.ex[0]);assert(lib('exercises').exercises[g.id]?.length>=3)}assert(readFileSync('src/components/Practice.tsx','utf8').includes('g:${topic}:${indices[i]}'));console.log('PASS: all grammar topics have worked walkthroughs and quick rounds preserve original question keys');
 
 {
  const {levelProgress,LEVELS}=lib('progress');
@@ -1523,3 +1523,12 @@ for(const [inf,[du,pastIhr,pp,aux]]of Object.entries(expected166)){
 for(const [inf,tense,person,alternative]of [['geben','Konjunktiv II Gegenwart',1,'gäbst'],['geben','Konjunktiv II Gegenwart',4,'gäbt'],['nehmen','Konjunktiv II Gegenwart',1,'nähmst'],['sprechen','Konjunktiv II Gegenwart',4,'sprächt'],['fahren','Konjunktiv II Gegenwart',1,'führst'],['lesen','Präteritum',1,'last'],['finden','Präteritum',1,'fandst']])assert(conjugationAnswers(conjugationVerbs.find(v=>v.inf===inf),tense,person).includes(alternative));
 assert.deepEqual(Array.from(presentFocus,v=>v.inf),['sein','haben','machen','kommen','lesen','sprechen','nehmen','geben','fahren','arbeiten','wissen','sehen']);
 console.log('PASS:12 source-linked verbs/792 cells, verified irregular parts/auxiliaries/variants and stable existing present-focus order');
+
+const g167=lib('grammar').grammar,e167=lib('exercises').exercises;
+assert.equal(g167.length,43);assert.equal(new Set(g167.map(g=>g.id)).size,43);
+for(const id of ['plusquamperfekt','indirekte-fragen']){
+ const g=g167.find(g=>g.id===id);assert(g);assert(g.points.length>=5);assert.equal(g.ex.length,4);assert.equal(g.table.h.length,g.table.r[0].length);assert.equal(e167[id].length,8);
+ for(const row of e167[id]){assert.equal(row.length,6);assert.equal(new Set(row.slice(1,4)).size,3);assert(row[0].includes('___'));assert(row[4]&&row[5]);}
+ assert(lib('grammar-walkthrough').grammarWalkthrough[id]);
+}
+console.log('PASS:43core grammar topics,2new source-linked explanations,8examples/16new questions and worked walkthroughs');

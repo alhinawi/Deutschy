@@ -627,3 +627,6 @@ for(const[topic,rows]of Object.entries(eisvogelelsterGrammar))exercises[topic].p
 
 import {rotkehlchenamselGrammar} from './exercises-rotkehlchenamsel';
 for(const[topic,rows]of Object.entries(rotkehlchenamselGrammar))exercises[topic].push(...rows);
+
+import {expansionExercises} from './exercises-expansion';
+for(const[key,rows]of Object.entries(expansionExercises))exercises[key]=[...(exercises[key]??[]),...rows];

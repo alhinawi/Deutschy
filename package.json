@@ -26,7 +26,8 @@
     "test:tts": "node --experimental-sqlite scripts/test-tts-proxy.mjs",
     "test:audio:browser": "node scripts/test-audio-browser.mjs",
     "typecheck:worker": "tsc --noEmit --strict --skipLibCheck --target es2022 --module esnext --moduleResolution bundler --types @cloudflare/workers-types functions/lib/tts.ts",
-    "test:conjugation:browser": "node scripts/test-conjugation-browser.mjs"
+    "test:conjugation:browser": "node scripts/test-conjugation-browser.mjs",
+    "test:grammar-expansion:browser": "node scripts/test-grammar-expansion-browser.mjs"
   },
   "dependencies": {
     "hono": "^4.13.18",
