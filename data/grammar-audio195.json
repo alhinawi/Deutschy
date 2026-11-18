@@ -1,0 +1,1674 @@
+{
+  "entries": [
+    {
+      "id": "2cfd4701a4f84907037175a70d3bb7d231de05f97fda49da23f10abf08c73358",
+      "text": "ich möchte",
+      "source": "grammar:aussprache",
+      "url": "/clips/fc5a8218503eb0e05159872613f27000cf5144ba2505fca454f31676d7d70791.mp3",
+      "sha256": "fc5a8218503eb0e05159872613f27000cf5144ba2505fca454f31676d7d70791",
+      "bytes": 10493,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "25767c3c2dde937b845ebd3f47bc2657409faeedc8ba8797a3cc5af84d46d599",
+      "text": "Ich bin Mohamed.",
+      "source": "grammar:pronomen-sein-haben",
+      "url": "/clips/e971d43d838dc7a5121fa2bb19be91a4d55fc4f965ad503069e201764e01bfc4.mp3",
+      "sha256": "e971d43d838dc7a5121fa2bb19be91a4d55fc4f965ad503069e201764e01bfc4",
+      "bytes": 12164,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "5b9da150dc066c97d307a4aac505547b0ff84a4d82f214eae6fe736ba688afee",
+      "text": "Wie geht es dir? Mir geht es gut.",
+      "source": "grammar:pronomen-sein-haben",
+      "url": "/clips/670f70bf6f14077ebbfe682073f9c16742a4bdbcecf4771f9a0ac91523181583.mp3",
+      "sha256": "670f70bf6f14077ebbfe682073f9c16742a4bdbcecf4771f9a0ac91523181583",
+      "bytes": 23867,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "57b22be5f23f7d76c8c960011554a8543195aaa24dbea93f641ae197cc1480ac",
+      "text": "Wir haben einen Hund.",
+      "source": "grammar:pronomen-sein-haben",
+      "url": "/clips/df856c57d59a9592af0bb782565977bd95f36abc4dc16b01f8a99d1c67c9ab8d.mp3",
+      "sha256": "df856c57d59a9592af0bb782565977bd95f36abc4dc16b01f8a99d1c67c9ab8d",
+      "bytes": 13418,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "18183496044898d35538999126990d064d6659cce33a3abe26709efdb0f4ba9c",
+      "text": "Haben Sie Zeit?",
+      "source": "grammar:pronomen-sein-haben",
+      "url": "/clips/0d4b73e36d0c5bf39198c86b29ec5bbe85178b05d67cad26a724691050027839.mp3",
+      "sha256": "0d4b73e36d0c5bf39198c86b29ec5bbe85178b05d67cad26a724691050027839",
+      "bytes": 11537,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "2e5e61a9cb9fda76a1c78db2143434ce82051d8f0a611a1f950b4a5f8d2bc7d7",
+      "text": "Woher kommst du? Ich komme aus Ägypten.",
+      "source": "grammar:satzbau",
+      "url": "/clips/ebcd96965ba2cd5a4dec1ef8ca97707be5131a3371258652323f0f0b2431f58b.mp3",
+      "sha256": "ebcd96965ba2cd5a4dec1ef8ca97707be5131a3371258652323f0f0b2431f58b",
+      "bytes": 23658,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "3696d5ea3e4c23eb743c92d74db9dce630795e40f5c194fe1b4053a6a2c92b10",
+      "text": "Morgen gehe ich zur Schule.",
+      "source": "grammar:satzbau",
+      "url": "/clips/a40a09589b198e4a79644cc9c48376b67ce80fdd15ac16f3d8b28af14500393a.mp3",
+      "sha256": "a40a09589b198e4a79644cc9c48376b67ce80fdd15ac16f3d8b28af14500393a",
+      "bytes": 17598,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "417d13f08f359c05ec66d8429ef6bf0937385966b5ad3aec2d785d09587e5c7f",
+      "text": "Trinkst du Tee?",
+      "source": "grammar:satzbau",
+      "url": "/clips/0511f70889ee99eb3d71acf2422af66ae65bbad281b8974412d8f24201501ce0.mp3",
+      "sha256": "0511f70889ee99eb3d71acf2422af66ae65bbad281b8974412d8f24201501ce0",
+      "bytes": 8821,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "2381e95cb700622bc0fcb6df1955fd8164ff241e843a42e5d151e96aeffe37fb",
+      "text": "Wie viel kostet das?",
+      "source": "grammar:satzbau",
+      "url": "/clips/10da13f67d8a426ede7a588563ebd6743cfc22497386b22d4e8416d1ad00b2d8.mp3",
+      "sha256": "10da13f67d8a426ede7a588563ebd6743cfc22497386b22d4e8416d1ad00b2d8",
+      "bytes": 13627,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "d3444d739c5eff183b75e3ae405af19a7d4c090931541c3fa512e6538eded8c8",
+      "text": "Am Montag lerne ich Deutsch.",
+      "source": "grammar:satzbau",
+      "url": "/clips/00483c1f5fb74e1473e99685de74798023b953ddf84dcfeb4e68dffb0ec57bc6.mp3",
+      "sha256": "00483c1f5fb74e1473e99685de74798023b953ddf84dcfeb4e68dffb0ec57bc6",
+      "bytes": 18434,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "418575416e8827b15cb5b1750a0125042f1ba7fbd302c05c2fe65b93550faab0",
+      "text": "Ich habe heute Deutsch gelernt.",
+      "source": "grammar:satzbau",
+      "url": "/clips/9c925f3ecb70df82c1c703c2824005b403f879ed78e46de5241677fa0e92e161.mp3",
+      "sha256": "9c925f3ecb70df82c1c703c2824005b403f879ed78e46de5241677fa0e92e161",
+      "bytes": 17180,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "d46b878b1c9c04cb2ce4b5543e592db14a4e5f5b383cba09c469bd60c94f2e29",
+      "text": "Ich wohne in Mansoura.",
+      "source": "grammar:praesens",
+      "url": "/clips/579c0ab85ca734ca3da3d4b65837f9330ed53afb4312d5cb933b12d2cb835f2f.mp3",
+      "sha256": "579c0ab85ca734ca3da3d4b65837f9330ed53afb4312d5cb933b12d2cb835f2f",
+      "bytes": 14672,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "90d2ba6895f75de47547dfc1a097def746120e1d3266068a4972a346dc4c5af0",
+      "text": "Er arbeitet bei einer Bank.",
+      "source": "grammar:praesens",
+      "url": "/clips/7dbda74660e654233a9e0cdae80778ddab0fee530b94ce2d9538cf1a782ae145.mp3",
+      "sha256": "7dbda74660e654233a9e0cdae80778ddab0fee530b94ce2d9538cf1a782ae145",
+      "bytes": 16971,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "933fb06a6d17334fda3a6d311cd881257d87154a58b46c1f0cc8ad129938649c",
+      "text": "Du liest ein Buch.",
+      "source": "grammar:praesens",
+      "url": "/clips/e2766fa8b5141b374cb94b23c79f2c6d6b4f4d705dc5f4918afb9e69254d9683.mp3",
+      "sha256": "e2766fa8b5141b374cb94b23c79f2c6d6b4f4d705dc5f4918afb9e69254d9683",
+      "bytes": 13418,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "382ed377aa0ff7dce6ff92bbc38d6a7cf6e4d212093abcfbb804268feda96fc8",
+      "text": "Sie fährt mit dem Bus.",
+      "source": "grammar:praesens",
+      "url": "/clips/518d34127947e8986036c11efabe9bf2cd0918abe6b755bec5409122095a0e3f.mp3",
+      "sha256": "518d34127947e8986036c11efabe9bf2cd0918abe6b755bec5409122095a0e3f",
+      "bytes": 14254,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "1c81ec9e40801145d7efaa8f1cf279c766fdb8fcb2b9fa2c297a81c010aea375",
+      "text": "der Tisch, die Tische",
+      "source": "grammar:artikel-genus",
+      "url": "/clips/837bd295bd74ce197e0b3836f42097d7cfceb8006c2d383a7d3f4439e01b72d3.mp3",
+      "sha256": "837bd295bd74ce197e0b3836f42097d7cfceb8006c2d383a7d3f4439e01b72d3",
+      "bytes": 18434,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "7717d13b2b59b78b38565d9416fc0dac1615fad9d62165fbb2409770d3913fe7",
+      "text": "die Zeitung, die Zeitungen",
+      "source": "grammar:artikel-genus",
+      "url": "/clips/64035eeea99b6fda37f110af7377f5d0b8b787733188605e63b30077523f7d95.mp3",
+      "sha256": "64035eeea99b6fda37f110af7377f5d0b8b787733188605e63b30077523f7d95",
+      "bytes": 20941,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "e51b95e5741a1a59ac12433c6341c746651dcfe834ead58fa89d00e8fbd2f3e1",
+      "text": "das Mädchen, die Mädchen",
+      "source": "grammar:artikel-genus",
+      "url": "/clips/f103807443b19eb610eb4ae00e4cc360fdbd20fdef6caa1af3cc770c789bd267.mp3",
+      "sha256": "f103807443b19eb610eb4ae00e4cc360fdbd20fdef6caa1af3cc770c789bd267",
+      "bytes": 23867,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "55c97d686ef54027f5d14ae55aaf9e6ba697aa42352785379e5a9e45bb64c790",
+      "text": "ein Apfel, eine Birne, ein Kind",
+      "source": "grammar:artikel-genus",
+      "url": "/clips/deda3ae9464a0a88c419bb5563680661c303013846d6db959cefe9ef4707e010.mp3",
+      "sha256": "deda3ae9464a0a88c419bb5563680661c303013846d6db959cefe9ef4707e010",
+      "bytes": 33271,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "8530d305325e211f19905e5fdf3b35d710c6a84095b39f7dda69c67d85761ef0",
+      "text": "Ich spiele mit den Kindern.",
+      "source": "grammar:artikel-genus",
+      "url": "/clips/e422baeaa90fa0e5c78dc5c91c210cd58653d298b65db60a3ddfaa0f836c0dcd.mp3",
+      "sha256": "e422baeaa90fa0e5c78dc5c91c210cd58653d298b65db60a3ddfaa0f836c0dcd",
+      "bytes": 15508,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "364305e5e13b31a0bd9d8c9a49e51ab70d860c068b34f2536229dc5df568eaf6",
+      "text": "Ich habe keinen Hunger.",
+      "source": "grammar:negation",
+      "url": "/clips/c7a7c45889ba7d50133acbe8fef7abfc60fd574b53482c5f5667676c83824a0f.mp3",
+      "sha256": "c7a7c45889ba7d50133acbe8fef7abfc60fd574b53482c5f5667676c83824a0f",
+      "bytes": 12373,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "0ded68223d4df524f609647ee11041c1a93e9dda81e8af59e6d1696b236ba5a4",
+      "text": "Das ist kein Auto.",
+      "source": "grammar:negation",
+      "url": "/clips/076efecc2af545ead30a64621e04cc811e5559917bd1eb5f83553a2c3a552c9a.mp3",
+      "sha256": "076efecc2af545ead30a64621e04cc811e5559917bd1eb5f83553a2c3a552c9a",
+      "bytes": 13627,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "7351ebcd5d47262ae1acae946f8bab8f6c28fdd0b11420fa37d9107676e5a3cc",
+      "text": "Er schläft nicht.",
+      "source": "grammar:negation",
+      "url": "/clips/9364b996c4ad838ae5953aaca2e97af8560c904abbb59eb7bf40888bb8373493.mp3",
+      "sha256": "9364b996c4ad838ae5953aaca2e97af8560c904abbb59eb7bf40888bb8373493",
+      "bytes": 10701,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "5d2a30fedb5a818453acc0a42a4dbd536554d16e8f97c5d9df2ef5b7e68c14b4",
+      "text": "Hast du keine Zeit? Doch!",
+      "source": "grammar:negation",
+      "url": "/clips/b9b8fc8fd5a19fc5329a209301ba8ed76adae8979c6fc110653126c1b56615b7.mp3",
+      "sha256": "b9b8fc8fd5a19fc5329a209301ba8ed76adae8979c6fc110653126c1b56615b7",
+      "bytes": 18852,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "2c8426650b6a086fa5e173786507a891dd8c85e3301946c75fa1c2375d4a49c2",
+      "text": "Ich habe nicht geschlafen.",
+      "source": "grammar:negation",
+      "url": "/clips/340483344328bbb7d6391d5be1513731a3e7b92aa882de0887fd32aa382bebf2.mp3",
+      "sha256": "340483344328bbb7d6391d5be1513731a3e7b92aa882de0887fd32aa382bebf2",
+      "bytes": 14881,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "426e5f470460c96ceaca8f9c4838ceb4f25ece9af4c5831f7cb713fd0e8ea9a3",
+      "text": "Ich kann heute nicht kommen.",
+      "source": "grammar:negation",
+      "url": "/clips/7f8674a633f004130fc268c49353ad71ddf09fef85406b1405bb41d1a3f81a02.mp3",
+      "sha256": "7f8674a633f004130fc268c49353ad71ddf09fef85406b1405bb41d1a3f81a02",
+      "bytes": 14881,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "1d754f6fd6e59f3a7625fd87e8dfd8d75b861fed3c5cda9a9b400ab39e3e5ebb",
+      "text": "Das ist nicht mein Buch.",
+      "source": "grammar:negation",
+      "url": "/clips/d65c784285fcaf8282883a96ba7f6776646f0870e6d8c4aeed9f65edc875f428.mp3",
+      "sha256": "d65c784285fcaf8282883a96ba7f6776646f0870e6d8c4aeed9f65edc875f428",
+      "bytes": 14045,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "c9ac8b8abe7705c4d7bf27e928cbabc202653b3232b6cb13a0e41d3f076febfc",
+      "text": "Ich kaufe einen Apfel.",
+      "source": "grammar:akkusativ",
+      "url": "/clips/cda0811f3a45ac16c019f8d9dc244537b880816d78691a736bf1e2b55969963d.mp3",
+      "sha256": "cda0811f3a45ac16c019f8d9dc244537b880816d78691a736bf1e2b55969963d",
+      "bytes": 15926,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "bb0ffaeeee41898e4f9fcc2224dac8ef8284a341562c0b028c9a3b89916f9a00",
+      "text": "Hast du einen Bruder?",
+      "source": "grammar:akkusativ",
+      "url": "/clips/18006182a67f8acf7ffa70bc5badceb4e0e92a5b5caf8c469333fa84e40af3e6.mp3",
+      "sha256": "18006182a67f8acf7ffa70bc5badceb4e0e92a5b5caf8c469333fa84e40af3e6",
+      "bytes": 13000,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "fbae0e75641d554762fd177b14bdf29ba800ace95b8e2e062c14345d32bc7bd5",
+      "text": "Das Geschenk ist für den Lehrer.",
+      "source": "grammar:akkusativ",
+      "url": "/clips/1a7c4ee0388f5e353937b37c40b194d26a845842d9da2be3ebc7eb0ae031f4c5.mp3",
+      "sha256": "1a7c4ee0388f5e353937b37c40b194d26a845842d9da2be3ebc7eb0ae031f4c5",
+      "bytes": 18225,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "0761ba70811a51e1b74d7ae9e6a46f383fdb40f61706ba8f9acff6c05df7f2e3",
+      "text": "Er trinkt den Tee ohne Zucker.",
+      "source": "grammar:akkusativ",
+      "url": "/clips/2c9136b7f36c1e855af25293ee803b6a4948c99a30edc2ad273e7a63209caad3.mp3",
+      "sha256": "2c9136b7f36c1e855af25293ee803b6a4948c99a30edc2ad273e7a63209caad3",
+      "bytes": 17598,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "b04507be23ac2132a5ee7803f9286317cc139d8717a95213a0ee467c03f55f0c",
+      "text": "Das ist meine Familie.",
+      "source": "grammar:possessiv",
+      "url": "/clips/856204584be2dafa9cbdf51202bd71207128711512765ab80e9eb31957add2fb.mp3",
+      "sha256": "856204584be2dafa9cbdf51202bd71207128711512765ab80e9eb31957add2fb",
+      "bytes": 14045,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "aa7a907f19828c06ee0e77ac7b95f49fe855f587a5b54dd143f1516c3f7674eb",
+      "text": "Wo ist dein Bruder?",
+      "source": "grammar:possessiv",
+      "url": "/clips/eaba23fb0a3aa136770e6e24a7a48114216a9d152ddcd8a753062a0d89753130.mp3",
+      "sha256": "eaba23fb0a3aa136770e6e24a7a48114216a9d152ddcd8a753062a0d89753130",
+      "bytes": 10701,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "db1a5290ce00cde252b2cf6bf4d00c85d59d36cfe4122546c88a54d47c4f8c94",
+      "text": "Ich besuche meinen Opa.",
+      "source": "grammar:possessiv",
+      "url": "/clips/45780b180cd901f8db15d4e9321da20906003e97851e2f8881cf6dbbab98c223.mp3",
+      "sha256": "45780b180cd901f8db15d4e9321da20906003e97851e2f8881cf6dbbab98c223",
+      "bytes": 15508,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "92aeb56daa52b4a7e87d13bf2ccde0bdb0bc7107fc54868186ba323bc0ee52b8",
+      "text": "Ihre Tasche ist schön.",
+      "source": "grammar:possessiv",
+      "url": "/clips/c4f0971812a3055a94e6b1f26f1feb89e5b3d6171352b20cf8a3b4c7097ed676.mp3",
+      "sha256": "c4f0971812a3055a94e6b1f26f1feb89e5b3d6171352b20cf8a3b4c7097ed676",
+      "bytes": 14254,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "c5a36a19b5f0d9ecd525b7c6d8a830442f05cd997773475ebaa6a49d432f699d",
+      "text": "Ich kann Deutsch sprechen.",
+      "source": "grammar:modalverben",
+      "url": "/clips/c2c48cfe94407f04e264df594ee50035799887020d92edf7a6a04260e679589b.mp3",
+      "sha256": "c2c48cfe94407f04e264df594ee50035799887020d92edf7a6a04260e679589b",
+      "bytes": 14881,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "b91e0332379f554221d1000d684ccd50e3f5f113aeb4d3f9b036a712bbc8267c",
+      "text": "Du musst mehr lernen.",
+      "source": "grammar:modalverben",
+      "url": "/clips/7528253f6b9868dc121d5c7e538870cb50c59613b1201bbaae6ab7ac7a6d1d99.mp3",
+      "sha256": "7528253f6b9868dc121d5c7e538870cb50c59613b1201bbaae6ab7ac7a6d1d99",
+      "bytes": 13418,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "e550ef86a7423b291d5b4df3b5558b899b32b6aa38e4b8022fd20a23baabd806",
+      "text": "Ich möchte einen Kaffee.",
+      "source": "grammar:modalverben",
+      "url": "/clips/ee500b779334c536e69146a4cd0fbfb59eb4994581d9d563aca43e6ba6e8845c.mp3",
+      "sha256": "ee500b779334c536e69146a4cd0fbfb59eb4994581d9d563aca43e6ba6e8845c",
+      "bytes": 13418,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "fc3bbb07213a5eb49b82a924af6c623f946493d9bd86ff2def5cc2c4d18dadaf",
+      "text": "Hier darf man nicht rauchen.",
+      "source": "grammar:modalverben",
+      "url": "/clips/e82766083420b23236b701352b5b74ba61f8658b2cc33949284abeb7f678aa38.mp3",
+      "sha256": "e82766083420b23236b701352b5b74ba61f8658b2cc33949284abeb7f678aa38",
+      "bytes": 17180,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "cbbdf356fdea284348eb8de0f1729bde7422e58d6f7032bfc2e4e20114b3b103",
+      "text": "Der Zug kommt um 8 Uhr an.",
+      "source": "grammar:trennbare-verben",
+      "url": "/clips/5a6342fbe46ec644ecfd39b7778359f7c3619cbf9544c5dc7f31d4fd97853232.mp3",
+      "sha256": "5a6342fbe46ec644ecfd39b7778359f7c3619cbf9544c5dc7f31d4fd97853232",
+      "bytes": 17807,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "8a2fd0d9eadf0076bc6c3a6ba1d2a731c7f2e5cb4ea76817a4e608b1e9c82814",
+      "text": "Ich kaufe im Supermarkt ein.",
+      "source": "grammar:trennbare-verben",
+      "url": "/clips/eeb99e02e940a2875ae856a2c5ccafe521d7465a0ba6c08e843b8d48a03e5293.mp3",
+      "sha256": "eeb99e02e940a2875ae856a2c5ccafe521d7465a0ba6c08e843b8d48a03e5293",
+      "bytes": 17180,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "a9b118f5b20af614ed46892cbb639767f21e809fae93740ff92b87893be3d256",
+      "text": "Rufst du mich an?",
+      "source": "grammar:trennbare-verben",
+      "url": "/clips/49e33b4c4b55a91254f1a47a80b8b1377b8b309f2ee372bd0623e83fdae069aa.mp3",
+      "sha256": "49e33b4c4b55a91254f1a47a80b8b1377b8b309f2ee372bd0623e83fdae069aa",
+      "bytes": 11746,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "2c2f38350fa423e4e277fe011aa47e77779eef5bd36dff216b1c3c43a6ba61d3",
+      "text": "Wir sehen am Abend fern.",
+      "source": "grammar:trennbare-verben",
+      "url": "/clips/90f1b64be3cc4b0cc9771772c3738ab4588c5cef7f55948bd6f212ddbf3cad37.mp3",
+      "sha256": "90f1b64be3cc4b0cc9771772c3738ab4588c5cef7f55948bd6f212ddbf3cad37",
+      "bytes": 15508,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "46cb30dd7952a23474d47991c97d69c61bc639d1a5caf595d89b76413da4026b",
+      "text": "Komm bitte her!",
+      "source": "grammar:imperativ",
+      "url": "/clips/a8cd5fcd465a3f6a92ec8fd87eabfed4a464749269c15b014710ef72f6109af3.mp3",
+      "sha256": "a8cd5fcd465a3f6a92ec8fd87eabfed4a464749269c15b014710ef72f6109af3",
+      "bytes": 11537,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "ea25f775f2c72cc259396968e91b5a25cc0678a31ce668e3d31cb8eba7dba744",
+      "text": "Sprecht langsam!",
+      "source": "grammar:imperativ",
+      "url": "/clips/5b511c70535b12952edfd0175571ae45e53c1acdd65ebdb4bb0ffbccff81b121.mp3",
+      "sha256": "5b511c70535b12952edfd0175571ae45e53c1acdd65ebdb4bb0ffbccff81b121",
+      "bytes": 13000,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "5e14ee5fb5334512e05d8faecfc4b0436152f2fffcbef140d32e3198b1d48ef2",
+      "text": "Öffnen Sie das Fenster.",
+      "source": "grammar:imperativ",
+      "url": "/clips/b565d3599ddaadbccac0f12a80d7b2368fdf4cdb2f355d12558eddc4cb376a78.mp3",
+      "sha256": "b565d3599ddaadbccac0f12a80d7b2368fdf4cdb2f355d12558eddc4cb376a78",
+      "bytes": 14881,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "6db36c802137eb301485e79f2d647a900b27d08b5442a5c65b9a384a89af4de2",
+      "text": "Sei nicht traurig!",
+      "source": "grammar:imperativ",
+      "url": "/clips/ecea847ff105c5927ba1b5f2dd450099d524cbe718bfe57ebd64a8883ef1aae5.mp3",
+      "sha256": "ecea847ff105c5927ba1b5f2dd450099d524cbe718bfe57ebd64a8883ef1aae5",
+      "bytes": 12373,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "719be15cb76758b922b212880aa211b8aa7767fa5e0662f07569152c98d440aa",
+      "text": "Es ist halb acht.",
+      "source": "grammar:zahlen-uhrzeit",
+      "url": "/clips/e3c9d5daa50c0ba86bb0a2b240fcb2935c21f6a7094f63b70ada6ca3bb3ba8e4.mp3",
+      "sha256": "e3c9d5daa50c0ba86bb0a2b240fcb2935c21f6a7094f63b70ada6ca3bb3ba8e4",
+      "bytes": 13000,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "e16ef3e660742536a6f3e38d062dcdefe7f2e15dad13242b156e7958320b9d8e",
+      "text": "Ich stehe um sechs Uhr auf.",
+      "source": "grammar:zahlen-uhrzeit",
+      "url": "/clips/bba7924baa0ac324999f9b0b2d14c436f23838f6b64b0f3d14ef45b6b848cbb6.mp3",
+      "sha256": "bba7924baa0ac324999f9b0b2d14c436f23838f6b64b0f3d14ef45b6b848cbb6",
+      "bytes": 17807,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "4fdb9e7b2d4291ee4814b13556035ce9035d4098c1187f38d8d75b30ade0cde8",
+      "text": "Der Kurs beginnt am Montag.",
+      "source": "grammar:zahlen-uhrzeit",
+      "url": "/clips/46774da849614217281e4c4dce6a8c09194b953cf8f3742296a9d65e710142d8.mp3",
+      "sha256": "46774da849614217281e4c4dce6a8c09194b953cf8f3742296a9d65e710142d8",
+      "bytes": 17807,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "35f24970efb5ac88a5a63b576f345aaf348d434ef89c3371240718ceb0c1bb5a",
+      "text": "Ich habe im August Geburtstag.",
+      "source": "grammar:zahlen-uhrzeit",
+      "url": "/clips/5aaa7339196141b3f63fbb9877e8555f085c565839b1633cfaa5de5d6d7bb586.mp3",
+      "sha256": "5aaa7339196141b3f63fbb9877e8555f085c565839b1633cfaa5de5d6d7bb586",
+      "bytes": 18225,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "2f9ed7d53be2889fe02a798af46f8a3393ff6d6582c75bd884070237bf3be5b3",
+      "text": "Ich helfe meiner Mutter.",
+      "source": "grammar:dativ",
+      "url": "/clips/f6019b8844d34c835be847c9ece7625e0379f2db85104c0fd08f578fbcf4e134.mp3",
+      "sha256": "f6019b8844d34c835be847c9ece7625e0379f2db85104c0fd08f578fbcf4e134",
+      "bytes": 12791,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "c5c659d8ae2c7ee008307141dc0ab68c646e8671a5ad6b770581ac75eeca1e7f",
+      "text": "Das Auto gehört dem Lehrer.",
+      "source": "grammar:dativ",
+      "url": "/clips/c72247e5fa824f9173a041e43388aac46edc85353e7116e407a7743f1955d451.mp3",
+      "sha256": "c72247e5fa824f9173a041e43388aac46edc85353e7116e407a7743f1955d451",
+      "bytes": 17180,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "c88f57df727302e18d490c9403f222d9981d41d5f4ef2e37f2dad171620288e6",
+      "text": "Wie gefällt dir die Stadt?",
+      "source": "grammar:dativ",
+      "url": "/clips/513317c4d8a3262ddafb47b2be248aec367827846c9b032cc71952c1e774dd8e.mp3",
+      "sha256": "513317c4d8a3262ddafb47b2be248aec367827846c9b032cc71952c1e774dd8e",
+      "bytes": 12373,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "a83e35ded8d5509fee8fef777ede24d419c7756d538b21dd8255ce5920565c0b",
+      "text": "Er schenkt seiner Frau Blumen.",
+      "source": "grammar:dativ",
+      "url": "/clips/0d2d2b2c7c98326980800eb19761f7c8b5a7e622b6ae4e1d8ae5658a22c02cb2.mp3",
+      "sha256": "0d2d2b2c7c98326980800eb19761f7c8b5a7e622b6ae4e1d8ae5658a22c02cb2",
+      "bytes": 18434,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "da97096be66b09406e7276a4528a665d8f29969abf46d555bec0d14ef318e466",
+      "text": "Wir fahren mit den Autos.",
+      "source": "grammar:dativ",
+      "url": "/clips/b5347adc57d1f3fb4273868e3e1f709a0a8eb63425f77ca86801b27a5629b9f1.mp3",
+      "sha256": "b5347adc57d1f3fb4273868e3e1f709a0a8eb63425f77ca86801b27a5629b9f1",
+      "bytes": 15926,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "bac920b6006819fec3eac863ba7827fd0a30e1810d7d5b091efee83e51cc4543",
+      "text": "Ich fahre mit dem Bus zur Schule.",
+      "source": "grammar:dativ-praepositionen",
+      "url": "/clips/596f1d3ad0851d6adee9673147271ee54e0490d66ffe45fd5c8bb5cb2a72fbe8.mp3",
+      "sha256": "596f1d3ad0851d6adee9673147271ee54e0490d66ffe45fd5c8bb5cb2a72fbe8",
+      "bytes": 19061,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "232c9a0b2e7ff4f20192aa7d918de20a219b1d13e7d4e915ca1c8c1ced935eaa",
+      "text": "Ich lege das Buch auf den Tisch.",
+      "source": "grammar:dativ-praepositionen",
+      "url": "/clips/861831724c4488861830a613db3b0c437c23204fce33d14ec3e5a5782ac291dc.mp3",
+      "sha256": "861831724c4488861830a613db3b0c437c23204fce33d14ec3e5a5782ac291dc",
+      "bytes": 18434,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "e2a1fa5692cdc2fe1490897f85dd6bc1d282bbfbd15548ba7d70e4fad5eb497e",
+      "text": "Seit einem Jahr lerne ich Deutsch.",
+      "source": "grammar:dativ-praepositionen",
+      "url": "/clips/28231c169883ae9fc18beaf972f141dd7ff7634a3dfbb189c8fb50d4e11de566.mp3",
+      "sha256": "28231c169883ae9fc18beaf972f141dd7ff7634a3dfbb189c8fb50d4e11de566",
+      "bytes": 19061,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "ed15aa3c1d905ae69b46d9bbd36d234465e06f323244d00b3d95eeb19656fd22",
+      "text": "Gestern habe ich Deutsch gelernt.",
+      "source": "grammar:perfekt",
+      "url": "/clips/c8e38a229c1588c782d30af18cc61edc2ba45d3e0985db07972a61a0b7231160.mp3",
+      "sha256": "c8e38a229c1588c782d30af18cc61edc2ba45d3e0985db07972a61a0b7231160",
+      "bytes": 18434,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "0a2dc1c73cf7473d1eaace960d7488bc9fbfdaa6c8418aa950e0eecc6bd9780b",
+      "text": "Wir sind nach Kairo gefahren.",
+      "source": "grammar:perfekt",
+      "url": "/clips/e234870e5eae80b5b141a1fbb2f1bbfe1a768064be9965eab674ab89b05c227c.mp3",
+      "sha256": "e234870e5eae80b5b141a1fbb2f1bbfe1a768064be9965eab674ab89b05c227c",
+      "bytes": 15299,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "1e744b3e41e6011f3359addc1dd0e88596c8d55ce0d7278a3ceba69eced81707",
+      "text": "Hast du schon gegessen?",
+      "source": "grammar:perfekt",
+      "url": "/clips/be1b82751c36baee8a5b1eafa36a952e95228462af023d0673edfa96e3e4eb2f.mp3",
+      "sha256": "be1b82751c36baee8a5b1eafa36a952e95228462af023d0673edfa96e3e4eb2f",
+      "bytes": 11746,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "fa27ccdbe6dc84f5217223b4cc2b64d5ca69752fb75f9e73435e93a751e9a80c",
+      "text": "Sie ist früh aufgestanden.",
+      "source": "grammar:perfekt",
+      "url": "/clips/ed0970cd557e9937039ab65b4273ead0f8a3dd31b526df9023aaa7f9163e6f86.mp3",
+      "sha256": "ed0970cd557e9937039ab65b4273ead0f8a3dd31b526df9023aaa7f9163e6f86",
+      "bytes": 16553,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "8a008044647c3e7b3fc29b522591a354ee41425b038c3851494f59a9e0b095a4",
+      "text": "Ich habe in Kairo studiert.",
+      "source": "grammar:perfekt",
+      "url": "/clips/8c8c8ebbb9d1724582cd77261838e41b657f9ba4d65279106627461eceddea6f.mp3",
+      "sha256": "8c8c8ebbb9d1724582cd77261838e41b657f9ba4d65279106627461eceddea6f",
+      "bytes": 17180,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "40ba8dcb2768db94cc0dfe89c88bf5cc77f7940054733da7e22c4a27bc4d55ec",
+      "text": "Er hat sich bewegt.",
+      "source": "grammar:perfekt",
+      "url": "/clips/431aef5b4d7d15073bb80c5215dc9d6354e4cd1ddf1da12e19387007dc82f2f2.mp3",
+      "sha256": "431aef5b4d7d15073bb80c5215dc9d6354e4cd1ddf1da12e19387007dc82f2f2",
+      "bytes": 10075,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "b147be783b63693d540f9241c170bb8025f904ad48fe79ec8e83c92ac8a3afd8",
+      "text": "Ich war gestern krank.",
+      "source": "grammar:praeteritum-basics",
+      "url": "/clips/50f5978e7f62173e996df8443a80989c101428d479815d302bc229bd7bcc209d.mp3",
+      "sha256": "50f5978e7f62173e996df8443a80989c101428d479815d302bc229bd7bcc209d",
+      "bytes": 12791,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "944568457415003fd4699a663448fd8f3512b43cc1382fb03e9561a4b06276b3",
+      "text": "Wir hatten keine Zeit.",
+      "source": "grammar:praeteritum-basics",
+      "url": "/clips/4945650fbafb5f07c8e383a1a885ef55e5d1db6e99f9b45eef064984c16a035d.mp3",
+      "sha256": "4945650fbafb5f07c8e383a1a885ef55e5d1db6e99f9b45eef064984c16a035d",
+      "bytes": 12373,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "1b6cf26445225e0376c0e5d83b3e77d88efb2bd10a50395d72875e72dfc6351b",
+      "text": "Er konnte nicht kommen.",
+      "source": "grammar:praeteritum-basics",
+      "url": "/clips/3dabdaa88fa03ee522b3ca9e21095b69e78da36e94a3fbc0f31351227ac53020.mp3",
+      "sha256": "3dabdaa88fa03ee522b3ca9e21095b69e78da36e94a3fbc0f31351227ac53020",
+      "bytes": 13000,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "9d36739aedd56a130d679c9faa3c50ae16a69fb7aff3eb5d636eb4ce99172487",
+      "text": "Sie kam um acht Uhr an.",
+      "source": "grammar:praeteritum-basics",
+      "url": "/clips/27e5cbfc12976b9470123eb31e62447815e8da28cd4914a72085f32ad2c16c64.mp3",
+      "sha256": "27e5cbfc12976b9470123eb31e62447815e8da28cd4914a72085f32ad2c16c64",
+      "bytes": 18434,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "4968398b5b8921f599e1e8c843cc20f910dafb056c0756fa12b85306429a4c94",
+      "text": "Das ist ein guter Freund.",
+      "source": "grammar:adjektiv-endungen",
+      "url": "/clips/60126043602fdb1a3376bc29f0168ade50a9faa0a4a96f04a2bb3538659e1b13.mp3",
+      "sha256": "60126043602fdb1a3376bc29f0168ade50a9faa0a4a96f04a2bb3538659e1b13",
+      "bytes": 15926,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "6c7f8ac658c7d5170cc8726edc3e08d64b2ad7ae77494e35afe4ef2b5176c766",
+      "text": "Ich kaufe die rote Tasche.",
+      "source": "grammar:adjektiv-endungen",
+      "url": "/clips/5501558c11c964c871d24c7c4a5b73d048740b3dbf7c18cdfbfe5eb968673578.mp3",
+      "sha256": "5501558c11c964c871d24c7c4a5b73d048740b3dbf7c18cdfbfe5eb968673578",
+      "bytes": 16971,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "e25aef969059e223d93319d440300a482fc2b7fe8cc6eaba18921ea7a2cfcd7b",
+      "text": "Wir wohnen in einem kleinen Haus.",
+      "source": "grammar:adjektiv-endungen",
+      "url": "/clips/ec4f111c8f6a85bd08f713786a69754142d7101121f086fcbc806c740ad3a148.mp3",
+      "sha256": "ec4f111c8f6a85bd08f713786a69754142d7101121f086fcbc806c740ad3a148",
+      "bytes": 19479,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "1f51fb965a6e2b148514995f0ff57bc1e3eaa5b645d5d8d3ae4bac33a1fd2c14",
+      "text": "Heiße Suppe schmeckt im Winter gut.",
+      "source": "grammar:adjektiv-endungen",
+      "url": "/clips/0141417ad1026226451192359521b0a37732f733af0eb60f9ecb6ffabdf64d14.mp3",
+      "sha256": "0141417ad1026226451192359521b0a37732f733af0eb60f9ecb6ffabdf64d14",
+      "bytes": 20315,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "3c9b04bb8df38aef65b9bdcb0782f58fbf382b29bb70afff6aca879c766a831b",
+      "text": "Ich sehe das kleine Kind.",
+      "source": "grammar:adjektiv-endungen",
+      "url": "/clips/ef00edb8ba58f40d32c5961b67e6e239defb40c3643627ff33e1f90ae793a4e3.mp3",
+      "sha256": "ef00edb8ba58f40d32c5961b67e6e239defb40c3643627ff33e1f90ae793a4e3",
+      "bytes": 16344,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "a2a7ce415a23f0a54f02556ddfd8e2dd047922c6da338e129ba707d8fd72527a",
+      "text": "Ich lerne Deutsch, weil ich in Deutschland arbeiten will.",
+      "source": "grammar:nebensaetze-weil-dass",
+      "url": "/clips/b7364fd9ecc5d99659a33fa19319cd87b28c5b0a7307c42acc808df6d6bad503.mp3",
+      "sha256": "b7364fd9ecc5d99659a33fa19319cd87b28c5b0a7307c42acc808df6d6bad503",
+      "bytes": 29092,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "aa06e8afcde3c11c44e295363a85f0c31ba805cae5e09e98bb16597398f5b3c1",
+      "text": "Er sagt, dass er keine Zeit hat.",
+      "source": "grammar:nebensaetze-weil-dass",
+      "url": "/clips/151c1907d4e952e1612f899cb264d1c8be67d0d2277c7686321078846f5669ca.mp3",
+      "sha256": "151c1907d4e952e1612f899cb264d1c8be67d0d2277c7686321078846f5669ca",
+      "bytes": 16344,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "a80eae7959ca95ff2fc7dbfddbdee2ee827a3b05ebc5ef7245f5f254bd9ccf91",
+      "text": "Wenn du willst, kannst du kommen.",
+      "source": "grammar:nebensaetze-weil-dass",
+      "url": "/clips/fc5e51d2dd5d99230d3f4a8eec5f0163b39b305c472631ab4116c98dc637f798.mp3",
+      "sha256": "fc5e51d2dd5d99230d3f4a8eec5f0163b39b305c472631ab4116c98dc637f798",
+      "bytes": 14881,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "4d105721d6481043c0f19a29da278525fb28885a924ff684dd631c74ead55c20",
+      "text": "Kairo ist größer als Mansoura.",
+      "source": "grammar:komparativ",
+      "url": "/clips/7a95d456cdcfbaeec459c46528a2ef9add544582bfb3b05340b698c7b00887b9.mp3",
+      "sha256": "7a95d456cdcfbaeec459c46528a2ef9add544582bfb3b05340b698c7b00887b9",
+      "bytes": 19688,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "febc752be321ca09008cf551b9165245f4bf654af71bc059f2f5c7a8f181a209",
+      "text": "Ich trinke lieber Tee als Kaffee.",
+      "source": "grammar:komparativ",
+      "url": "/clips/6061d1bd69836239a407e733a2805e4ed7db641e657c1a9cc7aa2a747893d890.mp3",
+      "sha256": "6061d1bd69836239a407e733a2805e4ed7db641e657c1a9cc7aa2a747893d890",
+      "bytes": 20106,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "80d362995b4d7f332b614ec8e97f656389f4830c059322b72d5c3f66cb1fa8a3",
+      "text": "Das ist der höchste Berg.",
+      "source": "grammar:komparativ",
+      "url": "/clips/b67de9390b7fa073fbc20979b4e1f795b35d2dc98bc17953b04ba4d1a7130c76.mp3",
+      "sha256": "b67de9390b7fa073fbc20979b4e1f795b35d2dc98bc17953b04ba4d1a7130c76",
+      "bytes": 17180,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "f87b1a0ef6f31a8c36346058cd64512233538e8eb9d15188e709153ff7d35d11",
+      "text": "Sie spricht am besten Deutsch.",
+      "source": "grammar:komparativ",
+      "url": "/clips/80d52a65e5d438e207866e914acd4442aafa33224893b6695236e14baa76b6d8.mp3",
+      "sha256": "80d52a65e5d438e207866e914acd4442aafa33224893b6695236e14baa76b6d8",
+      "bytes": 18434,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "bf6008ac59ea68bd50e453d0e43cab747b0f1d9cc0941de3fc8622dfbcfca64a",
+      "text": "Ich freue mich auf das Wochenende.",
+      "source": "grammar:reflexive-verben",
+      "url": "/clips/037133aecd361ceb9cca7e3130afefc59da7b884c91323ccf755ed05a5c4e90f.mp3",
+      "sha256": "037133aecd361ceb9cca7e3130afefc59da7b884c91323ccf755ed05a5c4e90f",
+      "bytes": 19688,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "714ddb1c04f5f39b829904fd7fb8b5781907219a2ba9ad18da4c38b3cc16d9a0",
+      "text": "Wir treffen uns um acht.",
+      "source": "grammar:reflexive-verben",
+      "url": "/clips/fa4e3635e734600b388f139ac78eaafb8d20dc2f863d7736df97b42fa91f5a28.mp3",
+      "sha256": "fa4e3635e734600b388f139ac78eaafb8d20dc2f863d7736df97b42fa91f5a28",
+      "bytes": 14254,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "06eb9422b72eee348f9da9ac69bda9059460fe62ec67bc29bc6e23f8bd8564c6",
+      "text": "Er interessiert sich für Musik.",
+      "source": "grammar:reflexive-verben",
+      "url": "/clips/7c73629b41903501a199144065c5fd4e103a238275035788b2e019662e4e9851.mp3",
+      "sha256": "7c73629b41903501a199144065c5fd4e103a238275035788b2e019662e4e9851",
+      "bytes": 17180,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "1ec2de4bcbdfbb69f37e78f8b41928a9ab661713badde4a99a8914ecb1a98abd",
+      "text": "Ich fühle mich heute gut.",
+      "source": "grammar:reflexive-verben",
+      "url": "/clips/59172e5e650567112f78e92a19a60bef70e629c872c01da894fdfa90bd21adb2.mp3",
+      "sha256": "59172e5e650567112f78e92a19a60bef70e629c872c01da894fdfa90bd21adb2",
+      "bytes": 15508,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "6b2c9bf56306f1dc537f8bbc9bf846173676defc0be6f98e116dffff13077c93",
+      "text": "Es wird morgen regnen.",
+      "source": "grammar:futur-werden",
+      "url": "/clips/7808da737ae7585c4aa8c6c288b1ee2b98442c54f71656ef1ecd006e4a9aa389.mp3",
+      "sha256": "7808da737ae7585c4aa8c6c288b1ee2b98442c54f71656ef1ecd006e4a9aa389",
+      "bytes": 14045,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "aeb61f2ecaf795251cc2d11bfe85c7eeb7f6efe5012e75da9157aad5bab6d23f",
+      "text": "Ich werde Ingenieur.",
+      "source": "grammar:futur-werden",
+      "url": "/clips/42d8566c6c2329600ea886640c00c05990e016ca8a9f6fbd8c811cf9bbe6f506.mp3",
+      "sha256": "42d8566c6c2329600ea886640c00c05990e016ca8a9f6fbd8c811cf9bbe6f506",
+      "bytes": 12164,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "b98bb130a0219dde299aa3c707fa6539794e68fef2d6ccc30840f8364cd8ce30",
+      "text": "Wirst du mich besuchen?",
+      "source": "grammar:futur-werden",
+      "url": "/clips/2a78ee8250e371ec8738156f1edb7e71643883d98a13cfcd379af2b300e1f127.mp3",
+      "sha256": "2a78ee8250e371ec8738156f1edb7e71643883d98a13cfcd379af2b300e1f127",
+      "bytes": 13000,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "21be23d3e4848e87e2d8a14c16059e982e94b901ae179af67e6406bb6529d331",
+      "text": "Ich warte auf den Bus.",
+      "source": "grammar:verben-mit-praepositionen",
+      "url": "/clips/23b980bb7a76b77f2bfe000d14f7fe09436478d3aad857e6e88d57096e6b426d.mp3",
+      "sha256": "23b980bb7a76b77f2bfe000d14f7fe09436478d3aad857e6e88d57096e6b426d",
+      "bytes": 15926,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "a4726a882eb576c2d017617c5429415c072f0ec58b04f3fa3947ad28a3fcfcff",
+      "text": "Er träumt von einem Haus am Meer.",
+      "source": "grammar:verben-mit-praepositionen",
+      "url": "/clips/5f50d2abace1727daf5774dd89a39e64dd7064619fea51ae709da9175740993e.mp3",
+      "sha256": "5f50d2abace1727daf5774dd89a39e64dd7064619fea51ae709da9175740993e",
+      "bytes": 21777,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "92e1cd41ae55887ed372bdbac1c6b17253fb09efc2f970ad1a91bf7b44a41aaa",
+      "text": "Wir sprechen über das Wetter.",
+      "source": "grammar:verben-mit-praepositionen",
+      "url": "/clips/c0dbf5540f4519dac86873092f73e2dadda0127619f13f23929d263876038342.mp3",
+      "sha256": "c0dbf5540f4519dac86873092f73e2dadda0127619f13f23929d263876038342",
+      "bytes": 15926,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "9d805490721890dc0d3acd3b0e81a2ebb712fc31f9a8113041e39bd2c7967fe6",
+      "text": "Sie hat sich für das Studium entschieden.",
+      "source": "grammar:verben-mit-praepositionen",
+      "url": "/clips/a345dac42254ac123fd5a4084031ad320211dd2e66d54f642a3260fa8b1ab6fe.mp3",
+      "sha256": "a345dac42254ac123fd5a4084031ad320211dd2e66d54f642a3260fa8b1ab6fe",
+      "bytes": 18852,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "98cfc942d90edbb632fbd0b872a125a702db31e3ee5344a1cff3898fc0537ef4",
+      "text": "Das ist der Mann, der hier wohnt.",
+      "source": "grammar:relativsaetze",
+      "url": "/clips/b6c5892e4d872ecbd4139d6cf26c57371beb0ce8afb7f0050fe41005eb0f5d29.mp3",
+      "sha256": "b6c5892e4d872ecbd4139d6cf26c57371beb0ce8afb7f0050fe41005eb0f5d29",
+      "bytes": 17180,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "1de6974c9fe21c9397143c7dcf40a99f799e2df459ccf501f973b64b03cace68",
+      "text": "Das Buch, das ich lese, ist spannend.",
+      "source": "grammar:relativsaetze",
+      "url": "/clips/2499e1ea394491cc0b54394d0e08ee7f5eff430b4adc187ff08c988dab2b766c.mp3",
+      "sha256": "2499e1ea394491cc0b54394d0e08ee7f5eff430b4adc187ff08c988dab2b766c",
+      "bytes": 21359,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "adc271cc04a04864b779d9bc17d0a4254198722b4ee319f51ef761fae51dad71",
+      "text": "Die Stadt, in der ich geboren bin, ist klein.",
+      "source": "grammar:relativsaetze",
+      "url": "/clips/3b7d7acd44f0c42d13245215be7f666c9a079040e9ae0079a206ad41531eb4f9.mp3",
+      "sha256": "3b7d7acd44f0c42d13245215be7f666c9a079040e9ae0079a206ad41531eb4f9",
+      "bytes": 22404,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "5430155b5396b621669a0b12a49ae88c5f3664affa20be8f8ab7b0bb88eacb2f",
+      "text": "Das ist die Frau, deren Sohn Arzt ist.",
+      "source": "grammar:relativsaetze",
+      "url": "/clips/82d47b1e45f7f9101046c71637f75a15324236b34f41afc81f57a1eabb0307fd.mp3",
+      "sha256": "82d47b1e45f7f9101046c71637f75a15324236b34f41afc81f57a1eabb0307fd",
+      "bytes": 21986,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "7ebb0c834f1ddec0f347e08348ba26c6209528c4c3eccdd95e3774b066c61f4a",
+      "text": "Ich wäre gern reich.",
+      "source": "grammar:konjunktiv-2",
+      "url": "/clips/b060b82ecbbe71c1083288b405bb89f938908b5d31b807db7f02af0617f353fb.mp3",
+      "sha256": "b060b82ecbbe71c1083288b405bb89f938908b5d31b807db7f02af0617f353fb",
+      "bytes": 12164,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "2543b163a70e8bf85d3b2eddbe6e34e2c51dcb2f184c1a6bb716cb93fab67b58",
+      "text": "Wenn ich du wäre, würde ich lernen.",
+      "source": "grammar:konjunktiv-2",
+      "url": "/clips/7005303d20054f05c98397f77a07ba02b0894a0871d370858863c824b6c2de4e.mp3",
+      "sha256": "7005303d20054f05c98397f77a07ba02b0894a0871d370858863c824b6c2de4e",
+      "bytes": 22404,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "5d024558193c0cf7a5ceaa9fe8415afcd8d2253d46707944f10ad8dd6983b0df",
+      "text": "Könnten Sie das bitte wiederholen?",
+      "source": "grammar:konjunktiv-2",
+      "url": "/clips/17980b604a31ed2a69bdb2f0349b0fde41bb3e143cad66058a2fc53c39acdb6b.mp3",
+      "sha256": "17980b604a31ed2a69bdb2f0349b0fde41bb3e143cad66058a2fc53c39acdb6b",
+      "bytes": 15508,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "2ab6ec115f7631dae585088e93ca3071c21a0d74c4f41cd4c8fd34b7909cda30",
+      "text": "Hier wird Deutsch gesprochen.",
+      "source": "grammar:passiv",
+      "url": "/clips/7600b988ab5b9c955628a1031d47e58a65edd339736e6853442b98ae5a222ee9.mp3",
+      "sha256": "7600b988ab5b9c955628a1031d47e58a65edd339736e6853442b98ae5a222ee9",
+      "bytes": 16553,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "91e590d13a12243026b3fb66d903aa2af8ab4be5ef58f0b9ec4e894dc06454ed",
+      "text": "Das Auto wurde gestern repariert.",
+      "source": "grammar:passiv",
+      "url": "/clips/d735eeb60110d5abaccb492706d9aa7e3695088931b47724dee005a1e181ce04.mp3",
+      "sha256": "d735eeb60110d5abaccb492706d9aa7e3695088931b47724dee005a1e181ce04",
+      "bytes": 21359,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "cceff506e24b61e5a3aab0c78e1942cfff11a37c42a08233e929f047ab0498b6",
+      "text": "Der Brief muss geschrieben werden.",
+      "source": "grammar:passiv",
+      "url": "/clips/dc2719dfc393eb1714b12ca7bab392c24a5b561ed45d8a9d86671c3db6181a9c.mp3",
+      "sha256": "dc2719dfc393eb1714b12ca7bab392c24a5b561ed45d8a9d86671c3db6181a9c",
+      "bytes": 16553,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "10e4822e36321978d510c8c1ef1f56b7737b4b5c3a23d2f95919f702cf2b8177",
+      "text": "Das ist das Buch meines Bruders.",
+      "source": "grammar:genitiv",
+      "url": "/clips/a007646a42f49f9339a78c896449b2e862cfd2d3ef808e609f3b777c79ac803b.mp3",
+      "sha256": "a007646a42f49f9339a78c896449b2e862cfd2d3ef808e609f3b777c79ac803b",
+      "bytes": 17807,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "d62ef591c82c883a34cc5fbc2e39413c87d55240d7996b8f5eb8b1eb813c0a5f",
+      "text": "Wegen des Regens bleiben wir hier.",
+      "source": "grammar:genitiv",
+      "url": "/clips/c96f9c9f0ae4b55aa124d58cc89e33b12b8fcc7b6a1383a1faa7b92e9fdf4826.mp3",
+      "sha256": "c96f9c9f0ae4b55aa124d58cc89e33b12b8fcc7b6a1383a1faa7b92e9fdf4826",
+      "bytes": 19061,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "ef7f57ea33dc1c9482b039e2b229820dc9b83ef5f63e5eccbe9f6997d7f957bd",
+      "text": "Während des Kurses lernen wir viel.",
+      "source": "grammar:genitiv",
+      "url": "/clips/c770d53ed693ba4b7a8c0b1cdf2c608e5d7fb914462df4abcb6d3cff52b6256f.mp3",
+      "sha256": "c770d53ed693ba4b7a8c0b1cdf2c608e5d7fb914462df4abcb6d3cff52b6256f",
+      "bytes": 23240,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "e7c5247ffbc622f60679d585637a76a0f6c95bb42b31adee92f007a02e3c69e5",
+      "text": "Es ist wichtig, jeden Tag zu üben.",
+      "source": "grammar:infinitiv-zu",
+      "url": "/clips/30f7d35958563b45657d2a54287fc795736858e7788e90781f040a23b2dcccc5.mp3",
+      "sha256": "30f7d35958563b45657d2a54287fc795736858e7788e90781f040a23b2dcccc5",
+      "bytes": 22613,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "1beb6402a67a13dd006b6abbd3541697921e7e1f0a5fec268122381ec4a323e1",
+      "text": "Ich habe keine Lust, heute zu arbeiten.",
+      "source": "grammar:infinitiv-zu",
+      "url": "/clips/41004e1660db25c1c0793262ea6b664ee88e3b33ef14ebb08286f0eb18e5415c.mp3",
+      "sha256": "41004e1660db25c1c0793262ea6b664ee88e3b33ef14ebb08286f0eb18e5415c",
+      "bytes": 21777,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "7024a358a1c0de6ec62c810717e2c4b1b8ede8b75b6a38df8281d08789848e5b",
+      "text": "Er spart Geld, um ein Auto zu kaufen.",
+      "source": "grammar:infinitiv-zu",
+      "url": "/clips/0105fabee6a43ad88219b99c863901dc6943231af57afb95dde123e4c3d48bd6.mp3",
+      "sha256": "0105fabee6a43ad88219b99c863901dc6943231af57afb95dde123e4c3d48bd6",
+      "bytes": 21986,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "2cc1075735290c05843ac89f989790dce16104ad846df51a394057454a7e5838",
+      "text": "Obwohl er müde ist, arbeitet er weiter.",
+      "source": "grammar:konnektoren-b1",
+      "url": "/clips/db665e3dbfc220667ae8ecfb4318d53daae5bc630db01e3f7b03d36984c85a5f.mp3",
+      "sha256": "db665e3dbfc220667ae8ecfb4318d53daae5bc630db01e3f7b03d36984c85a5f",
+      "bytes": 25748,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "f620d0e5d8ce422625729be54b46e2cc7c2591c0dbe821255f4eb16504de8ab8",
+      "text": "Bevor du gehst, ruf mich an.",
+      "source": "grammar:konnektoren-b1",
+      "url": "/clips/6a952feca217b7ec3de5ff2c1bded97d5933758f47a71c1f100bf7ad0f55cff0.mp3",
+      "sha256": "6a952feca217b7ec3de5ff2c1bded97d5933758f47a71c1f100bf7ad0f55cff0",
+      "bytes": 16553,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "1c570ae58b5c1459180cd71590c4fe5fd59c118907de2e9ab3fa224a7d69786f",
+      "text": "Ich weiß nicht, ob er kommt.",
+      "source": "grammar:konnektoren-b1",
+      "url": "/clips/251b9bfdbcb4b3dcd0397301991aa112aef239e0e35febdc98030b9fffed5054.mp3",
+      "sha256": "251b9bfdbcb4b3dcd0397301991aa112aef239e0e35febdc98030b9fffed5054",
+      "bytes": 14881,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "993c0d94f18c66f1709b9686373cd8bfb25f8eb5057c4ad91b945f863d746e84",
+      "text": "Es ist spät, deshalb gehe ich nach Hause.",
+      "source": "grammar:konnektoren-b1",
+      "url": "/clips/9d6876d6295c108ffeadd7f8c4b3df98b2b314cc34d6109af76a85e99d3fb0e5.mp3",
+      "sha256": "9d6876d6295c108ffeadd7f8c4b3df98b2b314cc34d6109af76a85e99d3fb0e5",
+      "bytes": 23658,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "3a7aaeb36d5132e945db061625240bb815ba7d1554a0c232bfc75311010f01ae",
+      "text": "Die Tür ist geschlossen.",
+      "source": "grammar:passiv-erweitert",
+      "url": "/clips/232d36d6e2d836f873ef0fea97d5998f58f6fe85199d66c4874d5295719d8834.mp3",
+      "sha256": "232d36d6e2d836f873ef0fea97d5998f58f6fe85199d66c4874d5295719d8834",
+      "bytes": 16344,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "24441acc7aeb597fc7526cf41fd8580c9d01c6885b9d06bc02fe1f761791eb22",
+      "text": "Das Problem lässt sich leicht lösen.",
+      "source": "grammar:passiv-erweitert",
+      "url": "/clips/c074e7246c7004e55a7490f4c28a0e74958542df8cf93a9c9f260dec2668a410.mp3",
+      "sha256": "c074e7246c7004e55a7490f4c28a0e74958542df8cf93a9c9f260dec2668a410",
+      "bytes": 19061,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "b90e49f4ccb5d3ea77520e3acdbc4087f9c229505c3d7797ddb07dd17f05d787",
+      "text": "Der Antrag ist bis Freitag einzureichen.",
+      "source": "grammar:passiv-erweitert",
+      "url": "/clips/c4e5e58b9f9fda42fc04710ed89f48b95a3cbdfcb8f6f850e403b44741f04453.mp3",
+      "sha256": "c4e5e58b9f9fda42fc04710ed89f48b95a3cbdfcb8f6f850e403b44741f04453",
+      "bytes": 23867,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "0d1c163958700a8c9df9f6a383b967892e3a4ba652c08194a7cd16020f69be62",
+      "text": "Der Minister sagte, er sei zufrieden.",
+      "source": "grammar:konjunktiv-1",
+      "url": "/clips/76090f6dfbfb7bf00e9f59aa6787d5441b90cff2590c7410070396611e2bb082.mp3",
+      "sha256": "76090f6dfbfb7bf00e9f59aa6787d5441b90cff2590c7410070396611e2bb082",
+      "bytes": 21986,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "5a7c36dab9f46fe87a571edbe8e8d5cb1c1a94f51c23110f1548c3faa439d951",
+      "text": "Sie behauptet, sie habe nichts gewusst.",
+      "source": "grammar:konjunktiv-1",
+      "url": "/clips/049ed9914e81620ff67772435a51a1847ce26fcdedc7112cffca33b6615e931f.mp3",
+      "sha256": "049ed9914e81620ff67772435a51a1847ce26fcdedc7112cffca33b6615e931f",
+      "bytes": 19688,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "32d41e46b3adb682e028cdc285160de082c26ee10412fb952c192290aa066f13",
+      "text": "Er erklärte, er komme morgen.",
+      "source": "grammar:konjunktiv-1",
+      "url": "/clips/2c74b1aeaa3ca70f438702fb664598f826274d6bf9ebfcfde65cc943edb4829c.mp3",
+      "sha256": "2c74b1aeaa3ca70f438702fb664598f826274d6bf9ebfcfde65cc943edb4829c",
+      "bytes": 19061,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "0b3c9e47a315c4301732409a45171fcf57e58ef2ee0c5b5bfdc19e3d8c335af1",
+      "text": "Die schlafende Katze liegt auf dem Sofa.",
+      "source": "grammar:partizipialattribute",
+      "url": "/clips/c7a149e91da1ff4a91dad98411dfda77eddbb2a7e5a45093f324d2f40d44fb68.mp3",
+      "sha256": "c7a149e91da1ff4a91dad98411dfda77eddbb2a7e5a45093f324d2f40d44fb68",
+      "bytes": 24494,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "376809578a48f28fe2938fff5e4a91a7ee3d9f698c8d255ee135615fbf9dbf49",
+      "text": "Das geöffnete Fenster stört mich.",
+      "source": "grammar:partizipialattribute",
+      "url": "/clips/4b22bd31dbe0da3b31c36e13cb2fb58a88fe3bb52acb82594ac896fd449c83dc.mp3",
+      "sha256": "4b22bd31dbe0da3b31c36e13cb2fb58a88fe3bb52acb82594ac896fd449c83dc",
+      "bytes": 19688,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "d6bdf0948b774d2bb2fd63829551bb7f008c4923535c3f460ecc4a242293c91e",
+      "text": "Die im Jahr 2020 gebaute Brücke ist neu.",
+      "source": "grammar:partizipialattribute",
+      "url": "/clips/1e0506865e8211dd87da7dd5d0ca3b1eb192c1399bde9444fcb910cdce26bcc0.mp3",
+      "sha256": "1e0506865e8211dd87da7dd5d0ca3b1eb192c1399bde9444fcb910cdce26bcc0",
+      "bytes": 29092,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "0ecfa443ed9f0c95df376d6da0aa46a44d3243f5de7d8a2392d9d9557f7875cb",
+      "text": "Bei schlechtem Wetter fällt das Fest aus.",
+      "source": "grammar:nominalstil",
+      "url": "/clips/39b6451533cc5b4aaffa54936434c690e15461c490efb62cd86cf63aaf3a522c.mp3",
+      "sha256": "39b6451533cc5b4aaffa54936434c690e15461c490efb62cd86cf63aaf3a522c",
+      "bytes": 20733,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "c93772e3f22baa1861db81f68b4fb4c44e17296e6d3fdb97037c1dfb65a26b87",
+      "text": "Nach der Ankunft rufe ich dich an.",
+      "source": "grammar:nominalstil",
+      "url": "/clips/4d13e2d5e4d72abbc4fec22fd59738925597341d57788e783746cd7f0f24ce4d.mp3",
+      "sha256": "4d13e2d5e4d72abbc4fec22fd59738925597341d57788e783746cd7f0f24ce4d",
+      "bytes": 18225,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "efe8bec7fdbacc193b778ec87e13bbf19b610aaa2e4a6305319901519ea0daea",
+      "text": "Trotz der Kritik blieb sie ruhig.",
+      "source": "grammar:nominalstil",
+      "url": "/clips/6e9356b4e649c8a26c5869440b8b470320143ee1b7227c06fcfd7d4f0e9bf66c.mp3",
+      "sha256": "6e9356b4e649c8a26c5869440b8b470320143ee1b7227c06fcfd7d4f0e9bf66c",
+      "bytes": 20106,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "3620a67680c8e7fe8e439cb9ff56cd444b146494e682738906f0d4073a94a0d9",
+      "text": "Das muss ein Irrtum sein.",
+      "source": "grammar:subjektive-modalverben",
+      "url": "/clips/dc99a38faf7a6d284a19b9e8211cac5379b2bb217609bfb909104a14d67b6989.mp3",
+      "sha256": "dc99a38faf7a6d284a19b9e8211cac5379b2bb217609bfb909104a14d67b6989",
+      "bytes": 14254,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "6194c834a711916599abd1db09d98f20c37f4e40524c5b0a6456d151c135d2b7",
+      "text": "Sie dürfte schon zu Hause sein.",
+      "source": "grammar:subjektive-modalverben",
+      "url": "/clips/fb32b6b38b517164f930f0f86e478e3a2ca5b0db909b63fb64333ebb42ea957e.mp3",
+      "sha256": "fb32b6b38b517164f930f0f86e478e3a2ca5b0db909b63fb64333ebb42ea957e",
+      "bytes": 15926,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "e4de3384a95ef7fbf7b0ff610b844142a98bf88872da704486b2f8f46caed299",
+      "text": "Er soll im Ausland leben.",
+      "source": "grammar:subjektive-modalverben",
+      "url": "/clips/318f3c4d2bc5bc4f597838c79ea3a3d3081e9a3857df1f3a8851612b78dba9cb.mp3",
+      "sha256": "318f3c4d2bc5bc4f597838c79ea3a3d3081e9a3857df1f3a8851612b78dba9cb",
+      "bytes": 15299,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "c85052171e21f6e44ff888f81d3fcc64311564d955a09c4fc5dc4a658b8fe31a",
+      "text": "Wenn ich das gewusst hätte, wäre ich geblieben.",
+      "source": "grammar:konjunktiv-2-vergangenheit",
+      "url": "/clips/b836aaed751c947dca1d372d23fb1f3049a9dc387758f89aeddc5024d64dedf6.mp3",
+      "sha256": "b836aaed751c947dca1d372d23fb1f3049a9dc387758f89aeddc5024d64dedf6",
+      "bytes": 23240,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "9d8a2018b9c0567315c20cec68ac5a80e2e2469fd277ee11688c44830d344e97",
+      "text": "Du hättest früher anrufen sollen.",
+      "source": "grammar:konjunktiv-2-vergangenheit",
+      "url": "/clips/54836cdd688a5bab6ce4779cd537b1586989c7fcfaf80f6aa9bd70920eb13dfe.mp3",
+      "sha256": "54836cdd688a5bab6ce4779cd537b1586989c7fcfaf80f6aa9bd70920eb13dfe",
+      "bytes": 19479,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "66ed2078580340ae6403521f8af50f01e3938c688d0d0c3595ed8a6117126c3b",
+      "text": "Wir nehmen Ihre Beschwerde zur Kenntnis.",
+      "source": "grammar:funktionsverbgefuege",
+      "url": "/clips/2a2c8e8ee9c30cd299bb749af65ecae5bfad6b2773c020f334640d71e9449d4a.mp3",
+      "sha256": "2a2c8e8ee9c30cd299bb749af65ecae5bfad6b2773c020f334640d71e9449d4a",
+      "bytes": 20941,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "516b465ee7a170d1dfd1f9b257627b5375108bba89d82bff1883c9ba05949a3d",
+      "text": "Die Firma steht vor einer schweren Entscheidung.",
+      "source": "grammar:funktionsverbgefuege",
+      "url": "/clips/a864f14e095df748c799216ee0f6ccb418607ea73447c723a11f2b42ad202b03.mp3",
+      "sha256": "a864f14e095df748c799216ee0f6ccb418607ea73447c723a11f2b42ad202b03",
+      "bytes": 20106,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "17be07de314d4c8695053e1209ed09e52700206d04d4349ba3c5480b11819755",
+      "text": "Das weißt du doch!",
+      "source": "grammar:modalpartikeln",
+      "url": "/clips/cee95b90940f89671e03bfe2f7f856ef9537db537a87bcb7a6be4c7350656cc7.mp3",
+      "sha256": "cee95b90940f89671e03bfe2f7f856ef9537db537a87bcb7a6be4c7350656cc7",
+      "bytes": 14254,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "b61c59fcda5b48e22e28c6a075693e726415f9a7312820d58844c7cccfdb6ed9",
+      "text": "Komm mal her.",
+      "source": "grammar:modalpartikeln",
+      "url": "/clips/dfc79468ebe8fd8547c89bf9723b9fc1035b7eba39f72fee45346d23b2f04a4b.mp3",
+      "sha256": "dfc79468ebe8fd8547c89bf9723b9fc1035b7eba39f72fee45346d23b2f04a4b",
+      "bytes": 9448,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "63c1723070073cee8419a7943d673d22c42dc6643f88e4f4e410eb3620024d14",
+      "text": "Wo bist du denn?",
+      "source": "grammar:modalpartikeln",
+      "url": "/clips/a005a1c14aaf454cb1a1e6e022e72810654601a9664b94093b582e845660e377.mp3",
+      "sha256": "a005a1c14aaf454cb1a1e6e022e72810654601a9664b94093b582e845660e377",
+      "bytes": 11119,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "da392dfea391bcbb26a0bffd56630a87f1110cc5c47f3a881cd0185d5ee7e07e",
+      "text": "Einerseits steigt die Nachfrage, andererseits sinkt das Angebot.",
+      "source": "grammar:wissenschaftssprache",
+      "url": "/clips/6ba6cc7cfe86905cdd73acc3b6863a5df587c8492ae9c47afdd4b09a7463c967.mp3",
+      "sha256": "6ba6cc7cfe86905cdd73acc3b6863a5df587c8492ae9c47afdd4b09a7463c967",
+      "bytes": 36824,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "68a9af7604b84e1fd480fd351a24b309d4bfea34c6a51d3bd2dd1f6520d34a86",
+      "text": "Aus der Studie geht hervor, dass die Zahl zugenommen hat.",
+      "source": "grammar:wissenschaftssprache",
+      "url": "/clips/8b1729f1b1e77a55263b16b77c1f22988e479fe995e27fa596515b223851266b.mp3",
+      "sha256": "8b1729f1b1e77a55263b16b77c1f22988e479fe995e27fa596515b223851266b",
+      "bytes": 28465,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "f0a453eba8c864281e349c0c792560adaf112f6b77a7c3b7ce46fea4c8365752",
+      "text": "Sie lacht, als ob nichts passiert wäre.",
+      "source": "grammar:als-ob",
+      "url": "/clips/d8c27b76a68629971aebf56d2913f70b157c233c696377191cf54b1ab4a57588.mp3",
+      "sha256": "d8c27b76a68629971aebf56d2913f70b157c233c696377191cf54b1ab4a57588",
+      "bytes": 22613,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "d2501913a1565cc11780f0d8d3ff61307bcdc6e558607cd8ccc8d5852e6e8d4f",
+      "text": "Wir bitten um Ihr Verständnis.",
+      "source": "grammar:stilregister",
+      "url": "/clips/a41e24b3223479fc35d89da064060651c2514f4fc4c8ffaf2981da1a57b9f45c.mp3",
+      "sha256": "a41e24b3223479fc35d89da064060651c2514f4fc4c8ffaf2981da1a57b9f45c",
+      "bytes": 17598,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "dc79a7ccbb1b605ef1cdac264b772c48915294e570a45dd8f97ef39d95c65eda",
+      "text": "Kannst du mir kurz helfen?",
+      "source": "grammar:stilregister",
+      "url": "/clips/8077822d3e34f65c089e8ec51e27f91e88bbc82462132c98530bf4035f7a808b.mp3",
+      "sha256": "8077822d3e34f65c089e8ec51e27f91e88bbc82462132c98530bf4035f7a808b",
+      "bytes": 13418,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "91a7b39f62e520a3e7f309e87bb1cb8d0128f418c85e2a5a4c29b683d737512f",
+      "text": "Ich krieg das schon hin.",
+      "source": "grammar:stilregister",
+      "url": "/clips/2be7f587e5c71ae6166f8c61ba80e2c9b826753114c19bac8a8b9fd02f7d2740.mp3",
+      "sha256": "2be7f587e5c71ae6166f8c61ba80e2c9b826753114c19bac8a8b9fd02f7d2740",
+      "bytes": 12373,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "09794eb09d326d92d962bcb5037ed3bc51851245b953dd38930704801cd176fe",
+      "text": "Ich drücke dir die Daumen für die Prüfung.",
+      "source": "grammar:redewendungen",
+      "url": "/clips/52100d507f02b66af99d776eb56b595401ff13a028364434a5ad6a67e3476d02.mp3",
+      "sha256": "52100d507f02b66af99d776eb56b595401ff13a028364434a5ad6a67e3476d02",
+      "bytes": 17807,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "199f6b7c764ff7357e94563700891c60466d184fe0a1b527c61a87636316075c",
+      "text": "Das ist nicht mein Bier.",
+      "source": "grammar:redewendungen",
+      "url": "/clips/700e6d0de05b51bcb86206ae5fa659658a8c2c736be0da650f9b1a161ab02ce4.mp3",
+      "sha256": "700e6d0de05b51bcb86206ae5fa659658a8c2c736be0da650f9b1a161ab02ce4",
+      "bytes": 14254,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "dcc34e697263781fe01222c632d3934646a3618a90c5d57641d23963fff6dee3",
+      "text": "Moin, wie geht's?",
+      "source": "grammar:dialekte-umgangssprache",
+      "url": "/clips/7ac6a1f9c789f4c6ead9c136e59084d2771e4b8d034774aad6e5b66d88608c6f.mp3",
+      "sha256": "7ac6a1f9c789f4c6ead9c136e59084d2771e4b8d034774aad6e5b66d88608c6f",
+      "bytes": 16553,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "9bab9f914296b903686f23cba0061ccf264e01b32b19d9054adab741037d2be5",
+      "text": "Servus, bis später!",
+      "source": "grammar:dialekte-umgangssprache",
+      "url": "/clips/4d5e09b31d75768c8e1b6333be2730840fcbfb82a4d597185f9fc560ade403d1.mp3",
+      "sha256": "4d5e09b31d75768c8e1b6333be2730840fcbfb82a4d597185f9fc560ade403d1",
+      "bytes": 16344,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "e6b446d5473666eb5bde1b05fc80a99f9352af6b0982b791dd19b8053a89e3df",
+      "text": "Als ich ankam, hatte der Kurs schon begonnen.",
+      "source": "grammar:plusquamperfekt",
+      "url": "/clips/c486f3a1caad9f998611e8b84c789e4ba67611402b3840c52197048310fe892b.mp3",
+      "sha256": "c486f3a1caad9f998611e8b84c789e4ba67611402b3840c52197048310fe892b",
+      "bytes": 22613,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "9a2bbcde6d38785a75c199188c373c7b86b22522e894d9d880cb33d454482bdc",
+      "text": "Wir waren schon nach Hause gegangen, als du angerufen hast.",
+      "source": "grammar:plusquamperfekt",
+      "url": "/clips/e6b458cf1f90c27762a6291344cccdc14dbf47adc9c222d70b11ea5b340fed2b.mp3",
+      "sha256": "e6b458cf1f90c27762a6291344cccdc14dbf47adc9c222d70b11ea5b340fed2b",
+      "bytes": 26584,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "6ec630cbae683d607577017781d25fcfd2c71be5b2c46bf1f8945d2a560b3646",
+      "text": "Nachdem sie gegessen hatte, ging sie zur Arbeit.",
+      "source": "grammar:plusquamperfekt",
+      "url": "/clips/b27890277b9c45d1fe7164c1a467efdc055e6703a955138f24f73e3c30dcf336.mp3",
+      "sha256": "b27890277b9c45d1fe7164c1a467efdc055e6703a955138f24f73e3c30dcf336",
+      "bytes": 25539,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "a96900cb04452bfdd34ff6f97e28d21df64ad9b1965fe3efe8f34064f9321e5f",
+      "text": "Ich hatte den Schlüssel vergessen und konnte die Tür nicht öffnen.",
+      "source": "grammar:plusquamperfekt",
+      "url": "/clips/b6e9a53e5b8e6f1f86374db2f00791bae04fe411dd1a3b1ed46c498a8d5890e5.mp3",
+      "sha256": "b6e9a53e5b8e6f1f86374db2f00791bae04fe411dd1a3b1ed46c498a8d5890e5",
+      "bytes": 29719,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "fc535e3ad8346997ab4153d0102a16e4851e638b9339ad8094b57e7ef4ca97a2",
+      "text": "Ich weiß nicht, ob der Bus heute fährt.",
+      "source": "grammar:indirekte-fragen",
+      "url": "/clips/3c9d1a93408155a54e6a5b741e00514a782ba9590c8d3b207c1adc48bd4f804a.mp3",
+      "sha256": "3c9d1a93408155a54e6a5b741e00514a782ba9590c8d3b207c1adc48bd4f804a",
+      "bytes": 17598,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "1e88274a6806e68804ba41043b2596975a0528ac1704cae0314710f19e0257aa",
+      "text": "Können Sie mir sagen, wann der Kurs beginnt?",
+      "source": "grammar:indirekte-fragen",
+      "url": "/clips/807b6985b27c982758663ccc4a56bbc143e30a87d343db57be774caf21b7307b.mp3",
+      "sha256": "807b6985b27c982758663ccc4a56bbc143e30a87d343db57be774caf21b7307b",
+      "bytes": 21777,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "381b6c1c8e0f04513bebe29690241176ce7c729f942b7e2a11349331fdfe9777",
+      "text": "Ich möchte wissen, wo du wohnst.",
+      "source": "grammar:indirekte-fragen",
+      "url": "/clips/616b7d5b53918c7bb103ed76fca28060075fe19f434b9e6af975c05972901f62.mp3",
+      "sha256": "616b7d5b53918c7bb103ed76fca28060075fe19f434b9e6af975c05972901f62",
+      "bytes": 18225,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "c9bde16890a265e1e3ff9cf049c7b13170e6fefc798d987624631372d41f6604",
+      "text": "Weißt du, wann der Zug angekommen ist?",
+      "source": "grammar:indirekte-fragen",
+      "url": "/clips/ab01219fff0cb8ba02d9c96a7f90f17e93aec37885b2a8b60f02ae1c9f6649c0.mp3",
+      "sha256": "ab01219fff0cb8ba02d9c96a7f90f17e93aec37885b2a8b60f02ae1c9f6649c0",
+      "bytes": 21986,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "7e8e6228da4d9473b0392cfaeb64502bcf2e064feced2c7e25bc461a567c65c2",
+      "text": "Ich habe Pizza gegessen.",
+      "source": "embedded-rule:PerfView",
+      "url": "/clips/db9f74ce7bfe6449394ae964de50a63a59e38ac1981b0079b009d68667742acc.mp3",
+      "sha256": "db9f74ce7bfe6449394ae964de50a63a59e38ac1981b0079b009d68667742acc",
+      "bytes": 15299,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "67ab1fed7aa7f13b68286f399c91789fbf41c8226496685a9a6b7d0d5dfb7836",
+      "text": "Er ist nach Hause gegangen.",
+      "source": "embedded-rule:PerfView",
+      "url": "/clips/92eb16fd6c8d9dc4115ab4dd78cc49a403ee3f209579e1dc9ef530cbdb4f22f8.mp3",
+      "sha256": "92eb16fd6c8d9dc4115ab4dd78cc49a403ee3f209579e1dc9ef530cbdb4f22f8",
+      "bytes": 15508,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "07890c4000b71ab3d92f7019d97ab50a3048fcf634abae6832d9eb1046f6630a",
+      "text": "Wir sind nach Berlin gefahren.",
+      "source": "embedded-rule:PerfView",
+      "url": "/clips/f4f1e4dcfcb64c42aae9329e3fcd614c1572edfd833c3b9e1f220e1abf32a467.mp3",
+      "sha256": "f4f1e4dcfcb64c42aae9329e3fcd614c1572edfd833c3b9e1f220e1abf32a467",
+      "bytes": 15299,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "91cc99af5d1a1d8f7cab8aa723fc0562b70e9d3e15cf5cc63957b2421eb231e1",
+      "text": "Sie ist müde geworden.",
+      "source": "embedded-rule:PerfView",
+      "url": "/clips/a79ba264ee793f9bc90eabf1d21782745ea105b4ed784bde554d1d89dcf903c9.mp3",
+      "sha256": "a79ba264ee793f9bc90eabf1d21782745ea105b4ed784bde554d1d89dcf903c9",
+      "bytes": 13418,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "3781b3293552a9013f4a3106be6124eba9d90f5e2f0f2563fc47b75cd1e2ab75",
+      "text": "Ich bin zu Hause geblieben.",
+      "source": "embedded-rule:PerfView",
+      "url": "/clips/1aed732bb9e617ccc5a5c9c895e2071da50bb817684bfb0338ef92ca539282c2.mp3",
+      "sha256": "1aed732bb9e617ccc5a5c9c895e2071da50bb817684bfb0338ef92ca539282c2",
+      "bytes": 14881,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "ed841041527780216aaeaeaab48a6e0f9614dd323b5bd5acc3c0ecd57ab8bc19",
+      "text": "Er hatte keine Zeit.",
+      "source": "embedded-rule:PerfView",
+      "url": "/clips/726cd53e51f9f8a1043ea6589f216d83c1260643fec1d0da752616c7fc415384.mp3",
+      "sha256": "726cd53e51f9f8a1043ea6589f216d83c1260643fec1d0da752616c7fc415384",
+      "bytes": 14254,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "9a3be651dd46a5655585a625cd75ad9e478583c88b6d6bcd8ea2a3f81e3ba52f",
+      "text": "Wir konnten nicht kommen.",
+      "source": "embedded-rule:PerfView",
+      "url": "/clips/68e0ecfc4e03c5735d728a08dd00e57b4a602f2564cf4f412c595470e4c925de.mp3",
+      "sha256": "68e0ecfc4e03c5735d728a08dd00e57b4a602f2564cf4f412c595470e4c925de",
+      "bytes": 13627,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "1069a62ac4160aa0786ff825ff2226362c352d27cd2edcbab25753e46371638e",
+      "text": "gemacht, gespielt",
+      "source": "embedded-rule:PerfView",
+      "url": "/clips/947278d454b40b315596360eeec2d7c732da1fd0acd89b136e4c801e27b2bbaa.mp3",
+      "sha256": "947278d454b40b315596360eeec2d7c732da1fd0acd89b136e4c801e27b2bbaa",
+      "bytes": 21359,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "f85687439709312975e8aaae3e775cf0f8e7b5bb5e20ddd807cd66732e0f5f1b",
+      "text": "gegangen, gesehen",
+      "source": "embedded-rule:PerfView",
+      "url": "/clips/b7d9a5c069f9d9a8b6f34c533ac7615e92c50a2330cac4152421dff973a4a0a6.mp3",
+      "sha256": "b7d9a5c069f9d9a8b6f34c533ac7615e92c50a2330cac4152421dff973a4a0a6",
+      "bytes": 18852,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "69234a200c09cfef1ea30cf74b92ff6dbeff5df3ede5478e787f30867d7b7118",
+      "text": "besucht, vergessen",
+      "source": "embedded-rule:PerfView",
+      "url": "/clips/1a60a7ac4f01c0abb110f05cabc45e8debae8518f9f54b511a067d1ac09a3967.mp3",
+      "sha256": "1a60a7ac4f01c0abb110f05cabc45e8debae8518f9f54b511a067d1ac09a3967",
+      "bytes": 19479,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "7491478d5eef7fcf567cd6de63234a7e24abb055f41348638ae6550645dcc133",
+      "text": "Ich komme nicht.",
+      "source": "embedded-rule:NegView",
+      "url": "/clips/5f97fd90e56fd0e8a861402ec4d5b94b13b6d90d88b5cb26409fd925a6e19b29.mp3",
+      "sha256": "5f97fd90e56fd0e8a861402ec4d5b94b13b6d90d88b5cb26409fd925a6e19b29",
+      "bytes": 10075,
+      "voice": "Charon",
+      "synthesized": true
+    },
+    {
+      "id": "f652b5c6cf55016fd1b623daa1b68a559dd25faf3728acdf819e1629b6cfbcbf",
+      "text": "Ich verstehe das nicht.",
+      "source": "embedded-rule:NegView",
+      "url": "/clips/79d59a00c974c72137d4dfa9343df6a730d93c98e97ae9afc3e95c0913e8a97b.mp3",
+      "sha256": "79d59a00c974c72137d4dfa9343df6a730d93c98e97ae9afc3e95c0913e8a97b",
+      "bytes": 14881,
+      "voice": "Erinome",
+      "synthesized": true
+    },
+    {
+      "id": "857145578341b94bfcd0681c63c89bfe4628519c45de70bc04dabb2778dbfa14",
+      "text": "Kommst du heute?",
+      "source": "embedded-rule:NegView",
+      "url": "/clips/9708d480ddcc63c13c79909a27b337b844069de2408d6daf74af3d73a3d74873.mp3",
+      "sha256": "9708d480ddcc63c13c79909a27b337b844069de2408d6daf74af3d73a3d74873",
+      "bytes": 10493,
+      "voice": "Iapetus",
+      "synthesized": true
+    },
+    {
+      "id": "6599afb66fe79270025f5f94f34036bcf7137504a0c106c2672f6e6573064393",
+      "text": "Kommst du nicht? Doch!",
+      "source": "embedded-rule:NegView",
+      "url": "/clips/c1c7942e416479bc7e0a5deca00c3717bb68ab7fbb44446ba2d5d95bd05caeb5.mp3",
+      "sha256": "c1c7942e416479bc7e0a5deca00c3717bb68ab7fbb44446ba2d5d95bd05caeb5",
+      "bytes": 20106,
+      "voice": "Kore",
+      "synthesized": true
+    },
+    {
+      "id": "ac322c2ce8afe91bedac5ae182ca131eb3b4ce9a875a14ddec3f535824aa8ab1",
+      "text": "Wann kommst du?",
+      "source": "embedded-rule:NegView",
+      "url": "/clips/6f69add26714eb47cf0d62101629d1b23c23d7275086494b33e297d0ebcea6f9.mp3",
+      "sha256": "6f69add26714eb47cf0d62101629d1b23c23d7275086494b33e297d0ebcea6f9",
+      "bytes": 10701,
+      "voice": "Charon",
+      "synthesized": true
+    }
+  ]
+}
