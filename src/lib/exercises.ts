@@ -615,3 +615,6 @@ for(const[topic,rows]of Object.entries(durianjackfruchtGrammar))exercises[topic]
 
 import {guavephysalisGrammar} from './exercises-guavephysalis';
 for(const[topic,rows]of Object.entries(guavephysalisGrammar))exercises[topic].push(...rows);
+
+import {rambutanchirimoyaGrammar} from './exercises-rambutanchirimoya';
+for(const[topic,rows]of Object.entries(rambutanchirimoyaGrammar))exercises[topic].push(...rows);

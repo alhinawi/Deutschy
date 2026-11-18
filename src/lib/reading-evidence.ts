@@ -2783,3 +2783,24 @@ Object.assign(readingEvidence,{
     "Nele und Omar behalten deshalb beide Textarten, trennen sie aber klar."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-eine-nachricht-fuer-den-kurspartner": [
+    "Ben ist heute nicht im Deutschkurs.",
+    "Die kleinen Namenskarten kommen in eine blaue Mappe.",
+    "Ben soll zuerst die Fotos ansehen und die Namen zuordnen.",
+    "das Regal im Kursraum meint, nicht im Flur."
+  ],
+  "alltag-a2-beschreiben-ohne-vorzusagen": [
+    "Elisa darf den Namen der Frucht nicht nennen.",
+    "aber Elisa möchte ihre Beschreibung beenden.",
+    "Bei einer echten Unklarheit darf er vorher nachfragen.",
+    "Das Verbot, den Namen zu nennen, gilt nur für ihr aktuelles Spiel."
+  ],
+  "alltag-b1-mehr-als-eine-sinnvolle-reihenfolge": [
+    "weil dieses Foto ihrer Meinung nach stärker auffällt.",
+    "Die Leser sollen jeden Namen eindeutig dem passenden Foto zuordnen können.",
+    "Bei Rambutan und Chirimoya hängen sie im Plural jeweils ein s an: Rambutans und Chirimoyas.",
+    "weil ihre wichtigsten Hinweise zur Beschriftung in beiden Entwürfen umgesetzt wurden."
+  ]
+});

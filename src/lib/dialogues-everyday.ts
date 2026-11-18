@@ -28368,3 +28368,218 @@ Object.assign(dialogueEvidence,{
     "Das Warten ist keine sichtbare Eigenschaft."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "kursmaterial-das-regal-im-kursraum",
+    "level": "A1",
+    "title": [
+      "Welches Regal meinst du?",
+      "تقصدي أنهي رف؟"
+    ],
+    "lines": [
+      [
+        "Ben",
+        "Danke für die Materialien. Wo liegt der Umschlag?",
+        "شكرًا على الحاجات. الظرف فين؟"
+      ],
+      [
+        "Amina",
+        "Im Regal neben der Tür. Die blaue Mappe liegt direkt darunter.",
+        "على الرف جنب الباب. الملف الأزرق تحته على طول."
+      ],
+      [
+        "Ben",
+        "Meinst du das Regal im Flur?",
+        "تقصدي الرف اللي في الطرقة؟"
+      ],
+      [
+        "Amina",
+        "Nein, das Regal im Kursraum. Im Umschlag sind die Fotos von Rambutan und Chirimoya.",
+        "لأ، الرف اللي في أوضة الكورس. في الظرف صور رامبوتان وشيريمويا."
+      ],
+      [
+        "Ben",
+        "Und die Namen stehen auf den kleinen Karten in der Mappe?",
+        "والأسامي على الكروت الصغيرة اللي في الملف؟"
+      ],
+      [
+        "Amina",
+        "Genau. Die Artikel stehen auf der Rückseite.",
+        "بالظبط. أدوات التعريف على الضهر."
+      ],
+      [
+        "Ben",
+        "Gut, dann sehe ich mir zuerst die Fotos an.",
+        "تمام، يبقى أبص على الصور الأول."
+      ]
+    ],
+    "q": [
+      [
+        "Wo liegt die blaue Mappe?",
+        "Direkt unter dem Umschlag.",
+        "Neben dem Kühlschrank.",
+        "Auf dem Tablett."
+      ],
+      [
+        "Was ist im Umschlag?",
+        "Die Fotos von Rambutan und Chirimoya.",
+        "Echte Früchte.",
+        "Nur leere Karten."
+      ],
+      [
+        "Wo stehen die Artikel?",
+        "Auf der Rückseite der kleinen Karten.",
+        "An der Tür.",
+        "Im Flur."
+      ]
+    ]
+  },
+  {
+    "id": "partneraufgabe-auf-das-signal-warten",
+    "level": "A2",
+    "title": [
+      "Warte bitte, bis ich fertig bin",
+      "استنى لو سمحت لحد ما أخلص"
+    ],
+    "lines": [
+      [
+        "Elisa",
+        "Auf meinem Bild sind rote Früchte mit langen, dünnen Fortsätzen.",
+        "في صورتي فيه ثمار حمرا بزوائد طويلة ورفيعة."
+      ],
+      [
+        "Rami",
+        "Die Rambutan!",
+        "die Rambutan!"
+      ],
+      [
+        "Elisa",
+        "Das Bild ist richtig. Aber warte bitte, bis ich mit der Beschreibung fertig bin.",
+        "الصورة صح. بس استنى لو سمحت لحد ما أخلص الوصف."
+      ],
+      [
+        "Rami",
+        "Woran erkenne ich, dass du fertig bist?",
+        "أعرف إزاي إنك خلصتي؟"
+      ],
+      [
+        "Elisa",
+        "Ich sage fertig. Wenn etwas wirklich unklar ist, kannst du vorher nachfragen.",
+        "هقول fertig. لو فيه حاجة فعلًا مش واضحة تقدر تسأل قبل كده."
+      ],
+      [
+        "Rami",
+        "Gut. Danach beschreibe ich die grünen Früchte auf dem Tablett.",
+        "تمام. بعد كده أوصف أنا الثمار الخضرا اللي على الصينية."
+      ],
+      [
+        "Elisa",
+        "Dann wechseln wir also die Rollen.",
+        "يبقى كده هنبدل الأدوار."
+      ]
+    ],
+    "q": [
+      [
+        "Hat Rami das richtige Bild erkannt?",
+        "Ja.",
+        "Nein, er meint ein Tier.",
+        "Das wird nicht gesagt."
+      ],
+      [
+        "Welches Signal vereinbaren sie?",
+        "Elisa sagt fertig.",
+        "Rami klatscht dreimal.",
+        "Sie drehen das Licht aus."
+      ],
+      [
+        "Was beschreibt Rami danach?",
+        "Die grünen Früchte auf dem Tablett.",
+        "Eine leere graue Fläche.",
+        "Die Tür im Flur."
+      ]
+    ]
+  },
+  {
+    "id": "heftgestaltung-kriterien-statt-vorlieben",
+    "level": "B1",
+    "title": [
+      "Ist die andere Reihenfolge falsch?",
+      "هو الترتيب التاني غلط؟"
+    ],
+    "lines": [
+      [
+        "Paula",
+        "Ich hätte gern mit den roten Rambutans angefangen.",
+        "كنت أفضل نبدأ بالرامبوتان الأحمر."
+      ],
+      [
+        "Deniz",
+        "Mir gefällt das ruhigere Bild mit den Chirimoyas als Einstieg besser.",
+        "أنا شايف صورة الشيريمويا الأهدى أحسن كبداية."
+      ],
+      [
+        "Paula",
+        "Aber die Namen stehen in beiden Entwürfen direkt bei den Fotos.",
+        "بس الأسامي في التصميمين جنب الصور على طول."
+      ],
+      [
+        "Deniz",
+        "Und die Artikel sind erkennbar. Damit erfüllen beide unsere wichtigsten Kriterien.",
+        "وأدوات التعريف واضحة. كده الاتنين بيحققوا أهم المعايير بتاعتنا."
+      ],
+      [
+        "Paula",
+        "Dann kann ich die Gruppenentscheidung akzeptieren, auch wenn ich anders gewählt hätte.",
+        "يبقى أقدر أقبل قرار المجموعة حتى لو كنت هاختار حاجة تانية."
+      ],
+      [
+        "Deniz",
+        "Dein Vorschlag wird dadurch nicht falsch. Wir haben zwischen zwei möglichen Lösungen gewählt.",
+        "اقتراحك مش بيبقى غلط بسبب كده. إحنا اخترنا بين حلين ممكنين."
+      ],
+      [
+        "Paula",
+        "Gut, das halten wir in unserer Notiz fest.",
+        "تمام، نثبت ده في ملاحظتنا."
+      ]
+    ],
+    "q": [
+      [
+        "Was steht in beiden Entwürfen direkt bei den Fotos?",
+        "Die Namen.",
+        "Die Preise.",
+        "Die Herkunftsländer."
+      ],
+      [
+        "Warum erfüllen beide Entwürfe wichtige Kriterien?",
+        "Namen sind zugeordnet und Artikel erkennbar.",
+        "Beide haben dieselbe Lieblingsfarbe.",
+        "Beide verzichten auf Schrift."
+      ],
+      [
+        "Was sagt Deniz über Paulas Vorschlag?",
+        "Er wird durch die andere Entscheidung nicht falsch.",
+        "Er ist grammatisch verboten.",
+        "Er wurde nie besprochen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "kursmaterial-das-regal-im-kursraum": [
+    "Die blaue Mappe liegt direkt darunter.",
+    "Im Umschlag sind die Fotos von Rambutan und Chirimoya.",
+    "Die Artikel stehen auf der Rückseite."
+  ],
+  "partneraufgabe-auf-das-signal-warten": [
+    "Das Bild ist richtig.",
+    "Ich sage fertig.",
+    "die grünen Früchte auf dem Tablett."
+  ],
+  "heftgestaltung-kriterien-statt-vorlieben": [
+    "die Namen stehen in beiden Entwürfen direkt bei den Fotos.",
+    "Und die Artikel sind erkennbar.",
+    "Dein Vorschlag wird dadurch nicht falsch."
+  ]
+});

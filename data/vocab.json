@@ -779,6 +779,10 @@
   {
    "id": "guavephysalis",
    "ar": "جوافة وحرنكش"
+  },
+  {
+   "id": "rambutanchirimoya",
+   "ar": "رامبوتان وشيريمويا"
   }
  ],
  "words": [
@@ -15230,6 +15234,35 @@
     "author": "Kulbir",
     "license": "Pexels License",
     "modified": true
+   }
+  },
+  {
+   "id": "rambutan",
+   "topic": "rambutanchirimoya",
+   "art": "die",
+   "de": "Rambutan",
+   "plural": "Rambutans",
+   "ar": "رامبوتان",
+   "photo": {
+    "file": "4869137.jpg",
+    "commons": "https://www.pexels.com/photo/fresh-rambutan-fruits-on-gray-surface-4869137/",
+    "author": "ROMAN ODINTSOV",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "chirimoya",
+   "topic": "rambutanchirimoya",
+   "art": "die",
+   "de": "Chirimoya",
+   "plural": "Chirimoyas",
+   "ar": "شيريمويا، نوع قشطة",
+   "photo": {
+    "file": "Cherimoya_fruit_hg.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Cherimoya_fruit_hg.jpg",
+    "author": "Hannes Grobe",
+    "license": "CC BY-SA 2.5"
    }
   }
  ]
