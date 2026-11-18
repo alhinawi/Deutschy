@@ -3,13 +3,9 @@ import { useT } from '@/lib/i18n';
 import { useEffect, useState } from 'react';
 import { useAuth, useStore } from '@/lib/store';
 import { words, topics } from '@/lib/data';
+import Link from 'next/link';
 
-const themes = [
-  { id: 'papier', t: 'Papier', d: 'ورق دافي وحبر – الافتراضي' },
-  { id: 'nacht', t: 'Nacht', d: 'داكن مع لمسة دهبي' },
-  { id: 'salbei', t: 'Salbei', d: 'أخضر هادي' },
-  { id: 'terrakotta', t: 'Terrakotta', d: 'طين وبرتقالي محروق' },
-];
+
 
 export default function Admin() {
   const user = useAuth();
@@ -61,16 +57,8 @@ export default function Admin() {
       )}
       <section>
         <h2 className="ar-title mb-3 text-2xl font-bold">{t('الثيمات', 'Themes')}</h2>
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
-          {themes.map((th) => (
-            <button key={th.id} onClick={() => patch({ theme: th.id })} data-theme={th.id} className={`rounded-2xl border-2 p-5 text-start ${s.theme === th.id ? 'border-accent' : 'border-line'}`} style={{ background: 'var(--card)', color: 'var(--ink)' }}>
-              <p className="de text-2xl font-semibold">{th.t}</p>
-              <p className="text-sm" style={{ color: 'var(--muted)' }}>{th.d}</p>
-              <span className="mt-3 inline-block rounded-full px-3 py-1 text-xs font-bold" style={{ background: 'var(--accent)', color: 'var(--accent-ink)' }}>Aa</span>
-            </button>
-          ))}
-        </div>
-        <p className="mt-3 text-sm text-muted">{t('الثيم بيتحفظ على جهازك وبيظهر لحسابك انت بس. باقي الزوار بيشوفوا Papier.', 'The theme is saved on your device and only shows for your account. Other visitors see Papier.')}</p>
+        <Link href="/settings/" className="inline-flex min-h-12 items-center rounded-xl border border-line px-4 font-bold underline">{t('اختار من 20 ثيم في الإعدادات','Choose from 20 themes in settings')}</Link>
+        <p className="mt-3 text-sm text-muted">{t('الثيمات متاحة لكل الناس. اختيارك على المتصفح ده بس، من غير تغيير تقدم المذاكرة.','Themes are available to everyone. Your choice stays in this browser without changing study progress.')}</p>
       </section>
     </div>
   );
