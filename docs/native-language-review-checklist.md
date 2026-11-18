@@ -2019,3 +2019,43 @@ Prepared 2026-11-18. This is an engineering handoff, not native-language sign-of
 - The 916 reading/dialogue photo pass is paused in a separate reversible work snapshot. It is not included in this release.
 
 Human review remains open. Check the Egyptian Arabic theme labels and instructional tone; do not interpret automated accessibility or contrast checks as native-language approval.
+
+
+## Game academy191: 23 additional practice modes
+
+Prepared 2026-11-18. Native German and Egyptian Arabic sign-off remains pending.
+
+The games catalog now contains the original 9 games plus 23 additional modes, 32 total. The new modes contain 657 challenges: 81 noun plurals, 210 present forms, 126 past participles and 20 focused banks of 12 challenges each. Practice bands are approximate, not official exam mappings. Existing content and progress identifiers are retained.
+
+| Done | Routes | Editorial review focus |
+| --- | --- | --- |
+| [ ] | `/games/plural-lab/`, `/games/present-forms/`, `/games/participle-lab/` | Check all inherited forms and meanings. Same-form plurals require the unchanged noun, not a hyphen. Check case, umlauts and separable participles. Relevant existing noun/verb photographs are reused. |
+| [ ] | `/games/synonym-trail/`, `/games/opposite-pairs/`, `/games/collocation/` | Check context-specific meaning, fixed expressions and distractor ambiguity. Synonyms are not claimed to be interchangeable in every context. |
+| [ ] | `/games/compound-builder/`, `/games/verb-partner/` | Check compound articles, linking elements, verb-preposition pairings and Egyptian Arabic meanings. Compounds use typed answers, not a pretend word-construction interaction. |
+| [ ] | `/games/perfect-helper/`, `/games/case-detective/`, `/games/preposition-lab/`, `/games/adjective-puzzle/` | Review auxiliaries, marked noun-phrase cases, destination/location contrasts and adjective endings. Genitive case items are placed in B1 practice. Translation supplies context where more than one construction could otherwise be grammatical. |
+| [ ] | `/games/tense-switch/`, `/games/passive-builder/`, `/games/conditional-builder/`, `/games/prefix-split/` | Verify supplied model orders and tense meaning. These are constrained model-building tasks, not graders of every valid German word order. Check Konjunktiv II forms, passive agreement and finite-verb position. |
+| [ ] | `/games/error-hunt/`, `/games/spelling-repair/` | Each error-hunt item changes exactly one displayed token. Verify correction, selected token and explanation. Spelling repair deliberately shows an incorrect form and labels it as such. |
+| [ ] | `/games/listening-gap/`, `/games/sound-pairs/` | Listen on real devices for vowel length, umlauts, consonants and sentence clarity. Similar-sounding pairs are not all strict minimal pairs. There is no recording, speech recognition, native-pronunciation score or multiplayer claim. |
+| [ ] | `/games/reading-detail/`, `/games/paragraph-order/`, `/games/story-ending/` | Verify every answer follows from the displayed text. Translation summaries remain hidden until feedback. Paragraphs ask for the supplied model order. Reject unsupported inference. |
+
+### Interaction and save checks
+
+- Rounds draw up to 8 challenges from the chosen mode and available practice band. No empty catalog entries, forced timer or invented opponents.
+- A submitted answer locks immediately. Rapid duplicate submissions, duplicate token taps and duplicate Next taps cannot credit or advance twice.
+- 10 XP is available once per challenge for an unaided correct answer. Replays do not repeatedly award XP. Reading a card does not complete an activity.
+- Listening credit requires audio to finish. Revealing text or answering without completed playback makes the answer assisted, without listening XP. Stop, round changes and unmount cancel playback.
+- Audio uses the existing exact-clip/proxy/identified German browser-voice chain. No claim is made that all new sentences have recordings. Audio fixtures verify control behavior, not real voice quality.
+- Signed-in progress uses the existing server-account state. Guests retain changes in tab memory only and lose them on reload. Save failures stay visible and do not become a successful-save claim. No localStorage, sessionStorage or IndexedDB access was added.
+- Engineering checks: production static export; 11,763 bank/model assertions; 199 gameplay/browser assertions; 17 clean Arabic/English accessibility snapshots; existing study/review regressions; 48 account browser checks and 7 account accessibility snapshots. Test fixtures do not establish native-language accuracy.
+- Actual 390px Arabic/English and 320px Arabic/English screenshots were inspected. The reading translation leak, reversed Arabic progress fraction and token-bank accessible-name issue were corrected before release.
+
+### Grammar references for the editorial handoff
+
+The new examples are authored locally; these references support the underlying grammar, not native sign-off or official level certification.
+
+- https://deutsch.lingolia.com/de/grammatik/zeitformen/perfekt
+- https://deutsch.lingolia.com/de/grammatik/verben/passiv
+- https://deutsch.lingolia.com/de/grammatik/verben/konjunktiv
+- https://deutsch.lingolia.com/de/grammatik/nomen/faelle
+
+The separate 7000-sentence library is not included. It remains private until the complete collection passes its release review gate. The paused reading/dialogue photograph pass is also not included.
