@@ -603,3 +603,6 @@ for(const[topic,rows]of Object.entries(kakikaramboleGrammar))exercises[topic].pu
 
 import {okramangoldGrammar} from './exercises-okramangold';
 for(const[topic,rows]of Object.entries(okramangoldGrammar))exercises[topic].push(...rows);
+
+import {kuechenformenGrammar} from './exercises-kuechenformen';
+for(const[topic,rows]of Object.entries(kuechenformenGrammar))exercises[topic].push(...rows);

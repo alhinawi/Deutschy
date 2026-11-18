@@ -384,4 +384,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-die-mappe-mit-den-gemuesekarten',dialogue:'zwei-karten-in-der-mappe'},
  {reading:'alltag-a2-ein-buendel-ist-keine-neue-mehrzahl',dialogue:'gemuesemenge-was-wird-gezaehlt'},
  {reading:'alltag-b1-eine-nachfrage-ohne-unterbrechung',dialogue:'erst-hoeren-dann-gezielt-fragen'},
+ {reading:'alltag-a1-zwei-dinge-im-kuechenschrank',dialogue:'kuechenschrank-zwei-neue-namen'},
+ {reading:'alltag-a2-am-ende-steht-das-grundwort',dialogue:'grundwort-kocher-oder-form'},
+ {reading:'alltag-b1-erst-suchen-dann-fehlend-melden',dialogue:'bestandsliste-suchstand-und-zusage'},
 ];

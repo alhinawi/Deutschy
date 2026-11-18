@@ -763,6 +763,10 @@
   {
    "id": "okramangold",
    "ar": "بامية وسلق"
+  },
+  {
+   "id": "kuechenformen",
+   "ar": "موكا بوت وقالب تلج"
   }
  ],
  "words": [
@@ -15092,6 +15096,36 @@
     "file": "35525476.jpg",
     "commons": "https://www.pexels.com/photo/fresh-vibrant-rainbow-chard-close-up-35525476/",
     "author": "L. Lum",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "espressokocher",
+   "topic": "kuechenformen",
+   "art": "der",
+   "de": "Espressokocher",
+   "plural": "-",
+   "ar": "موكا بوت",
+   "photo": {
+    "file": "4262634.jpg",
+    "commons": "https://www.pexels.com/photo/photo-of-a-moka-pot-on-a-white-surface-4262634/",
+    "author": "Brunxs Monochrome",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "eiswuerfelform",
+   "topic": "kuechenformen",
+   "art": "die",
+   "de": "Eiswürfelform",
+   "plural": "Eiswürfelformen",
+   "ar": "قالب مكعبات تلج",
+   "photo": {
+    "file": "4641426.jpg",
+    "commons": "https://www.pexels.com/photo/ice-cubes-with-white-flowers-on-a-molder-4641426/",
+    "author": "Nataliya Vaitkevich",
     "license": "Pexels License",
     "modified": true
    }

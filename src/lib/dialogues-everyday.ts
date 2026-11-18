@@ -27508,3 +27508,218 @@ Object.assign(dialogueEvidence,{
     "Offene Fragen markieren wir für die Wörterbuchprüfung."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "kuechenschrank-zwei-neue-namen",
+    "level": "A1",
+    "title": [
+      "Der oder die?",
+      "der ولا die؟"
+    ],
+    "lines": [
+      [
+        "Jan",
+        "Wie heißt das kleine Gerät mit dem Griff?",
+        "اسم الجهاز الصغير اللي ليه إيد إيه؟"
+      ],
+      [
+        "Lea",
+        "Der Espressokocher. Ich habe das Wort aufgeschrieben.",
+        "der Espressokocher. كتبت الكلمة."
+      ],
+      [
+        "Jan",
+        "Und wie heißt der Gegenstand mit den Fächern?",
+        "والحاجة اللي فيها خانات اسمها إيه؟"
+      ],
+      [
+        "Lea",
+        "Die Eiswürfelform. Der Artikel steht in meiner Notiz.",
+        "die Eiswürfelform. الأداة مكتوبة في ملاحظتي."
+      ],
+      [
+        "Jan",
+        "Lies beide Namen bitte noch einmal langsam.",
+        "اقري الاسمين تاني بالراحة لو سمحتي."
+      ],
+      [
+        "Lea",
+        "Ich unterstreiche zuerst die Artikel.",
+        "هحط الأول خط تحت أدوات التعريف."
+      ],
+      [
+        "Jan",
+        "Danach kannst du die langen Wörter in Teile zerlegen.",
+        "بعد كده تقدري تقسمي الكلمات الطويلة لأجزاء."
+      ]
+    ],
+    "q": [
+      [
+        "Welches Wort nennt Lea zuerst?",
+        "Espressokocher.",
+        "Kühlschrank.",
+        "Eiswürfelform."
+      ],
+      [
+        "Wo findet sie den Artikel?",
+        "In ihrer Notiz.",
+        "Auf einem Preisschild.",
+        "In einer Bestellung."
+      ],
+      [
+        "Was möchte sie zuerst unterstreichen?",
+        "Die Artikel.",
+        "Alle Namen der Besucher.",
+        "Die Adresse."
+      ]
+    ]
+  },
+  {
+    "id": "grundwort-kocher-oder-form",
+    "level": "A2",
+    "title": [
+      "Das ganze Wort behalten",
+      "نحتفظ بالكلمة كلها"
+    ],
+    "lines": [
+      [
+        "Mira",
+        "Welcher Bestandteil steht bei Espressokocher am Ende?",
+        "أنهي جزء في آخر Espressokocher؟"
+      ],
+      [
+        "Deniz",
+        "Kocher. Ich merke mir der Espressokocher.",
+        "Kocher. هفتكر der Espressokocher."
+      ],
+      [
+        "Mira",
+        "Wie lautet die Mehrzahl bei mehreren Geräten?",
+        "الجمع إيه مع أكتر من جهاز؟"
+      ],
+      [
+        "Deniz",
+        "Die Espressokocher. Die Nomenform bleibt gleich.",
+        "die Espressokocher. شكل الاسم بيفضل زي ما هو."
+      ],
+      [
+        "Mira",
+        "Und bei Eiswürfelform?",
+        "ومع Eiswürfelform؟"
+      ],
+      [
+        "Deniz",
+        "Die Eiswürfelformen. Ich schreibe das ganze Wort zusammen.",
+        "die Eiswürfelformen. بكتب الكلمة كلها متصلة."
+      ],
+      [
+        "Mira",
+        "Gut. Bei einem neuen Wort prüfen wir die Form wieder vollständig.",
+        "تمام. مع أي كلمة جديدة هنراجع الصيغة تاني كاملة."
+      ]
+    ],
+    "q": [
+      [
+        "Welches Grundwort nennt Deniz?",
+        "Kocher.",
+        "Koch.",
+        "Küche."
+      ],
+      [
+        "Welche Nomenform bleibt in der Mehrzahl gleich?",
+        "Espressokocher.",
+        "Eiswürfelform.",
+        "Artikel."
+      ],
+      [
+        "Wie schreibt Deniz die Zusammensetzung?",
+        "Als ganzes Wort zusammen.",
+        "Mit einem Leerzeichen in der Mitte.",
+        "Mit einer zweiten Endung am ersten Teil."
+      ]
+    ]
+  },
+  {
+    "id": "bestandsliste-suchstand-und-zusage",
+    "level": "B1",
+    "title": [
+      "Noch nicht gefunden ist nicht fehlend",
+      "لسه مالقيناهوش غير مش موجود"
+    ],
+    "lines": [
+      [
+        "Aylin",
+        "Hast du schon alle Schränke geprüft?",
+        "راجعت كل الدواليب خلاص؟"
+      ],
+      [
+        "Robin",
+        "Nein. Der Schrank neben der Tür fehlt noch.",
+        "لأ. الدولاب اللي جنب الباب لسه ماراجعتوش."
+      ],
+      [
+        "Aylin",
+        "Dann schreib lieber, dass du die Eiswürfelform bisher nicht gefunden hast.",
+        "يبقى الأحسن تكتب إنك لحد دلوقتي مالقيتش قالب التلج."
+      ],
+      [
+        "Robin",
+        "Und beim Espressokocher kann ich vorhanden eintragen.",
+        "ومع موكا بوت أقدر أكتب موجودة."
+      ],
+      [
+        "Aylin",
+        "Ja, du hast einen gesehen. Eine Funktionszusage ist das aber nicht.",
+        "أيوه، إنت شفت واحدة. بس ده مش تأكيد إنها شغالة."
+      ],
+      [
+        "Robin",
+        "Ich ergänze die Suche, bevor ich die Nachricht weitergebe.",
+        "هكمل البحث قبل ما أبعت الرسالة."
+      ],
+      [
+        "Aylin",
+        "Danach passen wir nur die Aussagen an, die wirklich geklärt sind.",
+        "بعد كده نعدل بس الكلام اللي اتأكدنا منه فعلًا."
+      ]
+    ],
+    "q": [
+      [
+        "Welcher Schrank wurde noch nicht geprüft?",
+        "Der neben der Tür.",
+        "Der im Bad.",
+        "Alle Schränke wurden schon geprüft."
+      ],
+      [
+        "Was ist durch das Sehen nicht zugesagt?",
+        "Dass der Kocher funktioniert.",
+        "Dass ein Kocher vorhanden ist.",
+        "Dass Robin eine Liste schreibt."
+      ],
+      [
+        "Was macht Robin vor der Weitergabe?",
+        "Er ergänzt die Suche.",
+        "Er kauft sofort Ersatz.",
+        "Er verspricht eine Reparatur."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "kuechenschrank-zwei-neue-namen": [
+    "Der Espressokocher.",
+    "Der Artikel steht in meiner Notiz.",
+    "zuerst die Artikel."
+  ],
+  "grundwort-kocher-oder-form": [
+    "Kocher. Ich merke mir",
+    "Die Espressokocher. Die Nomenform bleibt gleich.",
+    "das ganze Wort zusammen."
+  ],
+  "bestandsliste-suchstand-und-zusage": [
+    "Der Schrank neben der Tür fehlt noch.",
+    "Eine Funktionszusage ist das aber nicht.",
+    "Ich ergänze die Suche, bevor ich die Nachricht weitergebe."
+  ]
+});
