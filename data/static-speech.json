@@ -403,5 +403,750 @@
     "url": "/clips/ed7aa24a1784f141e37de8cc66100f1ea63f7c6c57a58f607eacaff9dd71f8a3.mp3",
     "voiceId": "SOYHLrjzK2X1ezoPC6cr",
     "shard": "deutschy-1"
+  },
+  "Guten Morgen! Haben Sie Tomaten?": {
+    "url": "/clips/b1df64c9d7a3adb5fed5bb5e1bca66dfefd0e28e2394fc8005ae6ec3d1d99328.mp3",
+    "voiceId": "XrExE9yKIg1WjnnlVkGX",
+    "shard": "deutschy-1"
+  },
+  "Ja. Wie viel möchten Sie?": {
+    "url": "/clips/09946cb8c8c2a34433bc0f0f246752f72632d8633f06abf80a11ae6117f1940f.mp3",
+    "voiceId": "iP95p4xoKVk53GoZ742B",
+    "shard": "deutschy-1"
+  },
+  "Ein Kilo, bitte. Und eine Tüte.": {
+    "url": "/clips/2aa14fb5e89f0481157f0079fb811c7836fc602ef109ca936985ff6e4f0a93ea.mp3",
+    "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+    "shard": "deutschy-1"
+  },
+  "Gern. Sonst noch etwas?": {
+    "url": "/clips/a9149cfd66b078643422af815285fcd32678a2c5aa30c25b40150954f4de4a77.mp3",
+    "voiceId": "CwhRBWXzGAHq8TQ4Fs17",
+    "shard": "deutschy-1"
+  },
+  "Guten Tag. Ich möchte einen Termin.": {
+    "url": "/clips/182a5fc3b723f1f94a707432d9f62aae6d2d24e63606b9e9b956b1445c21c355.mp3",
+    "voiceId": "EXAVITQu4vr4xnSDxMaL",
+    "shard": "deutschy-1"
+  },
+  "Wie heißen Sie?": {
+    "url": "/clips/b03c92f3f2e23fb50545a2374edc4f69a6ae43bb6b5c4c18a6c5193f76260a9f.mp3",
+    "voiceId": "FGY2WhTYpPnrIDTdsKH5",
+    "shard": "deutschy-1"
+  },
+  "Omar Ali. Geht es am Montag?": {
+    "url": "/clips/9bb2f7d6986cfcbfbbe639d371d0b532420f9f51f68773d4e8c386f2f6c96398.mp3",
+    "voiceId": "IKne3meq5aSn9XLyUdCD",
+    "shard": "deutschy-1"
+  },
+  "Ja, um zehn Uhr. Bitte bringen Sie Ihren Ausweis mit.": {
+    "url": "/clips/12c79926629e28ec55075ad6b3c0e3d00b7cdb61b5debaa84c7a755d27dba293.mp3",
+    "voiceId": "JBFqnCBsd6RMkjVDRZzb",
+    "shard": "deutschy-1"
+  },
+  "Hallo, ich bin neu hier. Ich heiße Salma.": {
+    "url": "/clips/1895704b8088aeb1010808c36a89e395bac095d89ec2a3d80bf282a344ee59fa.mp3",
+    "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+    "shard": "deutschy-1"
+  },
+  "Willkommen! Ich bin Karim. Wir arbeiten heute zusammen.": {
+    "url": "/clips/620d8195cbf60113cbb2707981564d8b60396aaad3755b641d3fee12b5c7a148.mp3",
+    "voiceId": "SAz9YHcvj6GT2YYXdXww",
+    "shard": "deutschy-1"
+  },
+  "Wo ist mein Platz?": {
+    "url": "/clips/9766835727614880191b5622df453e7899f975a74bc8bb5772cf85da528d4388.mp3",
+    "voiceId": "SOYHLrjzK2X1ezoPC6cr",
+    "shard": "deutschy-1"
+  },
+  "Hier am Fenster. Der Computer ist schon an.": {
+    "url": "/clips/7e5c4b9f6cc495f7d08d6e88c29e67432f86ce8cf71daa2dc1b0361b2a5515a9.mp3",
+    "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+    "shard": "deutschy-1"
+  },
+  "Entschuldigung, fährt dieser Zug nach Alexandria?": {
+    "url": "/clips/94d04dd32dbad1ad9b90922aba1b8c5a11b18cb73b86745a4fb61b76bd027c63.mp3",
+    "voiceId": "Xb7hH8MSUJpSbSDYk0k2",
+    "shard": "deutschy-1"
+  },
+  "Ja. Haben Sie eine Fahrkarte?": {
+    "url": "/clips/d6e99ecadd01b4768f6a5c1870cd8af4dcbd5fdef61368d6656b93aa7f2959ae.mp3",
+    "voiceId": "XrExE9yKIg1WjnnlVkGX",
+    "shard": "deutschy-1"
+  },
+  "Ja. Wo ist Wagen 3?": {
+    "url": "/clips/004bc3b00ec9c553c50ee1e7861ee5a6f9ffa026ef7b49d49cfd3c3568d69b77.mp3",
+    "voiceId": "bIHbv24MWmeRgasZH58o",
+    "shard": "deutschy-1"
+  },
+  "Dort vorne. Gute Fahrt!": {
+    "url": "/clips/ee3ca69436bfe4027aaa3267b1e7c71ddc2ae49606f51c08fb3aa52ec4b16fed.mp3",
+    "voiceId": "cgSgspJ2msm6clMCkdW9",
+    "shard": "deutschy-1"
+  },
+  "Guten Tag! Was möchten Sie trinken?": {
+    "url": "/clips/b29098db60d3643c22f6f35e61ba04c8c22b280a1dc4ea216b75536c9aa4eb10.mp3",
+    "voiceId": "cjVigY5qzO86Huf0OWal",
+    "shard": "deutschy-1"
+  },
+  "Einen Kaffee mit Milch, bitte.": {
+    "url": "/clips/08977820fa35b4e8ee4fabfd1ca6a1f39db5a7eed0e0e46e42d09ce79b68a32d.mp3",
+    "voiceId": "hpp4J3VqNfWAUOO0d1Us",
+    "shard": "deutschy-1"
+  },
+  "Gern. Möchten Sie auch etwas essen?": {
+    "url": "/clips/1a3af5c1704a502a1efeb24748c754bcd1608208895b36757e40ca3f7dc7faf8.mp3",
+    "voiceId": "iP95p4xoKVk53GoZ742B",
+    "shard": "deutschy-1"
+  },
+  "Ja, ein Stück Kuchen. Was haben Sie?": {
+    "url": "/clips/51b93bb5e1e8389020d84a0e3e5879bc0b5d0be2f2d501568e60c2d9e12961f9.mp3",
+    "voiceId": "nPczCjzI2devNBz1zQrb",
+    "shard": "deutschy-1"
+  },
+  "Wir haben Apfelkuchen und Schokoladenkuchen.": {
+    "url": "/clips/7b22520ce309835643bad02c1a5d7cd4b9f1082113cd8645d993543839777639.mp3",
+    "voiceId": "onwK4e9ZLuTAKqWW03F9",
+    "shard": "deutschy-1"
+  },
+  "Dann nehme ich den Apfelkuchen. Was kostet das?": {
+    "url": "/clips/ec52174d1b8b0b59704c20f4b2fa316f6355ebaa11cacf61783febf6b8808d4e.mp3",
+    "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+    "shard": "deutschy-1"
+  },
+  "Der Kaffee kostet drei Euro und der Kuchen vier Euro. Das macht sieben Euro.": {
+    "url": "/clips/c34dc3b2a2960ce0da275f73fdcc1b0378bff46becfea641d8470a2dd312d239.mp3",
+    "voiceId": "pNInz6obpgDQGcFmaJgB",
+    "shard": "deutschy-1"
+  },
+  "Hallo, ich bin Lena. Wie heißt du?": {
+    "url": "/clips/2d40aa4172c7f9a831461de6c255d08c133973e48458ad626912bacafb509ad1.mp3",
+    "voiceId": "pqHfZKP75CvOlQylNhV4",
+    "shard": "deutschy-1"
+  },
+  "Hallo Lena, ich heiße Omar. Ich komme aus Ägypten.": {
+    "url": "/clips/e424e306af52eee0b4b747890d33f8de9f9f179a8674668a54fd962fb7f01fc8.mp3",
+    "voiceId": "CwhRBWXzGAHq8TQ4Fs17",
+    "shard": "deutschy-1"
+  },
+  "Wirklich? Ich war letztes Jahr in Kairo. Und was machst du hier?": {
+    "url": "/clips/353ee29783a1ac7c393b0c758c46f539f943f73167ad26a3cf95e6873e6012b5.mp3",
+    "voiceId": "EXAVITQu4vr4xnSDxMaL",
+    "shard": "deutschy-1"
+  },
+  "Ich lerne Deutsch und ich arbeite in einem Restaurant.": {
+    "url": "/clips/3da7436b6bc602275be960226e048a569fc89a2da19f67e3b574487b45c769a4.mp3",
+    "voiceId": "FGY2WhTYpPnrIDTdsKH5",
+    "shard": "deutschy-1"
+  },
+  "Das ist toll! Ich bin Studentin. Ich studiere Medizin.": {
+    "url": "/clips/cd5f4778d797a0f79d48a364d522239b6c0668efa74d4bbd303c5ee9153d8e1c.mp3",
+    "voiceId": "IKne3meq5aSn9XLyUdCD",
+    "shard": "deutschy-1"
+  },
+  "Wie schön. Wohnst du in Berlin?": {
+    "url": "/clips/0427a63d42741cf6ece9ef7fd64468ceb19808af0de7b2487b1d0833ef195a9c.mp3",
+    "voiceId": "JBFqnCBsd6RMkjVDRZzb",
+    "shard": "deutschy-1"
+  },
+  "Ja, seit zwei Jahren.": {
+    "url": "/clips/df8d5fe82e7aa2a370b44ed4ec1a45f82a65142cf7806b2eae819ec780e3cbbe.mp3",
+    "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+    "shard": "deutschy-1"
+  },
+  "Entschuldigung, wo ist der Bahnhof?": {
+    "url": "/clips/37a47775907a483742e552b04da6af42c5013b31ed3595386fd18f0b5926ca41.mp3",
+    "voiceId": "SAz9YHcvj6GT2YYXdXww",
+    "shard": "deutschy-1"
+  },
+  "Gehen Sie hier geradeaus bis zur Ampel.": {
+    "url": "/clips/f67321ccc68758e0d6040856ea1ac92255fa9d51614e34f998c1393ce8ce92ae.mp3",
+    "voiceId": "SOYHLrjzK2X1ezoPC6cr",
+    "shard": "deutschy-1"
+  },
+  "Und dann?": {
+    "url": "/clips/1c841ed3fe23c1cb2d5408c382d9dd5ed4186d13d5d3b657e401a561fd9d093e.mp3",
+    "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+    "shard": "deutschy-1"
+  },
+  "Dann biegen Sie links ab. Der Bahnhof ist neben der Post.": {
+    "url": "/clips/16bb0b5acd54d6c4729203ce8fb6635158fce1ea91c71c933da38f2f79f9d8cb.mp3",
+    "voiceId": "Xb7hH8MSUJpSbSDYk0k2",
+    "shard": "deutschy-1"
+  },
+  "Ist es weit?": {
+    "url": "/clips/942f9154c84d0d0f6902c794a74210c0b7d0a7f700e085617a962792711052f8.mp3",
+    "voiceId": "XrExE9yKIg1WjnnlVkGX",
+    "shard": "deutschy-1"
+  },
+  "Nein, nur fünf Minuten zu Fuß.": {
+    "url": "/clips/414e48c443de31cf42c983f4e7c265e3932570993f8aa52a4f304a628c3e23d8.mp3",
+    "voiceId": "bIHbv24MWmeRgasZH58o",
+    "shard": "deutschy-1"
+  },
+  "Vielen Dank!": {
+    "url": "/clips/69df75e6eb4b916a96c6e7c09a78e744253d645aec30b97ff9abd014043942d2.mp3",
+    "voiceId": "cgSgspJ2msm6clMCkdW9",
+    "shard": "deutschy-1"
+  },
+  "Wo ist die kleine Gießkanne?": {
+    "url": "/clips/5d16fcb845094f2fb6057a0517da981b36c29508b466c885ef9f8eb562c93390.mp3",
+    "voiceId": "cjVigY5qzO86Huf0OWal",
+    "shard": "deutschy-1"
+  },
+  "Sie steht unter dem Tisch.": {
+    "url": "/clips/ba57a0ed342d99546ab4e7cc7fcab8776d77288c0a8cc88802731574d71d2b92.mp3",
+    "voiceId": "hpp4J3VqNfWAUOO0d1Us",
+    "shard": "deutschy-1"
+  },
+  "Ist sie blau?": {
+    "url": "/clips/8092347f1acf99801d73ceb5be5e0ea7fba6c8647be0931d3269fc1efebba667.mp3",
+    "voiceId": "iP95p4xoKVk53GoZ742B",
+    "shard": "deutschy-1"
+  },
+  "Nein, sie ist grün.": {
+    "url": "/clips/578ade825835fc028ff5a76a29501815559234990b89ea6b8b1a2b2db5fd37fa.mp3",
+    "voiceId": "nPczCjzI2devNBz1zQrb",
+    "shard": "deutschy-1"
+  },
+  "Danke. Die Pflanze hier braucht Wasser.": {
+    "url": "/clips/8c9115e16f37b3f9084adafba8e21ca90e4e346e6bc09c6968e3c7f714cafb7a.mp3",
+    "voiceId": "onwK4e9ZLuTAKqWW03F9",
+    "shard": "deutschy-1"
+  },
+  "Ich mache jetzt Tee. Möchtest du auch eine Tasse?": {
+    "url": "/clips/73c8a92756472dd64c326f70cd43d260b75e8a4068fb6e25f35dcfe7134641aa.mp3",
+    "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+    "shard": "deutschy-1"
+  },
+  "Ja, bitte. Ohne Zucker.": {
+    "url": "/clips/49a6462da90456875a505591d1bd057a5156dbb74cb6b2490266d79632ff9e41.mp3",
+    "voiceId": "pNInz6obpgDQGcFmaJgB",
+    "shard": "deutschy-1"
+  },
+  "Hast du einen Knopf für meine Jacke?": {
+    "url": "/clips/082f4bd9af5b32251890d483d6d8f7e60d2ea5c5ded209ed4e73875bc44b39db.mp3",
+    "voiceId": "pqHfZKP75CvOlQylNhV4",
+    "shard": "deutschy-1"
+  },
+  "Ja. Hier ist ein schwarzer Knopf.": {
+    "url": "/clips/3cb251af73c5b192857ec4f1d06d00589c42bb89b98bbad960889a5e05464889.mp3",
+    "voiceId": "CwhRBWXzGAHq8TQ4Fs17",
+    "shard": "deutschy-1"
+  },
+  "Danke, aber er ist zu klein.": {
+    "url": "/clips/d544cb4f2c41c23f06073f25c7d62eace7e4b9149176b08addc8f3d1fc0042d3.mp3",
+    "voiceId": "EXAVITQu4vr4xnSDxMaL",
+    "shard": "deutschy-1"
+  },
+  "Dann schauen wir in die blaue Dose.": {
+    "url": "/clips/4ad8c89057ef3a0b448e06d56e9fe6a939bd42b7a43d32fa82c946e73f73854d.mp3",
+    "voiceId": "FGY2WhTYpPnrIDTdsKH5",
+    "shard": "deutschy-1"
+  },
+  "Da unten ist ein großer brauner Knopf.": {
+    "url": "/clips/982ead154540216c35faa0c7cf5ce5bfecefbe96e91a452cd5c5b03d5edea949.mp3",
+    "voiceId": "IKne3meq5aSn9XLyUdCD",
+    "shard": "deutschy-1"
+  },
+  "Passt er?": {
+    "url": "/clips/9eb1a609b051d5cee709da285035e8d08859fa0c6cb365974feb35879225f3de.mp3",
+    "voiceId": "JBFqnCBsd6RMkjVDRZzb",
+    "shard": "deutschy-1"
+  },
+  "Ja, den nehme ich. Vielen Dank!": {
+    "url": "/clips/b9fa7a6913573072f862dc5b3fe86b1a62ce1c09314df6a58b227bb65b6c47e5.mp3",
+    "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+    "shard": "deutschy-1"
+  },
+  "Wir sind fertig. Aber auf dem Boden liegt viel Papier.": {
+    "url": "/clips/fdca545bdbc190a4a90d78edcd48d54150b6d1d86edf3d217c4b7f2f500da611.mp3",
+    "voiceId": "SAz9YHcvj6GT2YYXdXww",
+    "shard": "deutschy-1"
+  },
+  "Ich hole den Handfeger und das Kehrblech.": {
+    "url": "/clips/e9a3d83699ee2e4fe59a19b2694690fa2235a3db0d52f2126d41b053dcf898f8.mp3",
+    "voiceId": "SOYHLrjzK2X1ezoPC6cr",
+    "shard": "deutschy-1"
+  },
+  "Gut. Ich räume zuerst die Schere in die Schublade.": {
+    "url": "/clips/b077e10d9556c45c312bebc4382287c6c128ab14ccb2ebd65facf648aae2c297.mp3",
+    "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+    "shard": "deutschy-1"
+  },
+  "Kannst du dann das Kehrblech festhalten?": {
+    "url": "/clips/1925d16ef4f68f4faba7fe4e9a1ad85f3af5ef67a58d82bd97420a56b419f532.mp3",
+    "voiceId": "Xb7hH8MSUJpSbSDYk0k2",
+    "shard": "deutschy-1"
+  },
+  "Ja. Danach wische ich den Tisch ab.": {
+    "url": "/clips/d660603cf4c63e9df3699b6cbca767ed72ffd64d6ca183d54647e1155b37b97f.mp3",
+    "voiceId": "XrExE9yKIg1WjnnlVkGX",
+    "shard": "deutschy-1"
+  },
+  "Der Schwamm liegt neben dem Waschbecken.": {
+    "url": "/clips/675a60a306a604067ff8cc4aa97285eb42c7323b4afced6b056c237216329150.mp3",
+    "voiceId": "bIHbv24MWmeRgasZH58o",
+    "shard": "deutschy-1"
+  },
+  "Danke. Die Papierhäuser kommen zum Schluss auf das Regal.": {
+    "url": "/clips/1ae80ea9b48fdc73862b2e160a2928da4b6c36431e0de1b75b946ceeec001403.mp3",
+    "voiceId": "cgSgspJ2msm6clMCkdW9",
+    "shard": "deutschy-1"
+  },
+  "Ich mache heute einen langen Spaziergang.": {
+    "url": "/clips/500a17435e012aba92c83b9fb0f71259bcfb0c48b1ac15973792d91c1afb9843.mp3",
+    "voiceId": "cjVigY5qzO86Huf0OWal",
+    "shard": "deutschy-1"
+  },
+  "Nimmst du etwas zu essen mit?": {
+    "url": "/clips/1311482be2c4ea1d2ec3b0e14a5290d61c0f750b73022901d30360a96014d2d0.mp3",
+    "voiceId": "hpp4J3VqNfWAUOO0d1Us",
+    "shard": "deutschy-1"
+  },
+  "Ja, zwei Brote und einen Apfel in meiner Brotdose.": {
+    "url": "/clips/953170502d626026268e9ebbd728e06b24869ee14767230cca7eb8aafa441dea.mp3",
+    "voiceId": "iP95p4xoKVk53GoZ742B",
+    "shard": "deutschy-1"
+  },
+  "Deine Trinkflasche steht noch auf dem Tisch.": {
+    "url": "/clips/76c46a477eabeb62fea94fcbb2f79adb460e06d5bf7289635d782070d43ba29d.mp3",
+    "voiceId": "nPczCjzI2devNBz1zQrb",
+    "shard": "deutschy-1"
+  },
+  "Danke. Ich fülle sie mit Wasser.": {
+    "url": "/clips/65f6aba11192ba03bd0be2f72ad1d0a479e4c3750f9dc1ce6215465286d077fd.mp3",
+    "voiceId": "onwK4e9ZLuTAKqWW03F9",
+    "shard": "deutschy-1"
+  },
+  "Wo machst du eine Pause?": {
+    "url": "/clips/842a3592f4c7dd9bee704bc9f9c1e2db59604c4c18239af3d3e9a060f9f44c5f.mp3",
+    "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+    "shard": "deutschy-1"
+  },
+  "Auf einer Bank im Park. Den Apfel esse ich später.": {
+    "url": "/clips/f6f99a106f09aeedcb641bf6db7f50189de85ea9f32f9a4a9ddd08eebec0d173.mp3",
+    "voiceId": "pNInz6obpgDQGcFmaJgB",
+    "shard": "deutschy-1"
+  },
+  "Wo ist die kleine Ausstechform?": {
+    "url": "/clips/72992265e4bd3e6761c967df81deb6bc0bd63e06abd6e801204a046b5576e97a.mp3",
+    "voiceId": "pqHfZKP75CvOlQylNhV4",
+    "shard": "deutschy-1"
+  },
+  "Auf dem Tisch. Sie hat die Form eines Sterns.": {
+    "url": "/clips/840e856857ecc92589e1c06a1d2f7181788eebb976b871bc2f6086c66d5bae25.mp3",
+    "voiceId": "CwhRBWXzGAHq8TQ4Fs17",
+    "shard": "deutschy-1"
+  },
+  "Gut. Ich steche die Sterne aus. Legst du sie auf das Blech?": {
+    "url": "/clips/2c4376b9b5b85c6f33581ee0d42b6e753e6a02a99e3912f264ba9a2babaee681.mp3",
+    "voiceId": "EXAVITQu4vr4xnSDxMaL",
+    "shard": "deutschy-1"
+  },
+  "Ja. Brauchen wir auch die runde Backform?": {
+    "url": "/clips/099ec3848b1500157e86751d8c0d6edfe26234de12b0ca94a690545c5267c9cb.mp3",
+    "voiceId": "FGY2WhTYpPnrIDTdsKH5",
+    "shard": "deutschy-1"
+  },
+  "Nein, sie bleibt heute im Schrank.": {
+    "url": "/clips/062d75a6f13086d232591d40568a58ddce390fd7d90bd157adb1613d53c6af34.mp3",
+    "voiceId": "IKne3meq5aSn9XLyUdCD",
+    "shard": "deutschy-1"
+  },
+  "Unsere Freundin kommt am Nachmittag.": {
+    "url": "/clips/181d4439ac850a2535d34e1d55f4951dbdfb26e42f285bae9ff90360d6707f70.mp3",
+    "voiceId": "JBFqnCBsd6RMkjVDRZzb",
+    "shard": "deutschy-1"
+  },
+  "Dann legen wir drei fertige Sterne für sie auf einen Teller.": {
+    "url": "/clips/4404a689132a5ddd6b75ceda9ad7dd2d4c89225418f2a7cdc5b569f98594cacb.mp3",
+    "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+    "shard": "deutschy-1"
+  },
+  "Heute hat Lea Geburtstag. Ich habe ein Buch für sie.": {
+    "url": "/clips/89524905086f4e61c289642009cc13cc6d5bf56ed100294ff7488af20c0db3d4.mp3",
+    "voiceId": "SAz9YHcvj6GT2YYXdXww",
+    "shard": "deutschy-1"
+  },
+  "Hier ist eine kleine Geschenktüte. Passt das Buch hinein?": {
+    "url": "/clips/6b853de40ad2eb56fb4fd17dbdca7afe1b9fd7a8b7121b949f95f9c2f7ba1fef.mp3",
+    "voiceId": "SOYHLrjzK2X1ezoPC6cr",
+    "shard": "deutschy-1"
+  },
+  "Nein, das Buch ist zu groß. Ich nehme Geschenkpapier.": {
+    "url": "/clips/e7686ce00c243af4c5f12e034027b7d1a1077a053b6f15e9e5935811588ccd1e.mp3",
+    "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+    "shard": "deutschy-1"
+  },
+  "Und welches Band möchtest du?": {
+    "url": "/clips/a7337562bd345cf7d2c1c504267d5cf906ccc317face4600f4b1dad62c228394.mp3",
+    "voiceId": "Xb7hH8MSUJpSbSDYk0k2",
+    "shard": "deutschy-1"
+  },
+  "Das rote. Die Karte kommt unter das Band.": {
+    "url": "/clips/c31525a461b16301f5ae18859bee982fc9d4f437d933b69f39882eb845319b08.mp3",
+    "voiceId": "XrExE9yKIg1WjnnlVkGX",
+    "shard": "deutschy-1"
+  },
+  "Nimmst du das Geschenk heute mit?": {
+    "url": "/clips/a3b3b330c7fed4bcf422db48394bf109d0798381db3af546f598dd58751cb6db.mp3",
+    "voiceId": "bIHbv24MWmeRgasZH58o",
+    "shard": "deutschy-1"
+  },
+  "Ja, am Abend. Die kleine Tüte bleibt hier.": {
+    "url": "/clips/06c1d5d96341ae5c86e65b2c80c2468050e2d75ca7ecd73c8f18f4c8705fa09d.mp3",
+    "voiceId": "cgSgspJ2msm6clMCkdW9",
+    "shard": "deutschy-1"
+  },
+  "Ich habe vier Teller auf den Tisch gestellt.": {
+    "url": "/clips/3d0d92e9a752baa1ecbf075daab1d33ee66127e747bdf0bd3e3104f28a0abee0.mp3",
+    "voiceId": "cjVigY5qzO86Huf0OWal",
+    "shard": "deutschy-1"
+  },
+  "Gut. Hier sind vier gelbe Servietten.": {
+    "url": "/clips/2d9d17abbb3aeabe1b68628168f78858a131ade4e5b6b033c355424ddd120934.mp3",
+    "voiceId": "hpp4J3VqNfWAUOO0d1Us",
+    "shard": "deutschy-1"
+  },
+  "Für die Gläser nehme ich die Untersetzer. Ein Glas fehlt noch.": {
+    "url": "/clips/5cf691a8800e9635eb9526d20f48dc0f0196c5814da03e50164b602d99cd0249.mp3",
+    "voiceId": "iP95p4xoKVk53GoZ742B",
+    "shard": "deutschy-1"
+  },
+  "Ich hole es aus der Küche. Wohin kommt das Tablett?": {
+    "url": "/clips/1276d9db50d6fcb38c1005ac84860bb539681f846d95fb1a702645a9516248aa.mp3",
+    "voiceId": "nPczCjzI2devNBz1zQrb",
+    "shard": "deutschy-1"
+  },
+  "Auf den Stuhl neben dem Tisch. Dann haben wir Platz für das Essen.": {
+    "url": "/clips/df3209f8089b6fd034307d4b8e7947720bf7dac95005f6f27669db36f16913ff.mp3",
+    "voiceId": "onwK4e9ZLuTAKqWW03F9",
+    "shard": "deutschy-1"
+  },
+  "Und wann kommen unsere Freunde?": {
+    "url": "/clips/ab5abd1abc943206a2e4c741ae9c1c191869af33d236f9e4a0f0f2c26f9109fd.mp3",
+    "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+    "shard": "deutschy-1"
+  },
+  "Um sechs Uhr. Bis dahin ist alles fertig.": {
+    "url": "/clips/a3b8354990ddfd9cdf98902b8867e8a3595295c6e430cc75db3e285acfa13d74.mp3",
+    "voiceId": "pNInz6obpgDQGcFmaJgB",
+    "shard": "deutschy-1"
+  },
+  "Ich lege das rote Lesezeichen ins Buch.": {
+    "url": "/clips/28f361afe72b6d9893ac97873ac53dfe0e659ad073be05fab256685d75fba833.mp3",
+    "voiceId": "pqHfZKP75CvOlQylNhV4",
+    "shard": "deutschy-1"
+  },
+  "Kann ich das Buch morgen lesen?": {
+    "url": "/clips/3758b53dc19c6f7ade8344eb3bd61cd8905c9c434ffd3abb0be47e6f039805ed.mp3",
+    "voiceId": "CwhRBWXzGAHq8TQ4Fs17",
+    "shard": "deutschy-1"
+  },
+  "Ja, aber erst am Abend. Am Nachmittag brauche ich es noch.": {
+    "url": "/clips/083ea242ac4959b0a7e5e3f9377cd782b1d73468dc9fbaefeb0ec5cbad92e5f6.mp3",
+    "voiceId": "EXAVITQu4vr4xnSDxMaL",
+    "shard": "deutschy-1"
+  },
+  "Dann nehme ich heute ein anderes Buch.": {
+    "url": "/clips/8ed84271df97f915603a15a5504aa411ae93cd0197d0cbd981138046da821d09.mp3",
+    "voiceId": "FGY2WhTYpPnrIDTdsKH5",
+    "shard": "deutschy-1"
+  },
+  "Im Regal steht ein Buch über Züge.": {
+    "url": "/clips/a59b1b7ef8d120767ae0c657bdb7609274d9874e6106ef58a5b255282b1f9847.mp3",
+    "voiceId": "IKne3meq5aSn9XLyUdCD",
+    "shard": "deutschy-1"
+  },
+  "Das nehme ich. Wo ist deine Brille?": {
+    "url": "/clips/0d3a31e71faf042328cd8247027630da19b6d1b3f954dc72169d45241ff96d96.mp3",
+    "voiceId": "JBFqnCBsd6RMkjVDRZzb",
+    "shard": "deutschy-1"
+  },
+  "Im Etui auf dem Tisch.": {
+    "url": "/clips/f9b395329eb38723d8f387af9da37bf5400dce020bd3c7e8853b563fcc00ebf0.mp3",
+    "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+    "shard": "deutschy-1"
+  },
+  "Kannst du mir morgen das Häkeln zeigen?": {
+    "url": "/clips/3318ed11506a1439a786cfa1ee30d2b8a64584d6f6dc1141cbdf6a79dcb1af22.mp3",
+    "voiceId": "SAz9YHcvj6GT2YYXdXww",
+    "shard": "deutschy-1"
+  },
+  "Ja, am Samstag. Hast du schon Wolle und eine Häkelnadel?": {
+    "url": "/clips/d72ec49769ac17c0f32edc317058520c003c2d88b2df490cb667ce0d4bb99765.mp3",
+    "voiceId": "SOYHLrjzK2X1ezoPC6cr",
+    "shard": "deutschy-1"
+  },
+  "Ja. Die Wolle ist gelb, der Griff an der Nadel grau.": {
+    "url": "/clips/118de2461db968e3d52ead22adc53e31960b7fbbfdb3845fdc6a667a6fd03ff4.mp3",
+    "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+    "shard": "deutschy-1"
+  },
+  "Was möchtest du machen?": {
+    "url": "/clips/9ce9db1c259731027d3c64672423fcafc478d8c114dcf8f99dd55c610f358557.mp3",
+    "voiceId": "Xb7hH8MSUJpSbSDYk0k2",
+    "shard": "deutschy-1"
+  },
+  "Zuerst nur ein kleines Stück, keine Tasche.": {
+    "url": "/clips/491dbad19e9b9cba9c9ae65c78d0b1824d245b5d6f62626d06506669b3c18bbd.mp3",
+    "voiceId": "XrExE9yKIg1WjnnlVkGX",
+    "shard": "deutschy-1"
+  },
+  "Gut. Leg die Sachen in den Korb, dann finden wir sie morgen.": {
+    "url": "/clips/9fa274abe01e6152c10fac7bf5bf1c7bf3afd8ea3389ed0d9e3adb7b9f3cbbee.mp3",
+    "voiceId": "bIHbv24MWmeRgasZH58o",
+    "shard": "deutschy-1"
+  },
+  "Der Korb steht neben dem Sofa.": {
+    "url": "/clips/df36558d3c89536296843a884bb8638f8cc368b68b0d3881e5e67761563c28e4.mp3",
+    "voiceId": "cgSgspJ2msm6clMCkdW9",
+    "shard": "deutschy-1"
+  },
+  "Ich habe eine Karte für unsere Tante geschrieben.": {
+    "url": "/clips/8de9812b55066cb90583967292e198fd6682c6fb5a60d46d6163e11afb6f61f4.mp3",
+    "voiceId": "cjVigY5qzO86Huf0OWal",
+    "shard": "deutschy-1"
+  },
+  "Kann ich auch etwas darauf schreiben?": {
+    "url": "/clips/1ed65f0854649763ec5913359264f936710dd5d6eefa6a75331942c466c712aa.mp3",
+    "voiceId": "hpp4J3VqNfWAUOO0d1Us",
+    "shard": "deutschy-1"
+  },
+  "Ja. Die Karte liegt neben dem braunen Briefumschlag.": {
+    "url": "/clips/9139aaf7353b1831a7edb973bda54763833bf4d36dc9c144978d1fc6d1b64b53.mp3",
+    "voiceId": "iP95p4xoKVk53GoZ742B",
+    "shard": "deutschy-1"
+  },
+  "Gut. Ich komme heute um sechs Uhr nach Hause.": {
+    "url": "/clips/4de9598b91218014de932ca6b9e8dfb07e5f375454095c8047a3427614b80025.mp3",
+    "voiceId": "nPczCjzI2devNBz1zQrb",
+    "shard": "deutschy-1"
+  },
+  "Ich lege dir einen Stift dazu. Die Karte bleibt bis dahin draußen.": {
+    "url": "/clips/8a19711021770b2a37006f6c059856d9a8a80b5b76dab7494dcbf1fcc79c946c.mp3",
+    "voiceId": "onwK4e9ZLuTAKqWW03F9",
+    "shard": "deutschy-1"
+  },
+  "Hast du die Adresse schon aufgeschrieben?": {
+    "url": "/clips/3d69718f7464729a0891985a847a90954b76435d844f29bcfcc25a392da6638a.mp3",
+    "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+    "shard": "deutschy-1"
+  },
+  "Noch nicht. Sie steht im kleinen Heft in der Schublade.": {
+    "url": "/clips/87d5dff1fd87b1b7497a18d84499785f3da75199337f160f0a36fff781e8f085.mp3",
+    "voiceId": "pNInz6obpgDQGcFmaJgB",
+    "shard": "deutschy-1"
+  },
+  "Ich suche mein Plektrum. Hast du es gesehen?": {
+    "url": "/clips/eddd74f843f0607984f887c58c4165f45befc6a338fdce3c99e536fddeaf3f3f.mp3",
+    "voiceId": "pqHfZKP75CvOlQylNhV4",
+    "shard": "deutschy-1"
+  },
+  "Ja, ich habe es gestern benutzt. Entschuldigung.": {
+    "url": "/clips/3502f9fe23e588dad39ae8cbdb4f4bb068732cc84f51d277d2f8cfef501d4453.mp3",
+    "voiceId": "CwhRBWXzGAHq8TQ4Fs17",
+    "shard": "deutschy-1"
+  },
+  "Liegt es auf dem Tisch?": {
+    "url": "/clips/f46b93749bd600159a3f7eca4a948a2e75b4731215d54b53c2e1bf867c95e877.mp3",
+    "voiceId": "EXAVITQu4vr4xnSDxMaL",
+    "shard": "deutschy-1"
+  },
+  "Nein, in meinem grünen Beutel. Hier, bitte.": {
+    "url": "/clips/a768c95b91ae24f5e4ddd2d732431eed5be1139359bde322491ab590db640897.mp3",
+    "voiceId": "FGY2WhTYpPnrIDTdsKH5",
+    "shard": "deutschy-1"
+  },
+  "Danke. Ich möchte jetzt Gitarre spielen.": {
+    "url": "/clips/e50780343cf3d62c8840e26eef568821145f86076d3360a0bd075b8fc39157fb.mp3",
+    "voiceId": "IKne3meq5aSn9XLyUdCD",
+    "shard": "deutschy-1"
+  },
+  "Brauchst du auch das Buch vom Tisch?": {
+    "url": "/clips/ce0e03b4e60c06b45a485c2c79548d21332c180801bc466d54484e45344eb2d9.mp3",
+    "voiceId": "JBFqnCBsd6RMkjVDRZzb",
+    "shard": "deutschy-1"
+  },
+  "Nein, heute spiele ich ohne Buch.": {
+    "url": "/clips/febda8207b19b716c88873aa570c5be95b95d3922dbe424f49c1f0abfe8c9ba5.mp3",
+    "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+    "shard": "deutschy-1"
+  },
+  "Ich male am kleinen Tisch. Brauchst du den großen noch?": {
+    "url": "/clips/34475c4a9ddcf487c9520c78ce2f05ce173aba5e73689c05da270c05e203714f.mp3",
+    "voiceId": "SAz9YHcvj6GT2YYXdXww",
+    "shard": "deutschy-1"
+  },
+  "Ja, ich mache meine Hausaufgaben fertig.": {
+    "url": "/clips/1f7651c5f9ff2ac90bc9aacfb574bcfafd61b0e892d850725931d37d0f13b57c.mp3",
+    "voiceId": "SOYHLrjzK2X1ezoPC6cr",
+    "shard": "deutschy-1"
+  },
+  "Dann bleibe ich hier am Fenster.": {
+    "url": "/clips/33bf690252255995accb56daefa983c9b9c65ef0a90827acee4756719f235f8f.mp3",
+    "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+    "shard": "deutschy-1"
+  },
+  "Brauchst du die Palette aus dem Regal?": {
+    "url": "/clips/0fe32ba7c5dcf747e49ea99034e620dc3b31418698a62a0d362bc3cf93c18651.mp3",
+    "voiceId": "Xb7hH8MSUJpSbSDYk0k2",
+    "shard": "deutschy-1"
+  },
+  "Ja, bitte. Die Pinsel liegen schon hier.": {
+    "url": "/clips/cf58ce133c52fedbb154b1be21f4e90463a0fa73e7a9a9e81a5959ab1a4f9697.mp3",
+    "voiceId": "XrExE9yKIg1WjnnlVkGX",
+    "shard": "deutschy-1"
+  },
+  "Hier. Darf ich später mitmalen?": {
+    "url": "/clips/1b6339b813301a29fb8739bd3b949ed8e6bb2d6fc2647f9e5789dc2dbb7a1f46.mp3",
+    "voiceId": "bIHbv24MWmeRgasZH58o",
+    "shard": "deutschy-1"
+  },
+  "Gern, nach deinen Hausaufgaben.": {
+    "url": "/clips/11d03532a6935bc2a414512b36da1084c7d43f641f2b8e820e6c244c36bc6a22.mp3",
+    "voiceId": "cgSgspJ2msm6clMCkdW9",
+    "shard": "deutschy-1"
+  },
+  "Wo ist die Zitronenpresse? In der Schublade liegt sie nicht.": {
+    "url": "/clips/761d42f472f6561b5722c9759971514b3745a52404998d432562e8f864fc8b70.mp3",
+    "voiceId": "cjVigY5qzO86Huf0OWal",
+    "shard": "deutschy-1"
+  },
+  "Im oberen Regal, neben der Tasse.": {
+    "url": "/clips/7bfe495bcfffc485b88dd3741790dc5cac4b04683214d2f14d2ed0b00555885e.mp3",
+    "voiceId": "hpp4J3VqNfWAUOO0d1Us",
+    "shard": "deutschy-1"
+  },
+  "Danke, ich habe sie. Soll ich den Saft über den Salat gießen?": {
+    "url": "/clips/6b70380e5e664501cbf85fb38ede0e2c1439a94f52ac5f832c2a32d2fd6c151d.mp3",
+    "voiceId": "iP95p4xoKVk53GoZ742B",
+    "shard": "deutschy-1"
+  },
+  "Bitte noch nicht. Ich esse meinen Teil lieber ohne.": {
+    "url": "/clips/615e40f8e1b9e76f6519fd5f02603c1b97625403afaff88dc5398e874a5300ec.mp3",
+    "voiceId": "nPczCjzI2devNBz1zQrb",
+    "shard": "deutschy-1"
+  },
+  "Dann stelle ich ihn in einer kleinen Schale auf den Tisch.": {
+    "url": "/clips/b6a0bc3a146322579bbd29fdbb03455d0fd8a7f40d142c948a8b6dc5d1e3ae71.mp3",
+    "voiceId": "onwK4e9ZLuTAKqWW03F9",
+    "shard": "deutschy-1"
+  },
+  "Gut. Du kannst dir dann selbst etwas nehmen.": {
+    "url": "/clips/27a82d332f4e6b3cda58a36750539eab592bed43911269f7cc5c6f7cce938c89.mp3",
+    "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+    "shard": "deutschy-1"
+  },
+  "Ja, so machen wir es.": {
+    "url": "/clips/2a697ca16ec8eaf63f128b8135fe6942804b6650272c926c31f37efebcfe1df0.mp3",
+    "voiceId": "pNInz6obpgDQGcFmaJgB",
+    "shard": "deutschy-1"
+  },
+  "Brauchst du den leeren Schlüsselring noch?": {
+    "url": "/clips/9f07809d499869c1dc312f0b662c72de03dece5b20cb95da6f75423eb6090b3f.mp3",
+    "voiceId": "pqHfZKP75CvOlQylNhV4",
+    "shard": "deutschy-1"
+  },
+  "Nein. Meinen Schlüssel lege ich in meine Tasche.": {
+    "url": "/clips/07a8df8d2956622f53994de648a27f2cdc2233d7c56ae1b26feeca765f5a771f.mp3",
+    "voiceId": "CwhRBWXzGAHq8TQ4Fs17",
+    "shard": "deutschy-1"
+  },
+  "Kann ich den Ring haben? Er ist für meinen Schlüssel.": {
+    "url": "/clips/acc8eff9d6f5939c0fd9bd8d574cf59e6c3388fc34217452aca6e9ac459ab418.mp3",
+    "voiceId": "EXAVITQu4vr4xnSDxMaL",
+    "shard": "deutschy-1"
+  },
+  "Ja. Hier ist der Ring.": {
+    "url": "/clips/31f6c8650d2f3274bff771791869ef365fa0218b0ed81c1c2fca0fd80afa4fc7.mp3",
+    "voiceId": "FGY2WhTYpPnrIDTdsKH5",
+    "shard": "deutschy-1"
+  },
+  "Danke. Die blaue Schale bleibt hier, oder?": {
+    "url": "/clips/d7b98b84109566b8e09f93e4dbf96e6c508d67506f9cc916f918a5575432a7d0.mp3",
+    "voiceId": "IKne3meq5aSn9XLyUdCD",
+    "shard": "deutschy-1"
+  },
+  "Ja, auf der Kommode.": {
+    "url": "/clips/a6d69e814af2b30bb2916b8519ab00cdc7087fbbf711304a94f55c2b2123136b.mp3",
+    "voiceId": "JBFqnCBsd6RMkjVDRZzb",
+    "shard": "deutschy-1"
+  },
+  "Gut. Ich nehme nur den Ring.": {
+    "url": "/clips/e70792e2dd3aaa3eb5add1f5a623a9589e6f3b53c6f470c8fc203d9d34ea49c8.mp3",
+    "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+    "shard": "deutschy-1"
+  },
+  "Siehst du die kleine Pflanzkelle?": {
+    "url": "/clips/f918e2edb785089c3dcf9b7ffa394c659987c5d7064294942f07235e006c4b78.mp3",
+    "voiceId": "SAz9YHcvj6GT2YYXdXww",
+    "shard": "deutschy-1"
+  },
+  "Auf dem Tisch liegt sie nicht. Hier sind nur Karten.": {
+    "url": "/clips/7bc709963f813ddd2f5676f946449bd43213d5f17086ec8cf875916af3961d5f.mp3",
+    "voiceId": "SOYHLrjzK2X1ezoPC6cr",
+    "shard": "deutschy-1"
+  },
+  "Schau bitte in den Eimer unter der Bank.": {
+    "url": "/clips/d9e9aa0be8bb96a34fad33d08046842f02b34fc45c8356aa594a9808e83a748d.mp3",
+    "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+    "shard": "deutschy-1"
+  },
+  "Ja, da ist sie. Ich bringe dir den ganzen Eimer.": {
+    "url": "/clips/24f4c394ee9acdcbcea1d41149ffc2c0111f2bf7bbd219f790fb0ce12aefa8c0.mp3",
+    "voiceId": "Xb7hH8MSUJpSbSDYk0k2",
+    "shard": "deutschy-1"
+  },
+  "Danke. Die Kelle nehme ich heraus.": {
+    "url": "/clips/1ec7ea86a38894dbbed5a5fa754c7bea3b3e7e923f665673b565e2e21576d409.mp3",
+    "voiceId": "XrExE9yKIg1WjnnlVkGX",
+    "shard": "deutschy-1"
+  },
+  "Soll ich meinen Namen auf eine Karte schreiben?": {
+    "url": "/clips/2d63a673ccf29315f9114b5da8f5784325076dea40cc94fde2c44b3144d0c2a8.mp3",
+    "voiceId": "bIHbv24MWmeRgasZH58o",
+    "shard": "deutschy-1"
+  },
+  "Ja. Die dritte Karte lassen wir aber leer.": {
+    "url": "/clips/5c839935192e329368056be8032a044864fe4c982d7d26e6add5732b635201b4.mp3",
+    "voiceId": "cgSgspJ2msm6clMCkdW9",
+    "shard": "deutschy-1"
+  },
+  "Ich suche meine kleine Luftpumpe. Ist sie im roten Beutel?": {
+    "url": "/clips/b0f67726b4e6abbd1911de167757fee3a16c4ad9142cf5d93bb70cce7eec5e52.mp3",
+    "voiceId": "cjVigY5qzO86Huf0OWal",
+    "shard": "deutschy-1"
+  },
+  "Nein, da liegt nur ein Tuch.": {
+    "url": "/clips/8be97a93c6fcda3daaa765f2518874b5839b9c853603f6d943188fcf1e28b5b6.mp3",
+    "voiceId": "hpp4J3VqNfWAUOO0d1Us",
+    "shard": "deutschy-1"
+  },
+  "Dann schaue ich noch einmal auf das Regal.": {
+    "url": "/clips/23e43e9bd0ec717cd783a61680cbb3345e85e835fa2ed951c334aeaf54d28793.mp3",
+    "voiceId": "iP95p4xoKVk53GoZ742B",
+    "shard": "deutschy-1"
+  },
+  "Hier ist sie, unter der grauen Jacke.": {
+    "url": "/clips/cf1cea0f4420311f62db28038ae90946c3cad6b3ae13fa378cb58ad2dc4890ea.mp3",
+    "voiceId": "nPczCjzI2devNBz1zQrb",
+    "shard": "deutschy-1"
+  },
+  "Gut. Aber sie passt nicht in den kurzen Beutel.": {
+    "url": "/clips/07682c13072740b6dc8e7d1bcc4512d3eddfc27d691c25d9c3aa6c12c1de7512.mp3",
+    "voiceId": "onwK4e9ZLuTAKqWW03F9",
+    "shard": "deutschy-1"
+  },
+  "Ich hole die längere Tasche.": {
+    "url": "/clips/1cef60d786d79544db977fd1c09d937515e0ada2c9eea40374ed92472fe391a8.mp3",
+    "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+    "shard": "deutschy-1"
+  },
+  "Danke. Das Tuch kann im roten Beutel bleiben.": {
+    "url": "/clips/2e5bcd8004afd674c55368b767c9cb507091c48111066c9d8f2f0506393bb243.mp3",
+    "voiceId": "pNInz6obpgDQGcFmaJgB",
+    "shard": "deutschy-1"
   }
 }

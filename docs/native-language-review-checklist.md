@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after mobile study journal update183.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after A1 dialogue audio update184.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1960,3 +1960,13 @@ Sources: https://deutschlernerblog.de/lokale-praepositionen-deutsch-ortsangaben-
 - [ ] Helper editorial defects from182 remain open. The new navigation does not fix overgeneralized German explanations.
 
 No reviewer/date/sign-off is supplied. Earlier review targets remain pending.
+
+
+## A1 dialogue audio184: pending listening review
+
+- [ ] Listen to all149new synthesized German lines across23complete A1dialogues. First priority:Mansoura market,then the3other Egyptian A1dialogues and cafe/introduction/directions. Check intelligibility,word stress,numbers,question intonation and unnatural accents. Automated decoding/transcription does not approve pronunciation.
+- [ ] Check the Mansoura4-line sequence is natural across different voices. Text is unchanged;each line uses its own exact clip. This is synthesized speech,not a native speaker recording.
+- [ ] Check AR/ENvoice-setting wording:ready-made clips use their available voice even if a different preferred voice is saved. A fixed preference is not a promise to regenerate every clip.
+- [ ] Test stop/navigation cancellation on a real phone. Local390px tests and production-file hashes do not establish real-device reliability.
+
+149new clips,230active exact phrases.831unique A1dialogue lines still lack this generated batch. No new native reviewer/date/sign-off. Earlier targets remain pending.

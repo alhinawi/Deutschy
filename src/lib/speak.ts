@@ -45,9 +45,8 @@ export async function speak(raw:string,options:SpeechOptions={}){
  const cached=staticSpeech[text];
  const staticBase=cached?speechShardBases?.[cached.shard]??'':'';
  if(cached && /^https:\/\/[a-z0-9-]+\.pages\.dev$/.test(staticBase)){
-  let preference='varied';try{preference=await readVoicePreference()}catch{}
-  if(token!==generation)return false;
-  if((preference==='varied'||preference===cached.voiceId)&&await playAudio(staticBase+cached.url))return true;
+  // Exact static coverage wins even when a preferred voice has no clip.
+  if(await playAudio(staticBase+cached.url))return true;
  }
  if(token!==generation)return false;
  request=new AbortController();const controller=request,signal=controller.signal;
