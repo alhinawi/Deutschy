@@ -1,0 +1,172 @@
+{
+  "clips": 81,
+  "retained": 71,
+  "replaced": 10,
+  "reservedCharacters": 103,
+  "policy": "least-used; ties by stable voice ID; counts differ by at most1",
+  "voiceCounts": {
+    "CwhRBWXzGAHq8TQ4Fs17": 4,
+    "EXAVITQu4vr4xnSDxMaL": 4,
+    "FGY2WhTYpPnrIDTdsKH5": 4,
+    "IKne3meq5aSn9XLyUdCD": 4,
+    "JBFqnCBsd6RMkjVDRZzb": 4,
+    "N2lVS1w4EtoT3dr4eOWO": 4,
+    "SAz9YHcvj6GT2YYXdXww": 4,
+    "SOYHLrjzK2X1ezoPC6cr": 4,
+    "TX3LPaxmHKxFdv7VOQHJ": 4,
+    "Xb7hH8MSUJpSbSDYk0k2": 4,
+    "XrExE9yKIg1WjnnlVkGX": 3,
+    "bIHbv24MWmeRgasZH58o": 4,
+    "cgSgspJ2msm6clMCkdW9": 4,
+    "cjVigY5qzO86Huf0OWal": 4,
+    "hpp4J3VqNfWAUOO0d1Us": 4,
+    "iP95p4xoKVk53GoZ742B": 3,
+    "nPczCjzI2devNBz1zQrb": 4,
+    "onwK4e9ZLuTAKqWW03F9": 4,
+    "pFZP5JQG7iQjIQuC4Bku": 3,
+    "pNInz6obpgDQGcFmaJgB": 4,
+    "pqHfZKP75CvOlQylNhV4": 4
+  },
+  "replacements": [
+    {
+      "text": "der Apfel",
+      "before": {
+        "url": "/clips/ffb93ae3703c904b6a8fa29cf22c1eac2f7d339e5fe19e51b41366681deee67a.mp3",
+        "voiceId": "pqHfZKP75CvOlQylNhV4",
+        "shard": "deutschy-1"
+      },
+      "after": {
+        "url": "/clips/42662d3a3018ba0f067976d9f7548b189f0d9097e114d7a9e7fc142d3305a9f3.mp3",
+        "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+        "sha256": "d5d6c5898e64ea0668bac128e2f6f7cc96f93cfb8703883f1a6c0788ba2a8635",
+        "bytes": 7042
+      }
+    },
+    {
+      "text": "der Fisch",
+      "before": {
+        "url": "/clips/31fa197389b571285c0f3a66526291c27e3d06cac8ef5fdd614a0a3e33c4d33a.mp3",
+        "voiceId": "EXAVITQu4vr4xnSDxMaL",
+        "shard": "deutschy-1"
+      },
+      "after": {
+        "url": "/clips/469963e7de0f3b50f1f4cbedfcfe1ae7e86578155d4cc5c1953cea90e1a3c1ce.mp3",
+        "voiceId": "SAz9YHcvj6GT2YYXdXww",
+        "sha256": "4d33dfcf4ad7f0ba787e4606f650e01d83092fcc13d3fb6053438e686ae3561c",
+        "bytes": 5890
+      }
+    },
+    {
+      "text": "das Haus",
+      "before": {
+        "url": "/clips/e537e289a34f5119d4ab0c30e3a2b8f3a0526e5e6ebc2ffd6684f971019476fb.mp3",
+        "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+        "shard": "deutschy-1"
+      },
+      "after": {
+        "url": "/clips/254b2510a537962dd9aea8ae832df221f7590db7b7788bb563cd39d32b5171a2.mp3",
+        "voiceId": "bIHbv24MWmeRgasZH58o",
+        "sha256": "02ef9068d784f83d5fbdd5163febfe02df2cc180809fdff52441f9e095ca421e",
+        "bytes": 6753
+      }
+    },
+    {
+      "text": "das Bett",
+      "before": {
+        "url": "/clips/201d140cdf542f3b0179c06f3cef5a892e746f31887cf010eb417b384d462b24.mp3",
+        "voiceId": "CwhRBWXzGAHq8TQ4Fs17",
+        "shard": "deutschy-1"
+      },
+      "after": {
+        "url": "/clips/c0601d43fd4b9a662489331ff612c69a1a07025afc97520baefa37ea0675dc3b.mp3",
+        "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+        "sha256": "af3dcc12151673cb59e7f086c8c4107f11d0a6394752169e74a04cffbfdcb958",
+        "bytes": 6177
+      }
+    },
+    {
+      "text": "das Fenster",
+      "before": {
+        "url": "/clips/e69cbb9a57fd606fa7cb0e92deb9f1890e6058ec8681a94eeefb576ef8d18657.mp3",
+        "voiceId": "nPczCjzI2devNBz1zQrb",
+        "shard": "deutschy-1"
+      },
+      "after": {
+        "url": "/clips/eda3b531a03b81e297a45b95e7520f1a39ec50026acb1cc82f01d16731575a79.mp3",
+        "voiceId": "iP95p4xoKVk53GoZ742B",
+        "sha256": "591024a2c87609bdccad83c34f3a9704ef211b454b46d36dd8edd84e573d310e",
+        "bytes": 6756
+      }
+    },
+    {
+      "text": "der Schlüssel",
+      "before": {
+        "url": "/clips/7dd10eab892bcb9faeda46d14895657a1bc54353511de16fd0dd005fba7eb482.mp3",
+        "voiceId": "CwhRBWXzGAHq8TQ4Fs17",
+        "shard": "deutschy-1"
+      },
+      "after": {
+        "url": "/clips/acb807f39e1983f3ba478849bd0144c924fccb0254cc0f7de95e777382e0d279.mp3",
+        "voiceId": "SAz9YHcvj6GT2YYXdXww",
+        "sha256": "883c73ae0c6734efad24efd12bff61553ff68b443d5de423b22c5b1c879295ba",
+        "bytes": 7911
+      }
+    },
+    {
+      "text": "das Krankenhaus",
+      "before": {
+        "url": "/clips/4c17066bd2e5ed1a2591027c8e3897007cd7ee9105d78bff211eeee628c2bf44.mp3",
+        "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+        "shard": "deutschy-1"
+      },
+      "after": {
+        "url": "/clips/b8011aebda65196b9c82fe81cb6800725f714ae6fa4b131cb45a867aaa607f81.mp3",
+        "voiceId": "cjVigY5qzO86Huf0OWal",
+        "sha256": "50ea28976895c91205197a27602c1746540bd3301fcf00071391f0d91c26cfe2",
+        "bytes": 8200
+      }
+    },
+    {
+      "text": "das Fahrrad",
+      "before": {
+        "url": "/clips/e1f80c7835a8ad8a68b0b3d32ca7976bb2e4de1d28c6ed541e51247ac1a8674f.mp3",
+        "voiceId": "hpp4J3VqNfWAUOO0d1Us",
+        "shard": "deutschy-1"
+      },
+      "after": {
+        "url": "/clips/363c20ad784286d113585015855cb264db09f57479e3e7d8567ac7a38cbf0d84.mp3",
+        "voiceId": "iP95p4xoKVk53GoZ742B",
+        "sha256": "b0fe5c55e1633b6edd2f5d4646c50b33163204b63f8185913c2e1963236bb51d",
+        "bytes": 6468
+      }
+    },
+    {
+      "text": "der Mantel",
+      "before": {
+        "url": "/clips/f06828123bf65c9f1c4f614444218d9f383d9b24802734dec4bc404055d4b23f.mp3",
+        "voiceId": "IKne3meq5aSn9XLyUdCD",
+        "shard": "deutschy-1"
+      },
+      "after": {
+        "url": "/clips/4dc102cb18193d62d159d6f541ca6690e8f579f363ee86fb9e3956ff8cbcc869.mp3",
+        "voiceId": "XrExE9yKIg1WjnnlVkGX",
+        "sha256": "74eedba5102d0a957f5c3bfaa962084874080b55307c84ca6a6fbcb74366723d",
+        "bytes": 6755
+      }
+    },
+    {
+      "text": "die Katze",
+      "before": {
+        "url": "/clips/7bbdf7570db744e41d4dfd60116dd057da1e8aa2816553b2683d464c64f2e1d6.mp3",
+        "voiceId": "EXAVITQu4vr4xnSDxMaL",
+        "shard": "deutschy-1"
+      },
+      "after": {
+        "url": "/clips/ed7aa24a1784f141e37de8cc66100f1ea63f7c6c57a58f607eacaff9dd71f8a3.mp3",
+        "voiceId": "SOYHLrjzK2X1ezoPC6cr",
+        "sha256": "e529ce4e7e4260323cd1cb01329e13a3978b45830ffb3766650ab324a09240f6",
+        "bytes": 6466
+      }
+    }
+  ]
+}
