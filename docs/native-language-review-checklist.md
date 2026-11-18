@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-fifty-first practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-fifty-second practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1642,9 +1642,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/credits/`, Chirimoya | New actual CC BY-SA 2.5 license link opens correct version, underline/focus/target/rel checked AR/EN 320/390. Author/source retained; no false crop label on uncropped resize. Existing CC BY-SA4/SA3/BY4/Pexels handling unchanged. 16 license checks, 4 axe, AR/EN390px inspected. |
 | [ ] | Listening/dictation | 67 original segments, 268 exact speech/source/answer checks. Earlier answer-field/source-set/voice/speed/Next/link help retained. Native editorial and actual-device voice/screen-reader pending. Labels not certification, progress device-local. |
 
+### List 152: Mangostane and Brotfrucht
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-vor-dem-kurs-alles-pruefen/` and linked dialogue | Clara/Yassin check course display photos and 4 cards; article too small, new card directly under breadfruit photo, old card aside; checklist stays for next group. Photos/paper only. 172 German words, 7 dialogue turns. |
+| [ ] | `/reading/alltag-a2-worauf-bezieht-sich-sie/` and linked dialogue | Mara/Nabil clarify whether sie means Karte or Mappe, both feminine. Repeat intended noun only where unclear, not ban all pronouns. Folder holds later solutions, should stay closed. 241 words. Check linguistic/pragmatic clarity and Egyptian Arabic. |
+| [ ] | `/reading/alltag-b1-passende-details-fuer-einen-zweck/` and linked dialogue | Sofia/Jonas separate word information from details of these specific photos. True information can be unnecessary for this task, useful later. Background color not a fixed noun property. 319 words. |
+| [ ] | `/lessons/mangostanebrotfrucht/` | die Mangostane/Mangostanen (مانجوستين); die Brotfrucht/Brotfrüchte (ثمرة شجرة الخبز). LEO exact first paradigm, Langenscheidt feminine; Duden second feminine/sense, DWDS exact plural/sense. Do not confuse Mangostane with alternate singular Mangostan/plural Mangostane. Skyler Ewing 10037971 whole purple mangosteens; Elizabeth Olson 32289299 one whole green breadfruit on tree. Both real unbranded/faceless, proportional 4:3 crops flagged. |
+| [ ] | Six appended grammar banks | 24 article/accusative/present/possessive/two-way/negation rows; saved IDs preserved and all exact evidence/unique IDs pass. Native German/Egyptian Arabic editorial pending. |
+| [ ] | `/credits/`, original photo links | Screen-reader names identify original photo, German noun/article and unchanged visible filename, localized AR/EN. href/target/rel/underline/focus unchanged. 8 exact new-link checks plus 16 existing-license checks; AR/EN320/390. Focused 390px credits and lesson photos inspected. |
+| [ ] | Listening/dictation | 71 original segments, 284 exact speech/source/answer checks. Existing source-set/answer/voice/speed/Next/link help retained. Actual-device voice/screen-reader and native editorial pending. Labels not certification; progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **959 photo nouns / 196 topics**, **471 reading texts / 1837 reading questions**, **41 core grammar topics / 3574 core grammar questions**, **411 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **961 photo nouns / 197 topics**, **474 reading texts / 1849 reading questions**, **41 core grammar topics / 3598 core grammar questions**, **414 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1656,7 +1668,7 @@ This is an inventory, not completed review. Snapshot: **959 photo nouns / 196 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 139 · A2 167 · B1 135 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 140 · A2 168 · B1 136 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

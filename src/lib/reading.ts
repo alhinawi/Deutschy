@@ -456,3 +456,6 @@ readings.push(...guavephysalisTexts);
 
 import {rambutanchirimoyaTexts} from './reading-rambutanchirimoya';
 readings.push(...rambutanchirimoyaTexts);
+
+import {mangostanebrotfruchtTexts} from './reading-mangostanebrotfrucht';
+readings.push(...mangostanebrotfruchtTexts);

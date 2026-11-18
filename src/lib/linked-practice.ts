@@ -399,4 +399,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-eine-nachricht-fuer-den-kurspartner',dialogue:'kursmaterial-das-regal-im-kursraum'},
  {reading:'alltag-a2-beschreiben-ohne-vorzusagen',dialogue:'partneraufgabe-auf-das-signal-warten'},
  {reading:'alltag-b1-mehr-als-eine-sinnvolle-reihenfolge',dialogue:'heftgestaltung-kriterien-statt-vorlieben'},
+ {reading:'alltag-a1-vor-dem-kurs-alles-pruefen',dialogue:'vorbereitung-die-alte-karte-zur-seite'},
+ {reading:'alltag-a2-worauf-bezieht-sich-sie',dialogue:'anweisung-karte-oder-mappe-umdrehen'},
+ {reading:'alltag-b1-passende-details-fuer-einen-zweck',dialogue:'lernstation-details-zweck-und-ergaenzung'},
 ];

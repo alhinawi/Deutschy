@@ -783,6 +783,10 @@
   {
    "id": "rambutanchirimoya",
    "ar": "رامبوتان وشيريمويا"
+  },
+  {
+   "id": "mangostanebrotfrucht",
+   "ar": "مانجوستين وثمرة شجرة الخبز"
   }
  ],
  "words": [
@@ -15263,6 +15267,36 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Cherimoya_fruit_hg.jpg",
     "author": "Hannes Grobe",
     "license": "CC BY-SA 2.5"
+   }
+  },
+  {
+   "id": "mangostane",
+   "topic": "mangostanebrotfrucht",
+   "art": "die",
+   "de": "Mangostane",
+   "plural": "Mangostanen",
+   "ar": "مانجوستين",
+   "photo": {
+    "file": "10037971.jpg",
+    "commons": "https://www.pexels.com/photo/mangosteen-fruit-in-close-up-photography-10037971/",
+    "author": "Skyler Ewing",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "brotfrucht",
+   "topic": "mangostanebrotfrucht",
+   "art": "die",
+   "de": "Brotfrucht",
+   "plural": "Brotfrüchte",
+   "ar": "ثمرة شجرة الخبز",
+   "photo": {
+    "file": "32289299.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-of-a-green-breadfruit-on-tree-branch-32289299/",
+    "author": "Elizabeth Olson",
+    "license": "Pexels License",
+    "modified": true
    }
   }
  ]

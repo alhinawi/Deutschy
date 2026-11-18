@@ -618,3 +618,6 @@ for(const[topic,rows]of Object.entries(guavephysalisGrammar))exercises[topic].pu
 
 import {rambutanchirimoyaGrammar} from './exercises-rambutanchirimoya';
 for(const[topic,rows]of Object.entries(rambutanchirimoyaGrammar))exercises[topic].push(...rows);
+
+import {mangostanebrotfruchtGrammar} from './exercises-mangostanebrotfrucht';
+for(const[topic,rows]of Object.entries(mangostanebrotfruchtGrammar))exercises[topic].push(...rows);

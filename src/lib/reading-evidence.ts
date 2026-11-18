@@ -2804,3 +2804,24 @@ Object.assign(readingEvidence,{
     "weil ihre wichtigsten Hinweise zur Beschriftung in beiden Entwürfen umgesetzt wurden."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-vor-dem-kurs-alles-pruefen": [
+    "und vier kleine Karten.",
+    "Auf den beiden anderen Karten stehen die Mehrzahlformen.",
+    "Bei Brotfrucht ist der Artikel zu klein geschrieben.",
+    "Die nächste Gruppe kann damit auch prüfen, ob das Material vollständig ist."
+  ],
+  "alltag-a2-worauf-bezieht-sich-sie": [
+    "Sowohl Karte als auch Mappe sind feminin.",
+    "Mara schlägt vor, das gemeinte Nomen zu wiederholen.",
+    "weil darin die Lösungen für eine spätere Aufgabe liegen.",
+    "Die beiden einigen sich darauf, nur unklare Stellen zu ändern."
+  ],
+  "alltag-b1-passende-details-fuer-einen-zweck": [
+    "Sie sollen die beiden deutschen Namen erkennen und den passenden Fotos zuordnen.",
+    "Würde man die Frucht auf einen anderen Tisch legen, bliebe ihr Name derselbe.",
+    "Direkt neben jedem Foto stehen der deutsche Name, der Artikel und die Mehrzahl.",
+    "Jonas behält seine ausführlichen Beobachtungen in einem separaten Entwurfsblatt."
+  ]
+});
