@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-forty-eighth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-forty-ninth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1606,9 +1606,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Dictation Next sentence | Button describes existing order/wrap/no-grade/no-saved-progress/source-reveal help. 4 exact target/focus checks AR/EN 320/390; 390px focus pixels inspected. Source and voice/speed descriptions retained. No wording or sequencing change. Actual-device assistive review pending. |
 | [ ] | Listening/dictation | 72 original segments; 288 exact German speech/source/answer checks. Native editorial/actual-device voice pending. Practice labels are not certification; progress stays device-local. |
 
+### List 149: Durian and Jackfrucht
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-ein-name-am-obststand/` and linked dialogue | Nora/Milan roleplay asking fruit names, slow repetition, initial J and writing the missing article. Photos only, not a real purchase. 175 German words. |
+| [ ] | `/reading/alltag-a2-ein-foto-zwei-mehrzahlformen/` and linked dialogue | Felix/Salma separate picture count from dictionary forms: two visible Durians, one Jackfrucht, wordlist also Jackfrüchte. Contrast -s with u-to-ü plus -e. Both categories get headings. Title Bildbeschreibung und Wortliste; 247 German words. |
+| [ ] | `/reading/alltag-b1-groessenvergleich-ohne-massstab/` and linked dialogue | Amira/Tom arrange a fictional exhibition poster. Enlarging a photo is not a fruit measurement; equal-width fields do not make a shared scale. Add a not-to-scale note and remove an unintended size-ranking arrow. 312 German words. No real measurements or quality assessment. |
+| [ ] | `/lessons/durianjackfrucht/` | die Durian/Durians (دوريان), die Jackfrucht/Jackfrüchte (جاك فروت). Exact Duden Durian/Durianfrucht, Duden Jackfrucht sense/feminine and Wiktionary/DWDS Jackfrüchte. Do not transfer related Jackfruit/Jackfruits spelling. Jess Ho 17909867 two whole durians on branches; 球 王求 17249035 whole jackfruit on yellow background. 1800x1200 originals cropped (100,0)-(1700,1200), proportional 800x600. Both 390px AR/EN cards inspected. No ripeness/smell/taste/health/handling/size claim. |
+| [ ] | Six appended grammar banks | 24 article/accusative/present/possessive/two-way/negation rows; earlier saved IDs, global reading/dialogue uniqueness and exact evidence pass. Native German/Egyptian Arabic editorial pending. |
+| [ ] | Dictation source-reading link | Link describes existing source-set paragraph including answer-reveal caution. 4 unique-target/focus checks AR/EN 320/390 and 390px focused-link pixels inspected. Earlier source/voice/speed/Next descriptions kept. No words, sequencing, scoring or persistence change. Actual assistive-device review pending. |
+| [ ] | Listening/dictation | 68 original segments, 272 exact German speech/source/answer checks. Native editorial/actual-device voice pending. Practice labels are not certification; progress is device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **953 photo nouns / 193 topics**, **462 reading texts / 1801 reading questions**, **41 core grammar topics / 3502 core grammar questions**, **402 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **955 photo nouns / 194 topics**, **465 reading texts / 1813 reading questions**, **41 core grammar topics / 3526 core grammar questions**, **405 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1620,7 +1632,7 @@ This is an inventory, not completed review. Snapshot: **953 photo nouns / 193 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 136 · A2 164 · B1 132 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 137 · A2 165 · B1 133 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

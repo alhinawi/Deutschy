@@ -390,4 +390,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zwei-vogelfotos-an-der-wand',dialogue:'vogelfotos-links-und-rechts-zuordnen'},
  {reading:'alltag-a2-das-s-allein-reicht-nicht',dialogue:'vogelnamen-s-mit-artikel-lesen'},
  {reading:'alltag-b1-eine-bildbeschreibung-ohne-tonspur',dialogue:'vogelfotos-sichtbar-ist-nicht-hoerbar'},
+ {reading:'alltag-a1-ein-name-am-obststand',dialogue:'obststand-namen-langsam-wiederholen'},
+ {reading:'alltag-a2-ein-foto-zwei-mehrzahlformen',dialogue:'bildanzahl-und-wortlistenformen-trennen'},
+ {reading:'alltag-b1-groessenvergleich-ohne-massstab',dialogue:'fruchtplakat-darstellung-ist-keine-messung'},
 ];

@@ -447,3 +447,6 @@ readings.push(...kuechenformenTexts);
 
 import {vogelportraetsTexts} from './reading-vogelportraets';
 readings.push(...vogelportraetsTexts);
+
+import {durianjackfruchtTexts} from './reading-durianjackfrucht';
+readings.push(...durianjackfruchtTexts);
