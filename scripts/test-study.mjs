@@ -1487,3 +1487,12 @@ console.log('PASS:mobile navigation uses native modal lifecycle,keyboard bounds,
 const timed158=readFileSync('src/components/TimedPractice.tsx','utf8');
 for(const guard of ['locked=useRef(false)','function begin(){if(current.current)return;locked.current=false','s.id!==active?.id','s.answers.length!==active.answers.length','locked.current=true;if(!timedRemaining(s))','if(!current.current||!locked.current)return;setActive(current.current);setFeedback(null);locked.current=false'])assert(timed158.includes(guard),guard);
 console.log('PASS:timed practice synchronously locks each displayed prompt,guards stale/session handlers and starts at most one active session');
+
+const {readPlanWeek}=lib('weekly-plan');const planKey159='2026-11-16';
+assert.equal(readPlanWeek(null,planKey159).unreadable,false);assert.equal(readPlanWeek('{}',planKey159).unreadable,false);
+const validPlan159=emptyWeek();validPlan159[0]={goal:'Existing note',minutes:25,done:true};const rawPlan159=JSON.stringify({[planKey159]:validPlan159,other:{untouched:1}});assert.equal(readPlanWeek(rawPlan159,planKey159).unreadable,false);assert.deepEqual(JSON.parse(JSON.stringify(readPlanWeek(rawPlan159,planKey159).week)),JSON.parse(JSON.stringify(validPlan159)));
+for(const root of ['null','[]','false','1','"text"','{bad',''])assert.equal(readPlanWeek(root,planKey159).unreadable,true,root);
+for(const value of [null,{},[],[validPlan159[0]],validPlan159.map((d,i)=>i?d:{goal:'x',minutes:Infinity,done:false}),validPlan159.map((d,i)=>i?d:{goal:'x',minutes:1.5,done:false}),validPlan159.map((d,i)=>i?d:{goal:'x',minutes:241,done:false}),validPlan159.map((d,i)=>i?d:{goal:'',minutes:0,done:true}),validPlan159.map((d,i)=>i?d:{goal:'x'.repeat(151),minutes:0,done:false}),validPlan159.map((d,i)=>i?d:{goal:'x',minutes:0,done:'yes'})]){const raw=JSON.stringify({[planKey159]:value});assert.equal(readPlanWeek(raw,planKey159).unreadable,true);assert.equal(JSON.stringify(readPlanWeek(raw,planKey159).records),raw);}
+assert.equal(readPlanWeek(JSON.stringify({other:[{old:'untouched'}]}),planKey159).unreadable,false);
+const planner159=readFileSync('src/components/WeeklyPlanner.tsx','utf8');assert(planner159.includes('setUnavailable(stored.unreadable)'));assert(planner159.includes("if(stored.unreadable||!stored.records)throw Error('Unreadable stored plan preserved')"));
+console.log('PASS:weekly planner rejects damaged root/current-week data without writing,valid absent/full weeks accepted,other weeks preserved');
