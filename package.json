@@ -13,7 +13,8 @@
     "test:pwa": "node scripts/test-pwa.mjs",
     "test:progress-bundle": "node scripts/test-progress-bundle.mjs",
     "test:speech": "node scripts/test-speech.mjs",
-    "test:search:browser": "node scripts/test-search-browser.mjs"
+    "test:search:browser": "node scripts/test-search-browser.mjs",
+    "test:dependencies": "node scripts/test-postcss.mjs"
   },
   "dependencies": {
     "hono": "^4.13.18",
@@ -33,5 +34,10 @@
     "puppeteer-core": "^25.18.1",
     "tailwindcss": "^4.3.5",
     "typescript": "5.7"
+  },
+  "overrides": {
+    "next": {
+      "postcss": "$postcss"
+    }
   }
 }
