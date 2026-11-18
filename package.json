@@ -7,7 +7,7 @@
     "build": "next build && node scripts/build-sw.mjs",
     "typecheck": "tsc --noEmit",
     "images": "node scripts/fetch-images.mjs",
-    "verify": "node scripts/verify-content.mjs",
+    "verify": "node scripts/verify-content.mjs && node scripts/test-noun-photos.mjs",
     "qa:export": "node scripts/qa-export.mjs",
     "test:study": "node scripts/test-study.mjs",
     "test:pwa": "node scripts/test-pwa.mjs",
@@ -32,7 +32,9 @@
     "test:separable-conjugation:browser": "node scripts/test-separable-conjugation-browser.mjs",
     "test:photos:browser": "node scripts/test-photo-policy-browser.mjs",
     "test:completion:browser": "node scripts/test-completion-browser.mjs",
-    "test:discovery:browser": "node scripts/test-word-discovery-browser.mjs"
+    "test:discovery:browser": "node scripts/test-word-discovery-browser.mjs",
+    "test:noun-photos": "node scripts/test-noun-photos.mjs",
+    "test:noun-photos:browser": "node scripts/test-noun-photos-browser.mjs"
   },
   "dependencies": {
     "hono": "^4.13.18",
