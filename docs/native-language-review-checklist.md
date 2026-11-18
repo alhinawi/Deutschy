@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-thirty-third practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-thirty-fourth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1426,9 +1426,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Shared MiniQuiz German listen button | Minimum 44x44px target and themed card-offset keyboard focus ring. 8 voice states AR/EN 320/390px, 4 German calls, 8 axe. English-only voice blocked with localized fallback, no XP. Actual 390px available/unavailable screens inspected. |
 | [ ] | Listening/dictation | 64 original segments, 256 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice grouping not certification; progress device-local. |
 
+### List 134: Lemon and orange slices
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zwischen-zwei-karten/` and linked dialogue | Mara/Tim match photos above words and keep space between complete pairs. Zitronenscheiben and Orangenscheiben both add n. Blank space is not a third card. Paper/photos only; no cutting. |
+| [ ] | `/reading/alltag-a2-andere-reihenfolge-gleiche-paare/` and linked dialogue | Lea/Jonas move complete pairs, cover words, distinguish place memory from picture recognition. First response and unprompted self-correction recorded separately. No claim about learning other words. Voluntary practice, no official grade. |
+| [ ] | `/reading/alltag-b1-gleiche-groesse-kein-vergleich/` and linked dialogue | Nora/Emil distinguish equal image fields from unknown real dimensions. No scale, invented centimeters, color changes or claims about taste/ripeness/origin. Check source mapping. Photo-description only, no food handling. |
+| [ ] | `/lessons/zitrusscheiben/` and `/credits/` | die Zitronenscheibe/Zitronenscheiben (شريحة ليمون), die Orangenscheibe/Orangenscheiben (شريحة برتقان). DWDS forms. Bohdan Kyrychenko 34040557: 1800x2391 crop(0,400)-(1800,1750). Karsten Sporenberg 29919153: 1667x2500 crop(0,650)-(1667,1900). Both proportional 800x600, no padding/stretch/people/brands. Actual 390px AR/EN cards inspected. Rejected 7214898 prominent halves/wedges, mixed-citrus alternatives and leaf-heavy lemon. |
+| [ ] | Six appended grammar banks | 24 article/accusative/present/possessive/two-way/negation rows preserve earlier saved identities. Native German/Egyptian examples and explanations pending. |
+| [ ] | Shared MiniQuiz Next/Result/New round controls | Minimum 44px height with themed card-offset keyboard focus rings. 32 mixed answers, 72 states, 8 axe checks across AR/EN at 320/390px. Keyboard Enter advances/restarts, correct 4 of 8 / 20 XP, no extra XP or stale feedback. Actual 390px next/restart focus inspected. Existing listen 44px and localized unavailable fallback rechecked: 8 states, 4 German payloads, 8 axe checks. |
+| [ ] | Listening/dictation | 66 original segments,264 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice grouping not certification; progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **923 photo nouns / 178 topics**, **417 reading texts / 1621 reading questions**, **41 core grammar topics / 3142 core grammar questions**, **357 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **925 photo nouns / 179 topics**, **420 reading texts / 1633 reading questions**, **41 core grammar topics / 3166 core grammar questions**, **360 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1440,7 +1452,7 @@ This is an inventory, not completed review. Snapshot: **923 photo nouns / 178 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 121 · A2 149 · B1 117 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 122 · A2 150 · B1 118 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

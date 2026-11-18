@@ -402,3 +402,6 @@ readings.push(...gewuerzformenTexts);
 
 import {blaetterzweigeTexts} from './reading-blaetterzweige';
 readings.push(...blaetterzweigeTexts);
+
+import {zitrusscheibenTexts} from './reading-zitrusscheiben';
+readings.push(...zitrusscheibenTexts);

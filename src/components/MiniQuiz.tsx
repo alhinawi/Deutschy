@@ -39,7 +39,7 @@ function Quiz({ make, game, size = 10 }: Props) {
     return (
       <div className="space-y-3 rounded-2xl border border-line bg-card p-5">
         <p role="status" aria-live="polite" aria-atomic="true" className="ar-title text-2xl">{t(`نتيجتك ${score} من ${items.length}`, `Your score: ${score} of ${items.length}`)}</p>
-        <button onClick={() => { saved.current=false;locked.current=false; setAudioError(false); setRun(run + 1); setI(0); setScore(0); setPick(null); }} className="rounded-full bg-accent px-5 py-2 font-bold text-accent-ink">{t('جولة جديدة', 'New round')}</button>
+        <button onClick={() => { saved.current=false;locked.current=false; setAudioError(false); setRun(run + 1); setI(0); setScore(0); setPick(null); }} className="min-h-11 rounded-full bg-accent px-5 py-2 font-bold text-accent-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-card">{t('جولة جديدة', 'New round')}</button>
       </div>
     );
   }
@@ -59,7 +59,7 @@ function Quiz({ make, game, size = 10 }: Props) {
       {audioError&&<p role="status">{t("مفيش صوت ألماني متاح. كمل قراءة لو النص ظاهر.","No German voice is available. Continue reading if text is shown.")}</p>}
       {pick!==null&&<p role="status" aria-live="polite" aria-atomic="true" dir="auto">{pick===q.options[0]?t("صح.","Correct."):t("راجع الإجابة الصحيحة: ","Correct answer: ")+q.options[0]}</p>}
       {pick !== null && q.note && <p className="ar-title text-sm text-muted">{lang === 'ar' ? <Mixed text={q.note[0]} /> : q.note[1]}</p>}
-      {pick !== null && <button onClick={() => { stopSpeaking(); setAudioError(false); setI(i + 1); setPick(null);locked.current=false; }} className="w-full rounded-full bg-accent py-2 font-bold text-accent-ink">{i + 1 >= items.length ? t('النتيجة', 'Result') : t('التالي', 'Next')}</button>}
+      {pick !== null && <button onClick={() => { stopSpeaking(); setAudioError(false); setI(i + 1); setPick(null);locked.current=false; }} className="min-h-11 w-full rounded-full bg-accent py-2 font-bold text-accent-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-card">{i + 1 >= items.length ? t('النتيجة', 'Result') : t('التالي', 'Next')}</button>}
     </div>
   );
 }
