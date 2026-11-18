@@ -2573,3 +2573,24 @@ Object.assign(readingEvidence,{
     "Ein Beispiel über eine Minute könnte als ausdrücklich erfundener Satz in einer anderen Übung stehen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-ein-tropfen-am-blatt": [
+    "An seiner Spitze hängt ein Wassertropfen.",
+    "Auf beiden steht der Artikel der.",
+    "Die Wörter sehen dort genauso aus.",
+    "Die Zahlen gehören zu ihren Beispielen."
+  ],
+  "alltag-a2-gleiche-form-anderes-verb": [
+    "Der wird zu die, und ist wird zu sind.",
+    "Sie möchte die Aufmerksamkeit auf die grammatischen Signale lenken.",
+    "Sie entscheidet sich für sind, weil davor mehrere Wassertropfen steht.",
+    "nicht um eine Regel für alle deutschen Wörter."
+  ],
+  "alltag-b1-keine-vorher-nachher-reihe": [
+    "zeigen nicht denselben Gegenstand zu zwei Zeitpunkten.",
+    "Sie streicht deshalb die Angabe zum Regenschauer und zur Tageszeit.",
+    "Es ist weder ein Wetterbericht noch eine Anleitung",
+    "weil die Bezeichnungen A und B in Text und Layout übereinstimmen."
+  ]
+});

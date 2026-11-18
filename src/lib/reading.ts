@@ -423,3 +423,6 @@ readings.push(...kohlformenTexts);
 
 import {luftformenTexts} from './reading-luftformen';
 readings.push(...luftformenTexts);
+
+import {wasserformenTexts} from './reading-wasserformen';
+readings.push(...wasserformenTexts);

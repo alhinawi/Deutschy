@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-fortieth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-forty-first practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1510,9 +1510,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Shared MiniQuiz transition focus | After Next, focus goes to the new German prompt; after Result, to the score; after New round, to the first prompt. No entry autofocus. AR/EN 320/390, both shared modes: 80 next/result transitions, 8 new-round and 8 entry checks. Tab then reaches first answer or New round. Screen-reader device check remains pending. |
 | [ ] | Listening/dictation | 68 original segments, 272 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice labels are not certification; progress is device-local. |
 
+### List 141: Water droplet and icicle
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-ein-tropfen-am-blatt/` and linked dialogue | Lea/Ben match the droplet at a leaf tip and separate icicles. Both masculine nouns retain their form in the plural. Example numbers are not image measurements. Check Egyptian Arabic نقطة مية and لسان تلج. |
+| [ ] | `/reading/alltag-a2-gleiche-form-anderes-verb/` and linked dialogue | Jana/Omar compare whole sentences: der/ist versus die/sind, ein versus mehrere. No extra plural ending for these two nouns, not a rule for all German nouns. Example length is not measured photo length. |
+| [ ] | `/reading/alltag-b1-keine-vorher-nachher-reihe/` and linked dialogue | Nina/Karim replace an unsupported before/after sequence with Bild A/B. Unrelated sources are not a documented transformation. No inferred rain origin, time of day, measured air temperature or melt prediction. Language practice, not weather or outdoor safety advice. |
+| [ ] | `/lessons/wasserformen/` and `/credits/` | der Wassertropfen/Wassertropfen, der Eiszapfen/Eiszapfen. Duden/DWDS full pages agree. Both store '-' for same-form plural, not empty plural. Pavan Prasad 36046931: water at green leaf tip, 1125 x 750 crop 225,100-1025,700. John-Mark Smith 267144: recognizable long icicles with visible tips, 1000 x 750 proportional resize. Both 800 x 600, no stretch/padding/faces/brands. Actual 390px AR/EN cards inspected. |
+| [ ] | Six appended grammar banks | 24 article/dative/present/possessive/two-way/negation rows. All earlier saved identities retained. Native German and Egyptian Arabic editorial checks pending. |
+| [ ] | Shared MiniQuiz asynchronous speech | Request identity prevents an old failed/canceled audio response from showing a warning on the next question or after mode change, and prevents an older tap overriding the newest tap. 20 delayed-response races: 8 Next, 8 newest-request, 4 unmount cases. Current genuine failure still shown. No unexpected speech or XP. AR/EN 320/390 and two audio-capable shared modes. |
+| [ ] | Listening/dictation | 69 original segments, 276 exact German speech/source/answer checks. Native editorial, screen-reader device and actual-device voice pending. Practice labels are not certification; progress is device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **937 photo nouns / 185 topics**, **438 reading texts / 1705 reading questions**, **41 core grammar topics / 3310 core grammar questions**, **378 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **939 photo nouns / 186 topics**, **441 reading texts / 1717 reading questions**, **41 core grammar topics / 3334 core grammar questions**, **381 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1524,7 +1536,7 @@ This is an inventory, not completed review. Snapshot: **937 photo nouns / 185 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 128 · A2 156 · B1 124 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 129 · A2 157 · B1 125 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
