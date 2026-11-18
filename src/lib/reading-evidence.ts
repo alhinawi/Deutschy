@@ -2552,3 +2552,24 @@ Object.assign(readingEvidence,{
     "dass keine Größenmessung durchgeführt wurde."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zwei-runde-bilder": [
+    "Auf der ersten sieht man Seifenblasen vor grünen Bäumen.",
+    "Jetzt sieht Ali die Mehrzahlformen: die Seifenblasen und die Luftballons.",
+    "Die Hintergründe sind verschieden.",
+    "Sie haben heute nur mit Fotos geübt."
+  ],
+  "alltag-a2-zwei-endungen-im-heft": [
+    "Die Artikel in der Mehrzahl sind dagegen bei beiden Wörtern gleich: die.",
+    "Die Form Luftballons auf ihrer Karte bleibt richtig.",
+    "Sie notieren die zusätzliche Form am Rand ihres Übungsblatts.",
+    "Der zweite Satz spricht ausdrücklich über einen Text, nicht über die Anzahl auf dem ausgewählten Foto."
+  ],
+  "alltag-b1-ein-foto-keine-dauer": [
+    "Es gibt weder eine dazugehörige Messreihe noch eine durchgehende Aufnahme mit einer Uhr.",
+    "David streicht die genauen Zeitangaben aus beiden Entwürfen.",
+    "dass jemand beide Gegenstände unter gleichen Bedingungen beobachtet hat.",
+    "Ein Beispiel über eine Minute könnte als ausdrücklich erfundener Satz in einer anderen Übung stehen."
+  ]
+});

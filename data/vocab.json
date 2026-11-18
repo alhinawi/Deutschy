@@ -735,6 +735,10 @@
   {
    "id": "kohlformen",
    "ar": "راس كرنب وكرنب بروكسل"
+  },
+  {
+   "id": "luftformen",
+   "ar": "فقاعة صابون وبالونة"
   }
  ],
  "words": [
@@ -14856,6 +14860,36 @@
     "file": "36906436.jpg",
     "commons": "https://www.pexels.com/photo/fresh-brussels-sprouts-on-wooden-table-36906436/",
     "author": "Martin Puerto",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "seifenblase",
+   "topic": "luftformen",
+   "art": "die",
+   "de": "Seifenblase",
+   "plural": "Seifenblasen",
+   "ar": "فقاعة صابون",
+   "photo": {
+    "file": "8121944.jpg",
+    "commons": "https://www.pexels.com/photo/bubbles-floating-mid-air-8121944/",
+    "author": "Chris F",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "luftballon",
+   "topic": "luftformen",
+   "art": "der",
+   "de": "Luftballon",
+   "plural": "Luftballons",
+   "ar": "بالونة",
+   "photo": {
+    "file": "32343104.jpg",
+    "commons": "https://www.pexels.com/photo/solitary-gold-balloon-against-minimalist-background-32343104/",
+    "author": "Obsolete Lense",
     "license": "Pexels License",
     "modified": true
    }
