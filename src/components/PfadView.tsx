@@ -1,12 +1,13 @@
 'use client';
 import Link from 'next/link';
-import { PATH, stepState } from '@/lib/progress';
+import {checkpointState} from '@/lib/completion';
+import { PATH, stepState, stepRule } from '@/lib/progress';
 import { useStore } from '@/lib/store';
 import { useT } from '@/lib/i18n';
 
 export default function PfadView() {
   const t = useT();
-  const { s, ready, patch } = useStore();
+  const { s, ready } = useStore();
   const rows = PATH.map((st) => ({ st, ...stepState(s, st) }));
   const done = rows.filter((r) => r.done).length;
   const next = rows.findIndex((r) => !r.done);
@@ -28,11 +29,9 @@ export default function PfadView() {
               </span>
               <div className="min-w-0 flex-1 space-y-2">
                 <Link href={r.st.href} className="ar-title block text-lg font-bold hover:text-accent">{t(r.st.ar, r.st.en)}</Link>
-                {r.st.kind === 'manual' ? (
-                  <label className="flex items-center gap-2 text-sm text-muted"><input type="checkbox" checked={r.done} onChange={(e) => patch({ pfad: { ...(s.pfad ?? {}), [r.st.id]: e.target.checked } })} className="h-5 w-5 accent-[var(--accent)]" />{t('خلصتها', 'Mark as done')}</label>
-                ) : (
-                  <div className="flex items-center gap-3"><div className="h-2 flex-1 overflow-hidden rounded-full bg-line"><div className="h-full bg-accent" style={{ width: `${(r.got / r.total) * 100}%` }} /></div><span dir="ltr" className="num text-xs font-bold text-muted">{ready ? r.got : 0} / {r.total}{r.st.id === 'exam' ? '%' : ''}</span></div>
-                )}
+                <div className="flex items-center gap-3"><div className="h-2 flex-1 overflow-hidden rounded-full bg-line"><div className="h-full bg-accent" style={{ width: `${(r.got / r.total) * 100}%` }} /></div><span dir="ltr" className="num text-xs font-bold text-muted">{ready ? r.got : 0} / {r.total}{r.st.id === 'exam' ? '%' : ''}</span></div>
+                <p className="text-sm text-muted">{ready&&r.st.kind==='checkpoint'&&checkpointState(s,r.st.id as 'pron'|'learn').legacy?t('سجل قديم محفوظ؛ مش نتيجة مراجعة.','Prior completion kept; not a review result.'):t(...stepRule(r.st))}</p>
+
               </div>
             </div>
           </li>

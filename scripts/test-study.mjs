@@ -1553,3 +1553,9 @@ const photos170=lib('verb-photos');assert.deepEqual(Object.keys(photos170.verbPh
 for(const v of lib('verbs').verbs)assert.equal(lib('verbs').photoOf(v),({spielen:'fussball',fliegen:'flugzeug'})[v.inf]??null);
 assert.deepEqual(Array.from(lib('grammar').GRAMMAR_PHOTO),['zahlen-uhrzeit']);
 console.log('PASS:all155verb and43grammar photo decisions enforce audited action relevance,unknowns use SVG,no legacy noun hints');
+
+const cp171=lib('completion'),banks171=lib('checkpoint-questions').checkpointQuestions;
+for(const id of ['pron','learn']){assert.equal(banks171[id].length,8);for(const q of banks171[id]){assert.equal(new Set(q.choices).size,3);assert(q.prompt.every(Boolean));assert(q.note.every(Boolean));}assert(!cp171.checkpointState({seen:{},pfad:{}},id).done);assert(cp171.checkpointState({seen:{},pfad:{[id]:true}},id).legacy);assert(cp171.checkpointState({seen:{[cp171.checkpointKey(id)]:{ok:1,bad:0}},pfad:{}},id).earned);}
+assert(cp171.checkpointPassed(8,8,8));for(const args of [[7,8,8],[8,9,8],[0,0,0],[8.1,8.1,8],[NaN,8,8]])assert(!cp171.checkpointPassed(...args));
+const pathUI171=readFileSync('src/components/PfadView.tsx','utf8');assert(!pathUI171.includes('type="checkbox"'));assert(!pathUI171.includes('patch('));assert(!pathUI171.includes('Mark as done'));assert(!pathUI171.includes('خلصتها'));
+console.log('PASS:automatic path checkpoints,8of8 end conditions,legacy preserved separately,no manual completion writes');

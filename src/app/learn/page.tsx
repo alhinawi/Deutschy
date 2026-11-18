@@ -1,4 +1,5 @@
 'use client';
+import LessonCheckpoint from '@/components/LessonCheckpoint';
 import Speaker from '@/components/Speaker';
 import { sections } from '@/lib/basics';
 import { speak } from '@/lib/speak';
@@ -29,6 +30,7 @@ export default function Learn() {
           </ul>
         </section>
       ))}
+      <LessonCheckpoint id="learn"/>
     </div>
   );
 }
