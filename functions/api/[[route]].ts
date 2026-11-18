@@ -1,9 +1,10 @@
+import {serveAudioFallback,audioFallbackConfigured,fallbackVoices,type AudioFallbackEnv} from '../lib/audio-fallback194';
 import { Hono } from 'hono';
 import { handle } from 'hono/cloudflare-pages';
 import {validAccountValues} from '../lib/account-state';
 import {serveTTS,ttsConfigured,type TTSEnv} from '../lib/tts';
 
-type Env = TTSEnv & {
+type Env = TTSEnv & AudioFallbackEnv & {
   DB?: D1Database;
   HELPER?: {ask(input:unknown):Promise<{status:number;body:unknown;retryAfter:string|null}>};
   GOOGLE_CLIENT_ID?: string;
@@ -124,6 +125,8 @@ app.get('/health', (c) =>
     auth: Boolean(c.env.GOOGLE_CLIENT_ID && c.env.GOOGLE_CLIENT_SECRET && c.env.SESSION_SECRET),
     db: Boolean(c.env.DB),
     tts: ttsConfigured(c.env),
+    audioFallback: audioFallbackConfigured(c.env),
+    audioFallbackVoices: fallbackVoices(c.env),
   }),
 );
 
@@ -333,6 +336,7 @@ app.get('/admin/stats', async (c) => {
 });
 
 // Text-to-speech via ElevenLabs when a key is configured; otherwise the client falls back to the browser's German voice.
+app.post('/audio-fallback', (c) => serveAudioFallback(c.req.raw,c.env));
 app.get('/tts', (c) => serveTTS(c.req.raw,c.env));
 
 export const onRequest = handle(app);

@@ -1,12 +1,16 @@
 'use client';
 import {useEffect,useState} from 'react';
-import {speechFailureCopy,subscribeSpeechStatus,type SpeechStatus} from '@/lib/speak';
+import {usePathname} from 'next/navigation';
+import {speechFailureCopy,subscribeSpeechStatus,stopSpeaking,type SpeechStatus} from '@/lib/speak';
 import {useT} from '@/lib/i18n';
 import CloseIcon from './CloseIcon';
 import Speaker from './Speaker';
 
 /** One failure notice for every caller of the shared speech helper. */
 export default function SpeechNotice(){
+ const pathname=usePathname();
+ useEffect(()=>{setStatus(null);return()=>stopSpeaking()},[pathname]);
+ useEffect(()=>{const stop=()=>stopSpeaking();window.addEventListener('pagehide',stop);return()=>window.removeEventListener('pagehide',stop)},[]);
  const t=useT();
  const [status,setStatus]=useState<SpeechStatus|null>(null);
  useEffect(()=>subscribeSpeechStatus(next=>setStatus(next==='unavailable'||next==='error'?next:null)),[]);
