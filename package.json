@@ -12,7 +12,8 @@
     "test:study": "node scripts/test-study.mjs",
     "test:pwa": "node scripts/test-pwa.mjs",
     "test:progress-bundle": "node scripts/test-progress-bundle.mjs",
-    "test:speech": "node scripts/test-speech.mjs"
+    "test:speech": "node scripts/test-speech.mjs",
+    "test:search:browser": "node scripts/test-search-browser.mjs"
   },
   "dependencies": {
     "hono": "^4.13.18",
@@ -27,7 +28,9 @@
     "@types/node": "^26.6.6",
     "@types/react": "^19.3.0",
     "@types/react-dom": "^19.3.0",
+    "axe-core": "^4.14.1",
     "postcss": "^8.5.33",
+    "puppeteer-core": "^25.18.1",
     "tailwindcss": "^4.3.5",
     "typescript": "5.7"
   }
