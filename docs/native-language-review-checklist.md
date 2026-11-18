@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-fifty-third practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-fifty-fourth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1666,9 +1666,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/credits/`, German word row headers | lang=de on German noun/article table headers enables language choice independent of page AR/EN. Visual/source/accessibility labels unchanged; 8 new exact German language checks and 24 source/license checks AR/EN320/390. Actual-device screen-reader pending. 390px credits/lesson/reading/dialogue inspected. |
 | [ ] | Listening/dictation | 68 original segments, 272 exact speech/source/answer checks. Existing help retained. Native editorial and actual-device voice pending. Labels not certification, progress device-local. |
 
+### List 154: Rotkehlchen and Amsel
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-ein-bild-und-zwei-namenskarten/` and linked dialogue | Lina/Omar compare same-form Rotkehlchen singular/plural versus Amseln; article differs, photo shows 1 bird, paper circles only counting aids. 160 words, 7 dialogue turns. |
+| [ ] | `/reading/alltag-a2-eine-korrektur-am-richtigen-ort/` and linked dialogue | Jana/Rami correct a missing plural n only in specified sentence, keep correct singular caption; strike-through means that spot checked, not whole-sheet guarantee. 235 words. Check Egyptian Arabic and exact correction referent. |
+| [ ] | `/reading/alltag-b1-ein-beispiel-ist-keine-vollstaendige-regel/` and linked dialogue | Mira/Tom replace unsupported always-brown generalization with description of this brown Amsel photo only. Word grammar from dictionary, no inference of age/sex, example not universal rule. 320 words. |
+| [ ] | `/lessons/rotkehlchenamsel/` | das Rotkehlchen/Rotkehlchen (أبو الحنّة), stored same-form '-' not hidden plural; die Amsel/Amseln (شحرور). Exact Duden/DWDS. Ruyan Ayten7323417 explicit Erithacus rubecula, ArWeltAtty Attila21932193 explicit Turdus merula. Whole real birds, no prey/distress, proportional crops flagged. No claim all Amseln black/brown; no sex/age/actual-location claim. |
+| [ ] | Six appended grammar banks | 24 article/accusative/present/possessive/two-way/negation rows, prior saved identities unchanged, exact evidence/unique IDs pass. Native German/Egyptian Arabic editorial pending. |
+| [ ] | `/credits/`, English column headers | Existing hardcoded Word/File/Author/License column headers declare lang=en even on Arabic page; German word row headers retain lang=de. Visual/source labels unchanged. 32 English column-language checks,8 German row-language and24 source/license checks AR/EN320/390; actual-device screen-reader pending. 390px credits/lesson/reading/dialogue inspected. |
+| [ ] | Listening/dictation | 69 original segments,276 exact speech/source/answer checks. Existing help retained. Native editorial/actual-device voice pending, labels not certification, progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **963 photo nouns / 198 topics**, **477 reading texts / 1861 reading questions**, **41 core grammar topics / 3622 core grammar questions**, **417 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **965 photo nouns / 199 topics**, **480 reading texts / 1873 reading questions**, **41 core grammar topics / 3646 core grammar questions**, **420 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1680,7 +1692,7 @@ This is an inventory, not completed review. Snapshot: **963 photo nouns / 198 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 141 · A2 169 · B1 137 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 142 · A2 170 · B1 138 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

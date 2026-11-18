@@ -29013,3 +29013,218 @@ Object.assign(dialogueEvidence,{
     "Freiwillig."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "wortformen-das-wort-bleibt-gleich",
+    "level": "A1",
+    "title": [
+      "Das Wort bleibt gleich",
+      "الكلمة بتفضل زي ما هي"
+    ],
+    "lines": [
+      [
+        "Omar",
+        "Auf beiden Seiten steht Rotkehlchen. Ist das ein Fehler?",
+        "على الناحيتين مكتوب Rotkehlchen. ده غلط؟"
+      ],
+      [
+        "Lina",
+        "Nein. Das Rotkehlchen und die Rotkehlchen. Die Wortform bleibt gleich.",
+        "لأ. das Rotkehlchen وdie Rotkehlchen. صيغة الكلمة بتفضل واحدة."
+      ],
+      [
+        "Omar",
+        "Das Foto zeigt aber nur ein Tier.",
+        "بس الصورة فيها طائر واحد بس."
+      ],
+      [
+        "Lina",
+        "Richtig. Die zwei Papierkreise sind nur unsere Zählhilfe.",
+        "صح. الدايرتين الورق وسيلة العد بتاعتنا بس."
+      ],
+      [
+        "Omar",
+        "Und die Mehrzahl von Amsel ist Amseln.",
+        "وجمع Amsel هو Amseln."
+      ],
+      [
+        "Lina",
+        "Genau. Schreib die beiden Formen in dein Heft.",
+        "بالظبط. اكتب الصيغتين في كراستك."
+      ],
+      [
+        "Omar",
+        "Danach kommen die Kreise zurück in die Dose.",
+        "بعد كده الدواير ترجع العلبة."
+      ]
+    ],
+    "q": [
+      [
+        "Ist die gleiche Wortform auf beiden Kartenseiten ein Fehler?",
+        "Nein.",
+        "Ja.",
+        "Nur auf Fotos."
+      ],
+      [
+        "Was zeigt das Foto?",
+        "Ein Tier.",
+        "Zwei Papierkreise statt eines Tieres.",
+        "Eine Dose."
+      ],
+      [
+        "Wie lautet die Mehrzahl von Amsel?",
+        "Amseln.",
+        "Amsels.",
+        "Amselchen."
+      ]
+    ]
+  },
+  {
+    "id": "korrekturstelle-nur-den-beispielsatz-aendern",
+    "level": "A2",
+    "title": [
+      "Nur diesen Satz ändern",
+      "نغير الجملة دي بس"
+    ],
+    "lines": [
+      [
+        "Rami",
+        "Soll ich Amsel auch unter dem Foto ändern?",
+        "أغير Amsel تحت الصورة كمان؟"
+      ],
+      [
+        "Jana",
+        "Nein. Meine Markierung gehört zum zweiten Satz auf der Rückseite.",
+        "لأ. علامتي تخص الجملة التانية على الضهر."
+      ],
+      [
+        "Rami",
+        "Dort sind mehrere Tiere gemeint. Also fehlt bei Amseln das n.",
+        "هناك المقصود كذا طائر. يبقى Amseln ناقص منها n."
+      ],
+      [
+        "Jana",
+        "Genau. Die Einzahl unter dem Foto ist schon richtig.",
+        "بالظبط. المفرد تحت الصورة صح أصلًا."
+      ],
+      [
+        "Rami",
+        "Ich ergänze den Buchstaben und lese den ganzen Satz noch einmal.",
+        "هزود الحرف وأقرا الجملة كلها تاني."
+      ],
+      [
+        "Jana",
+        "Dann können wir diese Markierung durchstreichen.",
+        "يبقى نقدر نشطب العلامة دي."
+      ],
+      [
+        "Rami",
+        "Die übrigen Sätze prüfen wir danach getrennt.",
+        "الجمل الباقية نراجعها بعد كده لوحدها."
+      ]
+    ],
+    "q": [
+      [
+        "Wozu gehört Janas Markierung?",
+        "Zum zweiten Satz auf der Rückseite.",
+        "Zu allen Bildnamen.",
+        "Zum Titel des Hefts."
+      ],
+      [
+        "Was bleibt unverändert?",
+        "Die Einzahl unter dem Foto.",
+        "Der fehlerhafte Beispielsatz.",
+        "Jede Markierung."
+      ],
+      [
+        "Wann prüfen sie die übrigen Sätze?",
+        "Danach getrennt.",
+        "Gar nicht.",
+        "Schon vor dem Gespräch."
+      ]
+    ]
+  },
+  {
+    "id": "bildbeispiel-nicht-immer-braun",
+    "level": "B1",
+    "title": [
+      "Auf diesem Foto, nicht immer",
+      "في الصورة دي، مش دايمًا"
+    ],
+    "lines": [
+      [
+        "Tom",
+        "Kann ich als Merkhilfe schreiben: Eine Amsel ist immer braun?",
+        "ينفع أكتب عشان نفتكر: الشحرور دايمًا بني؟"
+      ],
+      [
+        "Mira",
+        "Nein. Unser Foto zeigt ein Beispiel, keine ausnahmslose Regel.",
+        "لأ. صورتنا مثال، مش قاعدة من غير استثناء."
+      ],
+      [
+        "Tom",
+        "Dann schreibe ich: Die Amsel auf diesem Foto hat braunes Gefieder.",
+        "يبقى أكتب: الشحرور في الصورة دي ريشه بني."
+      ],
+      [
+        "Mira",
+        "So bleibt die Aussage auf die Aufnahme begrenzt.",
+        "كده الكلام بيفضل محدود بالصورة."
+      ],
+      [
+        "Tom",
+        "Artikel und Mehrzahl prüfen wir unabhängig davon im Wörterbuch.",
+        "أداة التعريف والجمع نراجعهم بعيد عن ده في القاموس."
+      ],
+      [
+        "Mira",
+        "Genau. Ein Bild entscheidet nicht über die Grammatik eines Wortes.",
+        "بالظبط. الصورة مش هي اللي بتحدد قواعد الكلمة."
+      ],
+      [
+        "Tom",
+        "Die Wortformen bekommen deshalb eine eigene Zeile.",
+        "عشان كده صيغ الكلمات يبقى ليها سطر لوحدها."
+      ]
+    ],
+    "q": [
+      [
+        "Was zeigt das Foto nach Miras Erklärung?",
+        "Ein Beispiel.",
+        "Eine ausnahmslose Regel.",
+        "Ein Wörterbuch."
+      ],
+      [
+        "Worauf begrenzen sie die Beschreibung?",
+        "Auf diese Aufnahme.",
+        "Auf alle Vogelarten.",
+        "Auf alle Jahreszeiten."
+      ],
+      [
+        "Wo prüfen sie Artikel und Mehrzahl?",
+        "Im Wörterbuch.",
+        "Am Hintergrund des Fotos.",
+        "An der Papierfarbe."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "wortformen-das-wort-bleibt-gleich": [
+    "Die Wortform bleibt gleich.",
+    "Das Foto zeigt aber nur ein Tier.",
+    "die Mehrzahl von Amsel ist Amseln."
+  ],
+  "korrekturstelle-nur-den-beispielsatz-aendern": [
+    "Meine Markierung gehört zum zweiten Satz auf der Rückseite.",
+    "Die Einzahl unter dem Foto ist schon richtig.",
+    "Die übrigen Sätze prüfen wir danach getrennt."
+  ],
+  "bildbeispiel-nicht-immer-braun": [
+    "Unser Foto zeigt ein Beispiel, keine ausnahmslose Regel.",
+    "So bleibt die Aussage auf die Aufnahme begrenzt.",
+    "im Wörterbuch."
+  ]
+});
