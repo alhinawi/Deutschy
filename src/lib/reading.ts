@@ -411,3 +411,6 @@ readings.push(...papiermodelleTexts);
 
 import {schachfigurenartenTexts} from './reading-schachfigurenarten';
 readings.push(...schachfigurenartenTexts);
+
+import {tinteundfederTexts} from './reading-tinteundfeder';
+readings.push(...tinteundfederTexts);

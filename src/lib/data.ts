@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  tinteundfeder: 'Tintenfass und Federhalter',
   schachfigurenarten: 'Schachbauer und Schachspringer',
   papiermodelle: 'Papierflieger und Papierschiffchen',
   zitrusscheiben: 'Zitronen- und Orangenscheiben',
@@ -178,6 +179,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  tinteundfeder: 'Inkwell and dip pen holder',
   schachfigurenarten: 'Chess pawn and knight',
   papiermodelle: 'Folded paper models',
   zitrusscheiben: 'Lemon and orange slices',

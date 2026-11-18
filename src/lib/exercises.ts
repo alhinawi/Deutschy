@@ -573,3 +573,6 @@ for(const[topic,rows]of Object.entries(papiermodelleGrammar))exercises[topic].pu
 
 import {schachfigurenartenGrammar} from './exercises-schachfigurenarten';
 for(const[topic,rows]of Object.entries(schachfigurenartenGrammar))exercises[topic].push(...rows);
+
+import {tinteundfederGrammar} from './exercises-tinteundfeder';
+for(const[topic,rows]of Object.entries(tinteundfederGrammar))exercises[topic].push(...rows);

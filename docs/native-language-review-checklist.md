@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-thirty-sixth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-thirty-seventh practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1462,9 +1462,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Shared MiniQuiz answers | Explicit44px minimum and theme-consistent keyboard ring. AR/EN320/390,8rounds2modes:Tab reaches second option with visible ring,all options >=44px. Existing hint/score/listen behavior unchanged. Actual390px focus screens inspected. |
 | [ ] | Listening/dictation | 65 original segments,260 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice grouping not certification; progress device-local. |
 
+### List 137: Inkwell and pen holder
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zwei-karten-vorlesen/` and linked dialogue | Mia/Paul hear both labels first, then match cards, read plural lines on reverse. Tintenfässer changes vowel; Federhalter stays same. Example counts not photo counts. No real ink or writing. |
+| [ ] | `/reading/alltag-a2-ein-wort-zwei-endungen/` and linked dialogue | Lena/Farid compare das/mit dem Tintenfass,die Tintenfässer;der/mit dem Federhalter,die Federhalter/mit den Federhaltern. Dative not automatically plural,additional plural dative n distinct from base plural. Limited examples,not all cases;looked-up answers recorded honestly. |
+| [ ] | `/reading/alltag-b1-alte-optik-kein-alter/` and linked dialogue | Sara/Nils remove invented century/authenticity/function claims. Old-looking props not proof of manufacturing date. Photo date not object age. No writing/material/date test or shared-set inference. |
+| [ ] | `/lessons/tinteundfeder/` and `/credits/` | das Tintenfass/Tintenfässer (محبرة),der Federhalter/same-form plural (حامل ريشة كتابة). Editorial Duden/DWDS fullpage senses/gender/plurals. Vakho Dolidze32809813:1800x2700 crop(0,650)-(1800,2000). Atlantic Ambience12932839:1800x1200 crop(0,300)-(1200,1200). Both800x600 proportional realobjectphotos,no padding/stretch/people/brands. Holder's metal body/nib visible;decorative feather extends beyond original frame,not a separate learned noun. First candidate11716937 rejected on closer inspection as fountainpen. Actual390pxAR/ENcards inspected. |
+| [ ] | Six appended grammar banks | 24 article/dative/present/possessive/two-way/negation rows retain earlier saved identities. Native German/Egyptian editorial pending. |
+| [ ] | Shared MiniQuiz explanation | Optional after-answer explanation has localized named note role and auto direction;existing Arabic Mixed preserved,English text unchanged. 80answer checks,2modesAR/EN320/390,exact bilingual text,note absent beforeanswer/next/result,44pxfocus/score/hint unchanged. Initial test targeted unrelated grammar widget;fixed harness to actual MiniQuiz,no app defect. Actual390px notes inspected. |
+| [ ] | Listening/dictation | 70 original segments,280 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice grouping not certification;progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **929 photo nouns / 181 topics**, **426 reading texts / 1657 reading questions**, **41 core grammar topics / 3214 core grammar questions**, **366 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **931 photo nouns / 182 topics**, **429 reading texts / 1669 reading questions**, **41 core grammar topics / 3238 core grammar questions**, **369 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1476,7 +1488,7 @@ This is an inventory, not completed review. Snapshot: **929 photo nouns / 181 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 124 · A2 152 · B1 120 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 125 · A2 153 · B1 121 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

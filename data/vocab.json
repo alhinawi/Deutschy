@@ -723,6 +723,10 @@
   {
    "id": "schachfigurenarten",
    "ar": "أنواع قطع الشطرنج"
+  },
+  {
+   "id": "tinteundfeder",
+   "ar": "محبرة وحامل ريشة كتابة"
   }
  ],
  "words": [
@@ -14754,6 +14758,36 @@
     "file": "30182768.jpg",
     "commons": "https://www.pexels.com/photo/elegant-white-chess-knight-on-minimalist-board-30182768/",
     "author": "Waskyria Miranda",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "tintenfass",
+   "topic": "tinteundfeder",
+   "art": "das",
+   "de": "Tintenfass",
+   "plural": "Tintenfässer",
+   "ar": "محبرة",
+   "photo": {
+    "file": "32809813.jpg",
+    "commons": "https://www.pexels.com/photo/vintage-quill-and-ink-set-on-wooden-floorboard-32809813/",
+    "author": "Vakho Dolidze",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "federhalter",
+   "topic": "tinteundfeder",
+   "art": "der",
+   "de": "Federhalter",
+   "plural": "-",
+   "ar": "حامل ريشة كتابة",
+   "photo": {
+    "file": "12932839.jpg",
+    "commons": "https://www.pexels.com/photo/silver-ink-pen-on-brown-wooden-surface-beside-an-antique-book-12932839/",
+    "author": "Atlantic Ambience",
     "license": "Pexels License",
     "modified": true
    }

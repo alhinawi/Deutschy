@@ -25358,3 +25358,218 @@ Object.assign(dialogueEvidence,{
     "Die Namen der Figuren bleiben."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "noch-nicht-verschieben",
+    "level": "A1",
+    "title": [
+      "Lass die Karten noch liegen",
+      "سيب الكروت مكانها شوية"
+    ],
+    "lines": [
+      [
+        "Mia",
+        "Ich lese zuerst beide Wörter vor. Lass die Karten noch liegen.",
+        "هقرا الأول الكلمتين. سيب الكروت مكانها شوية."
+      ],
+      [
+        "Paul",
+        "Gut. Ich höre erst zu.",
+        "تمام. هسمع الأول."
+      ],
+      [
+        "Mia",
+        "Das Tintenfass. Der Federhalter.",
+        "داس تنتن فاس. دير فيدر هالتر."
+      ],
+      [
+        "Paul",
+        "Hier ist das Gefäß, und dort ist das lange Schreibgerät.",
+        "هنا الوعاء وهناك أداة الكتابة الطويلة."
+      ],
+      [
+        "Mia",
+        "Jetzt kannst du die Karten zuordnen.",
+        "دلوقتي تقدر توصل الكروت بصورها."
+      ],
+      [
+        "Paul",
+        "Danach lese ich die Rückseiten.",
+        "بعد كده أقرا ضهر الكروت."
+      ],
+      [
+        "Mia",
+        "Ja. Dort stehen die Mehrzahlformen.",
+        "أيوه. هناك صيغ الجمع."
+      ]
+    ],
+    "q": [
+      [
+        "Was soll Paul zuerst tun?",
+        "Zuhören.",
+        "Die Karten verschieben.",
+        "Mit Tinte schreiben."
+      ],
+      [
+        "Wann ordnet er die Karten zu?",
+        "Nach dem Vorlesen.",
+        "Noch vor dem ersten Wort.",
+        "Erst nach einer echten Schreibprobe."
+      ],
+      [
+        "Was steht auf den Rückseiten?",
+        "Die Mehrzahlformen.",
+        "Ein Kaufpreis.",
+        "Eine Adresse."
+      ]
+    ]
+  },
+  {
+    "id": "dem-ist-nicht-die-mehrzahl",
+    "level": "A2",
+    "title": [
+      "Lies die ganze Wortgruppe",
+      "اقرا مجموعة الكلمات كلها"
+    ],
+    "lines": [
+      [
+        "Farid",
+        "Ist mit dem Tintenfass eine Mehrzahlform?",
+        "مِت ديم تنتن فاس دي صيغة جمع؟"
+      ],
+      [
+        "Lena",
+        "Nein. Hier ist es Dativ in der Einzahl.",
+        "لأ. هنا داتيف في المفرد."
+      ],
+      [
+        "Farid",
+        "Und die Mehrzahl lautet die Tintenfässer?",
+        "والجمع دي تنتن فيسر؟"
+      ],
+      [
+        "Lena",
+        "Genau. Lies bitte die ganze Wortgruppe.",
+        "بالظبط. اقرا مجموعة الكلمات كلها لو سمحت."
+      ],
+      [
+        "Farid",
+        "Beim Federhalter bleibt der Plural zunächst gleich.",
+        "في فيدر هالتر الجمع في صيغته الأساسية بيفضل زي ما هو."
+      ],
+      [
+        "Lena",
+        "Ja. Im Dativ Plural schreiben wir aber mit den Federhaltern.",
+        "أيوه. بس في الداتيف الجمع بنكتب مِت دين فيدر هالترن."
+      ],
+      [
+        "Farid",
+        "Ich notiere die beiden Pluralzeilen getrennt.",
+        "هسجل سطرين الجمع منفصلين."
+      ]
+    ],
+    "q": [
+      [
+        "Welcher Fall steht nach mit?",
+        "Dativ.",
+        "Nominativ.",
+        "Immer Genitiv."
+      ],
+      [
+        "Was soll Farid vollständig lesen?",
+        "Die ganze Wortgruppe.",
+        "Nur den ersten Buchstaben.",
+        "Eine Einkaufsliste."
+      ],
+      [
+        "Wie notiert er die beiden Pluralzeilen?",
+        "Getrennt.",
+        "Gar nicht.",
+        "Als eine neue Einzahl."
+      ]
+    ]
+  },
+  {
+    "id": "kein-datum-aus-der-optik",
+    "level": "B1",
+    "title": [
+      "Das Foto belegt kein Jahrhundert",
+      "الصورة مش بتثبت قرن معين"
+    ],
+    "lines": [
+      [
+        "Nils",
+        "Ich möchte diese Schreibgeräte als historische Originale beschriften.",
+        "عايز أكتب على أدوات الكتابة دي إنها قطع تاريخية أصلية."
+      ],
+      [
+        "Sara",
+        "Welche Quelle belegt denn ihr Herstellungsdatum?",
+        "أنهي مصدر بيثبت تاريخ تصنيعها؟"
+      ],
+      [
+        "Nils",
+        "Dafür haben wir keinen ausreichenden Nachweis.",
+        "ماعندناش دليل كفاية على ده."
+      ],
+      [
+        "Sara",
+        "Dann bleiben wir bei Tintenfass und Federhalter.",
+        "يبقى نكتفي بمحبرة وحامل ريشة كتابة."
+      ],
+      [
+        "Nils",
+        "Auch die Funktion haben wir nicht getestet.",
+        "وإحنا كمان ماجربناش إذا شغالين."
+      ],
+      [
+        "Sara",
+        "Richtig. Das Aufnahmedatum datiert nicht den Gegenstand.",
+        "صح. تاريخ التصوير مش بيحدد عمر الحاجة."
+      ],
+      [
+        "Nils",
+        "Ich streiche die Geschichte über das Jahrhundert.",
+        "هشيل الحكاية اللي عن القرن."
+      ]
+    ],
+    "q": [
+      [
+        "Was fehlt für die historische Behauptung?",
+        "Ein ausreichender Nachweis.",
+        "Ein weiteres erfundenes Datum.",
+        "Ein größerer Schriftzug."
+      ],
+      [
+        "Wobei bleiben die beiden?",
+        "Bei Tintenfass und Federhalter.",
+        "Bei einer unbelegten Herkunftsgeschichte.",
+        "Bei einem garantierten Materialtest."
+      ],
+      [
+        "Was hat Nils nicht getestet?",
+        "Die Funktion.",
+        "Die Größe der Überschrift.",
+        "Die Anzahl der verwendeten Fotos."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "noch-nicht-verschieben": [
+    "Ich höre erst zu.",
+    "Jetzt kannst du die Karten zuordnen.",
+    "Dort stehen die Mehrzahlformen."
+  ],
+  "dem-ist-nicht-die-mehrzahl": [
+    "Hier ist es Dativ",
+    "die ganze Wortgruppe.",
+    "die beiden Pluralzeilen getrennt."
+  ],
+  "kein-datum-aus-der-optik": [
+    "keinen ausreichenden Nachweis.",
+    "bei Tintenfass und Federhalter.",
+    "die Funktion haben wir nicht getestet."
+  ]
+});
