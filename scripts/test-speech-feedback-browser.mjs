@@ -21,6 +21,7 @@ try{
    localStorage.setItem('deutschy:lang',l);window.__voiceMode='unavailable';window.__speechCount=0;window.SpeechSynthesisUtterance=class{constructor(text){this.text=text}};
    const target=new EventTarget();Object.defineProperty(window,'speechSynthesis',{configurable:true,value:{cancel(){},getVoices:()=>[{lang:'de-DE',name:window.__voiceMode==='unavailable'?'Google Deutsch':'Microsoft Katja',voiceURI:window.__voiceMode==='unavailable'?'Google Deutsch':'Microsoft Katja'}],speak(u){window.__speechCount++;if(window.__voiceMode==='error')setTimeout(()=>u.onerror?.(),40);else setTimeout(()=>u.onend?.(),120)},addEventListener:(...a)=>target.addEventListener(...a),removeEventListener:(...a)=>target.removeEventListener(...a)}});
   },lang);
+  await page.setRequestInterception(true);page.on('request',r=>r.url().startsWith('https://deutschy-sounds.pages.dev/')?r.abort():r.continue());
   const base='http://127.0.0.1:'+server.address().port;
   await page.goto(base+'/lessons/family/',{waitUntil:'networkidle0'});
   const selector='article button';await page.waitForSelector(selector);await page.$eval(selector,e=>e.scrollIntoView({block:'center'}));await page.tap(selector);

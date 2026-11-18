@@ -3,7 +3,7 @@ const compile=file=>ts.transpileModule(fs.readFileSync(file,'utf8'),{compilerOpt
 const helper=compile('src/lib/browser-voices.ts'),js=compile('src/lib/speak.ts');
 const edge={lang:'de-DE',name:'Microsoft Katja Online (Natural) - German (Germany)',voiceURI:'Microsoft Katja Online (Natural) - German (Germany)'},edge2={lang:'de-AT',name:'Microsoft Ingrid',voiceURI:'Microsoft Ingrid'},google={lang:'de-DE',name:'Google Deutsch',voiceURI:'Google Deutsch'};
 const calls=[];let voices=[google];
-function setup(extra={}){const exports={},policy={},context={setTimeout,clearTimeout,fetch:async()=>({json:async()=>({tts:false})}),speechSynthesis:{cancel:()=>calls.push('cancel'),getVoices:()=>voices,speak:u=>calls.push(u)},AbortController,Date,SpeechSynthesisUtterance:class{constructor(text){this.text=text}},...extra};vm.runInNewContext(helper,{...context,exports:policy});vm.runInNewContext(js,{...context,exports,require:name=>name.includes('recorded-audio')?{recordedAudio:{'Recorded fixture':'/fixture.mp3'}}:name.includes('voice-preference')?{readVoicePreference:async()=> 'varied'}:policy});return {exports,policy}}
+function setup(extra={}){const exports={},policy={},context={setTimeout,clearTimeout,fetch:async()=>({json:async()=>({tts:false})}),speechSynthesis:{cancel:()=>calls.push('cancel'),getVoices:()=>voices,speak:u=>calls.push(u)},AbortController,Date,SpeechSynthesisUtterance:class{constructor(text){this.text=text}},...extra};vm.runInNewContext(helper,{...context,exports:policy});vm.runInNewContext(js,{...context,exports,require:name=>name.includes('static-speech')?{staticSpeech:extra.staticSpeech??{},speechShardBases:extra.speechShardBases??{}}:name.includes('recorded-audio')?{recordedAudio:{'Recorded fixture':'/fixture.mp3'}}:name.includes('voice-preference')?{readVoicePreference:async()=> 'varied'}:policy});return {exports,policy}}
 let {exports,policy}=setup();
 const bad=[google,{lang:'de-DE',name:'Android Deutsch',voiceURI:'com.android.tts'},{lang:'de-DE',name:'Microsoft Google',voiceURI:'Google Android'},{lang:'en-US',name:'Microsoft Aria',voiceURI:'Microsoft Aria'},{lang:'de-DE',name:'Unknown',voiceURI:'default'},{lang:'de-DE'}];
 assert.equal(policy.edgeGermanVoices(bad).length,0);assert.equal(policy.edgeGermanVoices([...bad,edge,edge2]).length,2);
@@ -44,3 +44,11 @@ let deadline;statuses=[];voices=[google];
 ex=setup({setTimeout:fn=>{deadline=fn;return 1},clearTimeout(){},fetch:(_url,{signal})=>new Promise((_resolve,reject)=>signal.addEventListener('abort',()=>reject(Error('deadline'))))}).exports;
 ex.subscribeSpeechStatus(s=>statuses.push(s));const timed=ex.speak('Stalled network');deadline();assert.equal(await timed,false);assert.deepEqual(statuses,['loading','unavailable']);
 console.log('PASS stalled network reaches permitted fallback and visible unavailable state');
+
+// Static synthesized speech is shard-routed and does not request a provider on a cache hit.
+voices=[google];let sources=[];
+ex=setup({staticSpeech:{'Static fixture':{url:'/clips/test.mp3',voiceId:'v1',shard:'one'}},speechShardBases:{one:'https://deutschy-sounds.pages.dev'},fetch:async()=>{throw Error('static hit must not fetch')},Audio:class{constructor(src){sources.push(src)}async play(){}pause(){}}}).exports;
+assert.equal(await ex.speak('Static fixture'),true);assert.deepEqual(sources,['https://deutschy-sounds.pages.dev/clips/test.mp3']);ex.stopSpeaking();
+ex=setup({staticSpeech:{'Static fixture':{url:'/clips/test.mp3',voiceId:'v1',shard:'one'}},speechShardBases:{one:'https://deutschy-sounds.pages.dev'},Audio:class{async play(){throw Error('missing clip')}pause(){}}}).exports;
+statuses=[];ex.subscribeSpeechStatus(s=>statuses.push(s));assert.equal(await ex.speak('Static fixture'),false);assert.equal(statuses.at(-1),'unavailable');
+console.log('PASS static shard clip before provider,canonical registry,missing file reaches visible unavailable');

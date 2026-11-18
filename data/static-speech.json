@@ -1,0 +1,407 @@
+{
+  "der Wecker": {
+    "url": "/clips/f99c7ccc1ff01695a498140274f27daef1e547155fad1d2bd6dca1e33899fd0a.mp3",
+    "voiceId": "EXAVITQu4vr4xnSDxMaL",
+    "shard": "deutschy-1"
+  },
+  "die Mutter": {
+    "url": "/clips/a684f7ded98364581976f682a1a3cd6f6ec7d4c765283b190b40af5149fe0b3c.mp3",
+    "voiceId": "FGY2WhTYpPnrIDTdsKH5",
+    "shard": "deutschy-1"
+  },
+  "der Vater": {
+    "url": "/clips/2f70c269dc94cdf441150e1e472a2ae1c8f2c4b556dfb00275c0a115152cc2ab.mp3",
+    "voiceId": "bIHbv24MWmeRgasZH58o",
+    "shard": "deutschy-1"
+  },
+  "der Bruder": {
+    "url": "/clips/e6dda6d1456e9ab28b674a2d2301e14945704e7f75a09097b560867d79b4b1bb.mp3",
+    "voiceId": "pNInz6obpgDQGcFmaJgB",
+    "shard": "deutschy-1"
+  },
+  "das Kind": {
+    "url": "/clips/1bf9a16f327c342b7b1c6a0cd6f19112e8e1b42b283759856604d47a9383592e.mp3",
+    "voiceId": "pqHfZKP75CvOlQylNhV4",
+    "shard": "deutschy-1"
+  },
+  "der Großvater": {
+    "url": "/clips/c50405119f65e5277806ff7a830f0e46e36f8c891c885fe00851b9649ad3dc2f.mp3",
+    "voiceId": "JBFqnCBsd6RMkjVDRZzb",
+    "shard": "deutschy-1"
+  },
+  "die Banane": {
+    "url": "/clips/f1f1e94ad0632cc5df3d581f23eb95871a0c71ca79b47ff2c5cd0d22cf14d776.mp3",
+    "voiceId": "CwhRBWXzGAHq8TQ4Fs17",
+    "shard": "deutschy-1"
+  },
+  "das Brot": {
+    "url": "/clips/6643f2f410cea7dc1c0b2301a831d9ddf7b4253b8b28cc7e9c4dadfc0978e0b8.mp3",
+    "voiceId": "cjVigY5qzO86Huf0OWal",
+    "shard": "deutschy-1"
+  },
+  "das Ei": {
+    "url": "/clips/f7d7725651c7dcfb211d42274e6630126531fe6d93fa9024e4d7473f15791c9d.mp3",
+    "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+    "shard": "deutschy-1"
+  },
+  "die Tomate": {
+    "url": "/clips/f91c59619f59663303cd12a76a4bfbb94dc3d8c59b9fc45f7fffb7f5e529dbec.mp3",
+    "voiceId": "nPczCjzI2devNBz1zQrb",
+    "shard": "deutschy-1"
+  },
+  "die Kartoffel": {
+    "url": "/clips/b6bddbba0ac3597d7a6a82e027e2b826f03725ad2b088a00b63cf38d1ec0430b.mp3",
+    "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+    "shard": "deutschy-1"
+  },
+  "der Zucker": {
+    "url": "/clips/506482a9a9341f488eb2cddecc07da9025786e402f6a5d94748c43db91b1463e.mp3",
+    "voiceId": "onwK4e9ZLuTAKqWW03F9",
+    "shard": "deutschy-1"
+  },
+  "das Salz": {
+    "url": "/clips/bd63a506f48ac0fea2ef23c3ab2ef385d9beded93fbea07ad259492924a194e3.mp3",
+    "voiceId": "IKne3meq5aSn9XLyUdCD",
+    "shard": "deutschy-1"
+  },
+  "die Gurke": {
+    "url": "/clips/e0939fe17d66fe80fec8cb39985aa2ad4e46327756f029362f97722314eb6325.mp3",
+    "voiceId": "hpp4J3VqNfWAUOO0d1Us",
+    "shard": "deutschy-1"
+  },
+  "die Erdbeere": {
+    "url": "/clips/d5e0c85dc0a500e0fed46557960b1009f11166f67a894b5b3adddb8364f486b2.mp3",
+    "voiceId": "SOYHLrjzK2X1ezoPC6cr",
+    "shard": "deutschy-1"
+  },
+  "der Kaffee": {
+    "url": "/clips/50b3e3d5d6ecb37db423044dc6232d8d3f564e83c2357962a6840c087782866a.mp3",
+    "voiceId": "cgSgspJ2msm6clMCkdW9",
+    "shard": "deutschy-1"
+  },
+  "der Tee": {
+    "url": "/clips/2eb4ea5c4d3b416a03408fd597cad2628ba3966080098aba29979cd5ced1b821.mp3",
+    "voiceId": "SAz9YHcvj6GT2YYXdXww",
+    "shard": "deutschy-1"
+  },
+  "der Supermarkt": {
+    "url": "/clips/2b3632e12ff9311abf8e4d83bb9c9f6152f7d74b6bedf854887ff7c4e249dabb.mp3",
+    "voiceId": "Xb7hH8MSUJpSbSDYk0k2",
+    "shard": "deutschy-1"
+  },
+  "die Bibliothek": {
+    "url": "/clips/a5c1c5beaac6199d41dd4a0dd51cfab525d151da71609553be189857ae26d175.mp3",
+    "voiceId": "XrExE9yKIg1WjnnlVkGX",
+    "shard": "deutschy-1"
+  },
+  "das Hotel": {
+    "url": "/clips/f4a438a00e1a682775bb93f06ee046478361b7eba3af99b7902fd29b35ca3ed0.mp3",
+    "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+    "shard": "deutschy-1"
+  },
+  "das Hemd": {
+    "url": "/clips/be2d6d4cb8d932267e2f8d4c719868cdd27b9461c8e839a1179c8c990ca9d88c.mp3",
+    "voiceId": "iP95p4xoKVk53GoZ742B",
+    "shard": "deutschy-1"
+  },
+  "das Baby": {
+    "url": "/clips/76d2d70d2f5c79e9f6190b5b136e0fb901ce97cbb50280ef8d863d849bcef75c.mp3",
+    "voiceId": "JBFqnCBsd6RMkjVDRZzb",
+    "shard": "deutschy-1"
+  },
+  "die Familie": {
+    "url": "/clips/5c0c4227776695d86a900b9a75023d1b5031cf30867330820d71c93d8cfa4b4f.mp3",
+    "voiceId": "pqHfZKP75CvOlQylNhV4",
+    "shard": "deutschy-1"
+  },
+  "der Apfel": {
+    "url": "/clips/ffb93ae3703c904b6a8fa29cf22c1eac2f7d339e5fe19e51b41366681deee67a.mp3",
+    "voiceId": "pqHfZKP75CvOlQylNhV4",
+    "shard": "deutschy-1"
+  },
+  "der Reis": {
+    "url": "/clips/185e23dc6d5a646c66ef339dc0059b47b437bd8ac671ae8142ef6c341693c44d.mp3",
+    "voiceId": "pNInz6obpgDQGcFmaJgB",
+    "shard": "deutschy-1"
+  },
+  "die Zwiebel": {
+    "url": "/clips/6980b95a3ef992559151996160e4b970230abdea213e3a7e78a788e6ef84887b.mp3",
+    "voiceId": "EXAVITQu4vr4xnSDxMaL",
+    "shard": "deutschy-1"
+  },
+  "die Orange": {
+    "url": "/clips/d1e503cd3ed6bb2c7e09c5c35594cf1ab325a6e6f77eb7574beb37b29340ce5f.mp3",
+    "voiceId": "nPczCjzI2devNBz1zQrb",
+    "shard": "deutschy-1"
+  },
+  "die Butter": {
+    "url": "/clips/3f7a7f16ce845865968577d19ccd0539cad1e9626a598faefe58d6a34fac7ede.mp3",
+    "voiceId": "JBFqnCBsd6RMkjVDRZzb",
+    "shard": "deutschy-1"
+  },
+  "das Fleisch": {
+    "url": "/clips/2c69f888ece6db63e25e13cb0bd16ee9e7c4d01bcbb1e28980b3ce0902e3d52c.mp3",
+    "voiceId": "onwK4e9ZLuTAKqWW03F9",
+    "shard": "deutschy-1"
+  },
+  "das Huhn": {
+    "url": "/clips/11f96ca8927d91eb2b91ff3be1d80e509badb15c355bcf53fa8d193b493ca2cb.mp3",
+    "voiceId": "FGY2WhTYpPnrIDTdsKH5",
+    "shard": "deutschy-1"
+  },
+  "der Fisch": {
+    "url": "/clips/31fa197389b571285c0f3a66526291c27e3d06cac8ef5fdd614a0a3e33c4d33a.mp3",
+    "voiceId": "EXAVITQu4vr4xnSDxMaL",
+    "shard": "deutschy-1"
+  },
+  "die Traube": {
+    "url": "/clips/fca7ee8b44f9429760bb6760e44c0b5c80445943895b61275016b62293dcd269.mp3",
+    "voiceId": "JBFqnCBsd6RMkjVDRZzb",
+    "shard": "deutschy-1"
+  },
+  "die Suppe": {
+    "url": "/clips/543242b7aa10bd7c977f4283f2c15f11635c8ecdb6852255a725b1f75a2a9e0c.mp3",
+    "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+    "shard": "deutschy-1"
+  },
+  "der Kuchen": {
+    "url": "/clips/e2c9b75b13ad2ecdcce4b979aa4ba01db57b4305bdca933b0a3ab6bc72c58442.mp3",
+    "voiceId": "FGY2WhTYpPnrIDTdsKH5",
+    "shard": "deutschy-1"
+  },
+  "die Karotte": {
+    "url": "/clips/9c802d377adccf8ac0a5bcfde7f88517f78ed841bd8914aee5533cf0b9f27ab8.mp3",
+    "voiceId": "IKne3meq5aSn9XLyUdCD",
+    "shard": "deutschy-1"
+  },
+  "die Zitrone": {
+    "url": "/clips/f13054806127ac1ed4d48b860e1f4c43cd287b1968a94bf390084a1bf918e951.mp3",
+    "voiceId": "IKne3meq5aSn9XLyUdCD",
+    "shard": "deutschy-1"
+  },
+  "das Wasser": {
+    "url": "/clips/65120e5d301866e4cfe22dedd7be6c00c40a2f2d1c3448f6b9950a0486792fa7.mp3",
+    "voiceId": "cjVigY5qzO86Huf0OWal",
+    "shard": "deutschy-1"
+  },
+  "die Milch": {
+    "url": "/clips/37b8826bedd45ded7bd03152fa712f80c2c67b7cac9582a4a9471f56ba6e8c3d.mp3",
+    "voiceId": "hpp4J3VqNfWAUOO0d1Us",
+    "shard": "deutschy-1"
+  },
+  "der Saft": {
+    "url": "/clips/b598e73e3e6679cd5a2e98d1a553db966c9088426ecf0c3d5c7b8d75307aea01.mp3",
+    "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+    "shard": "deutschy-1"
+  },
+  "das Haus": {
+    "url": "/clips/e537e289a34f5119d4ab0c30e3a2b8f3a0526e5e6ebc2ffd6684f971019476fb.mp3",
+    "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+    "shard": "deutschy-1"
+  },
+  "der Tisch": {
+    "url": "/clips/4f801a6958b7136a19b367d2aab2c7123692da76d0e96857cae02505c99e8d48.mp3",
+    "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+    "shard": "deutschy-1"
+  },
+  "das Bett": {
+    "url": "/clips/201d140cdf542f3b0179c06f3cef5a892e746f31887cf010eb417b384d462b24.mp3",
+    "voiceId": "CwhRBWXzGAHq8TQ4Fs17",
+    "shard": "deutschy-1"
+  },
+  "das Fenster": {
+    "url": "/clips/e69cbb9a57fd606fa7cb0e92deb9f1890e6058ec8681a94eeefb576ef8d18657.mp3",
+    "voiceId": "nPczCjzI2devNBz1zQrb",
+    "shard": "deutschy-1"
+  },
+  "das Sofa": {
+    "url": "/clips/2193c991a692fd18fe6458c5932dd95dafc0a4881a40f1e7ccbf56685ecba723.mp3",
+    "voiceId": "nPczCjzI2devNBz1zQrb",
+    "shard": "deutschy-1"
+  },
+  "der Schlüssel": {
+    "url": "/clips/7dd10eab892bcb9faeda46d14895657a1bc54353511de16fd0dd005fba7eb482.mp3",
+    "voiceId": "CwhRBWXzGAHq8TQ4Fs17",
+    "shard": "deutschy-1"
+  },
+  "die Uhr": {
+    "url": "/clips/17a441c5e81973ae5a78fef2b2b222c3b30b72df2d0208bf741ce82e62a13e66.mp3",
+    "voiceId": "onwK4e9ZLuTAKqWW03F9",
+    "shard": "deutschy-1"
+  },
+  "der Spiegel": {
+    "url": "/clips/07518937b1ee4b66bc72d4e2ef885ebd4b3e91dff605927805d2f2e8cf56ec5a.mp3",
+    "voiceId": "nPczCjzI2devNBz1zQrb",
+    "shard": "deutschy-1"
+  },
+  "die Treppe": {
+    "url": "/clips/3e06855721dcc7fbe47cca9fff4fb985ac8bde3972f61621fff52d017863aa1f.mp3",
+    "voiceId": "CwhRBWXzGAHq8TQ4Fs17",
+    "shard": "deutschy-1"
+  },
+  "die Schule": {
+    "url": "/clips/b447fc074b2330e82a3318c6a62b462a47ef65b6bb2f4962bba67b85a628478c.mp3",
+    "voiceId": "CwhRBWXzGAHq8TQ4Fs17",
+    "shard": "deutschy-1"
+  },
+  "der Bahnhof": {
+    "url": "/clips/c9daa2847c88f97416d6510c4a5fa6bdf85e33ffc5c65f20f19ff90b5105203f.mp3",
+    "voiceId": "onwK4e9ZLuTAKqWW03F9",
+    "shard": "deutschy-1"
+  },
+  "der Flughafen": {
+    "url": "/clips/c043e33ec85c4506628e8b7873ccfd3cc5aa92ba686e5f522ed57fb91dc602e2.mp3",
+    "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+    "shard": "deutschy-1"
+  },
+  "das Krankenhaus": {
+    "url": "/clips/4c17066bd2e5ed1a2591027c8e3897007cd7ee9105d78bff211eeee628c2bf44.mp3",
+    "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+    "shard": "deutschy-1"
+  },
+  "die Bank": {
+    "url": "/clips/4fad6564a7b06d66adfde7a4e613328bbe2fc571203fb031982bdb1cbfc3c648.mp3",
+    "voiceId": "cgSgspJ2msm6clMCkdW9",
+    "shard": "deutschy-1"
+  },
+  "der Park": {
+    "url": "/clips/cf6166a7f4479becc0f266b70408c3fe9dbcd20f698f3d10a7acaff61631d7e9.mp3",
+    "voiceId": "IKne3meq5aSn9XLyUdCD",
+    "shard": "deutschy-1"
+  },
+  "die Brücke": {
+    "url": "/clips/a1239c9ec04aa44faff3ca08f9498ad41204490aa03dd37f087dd401ea6f3e33.mp3",
+    "voiceId": "cgSgspJ2msm6clMCkdW9",
+    "shard": "deutschy-1"
+  },
+  "das Restaurant": {
+    "url": "/clips/36c43db873bddfdb3ad4907e53beb4e6975efcabd7642876411c81c6771feec5.mp3",
+    "voiceId": "SAz9YHcvj6GT2YYXdXww",
+    "shard": "deutschy-1"
+  },
+  "die Kirche": {
+    "url": "/clips/b838790c0b31e1fdad410ee999204a0d9cc92c41613af610b58cd8050013d474.mp3",
+    "voiceId": "EXAVITQu4vr4xnSDxMaL",
+    "shard": "deutschy-1"
+  },
+  "die Moschee": {
+    "url": "/clips/435e7924c3a52c7ae2d6254c72b3d5f7ef1e408c3f207786946a5bd46b21ee26.mp3",
+    "voiceId": "cgSgspJ2msm6clMCkdW9",
+    "shard": "deutschy-1"
+  },
+  "der Markt": {
+    "url": "/clips/ed710f45a6568ec96a2ac0c97d31449e79b88cc84f8ec09c009e0d17ce8bed7b.mp3",
+    "voiceId": "bIHbv24MWmeRgasZH58o",
+    "shard": "deutschy-1"
+  },
+  "die Apotheke": {
+    "url": "/clips/6515a708b173313b192b6316d8da83d5c8e762e1d2ca9613b96ba66a4bf51b18.mp3",
+    "voiceId": "CwhRBWXzGAHq8TQ4Fs17",
+    "shard": "deutschy-1"
+  },
+  "der Bus": {
+    "url": "/clips/fb3e25f5e2e7c97649f4080b09ac575408b9b7e1cf3d9a0f490ef941266302ba.mp3",
+    "voiceId": "pNInz6obpgDQGcFmaJgB",
+    "shard": "deutschy-1"
+  },
+  "der Zug": {
+    "url": "/clips/622a3c8f375789592c64175acb36646a7448cf003f2fb5a69d7ee3f145cc6335.mp3",
+    "voiceId": "pNInz6obpgDQGcFmaJgB",
+    "shard": "deutschy-1"
+  },
+  "das Fahrrad": {
+    "url": "/clips/e1f80c7835a8ad8a68b0b3d32ca7976bb2e4de1d28c6ed541e51247ac1a8674f.mp3",
+    "voiceId": "hpp4J3VqNfWAUOO0d1Us",
+    "shard": "deutschy-1"
+  },
+  "das Flugzeug": {
+    "url": "/clips/267c1070286c7e57962a3f85e8710d2a86f972cd66d8d469ff5e30ba3ee6c2f6.mp3",
+    "voiceId": "hpp4J3VqNfWAUOO0d1Us",
+    "shard": "deutschy-1"
+  },
+  "das Taxi": {
+    "url": "/clips/380cbcf49a6fafc6899d145cbf99987aee4d898407df5a530c8d421426e1c539.mp3",
+    "voiceId": "N2lVS1w4EtoT3dr4eOWO",
+    "shard": "deutschy-1"
+  },
+  "die U-Bahn": {
+    "url": "/clips/e032d9d2483f42dbd21fbadace03065e7cabe6386ecf0fc108063d3849c8d485.mp3",
+    "voiceId": "FGY2WhTYpPnrIDTdsKH5",
+    "shard": "deutschy-1"
+  },
+  "das Schiff": {
+    "url": "/clips/0eaefdd20969ebbe2c91b7ec411ce45376f6852f569ccbae6476d15a032c325f.mp3",
+    "voiceId": "Xb7hH8MSUJpSbSDYk0k2",
+    "shard": "deutschy-1"
+  },
+  "das Motorrad": {
+    "url": "/clips/96f3a37e2058345b101efd728ae591baa5aef97c18d8eab632d041472af37a7a.mp3",
+    "voiceId": "SOYHLrjzK2X1ezoPC6cr",
+    "shard": "deutschy-1"
+  },
+  "die Hose": {
+    "url": "/clips/8c7832c4846d60d8f22d487055991db37100b8cbd98abe3e476d6c9f76d8855d.mp3",
+    "voiceId": "pqHfZKP75CvOlQylNhV4",
+    "shard": "deutschy-1"
+  },
+  "die Jacke": {
+    "url": "/clips/b7894c7d6542db504a31c0c2ac2018b8f3fa9c2490c0c95f3f4960ebfcf83f4d.mp3",
+    "voiceId": "bIHbv24MWmeRgasZH58o",
+    "shard": "deutschy-1"
+  },
+  "der Schuh": {
+    "url": "/clips/effd3597334fc463e7e44cf24c11bc5d0411d4e4fae0fce272d4e194f98f9459.mp3",
+    "voiceId": "Xb7hH8MSUJpSbSDYk0k2",
+    "shard": "deutschy-1"
+  },
+  "das Kleid": {
+    "url": "/clips/c5acfae3ff25a1070de0ee26de845c25081e1b2aa86e63f6ad851d4bf39e3f1e.mp3",
+    "voiceId": "pFZP5JQG7iQjIQuC4Bku",
+    "shard": "deutschy-1"
+  },
+  "die Socke": {
+    "url": "/clips/62207b58c30421e848ae5836092d4b77adb07a5e86dd78a9b37f18a9f4a8e488.mp3",
+    "voiceId": "hpp4J3VqNfWAUOO0d1Us",
+    "shard": "deutschy-1"
+  },
+  "die Brille": {
+    "url": "/clips/dab0decc5a09d417df23bf4e8d9d9106adefe3f02d37ce63a2c5b3464a176f44.mp3",
+    "voiceId": "XrExE9yKIg1WjnnlVkGX",
+    "shard": "deutschy-1"
+  },
+  "das T-Shirt": {
+    "url": "/clips/1d4b3b3c9d8a46a2044efb6c7e22fc8abeab9487fb9478967ed765be8e4a0610.mp3",
+    "voiceId": "cjVigY5qzO86Huf0OWal",
+    "shard": "deutschy-1"
+  },
+  "der Rock": {
+    "url": "/clips/2ffafc1a6f578299ef50cf02f0a9fbe3336640e77373beb238f8b46b3f45486f.mp3",
+    "voiceId": "pqHfZKP75CvOlQylNhV4",
+    "shard": "deutschy-1"
+  },
+  "der Mantel": {
+    "url": "/clips/f06828123bf65c9f1c4f614444218d9f383d9b24802734dec4bc404055d4b23f.mp3",
+    "voiceId": "IKne3meq5aSn9XLyUdCD",
+    "shard": "deutschy-1"
+  },
+  "die Tasche": {
+    "url": "/clips/fe8b6a51cd2fd569d9685bb12f049f6306d1db799d427d76abe87d06b9eee739.mp3",
+    "voiceId": "EXAVITQu4vr4xnSDxMaL",
+    "shard": "deutschy-1"
+  },
+  "der Gürtel": {
+    "url": "/clips/0d27c9a23253e2eb6691291dcb1316d0b5b3a44735f5870b8ed80845c2192b02.mp3",
+    "voiceId": "SOYHLrjzK2X1ezoPC6cr",
+    "shard": "deutschy-1"
+  },
+  "der Hund": {
+    "url": "/clips/e0e2b65257dc561feca4dd29f0a6947ffe5c35e5ac831f120767abf2b8cddd74.mp3",
+    "voiceId": "Xb7hH8MSUJpSbSDYk0k2",
+    "shard": "deutschy-1"
+  },
+  "die Katze": {
+    "url": "/clips/7bbdf7570db744e41d4dfd60116dd057da1e8aa2816553b2683d464c64f2e1d6.mp3",
+    "voiceId": "EXAVITQu4vr4xnSDxMaL",
+    "shard": "deutschy-1"
+  }
+}
