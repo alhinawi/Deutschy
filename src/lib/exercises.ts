@@ -606,3 +606,6 @@ for(const[topic,rows]of Object.entries(okramangoldGrammar))exercises[topic].push
 
 import {kuechenformenGrammar} from './exercises-kuechenformen';
 for(const[topic,rows]of Object.entries(kuechenformenGrammar))exercises[topic].push(...rows);
+
+import {vogelportraetsGrammar} from './exercises-vogelportraets';
+for(const[topic,rows]of Object.entries(vogelportraetsGrammar))exercises[topic].push(...rows);

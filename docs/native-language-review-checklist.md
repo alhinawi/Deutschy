@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-forty-seventh practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-forty-eighth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1594,9 +1594,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Dictation voice and speed controls | Both selects reference the existing device-voice limitation paragraph. 8 unique-target/focus checks AR/EN 320/390; both 390px control/helper views inspected. No wording/voice/behavior/persistence change. Actual assistive-device testing pending. |
 | [ ] | Listening/dictation | 71 original segments, 284 exact German speech/source/answer checks. Native editorial and actual-device voices pending; practice labels are not certification and progress is device-local. |
 
+### List 148: Flamingo and Kakadu
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zwei-vogelfotos-an-der-wand/` and linked dialogue | Lina/Omar match wordcards to photos on a classroom wall, read articles, turn cards over, recall with a crest cue, swap roles and change next-day order. 173 German words. Fictional lesson, not real animals in class. |
+| [ ] | `/reading/alltag-a2-das-s-allein-reicht-nicht/` and linked dialogue | Samira/Ben compare des Flamingos/des Kakadus (genitive singular) and die Flamingos/die Kakadus (nominative plural). Same written ending alone does not settle case/number. Read articles/context and explicit task cases. Metalinguistic plural form in a wordlist does not count photographed birds. 250 German words. |
+| [ ] | `/reading/alltag-b1-eine-bildbeschreibung-ohne-tonspur/` and linked dialogue | Jule/Hamid remove invented calls and mood, describe visible head/crest/bill, avoid leg-position claims from a head crop and replace left/right with bird names for responsive ordering. 328 German words. Fictional editors, not photographer biography. |
+| [ ] | `/lessons/vogelportraets/` | der Flamingo/Flamingos (فلامنجو), der Kakadu/Kakadus (ببغاء كوكاتو). Exact Duden bird entry, not textile homonym; DWDS bird and German Wiktionary confirm forms/sense. Phil Mitchell 31594814 flamingo head/neck and Jurie Maree 5683010 cockatoo head/yellow crest, proportional 800x600 crops. Bird portraits, not whole-body views. AR/EN 390px cards inspected. No species/location/welfare/pet-care inference. |
+| [ ] | Six append-only grammar banks | 24 article/accusative/present/possessive/two-way/negation rows. Earlier saved IDs, exact evidence and global reading/dialogue uniqueness pass. Native German/Egyptian Arabic editorial pending. |
+| [ ] | Dictation Next sentence | Button describes existing order/wrap/no-grade/no-saved-progress/source-reveal help. 4 exact target/focus checks AR/EN 320/390; 390px focus pixels inspected. Source and voice/speed descriptions retained. No wording or sequencing change. Actual-device assistive review pending. |
+| [ ] | Listening/dictation | 72 original segments; 288 exact German speech/source/answer checks. Native editorial/actual-device voice pending. Practice labels are not certification; progress stays device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **951 photo nouns / 192 topics**, **459 reading texts / 1789 reading questions**, **41 core grammar topics / 3478 core grammar questions**, **399 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **953 photo nouns / 193 topics**, **462 reading texts / 1801 reading questions**, **41 core grammar topics / 3502 core grammar questions**, **402 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1608,7 +1620,7 @@ This is an inventory, not completed review. Snapshot: **951 photo nouns / 192 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 135 · A2 163 · B1 131 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 136 · A2 164 · B1 132 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

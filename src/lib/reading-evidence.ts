@@ -2720,3 +2720,24 @@ Object.assign(readingEvidence,{
     "Er ändert den Entwurf, bevor er ihn an die übrigen Mitbewohner weitergibt."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zwei-vogelfotos-an-der-wand": [
+    "Die Fotos hängen nebeneinander an einer Wand im Kursraum.",
+    "Auf dem linken Foto sieht Lina einen Flamingo.",
+    "Lina zeigt auf den gelben Schopf im Foto.",
+    "Morgen möchten sie die Wörter in einer anderen Reihenfolge wiederholen."
+  ],
+  "alltag-a2-das-s-allein-reicht-nicht": [
+    "Des Flamingos ist hier eine Genitivform im Singular.",
+    "Sie rahmt den jeweiligen Artikel mit ein.",
+    "Der zweite Satz zählt keine Tiere im Foto, sondern nennt eine sprachliche Form.",
+    "Wenn sie nur das einzelne Wort ohne Zusammenhang sieht, hält sie die Deutung offen."
+  ],
+  "alltag-b1-eine-bildbeschreibung-ohne-tonspur": [
+    "Zu dem Foto gehört weder eine Tonaufnahme noch ein Bericht über die Situation.",
+    "Da die Beine nicht im Bild sind, verwenden sie dieses Foto nicht als Beleg für eine bestimmte Beinhaltung.",
+    "Auf einem schmalen Bildschirm stehen sie jedoch untereinander.",
+    "diese Aufgabe verlangt dagegen eine sachliche Bildbeschreibung."
+  ]
+});

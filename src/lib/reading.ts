@@ -444,3 +444,6 @@ readings.push(...okramangoldTexts);
 
 import {kuechenformenTexts} from './reading-kuechenformen';
 readings.push(...kuechenformenTexts);
+
+import {vogelportraetsTexts} from './reading-vogelportraets';
+readings.push(...vogelportraetsTexts);

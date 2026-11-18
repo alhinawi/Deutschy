@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  vogelportraets: 'Flamingo und Kakadu',
   kuechenformen: 'Espressokocher und Eiswürfelform',
   okramangold: 'Okra und Mangold',
   kakikarambole: 'Kaki und Karambole',
@@ -189,6 +190,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  vogelportraets: 'Flamingo and cockatoo',
   kuechenformen: 'Moka pot and ice tray',
   okramangold: 'Okra and chard',
   kakikarambole: 'Persimmon and starfruit',

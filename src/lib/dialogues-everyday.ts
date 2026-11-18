@@ -27723,3 +27723,218 @@ Object.assign(dialogueEvidence,{
     "Ich ergänze die Suche, bevor ich die Nachricht weitergebe."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "vogelfotos-links-und-rechts-zuordnen",
+    "level": "A1",
+    "title": [
+      "Welche Karte gehört nach links?",
+      "أنهي كارت يتحط على الشمال؟"
+    ],
+    "lines": [
+      [
+        "Omar",
+        "Wo liegt die Karte mit dem Wort Flamingo?",
+        "فين الكارت اللي عليه كلمة Flamingo؟"
+      ],
+      [
+        "Lina",
+        "Hier auf dem Tisch. Sie gehört zum linken Foto.",
+        "هنا على الترابيزة. هو تبع الصورة اللي على الشمال."
+      ],
+      [
+        "Omar",
+        "Und der Vogel rechts heißt Kakadu.",
+        "والطائر اللي على اليمين اسمه Kakadu."
+      ],
+      [
+        "Lina",
+        "Genau. Lies die Namen bitte mit dem Artikel.",
+        "بالظبط. اقرا الأسامي مع أداة التعريف لو سمحت."
+      ],
+      [
+        "Omar",
+        "Der Flamingo und der Kakadu. Jetzt drehe ich die Karten um.",
+        "der Flamingo وder Kakadu. دلوقتي هقلب الكروت."
+      ],
+      [
+        "Lina",
+        "Dann tauschen wir die Rollen.",
+        "بعد كده نبدل الأدوار."
+      ],
+      [
+        "Omar",
+        "Morgen üben wir mit einer anderen Reihenfolge.",
+        "بكرة هنتمرن بترتيب مختلف."
+      ]
+    ],
+    "q": [
+      [
+        "Zu welchem Foto gehört Flamingo?",
+        "Zum linken Foto.",
+        "Zum rechten Foto.",
+        "Zu keinem Foto."
+      ],
+      [
+        "Wie soll Omar die Namen lesen?",
+        "Mit dem Artikel.",
+        "Ohne den Anfang.",
+        "Nur auf Arabisch."
+      ],
+      [
+        "Was ändern sie morgen?",
+        "Die Reihenfolge.",
+        "Den Kursraum.",
+        "Die Artikel der Wörter."
+      ]
+    ]
+  },
+  {
+    "id": "vogelnamen-s-mit-artikel-lesen",
+    "level": "A2",
+    "title": [
+      "Welchen Fall meinst du?",
+      "تقصد أنهي حالة؟"
+    ],
+    "lines": [
+      [
+        "Samira",
+        "Ist Flamingos immer Mehrzahl?",
+        "Flamingos دايمًا جمع؟"
+      ],
+      [
+        "Ben",
+        "Nein. In der Wortgruppe \"der Hals des Flamingos\" steht es im Genitiv Singular.",
+        "لأ. في مجموعة الكلمات der Hals des Flamingos دي جينيتيف مفرد."
+      ],
+      [
+        "Samira",
+        "Dann muss ich die ganze Wortgruppe lesen.",
+        "يبقى لازم أقرا مجموعة الكلمات كلها."
+      ],
+      [
+        "Ben",
+        "Genau. Vergleiche des Kakadus mit die Kakadus.",
+        "بالظبط. قارني des Kakadus بـdie Kakadus."
+      ],
+      [
+        "Samira",
+        "Das Nomen endet beide Male auf s, aber Fall und Zahl unterscheiden sich.",
+        "الاسم آخره s في المرتين، لكن الحالة والعدد مختلفين."
+      ],
+      [
+        "Ben",
+        "Markiere den Artikel mit.",
+        "علمي على الأداة معاه."
+      ],
+      [
+        "Samira",
+        "Ohne Zusammenhang lasse ich die Deutung offen.",
+        "من غير سياق هسيب التفسير مفتوح."
+      ]
+    ],
+    "q": [
+      [
+        "Welcher Fall steht in des Flamingos?",
+        "Genitiv Singular.",
+        "Nominativ Plural.",
+        "Akkusativ Plural."
+      ],
+      [
+        "Was soll Samira mit markieren?",
+        "Den Artikel.",
+        "Eine Adresse.",
+        "Den Bildrand."
+      ],
+      [
+        "Was unterscheidet die beiden Kakadu-Wortgruppen?",
+        "Fall und Zahl.",
+        "Die Anzahl der Buchstaben im Nomen.",
+        "Der letzte Buchstabe des Nomens."
+      ]
+    ]
+  },
+  {
+    "id": "vogelfotos-sichtbar-ist-nicht-hoerbar",
+    "level": "B1",
+    "title": [
+      "Was zeigt das Foto wirklich?",
+      "الصورة بتوري إيه فعلًا؟"
+    ],
+    "lines": [
+      [
+        "Jule",
+        "Ich würde gern schreiben, dass der Kakadu laut ruft.",
+        "نفسي أكتب إن الكوكاتو بيصيح بصوت عالي."
+      ],
+      [
+        "Hamid",
+        "Haben wir dafür eine Tonaufnahme oder einen Bericht?",
+        "معانا تسجيل أو تقرير يثبت ده؟"
+      ],
+      [
+        "Jule",
+        "Nein. Dann beschreibe ich lieber den gelben Schopf.",
+        "لأ. يبقى الأحسن أوصف العرف الأصفر."
+      ],
+      [
+        "Hamid",
+        "Und beim Flamingo bleiben wir bei dem sichtbaren Ausschnitt.",
+        "ومع الفلامنجو نلتزم بالجزء اللي ظاهر."
+      ],
+      [
+        "Jule",
+        "Links und rechts ersetze ich durch die Vogelnamen.",
+        "هبدل شمال ويمين بأسامي الطيور."
+      ],
+      [
+        "Hamid",
+        "Dann funktioniert der Bezug auch bei Bildern untereinander.",
+        "كده المقصود يفضل واضح كمان لو الصور تحت بعض."
+      ],
+      [
+        "Jule",
+        "Eine Stimmung leite ich aus dem einzelnen Foto nicht ab.",
+        "مش هستنتج مزاج من الصورة الواحدة."
+      ]
+    ],
+    "q": [
+      [
+        "Was beschreibt Jule statt eines Rufs?",
+        "Den gelben Schopf.",
+        "Die Temperatur.",
+        "Eine Fütterungszeit."
+      ],
+      [
+        "Was ersetzt die Richtungsangaben?",
+        "Die Vogelnamen.",
+        "Die Namen der Geräte.",
+        "Eine neue Tonspur."
+      ],
+      [
+        "Was leitet Jule nicht aus dem Foto ab?",
+        "Eine Stimmung.",
+        "Die sichtbare Farbe.",
+        "Den sichtbaren Bildausschnitt."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "vogelfotos-links-und-rechts-zuordnen": [
+    "Sie gehört zum linken Foto.",
+    "Lies die Namen bitte mit dem Artikel.",
+    "Morgen üben wir mit einer anderen Reihenfolge."
+  ],
+  "vogelnamen-s-mit-artikel-lesen": [
+    "steht es im Genitiv Singular.",
+    "Markiere den Artikel mit.",
+    "aber Fall und Zahl unterscheiden sich."
+  ],
+  "vogelfotos-sichtbar-ist-nicht-hoerbar": [
+    "Dann beschreibe ich lieber den gelben Schopf.",
+    "Links und rechts ersetze ich durch die Vogelnamen.",
+    "Eine Stimmung leite ich aus dem einzelnen Foto nicht ab."
+  ]
+});
