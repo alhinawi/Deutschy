@@ -2489,3 +2489,24 @@ Object.assign(readingEvidence,{
     "Sara und Nils haben keine Partie analysiert."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zwei-karten-vorlesen": [
+    "Mia liest zuerst beide Wörter mit Artikel vor.",
+    "Danach zeigt er auf das lange Schreibgerät mit der Metallspitze.",
+    "Auf der Rückseite stehen die Mehrzahlformen.",
+    "Sie benutzen heute nur Fotos und Papier."
+  ],
+  "alltag-a2-ein-wort-zwei-endungen": [
+    "Das Nomen steht hier weiterhin in der Einzahl.",
+    "Die Mehrzahl heißt dagegen die Tintenfässer.",
+    "Bei mit den Federhaltern bekommt die Mehrzahl im Dativ zusätzlich ein n.",
+    "Den grammatischen Fall können sie jedoch nicht aus der Form des abgebildeten Gegenstands ablesen."
+  ],
+  "alltag-b1-alte-optik-kein-alter": [
+    "In den vorhandenen Fotobeschreibungen finden sie dazu keinen ausreichenden Nachweis.",
+    "Eine Schreibprobe, Materialprüfung oder Datierung haben sie nicht durchgeführt.",
+    "Beim Ausschnitt für den Federhalter bleibt die sichtbare Spitze zusammen mit dem Halter erhalten.",
+    "Ein Aufnahmedatum wäre ebenfalls kein Herstellungsdatum des abgebildeten Objekts."
+  ]
+});

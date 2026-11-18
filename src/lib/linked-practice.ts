@@ -354,4 +354,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zwei-figuren-zwei-namen',dialogue:'runder-kopf-pferdekopf'},
  {reading:'alltag-a2-bauer-im-zusammenhang',dialogue:'ein-wort-mehrere-bedeutungen'},
  {reading:'alltag-b1-keine-stellung-aus-einzelfotos',dialogue:'nebeneinander-ist-kein-angriff'},
+ {reading:'alltag-a1-zwei-karten-vorlesen',dialogue:'noch-nicht-verschieben'},
+ {reading:'alltag-a2-ein-wort-zwei-endungen',dialogue:'dem-ist-nicht-die-mehrzahl'},
+ {reading:'alltag-b1-alte-optik-kein-alter',dialogue:'kein-datum-aus-der-optik'},
 ];
