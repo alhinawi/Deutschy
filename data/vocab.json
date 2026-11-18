@@ -771,6 +771,10 @@
   {
    "id": "vogelportraets",
    "ar": "فلامنجو وكوكاتو"
+  },
+  {
+   "id": "durianjackfrucht",
+   "ar": "دوريان وجاك فروت"
   }
  ],
  "words": [
@@ -15160,6 +15164,36 @@
     "file": "5683010.jpg",
     "commons": "https://www.pexels.com/photo/white-bird-in-close-up-photography-5683010/",
     "author": "Jurie Maree",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "durian",
+   "topic": "durianjackfrucht",
+   "art": "die",
+   "de": "Durian",
+   "plural": "Durians",
+   "ar": "دوريان",
+   "photo": {
+    "file": "17909867.jpg",
+    "commons": "https://www.pexels.com/photo/green-exotic-fruit-17909867/",
+    "author": "Jess Ho",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "jackfrucht",
+   "topic": "durianjackfrucht",
+   "art": "die",
+   "de": "Jackfrucht",
+   "plural": "Jackfrüchte",
+   "ar": "جاك فروت",
+   "photo": {
+    "file": "17249035.jpg",
+    "commons": "https://www.pexels.com/photo/exotic-fruit-on-yellow-background-17249035/",
+    "author": "球 王求",
     "license": "Pexels License",
     "modified": true
    }

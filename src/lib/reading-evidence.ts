@@ -2741,3 +2741,24 @@ Object.assign(readingEvidence,{
     "diese Aufgabe verlangt dagegen eine sachliche Bildbeschreibung."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-ein-name-am-obststand": [
+    "Auf dem Tisch liegen Fotos, keine echten Früchte.",
+    "Milan spielt den Verkäufer.",
+    "bittet Milan um eine Wiederholung.",
+    "Sie ergänzt die vor Jackfrucht und schließt ihr Heft."
+  ],
+  "alltag-a2-ein-foto-zwei-mehrzahlformen": [
+    "Salma schreibt deshalb zwei Durians unter das erste Foto.",
+    "Der Vokal u wird außerdem zu ü.",
+    "weil dort eine einzelne Jackfrucht zu sehen ist.",
+    "Danach geben sie beiden Bereichen klare Überschriften."
+  ],
+  "alltag-b1-groessenvergleich-ohne-massstab": [
+    "damit die rechte Hälfte des Plakats nicht so leer wirkt.",
+    "Für einen belastbaren Größenvergleich bräuchten sie geeignete Größenangaben oder Aufnahmen mit einem vergleichbaren Maßstab.",
+    "Gleiche Bildfelder schaffen aber weiterhin keinen gemeinsamen Maßstab für die Gegenstände.",
+    "Sie entfernen einen Pfeil, der unbeabsichtigt eine Rangfolge von klein nach groß nahegelegt hatte."
+  ]
+});

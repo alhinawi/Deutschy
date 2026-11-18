@@ -27938,3 +27938,218 @@ Object.assign(dialogueEvidence,{
     "Eine Stimmung leite ich aus dem einzelnen Foto nicht ab."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "obststand-namen-langsam-wiederholen",
+    "level": "A1",
+    "title": [
+      "Können Sie den Namen wiederholen?",
+      "ممكن تكرر الاسم؟"
+    ],
+    "lines": [
+      [
+        "Nora",
+        "Wie heißt diese Frucht auf dem Foto?",
+        "الفاكهة دي اللي في الصورة اسمها إيه؟"
+      ],
+      [
+        "Milan",
+        "Die Durian. Ich sage den Namen noch einmal langsam.",
+        "die Durian. هقول الاسم تاني بالراحة."
+      ],
+      [
+        "Nora",
+        "Danke. Und was steht auf der anderen Karte?",
+        "شكرًا. ومكتوب إيه على الكارت التاني؟"
+      ],
+      [
+        "Milan",
+        "Die Jackfrucht. Möchten Sie den Namen auch schreiben?",
+        "die Jackfrucht. حضرتك عايزة تكتبي الاسم كمان؟"
+      ],
+      [
+        "Nora",
+        "Ja. Können Sie ihn bitte wiederholen?",
+        "أيوه. ممكن تكرره لو سمحت؟"
+      ],
+      [
+        "Milan",
+        "Jackfrucht. Das Wort beginnt mit J.",
+        "Jackfrucht. الكلمة أولها J."
+      ],
+      [
+        "Nora",
+        "Ich ergänze noch den Artikel in meinem Heft.",
+        "هزود كمان أداة التعريف في كراستي."
+      ]
+    ],
+    "q": [
+      [
+        "Welchen Namen sagt Milan zuerst?",
+        "Durian.",
+        "Jackfrucht.",
+        "Guave."
+      ],
+      [
+        "Mit welchem Buchstaben beginnt Jackfrucht?",
+        "J.",
+        "D.",
+        "G."
+      ],
+      [
+        "Was ergänzt Nora?",
+        "Den Artikel.",
+        "Einen Preis.",
+        "Eine Uhrzeit."
+      ]
+    ]
+  },
+  {
+    "id": "bildanzahl-und-wortlistenformen-trennen",
+    "level": "A2",
+    "title": [
+      "Wo sind die anderen Früchte?",
+      "فين باقي الثمار؟"
+    ],
+    "lines": [
+      [
+        "Felix",
+        "Neben dem Foto steht Jackfrüchte. Wo sind die anderen Früchte?",
+        "مكتوب جنب الصورة Jackfrüchte. فين باقي الثمار؟"
+      ],
+      [
+        "Salma",
+        "Das ist die Mehrzahl in unserer Wortliste, nicht die Bildbeschreibung.",
+        "ده الجمع في قايمة الكلمات، مش وصف الصورة."
+      ],
+      [
+        "Felix",
+        "Unter das einzelne Foto schreibe ich also eine Jackfrucht.",
+        "يبقى تحت الصورة دي أكتب eine Jackfrucht."
+      ],
+      [
+        "Salma",
+        "Genau. Im anderen Foto sehen wir zwei Durians.",
+        "بالظبط. في الصورة التانية شايفين اتنين دوريان."
+      ],
+      [
+        "Felix",
+        "Bei Jackfrüchte darf ich den Umlaut nicht vergessen.",
+        "في Jackfrüchte لازم مانساش الأوملاوت."
+      ],
+      [
+        "Salma",
+        "Und wir geben den beiden Bereichen klare Überschriften.",
+        "وهنحط عنوان واضح للجزءين."
+      ],
+      [
+        "Felix",
+        "Dann ist die Aufgabe jeder Zeile deutlich.",
+        "كده وظيفة كل سطر واضحة."
+      ]
+    ],
+    "q": [
+      [
+        "Was bezeichnet Jackfrüchte neben dem Foto?",
+        "Die Mehrzahlform in der Wortliste.",
+        "Unsichtbare Früchte hinter der Kamera.",
+        "Den Namen des Fotografen."
+      ],
+      [
+        "Wie viele Durians sehen sie im anderen Foto?",
+        "Zwei.",
+        "Eine.",
+        "Keine."
+      ],
+      [
+        "Was will Felix bei Jackfrüchte nicht vergessen?",
+        "Den Umlaut.",
+        "Eine Null.",
+        "Den Namen Salma."
+      ]
+    ]
+  },
+  {
+    "id": "fruchtplakat-darstellung-ist-keine-messung",
+    "level": "B1",
+    "title": [
+      "Größer im Bild, größer in Wirklichkeit?",
+      "أكبر في الصورة يعني أكبر في الحقيقة؟"
+    ],
+    "lines": [
+      [
+        "Amira",
+        "Warum sieht die Jackfrucht auf unserem Plakat so groß aus?",
+        "ليه الجاك فروت باينة كبيرة كده في البوستر؟"
+      ],
+      [
+        "Tom",
+        "Ich habe das Bild vergrößert, nicht die Frucht vermessen.",
+        "كبرت الصورة، مش قست الثمرة."
+      ],
+      [
+        "Amira",
+        "Dann können wir daraus keine wirkliche Größenrangfolge ableiten.",
+        "يبقى مانقدرش نستنتج من ده ترتيب الأحجام الحقيقي."
+      ],
+      [
+        "Tom",
+        "Genau. Unsere Fotos haben keinen gemeinsamen Maßstab.",
+        "بالظبط. صورنا ملهاش مقياس موحد."
+      ],
+      [
+        "Amira",
+        "Machen wir die Bildfelder gleich breit und ordnen die Namen klar zu.",
+        "نخلي خانات الصور بنفس العرض ونربط الأسامي بوضوح."
+      ],
+      [
+        "Tom",
+        "Die Notiz zum fehlenden gemeinsamen Maßstab bleibt trotzdem nötig.",
+        "ملاحظة إن مافيش مقياس موحد تفضل برضه لازمة."
+      ],
+      [
+        "Amira",
+        "Und den Pfeil von klein nach groß entfernen wir.",
+        "ونشيل السهم من الصغير للكبير."
+      ]
+    ],
+    "q": [
+      [
+        "Was hat Tom verändert?",
+        "Die Größe der Bilddarstellung.",
+        "Die tatsächliche Fruchtgröße.",
+        "Die Mehrzahl im Wörterbuch."
+      ],
+      [
+        "Welche Notiz bleibt nötig?",
+        "Dass ein gemeinsamer Maßstab fehlt.",
+        "Dass alle Früchte vermessen wurden.",
+        "Dass der Pfeil zum Foto gehört."
+      ],
+      [
+        "Was möchten sie entfernen?",
+        "Den Pfeil von klein nach groß.",
+        "Beide Fruchtnamen.",
+        "Alle Bildfelder."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "obststand-namen-langsam-wiederholen": [
+    "Die Durian.",
+    "Das Wort beginnt mit J.",
+    "Ich ergänze noch den Artikel in meinem Heft."
+  ],
+  "bildanzahl-und-wortlistenformen-trennen": [
+    "Das ist die Mehrzahl in unserer Wortliste",
+    "Im anderen Foto sehen wir zwei Durians.",
+    "darf ich den Umlaut nicht vergessen."
+  ],
+  "fruchtplakat-darstellung-ist-keine-messung": [
+    "Ich habe das Bild vergrößert",
+    "zum fehlenden gemeinsamen Maßstab",
+    "den Pfeil von klein nach groß entfernen wir."
+  ]
+});
