@@ -31,7 +31,8 @@
     "test:everyday-verbs:browser": "node scripts/test-everyday-verbs-browser.mjs",
     "test:separable-conjugation:browser": "node scripts/test-separable-conjugation-browser.mjs",
     "test:photos:browser": "node scripts/test-photo-policy-browser.mjs",
-    "test:completion:browser": "node scripts/test-completion-browser.mjs"
+    "test:completion:browser": "node scripts/test-completion-browser.mjs",
+    "test:discovery:browser": "node scripts/test-word-discovery-browser.mjs"
   },
   "dependencies": {
     "hono": "^4.13.18",
