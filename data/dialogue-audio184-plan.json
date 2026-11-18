@@ -1,0 +1,896 @@
+[
+  {
+    "text": "Guten Morgen! Haben Sie Tomaten?",
+    "dialogue": "a1-markt",
+    "speaker": "Mona",
+    "source": "egypt-dialogues"
+  },
+  {
+    "text": "Ja. Wie viel möchten Sie?",
+    "dialogue": "a1-markt",
+    "speaker": "Verkäufer",
+    "source": "egypt-dialogues"
+  },
+  {
+    "text": "Ein Kilo, bitte. Und eine Tüte.",
+    "dialogue": "a1-markt",
+    "speaker": "Mona",
+    "source": "egypt-dialogues"
+  },
+  {
+    "text": "Gern. Sonst noch etwas?",
+    "dialogue": "a1-markt",
+    "speaker": "Verkäufer",
+    "source": "egypt-dialogues"
+  },
+  {
+    "text": "Guten Tag. Ich möchte einen Termin.",
+    "dialogue": "a1-praxis",
+    "speaker": "Omar",
+    "source": "egypt-dialogues"
+  },
+  {
+    "text": "Wie heißen Sie?",
+    "dialogue": "a1-praxis",
+    "speaker": "Empfang",
+    "source": "egypt-dialogues"
+  },
+  {
+    "text": "Omar Ali. Geht es am Montag?",
+    "dialogue": "a1-praxis",
+    "speaker": "Omar",
+    "source": "egypt-dialogues"
+  },
+  {
+    "text": "Ja, um zehn Uhr. Bitte bringen Sie Ihren Ausweis mit.",
+    "dialogue": "a1-praxis",
+    "speaker": "Empfang",
+    "source": "egypt-dialogues"
+  },
+  {
+    "text": "Hallo, ich bin neu hier. Ich heiße Salma.",
+    "dialogue": "a1-arbeit",
+    "speaker": "Salma",
+    "source": "egypt-dialogues"
+  },
+  {
+    "text": "Willkommen! Ich bin Karim. Wir arbeiten heute zusammen.",
+    "dialogue": "a1-arbeit",
+    "speaker": "Karim",
+    "source": "egypt-dialogues"
+  },
+  {
+    "text": "Wo ist mein Platz?",
+    "dialogue": "a1-arbeit",
+    "speaker": "Salma",
+    "source": "egypt-dialogues"
+  },
+  {
+    "text": "Hier am Fenster. Der Computer ist schon an.",
+    "dialogue": "a1-arbeit",
+    "speaker": "Karim",
+    "source": "egypt-dialogues"
+  },
+  {
+    "text": "Entschuldigung, fährt dieser Zug nach Alexandria?",
+    "dialogue": "a1-reise",
+    "speaker": "Nour",
+    "source": "egypt-dialogues"
+  },
+  {
+    "text": "Ja. Haben Sie eine Fahrkarte?",
+    "dialogue": "a1-reise",
+    "speaker": "Mitarbeiter",
+    "source": "egypt-dialogues"
+  },
+  {
+    "text": "Ja. Wo ist Wagen 3?",
+    "dialogue": "a1-reise",
+    "speaker": "Nour",
+    "source": "egypt-dialogues"
+  },
+  {
+    "text": "Dort vorne. Gute Fahrt!",
+    "dialogue": "a1-reise",
+    "speaker": "Mitarbeiter",
+    "source": "egypt-dialogues"
+  },
+  {
+    "text": "Guten Tag! Was möchten Sie trinken?",
+    "dialogue": "im-cafe",
+    "speaker": "Kellner",
+    "source": "dialogues"
+  },
+  {
+    "text": "Einen Kaffee mit Milch, bitte.",
+    "dialogue": "im-cafe",
+    "speaker": "Gast",
+    "source": "dialogues"
+  },
+  {
+    "text": "Gern. Möchten Sie auch etwas essen?",
+    "dialogue": "im-cafe",
+    "speaker": "Kellner",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ja, ein Stück Kuchen. Was haben Sie?",
+    "dialogue": "im-cafe",
+    "speaker": "Gast",
+    "source": "dialogues"
+  },
+  {
+    "text": "Wir haben Apfelkuchen und Schokoladenkuchen.",
+    "dialogue": "im-cafe",
+    "speaker": "Kellner",
+    "source": "dialogues"
+  },
+  {
+    "text": "Dann nehme ich den Apfelkuchen. Was kostet das?",
+    "dialogue": "im-cafe",
+    "speaker": "Gast",
+    "source": "dialogues"
+  },
+  {
+    "text": "Der Kaffee kostet drei Euro und der Kuchen vier Euro. Das macht sieben Euro.",
+    "dialogue": "im-cafe",
+    "speaker": "Kellner",
+    "source": "dialogues"
+  },
+  {
+    "text": "Hallo, ich bin Lena. Wie heißt du?",
+    "dialogue": "kennenlernen",
+    "speaker": "Lena",
+    "source": "dialogues"
+  },
+  {
+    "text": "Hallo Lena, ich heiße Omar. Ich komme aus Ägypten.",
+    "dialogue": "kennenlernen",
+    "speaker": "Omar",
+    "source": "dialogues"
+  },
+  {
+    "text": "Wirklich? Ich war letztes Jahr in Kairo. Und was machst du hier?",
+    "dialogue": "kennenlernen",
+    "speaker": "Lena",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ich lerne Deutsch und ich arbeite in einem Restaurant.",
+    "dialogue": "kennenlernen",
+    "speaker": "Omar",
+    "source": "dialogues"
+  },
+  {
+    "text": "Das ist toll! Ich bin Studentin. Ich studiere Medizin.",
+    "dialogue": "kennenlernen",
+    "speaker": "Lena",
+    "source": "dialogues"
+  },
+  {
+    "text": "Wie schön. Wohnst du in Berlin?",
+    "dialogue": "kennenlernen",
+    "speaker": "Omar",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ja, seit zwei Jahren.",
+    "dialogue": "kennenlernen",
+    "speaker": "Lena",
+    "source": "dialogues"
+  },
+  {
+    "text": "Entschuldigung, wo ist der Bahnhof?",
+    "dialogue": "nach-dem-weg",
+    "speaker": "Touristin",
+    "source": "dialogues"
+  },
+  {
+    "text": "Gehen Sie hier geradeaus bis zur Ampel.",
+    "dialogue": "nach-dem-weg",
+    "speaker": "Passant",
+    "source": "dialogues"
+  },
+  {
+    "text": "Und dann?",
+    "dialogue": "nach-dem-weg",
+    "speaker": "Touristin",
+    "source": "dialogues"
+  },
+  {
+    "text": "Dann biegen Sie links ab. Der Bahnhof ist neben der Post.",
+    "dialogue": "nach-dem-weg",
+    "speaker": "Passant",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ist es weit?",
+    "dialogue": "nach-dem-weg",
+    "speaker": "Touristin",
+    "source": "dialogues"
+  },
+  {
+    "text": "Nein, nur fünf Minuten zu Fuß.",
+    "dialogue": "nach-dem-weg",
+    "speaker": "Passant",
+    "source": "dialogues"
+  },
+  {
+    "text": "Vielen Dank!",
+    "dialogue": "nach-dem-weg",
+    "speaker": "Touristin",
+    "source": "dialogues"
+  },
+  {
+    "text": "Wo ist die kleine Gießkanne?",
+    "dialogue": "pflanzen-am-fenster",
+    "speaker": "Nina",
+    "source": "dialogues"
+  },
+  {
+    "text": "Sie steht unter dem Tisch.",
+    "dialogue": "pflanzen-am-fenster",
+    "speaker": "Tom",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ist sie blau?",
+    "dialogue": "pflanzen-am-fenster",
+    "speaker": "Nina",
+    "source": "dialogues"
+  },
+  {
+    "text": "Nein, sie ist grün.",
+    "dialogue": "pflanzen-am-fenster",
+    "speaker": "Tom",
+    "source": "dialogues"
+  },
+  {
+    "text": "Danke. Die Pflanze hier braucht Wasser.",
+    "dialogue": "pflanzen-am-fenster",
+    "speaker": "Nina",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ich mache jetzt Tee. Möchtest du auch eine Tasse?",
+    "dialogue": "pflanzen-am-fenster",
+    "speaker": "Tom",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ja, bitte. Ohne Zucker.",
+    "dialogue": "pflanzen-am-fenster",
+    "speaker": "Nina",
+    "source": "dialogues"
+  },
+  {
+    "text": "Hast du einen Knopf für meine Jacke?",
+    "dialogue": "knopf-aussuchen",
+    "speaker": "Schwester",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ja. Hier ist ein schwarzer Knopf.",
+    "dialogue": "knopf-aussuchen",
+    "speaker": "Mira",
+    "source": "dialogues"
+  },
+  {
+    "text": "Danke, aber er ist zu klein.",
+    "dialogue": "knopf-aussuchen",
+    "speaker": "Schwester",
+    "source": "dialogues"
+  },
+  {
+    "text": "Dann schauen wir in die blaue Dose.",
+    "dialogue": "knopf-aussuchen",
+    "speaker": "Mira",
+    "source": "dialogues"
+  },
+  {
+    "text": "Da unten ist ein großer brauner Knopf.",
+    "dialogue": "knopf-aussuchen",
+    "speaker": "Schwester",
+    "source": "dialogues"
+  },
+  {
+    "text": "Passt er?",
+    "dialogue": "knopf-aussuchen",
+    "speaker": "Mira",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ja, den nehme ich. Vielen Dank!",
+    "dialogue": "knopf-aussuchen",
+    "speaker": "Schwester",
+    "source": "dialogues"
+  },
+  {
+    "text": "Wir sind fertig. Aber auf dem Boden liegt viel Papier.",
+    "dialogue": "nach-dem-basteln",
+    "speaker": "Lea",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ich hole den Handfeger und das Kehrblech.",
+    "dialogue": "nach-dem-basteln",
+    "speaker": "Amir",
+    "source": "dialogues"
+  },
+  {
+    "text": "Gut. Ich räume zuerst die Schere in die Schublade.",
+    "dialogue": "nach-dem-basteln",
+    "speaker": "Lea",
+    "source": "dialogues"
+  },
+  {
+    "text": "Kannst du dann das Kehrblech festhalten?",
+    "dialogue": "nach-dem-basteln",
+    "speaker": "Amir",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ja. Danach wische ich den Tisch ab.",
+    "dialogue": "nach-dem-basteln",
+    "speaker": "Lea",
+    "source": "dialogues"
+  },
+  {
+    "text": "Der Schwamm liegt neben dem Waschbecken.",
+    "dialogue": "nach-dem-basteln",
+    "speaker": "Amir",
+    "source": "dialogues"
+  },
+  {
+    "text": "Danke. Die Papierhäuser kommen zum Schluss auf das Regal.",
+    "dialogue": "nach-dem-basteln",
+    "speaker": "Lea",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ich mache heute einen langen Spaziergang.",
+    "dialogue": "pause-einpacken",
+    "speaker": "Lina",
+    "source": "dialogues"
+  },
+  {
+    "text": "Nimmst du etwas zu essen mit?",
+    "dialogue": "pause-einpacken",
+    "speaker": "Ben",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ja, zwei Brote und einen Apfel in meiner Brotdose.",
+    "dialogue": "pause-einpacken",
+    "speaker": "Lina",
+    "source": "dialogues"
+  },
+  {
+    "text": "Deine Trinkflasche steht noch auf dem Tisch.",
+    "dialogue": "pause-einpacken",
+    "speaker": "Ben",
+    "source": "dialogues"
+  },
+  {
+    "text": "Danke. Ich fülle sie mit Wasser.",
+    "dialogue": "pause-einpacken",
+    "speaker": "Lina",
+    "source": "dialogues"
+  },
+  {
+    "text": "Wo machst du eine Pause?",
+    "dialogue": "pause-einpacken",
+    "speaker": "Ben",
+    "source": "dialogues"
+  },
+  {
+    "text": "Auf einer Bank im Park. Den Apfel esse ich später.",
+    "dialogue": "pause-einpacken",
+    "speaker": "Lina",
+    "source": "dialogues"
+  },
+  {
+    "text": "Wo ist die kleine Ausstechform?",
+    "dialogue": "sterne-ausstechen",
+    "speaker": "Mila",
+    "source": "dialogues"
+  },
+  {
+    "text": "Auf dem Tisch. Sie hat die Form eines Sterns.",
+    "dialogue": "sterne-ausstechen",
+    "speaker": "Ben",
+    "source": "dialogues"
+  },
+  {
+    "text": "Gut. Ich steche die Sterne aus. Legst du sie auf das Blech?",
+    "dialogue": "sterne-ausstechen",
+    "speaker": "Mila",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ja. Brauchen wir auch die runde Backform?",
+    "dialogue": "sterne-ausstechen",
+    "speaker": "Ben",
+    "source": "dialogues"
+  },
+  {
+    "text": "Nein, sie bleibt heute im Schrank.",
+    "dialogue": "sterne-ausstechen",
+    "speaker": "Mila",
+    "source": "dialogues"
+  },
+  {
+    "text": "Unsere Freundin kommt am Nachmittag.",
+    "dialogue": "sterne-ausstechen",
+    "speaker": "Ben",
+    "source": "dialogues"
+  },
+  {
+    "text": "Dann legen wir drei fertige Sterne für sie auf einen Teller.",
+    "dialogue": "sterne-ausstechen",
+    "speaker": "Mila",
+    "source": "dialogues"
+  },
+  {
+    "text": "Heute hat Lea Geburtstag. Ich habe ein Buch für sie.",
+    "dialogue": "buch-einpacken",
+    "speaker": "Nils",
+    "source": "dialogues"
+  },
+  {
+    "text": "Hier ist eine kleine Geschenktüte. Passt das Buch hinein?",
+    "dialogue": "buch-einpacken",
+    "speaker": "Mara",
+    "source": "dialogues"
+  },
+  {
+    "text": "Nein, das Buch ist zu groß. Ich nehme Geschenkpapier.",
+    "dialogue": "buch-einpacken",
+    "speaker": "Nils",
+    "source": "dialogues"
+  },
+  {
+    "text": "Und welches Band möchtest du?",
+    "dialogue": "buch-einpacken",
+    "speaker": "Mara",
+    "source": "dialogues"
+  },
+  {
+    "text": "Das rote. Die Karte kommt unter das Band.",
+    "dialogue": "buch-einpacken",
+    "speaker": "Nils",
+    "source": "dialogues"
+  },
+  {
+    "text": "Nimmst du das Geschenk heute mit?",
+    "dialogue": "buch-einpacken",
+    "speaker": "Mara",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ja, am Abend. Die kleine Tüte bleibt hier.",
+    "dialogue": "buch-einpacken",
+    "speaker": "Nils",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ich habe vier Teller auf den Tisch gestellt.",
+    "dialogue": "vier-plaetze-decken",
+    "speaker": "Tom",
+    "source": "dialogues"
+  },
+  {
+    "text": "Gut. Hier sind vier gelbe Servietten.",
+    "dialogue": "vier-plaetze-decken",
+    "speaker": "Lena",
+    "source": "dialogues"
+  },
+  {
+    "text": "Für die Gläser nehme ich die Untersetzer. Ein Glas fehlt noch.",
+    "dialogue": "vier-plaetze-decken",
+    "speaker": "Tom",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ich hole es aus der Küche. Wohin kommt das Tablett?",
+    "dialogue": "vier-plaetze-decken",
+    "speaker": "Lena",
+    "source": "dialogues"
+  },
+  {
+    "text": "Auf den Stuhl neben dem Tisch. Dann haben wir Platz für das Essen.",
+    "dialogue": "vier-plaetze-decken",
+    "speaker": "Tom",
+    "source": "dialogues"
+  },
+  {
+    "text": "Und wann kommen unsere Freunde?",
+    "dialogue": "vier-plaetze-decken",
+    "speaker": "Lena",
+    "source": "dialogues"
+  },
+  {
+    "text": "Um sechs Uhr. Bis dahin ist alles fertig.",
+    "dialogue": "vier-plaetze-decken",
+    "speaker": "Tom",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ich lege das rote Lesezeichen ins Buch.",
+    "dialogue": "buch-morgen-abend",
+    "speaker": "Nora",
+    "source": "dialogues"
+  },
+  {
+    "text": "Kann ich das Buch morgen lesen?",
+    "dialogue": "buch-morgen-abend",
+    "speaker": "Sami",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ja, aber erst am Abend. Am Nachmittag brauche ich es noch.",
+    "dialogue": "buch-morgen-abend",
+    "speaker": "Nora",
+    "source": "dialogues"
+  },
+  {
+    "text": "Dann nehme ich heute ein anderes Buch.",
+    "dialogue": "buch-morgen-abend",
+    "speaker": "Sami",
+    "source": "dialogues"
+  },
+  {
+    "text": "Im Regal steht ein Buch über Züge.",
+    "dialogue": "buch-morgen-abend",
+    "speaker": "Nora",
+    "source": "dialogues"
+  },
+  {
+    "text": "Das nehme ich. Wo ist deine Brille?",
+    "dialogue": "buch-morgen-abend",
+    "speaker": "Sami",
+    "source": "dialogues"
+  },
+  {
+    "text": "Im Etui auf dem Tisch.",
+    "dialogue": "buch-morgen-abend",
+    "speaker": "Nora",
+    "source": "dialogues"
+  },
+  {
+    "text": "Kannst du mir morgen das Häkeln zeigen?",
+    "dialogue": "haekeln-erster-schritt",
+    "speaker": "Mila",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ja, am Samstag. Hast du schon Wolle und eine Häkelnadel?",
+    "dialogue": "haekeln-erster-schritt",
+    "speaker": "Sara",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ja. Die Wolle ist gelb, der Griff an der Nadel grau.",
+    "dialogue": "haekeln-erster-schritt",
+    "speaker": "Mila",
+    "source": "dialogues"
+  },
+  {
+    "text": "Was möchtest du machen?",
+    "dialogue": "haekeln-erster-schritt",
+    "speaker": "Sara",
+    "source": "dialogues"
+  },
+  {
+    "text": "Zuerst nur ein kleines Stück, keine Tasche.",
+    "dialogue": "haekeln-erster-schritt",
+    "speaker": "Mila",
+    "source": "dialogues"
+  },
+  {
+    "text": "Gut. Leg die Sachen in den Korb, dann finden wir sie morgen.",
+    "dialogue": "haekeln-erster-schritt",
+    "speaker": "Sara",
+    "source": "dialogues"
+  },
+  {
+    "text": "Der Korb steht neben dem Sofa.",
+    "dialogue": "haekeln-erster-schritt",
+    "speaker": "Mila",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ich habe eine Karte für unsere Tante geschrieben.",
+    "dialogue": "karte-noch-nicht-einpacken",
+    "speaker": "Lina",
+    "source": "dialogues"
+  },
+  {
+    "text": "Kann ich auch etwas darauf schreiben?",
+    "dialogue": "karte-noch-nicht-einpacken",
+    "speaker": "Sami",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ja. Die Karte liegt neben dem braunen Briefumschlag.",
+    "dialogue": "karte-noch-nicht-einpacken",
+    "speaker": "Lina",
+    "source": "dialogues"
+  },
+  {
+    "text": "Gut. Ich komme heute um sechs Uhr nach Hause.",
+    "dialogue": "karte-noch-nicht-einpacken",
+    "speaker": "Sami",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ich lege dir einen Stift dazu. Die Karte bleibt bis dahin draußen.",
+    "dialogue": "karte-noch-nicht-einpacken",
+    "speaker": "Lina",
+    "source": "dialogues"
+  },
+  {
+    "text": "Hast du die Adresse schon aufgeschrieben?",
+    "dialogue": "karte-noch-nicht-einpacken",
+    "speaker": "Sami",
+    "source": "dialogues"
+  },
+  {
+    "text": "Noch nicht. Sie steht im kleinen Heft in der Schublade.",
+    "dialogue": "karte-noch-nicht-einpacken",
+    "speaker": "Lina",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ich suche mein Plektrum. Hast du es gesehen?",
+    "dialogue": "plektrum-zurueckgeben",
+    "speaker": "Nora",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ja, ich habe es gestern benutzt. Entschuldigung.",
+    "dialogue": "plektrum-zurueckgeben",
+    "speaker": "Ben",
+    "source": "dialogues"
+  },
+  {
+    "text": "Liegt es auf dem Tisch?",
+    "dialogue": "plektrum-zurueckgeben",
+    "speaker": "Nora",
+    "source": "dialogues"
+  },
+  {
+    "text": "Nein, in meinem grünen Beutel. Hier, bitte.",
+    "dialogue": "plektrum-zurueckgeben",
+    "speaker": "Ben",
+    "source": "dialogues"
+  },
+  {
+    "text": "Danke. Ich möchte jetzt Gitarre spielen.",
+    "dialogue": "plektrum-zurueckgeben",
+    "speaker": "Nora",
+    "source": "dialogues"
+  },
+  {
+    "text": "Brauchst du auch das Buch vom Tisch?",
+    "dialogue": "plektrum-zurueckgeben",
+    "speaker": "Ben",
+    "source": "dialogues"
+  },
+  {
+    "text": "Nein, heute spiele ich ohne Buch.",
+    "dialogue": "plektrum-zurueckgeben",
+    "speaker": "Nora",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ich male am kleinen Tisch. Brauchst du den großen noch?",
+    "dialogue": "palette-aus-dem-regal",
+    "speaker": "Mila",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ja, ich mache meine Hausaufgaben fertig.",
+    "dialogue": "palette-aus-dem-regal",
+    "speaker": "Ben",
+    "source": "dialogues"
+  },
+  {
+    "text": "Dann bleibe ich hier am Fenster.",
+    "dialogue": "palette-aus-dem-regal",
+    "speaker": "Mila",
+    "source": "dialogues"
+  },
+  {
+    "text": "Brauchst du die Palette aus dem Regal?",
+    "dialogue": "palette-aus-dem-regal",
+    "speaker": "Ben",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ja, bitte. Die Pinsel liegen schon hier.",
+    "dialogue": "palette-aus-dem-regal",
+    "speaker": "Mila",
+    "source": "dialogues"
+  },
+  {
+    "text": "Hier. Darf ich später mitmalen?",
+    "dialogue": "palette-aus-dem-regal",
+    "speaker": "Ben",
+    "source": "dialogues"
+  },
+  {
+    "text": "Gern, nach deinen Hausaufgaben.",
+    "dialogue": "palette-aus-dem-regal",
+    "speaker": "Mila",
+    "source": "dialogues"
+  },
+  {
+    "text": "Wo ist die Zitronenpresse? In der Schublade liegt sie nicht.",
+    "dialogue": "saft-extra-lassen",
+    "speaker": "Lena",
+    "source": "dialogues"
+  },
+  {
+    "text": "Im oberen Regal, neben der Tasse.",
+    "dialogue": "saft-extra-lassen",
+    "speaker": "Omar",
+    "source": "dialogues"
+  },
+  {
+    "text": "Danke, ich habe sie. Soll ich den Saft über den Salat gießen?",
+    "dialogue": "saft-extra-lassen",
+    "speaker": "Lena",
+    "source": "dialogues"
+  },
+  {
+    "text": "Bitte noch nicht. Ich esse meinen Teil lieber ohne.",
+    "dialogue": "saft-extra-lassen",
+    "speaker": "Omar",
+    "source": "dialogues"
+  },
+  {
+    "text": "Dann stelle ich ihn in einer kleinen Schale auf den Tisch.",
+    "dialogue": "saft-extra-lassen",
+    "speaker": "Lena",
+    "source": "dialogues"
+  },
+  {
+    "text": "Gut. Du kannst dir dann selbst etwas nehmen.",
+    "dialogue": "saft-extra-lassen",
+    "speaker": "Omar",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ja, so machen wir es.",
+    "dialogue": "saft-extra-lassen",
+    "speaker": "Lena",
+    "source": "dialogues"
+  },
+  {
+    "text": "Brauchst du den leeren Schlüsselring noch?",
+    "dialogue": "den-leeren-ring",
+    "speaker": "Sami",
+    "source": "dialogues"
+  },
+  {
+    "text": "Nein. Meinen Schlüssel lege ich in meine Tasche.",
+    "dialogue": "den-leeren-ring",
+    "speaker": "Mila",
+    "source": "dialogues"
+  },
+  {
+    "text": "Kann ich den Ring haben? Er ist für meinen Schlüssel.",
+    "dialogue": "den-leeren-ring",
+    "speaker": "Sami",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ja. Hier ist der Ring.",
+    "dialogue": "den-leeren-ring",
+    "speaker": "Mila",
+    "source": "dialogues"
+  },
+  {
+    "text": "Danke. Die blaue Schale bleibt hier, oder?",
+    "dialogue": "den-leeren-ring",
+    "speaker": "Sami",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ja, auf der Kommode.",
+    "dialogue": "den-leeren-ring",
+    "speaker": "Mila",
+    "source": "dialogues"
+  },
+  {
+    "text": "Gut. Ich nehme nur den Ring.",
+    "dialogue": "den-leeren-ring",
+    "speaker": "Sami",
+    "source": "dialogues"
+  },
+  {
+    "text": "Siehst du die kleine Pflanzkelle?",
+    "dialogue": "kelle-aus-eimer",
+    "speaker": "Rana",
+    "source": "dialogues"
+  },
+  {
+    "text": "Auf dem Tisch liegt sie nicht. Hier sind nur Karten.",
+    "dialogue": "kelle-aus-eimer",
+    "speaker": "Tim",
+    "source": "dialogues"
+  },
+  {
+    "text": "Schau bitte in den Eimer unter der Bank.",
+    "dialogue": "kelle-aus-eimer",
+    "speaker": "Rana",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ja, da ist sie. Ich bringe dir den ganzen Eimer.",
+    "dialogue": "kelle-aus-eimer",
+    "speaker": "Tim",
+    "source": "dialogues"
+  },
+  {
+    "text": "Danke. Die Kelle nehme ich heraus.",
+    "dialogue": "kelle-aus-eimer",
+    "speaker": "Rana",
+    "source": "dialogues"
+  },
+  {
+    "text": "Soll ich meinen Namen auf eine Karte schreiben?",
+    "dialogue": "kelle-aus-eimer",
+    "speaker": "Tim",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ja. Die dritte Karte lassen wir aber leer.",
+    "dialogue": "kelle-aus-eimer",
+    "speaker": "Rana",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ich suche meine kleine Luftpumpe. Ist sie im roten Beutel?",
+    "dialogue": "pumpe-laengere-tasche",
+    "speaker": "Emil",
+    "source": "dialogues"
+  },
+  {
+    "text": "Nein, da liegt nur ein Tuch.",
+    "dialogue": "pumpe-laengere-tasche",
+    "speaker": "Salma",
+    "source": "dialogues"
+  },
+  {
+    "text": "Dann schaue ich noch einmal auf das Regal.",
+    "dialogue": "pumpe-laengere-tasche",
+    "speaker": "Emil",
+    "source": "dialogues"
+  },
+  {
+    "text": "Hier ist sie, unter der grauen Jacke.",
+    "dialogue": "pumpe-laengere-tasche",
+    "speaker": "Salma",
+    "source": "dialogues"
+  },
+  {
+    "text": "Gut. Aber sie passt nicht in den kurzen Beutel.",
+    "dialogue": "pumpe-laengere-tasche",
+    "speaker": "Emil",
+    "source": "dialogues"
+  },
+  {
+    "text": "Ich hole die längere Tasche.",
+    "dialogue": "pumpe-laengere-tasche",
+    "speaker": "Salma",
+    "source": "dialogues"
+  },
+  {
+    "text": "Danke. Das Tuch kann im roten Beutel bleiben.",
+    "dialogue": "pumpe-laengere-tasche",
+    "speaker": "Emil",
+    "source": "dialogues"
+  }
+]
