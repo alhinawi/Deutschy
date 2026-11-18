@@ -628,5 +628,523 @@
     "shard": "deutschy-local",
     "provider": "Gemini TTS",
     "source": "noun:klavier"
+  },
+  "Mädchen": {
+    "url": "/clips/d3d11e0ed0c4bb3f3e64556824926a26c6e31df0039469d3319e73f1f5f70281.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:umlaut-a"
+  },
+  "Bäcker": {
+    "url": "/clips/189051932d79e1a3d1f881f2b5efa90fdb96903e765151923979fe21a6fa3e2a.mp3",
+    "voiceId": "Kore",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:umlaut-a"
+  },
+  "Käse": {
+    "url": "/clips/03235a5f8b70a2ded45e56b8259f770d1c2f45373764a2c338762f9ab6b32ca2.mp3",
+    "voiceId": "Charon",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:umlaut-a"
+  },
+  "Äpfel": {
+    "url": "/clips/a8fe6d68941f27c12469b8c564218b13ee0b7149e51fc5f248db512abaf34ab5.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:umlaut-a"
+  },
+  "spät": {
+    "url": "/clips/56fbeee2e4466153c798c115e7199e9febb57e92e7e018a4d07dce0771cd0b59.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:umlaut-a"
+  },
+  "Zähne": {
+    "url": "/clips/050b7148262276ae75a79c409c484da705327ff006f403cfbb4d22107317cf24.mp3",
+    "voiceId": "Kore",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:umlaut-a"
+  },
+  "schön": {
+    "url": "/clips/f78f22efda876eb4e7d7abd0f9606ee9a5da212124d91d043c91818f8581ec28.mp3",
+    "voiceId": "Charon",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:umlaut-o"
+  },
+  "Öl": {
+    "url": "/clips/d84dc5ed9a1d5b2f6fdb8da6f64f44a3ad10b1fb8c1e8140d5f53c7e37122fb6.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:umlaut-o"
+  },
+  "Löffel": {
+    "url": "/clips/44ba08d6c4557a09ac309f7704ba9fa1f5ac20785d8d00ec0efce139046dab20.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:umlaut-o"
+  },
+  "können": {
+    "url": "/clips/0839e57e6eed4062ad666751c402d1d9441683566baf240fc72f9ae1c087378b.mp3",
+    "voiceId": "Kore",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:umlaut-o"
+  },
+  "möchten": {
+    "url": "/clips/7942bacd37899768069aa861f5b1dd581747a06853cd5f214c73203a05bbe9b3.mp3",
+    "voiceId": "Charon",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:umlaut-o"
+  },
+  "Köln": {
+    "url": "/clips/6f2c61331ff40fbb3f93c4442c225043785e50f5ecb2b669f88bf63f6076c037.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:umlaut-o"
+  },
+  "über": {
+    "url": "/clips/6f96486cb9d5dcebbc071329b458bb27214ef1fbcebc1c39c7f09cda442a731a.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:umlaut-u"
+  },
+  "Tür": {
+    "url": "/clips/5870ba5f426b781d78eb88cc5737242e3c4e49249e74f46483c46cff649ad768.mp3",
+    "voiceId": "Kore",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:umlaut-u"
+  },
+  "Küche": {
+    "url": "/clips/2eea2ad9e90a4cd4572f2a17278bbe8b69ca49aae0bfe1b4b9f0e3ff376f074e.mp3",
+    "voiceId": "Charon",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:umlaut-u"
+  },
+  "Bücher": {
+    "url": "/clips/764e44361973ec4b023b012b67634a32ca7248f208517fbba6b7e5e17183d703.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:umlaut-u"
+  },
+  "müde": {
+    "url": "/clips/bd242f77deebd2fb558de5af748ad18df8a039a8358f36d11a077f3f5a3f6885.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:umlaut-u"
+  },
+  "für": {
+    "url": "/clips/fa948e0b13617dde32e8a4655b7271cb0aecc442f87a059ef4b69391d31677fc.mp3",
+    "voiceId": "Kore",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:umlaut-u"
+  },
+  "Straße": {
+    "url": "/clips/bee730c80d00661d97975f3c409fc915fac3fed0230667f6c8be08eb3203fd54.mp3",
+    "voiceId": "Charon",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:eszett"
+  },
+  "heiß": {
+    "url": "/clips/c73bd35652c8c66b12fde993c4812a16db7a39ac903669d52f546e44e91ff225.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:eszett"
+  },
+  "Fuß": {
+    "url": "/clips/9673e655d04e795219e37a78a42a17e89e9f188b6f9201361a1d2d47c115dc0f.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:eszett"
+  },
+  "weiß": {
+    "url": "/clips/24f05e6959dd8d2b7aef6c7ef3602b1246f7f0eb8dd1077c414ebb367e742378.mp3",
+    "voiceId": "Kore",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:eszett"
+  },
+  "groß": {
+    "url": "/clips/047a871295e020a0db24f845da86e359eaf8f832eaab2cae01d53f3c100c5e7d.mp3",
+    "voiceId": "Charon",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:eszett"
+  },
+  "Spaß": {
+    "url": "/clips/a3b2b09cb340f67864338ede12bad093bf96e7e7e5f73292538e3e5ef88a50d6.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:eszett"
+  },
+  "ich": {
+    "url": "/clips/8d8e3ed9766a2836f6cf311e960c00b09cf02fe72abe3bb575a80689e28c4c94.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:ich"
+  },
+  "nicht": {
+    "url": "/clips/2196f5c4f6d8ceb193a594f228642512a44ff93b96bc6ccc6df51c9e342fb463.mp3",
+    "voiceId": "Kore",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:ich"
+  },
+  "Milch": {
+    "url": "/clips/54bbc54bb59e2dfc92bae80927cfd0178db12dbccf6d90991e878d312baa21d3.mp3",
+    "voiceId": "Charon",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:ich"
+  },
+  "welche": {
+    "url": "/clips/116ac912ae4a5e8f1dc87602f40fdb412c8faeab962643d4ab6ea1b9eb1d68c1.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:ich"
+  },
+  "Buch": {
+    "url": "/clips/d068332904dc3dd2d9dd83614edfbd130298a77e8a21716992d879bbe26de943.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:ach"
+  },
+  "Bach": {
+    "url": "/clips/b986488f12f70a5c21079defcd07686704041affe92ab6301daaf6f5bed80afc.mp3",
+    "voiceId": "Kore",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:ach"
+  },
+  "machen": {
+    "url": "/clips/504c2102f131784530c2be3a2b3078eede66e0927c636d5e8396ea108c4f8290.mp3",
+    "voiceId": "Charon",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:ach"
+  },
+  "noch": {
+    "url": "/clips/5a9230661f55eec7eb84383e9c595fb879fb0203fcd03f42567207ea93e47634.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:ach"
+  },
+  "auch": {
+    "url": "/clips/2da0a21a50e164553f2eb1616e3d40d1e3821e6edcd286b26e6976887e450dd7.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:ach"
+  },
+  "Nacht": {
+    "url": "/clips/c098e7a58518062c1e905648b040c8dca8c616923aaf230e2b2f887d3664fc8e.mp3",
+    "voiceId": "Kore",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:ach"
+  },
+  "Schule": {
+    "url": "/clips/e4874e27fbf9cfd826b6c751c09d8f9040b6e04de0880034e7f7bec631597658.mp3",
+    "voiceId": "Charon",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:sch"
+  },
+  "Tisch": {
+    "url": "/clips/d67c0a092c0a052f292843b9781e4bf225aa93356ea29489ec9d5554478eb109.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:sch"
+  },
+  "Schwester": {
+    "url": "/clips/7888ac636095649c0ed0cf168d3953f32229fd0ad1699ae4916715f261dd89e0.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:sch"
+  },
+  "Stadt": {
+    "url": "/clips/91a1b08c19bcb2f31c1ab7fa5f05c54bd7ddf8d1373e265695cacab36793f239.mp3",
+    "voiceId": "Kore",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:sch"
+  },
+  "Sport": {
+    "url": "/clips/d803d1d45bb7c37da6fb9b9845eb75eaa82b6855eb1fdece499c6a7ea2ee6b6b.mp3",
+    "voiceId": "Charon",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:sch"
+  },
+  "sprechen": {
+    "url": "/clips/b5601151433d372139039b2ca9fd4085b231b62859c308dee6b18dd9b5061ea9.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:sch"
+  },
+  "nein": {
+    "url": "/clips/6a7c347fc2f07b0f13e8e638cf429f5e150af1fb8e1ad9a3adff87c5ce26931c.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:ei-ie"
+  },
+  "Eis": {
+    "url": "/clips/589416892620998a3da727b24c3bd75b9a70b8e481357f2622f8a4ccdaf4742c.mp3",
+    "voiceId": "Kore",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:ei-ie"
+  },
+  "Zeit": {
+    "url": "/clips/854de2604e15dc088a4d185e6fc6d0073eca1f9530da2399907d9e4866979bad.mp3",
+    "voiceId": "Charon",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:ei-ie"
+  },
+  "Liebe": {
+    "url": "/clips/00c2e051ddd5d97b1ac4dcae97519da17123910f0cae3f2ba96ec9f93fd42fb3.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:ei-ie"
+  },
+  "Bier": {
+    "url": "/clips/32d19e3313ba112476a938db1456658bc85426352748d916aa16e29ba7a9e498.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:ei-ie"
+  },
+  "viel": {
+    "url": "/clips/912103064c9faacac1f5f1f454ddd2b2b17f99773ba3114f8ef0683ca0ec1d5f.mp3",
+    "voiceId": "Kore",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:ei-ie"
+  },
+  "Euro": {
+    "url": "/clips/fe642085c42ed9eb68564206640befa085ae14394f4c1c6941dcc946816e979f.mp3",
+    "voiceId": "Charon",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:eu"
+  },
+  "neun": {
+    "url": "/clips/3f046c84cfe71d9f71408c7f1daf93c2ff0b3843bdaf3b7750301dececc5251e.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:eu"
+  },
+  "Freund": {
+    "url": "/clips/dc94eb6eed68650ae9df32496033580e1005927c4110a166b5f1a3e768716e05.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:eu"
+  },
+  "heute": {
+    "url": "/clips/7fa3b1ddba121e1f1162b1b25f9114cf79fe4e66d34da74f924c6e0d0d04183c.mp3",
+    "voiceId": "Kore",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:eu"
+  },
+  "Häuser": {
+    "url": "/clips/5d977ea5974b449ceb0cfe5a0ce481ba4a5d7cbc314c62f4fa3cc3c5eefe55e8.mp3",
+    "voiceId": "Charon",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:eu"
+  },
+  "träumen": {
+    "url": "/clips/56d5667eec140efd4e07e8b56c6666e1cf0f80e5a7cf9d000cc52bc9cb3608e9.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:eu"
+  },
+  "Zahl": {
+    "url": "/clips/98e3cc5a33d5e6d0a324d338a786647b714d81d10b0f6924c33b811af3314a62.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:z"
+  },
+  "Zug": {
+    "url": "/clips/563d7dd8eb68c06d894471b250e500893c4cd9b89043c67f9ad516530144d53d.mp3",
+    "voiceId": "Kore",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:z"
+  },
+  "Zimmer": {
+    "url": "/clips/bd41b29155efba6323c1c23e52215c0ffc5ccb622305b2a8bd6b8f9200ae5905.mp3",
+    "voiceId": "Charon",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:z"
+  },
+  "ziehen": {
+    "url": "/clips/076d65f372ffdd2d433b0ee28dfc0ac134ba34832ec49ad7d0b0e3014c2cafb6.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:z"
+  },
+  "Platz": {
+    "url": "/clips/74e5ca7ccd7c8f5804574d7e72389cc80365e1e75f1c5ae9502d496a1ba2e6c0.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:z"
+  },
+  "Vater": {
+    "url": "/clips/9d15a701ed08079d56326544cf74a02685d3c338453a6cd0b1d741337ead5a7a.mp3",
+    "voiceId": "Kore",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:v-w"
+  },
+  "Vogel": {
+    "url": "/clips/9273d38aa8f3bc23f20976489e9b08fb033a8d2d28f647106d28cd6e4099ac2a.mp3",
+    "voiceId": "Charon",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:v-w"
+  },
+  "Wasser": {
+    "url": "/clips/0028785fe62a652376e26640bce9f32eb2459b8789c61bcf21abac4b92244959.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:v-w"
+  },
+  "Wein": {
+    "url": "/clips/5948256c21356b3177d72bb4cf3058841ba6dffc8983cc954b7064321c648b11.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:v-w"
+  },
+  "Wohnung": {
+    "url": "/clips/486d637d7672362c8ccfd267c8f8561588e2b0da39f1fa0c5215fdf7dda5996d.mp3",
+    "voiceId": "Kore",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:v-w"
+  },
+  "rot": {
+    "url": "/clips/ca2340e6b4e57b24d70e36e263e59de0fe00272878c52c1573c9295a29d0d63b.mp3",
+    "voiceId": "Charon",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:r"
+  },
+  "Reis": {
+    "url": "/clips/998c90d5358150ec2b7baff2ba33cf8e8404929a5980afaf38c5ce75c5dc1c2c.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:r"
+  },
+  "Bruder": {
+    "url": "/clips/77a0e9c34d391b90e051e3e42125ff62ac379cff4a5cdcc6ba265467514267d0.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:r"
+  },
+  "Berg": {
+    "url": "/clips/19e12489bbee80226766bbc39d2f70d29af5e6ed4ddbfe61e0dc4f56333646d5.mp3",
+    "voiceId": "Kore",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:r"
+  },
+  "Lehrer": {
+    "url": "/clips/682a6334c0097450444a7eae4bd58ed398157f58a0173cf8ea570d537f15e56e.mp3",
+    "voiceId": "Charon",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:r"
+  },
+  "schon": {
+    "url": "/clips/3c6d3de3c9336c030d204a2ab61e81d7ef527e22fd930c1aca8da85b89156183.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:pairs"
+  },
+  "Bar": {
+    "url": "/clips/bce7415218a0bbb8b49912c18cb9040aa6ec088ec7d673e9396d422127c285ec.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:pairs"
+  },
+  "Bär": {
+    "url": "/clips/6efd0ff9c2f0152f244acc33fc54be42d0f6b6c0ca7afad855cefded31cdd285.mp3",
+    "voiceId": "Kore",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:pairs"
+  },
+  "lesen": {
+    "url": "/clips/a6a0619553e25183ae75cce2e0dd0e9ae928f68d54caa6ac4df3dbdc39149cda.mp3",
+    "voiceId": "Charon",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:pairs"
+  },
+  "lösen": {
+    "url": "/clips/618bfc54796cf8c907f7f5d97c86b981415dfa6a2ef8e16c8f835b0acb397002.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:pairs"
+  },
+  "musste": {
+    "url": "/clips/c5dab10eecb88079ac0eaf17dc0ce4d56bb68f4e060d15223e2a64ce6022f26e.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:pairs"
+  },
+  "müsste": {
+    "url": "/clips/109470c192890a42ed4e2d9011802afd32234b830bfb2f99e34a15117a489a9a.mp3",
+    "voiceId": "Kore",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "pronunciation:pairs"
   }
 }
