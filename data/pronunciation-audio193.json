@@ -1,0 +1,671 @@
+{
+  "cause": "Bare-word coverage gap. Server TTS currently disabled; Edge-only browser fallback cannot supply an approved voice on many Android devices. Static clips bypass D1 and browser voice availability.",
+  "entries": [
+    {
+      "id": "pron193-001",
+      "text": "Mädchen",
+      "source": "pronunciation:umlaut-a",
+      "url": "/clips/d3d11e0ed0c4bb3f3e64556824926a26c6e31df0039469d3319e73f1f5f70281.mp3",
+      "sha256": "d3d11e0ed0c4bb3f3e64556824926a26c6e31df0039469d3319e73f1f5f70281",
+      "bytes": 6573,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-002",
+      "text": "Bäcker",
+      "source": "pronunciation:umlaut-a",
+      "url": "/clips/189051932d79e1a3d1f881f2b5efa90fdb96903e765151923979fe21a6fa3e2a.mp3",
+      "sha256": "189051932d79e1a3d1f881f2b5efa90fdb96903e765151923979fe21a6fa3e2a",
+      "bytes": 6189,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-003",
+      "text": "Käse",
+      "source": "pronunciation:umlaut-a",
+      "url": "/clips/03235a5f8b70a2ded45e56b8259f770d1c2f45373764a2c338762f9ab6b32ca2.mp3",
+      "sha256": "03235a5f8b70a2ded45e56b8259f770d1c2f45373764a2c338762f9ab6b32ca2",
+      "bytes": 7341,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-004",
+      "text": "Äpfel",
+      "source": "pronunciation:umlaut-a",
+      "url": "/clips/a8fe6d68941f27c12469b8c564218b13ee0b7149e51fc5f248db512abaf34ab5.mp3",
+      "sha256": "a8fe6d68941f27c12469b8c564218b13ee0b7149e51fc5f248db512abaf34ab5",
+      "bytes": 6765,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-005",
+      "text": "spät",
+      "source": "pronunciation:umlaut-a",
+      "url": "/clips/56fbeee2e4466153c798c115e7199e9febb57e92e7e018a4d07dce0771cd0b59.mp3",
+      "sha256": "56fbeee2e4466153c798c115e7199e9febb57e92e7e018a4d07dce0771cd0b59",
+      "bytes": 6957,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-006",
+      "text": "Zähne",
+      "source": "pronunciation:umlaut-a",
+      "url": "/clips/050b7148262276ae75a79c409c484da705327ff006f403cfbb4d22107317cf24.mp3",
+      "sha256": "050b7148262276ae75a79c409c484da705327ff006f403cfbb4d22107317cf24",
+      "bytes": 6765,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-007",
+      "text": "schön",
+      "source": "pronunciation:umlaut-o",
+      "url": "/clips/f78f22efda876eb4e7d7abd0f9606ee9a5da212124d91d043c91818f8581ec28.mp3",
+      "sha256": "f78f22efda876eb4e7d7abd0f9606ee9a5da212124d91d043c91818f8581ec28",
+      "bytes": 5421,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-008",
+      "text": "Öl",
+      "source": "pronunciation:umlaut-o",
+      "url": "/clips/d84dc5ed9a1d5b2f6fdb8da6f64f44a3ad10b1fb8c1e8140d5f53c7e37122fb6.mp3",
+      "sha256": "d84dc5ed9a1d5b2f6fdb8da6f64f44a3ad10b1fb8c1e8140d5f53c7e37122fb6",
+      "bytes": 5229,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-009",
+      "text": "Löffel",
+      "source": "pronunciation:umlaut-o",
+      "url": "/clips/44ba08d6c4557a09ac309f7704ba9fa1f5ac20785d8d00ec0efce139046dab20.mp3",
+      "sha256": "44ba08d6c4557a09ac309f7704ba9fa1f5ac20785d8d00ec0efce139046dab20",
+      "bytes": 5997,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-010",
+      "text": "können",
+      "source": "pronunciation:umlaut-o",
+      "url": "/clips/0839e57e6eed4062ad666751c402d1d9441683566baf240fc72f9ae1c087378b.mp3",
+      "sha256": "0839e57e6eed4062ad666751c402d1d9441683566baf240fc72f9ae1c087378b",
+      "bytes": 6957,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-011",
+      "text": "möchten",
+      "source": "pronunciation:umlaut-o",
+      "url": "/clips/7942bacd37899768069aa861f5b1dd581747a06853cd5f214c73203a05bbe9b3.mp3",
+      "sha256": "7942bacd37899768069aa861f5b1dd581747a06853cd5f214c73203a05bbe9b3",
+      "bytes": 8877,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-012",
+      "text": "Köln",
+      "source": "pronunciation:umlaut-o",
+      "url": "/clips/6f2c61331ff40fbb3f93c4442c225043785e50f5ecb2b669f88bf63f6076c037.mp3",
+      "sha256": "6f2c61331ff40fbb3f93c4442c225043785e50f5ecb2b669f88bf63f6076c037",
+      "bytes": 5421,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-013",
+      "text": "über",
+      "source": "pronunciation:umlaut-u",
+      "url": "/clips/6f96486cb9d5dcebbc071329b458bb27214ef1fbcebc1c39c7f09cda442a731a.mp3",
+      "sha256": "6f96486cb9d5dcebbc071329b458bb27214ef1fbcebc1c39c7f09cda442a731a",
+      "bytes": 7917,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-014",
+      "text": "Tür",
+      "source": "pronunciation:umlaut-u",
+      "url": "/clips/5870ba5f426b781d78eb88cc5737242e3c4e49249e74f46483c46cff649ad768.mp3",
+      "sha256": "5870ba5f426b781d78eb88cc5737242e3c4e49249e74f46483c46cff649ad768",
+      "bytes": 4653,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-015",
+      "text": "Küche",
+      "source": "pronunciation:umlaut-u",
+      "url": "/clips/2eea2ad9e90a4cd4572f2a17278bbe8b69ca49aae0bfe1b4b9f0e3ff376f074e.mp3",
+      "sha256": "2eea2ad9e90a4cd4572f2a17278bbe8b69ca49aae0bfe1b4b9f0e3ff376f074e",
+      "bytes": 5805,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-016",
+      "text": "Bücher",
+      "source": "pronunciation:umlaut-u",
+      "url": "/clips/764e44361973ec4b023b012b67634a32ca7248f208517fbba6b7e5e17183d703.mp3",
+      "sha256": "764e44361973ec4b023b012b67634a32ca7248f208517fbba6b7e5e17183d703",
+      "bytes": 5997,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-017",
+      "text": "müde",
+      "source": "pronunciation:umlaut-u",
+      "url": "/clips/bd242f77deebd2fb558de5af748ad18df8a039a8358f36d11a077f3f5a3f6885.mp3",
+      "sha256": "bd242f77deebd2fb558de5af748ad18df8a039a8358f36d11a077f3f5a3f6885",
+      "bytes": 6189,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-018",
+      "text": "für",
+      "source": "pronunciation:umlaut-u",
+      "url": "/clips/fa948e0b13617dde32e8a4655b7271cb0aecc442f87a059ef4b69391d31677fc.mp3",
+      "sha256": "fa948e0b13617dde32e8a4655b7271cb0aecc442f87a059ef4b69391d31677fc",
+      "bytes": 6381,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-019",
+      "text": "Straße",
+      "source": "pronunciation:eszett",
+      "url": "/clips/bee730c80d00661d97975f3c409fc915fac3fed0230667f6c8be08eb3203fd54.mp3",
+      "sha256": "bee730c80d00661d97975f3c409fc915fac3fed0230667f6c8be08eb3203fd54",
+      "bytes": 8685,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-020",
+      "text": "heiß",
+      "source": "pronunciation:eszett",
+      "url": "/clips/c73bd35652c8c66b12fde993c4812a16db7a39ac903669d52f546e44e91ff225.mp3",
+      "sha256": "c73bd35652c8c66b12fde993c4812a16db7a39ac903669d52f546e44e91ff225",
+      "bytes": 5613,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-021",
+      "text": "Fuß",
+      "source": "pronunciation:eszett",
+      "url": "/clips/9673e655d04e795219e37a78a42a17e89e9f188b6f9201361a1d2d47c115dc0f.mp3",
+      "sha256": "9673e655d04e795219e37a78a42a17e89e9f188b6f9201361a1d2d47c115dc0f",
+      "bytes": 9453,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-022",
+      "text": "weiß",
+      "source": "pronunciation:eszett",
+      "url": "/clips/24f05e6959dd8d2b7aef6c7ef3602b1246f7f0eb8dd1077c414ebb367e742378.mp3",
+      "sha256": "24f05e6959dd8d2b7aef6c7ef3602b1246f7f0eb8dd1077c414ebb367e742378",
+      "bytes": 6957,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-023",
+      "text": "groß",
+      "source": "pronunciation:eszett",
+      "url": "/clips/047a871295e020a0db24f845da86e359eaf8f832eaab2cae01d53f3c100c5e7d.mp3",
+      "sha256": "047a871295e020a0db24f845da86e359eaf8f832eaab2cae01d53f3c100c5e7d",
+      "bytes": 7341,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-024",
+      "text": "Spaß",
+      "source": "pronunciation:eszett",
+      "url": "/clips/a3b2b09cb340f67864338ede12bad093bf96e7e7e5f73292538e3e5ef88a50d6.mp3",
+      "sha256": "a3b2b09cb340f67864338ede12bad093bf96e7e7e5f73292538e3e5ef88a50d6",
+      "bytes": 8685,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-025",
+      "text": "ich",
+      "source": "pronunciation:ich",
+      "url": "/clips/8d8e3ed9766a2836f6cf311e960c00b09cf02fe72abe3bb575a80689e28c4c94.mp3",
+      "sha256": "8d8e3ed9766a2836f6cf311e960c00b09cf02fe72abe3bb575a80689e28c4c94",
+      "bytes": 4461,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-026",
+      "text": "nicht",
+      "source": "pronunciation:ich",
+      "url": "/clips/2196f5c4f6d8ceb193a594f228642512a44ff93b96bc6ccc6df51c9e342fb463.mp3",
+      "sha256": "2196f5c4f6d8ceb193a594f228642512a44ff93b96bc6ccc6df51c9e342fb463",
+      "bytes": 6381,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-027",
+      "text": "Milch",
+      "source": "pronunciation:ich",
+      "url": "/clips/54bbc54bb59e2dfc92bae80927cfd0178db12dbccf6d90991e878d312baa21d3.mp3",
+      "sha256": "54bbc54bb59e2dfc92bae80927cfd0178db12dbccf6d90991e878d312baa21d3",
+      "bytes": 6381,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-028",
+      "text": "welche",
+      "source": "pronunciation:ich",
+      "url": "/clips/116ac912ae4a5e8f1dc87602f40fdb412c8faeab962643d4ab6ea1b9eb1d68c1.mp3",
+      "sha256": "116ac912ae4a5e8f1dc87602f40fdb412c8faeab962643d4ab6ea1b9eb1d68c1",
+      "bytes": 6765,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-029",
+      "text": "Buch",
+      "source": "pronunciation:ach",
+      "url": "/clips/d068332904dc3dd2d9dd83614edfbd130298a77e8a21716992d879bbe26de943.mp3",
+      "sha256": "d068332904dc3dd2d9dd83614edfbd130298a77e8a21716992d879bbe26de943",
+      "bytes": 6765,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-030",
+      "text": "Bach",
+      "source": "pronunciation:ach",
+      "url": "/clips/b986488f12f70a5c21079defcd07686704041affe92ab6301daaf6f5bed80afc.mp3",
+      "sha256": "b986488f12f70a5c21079defcd07686704041affe92ab6301daaf6f5bed80afc",
+      "bytes": 4077,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-031",
+      "text": "machen",
+      "source": "pronunciation:ach",
+      "url": "/clips/504c2102f131784530c2be3a2b3078eede66e0927c636d5e8396ea108c4f8290.mp3",
+      "sha256": "504c2102f131784530c2be3a2b3078eede66e0927c636d5e8396ea108c4f8290",
+      "bytes": 5613,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-032",
+      "text": "noch",
+      "source": "pronunciation:ach",
+      "url": "/clips/5a9230661f55eec7eb84383e9c595fb879fb0203fcd03f42567207ea93e47634.mp3",
+      "sha256": "5a9230661f55eec7eb84383e9c595fb879fb0203fcd03f42567207ea93e47634",
+      "bytes": 5229,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-033",
+      "text": "auch",
+      "source": "pronunciation:ach",
+      "url": "/clips/2da0a21a50e164553f2eb1616e3d40d1e3821e6edcd286b26e6976887e450dd7.mp3",
+      "sha256": "2da0a21a50e164553f2eb1616e3d40d1e3821e6edcd286b26e6976887e450dd7",
+      "bytes": 8685,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-034",
+      "text": "Nacht",
+      "source": "pronunciation:ach",
+      "url": "/clips/c098e7a58518062c1e905648b040c8dca8c616923aaf230e2b2f887d3664fc8e.mp3",
+      "sha256": "c098e7a58518062c1e905648b040c8dca8c616923aaf230e2b2f887d3664fc8e",
+      "bytes": 6573,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-035",
+      "text": "Schule",
+      "source": "pronunciation:sch",
+      "url": "/clips/e4874e27fbf9cfd826b6c751c09d8f9040b6e04de0880034e7f7bec631597658.mp3",
+      "sha256": "e4874e27fbf9cfd826b6c751c09d8f9040b6e04de0880034e7f7bec631597658",
+      "bytes": 7341,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-036",
+      "text": "Tisch",
+      "source": "pronunciation:sch",
+      "url": "/clips/d67c0a092c0a052f292843b9781e4bf225aa93356ea29489ec9d5554478eb109.mp3",
+      "sha256": "d67c0a092c0a052f292843b9781e4bf225aa93356ea29489ec9d5554478eb109",
+      "bytes": 4461,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-037",
+      "text": "Schwester",
+      "source": "pronunciation:sch",
+      "url": "/clips/7888ac636095649c0ed0cf168d3953f32229fd0ad1699ae4916715f261dd89e0.mp3",
+      "sha256": "7888ac636095649c0ed0cf168d3953f32229fd0ad1699ae4916715f261dd89e0",
+      "bytes": 7725,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-038",
+      "text": "Stadt",
+      "source": "pronunciation:sch",
+      "url": "/clips/91a1b08c19bcb2f31c1ab7fa5f05c54bd7ddf8d1373e265695cacab36793f239.mp3",
+      "sha256": "91a1b08c19bcb2f31c1ab7fa5f05c54bd7ddf8d1373e265695cacab36793f239",
+      "bytes": 6573,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-039",
+      "text": "Sport",
+      "source": "pronunciation:sch",
+      "url": "/clips/d803d1d45bb7c37da6fb9b9845eb75eaa82b6855eb1fdece499c6a7ea2ee6b6b.mp3",
+      "sha256": "d803d1d45bb7c37da6fb9b9845eb75eaa82b6855eb1fdece499c6a7ea2ee6b6b",
+      "bytes": 6765,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-040",
+      "text": "sprechen",
+      "source": "pronunciation:sch",
+      "url": "/clips/b5601151433d372139039b2ca9fd4085b231b62859c308dee6b18dd9b5061ea9.mp3",
+      "sha256": "b5601151433d372139039b2ca9fd4085b231b62859c308dee6b18dd9b5061ea9",
+      "bytes": 8493,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-041",
+      "text": "nein",
+      "source": "pronunciation:ei-ie",
+      "url": "/clips/6a7c347fc2f07b0f13e8e638cf429f5e150af1fb8e1ad9a3adff87c5ce26931c.mp3",
+      "sha256": "6a7c347fc2f07b0f13e8e638cf429f5e150af1fb8e1ad9a3adff87c5ce26931c",
+      "bytes": 5613,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-042",
+      "text": "Eis",
+      "source": "pronunciation:ei-ie",
+      "url": "/clips/589416892620998a3da727b24c3bd75b9a70b8e481357f2622f8a4ccdaf4742c.mp3",
+      "sha256": "589416892620998a3da727b24c3bd75b9a70b8e481357f2622f8a4ccdaf4742c",
+      "bytes": 7149,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-043",
+      "text": "Zeit",
+      "source": "pronunciation:ei-ie",
+      "url": "/clips/854de2604e15dc088a4d185e6fc6d0073eca1f9530da2399907d9e4866979bad.mp3",
+      "sha256": "854de2604e15dc088a4d185e6fc6d0073eca1f9530da2399907d9e4866979bad",
+      "bytes": 6189,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-044",
+      "text": "Liebe",
+      "source": "pronunciation:ei-ie",
+      "url": "/clips/00c2e051ddd5d97b1ac4dcae97519da17123910f0cae3f2ba96ec9f93fd42fb3.mp3",
+      "sha256": "00c2e051ddd5d97b1ac4dcae97519da17123910f0cae3f2ba96ec9f93fd42fb3",
+      "bytes": 6573,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-045",
+      "text": "Bier",
+      "source": "pronunciation:ei-ie",
+      "url": "/clips/32d19e3313ba112476a938db1456658bc85426352748d916aa16e29ba7a9e498.mp3",
+      "sha256": "32d19e3313ba112476a938db1456658bc85426352748d916aa16e29ba7a9e498",
+      "bytes": 6381,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-046",
+      "text": "viel",
+      "source": "pronunciation:ei-ie",
+      "url": "/clips/912103064c9faacac1f5f1f454ddd2b2b17f99773ba3114f8ef0683ca0ec1d5f.mp3",
+      "sha256": "912103064c9faacac1f5f1f454ddd2b2b17f99773ba3114f8ef0683ca0ec1d5f",
+      "bytes": 6573,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-047",
+      "text": "Euro",
+      "source": "pronunciation:eu",
+      "url": "/clips/fe642085c42ed9eb68564206640befa085ae14394f4c1c6941dcc946816e979f.mp3",
+      "sha256": "fe642085c42ed9eb68564206640befa085ae14394f4c1c6941dcc946816e979f",
+      "bytes": 7725,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-048",
+      "text": "neun",
+      "source": "pronunciation:eu",
+      "url": "/clips/3f046c84cfe71d9f71408c7f1daf93c2ff0b3843bdaf3b7750301dececc5251e.mp3",
+      "sha256": "3f046c84cfe71d9f71408c7f1daf93c2ff0b3843bdaf3b7750301dececc5251e",
+      "bytes": 6189,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-049",
+      "text": "Freund",
+      "source": "pronunciation:eu",
+      "url": "/clips/dc94eb6eed68650ae9df32496033580e1005927c4110a166b5f1a3e768716e05.mp3",
+      "sha256": "dc94eb6eed68650ae9df32496033580e1005927c4110a166b5f1a3e768716e05",
+      "bytes": 6957,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-050",
+      "text": "heute",
+      "source": "pronunciation:eu",
+      "url": "/clips/7fa3b1ddba121e1f1162b1b25f9114cf79fe4e66d34da74f924c6e0d0d04183c.mp3",
+      "sha256": "7fa3b1ddba121e1f1162b1b25f9114cf79fe4e66d34da74f924c6e0d0d04183c",
+      "bytes": 6573,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-051",
+      "text": "Häuser",
+      "source": "pronunciation:eu",
+      "url": "/clips/5d977ea5974b449ceb0cfe5a0ce481ba4a5d7cbc314c62f4fa3cc3c5eefe55e8.mp3",
+      "sha256": "5d977ea5974b449ceb0cfe5a0ce481ba4a5d7cbc314c62f4fa3cc3c5eefe55e8",
+      "bytes": 6765,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-052",
+      "text": "träumen",
+      "source": "pronunciation:eu",
+      "url": "/clips/56d5667eec140efd4e07e8b56c6666e1cf0f80e5a7cf9d000cc52bc9cb3608e9.mp3",
+      "sha256": "56d5667eec140efd4e07e8b56c6666e1cf0f80e5a7cf9d000cc52bc9cb3608e9",
+      "bytes": 7149,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-053",
+      "text": "Zahl",
+      "source": "pronunciation:z",
+      "url": "/clips/98e3cc5a33d5e6d0a324d338a786647b714d81d10b0f6924c33b811af3314a62.mp3",
+      "sha256": "98e3cc5a33d5e6d0a324d338a786647b714d81d10b0f6924c33b811af3314a62",
+      "bytes": 6189,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-054",
+      "text": "Zug",
+      "source": "pronunciation:z",
+      "url": "/clips/563d7dd8eb68c06d894471b250e500893c4cd9b89043c67f9ad516530144d53d.mp3",
+      "sha256": "563d7dd8eb68c06d894471b250e500893c4cd9b89043c67f9ad516530144d53d",
+      "bytes": 5613,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-055",
+      "text": "Zimmer",
+      "source": "pronunciation:z",
+      "url": "/clips/bd41b29155efba6323c1c23e52215c0ffc5ccb622305b2a8bd6b8f9200ae5905.mp3",
+      "sha256": "bd41b29155efba6323c1c23e52215c0ffc5ccb622305b2a8bd6b8f9200ae5905",
+      "bytes": 6189,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-056",
+      "text": "ziehen",
+      "source": "pronunciation:z",
+      "url": "/clips/076d65f372ffdd2d433b0ee28dfc0ac134ba34832ec49ad7d0b0e3014c2cafb6.mp3",
+      "sha256": "076d65f372ffdd2d433b0ee28dfc0ac134ba34832ec49ad7d0b0e3014c2cafb6",
+      "bytes": 9837,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-057",
+      "text": "Platz",
+      "source": "pronunciation:z",
+      "url": "/clips/74e5ca7ccd7c8f5804574d7e72389cc80365e1e75f1c5ae9502d496a1ba2e6c0.mp3",
+      "sha256": "74e5ca7ccd7c8f5804574d7e72389cc80365e1e75f1c5ae9502d496a1ba2e6c0",
+      "bytes": 8877,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-058",
+      "text": "Vater",
+      "source": "pronunciation:v-w",
+      "url": "/clips/9d15a701ed08079d56326544cf74a02685d3c338453a6cd0b1d741337ead5a7a.mp3",
+      "sha256": "9d15a701ed08079d56326544cf74a02685d3c338453a6cd0b1d741337ead5a7a",
+      "bytes": 7917,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-059",
+      "text": "Vogel",
+      "source": "pronunciation:v-w",
+      "url": "/clips/9273d38aa8f3bc23f20976489e9b08fb033a8d2d28f647106d28cd6e4099ac2a.mp3",
+      "sha256": "9273d38aa8f3bc23f20976489e9b08fb033a8d2d28f647106d28cd6e4099ac2a",
+      "bytes": 7341,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-060",
+      "text": "Wasser",
+      "source": "pronunciation:v-w",
+      "url": "/clips/0028785fe62a652376e26640bce9f32eb2459b8789c61bcf21abac4b92244959.mp3",
+      "sha256": "0028785fe62a652376e26640bce9f32eb2459b8789c61bcf21abac4b92244959",
+      "bytes": 6381,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-061",
+      "text": "Wein",
+      "source": "pronunciation:v-w",
+      "url": "/clips/5948256c21356b3177d72bb4cf3058841ba6dffc8983cc954b7064321c648b11.mp3",
+      "sha256": "5948256c21356b3177d72bb4cf3058841ba6dffc8983cc954b7064321c648b11",
+      "bytes": 10605,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-062",
+      "text": "Wohnung",
+      "source": "pronunciation:v-w",
+      "url": "/clips/486d637d7672362c8ccfd267c8f8561588e2b0da39f1fa0c5215fdf7dda5996d.mp3",
+      "sha256": "486d637d7672362c8ccfd267c8f8561588e2b0da39f1fa0c5215fdf7dda5996d",
+      "bytes": 8301,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-063",
+      "text": "rot",
+      "source": "pronunciation:r",
+      "url": "/clips/ca2340e6b4e57b24d70e36e263e59de0fe00272878c52c1573c9295a29d0d63b.mp3",
+      "sha256": "ca2340e6b4e57b24d70e36e263e59de0fe00272878c52c1573c9295a29d0d63b",
+      "bytes": 6957,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-064",
+      "text": "Reis",
+      "source": "pronunciation:r",
+      "url": "/clips/998c90d5358150ec2b7baff2ba33cf8e8404929a5980afaf38c5ce75c5dc1c2c.mp3",
+      "sha256": "998c90d5358150ec2b7baff2ba33cf8e8404929a5980afaf38c5ce75c5dc1c2c",
+      "bytes": 7341,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-065",
+      "text": "Bruder",
+      "source": "pronunciation:r",
+      "url": "/clips/77a0e9c34d391b90e051e3e42125ff62ac379cff4a5cdcc6ba265467514267d0.mp3",
+      "sha256": "77a0e9c34d391b90e051e3e42125ff62ac379cff4a5cdcc6ba265467514267d0",
+      "bytes": 9453,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-066",
+      "text": "Berg",
+      "source": "pronunciation:r",
+      "url": "/clips/19e12489bbee80226766bbc39d2f70d29af5e6ed4ddbfe61e0dc4f56333646d5.mp3",
+      "sha256": "19e12489bbee80226766bbc39d2f70d29af5e6ed4ddbfe61e0dc4f56333646d5",
+      "bytes": 5997,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-067",
+      "text": "Lehrer",
+      "source": "pronunciation:r",
+      "url": "/clips/682a6334c0097450444a7eae4bd58ed398157f58a0173cf8ea570d537f15e56e.mp3",
+      "sha256": "682a6334c0097450444a7eae4bd58ed398157f58a0173cf8ea570d537f15e56e",
+      "bytes": 7725,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-068",
+      "text": "schon",
+      "source": "pronunciation:pairs",
+      "url": "/clips/3c6d3de3c9336c030d204a2ab61e81d7ef527e22fd930c1aca8da85b89156183.mp3",
+      "sha256": "3c6d3de3c9336c030d204a2ab61e81d7ef527e22fd930c1aca8da85b89156183",
+      "bytes": 5421,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-069",
+      "text": "Bar",
+      "source": "pronunciation:pairs",
+      "url": "/clips/bce7415218a0bbb8b49912c18cb9040aa6ec088ec7d673e9396d422127c285ec.mp3",
+      "sha256": "bce7415218a0bbb8b49912c18cb9040aa6ec088ec7d673e9396d422127c285ec",
+      "bytes": 6765,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-070",
+      "text": "Bär",
+      "source": "pronunciation:pairs",
+      "url": "/clips/6efd0ff9c2f0152f244acc33fc54be42d0f6b6c0ca7afad855cefded31cdd285.mp3",
+      "sha256": "6efd0ff9c2f0152f244acc33fc54be42d0f6b6c0ca7afad855cefded31cdd285",
+      "bytes": 6381,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-071",
+      "text": "lesen",
+      "source": "pronunciation:pairs",
+      "url": "/clips/a6a0619553e25183ae75cce2e0dd0e9ae928f68d54caa6ac4df3dbdc39149cda.mp3",
+      "sha256": "a6a0619553e25183ae75cce2e0dd0e9ae928f68d54caa6ac4df3dbdc39149cda",
+      "bytes": 8685,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-072",
+      "text": "lösen",
+      "source": "pronunciation:pairs",
+      "url": "/clips/618bfc54796cf8c907f7f5d97c86b981415dfa6a2ef8e16c8f835b0acb397002.mp3",
+      "sha256": "618bfc54796cf8c907f7f5d97c86b981415dfa6a2ef8e16c8f835b0acb397002",
+      "bytes": 7917,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-073",
+      "text": "musste",
+      "source": "pronunciation:pairs",
+      "url": "/clips/c5dab10eecb88079ac0eaf17dc0ce4d56bb68f4e060d15223e2a64ce6022f26e.mp3",
+      "sha256": "c5dab10eecb88079ac0eaf17dc0ce4d56bb68f4e060d15223e2a64ce6022f26e",
+      "bytes": 7149,
+      "synthesized": true
+    },
+    {
+      "id": "pron193-074",
+      "text": "müsste",
+      "source": "pronunciation:pairs",
+      "url": "/clips/109470c192890a42ed4e2d9011802afd32234b830bfb2f99e34a15117a489a9a.mp3",
+      "sha256": "109470c192890a42ed4e2d9011802afd32234b830bfb2f99e34a15117a489a9a",
+      "bytes": 6765,
+      "synthesized": true
+    }
+  ]
+}
