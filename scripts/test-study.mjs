@@ -1481,7 +1481,7 @@ console.log('PASS:global search traps/restores focus,locks/restores scroll,keeps
 
 const nav157=readFileSync('src/components/Shell.tsx','utf8');
 for(const guard of ['useRef<HTMLDialogElement>(null)',"window.matchMedia('(min-width: 768px)')",'dialog.showModal()','dialog.close()',"desktop.addEventListener('change', resize)","desktop.removeEventListener('change', resize)",'document.body.style.overflow = overflow','onCancel={e => { e.preventDefault(); setOpen(false); }}','aria-controls="mobile-navigation"',"e.key !== 'Tab'","closest('a[href]')",'e.clientX < bounds.left', 'setOpen(false); setSearching(true)'])assert(nav157.includes(guard),guard);
-assert.equal((nav157.match(/sidebar.map/g)||[]).length,1);assert.equal((nav157.match(/\{navigation\}/g)||[]).length,2);
+assert.equal((nav157.match(/<StudyNavigation /g)||[]).length,1);assert.equal((nav157.match(/\{navigation\}/g)||[]).length,2);
 console.log('PASS:mobile navigation uses native modal lifecycle,keyboard bounds,backdrop/route close,resize cleanup and shared desktop links');
 
 const timed158=readFileSync('src/components/TimedPractice.tsx','utf8');
