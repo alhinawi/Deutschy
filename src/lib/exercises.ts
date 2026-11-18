@@ -621,3 +621,6 @@ for(const[topic,rows]of Object.entries(rambutanchirimoyaGrammar))exercises[topic
 
 import {mangostanebrotfruchtGrammar} from './exercises-mangostanebrotfrucht';
 for(const[topic,rows]of Object.entries(mangostanebrotfruchtGrammar))exercises[topic].push(...rows);
+
+import {eisvogelelsterGrammar} from './exercises-eisvogelelster';
+for(const[topic,rows]of Object.entries(eisvogelelsterGrammar))exercises[topic].push(...rows);

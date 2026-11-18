@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  eisvogelelster: 'Eisvogel und Elster',
   mangostanebrotfrucht: 'Mangostane und Brotfrucht',
   rambutanchirimoya: 'Rambutan und Chirimoya',
   guavephysalis: 'Guave und Physalis',
@@ -194,6 +195,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  eisvogelelster: 'Kingfisher and magpie',
   mangostanebrotfrucht: 'Mangosteen and breadfruit',
   rambutanchirimoya: 'Rambutan and cherimoya',
   guavephysalis: 'Guava and physalis',

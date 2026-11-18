@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-fifty-second practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-fifty-third practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1654,9 +1654,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | `/credits/`, original photo links | Screen-reader names identify original photo, German noun/article and unchanged visible filename, localized AR/EN. href/target/rel/underline/focus unchanged. 8 exact new-link checks plus 16 existing-license checks; AR/EN320/390. Focused 390px credits and lesson photos inspected. |
 | [ ] | Listening/dictation | 71 original segments, 284 exact speech/source/answer checks. Existing source-set/answer/voice/speed/Next/link help retained. Actual-device voice/screen-reader and native editorial pending. Labels not certification; progress device-local. |
 
+### List 153: Eisvogel and Elster
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-die-bilder-nacheinander-zeigen/` and linked dialogue | Lea/Samir first show one bird photo and name card, then the other, swap reader, finally mix/assign both names. Photos only, no birdwatching/audio-of-birds claim. 163 words, 7 dialogue turns. |
+| [ ] | `/reading/alltag-a2-ein-merkmal-reicht-nicht-immer/` and linked dialogue | Nora/Karim notice that visible beaks fit both photos; visible bluegreen/orange versus blackwhite/long tail helps select between these two. Not a complete bird identification key; age/location not inferred. 239 words. Check compound colour/pragmatic wording and Egyptian Arabic. |
+| [ ] | `/reading/alltag-b1-ein-ergebnis-mit-grenzen/` and linked dialogue | Paul/Dalia report successful matching by 4 people to 2 known photos without claiming all-word mastery, writing or pronunciation. Further optional practice does not invalidate the first success. 316 words. |
+| [ ] | `/lessons/eisvogelelster/` | der Eisvogel/Eisvögel (رفراف), die Elster/Elstern (عقعق), exact Duden/DWDS bird senses, not butterfly/river. Sanjeed Quazi35953792 explicit Alcedo atthis, whole kingfisher no prey; Mark Dubery31670212 explicit Pica pica, whole magpie on post. Both clear real crops flagged; no sex/season/behaviour/actual-location claim. |
+| [ ] | Six appended grammar banks | 24 article/accusative/present/possessive/two-way/negation rows, saved identities unchanged, exact evidence/unique IDs pass. Native German/Egyptian Arabic editorial pending. |
+| [ ] | `/credits/`, German word row headers | lang=de on German noun/article table headers enables language choice independent of page AR/EN. Visual/source/accessibility labels unchanged; 8 new exact German language checks and 24 source/license checks AR/EN320/390. Actual-device screen-reader pending. 390px credits/lesson/reading/dialogue inspected. |
+| [ ] | Listening/dictation | 68 original segments, 272 exact speech/source/answer checks. Existing help retained. Native editorial and actual-device voice pending. Labels not certification, progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **961 photo nouns / 197 topics**, **474 reading texts / 1849 reading questions**, **41 core grammar topics / 3598 core grammar questions**, **414 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **963 photo nouns / 198 topics**, **477 reading texts / 1861 reading questions**, **41 core grammar topics / 3622 core grammar questions**, **417 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1668,7 +1680,7 @@ This is an inventory, not completed review. Snapshot: **961 photo nouns / 197 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 140 · A2 168 · B1 136 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 141 · A2 169 · B1 137 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

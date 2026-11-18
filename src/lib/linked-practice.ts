@@ -402,4 +402,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-vor-dem-kurs-alles-pruefen',dialogue:'vorbereitung-die-alte-karte-zur-seite'},
  {reading:'alltag-a2-worauf-bezieht-sich-sie',dialogue:'anweisung-karte-oder-mappe-umdrehen'},
  {reading:'alltag-b1-passende-details-fuer-einen-zweck',dialogue:'lernstation-details-zweck-und-ergaenzung'},
+ {reading:'alltag-a1-die-bilder-nacheinander-zeigen',dialogue:'bilderfolge-erst-ein-foto-dann-das-andere'},
+ {reading:'alltag-a2-ein-merkmal-reicht-nicht-immer',dialogue:'fotowahl-welches-merkmal-hilft'},
+ {reading:'alltag-b1-ein-ergebnis-mit-grenzen',dialogue:'protokoll-erfolg-genau-beschreiben'},
 ];
