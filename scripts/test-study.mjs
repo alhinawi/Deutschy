@@ -1500,3 +1500,5 @@ console.log('PASS:weekly planner rejects damaged root/current-week data without 
 const writing160=readFileSync('src/components/WritingView.tsx','utf8');
 for(const guard of ['<Task key={open.id} task={open}',"setOpen(task??null)","draftStatus !== 'loading' && checks.every(Boolean)","setDraftStatus('error')",'aria-describedby="writing-draft-status"',"disabled={draftStatus==='loading'}",'not to your account.'])assert(writing160.includes(guard),guard);
 console.log('PASS:writing task identity isolates draft/model/check state,waits for draft load and reports local-save failures');
+
+const verb161=readFileSync('src/components/VerbQuiz.tsx','utf8');assert(verb161.includes('c.round!==round')&&verb161.includes('c.index!==i')&&verb161.includes('c.locked=true')&&verb161.includes('disabled={pick!==null}'));assert(verb161.includes("c.finished=true;addScore('verb-quiz',score)")&&verb161.includes('current.current.finished)restart()'));console.log('PASS:verb quiz locks prompt answers,guards stale rounds and records completed result once before restart');
