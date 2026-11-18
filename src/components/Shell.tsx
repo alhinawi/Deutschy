@@ -7,6 +7,7 @@ import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useEffect, useRef, useState, type ReactNode } from 'react';
 import Flame from './Flame';
+import CloseIcon from './CloseIcon';
 import SheetLink from './SheetLink';
 import { useAuth, useStore, level } from '@/lib/store';
 import { useLang, useT } from '@/lib/i18n';
@@ -121,7 +122,7 @@ export default function Shell({ children }: { children: ReactNode }) {
         className="fixed inset-y-0 start-0 end-auto m-0 h-dvh max-h-none w-72 max-w-[calc(100%-2rem)] overflow-y-auto border-e border-line bg-paper p-3 text-ink backdrop:bg-black/40 md:hidden">
         <div className="mb-4 flex items-center justify-between gap-3">
           <h2 className="ar-title text-lg font-bold">{t('التنقل', 'Navigation')}</h2>
-          <button type="button" onClick={() => setOpen(false)} className="min-h-11 rounded-lg border border-line px-3 py-2 font-bold focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent">{t('اقفل القائمة', 'Close menu')}</button>
+          <button type="button" aria-label={t('اقفل القائمة', 'Close menu')} onClick={() => setOpen(false)} className="flex min-h-11 min-w-11 items-center justify-center rounded-lg border border-line p-2 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-accent"><CloseIcon/></button>
         </div>
         <div onClick={e => { if ((e.target as HTMLElement).closest('a[href]')) setOpen(false); }}>{navigation}</div>
       </dialog>

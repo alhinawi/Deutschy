@@ -37,8 +37,17 @@ for(const lang of ['ar','en']) for(const width of [320,390]) {
  const open=async()=>{await menu.focus();await g.keyboard.press('Enter');await g.waitForFunction(()=>document.querySelector('#mobile-navigation')?.matches(':modal'))};
  await open();
  assert.equal(await menu.evaluate(e=>e.getAttribute('aria-expanded')),'true');
- assert.equal(await g.evaluate(()=>document.activeElement?.textContent),lang==='ar'?'اقفل القائمة':'Close menu');
+ assert.equal(await g.evaluate(()=>document.activeElement?.getAttribute('aria-label')),lang==='ar'?'اقفل القائمة':'Close menu');
  assert.equal(await g.evaluate(()=>document.body.style.overflow),'hidden');checks+=5;
+ assert.equal(await g.$eval('#mobile-navigation button',e=>e.textContent.trim()),'');
+ assert.equal(await g.$eval('#mobile-navigation button svg',e=>e.getAttribute('aria-hidden')),'true');
+ const levels=await g.$$eval('#mobile-navigation nav > div',groups=>groups.filter(e=>e.querySelector('a[href^="/levels/"]:not([href="/levels/"])')).map(e=>({title:e.querySelector('p')?.textContent,hrefs:[...e.querySelectorAll('a')].map(a=>a.getAttribute('href'))})));
+ assert.deepEqual(levels.map(e=>e.title),['A1','A2','B1','B2','C1','C2'].map(l=>lang==='ar'?'المستوى '+l:'Level '+l));
+ for(const [i,level] of ['A1','A2','B1','B2','C1','C2'].entries()){
+   assert.deepEqual(levels[i].hrefs,[`/levels/${level}/`,...(level==='A1'?['/lernpfad/']:[`/${level.toLowerCase()}/`,`/${level.toLowerCase()}/wortschatz/`,`/${level.toLowerCase()}/writing/`])]);
+ }
+ checks+=9;
+
  // Native modal blocks programmatic background focus, pointer and Tab escape.
  await g.$eval('header a',e=>e.focus());assert(await g.evaluate(()=>document.activeElement.closest('#mobile-navigation')!==null));
  const count=await g.$$eval('#mobile-navigation a',a=>a.length);assert(count>20);
@@ -50,7 +59,7 @@ for(const lang of ['ar','en']) for(const width of [320,390]) {
  await g.$eval('#mobile-navigation',e=>e.scrollTop=0);await g.$eval('#mobile-navigation button',e=>e.focus());
  await g.addScriptTag({path:require.resolve('axe-core/axe.min.js')});
  assert.deepEqual(await g.evaluate(async()=>(await axe.run(document,{runOnly:{type:'tag',values:['wcag2a','wcag2aa','wcag21aa']}})).violations.map(v=>({id:v.id,nodes:v.nodes.map(n=>n.html)}))),[]);checks++;
- if(width===390&&process.env.NAV_SCREENSHOT_DIR)await g.screenshot({path:path.join(process.env.NAV_SCREENSHOT_DIR,'navigation157-'+lang+'.png'),fullPage:false});
+ if(width===390&&process.env.NAV_SCREENSHOT_DIR)await g.screenshot({path:path.join(process.env.NAV_SCREENSHOT_DIR,'navigation165-'+lang+'.png'),fullPage:false});
  await g.keyboard.press('Escape');await g.waitForFunction(()=>!document.querySelector('#mobile-navigation').open);
  assert(await menu.evaluate(e=>e===document.activeElement));assert.equal(await g.evaluate(()=>document.body.style.overflow),'auto');checks+=2;
  await open();await g.click('#mobile-navigation button');await g.waitForFunction(()=>!document.querySelector('#mobile-navigation').open);assert(await menu.evaluate(e=>e===document.activeElement));checks++;
