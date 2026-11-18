@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the common-animals product update176.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the answer-sounds and family-photo update177.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1868,6 +1868,14 @@ Search checks: `hedgehog` should show the hedgehog thumbnail, `der Igel` as a vi
 81priority noun phrases now have static synthesized clips on the separate approved https://deutschy-sounds.pages.dev/ project. This is81of1009nouns, not whole-site coverage. Please review German pronunciation/stress and suitability of the varied premade voices. These clips are synthesized, not human recordings or a native-accent endorsement. Listen to die Mutter,der Vater,der Bruder,das Kind and der Wecker first. The current main-site footer and audio-page/file titles attribute elevenlabs.io. Free-plan use is noncommercial. A missing clip or incompatible fixed voice still uses the existing allowed fallback or visible unavailable notice; it must never appear to have played silently.
 
 Native German speech-quality and real-device checks remain pending. Automated playback completion is not a pronunciation review. Check stop,new-word cancellation,load failure and the8second startup timeout on a phone. No new vocabulary or progress identifiers change.
+
+### List 177: Answer tones and family-photo context
+
+- [ ] Check short correct/incorrect tones with device volume low first. The positive tone rises; the negative tone falls softly. Confirm they are distinct without being startling. They are device-generated tones, not spoken German. Mute is per device; reduced-motion disables them.
+- [ ] `/lessons/family/#word-bruder`: actual Bryan brothers photo replaces unrelated bowling. Does the real photo help the word without relying on appearance to prove kinship?
+- [ ] `/lessons/family/#word-grossvater`: full original grandfather/grandson photo replaces the cropped legs. Confirm both subjects remain readable on a phone.
+- [ ] Family quiz/article/flashcards retain real contextual photos. Family memory uses written meaning versus German, because generic family photos cannot make kinship matching unambiguous. Check Egyptian wording and English meaning.
+- [ ] Real-device audio volume, accessibility, German and Egyptian Arabic editorial reviews remain pending. Browser simulations prove gating and note values, not subjective sound quality. Blind exam answer choices remain silent until visual results, without correctness leaks.
 
 ## 3. Wider review queue after the focused batch
 

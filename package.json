@@ -40,7 +40,9 @@
     "test:speech-feedback:browser": "node scripts/test-speech-feedback-browser.mjs",
     "test:animals": "node scripts/test-animals.mjs",
     "test:animals:browser": "node scripts/test-animals-browser.mjs",
-    "test:static-speech:browser": "node scripts/test-static-speech-browser.mjs"
+    "test:static-speech:browser": "node scripts/test-static-speech-browser.mjs",
+    "test:effects": "node scripts/test-game-effects.mjs",
+    "test:effects:browser": "node scripts/test-game-effects-browser.mjs"
   },
   "dependencies": {
     "hono": "^4.13.18",

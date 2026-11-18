@@ -856,11 +856,12 @@
    "plural": "Brüder",
    "ar": "أخ",
    "photo": {
-    "file": "Brothers Playing.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Brothers_Playing.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Brothers_Playing.jpg",
-    "license": "CC BY-SA 4.0",
-    "author": "Itzi-itzi"
+    "file": "The_Bryan_brothers.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:The_Bryan_brothers.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:The_Bryan_brothers.jpg",
+    "license": "CC BY 2.0",
+    "author": "Boss Tweed",
+    "padding": true
    }
   },
   {
@@ -890,7 +891,8 @@
     "page": "https://commons.wikimedia.org/wiki/File:LauderdaleGrandfatherGrandson1967.jpg",
     "commons": "https://commons.wikimedia.org/wiki/File:LauderdaleGrandfatherGrandson1967.jpg",
     "license": "CC BY-SA 4.0",
-    "author": "Family of Infrogmation of New Orleans"
+    "author": "Please credit \"Family of Infrogmation of New Orleans\"",
+    "padding": true
    }
   },
   {

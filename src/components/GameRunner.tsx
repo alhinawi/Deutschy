@@ -1,4 +1,5 @@
 'use client';
+import {answerEffect} from '@/lib/game-effects';
 import Speaker from './Speaker';
 import Mixed from './Mixed';
 import { arTries } from '@/lib/arcount';
@@ -212,6 +213,7 @@ function Choice({ label, state, onClick,disabled,ariaLabel }: { ariaLabel?:strin
 
 function Memory({ list, again }: { list: Word[]; again: () => void }) {
   const t = useT();
+  const {lang}=useLang();
   const pairs = useMemo(() => sample(list, Math.min(6, list.length)), [list]);
   const cards = useMemo(() => shuffle(pairs.flatMap((w) => [{ k: w.id + 'p', id: w.id, kind: 'p' as const, w }, { k: w.id + 'w', id: w.id, kind: 'w' as const, w }])), [pairs]);
   const { award, addScore } = useStore();
@@ -227,7 +229,7 @@ function Memory({ list, again }: { list: Word[]; again: () => void }) {
   const tap = (c: (typeof cards)[number]) => {
     if(finished||openKeys.current.includes(c.k)||matchedIds.current.has(c.id)||openKeys.current.length===2)return;
     const nx=[...openKeys.current,c.k];openKeys.current=nx;setOpen(nx);
-    if(nx.length===2)setTries(t=>t+1);
+    if(nx.length===2){setTries(t=>t+1);answerEffect(cards.find(x=>x.k===nx[0])?.id===c.id)}
   };
   const pair=open.length===2?open.map(k=>cards.find(c=>c.k===k)!):null;
   const pairMatches=!!pair&&pair[0].id===pair[1].id;
@@ -242,7 +244,7 @@ function Memory({ list, again }: { list: Word[]; again: () => void }) {
           const show = open.includes(c.k) || matched.includes(c.id);
           return (
             <button key={c.k} aria-label={show?`${c.kind==='p'?t('صورة','Photo'):t('كلمة','Word')}: ${c.w.art} ${c.w.de}${matched.includes(c.id)?' '+t('متطابق','matched'):''}`:t(`كارت مقفول ${cards.indexOf(c)+1}`,`Hidden card ${cards.indexOf(c)+1}`)} aria-pressed={show} disabled={matched.includes(c.id)||open.includes(c.k)||open.length===2} onClick={() => tap(c)} className={`flex min-h-28 items-center justify-center overflow-hidden rounded-xl border focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper ${matched.includes(c.id) ? 'border-good' : 'border-line'} ${show ? 'bg-card' : 'bg-accent'}`}>
-              {show ? (c.kind === 'p' ? <Photo w={c.w} /> : <span dir="ltr" lang="de" className="de min-w-0 [overflow-wrap:anywhere] p-2 text-center text-base font-semibold">{c.w.art} {c.w.de}</span>) : <span className="de text-2xl text-accent-ink">?</span>}
+              {show ? (c.kind === 'p' ? (c.w.topic==='family'?<span className="ar-title p-3 text-xl">{glossOf(c.w,lang)}</span>:<Photo w={c.w} />) : <span dir="ltr" lang="de" className="de min-w-0 [overflow-wrap:anywhere] p-2 text-center text-base font-semibold">{c.w.art} {c.w.de}</span>) : <span className="de text-2xl text-accent-ink">?</span>}
             </button>
           );
         })}

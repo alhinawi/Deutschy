@@ -1,4 +1,5 @@
 'use client';
+import {answerEffect} from '@/lib/game-effects';
 import SeparableConjugationGuide from './SeparableConjugationGuide';
 import PresentFocus from './PresentFocus';
 import ConjugationGuide from './ConjugationGuide';
@@ -36,7 +37,7 @@ export default function ConjugationTrainer(){
    </div>}
    <p role="status" aria-live="polite" aria-atomic="true" className="text-sm text-muted"><span dir="ltr" className="inline-block">{person+1} / {persons.length} · {tense}</span></p>
    <p className="de break-words text-2xl" dir="ltr">{persons[person]} ___ ({v.inf})</p>
-   <form onSubmit={e=>{e.preventDefault();setChecked(true)}} className="space-y-3">
+   <form onSubmit={e=>{e.preventDefault();if(!checked)answerEffect(answers.includes(answer.normalize('NFC').trim().replace(/\s+/g,' ')));setChecked(true)}} className="space-y-3">
     <label htmlFor="conj-answer" className="block">{t('اكتب التصريف كله، من غير الضمير','Type the full verb form, without the pronoun')}</label>
     <input ref={input} id="conj-answer" aria-describedby="conj-help" lang="de" dir="ltr" autoComplete="off" autoCapitalize="none" spellCheck={false} value={answer} onChange={e=>{setAnswer(e.target.value);setChecked(false)}} className="de w-full rounded-xl border border-line bg-paper p-3" maxLength={100}/>
     <button disabled={!answer.trim()} className="min-h-11 rounded-full bg-accent px-5 py-3 text-accent-ink disabled:opacity-50">{t('راجع','Check')}</button>
