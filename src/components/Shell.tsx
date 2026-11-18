@@ -132,7 +132,7 @@ export default function Shell({ children }: { children: ReactNode }) {
         {navigation}
       </aside>
       <main id="main" tabIndex={-1} className="outline-none px-4 py-8 md:ps-72 md:pe-8">
-        <div className="mx-auto max-w-5xl">{storageError&&<p role="alert" className="mb-4 rounded-xl border border-line bg-card p-4">{t('التقدم المحلي مش قابل للحفظ أو جزء من سجله مش مقروء. الأصل متساب من غير تغيير؛ الإجابات الجديدة ممكن ماتتحفظش. متحذفش بيانات المتصفح قبل ما تحتفظ بنسخة لو السجل مهم ليك.','Local progress cannot be saved or part of its record cannot be read. The original is unchanged; new answers may not be saved. Keep a copy before clearing browser data if this history matters to you.')}</p>}{children}<SheetLink /><PwaStatus /></div>
+        <div className="mx-auto max-w-5xl">{storageError&&<p role="alert" className="mb-4 rounded-xl border border-line bg-card p-4">{t('التقدم المحلي مش قابل للحفظ أو جزء من سجله مش مقروء. الأصل متساب من غير تغيير؛ الإجابات الجديدة ممكن ماتتحفظش. متحذفش بيانات المتصفح قبل ما تحتفظ بنسخة لو السجل مهم ليك.','Local progress cannot be saved or part of its record cannot be read. The original is unchanged; new answers may not be saved. Keep a copy before clearing browser data if this history matters to you.')}</p>}{children}<SheetLink /><p className="mt-6 text-sm text-muted">{t('الصوت المصنّع: ','Synthesized speech: ')}<a href="https://elevenlabs.io" className="underline" title="German synthesized speech | elevenlabs.io">elevenlabs.io</a>{t('، مش تسجيل بشري. حسب توفر الكلمة والصوت المختار.','; not a human recording. Availability depends on the phrase and selected voice.')}</p><PwaStatus /></div>
       </main>
     </>
   );

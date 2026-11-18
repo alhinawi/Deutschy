@@ -1863,6 +1863,12 @@ Please also check 6 clarified older Arabic glosses: Hirsch=أيل, Adler=عقا�
 
 Search checks: `hedgehog` should show the hedgehog thumbnail, `der Igel` as a visible matching word, and a direct link to `/lessons/tiere2/#word-igel`. The global word search should also land at that card rather than the top of a long lesson. No activity or progress is awarded by browsing or filtering.
 
+## Static synthesized speech update178
+
+81priority noun phrases now have static synthesized clips on the separate approved https://deutschy-sounds.pages.dev/ project. This is81of1009nouns, not whole-site coverage. Please review German pronunciation/stress and suitability of the varied premade voices. These clips are synthesized, not human recordings or a native-accent endorsement. Listen to die Mutter,der Vater,der Bruder,das Kind and der Wecker first. The current main-site footer and audio-page/file titles attribute elevenlabs.io. Free-plan use is noncommercial. A missing clip or incompatible fixed voice still uses the existing allowed fallback or visible unavailable notice; it must never appear to have played silently.
+
+Native German speech-quality and real-device checks remain pending. Automated playback completion is not a pronunciation review. Check stop,new-word cancellation,load failure and the8second startup timeout on a phone. No new vocabulary or progress identifiers change.
+
 ## 3. Wider review queue after the focused batch
 
 This is an inventory, not completed review. Snapshot: **1009 photo nouns / 204 topics**, **480 reading texts / 1873 reading questions**, **43 core grammar topics / 3662 core grammar questions**, **420 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
