@@ -1146,5 +1146,1174 @@
     "shard": "deutschy-local",
     "provider": "Gemini TTS",
     "source": "pronunciation:pairs"
+  },
+  "ich möchte": {
+    "url": "/clips/fc5a8218503eb0e05159872613f27000cf5144ba2505fca454f31676d7d70791.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:aussprache",
+    "voiceId": "Iapetus"
+  },
+  "Ich bin Mohamed.": {
+    "url": "/clips/e971d43d838dc7a5121fa2bb19be91a4d55fc4f965ad503069e201764e01bfc4.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:pronomen-sein-haben",
+    "voiceId": "Kore"
+  },
+  "Wie geht es dir? Mir geht es gut.": {
+    "url": "/clips/670f70bf6f14077ebbfe682073f9c16742a4bdbcecf4771f9a0ac91523181583.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:pronomen-sein-haben",
+    "voiceId": "Charon"
+  },
+  "Wir haben einen Hund.": {
+    "url": "/clips/df856c57d59a9592af0bb782565977bd95f36abc4dc16b01f8a99d1c67c9ab8d.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:pronomen-sein-haben",
+    "voiceId": "Erinome"
+  },
+  "Haben Sie Zeit?": {
+    "url": "/clips/0d4b73e36d0c5bf39198c86b29ec5bbe85178b05d67cad26a724691050027839.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:pronomen-sein-haben",
+    "voiceId": "Iapetus"
+  },
+  "Woher kommst du? Ich komme aus Ägypten.": {
+    "url": "/clips/ebcd96965ba2cd5a4dec1ef8ca97707be5131a3371258652323f0f0b2431f58b.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:satzbau",
+    "voiceId": "Kore"
+  },
+  "Morgen gehe ich zur Schule.": {
+    "url": "/clips/a40a09589b198e4a79644cc9c48376b67ce80fdd15ac16f3d8b28af14500393a.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:satzbau",
+    "voiceId": "Charon"
+  },
+  "Trinkst du Tee?": {
+    "url": "/clips/0511f70889ee99eb3d71acf2422af66ae65bbad281b8974412d8f24201501ce0.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:satzbau",
+    "voiceId": "Erinome"
+  },
+  "Wie viel kostet das?": {
+    "url": "/clips/10da13f67d8a426ede7a588563ebd6743cfc22497386b22d4e8416d1ad00b2d8.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:satzbau",
+    "voiceId": "Iapetus"
+  },
+  "Am Montag lerne ich Deutsch.": {
+    "url": "/clips/00483c1f5fb74e1473e99685de74798023b953ddf84dcfeb4e68dffb0ec57bc6.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:satzbau",
+    "voiceId": "Kore"
+  },
+  "Ich habe heute Deutsch gelernt.": {
+    "url": "/clips/9c925f3ecb70df82c1c703c2824005b403f879ed78e46de5241677fa0e92e161.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:satzbau",
+    "voiceId": "Charon"
+  },
+  "Ich wohne in Mansoura.": {
+    "url": "/clips/579c0ab85ca734ca3da3d4b65837f9330ed53afb4312d5cb933b12d2cb835f2f.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:praesens",
+    "voiceId": "Erinome"
+  },
+  "Er arbeitet bei einer Bank.": {
+    "url": "/clips/7dbda74660e654233a9e0cdae80778ddab0fee530b94ce2d9538cf1a782ae145.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:praesens",
+    "voiceId": "Iapetus"
+  },
+  "Du liest ein Buch.": {
+    "url": "/clips/e2766fa8b5141b374cb94b23c79f2c6d6b4f4d705dc5f4918afb9e69254d9683.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:praesens",
+    "voiceId": "Kore"
+  },
+  "Sie fährt mit dem Bus.": {
+    "url": "/clips/518d34127947e8986036c11efabe9bf2cd0918abe6b755bec5409122095a0e3f.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:praesens",
+    "voiceId": "Charon"
+  },
+  "der Tisch, die Tische": {
+    "url": "/clips/837bd295bd74ce197e0b3836f42097d7cfceb8006c2d383a7d3f4439e01b72d3.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:artikel-genus",
+    "voiceId": "Erinome"
+  },
+  "die Zeitung, die Zeitungen": {
+    "url": "/clips/64035eeea99b6fda37f110af7377f5d0b8b787733188605e63b30077523f7d95.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:artikel-genus",
+    "voiceId": "Iapetus"
+  },
+  "das Mädchen, die Mädchen": {
+    "url": "/clips/f103807443b19eb610eb4ae00e4cc360fdbd20fdef6caa1af3cc770c789bd267.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:artikel-genus",
+    "voiceId": "Kore"
+  },
+  "ein Apfel, eine Birne, ein Kind": {
+    "url": "/clips/deda3ae9464a0a88c419bb5563680661c303013846d6db959cefe9ef4707e010.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:artikel-genus",
+    "voiceId": "Charon"
+  },
+  "Ich spiele mit den Kindern.": {
+    "url": "/clips/e422baeaa90fa0e5c78dc5c91c210cd58653d298b65db60a3ddfaa0f836c0dcd.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:artikel-genus",
+    "voiceId": "Erinome"
+  },
+  "Ich habe keinen Hunger.": {
+    "url": "/clips/c7a7c45889ba7d50133acbe8fef7abfc60fd574b53482c5f5667676c83824a0f.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:negation",
+    "voiceId": "Iapetus"
+  },
+  "Das ist kein Auto.": {
+    "url": "/clips/076efecc2af545ead30a64621e04cc811e5559917bd1eb5f83553a2c3a552c9a.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:negation",
+    "voiceId": "Kore"
+  },
+  "Er schläft nicht.": {
+    "url": "/clips/9364b996c4ad838ae5953aaca2e97af8560c904abbb59eb7bf40888bb8373493.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:negation",
+    "voiceId": "Charon"
+  },
+  "Hast du keine Zeit? Doch!": {
+    "url": "/clips/b9b8fc8fd5a19fc5329a209301ba8ed76adae8979c6fc110653126c1b56615b7.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:negation",
+    "voiceId": "Erinome"
+  },
+  "Ich habe nicht geschlafen.": {
+    "url": "/clips/340483344328bbb7d6391d5be1513731a3e7b92aa882de0887fd32aa382bebf2.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:negation",
+    "voiceId": "Iapetus"
+  },
+  "Ich kann heute nicht kommen.": {
+    "url": "/clips/7f8674a633f004130fc268c49353ad71ddf09fef85406b1405bb41d1a3f81a02.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:negation",
+    "voiceId": "Kore"
+  },
+  "Das ist nicht mein Buch.": {
+    "url": "/clips/d65c784285fcaf8282883a96ba7f6776646f0870e6d8c4aeed9f65edc875f428.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:negation",
+    "voiceId": "Charon"
+  },
+  "Ich kaufe einen Apfel.": {
+    "url": "/clips/cda0811f3a45ac16c019f8d9dc244537b880816d78691a736bf1e2b55969963d.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:akkusativ",
+    "voiceId": "Erinome"
+  },
+  "Hast du einen Bruder?": {
+    "url": "/clips/18006182a67f8acf7ffa70bc5badceb4e0e92a5b5caf8c469333fa84e40af3e6.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:akkusativ",
+    "voiceId": "Iapetus"
+  },
+  "Das Geschenk ist für den Lehrer.": {
+    "url": "/clips/1a7c4ee0388f5e353937b37c40b194d26a845842d9da2be3ebc7eb0ae031f4c5.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:akkusativ",
+    "voiceId": "Kore"
+  },
+  "Er trinkt den Tee ohne Zucker.": {
+    "url": "/clips/2c9136b7f36c1e855af25293ee803b6a4948c99a30edc2ad273e7a63209caad3.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:akkusativ",
+    "voiceId": "Charon"
+  },
+  "Das ist meine Familie.": {
+    "url": "/clips/856204584be2dafa9cbdf51202bd71207128711512765ab80e9eb31957add2fb.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:possessiv",
+    "voiceId": "Erinome"
+  },
+  "Wo ist dein Bruder?": {
+    "url": "/clips/eaba23fb0a3aa136770e6e24a7a48114216a9d152ddcd8a753062a0d89753130.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:possessiv",
+    "voiceId": "Iapetus"
+  },
+  "Ich besuche meinen Opa.": {
+    "url": "/clips/45780b180cd901f8db15d4e9321da20906003e97851e2f8881cf6dbbab98c223.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:possessiv",
+    "voiceId": "Kore"
+  },
+  "Ihre Tasche ist schön.": {
+    "url": "/clips/c4f0971812a3055a94e6b1f26f1feb89e5b3d6171352b20cf8a3b4c7097ed676.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:possessiv",
+    "voiceId": "Charon"
+  },
+  "Ich kann Deutsch sprechen.": {
+    "url": "/clips/c2c48cfe94407f04e264df594ee50035799887020d92edf7a6a04260e679589b.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:modalverben",
+    "voiceId": "Erinome"
+  },
+  "Du musst mehr lernen.": {
+    "url": "/clips/7528253f6b9868dc121d5c7e538870cb50c59613b1201bbaae6ab7ac7a6d1d99.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:modalverben",
+    "voiceId": "Iapetus"
+  },
+  "Ich möchte einen Kaffee.": {
+    "url": "/clips/ee500b779334c536e69146a4cd0fbfb59eb4994581d9d563aca43e6ba6e8845c.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:modalverben",
+    "voiceId": "Kore"
+  },
+  "Hier darf man nicht rauchen.": {
+    "url": "/clips/e82766083420b23236b701352b5b74ba61f8658b2cc33949284abeb7f678aa38.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:modalverben",
+    "voiceId": "Charon"
+  },
+  "Der Zug kommt um 8 Uhr an.": {
+    "url": "/clips/5a6342fbe46ec644ecfd39b7778359f7c3619cbf9544c5dc7f31d4fd97853232.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:trennbare-verben",
+    "voiceId": "Erinome"
+  },
+  "Ich kaufe im Supermarkt ein.": {
+    "url": "/clips/eeb99e02e940a2875ae856a2c5ccafe521d7465a0ba6c08e843b8d48a03e5293.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:trennbare-verben",
+    "voiceId": "Iapetus"
+  },
+  "Rufst du mich an?": {
+    "url": "/clips/49e33b4c4b55a91254f1a47a80b8b1377b8b309f2ee372bd0623e83fdae069aa.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:trennbare-verben",
+    "voiceId": "Kore"
+  },
+  "Wir sehen am Abend fern.": {
+    "url": "/clips/90f1b64be3cc4b0cc9771772c3738ab4588c5cef7f55948bd6f212ddbf3cad37.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:trennbare-verben",
+    "voiceId": "Charon"
+  },
+  "Komm bitte her!": {
+    "url": "/clips/a8cd5fcd465a3f6a92ec8fd87eabfed4a464749269c15b014710ef72f6109af3.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:imperativ",
+    "voiceId": "Erinome"
+  },
+  "Sprecht langsam!": {
+    "url": "/clips/5b511c70535b12952edfd0175571ae45e53c1acdd65ebdb4bb0ffbccff81b121.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:imperativ",
+    "voiceId": "Iapetus"
+  },
+  "Öffnen Sie das Fenster.": {
+    "url": "/clips/b565d3599ddaadbccac0f12a80d7b2368fdf4cdb2f355d12558eddc4cb376a78.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:imperativ",
+    "voiceId": "Kore"
+  },
+  "Sei nicht traurig!": {
+    "url": "/clips/ecea847ff105c5927ba1b5f2dd450099d524cbe718bfe57ebd64a8883ef1aae5.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:imperativ",
+    "voiceId": "Charon"
+  },
+  "Es ist halb acht.": {
+    "url": "/clips/e3c9d5daa50c0ba86bb0a2b240fcb2935c21f6a7094f63b70ada6ca3bb3ba8e4.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:zahlen-uhrzeit",
+    "voiceId": "Erinome"
+  },
+  "Ich stehe um sechs Uhr auf.": {
+    "url": "/clips/bba7924baa0ac324999f9b0b2d14c436f23838f6b64b0f3d14ef45b6b848cbb6.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:zahlen-uhrzeit",
+    "voiceId": "Iapetus"
+  },
+  "Der Kurs beginnt am Montag.": {
+    "url": "/clips/46774da849614217281e4c4dce6a8c09194b953cf8f3742296a9d65e710142d8.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:zahlen-uhrzeit",
+    "voiceId": "Kore"
+  },
+  "Ich habe im August Geburtstag.": {
+    "url": "/clips/5aaa7339196141b3f63fbb9877e8555f085c565839b1633cfaa5de5d6d7bb586.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:zahlen-uhrzeit",
+    "voiceId": "Charon"
+  },
+  "Ich helfe meiner Mutter.": {
+    "url": "/clips/f6019b8844d34c835be847c9ece7625e0379f2db85104c0fd08f578fbcf4e134.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:dativ",
+    "voiceId": "Erinome"
+  },
+  "Das Auto gehört dem Lehrer.": {
+    "url": "/clips/c72247e5fa824f9173a041e43388aac46edc85353e7116e407a7743f1955d451.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:dativ",
+    "voiceId": "Iapetus"
+  },
+  "Wie gefällt dir die Stadt?": {
+    "url": "/clips/513317c4d8a3262ddafb47b2be248aec367827846c9b032cc71952c1e774dd8e.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:dativ",
+    "voiceId": "Kore"
+  },
+  "Er schenkt seiner Frau Blumen.": {
+    "url": "/clips/0d2d2b2c7c98326980800eb19761f7c8b5a7e622b6ae4e1d8ae5658a22c02cb2.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:dativ",
+    "voiceId": "Charon"
+  },
+  "Wir fahren mit den Autos.": {
+    "url": "/clips/b5347adc57d1f3fb4273868e3e1f709a0a8eb63425f77ca86801b27a5629b9f1.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:dativ",
+    "voiceId": "Erinome"
+  },
+  "Ich fahre mit dem Bus zur Schule.": {
+    "url": "/clips/596f1d3ad0851d6adee9673147271ee54e0490d66ffe45fd5c8bb5cb2a72fbe8.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:dativ-praepositionen",
+    "voiceId": "Iapetus"
+  },
+  "Ich lege das Buch auf den Tisch.": {
+    "url": "/clips/861831724c4488861830a613db3b0c437c23204fce33d14ec3e5a5782ac291dc.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:dativ-praepositionen",
+    "voiceId": "Kore"
+  },
+  "Seit einem Jahr lerne ich Deutsch.": {
+    "url": "/clips/28231c169883ae9fc18beaf972f141dd7ff7634a3dfbb189c8fb50d4e11de566.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:dativ-praepositionen",
+    "voiceId": "Charon"
+  },
+  "Gestern habe ich Deutsch gelernt.": {
+    "url": "/clips/c8e38a229c1588c782d30af18cc61edc2ba45d3e0985db07972a61a0b7231160.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:perfekt",
+    "voiceId": "Erinome"
+  },
+  "Wir sind nach Kairo gefahren.": {
+    "url": "/clips/e234870e5eae80b5b141a1fbb2f1bbfe1a768064be9965eab674ab89b05c227c.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:perfekt",
+    "voiceId": "Iapetus"
+  },
+  "Hast du schon gegessen?": {
+    "url": "/clips/be1b82751c36baee8a5b1eafa36a952e95228462af023d0673edfa96e3e4eb2f.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:perfekt",
+    "voiceId": "Kore"
+  },
+  "Sie ist früh aufgestanden.": {
+    "url": "/clips/ed0970cd557e9937039ab65b4273ead0f8a3dd31b526df9023aaa7f9163e6f86.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:perfekt",
+    "voiceId": "Charon"
+  },
+  "Ich habe in Kairo studiert.": {
+    "url": "/clips/8c8c8ebbb9d1724582cd77261838e41b657f9ba4d65279106627461eceddea6f.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:perfekt",
+    "voiceId": "Erinome"
+  },
+  "Er hat sich bewegt.": {
+    "url": "/clips/431aef5b4d7d15073bb80c5215dc9d6354e4cd1ddf1da12e19387007dc82f2f2.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:perfekt",
+    "voiceId": "Iapetus"
+  },
+  "Ich war gestern krank.": {
+    "url": "/clips/50f5978e7f62173e996df8443a80989c101428d479815d302bc229bd7bcc209d.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:praeteritum-basics",
+    "voiceId": "Kore"
+  },
+  "Wir hatten keine Zeit.": {
+    "url": "/clips/4945650fbafb5f07c8e383a1a885ef55e5d1db6e99f9b45eef064984c16a035d.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:praeteritum-basics",
+    "voiceId": "Charon"
+  },
+  "Er konnte nicht kommen.": {
+    "url": "/clips/3dabdaa88fa03ee522b3ca9e21095b69e78da36e94a3fbc0f31351227ac53020.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:praeteritum-basics",
+    "voiceId": "Erinome"
+  },
+  "Sie kam um acht Uhr an.": {
+    "url": "/clips/27e5cbfc12976b9470123eb31e62447815e8da28cd4914a72085f32ad2c16c64.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:praeteritum-basics",
+    "voiceId": "Iapetus"
+  },
+  "Das ist ein guter Freund.": {
+    "url": "/clips/60126043602fdb1a3376bc29f0168ade50a9faa0a4a96f04a2bb3538659e1b13.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:adjektiv-endungen",
+    "voiceId": "Kore"
+  },
+  "Ich kaufe die rote Tasche.": {
+    "url": "/clips/5501558c11c964c871d24c7c4a5b73d048740b3dbf7c18cdfbfe5eb968673578.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:adjektiv-endungen",
+    "voiceId": "Charon"
+  },
+  "Wir wohnen in einem kleinen Haus.": {
+    "url": "/clips/ec4f111c8f6a85bd08f713786a69754142d7101121f086fcbc806c740ad3a148.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:adjektiv-endungen",
+    "voiceId": "Erinome"
+  },
+  "Heiße Suppe schmeckt im Winter gut.": {
+    "url": "/clips/0141417ad1026226451192359521b0a37732f733af0eb60f9ecb6ffabdf64d14.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:adjektiv-endungen",
+    "voiceId": "Iapetus"
+  },
+  "Ich sehe das kleine Kind.": {
+    "url": "/clips/ef00edb8ba58f40d32c5961b67e6e239defb40c3643627ff33e1f90ae793a4e3.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:adjektiv-endungen",
+    "voiceId": "Kore"
+  },
+  "Ich lerne Deutsch, weil ich in Deutschland arbeiten will.": {
+    "url": "/clips/b7364fd9ecc5d99659a33fa19319cd87b28c5b0a7307c42acc808df6d6bad503.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:nebensaetze-weil-dass",
+    "voiceId": "Charon"
+  },
+  "Er sagt, dass er keine Zeit hat.": {
+    "url": "/clips/151c1907d4e952e1612f899cb264d1c8be67d0d2277c7686321078846f5669ca.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:nebensaetze-weil-dass",
+    "voiceId": "Erinome"
+  },
+  "Wenn du willst, kannst du kommen.": {
+    "url": "/clips/fc5e51d2dd5d99230d3f4a8eec5f0163b39b305c472631ab4116c98dc637f798.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:nebensaetze-weil-dass",
+    "voiceId": "Iapetus"
+  },
+  "Kairo ist größer als Mansoura.": {
+    "url": "/clips/7a95d456cdcfbaeec459c46528a2ef9add544582bfb3b05340b698c7b00887b9.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:komparativ",
+    "voiceId": "Kore"
+  },
+  "Ich trinke lieber Tee als Kaffee.": {
+    "url": "/clips/6061d1bd69836239a407e733a2805e4ed7db641e657c1a9cc7aa2a747893d890.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:komparativ",
+    "voiceId": "Charon"
+  },
+  "Das ist der höchste Berg.": {
+    "url": "/clips/b67de9390b7fa073fbc20979b4e1f795b35d2dc98bc17953b04ba4d1a7130c76.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:komparativ",
+    "voiceId": "Erinome"
+  },
+  "Sie spricht am besten Deutsch.": {
+    "url": "/clips/80d52a65e5d438e207866e914acd4442aafa33224893b6695236e14baa76b6d8.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:komparativ",
+    "voiceId": "Iapetus"
+  },
+  "Ich freue mich auf das Wochenende.": {
+    "url": "/clips/037133aecd361ceb9cca7e3130afefc59da7b884c91323ccf755ed05a5c4e90f.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:reflexive-verben",
+    "voiceId": "Kore"
+  },
+  "Wir treffen uns um acht.": {
+    "url": "/clips/fa4e3635e734600b388f139ac78eaafb8d20dc2f863d7736df97b42fa91f5a28.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:reflexive-verben",
+    "voiceId": "Charon"
+  },
+  "Er interessiert sich für Musik.": {
+    "url": "/clips/7c73629b41903501a199144065c5fd4e103a238275035788b2e019662e4e9851.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:reflexive-verben",
+    "voiceId": "Erinome"
+  },
+  "Ich fühle mich heute gut.": {
+    "url": "/clips/59172e5e650567112f78e92a19a60bef70e629c872c01da894fdfa90bd21adb2.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:reflexive-verben",
+    "voiceId": "Iapetus"
+  },
+  "Es wird morgen regnen.": {
+    "url": "/clips/7808da737ae7585c4aa8c6c288b1ee2b98442c54f71656ef1ecd006e4a9aa389.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:futur-werden",
+    "voiceId": "Kore"
+  },
+  "Ich werde Ingenieur.": {
+    "url": "/clips/42d8566c6c2329600ea886640c00c05990e016ca8a9f6fbd8c811cf9bbe6f506.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:futur-werden",
+    "voiceId": "Charon"
+  },
+  "Wirst du mich besuchen?": {
+    "url": "/clips/2a78ee8250e371ec8738156f1edb7e71643883d98a13cfcd379af2b300e1f127.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:futur-werden",
+    "voiceId": "Erinome"
+  },
+  "Ich warte auf den Bus.": {
+    "url": "/clips/23b980bb7a76b77f2bfe000d14f7fe09436478d3aad857e6e88d57096e6b426d.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:verben-mit-praepositionen",
+    "voiceId": "Iapetus"
+  },
+  "Er träumt von einem Haus am Meer.": {
+    "url": "/clips/5f50d2abace1727daf5774dd89a39e64dd7064619fea51ae709da9175740993e.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:verben-mit-praepositionen",
+    "voiceId": "Kore"
+  },
+  "Wir sprechen über das Wetter.": {
+    "url": "/clips/c0dbf5540f4519dac86873092f73e2dadda0127619f13f23929d263876038342.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:verben-mit-praepositionen",
+    "voiceId": "Charon"
+  },
+  "Sie hat sich für das Studium entschieden.": {
+    "url": "/clips/a345dac42254ac123fd5a4084031ad320211dd2e66d54f642a3260fa8b1ab6fe.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:verben-mit-praepositionen",
+    "voiceId": "Erinome"
+  },
+  "Das ist der Mann, der hier wohnt.": {
+    "url": "/clips/b6c5892e4d872ecbd4139d6cf26c57371beb0ce8afb7f0050fe41005eb0f5d29.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:relativsaetze",
+    "voiceId": "Iapetus"
+  },
+  "Das Buch, das ich lese, ist spannend.": {
+    "url": "/clips/2499e1ea394491cc0b54394d0e08ee7f5eff430b4adc187ff08c988dab2b766c.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:relativsaetze",
+    "voiceId": "Kore"
+  },
+  "Die Stadt, in der ich geboren bin, ist klein.": {
+    "url": "/clips/3b7d7acd44f0c42d13245215be7f666c9a079040e9ae0079a206ad41531eb4f9.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:relativsaetze",
+    "voiceId": "Charon"
+  },
+  "Das ist die Frau, deren Sohn Arzt ist.": {
+    "url": "/clips/82d47b1e45f7f9101046c71637f75a15324236b34f41afc81f57a1eabb0307fd.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:relativsaetze",
+    "voiceId": "Erinome"
+  },
+  "Ich wäre gern reich.": {
+    "url": "/clips/b060b82ecbbe71c1083288b405bb89f938908b5d31b807db7f02af0617f353fb.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:konjunktiv-2",
+    "voiceId": "Iapetus"
+  },
+  "Wenn ich du wäre, würde ich lernen.": {
+    "url": "/clips/7005303d20054f05c98397f77a07ba02b0894a0871d370858863c824b6c2de4e.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:konjunktiv-2",
+    "voiceId": "Kore"
+  },
+  "Könnten Sie das bitte wiederholen?": {
+    "url": "/clips/17980b604a31ed2a69bdb2f0349b0fde41bb3e143cad66058a2fc53c39acdb6b.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:konjunktiv-2",
+    "voiceId": "Charon"
+  },
+  "Hier wird Deutsch gesprochen.": {
+    "url": "/clips/7600b988ab5b9c955628a1031d47e58a65edd339736e6853442b98ae5a222ee9.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:passiv",
+    "voiceId": "Erinome"
+  },
+  "Das Auto wurde gestern repariert.": {
+    "url": "/clips/d735eeb60110d5abaccb492706d9aa7e3695088931b47724dee005a1e181ce04.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:passiv",
+    "voiceId": "Iapetus"
+  },
+  "Der Brief muss geschrieben werden.": {
+    "url": "/clips/dc2719dfc393eb1714b12ca7bab392c24a5b561ed45d8a9d86671c3db6181a9c.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:passiv",
+    "voiceId": "Kore"
+  },
+  "Das ist das Buch meines Bruders.": {
+    "url": "/clips/a007646a42f49f9339a78c896449b2e862cfd2d3ef808e609f3b777c79ac803b.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:genitiv",
+    "voiceId": "Charon"
+  },
+  "Wegen des Regens bleiben wir hier.": {
+    "url": "/clips/c96f9c9f0ae4b55aa124d58cc89e33b12b8fcc7b6a1383a1faa7b92e9fdf4826.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:genitiv",
+    "voiceId": "Erinome"
+  },
+  "Während des Kurses lernen wir viel.": {
+    "url": "/clips/c770d53ed693ba4b7a8c0b1cdf2c608e5d7fb914462df4abcb6d3cff52b6256f.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:genitiv",
+    "voiceId": "Iapetus"
+  },
+  "Es ist wichtig, jeden Tag zu üben.": {
+    "url": "/clips/30f7d35958563b45657d2a54287fc795736858e7788e90781f040a23b2dcccc5.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:infinitiv-zu",
+    "voiceId": "Kore"
+  },
+  "Ich habe keine Lust, heute zu arbeiten.": {
+    "url": "/clips/41004e1660db25c1c0793262ea6b664ee88e3b33ef14ebb08286f0eb18e5415c.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:infinitiv-zu",
+    "voiceId": "Charon"
+  },
+  "Er spart Geld, um ein Auto zu kaufen.": {
+    "url": "/clips/0105fabee6a43ad88219b99c863901dc6943231af57afb95dde123e4c3d48bd6.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:infinitiv-zu",
+    "voiceId": "Erinome"
+  },
+  "Obwohl er müde ist, arbeitet er weiter.": {
+    "url": "/clips/db665e3dbfc220667ae8ecfb4318d53daae5bc630db01e3f7b03d36984c85a5f.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:konnektoren-b1",
+    "voiceId": "Iapetus"
+  },
+  "Bevor du gehst, ruf mich an.": {
+    "url": "/clips/6a952feca217b7ec3de5ff2c1bded97d5933758f47a71c1f100bf7ad0f55cff0.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:konnektoren-b1",
+    "voiceId": "Kore"
+  },
+  "Ich weiß nicht, ob er kommt.": {
+    "url": "/clips/251b9bfdbcb4b3dcd0397301991aa112aef239e0e35febdc98030b9fffed5054.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:konnektoren-b1",
+    "voiceId": "Charon"
+  },
+  "Es ist spät, deshalb gehe ich nach Hause.": {
+    "url": "/clips/9d6876d6295c108ffeadd7f8c4b3df98b2b314cc34d6109af76a85e99d3fb0e5.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:konnektoren-b1",
+    "voiceId": "Erinome"
+  },
+  "Die Tür ist geschlossen.": {
+    "url": "/clips/232d36d6e2d836f873ef0fea97d5998f58f6fe85199d66c4874d5295719d8834.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:passiv-erweitert",
+    "voiceId": "Iapetus"
+  },
+  "Das Problem lässt sich leicht lösen.": {
+    "url": "/clips/c074e7246c7004e55a7490f4c28a0e74958542df8cf93a9c9f260dec2668a410.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:passiv-erweitert",
+    "voiceId": "Kore"
+  },
+  "Der Antrag ist bis Freitag einzureichen.": {
+    "url": "/clips/c4e5e58b9f9fda42fc04710ed89f48b95a3cbdfcb8f6f850e403b44741f04453.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:passiv-erweitert",
+    "voiceId": "Charon"
+  },
+  "Der Minister sagte, er sei zufrieden.": {
+    "url": "/clips/76090f6dfbfb7bf00e9f59aa6787d5441b90cff2590c7410070396611e2bb082.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:konjunktiv-1",
+    "voiceId": "Erinome"
+  },
+  "Sie behauptet, sie habe nichts gewusst.": {
+    "url": "/clips/049ed9914e81620ff67772435a51a1847ce26fcdedc7112cffca33b6615e931f.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:konjunktiv-1",
+    "voiceId": "Iapetus"
+  },
+  "Er erklärte, er komme morgen.": {
+    "url": "/clips/2c74b1aeaa3ca70f438702fb664598f826274d6bf9ebfcfde65cc943edb4829c.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:konjunktiv-1",
+    "voiceId": "Kore"
+  },
+  "Die schlafende Katze liegt auf dem Sofa.": {
+    "url": "/clips/c7a149e91da1ff4a91dad98411dfda77eddbb2a7e5a45093f324d2f40d44fb68.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:partizipialattribute",
+    "voiceId": "Charon"
+  },
+  "Das geöffnete Fenster stört mich.": {
+    "url": "/clips/4b22bd31dbe0da3b31c36e13cb2fb58a88fe3bb52acb82594ac896fd449c83dc.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:partizipialattribute",
+    "voiceId": "Erinome"
+  },
+  "Die im Jahr 2020 gebaute Brücke ist neu.": {
+    "url": "/clips/1e0506865e8211dd87da7dd5d0ca3b1eb192c1399bde9444fcb910cdce26bcc0.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:partizipialattribute",
+    "voiceId": "Iapetus"
+  },
+  "Bei schlechtem Wetter fällt das Fest aus.": {
+    "url": "/clips/39b6451533cc5b4aaffa54936434c690e15461c490efb62cd86cf63aaf3a522c.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:nominalstil",
+    "voiceId": "Kore"
+  },
+  "Nach der Ankunft rufe ich dich an.": {
+    "url": "/clips/4d13e2d5e4d72abbc4fec22fd59738925597341d57788e783746cd7f0f24ce4d.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:nominalstil",
+    "voiceId": "Charon"
+  },
+  "Trotz der Kritik blieb sie ruhig.": {
+    "url": "/clips/6e9356b4e649c8a26c5869440b8b470320143ee1b7227c06fcfd7d4f0e9bf66c.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:nominalstil",
+    "voiceId": "Erinome"
+  },
+  "Das muss ein Irrtum sein.": {
+    "url": "/clips/dc99a38faf7a6d284a19b9e8211cac5379b2bb217609bfb909104a14d67b6989.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:subjektive-modalverben",
+    "voiceId": "Iapetus"
+  },
+  "Sie dürfte schon zu Hause sein.": {
+    "url": "/clips/fb32b6b38b517164f930f0f86e478e3a2ca5b0db909b63fb64333ebb42ea957e.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:subjektive-modalverben",
+    "voiceId": "Kore"
+  },
+  "Er soll im Ausland leben.": {
+    "url": "/clips/318f3c4d2bc5bc4f597838c79ea3a3d3081e9a3857df1f3a8851612b78dba9cb.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:subjektive-modalverben",
+    "voiceId": "Charon"
+  },
+  "Wenn ich das gewusst hätte, wäre ich geblieben.": {
+    "url": "/clips/b836aaed751c947dca1d372d23fb1f3049a9dc387758f89aeddc5024d64dedf6.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:konjunktiv-2-vergangenheit",
+    "voiceId": "Erinome"
+  },
+  "Du hättest früher anrufen sollen.": {
+    "url": "/clips/54836cdd688a5bab6ce4779cd537b1586989c7fcfaf80f6aa9bd70920eb13dfe.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:konjunktiv-2-vergangenheit",
+    "voiceId": "Iapetus"
+  },
+  "Wir nehmen Ihre Beschwerde zur Kenntnis.": {
+    "url": "/clips/2a2c8e8ee9c30cd299bb749af65ecae5bfad6b2773c020f334640d71e9449d4a.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:funktionsverbgefuege",
+    "voiceId": "Kore"
+  },
+  "Die Firma steht vor einer schweren Entscheidung.": {
+    "url": "/clips/a864f14e095df748c799216ee0f6ccb418607ea73447c723a11f2b42ad202b03.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:funktionsverbgefuege",
+    "voiceId": "Charon"
+  },
+  "Das weißt du doch!": {
+    "url": "/clips/cee95b90940f89671e03bfe2f7f856ef9537db537a87bcb7a6be4c7350656cc7.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:modalpartikeln",
+    "voiceId": "Erinome"
+  },
+  "Komm mal her.": {
+    "url": "/clips/dfc79468ebe8fd8547c89bf9723b9fc1035b7eba39f72fee45346d23b2f04a4b.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:modalpartikeln",
+    "voiceId": "Iapetus"
+  },
+  "Wo bist du denn?": {
+    "url": "/clips/a005a1c14aaf454cb1a1e6e022e72810654601a9664b94093b582e845660e377.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:modalpartikeln",
+    "voiceId": "Kore"
+  },
+  "Einerseits steigt die Nachfrage, andererseits sinkt das Angebot.": {
+    "url": "/clips/6ba6cc7cfe86905cdd73acc3b6863a5df587c8492ae9c47afdd4b09a7463c967.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:wissenschaftssprache",
+    "voiceId": "Charon"
+  },
+  "Aus der Studie geht hervor, dass die Zahl zugenommen hat.": {
+    "url": "/clips/8b1729f1b1e77a55263b16b77c1f22988e479fe995e27fa596515b223851266b.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:wissenschaftssprache",
+    "voiceId": "Erinome"
+  },
+  "Sie lacht, als ob nichts passiert wäre.": {
+    "url": "/clips/d8c27b76a68629971aebf56d2913f70b157c233c696377191cf54b1ab4a57588.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:als-ob",
+    "voiceId": "Iapetus"
+  },
+  "Wir bitten um Ihr Verständnis.": {
+    "url": "/clips/a41e24b3223479fc35d89da064060651c2514f4fc4c8ffaf2981da1a57b9f45c.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:stilregister",
+    "voiceId": "Kore"
+  },
+  "Kannst du mir kurz helfen?": {
+    "url": "/clips/8077822d3e34f65c089e8ec51e27f91e88bbc82462132c98530bf4035f7a808b.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:stilregister",
+    "voiceId": "Charon"
+  },
+  "Ich krieg das schon hin.": {
+    "url": "/clips/2be7f587e5c71ae6166f8c61ba80e2c9b826753114c19bac8a8b9fd02f7d2740.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:stilregister",
+    "voiceId": "Erinome"
+  },
+  "Ich drücke dir die Daumen für die Prüfung.": {
+    "url": "/clips/52100d507f02b66af99d776eb56b595401ff13a028364434a5ad6a67e3476d02.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:redewendungen",
+    "voiceId": "Iapetus"
+  },
+  "Das ist nicht mein Bier.": {
+    "url": "/clips/700e6d0de05b51bcb86206ae5fa659658a8c2c736be0da650f9b1a161ab02ce4.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:redewendungen",
+    "voiceId": "Kore"
+  },
+  "Moin, wie geht's?": {
+    "url": "/clips/7ac6a1f9c789f4c6ead9c136e59084d2771e4b8d034774aad6e5b66d88608c6f.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:dialekte-umgangssprache",
+    "voiceId": "Charon"
+  },
+  "Servus, bis später!": {
+    "url": "/clips/4d5e09b31d75768c8e1b6333be2730840fcbfb82a4d597185f9fc560ade403d1.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:dialekte-umgangssprache",
+    "voiceId": "Erinome"
+  },
+  "Als ich ankam, hatte der Kurs schon begonnen.": {
+    "url": "/clips/c486f3a1caad9f998611e8b84c789e4ba67611402b3840c52197048310fe892b.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:plusquamperfekt",
+    "voiceId": "Iapetus"
+  },
+  "Wir waren schon nach Hause gegangen, als du angerufen hast.": {
+    "url": "/clips/e6b458cf1f90c27762a6291344cccdc14dbf47adc9c222d70b11ea5b340fed2b.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:plusquamperfekt",
+    "voiceId": "Kore"
+  },
+  "Nachdem sie gegessen hatte, ging sie zur Arbeit.": {
+    "url": "/clips/b27890277b9c45d1fe7164c1a467efdc055e6703a955138f24f73e3c30dcf336.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:plusquamperfekt",
+    "voiceId": "Charon"
+  },
+  "Ich hatte den Schlüssel vergessen und konnte die Tür nicht öffnen.": {
+    "url": "/clips/b6e9a53e5b8e6f1f86374db2f00791bae04fe411dd1a3b1ed46c498a8d5890e5.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:plusquamperfekt",
+    "voiceId": "Erinome"
+  },
+  "Ich weiß nicht, ob der Bus heute fährt.": {
+    "url": "/clips/3c9d1a93408155a54e6a5b741e00514a782ba9590c8d3b207c1adc48bd4f804a.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:indirekte-fragen",
+    "voiceId": "Iapetus"
+  },
+  "Können Sie mir sagen, wann der Kurs beginnt?": {
+    "url": "/clips/807b6985b27c982758663ccc4a56bbc143e30a87d343db57be774caf21b7307b.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:indirekte-fragen",
+    "voiceId": "Kore"
+  },
+  "Ich möchte wissen, wo du wohnst.": {
+    "url": "/clips/616b7d5b53918c7bb103ed76fca28060075fe19f434b9e6af975c05972901f62.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:indirekte-fragen",
+    "voiceId": "Charon"
+  },
+  "Weißt du, wann der Zug angekommen ist?": {
+    "url": "/clips/ab01219fff0cb8ba02d9c96a7f90f17e93aec37885b2a8b60f02ae1c9f6649c0.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "grammar:indirekte-fragen",
+    "voiceId": "Erinome"
+  },
+  "Ich habe Pizza gegessen.": {
+    "url": "/clips/db9f74ce7bfe6449394ae964de50a63a59e38ac1981b0079b009d68667742acc.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "embedded-rule:PerfView",
+    "voiceId": "Iapetus"
+  },
+  "Er ist nach Hause gegangen.": {
+    "url": "/clips/92eb16fd6c8d9dc4115ab4dd78cc49a403ee3f209579e1dc9ef530cbdb4f22f8.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "embedded-rule:PerfView",
+    "voiceId": "Kore"
+  },
+  "Wir sind nach Berlin gefahren.": {
+    "url": "/clips/f4f1e4dcfcb64c42aae9329e3fcd614c1572edfd833c3b9e1f220e1abf32a467.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "embedded-rule:PerfView",
+    "voiceId": "Charon"
+  },
+  "Sie ist müde geworden.": {
+    "url": "/clips/a79ba264ee793f9bc90eabf1d21782745ea105b4ed784bde554d1d89dcf903c9.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "embedded-rule:PerfView",
+    "voiceId": "Erinome"
+  },
+  "Ich bin zu Hause geblieben.": {
+    "url": "/clips/1aed732bb9e617ccc5a5c9c895e2071da50bb817684bfb0338ef92ca539282c2.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "embedded-rule:PerfView",
+    "voiceId": "Iapetus"
+  },
+  "Er hatte keine Zeit.": {
+    "url": "/clips/726cd53e51f9f8a1043ea6589f216d83c1260643fec1d0da752616c7fc415384.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "embedded-rule:PerfView",
+    "voiceId": "Kore"
+  },
+  "Wir konnten nicht kommen.": {
+    "url": "/clips/68e0ecfc4e03c5735d728a08dd00e57b4a602f2564cf4f412c595470e4c925de.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "embedded-rule:PerfView",
+    "voiceId": "Charon"
+  },
+  "gemacht, gespielt": {
+    "url": "/clips/947278d454b40b315596360eeec2d7c732da1fd0acd89b136e4c801e27b2bbaa.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "embedded-rule:PerfView",
+    "voiceId": "Erinome"
+  },
+  "gegangen, gesehen": {
+    "url": "/clips/b7d9a5c069f9d9a8b6f34c533ac7615e92c50a2330cac4152421dff973a4a0a6.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "embedded-rule:PerfView",
+    "voiceId": "Iapetus"
+  },
+  "besucht, vergessen": {
+    "url": "/clips/1a60a7ac4f01c0abb110f05cabc45e8debae8518f9f54b511a067d1ac09a3967.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "embedded-rule:PerfView",
+    "voiceId": "Kore"
+  },
+  "Ich komme nicht.": {
+    "url": "/clips/5f97fd90e56fd0e8a861402ec4d5b94b13b6d90d88b5cb26409fd925a6e19b29.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "embedded-rule:NegView",
+    "voiceId": "Charon"
+  },
+  "Ich verstehe das nicht.": {
+    "url": "/clips/79d59a00c974c72137d4dfa9343df6a730d93c98e97ae9afc3e95c0913e8a97b.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "embedded-rule:NegView",
+    "voiceId": "Erinome"
+  },
+  "Kommst du heute?": {
+    "url": "/clips/9708d480ddcc63c13c79909a27b337b844069de2408d6daf74af3d73a3d74873.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "embedded-rule:NegView",
+    "voiceId": "Iapetus"
+  },
+  "Kommst du nicht? Doch!": {
+    "url": "/clips/c1c7942e416479bc7e0a5deca00c3717bb68ab7fbb44446ba2d5d95bd05caeb5.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "embedded-rule:NegView",
+    "voiceId": "Kore"
+  },
+  "Wann kommst du?": {
+    "url": "/clips/6f69add26714eb47cf0d62101629d1b23c23d7275086494b33e297d0ebcea6f9.mp3",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "embedded-rule:NegView",
+    "voiceId": "Charon"
   }
 }
