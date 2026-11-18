@@ -360,4 +360,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-ding-und-material',dialogue:'nicht-jede-spule-eine-art'},
  {reading:'alltag-a2-worauf-bezieht-sich-es',dialogue:'das-nomen-bestimmt-den-bezug'},
  {reading:'alltag-b1-sichtbar-ist-nicht-passend',dialogue:'keine-empfehlung-fuer-jeden-stoff'},
+ {reading:'alltag-a1-ein-kopf-viele-blaetter',dialogue:'die-zeile-bleibt-frei'},
+ {reading:'alltag-a2-wort-und-mengenangabe',dialogue:'portionen-sind-das-zaehlwort'},
+ {reading:'alltag-b1-fotogroesse-und-gegenstand',dialogue:'kein-erfundenes-lineal'},
 ];

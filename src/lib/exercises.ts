@@ -579,3 +579,6 @@ for(const[topic,rows]of Object.entries(tinteundfederGrammar))exercises[topic].pu
 
 import {naehbedarfGrammar} from './exercises-naehbedarf';
 for(const[topic,rows]of Object.entries(naehbedarfGrammar))exercises[topic].push(...rows);
+
+import {kohlformenGrammar} from './exercises-kohlformen';
+for(const[topic,rows]of Object.entries(kohlformenGrammar))exercises[topic].push(...rows);

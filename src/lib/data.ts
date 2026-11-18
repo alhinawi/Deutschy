@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  kohlformen: 'Kohlkopf und Rosenkohl',
   naehbedarf: 'Nähnadel und Nähgarn',
   tinteundfeder: 'Tintenfass und Federhalter',
   schachfigurenarten: 'Schachbauer und Schachspringer',
@@ -180,6 +181,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  kohlformen: 'Cabbage head and Brussels sprouts',
   naehbedarf: 'Sewing needle and thread',
   tinteundfeder: 'Inkwell and dip pen holder',
   schachfigurenarten: 'Chess pawn and knight',

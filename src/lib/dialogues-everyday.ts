@@ -25788,3 +25788,218 @@ Object.assign(dialogueEvidence,{
     "Eine Belastungsprobe haben wir nicht durchgeführt."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "die-zeile-bleibt-frei",
+    "level": "A1",
+    "title": [
+      "Nicht einfach eine Endung anhängen",
+      "مش نزود نهاية وخلاص"
+    ],
+    "lines": [
+      [
+        "Ben",
+        "Bei Kohlkopf habe ich die Kohlköpfe notiert.",
+        "مع كولكوبف كتبت الجمع دي كولكوبفه."
+      ],
+      [
+        "Lea",
+        "Gut. Lies jetzt den Eintrag für Rosenkohl.",
+        "تمام. اقرا دلوقتي مدخل روزنكول."
+      ],
+      [
+        "Ben",
+        "Hier steht ohne Plural. Aber ich sehe viele kleine Teile.",
+        "هنا مكتوب من غير جمع. بس أنا شايف أجزاء صغيرة كتير."
+      ],
+      [
+        "Lea",
+        "Das ändert die Wörterbuchangabe nicht.",
+        "ده مش بيغير المعلومة اللي في القاموس."
+      ],
+      [
+        "Ben",
+        "Dann bleibt die Mehrzahlzeile auf dieser Karte frei.",
+        "يبقى سطر الجمع في الكارت ده يفضل فاضي."
+      ],
+      [
+        "Lea",
+        "Ja. Wir ordnen nun die beiden Namen den Fotos zu.",
+        "أيوه. دلوقتي نوصل الاسمين بالصورتين."
+      ],
+      [
+        "Ben",
+        "Und wir bereiten heute kein Essen zu.",
+        "ومش هنحضر أكل النهارده."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Mehrzahl hat Ben notiert?",
+        "Die Kohlköpfe.",
+        "Die Rosenkohlen.",
+        "Die Kohlkopfs."
+      ],
+      [
+        "Was bleibt auf der zweiten Karte frei?",
+        "Die Mehrzahlzeile.",
+        "Der Name.",
+        "Der Artikel."
+      ],
+      [
+        "Was machen sie nun?",
+        "Namen den Fotos zuordnen.",
+        "Gemüse bestellen.",
+        "Ein Rezept ausprobieren."
+      ]
+    ]
+  },
+  {
+    "id": "portionen-sind-das-zaehlwort",
+    "level": "A2",
+    "title": [
+      "Welches Wort wird gezählt?",
+      "أنهي كلمة هي اللي بتتعد؟"
+    ],
+    "lines": [
+      [
+        "Omar",
+        "Kann ich einfach zwei vor Rosenkohl setzen?",
+        "ينفع أحط تسفاي قبل روزنكول وخلاص؟"
+      ],
+      [
+        "Jana",
+        "Nicht in unserem Beispiel. Wir schreiben zwei Portionen Rosenkohl.",
+        "مش في مثالنا. هنكتب تسفاي بورتيونن روزنكول."
+      ],
+      [
+        "Omar",
+        "Dann stehen die Portionen im Plural.",
+        "يبقى بورتيونن هي اللي في الجمع."
+      ],
+      [
+        "Jana",
+        "Genau. Rosenkohl bleibt hier unverändert.",
+        "بالظبط. روزنكول هنا بتفضل زي ما هي."
+      ],
+      [
+        "Omar",
+        "Bei zwei Kohlköpfen ändern wir dagegen das Lernwort selbst.",
+        "لكن مع راسين كرنب بنغير كلمة المذاكرة نفسها."
+      ],
+      [
+        "Jana",
+        "Richtig. Das sind getrennte Sprachbeispiele, keine gemessenen Mengen.",
+        "صح. دي أمثلة لغة منفصلة مش كميات قسناها."
+      ],
+      [
+        "Omar",
+        "Wir haben heute nichts abgewogen.",
+        "إحنا ماوزناش أي حاجة النهارده."
+      ]
+    ],
+    "q": [
+      [
+        "Welchen Ausdruck schreiben sie?",
+        "Zwei Portionen Rosenkohl.",
+        "Zwei Rosenkohlen.",
+        "Zwei Gramm Kohlköpfe als Gewichtsbeweis."
+      ],
+      [
+        "Was bleibt hier unverändert?",
+        "Rosenkohl.",
+        "Portionen im Singular.",
+        "Jede Form von Kohlkopf."
+      ],
+      [
+        "Was haben sie nicht gemacht?",
+        "Etwas abgewogen.",
+        "Sprachbeispiele verglichen.",
+        "Über Mehrzahlformen gesprochen."
+      ]
+    ]
+  },
+  {
+    "id": "kein-erfundenes-lineal",
+    "level": "B1",
+    "title": [
+      "Gleich große Bildfelder",
+      "مساحات صور قد بعض"
+    ],
+    "lines": [
+      [
+        "Karim",
+        "Wenn das zweite Foto größer ist, sind die Gegenstände dort auch größer, oder?",
+        "لو الصورة التانية أكبر يبقى الحاجات فيها أكبر كمان، صح؟"
+      ],
+      [
+        "Nina",
+        "Nein. Wir kennen keinen gemeinsamen Maßstab.",
+        "لأ. إحنا مش عارفين مقياس موحد."
+      ],
+      [
+        "Karim",
+        "Dann bringen gleich große Bildfelder auch keine echten Maße.",
+        "يبقى مساحات الصور اللي قد بعض برضه مش بتدينا مقاسات حقيقية."
+      ],
+      [
+        "Nina",
+        "Richtig. Sie helfen nur bei einer übersichtlichen Darstellung.",
+        "صح. هي بتساعد بس في عرض واضح."
+      ],
+      [
+        "Karim",
+        "Und ein eingezeichnetes Lineal wäre nur erfunden.",
+        "والمسطرة اللي نرسمها جوه الصورة هتكون مخترعة بس."
+      ],
+      [
+        "Nina",
+        "Deshalb lassen wir sie weg und behaupten keine Messung.",
+        "عشان كده مش هنضيفها ومش هندعي إننا قسنا."
+      ],
+      [
+        "Karim",
+        "Wir prüfen nur, ob die Wörter zu den sichtbaren Formen passen.",
+        "هنراجع بس إذا الكلمات مناسبة للأشكال الظاهرة."
+      ]
+    ],
+    "q": [
+      [
+        "Was kennen sie nicht?",
+        "Einen gemeinsamen Maßstab.",
+        "Die beiden Lernwörter.",
+        "Die Zahl ihrer Fotos."
+      ],
+      [
+        "Wobei helfen gleich große Bildfelder?",
+        "Bei einer übersichtlichen Darstellung.",
+        "Bei einem bewiesenen Gewicht.",
+        "Bei der Ernte."
+      ],
+      [
+        "Was behaupten sie nicht?",
+        "Eine Messung.",
+        "Dass sie Bilder vergleichen.",
+        "Dass sie sichtbare Formen prüfen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "die-zeile-bleibt-frei": [
+    "die Kohlköpfe notiert.",
+    "bleibt die Mehrzahlzeile auf dieser Karte frei.",
+    "die beiden Namen den Fotos zu."
+  ],
+  "portionen-sind-das-zaehlwort": [
+    "zwei Portionen Rosenkohl.",
+    "Rosenkohl bleibt hier unverändert.",
+    "heute nichts abgewogen."
+  ],
+  "kein-erfundenes-lineal": [
+    "keinen gemeinsamen Maßstab.",
+    "bei einer übersichtlichen Darstellung.",
+    "behaupten keine Messung."
+  ]
+});

@@ -58,7 +58,7 @@ function Quiz({ make, game, size = 10 }: Props) {
         })}
       </div>
       {audioError&&<p role="status">{t("مفيش صوت ألماني متاح. كمل قراءة لو النص ظاهر.","No German voice is available. Continue reading if text is shown.")}</p>}
-      {pick!==null&&<p role="status" aria-live="polite" aria-atomic="true" dir="auto">{pick===q.options[0]?t("صح.","Correct."):t("راجع الإجابة الصحيحة: ","Correct answer: ")+q.options[0]}</p>}
+      {pick!==null&&<p role="status" aria-live="polite" aria-atomic="true" dir="auto">{pick===q.options[0]?t("صح.","Correct."):<>{t("راجع الإجابة الصحيحة: ","Correct answer: ")}<bdi lang="de" dir="ltr">{q.options[0]}</bdi></>}</p>}
       {pick !== null && q.note && <p role="note" aria-label={t("شرح الإجابة", "Answer explanation")} dir="auto" className="ar-title text-sm text-muted leading-relaxed break-words">{lang === 'ar' ? <Mixed text={q.note[0]} /> : q.note[1]}</p>}
       {pick !== null && <button onClick={() => { stopSpeaking(); setAudioError(false); setI(i + 1); setPick(null);locked.current=false; }} className="min-h-11 w-full rounded-full bg-accent py-2 font-bold text-accent-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-card">{i + 1 >= items.length ? t('النتيجة', 'Result') : t('التالي', 'Next')}</button>}
     </div>
