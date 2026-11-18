@@ -1,3 +1,4 @@
+import {accountMemory} from './account-memory';
 import { grammar } from './grammar';
 import { exercises } from './exercises';
 import { readings } from './reading';
@@ -28,9 +29,9 @@ export function resultFor(id: string, level: CheckLevel, questions: CheckQuestio
 }
 export const CHECK_KEY = 'deutschy:level-check:v1';
 export function readResults(): CheckResult[] {
- try { const data = JSON.parse(localStorage.getItem(CHECK_KEY) ?? '[]'); return Array.isArray(data) ? data.filter((r) => r && CHECK_LEVELS.includes(r.level) && typeof r.at === 'number' && r.total > 0 && r.correct >= 0 && r.correct <= r.total).slice(-50) : []; } catch { return []; }
+ try { const data = JSON.parse(accountMemory.getItem(CHECK_KEY) ?? '[]'); return Array.isArray(data) ? data.filter((r) => r && CHECK_LEVELS.includes(r.level) && typeof r.at === 'number' && r.total > 0 && r.correct >= 0 && r.correct <= r.total).slice(-50) : []; } catch { return []; }
 }
 export function saveResult(result: CheckResult) {
  const results = readResults();
- if (!results.some((r) => r.id === result.id)) localStorage.setItem(CHECK_KEY,JSON.stringify([...results,result].slice(-50)));
+ if (!results.some((r) => r.id === result.id)) accountMemory.setItem(CHECK_KEY,JSON.stringify([...results,result].slice(-50)));
 }

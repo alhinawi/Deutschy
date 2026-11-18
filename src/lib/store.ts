@@ -1,4 +1,5 @@
 'use client';
+import {accountMemory,stateStatus} from './account-memory';
 import {answerEffect} from './game-effects';
 import {validateProgress} from './progress-validation';
 import { useEffect, useState, useCallback } from 'react';
@@ -14,8 +15,8 @@ const empty: State = { xp: 0, streak: 0, best: 0, lastDay: '', name: '', seen: {
 const day = (d = new Date()) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
 
 let storageIssue=false;
-export const load=():State=>{try{const result=validateProgress(JSON.parse(localStorage.getItem(KEY)??'{}'),empty);storageIssue=result.invalid;return result.state}catch{storageIssue=true;return validateProgress({},empty).state}};
-const save=(s:State)=>{try{load();if(storageIssue)throw Error('Unreadable progress preserved');localStorage.setItem(KEY,JSON.stringify(s));storageIssue=false;window.dispatchEvent(new Event('deutschy:update'));return true}catch{storageIssue=true;window.dispatchEvent(new Event('deutschy:storage-error'));return false}};
+export const load=():State=>{try{const result=validateProgress(JSON.parse(accountMemory.getItem(KEY)??'{}'),empty);storageIssue=result.invalid;return result.state}catch{storageIssue=true;return validateProgress({},empty).state}};
+const save=(s:State)=>{try{load();if(storageIssue)throw Error('Unreadable progress preserved');accountMemory.setItem(KEY,JSON.stringify(s));storageIssue=false;window.dispatchEvent(new Event('deutschy:update'));return true}catch{storageIssue=true;window.dispatchEvent(new Event('deutschy:storage-error'));return false}};
 
 let loggedIn = false;
 export const setLoggedIn = (v: boolean) => { loggedIn = v; };
@@ -75,7 +76,7 @@ export function useStore() {
     const cur = load();
     cur.scores = [...cur.scores, { game, score, at: Date.now(), name: cur.name || 'أنا' }].slice(-200);
     if(storageIssue)return;
-    if (loggedIn) fetch('/api/me/score', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ game, score }) }).catch(() => {});
+    if (loggedIn) fetch('/api/me/score', { method: 'POST', headers: { 'content-type': 'application/json' }, body: JSON.stringify({ game, score, accountId:stateStatus().accountId }) }).catch(() => {});
     save(cur);
   }, []);
   const setCard = useCallback((id: string, card: { b: number; due: number }) => {

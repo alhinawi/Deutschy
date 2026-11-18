@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after appearance and interaction update185.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after account storage update186.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1974,8 +1974,20 @@ No reviewer/date/sign-off is supplied. Earlier review targets remain pending.
 
 ## Appearance and interaction185: pending review
 
-- [ ] Check all20Egyptian Arabic theme names and the plain-language settings explanation. Appearance is browser-local,available to everyone,and does not reset study progress.
+- [ ] Check all20Egyptian Arabic theme names and the plain-language settings explanation. Appearance is available to everyone and does not reset study progress. Storage is superseded by update186 below.
 - [ ] Review the20light/dark palettes on a real phone,including native radio/select controls,focus,selected cards,German examples and Arabic text.40automated accessibility scans and contrast checks do not approve every device or visual preference.
 - [ ] Listen to quiet UItones and the distinct graded-answer tones. Verify mute,reduced-motion,keyboard,hidden-page and stop behavior on a real device. No sound is the only feedback. Typing and scrolling stay silent.
 
 No reviewer/date/sign-off is supplied. Earlier editorial targets remain pending.
+
+
+## Account storage186: pending language and usability review
+
+- [ ] Review the Egyptian Arabic and English save-strip wording: loading, guest memory, saving, confirmed saved, network failure, retry and device/tab conflict. Only a server acknowledgement means the account save is confirmed.
+- [ ] Check the guest warning is understood before writing: new work is only in the tab and disappears on reload, closing or sign-in. Sign in before starting work that needs saving. Historical device records remain untouched and are not automatically imported.
+- [ ] Review writing, review-card, level-check, planner, progress, badge and certificate notices. Account saving applies to signed-in users; guests use tab memory. Earlier browser-local review instructions in this document are superseded by this section.
+- [ ] Verify account draft, theme, language, weekly plan, timed session and review cards on a real phone. Local 320/390 px tests and account fixtures do not establish production or real-device approval.
+- [ ] Check network-failure and conflict recovery. Copy important text before reload. A stale tab must not overwrite newer account data. Check the explicit warning before signing out with pending work.
+- [ ] Distinguish static offline files from personal study data. Static pages/fonts/photos remain cached; personal API data is not cached. The required sign-in cookie remains. Do not promise fully offline account saving.
+
+No reviewer/date/sign-off is supplied. German content is unchanged by this storage update. Earlier editorial and pronunciation targets remain pending.

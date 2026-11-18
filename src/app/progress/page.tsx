@@ -29,7 +29,7 @@ export default function Progress() {
   return (
     <div className="mx-auto max-w-3xl space-y-8">
       <h1 className="ar-title text-4xl font-bold">{t('تقدمي', 'My progress')}</h1>
-      <p className="rounded-xl border border-line bg-card p-4">{t('السجل ده على المتصفح والجهاز ده بس، مش متزامن. حذف بيانات المتصفح ممكن يمسحه. مستوى XP لعبة تنظيمية، مش مستوى لغة معتمد.','This record stays in this browser on this device and is not synced. Clearing browser data can erase it. XP level is a practice counter, not a certified language level.')}</p>
+      <p className="rounded-xl border border-line bg-card p-4">{t('السجل في الحساب للمسجّل لما السيرفر يؤكد الحفظ، وفي ذاكرة التبويب بس للضيف لحد إعادة التحميل. مستوى XP لعبة تنظيمية، مش مستوى لغة معتمد.','This record is saved to the account after server confirmation when signed in, or kept in tab memory until reload for guests. XP level is a practice counter, not a certified language level.')}</p>
       <NextStudy />
 
       <section className="space-y-3 rounded-2xl border border-line bg-card p-5">
@@ -45,7 +45,7 @@ export default function Progress() {
       </section>
 
       <section className="space-y-3 rounded-2xl border border-line bg-card p-5" aria-labelledby="activity-heading">
-        <h2 id="activity-heading" className="ar-title text-2xl font-bold">{t('آخر 7 أيام على الجهاز ده','Last 7 days on this device')}</h2>
+        <h2 id="activity-heading" className="ar-title text-2xl font-bold">{t('آخر 7 أيام في السجل','Last 7 days in this record')}</h2>
         <p className="text-sm text-muted">{t('تواريخ حسب ساعة جهازك. الجدول بيسجل XP المكتسب، مش وقت المذاكرة. يوم من غير XP مش دليل إنك مااتمرنتش؛ المحاولة الغلط ممكن تسجل نشاط من غير نقاط.','Dates use your device clock. This table records earned XP, not study time. Zero XP does not prove no practice: an incorrect attempt can record activity without points.')}</p>
         <div dir="ltr" className="overflow-x-auto"><table className="w-full text-start"><caption className="sr-only">{t('XP اليومي المحفوظ','Saved daily XP')}</caption><thead><tr><th scope="col" className="p-2 text-start">{t('التاريخ','Date')}</th><th scope="col" className="p-2 text-end">XP</th></tr></thead><tbody>{last7.map(d=><tr key={d.key} className="border-t border-line"><th scope="row" className="num p-2 text-start font-normal"><time dateTime={d.key}>{d.key}</time></th><td className="num p-2 text-end">{d.xp}</td></tr>)}</tbody></table></div>
         <p>{activity.practicedToday?t('فيه محاولة مسجلة النهارده.','An attempt is recorded today.'):activity.currentStreak>0?t('آخر محاولة امبارح. السلسلة لسه مستمرة؛ مفيش محاولة مسجلة النهارده.','The last attempt was yesterday. The streak is still current; no attempt is recorded today.'):t('مفيش سلسلة حالية. أي سجل قديم لسه محفوظ.','No current streak. Any older record is still saved.')}</p>
