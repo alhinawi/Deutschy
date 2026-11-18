@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-sixty-seventh product update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-sixty-eighth product update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1760,6 +1760,13 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 - [ ] Indirect questions: review6rule points,4translated examples,3row contrast table,worked example and8questions. Check ob versus conditional wenn,question-word clause order,separable verbs,Perfekt order and final punctuation based on the outer clause. Indicative examples are not a ban on formal reported-speech Konjunktiv.
 - [ ] Review Egyptian Arabic clarity and the German examples independently. Source links support the rules,not native editorial certification. New content uses neutral SVG topic tiles,no irrelevant photos or public audio-generation side effects.
 - [ ] Browser checks:8AR/EN320/390topic variants,320assertions,64correct submissions,8axe snapshots and8cheat-sheet checks. Existing saved question identities remain unchanged;new IDs belong only to the2newtopics. Real-device/screen-reader/native-teacher checks remain pending.
+
+### Hundred-and-sixty-eighth update: everyday verb catalogue
+
+- [ ] Catalogue now155entries,up from143. New 12: bestellen, packen, reparieren, reservieren, benutzen, erlauben, erreichen, gehören, sparen, fehlen, passen, schicken. Review 72 explicit present forms,12third-person simple pasts,12participles/auxiliaries and12original translated examples against their individual Duden links.
+- [ ] Meanings are selected uses,not every sense. Check Egyptian Arabic usage,especially gehören as belonging,fehlen as missing and passen as fit/suit. No added irrelevant photos;newentries use neutral regular-verb SVGtiles. Original143entries/order compare exactly unchanged.
+- [ ] Full conjugation lab remains12verbs/792cells;core grammar43topics/3662questions. Catalogue expansion does not silently claim all verbs,full German grammar,official CEFRmapping or native review.
+- [ ] Browser:48newdetail variants AR/EN320/390,876assertions,288present/Perfekt table rows,4axe snapshots and4catalogue-search checks. Human/native editorial and real-device audio review remain pending.
 
 ## 3. Wider review queue after the focused batch
 

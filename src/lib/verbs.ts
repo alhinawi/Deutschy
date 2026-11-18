@@ -1,7 +1,8 @@
+import {everydayVerbs} from './verbs-everyday';
 import type { Lvl } from './grammar-types';
 export type VerbKind = 'regular' | 'strong' | 'irregular' | 'modal' | 'separable' | 'reflexive';
 export type Verb = {
-  inf: string; ar: string; en: string; level: Lvl; kind: VerbKind; img: string;
+  inf: string; ar: string; en: string; level: Lvl; kind: VerbKind; img: string; source?:string;
   pres: [string, string, string, string, string, string]; pret: string; pp: string; aux: 'haben' | 'sein';
   ex: [string, string, string];
 };
@@ -216,6 +217,7 @@ export const verbs: Verb[] = [
   refl('entschuldigen', 'يعتذر', 'to apologise', 'A2', 'hand', b('entschuldigen', null, null, 'entschuldigte', 'entschuldigt'), ['Ich entschuldige mich.', 'بعتذر.', 'I apologise.']),
   refl('stellen', 'يقدّم نفسه / يتخيل', 'to introduce oneself', 'A2', 'hotel', b('stellen', null, null, 'stellte', 'gestellt'), ['Ich stelle mich kurz vor.', 'هعرفكم بنفسي بسرعة.', 'Let me introduce myself briefly.'], 'vor'),
   refl('ziehen', 'يلبس', 'to get dressed', 'A2', 'hemd', b('ziehen', null, null, 'zog', 'gezogen'), ['Ich ziehe mich schnell an.', 'بلبس بسرعة.', 'I get dressed quickly.'], 'an'),
+  ...everydayVerbs,
 ];
 // Photos only where the picture really shows the verb. Everything else gets an illustration tile.
 const FITS: Record<string, string> = { essen: 'teller', trinken: 'tee', schlafen: 'bett', lesen: 'buch', schreiben: 'stift', fahren: 'auto', fliegen: 'flugzeug', schwimmen: 'meer', kochen: 'topf', kaufen: 'supermarkt', einkaufen: 'markt', spielen: 'fussball', lernen: 'schule', arbeiten: 'computer', wohnen: 'haus', anrufen: 'telefon', telefonieren: 'telefon', sehen: 'auge', hören: 'ohr', öffnen: 'tuer', aufmachen: 'fenster', zumachen: 'tuer', waschen: 'waschmaschine', schneiden: 'messer', putzen: 'besen', duschen: 'wasser', ankommen: 'bahnhof', abfahren: 'zug', einsteigen: 'bus', aussteigen: 'u-bahn', umsteigen: 'u-bahn', sitzen: 'sofa', liegen: 'bett', werfen: 'ball', tragen: 'rucksack', bezahlen: 'bank', studieren: 'bibliothek', reisen: 'koffer', kosten: 'markt', schmecken: 'suppe', scheinen: 'sonne', wachsen: 'blume', sterben: 'baum' };

@@ -9,7 +9,7 @@ export default function VerbsPage() {
     <div className="space-y-6">
       <div>
         <h1 className="ar-title text-4xl font-bold"><T ar="الأفعال والتصريف" en="Verbs and conjugation" /></h1>
-        <p className="mt-2 max-w-2xl text-muted"><T ar={`${arVerbs(verbs.length)} مع صيغ المضارع والماضي. اختار فعل عشان تراجع تصريفه وأمثلته، وركّز على الصيغة المطلوبة في كل تدريب.`} en={`${verbs.length} verbs with present, Perfekt and Präteritum, including strong, irregular, separable and reflexive verbs.`} /></p>
+        <p className="mt-2 max-w-2xl text-muted"><T ar={`${arVerbs(verbs.length)} في مجموعة بتكبر، مش كل أفعال الألماني. معاها صيغ المضارع والماضي. اختار فعل عشان تراجع تصريفه وأمثلته، وركّز على الصيغة المطلوبة في كل تدريب.`} en={`${verbs.length} verbs with present, Perfekt and Präteritum, including strong, irregular, separable and reflexive verbs. A growing selection, not all German verbs.`} /></p>
       </div>
       <VerbBrowser />
     </div>

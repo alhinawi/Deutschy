@@ -17,7 +17,7 @@ export default function VerbView({ v }: { v: Verb }) {
   const prev = verbs[idx - 1];
   const next = verbs[idx + 1];
   const pp = v.pp;
-  const source = `https://de.wiktionary.org/wiki/${encodeURIComponent(v.inf.replace(/^sich /, ''))}`;
+  const source = v.source ?? `https://de.wiktionary.org/wiki/${encodeURIComponent(v.inf.replace(/^sich /, ''))}`;
   const perfektAux = v.aux === 'sein' ? ['bin', 'bist', 'ist', 'sind', 'seid', 'sind'] : ['habe', 'hast', 'hat', 'haben', 'habt', 'haben'];
   const reflP = ['mich', 'dich', 'sich', 'uns', 'euch', 'sich'];
   const perfekt = P.map((p, n) => `${p === 'er/sie/es' ? 'er' : p === 'sie/Sie' ? 'sie' : p} ${perfektAux[n]}${v.kind === 'reflexive' ? ' ' + reflP[n] : ''} ${pp}`);

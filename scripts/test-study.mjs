@@ -323,7 +323,7 @@ console.log('PASS: 58 lesson entries searchable by German, Arabic and English ti
 // Source-grounded verb snapshot: do not silently regress audited principal parts.
 const verbAudit = JSON.parse(readFileSync('docs/eleventh-verb-audit.json', 'utf8'));
 const allVerbs = lib('verbs').verbs;
-assert.equal(verbAudit.records, allVerbs.length);
+assert.equal(verbAudit.records, allVerbs.length-lib('verbs-everyday').everydayVerbs.length);
 for (const row of verbAudit.audit) {
  const v = allVerbs.find(v => v.inf === row.inf);
  assert(v, row.inf);
@@ -1532,3 +1532,9 @@ for(const id of ['plusquamperfekt','indirekte-fragen']){
  assert(lib('grammar-walkthrough').grammarWalkthrough[id]);
 }
 console.log('PASS:43core grammar topics,2new source-linked explanations,8examples/16new questions and worked walkthroughs');
+
+const all168=lib('verbs').verbs,new168=lib('verbs-everyday').everydayVerbs;
+assert.equal(all168.length,155);assert.equal(new168.length,12);assert.equal(new Set(all168.map(v=>v.inf)).size,155);
+for(const v of new168){assert.equal(v.pres.length,6);assert.equal(v.aux,'haben');assert(v.source.startsWith('https://www.duden.de/konjugation/'));assert.equal(lib('verbs').photoOf(v),null);assert.equal(v.ex.length,3);assert(v.ex.every(Boolean));assert.equal(JSON.stringify(all168.find(x=>x.inf===v.inf)),JSON.stringify(v));}
+for(const [inf,du,pret,pp]of [['bestellen','bestellst','bestellte','bestellt'],['packen','packst','packte','gepackt'],['reparieren','reparierst','reparierte','repariert'],['reservieren','reservierst','reservierte','reserviert'],['benutzen','benutzt','benutzte','benutzt'],['erlauben','erlaubst','erlaubte','erlaubt'],['erreichen','erreichst','erreichte','erreicht'],['gehören','gehörst','gehörte','gehört'],['sparen','sparst','sparte','gespart'],['fehlen','fehlst','fehlte','gefehlt'],['passen','passt','passte','gepasst'],['schicken','schickst','schickte','geschickt']]){const v=new168.find(v=>v.inf===inf);assert.equal(v.pres[1],du);assert.equal(v.pret,pret);assert.equal(v.pp,pp);}
+console.log('PASS:155verb catalogue,12checked everyday entries/72present forms,correct principal parts,source links and no irrelevant photos');
