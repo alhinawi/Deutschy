@@ -19,10 +19,22 @@ Lessons with real photos, five game modes, and every word explained in Egyptian 
 
 ---
 
+## Live preview
+
+Captured from the live guest experience on 18 November 2026, not from a mockup. The animated tour cycles through the home page, the lesson library and a family vocabulary lesson.
+
+[![Deutschy live navigation tour](docs/media/demo.gif)](https://deutschy.pages.dev/)
+
+| Desktop | Mobile |
+| --- | --- |
+| ![Deutschy home on desktop](docs/media/desktop.webp) | ![Deutschy home on mobile](docs/media/mobile.webp) |
+
+[Browse lessons](https://deutschy.pages.dev/lessons/) · [Open the family lesson](https://deutschy.pages.dev/lessons/family/)
+
 ## What it is
 
-- **All six CEFR levels** — the data model and navigation cover A1 through C2. A1 is
-  live first; A2, B1, B2, C1 and C2 open only when their content is written and reviewed.
+- **All six CEFR levels** — the data model and navigation cover A1 through C2. The live home links to all six
+  learning paths. These are practice paths, not an official complete curriculum or a placement result.
 - **Lessons by level and topic** — every card carries a real photo, the article
   (der/die/das), the plural and an Egyptian Arabic translation.
 - **Basics page** — greetings, numbers, weekdays, months, colours, `sein`, `haben`,
