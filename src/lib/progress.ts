@@ -1,3 +1,4 @@
+import {checkpointState} from './completion';
 import { grammar } from './grammar';
 import { exercises } from './exercises';
 import { readings } from './reading';
@@ -47,10 +48,10 @@ export function skills(s: State, l: Lvl) {
 }
 
 // Lernpfad: ordered A1 roadmap. Progress comes only from device data.
-export type Step = { id: string; href: string; ar: string; en: string; kind: 'count' | 'ratio' | 'manual'; goal?: number };
+export type Step = { id: string; href: string; ar: string; en: string; kind: 'count' | 'ratio' | 'checkpoint'; goal?: number };
 export const PATH: Step[] = [
-  { id: 'pron', href: '/pronunciation/', ar: 'النطق والحروف', en: 'Pronunciation and letters', kind: 'manual' },
-  { id: 'learn', href: '/learn/', ar: 'الأساسيات', en: 'Basics', kind: 'manual' },
+  { id: 'pron', href: '/pronunciation/', ar: 'النطق والحروف', en: 'Pronunciation and letters', kind: 'checkpoint' },
+  { id: 'learn', href: '/learn/', ar: 'الأساسيات', en: 'Basics', kind: 'checkpoint' },
   { id: 'vocab', href: '/lessons/', ar: 'كلمات الحياة اليومية (200 كلمة)', en: 'Everyday vocabulary (200 words)', kind: 'count', goal: 200 },
   { id: 'zahlen', href: '/zahlen/', ar: 'الأرقام والساعة والتاريخ', en: 'Numbers, time, dates', kind: 'count', goal: 15 },
   { id: 'praesens', href: '/praesens/', ar: 'تصريف الأفعال الأساسية', en: 'Core verbs (Präsens)', kind: 'count', goal: 10 },
@@ -66,7 +67,7 @@ export const PATH: Step[] = [
 ];
 const PREFIX: Record<string, string[]> = { zahlen: ['z:', 't:', 'dt:'], praesens: ['pr:'], kasus: ['kas:'], neg: ['neg:', 'wf:'], praep: ['pp:', 'pw:', 'pk:'], trenn: ['sv:'] };
 export function stepState(s: State, st: Step): { got: number; total: number; done: boolean } {
-  if (st.kind === 'manual') { const d = !!s.pfad?.[st.id]; return { got: d ? 1 : 0, total: 1, done: d }; }
+  if (st.kind === 'checkpoint') { const c=checkpointState(s,st.id as 'pron'|'learn');return {got:c.done?1:0,total:1,done:c.done}; }
   if (st.id === 'vocab') { const k = wordProgress(s).known; return { got: Math.min(k, st.goal!), total: st.goal!, done: k >= st.goal! }; }
   if (st.kind === 'count') {
     const pre = PREFIX[st.id] ?? [];
@@ -78,4 +79,15 @@ export function stepState(s: State, st: Step): { got: number; total: number; don
   const f = st.id === 'grammar' ? k.grammar : st.id === 'dialog' ? k.dialogue : st.id === 'read' ? k.reading : k.writing;
   const need = Math.max(1, Math.ceil(f.total * PASS));
   return { got: Math.min(f.got, need), total: need, done: f.total > 0 && f.got >= need };
+}
+
+// These are practice-completion rules, not proficiency or pronunciation grades.
+export function stepRule(st:Step):[string,string]{
+ if(st.kind==='checkpoint'&&st.id==='learn')return ['تلقائي بعد إنهاء مراجعة آخر الدرس بـ 8 من 8. مراجعة قصيرة للأمثلة، مش إثبات إتقان كل الأساسيات.','Automatic after finishing the end-of-lesson review with 8 of 8. A short example review, not proof of all the basics.'];
+ if(st.kind==='checkpoint')return ['تلقائي بعد إنهاء مراجعة آخر الدرس بـ 8 من 8. مراجعة مكتوبة، مش تقييم للنطق.','Automatic after finishing the end-of-lesson review with 8 of 8. Written review, not a pronunciation assessment.'];
+ if(st.id==='vocab')return [`${st.goal} كلمة مختلفة بإجابة صح مرة على الأقل في ألعاب الكلمات.`,`${st.goal} distinct words answered correctly at least once in word games.`];
+ if(st.kind==='count')return [`${st.goal} سؤال مختلف من تدريبات الخطوة بإجابة صح مرة على الأقل.`,`${st.goal} distinct items in this step answered correctly at least once.`];
+ if(st.id==='exam')return ['أفضل نتيجة امتحان A1 محفوظة على الجهاز: 80% أو أكتر.','A saved A1 exam best of at least 80% on this device.'];
+ if(st.id==='write')return ['80% من مهام كتابة A1 تحقق حد الكلمات والعبارات المطلوبة. ده فحص آلي محدود، مش تصحيح كامل.','80% of A1 writing tasks meet their word-count and required-phrase checks. Limited automatic checks, not full correction.'];
+ return ['80% من أسئلة القسم في A1 بإجابة صح مرة على الأقل لكل سؤال، حتى لو على أكتر من محاولة.','80% of this A1 section\'s questions answered correctly at least once each, possibly across attempts.'];
 }

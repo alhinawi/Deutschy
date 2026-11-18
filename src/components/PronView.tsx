@@ -1,4 +1,5 @@
 'use client';
+import LessonCheckpoint from '@/components/LessonCheckpoint';
 import Link from 'next/link';
 import { pron, pairs } from '@/lib/pron';
 import { speak } from '@/lib/speak';
@@ -53,6 +54,7 @@ export default function PronView() {
           ))}
         </ul>
       </section>
+      <LessonCheckpoint id="pron"/>
     </div>
   );
 }

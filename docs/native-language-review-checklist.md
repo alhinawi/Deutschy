@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-seventieth product update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-seventy-first product update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1779,6 +1779,14 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | Done | Route / location | What needs a human decision |
 | --- | --- | --- |
 | [ ] | All 155 verbs, 43 core grammar topics and 199 lesson covers | Actual pixels reviewed for all 43 previously displayed verb photos, both grammar photos and all 199 topic covers. Removed 41 object/place-for-action photos, including bezahlen/bank, sterben/healthy tree and duschen/glass water. Only actual football play and airborne airplane stay. Remaining 153 verbs use neutral decorative SVG tiles, not claimed depictions of the action. Pronunciation ear removed; telling-time clock retained. Topic covers show a representative noun within each topic. This is not a completed audit of all 965 noun card photos or native editorial. Full per-verb decision/199-topic ledger in docs/photo170-audit.md. |
+
+## Automatic completion update 171: review before editorial sign-off
+
+The learning path no longer has manual lesson-completion checkboxes. Two original written reviews now check the existing pronunciation/letters and basics lesson examples. Each has 8 fixed questions and requires 8 correct answers in one finished round. These are practice checks, not certification, listening tests or spoken-pronunciation assessment. Each awards 20 XP once after successful local saving. Browsing and incomplete or failed rounds do not count.
+
+Review all 16 prompts, distractors and explanations in `src/lib/checkpoint-questions.ts`, the Arabic/English completion copy in `src/components/LessonCheckpoint.tsx`, and all 14 visible path rules in `src/lib/progress.ts`. Pay particular attention to Egyptian Arabic clarity, the limits of the written pronunciation review, and the limited automatic writing checks. The complete rule and storage-compatibility ledger is `docs/completion171-rules.md`.
+
+Old pronunciation/basics completion flags remain clearly labeled prior records. They are not converted to quiz passes or new XP. Existing saved learner data is not reset. Other steps retain their established activity rules. Review status: German and Egyptian Arabic editorial review still pending; automated tests and mobile rendering checks are not editorial approval.
 
 ## 3. Wider review queue after the focused batch
 

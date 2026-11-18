@@ -33,21 +33,9 @@ export const today = () => day();
 export const level = (xp: number) => Math.floor(Math.sqrt(xp / 50)) + 1;
 export const levelFloor = (l: number) => (l - 1) * (l - 1) * 50;
 
-export function useStore() {
-  const [s, setS] = useState<State>(empty);
-  const [storageError,setStorageError]=useState(false);
-  const [ready, setReady] = useState(false);
-  useEffect(() => {
-    const r = () => {setS(load());setStorageError(storageIssue)};
-    const error=()=>setStorageError(true);
-    window.addEventListener("deutschy:storage-error",error);
-    r(); setReady(true);
-    window.addEventListener('deutschy:update', r);
-    window.addEventListener('storage', r);
-    return () => { window.removeEventListener('deutschy:storage-error',error); window.removeEventListener('deutschy:update', r); window.removeEventListener('storage', r); };
-  }, []);
-  const award = useCallback((xp: number, wordId?: string, ok?: boolean) => {
+function recordAward(xp:number,wordId?:string,ok?:boolean,once=false){
     const cur = load();
+    if(once&&wordId&&(cur.seen[wordId]?.ok??0)>0)return false;
     const today = day();
     if (cur.lastDay !== today) {
       const y = new Date(); y.setDate(y.getDate() - 1);
@@ -62,8 +50,25 @@ export function useStore() {
       if (ok) w.ok++; else w.bad++;
       cur.seen[wordId] = w;
     }
-    save(cur);
+    return save(cur);
+}
+
+
+export function useStore() {
+  const [s, setS] = useState<State>(empty);
+  const [storageError,setStorageError]=useState(false);
+  const [ready, setReady] = useState(false);
+  useEffect(() => {
+    const r = () => {setS(load());setStorageError(storageIssue)};
+    const error=()=>setStorageError(true);
+    window.addEventListener("deutschy:storage-error",error);
+    r(); setReady(true);
+    window.addEventListener('deutschy:update', r);
+    window.addEventListener('storage', r);
+    return () => { window.removeEventListener('deutschy:storage-error',error); window.removeEventListener('deutschy:update', r); window.removeEventListener('storage', r); };
   }, []);
+  const award = useCallback((xp:number,wordId?:string,ok?:boolean)=>recordAward(xp,wordId,ok),[]);
+  const awardOnce = useCallback((xp:number,wordId:string)=>recordAward(xp,wordId,true,true),[]);
   const addScore = useCallback((game: string, score: number) => {
     const cur = load();
     cur.scores = [...cur.scores, { game, score, at: Date.now(), name: cur.name || 'أنا' }].slice(-200);
@@ -77,7 +82,7 @@ export function useStore() {
     save(cur);
   }, []);
   const patch = useCallback((p: Partial<State>) => { save({ ...load(), ...p }); }, []);
-  return { s, ready, storageError, award, addScore, patch, setCard };
+  return { s, ready, storageError, award, awardOnce, addScore, patch, setCard };
 }
 
 export function useAuth() {
