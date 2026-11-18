@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-forty-fifth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-forty-sixth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1570,9 +1570,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Shared quiz result | New round button describes its current score status through a unique result ID. 8 exact score-description and keyboard new-round checks in AR/EN 320/390. Existing Next/Result feedback and listen-prompt descriptions retained. 390px result pixels inspected in both languages after fonts/scroll settled. Actual assistive-device review pending. |
 | [ ] | Listening/dictation | 67 original segments, 268 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice labels are not certification; progress is device-local. |
 
+### List 146: Okra and Mangold
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-die-mappe-mit-den-gemuesekarten/` and linked dialogue | Nabil/Eva put wordcards into a folder, turn over the Mangold card, recall the article and name with a first-sound cue. Okra/Okras on wood, Mangold with green leaves/red stems. They handle cards, not food. |
+| [ ] | `/reading/alltag-a2-ein-buendel-ist-keine-neue-mehrzahl/` and linked dialogue | Paula/Samir distinguish usually singular Mangold, varieties-only Mangolde, and quantities ein/zwei Bündel Mangold or ein Blatt/drei Blätter Mangold. Bundle/leaf is counted, not a new plural of the vegetable. Fictional list, no order or stock claim. Question asks what Bündel denotes, not which written word stays unchanged (both Bündel and Mangold do). |
+| [ ] | `/reading/alltag-b1-eine-nachfrage-ohne-unterbrechung/` and linked dialogue | Selma/David agree pauses/questions, request slow repetition/card, distinguish meaning from inflection and avoid claiming all chard varieties have red stems from one photo. Agreement is flexible for important misunderstandings. Open language questions remain marked for checking. |
+| [ ] | `/lessons/okramangold/` | die Okra/Okras (بامية), der Mangold (سلق). Ordinary plural line hidden for usually singular Mangold, not a claim of no plural. Duden/DWDS varieties-only qualification taught separately. Cassidy Marshall 5651830 okra pods, L. Lum 35525476 chard leaves and thick pink stems, proportional crops to 800 x 600. No faces/brands/padding/generated fill. Actual 390px AR/EN cards inspected. |
+| [ ] | Six appended grammar banks / identities | 24 article/accusative/present/possessive/two-way/negation rows. Earlier grammar saved IDs unchanged. New dialogue ID collision caught before release and only the new set renamed; old dialogue/evidence restored. Global reading/dialogue uniqueness checks now protect the catalog. Native German and Egyptian Arabic editorial pending. |
+| [ ] | Dictation source selector | Source select describes its existing order/wrap/no-score/source-can-reveal-answer help. 4 unique valid help-target/focus checks AR/EN 320/390 and 390px pixels inspected. Help wording and sequencing unchanged. Actual assistive-device review pending. |
+| [ ] | Listening/dictation | 77 original segments, 308 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice labels are not certification; progress is device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **947 photo nouns / 190 topics**, **453 reading texts / 1765 reading questions**, **41 core grammar topics / 3430 core grammar questions**, **393 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **949 photo nouns / 191 topics**, **456 reading texts / 1777 reading questions**, **41 core grammar topics / 3454 core grammar questions**, **396 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1584,7 +1596,7 @@ This is an inventory, not completed review. Snapshot: **947 photo nouns / 190 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 133 · A2 161 · B1 129 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 134 · A2 162 · B1 130 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

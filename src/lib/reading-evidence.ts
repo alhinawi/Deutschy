@@ -2678,3 +2678,24 @@ Object.assign(readingEvidence,{
     "kontrollieren die Fotos zusammen mit den Beschriftungen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-die-mappe-mit-den-gemuesekarten": [
+    "grüne Okras auf Holz.",
+    "Seine Partnerin Eva dreht sie um.",
+    "Er antwortet die Okras.",
+    "Er erinnert sich zuerst an die roten Stiele und nennt den Mangold."
+  ],
+  "alltag-a2-ein-buendel-ist-keine-neue-mehrzahl": [
+    "Sie ist aber für verschiedene Sorten vorgesehen.",
+    "Bündel bezeichnet in diesem Ausdruck die zusammengefasste Menge.",
+    "Für einzelne Blätter können sie stattdessen ein Blatt Mangold oder drei Blätter Mangold schreiben.",
+    "Die Liste bleibt ein Sprachbeispiel."
+  ],
+  "alltag-b1-eine-nachfrage-ohne-unterbrechung": [
+    "Ein gehobener Finger bedeutet, dass David eine Frage notiert hat.",
+    "schreibt er das gehörte Wort ungefähr auf.",
+    "Aus diesem einen Foto will sie keine Aussage über alle Sorten ableiten.",
+    "Offen gebliebene Sprachfragen markieren sie und prüfen sie später im Wörterbuch."
+  ]
+});

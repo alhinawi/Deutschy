@@ -438,3 +438,6 @@ readings.push(...wurzelgemueseTexts);
 
 import {kakikaramboleTexts} from './reading-kakikarambole';
 readings.push(...kakikaramboleTexts);
+
+import {okramangoldTexts} from './reading-okramangold';
+readings.push(...okramangoldTexts);
