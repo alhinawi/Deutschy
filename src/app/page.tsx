@@ -20,6 +20,8 @@ export default function Home() {
           </h1>
           <p className="max-w-lg text-lg text-muted"><T ar="اتعلّم الاسم مع صورته وأداة التعريف، وراجع الجمع لما يكون معروض. ذاكر بالكروت، وبعدها اختبر نفسك في الألعاب." en="Learn each noun with its photo and article, and review its plural where shown. Study the cards, then test yourself in the games." /></p>
           <div className="flex flex-wrap gap-3">
+            <Link href="/food/" className="rounded-full border border-line px-6 py-3 font-bold hover:bg-card"><T ar="الأكل بالصور" en="Food in pictures" /></Link>
+            <Link href="/drinks/" className="rounded-full border border-line px-6 py-3 font-bold hover:bg-card"><T ar="المشروبات بالصور" en="Drinks in pictures" /></Link>
             <Link href="/animals/" className="rounded-full border border-line px-6 py-3 font-bold hover:bg-card"><T ar="الحيوانات بالصور" en="Animals in pictures" /></Link>
             <Link href="/lessons/" className="rounded-full bg-accent px-6 py-3 font-bold text-accent-ink"><T ar="ابدأ الدروس" en="Start lessons" /></Link>
             <Link href="/grammar/" className="rounded-full border border-line px-6 py-3 font-bold hover:bg-card"><T ar="القواعد" en="Grammar" /></Link>
