@@ -2,7 +2,7 @@
 
 ## Status and publication gate
 
-Prepared, not enabled. `TTS_ENABLED` is absent/false by default. Both generation and cached provider audio are unavailable while disabled. Do not switch it on until the owner approves voice/publication use and the applicable ElevenLabs license and attribution requirements are satisfied. Free-plan commercial rights are not included. No paid upgrade or billing activation is authorized.
+Dynamic provider path remains prepared, not enabled. Static speech publication178is separate and approved for noncommercial free use, with attribution; see static-speech178.md. `TTS_ENABLED` is absent/false by default. Both generation and cached provider audio are unavailable while disabled. Do not switch it on until the owner approves voice/publication use and the applicable ElevenLabs license and attribution requirements are satisfied. Free-plan commercial rights are not included. No paid upgrade or billing activation is authorized.
 
 The private approval preview used 208 characters across all21 premade voices, plus an earlier83-character Alice clip. Neither clip is a public site asset. All21 succeeded on the free dedicated12 key with German `eleven_multilingual_v2`. This proves successful generation, not native German accents or editorial approval.
 

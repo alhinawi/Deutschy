@@ -1,6 +1,7 @@
 'use client';
 import {chooseEdgeGermanVoice} from './browser-voices';
 import {readVoicePreference} from './voice-preference';
+import {staticSpeech,speechShardBases} from './static-speech';
 import {recordedAudio} from './recorded-audio';
 export type SpeechStatus='loading'|'playing'|'ended'|'stopped'|'unavailable'|'error';
 export type SpeechOptions={rate?:number;voice?:string;onend?:()=>void;onerror?:()=>void;onstatus?:(status:SpeechStatus)=>void};
@@ -23,9 +24,31 @@ export async function speak(raw:string,options:SpeechOptions={}){
  const finish=(status:'ended'|'unavailable'|'error')=>{if(token!==generation||finished)return false;finished=true;notifyActive=null;cancel();notify(status);if(status==='ended')options.onend?.();else options.onerror?.();return false};
  if(!text)return finish('unavailable');
  const ended=()=>{finish('ended')},failed=()=>{finish('error')};
- async function playAudio(src:string){if(token!==generation)return false;const audio=new Audio(src);let started=false;cur=audio;audio.playbackRate=rate;audio.onended=ended;audio.onerror=()=>{if(started)failed()};try{await audio.play();started=true;if(token!==generation){audio.pause();return false}notify('playing');return true}catch{if(token===generation){audio.onended=null;audio.onerror=null;audio.pause();cur=null;if(curUrl){URL.revokeObjectURL(curUrl);curUrl=null}}return false}}
+ async function playAudio(src:string){
+  if(token!==generation)return false;
+  const audio=new Audio(src);let started=false,timedOut=false;cur=audio;audio.playbackRate=rate;
+  audio.onended=ended;audio.onerror=()=>{if(started)failed()};
+  let timer:ReturnType<typeof setTimeout>|undefined;
+  try{
+   await Promise.race([audio.play(),new Promise<never>((_,reject)=>{timer=setTimeout(()=>{timedOut=true;audio.pause();reject(Error('Audio load timeout'))},8000)})]);
+   started=true;if(token!==generation||timedOut){audio.pause();return false}notify('playing');return true;
+  }catch{
+   audio.onended=null;audio.onerror=null;audio.pause();
+   if(token===generation){cur=null;if(curUrl){URL.revokeObjectURL(curUrl);curUrl=null}}
+   return false;
+  }finally{if(timer!==undefined)clearTimeout(timer)}
+ }
+
  const recording=recordedAudio[text];
  if(recording && await playAudio(recording))return true;
+ if(token!==generation)return false;
+ const cached=staticSpeech[text];
+ const staticBase=cached?speechShardBases?.[cached.shard]??'':'';
+ if(cached && /^https:\/\/[a-z0-9-]+\.pages\.dev$/.test(staticBase)){
+  let preference='varied';try{preference=await readVoicePreference()}catch{}
+  if(token!==generation)return false;
+  if((preference==='varied'||preference===cached.voiceId)&&await playAudio(staticBase+cached.url))return true;
+ }
  if(token!==generation)return false;
  request=new AbortController();const controller=request,signal=controller.signal;
  // A stalled connection must still reach the permitted browser fallback.
