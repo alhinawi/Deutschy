@@ -24928,3 +24928,218 @@ Object.assign(dialogueEvidence,{
     "beweist keine gleiche wirkliche Größe."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "gleiches-wort-anderer-artikel",
+    "level": "A1",
+    "title": [
+      "Kein neuer Buchstabe am Ende",
+      "مفيش حرف جديد في الآخر"
+    ],
+    "lines": [
+      [
+        "Paul",
+        "Wo ist die neue Endung bei Papierflieger?",
+        "فين النهاية الجديدة في جمع بابير فليجر؟"
+      ],
+      [
+        "Mia",
+        "Hier gibt es keine. Der Papierflieger, die Papierflieger.",
+        "هنا مفيش. دير بابير فليجر، دي بابير فليجر."
+      ],
+      [
+        "Paul",
+        "Und beim Papierschiffchen?",
+        "وبالنسبة لبابير شيفشن؟"
+      ],
+      [
+        "Mia",
+        "Das Papierschiffchen, die Papierschiffchen. Auch das Wort bleibt gleich.",
+        "داس بابير شيفشن، دي بابير شيفشن. الكلمة دي كمان بتفضل زي ما هي."
+      ],
+      [
+        "Paul",
+        "Ich decke nur die Artikel ab.",
+        "هغطي أدوات التعريف بس."
+      ],
+      [
+        "Mia",
+        "Dann fehlt hier ein Hinweis auf Einzahl oder Mehrzahl.",
+        "يبقى هنا ناقص علامة على المفرد أو الجمع."
+      ],
+      [
+        "Paul",
+        "Wir decken sie wieder auf und lesen die ganzen Zeilen.",
+        "نكشفها تاني ونقرا السطور كاملة."
+      ]
+    ],
+    "q": [
+      [
+        "Was bleibt bei beiden Wörtern gleich?",
+        "Die Wortform in der Mehrzahl.",
+        "Der Artikel in jeder Zeile.",
+        "Die Zahl in jedem Beispielsatz."
+      ],
+      [
+        "Was deckt Paul ab?",
+        "Nur die Artikel.",
+        "Alle Fotos.",
+        "Den ganzen Tisch."
+      ],
+      [
+        "Was lesen sie am Ende?",
+        "Die ganzen Zeilen.",
+        "Nur eine Adresse.",
+        "Eine Faltanleitung."
+      ]
+    ]
+  },
+  {
+    "id": "name-dann-artikel-dann-mehrzahl",
+    "level": "A2",
+    "title": [
+      "Bitte nur eine Frage",
+      "سؤال واحد بس لو سمحتي"
+    ],
+    "lines": [
+      [
+        "Lena",
+        "Wie heißen beide Dinge, und welche Artikel und Mehrzahlformen haben sie?",
+        "إيه اسم الحاجتين وأدوات التعريف والجمع بتاعهم؟"
+      ],
+      [
+        "Farid",
+        "Bitte nur eine Frage. Ich weiß gerade nicht, womit ich anfangen soll.",
+        "سؤال واحد بس لو سمحتي. مش عارف دلوقتي أبدأ بإيه."
+      ],
+      [
+        "Lena",
+        "Gut. Wie heißt das Ding auf dem Flugzeugfoto?",
+        "تمام. إيه اسم الحاجة اللي في صورة الطيارة؟"
+      ],
+      [
+        "Farid",
+        "Papierflieger.",
+        "بابير فليجر."
+      ],
+      [
+        "Lena",
+        "Und der Artikel in der Einzahl?",
+        "وأداة التعريف في المفرد؟"
+      ],
+      [
+        "Farid",
+        "Der. Danach vergleichen wir mit der Liste.",
+        "دير. بعد كده نقارن بالقايمة."
+      ],
+      [
+        "Lena",
+        "Ja. Über die Mehrzahl sprechen wir erst anschließend.",
+        "أيوه. نتكلم عن الجمع بعد كده بس."
+      ]
+    ],
+    "q": [
+      [
+        "Was möchte Farid?",
+        "Nur eine Frage auf einmal.",
+        "Alle Lösungen sofort hören.",
+        "Eine offizielle Note."
+      ],
+      [
+        "Welche Form nennt er als Namen?",
+        "Papierflieger.",
+        "Papierschiffchen.",
+        "Papierfliegers."
+      ],
+      [
+        "Wann sprechen sie über die Mehrzahl?",
+        "Erst anschließend.",
+        "Noch vor der ersten Frage.",
+        "Gar nicht mehr."
+      ]
+    ]
+  },
+  {
+    "id": "kein-messwert-aus-dem-foto",
+    "level": "B1",
+    "title": [
+      "Die Form sehen wir, die Leistung nicht",
+      "شايفين الشكل مش الأداء"
+    ],
+    "lines": [
+      [
+        "Nils",
+        "Dieser Papierflieger fliegt bestimmt besonders weit.",
+        "طيارة الورق دي أكيد بتطير بعيد جدًا."
+      ],
+      [
+        "Sara",
+        "Haben wir dafür einen Versuch oder Messwerte?",
+        "عندنا تجربة أو قياسات تثبت ده؟"
+      ],
+      [
+        "Nils",
+        "Nein. Ich habe nur das Foto gesehen.",
+        "لأ. أنا شفت الصورة بس."
+      ],
+      [
+        "Sara",
+        "Dann beschreiben wir die sichtbare Form, nicht die Flugleistung.",
+        "يبقى نوصف الشكل الظاهر مش أداء الطيران."
+      ],
+      [
+        "Nils",
+        "Auch die Schwimmdauer des Papierschiffchens kennen wir nicht.",
+        "وكمان مش عارفين مدة طفو مركب الورق."
+      ],
+      [
+        "Sara",
+        "Richtig. Beim Schwarzweißfoto bleibt die ursprüngliche Papierfarbe offen.",
+        "صح. في الصورة الأبيض واسود لون الورق الأصلي يفضل مش معروف."
+      ],
+      [
+        "Nils",
+        "Ich streiche die Behauptungen und behalte die Lernwörter.",
+        "هشطب الادعاءات وأسيب كلمات المذاكرة."
+      ]
+    ],
+    "q": [
+      [
+        "Was hat Nils nur gesehen?",
+        "Das Foto.",
+        "Einen gemessenen Flug.",
+        "Einen langen Schwimmversuch."
+      ],
+      [
+        "Was beschreiben sie stattdessen?",
+        "Die sichtbare Form.",
+        "Erfundene Messwerte.",
+        "Eine garantierte Flugweite."
+      ],
+      [
+        "Was behält Nils?",
+        "Die Lernwörter.",
+        "Die unbelegten Leistungsbehauptungen.",
+        "Eine erfundene Papierfarbe."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "gleiches-wort-anderer-artikel": [
+    "Auch das Wort bleibt gleich.",
+    "Ich decke nur die Artikel ab.",
+    "lesen die ganzen Zeilen."
+  ],
+  "name-dann-artikel-dann-mehrzahl": [
+    "Bitte nur eine Frage.",
+    "Papierflieger.",
+    "Über die Mehrzahl sprechen wir erst anschließend."
+  ],
+  "kein-messwert-aus-dem-foto": [
+    "Ich habe nur das Foto gesehen.",
+    "die sichtbare Form",
+    "behalte die Lernwörter."
+  ]
+});

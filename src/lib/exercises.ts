@@ -567,3 +567,6 @@ for(const[topic,rows]of Object.entries(blaetterzweigeGrammar))exercises[topic].p
 
 import {zitrusscheibenGrammar} from './exercises-zitrusscheiben';
 for(const[topic,rows]of Object.entries(zitrusscheibenGrammar))exercises[topic].push(...rows);
+
+import {papiermodelleGrammar} from './exercises-papiermodelle';
+for(const[topic,rows]of Object.entries(papiermodelleGrammar))exercises[topic].push(...rows);

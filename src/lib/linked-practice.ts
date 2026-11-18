@@ -348,4 +348,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zwischen-zwei-karten',dialogue:'abstand-zwischen-den-paaren'},
  {reading:'alltag-a2-andere-reihenfolge-gleiche-paare',dialogue:'erst-platz-dann-bild'},
  {reading:'alltag-b1-gleiche-groesse-kein-vergleich',dialogue:'bildfeld-ist-kein-massstab'},
+ {reading:'alltag-a1-ein-modell-mehrere-modelle',dialogue:'gleiches-wort-anderer-artikel'},
+ {reading:'alltag-a2-nur-die-offene-frage',dialogue:'name-dann-artikel-dann-mehrzahl'},
+ {reading:'alltag-b1-standbild-ist-kein-versuch',dialogue:'kein-messwert-aus-dem-foto'},
 ];

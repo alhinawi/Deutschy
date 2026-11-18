@@ -2447,3 +2447,24 @@ Object.assign(readingEvidence,{
     "die tatsächlichen Abmessungen der gezeigten Scheiben aber nicht aus diesen Darstellungen bestimmt werden können."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-ein-modell-mehrere-modelle": [
+    "Er findet keinen.",
+    "das Papierschiffchen",
+    "Jetzt kann er allein an diesen beiden Wörtern nicht sehen, ob Mia ein Modell oder mehrere Modelle meint.",
+    "Sie zählen damit nicht die Gegenstände auf den Fotos."
+  ],
+  "alltag-a2-nur-die-offene-frage": [
+    "Er weiß gerade nicht, welchen Teil er zuerst beantworten soll.",
+    "Zuerst fragt sie nach dem Namen.",
+    "Eine kurze Pause behandeln sie nicht automatisch als falsche Antwort.",
+    "Ob dieses Vorgehen auch anderen Lernenden hilft, haben die beiden nicht untersucht."
+  ],
+  "alltag-b1-standbild-ist-kein-versuch": [
+    "Messungen oder Beobachtungsreihen liegen ihnen nicht vor.",
+    "Nils streicht beide Leistungsbehauptungen.",
+    "Beim Schwarzweißfoto behaupten sie keine ursprüngliche Papierfarbe.",
+    "Ihre Aufgabe endet bei der Auswahl und sachlichen Beschriftung vorhandener Fotos."
+  ]
+});
