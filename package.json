@@ -9,7 +9,7 @@
     "images": "node scripts/fetch-images.mjs",
     "verify": "node scripts/verify-content.mjs && node scripts/test-noun-photos.mjs",
     "qa:export": "node scripts/qa-export.mjs",
-    "test:study": "node scripts/test-study.mjs",
+    "test:study": "node scripts/test-study.mjs && node scripts/test-review-commit.mjs",
     "test:pwa": "node scripts/test-pwa.mjs",
     "test:progress-bundle": "node scripts/test-progress-bundle.mjs",
     "test:speech": "node scripts/test-speech.mjs",
@@ -34,7 +34,9 @@
     "test:completion:browser": "node scripts/test-completion-browser.mjs",
     "test:discovery:browser": "node scripts/test-word-discovery-browser.mjs",
     "test:noun-photos": "node scripts/test-noun-photos.mjs",
-    "test:noun-photos:browser": "node scripts/test-noun-photos-browser.mjs"
+    "test:noun-photos:browser": "node scripts/test-noun-photos-browser.mjs",
+    "test:review-commit": "node scripts/test-review-commit.mjs",
+    "test:review-commit:browser": "node scripts/test-review-commit-browser.mjs"
   },
   "dependencies": {
     "hono": "^4.13.18",

@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-seventy-third product update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-seventy-fourth product update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1799,6 +1799,12 @@ Review the new Arabic/English labels and help text in LessonBrowser, CreditsBrow
 All 965 current noun-card thumbnails were screened across 25 contact sheets; 8 ambiguous originals were expanded. This is a visual relevance screen, not a native-language sign-off or a fresh legal review of every legacy photo. Three replacements use verified original Wikimedia file and license records: Pflaster now shows unused ordinary adhesive bandages, Adventskranz shows an evergreen wreath with four candles, and Spielplatz shows play structures rather than a splash fountain. No noun text, article, plural, lesson order or saved progress changed. Beetle, colander, chopsticks, staples and nut photos were retained after full-size checks resolved thumbnail uncertainty.
 
 Please check the new photos against the German words and Egyptian Arabic meanings on the medizin, feste and town lesson pages. All 965 reviewed image hashes and credit fields are recorded in `data/noun-photo-audit173.json`; future image or credit changes require a deliberate recheck. The credit page now links exact supported CC BY/BY-SA versions 2.0, 2.5, 3.0 and 4.0 plus CC0, leaving unfamiliar license labels as plain text rather than guessing. Source credits and original-file links remain available. Native German/Egyptian Arabic review and real-device checks remain pending.
+
+## Daily review update 174: honest save failures
+
+Check the Egyptian Arabic and English failure/retry messages on `/review/daily/`. A failed word save or removal now retains the last durable selection/count. A failed answer schedule shows feedback without granting XP or allowing Next; Retry saving answer saves the same attempt before continuing. A repeated retry click must not advance the schedule or XP twice. If the date saves but points/history fail, the message names that partial save and Retry only retries points/history without rescheduling. Newly unreadable review records stay untouched and block new writes. Each operation reads current storage before writing, avoiding stale component-snapshot overwrites; this is not a cross-tab transaction lock. Existing storage keys and data format remain unchanged.
+
+The review schedule and general XP record remain separate local-storage writes. This change does not promise an atomic transaction across them, multi-device sync or survival of cleared browser data. No new teaching content or editorial sign-off is implied. Native German/Egyptian Arabic and real-device checks remain pending.
 
 ## 3. Wider review queue after the focused batch
 
