@@ -1,0 +1,13 @@
+# Balanced synthesized voices179
+
+Owner requested varied voices without one taking more than the others. Active81clips now use21voices as evenly as integer clips allow:18voices have4each,Matilda/Chris/Lily have3each.71existing clips retained;10regenerated using103characters on the same free account. Subscription verified free10000characters,695used at preflight,overage disabled. Provider counters lag; local cumulative reservations include replaced clips and a500character reserve. No purchase,account cycling or new provider account.
+
+Per voice: Roger4,Sarah4,Laura4,Charlie4,George4,Callum4,River4,Harry4,Liam4,Alice4,Matilda3,Will4,Jessica4,Eric4,Bella4,Chris3,Brian4,Daniel4,Lily3,Adam4,Bill4. This balances stored active clip counts,not listening time or a pronunciation-quality endorsement.
+
+Deterministic minimum-change rebalance preserves clips already within the target;new generation picks the currently least-used voice with stable voice-ID tie-break.81/21cannot be exactly equal. Test grows a fresh registry through1009assignments and checks maximum spread1at every step,minimum replacements for a skewed fixture,no mutation during planning,idempotent rebalance,and current81counts/10changed URLs.
+
+Separate audio deployment has91MP3s:81active plus10previous immutable URLs retained for compatibility. Current replacements use new phrase+voice-hashed URLs;future generation uses encoded-byte hashes to avoid overwriting immutable historical files when returning to a previous voice. Public artifact includes only clips,index and headers,not ledger or credentials. Main registry points to the approved existing deutschy-sounds.pages.dev shard. No runtime provider calls or automatic ongoing quota consumption added. Pending-request journal blocks ambiguous retry;budget reserves are cumulative even when an old clip is replaced.
+
+Live browser verification: all10new plus10previous URLs returned200audio/mpeg with immutablecache;10new byte sizes andSHA256matched the private generation ledger/report. Local exported UI real tap on die Mutter fetched unchanged deployed audio and reached Audio finished without autoplay overrides. Main-site178real tap independently passed before this registry update;main179deployment verification follows parent deploy. Existing speech feedback44assertions/4axe,effects48/4axe,typecheck/build,1009words/204topics/0problems,noun6781,animals940,speech model,PWA,1111export/1095sitemap,398017Bprogress pass.
+
+Native-review MD/PDF updated. Synthesized German pronunciation/stress,actual-phone listening quality and native German/Egyptian Arabic editorial review remain pending. Free usage is noncommercial with elevenlabs.io attribution;no commercial license claim. Source terms retained in docs/static-speech178.md.
