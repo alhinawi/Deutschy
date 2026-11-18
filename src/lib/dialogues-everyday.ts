@@ -25573,3 +25573,218 @@ Object.assign(dialogueEvidence,{
     "die Funktion haben wir nicht getestet."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "nicht-jede-spule-eine-art",
+    "level": "A1",
+    "title": [
+      "Spulen und Arten unterscheiden",
+      "نفرق بين البكرات والأنواع"
+    ],
+    "lines": [
+      [
+        "Paul",
+        "Soll ich beim Nähgarn die Spulen zählen?",
+        "أعد البكرات في صورة خيط الخياطة؟"
+      ],
+      [
+        "Mia",
+        "Nein. Die Mehrzahl kann hier verschiedene Garnarten meinen.",
+        "لأ. الجمع هنا ممكن يقصد أنواع خيط مختلفة."
+      ],
+      [
+        "Paul",
+        "Dann ist eine Spule nicht automatisch eine andere Art.",
+        "يبقى البكرة الواحدة مش تلقائيًا نوع مختلف."
+      ],
+      [
+        "Mia",
+        "Genau. Wir schreiben nur einen Beispielsatz über verschiedene Nähgarne.",
+        "بالظبط. هنكتب بس جملة مثال عن أنواع مختلفة من خيط الخياطة."
+      ],
+      [
+        "Paul",
+        "Und die Mehrzahl von Nähnadel ist Nähnadeln.",
+        "وجمع نيه نادل هو نيه نادلن."
+      ],
+      [
+        "Mia",
+        "Richtig. Die beiden Fotos bleiben vor uns liegen.",
+        "صح. الصورتين يفضلوا قدامنا."
+      ],
+      [
+        "Paul",
+        "Heute benutzen wir keine echte Nadel.",
+        "النهارده مش هنستخدم إبرة حقيقية."
+      ]
+    ],
+    "q": [
+      [
+        "Was kann die Mehrzahl hier meinen?",
+        "Verschiedene Garnarten.",
+        "Immer nur eine Nadel.",
+        "Eine garantierte Fadenlänge."
+      ],
+      [
+        "Was ist nicht automatisch eine andere Art?",
+        "Eine Spule.",
+        "Ein neues Lernwort.",
+        "Ein anderer Beispielsatz."
+      ],
+      [
+        "Was benutzen sie nicht?",
+        "Eine echte Nadel.",
+        "Fotos.",
+        "Ein Blatt Papier."
+      ]
+    ]
+  },
+  {
+    "id": "das-nomen-bestimmt-den-bezug",
+    "level": "A2",
+    "title": [
+      "Lies zuerst das Nomen",
+      "اقرا الاسم الأول"
+    ],
+    "lines": [
+      [
+        "Farid",
+        "Ich sehe einen Faden. Muss dort immer er stehen?",
+        "أنا شايف خيط. لازم دايمًا إير تيجي هنا؟"
+      ],
+      [
+        "Lena",
+        "Nein. In unserem Satz steht das Nähgarn. Darauf bezieht sich es.",
+        "لأ. في جملتنا مكتوب داس نيه جارن. إس راجعة عليها."
+      ],
+      [
+        "Farid",
+        "Und bei die Nähnadel nehmen wir sie?",
+        "ومع دي نيه نادل بنستخدم زي؟"
+      ],
+      [
+        "Lena",
+        "Ja. Lies zuerst das Nomen im Satz.",
+        "أيوه. اقرا الاسم في الجملة الأول."
+      ],
+      [
+        "Farid",
+        "Im Plural kann sie auch mehrere Nähnadeln meinen.",
+        "في الجمع زي كمان ممكن تقصد كذا إبرة خياطة."
+      ],
+      [
+        "Lena",
+        "Dann passt zum Beispiel die Verbform liegen.",
+        "ساعتها ينفع مثلًا صيغة الفعل ليجن."
+      ],
+      [
+        "Farid",
+        "Ich lese deshalb den ganzen Satz, nicht nur das Pronomen.",
+        "عشان كده هقرا الجملة كلها مش الضمير بس."
+      ]
+    ],
+    "q": [
+      [
+        "Worauf bezieht sich es im Beispiel?",
+        "Auf das Nähgarn.",
+        "Auf den Faden.",
+        "Auf die Nähnadel."
+      ],
+      [
+        "Was soll Farid zuerst lesen?",
+        "Das Nomen im Satz.",
+        "Eine Materialgarantie.",
+        "Nur das Foto."
+      ],
+      [
+        "Was liest er am Ende?",
+        "Den ganzen Satz.",
+        "Nur das Pronomen.",
+        "Keine Wörter mehr."
+      ]
+    ]
+  },
+  {
+    "id": "keine-empfehlung-fuer-jeden-stoff",
+    "level": "B1",
+    "title": [
+      "Nur die Wörter veranschaulichen",
+      "نوضح الكلمات بس"
+    ],
+    "lines": [
+      [
+        "Nils",
+        "Ich wollte schreiben, dass diese Nadel und dieses Garn für jede Reparatur passen.",
+        "كنت عايز أكتب إن الإبرة والخيط دول ينفعوا لأي تصليح."
+      ],
+      [
+        "Sara",
+        "Haben wir Stärke, Material und vorgesehenen Stoff geprüft?",
+        "إحنا راجعنا السمك والخامة والقماش المقصود؟"
+      ],
+      [
+        "Nils",
+        "Nein. Die Fotos stammen auch aus verschiedenen Aufnahmen.",
+        "لأ. وكمان الصور من لقطات مختلفة."
+      ],
+      [
+        "Sara",
+        "Dann machen wir daraus keine allgemeine Empfehlung.",
+        "يبقى مانعملش من ده توصية عامة."
+      ],
+      [
+        "Nils",
+        "Die genaue Faserzusammensetzung kenne ich ebenfalls nicht.",
+        "وبرضه مش عارف تركيب الألياف بالظبط."
+      ],
+      [
+        "Sara",
+        "Wir zeigen nur, welche Wörter zu den sichtbaren Gegenständen passen.",
+        "إحنا بنبين بس أنهي كلمات مناسبة للحاجات الظاهرة."
+      ],
+      [
+        "Nils",
+        "Gut. Eine Belastungsprobe haben wir nicht durchgeführt.",
+        "تمام. إحنا ماعملناش اختبار تحمل."
+      ]
+    ],
+    "q": [
+      [
+        "Woher stammen die Fotos?",
+        "Aus verschiedenen Aufnahmen.",
+        "Aus einem gemeinsamen Anwendungstest.",
+        "Aus einem erfundenen Materiallabor."
+      ],
+      [
+        "Was machen sie nicht daraus?",
+        "Eine allgemeine Empfehlung.",
+        "Eine Wortzuordnung.",
+        "Eine begrenzte Beschreibung."
+      ],
+      [
+        "Was haben sie nicht durchgeführt?",
+        "Eine Belastungsprobe.",
+        "Eine Fotoauswahl.",
+        "Eine Prüfung ihrer Aussagen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "nicht-jede-spule-eine-art": [
+    "verschiedene Garnarten meinen.",
+    "eine Spule nicht automatisch eine andere Art.",
+    "keine echte Nadel."
+  ],
+  "das-nomen-bestimmt-den-bezug": [
+    "das Nähgarn. Darauf bezieht sich es.",
+    "Lies zuerst das Nomen im Satz.",
+    "den ganzen Satz, nicht nur das Pronomen."
+  ],
+  "keine-empfehlung-fuer-jeden-stoff": [
+    "aus verschiedenen Aufnahmen.",
+    "keine allgemeine Empfehlung.",
+    "Eine Belastungsprobe haben wir nicht durchgeführt."
+  ]
+});

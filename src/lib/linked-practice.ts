@@ -357,4 +357,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zwei-karten-vorlesen',dialogue:'noch-nicht-verschieben'},
  {reading:'alltag-a2-ein-wort-zwei-endungen',dialogue:'dem-ist-nicht-die-mehrzahl'},
  {reading:'alltag-b1-alte-optik-kein-alter',dialogue:'kein-datum-aus-der-optik'},
+ {reading:'alltag-a1-ding-und-material',dialogue:'nicht-jede-spule-eine-art'},
+ {reading:'alltag-a2-worauf-bezieht-sich-es',dialogue:'das-nomen-bestimmt-den-bezug'},
+ {reading:'alltag-b1-sichtbar-ist-nicht-passend',dialogue:'keine-empfehlung-fuer-jeden-stoff'},
 ];

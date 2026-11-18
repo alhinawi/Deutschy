@@ -929,5 +929,7 @@
  "schachbauer": "chess pawn",
  "schachspringer": "chess knight",
  "tintenfass": "inkwell",
- "federhalter": "dip pen holder"
+ "federhalter": "dip pen holder",
+ "naehnadel": "sewing needle",
+ "naehgarn": "sewing thread"
 }
