@@ -15,7 +15,8 @@
     "test:speech": "node scripts/test-speech.mjs",
     "test:search:browser": "node scripts/test-search-browser.mjs",
     "test:dependencies": "node scripts/test-postcss.mjs",
-    "test:navigation:browser": "node scripts/test-navigation-browser.mjs"
+    "test:navigation:browser": "node scripts/test-navigation-browser.mjs",
+    "test:timed:browser": "node scripts/test-timed-browser.mjs"
   },
   "dependencies": {
     "hono": "^4.13.18",

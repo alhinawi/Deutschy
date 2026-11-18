@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-fifty-seventh product update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-fifty-eighth product update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1695,6 +1695,12 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | Done | Route / location | What needs a human decision |
 | --- | --- | --- |
 | [ ] | Mobile navigation, all routes | Native named dialog, localized close, bounded Tab/Shift+Tab, focus return, inert background, saved/restored body overflow and responsive cleanup. Escape/backdrop/same-route/destination close and search shortcut interaction pass. Four AR/EN 320/390 variants, 436 assertions and 4 axe snapshots; search regressions also pass. Actual 390 px screenshots inspected. Desktop sidebar/destinations retained. Actual-device keyboard/screen-reader and older native-dialog support remain manual checks. No content/score/history changes. |
+
+### List 158: Timed answer re-entry guard
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/timed-practice/`, all six levels | Synchronous prompt lock plus displayed-position/session guards prevent repeat or stale callbacks from recording unseen answers. Repeat start/finish, Next, expiry and reload tested across 24 A1-C2 AR/EN 320/390 variants, 532 assertions and 4 axe snapshots. Actual 390 px feedback screenshots inspected. Search/navigation and full build/PWA/export regressions pass. Deterministic mounted-handler re-entry test, not a claim every physical double-click reproduces. No content/question-identity/scoring changes. Actual-device and native editorial checks remain manual. |
 
 ## 3. Wider review queue after the focused batch
 
