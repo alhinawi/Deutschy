@@ -1,5 +1,5 @@
 'use client';
-import { useEffect, useState } from 'react';
+import { useEffect, useRef, useState } from 'react';
 import { verbs, type Verb } from '@/lib/verbs';
 import { useStore } from '@/lib/store';
 import { useT } from '@/lib/i18n';
@@ -34,38 +34,44 @@ export default function VerbQuiz() {
   const [i, setI] = useState(0);
   const [pick, setPick] = useState<string | null>(null);
   const [score, setScore] = useState(0);
-  const restart = () => { setQs(make()); setI(0); setPick(null); setScore(0); };
-  useEffect(restart, []);
+  const [round, setRound] = useState(0);
+  const current = useRef({ round: 0, index: 0, locked: false, finished: false });
+  const restart = () => { const round=current.current.round+1;current.current={round,index:0,locked:false,finished:false};setRound(round);setQs(make());setI(0);setPick(null);setScore(0); };
+  useEffect(() => {restart();return()=>{current.current.round++;}}, []);
   if (qs.length === 0) return null;
   const done = i >= qs.length;
   const q = qs[i];
   const choose = (o: string) => {
-    if (pick) return;
+    const c=current.current;
+    if (!q || c.round!==round || c.index!==i || c.locked || c.finished || pick!==null || !q.opts.includes(o)) return;
+    c.locked=true;
     setPick(o);
     const ok = o === q.answer;
     if (ok) setScore((s) => s + 1);
     award(ok ? 5 : 0);
   };
+  const next = () => { const c=current.current;if(c.round!==round||c.index!==i||!c.locked||c.finished||pick===null)return;c.index=i+1;setI(i+1);setPick(null);if(i+1===qs.length){c.finished=true;addScore('verb-quiz',score)}else c.locked=false; };
   return (
-    <div className="space-y-4 rounded-2xl border border-line bg-card p-5">
-      <div className="flex items-center justify-between"><span className="num text-sm font-bold text-accent">{q ? q.hint : ''}</span><span dir="ltr" className="num text-sm font-bold text-muted">{Math.min(i + 1, qs.length)} / {qs.length}</span></div>
+    <div data-verb-quiz className="space-y-4 rounded-2xl border border-line bg-card p-5">
+      <div className="flex items-center justify-between"><span className="num text-sm font-bold text-accent">{q ? q.hint : ''}</span><span dir="ltr" role="status" aria-live="polite" aria-atomic="true" className="num text-sm font-bold text-muted">{Math.min(i + 1, qs.length)} / {qs.length}</span></div>
       {done ? (
         <div className="space-y-3">
-          <p className="ar-title text-2xl">{t(`نتيجتك ${score} من ${qs.length}`, `Your score: ${score} of ${qs.length}`)}</p>
-          <button onClick={() => { addScore('verb-quiz', score); restart(); }} className="rounded-full bg-accent px-5 py-2 font-bold text-accent-ink">{t('جولة جديدة', 'New round')}</button>
+          <p role="status" aria-live="polite" className="ar-title text-2xl">{t(`نتيجتك ${score} من ${qs.length}`, `Your score: ${score} of ${qs.length}`)}</p>
+          <button onClick={() => {if(current.current.round===round&&current.current.finished)restart();}} className="min-h-11 rounded-full bg-accent px-5 py-2 font-bold text-accent-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-card">{t('جولة جديدة', 'New round')}</button>
         </div>
       ) : (
         <>
-          <p className="de num text-2xl font-semibold" lang="de">{q.prompt}</p>
+          <p dir="ltr" className="de num break-words text-2xl font-semibold" lang="de">{q.prompt}</p>
           <div className="grid grid-cols-2 gap-2">
             {q.opts.map((o) => {
               const st = !pick ? '' : o === q.answer ? 'border-good bg-good/10' : pick === o ? 'border-bad bg-bad/10' : 'opacity-60';
-              return <button key={o} onClick={() => choose(o)} className={`de num rounded-xl border border-line bg-paper px-3 py-3 text-lg ${st}`} lang="de">{o}</button>;
+              return <button key={o} dir="ltr" disabled={pick!==null} onClick={() => choose(o)} className={`de num min-h-11 min-w-0 break-words rounded-xl border border-line bg-paper px-3 py-3 text-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-card ${st}`} lang="de">{o}</button>;
             })}
           </div>
-          {pick && <div className="flex justify-end"><button onClick={() => { setI(i + 1); setPick(null); }} className="rounded-full bg-accent px-5 py-2 font-bold text-accent-ink">{i + 1 >= qs.length ? t('النتيجة', 'Result') : t('التالي', 'Next')}</button></div>}
+          {pick!==null && <p role="status">{pick===q.answer?t('صح.','Correct.'):<>{t('الإجابة الصحيحة: ','Correct answer: ')}<span dir="ltr" lang="de" className="de inline-block">{q.answer}</span></>}</p>}
+          {pick!==null && <div className="flex justify-end"><button onClick={next} className="min-h-11 rounded-full bg-accent px-5 py-2 font-bold text-accent-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-card">{i + 1 >= qs.length ? t('النتيجة', 'Result') : t('التالي', 'Next')}</button></div>}
         </>
       )}
     </div>
   );
-}
+  }
