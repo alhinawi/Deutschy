@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-fifty-eighth product update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-fifty-ninth product update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1701,6 +1701,12 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | Done | Route / location | What needs a human decision |
 | --- | --- | --- |
 | [ ] | `/timed-practice/`, all six levels | Synchronous prompt lock plus displayed-position/session guards prevent repeat or stale callbacks from recording unseen answers. Repeat start/finish, Next, expiry and reload tested across 24 A1-C2 AR/EN 320/390 variants, 532 assertions and 4 axe snapshots. Actual 390 px feedback screenshots inspected. Search/navigation and full build/PWA/export regressions pass. Deterministic mounted-handler re-entry test, not a claim every physical double-click reproduces. No content/question-identity/scoring changes. Actual-device and native editorial checks remain manual. |
+
+### List 159: Preserve unreadable weekly plans
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/weekly-plan/`, stored root/current week | Explicit validation flags unreadable plans rather than presenting blank as unsaved. Save rechecks storage, preserves original damaged bytes and current draft; valid other/legacy weeks remain untouched. Confirmed scoped delete retained. Four AR/EN320/390 variants,184 assertions,4 axe;390px warning/draft screenshots inspected. No migration/cross-tab merge claim. Actual-device screen-reader/storage failure and native editorial checks remain manual. |
 
 ## 3. Wider review queue after the focused batch
 
