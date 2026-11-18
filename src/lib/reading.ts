@@ -450,3 +450,6 @@ readings.push(...vogelportraetsTexts);
 
 import {durianjackfruchtTexts} from './reading-durianjackfrucht';
 readings.push(...durianjackfruchtTexts);
+
+import {guavephysalisTexts} from './reading-guavephysalis';
+readings.push(...guavephysalisTexts);

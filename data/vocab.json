@@ -775,6 +775,10 @@
   {
    "id": "durianjackfrucht",
    "ar": "دوريان وجاك فروت"
+  },
+  {
+   "id": "guavephysalis",
+   "ar": "جوافة وحرنكش"
   }
  ],
  "words": [
@@ -15194,6 +15198,36 @@
     "file": "17249035.jpg",
     "commons": "https://www.pexels.com/photo/exotic-fruit-on-yellow-background-17249035/",
     "author": "球 王求",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "guave",
+   "topic": "guavephysalis",
+   "art": "die",
+   "de": "Guave",
+   "plural": "Guaven",
+   "ar": "جوافة",
+   "photo": {
+    "file": "13042797.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-shot-of-a-fresh-guava-fruit-13042797/",
+    "author": "Rajesh S Balouria",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "physalis",
+   "topic": "guavephysalis",
+   "art": "die",
+   "de": "Physalis",
+   "plural": "Physalis / Physalen",
+   "ar": "حرنكش",
+   "photo": {
+    "file": "8206160.jpg",
+    "commons": "https://www.pexels.com/photo/orange-fruits-on-the-table-8206160/",
+    "author": "Kulbir",
     "license": "Pexels License",
     "modified": true
    }

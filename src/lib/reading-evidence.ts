@@ -2762,3 +2762,24 @@ Object.assign(readingEvidence,{
     "Sie entfernen einen Pfeil, der unbeabsichtigt eine Rangfolge von klein nach groß nahegelegt hatte."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-das-bilderraetsel-mit-fruechten": [
+    "Lea und Sami ein Bilderrätsel vor.",
+    "mit der Schrift nach unten auf den Tisch.",
+    "Sami soll zuerst nur beschreiben, was er sieht.",
+    "Zum Schluss tauschen sie die Rollen."
+  ],
+  "alltag-a2-zwei-erlaubte-mehrzahlformen": [
+    "Bei Guave finden sie die Mehrzahl Guaven.",
+    "Er glaubt zuerst, dass eine davon ein Schreibfehler sein muss.",
+    "Er entscheidet sich dort für drei Physalis.",
+    "Bei drei Physalis zeigt die Zahl die Mehrzahl, obwohl das Nomen gleich aussieht."
+  ],
+  "alltag-b1-beobachtung-oder-deutung": [
+    "Dass sie auf etwas warte, sei dagegen eine menschliche Vorstellung.",
+    "den ursprünglichen Satz für eine spätere Schreibaufgabe aufzubewahren.",
+    "Omar schlägt vor, ihn ausdrücklich mit wie zu kennzeichnen.",
+    "Nele und Omar behalten deshalb beide Textarten, trennen sie aber klar."
+  ]
+});

@@ -393,4 +393,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-ein-name-am-obststand',dialogue:'obststand-namen-langsam-wiederholen'},
  {reading:'alltag-a2-ein-foto-zwei-mehrzahlformen',dialogue:'bildanzahl-und-wortlistenformen-trennen'},
  {reading:'alltag-b1-groessenvergleich-ohne-massstab',dialogue:'fruchtplakat-darstellung-ist-keine-messung'},
+ {reading:'alltag-a1-das-bilderraetsel-mit-fruechten',dialogue:'bilderraetsel-erst-beschreiben-dann-benennen'},
+ {reading:'alltag-a2-zwei-erlaubte-mehrzahlformen',dialogue:'physalis-zwei-varianten-eine-beschriftung'},
+ {reading:'alltag-b1-beobachtung-oder-deutung',dialogue:'bildbeschreibung-den-vergleich-markieren'},
 ];
