@@ -3,8 +3,8 @@ const js=ts.transpileModule(fs.readFileSync('src/lib/game-effects.ts','utf8'),{c
 let notes=[],stops=0,timers=[],reduced=false,stored=null;const events={},exports={};
 class KeyboardEvent{constructor(key){this.key=key;this.isTrusted=true}}
 class AudioContext{state='running';currentTime=0;destination={};createOscillator(){return{frequency:{set value(v){notes.push(v)}},connect(){},disconnect(){},start(){},stop(){stops++}}}createGain(){return{gain:{setValueAtTime(){},linearRampToValueAtTime(){},exponentialRampToValueAtTime(){}},connect(){},disconnect(){}}}}
-const document={hidden:false,addEventListener:(k,fn)=>events[k]=fn,removeEventListener:k=>delete events[k]};const localStorage={getItem:()=>stored};
-vm.runInNewContext(js,{exports,document,window:{AudioContext,matchMedia:()=>({matches:reduced})},localStorage,KeyboardEvent,setTimeout:fn=>timers.push(fn)});
+const document={hidden:false,addEventListener:(k,fn,capture)=>{if(capture||!events[k])events[k]=fn},removeEventListener:k=>delete events[k]};const localStorage={getItem:()=>stored};
+vm.runInNewContext(js,{exports,document,window:{AudioContext,matchMedia:()=>({matches:reduced})},localStorage,KeyboardEvent,Element:class{},queueMicrotask:()=>{},setTimeout:fn=>timers.push(fn)});
 const e=exports;const cleanup=e.installEffectGestures();e.answerEffect(true);assert.equal(notes.length,0);
 events.click({isTrusted:true});e.answerEffect(true);assert.deepEqual(notes,[523.25,659.25]);e.answerEffect(false);assert.equal(notes.length,2);
 events.click({isTrusted:true});e.answerEffect(false);assert.deepEqual(notes.slice(-2),[293.66,261.63]);

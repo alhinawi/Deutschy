@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after A1 dialogue audio update184.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after appearance and interaction update185.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1970,3 +1970,12 @@ No reviewer/date/sign-off is supplied. Earlier review targets remain pending.
 - [ ] Test stop/navigation cancellation on a real phone. Local390px tests and production-file hashes do not establish real-device reliability.
 
 149new clips,230active exact phrases.831unique A1dialogue lines still lack this generated batch. No new native reviewer/date/sign-off. Earlier targets remain pending.
+
+
+## Appearance and interaction185: pending review
+
+- [ ] Check all20Egyptian Arabic theme names and the plain-language settings explanation. Appearance is browser-local,available to everyone,and does not reset study progress.
+- [ ] Review the20light/dark palettes on a real phone,including native radio/select controls,focus,selected cards,German examples and Arabic text.40automated accessibility scans and contrast checks do not approve every device or visual preference.
+- [ ] Listen to quiet UItones and the distinct graded-answer tones. Verify mute,reduced-motion,keyboard,hidden-page and stop behavior on a real device. No sound is the only feedback. Typing and scrolling stay silent.
+
+No reviewer/date/sign-off is supplied. Earlier editorial targets remain pending.
