@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-seventy-second product update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-seventy-third product update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1793,6 +1793,12 @@ Old pronunciation/basics completion flags remain clearly labeled prior records. 
 Lesson discovery, photo credits and saved-review word selection now search the existing English meanings as well as German forms, plurals and Egyptian Arabic. They share case-insensitive, Unicode-normalized substring matching, trim and collapse spaces, and treat German ß/ss alike for discovery only. They do not remove umlaut distinctions or change answer grading. Each field is matched separately, so an accidental phrase spanning different fields is not a result.
 
 Review the new Arabic/English labels and help text in LessonBrowser, CreditsBrowser and AnswerReview. Existing catalogue order and lesson numbers stay unchanged. Word selection shows the first 15 matches and the full count; saving still needs an explicit Save click. Search itself does not change XP, progress or saved cards. Photo-credit file/author lookup remains available. No new German teaching content or language-review sign-off is implied.
+
+## Noun photo update 173: check three clearer images
+
+All 965 current noun-card thumbnails were screened across 25 contact sheets; 8 ambiguous originals were expanded. This is a visual relevance screen, not a native-language sign-off or a fresh legal review of every legacy photo. Three replacements use verified original Wikimedia file and license records: Pflaster now shows unused ordinary adhesive bandages, Adventskranz shows an evergreen wreath with four candles, and Spielplatz shows play structures rather than a splash fountain. No noun text, article, plural, lesson order or saved progress changed. Beetle, colander, chopsticks, staples and nut photos were retained after full-size checks resolved thumbnail uncertainty.
+
+Please check the new photos against the German words and Egyptian Arabic meanings on the medizin, feste and town lesson pages. All 965 reviewed image hashes and credit fields are recorded in `data/noun-photo-audit173.json`; future image or credit changes require a deliberate recheck. The credit page now links exact supported CC BY/BY-SA versions 2.0, 2.5, 3.0 and 4.0 plus CC0, leaving unfamiliar license labels as plain text rather than guessing. Source credits and original-file links remain available. Native German/Egyptian Arabic review and real-device checks remain pending.
 
 ## 3. Wider review queue after the focused batch
 
