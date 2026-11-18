@@ -21,22 +21,40 @@
   --font-ui: "Cairo", system-ui, sans-serif;
 }
 
-:root, [data-theme="papier"] {
+:root, [data-theme="papier"] { color-scheme: light;
   --paper: #f6f0e4; --card: #fffaf0; --ink: #1d1a16; --muted: #6d6458; --line: #e0d5c1;
   --accent: #b4432c; --accent-ink: #fff8ee; --good: #2f7a52; --bad: #b3261e;
 }
-[data-theme="nacht"] {
+[data-theme="nacht"] { color-scheme: dark;
   --paper: #14161c; --card: #1c1f27; --ink: #f1ece2; --muted: #a39d92; --line: #2c303b;
   --accent: #e0a458; --accent-ink: #1a1405; --good: #5ec28a; --bad: #ff7b72;
 }
-[data-theme="salbei"] {
+[data-theme="salbei"] { color-scheme: light;
   --paper: #eef1e8; --card: #f9fbf4; --ink: #1c2a22; --muted: #5b6b60; --line: #d3dac8;
   --accent: #3f6b4f; --accent-ink: #f5fbf0; --good: #2f7a52; --bad: #b3261e;
 }
-[data-theme="terrakotta"] {
+[data-theme="terrakotta"] { color-scheme: light;
   --paper: #f3e6dc; --card: #fcf3ec; --ink: #2a1a14; --muted: #7a5f52; --line: #e3cfc1;
   --accent: #8e3b2a; --accent-ink: #fff4ec; --good: #3a7a4f; --bad: #a8261e;
 }
+
+/* Accessible appearance tokens for the public theme selector. */
+[data-theme="nile"] { color-scheme: light; --paper: #e9f3f0; --card: #f8fffc; --ink: #142c29; --muted: #46635e; --line: #c4d9d3; --accent: #17645a; --accent-ink: #ffffff; --good: #276f48; --bad: #ac2824; }
+[data-theme="cobalt"] { color-scheme: light; --paper: #ecf0fa; --card: #fbfcff; --ink: #17243a; --muted: #52617c; --line: #cbd4e8; --accent: #294f9e; --accent-ink: #ffffff; --good: #276f48; --bad: #ac2824; }
+[data-theme="rose"] { color-scheme: light; --paper: #f9ecee; --card: #fff9fa; --ink: #3b2029; --muted: #795362; --line: #e5cbd3; --accent: #9b3659; --accent-ink: #ffffff; --good: #276f48; --bad: #ac2824; }
+[data-theme="plum"] { color-scheme: light; --paper: #f2edf5; --card: #fcf9ff; --ink: #2c2037; --muted: #6d597b; --line: #dbcee3; --accent: #75418c; --accent-ink: #ffffff; --good: #276f48; --bad: #ac2824; }
+[data-theme="olive"] { color-scheme: light; --paper: #f0f0e3; --card: #fcfced; --ink: #282d18; --muted: #62674b; --line: #d6d8ba; --accent: #606b26; --accent-ink: #ffffff; --good: #276f48; --bad: #ac2824; }
+[data-theme="saffron"] { color-scheme: light; --paper: #faf0d9; --card: #fffcf2; --ink: #3b2b10; --muted: #79633b; --line: #e6d3a7; --accent: #945711; --accent-ink: #ffffff; --good: #276f48; --bad: #ac2824; }
+[data-theme="slate"] { color-scheme: light; --paper: #eef1f4; --card: #fafcfe; --ink: #23303b; --muted: #596875; --line: #d0d9df; --accent: #455e73; --accent-ink: #ffffff; --good: #276f48; --bad: #ac2824; }
+[data-theme="lilac"] { color-scheme: light; --paper: #f0edfc; --card: #fbfaff; --ink: #292046; --muted: #6c5b88; --line: #d6cef0; --accent: #67449a; --accent-ink: #ffffff; --good: #276f48; --bad: #ac2824; }
+[data-theme="midnight"] { color-scheme: dark; --paper: #0f1929; --card: #172438; --ink: #edf3ff; --muted: #a3b5cd; --line: #30435f; --accent: #8bb8ff; --accent-ink: #0f1929; --good: #80c79b; --bad: #ff9994; }
+[data-theme="forest"] { color-scheme: dark; --paper: #101f1a; --card: #192d25; --ink: #edf7ef; --muted: #abc2b1; --line: #365044; --accent: #8fc6a2; --accent-ink: #101f1a; --good: #80c79b; --bad: #ff9994; }
+[data-theme="aubergine"] { color-scheme: dark; --paper: #24182b; --card: #302139; --ink: #faefff; --muted: #c6adce; --line: #533c60; --accent: #d1a3eb; --accent-ink: #24182b; --good: #80c79b; --bad: #ff9994; }
+[data-theme="espresso"] { color-scheme: dark; --paper: #211914; --card: #30241c; --ink: #fff1de; --muted: #ccb49a; --line: #574231; --accent: #e4b477; --accent-ink: #211914; --good: #80c79b; --bad: #ff9994; }
+[data-theme="copper"] { color-scheme: dark; --paper: #291b18; --card: #392621; --ink: #ffefe6; --muted: #d2b4a7; --line: #62453b; --accent: #efaa84; --accent-ink: #291b18; --good: #80c79b; --bad: #ff9994; }
+[data-theme="ocean"] { color-scheme: dark; --paper: #101f28; --card: #182f3b; --ink: #e9f7ff; --muted: #a4c0cf; --line: #335362; --accent: #79c8e7; --accent-ink: #101f28; --good: #80c79b; --bad: #ff9994; }
+[data-theme="charcoal"] { color-scheme: dark; --paper: #191e20; --card: #252e30; --ink: #eef8f6; --muted: #b0c5c0; --line: #455853; --accent: #86d0b9; --accent-ink: #191e20; --good: #80c79b; --bad: #ff9994; }
+[data-theme="cherry"] { color-scheme: dark; --paper: #291920; --card: #3b252e; --ink: #fff0f5; --muted: #d1afbd; --line: #65404f; --accent: #f2a4c0; --accent-ink: #291920; --good: #80c79b; --bad: #ff9994; }
 
 html { background: var(--paper); color: var(--ink); }
 body { font-family: var(--font-ui); font-feature-settings: "lnum"; min-height: 100dvh; }
