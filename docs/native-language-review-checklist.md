@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-thirty-fifth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-thirty-sixth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1450,9 +1450,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Shared MiniQuiz optional hint | Answer group uses stable unique aria-describedby only when hint exists; Mixed handles Arabic/Latin runs. 80 answers,8 axe across AR/EN320/390px and word-order/Perfekt modes. Correct description each question, absent without hint/on result,50XP/doubleclick guard. Actual390px AR/EN hints inspected. Existing German listen states rechecked. |
 | [ ] | Listening/dictation | 66 original segments,264 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice grouping not certification; progress device-local. |
 
+### List 136: Chess pawn and knight
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zwei-figuren-zwei-namen/` and linked dialogue | Mia/Paul compare round pawn head and horse-headed knight, correct a mistaken label, then compare Schachbauern versus unchanged Schachspringer plural. Example counts are not counts from photos. No game/rules. |
+| [ ] | `/reading/alltag-a2-bauer-im-zusammenhang/` and linked dialogue | Lena/Farid distinguish existing farmer Bauer from chess piece, use explicit compound names, preserve old profession card and record looked-up answer honestly. No claim to know all meanings or play chess. |
+| [ ] | `/reading/alltag-b1-keine-stellung-aus-einzelfotos/` and linked dialogue | Sara/Nils remove unsupported attack, dimensions and game-analysis claims from separately sourced object photos. Equal display areas not actual size comparison; no joint board position, shared scale or set identity established. |
+| [ ] | `/lessons/schachfigurenarten/` and `/credits/` | der Schachbauer, die Schachbauern (بيدق شطرنج); der Schachspringer, die Schachspringer (حصان شطرنج). Explicit compounds absent before batch. DWDS compound morphology computer-generated, cross-checked Duden editorial Bauer chess sense/weak inflection and Springer chess sense/same-form plural. Existing Bauer profession card unchanged. Caleb Oquendo40227387:1800x1053 crop(200,0)-(1600,1050). Waskyria Miranda30182768:1800x2722 crop(0,1100)-(1800,2450). Both800x600 proportional, no padding/stretch/people/brands. Knight crop revised after first screen review to include full pedestal; final AR/EN cards reinspected. |
+| [ ] | Six appended grammar banks | 24 article/accusative/present/possessive/two-way/negation rows retain earlier saved identities; includes weak noun den Schachbauern. Native German/Egyptian editorial pending. |
+| [ ] | Shared MiniQuiz answers | Explicit44px minimum and theme-consistent keyboard ring. AR/EN320/390,8rounds2modes:Tab reaches second option with visible ring,all options >=44px. Existing hint/score/listen behavior unchanged. Actual390px focus screens inspected. |
+| [ ] | Listening/dictation | 65 original segments,260 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice grouping not certification; progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **927 photo nouns / 180 topics**, **423 reading texts / 1645 reading questions**, **41 core grammar topics / 3190 core grammar questions**, **363 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **929 photo nouns / 181 topics**, **426 reading texts / 1657 reading questions**, **41 core grammar topics / 3214 core grammar questions**, **366 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1464,7 +1476,7 @@ This is an inventory, not completed review. Snapshot: **927 photo nouns / 180 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 123 · A2 151 · B1 119 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 124 · A2 152 · B1 120 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

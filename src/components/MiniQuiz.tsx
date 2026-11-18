@@ -54,7 +54,7 @@ function Quiz({ make, game, size = 10 }: Props) {
       <div role="group" aria-labelledby={promptId} aria-describedby={q.hint ? hintId : undefined} className="grid gap-2">
         {opts.map((o) => {
           const st = pick === null ? '' : o === q.options[0] ? 'border-good border-2 bg-good/10' : pick === o ? 'border-bad bg-bad/10' : '';
-          return <button disabled={pick!==null} dir="ltr" lang="de" key={o} onClick={() => answer(o)} className={`de rounded-xl border border-line bg-paper px-3 py-2.5 text-start text-lg ${st}`}>{o}</button>;
+          return <button disabled={pick!==null} dir="ltr" lang="de" key={o} onClick={() => answer(o)} className={`de min-h-11 rounded-xl border border-line bg-paper px-3 py-2.5 text-start text-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-card ${st}`}>{o}</button>;
         })}
       </div>
       {audioError&&<p role="status">{t("مفيش صوت ألماني متاح. كمل قراءة لو النص ظاهر.","No German voice is available. Continue reading if text is shown.")}</p>}

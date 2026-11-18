@@ -25143,3 +25143,218 @@ Object.assign(dialogueEvidence,{
     "behalte die Lernwörter."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "runder-kopf-pferdekopf",
+    "level": "A1",
+    "title": [
+      "Schau noch einmal auf den Kopf",
+      "بص على الراس تاني"
+    ],
+    "lines": [
+      [
+        "Mia",
+        "Wie heißt die Figur auf dem zweiten Foto?",
+        "اسم القطعة اللي في الصورة التانية إيه؟"
+      ],
+      [
+        "Paul",
+        "Der Schachbauer.",
+        "شاخ باور."
+      ],
+      [
+        "Mia",
+        "Schau noch einmal auf den Pferdekopf.",
+        "بص تاني على راس الحصان."
+      ],
+      [
+        "Paul",
+        "Stimmt. Das ist der Schachspringer.",
+        "صح. ده شاخ شبرينجر."
+      ],
+      [
+        "Mia",
+        "Welchen Artikel hat das Wort?",
+        "أداة التعريف بتاعة الكلمة إيه؟"
+      ],
+      [
+        "Paul",
+        "Der. Beide Wörter sind hier männlich.",
+        "دير. الكلمتين هنا مذكر."
+      ],
+      [
+        "Mia",
+        "Gut. Wir ordnen nur die Namen zu, wir spielen nicht.",
+        "تمام. إحنا بنوصل الأسامي بس مش بنلعب."
+      ]
+    ],
+    "q": [
+      [
+        "Welchen Hinweis gibt Mia?",
+        "Den Pferdekopf ansehen.",
+        "Die Figuren verstecken.",
+        "Eine Partie beginnen."
+      ],
+      [
+        "Wie verbessert Paul seine Antwort?",
+        "Das ist der Schachspringer.",
+        "Das ist ein Würfel.",
+        "Das ist eine Karte."
+      ],
+      [
+        "Was machen die beiden nur?",
+        "Die Namen zuordnen.",
+        "Spielregeln prüfen.",
+        "Eine Partie gewinnen."
+      ]
+    ]
+  },
+  {
+    "id": "ein-wort-mehrere-bedeutungen",
+    "level": "A2",
+    "title": [
+      "Hier geht es um Schach",
+      "هنا المقصود شطرنج"
+    ],
+    "lines": [
+      [
+        "Farid",
+        "Auf meiner alten Karte ist Bauer ein Beruf.",
+        "على الكارت القديم عندي باور مهنة."
+      ],
+      [
+        "Lena",
+        "Hier zeigt das Foto eine Spielfigur. Wir schreiben Schachbauer.",
+        "هنا الصورة فيها قطعة لعبة. هنكتب شاخ باور."
+      ],
+      [
+        "Farid",
+        "Dann ist die alte Karte nicht falsch?",
+        "يبقى الكارت القديم مش غلط؟"
+      ],
+      [
+        "Lena",
+        "Nein. Sie gehört zu einem anderen Zusammenhang.",
+        "لأ. ده تبع سياق تاني."
+      ],
+      [
+        "Farid",
+        "Die Mehrzahl habe ich gerade nachgesehen: die Schachbauern.",
+        "لسه باصص على الجمع في الملحوظة: دي شاخ باورْن."
+      ],
+      [
+        "Lena",
+        "Dann notieren wir auch, dass du nachgesehen hast.",
+        "يبقى نسجل كمان إنك رجعت للملحوظة."
+      ],
+      [
+        "Farid",
+        "Gut. Die Berufskarte bleibt unverändert.",
+        "تمام. كارت المهنة يفضل زي ما هو."
+      ]
+    ],
+    "q": [
+      [
+        "Was zeigt das neue Foto?",
+        "Eine Spielfigur.",
+        "Einen Beruf bei der Feldarbeit.",
+        "Einen Sportler im Sprung."
+      ],
+      [
+        "Warum ist die alte Karte nicht falsch?",
+        "Sie gehört zu einem anderen Zusammenhang.",
+        "Sie enthält gar kein Wort.",
+        "Alle Wörter bedeuten dasselbe."
+      ],
+      [
+        "Was bleibt unverändert?",
+        "Die Berufskarte.",
+        "Nur die neue Mehrzahlnotiz.",
+        "Die Zahl der gespielten Partien."
+      ]
+    ]
+  },
+  {
+    "id": "nebeneinander-ist-kein-angriff",
+    "level": "B1",
+    "title": [
+      "Nur nebeneinander auf der Seite",
+      "جنب بعض على الصفحة بس"
+    ],
+    "lines": [
+      [
+        "Nils",
+        "Ich schreibe, dass der Springer den Bauern angreift.",
+        "هكتب إن الحصان بيهاجم البيدق."
+      ],
+      [
+        "Sara",
+        "Die Fotos zeigen aber keine gemeinsame Brettstellung.",
+        "بس الصور مش بتعرض وضع مشترك على الرقعة."
+      ],
+      [
+        "Nils",
+        "Stimmt. Ich habe sie nur auf der Seite nebeneinandergesetzt.",
+        "صح. أنا حطيتهم جنب بعض على الصفحة بس."
+      ],
+      [
+        "Sara",
+        "Dann streichen wir den Angriff und die Zentimeterangabe.",
+        "يبقى نشيل الهجوم والمقاس بالسنتيمتر."
+      ],
+      [
+        "Nils",
+        "Wir kennen auch keinen gemeinsamen Maßstab.",
+        "وإحنا كمان مش عارفين مقياس رسم مشترك."
+      ],
+      [
+        "Sara",
+        "Die Namen der Figuren bleiben. Die sind hier erkennbar.",
+        "أسامي القطع تفضل. هي هنا واضحة."
+      ],
+      [
+        "Nils",
+        "Gut. Eine Partie haben wir damit nicht analysiert.",
+        "تمام. إحنا كده ماحللناش دور شطرنج."
+      ]
+    ],
+    "q": [
+      [
+        "Wo hat Nils die Fotos nebeneinandergesetzt?",
+        "Auf der Seite.",
+        "In einer dokumentierten Partie.",
+        "Auf demselben Originalfoto."
+      ],
+      [
+        "Was kennen sie nicht?",
+        "Einen gemeinsamen Maßstab.",
+        "Die gewählten Lernwörter.",
+        "Die Anzahl der Bilder."
+      ],
+      [
+        "Was bleibt auf der Seite?",
+        "Die Namen der Figuren.",
+        "Der unbelegte Angriff.",
+        "Die erfundene Zentimeterangabe."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "runder-kopf-pferdekopf": [
+    "Schau noch einmal auf den Pferdekopf.",
+    "Das ist der Schachspringer.",
+    "Wir ordnen nur die Namen zu"
+  ],
+  "ein-wort-mehrere-bedeutungen": [
+    "Hier zeigt das Foto eine Spielfigur.",
+    "Sie gehört zu einem anderen Zusammenhang.",
+    "Die Berufskarte bleibt unverändert."
+  ],
+  "nebeneinander-ist-kein-angriff": [
+    "nur auf der Seite nebeneinandergesetzt.",
+    "Wir kennen auch keinen gemeinsamen Maßstab.",
+    "Die Namen der Figuren bleiben."
+  ]
+});

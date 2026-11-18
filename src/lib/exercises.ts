@@ -570,3 +570,6 @@ for(const[topic,rows]of Object.entries(zitrusscheibenGrammar))exercises[topic].p
 
 import {papiermodelleGrammar} from './exercises-papiermodelle';
 for(const[topic,rows]of Object.entries(papiermodelleGrammar))exercises[topic].push(...rows);
+
+import {schachfigurenartenGrammar} from './exercises-schachfigurenarten';
+for(const[topic,rows]of Object.entries(schachfigurenartenGrammar))exercises[topic].push(...rows);

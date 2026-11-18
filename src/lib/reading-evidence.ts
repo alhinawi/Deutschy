@@ -2468,3 +2468,24 @@ Object.assign(readingEvidence,{
     "Ihre Aufgabe endet bei der Auswahl und sachlichen Beschriftung vorhandener Fotos."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zwei-figuren-zwei-namen": [
+    "Dann sieht er den Pferdekopf des Springers.",
+    "Beide Wörter haben in der Einzahl den Artikel der.",
+    "Das Wort Schachspringer bleibt in der Mehrzahl gleich.",
+    "Sie spielen keine Partie"
+  ],
+  "alltag-a2-bauer-im-zusammenhang": [
+    "So ist klar, dass sie hier über eine Spielfigur sprechen und nicht über einen Beruf.",
+    "lässt die Bilder aber sichtbar.",
+    "Sie halten diese Antwort als nachgesehen fest.",
+    "Die frühere Karte mit dem Beruf ändern sie nicht."
+  ],
+  "alltag-b1-keine-stellung-aus-einzelfotos": [
+    "Die Fotos zeigen keine gemeinsame Brettstellung.",
+    "Daraus entsteht jedoch kein verlässlicher Größenvergleich",
+    "Ob beide Figuren zu demselben Set gehören, wissen sie nicht.",
+    "Sara und Nils haben keine Partie analysiert."
+  ]
+});
