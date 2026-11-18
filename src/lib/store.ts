@@ -1,4 +1,5 @@
 'use client';
+import {answerEffect} from './game-effects';
 import {validateProgress} from './progress-validation';
 import { useEffect, useState, useCallback } from 'react';
 
@@ -34,6 +35,7 @@ export const level = (xp: number) => Math.floor(Math.sqrt(xp / 50)) + 1;
 export const levelFloor = (l: number) => (l - 1) * (l - 1) * 50;
 
 function recordAward(xp:number,wordId?:string,ok?:boolean,once=false){
+    if (typeof ok === 'boolean') answerEffect(ok);
     const cur = load();
     if(once&&wordId&&(cur.seen[wordId]?.ok??0)>0)return false;
     const today = day();
