@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-thirty-fourth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-thirty-fifth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1438,9 +1438,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Shared MiniQuiz Next/Result/New round controls | Minimum 44px height with themed card-offset keyboard focus rings. 32 mixed answers, 72 states, 8 axe checks across AR/EN at 320/390px. Keyboard Enter advances/restarts, correct 4 of 8 / 20 XP, no extra XP or stale feedback. Actual 390px next/restart focus inspected. Existing listen 44px and localized unavailable fallback rechecked: 8 states, 4 German payloads, 8 axe checks. |
 | [ ] | Listening/dictation | 66 original segments,264 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice grouping not certification; progress device-local. |
 
+### List 135: Folded paper models
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-ein-modell-mehrere-modelle/` and linked dialogue | Mia/Paul compare der/die Papierflieger and das/die Papierschiffchen. Both noun forms stay unchanged; article and sentence context distinguish number. Practice sentences do not count objects in photos. No folding/throwing. |
+| [ ] | `/reading/alltag-a2-nur-die-offene-frage/` and linked dialogue | Lena/Farid ask name, article, then full plural line separately. Pause not automatically wrong; supplied answer not independent recall. Personal voluntary workflow, no general learning-effect or grade claim. |
+| [ ] | `/reading/alltag-b1-standbild-ist-kein-versuch/` and linked dialogue | Sara/Nils remove unsupported flight-distance and float-duration claims. Static photo not a performance test. No invented measurements, motion lines or original paper-color claim from monochrome. No building, flight or water test. |
+| [ ] | `/lessons/papiermodelle/` and `/credits/` | der Papierflieger (طيارة ورق), das Papierschiffchen (مركب ورق صغيرة), both same-form plurals stored as '-'. Duden identity/gender; DWDS Papierflieger plural; DWDS Papierschiffchen morphology explicitly computer-generated, cross-checked Duden Schiffchen compound head. Anna Danilina 20886042: 1800x2400 crop(0,1050)-(1800,2400). Miguel Á. Padriñán 19678: 1800x1165 crop(400,180)-(1700,1155). Both proportional800x600 real-object photos, not drawings. No padding/stretch/people/brands. Actual390px AR/EN cards inspected. |
+| [ ] | Six appended grammar banks | 24 article/dative/present/possessive/two-way/negation rows retain earlier saved identities. Native German/Egyptian examples/explanations pending. |
+| [ ] | Shared MiniQuiz optional hint | Answer group uses stable unique aria-describedby only when hint exists; Mixed handles Arabic/Latin runs. 80 answers,8 axe across AR/EN320/390px and word-order/Perfekt modes. Correct description each question, absent without hint/on result,50XP/doubleclick guard. Actual390px AR/EN hints inspected. Existing German listen states rechecked. |
+| [ ] | Listening/dictation | 66 original segments,264 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice grouping not certification; progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **925 photo nouns / 179 topics**, **420 reading texts / 1633 reading questions**, **41 core grammar topics / 3166 core grammar questions**, **360 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **927 photo nouns / 180 topics**, **423 reading texts / 1645 reading questions**, **41 core grammar topics / 3190 core grammar questions**, **363 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1452,7 +1464,7 @@ This is an inventory, not completed review. Snapshot: **925 photo nouns / 179 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 122 · A2 150 · B1 118 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 123 · A2 151 · B1 119 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

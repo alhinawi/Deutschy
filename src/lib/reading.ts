@@ -405,3 +405,6 @@ readings.push(...blaetterzweigeTexts);
 
 import {zitrusscheibenTexts} from './reading-zitrusscheiben';
 readings.push(...zitrusscheibenTexts);
+
+import {papiermodelleTexts} from './reading-papiermodelle';
+readings.push(...papiermodelleTexts);

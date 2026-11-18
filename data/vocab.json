@@ -715,6 +715,10 @@
   {
    "id": "zitrusscheiben",
    "ar": "شرايح الليمون والبرتقان"
+  },
+  {
+   "id": "papiermodelle",
+   "ar": "نماذج ورق متنية"
   }
  ],
  "words": [
@@ -14686,6 +14690,36 @@
     "file": "29919153.jpg",
     "commons": "https://www.pexels.com/photo/fresh-citrus-orange-slices-on-reflective-surface-29919153/",
     "author": "Karsten Sporenberg",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "papierflieger",
+   "topic": "papiermodelle",
+   "art": "der",
+   "de": "Papierflieger",
+   "plural": "-",
+   "ar": "طيارة ورق",
+   "photo": {
+    "file": "20886042.jpg",
+    "commons": "https://www.pexels.com/photo/paper-folded-airplanes-20886042/",
+    "author": "Anna Danilina",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "papierschiffchen",
+   "topic": "papiermodelle",
+   "art": "das",
+   "de": "Papierschiffchen",
+   "plural": "-",
+   "ar": "مركب ورق صغيرة",
+   "photo": {
+    "file": "19678.jpg",
+    "commons": "https://www.pexels.com/photo/orange-paper-boat-on-white-surface-19678/",
+    "author": "Miguel Á. Padriñán",
     "license": "Pexels License",
     "modified": true
    }
