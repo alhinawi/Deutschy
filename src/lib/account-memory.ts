@@ -1,0 +1,20 @@
+'use client';
+// Volatile tab memory only. Account snapshots are confirmed by the server.
+export type SaveStatus='loading'|'guest'|'saved'|'saving'|'error'|'conflict';
+let values:Record<string,string>=Object.create(null),revision=0,accountId:number|null=null,status:SaveStatus='loading',pending=false,dirty=false,timer:ReturnType<typeof setTimeout>|undefined;
+let initialization:Promise<void>|null=null;
+const listeners=new Set<()=>void>();
+function notify(){for(const fn of listeners)fn();if(typeof window!=='undefined')window.dispatchEvent(new Event('deutschy:account-state'))}
+export function stateStatus(){return{status,accountId}}
+export function subscribeState(fn:()=>void){listeners.add(fn);return()=>{listeners.delete(fn)}}
+export const accountMemory={getItem(key:string){if(status==='loading')throw Error('Account state not loaded');return Object.hasOwn(values,key)?values[key]:null},setItem(key:string,value:string){if(status==='loading')throw Error('Account state unavailable');if(!key.startsWith('deutschy:')||typeof value!=='string')throw Error('Invalid state');if(values[key]===value)return;if(value.length>250000)throw Error('State too large');const next={...values,[key]:value};if(Object.keys(next).length>400||new TextEncoder().encode(JSON.stringify(next)).length>1000000)throw Error('Account state full');values=next;dirty=true;if(accountId&&status!=='error'&&status!=='conflict'){status='saving';clearTimeout(timer);timer=setTimeout(()=>void flushAccountState(),500)}notify()},removeItem(key:string){if(Object.hasOwn(values,key)){const next={...values};delete next[key];values=next;dirty=true;if(accountId&&status!=='error'&&status!=='conflict'){status='saving';clearTimeout(timer);timer=setTimeout(()=>void flushAccountState(),500)}notify()}}};
+export async function flushAccountState(){clearTimeout(timer);if(!accountId||pending||!dirty||status==='error'||status==='conflict')return;pending=true;dirty=false;const snapshot={...values},id=accountId;
+ try{const r=await fetch('/api/me/state',{method:'PUT',cache:'no-store',signal:AbortSignal.timeout(20000),headers:{'content-type':'application/json'},body:JSON.stringify({accountId:id,revision,values:snapshot})});if(r.status===409){status='conflict';dirty=true;return}if(!r.ok)throw Error('Server save failed');const data=await r.json();if(accountId!==id)return;if(data.ok!==true||data.revision!==revision+1)throw Error('Invalid save acknowledgement');revision=data.revision;status=dirty?'saving':'saved'}catch{status='error';dirty=true}finally{pending=false;notify();if(dirty&&status==='saving')void flushAccountState()}}
+export function initializeAccountState():Promise<void>{
+ if(status!=='loading')return Promise.resolve();
+ if(initialization)return initialization;
+ initialization=(async()=>{const r=await fetch('/api/auth/me',{cache:'no-store',signal:AbortSignal.timeout(20000)});if(!r.ok)throw Error('Identity unavailable');const auth=await r.json();if(auth.user===null){status='guest';notify();return}if(!Number.isSafeInteger(auth.user?.id)||auth.user.id<1)throw Error('Identity unavailable');const response=await fetch('/api/me/state',{cache:'no-store',signal:AbortSignal.timeout(20000)});if(!response.ok)throw Error('Account state unavailable');const data=await response.json();if(data.accountId!==auth.user.id||!data.values||typeof data.values!=='object'||Array.isArray(data.values)||!Number.isSafeInteger(data.revision)||data.revision<0||Object.keys(data.values).length>400||new TextEncoder().encode(JSON.stringify(data.values)).length>1000000||Object.entries(data.values).some(([k,v])=>!k.startsWith('deutschy:')||typeof v!=='string'||v.length>250000))throw Error('Invalid account state');values=Object.assign(Object.create(null),data.values);accountId=auth.user.id;revision=data.revision;status='saved';notify()})().finally(()=>{initialization=null});
+ return initialization;
+}
+export function useTemporaryState(){values=Object.create(null);accountId=null;revision=0;dirty=false;status='guest';notify()}
+export function retryAccountSave(){if(status==='error'){status='saving';notify();void flushAccountState()}}

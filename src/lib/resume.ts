@@ -1,3 +1,4 @@
+import {accountMemory} from './account-memory';
 import routes from './resume-routes.json';
 const known=new Map(routes.map(([href,label])=>[href,label]));
 export const RESUME_KEY='deutschy:resume:v1';
@@ -13,6 +14,6 @@ export function resumeEntry(raw:unknown,now=Date.now()):Resume|null{
 export function resumeLabel(href:string){return known.get(href.split('#')[0])||''}
 export function saveResume(path:string,hash='',now=Date.now()){
  const entry=resumeEntry({href:path+hash,at:now},now);if(!entry)return;
- try{const raw=localStorage.getItem(RESUME_KEY);if(raw){let previous;try{previous=JSON.parse(raw)}catch{return}if(!resumeEntry(previous,now))return}localStorage.setItem(RESUME_KEY,JSON.stringify(entry));window.dispatchEvent(new Event('deutschy:resume'))}catch{/* Navigation works without storage. */}
+ try{const raw=accountMemory.getItem(RESUME_KEY);if(raw){let previous;try{previous=JSON.parse(raw)}catch{return}if(!resumeEntry(previous,now))return}accountMemory.setItem(RESUME_KEY,JSON.stringify(entry));window.dispatchEvent(new Event('deutschy:resume'))}catch{/* Navigation works without storage. */}
 }
-export function readResume(){try{return resumeEntry(JSON.parse(localStorage.getItem(RESUME_KEY)||'null'))}catch{return null}}
+export function readResume(){try{return resumeEntry(JSON.parse(accountMemory.getItem(RESUME_KEY)||'null'))}catch{return null}}

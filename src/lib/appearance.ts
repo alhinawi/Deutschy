@@ -1,3 +1,4 @@
+import {accountMemory} from './account-memory';
 export const appearanceThemes=[
  {id:'papier',ar:'دفتر ورق',en:'Paper journal',dark:false},
  {id:'nacht',ar:'حبر ودهب',en:'Ink and gold',dark:true},
@@ -22,6 +23,6 @@ export const appearanceThemes=[
 ] as const;
 export const APPEARANCE_KEY='deutschy:appearance';
 export function validAppearance(value:unknown):value is string{return typeof value==='string'&&appearanceThemes.some(t=>t.id===value)}
-export function readAppearance(legacy='papier'){try{const saved=localStorage.getItem(APPEARANCE_KEY);return validAppearance(saved)?saved:validAppearance(legacy)?legacy:'papier'}catch{return validAppearance(legacy)?legacy:'papier'}}
+export function readAppearance(legacy='papier'){try{const saved=accountMemory.getItem(APPEARANCE_KEY);return validAppearance(saved)?saved:validAppearance(legacy)?legacy:'papier'}catch{return validAppearance(legacy)?legacy:'papier'}}
 export function applyAppearance(value:string){const theme=appearanceThemes.find(t=>t.id===value)??appearanceThemes[0];document.documentElement.dataset.theme=theme.id;document.documentElement.style.colorScheme=theme.dark?'dark':'light'}
-export function saveAppearance(value:string){if(!validAppearance(value))return false;try{localStorage.setItem(APPEARANCE_KEY,value);applyAppearance(value);window.dispatchEvent(new Event('deutschy:appearance'));return true}catch{return false}}
+export function saveAppearance(value:string){if(!validAppearance(value))return false;try{accountMemory.setItem(APPEARANCE_KEY,value);applyAppearance(value);window.dispatchEvent(new Event('deutschy:appearance'));return true}catch{return false}}

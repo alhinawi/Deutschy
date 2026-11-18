@@ -49,7 +49,9 @@
     "test:food-drinks:browser": "node scripts/test-food-drinks-browser.mjs",
     "test:helper": "node scripts/test-helper.mjs && node scripts/test-helper-proxy.mjs",
     "typecheck:helper": "tsc -p helper/tsconfig.json && tsc -p functions/tsconfig.json",
-    "test:helper:browser": "node scripts/test-helper-browser.mjs"
+    "test:helper:browser": "node scripts/test-helper-browser.mjs",
+    "test:account-state": "node --experimental-sqlite scripts/test-account-state.mjs",
+    "test:account-state:browser": "node scripts/test-account-state-browser.mjs"
   },
   "dependencies": {
     "hono": "^4.13.18",
