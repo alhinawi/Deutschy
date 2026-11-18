@@ -43,6 +43,11 @@ export async function speak(raw:string,options:SpeechOptions={}){
  if(recording && await playAudio(recording))return true;
  if(token!==generation)return false;
  const cached=staticSpeech[text];
+ // Generated clips hosted with this site do not need another shard deployment.
+ if(cached?.shard==='deutschy-local' && /^\/clips\/[a-f0-9]{64}\.mp3$/.test(cached.url)){
+  if(await playAudio(cached.url))return true;
+ }
+ if(token!==generation)return false;
  const staticBase=cached?speechShardBases?.[cached.shard]??'':'';
  if(cached && /^https:\/\/[a-z0-9-]+\.pages\.dev$/.test(staticBase)){
   // Exact static coverage wins even when a preferred voice has no clip.
