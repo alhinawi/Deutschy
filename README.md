@@ -65,8 +65,7 @@ Cloudflare Pages: build command `npm run build`, output directory `out`.
 
 ### Environment (Cloudflare Pages secrets)
 
-`GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, `SESSION_SECRET`, optional
-`ELEVENLABS_API_KEY`, `ELEVENLABS_VOICE_ID`.
+`GOOGLE_CLIENT_ID`, `GOOGLE_CLIENT_SECRET`, `SESSION_SECRET`. Speech is OFF pending publication review;see [speech setup](docs/tts-setup.md) for server-only key slots,D1 backup/migration,quota gates and voice settings.
 
 ---
 
