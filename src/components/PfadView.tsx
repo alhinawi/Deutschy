@@ -1,43 +1,13 @@
 'use client';
 import Link from 'next/link';
 import {checkpointState} from '@/lib/completion';
-import { PATH, stepState, stepRule } from '@/lib/progress';
-import { useStore } from '@/lib/store';
-import { useT } from '@/lib/i18n';
-
-export default function PfadView() {
-  const t = useT();
-  const { s, ready } = useStore();
-  const rows = PATH.map((st) => ({ st, ...stepState(s, st) }));
-  const done = rows.filter((r) => r.done).length;
-  const next = rows.findIndex((r) => !r.done);
-  return (
-    <div className="space-y-6">
-      <h1 className="ar-title text-4xl font-bold">{t('مسار A1', 'A1 learning path')}</h1>
-      <p className="text-muted">{t('خطوات مرتبة من أول حرف لحد امتحان A1. التقدم من اللي حليته على جهازك بس.', 'Ordered steps from the first letter to the A1 exam. Progress comes only from what you did on this device.')}</p>
-      <div className="rounded-2xl border border-line bg-card p-4">
-        <div className="flex items-center justify-between"><span className="ar-title font-bold">{t('اتخلّص', 'Completed')}</span><span dir="ltr" className="num font-bold">{ready ? done : 0} / {PATH.length}</span></div>
-        <div className="mt-2 h-2.5 overflow-hidden rounded-full bg-line" role="progressbar" aria-label={t('تقدم مسار A1', 'A1 path progress')} aria-valuemin={0} aria-valuemax={PATH.length} aria-valuenow={done}><div className="h-full bg-accent" style={{ width: `${(done / PATH.length) * 100}%` }} /></div>
-        {next >= 0 && ready && <Link href={rows[next].st.href} className="mt-3 inline-block rounded-full bg-accent px-5 py-2 font-bold text-accent-ink">{t('كمّل: ', 'Continue: ')}{t(rows[next].st.ar, rows[next].st.en)}</Link>}
-      </div>
-      <ol className="space-y-2">
-        {rows.map((r, i) => (
-          <li key={r.st.id} className={`rounded-2xl border bg-card p-4 ${i === next ? 'border-accent border-2' : 'border-line'}`}>
-            <div className="flex items-start gap-3">
-              <span className={`num flex h-8 w-8 shrink-0 items-center justify-center rounded-full text-sm font-bold ${r.done ? 'bg-good text-white' : 'border border-line'}`}>
-                {r.done ? <svg viewBox="0 0 24 24" className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth="3" strokeLinecap="round" strokeLinejoin="round" aria-label="done"><path d="m5 12 5 5 9-10" /></svg> : i + 1}
-              </span>
-              <div className="min-w-0 flex-1 space-y-2">
-                <Link href={r.st.href} className="ar-title block text-lg font-bold hover:text-accent">{t(r.st.ar, r.st.en)}</Link>
-                <div className="flex items-center gap-3"><div className="h-2 flex-1 overflow-hidden rounded-full bg-line"><div className="h-full bg-accent" style={{ width: `${(r.got / r.total) * 100}%` }} /></div><span dir="ltr" className="num text-xs font-bold text-muted">{ready ? r.got : 0} / {r.total}{r.st.id === 'exam' ? '%' : ''}</span></div>
-                <p className="text-sm text-muted">{ready&&r.st.kind==='checkpoint'&&checkpointState(s,r.st.id as 'pron'|'learn').legacy?t('سجل قديم محفوظ؛ مش نتيجة مراجعة.','Prior completion kept; not a review result.'):t(...stepRule(r.st))}</p>
-
-              </div>
-            </div>
-          </li>
-        ))}
-      </ol>
-      <Link href="/levels/A2/" className="inline-block rounded-full border border-line px-5 py-2 font-bold">{t('بعد A1: مستوى A2', 'After A1: level A2')}</Link>
-    </div>
-  );
-}
+import {PATH,stepState,stepRule} from '@/lib/progress';
+import {useStore} from '@/lib/store';
+import {useT} from '@/lib/i18n';
+const phases=[{start:0,end:3,ar:'الأساس اللي هتبني عليه',en:'Build your foundation'},{start:3,end:9,ar:'استخدم الألماني كل يوم',en:'Use German every day'},{start:9,end:14,ar:'وسّع تدريبك وراجع',en:'Practise, then check back'}];
+export default function PfadView(){const t=useT(),{s,ready}=useStore(),rows=PATH.map(st=>({st,...stepState(s,st)})),done=rows.filter(r=>r.done).length,next=rows.findIndex(r=>!r.done),current=rows[next];return <div className="space-y-8">
+ <header className="space-y-3"><Link href="/" className="inline-flex min-h-11 items-center text-sm text-muted underline">{t('دفتر المذاكرة','Study journal')}</Link><p className="num text-xs font-bold tracking-widest text-accent">DEUTSCH / A1</p><h1 className="text-3xl font-extrabold leading-snug">{t('خطوة واحدة دلوقتي.','One step at a time.')}</h1><p className="text-sm leading-7 text-muted">{t('ده ترتيب يساعدك تبدأ، مش حواجز. تقدر تفتح أي خطوة، وترجع للباقي وقت ما تحب.','An order to help you start, not a set of locked gates. Open any step and come back when you want.')}</p></header>
+ <section aria-label={t('خطوتك الحالية','Your current step')} className="overflow-hidden rounded-3xl border border-accent bg-card"><div className="flex items-center justify-between border-b border-line px-5 py-3 text-xs font-bold"><span>{t('خطوتك الحالية','YOUR CURRENT STEP')}</span><span dir="ltr" className="num">{ready?done:0} / {PATH.length}</span></div><div className="space-y-4 p-5"><progress aria-label={t('تقدم مسار A1','A1 path progress')} max={PATH.length} value={ready?done:0} className="h-2 w-full overflow-hidden rounded-full bg-line text-accent [&::-webkit-progress-bar]:bg-line [&::-webkit-progress-value]:bg-accent [&::-moz-progress-bar]:bg-accent"/>{current?<><h2 className="text-2xl font-bold">{t(current.st.ar,current.st.en)}</h2><p className="text-sm leading-7 text-muted">{next===0?t('ابدأ بالحروف وأمثلتها. في آخر الدرس مراجعة مكتوبة قصيرة.','Start with letters and examples. A short written review closes the lesson.'):t('كمّل من الخطوة دي، أو اختار أي جزء من الطريق تحت.','Continue this step, or choose any part of the path below.')}</p><Link data-path-primary href={current.st.href} className="flex min-h-14 items-center justify-center rounded-2xl bg-accent px-4 py-3 font-bold text-accent-ink">{next===0?t('ابدأ بالحروف والنطق','Start letters and pronunciation'):t('افتح الخطوة','Open this step')}</Link></>:<p className="font-bold">{t('أنهيت شروط تدريب المسار على الجهاز ده. تقدر تراجع أي خطوة.','You met this path’s practice rules on this device. Revisit any step.')}</p>}</div></section>
+ <div className="space-y-8">{phases.map((phase,index)=><section key={phase.start} aria-labelledby={'path-phase-'+index} className="space-y-3"><h2 id={'path-phase-'+index} className="flex items-center gap-3 text-lg font-bold"><span className="num text-xs text-accent">0{index+1}</span>{t(phase.ar,phase.en)}</h2><ol start={phase.start+1} className="divide-y divide-line overflow-hidden rounded-2xl border border-line bg-card">{rows.slice(phase.start,phase.end).map((r,n)=>{const i=phase.start+n;return <li key={r.st.id} className={i===next?'border-s-4 border-accent':''}><div className="flex items-center gap-3 px-4"><span role={r.done?'img':undefined} aria-label={r.done?t('تم','Done'):undefined} className={`num flex h-8 w-8 shrink-0 items-center justify-center rounded-full text-xs ${r.done?'bg-good text-white':'border border-line text-muted'}`}>{r.done?<svg viewBox="0 0 24 24" className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true"><path d="m5 12 5 5 9-10"/></svg>:i+1}</span><Link href={r.st.href} className="flex min-h-16 min-w-0 flex-1 items-center py-3 text-sm font-bold leading-6">{t(r.st.ar,r.st.en)}</Link><span dir="ltr" className="num text-xs text-muted">{ready?r.got:0}/{r.total}{r.st.id==='exam'?'%':''}</span></div><details className="px-4 pb-2 ps-16 text-xs leading-6 text-muted"><summary className="min-h-11 cursor-pointer py-3">{t('إزاي الخطوة بتتحسب؟','How is this step counted?')}</summary><p className="pb-3">{ready&&r.st.kind==='checkpoint'&&checkpointState(s,r.st.id as 'pron'|'learn').legacy?t('سجل قديم محفوظ؛ مش نتيجة مراجعة.','Prior completion kept; not a review result.'):t(...stepRule(r.st))}</p></details></li>})}</ol></section>)}</div>
+ <p className="text-xs leading-7 text-muted">{t('الحساب من إجاباتك على المتصفح ده. إنهاء المسار مش شهادة مستوى؛ القواعد والقراءة فيها تدريب كتير تقدر ترجعه على مراحل.','Counts come from answers on this browser. Finishing the path is not a proficiency certificate. Larger grammar and reading sets can be revisited in stages.')}</p><Link href="/levels/A2/" className="inline-flex min-h-12 items-center rounded-xl border border-line px-5 font-bold">{t('بعد A1: شوف A2','After A1: explore A2')}</Link>
+ </div>}
