@@ -11,7 +11,7 @@ export type State = {
   daily: Record<string, number>; goal: number; srs: Record<string, { b: number; due: number }>; challenge: Record<string, number>; exams: Record<string, number>; pfad?: Record<string, boolean>;
 };
 const KEY = 'deutschy:v1';
-const empty: State = { xp: 0, streak: 0, best: 0, lastDay: '', name: '', seen: {}, scores: [], theme: 'papier', daily: {}, goal: 50, srs: {}, challenge: {}, exams: {} };
+const empty: State = { xp: 0, streak: 0, best: 0, lastDay: '', name: '', seen: {}, scores: [], theme: 'cobalt', daily: {}, goal: 50, srs: {}, challenge: {}, exams: {} };
 const day = (d = new Date()) => `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
 
 let storageIssue=false;
