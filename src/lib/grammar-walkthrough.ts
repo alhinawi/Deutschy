@@ -1,3 +1,4 @@
+import {expansionWalkthrough} from './grammar-expansion';
 // Walkthroughs explain existing examples, not new CEFR coverage or extra questions.
 export const grammarWalkthrough:Record<string,[string,string]>={
 'aussprache':['في Schule الحروف sch مع بعض بتمثل صوت واحد قريب من ش. ركّز على المجموعة، مش كل حرف لوحده.','In Schule, sch represents one sound, close to English sh. Read the group rather than each letter separately.'],
@@ -42,3 +43,5 @@ export const grammarWalkthrough:Record<string,[string,string]>={
 'redewendungen':['drücke ... die Daumen تعبير تمني توفيق، مش وصف حرفي لضغط صوابع. dir للشخص اللي بنتمناله التوفيق.','Drücke ... die Daumen is an idiom wishing someone luck, not a literal report of pressing thumbs. Dir names the person wished luck.'],
 'dialekte-umgangssprache':['Moin تحية شمالية ومش مقصورة على الصبح. wie geht\'s اختصار عامي مألوف للسؤال عن الحال.','Moin is a northern greeting, not limited to mornings. Wie geht\'s is a familiar shortened way to ask how someone is.'],
 };
+
+Object.assign(grammarWalkthrough,expansionWalkthrough);
