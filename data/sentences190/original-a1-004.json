@@ -1,0 +1,4630 @@
+[
+  {
+    "id": "s190-a1-0962",
+    "de": "Dein Handy klingelt.",
+    "ar": "موبايلك بيرن.",
+    "en": "Your phone is ringing.",
+    "level": "A1",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "fe7f0b488a79ec6086c32b06948c383a03bb3cd170a5c8dbceb173d0a9ca78dd"
+    }
+  },
+  {
+    "id": "s190-a1-0963",
+    "de": "Ich habe das Klingeln nicht gehört.",
+    "ar": "أنا مسمعتش التليفون وهو بيرن.",
+    "en": "I didn't hear the phone ring.",
+    "level": "A2",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e2ba6c6d95c6c2c436285d2c6fd62bcde59181de4acfd7963898cacacb5f9a43"
+    }
+  },
+  {
+    "id": "s190-a1-0964",
+    "de": "Ich habe gerade keinen Empfang.",
+    "ar": "الشبكة مش لاقطة عندي دلوقتي.",
+    "en": "I don't have a signal right now.",
+    "level": "A2",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6d133412d1ef21bad5b9cab125c9e5c6dab92f992dbcd863357afb620035f558"
+    }
+  },
+  {
+    "id": "s190-a1-0965",
+    "de": "Die Verbindung bricht ständig ab.",
+    "ar": "الاتصال بيفصل كل شوية.",
+    "en": "The connection keeps dropping.",
+    "level": "A2",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ab2498219f2435a0cd84a2ff8e12955564bc526576187a29af376187212faf5a"
+    }
+  },
+  {
+    "id": "s190-a1-0966",
+    "de": "Ich kann dich kaum hören.",
+    "ar": "أنا سامعك بالعافية.",
+    "en": "I can barely hear you.",
+    "level": "A1",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f343c0ace1777049b96d1d26900e13de3ec2dc427de35f682625a15eb53011e2"
+    }
+  },
+  {
+    "id": "s190-a1-0967",
+    "de": "Bei dir ist es sehr laut im Hintergrund.",
+    "ar": "في دوشة كتير وراك.",
+    "en": "There's a lot of background noise where you are.",
+    "level": "A2",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "aa9a8e2406742bf6eadabd68fa86bab7bba1f5f0a868d26686b189928537f5b6"
+    }
+  },
+  {
+    "id": "s190-a1-0968",
+    "de": "Ich mache kurz die Kamera an.",
+    "ar": "هفتح الكاميرا لحظة.",
+    "en": "I'll turn on the camera for a moment.",
+    "level": "A1",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "18ae0a78e5cc210f122a6c3d35c4c6630a9aea7fffc5ee18586e3f924b475d95"
+    }
+  },
+  {
+    "id": "s190-a1-0969",
+    "de": "Du bist noch stummgeschaltet.",
+    "ar": "المايك عندك لسه مقفول.",
+    "en": "You're still muted.",
+    "level": "A2",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "74405f76562840dc7052b40cab120614c09b6a0d17be20b676affe4dc8459a9e"
+    }
+  },
+  {
+    "id": "s190-a1-0970",
+    "de": "Jetzt sehe ich dich.",
+    "ar": "دلوقتي أنا شايفك.",
+    "en": "I can see you now.",
+    "level": "A1",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d75aa94996d1739575e6b07a5ade9c9d81e1cefe1c1f1641738983074b46863a"
+    }
+  },
+  {
+    "id": "s190-a1-0971",
+    "de": "Ich habe deine Nachricht erst jetzt gelesen.",
+    "ar": "أنا لسه قاري رسالتك دلوقتي.",
+    "en": "I've only just read your message.",
+    "level": "A2",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "17f8ae3b4bd22d1629192f8041e085526f524563cdf2ac43633605e798e14aef"
+    }
+  },
+  {
+    "id": "s190-a1-0972",
+    "de": "Die Nachricht war nicht für mich.",
+    "ar": "الرسالة مكانتش ليا.",
+    "en": "The message wasn't for me.",
+    "level": "A1",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "796ace2c634979bafcbced2f3d485f66fe035f47b3c57e0c6cefde8ba02d92e0"
+    }
+  },
+  {
+    "id": "s190-a1-0973",
+    "de": "Ich habe dir die falsche Datei geschickt.",
+    "ar": "أنا بعتلك الملف الغلط.",
+    "en": "I sent you the wrong file.",
+    "level": "A2",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "de09a81225b6daa71992e1cc83dfeab6fa1e3767a5936fc9b4f265a484522d5c"
+    }
+  },
+  {
+    "id": "s190-a1-0974",
+    "de": "Der Anhang lässt sich nicht öffnen.",
+    "ar": "المرفق مش راضي يفتح.",
+    "en": "The attachment won't open.",
+    "level": "A2",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "172dc5e16d1b24859e88e70eba5940d2a0d1e85603ccc9e2d112906ee41ec1a1"
+    }
+  },
+  {
+    "id": "s190-a1-0975",
+    "de": "Kannst du mir die Datei als PDF schicken?",
+    "ar": "ممكن تبعتلي الملف بصيغة PDF؟",
+    "en": "Can you send me the file as a PDF?",
+    "level": "A2",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "981968e224eb3aaa3265efbe6dc4625fbf6e229b61fed1e1d535b9cd80deeb5a"
+    }
+  },
+  {
+    "id": "s190-a1-0976",
+    "de": "Ich speichere mir die Adresse ab.",
+    "ar": "هحفظ العنوان عندي.",
+    "en": "I'll save the address.",
+    "level": "A2",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a755ba9a6e86dc15fc4478af4ca8f9ae8412b3996a098ea2765c8ee4aa13693c"
+    }
+  },
+  {
+    "id": "s190-a1-0977",
+    "de": "Ich finde deine Telefonnummer nicht mehr.",
+    "ar": "مش لاقي رقم تليفونك دلوقتي.",
+    "en": "I can't find your phone number anymore.",
+    "level": "A1",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f517b762fab7bb36e367872df542b4f51ebe7a83bfd9306fc3753a8585d94c63"
+    }
+  },
+  {
+    "id": "s190-a1-0978",
+    "de": "Schreib mir bitte deine neue Nummer.",
+    "ar": "ابعتلي رقمك الجديد لو سمحت.",
+    "en": "Please send me your new number.",
+    "level": "A1",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "c7ba33b05555aca5be411afb81c5cbdeab6391ab6c2b13a7f6886819598b1c0c"
+    }
+  },
+  {
+    "id": "s190-a1-0979",
+    "de": "Ich habe meine Nummer gewechselt.",
+    "ar": "أنا غيرت رقمي.",
+    "en": "I've changed my number.",
+    "level": "A2",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "3a1624fd0503d537ad67cde5c587878e41a70c2af848ca4f66834ceef311d048"
+    }
+  },
+  {
+    "id": "s190-a1-0980",
+    "de": "Ich möchte nicht in diese Gruppe aufgenommen werden.",
+    "ar": "مش عايز حد يضيفني للجروب ده.",
+    "en": "I don't want to be added to this group.",
+    "level": "B1",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "faaa47ca0ff3b07dd29599a9f917667766f52c7ba858787f22ec75125f095c62"
+    }
+  },
+  {
+    "id": "s190-a1-0981",
+    "de": "Bitte leite meine Nachricht nicht weiter.",
+    "ar": "متبعتش رسالتي لحد تاني لو سمحت.",
+    "en": "Please don't forward my message.",
+    "level": "A2",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8002457abe39864509d6134b5023faf0e470a2664c123105998dc825a22e9d16"
+    }
+  },
+  {
+    "id": "s190-a1-0982",
+    "de": "Darf ich dich auf dem Foto markieren?",
+    "ar": "ممكن أعملك تاج في الصورة؟",
+    "en": "May I tag you in the photo?",
+    "level": "A2",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "4e08392dd0b0806048222f7477a3c268d96dd27da063199cd71941459f87377a"
+    }
+  },
+  {
+    "id": "s190-a1-0983",
+    "de": "Bitte frag mich vor dem Fotografieren.",
+    "ar": "اسألني قبل ما تصورني لو سمحت.",
+    "en": "Please ask me before taking my photo.",
+    "level": "A2",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "3fd78c0c43d79bba9d24d2257ca9914ca9581bccdd5053f6603207bf99b311ad"
+    }
+  },
+  {
+    "id": "s190-a1-0984",
+    "de": "Ich richte auf meinem Handy eine Erinnerung ein.",
+    "ar": "هعمل تذكير على الموبايل.",
+    "en": "I'll set a reminder on my phone.",
+    "level": "A2",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e50ea96d57de96b8e01535d32a8271f2f5edf4b808a74a8536d18b98d1a4d7aa"
+    }
+  },
+  {
+    "id": "s190-a1-0985",
+    "de": "Ich habe die Notiz aus Versehen gelöscht.",
+    "ar": "مسحت الملاحظة بالغلط.",
+    "en": "I accidentally deleted the note.",
+    "level": "A2",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a684dd602c88296c4a1b16503bcab61e27fab4a9d2ec6392bd571ba9056da48a"
+    }
+  },
+  {
+    "id": "s190-a1-0986",
+    "de": "Ich suche meinen Ausweis.",
+    "ar": "أنا بدور على بطاقتي.",
+    "en": "I'm looking for my ID.",
+    "level": "A1",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "bb324a4d87495a3be4a1e8f03acd753f83ecdef4b528e6d566023d1d4a2cd77a"
+    }
+  },
+  {
+    "id": "s190-a1-0987",
+    "de": "Mein Ausweis ist noch gültig.",
+    "ar": "بطاقتي لسه سارية.",
+    "en": "My ID is still valid.",
+    "level": "A2",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "7edf37469cc13215956fdcea1c9e00d1c2208053e4bad39fbdd9d6ef27576504"
+    }
+  },
+  {
+    "id": "s190-a1-0989",
+    "de": "Ich muss dieses Formular noch unterschreiben.",
+    "ar": "لسه لازم أمضي الاستمارة دي.",
+    "en": "I still need to sign this form.",
+    "level": "A2",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6408d23041769f4ec420398e211bd88c3948a41d48304d2bda9e4a61837152a4"
+    }
+  },
+  {
+    "id": "s190-a1-0990",
+    "de": "Ich habe meinen Namen falsch geschrieben.",
+    "ar": "أنا كتبت اسمي غلط.",
+    "en": "I wrote my name incorrectly.",
+    "level": "A2",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "eae4a88cc50adf60f5a383a8e843f3535b5743f020abcd2c2831cd531ad6383a"
+    }
+  },
+  {
+    "id": "s190-a1-0991",
+    "de": "Meine Tochter möchte ihren Geburtstag im Garten feiern.",
+    "ar": "بنتي عايزة تحتفل بعيد ميلادها في الجنينة.",
+    "en": "My daughter wants to celebrate her birthday in the garden.",
+    "level": "A1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "2ff3d8af954238e708fc46f752214a717f65343d6d29e8007be96b9d61185e47"
+    }
+  },
+  {
+    "id": "s190-a1-0992",
+    "de": "Wir haben die Einladungen schon verteilt.",
+    "ar": "إحنا وزعنا الدعوات خلاص.",
+    "en": "We've already handed out the invitations.",
+    "level": "A2",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e23a77ad8a096d541cb88496c3c507414b2d9b4ed2a4ded1a9615630c17523c3"
+    }
+  },
+  {
+    "id": "s190-a1-0993",
+    "de": "Wie viele Kinder kommen zur Feier?",
+    "ar": "كام طفل جاي الحفلة؟",
+    "en": "How many children are coming to the party?",
+    "level": "A1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "04c710f2a86583a9365df2cf2e3e1bf2a267ddd03f46f3d656dc6223fbac2828"
+    }
+  },
+  {
+    "id": "s190-a1-0994",
+    "de": "Ein Kind bringt seine kleine Schwester mit.",
+    "ar": "في طفل هيجيب أخته الصغيرة معاه.",
+    "en": "One child is bringing his little sister along.",
+    "level": "A2",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "5d04efe898b9581f83780f7228a84c21d791267a38046119698cb5821628e688"
+    }
+  },
+  {
+    "id": "s190-a1-0995",
+    "de": "Die Eltern bleiben auch dabei.",
+    "ar": "الأهالي هيفضلوا موجودين برضه.",
+    "en": "The parents are staying too.",
+    "level": "A1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "122c9fbaed8d3ae758f8480fc3771c5cd0fd121cc338f2dd697379a1157dfe26"
+    }
+  },
+  {
+    "id": "s190-a1-0996",
+    "de": "Wir stellen die Getränke auf einen extra Tisch.",
+    "ar": "هنحط المشروبات على ترابيزة لوحدها.",
+    "en": "We're putting the drinks on a separate table.",
+    "level": "A2",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ba8eff910bb72fee106a9203d91c9dfc00ee5d61def30da73b766a740c964814"
+    }
+  },
+  {
+    "id": "s190-a1-0997",
+    "de": "Der Geburtstagskuchen steht noch im Kühlschrank.",
+    "ar": "تورتة عيد الميلاد لسه في التلاجة.",
+    "en": "The birthday cake is still in the fridge.",
+    "level": "A1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6b751d21f629901259ee001764aeeb16efff1db3de0fa21ee0842a8d9f0b2e98"
+    }
+  },
+  {
+    "id": "s190-a1-0998",
+    "de": "Bitte zünde die Kerzen noch nicht an.",
+    "ar": "متولعش الشمع دلوقتي لو سمحت.",
+    "en": "Please don't light the candles yet.",
+    "level": "A2",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "65df74a82928d5a378219256c3a04896aa79ec6471e3301a2fde486fcc26a12c"
+    }
+  },
+  {
+    "id": "s190-a1-0999",
+    "de": "Das Geburtstagskind darf sich zuerst ein Spiel aussuchen.",
+    "ar": "صاحب عيد الميلاد من حقه يختار لعبة الأول.",
+    "en": "The birthday child gets to choose a game first.",
+    "level": "A2",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "3af1a9626948b16bf901005756c996d916469e00c22c6ab97a363e98909b91d7"
+    }
+  },
+  {
+    "id": "s190-a1-1000",
+    "de": "Alle Kinder bekommen eine kleine Überraschung.",
+    "ar": "كل طفل هياخد مفاجأة صغيرة.",
+    "en": "Each child is getting a little surprise.",
+    "level": "A1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "fa5831f9c06d225176fdbd7a36c65bb2f4870150cb3725f1e733bbe99caa8fee"
+    }
+  },
+  {
+    "id": "s190-a1-1001",
+    "de": "Wir brauchen kein großes Geschenk.",
+    "ar": "مش محتاجين هدية كبيرة.",
+    "en": "We don't need a big present.",
+    "level": "A1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8fed82bf7de171397f8e69201706df7081f2d07af36da734ac689e05269e9573"
+    }
+  },
+  {
+    "id": "s190-a1-1002",
+    "de": "Dein Besuch ist das schönste Geschenk.",
+    "ar": "زيارتك أحلى هدية.",
+    "en": "Your visit is the best present.",
+    "level": "A2",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "658188155f3ce7c13748cd12bf0063061cea483658eedc1544459ef9264a27e7"
+    }
+  },
+  {
+    "id": "s190-a1-1003",
+    "de": "Meine Schwester hat sich sehr über den Brief gefreut.",
+    "ar": "أختي فرحت أوي بالجواب.",
+    "en": "My sister was very pleased with the letter.",
+    "level": "A2",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "76797bb86b1b9bc9ec272abed1690fdd89e72b4cd1a03d23f3130e03a2879c4c"
+    }
+  },
+  {
+    "id": "s190-a1-1004",
+    "de": "Ich möchte mich bei meinem Bruder entschuldigen.",
+    "ar": "عايز أعتذر لأخويا.",
+    "en": "I want to apologize to my brother.",
+    "level": "A2",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6795ea1be1ded921c830b92322e4b12bb0047ce39659a51910b240c94abfb6e3"
+    }
+  },
+  {
+    "id": "s190-a1-1005",
+    "de": "Wir haben uns lange nicht gesehen.",
+    "ar": "إحنا بقالنا كتير مشفناش بعض.",
+    "en": "We haven't seen each other for a long time.",
+    "level": "A2",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "5956185afffd06202525c8129eb702698b1aac2819d6f81d5edaadec4f42ee89"
+    }
+  },
+  {
+    "id": "s190-a1-1006",
+    "de": "Du bist aber groß geworden!",
+    "ar": "إنت كبرت أوي!",
+    "en": "You've grown so much!",
+    "level": "A2",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "de143144b5cab82a92c91adbe9ffe1005734ea89b3e67a610210c2f1bad604e6"
+    }
+  },
+  {
+    "id": "s190-a1-1007",
+    "de": "Wie geht es deinem Vater inzwischen?",
+    "ar": "أخبار أبوك إيه دلوقتي؟",
+    "en": "How's your father doing now?",
+    "level": "A1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "5f9ba63af0e0c1dd0b0ed01206644a5043faa9a02846e4bd3292e9b1de1461e2"
+    }
+  },
+  {
+    "id": "s190-a1-1008",
+    "de": "Grüß deine Mutter bitte von mir.",
+    "ar": "سلملي على والدتك لو سمحت.",
+    "en": "Please give my regards to your mother.",
+    "level": "A2",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "29f2c02af1c47cbbea9c9e381236e7c5ebb102b280847c1e2ae63996bac9c8e4"
+    }
+  },
+  {
+    "id": "s190-a1-1009",
+    "de": "Meine Eltern lassen dich grüßen.",
+    "ar": "أهلي بيسلموا عليك.",
+    "en": "My parents send their regards.",
+    "level": "A2",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "386b78f913b1dc3da6ff45f1456f4084d4c3f1aea031af905e0d4dd4f1e2aaab"
+    }
+  },
+  {
+    "id": "s190-a1-1010",
+    "de": "Du kannst gern jemanden mitbringen.",
+    "ar": "ممكن تجيب حد معاك عادي.",
+    "en": "You're welcome to bring someone along.",
+    "level": "A1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "702fb73469e259259e45cd64cd0c8a312c16adc5cf0bebe32a539dd1bd681eb1"
+    }
+  },
+  {
+    "id": "s190-a1-1011",
+    "de": "Wir haben noch einen Platz am Tisch.",
+    "ar": "لسه عندنا مكان على السفرة.",
+    "en": "We have another place at the table.",
+    "level": "A1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e31b2d8f84290b3f6f3a1e3aefe48ab02d170010366cd9ee9f300843edac1f8f"
+    }
+  },
+  {
+    "id": "s190-a1-1012",
+    "de": "Die Kinder sitzen heute bei uns.",
+    "ar": "الأولاد هيقعدوا معانا النهارده.",
+    "en": "The children are sitting with us today.",
+    "level": "A1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "54be3da328f1dfee6785d1d541b97cd1e16c7f9d2b75053edfbba6bd17d25de5"
+    }
+  },
+  {
+    "id": "s190-a1-1013",
+    "de": "Mein Vater erzählt immer denselben Witz.",
+    "ar": "أبويا دايمًا بيحكي نفس النكتة.",
+    "en": "My father always tells the same joke.",
+    "level": "A2",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "da326e49809f8ea35d81bad6d57397561262317655d98b94a40dc57d2eabb18e"
+    }
+  },
+  {
+    "id": "s190-a1-1014",
+    "de": "Meine Mutter hat noch Fotos von meiner Schulzeit.",
+    "ar": "أمي لسه عندها صور ليا من أيام المدرسة.",
+    "en": "My mother still has photos from my school days.",
+    "level": "A1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "66faf118d62da0b34246bb80e25b1238c2e982c7f5192584e2e4437d67febcc9"
+    }
+  },
+  {
+    "id": "s190-a1-1015",
+    "de": "Ich erkenne den Bruder meines Vaters auf dem alten Foto kaum.",
+    "ar": "أنا بالعافية عارف أخو أبويا في الصورة القديمة.",
+    "en": "I can barely recognize my father's brother in the old photo.",
+    "level": "B1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8d93f86b22082f651a47e848d0c2b2eb3eb6d5ccfc31a0aaa2a7a24a19b4ccba"
+    }
+  },
+  {
+    "id": "s190-a1-1016",
+    "de": "Dieses Foto hat meine Großmutter gemacht.",
+    "ar": "جدتي هي اللي صورت الصورة دي.",
+    "en": "My grandmother took this photo.",
+    "level": "A2",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "091597dd464f0a4163137ad0848c296776c3e13e8e50df0d8e42eeb636e49f8a"
+    }
+  },
+  {
+    "id": "s190-a1-1017",
+    "de": "Das Album gehört meiner Schwester.",
+    "ar": "الألبوم ده بتاع أختي.",
+    "en": "The album belongs to my sister.",
+    "level": "A2",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d3a62fc18600fe2b7baa5a592f176fed08b0ff4209f17bb68406520cf4ef4089"
+    }
+  },
+  {
+    "id": "s190-a1-1018",
+    "de": "Ich habe das von meinem Vater gelernt.",
+    "ar": "أنا اتعلمت ده من أبويا.",
+    "en": "I learned that from my father.",
+    "level": "A2",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d6ea0a6d2e83fcc684e60ef8328f0eb1f6d5e9269d0292f795c8b39b82d8baa6"
+    }
+  },
+  {
+    "id": "s190-a1-1019",
+    "de": "Meine Familie unterstützt mich beim Lernen.",
+    "ar": "عيلتي بتدعمني في الدراسة.",
+    "en": "My family supports me with my studies.",
+    "level": "A2",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "27d673dd7561923f0addf4721d1418d50bbac404063a649a750476649f43a768"
+    }
+  },
+  {
+    "id": "s190-a1-1020",
+    "de": "Wir brauchen manchmal Zeit für uns allein.",
+    "ar": "إحنا ساعات بنحتاج وقت لنفسنا لوحدنا.",
+    "en": "We sometimes need time to ourselves.",
+    "level": "A1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "c8d07396c5dfa18956bb4898eb64a678c20de44b9a80ab486b15c9ac6b6f7bdd"
+    }
+  },
+  {
+    "id": "s190-a1-1021",
+    "de": "Ich esse das lieber mit einem Löffel.",
+    "ar": "أفضل آكل ده بمعلقة.",
+    "en": "I'd rather eat this with a spoon.",
+    "level": "A1",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "5ae2c801c064ca6cce7c9824a9a35e798dde9c552ad516ebc2d02e4fb016f644"
+    }
+  },
+  {
+    "id": "s190-a1-1022",
+    "de": "Ich brauche ein Brett zum Schneiden.",
+    "ar": "محتاج لوح تقطيع.",
+    "en": "I need a chopping board.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8719e1b1c1f5a3022bc88a256f990bff2f0f7492a5a654d1709b61646a560446"
+    }
+  },
+  {
+    "id": "s190-a1-1023",
+    "de": "Die Küchenrolle ist alle.",
+    "ar": "مناديل المطبخ خلصت.",
+    "en": "We've run out of paper towels.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8e7760974b408168a868a528ae96e54855271a9896bdd96b98e8f01c42690c7c"
+    }
+  },
+  {
+    "id": "s190-a1-1024",
+    "de": "Kannst du mir eine Schürze geben?",
+    "ar": "ممكن تديني مريلة مطبخ؟",
+    "en": "Can you give me an apron?",
+    "level": "A1",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "4575087e491a9f16e012470e73f18213f227acfa16239002026449c910d69a23"
+    }
+  },
+  {
+    "id": "s190-a1-1025",
+    "de": "Ich will meine Kleidung nicht schmutzig machen.",
+    "ar": "مش عايز أوسخ هدومي.",
+    "en": "I don't want to get my clothes dirty.",
+    "level": "A1",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "bb5a7f20668c5ead454d5a43f7d5f84793e4adbc13a3130534766e1c58776b6c"
+    }
+  },
+  {
+    "id": "s190-a1-1026",
+    "de": "Ich habe Wasser auf den Tisch verschüttet.",
+    "ar": "أنا دلقت مية على الترابيزة.",
+    "en": "I spilled water on the table.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "94045364c88248062b22cb72c364f7b7925ea05a4bf7c55ab28cf410105ff939"
+    }
+  },
+  {
+    "id": "s190-a1-1027",
+    "de": "Der Wasserkocher schaltet sich von selbst aus.",
+    "ar": "الكاتل بيفصل لوحده.",
+    "en": "The kettle switches itself off.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "203b98349f5f1f885c34235c3c173a82aab2fbfd552415f08912284d8c17909d"
+    }
+  },
+  {
+    "id": "s190-a1-1028",
+    "de": "Ich lasse den Tee ein paar Minuten ziehen.",
+    "ar": "بسيب الشاي ينقع كام دقيقة.",
+    "en": "I let the tea steep for a few minutes.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "4276f37fa3e4668029538ba875e84f4cf9c803f7c08a572e2715aec2d8d1a379"
+    }
+  },
+  {
+    "id": "s190-a1-1029",
+    "de": "Nimm den Teebeutel bitte heraus.",
+    "ar": "طلع كيس الشاي لو سمحت.",
+    "en": "Please take the tea bag out.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "9495589d8dd12b07be9f4f5957ace4f4816210be013c657b006a0398a73ac029"
+    }
+  },
+  {
+    "id": "s190-a1-1030",
+    "de": "Ich möchte meinen Tee mit frischer Minze.",
+    "ar": "عايز الشاي بتاعي بنعناع طازة.",
+    "en": "I'd like my tea with fresh mint.",
+    "level": "A1",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8cfa714ace703ec46008ccbebd3dc704ceaaa72e883eb7f50a47d32ce4d4a0d4"
+    }
+  },
+  {
+    "id": "s190-a1-1031",
+    "de": "Ich mache heute kalten Tee mit Zitrone.",
+    "ar": "هعمل شاي ساقع بالليمون النهارده.",
+    "en": "I'm making cold tea with lemon today.",
+    "level": "A1",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6f5b0d7914afba725726ae7ebe5021bc2e3563a47c4b4e7dc9aa69fbc8c703af"
+    }
+  },
+  {
+    "id": "s190-a1-1032",
+    "de": "Die Kanne reicht für vier Tassen.",
+    "ar": "البراد يكفي أربع كوبايات.",
+    "en": "The pot holds enough for four cups.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "78cabaebbdf5ab8c43d257ef78d7b835f9852182e70fb1a5bee1249e4ac6f94b"
+    }
+  },
+  {
+    "id": "s190-a1-1033",
+    "de": "Die Teekanne tropft.",
+    "ar": "براد الشاي بينقط.",
+    "en": "The teapot is dripping.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d02077a9fd71fd05766c913f6ce4f8a5ac62f9fefe7a44cdfef39cef71119704"
+    }
+  },
+  {
+    "id": "s190-a1-1034",
+    "de": "Ich nehme Zucker lieber separat.",
+    "ar": "أفضل آخد السكر لوحده.",
+    "en": "I'd prefer the sugar on the side.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "3add26abb65e5983bc3ebf2de447adf9473878a1647a801c38ec149c29decef6"
+    }
+  },
+  {
+    "id": "s190-a1-1035",
+    "de": "Ich rühre meinen Kaffee noch einmal um.",
+    "ar": "هقلب القهوة كمان مرة.",
+    "en": "I'll stir my coffee once more.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "c5f41f7d4c6190e70063c9677c03350daef902a8383e52df96f22ef91d29a188"
+    }
+  },
+  {
+    "id": "s190-a1-1036",
+    "de": "Auf dem Kaffee ist viel Schaum.",
+    "ar": "في وش رغوة كتير على القهوة.",
+    "en": "There's a lot of foam on the coffee.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f9b5b965d90c8c2ec283f5fa41cec419103a12bec1d680d6cffbe6695119a6d4"
+    }
+  },
+  {
+    "id": "s190-a1-1037",
+    "de": "Die Flasche lässt sich schwer öffnen.",
+    "ar": "الإزازة صعب تتفتح.",
+    "en": "The bottle is hard to open.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ae23136e33a5e7e45cb332c596ea2ea1c3fe202d957f641773ceeb42de954775"
+    }
+  },
+  {
+    "id": "s190-a1-1038",
+    "de": "Hast du einen Flaschenöffner?",
+    "ar": "عندك فتاحة إزازات؟",
+    "en": "Do you have a bottle opener?",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a85ddc0df0b3bd0cf962488f58479967631978bbdbc90e7d92c9f477fee6b4ef"
+    }
+  },
+  {
+    "id": "s190-a1-1039",
+    "de": "Der Verschluss ist noch versiegelt.",
+    "ar": "الغطا لسه مختوم.",
+    "en": "The cap is still sealed.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ce4ced2da537e116a2bc73bb63fbb3bb1c7e0cb427763b210039375117b80bf9"
+    }
+  },
+  {
+    "id": "s190-a1-1040",
+    "de": "Ich trinke lieber aus einem Glas als aus der Flasche.",
+    "ar": "أفضل أشرب في كوباية مش من الإزازة.",
+    "en": "I prefer drinking from a glass to drinking from the bottle.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "df7a5587edb99aadab4245b0cc71ffec23b543c2c2d40b192b3598db32aff3c5"
+    }
+  },
+  {
+    "id": "s190-a1-1041",
+    "de": "Der Joghurt ist natur, ohne Früchte.",
+    "ar": "الزبادي سادة، من غير فاكهة.",
+    "en": "The yogurt is plain, without fruit.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f4d241978a958c71c79e105416300104b88af77546e2e119d70ef9d9f0a68070"
+    }
+  },
+  {
+    "id": "s190-a1-1042",
+    "de": "Ich mische Haferflocken mit Joghurt.",
+    "ar": "بخلط شوفان مع زبادي.",
+    "en": "I mix oats with yogurt.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e7f9b58033c4886e1a58f8c94d183ec9a4a687378b99ebdb23371352e1ec1019"
+    }
+  },
+  {
+    "id": "s190-a1-1043",
+    "de": "Ich streue etwas Zimt über den Joghurt.",
+    "ar": "برش شوية قرفة على الزبادي.",
+    "en": "I sprinkle some cinnamon over the yogurt.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "5c4d3eba8bb781ba9e47f658094cd771d3157c3aa7e171541d93f6f578205040"
+    }
+  },
+  {
+    "id": "s190-a1-1044",
+    "de": "Die Schokolade ist geschmolzen.",
+    "ar": "الشوكولاتة ساحت.",
+    "en": "The chocolate has melted.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "af7234c79b18c92873997c75d7ef0add59ed704107e8a1e5b94f781899f34e10"
+    }
+  },
+  {
+    "id": "s190-a1-1045",
+    "de": "Die Eiscreme tropft auf meine Hand.",
+    "ar": "الآيس كريم بينقط على إيدي.",
+    "en": "The ice cream is dripping onto my hand.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "33f11d40c171deb4a73fd056163d51a4d10cf797b309dab7748018f3d52ed2b7"
+    }
+  },
+  {
+    "id": "s190-a1-1046",
+    "de": "Bei Eis nehme ich lieber ein Hörnchen als einen Becher.",
+    "ar": "في الآيس كريم، أفضل البسكوتة بدل الكوباية.",
+    "en": "I'd rather have a cone than a cup.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "fbbaf4bf56da2ae4f707c06599f55024aa5f57d0b0e3f151afe2af61994a50a0"
+    }
+  },
+  {
+    "id": "s190-a1-1047",
+    "de": "Ich möchte keine Streusel auf meinem Eis.",
+    "ar": "مش عايز حبيبات تزيين على الآيس كريم.",
+    "en": "I don't want sprinkles on my ice cream.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "b37f8178a67f863dba19a8aac7937fc5bd61239becbdcd93c96ebac82f610086"
+    }
+  },
+  {
+    "id": "s190-a1-1048",
+    "de": "Ich möchte erst ein kleines Stück probieren.",
+    "ar": "عايز أدوق حتة صغيرة الأول.",
+    "en": "I'd like to taste a small piece first.",
+    "level": "A1",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "95fd630f1b1577655f63e18e3d99636113d5219341731e08233a81134dc250c1"
+    }
+  },
+  {
+    "id": "s190-a1-1049",
+    "de": "Diesen Geschmack kenne ich noch nicht.",
+    "ar": "الطعم ده جديد عليا.",
+    "en": "This flavor is new to me.",
+    "level": "A1",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ac077be0efd3fc2cc449c4fce043b83f681171c3a076bae76ff4bc754debbda2"
+    }
+  },
+  {
+    "id": "s190-a1-1050",
+    "de": "Das ist genau richtig gewürzt.",
+    "ar": "التتبيلة دي مظبوطة بالظبط.",
+    "en": "This is seasoned just right.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "4376b0e52fa22ccfbe7adaffba8f7930c685298b3837c5a0168b34715270ddb0"
+    }
+  },
+  {
+    "id": "s190-a1-1051",
+    "de": "Ich brauche einen Ordner für meine Unterlagen.",
+    "ar": "محتاج دوسيه للورق بتاعي.",
+    "en": "I need a folder for my documents.",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d6be7e49b70d26167eabedd019d6de75cec662c2438487c4897901475677ebb8"
+    }
+  },
+  {
+    "id": "s190-a1-1052",
+    "de": "Ich suche ein Heft mit Linien.",
+    "ar": "بدور على كشكول مسطر.",
+    "en": "I'm looking for a lined exercise book.",
+    "level": "A1",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "cb9c0096f9cdc5f168a7fea3d96c749f06e71048aea26604279cff6febfc4a39"
+    }
+  },
+  {
+    "id": "s190-a1-1053",
+    "de": "Haben Sie Papier im Format A4?",
+    "ar": "عندك ورق مقاس A4؟",
+    "en": "Do you have A4 paper?",
+    "level": "A1",
+    "topic": "shopping",
+    "register": "polite",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f48aea15d51222513dfcf2039599c5d6acdc590843be80566f56f7fba40afc05"
+    }
+  },
+  {
+    "id": "s190-a1-1054",
+    "de": "Der Stift schreibt nicht.",
+    "ar": "القلم مش بيكتب.",
+    "en": "The pen doesn't write.",
+    "level": "A1",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "5275553c76e06e3b57d7bef75170c8e5a876e0458c4d3033a4684f9c9623e4de"
+    }
+  },
+  {
+    "id": "s190-a1-1055",
+    "de": "Kann ich eine neue Mine für diesen Stift kaufen?",
+    "ar": "ممكن أشتري غيار للقلم ده؟",
+    "en": "Can I buy a refill for this pen?",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6cde83c8d996ed7f460ff827c93ac93cefc48c1da1c3704f603d6053b596a2ec"
+    }
+  },
+  {
+    "id": "s190-a1-1056",
+    "de": "Ich möchte einen Bleistift mit Radiergummi.",
+    "ar": "عايز قلم رصاص بأستيكة.",
+    "en": "I'd like a pencil with an eraser.",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ea699587d293250d6afc8f8d3ffbed9623591d9b8266ed75ef68d8c93ee8dc3f"
+    }
+  },
+  {
+    "id": "s190-a1-1057",
+    "de": "Ich brauche Klebeband für ein Paket.",
+    "ar": "محتاج شريط لزق لطرد.",
+    "en": "I need tape for a package.",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "73c3f0b6e1e332fcb82a0c103ec11c881b5e10470fbc3a3abe64edcfdc42d194"
+    }
+  },
+  {
+    "id": "s190-a1-1058",
+    "de": "Wo finde ich Geschenkpapier?",
+    "ar": "ألاقي ورق الهدايا فين؟",
+    "en": "Where can I find wrapping paper?",
+    "level": "A1",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ab88ab40da188402d3aa62876e7736f2bd9e38b796d74d94c7506636eccad7df"
+    }
+  },
+  {
+    "id": "s190-a1-1059",
+    "de": "Ich suche einen einfachen Bilderrahmen.",
+    "ar": "بدور على برواز بسيط.",
+    "en": "I'm looking for a simple picture frame.",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e6395f1989c9a437f5aed3c8306729402fc89b321e84b1cb533ddc3ed1ac913b"
+    }
+  },
+  {
+    "id": "s190-a1-1060",
+    "de": "Passt ein Foto in diesem Format in den Rahmen?",
+    "ar": "صورة بالمقاس ده تدخل في البرواز؟",
+    "en": "Will a photo of this size fit in the frame?",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "5f20622d6c92e89e68a4133bf947cbd74e74c62d96706e6ac48e491df98512b4"
+    }
+  },
+  {
+    "id": "s190-a1-1061",
+    "de": "Kann ich den Rahmen auch aufstellen?",
+    "ar": "ينفع أحط البرواز واقف كمان؟",
+    "en": "Can the frame also stand on a surface?",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "95259c8a28e56625585e0716c0df3102f7b5ae5b1a4f864c890d0f969e3998b7"
+    }
+  },
+  {
+    "id": "s190-a1-1062",
+    "de": "Ich brauche einen Topf mit Deckel.",
+    "ar": "محتاج حلة بغطا.",
+    "en": "I need a pot with a lid.",
+    "level": "A1",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "40c68369e8adc6b42ffbbdf1d8e5ddcecc70ef482059407f4af23b2437c86c63"
+    }
+  },
+  {
+    "id": "s190-a1-1063",
+    "de": "Ist diese Pfanne für meinen Herd geeignet?",
+    "ar": "الطاسة دي تنفع للبوتاجاز بتاعي؟",
+    "en": "Is this pan suitable for my stove?",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0df8e61d41dc16a34a14e42cafa847538b7234d6feb4705a2857313c44a6959f"
+    }
+  },
+  {
+    "id": "s190-a1-1064",
+    "de": "Darf die Tasse in die Spülmaschine?",
+    "ar": "ينفع أحط الكوباية في غسالة المواعين؟",
+    "en": "Is the cup dishwasher-safe?",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "49aba893cfa39789ec063ee1c3b3f837656fddb4d756795ac2ae139c79f0d04f"
+    }
+  },
+  {
+    "id": "s190-a1-1065",
+    "de": "Ich möchte die Gläser einzeln kaufen.",
+    "ar": "عايز أشتري الكوبايات بالواحدة.",
+    "en": "I'd like to buy the glasses individually.",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f2f24e0012b0b987b8fbf180506a89c443dfbc9917893beab19db9bf494266a4"
+    }
+  },
+  {
+    "id": "s190-a1-1066",
+    "de": "Verkaufen Sie auch Ersatzdeckel?",
+    "ar": "بتبيعوا أغطية بديلة كمان؟",
+    "en": "Do you also sell replacement lids?",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "polite",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6aafd58f4f7dcb89bb8c56b6d9e681ebcadefeddd8476a27aabdf6b873621599"
+    }
+  },
+  {
+    "id": "s190-a1-1067",
+    "de": "Ich brauche eine Schere für Papier.",
+    "ar": "محتاج مقص للورق.",
+    "en": "I need scissors for paper.",
+    "level": "A1",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "038306ecb7b4e5c4c0a8906781a7f468ae2ed6aa217b25539fe35c7d09d8bf4e"
+    }
+  },
+  {
+    "id": "s190-a1-1068",
+    "de": "Dieser Kleber ist für Holz.",
+    "ar": "الصمغ ده للخشب.",
+    "en": "This glue is for wood.",
+    "level": "A1",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6df8b37a2cb659a116e87968325f3f1e25873feea92f1503b4d9463cff00d294"
+    }
+  },
+  {
+    "id": "s190-a1-1069",
+    "de": "Gibt es das auch ohne Duft?",
+    "ar": "في من ده من غير ريحة؟",
+    "en": "Is this also available without fragrance?",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "3b30514431051ab4244beacde3b56e1dbd077c59fa75bd144a238af7ed3a5f47"
+    }
+  },
+  {
+    "id": "s190-a1-1070",
+    "de": "Ich suche Waschmittel für bunte Kleidung.",
+    "ar": "بدور على مسحوق للهدوم الألوان.",
+    "en": "I'm looking for detergent for colored clothes.",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "4ead2b1083a216c6b2890498ececa06e4a5987f5aafe16a32952c1f12782e36f"
+    }
+  },
+  {
+    "id": "s190-a1-1071",
+    "de": "Ist dieser Behälter nachfüllbar?",
+    "ar": "العلبة دي بتتملي تاني؟",
+    "en": "Is this container refillable?",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a5295cc9e50aa32dad487bdf4c804fdbf64409fc71f84ed5231be57a4d8e3ec4"
+    }
+  },
+  {
+    "id": "s190-a1-1072",
+    "de": "Ich möchte möglichst wenig Plastik kaufen.",
+    "ar": "عايز أشتري أقل بلاستيك ممكن.",
+    "en": "I want to buy as little plastic as possible.",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "9d83b6c3a652d18d700aaad540562532d251e6e9cf39a0b0d74c97a1256d06b5"
+    }
+  },
+  {
+    "id": "s190-a1-1073",
+    "de": "Kann ich meinen eigenen Behälter mitbringen?",
+    "ar": "ينفع أجيب العلبة بتاعتي؟",
+    "en": "Can I bring my own container?",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f44a119af292471bc7fc687aa6c1916a663d99a8501e4ce3c090e0718732a6e6"
+    }
+  },
+  {
+    "id": "s190-a1-1074",
+    "de": "Die kleinere Packung ist pro Kilo teurer.",
+    "ar": "العبوة الصغيرة أغلى لما نحسب سعر الكيلو.",
+    "en": "The smaller pack costs more per kilo.",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "3ef18b1dcc6f782da65fed24dfc59f8460e4aa1c0352eb75b96fe6cc61ee9ab8"
+    }
+  },
+  {
+    "id": "s190-a1-1075",
+    "de": "Das Angebot gilt nur mit Kundenkarte.",
+    "ar": "العرض ساري بكارت العملاء بس.",
+    "en": "The offer is only valid with a loyalty card.",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6de7406ee5996dee08622604e58797a245d7d4fd8b41509003b9fabd1165ac61"
+    }
+  },
+  {
+    "id": "s190-a1-1076",
+    "de": "Ich möchte keinen Ratenkauf.",
+    "ar": "مش عايز أشتري بالتقسيط.",
+    "en": "I don't want to buy in installments.",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "078e593aabaa8a145c1e193b1e8b697fcf56a5b438c5af993babc6a830afcd80"
+    }
+  },
+  {
+    "id": "s190-a1-1077",
+    "de": "Kann ich den Gesamtpreis sehen?",
+    "ar": "ممكن أشوف السعر الإجمالي؟",
+    "en": "Can I see the total price?",
+    "level": "A1",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "51147bcda0619bf4eac3f796e4236bb36b0bb256afc4874d5a1e96e8739ff8ed"
+    }
+  },
+  {
+    "id": "s190-a1-1078",
+    "de": "Kommen noch Gebühren dazu?",
+    "ar": "في رسوم تانية هتتضاف؟",
+    "en": "Are there any additional fees?",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "b257de809ce98b298028ecf05b86596a43d63258226f9350e968533c1af003ed"
+    }
+  },
+  {
+    "id": "s190-a1-1079",
+    "de": "Ich möchte nichts unterschreiben, bevor ich den Preis kenne.",
+    "ar": "مش عايز أمضي حاجة قبل ما أعرف السعر.",
+    "en": "I don't want to sign anything before I know the price.",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0dc006fd0521ccf33fcbdf9ff91ca203609e7ded059a4aa6838d14c39ed67bae"
+    }
+  },
+  {
+    "id": "s190-a1-1080",
+    "de": "Danke, ich kaufe heute nichts.",
+    "ar": "شكرًا، مش هشتري حاجة النهارده.",
+    "en": "Thanks, I'm not buying anything today.",
+    "level": "A1",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "1930d5f4b6c34c22754495ee2835a52adef9c1ca8232ccb8786af20e5f3bcae6"
+    }
+  },
+  {
+    "id": "s190-a1-1081",
+    "de": "Ich plane für den Weg eine Stunde ein.",
+    "ar": "أنا عامل حسابي على ساعة للمشوار.",
+    "en": "I'm allowing an hour for the journey.",
+    "level": "A2",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "56662ddee0f9765bb1021119b014238483e481af3a6e865b354e6992de8c0602"
+    }
+  },
+  {
+    "id": "s190-a1-1082",
+    "de": "Wir haben noch etwas Zeit übrig.",
+    "ar": "لسه فاضل معانا شوية وقت.",
+    "en": "We still have some time left.",
+    "level": "A2",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "55d304fe2e7dcdaec0a81fd07b1760797ecf2a00c4242c87b4dd5a55983913b4"
+    }
+  },
+  {
+    "id": "s190-a1-1083",
+    "de": "Ich habe nicht auf die Uhr geachtet.",
+    "ar": "أنا مخدتش بالي من الساعة.",
+    "en": "I didn't keep an eye on the time.",
+    "level": "A2",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "34462db9bca7a62ff16c406135fd91ae697ba0a5fa3709d44492d0b80d1ba0cd"
+    }
+  },
+  {
+    "id": "s190-a1-1084",
+    "de": "Die Zeit vergeht heute langsam.",
+    "ar": "الوقت بيعدي ببطء النهارده.",
+    "en": "Time is passing slowly today.",
+    "level": "A2",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "2ab99932ac1bd87ee1fa9d10812fbbf3ca459252dbd835cb3d129ca7a3a87f44"
+    }
+  },
+  {
+    "id": "s190-a1-1085",
+    "de": "Die Stunde war schnell vorbei.",
+    "ar": "الساعة عدت بسرعة.",
+    "en": "The hour went by quickly.",
+    "level": "A1",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "bd71968320a1087f9a6f3cd547e59737d5c0466fcd13706d10df48d99dc19fee"
+    }
+  },
+  {
+    "id": "s190-a1-1086",
+    "de": "Ich brauche keine feste Uhrzeit.",
+    "ar": "مش محتاج ساعة محددة.",
+    "en": "I don't need an exact time.",
+    "level": "A2",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "23a05167892cedddcaa523971be38dc9e0557113c284880d7649c51e260ac04a"
+    }
+  },
+  {
+    "id": "s190-a1-1087",
+    "de": "Sag mir bitte wenigstens den Wochentag.",
+    "ar": "قولي يوم إيه في الأسبوع على الأقل لو سمحت.",
+    "en": "Please at least tell me the day of the week.",
+    "level": "A2",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "3b0c496edf534669532dc405a601bb8a9fdf7a215f8befd5d09dee689636441b"
+    }
+  },
+  {
+    "id": "s190-a1-1088",
+    "de": "Ich verwechsle manchmal März und Mai.",
+    "ar": "ساعات بلخبط بين مارس ومايو.",
+    "en": "I sometimes mix up March and May.",
+    "level": "A2",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0f75ddb6dfa3d22e8e5439ce7deefc76cb6e8620727828dd6b6aef193bf5e8b8"
+    }
+  },
+  {
+    "id": "s190-a1-1089",
+    "de": "Das Datum steht oben rechts.",
+    "ar": "التاريخ مكتوب فوق على اليمين.",
+    "en": "The date is written at the top right.",
+    "level": "A1",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d83d2681c07db3f346a2161c97a61f4a8abbd4919603662dae2a9ccd26626752"
+    }
+  },
+  {
+    "id": "s190-a1-1090",
+    "de": "Bitte schreib das Jahr dazu.",
+    "ar": "اكتب السنة كمان لو سمحت.",
+    "en": "Please include the year.",
+    "level": "A2",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "fea45a2ed37586ebc3b2b8624eabb37298f033da82a31e18db055816f21e12d4"
+    }
+  },
+  {
+    "id": "s190-a1-1091",
+    "de": "Die Uhrzeit ist im 24-Stunden-Format angegeben.",
+    "ar": "الساعة مكتوبة بنظام 24 ساعة.",
+    "en": "The time is given in 24-hour format.",
+    "level": "A2",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e8514c33fd5cecdb4a610f1d6298811f1d8bc3589cf72b0f5e119c734cb40740"
+    }
+  },
+  {
+    "id": "s190-a1-1092",
+    "de": "Ich meine sieben Uhr abends, nicht morgens.",
+    "ar": "أنا أقصد سبعة بالليل، مش الصبح.",
+    "en": "I mean seven in the evening, not the morning.",
+    "level": "A1",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0d66a1b4300419e3c2d5a21621319ab9cf7a7c2299222c16bbc24892559cef6b"
+    }
+  },
+  {
+    "id": "s190-a1-1093",
+    "de": "Wir treffen uns nach deiner Pause.",
+    "ar": "هنتقابل بعد راحتك.",
+    "en": "We're meeting after your break.",
+    "level": "A1",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "2fffd247007e33bdbbae34960223a0a430d4cad8ea492fdf0fcbfbc1892f101d"
+    }
+  },
+  {
+    "id": "s190-a1-1094",
+    "de": "Ich kann nur außerhalb der Schulferien kommen.",
+    "ar": "أقدر آجي بس في غير أجازات المدارس.",
+    "en": "I can only come outside the school holidays.",
+    "level": "A2",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f7840180adaf51a9eb9d3d097d83714bb58b30729e834243304e1b5facfd5df7"
+    }
+  },
+  {
+    "id": "s190-a1-1095",
+    "de": "Am Wochenende gelten andere Öffnungszeiten.",
+    "ar": "في الويك إند مواعيد الفتح مختلفة.",
+    "en": "Different opening hours apply on weekends.",
+    "level": "A2",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8250d463815a3009f4365700f8a010adfa207dbf17d4a7c224726b45b9e60f05"
+    }
+  },
+  {
+    "id": "s190-a1-1096",
+    "de": "Der Termin steht noch nicht fest.",
+    "ar": "المعاد لسه متحددش.",
+    "en": "The appointment is not fixed yet.",
+    "level": "A2",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "7ecc04ef11cf5043e429da849f7d9c45f6285deff5ed8fd2728c6b7aa692b55e"
+    }
+  },
+  {
+    "id": "s190-a1-1097",
+    "de": "Wir legen die Reihenfolge später fest.",
+    "ar": "هنحدد الترتيب بعدين.",
+    "en": "We'll decide the order later.",
+    "level": "A2",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f00510e973e741e5bbf68e885be3fc163f8c94e0d336de2439e38ce6394c2189"
+    }
+  },
+  {
+    "id": "s190-a1-1098",
+    "de": "Ich bin als Letzter an der Reihe.",
+    "ar": "أنا دوري آخر واحد.",
+    "en": "I'm the last to have a turn.",
+    "level": "A2",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "dffec0353b2a7d7403a18751b8ac0f935a66ee966dbfebb08c1de710db81e554"
+    }
+  },
+  {
+    "id": "s190-a1-1099",
+    "de": "Die erste Hälfte war einfacher.",
+    "ar": "النص الأول كان أسهل.",
+    "en": "The first half was easier.",
+    "level": "A2",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "9faf43d2d5eb39fff2989f08586a4928369c92b022ba303aa8a86bd803283b40"
+    }
+  },
+  {
+    "id": "s190-a1-1100",
+    "de": "Wir haben mehr als genug Stühle.",
+    "ar": "عندنا كراسي أكتر من اللي محتاجينه.",
+    "en": "We have more than enough chairs.",
+    "level": "A1",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "c7dbf3b003a1bf86f1fe6be4d309bfb659f41a002a678a4bbd69703b1edfc700"
+    }
+  },
+  {
+    "id": "s190-a1-1101",
+    "de": "Es gibt weniger Tassen als Teller.",
+    "ar": "عدد الكوبايات أقل من الأطباق.",
+    "en": "There are fewer cups than plates.",
+    "level": "A2",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "5a97aab5cd9d5c88e03dc9ab47b206a655751c6851933a514e7225e3b51a19ef"
+    }
+  },
+  {
+    "id": "s190-a1-1102",
+    "de": "Nimm bitte genauso viel wie ich.",
+    "ar": "خد نفس الكمية اللي أنا أخدتها لو سمحت.",
+    "en": "Please take the same amount as me.",
+    "level": "A2",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "7b181586f13b7aaa6ffb41f919423105428830c6717a54274a9678f21c3ea41f"
+    }
+  },
+  {
+    "id": "s190-a1-1103",
+    "de": "Von dieser Sorte ist nur wenig übrig.",
+    "ar": "فاضل من النوع ده كمية قليلة بس.",
+    "en": "There's only a little of this variety left.",
+    "level": "A2",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8d08a8646eb94af1b3b3ed29bc6fb607481db1975ae836e0154376aeda7a5b9f"
+    }
+  },
+  {
+    "id": "s190-a1-1104",
+    "de": "Die beiden Kisten sind gleich schwer.",
+    "ar": "الصندوقين نفس الوزن.",
+    "en": "The two boxes weigh the same.",
+    "level": "A1",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d00c38d025b3618baff11136042bcb9b3cfd17a95474e72174cbae78586d47a8"
+    }
+  },
+  {
+    "id": "s190-a1-1105",
+    "de": "Dieser Karton ist leichter, als er aussieht.",
+    "ar": "الكرتونة دي أخف من شكلها.",
+    "en": "This box is lighter than it looks.",
+    "level": "B1",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8edd8c060a08a9550fadf66d57fd84881f5d02ddb26795b83f2c61bfa875cf35"
+    }
+  },
+  {
+    "id": "s190-a1-1106",
+    "de": "Das ist ungefähr ein Drittel der Menge.",
+    "ar": "ده حوالي تلت الكمية.",
+    "en": "That's about a third of the amount.",
+    "level": "A2",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f72d829e60911fae4ccafeb306da1b17158626f78a278ad0ff3fd372815a3289"
+    }
+  },
+  {
+    "id": "s190-a1-1107",
+    "de": "Es fehlt nur noch ein kleiner Rest.",
+    "ar": "مش فاضل غير جزء صغير.",
+    "en": "Only a small part is still missing.",
+    "level": "A2",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "657e1c02292de03ed03a559295a8a8e68a4c38c607807ad5d7e8852490f40b11"
+    }
+  },
+  {
+    "id": "s190-a1-1108",
+    "de": "Der Behälter ist nicht ganz voll.",
+    "ar": "العلبة مش مليانة للآخر.",
+    "en": "The container isn't completely full.",
+    "level": "A1",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "7e7b2679f6a1ff4eb55abf07a4f700f81b9fdf81c4a81605fa83f2eb88e43165"
+    }
+  },
+  {
+    "id": "s190-a1-1109",
+    "de": "Wir zählen die Kinder vor dem Losgehen.",
+    "ar": "بنعِدّ الأطفال قبل ما نمشي.",
+    "en": "We count the children before leaving.",
+    "level": "A2",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0d233ac541e55efe3242f0d52ffe8a4f9015da278ffc8b42eeb70bc021138c1b"
+    }
+  },
+  {
+    "id": "s190-a1-1110",
+    "de": "Ich habe mich beim Zählen vertan.",
+    "ar": "أنا غلطت في العد.",
+    "en": "I made a mistake while counting.",
+    "level": "A2",
+    "topic": "time-and-quantities",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d1aaef5798e52fb1dc18dbae8b265eab04e03011cf6096d13753546900e7365b"
+    }
+  },
+  {
+    "id": "s190-a1-1111",
+    "de": "Ich lege einen Ersatzschlüssel bei meiner Schwester ab.",
+    "ar": "هسيب مفتاح احتياطي عند أختي.",
+    "en": "I'll leave a spare key with my sister.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "edab03a42e2de17f67c59051471f181af287ace84962f9e9de1ac0e2a6c6f075"
+    }
+  },
+  {
+    "id": "s190-a1-1112",
+    "de": "Ich habe den Namen am Briefkasten geändert.",
+    "ar": "أنا غيرت الاسم على صندوق البريد.",
+    "en": "I changed the name on the mailbox.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e47aa06f297653debadae6c7319bda4f8a4814f15095635b3c336019e8b57bbd"
+    }
+  },
+  {
+    "id": "s190-a1-1113",
+    "de": "Der Bewegungsmelder schaltet das Licht ein.",
+    "ar": "حساس الحركة بيشغل النور.",
+    "en": "The motion sensor turns on the light.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "cf92eda098d7e450fb58b5041d74afeb911ff478fddb1238d0c5d5ed59276acd"
+    }
+  },
+  {
+    "id": "s190-a1-1114",
+    "de": "Das Licht im Treppenhaus geht nach kurzer Zeit aus.",
+    "ar": "نور السلم بيطفي بعد وقت قصير.",
+    "en": "The stairwell light goes off after a short time.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "518b87f40a375848a7a7835e1741de7de18dc73dd149af9c9295ce2b48520ded"
+    }
+  },
+  {
+    "id": "s190-a1-1115",
+    "de": "Die Glastür ist schwer zu sehen.",
+    "ar": "الباب الإزاز صعب يتشاف.",
+    "en": "The glass door is hard to see.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "812e17ceb900f7929ebf936599c0709b09e1ebb350a998ca3dbd1617100dddfb"
+    }
+  },
+  {
+    "id": "s190-a1-1116",
+    "de": "Bitte wisch deine Füße auf der Matte ab.",
+    "ar": "امسح رجليك في الدواسة لو سمحت.",
+    "en": "Please wipe your feet on the mat.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "92387cc81aeb90ff8310568fe672b133516ee802e38377b399966fbcb963a822"
+    }
+  },
+  {
+    "id": "s190-a1-1117",
+    "de": "Ich lege eine Decke über das Sofa.",
+    "ar": "بحط غطا على الكنبة.",
+    "en": "I'm putting a cover over the sofa.",
+    "level": "A1",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0c47bb06dccf6ba9e9f35f630c2edf52f4e8cc766eb0372f06f39ad2a6d5ea5c"
+    }
+  },
+  {
+    "id": "s190-a1-1118",
+    "de": "Der Bezug lässt sich abnehmen.",
+    "ar": "الكسوة بتتفك.",
+    "en": "The cover is removable.",
+    "level": "B1",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6f3971f40a7ba23327c131f3d786c48e6325fb03cc8c1a70f83e8cb77c54ecb9"
+    }
+  },
+  {
+    "id": "s190-a1-1119",
+    "de": "Die Kissenbezüge kommen in die Wäsche.",
+    "ar": "أكياس المخدات هتدخل الغسيل.",
+    "en": "The cushion covers are going in the wash.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6cec582decff9824a912b60ed877884d27765c1817910e681e814fee64b81d99"
+    }
+  },
+  {
+    "id": "s190-a1-1120",
+    "de": "Ich drehe die Matratze um.",
+    "ar": "أنا بقلب المرتبة.",
+    "en": "I'm turning the mattress over.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "c53e26dcfa1cec5a238d8482ab14d61afcfcf6b262a2ba57e6597fbc7ab24375"
+    }
+  },
+  {
+    "id": "s190-a1-1121",
+    "de": "Das Bett quietscht bei jeder Bewegung.",
+    "ar": "السرير بيزيق مع كل حركة.",
+    "en": "The bed squeaks with every movement.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8afda2ea99a28aac96666e7c29e1a247087cb2555dcb55047fe3e3b0c95f8e36"
+    }
+  },
+  {
+    "id": "s190-a1-1122",
+    "de": "Ich brauche noch einen Nachttisch.",
+    "ar": "لسه محتاج كومودينو.",
+    "en": "I still need a bedside table.",
+    "level": "A1",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "36eadc0f9772a1512100cf6c2a1c0671937803c977e5eddaa0a08fdadb004c5d"
+    }
+  },
+  {
+    "id": "s190-a1-1123",
+    "de": "Auf dem Nachttisch liegt eine Taschenlampe.",
+    "ar": "في كشاف على الكومودينو.",
+    "en": "There's a flashlight on the bedside table.",
+    "level": "A1",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "bccd2cd6c78baf10bddae2e8eb5dc6edbed2bbb9f015c5c2ad53043a90950762"
+    }
+  },
+  {
+    "id": "s190-a1-1124",
+    "de": "Die Leselampe ist zu hell.",
+    "ar": "أباجورة القراية نورها قوي زيادة.",
+    "en": "The reading lamp is too bright.",
+    "level": "A1",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a7517c5e66e5ae5299c25a9960dfe16bec0d9397d77e8c52029a7666aef8b9b6"
+    }
+  },
+  {
+    "id": "s190-a1-1125",
+    "de": "Ich kann das Licht vom Bett aus ausschalten.",
+    "ar": "أقدر أطفي النور وأنا على السرير.",
+    "en": "I can switch off the light from bed.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e59f9bfda3c7b21364f61294ac8c7afce1f1cc05500980ef620a6b93ac4b1936"
+    }
+  },
+  {
+    "id": "s190-a1-1126",
+    "de": "Der Vorhang hängt schief.",
+    "ar": "الستارة متعلقة معووجة.",
+    "en": "The curtain is hanging crookedly.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "273c8b5b34e8829c4192f3dd2f1001c91ad6a2479cfdb209bc9eec880dfcdb7e"
+    }
+  },
+  {
+    "id": "s190-a1-1127",
+    "de": "Die Gardinenstange ist heruntergefallen.",
+    "ar": "ماسورة الستارة وقعت.",
+    "en": "The curtain rod has fallen down.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "67d44f79cde8d449aa93ee0e51d09575c98789691323a5abee8f619df7b4e981"
+    }
+  },
+  {
+    "id": "s190-a1-1128",
+    "de": "Ich messe das Fenster vor dem Kauf aus.",
+    "ar": "بقيس الشباك قبل ما أشتري.",
+    "en": "I measure the window before buying.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a0d8ff538a175d5b080e8816594b79af54e916f2a759099e6c29e9dc17674ddf"
+    }
+  },
+  {
+    "id": "s190-a1-1129",
+    "de": "Zwischen Sofa und Wand ist kaum Platz.",
+    "ar": "تقريبًا مفيش مساحة بين الكنبة والحيطة.",
+    "en": "There's hardly any space between the sofa and the wall.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "9b3822ee024d14eb7bbf2aac77e6d3c9d8773d1aceefa478fe31f587782b00f7"
+    }
+  },
+  {
+    "id": "s190-a1-1130",
+    "de": "Wir stellen den Esstisch näher ans Fenster.",
+    "ar": "هنقرب ترابيزة السفرة من الشباك.",
+    "en": "We're moving the dining table closer to the window.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "7be552bf4b3162fff9f991d346809ffdd0882b0e707edfb5843c3dcc08ec3a92"
+    }
+  },
+  {
+    "id": "s190-a1-1131",
+    "de": "Der Teppich rutscht auf dem Boden.",
+    "ar": "السجادة بتتزحلق على الأرض.",
+    "en": "The rug slides on the floor.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "c6fc291776c3f67a743bb8862214f0e95e8621a460f41ac9bdd4bba322d071dd"
+    }
+  },
+  {
+    "id": "s190-a1-1132",
+    "de": "Ich rolle den Teppich zusammen.",
+    "ar": "أنا بلف السجادة.",
+    "en": "I'm rolling up the rug.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "c2a6f4b252eb323283e701db80bab6ffc6cc9446d0f66e6fba4d3313689d56d3"
+    }
+  },
+  {
+    "id": "s190-a1-1133",
+    "de": "Hinter dem Schrank hat sich Staub gesammelt.",
+    "ar": "في تراب اتجمع ورا الدولاب.",
+    "en": "Dust has collected behind the wardrobe.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "1f014cb8778080e8215d7d58dd637661ff0ff2c6abbb2c397eb4a8f3bc0a0157"
+    }
+  },
+  {
+    "id": "s190-a1-1134",
+    "de": "Ich komme mit dem Besen nicht unter das Sofa.",
+    "ar": "المقشة مش عارفة توصل تحت الكنبة.",
+    "en": "I can't reach under the sofa with the broom.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "33a967812f9e2aabf814f7f65236e7c34a24c141cdb9f110581fab1adeb7f737"
+    }
+  },
+  {
+    "id": "s190-a1-1135",
+    "de": "Der Staubsaugerbeutel ist voll.",
+    "ar": "كيس المكنسة الكهربائية مليان.",
+    "en": "The vacuum cleaner bag is full.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "69f9a022b855a68d5290bb9a0640066e85d8e95180e3a1e40ad9411993e085c5"
+    }
+  },
+  {
+    "id": "s190-a1-1136",
+    "de": "Ich habe die Filter gereinigt.",
+    "ar": "أنا نضفت الفلاتر.",
+    "en": "I've cleaned the filters.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f8dd6c1ce94918f8d5099afe8ba201b0b6c9af48bc30fe75181f05d2de05600d"
+    }
+  },
+  {
+    "id": "s190-a1-1137",
+    "de": "Das Verlängerungskabel liegt im Flur.",
+    "ar": "وصلة تطويل الكهربا في الطرقة.",
+    "en": "The extension lead is in the hallway.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "356fcbcf930c86168e56d4510c5ad85abe50a3c00e130195ad11f4ea99baa510"
+    }
+  },
+  {
+    "id": "s190-a1-1138",
+    "de": "Dieser Stecker ist hinter dem Sofa schwer erreichbar.",
+    "ar": "الفيشة دي صعب أوصلها ورا الكنبة.",
+    "en": "This plug is hard to reach behind the sofa.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "2ee826c0aa997996a4d18a109d462f6e1e1a2e99fbbffe70fe3e61a0c7a28d07"
+    }
+  },
+  {
+    "id": "s190-a1-1139",
+    "de": "Ich habe die Batterien im Rauchmelder gewechselt.",
+    "ar": "أنا غيرت بطاريات كاشف الدخان.",
+    "en": "I changed the batteries in the smoke alarm.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e263418bb37ef428bf6d8de58f33db7a3833e471a2337ecee48802d49955bf4b"
+    }
+  },
+  {
+    "id": "s190-a1-1140",
+    "de": "Wir lassen den Fluchtweg frei.",
+    "ar": "إحنا سايبين ممر الخروج في الطوارئ فاضي.",
+    "en": "We keep the emergency exit route clear.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e2edbb46d5d7c41c137f356a4bd07a6b26507f58c17cc1f537a86086ae508925"
+    }
+  }
+]

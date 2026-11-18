@@ -2059,3 +2059,38 @@ The new examples are authored locally; these references support the underlying g
 - https://deutsch.lingolia.com/de/grammatik/nomen/faelle
 
 The separate 7000-sentence library is not included. It remains private until the complete collection passes its release review gate. The paused reading/dialogue photograph pass is also not included.
+
+
+## Full sentence library190 release review
+
+Prepared November 18, 2026. This section supersedes the earlier note that the sentence library is private. It is ready as one complete 7000-entry editorial release, not partial batches. Native German and Egyptian Arabic sign-off remain pending. Engineering and editorial checks are not a substitute for that sign-off.
+
+The bank has German, Egyptian Arabic and English, across 147 topics. Approximate practice bands: A1 547, A2 2864, B1 1781, B2 1748 and C1 60. These are study groupings, not an official CEFR syllabus. The title is an editorial selection, not a statistical ranking of the 7000 most frequent whole sentences. No C2 coverage is claimed.
+
+### Reviewer checks
+
+- [ ] Check every selected entry in `data/sentences190/library.json` against its original batch and stable ID. Record each proposed correction by ID, with replacement German and translations. Do not sign off an entire file from a sample alone.
+- [ ] Check idiomatic German, tense, agreement, articles, word order, punctuation and clear referents without missing context.
+- [ ] Check Egyptian Arabic and English independently for who does what to whom, negation, modality, time and register. Preserve relevant politeness and uncertainty.
+- [ ] Reassess difficulty. A rare noun alone does not make a basic sentence B2. Everyday wording may still contain advanced syntax.
+- [ ] Review medical, legal, housing and finance language as fictional language practice. Reject blanket claims about treatment, rights, fees or policies. The page explicitly says these are not advice or service terms.
+- [ ] Check possible duplicates in context. Seven surplus original entries are retained in `editorial-reserve.json`, not included in the 7000. Do not restore them without replacing another selected entry and rerunning the full gate.
+- [ ] Check the 74 synthesized pronunciation clips from audio193 on Android Chrome and Edge. Test all six pictured umlaut words and the contrast pairs. Real browser playback completion does not prove native pronunciation quality.
+
+### Interaction and engineering evidence
+
+The complete export contains `/sentences/`, navigation and search by German, Egyptian Arabic and English. Topic, practice-band and saved/practised filters work with 20 entries per page. Typing checks case and umlauts; surrounding spacing and terminal punctuation are normalized. It is a constrained practice comparator, not a general German grader. Reading or saving a sentence does not mark it finished or award repeated XP.
+
+Signed-in saved sentences and finished typing activities use the actual server account-state validator. The API accepts both full 7000-ID lists and rejects malformed keys. Guests use tab memory only. No localStorage, sessionStorage or IndexedDB is used. Failed saves remain visible. Completion is not claimed until the server acknowledges it.
+
+Validation: all 7000 selected entries have recorded editorial and integration checks, zero schema/hash errors, 42,020 model assertions, 32 export-browser checks with six clean accessibility snapshots, 53 account API/client checks, production build and static export, 1138 exported-page link checks and 1098 sitemap targets. Arabic 390px and English 320px screenshots were visually inspected. The incomplete-bank test invokes notFound and renders no corpus; Next development streaming can return HTTP 200 alongside the notFound marker.
+
+Audio is not complete for these 7000 sentences. The existing exact clip, free server and permitted browser fallback chain can fail on Android when no source is available. The whole-site coverage and last-resort fallback work is separate. No claim of 7000 recordings is made.
+
+### Human sign-off
+
+German reviewer / date: ____________________
+
+Egyptian Arabic reviewer / date: ____________________
+
+IDs corrected and unresolved concerns: ____________________

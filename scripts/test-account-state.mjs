@@ -23,6 +23,13 @@ assert.deepEqual((await (await call('GET',2)).json()).values,{});assert.equal((a
 const next={...initial,revision:1,values:{...initial.values,'deutschy:w:fixture':'New draft'}};assert.equal((await call('PUT',1,next)).status,200);assert.equal((await call('PUT',1,next)).status,409);assert.equal((await call('PUT',1,{...initial,revision:0})).status,409);data=await(await call('GET',1)).json();assert.equal(data.values['deutschy:w:fixture'],'New draft');assert.equal(data.revision,2);checks+=5;
 assert.equal((await call('PUT',1,{xp:0},{},'/me/progress')).status,409);assert.equal(sqlite.prepare('SELECT xp FROM progress WHERE user_id=1').get().xp,73);checks+=2;
 assert.equal((await call('GET',null,undefined,{},'/leaderboard')).status,200);checks++;
+// Exercise the real sentence keys through the API, not an always-success browser mock.
+const sentenceRows=JSON.parse(fs.readFileSync('data/sentences190/library.json','utf8'));
+const sentenceIds=JSON.stringify(sentenceRows.map(r=>r.id));
+const sentenceValues={'deutschy:sentences190:saved':sentenceIds,'deutschy:sentences190:completed':sentenceIds};
+assert.equal((await call('PUT',2,{accountId:2,revision:0,values:sentenceValues})).status,200);
+const restoredSentences=await(await call('GET',2)).json();assert.equal(restoredSentences.values['deutschy:sentences190:saved'],sentenceIds);assert.equal(restoredSentences.values['deutschy:sentences190:completed'],sentenceIds);checks+=3;
+for(const key of ['deutschy:sentences190:other','deutschy:sentences190:saved:extra']){assert.equal((await call('PUT',2,{accountId:2,revision:1,values:{[key]:'[]'}})).status,400);checks++}
 sqlite.prepare('UPDATE account_state SET data=? WHERE user_id=1').run('{bad');assert.equal((await call('GET',1)).status,503);assert.equal((await call('GET',null,undefined,{},'/leaderboard')).status,200);sqlite.prepare('UPDATE account_state SET data=? WHERE user_id=1').run(JSON.stringify({'deutschy:v1':'broken inner JSON'}));assert.equal((await call('GET',null,undefined,{},'/leaderboard')).status,200);checks+=3;
 console.log('PASS account API',checks,'authentication/origin/account isolation/legacy seed/validation/CAS/ranking/no-overwrite checks');
 // Volatile client: no Storage object is available at all.
