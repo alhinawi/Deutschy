@@ -37,10 +37,10 @@
     "test:noun-photos:browser": "node scripts/test-noun-photos-browser.mjs",
     "test:review-commit": "node scripts/test-review-commit.mjs",
     "test:review-commit:browser": "node scripts/test-review-commit-browser.mjs",
-    "test:review-commit:browser": "node scripts/test-review-commit-browser.mjs",
     "test:speech-feedback:browser": "node scripts/test-speech-feedback-browser.mjs",
     "test:animals": "node scripts/test-animals.mjs",
-    "test:animals:browser": "node scripts/test-animals-browser.mjs"
+    "test:animals:browser": "node scripts/test-animals-browser.mjs",
+    "test:static-speech:browser": "node scripts/test-static-speech-browser.mjs"
   },
   "dependencies": {
     "hono": "^4.13.18",
