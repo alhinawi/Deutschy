@@ -743,6 +743,10 @@
   {
    "id": "wasserformen",
    "ar": "نقطة مية ولسان تلج"
+  },
+  {
+   "id": "kleinteile",
+   "ar": "وردة مسمار وصامولة"
   }
  ],
  "words": [
@@ -14924,6 +14928,36 @@
     "file": "267144.jpg",
     "commons": "https://www.pexels.com/photo/clear-iced-drops-267144/",
     "author": "John-Mark Smith",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "unterlegscheibe",
+   "topic": "kleinteile",
+   "art": "die",
+   "de": "Unterlegscheibe",
+   "plural": "Unterlegscheiben",
+   "ar": "وردة مسمار",
+   "photo": {
+    "file": "Rondelle_03.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Rondelle_03.jpg",
+    "author": "Tiesse",
+    "license": "Public domain",
+    "modified": true
+   }
+  },
+  {
+   "id": "schraubenmutter",
+   "topic": "kleinteile",
+   "art": "die",
+   "de": "Schraubenmutter",
+   "plural": "Schraubenmuttern",
+   "ar": "صامولة",
+   "photo": {
+    "file": "28119580.jpg",
+    "commons": "https://www.pexels.com/photo/nuts-and-bolts-28119580/",
+    "author": "Nic Wood",
     "license": "Pexels License",
     "modified": true
    }

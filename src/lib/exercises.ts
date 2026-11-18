@@ -588,3 +588,6 @@ for(const[topic,rows]of Object.entries(luftformenGrammar))exercises[topic].push(
 
 import {wasserformenGrammar} from './exercises-wasserformen';
 for(const[topic,rows]of Object.entries(wasserformenGrammar))exercises[topic].push(...rows);
+
+import {kleinteileGrammar} from './exercises-kleinteile';
+for(const[topic,rows]of Object.entries(kleinteileGrammar))exercises[topic].push(...rows);

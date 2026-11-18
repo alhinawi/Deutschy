@@ -426,3 +426,6 @@ readings.push(...luftformenTexts);
 
 import {wasserformenTexts} from './reading-wasserformen';
 readings.push(...wasserformenTexts);
+
+import {kleinteileTexts} from './reading-kleinteile';
+readings.push(...kleinteileTexts);

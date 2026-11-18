@@ -26433,3 +26433,218 @@ Object.assign(dialogueEvidence,{
     "Regenschauer am Morgen kann ich nicht belegen."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "foto-statt-montage",
+    "level": "A1",
+    "title": [
+      "Nur Wörter üben",
+      "تدريب كلمات بس"
+    ],
+    "lines": [
+      [
+        "Mia",
+        "Welche Karte gehört zur flachen Scheibe?",
+        "أنهي كارت يخص القرص المسطح؟"
+      ],
+      [
+        "Samir",
+        "Die Karte Unterlegscheibe.",
+        "كارت أونترليك شايبه."
+      ],
+      [
+        "Mia",
+        "Und was siehst du auf dem anderen Foto?",
+        "وشايف إيه في الصورة التانية؟"
+      ],
+      [
+        "Samir",
+        "Mehrere Schraubenmuttern. Innen erkenne ich das Gewinde.",
+        "كذا صامولة. شايف القلاوظ من جوه."
+      ],
+      [
+        "Mia",
+        "Sollen wir die Teile zusammenbauen?",
+        "هنركب القطع؟"
+      ],
+      [
+        "Samir",
+        "Nein. Wir haben heute nur Fotos.",
+        "لأ. النهارده معانا صور بس."
+      ],
+      [
+        "Mia",
+        "Dann schreiben wir die Wörter mit Artikel ins Heft.",
+        "يبقى نكتب الكلمات بأداة التعريف في الكشكول."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Karte passt zur flachen Scheibe?",
+        "Unterlegscheibe.",
+        "Schraubenmutter.",
+        "Notizbuch."
+      ],
+      [
+        "Was erkennt Samir innen?",
+        "Das Gewinde.",
+        "Eine Uhr.",
+        "Einen Aufkleber."
+      ],
+      [
+        "Was haben sie heute?",
+        "Nur Fotos.",
+        "Eine neue Maschine zum Montieren.",
+        "Einen geprüften Bauplan."
+      ]
+    ]
+  },
+  {
+    "id": "zwei-bedeutungsgruppen",
+    "level": "A2",
+    "title": [
+      "Muttern ohne Umlaut",
+      "موترن من غير أوملاوت"
+    ],
+    "lines": [
+      [
+        "Adham",
+        "Ich habe Schraubenmütter geschrieben.",
+        "أنا كتبت جمع الصامولة زي الأمهات بأوملاوت."
+      ],
+      [
+        "Leonie",
+        "Schau auf die technische Bedeutung im Wörterbuch.",
+        "بص على المعنى التقني في القاموس."
+      ],
+      [
+        "Adham",
+        "Dort steht Schraubenmuttern ohne Umlaut.",
+        "هناك مكتوب شراوبن موترن من غير أوملاوت."
+      ],
+      [
+        "Leonie",
+        "Richtig. Die Familienkarte bleibt unverändert.",
+        "صح. كارت العيلة هيفضل زي ما هو."
+      ],
+      [
+        "Adham",
+        "Unterlegscheibe bekommt in der Mehrzahl ein n.",
+        "أونترليك شايبه بتاخد إن في الجمع."
+      ],
+      [
+        "Leonie",
+        "Ja. Lies jetzt beide vollständigen Wörter.",
+        "أيوه. اقرا دلوقتي الكلمتين كاملين."
+      ],
+      [
+        "Adham",
+        "Danach kontrolliere ich meine Endungen.",
+        "بعد كده هراجع النهايات بتاعتي."
+      ]
+    ],
+    "q": [
+      [
+        "Wo soll Adham nachsehen?",
+        "Bei der technischen Bedeutung im Wörterbuch.",
+        "Bei einer Preisliste.",
+        "Auf einer Familienfotografie."
+      ],
+      [
+        "Was bleibt unverändert?",
+        "Die Familienkarte.",
+        "Der falsche Plural.",
+        "Eine Bestellung."
+      ],
+      [
+        "Was will Adham kontrollieren?",
+        "Seine Endungen.",
+        "Die Tragfähigkeit.",
+        "Die Lieferzeit."
+      ]
+    ]
+  },
+  {
+    "id": "beleuchtung-statt-beschichtung",
+    "level": "B1",
+    "title": [
+      "Nur das Sichtbare beschreiben",
+      "وصف اللي ظاهر بس"
+    ],
+    "lines": [
+      [
+        "Eva",
+        "Soll ich rote Schraubenmuttern schreiben?",
+        "أكتب صواميل حمرا؟"
+      ],
+      [
+        "Nabil",
+        "Wir sehen farbiges Licht, aber keinen Nachweis einer Beschichtung.",
+        "إحنا شايفين إضاءة ملونة بس مفيش إثبات طبقة طلاء."
+      ],
+      [
+        "Eva",
+        "Dann schreibe ich Schraubenmuttern unter farbigem Licht.",
+        "يبقى هكتب صواميل تحت إضاءة ملونة."
+      ],
+      [
+        "Nabil",
+        "Gut. Und die Behauptung zur Passform streichen wir.",
+        "تمام. وادعاء توافق المقاس هنشطبه."
+      ],
+      [
+        "Eva",
+        "Uns fehlen gemeinsame Maße und ein Gewindevergleich.",
+        "ناقصنا مقاسات مشتركة ومقارنة للقلاوظ."
+      ],
+      [
+        "Nabil",
+        "Die Seite bleibt eine Wortschatzübung.",
+        "الصفحة هتفضل تدريب مفردات."
+      ],
+      [
+        "Eva",
+        "Also keine Montageanleitung und kein Datenblatt.",
+        "يعني مش تعليمات تركيب ولا ورقة بيانات."
+      ]
+    ],
+    "q": [
+      [
+        "Was ist nicht nachgewiesen?",
+        "Eine bestimmte Beschichtung.",
+        "Dass sie Fotos haben.",
+        "Dass es Lernwörter gibt."
+      ],
+      [
+        "Was streichen sie?",
+        "Die Behauptung zur Passform.",
+        "Alle Nomen.",
+        "Die Quellenangaben."
+      ],
+      [
+        "Was bleibt die Seite?",
+        "Eine Wortschatzübung.",
+        "Eine geprüfte Montageanleitung.",
+        "Ein technisches Datenblatt."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "foto-statt-montage": [
+    "Die Karte Unterlegscheibe.",
+    "Innen erkenne ich das Gewinde.",
+    "heute nur Fotos."
+  ],
+  "zwei-bedeutungsgruppen": [
+    "technische Bedeutung im Wörterbuch.",
+    "Die Familienkarte bleibt unverändert.",
+    "kontrolliere ich meine Endungen."
+  ],
+  "beleuchtung-statt-beschichtung": [
+    "keinen Nachweis einer Beschichtung.",
+    "Behauptung zur Passform streichen wir.",
+    "eine Wortschatzübung."
+  ]
+});

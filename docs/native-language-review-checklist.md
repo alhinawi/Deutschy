@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-forty-first practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-forty-second practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1522,9 +1522,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Shared MiniQuiz asynchronous speech | Request identity prevents an old failed/canceled audio response from showing a warning on the next question or after mode change, and prevents an older tap overriding the newest tap. 20 delayed-response races: 8 Next, 8 newest-request, 4 unmount cases. Current genuine failure still shown. No unexpected speech or XP. AR/EN 320/390 and two audio-capable shared modes. |
 | [ ] | Listening/dictation | 69 original segments, 276 exact German speech/source/answer checks. Native editorial, screen-reader device and actual-device voice pending. Practice labels are not certification; progress is device-local. |
 
+### List 142: Washer and nut
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zwei-karten-in-der-werkstatt/` and linked dialogue | Mia/Samir use photos only in a language class. Flat washer with central hole versus internally threaded nuts. Both feminine. Colored lighting is not stated as an inherent coating. No actual assembly. |
+| [ ] | `/reading/alltag-a2-das-ende-des-langen-worts/` and linked dialogue | Leonie/Adham check full compound words and plurals. Unterlegscheiben and Schraubenmuttern, not Schraubenmütter. Existing family Mutter/Mütter card remains unchanged. No blanket suffix rule, real order or compatibility claim. |
+| [ ] | `/reading/alltag-b1-farbe-und-materialangabe/` and linked dialogue | Eva/Nabil distinguish reflected colored light from proven coating/material. No alloy, fit, scale, load rating or safe assembly claims. Word cards are not technical data sheets. |
+| [ ] | `/lessons/kleinteile/` and `/credits/` | die Unterlegscheibe/Unterlegscheiben (وردة مسمار), die Schraubenmutter/Schraubenmuttern (صامولة). Full Duden/DWDS checked. Tiesse public-domain Rondelle 03: original 1300 x 975 crop 0,220-720,760 isolates only plain washer; split spring washer excluded. Nic Wood 28119580: 1800 x 1200 crop 100,0-1700,1200, distinct hex nuts/internal threads under colored light. Both 800 x 600, no padding/stretch/faces/brands. Minor technical stamps not treated as brands or data. Actual 390px AR/EN cards inspected. |
+| [ ] | Six appended grammar banks | 24 article/accusative/present/possessive/two-way/negation rows. Earlier identities preserved. Native German and Egyptian Arabic editorial checks pending. |
+| [ ] | Shared MiniQuiz listen description | Listen control now references the visible German prompt by aria-describedby, retaining its localized name. 8 voice-state cases verify unique current prompt ID and exact description. 20 race cases retain valid references after transitions or mode changes where a listen control exists. Keyboard, focus, status and XP checks unchanged. Actual screen-reader/device tests pending. |
+| [ ] | Listening/dictation | 69 original segments, 276 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice labels are not certification; progress is device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **939 photo nouns / 186 topics**, **441 reading texts / 1717 reading questions**, **41 core grammar topics / 3334 core grammar questions**, **381 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **941 photo nouns / 187 topics**, **444 reading texts / 1729 reading questions**, **41 core grammar topics / 3358 core grammar questions**, **384 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1536,7 +1548,7 @@ This is an inventory, not completed review. Snapshot: **939 photo nouns / 186 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 129 · A2 157 · B1 125 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 130 · A2 158 · B1 126 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

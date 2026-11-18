@@ -369,4 +369,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-ein-tropfen-am-blatt',dialogue:'zwei-fotos-eine-heftseite'},
  {reading:'alltag-a2-gleiche-form-anderes-verb',dialogue:'das-verb-gibt-einen-hinweis'},
  {reading:'alltag-b1-keine-vorher-nachher-reihe',dialogue:'bild-a-und-bild-b'},
+ {reading:'alltag-a1-zwei-karten-in-der-werkstatt',dialogue:'foto-statt-montage'},
+ {reading:'alltag-a2-das-ende-des-langen-worts',dialogue:'zwei-bedeutungsgruppen'},
+ {reading:'alltag-b1-farbe-und-materialangabe',dialogue:'beleuchtung-statt-beschichtung'},
 ];
