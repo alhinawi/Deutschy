@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-sixty-first product update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-sixty-second product update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1719,6 +1719,12 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | Done | Route / location | What needs a human decision |
 | --- | --- | --- |
 | [ ] | `/verbs/quiz/`, answer/Next/New round | Synchronous prompt lock and round identity prevent repeated/stale handlers from awarding extra XP,skipping or resetting a later question. Completed10-question score records once at Result,not again at New round;partial rounds add no result. Announced correct-answer feedback,LTR German and visible keyboard focus.4 AR/EN320/390 variants,556 assertions,4 axe;390px feedback screenshots inspected. Native editorial and actual-device keyboard/screen-reader checks remain manual. |
+
+### List 162: Keep sentence-builder rounds consistent
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/games/satzbau/`, tokens/Check/Next/result | Synchronous chosen-state/prompt locks reject repeated and retired handlers. Unmounted rounds cannot change a new round. Completed score saves once outside render;partial rounds add no result. Announced feedback and token keyboard focus.32 AR/EN320/390 All+seven-pattern rounds,1612 assertions,4 axe;390px full feedback screenshots inspected. Model/accepted alternatives unchanged. Native editorial and actual-device keyboard/screen-reader checks remain manual. |
 
 ## 3. Wider review queue after the focused batch
 

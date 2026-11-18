@@ -1502,3 +1502,5 @@ for(const guard of ['<Task key={open.id} task={open}',"setOpen(task??null)","dra
 console.log('PASS:writing task identity isolates draft/model/check state,waits for draft load and reports local-save failures');
 
 const verb161=readFileSync('src/components/VerbQuiz.tsx','utf8');assert(verb161.includes('c.round!==round')&&verb161.includes('c.index!==i')&&verb161.includes('c.locked=true')&&verb161.includes('disabled={pick!==null}'));assert(verb161.includes("c.finished=true;addScore('verb-quiz',score)")&&verb161.includes('current.current.finished)restart()'));console.log('PASS:verb quiz locks prompt answers,guards stale rounds and records completed result once before restart');
+
+const sb162=readFileSync('src/components/SatzbauGame.tsx','utf8');assert(sb162.includes('c.chosen!==chosen')&&sb162.includes('c.index!==i')&&sb162.includes('c.locked=true')&&sb162.includes('new Set(chosen).size'));assert(!sb162.includes('if (!saved) {'));assert(sb162.includes("!saved.current){saved.current=true;addScore('satzbau',score)"));console.log('PASS:sentence-builder guards token/check/Next against stale handlers and saves result outside render');
