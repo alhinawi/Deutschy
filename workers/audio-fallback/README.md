@@ -44,3 +44,5 @@ Tests cover disabled/auth gates, canonical allowlists, voice IDs, 14-slot eligib
 ## Remaining handoff
 
 Deployer must confirm Workers Free and available SQLite Durable Object support; install service/site bindings and shared authentication; repeat account READs from a permitted network; verify identity/account distinctness and provider rights; accept allowlist/voice artifacts from builders; deploy disabled. Only after the owner/main authorizes the eligible slots and activation may any real fallback generation occur. No deployment or paid purchase was done here.
+
+Reviewed allowlists now contain 37,533 Deutschy strings and 48,489 Henglish strings. Original artifact hashes and source commits are in src/allowlist-provenance.json. All execution gates remain disabled.
