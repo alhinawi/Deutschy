@@ -3,7 +3,7 @@ const compile=file=>ts.transpileModule(fs.readFileSync(file,'utf8'),{compilerOpt
 const helper=compile('src/lib/browser-voices.ts'),js=compile('src/lib/speak.ts');
 const edge={lang:'de-DE',name:'Microsoft Katja Online (Natural) - German (Germany)',voiceURI:'Microsoft Katja Online (Natural) - German (Germany)'},edge2={lang:'de-AT',name:'Microsoft Ingrid',voiceURI:'Microsoft Ingrid'},google={lang:'de-DE',name:'Google Deutsch',voiceURI:'Google Deutsch'};
 const calls=[];let voices=[google];
-function setup(extra={}){const exports={},policy={},context={fetch:async()=>({json:async()=>({tts:false})}),speechSynthesis:{cancel:()=>calls.push('cancel'),getVoices:()=>voices,speak:u=>calls.push(u)},AbortController,Date,SpeechSynthesisUtterance:class{constructor(text){this.text=text}},...extra};vm.runInNewContext(helper,{...context,exports:policy});vm.runInNewContext(js,{...context,exports,require:name=>name.includes('recorded-audio')?{recordedAudio:{'Recorded fixture':'/fixture.mp3'}}:name.includes('voice-preference')?{readVoicePreference:async()=> 'varied'}:policy});return {exports,policy}}
+function setup(extra={}){const exports={},policy={},context={setTimeout,clearTimeout,fetch:async()=>({json:async()=>({tts:false})}),speechSynthesis:{cancel:()=>calls.push('cancel'),getVoices:()=>voices,speak:u=>calls.push(u)},AbortController,Date,SpeechSynthesisUtterance:class{constructor(text){this.text=text}},...extra};vm.runInNewContext(helper,{...context,exports:policy});vm.runInNewContext(js,{...context,exports,require:name=>name.includes('recorded-audio')?{recordedAudio:{'Recorded fixture':'/fixture.mp3'}}:name.includes('voice-preference')?{readVoicePreference:async()=> 'varied'}:policy});return {exports,policy}}
 let {exports,policy}=setup();
 const bad=[google,{lang:'de-DE',name:'Android Deutsch',voiceURI:'com.android.tts'},{lang:'de-DE',name:'Microsoft Google',voiceURI:'Google Android'},{lang:'en-US',name:'Microsoft Aria',voiceURI:'Microsoft Aria'},{lang:'de-DE',name:'Unknown',voiceURI:'default'},{lang:'de-DE'}];
 assert.equal(policy.edgeGermanVoices(bad).length,0);assert.equal(policy.edgeGermanVoices([...bad,edge,edge2]).length,2);
@@ -21,3 +21,26 @@ console.log('PASS:existing server audio priority retained;unavailable server fal
 
 let ended=0;ex=setup({fetch:async()=>{throw Error('recorded must not fetch')},Audio:class{async play(){played++}pause(){}}}).exports;const recordedBefore=played;assert.equal(await ex.speak('Recorded fixture',{rate:.7,onend:()=>ended++}),true);assert.equal(played,recordedBefore+1);ex.stopSpeaking();
 console.log('PASS reviewed recording path wins before provider/browser and supports stop');
+
+// Every caller receives shared feedback even without passing callbacks.
+voices=[google];let statuses=[],failures=0;
+ex=setup().exports;const unsubscribe=ex.subscribeSpeechStatus(s=>statuses.push(s));
+assert.equal(await ex.speak('No compatible source',{onerror:()=>failures++}),false);
+assert.deepEqual(statuses,['loading','unavailable']);assert.equal(failures,1);
+statuses.length=0;voices=[edge];
+assert.equal(await ex.speak('Allowed voice'),true);assert.deepEqual(statuses,['loading','playing']);
+const utterance=calls.at(-1);utterance.onerror();utterance.onend();
+assert.deepEqual(statuses,['loading','playing','error']);
+statuses.length=0;await ex.speak('Stopped normally');ex.stopSpeaking();
+assert.deepEqual(statuses,['loading','playing','stopped']);
+unsubscribe();statuses.length=0;await ex.speak('After unsubscribe');assert.deepEqual(statuses,[]);ex.stopSpeaking();
+let staleResolve;statuses=[];ex=setup({fetch:()=>new Promise(r=>staleResolve=r)}).exports;
+ex.subscribeSpeechStatus(s=>statuses.push(s));const cancelled=ex.speak('Cancelled lookup');ex.stopSpeaking();staleResolve({json:async()=>({tts:false})});
+assert.equal(await cancelled,false);assert.deepEqual(statuses,['loading','stopped']);
+ex=setup({speechSynthesis:undefined}).exports;statuses=[];ex.subscribeSpeechStatus(s=>statuses.push(s));assert.equal(await ex.speak('No speech API'),false);assert.deepEqual(statuses,['loading','unavailable']);
+voices=[edge];statuses=[];ex=setup({speechSynthesis:{cancel(){},getVoices:()=>voices,speak(){throw Error('device error')}}}).exports;ex.subscribeSpeechStatus(s=>statuses.push(s));assert.equal(await ex.speak('Thrown playback'),false);assert.deepEqual(statuses,['loading','error']);
+console.log('PASS shared unavailable/error notices,initial onerror callback,playing/stopped states,terminal deduplication,unsubscribe,cancellation silence,and missing speech API');
+let deadline;statuses=[];voices=[google];
+ex=setup({setTimeout:fn=>{deadline=fn;return 1},clearTimeout(){},fetch:(_url,{signal})=>new Promise((_resolve,reject)=>signal.addEventListener('abort',()=>reject(Error('deadline'))))}).exports;
+ex.subscribeSpeechStatus(s=>statuses.push(s));const timed=ex.speak('Stalled network');deadline();assert.equal(await timed,false);assert.deepEqual(statuses,['loading','unavailable']);
+console.log('PASS stalled network reaches permitted fallback and visible unavailable state');
