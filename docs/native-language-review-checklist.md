@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after helper answer clarity update182.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after mobile study journal update183.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1949,3 +1949,14 @@ No reviewer or review date has been filled in. This document requests review; it
 - [ ] AR/EN320/390 replays now safely render bold/italics/code and align each line by its first letter. HTML stays literal text and cannot run. Inspect German-only lines, Arabic explanations, punctuation and wrapped mixed-script examples. No editor/date has been filled in.
 
 Sources: https://deutschlernerblog.de/lokale-praepositionen-deutsch-ortsangaben-wo-wohin-woher/ ; https://flumi.io/grammar/de/artikel-bei-berufen-laendern-und-sprachen ; https://www.nemcina-on-line.cz/gramatika/podstatna-jmena-a-cleny/clen-u-povolani-narodnosti-a-jazyku-v-nemcine .
+
+
+## Mobile journal183: pending language and usability review
+
+- [ ] Check the Egyptian Arabic home introduction, study-journal/start/resume labels and seven top navigation labels. Are they clear to a first-time learner rather than administrative jargon?
+- [ ] Check all seven academy labels and the split between conversation/listening/pronunciation. Navigation reuses real German content, not full Henglish feature parity.
+- [ ] Check the three A1 path phase names and the distinction between saved old completion, completed practice and language proficiency. No certificate or assessment claim is intended.
+- [ ] Inspect AR/EN320/390 wrapping, keyboard navigation and the first/resume action on a real phone. Local emulation does not establish real-device approval.
+- [ ] Helper editorial defects from182 remain open. The new navigation does not fix overgeneralized German explanations.
+
+No reviewer/date/sign-off is supplied. Earlier review targets remain pending.
