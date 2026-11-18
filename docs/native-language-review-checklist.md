@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the answer-sounds and family-photo update177.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the balanced-voices update179.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1876,6 +1876,10 @@ Native German speech-quality and real-device checks remain pending. Automated pl
 - [ ] `/lessons/family/#word-grossvater`: full original grandfather/grandson photo replaces the cropped legs. Confirm both subjects remain readable on a phone.
 - [ ] Family quiz/article/flashcards retain real contextual photos. Family memory uses written meaning versus German, because generic family photos cannot make kinship matching unambiguous. Check Egyptian wording and English meaning.
 - [ ] Real-device audio volume, accessibility, German and Egyptian Arabic editorial reviews remain pending. Browser simulations prove gating and note values, not subjective sound quality. Blind exam answer choices remain silent until visual results, without correctness leaks.
+
+### List 179: Balanced static voice assignment
+
+81 active clips now use all 21 voices as evenly as whole clips allow: 18 voices have 4 clips each; Matilda, Chris and Lily have 3 each. 71 clips are unchanged; 10 changed voice. This is coverage distribution, not a guarantee of equal listening time or voice quality. New clips choose the least-used voice with a stable tie-break. Please compare pronunciation and stress in the changed phrases: das Bett, der Schlüssel, der Fisch, die Katze, der Mantel, das Haus, das Krankenhaus, das Fahrrad, das Fenster and der Apfel. Synthesized speech is not a native-speaker quality endorsement. German/editorial and actual-phone review remain pending.
 
 ## 3. Wider review queue after the focused batch
 

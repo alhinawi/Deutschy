@@ -14,11 +14,11 @@ const server=http.createServer(async(req,res)=>{try{
 await new Promise(r=>server.listen(0,'127.0.0.1',r));
 let browser;
 try{
- browser=await p.launch({executablePath:'/usr/bin/google-chrome',args:['--no-sandbox','--autoplay-policy=no-user-gesture-required']});
+ browser=await p.launch({executablePath:'/usr/bin/google-chrome',args:['--no-sandbox']});
  const page=await browser.newPage();await page.setViewport({width:390,height:844});
  await page.evaluateOnNewDocument(()=>localStorage.setItem('deutschy:lang','en'));
  const responses=[];page.on('response',r=>{if(r.url().includes('deutschy-sounds'))responses.push({url:r.url(),status:r.status(),headers:r.headers()})});
- await page.goto('http://127.0.0.1:'+server.address().port+'/lessons/family/',{waitUntil:'networkidle0'});
+ await page.goto((process.env.LIVE_BASE||'http://127.0.0.1:'+server.address().port)+'/lessons/family/',{waitUntil:'networkidle0'});
  await page.waitForSelector('article button');await page.click('article button');
  await new Promise(r=>setTimeout(r,4000));
  assert.equal(responses.length,1);assert.equal(responses[0].status,200);assert.equal(responses[0].headers['content-type'],'audio/mpeg');assert.equal(responses[0].headers['access-control-allow-origin'],'*');assert((await page.$eval('article',e=>e.textContent)).includes('Audio finished.'));
