@@ -1,3 +1,4 @@
+import {verifiedVerbPhoto} from './verb-photos';
 import {everydayVerbs} from './verbs-everyday';
 import type { Lvl } from './grammar-types';
 export type VerbKind = 'regular' | 'strong' | 'irregular' | 'modal' | 'separable' | 'reflexive';
@@ -219,8 +220,7 @@ export const verbs: Verb[] = [
   refl('ziehen', 'يلبس', 'to get dressed', 'A2', 'hemd', b('ziehen', null, null, 'zog', 'gezogen'), ['Ich ziehe mich schnell an.', 'بلبس بسرعة.', 'I get dressed quickly.'], 'an'),
   ...everydayVerbs,
 ];
-// Photos only where the picture really shows the verb. Everything else gets an illustration tile.
-const FITS: Record<string, string> = { essen: 'teller', trinken: 'tee', schlafen: 'bett', lesen: 'buch', schreiben: 'stift', fahren: 'auto', fliegen: 'flugzeug', schwimmen: 'meer', kochen: 'topf', kaufen: 'supermarkt', einkaufen: 'markt', spielen: 'fussball', lernen: 'schule', arbeiten: 'computer', wohnen: 'haus', anrufen: 'telefon', telefonieren: 'telefon', sehen: 'auge', hören: 'ohr', öffnen: 'tuer', aufmachen: 'fenster', zumachen: 'tuer', waschen: 'waschmaschine', schneiden: 'messer', putzen: 'besen', duschen: 'wasser', ankommen: 'bahnhof', abfahren: 'zug', einsteigen: 'bus', aussteigen: 'u-bahn', umsteigen: 'u-bahn', sitzen: 'sofa', liegen: 'bett', werfen: 'ball', tragen: 'rucksack', bezahlen: 'bank', studieren: 'bibliothek', reisen: 'koffer', kosten: 'markt', schmecken: 'suppe', scheinen: 'sonne', wachsen: 'blume', sterben: 'baum' };
-export const photoOf = (v: Verb): string | null => FITS[v.inf] ?? null;
+// One audited policy for catalogue and detail. Legacy noun img hints never become a fallback.
+export const photoOf = (v: Verb): string | null => verifiedVerbPhoto(v.inf);
 export const verbOf = (inf: string) => verbs.find((v) => v.inf === inf);
 export const slug = (inf: string) => inf.replace(/^sich /, 'sich-').replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue').replace(/ß/g, 'ss');

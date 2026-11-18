@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-sixty-ninth product update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-seventieth product update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1773,6 +1773,12 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | Done | Route / location | What needs a human decision |
 | --- | --- | --- |
 | [ ] | `/conjugation/`, einkaufen / anrufen / mitbringen / aufräumen | Check all 264 added cells: explicit finite split forms, joined participles and future infinitives. Strong anrufen vs mixed mitbringen, especially rufest an and brächtest mit. Nonreflexive buying-supplies einkaufen only. Main-clause scope vs joined ordinary subordinate clause clearly taught. Duden, DWDS, DW, Gymglish and Lingolia source ledger. All 792 older outputs/variants unchanged. Actual 390px AR/EN guide/table checked, 4 narrow variants/1628 assertions/16 wrong-order cases/1056 reference rows/4 axe. Native German/Egyptian Arabic editorial still pending. |
+
+### List 170: Action-relevant photos only
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | All 155 verbs, 43 core grammar topics and 199 lesson covers | Actual pixels reviewed for all 43 previously displayed verb photos, both grammar photos and all 199 topic covers. Removed 41 object/place-for-action photos, including bezahlen/bank, sterben/healthy tree and duschen/glass water. Only actual football play and airborne airplane stay. Remaining 153 verbs use neutral decorative SVG tiles, not claimed depictions of the action. Pronunciation ear removed; telling-time clock retained. Topic covers show a representative noun within each topic. This is not a completed audit of all 965 noun card photos or native editorial. Full per-verb decision/199-topic ledger in docs/photo170-audit.md. |
 
 ## 3. Wider review queue after the focused batch
 
