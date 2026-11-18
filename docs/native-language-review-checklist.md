@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-sixty-third product update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-sixty-fourth product update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1731,6 +1731,12 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | Done | Route / location | What needs a human decision |
 | --- | --- | --- |
 | [ ] | Shared speech,shadowing,dictation,sound contrasts,speaking | Shared German Microsoft/Edge allowlist excludes Google/Android/unknown voices in dropdown and current playback. Existing shared server-audio priority preserved;four browser-only trainers unchanged apart from restriction.16 AR/EN320/390 variants,164 assertions,4 axe+server-priority unit tests;390px no-Edge screenshots inspected. Separate ElevenLabs wiring is not in this PR. Actual Edge/Android-device voice availability/sound quality and native editorial/screen-reader checks remain manual. |
+
+### List 164: Manifest-only speech cache and local voice settings
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | /settings/ and all speech buttons | Check Egyptian Arabic labels and all21German premade voices for pronunciation. Varied/fixed selection is local per account;not native-accent certification.21private noun clips transcribe correctly but need listening review. Public ElevenLabs OFF pending license/publication clearance. Recorded(if present)>manifest proxy>Edge-only fallback;no human recordings currently.32AR/EN320/390audio variants,272assertions/8axe;390pxsettings inspected. Real-device/screen-reader/native review pending. Initial content audit finds no empty vocab topic but129thin topics(1or2nouns);not yet enriched. |
 
 ## 3. Wider review queue after the focused batch
 

@@ -21,7 +21,11 @@
     "test:writing:browser": "node scripts/test-writing-browser.mjs",
     "test:verbs:browser": "node scripts/test-verbs-browser.mjs",
     "test:satzbau:browser": "node scripts/test-satzbau-browser.mjs",
-    "test:voices:browser": "node scripts/test-voices-browser.mjs"
+    "test:voices:browser": "node scripts/test-voices-browser.mjs",
+    "tts:manifest": "node scripts/build-tts-manifest.mjs",
+    "test:tts": "node --experimental-sqlite scripts/test-tts-proxy.mjs",
+    "test:audio:browser": "node scripts/test-audio-browser.mjs",
+    "typecheck:worker": "tsc --noEmit --strict --skipLibCheck --target es2022 --module esnext --moduleResolution bundler --types @cloudflare/workers-types functions/lib/tts.ts"
   },
   "dependencies": {
     "hono": "^4.13.18",

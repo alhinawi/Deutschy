@@ -36,14 +36,14 @@ for(const lang of ['ar','en'])for(const width of [320,390])for(const route of ro
  const clickPlay=async({stale=false}={})=>g.evaluate((label,stale)=>{const btn=label?[...document.querySelectorAll('main button')].find(e=>e.textContent===label):document.querySelector('main button[lang=de]');if(stale){btn[Object.keys(btn).find(k=>k.startsWith('__reactProps'))].onClick()}else btn.click()},route.button?(lang==='ar'?route.ar:route.button):null,stale);
  await clickPlay();assert.equal(await g.evaluate(()=>window.__spoken.length),0);checks++;
  await g.evaluate(()=>{window.__voices=[window.__voiceFixture.google,window.__voiceFixture.edge,window.__voiceFixture.edge2];window.__voicesChanged()});await g.waitForFunction(sel=>[...document.querySelector(sel).options].some(e=>e.value==='Microsoft Conrad'),{},route.select);
- assert(!(await options()).some(s=>/Google|Android/.test(s)));await clickPlay();assert.equal(await g.evaluate(()=>window.__spoken.at(-1)?.uri),'Microsoft Katja');checks+=2;
- await g.select(route.select,'Microsoft Conrad');await clickPlay();assert.equal(await g.evaluate(()=>window.__spoken.at(-1)?.uri),'Microsoft Conrad');checks++;
+ assert(!(await options()).some(s=>/Google|Android/.test(s)));await clickPlay();await g.waitForFunction(()=>window.__spoken.at(-1)?.uri==='Microsoft Katja');assert.equal(await g.evaluate(()=>window.__spoken.at(-1)?.uri),'Microsoft Katja');checks+=2;
+ await g.select(route.select,'Microsoft Conrad');await clickPlay();await g.waitForFunction(()=>window.__spoken.at(-1)?.uri==='Microsoft Conrad');assert.equal(await g.evaluate(()=>window.__spoken.at(-1)?.uri),'Microsoft Conrad');checks++;
  // Policy uses the current platform list even before a voiceschanged event updates the dropdown.
- await g.evaluate(()=>window.__voices=[window.__voiceFixture.google]);await clickPlay({stale:true});assert.equal(await g.evaluate(()=>window.__spoken.length),2);checks++;
+ await g.evaluate(()=>window.__voices=[window.__voiceFixture.google]);await clickPlay({stale:true});await new Promise(r=>setTimeout(r,100));assert.equal(await g.evaluate(()=>window.__spoken.length),2);checks++;
  await g.evaluate(()=>window.__voicesChanged());await g.waitForFunction(sel=>![...document.querySelector(sel).options].some(e=>e.value==='Microsoft Conrad'),{},route.select);assert(!(await options()).some(s=>/Google|Android/.test(s)));checks++;
  if(route.path==='/shadowing/'){
   await g.addScriptTag({path:require.resolve('axe-core/axe.min.js')});assert.deepEqual(await g.evaluate(async()=>(await axe.run(document,{runOnly:{type:'tag',values:['wcag2a','wcag2aa','wcag21aa']}})).violations.map(v=>v.id)),[]);checks++;
-  if(width===390&&process.env.VOICES_SCREENSHOT_DIR){await g.$eval(route.select,e=>e.scrollIntoView({block:'center'}));await g.screenshot({path:path.join(process.env.VOICES_SCREENSHOT_DIR,'voices163-edge-only-'+lang+'.png'),fullPage:false})}
+  if(width===390&&process.env.VOICES_SCREENSHOT_DIR){await g.$eval(route.select,e=>e.scrollIntoView({block:'center'}));await g.screenshot({path:path.join(process.env.VOICES_SCREENSHOT_DIR,'voices164-fallback-' +lang+'.png'),fullPage:false})}
  }
  assert.equal(await g.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);assert.deepEqual(errors,[]);assert.equal(await g.evaluate(()=>localStorage.getItem('deutschy:v1')),null);checks+=3;variants++;await g.close();
 }
