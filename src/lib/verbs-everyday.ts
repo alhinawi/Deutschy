@@ -1,0 +1,17 @@
+import type {Verb} from './verbs';
+// Explicit forms checked against the linked paradigms. Level tags organize practice.
+const entry=(inf:string,ar:string,en:string,level:Verb['level'],present:string,pret:string,pp:string,source:string,ex:Verb['ex']):Verb & {source:string}=>({inf,ar,en,level,kind:'regular',img:'',pres:present.split('|') as Verb['pres'],pret,pp,aux:'haben',source,ex});
+export const everydayVerbs:Verb[]=[
+ entry('bestellen','يطلب أوردر','to order','A1','bestelle|bestellst|bestellt|bestellen|bestellt|bestellen','bestellte','bestellt','https://www.duden.de/konjugation/bestellen',['Ich bestelle eine Suppe.','بطلب شوربة.','I order a soup.']),
+ entry('packen','يحط حاجته في شنطة','to pack','A1','packe|packst|packt|packen|packt|packen','packte','gepackt','https://www.duden.de/konjugation/packen',['Wir packen unsere Koffer.','بنحط حاجتنا في الشنط.','We pack our suitcases.']),
+ entry('reparieren','يصلّح','to repair','A2','repariere|reparierst|repariert|reparieren|repariert|reparieren','reparierte','repariert','https://www.duden.de/konjugation/reparieren',['Er repariert sein Fahrrad.','هو بيصلّح عجلته.','He repairs his bicycle.']),
+ entry('reservieren','يحجز','to reserve','A2','reserviere|reservierst|reserviert|reservieren|reserviert|reservieren','reservierte','reserviert','https://www.duden.de/konjugation/reservieren',['Ich reserviere einen Tisch für zwei Personen.','بحجز ترابيزة لشخصين.','I reserve a table for two people.']),
+ entry('benutzen','يستخدم','to use','A1','benutze|benutzt|benutzt|benutzen|benutzt|benutzen','benutzte','benutzt','https://www.duden.de/konjugation/benutzen',['Darf ich deinen Stift benutzen?','ينفع أستخدم قلمك؟','May I use your pen?']),
+ entry('erlauben','يسمح','to allow','A2','erlaube|erlaubst|erlaubt|erlauben|erlaubt|erlauben','erlaubte','erlaubt','https://www.duden.de/konjugation/erlauben',['Die Lehrerin erlaubt uns eine kurze Pause.','المدرّسة سامحالنا ببريك قصير.','The teacher allows us a short break.']),
+ entry('erreichen','يوصل لـ / يلحق','to reach','A2','erreiche|erreichst|erreicht|erreichen|erreicht|erreichen','erreichte','erreicht','https://www.duden.de/konjugation/erreichen',['Wir erreichen den Bahnhof um acht Uhr.','بنوصل المحطة الساعة 8.','We reach the station at eight.']),
+ entry('gehören','يكون ملك حد','to belong to','A2','gehöre|gehörst|gehört|gehören|gehört|gehören','gehörte','gehört','https://www.duden.de/konjugation/gehoeren',['Wem gehört dieser Schlüssel?','المفتاح ده بتاع مين؟','Who does this key belong to?']),
+ entry('sparen','يوفّر / يحوّش','to save','A2','spare|sparst|spart|sparen|spart|sparen','sparte','gespart','https://www.duden.de/konjugation/sparen',['Ich spare jeden Monat etwas Geld.','بحوّش شوية فلوس كل شهر.','I save some money every month.']),
+ entry('fehlen','يبقى ناقص / يغيب','to be missing, to be absent','A2','fehle|fehlst|fehlt|fehlen|fehlt|fehlen','fehlte','gefehlt','https://www.duden.de/konjugation/fehlen',['In der Suppe fehlt etwas Salz.','الشوربة ناقصها شوية ملح.','The soup needs a little salt.']),
+ entry('passen','يبقى مناسب / ييجي على المقاس','to fit, to suit','A2','passe|passt|passt|passen|passt|passen','passte','gepasst','https://www.duden.de/konjugation/passen',['Die Jacke passt mir gut.','الجاكيت مقاسي مظبوط.','The jacket fits me well.']),
+ entry('schicken','يبعت','to send','A1','schicke|schickst|schickt|schicken|schickt|schicken','schickte','geschickt','https://www.duden.de/konjugation/schicken_senden',['Ich schicke dir die Adresse.','هبعتلك العنوان.','I will send you the address.']),
+];
