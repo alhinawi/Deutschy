@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  kleinteile: 'Unterlegscheibe und Schraubenmutter',
   wasserformen: 'Wassertropfen und Eiszapfen',
   luftformen: 'Seifenblase und Luftballon',
   kohlformen: 'Kohlkopf und Rosenkohl',
@@ -183,6 +184,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  kleinteile: 'Washer and nut',
   wasserformen: 'Water droplet and icicle',
   luftformen: 'Soap bubble and balloon',
   kohlformen: 'Cabbage head and Brussels sprouts',

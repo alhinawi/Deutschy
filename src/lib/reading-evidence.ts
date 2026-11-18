@@ -2594,3 +2594,24 @@ Object.assign(readingEvidence,{
     "weil die Bezeichnungen A und B in Text und Layout übereinstimmen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zwei-karten-in-der-werkstatt": [
+    "Sie liegt auf einem grünen Untergrund.",
+    "An einigen sieht Samir das Gewinde innen.",
+    "Bei beiden Wörtern sagt sie die.",
+    "Sie bauen heute nichts zusammen."
+  ],
+  "alltag-a2-das-ende-des-langen-worts": [
+    "Adham markiert zuerst die letzten Teile: Scheibe und Mutter.",
+    "Für diese Bedeutung steht Schraubenmuttern, nicht Schraubenmütter.",
+    "Sie ändern die Familienkarte nicht, sondern lassen beide Einträge getrennt.",
+    "Die Zahlen sind frei gewählte Übungsbeispiele"
+  ],
+  "alltag-b1-farbe-und-materialangabe": [
+    "ob die sichtbaren Farbtöne tatsächlich eine Beschichtung belegen oder durch die Beleuchtung entstehen.",
+    "Die Lernkarte soll einen Gegenstand benennen und ist kein technisches Datenblatt.",
+    "Es gibt weder gemeinsame Maßangaben noch einen dokumentierten Vergleich der Gewinde.",
+    "Eine Aussage über Belastbarkeit, geeignete Anwendung oder sichere Montage folgt daraus nicht."
+  ]
+});

@@ -52,7 +52,7 @@ function Quiz({ make, game, size = 10 }: Props) {
   return (
     <div className="space-y-3 rounded-2xl border border-line bg-card p-5">
       <div className="flex items-center justify-between"><span dir="ltr" role="status" aria-live="polite" aria-atomic="true" aria-label={t(`السؤال ${i + 1} من ${items.length}`, `Question ${i + 1} of ${items.length}`)} className="num text-sm font-bold text-muted">{i + 1} / {items.length}</span>
-        {q.hear && <button onClick={async () => {const request=++audioRequest.current;const ok=await speak(q.hear!);if(request===audioRequest.current)setAudioError(!ok)}} aria-label={t("اسمع بالألماني", "Listen in German")} className="min-h-11 min-w-11 rounded-full border border-line px-3 py-1 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-card"><Speaker /></button>}</div>
+        {q.hear && <button onClick={async () => {const request=++audioRequest.current;const ok=await speak(q.hear!);if(request===audioRequest.current)setAudioError(!ok)}} aria-label={t("اسمع بالألماني", "Listen in German")} aria-describedby={promptId} className="min-h-11 min-w-11 rounded-full border border-line px-3 py-1 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-card"><Speaker /></button>}</div>
       <p ref={promptFocus} tabIndex={-1} id={promptId} dir="ltr" lang="de" className="de text-xl font-semibold focus:outline-none">{q.prompt}</p>
       {q.hint && <p id={hintId} className="ar-title text-sm text-muted"><Mixed text={q.hint} /></p>}
       <div role="group" aria-labelledby={promptId} aria-describedby={q.hint ? hintId : undefined} className="grid gap-2">
