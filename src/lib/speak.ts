@@ -4,7 +4,7 @@ import {readVoicePreference} from './voice-preference';
 import {staticSpeech,speechShardBases} from './static-speech';
 import {recordedAudio} from './recorded-audio';
 export type SpeechStatus='loading'|'playing'|'ended'|'stopped'|'unavailable'|'error';
-export type SpeechOptions={rate?:number;voice?:string;onend?:()=>void;onerror?:()=>void;onstatus?:(status:SpeechStatus)=>void};
+export type SpeechOptions={modelSource?:string;rate?:number;voice?:string;onend?:()=>void;onerror?:()=>void;onstatus?:(status:SpeechStatus)=>void};
 const listeners=new Set<(status:SpeechStatus)=>void>();
 export function subscribeSpeechStatus(listener:(status:SpeechStatus)=>void){listeners.add(listener);return()=>{listeners.delete(listener)}}
 export const speechFailureCopy={
@@ -72,6 +72,8 @@ export async function speak(raw:string,options:SpeechOptions={}){
   u.onend=()=>{if(moved||!active())return;moved=true;clean();finish('ended')};u.onerror=e=>{void advance(e)};
   try{speechSynthesis.speak(u);if(!active())return false;notify('playing');if(!started)timer=setTimeout(()=>{reason='free_start_timeout';void advance()},8000);return true}catch(error){return advance(error)}
  }
+ // Phoneme models cannot fall back to text spelling without changing what is taught.
+ if(options.modelSource!==undefined){if(!/^\/clips\/[a-f0-9]{64}\.mp3$/.test(options.modelSource))return finish('unavailable');return playAudio(options.modelSource,async()=>finish('unavailable'))}
  const sources:string[]=[];if(recordedAudio[text])sources.push(recordedAudio[text]);const cached=staticSpeech[text];
  if(cached?.shard==='deutschy-local'&&/^\/clips\/[a-f0-9]{64}\.mp3$/.test(cached.url))sources.push(cached.url);
  const base=cached?speechShardBases[cached.shard]:'';if(cached&&/^https:\/\/[a-z0-9-]+\.pages\.dev$/.test(base))sources.push(base+cached.url);
