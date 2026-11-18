@@ -4,6 +4,7 @@ import {serveTTS,ttsConfigured,type TTSEnv} from '../lib/tts';
 
 type Env = TTSEnv & {
   DB?: D1Database;
+  HELPER?: {ask(input:unknown):Promise<{status:number;body:unknown;retryAfter:string|null}>};
   GOOGLE_CLIENT_ID?: string;
   GOOGLE_CLIENT_SECRET?: string;
   SESSION_SECRET?: string;
@@ -98,6 +99,22 @@ async function upsertGoogle(db: D1Database, email: string, name: string, picture
 }
 
 const app = new Hono<{ Bindings: Env }>().basePath('/api');
+
+app.post('/helper/chat',async c=>{
+ const origin=c.req.header('Origin');
+ const fail=(status:number,code:string)=>new Response(JSON.stringify({code}),{status,headers:{'Content-Type':'application/json','Cache-Control':'no-store'}});
+ if(origin!=='https://deutschy.pages.dev')return fail(403,'HELPER_UNAVAILABLE');
+ if(!c.env.HELPER)return fail(503,'HELPER_UNAVAILABLE');
+ if(Number(c.req.header('Content-Length')||0)>20000)return fail(413,'HELPER_INVALID_REQUEST');
+ try{
+  const raw=await c.req.text();if(raw.length>20000)return fail(413,'HELPER_INVALID_REQUEST');
+  const payload=JSON.parse(raw);const ip=c.req.header('CF-Connecting-IP');if(!ip)return fail(503,'HELPER_UNAVAILABLE');
+  const user=await getUser(c.req.raw,c.env);
+  const identity=user&&Number.isSafeInteger(user.id)?'user:'+user.id:'guest:'+ip;
+  const result=await c.env.HELPER.ask({payload,identity,ip});
+  return new Response(JSON.stringify(result.body),{status:result.status,headers:{'Content-Type':'application/json','Cache-Control':'no-store',...(result.retryAfter?{'Retry-After':result.retryAfter}:{})}});
+ }catch{return fail(503,'HELPER_UNAVAILABLE')}
+});
 
 app.get('/health', (c) =>
   c.json({
