@@ -1,4 +1,5 @@
 'use client';
+import {accountMemory} from '@/lib/account-memory';
 import { createContext, useContext, useEffect, useState, useCallback, type ReactNode } from 'react';
 
 export type Lang = 'ar' | 'en';
@@ -7,13 +8,10 @@ const Ctx = createContext<{ lang: Lang; setLang: (l: Lang) => void }>({ lang: 'a
 
 export function LangProvider({ children }: { children: ReactNode }) {
   const [lang, setL] = useState<Lang>('ar');
-  useEffect(() => {
-    const saved = (localStorage.getItem(KEY) as Lang | null) ?? 'ar';
-    setL(saved === 'en' ? 'en' : 'ar');
-  }, []);
+  useEffect(() => {const sync=()=>{try{setL(accountMemory.getItem(KEY)==='en'?'en':'ar')}catch{}};sync();window.addEventListener('deutschy:account-state',sync);return()=>window.removeEventListener('deutschy:account-state',sync)},[]);
   const setLang = useCallback((l: Lang) => {
     setL(l);
-    localStorage.setItem(KEY, l);
+    accountMemory.setItem(KEY, l);
     document.documentElement.lang = l;
     document.documentElement.dir = l === 'ar' ? 'rtl' : 'ltr';
   }, []);

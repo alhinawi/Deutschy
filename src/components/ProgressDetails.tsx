@@ -13,7 +13,7 @@ function Bar({ value, max }: { value: number; max: number }) {
 export default function ProgressDetails() {
   const t = useT();
   const { s, ready } = useStore();
-  if (!ready) return <p role="status" className="py-4 text-muted">{t('بنحمّل السجل المحفوظ على الجهاز...', 'Loading the saved device record...')}</p>;
+  if (!ready) return <p role="status" className="py-4 text-muted">{t('بنفتح سجل التدريب...', 'Loading your practice record...')}</p>;
 
   const words = wordProgress(s);
   const readings = readingProgress(s);

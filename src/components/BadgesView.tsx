@@ -12,7 +12,7 @@ export default function BadgesView() {
   const earned = list.filter((b) => b.earned).length;
   return <div className="space-y-6">
     <h1 className="ar-title text-4xl font-bold">{t('شارات إنجازك', 'Your badges')}</h1>
-    <p className="text-muted">{t('كل شارة من تمرينك الفعلي، مش هدية جاهزة. البيانات دي من السجل الموجود في المتصفح ده. مسح بياناته ممكن يمسح التقدم المحلي.', 'Every badge comes from recorded practice, never sample achievements. These numbers use this browser\'s saved record. Clearing browser data can erase local progress.')}</p>
+    <p className="text-muted">{t('كل شارة من تمرينك الفعلي، مش هدية جاهزة. السجل في الحساب للمسجّل بعد تأكيد الحفظ، وفي ذاكرة التبويب بس للضيف.', 'Every badge comes from recorded practice, never sample achievements. These numbers use account storage when signed in after server confirmation, or tab memory for guests.')}</p>
     <div className="grid grid-cols-2 gap-3 sm:grid-cols-4">{[
       [String(s.xp), 'XP', 'XP'],
       [String(currentStreak(s)), 'أيام متواصلة دلوقتي', 'Current streak'],

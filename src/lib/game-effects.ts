@@ -1,4 +1,5 @@
 'use client';
+import {accountMemory} from './account-memory';
 // Effects are independent of speech providers and never request a network resource.
 export const EFFECT_KEY = 'deutschy:effects';
 let gesture = false;
@@ -10,7 +11,7 @@ let selectionUntil=0;
 const active = new Set<OscillatorNode>();
 export function effectsEnabled() {
   if (typeof window === 'undefined' || window.matchMedia('(prefers-reduced-motion: reduce)').matches) return false;
-  try { return localStorage.getItem(EFFECT_KEY) !== 'off'; } catch { return false; }
+  try { return accountMemory.getItem(EFFECT_KEY) !== 'off'; } catch { return false; }
 }
 export function stopEffects() {
   generation++;
