@@ -375,4 +375,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zwei-schalen-auf-bildern',dialogue:'ueberschriften-ausblenden'},
  {reading:'alltag-a2-ein-haus-mehrere-haeuser',dialogue:'jede-mehrzahl-einzeln'},
  {reading:'alltag-b1-zwei-quellen-keine-reiseerinnerung',dialogue:'keine-erfundene-eigene-erfahrung'},
+ {reading:'alltag-a1-gemuese-auf-den-karten',dialogue:'welches-bild-hat-den-korb'},
+ {reading:'alltag-a2-zwei-woerter-ein-name',dialogue:'die-endung-gehoert-zum-artikel'},
+ {reading:'alltag-b1-eine-aenderung-im-kursplan',dialogue:'notiert-ist-noch-nicht-umgesetzt'},
 ];

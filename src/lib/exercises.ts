@@ -594,3 +594,6 @@ for(const[topic,rows]of Object.entries(kleinteileGrammar))exercises[topic].push(
 
 import {schalenformenGrammar} from './exercises-schalenformen';
 for(const[topic,rows]of Object.entries(schalenformenGrammar))exercises[topic].push(...rows);
+
+import {wurzelgemueseGrammar} from './exercises-wurzelgemuese';
+for(const[topic,rows]of Object.entries(wurzelgemueseGrammar))exercises[topic].push(...rows);

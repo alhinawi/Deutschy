@@ -751,6 +751,10 @@
   {
    "id": "schalenformen",
    "ar": "صدفة محار وقوقعة حلزون"
+  },
+  {
+   "id": "wurzelgemuese",
+   "ar": "بنجر وفجل"
   }
  ],
  "words": [
@@ -14994,6 +14998,34 @@
     "author": "Anton Atanasov",
     "license": "Pexels License",
     "modified": true
+   }
+  },
+  {
+   "id": "rote-bete",
+   "topic": "wurzelgemuese",
+   "art": "die",
+   "de": "Rote Bete",
+   "plural": "Roten Beten",
+   "ar": "بنجر",
+   "photo": {
+    "file": "33893320.jpg",
+    "commons": "https://www.pexels.com/photo/fresh-harvested-beets-on-rustic-surface-33893320/",
+    "author": "Vero Lova",
+    "license": "Pexels License"
+   }
+  },
+  {
+   "id": "rettich",
+   "topic": "wurzelgemuese",
+   "art": "der",
+   "de": "Rettich",
+   "plural": "Rettiche",
+   "ar": "فجل",
+   "photo": {
+    "file": "Miura_Daikon_ac.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Miura_Daikon_ac.jpg",
+    "author": "Asturio Cantabrio",
+    "license": "CC BY-SA 4.0"
    }
   }
  ]

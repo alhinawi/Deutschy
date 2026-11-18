@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  wurzelgemuese: 'Rote Bete und Rettich',
   schalenformen: 'Muschelschale und Schneckenhaus',
   kleinteile: 'Unterlegscheibe und Schraubenmutter',
   wasserformen: 'Wassertropfen und Eiszapfen',
@@ -185,6 +186,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  wurzelgemuese: 'Beetroot and radish',
   schalenformen: 'Bivalve shell and snail shell',
   kleinteile: 'Washer and nut',
   wasserformen: 'Water droplet and icicle',
