@@ -17,9 +17,9 @@ export default function WritingView({ onlyLevel }: { onlyLevel?: 'A2' | 'B1' | '
   const { lang } = useLang();
   const [lv, setLv] = useState<(typeof LV)[number]>('all');
   const [open, setOpen] = useState<WTask | null>(null);
-  useEffect(()=>{const select=()=>{const id=window.location.hash.slice(1);const task=writingTasks.find(t=>t.id===id&&(!onlyLevel||t.level===onlyLevel));if(task)setOpen(task)};select();window.addEventListener('hashchange',select);return()=>window.removeEventListener('hashchange',select)},[onlyLevel]);
+  useEffect(()=>{const select=()=>{const id=window.location.hash.slice(1);const task=writingTasks.find(t=>t.id===id&&(!onlyLevel||t.level===onlyLevel));setOpen(task??null)};select();window.addEventListener('hashchange',select);return()=>window.removeEventListener('hashchange',select)},[onlyLevel]);
   const list = writingTasks.filter((x) => lv === 'all' || x.level === lv).filter((x) => !onlyLevel || x.level === onlyLevel);
-  if (open) return <Task task={open} back={() => {setOpen(null);history.replaceState(null,'',location.pathname)}} />;
+  if (open) return <Task key={open.id} task={open} back={() => {setOpen(null);history.replaceState(null,'',location.pathname)}} />;
   return (
     <div className="space-y-6">
       <h1 className="ar-title text-4xl font-bold">{onlyLevel ? t(`تدريب كتابة ${onlyLevel}`, `${onlyLevel} writing practice`) : t('تدريب الكتابة', 'Writing practice')}</h1>
@@ -47,10 +47,11 @@ function Task({ task, back }: { task: WTask; back: () => void }) {
   const key = `deutschy:w:${task.id}`;
   const [text, setText] = useState('');
   const [model, setModel] = useState(false);
-  useEffect(() => { try { setText(localStorage.getItem(key) ?? ''); } catch { /* ignore */ } }, [key]);
+  const [draftStatus, setDraftStatus] = useState<'loading'|'ready'|'saved'|'error'>('loading');
+  useEffect(() => { try { setText(localStorage.getItem(key) ?? ''); setDraftStatus('ready'); } catch { setDraftStatus('error'); } }, [key]);
   const n = words(text);
   const checks = task.need.map((x) => has(text, x[0]));
-  const done = checks.every(Boolean) && n >= task.min;
+  const done = draftStatus !== 'loading' && checks.every(Boolean) && n >= task.min;
   const won = (s.seen[`w:${task.id}`]?.ok ?? 0) > 0;
   useEffect(() => { if (done && !won) award(20, `w:${task.id}`, true); }, [done, won, award, task.id]);
   return (
@@ -63,7 +64,8 @@ function Task({ task, back }: { task: WTask; back: () => void }) {
       <p className="ar-title text-lg leading-8">{lang === 'ar' ? <Mixed text={task.brief[0]} /> : task.brief[1]}</p>
       {task.tips && <aside className="rounded-xl border border-accent bg-card p-4"><h2 className="ar-title mb-2 text-xl font-bold">{t('خد بالك', 'Writing tip')}</h2><p><Mixed text={lang === 'ar' ? task.tips[0] : task.tips[1]} /></p></aside>}
       <label htmlFor="writing-answer" className="ar-title block font-bold">{t('نصك بالألماني', 'Your text in German')}</label>
-      <textarea id="writing-answer" dir="ltr" lang="de" rows={9} value={text} onChange={(e) => { setText(e.target.value); try { localStorage.setItem(key, e.target.value); } catch { /* ignore */ } }} className="de w-full rounded-2xl border border-line bg-card p-4 text-lg outline-none focus:border-accent" placeholder="…" />
+      <textarea id="writing-answer" aria-describedby="writing-draft-status" disabled={draftStatus==='loading'} dir="ltr" lang="de" rows={9} value={text} onChange={(e) => { setText(e.target.value); try { localStorage.setItem(key, e.target.value); setDraftStatus('saved'); } catch { setDraftStatus('error'); } }} className="de w-full rounded-2xl border border-line bg-card p-4 text-lg outline-none focus:border-accent" placeholder="…" />
+      <p id="writing-draft-status" role={draftStatus==='error'?'alert':'status'} className="text-sm text-muted">{draftStatus==='loading'?t('بنفتح مسودة المهمة دي...', 'Opening this task draft...'):draftStatus==='error'?t('مقدرناش نتأكد إن المسودة اتحملت أو اتحفظت. الكلام المعروض ممكن يكون في التبويب بس؛ انسخه قبل ما تخرج أو تقفل.', 'The draft could not be loaded or saved reliably. The displayed text may be in this tab only; copy it before leaving or closing.'):draftStatus==='saved'?t('اتحفظت مسودة المهمة دي على المتصفح والجهاز ده بس.', 'This task draft was saved only in this browser/device.'):t('كل مهمة ليها مسودة لوحدها على الجهاز ده. التعديلات بتتحفظ تلقائي هنا لو التخزين متاح، مش بتتبعت لحسابك.', 'Each task has its own draft on this device. Edits save automatically here when storage is available, not to your account.')}</p>
       <p dir="ltr" className={`num text-sm ${n >= task.min ? 'text-good' : 'text-muted'}`}>{n} / {task.min} {t('كلمة', 'words')}</p>
       <ul className="space-y-2">
         {task.need.map((x, i) => (

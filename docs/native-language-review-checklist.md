@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-fifty-ninth product update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-sixtieth product update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1707,6 +1707,12 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | Done | Route / location | What needs a human decision |
 | --- | --- | --- |
 | [ ] | `/weekly-plan/`, stored root/current week | Explicit validation flags unreadable plans rather than presenting blank as unsaved. Save rechecks storage, preserves original damaged bytes and current draft; valid other/legacy weeks remain untouched. Confirmed scoped delete retained. Four AR/EN320/390 variants,184 assertions,4 axe;390px warning/draft screenshots inspected. No migration/cross-tab merge claim. Actual-device screen-reader/storage failure and native editorial checks remain manual. |
+
+### List 160: Isolate writing tasks and show draft failures
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/writing/`, six-level task hashes | Task identity resets draft/model/check state; completion waits for draft load and cannot borrow the previous task text. Invalid/empty hash returns to task list. Local-only save/read status warns to copy the visible draft on failure.24 AR/EN320/390 variants,484 assertions,4 axe;390px warning/draft screenshots inspected. No cross-tab/recovery/retroactive-history repair claim. Native editorial and actual-device keyboard/screen-reader/storage checks remain manual. |
 
 ## 3. Wider review queue after the focused batch
 

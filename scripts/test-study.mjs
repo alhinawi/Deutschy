@@ -1496,3 +1496,7 @@ for(const value of [null,{},[],[validPlan159[0]],validPlan159.map((d,i)=>i?d:{go
 assert.equal(readPlanWeek(JSON.stringify({other:[{old:'untouched'}]}),planKey159).unreadable,false);
 const planner159=readFileSync('src/components/WeeklyPlanner.tsx','utf8');assert(planner159.includes('setUnavailable(stored.unreadable)'));assert(planner159.includes("if(stored.unreadable||!stored.records)throw Error('Unreadable stored plan preserved')"));
 console.log('PASS:weekly planner rejects damaged root/current-week data without writing,valid absent/full weeks accepted,other weeks preserved');
+
+const writing160=readFileSync('src/components/WritingView.tsx','utf8');
+for(const guard of ['<Task key={open.id} task={open}',"setOpen(task??null)","draftStatus !== 'loading' && checks.every(Boolean)","setDraftStatus('error')",'aria-describedby="writing-draft-status"',"disabled={draftStatus==='loading'}",'not to your account.'])assert(writing160.includes(guard),guard);
+console.log('PASS:writing task identity isolates draft/model/check state,waits for draft load and reports local-save failures');

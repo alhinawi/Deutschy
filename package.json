@@ -17,7 +17,8 @@
     "test:dependencies": "node scripts/test-postcss.mjs",
     "test:navigation:browser": "node scripts/test-navigation-browser.mjs",
     "test:timed:browser": "node scripts/test-timed-browser.mjs",
-    "test:planner:browser": "node scripts/test-planner-browser.mjs"
+    "test:planner:browser": "node scripts/test-planner-browser.mjs",
+    "test:writing:browser": "node scripts/test-writing-browser.mjs"
   },
   "dependencies": {
     "hono": "^4.13.18",
