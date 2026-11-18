@@ -1,5 +1,6 @@
 
 'use client';
+import {answerEffect} from '@/lib/game-effects';
 import {useRef,useState} from 'react';
 import {useT} from '@/lib/i18n';
 import {b1Grammar} from '@/lib/b1-grammar';
@@ -21,7 +22,7 @@ export default function PoliteTransform(){
  <select id="polite-task" value={i} onChange={e=>change(+e.target.value)} className="min-h-11 w-full max-w-full rounded-xl border border-line bg-paper p-3">{selected.map((_,j)=><option key={j} value={j}>{j+1} · {t(names[j][0],names[j][1])}</option>)}</select>
  <p role="status" aria-atomic="true" className="num text-sm text-muted">{notice||<>{t('المثال','Example')} <span dir="ltr" className="inline-block">{i+1} / {selected.length}</span> · {t('اتراجع','Checked')} <span dir="ltr" className="inline-block">{count} / {selected.length}</span></>}</p>
  <p>{t(q.ar,q.en)}</p><p dir="ltr" className="de">{q.cue}</p><p dir="ltr" lang="de" className="de text-xl">{row[0]}</p>
- <form onSubmit={e=>{e.preventDefault();if(attempt.answer.trim())setAttempt({...attempt,checked:true})}} className="space-y-3">
+ <form onSubmit={e=>{e.preventDefault();if(attempt.answer.trim()){if(!attempt.checked)answerEffect(attempt.answer.normalize('NFC').trim()===row[1]);setAttempt({...attempt,checked:true})}}} className="space-y-3">
  <label htmlFor="polite-answer" className="block">{t('صيغة الفعل','Verb form')}</label>
  <input ref={input} id="polite-answer" aria-describedby="polite-help" value={attempt.answer} onChange={e=>setAttempt({answer:e.target.value,checked:false})} dir="ltr" lang="de" autoComplete="off" autoCapitalize="none" spellCheck={false} className="de w-full rounded-xl border border-line bg-paper p-3" maxLength={30}/>
  <button disabled={!attempt.answer.trim()} className="min-h-11 rounded-full bg-accent px-5 py-3 text-accent-ink disabled:opacity-50">{t('راجع الصيغة','Check form')}</button>

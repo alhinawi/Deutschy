@@ -41,7 +41,7 @@ try{
   await page.evaluate(()=>{window.__voiceMode='ok'});await page.$eval(selector,e=>e.scrollIntoView({block:'center'}));await page.tap(selector);await page.waitForFunction(()=>document.querySelector('article [role=status]')?.textContent.includes(document.documentElement.lang==='ar'?'الصوت خلص':'Audio finished'));
   assert.equal(await page.$('[data-speech-notice]'),null);checks++;
   // A caller with no local error handler gets the same shared failure notice.
-  await page.goto(base+'/pronunciation/',{waitUntil:'networkidle0'});await page.waitForSelector('main button');await page.$eval('main button',e=>e.scrollIntoView({block:'center'}));await page.tap('main button');await page.waitForSelector('[data-speech-notice]');assert((await page.$eval('[data-speech-notice]',e=>e.textContent)).includes(unavailable));checks++;
+  await page.goto(base+'/pronunciation/',{waitUntil:'networkidle0'});await page.waitForSelector('main button:not(aside button)');await page.$eval('main button:not(aside button)',e=>e.scrollIntoView({block:'center'}));await page.tap('main button:not(aside button)');await page.waitForSelector('[data-speech-notice]');assert((await page.$eval('[data-speech-notice]',e=>e.textContent)).includes(unavailable));checks++;
   assert.deepEqual(errors,[]);checks++;await context.close();
  }
  console.log('PASS audio feedback:',checks,'assertions; AR/EN 320/390 touch variants, inline/shared unavailable, runtime error, success clear, dismissal/retry, unrelated caller, 4 axe snapshots, no overflow or page errors.');
