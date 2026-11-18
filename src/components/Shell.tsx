@@ -88,6 +88,12 @@ export default function Shell({ children }: { children: ReactNode }) {
             <Link href="/account/" aria-label={t("دخول", "Sign in")} className="hidden min-h-11 min-w-11 items-center justify-center rounded-xl bg-accent px-2 text-xs font-bold text-accent-ink sm:flex"><span className="hidden sm:inline">{t("دخول", "Sign in")}</span><svg viewBox="0 0 24 24" className="h-4 w-4 sm:hidden" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true"><circle cx="12" cy="8" r="4" /><path d="M4 22v-3a8 8 0 0 1 16 0v3" /></svg></Link>
           )}
         </div>
+        <div className="flex justify-end border-t border-line px-4 sm:hidden">
+          <Link data-mobile-account href="/account/" className="inline-flex min-h-11 items-center gap-2 py-2 text-sm font-bold text-accent focus-visible:outline-2 focus-visible:outline-accent">
+            <svg viewBox="0 0 24 24" className="h-4 w-4" fill="none" stroke="currentColor" strokeWidth="2" aria-hidden="true"><circle cx="12" cy="8" r="4"/><path d="M4 22v-3a8 8 0 0 1 16 0v3"/></svg>
+            {user?t('حسابي','My account'):t('تسجيل الدخول','Sign in')}
+          </Link>
+        </div>
       </header>
       <dialog ref={mobileNavigation} id="mobile-navigation" aria-label={t('التنقل', 'Navigation')}
         onCancel={e => { e.preventDefault(); setOpen(false); }}
