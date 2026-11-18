@@ -2636,3 +2636,24 @@ Object.assign(readingEvidence,{
     "Diese wäre dann als Fiktion gekennzeichnet"
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-gemuese-auf-den-karten": [
+    "Auf der anderen liegen lange weiße und rosa Rettiche in einem Korb.",
+    "Er sagt die Rote Bete und der Rettich.",
+    "Jonas zeigt ihr den Anfang der Wortkarte.",
+    "Auf ihrem Tisch liegt kein echtes Gemüse."
+  ],
+  "alltag-a2-zwei-woerter-ein-name": [
+    "Sie wollen nicht nur das letzte Wort prüfen.",
+    "die Mehrzahl die Roten Beten.",
+    "Ohne Artikel lautet die Nominativform dagegen Rote Beten.",
+    "Diese neue Frage beantworten sie heute noch nicht."
+  ],
+  "alltag-b1-eine-aenderung-im-kursplan": [
+    "ob dieser Titel bereits ein festgelegtes Rezept ankündigt.",
+    "kein Nachweis darüber, was vor Ort vorhanden sein wird.",
+    "Karim trägt diese Vorliebe als offenen Punkt ein.",
+    "ein noch offener Rezeptvorschlag und eine Liste mit Rückfragen."
+  ]
+});

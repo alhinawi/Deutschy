@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-forty-third practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-forty-fourth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1546,9 +1546,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Shared MiniQuiz continuation description | Next/Result now references the current answer feedback via aria-describedby, retaining localized names. 80 correct and 8 wrong cases check unique valid references to exact feedback, including isolated German correction. 80 next/result and 8 new-round focus checks pass. Actual screen-reader/device tests pending. |
 | [ ] | Listening/dictation | 69 original segments, 276 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice labels are not certification; progress is device-local. |
 
+### List 144: Beetroot and radish
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-gemuese-auf-den-karten/` and linked dialogue | Amira/Jonas identify photographed beetroot with red stems and long white/pink radishes in a basket. Word starts as a memory cue, singular articles die/der. No actual vegetables in the classroom or handling advice. |
+| [ ] | `/reading/alltag-a2-zwei-woerter-ein-name/` and linked dialogue | Dalia/Ben check the whole expression: die Rote Bete / die Roten Beten with definite article; Rote Beten without article in nominative. Stored plural Roten Beten fits the displayed die. Rettich/Rettiche. No blanket rule for all two-word names; other determiners remain a question. |
+| [ ] | `/reading/alltag-b1-eine-aenderung-im-kursplan/` and linked dialogue | Ines/Karim separate a finished vocabulary task from an open fictional recipe plan. Neles preference is noted, not diagnosed or implemented. No allergen-free promise, health advice, inventory claim or real booking. |
+| [ ] | `/lessons/wurzelgemuese/` and `/credits/` | die Rote Bete/Roten Beten (بنجر), der Rettich/Rettiche (فجل). Duden/Wiktionary definite-article forms and Duden/DWDS Rettich checked. Vero Lova 33893320 whole beetroots, 1800 x 1350. Asturio Cantabrio Miura_Daikon_ac.jpg white/pink long radishes, 960 x 720. Both full-frame resized to 800 x 600, no crop/stretch/padding/faces/brands. Rettich uses CC BY-SA 4.0. Rejected ambiguous turnip/parsnip-like candidates. Actual 390px AR/EN cards inspected. |
+| [ ] | Six appended grammar banks | 24 article/accusative/present/possessive/two-way/negation rows. Earlier identities preserved. Native German and Egyptian Arabic editorial checks pending. |
+| [ ] | Credits license link | CC BY-SA 4.0 now links to its exact license URL with the existing new-tab/noreferrer/underline pattern. 12 new/existing license-link checks and 4 axe in AR/EN 320/390; author, original source, no false crop marker, plain Pexels text, no-results/clear/focus and no XP. 390px license-cell pixels inspected. Actual assistive-device review pending. |
+| [ ] | Listening/dictation | 72 original segments, 288 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice labels are not certification; progress is device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **943 photo nouns / 188 topics**, **447 reading texts / 1741 reading questions**, **41 core grammar topics / 3382 core grammar questions**, **387 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **945 photo nouns / 189 topics**, **450 reading texts / 1753 reading questions**, **41 core grammar topics / 3406 core grammar questions**, **390 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1560,7 +1572,7 @@ This is an inventory, not completed review. Snapshot: **943 photo nouns / 188 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 131 · A2 159 · B1 127 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 132 · A2 160 · B1 128 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

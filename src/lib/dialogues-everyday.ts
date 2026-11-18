@@ -26863,3 +26863,218 @@ Object.assign(dialogueEvidence,{
     "Die Quellen und die Ausschnitte dokumentiere ich getrennt."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "welches-bild-hat-den-korb",
+    "level": "A1",
+    "title": [
+      "Der Anfang hilft",
+      "أول الكلمة بيساعد"
+    ],
+    "lines": [
+      [
+        "Amira",
+        "Was liegt auf dem Foto im Korb?",
+        "إيه اللي في الصورة جوه السبت؟"
+      ],
+      [
+        "Jonas",
+        "Rettiche. Auf der Wortkarte steht der Rettich.",
+        "فجل. على كارت الكلمة مكتوب der Rettich."
+      ],
+      [
+        "Amira",
+        "Gut. Und die andere Karte?",
+        "تمام. والكارت التاني؟"
+      ],
+      [
+        "Jonas",
+        "Die Rote Bete. Jetzt fragst du mich nach dem Artikel, oder?",
+        "die Rote Bete. دلوقتي هتسأليني عن أداة التعريف، صح؟"
+      ],
+      [
+        "Amira",
+        "Ja. Danach bin ich dran.",
+        "أيوه. بعد كده دوري."
+      ],
+      [
+        "Jonas",
+        "Wenn dir das Wort fehlt, zeige ich dir den Anfang.",
+        "لو الكلمة مش جاية في بالك هوريكي أولها."
+      ],
+      [
+        "Amira",
+        "Danke. Wir brauchen dafür nur die Karten.",
+        "شكرًا. إحنا محتاجين الكروت بس عشان ده."
+      ]
+    ],
+    "q": [
+      [
+        "Welcher Artikel steht vor Rettich?",
+        "der",
+        "die",
+        "das"
+      ],
+      [
+        "Wer ist danach dran?",
+        "Amira.",
+        "Eine Verkäuferin.",
+        "Niemand."
+      ],
+      [
+        "Was bietet Jonas als Hilfe an?",
+        "Den Wortanfang zeigen.",
+        "Gemüse kaufen.",
+        "Die Pause beenden."
+      ]
+    ]
+  },
+  {
+    "id": "die-endung-gehoert-zum-artikel",
+    "level": "A2",
+    "title": [
+      "Mit und ohne Artikel",
+      "بأداة تعريف ومن غيرها"
+    ],
+    "lines": [
+      [
+        "Ben",
+        "Auf der Karte steht die Roten Beten.",
+        "على الكارت مكتوب die Roten Beten."
+      ],
+      [
+        "Dalia",
+        "Ja. Das ist hier die Mehrzahl mit bestimmtem Artikel.",
+        "أيوه. ده هنا الجمع بأداة التعريف المحددة."
+      ],
+      [
+        "Ben",
+        "Und ohne Artikel im Nominativ?",
+        "ومن غير أداة تعريف في المرفوع؟"
+      ],
+      [
+        "Dalia",
+        "Rote Beten. Das ist eine andere Umgebung.",
+        "Rote Beten. ده سياق مختلف."
+      ],
+      [
+        "Ben",
+        "Dann lasse ich die auf unserer Karte stehen.",
+        "يبقى هسيب die على كارتنا."
+      ],
+      [
+        "Dalia",
+        "Genau. Bei Rettich haben wir der Rettich und die Rettiche.",
+        "بالظبط. مع Rettich عندنا der Rettich وdie Rettiche."
+      ],
+      [
+        "Ben",
+        "Die Frage zu anderen Begleitern nehmen wir mit in den Unterricht.",
+        "وسؤال الكلمات المصاحبة التانية هناخده معانا الحصة."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Form steht auf der Karte mit die?",
+        "Roten Beten.",
+        "Rote Beten ohne Artikel.",
+        "Roter Bete als Mehrzahl."
+      ],
+      [
+        "Was macht Ben mit dem Artikel auf der Karte?",
+        "Er lässt ihn stehen.",
+        "Er streicht ihn.",
+        "Er ersetzt ihn durch das."
+      ],
+      [
+        "Wohin nehmen sie die neue Frage mit?",
+        "In den Unterricht.",
+        "An einen Marktstand.",
+        "Zu einer Bestellung."
+      ]
+    ]
+  },
+  {
+    "id": "notiert-ist-noch-nicht-umgesetzt",
+    "level": "B1",
+    "title": [
+      "Ein Wunsch bleibt offen",
+      "الطلب لسه مفتوح"
+    ],
+    "lines": [
+      [
+        "Nele",
+        "Im späteren Rezept möchte ich den Rettich lieber weglassen.",
+        "في الوصفة اللي بعدين أفضل نشيل الفجل."
+      ],
+      [
+        "Karim",
+        "Ich notiere das als Vorliebe und offenen Punkt.",
+        "هسجل ده كتفضيل ونقطة لسه مفتوحة."
+      ],
+      [
+        "Ines",
+        "Die konkrete Zutatenliste ist noch nicht abgestimmt.",
+        "قايمة المكونات الفعلية لسه مش متفق عليها."
+      ],
+      [
+        "Nele",
+        "Dann ist das noch keine feste Zusage für ein Gericht?",
+        "يبقى ده لسه مش وعد نهائي بطبق؟"
+      ],
+      [
+        "Karim",
+        "Richtig. Fertig ist bisher nur unsere Sprachübung.",
+        "صح. اللي جاهز لحد دلوقتي تدريب اللغة بس."
+      ],
+      [
+        "Ines",
+        "Wir versprechen hier auch keine allergenfreie Küche.",
+        "وكمان مش بنوعد هنا بمطبخ خالي من مسببات الحساسية."
+      ],
+      [
+        "Nele",
+        "Gut. Ich möchte den Stand unseres Entwurfs klar verstehen.",
+        "تمام. عايزة أفهم حالة المسودة بوضوح."
+      ]
+    ],
+    "q": [
+      [
+        "Was möchte Nele lieber weglassen?",
+        "Den Rettich.",
+        "Alle Wortkarten.",
+        "Die Liste mit Rückfragen."
+      ],
+      [
+        "Was ist bisher fertig?",
+        "Nur die Sprachübung.",
+        "Ein verbindliches Rezept.",
+        "Die tatsächliche Zubereitung."
+      ],
+      [
+        "Was versprechen sie ausdrücklich nicht?",
+        "Eine allergenfreie Küche.",
+        "Einen klaren Entwurfsstand.",
+        "Neles Wunsch zu notieren."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "welches-bild-hat-den-korb": [
+    "der Rettich.",
+    "Danach bin ich dran.",
+    "zeige ich dir den Anfang."
+  ],
+  "die-endung-gehoert-zum-artikel": [
+    "die Roten Beten.",
+    "lasse ich die auf unserer Karte stehen.",
+    "mit in den Unterricht."
+  ],
+  "notiert-ist-noch-nicht-umgesetzt": [
+    "den Rettich lieber weglassen.",
+    "Fertig ist bisher nur unsere Sprachübung.",
+    "keine allergenfreie Küche."
+  ]
+});

@@ -432,3 +432,6 @@ readings.push(...kleinteileTexts);
 
 import {schalenformenTexts} from './reading-schalenformen';
 readings.push(...schalenformenTexts);
+
+import {wurzelgemueseTexts} from './reading-wurzelgemuese';
+readings.push(...wurzelgemueseTexts);
