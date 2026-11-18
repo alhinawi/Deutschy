@@ -1,0 +1,3122 @@
+[
+  {
+    "id": "s190-advanced-0001",
+    "de": "Ich übernehme den ersten Teil, wenn du dich um die Auswertung kümmerst.",
+    "ar": "أنا همسك أول جزء لو إنت هتمسك تحليل النتايج.",
+    "en": "I will take the first part if you handle the analysis.",
+    "level": "B1",
+    "topic": "work-coordination",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6181cbf7236aa7eea23148fcb99a246b96a190e7acc3a0e7538176ce16bac198"
+    }
+  },
+  {
+    "id": "s190-advanced-0002",
+    "de": "Bevor wir anfangen, sollten wir die Aufgaben klar verteilen.",
+    "ar": "قبل ما نبدأ، المفروض نقسم المهام بوضوح.",
+    "en": "Before we start, we should divide up the tasks clearly.",
+    "level": "B1",
+    "topic": "work-coordination",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "082eebbf5d1888feb3f9fd21123bd70a28c1d6b6893dbd8e6b141ae67a922b7b"
+    }
+  },
+  {
+    "id": "s190-advanced-0003",
+    "de": "Wer ist für die Freigabe des Entwurfs zuständig?",
+    "ar": "مين المسؤول عن الموافقة على المسودة؟",
+    "en": "Who is responsible for approving the draft?",
+    "level": "B1",
+    "topic": "work-coordination",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ae20a89d802dd9a527405526fadbf18f261db7f013c96592f2f9a283280a7d18"
+    }
+  },
+  {
+    "id": "s190-advanced-0004",
+    "de": "Ich habe die Änderungen im Dokument markiert.",
+    "ar": "أنا علمت على التغييرات في الملف.",
+    "en": "I have marked the changes in the document.",
+    "level": "B1",
+    "topic": "work-coordination",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "2456550895810ffd3a0dac495535f9c7dd2143c20144d38469c457f2deaea887"
+    }
+  },
+  {
+    "id": "s190-advanced-0005",
+    "de": "Bitte arbeite nur mit der aktuellen Version.",
+    "ar": "اشتغل على آخر نسخة بس لو سمحت.",
+    "en": "Please work only with the current version.",
+    "level": "B1",
+    "topic": "work-coordination",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "37e1c6eac11cc90d53db9f20819aa92962302657d2cd65b52a9b928346fd8b00"
+    }
+  },
+  {
+    "id": "s190-advanced-0006",
+    "de": "Die alte Datei liegt noch im gemeinsamen Ordner.",
+    "ar": "الملف القديم لسه في الفولدر المشترك.",
+    "en": "The old file is still in the shared folder.",
+    "level": "B1",
+    "topic": "work-coordination",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a3c216adb0949438cc3528a5a81ef7ea269e880e6d668d97372340a54a85dfa4"
+    }
+  },
+  {
+    "id": "s190-advanced-0007",
+    "de": "Wir warten noch auf eine Rückmeldung aus der Buchhaltung.",
+    "ar": "لسه مستنيين رد من قسم الحسابات.",
+    "en": "We are still waiting for a response from accounting.",
+    "level": "B1",
+    "topic": "work-coordination",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "456d35594b6c764ba1ade81fd94f9e1521b295f907f31fcb944d5a863c4363c5"
+    }
+  },
+  {
+    "id": "s190-advanced-0008",
+    "de": "Ich halte dich über den Fortschritt auf dem Laufenden.",
+    "ar": "هعرفك بكل جديد في تقدم الشغل.",
+    "en": "I will keep you updated on progress.",
+    "level": "B1",
+    "topic": "work-coordination",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "5d31d1919d5ce986f26f82d44dfdeb91371a113ae74bada2b54d26e4c8a8b160"
+    }
+  },
+  {
+    "id": "s190-advanced-0009",
+    "de": "Die Aufgabe ist erledigt, aber die Prüfung steht noch aus.",
+    "ar": "المهمة خلصت، بس المراجعة لسه متعملتش.",
+    "en": "The task is finished, but the review is still outstanding.",
+    "level": "B1",
+    "topic": "work-coordination",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "63c727ed89b70307155b24612f80294aa78ab79e1181142b3cb8ad4a6febdc63"
+    }
+  },
+  {
+    "id": "s190-advanced-0010",
+    "de": "Lass uns kurz besprechen, was bis Freitag wirklich machbar ist.",
+    "ar": "خلينا نتكلم بسرعة عن اللي نقدر نعمله فعلاً لحد الجمعة.",
+    "en": "Let us briefly discuss what is actually possible by Friday.",
+    "level": "B1",
+    "topic": "work-coordination",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e6fa086183acf827c73a1c1ba054ffc781e1cc3705e5522a1d28ac15597af4a0"
+    }
+  },
+  {
+    "id": "s190-advanced-0011",
+    "de": "Bei diesem Absatz ist mir noch nicht klar, was du meinst.",
+    "ar": "الفقرة دي لسه مش واضحلي إنت تقصد بيها إيه.",
+    "en": "I am not yet sure what you mean in this paragraph.",
+    "level": "B1",
+    "topic": "work-feedback",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "73d295bd525bd730ea5116fe671fba3ec351466147211d66607e1e0a89427f79"
+    }
+  },
+  {
+    "id": "s190-advanced-0012",
+    "de": "Der Einstieg ist verständlich, aber der Schluss fehlt noch.",
+    "ar": "البداية مفهومة، بس الخاتمة لسه ناقصة.",
+    "en": "The introduction is clear, but the conclusion is still missing.",
+    "level": "B1",
+    "topic": "work-feedback",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "93ad5f29f67d344118f41e4026136fafd06a60d5707e61e82ea5117f5e2ccc0a"
+    }
+  },
+  {
+    "id": "s190-advanced-0013",
+    "de": "Kannst du deine Kritik an einem konkreten Beispiel erklären?",
+    "ar": "ممكن توضح نقدك بمثال محدد؟",
+    "en": "Can you explain your criticism using a specific example?",
+    "level": "B1",
+    "topic": "work-feedback",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "00e7dc500b7347c788888df26057c0cd4033256882f9950bba79c69392331298"
+    }
+  },
+  {
+    "id": "s190-advanced-0014",
+    "de": "Ich habe deine Anmerkung anders verstanden.",
+    "ar": "أنا فهمت ملاحظتك بشكل مختلف.",
+    "en": "I understood your comment differently.",
+    "level": "B1",
+    "topic": "work-feedback",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0449377c5bafa29aaa811ddc075f099bafa2222857e63b7065f91d4333eb974d"
+    }
+  },
+  {
+    "id": "s190-advanced-0015",
+    "de": "Danke für den Hinweis, das hatte ich übersehen.",
+    "ar": "متشكر على التنبيه، دي كانت فاتتني.",
+    "en": "Thank you for pointing that out. I had overlooked it.",
+    "level": "B1",
+    "topic": "work-feedback",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "17336b7d3894c5c0cb3a904cd8cace96efc473e8f07610a7f2bf169b8f213e63"
+    }
+  },
+  {
+    "id": "s190-advanced-0016",
+    "de": "An dieser Stelle würde eine kürzere Erklärung helfen.",
+    "ar": "هنا شرح أقصر هيكون مفيد.",
+    "en": "A shorter explanation would help at this point.",
+    "level": "B1",
+    "topic": "work-feedback",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "b4beb75b8cbd7dc3475561b27e9a10af3fe1f52b1454bd371427ca7d723f077d"
+    }
+  },
+  {
+    "id": "s190-advanced-0017",
+    "de": "Ich möchte erst deine Sicht hören, bevor ich etwas ändere.",
+    "ar": "عايز أسمع وجهة نظرك الأول قبل ما أغير حاجة.",
+    "en": "I would like to hear your view before changing anything.",
+    "level": "B1",
+    "topic": "work-feedback",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "69200e617ffe37eca24db76b102f8a8d27649b70e0184952393f956ab88ab305"
+    }
+  },
+  {
+    "id": "s190-advanced-0018",
+    "de": "Die Rückmeldung bezieht sich auf den Text, nicht auf dich persönlich.",
+    "ar": "الملاحظات على النص، مش عليك إنت شخصياً.",
+    "en": "The feedback concerns the text, not you personally.",
+    "level": "B1",
+    "topic": "work-feedback",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "7aea12f8d83ea24f11b00149d4860577ebe7a5c781d9161e1abd7e14a4468995"
+    }
+  },
+  {
+    "id": "s190-advanced-0019",
+    "de": "Welche Änderung hätte für dich die höchste Priorität?",
+    "ar": "أنهي تعديل أهم حاجة بالنسبالك؟",
+    "en": "Which change would be your highest priority?",
+    "level": "B1",
+    "topic": "work-feedback",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "85462c36f37a5bb5cc66c9b2307fb0096e91699bee960bcb3eea9617173f9554"
+    }
+  },
+  {
+    "id": "s190-advanced-0020",
+    "de": "Ich habe den Vorschlag ausprobiert, aber das Problem besteht noch.",
+    "ar": "جربت الاقتراح، بس المشكلة لسه موجودة.",
+    "en": "I tried the suggestion, but the problem remains.",
+    "level": "B1",
+    "topic": "work-feedback",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "eca98ce6ef3b14656d1bf1a8b46f7e70230204468db77800672aedc7f456ed9a"
+    }
+  },
+  {
+    "id": "s190-advanced-0021",
+    "de": "Ich kann den Termin nur halten, wenn die Unterlagen heute kommen.",
+    "ar": "هقدر ألتزم بالمعاد بس لو الورق وصل النهارده.",
+    "en": "I can meet the deadline only if the documents arrive today.",
+    "level": "B1",
+    "topic": "work-deadlines",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d2b98061559116400dbecf22cb161d5912a934b3282df62bd56d4227e7aa7fcd"
+    }
+  },
+  {
+    "id": "s190-advanced-0022",
+    "de": "Für eine gründliche Prüfung brauchen wir mindestens einen weiteren Tag.",
+    "ar": "محتاجين يوم زيادة على الأقل عشان نراجع كويس.",
+    "en": "We need at least one more day for a thorough review.",
+    "level": "B1",
+    "topic": "work-deadlines",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "08fa7d3a347784dc1b5449069eb9a11a99910df90b6ea1b08fe6a6c34c10bf2e"
+    }
+  },
+  {
+    "id": "s190-advanced-0023",
+    "de": "Die zusätzliche Aufgabe war in unserer Planung noch nicht enthalten.",
+    "ar": "المهمة الزيادة دي مكنتش موجودة في خطتنا.",
+    "en": "The additional task was not included in our plan.",
+    "level": "B1",
+    "topic": "work-deadlines",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "047ca11f989b0a7c3f807e20f62fc0446b76545e2a4bc020909e3d8b47794bb5"
+    }
+  },
+  {
+    "id": "s190-advanced-0024",
+    "de": "Was sollen wir verschieben, damit das heute noch fertig wird?",
+    "ar": "نأجل إيه عشان ده يخلص النهارده؟",
+    "en": "What should we postpone so that this can be finished today?",
+    "level": "B1",
+    "topic": "work-deadlines",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "b8f360751010beee147c6e9304658d48a2518ef18850302716a8ab6dbe173f7f"
+    }
+  },
+  {
+    "id": "s190-advanced-0025",
+    "de": "Ich möchte nichts versprechen, was ich später nicht einhalten kann.",
+    "ar": "مش عايز أوعد بحاجة مقدرش ألتزم بيها بعدين.",
+    "en": "I do not want to promise anything I cannot deliver later.",
+    "level": "B1",
+    "topic": "work-deadlines",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "fdfa1f4e01f43ac3f6ab294231d65f981b11a851cde7280410a70a86d49e144e"
+    }
+  },
+  {
+    "id": "s190-advanced-0026",
+    "de": "Sobald die Freigabe da ist, können wir weitermachen.",
+    "ar": "أول ما الموافقة تيجي، نقدر نكمل.",
+    "en": "As soon as approval arrives, we can continue.",
+    "level": "B1",
+    "topic": "work-deadlines",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "63a861660bdf7eb5055917af602e3fbde854f44e92e4da323f80048b045fd8f6"
+    }
+  },
+  {
+    "id": "s190-advanced-0027",
+    "de": "Der Liefertermin wurde uns bisher nur mündlich genannt.",
+    "ar": "لحد دلوقتي قالولنا معاد التسليم بالكلام بس.",
+    "en": "So far, we have only been told the delivery date verbally.",
+    "level": "B1",
+    "topic": "work-deadlines",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8a325937dfedc528e0efafea3d3a95b5cd1b466053df25bd187852e10b532d26"
+    }
+  },
+  {
+    "id": "s190-advanced-0028",
+    "de": "Bitte gib früh Bescheid, wenn du Unterstützung brauchst.",
+    "ar": "بلغ بدري لو سمحت لو محتاج مساعدة.",
+    "en": "Please let us know early if you need support.",
+    "level": "B1",
+    "topic": "work-deadlines",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "18869dfe8b2002d5ce7a86929ed3c7e5db6bf7ecb3524fb6adb7261360204e50"
+    }
+  },
+  {
+    "id": "s190-advanced-0029",
+    "de": "Wir haben einen kleinen Puffer für unerwartete Probleme eingeplant.",
+    "ar": "عاملين حساب وقت زيادة بسيط لأي مشاكل مش متوقعة.",
+    "en": "We have allowed a small buffer for unexpected problems.",
+    "level": "B1",
+    "topic": "work-deadlines",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "229d7546194ccf994152a337be56b4f84cad910c5460033c419094160ce16f28"
+    }
+  },
+  {
+    "id": "s190-advanced-0030",
+    "de": "Die Qualität sollte nicht darunter leiden, dass wir Zeit sparen wollen.",
+    "ar": "الجودة مينفعش تقل عشان إحنا عايزين نوفر وقت.",
+    "en": "Quality should not suffer because we want to save time.",
+    "level": "B1",
+    "topic": "work-deadlines",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "be8422740a0afa92810c00114bc4121abf260f46b82eacff7f2824330e422b57"
+    }
+  },
+  {
+    "id": "s190-advanced-0031",
+    "de": "Ich bewerbe mich auf die Stelle, die Sie letzte Woche ausgeschrieben haben.",
+    "ar": "أنا بقدم على الوظيفة اللي حضرتك أعلنت عنها الأسبوع اللي فات.",
+    "en": "I am applying for the position you advertised last week.",
+    "level": "B1",
+    "topic": "job-applications",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "40c9362fc80c57b57870d237770c744b58279a629b159ef9f1794ad7f6500bed"
+    }
+  },
+  {
+    "id": "s190-advanced-0032",
+    "de": "Meine bisherigen Aufgaben passen gut zu Ihrem Stellenprofil.",
+    "ar": "مهامي السابقة مناسبة كويس لمتطلبات الوظيفة عندكم.",
+    "en": "My previous duties are a good match for your job description.",
+    "level": "B1",
+    "topic": "job-applications",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "9b1d45816c1fb5962da2994d97b2fb20110e36680fe65aa74ba96c6f3a28b9b0"
+    }
+  },
+  {
+    "id": "s190-advanced-0033",
+    "de": "Im Anhang finden Sie meinen Lebenslauf und meine Zeugnisse.",
+    "ar": "حضرتك هتلاقي السيرة الذاتية وشهاداتي في المرفقات.",
+    "en": "You will find my CV and certificates attached.",
+    "level": "B1",
+    "topic": "job-applications",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "14609e1c664cb8425adbe4d1f326c5028487892e7e4231adafe3b42c1dccaab4"
+    }
+  },
+  {
+    "id": "s190-advanced-0034",
+    "de": "Das Anschreiben habe ich an die konkrete Stelle angepasst.",
+    "ar": "أنا ظبطت خطاب التقديم على الوظيفة دي تحديداً.",
+    "en": "I have tailored the cover letter to this particular position.",
+    "level": "B1",
+    "topic": "job-applications",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f53ae54b16408f39ae12da2e20d73a89171a26d664a81e29a6871609e72f2b82"
+    }
+  },
+  {
+    "id": "s190-advanced-0035",
+    "de": "Ich bin ab Anfang Oktober verfügbar.",
+    "ar": "أنا متاح من أول أكتوبر.",
+    "en": "I am available from the beginning of October.",
+    "level": "B1",
+    "topic": "job-applications",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "613659dc19fb5fa107a1770cfb43ef7791fd61b3e31dcdad1ff03dfa64d936b2"
+    }
+  },
+  {
+    "id": "s190-advanced-0036",
+    "de": "Wäre es möglich, das erste Gespräch online zu führen?",
+    "ar": "ينفع أول مقابلة تكون أونلاين؟",
+    "en": "Would it be possible to hold the first interview online?",
+    "level": "B1",
+    "topic": "job-applications",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "3b267ff46f52a3d2f892a1f2ebe46dbfdc6f191ec29a8a9fb7cf199719db6e7e"
+    }
+  },
+  {
+    "id": "s190-advanced-0037",
+    "de": "Könnten Sie mir den Eingang meiner Bewerbung bestätigen?",
+    "ar": "ممكن حضرتك تأكدلي إن طلب التقديم وصل؟",
+    "en": "Could you confirm receipt of my application?",
+    "level": "B1",
+    "topic": "job-applications",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "cf60d077ea3580f4f98fabeaafa07f2c038c2924da7e36ea051a1db50e499904"
+    }
+  },
+  {
+    "id": "s190-advanced-0038",
+    "de": "Für Rückfragen bin ich werktags am Nachmittag erreichbar.",
+    "ar": "لأي استفسار، ممكن تتواصلوا معايا بعد الضهر في أيام الشغل.",
+    "en": "I can be reached on weekday afternoons if you have any questions.",
+    "level": "B1",
+    "topic": "job-applications",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e89085d13ebdac716dd53cbb50f6b113ac4a22839bad4625b8227caebd85be26"
+    }
+  },
+  {
+    "id": "s190-advanced-0039",
+    "de": "Ich möchte meine Bewerbung um ein aktuelles Zeugnis ergänzen.",
+    "ar": "عايز أضيف شهادة حديثة لطلب التقديم بتاعي.",
+    "en": "I would like to add a recent certificate to my application.",
+    "level": "B1",
+    "topic": "job-applications",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "479e1a323d215e5b6ac669e11160bd3b920b834151ff8d81cd4844e5927df47e"
+    }
+  },
+  {
+    "id": "s190-advanced-0040",
+    "de": "Bitte berücksichtigen Sie nur die zuletzt gesendete Fassung.",
+    "ar": "اعتمدوا آخر نسخة اتبعتت بس لو سمحتوا.",
+    "en": "Please consider only the version sent most recently.",
+    "level": "B1",
+    "topic": "job-applications",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a5cc23004d86708b02154354288783a743650262878809452c5e004e1b2f9d8f"
+    }
+  },
+  {
+    "id": "s190-advanced-0041",
+    "de": "In meiner letzten Stelle habe ich ein kleines Team unterstützt.",
+    "ar": "في شغلي الأخير كنت بساعد فريق صغير.",
+    "en": "In my last position, I supported a small team.",
+    "level": "B1",
+    "topic": "job-interviews",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d40e59dfc65b0480f20cbe0e39c137cadef391c3475965c889ea1d25830ebde7"
+    }
+  },
+  {
+    "id": "s190-advanced-0042",
+    "de": "Mit dieser Software habe ich bisher nur wenig Erfahrung.",
+    "ar": "خبرتي في البرنامج ده لسه قليلة.",
+    "en": "I have little experience with this software so far.",
+    "level": "B1",
+    "topic": "job-interviews",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "7a331515383a6de406b4d7134de551e1dc881adab72d8a2fdf9091a297cf3a00"
+    }
+  },
+  {
+    "id": "s190-advanced-0043",
+    "de": "Ich lerne neue Abläufe am besten, wenn ich sie praktisch ausprobieren kann.",
+    "ar": "بتعلم طرق الشغل الجديدة أحسن لما أقدر أجربها عملي.",
+    "en": "I learn new processes best when I can try them out in practice.",
+    "level": "B1",
+    "topic": "job-interviews",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "04730b1e930547283f6363e26089a1a9901fc55e241c04d16cf6e30f9d4aa9bb"
+    }
+  },
+  {
+    "id": "s190-advanced-0044",
+    "de": "Bei unklaren Aufgaben frage ich lieber früh nach.",
+    "ar": "لو المهمة مش واضحة، بفضل أسأل بدري.",
+    "en": "When a task is unclear, I prefer to ask about it early.",
+    "level": "B1",
+    "topic": "job-interviews",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "48a5412b8e0371753d1b810626db0bc332f256f49460fa82a8925da1860e7791"
+    }
+  },
+  {
+    "id": "s190-advanced-0045",
+    "de": "Können Sie beschreiben, wie die Einarbeitung abläuft?",
+    "ar": "ممكن حضرتك توضح فترة التدريب في البداية بتمشي إزاي؟",
+    "en": "Could you describe how the onboarding process works?",
+    "level": "B1",
+    "topic": "job-interviews",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6d725fa8c362d1d92d82f4cd6722eb2e186a8be35188e210f941f4133e945187"
+    }
+  },
+  {
+    "id": "s190-advanced-0046",
+    "de": "Mit welchen Abteilungen würde ich regelmäßig zusammenarbeiten?",
+    "ar": "هشتغل بانتظام مع أنهي أقسام؟",
+    "en": "Which departments would I work with regularly?",
+    "level": "B1",
+    "topic": "job-interviews",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "c04aa7464df1132ead9921ce20926c0d664584d89f0d45e23189d85de11c0ca8"
+    }
+  },
+  {
+    "id": "s190-advanced-0047",
+    "de": "Welche Erwartungen haben Sie an die ersten drei Monate?",
+    "ar": "متوقعين مني إيه في أول 3 شهور؟",
+    "en": "What would you expect during the first three months?",
+    "level": "B1",
+    "topic": "job-interviews",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "eeee0132c1da86fcfd43a1520fe3baaeb5f813823da35477dd712341b5e7b9cd"
+    }
+  },
+  {
+    "id": "s190-advanced-0048",
+    "de": "Ich würde gern wissen, wie sich die Arbeitszeit verteilt.",
+    "ar": "عايز أعرف ساعات الشغل بتتوزع إزاي.",
+    "en": "I would like to know how the working hours are distributed.",
+    "level": "B1",
+    "topic": "job-interviews",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6f28aaa550ccbeb1703ec7ce40b9946e94e5c81cb7ac4f2c177ce4f3847307ba"
+    }
+  },
+  {
+    "id": "s190-advanced-0049",
+    "de": "Bei meinem vorherigen Arbeitgeber war ich für Kundenanfragen zuständig.",
+    "ar": "في الشركة اللي قبل كده كنت مسؤول عن استفسارات العملاء.",
+    "en": "At my previous company, I was responsible for customer enquiries.",
+    "level": "B1",
+    "topic": "job-interviews",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6d343d05cb2624aa97a39390bb894439b10fb53219f745d2c5c5bf8d8f69c556"
+    }
+  },
+  {
+    "id": "s190-advanced-0050",
+    "de": "Vielen Dank für das Gespräch und den Einblick in Ihre Arbeit.",
+    "ar": "متشكر على المقابلة وعلى إنكم عرفتوني أكتر بشغلكم.",
+    "en": "Thank you for the interview and the insight into your work.",
+    "level": "B1",
+    "topic": "job-interviews",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0bd1dd17839a3ec052e554227b55555255f198efff950c482180e8515ef205fd"
+    }
+  },
+  {
+    "id": "s190-advanced-0051",
+    "de": "Wo kann ich die geltende Betriebsvereinbarung nachlesen?",
+    "ar": "أقدر أقرا الاتفاق الساري بين الإدارة ومجلس العاملين فين؟",
+    "en": "Where can I read the current works agreement?",
+    "level": "B1",
+    "topic": "workplace-rights-questions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "b54622aeea2eb99fe68c956a66d2dc954f958bfc4ce24e87c1f973fa5ead43d8"
+    }
+  },
+  {
+    "id": "s190-advanced-0052",
+    "de": "Ich möchte die Bedingungen verstehen, bevor ich unterschreibe.",
+    "ar": "عايز أفهم الشروط قبل ما أمضي.",
+    "en": "I would like to understand the terms before I sign.",
+    "level": "B1",
+    "topic": "workplace-rights-questions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8a7931481c80d7b0363cc48d3ad225afec7f2ff4839fa6734d3c4ecd0ba1a9c7"
+    }
+  },
+  {
+    "id": "s190-advanced-0053",
+    "de": "Ist diese Regelung schriftlich festgehalten?",
+    "ar": "الترتيب ده مكتوب في ورق رسمي؟",
+    "en": "Has this arrangement been recorded in writing?",
+    "level": "B1",
+    "topic": "workplace-rights-questions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6e88d038636afbb3addf29f5fc7417571edd04b327c1dc1cc25bf464d2ba1a09"
+    }
+  },
+  {
+    "id": "s190-advanced-0054",
+    "de": "An wen kann ich mich mit einer vertraulichen Frage wenden?",
+    "ar": "أقدر ألجأ لمين لو عندي سؤال سري؟",
+    "en": "Who can I contact with a confidential question?",
+    "level": "B1",
+    "topic": "workplace-rights-questions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8cfefdcabc07bdb81e2a2a6614b9952e6a5e8dc3fcf0cfdd92f8ea997d887efb"
+    }
+  },
+  {
+    "id": "s190-advanced-0055",
+    "de": "Wie werden zusätzliche Arbeitsstunden bei Ihnen erfasst?",
+    "ar": "بتسجلوا ساعات الشغل الزيادة عندكم إزاي؟",
+    "en": "How do you record additional working hours here?",
+    "level": "B1",
+    "topic": "workplace-rights-questions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "bd2a69a5d5b99dd3b6c616cc58554822b442167ce6c62f0aec583da7f78b7cfd"
+    }
+  },
+  {
+    "id": "s190-advanced-0056",
+    "de": "Ich brauche eine schriftliche Bestätigung der vereinbarten Änderung.",
+    "ar": "محتاج تأكيد مكتوب للتغيير اللي اتفقنا عليه.",
+    "en": "I need written confirmation of the agreed change.",
+    "level": "B1",
+    "topic": "workplace-rights-questions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "2e90dc115f3c6af0f08906666d2e29a58ebfb46f250a546108de330a8bd3fdcd"
+    }
+  },
+  {
+    "id": "s190-advanced-0057",
+    "de": "Die Angaben auf meiner Abrechnung verstehe ich noch nicht vollständig.",
+    "ar": "أنا لسه مش فاهم كل البيانات في كشف المرتب بتاعي.",
+    "en": "I do not yet fully understand the information on my pay statement.",
+    "level": "B1",
+    "topic": "workplace-rights-questions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6a195917293ffc830ab05159846107d55377efc8dac77efbcfdbe055aac1d0d0"
+    }
+  },
+  {
+    "id": "s190-advanced-0058",
+    "de": "Könnten Sie mir erklären, wie dieser Betrag berechnet wurde?",
+    "ar": "ممكن حضرتك تشرحلي المبلغ ده اتحسب إزاي؟",
+    "en": "Could you explain how this amount was calculated?",
+    "level": "B1",
+    "topic": "workplace-rights-questions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "393187c49da01d959f839e2efa22f459cd268df7a0e644ce37e29eb03701155b"
+    }
+  },
+  {
+    "id": "s190-advanced-0059",
+    "de": "Ich möchte mich beraten lassen, bevor ich eine Entscheidung treffe.",
+    "ar": "عايز آخد مشورة قبل ما أقرر.",
+    "en": "I would like to get advice before making a decision.",
+    "level": "B1",
+    "topic": "workplace-rights-questions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "3034109d6eea6f6676b7e114605771c912a2fb0503704ddc2fb293bf90d06799"
+    }
+  },
+  {
+    "id": "s190-advanced-0060",
+    "de": "Bitte schicken Sie mir die vollständigen Unterlagen zur Prüfung.",
+    "ar": "ابعتولي الورق كامل عشان أراجعه لو سمحتوا.",
+    "en": "Please send me the complete documents to review.",
+    "level": "B1",
+    "topic": "workplace-rights-questions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "84480bc9c67dd53e11ef9869f264a4662d0aa8feed47a61017c7fa6d57a3a7dc"
+    }
+  },
+  {
+    "id": "s190-advanced-0061",
+    "de": "Ich glaube, wir haben unterschiedliche Vorstellungen von der Aufgabe.",
+    "ar": "أعتقد إن تصورنا للمهمة مختلف.",
+    "en": "I think we have different ideas about the task.",
+    "level": "B1",
+    "topic": "team-conflicts",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "683052be12ff3035ee168a64e4320237abbb48c2df69d7933a59336fbe63659c"
+    }
+  },
+  {
+    "id": "s190-advanced-0062",
+    "de": "Mir ist wichtig, dass wir einander ausreden lassen.",
+    "ar": "مهم بالنسبالي إننا نسيب بعض نكمل كلامنا.",
+    "en": "It matters to me that we let each other finish speaking.",
+    "level": "B1",
+    "topic": "team-conflicts",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d0f9d978dd3021ce1df0ca344730bf2c953dad6d31b6b10622f5adb7094fb7cf"
+    }
+  },
+  {
+    "id": "s190-advanced-0063",
+    "de": "Lass uns bei dem konkreten Problem bleiben.",
+    "ar": "خلينا مركزين على المشكلة المحددة.",
+    "en": "Let us stay focused on the specific problem.",
+    "level": "B1",
+    "topic": "team-conflicts",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e3d327383f290ed7b04d78f30edb1cd7d37cdb8b05b1b632fb4e13412b4738d3"
+    }
+  },
+  {
+    "id": "s190-advanced-0064",
+    "de": "Ich möchte verstehen, wie es zu diesem Missverständnis gekommen ist.",
+    "ar": "عايز أفهم سوء التفاهم ده حصل إزاي.",
+    "en": "I would like to understand how this misunderstanding arose.",
+    "level": "B1",
+    "topic": "team-conflicts",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "29c1a2580b32f4d98fa161cf146aadda0544a7eefb01796a8b169756090b75dd"
+    }
+  },
+  {
+    "id": "s190-advanced-0065",
+    "de": "So war meine Nachricht nicht gemeint.",
+    "ar": "أنا مكنتش أقصد الرسالة بالشكل ده.",
+    "en": "That is not what I meant by my message.",
+    "level": "B1",
+    "topic": "team-conflicts",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f9d235d4124227047990e0fdf86c4bdec0bd9bb21e1fd1ecd6281d8286604a4c"
+    }
+  },
+  {
+    "id": "s190-advanced-0066",
+    "de": "Ich habe zu schnell reagiert und möchte das richtigstellen.",
+    "ar": "أنا اتسرعت في رد فعلي وعايز أصلح ده.",
+    "en": "I reacted too quickly and would like to put that right.",
+    "level": "B1",
+    "topic": "team-conflicts",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "b0392484d1cec5931c7470a1c3ba18aa545eef7a0d6963bb86cfb40a767d97ff"
+    }
+  },
+  {
+    "id": "s190-advanced-0067",
+    "de": "Wir müssen nicht einer Meinung sein, um respektvoll zusammenzuarbeiten.",
+    "ar": "مش لازم نتفق في الرأي عشان نشتغل باحترام مع بعض.",
+    "en": "We do not have to agree in order to work together respectfully.",
+    "level": "B1",
+    "topic": "team-conflicts",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a687fb06a04ee125cb7d0f0dd25cafcb17328d7825e4e61581a5ef272054d00f"
+    }
+  },
+  {
+    "id": "s190-advanced-0068",
+    "de": "Können wir das in Ruhe unter vier Augen besprechen?",
+    "ar": "ممكن نتكلم في ده بهدوء بيني وبينك؟",
+    "en": "Can we discuss this calmly in private?",
+    "level": "B1",
+    "topic": "team-conflicts",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a3d75517609a185f8cc701f47af9afc63dd8a94bc3515ce875fee1d67e678844"
+    }
+  },
+  {
+    "id": "s190-advanced-0069",
+    "de": "Ich bin bereit, meinen Teil der Verantwortung zu übernehmen.",
+    "ar": "أنا مستعد أتحمل نصيبي من المسؤولية.",
+    "en": "I am willing to take my share of the responsibility.",
+    "level": "B1",
+    "topic": "team-conflicts",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "679d3658c9841b594f267ba46357e0b6b281ddaa697c1d1fe6c575f3002e539d"
+    }
+  },
+  {
+    "id": "s190-advanced-0070",
+    "de": "Welche Lösung wäre für uns beide akzeptabel?",
+    "ar": "إيه الحل اللي ممكن إحنا الاتنين نقبله؟",
+    "en": "What solution would be acceptable to both of us?",
+    "level": "B1",
+    "topic": "team-conflicts",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ac3a3a3bd89d19a6313b65a20108cb96bde9394488fd4ee1a4c4771b75921f02"
+    }
+  },
+  {
+    "id": "s190-advanced-0071",
+    "de": "Deine Verbindung ist gerade sehr instabil.",
+    "ar": "الاتصال عندك مش ثابت خالص دلوقتي.",
+    "en": "Your connection is very unstable at the moment.",
+    "level": "B1",
+    "topic": "remote-collaboration",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0f642cb1afc9449e40215e347daa3f27456483f4ad6c6e005a6d89bcbc91d958"
+    }
+  },
+  {
+    "id": "s190-advanced-0072",
+    "de": "Ich höre dich mit ein paar Sekunden Verzögerung.",
+    "ar": "أنا بسمعك بتأخير كام ثانية.",
+    "en": "I can hear you with a delay of a few seconds.",
+    "level": "B1",
+    "topic": "remote-collaboration",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "282b85c3dfee87a9fa01e810ec6d9fecb4ba75887f41c6dfb377cb24a277db08"
+    }
+  },
+  {
+    "id": "s190-advanced-0073",
+    "de": "Könntest du dein Mikrofon kurz stummschalten?",
+    "ar": "ممكن تقفل الميكروفون شوية؟",
+    "en": "Could you mute your microphone for a moment?",
+    "level": "B1",
+    "topic": "remote-collaboration",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "2b2247d499231e7fbf043984199d805406e487fb3aef75f3d67794f7a420bc23"
+    }
+  },
+  {
+    "id": "s190-advanced-0074",
+    "de": "Die Präsentation wird bei mir nicht angezeigt.",
+    "ar": "العرض مش ظاهر عندي.",
+    "en": "The presentation is not showing on my screen.",
+    "level": "B1",
+    "topic": "remote-collaboration",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "be986263f0f8c5da755f55d671eaa8b05b8fa3d2ac30b174c9e7675446a667d0"
+    }
+  },
+  {
+    "id": "s190-advanced-0075",
+    "de": "Ich teile gleich den Bildschirm, auf dem die Tabelle geöffnet ist.",
+    "ar": "هشارك دلوقتي الشاشة اللي عليها الجدول مفتوح.",
+    "en": "I will share the screen with the spreadsheet open in a moment.",
+    "level": "B1",
+    "topic": "remote-collaboration",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "4d974f1f146ea33b4dc67910efaa9a666fd261854e407cc447bf681a2deca27e"
+    }
+  },
+  {
+    "id": "s190-advanced-0076",
+    "de": "Bitte schreib den Link zusätzlich in den Chat.",
+    "ar": "اكتب اللينك في الشات كمان لو سمحت.",
+    "en": "Please also put the link in the chat.",
+    "level": "B1",
+    "topic": "remote-collaboration",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "efc6f5655f513efec975242438ca872e102dad35a96d80663626f3935b485cdd"
+    }
+  },
+  {
+    "id": "s190-advanced-0077",
+    "de": "Für diesen Ordner fehlen mir die Zugriffsrechte.",
+    "ar": "معنديش صلاحية أدخل الفولدر ده.",
+    "en": "I do not have access permissions for this folder.",
+    "level": "B1",
+    "topic": "remote-collaboration",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0cc894ddd1471381f71ae99e7c56267bc58a08cfb07b96749b4b7de44f458157"
+    }
+  },
+  {
+    "id": "s190-advanced-0078",
+    "de": "Du hast offenbar nur die Ansicht freigegeben, nicht die Bearbeitung.",
+    "ar": "واضح إنك سمحت بالمشاهدة بس، مش بالتعديل.",
+    "en": "It seems you enabled viewing only, not editing.",
+    "level": "B1",
+    "topic": "remote-collaboration",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "350d972dcb9509a34334eaf531790d1d333a8a1aa4662430b64b3222e041dbd1"
+    }
+  },
+  {
+    "id": "s190-advanced-0079",
+    "de": "Ich fasse die Entscheidungen nach dem Gespräch schriftlich zusammen.",
+    "ar": "هلخص القرارات كتابة بعد المكالمة.",
+    "en": "I will summarise the decisions in writing after the call.",
+    "level": "B1",
+    "topic": "remote-collaboration",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "718f3675b2702d0ce7af5ed722e6790d0f8748a367d33c3a2625bed930e9fd8d"
+    }
+  },
+  {
+    "id": "s190-advanced-0080",
+    "de": "Bitte starten Sie die Aufzeichnung erst, wenn alle Beteiligten zugestimmt haben.",
+    "ar": "متبدأوش التسجيل غير لما كل المشاركين يوافقوا لو سمحتوا.",
+    "en": "Please start the recording only after everyone involved has agreed.",
+    "level": "B1",
+    "topic": "remote-collaboration",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "2211ec55567d2c30c071dffe20694cd78ec72a1e57979942a00bc1a63fb673f6"
+    }
+  },
+  {
+    "id": "s190-advanced-0081",
+    "de": "Ich teile Ihre Einschätzung nur unter bestimmten Voraussetzungen.",
+    "ar": "أنا متفق مع تقييم حضرتك في ظل شروط معينة بس.",
+    "en": "I share your assessment only under certain conditions.",
+    "level": "B2",
+    "topic": "professional-disagreement",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "349a445dd51c721a4ec26564b292c98d96e94758d54d78c9a1f7eafb30ffd21f"
+    }
+  },
+  {
+    "id": "s190-advanced-0082",
+    "de": "Der Vorschlag überzeugt mich hinsichtlich der Kosten, weniger hinsichtlich der Umsetzung.",
+    "ar": "الاقتراح مقنع بالنسبالي من ناحية التكلفة، بس أقل إقناعاً من ناحية التنفيذ.",
+    "en": "I find the proposal convincing on cost, less so on implementation.",
+    "level": "B2",
+    "topic": "professional-disagreement",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ca096b8144587b66f93b602594d6d3ec1ad86a9860d7cf12bdb024704a09d51e"
+    }
+  },
+  {
+    "id": "s190-advanced-0083",
+    "de": "Wir bewerten dieselben Risiken offenbar unterschiedlich.",
+    "ar": "واضح إننا بنقيم نفس المخاطر بشكل مختلف.",
+    "en": "We seem to assess the same risks differently.",
+    "level": "B2",
+    "topic": "professional-disagreement",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "eb9defbb99b134aacb4eb2e982ab2812381dd68c0b6899943bf356281da52c6d"
+    }
+  },
+  {
+    "id": "s190-advanced-0084",
+    "de": "Ich würde zwischen dem kurzfristigen Nutzen und den langfristigen Folgen unterscheiden.",
+    "ar": "أنا هفرق بين الفايدة على المدى القصير والنتايج على المدى الطويل.",
+    "en": "I would distinguish between the short-term benefit and the long-term consequences.",
+    "level": "B2",
+    "topic": "professional-disagreement",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "2da07964e8e1d45f1e7520f2ec23b2faacd6e305c45b2cef7963b0bbe2a970b6"
+    }
+  },
+  {
+    "id": "s190-advanced-0085",
+    "de": "Dass eine Maßnahme funktioniert, bedeutet noch nicht, dass sie angemessen ist.",
+    "ar": "إن إجراء يجيب نتيجة مش معناه لوحده إنه مناسب.",
+    "en": "The fact that a measure works does not necessarily mean it is appropriate.",
+    "level": "B2",
+    "topic": "professional-disagreement",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "b7b6b3927738b6ec9dc82f9f5dfed39dbfb5a3023add2555effd4fe62d1a942b"
+    }
+  },
+  {
+    "id": "s190-advanced-0086",
+    "de": "Mein Einwand richtet sich nicht gegen das Ziel, sondern gegen die vorgeschlagene Methode.",
+    "ar": "اعتراضي مش على الهدف، لكن على الطريقة المقترحة.",
+    "en": "My objection concerns the proposed method rather than the goal.",
+    "level": "B2",
+    "topic": "professional-disagreement",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "61356b3c4b81b3443dd55b31952a55392b3c4107d7c4c26740067f431c5d6737"
+    }
+  },
+  {
+    "id": "s190-advanced-0087",
+    "de": "Welches Argument würde Sie dazu bewegen, Ihre Position zu überdenken?",
+    "ar": "إيه الحجة اللي ممكن تخلي حضرتك تعيد التفكير في موقفك؟",
+    "en": "What argument would lead you to reconsider your position?",
+    "level": "B2",
+    "topic": "professional-disagreement",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "4e1db7ac9d1aa582e5b25a4dd111d217707528f35eef7bae276af6fdece2382d"
+    }
+  },
+  {
+    "id": "s190-advanced-0088",
+    "de": "Wir sollten Gegenbeispiele nicht allein deshalb verwerfen, weil sie unbequem sind.",
+    "ar": "مينفعش نرفض الأمثلة المضادة لمجرد إنها مش مريحة لينا.",
+    "en": "We should not dismiss counterexamples merely because they are inconvenient.",
+    "level": "B2",
+    "topic": "professional-disagreement",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "27849c5db2bee7d5f762f2c2cb47d66efa7a4607d0128a04628acb8636384f7f"
+    }
+  },
+  {
+    "id": "s190-advanced-0089",
+    "de": "Ich bin offen für einen anderen Ansatz, sofern die Bedingungen klar sind.",
+    "ar": "أنا متقبل طريقة تانية بشرط إن الشروط تكون واضحة.",
+    "en": "I am open to a different approach, provided the conditions are clear.",
+    "level": "B2",
+    "topic": "professional-disagreement",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d0045399822a1153e6698db59cfb7d86c72ea8bf6100e28d704172679fd624fc"
+    }
+  },
+  {
+    "id": "s190-advanced-0090",
+    "de": "Lassen Sie uns festhalten, worin genau unsere Meinungsverschiedenheit besteht.",
+    "ar": "خلينا نحدد إحنا مختلفين على إيه بالظبط.",
+    "en": "Let us establish exactly where our disagreement lies.",
+    "level": "B2",
+    "topic": "professional-disagreement",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "41bfec07217e8826886ac8da859116151f7f487fb560e3cef7bf54ff1ee1167b"
+    }
+  },
+  {
+    "id": "s190-advanced-0091",
+    "de": "Eine reversible Entscheidung erfordert weniger Absicherung als ein unumkehrbarer Schritt.",
+    "ar": "القرار اللي نقدر نرجع فيه محتاج تأمين أقل من خطوة ملهاش رجعة.",
+    "en": "A reversible decision requires fewer safeguards than an irreversible step.",
+    "level": "B2",
+    "topic": "risk-and-decisions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "2bd3d9ddc0fb840468aa7225aafbd28cf0656e410514fe5ea806e503bfcfa441"
+    }
+  },
+  {
+    "id": "s190-advanced-0092",
+    "de": "Wir sollten prüfen, wer die Folgen eines möglichen Fehlers tragen müsste.",
+    "ar": "المفروض نشوف مين هيتحمل نتايج أي غلطة ممكنة.",
+    "en": "We should consider who would have to bear the consequences of a possible mistake.",
+    "level": "B2",
+    "topic": "risk-and-decisions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "3292913a96d901c3c9a2d036a4624ea0beded1210b56e3babf2b84287acfbdaa"
+    }
+  },
+  {
+    "id": "s190-advanced-0093",
+    "de": "Das größte Risiko liegt nicht im Zeitplan, sondern in der unklaren Zuständigkeit.",
+    "ar": "أكبر خطر مش في الجدول الزمني، لكن في إن المسؤولية مش واضحة.",
+    "en": "The greatest risk lies in unclear responsibility rather than the timetable.",
+    "level": "B2",
+    "topic": "risk-and-decisions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6e3826dd1e90db934129609c659ad0d0f7318fc630a700df0e2be0d7d38951e9"
+    }
+  },
+  {
+    "id": "s190-advanced-0094",
+    "de": "Unter diesen Umständen halte ich eine zusätzliche Prüfung für sinnvoll.",
+    "ar": "في الظروف دي، شايف إن مراجعة زيادة هتكون مفيدة.",
+    "en": "Under these circumstances, I think an additional review makes sense.",
+    "level": "B2",
+    "topic": "risk-and-decisions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "459d903add957ef0e3f9ae462c9e2c6fa8009a9e36f0c9138977aeee25c86e5e"
+    }
+  },
+  {
+    "id": "s190-advanced-0095",
+    "de": "Welche Annahme hätte den größten Einfluss auf das Ergebnis, wenn sie falsch wäre?",
+    "ar": "أنهي افتراض هيأثر أكتر حاجة على النتيجة لو طلع غلط؟",
+    "en": "Which assumption would affect the result most if it proved wrong?",
+    "level": "B2",
+    "topic": "risk-and-decisions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "af6cb7ef90deded4a6cace4c516129ecd2f0827dfa33a5149fec513456c31ff6"
+    }
+  },
+  {
+    "id": "s190-advanced-0096",
+    "de": "Wir können die Unsicherheit verringern, aber nicht vollständig beseitigen.",
+    "ar": "نقدر نقلل عدم التأكد، بس مش نلغيه تماماً.",
+    "en": "We can reduce the uncertainty, but we cannot eliminate it completely.",
+    "level": "B2",
+    "topic": "risk-and-decisions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "c6d765be1d68cea2f3dbe0f64f7e7e8373320a47da8166f9a6041af037e4b746"
+    }
+  },
+  {
+    "id": "s190-advanced-0097",
+    "de": "Die Entscheidung sollte auch dann nachvollziehbar sein, wenn das Ergebnis enttäuscht.",
+    "ar": "المفروض أسباب القرار تبقى مفهومة حتى لو النتيجة مخيبة للآمال.",
+    "en": "The reasoning behind the decision should remain understandable even if the outcome is disappointing.",
+    "level": "B2",
+    "topic": "risk-and-decisions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8c3d6bcf60f49bfdb5a25e80673e12130f54e241cbe808b561a44100c89c4b30"
+    }
+  },
+  {
+    "id": "s190-advanced-0098",
+    "de": "Ein günstiger Ausgang beweist nicht automatisch, dass der Prozess gut war.",
+    "ar": "النتيجة الحلوة مش دليل تلقائي إن طريقة اتخاذ القرار كانت كويسة.",
+    "en": "A favourable outcome does not automatically prove that the process was good.",
+    "level": "B2",
+    "topic": "risk-and-decisions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "27be531fc993cb20add3346e60d416061b4c96ca7214fe7659f65ccda1850d80"
+    }
+  },
+  {
+    "id": "s190-advanced-0099",
+    "de": "Bevor wir uns festlegen, brauchen wir einen realistischen Plan für den Rückweg.",
+    "ar": "قبل ما نلتزم، محتاجين خطة واقعية للرجوع عن الخطوة.",
+    "en": "Before we commit, we need a realistic plan for reversing the step.",
+    "level": "B2",
+    "topic": "risk-and-decisions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "91be8b1c036d8360370fcb9a18e24d87f1064558b3dd2ad89fcec77b7ef1b2df"
+    }
+  },
+  {
+    "id": "s190-advanced-0100",
+    "de": "Es wäre vorschnell, aus dem ersten Erfolg eine dauerhafte Lösung abzuleiten.",
+    "ar": "هيبقى تسرع لو اعتبرنا أول نجاح دليل على حل دائم.",
+    "en": "It would be premature to infer a lasting solution from the first success.",
+    "level": "B2",
+    "topic": "risk-and-decisions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "c048eec8d9015abc30f1a52028e19cb3bb9a4c4ec7fa4b310fe97ef4ce2dd916"
+    }
+  },
+  {
+    "id": "s190-advanced-0101",
+    "de": "Die Grafik zeigt einen Zusammenhang, aber noch keine Ursache.",
+    "ar": "الرسم البياني بيبين علاقة، بس لسه مش بيثبت سبب.",
+    "en": "The graph shows an association, but not yet a cause.",
+    "level": "B2",
+    "topic": "data-interpretation",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "fcff7fee23f2f018eaa0fbce9afbc279b6188999695df41a224c131785061a7b"
+    }
+  },
+  {
+    "id": "s190-advanced-0102",
+    "de": "Ohne Vergleichsgruppe lässt sich der Effekt schwer beurteilen.",
+    "ar": "من غير مجموعة مقارنة، صعب نحكم على التأثير.",
+    "en": "Without a comparison group, the effect is difficult to assess.",
+    "level": "B2",
+    "topic": "data-interpretation",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e91028d2cf2b17a9e9188965d6a0acf5acec3341b33605461d7413771f924276"
+    }
+  },
+  {
+    "id": "s190-advanced-0103",
+    "de": "Die Stichprobe ist zu klein, um weitreichende Schlüsse zu ziehen.",
+    "ar": "العينة صغيرة أوي عشان نطلع منها استنتاجات واسعة.",
+    "en": "The sample is too small to draw far-reaching conclusions.",
+    "level": "B2",
+    "topic": "data-interpretation",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ba43d131ca152aba62624062ac828d74a8236dac656cc88626a1339c8d0c91bb"
+    }
+  },
+  {
+    "id": "s190-advanced-0104",
+    "de": "Wurden bei der Auswertung auch fehlende Angaben berücksichtigt?",
+    "ar": "هل البيانات الناقصة اتاخدت في الاعتبار وقت التحليل كمان؟",
+    "en": "Were missing responses also taken into account in the analysis?",
+    "level": "B2",
+    "topic": "data-interpretation",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "630cdc28a23999caadd305015538c2fd2d03e59caf9bf8315235a0a567e98174"
+    }
+  },
+  {
+    "id": "s190-advanced-0105",
+    "de": "Ein Durchschnittswert kann große Unterschiede innerhalb einer Gruppe verdecken.",
+    "ar": "المتوسط ممكن يخبي فروق كبيرة جوا نفس المجموعة.",
+    "en": "An average can hide large differences within a group.",
+    "level": "B2",
+    "topic": "data-interpretation",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e755f73e3c5956dc339308520550df72244cb9fbe032973beb1949f6535e7f21"
+    }
+  },
+  {
+    "id": "s190-advanced-0106",
+    "de": "Wir müssen zwischen einer absoluten Zahl und einem Anteil unterscheiden.",
+    "ar": "لازم نفرق بين العدد المطلق والنسبة من الإجمالي.",
+    "en": "We must distinguish between an absolute number and a proportion.",
+    "level": "B2",
+    "topic": "data-interpretation",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "58821e8f56bf60765681b4e0eb447469939512183c30d1d985c36899cfbfb55a"
+    }
+  },
+  {
+    "id": "s190-advanced-0107",
+    "de": "Die Darstellung beginnt nicht bei null und wirkt dadurch dramatischer.",
+    "ar": "الرسم مش بيبدأ من صفر، وده مخليه يبان مبالغ فيه أكتر.",
+    "en": "The chart does not start at zero, which makes it look more dramatic.",
+    "level": "B2",
+    "topic": "data-interpretation",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "aca941d34e765947771a4e1049cb15b09e94267789c5cdcd49e9694772385aa8"
+    }
+  },
+  {
+    "id": "s190-advanced-0108",
+    "de": "Welche Definition wurde für diese Kategorie verwendet?",
+    "ar": "استخدموا أنهي تعريف للفئة دي؟",
+    "en": "What definition was used for this category?",
+    "level": "B2",
+    "topic": "data-interpretation",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a4c909bf9443865eb26125f4f0c60df99b41754642b29fbf58de0d9616058e7d"
+    }
+  },
+  {
+    "id": "s190-advanced-0109",
+    "de": "Die Daten stammen aus verschiedenen Jahren und sind nur bedingt vergleichbar.",
+    "ar": "البيانات من سنين مختلفة وممكن نقارنها بحدود بس.",
+    "en": "The data come from different years and are comparable only to a limited extent.",
+    "level": "B2",
+    "topic": "data-interpretation",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "3b94abc5e1a3bf681ebb75c7c1afc196d91d28002a1f605a7ed7bef826db2d4e"
+    }
+  },
+  {
+    "id": "s190-advanced-0110",
+    "de": "Bitte nennen Sie neben dem Prozentwert auch die zugrunde liegende Anzahl.",
+    "ar": "قولوا العدد الأساسي جنب النسبة المئوية كمان لو سمحتوا.",
+    "en": "Please give the underlying count alongside the percentage.",
+    "level": "B2",
+    "topic": "data-interpretation",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d1e17eee97e5e90dba93dd9a6edb79539ed5f1cdb53f57a7673ccd2cc601fe95"
+    }
+  },
+  {
+    "id": "s190-advanced-0111",
+    "de": "Die Überschrift behauptet mehr, als der Artikel tatsächlich belegt.",
+    "ar": "العنوان بيدعي أكتر من اللي المقال بيثبته فعلاً.",
+    "en": "The headline claims more than the article actually supports.",
+    "level": "B2",
+    "topic": "media-literacy",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e26aa4f81e23b845ad26bf95fed9303aa1c847559607fe695be4b4df4ac5b6ae"
+    }
+  },
+  {
+    "id": "s190-advanced-0112",
+    "de": "Ich möchte zuerst die ursprüngliche Veröffentlichung lesen.",
+    "ar": "عايز أقرا المنشور الأصلي الأول.",
+    "en": "I would like to read the original publication first.",
+    "level": "B2",
+    "topic": "media-literacy",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "5238643eb448e0b34544d8530836d9192be541929c5a4b19b13fe0bd0fc25d9e"
+    }
+  },
+  {
+    "id": "s190-advanced-0113",
+    "de": "Ist das ein Bericht, ein Kommentar oder eine Anzeige?",
+    "ar": "ده تقرير ولا مقال رأي ولا إعلان؟",
+    "en": "Is this a report, an opinion piece or an advertisement?",
+    "level": "B2",
+    "topic": "media-literacy",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "4644346e2cd84e603aebb5397eff044ae87af108c812d8e9cec053c855a489b8"
+    }
+  },
+  {
+    "id": "s190-advanced-0114",
+    "de": "Das Zitat wurde ohne den vorherigen Satz wiedergegeben.",
+    "ar": "الاقتباس اتنقل من غير الجملة اللي قبله.",
+    "en": "The quotation was reproduced without the preceding sentence.",
+    "level": "B2",
+    "topic": "media-literacy",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "bb0ae4a112b50199f1829ca761c0e718937fcd25ffdf5fc9f2736b4be538ac93"
+    }
+  },
+  {
+    "id": "s190-advanced-0115",
+    "de": "Wir sollten prüfen, ob das Bild tatsächlich zu diesem Ereignis gehört.",
+    "ar": "المفروض نتأكد إن الصورة دي تخص الحدث ده فعلاً.",
+    "en": "We should check whether the picture actually belongs to this event.",
+    "level": "B2",
+    "topic": "media-literacy",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a0fde2f0fc5116ef19325fd7630bad5f3de844ea92b2a0913c3dc9d881583f5f"
+    }
+  },
+  {
+    "id": "s190-advanced-0116",
+    "de": "Die Formulierung lässt offen, wer die Behauptung aufgestellt hat.",
+    "ar": "الصياغة مش موضحة مين اللي قال الادعاء ده.",
+    "en": "The wording leaves it unclear who made the claim.",
+    "level": "B2",
+    "topic": "media-literacy",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "4ba904a808ba025221e71f4e79a79683ea1b4c0ce59a15ac9b274c8273906222"
+    }
+  },
+  {
+    "id": "s190-advanced-0117",
+    "de": "Mehrere Seiten können denselben Fehler voneinander übernommen haben.",
+    "ar": "ممكن كذا موقع يكونوا نقلوا نفس الغلطة من بعض.",
+    "en": "Several websites may have copied the same error from one another.",
+    "level": "B2",
+    "topic": "media-literacy",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d6f04b393ae39cdafccfc715c28dd5ecc33f1b172565bdb5f2e0d86cabd7cc1e"
+    }
+  },
+  {
+    "id": "s190-advanced-0118",
+    "de": "Eine häufig geteilte Nachricht ist dadurch noch nicht zuverlässig.",
+    "ar": "إن رسالة اتشاركت كتير مش بيخليها موثوقة لوحده.",
+    "en": "A message does not become reliable merely because it is widely shared.",
+    "level": "B2",
+    "topic": "media-literacy",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ade30e5998983c9c6ef33349ed632f3957ea71fa8a4dde9370eef3c226d18e90"
+    }
+  },
+  {
+    "id": "s190-advanced-0119",
+    "de": "Ich würde die Information erst weitergeben, wenn ihre Herkunft geklärt ist.",
+    "ar": "مش هشارك المعلومة غير لما أعرف مصدرها بوضوح.",
+    "en": "I would share the information only once its origin has been clarified.",
+    "level": "B2",
+    "topic": "media-literacy",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "b43951700cad016dc9cb8bd9626ed7825580ecc23cd6c6367dc15fbaadfb893c"
+    }
+  },
+  {
+    "id": "s190-advanced-0120",
+    "de": "Die spätere Korrektur sollte genauso sichtbar sein wie die ursprüngliche Meldung.",
+    "ar": "التصحيح اللي نزل بعدين المفروض يبان زي الخبر الأصلي بالظبط.",
+    "en": "The later correction should be as visible as the original report.",
+    "level": "B2",
+    "topic": "media-literacy",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first pass; approximate practice band"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "5326e07178b7dbe1f2631e2cf72523900b0350c69d697f47bb2a376f92fd45a6"
+    }
+  }
+]
