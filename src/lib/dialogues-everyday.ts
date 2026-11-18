@@ -28153,3 +28153,218 @@ Object.assign(dialogueEvidence,{
     "den Pfeil von klein nach groß entfernen wir."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "bilderraetsel-erst-beschreiben-dann-benennen",
+    "level": "A1",
+    "title": [
+      "Erst beschreiben, dann benennen",
+      "نوصف الأول وبعدين نقول الاسم"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Beschreib bitte das Foto mit der grünen Frucht.",
+        "اوصف لو سمحت الصورة اللي فيها الثمرة الخضرا."
+      ],
+      [
+        "Sami",
+        "Die Frucht hängt an einem Zweig. Neben ihr sind Blätter.",
+        "الثمرة متعلقة في فرع. جنبها ورق."
+      ],
+      [
+        "Lea",
+        "Die Karte dazu heißt die Guave. Wiederholst du das?",
+        "الكارت بتاعها اسمه die Guave. ممكن تكرر؟"
+      ],
+      [
+        "Sami",
+        "Die Guave. Und auf der anderen Karte steht die Physalis.",
+        "die Guave. وعلى الكارت التاني مكتوب die Physalis."
+      ],
+      [
+        "Lea",
+        "Richtig. Jetzt beschreibe ich, und du fragst.",
+        "صح. دلوقتي أنا هوصف وإنت تسأل."
+      ],
+      [
+        "Sami",
+        "Gut, wir tauschen die Rollen.",
+        "تمام، نبدل الأدوار."
+      ],
+      [
+        "Lea",
+        "Du darfst dabei auf die Karten schauen.",
+        "مسموحلك تبص على الكروت وإنت بتعمل كده."
+      ]
+    ],
+    "q": [
+      [
+        "Wo hängt die grüne Frucht?",
+        "An einem Zweig.",
+        "An einer Lampe.",
+        "An einer Tür."
+      ],
+      [
+        "Welcher Name gehört zur grünen Frucht?",
+        "Die Guave.",
+        "Die Physalis.",
+        "Die Durian."
+      ],
+      [
+        "Was wollen sie danach machen?",
+        "Die Rollen tauschen.",
+        "Früchte kaufen.",
+        "Ein Rezept kochen."
+      ]
+    ]
+  },
+  {
+    "id": "physalis-zwei-varianten-eine-beschriftung",
+    "level": "A2",
+    "title": [
+      "Ist Physalen auch richtig?",
+      "هو Physalen صح كمان؟"
+    ],
+    "lines": [
+      [
+        "Karim",
+        "In unserer Notiz stehen die Mehrzahlformen Physalis und Physalen. Welche ist richtig?",
+        "في الملاحظة عندنا جمع Physalis وجمع Physalen. أنهي واحدة صح؟"
+      ],
+      [
+        "Jana",
+        "Beide. Für unser Foto können wir drei Physalis oder drei Physalen schreiben.",
+        "الاتنين. لصورتنا نقدر نكتب drei Physalis أو drei Physalen."
+      ],
+      [
+        "Karim",
+        "Im Fotoheft nehme ich drei Physalis, damit die Beschriftungen einheitlich bleiben.",
+        "في كتيب الصور هاختار drei Physalis عشان التعليقات تبقى موحدة."
+      ],
+      [
+        "Jana",
+        "Dann notiere ich die zweite Variante im Lernheft. Sie bleibt erlaubt.",
+        "يبقى أكتب الصيغة التانية في كشكول التعلم. هي لسه مقبولة."
+      ],
+      [
+        "Karim",
+        "Und bei Guave heißt die Mehrzahl Guaven.",
+        "وعند Guave الجمع Guaven."
+      ],
+      [
+        "Jana",
+        "Genau. Wir lernen die Formen zusammen mit dem Artikel.",
+        "بالظبط. بنتعلم الصيغ مع أداة التعريف."
+      ],
+      [
+        "Karim",
+        "Dann tauschen wir die Hefte und prüfen die Artikel.",
+        "يبقى نبدل الكشاكيل ونراجع أدوات التعريف."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Physalis-Mehrzahl ist laut Jana richtig?",
+        "Beide genannten Formen.",
+        "Nur Physalisse.",
+        "Keine der genannten Formen."
+      ],
+      [
+        "Warum wählt Karim eine Form für das Fotoheft?",
+        "Damit die Beschriftungen einheitlich bleiben.",
+        "Weil die andere verboten ist.",
+        "Weil er die Früchte zählt und nur eine sieht."
+      ],
+      [
+        "Wo notiert Jana die zweite Variante?",
+        "Im Lernheft.",
+        "Auf einer Rechnung.",
+        "Im Fahrplan."
+      ]
+    ]
+  },
+  {
+    "id": "bildbeschreibung-den-vergleich-markieren",
+    "level": "B1",
+    "title": [
+      "Wie eine Laterne",
+      "زي فانوس"
+    ],
+    "lines": [
+      [
+        "Nele",
+        "Die Hüllen der Physalis erinnern mich an kleine Laternen. Darf das in unsere Bildbeschreibung?",
+        "أغلفة الحرنكش بتفكرني بفوانيس صغيرة. ينفع ده في وصف الصورة؟"
+      ],
+      [
+        "Omar",
+        "Ja, wenn wir es als Vergleich kennzeichnen und nicht als Namen.",
+        "آه، لو وضحنا إنه تشبيه مش اسم."
+      ],
+      [
+        "Nele",
+        "Dann schreibe ich: Für mich sehen die Hüllen wie kleine Laternen aus.",
+        "يبقى أكتب: بالنسبة لي الأغلفة شكلها زي فوانيس صغيرة."
+      ],
+      [
+        "Omar",
+        "Das passt. Die Namen der Früchte stehen getrennt darunter.",
+        "كده مناسب. أسامي الثمار مكتوبة لوحدها تحت."
+      ],
+      [
+        "Nele",
+        "Und der Satz über die wartende Guave?",
+        "والجملة بتاعة الجوافة المستنية؟"
+      ],
+      [
+        "Omar",
+        "Den behalten wir für eine Geschichte. Das Warten ist keine sichtbare Eigenschaft.",
+        "نحتفظ بيها لقصة. الانتظار مش صفة ظاهرة في الصورة."
+      ],
+      [
+        "Nele",
+        "Dann trennen wir die Beobachtung klar von der Deutung.",
+        "يبقى نفصل الملاحظة بوضوح عن التفسير."
+      ]
+    ],
+    "q": [
+      [
+        "Was erinnert Nele an Laternen?",
+        "Die Hüllen der Physalis.",
+        "Die Blätter der Guave.",
+        "Die Buchstaben der Namen."
+      ],
+      [
+        "Wo stehen die Namen der Früchte?",
+        "Getrennt darunter.",
+        "Nur in der Geschichte.",
+        "Auf den Hüllen."
+      ],
+      [
+        "Warum gehört das Warten eher zur Geschichte?",
+        "Es ist keine sichtbare Eigenschaft.",
+        "Es ist eine gemessene Länge.",
+        "Es ist der Plural von Guave."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "bilderraetsel-erst-beschreiben-dann-benennen": [
+    "Die Frucht hängt an einem Zweig.",
+    "Die Karte dazu heißt die Guave.",
+    "Gut, wir tauschen die Rollen."
+  ],
+  "physalis-zwei-varianten-eine-beschriftung": [
+    "Beide.",
+    "damit die Beschriftungen einheitlich bleiben.",
+    "Dann notiere ich die zweite Variante im Lernheft."
+  ],
+  "bildbeschreibung-den-vergleich-markieren": [
+    "Die Hüllen der Physalis erinnern mich an kleine Laternen.",
+    "Die Namen der Früchte stehen getrennt darunter.",
+    "Das Warten ist keine sichtbare Eigenschaft."
+  ]
+});

@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-forty-ninth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-fiftieth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1618,9 +1618,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Dictation source-reading link | Link describes existing source-set paragraph including answer-reveal caution. 4 unique-target/focus checks AR/EN 320/390 and 390px focused-link pixels inspected. Earlier source/voice/speed/Next descriptions kept. No words, sequencing, scoring or persistence change. Actual assistive-device review pending. |
 | [ ] | Listening/dictation | 68 original segments, 272 exact German speech/source/answer checks. Native editorial/actual-device voice pending. Practice labels are not certification; progress is device-local. |
 
+### List 150: Guave and Physalis
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-das-bilderraetsel-mit-fruechten/` and linked dialogue | Lea/Sami describe before naming in a photo-card riddle; green Guave on branch, three orange Physalis with husks. 173 German words. 7 dialogue turns. Photos only, no real purchase/tasting. |
+| [ ] | `/reading/alltag-a2-zwei-erlaubte-mehrzahlformen/` and linked dialogue | Jana/Karim choose a consistent caption without rejecting the other allowed plural: Physalis and Physalen, unlike Guave/Guaven. Numeral marks number in drei Physalis. 225 words. Check natural phrasing, number and variant explanations, Egyptian Arabic. |
+| [ ] | `/reading/alltag-b1-beobachtung-oder-deutung/` and linked dialogue | Nele/Omar separate observed branch/leaves/husks from a waiting-fruit story and a clearly personal lantern comparison. Figurative language allowed when marked. 311 words. No inference of ripeness, taste or actual photo location. |
+| [ ] | `/lessons/guavephysalis/` | die Guave/Guaven (جوافة), die Physalis/Physalis or Physalen (حرنكش). Exact Duden/DWDS variants, WAHRIG fruit sense; dictionary also covers plant meanings. Both plural variants visible. Rajesh S Balouria 13042797 guava and Kulbir 8206160 three Physalis. Unbranded/faceless whole subjects, proportional 800x600 crops, source credits retained. |
+| [ ] | Six appended grammar banks | 24 article/accusative/present/possessive/two-way/negation rows. Earlier saved IDs retained; all question evidence exact, global reading/dialogue IDs unique. Native German/Egyptian Arabic editorial pending. |
+| [ ] | Dictation answer field | New visible AR/EN helper and aria-describedby distinguish exact-match punctuation from basic punctuation ignored by word map; case/umlauts matter in both. 4 unique-target/focus checks AR/EN 320/390, both 390px screenshots inspected. No comparison/scoring/selection/persistence change. Earlier source/voice/speed/Next descriptions retained. Actual-device screen-reader pending. |
+| [ ] | Listening/dictation | 73 original segments; 292 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice labels not certification, progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **955 photo nouns / 194 topics**, **465 reading texts / 1813 reading questions**, **41 core grammar topics / 3526 core grammar questions**, **405 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **957 photo nouns / 195 topics**, **468 reading texts / 1825 reading questions**, **41 core grammar topics / 3550 core grammar questions**, **408 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1632,7 +1644,7 @@ This is an inventory, not completed review. Snapshot: **955 photo nouns / 194 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 137 · A2 165 · B1 133 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 138 · A2 166 · B1 134 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

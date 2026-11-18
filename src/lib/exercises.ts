@@ -612,3 +612,6 @@ for(const[topic,rows]of Object.entries(vogelportraetsGrammar))exercises[topic].p
 
 import {durianjackfruchtGrammar} from './exercises-durianjackfrucht';
 for(const[topic,rows]of Object.entries(durianjackfruchtGrammar))exercises[topic].push(...rows);
+
+import {guavephysalisGrammar} from './exercises-guavephysalis';
+for(const[topic,rows]of Object.entries(guavephysalisGrammar))exercises[topic].push(...rows);
