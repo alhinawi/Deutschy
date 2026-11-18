@@ -1,0 +1,63 @@
+{
+  "status": "editorial-release-approved",
+  "target": 7000,
+  "releasePolicy": "One full release only. No public partial bank or empty navigation entry.",
+  "titleAr": "أهم 7000 جملة ألماني",
+  "titleEn": "7000 useful German sentences",
+  "selectionClaim": "Editorial selection for practical learning. Word-frequency evidence supports vocabulary selection, not a statistical ranking of whole sentences.",
+  "levelClaim": "Approximate practice bands. Not official CEFR sentence certification or an exam syllabus.",
+  "reviewClaim": "Editorial checks are recorded per entry. No native-language review is claimed without actual sign-off.",
+  "sourcePolicy": "Original teaching examples preferred. Third-party sentence text needs exact author, sentence ID, license, source URL and modification record. Goethe examples must not be bulk copied. Frequency diagnostics are local QA only and are not redistributed as part of the original sentence text.",
+  "audioPolicy": "Reuse exact existing audio when available; otherwise free compatible German browser speech. Playback can be unavailable. No paid generation, new account pooling or claim of 7000 human recordings.",
+  "storagePolicy": "Server-account preferences and completed activities. Guests remain volatile tab-only. No localStorage, sessionStorage or IndexedDB.",
+  "sources": [
+    {
+      "id": "cefr-2020",
+      "title": "Council of Europe CEFR descriptors",
+      "url": "https://www.coe.int/en/web/common-european-framework-reference-languages/cefr-descriptors-search",
+      "use": "Communicative scope and approximate practice-band review, not a copied sentence bank or sentence-level endorsement."
+    },
+    {
+      "id": "goethe-a2-reference",
+      "title": "Goethe-Zertifikat A2 Wortliste",
+      "url": "https://www.goethe.de/resources/files/pdf329/goethe-zertifikat_a2_wortliste.pdf",
+      "use": "Reference for everyday communicative vocabulary and scope. Copyright retained by Goethe-Institut. Examples are not copied into this bank."
+    },
+    {
+      "id": "goethe-b1-reference",
+      "title": "Goethe-Zertifikat B1 practice overview",
+      "url": "https://www.goethe.de/de/spr/prf/ueb/pb1.html",
+      "use": "Reference for communicative tasks, not an official mapping of this bank."
+    },
+    {
+      "id": "dwds-goethe",
+      "title": "DWDS Goethe vocabulary reference and copyright notice",
+      "url": "https://www.dwds.de/lemma/wortschatz-goethe-zertifikat",
+      "use": "Clarifies the scope and copyright status of Goethe vocabulary references."
+    },
+    {
+      "id": "wordfreq-3.1.1",
+      "title": "wordfreq by Robyn Speer",
+      "url": "https://github.com/rspeer/wordfreq/",
+      "notices": "https://github.com/rspeer/wordfreq/blob/master/NOTICE.md",
+      "use": "Token-level Zipf frequency estimates from the installed library. Data snapshot is approximately through 2021. Not a whole-sentence frequency ranking or CEFR classifier.",
+      "attribution": "Robyn Speer; SUBTLEX authors including Marc Brysbaert and collaborators; underlying source and license notices remain at the linked NOTICE. Software Apache 2.0; included frequency data CC BY-SA 4.0 with the additional source notices."
+    },
+    {
+      "id": "tatoeba-reuse",
+      "title": "Tatoeba reuse and learner-material guidance",
+      "url": "https://en.wiki.tatoeba.org/articles/show/using-the-tatoeba-corpus",
+      "downloads": "https://tatoeba.org/en/downloads",
+      "use": "Potential attributed sentence source only after personal proofreading. Not used as a bulk imported sentence bank in the initial original working set. Audio licensing is separate and must be checked per contributor/file."
+    }
+  ],
+  "editorialRelease": {
+    "date": "2026-11-18",
+    "entries": 7000,
+    "method": "Every selected row reread for German grammar, Egyptian Arabic and English meaning, standalone context and approximate difficulty; final exact and near-duplicate checks. Engineering tests are separate.",
+    "nativeSignoff": false,
+    "officialCEFRMapping": false,
+    "reserve": "editorial-reserve.json",
+    "exclusions": "editorial-exclusions.json"
+  }
+}

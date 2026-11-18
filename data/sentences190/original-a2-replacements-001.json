@@ -1,0 +1,106 @@
+[
+  {
+    "id": "s190-a2-0051",
+    "de": "Für das Schließfach brauche ich eine Münze.",
+    "ar": "محتاج عملة معدنية للدولاب اللي بيتقفل.",
+    "en": "I need a coin for the locker.",
+    "level": "A2",
+    "topic": "travel-and-transport",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f2de5ee7b62b2d6fd9a31e392a86cd4a449e739ca5099e1cdf5c60fe015ff37e"
+    }
+  },
+  {
+    "id": "s190-a2-0108",
+    "de": "Ich habe die falsche Version des Dokuments ausgedruckt.",
+    "ar": "طبعت النسخة الغلط من المستند.",
+    "en": "I printed the wrong version of the document.",
+    "level": "A2",
+    "topic": "work",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8d247bdf4aebef56402beb637df021dfcb1226ce4cac395b118c8984072d0bb3"
+    }
+  },
+  {
+    "id": "s190-a2-0112",
+    "de": "Die Kundin hat ihre Brille auf dem Tresen liegen lassen.",
+    "ar": "العميلة سابت نضارتها على الكاونتر.",
+    "en": "The customer left her glasses on the counter.",
+    "level": "B1",
+    "topic": "work",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "3798c09d26978c34d76fc5b467bbc8bcc63e63ace591f6d98ffba1ed3f9cc60c"
+    }
+  },
+  {
+    "id": "s190-a2-0246",
+    "de": "Ich habe die Seitenzahlen in meinem Heft notiert.",
+    "ar": "كتبت أرقام الصفحات في كشكولي.",
+    "en": "I noted the page numbers in my notebook.",
+    "level": "A2",
+    "topic": "school-and-learning",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f01b61af1d010ff7dd9f6805742f9bf41c064ed0418d3b8e6f6cc1b06aeeb66e"
+    }
+  }
+]

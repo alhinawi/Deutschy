@@ -1,0 +1,834 @@
+{
+  "reason": "Exact or semantically redundant near-duplicates, retained here for audit but excluded from the library count.",
+  "entries": [
+    {
+      "id": "s190-a2-0051",
+      "de": "Können wir unser Gepäck schon hier lassen?",
+      "ar": "ممكن نسيب شنطنا هنا من دلوقتي؟",
+      "en": "Can we leave our luggage here already?",
+      "level": "A2",
+      "topic": "travel-and-transport",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial reread of grammar and trilingual meaning; no independent or native review; practice band provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a2-0108",
+      "de": "Ich arbeite heute von zu Hause aus.",
+      "ar": "أنا شغال من البيت النهارده.",
+      "en": "I'm working from home today.",
+      "level": "A2",
+      "topic": "work",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial reread of grammar and trilingual meaning; no independent or native review; practice band provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a2-0112",
+      "de": "Können Sie mir die Aufgabe noch einmal erklären?",
+      "ar": "ممكن حضرتك تشرحلي المهمة تاني؟",
+      "en": "Could you explain the task to me again?",
+      "level": "A2",
+      "topic": "work",
+      "register": "polite",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial reread of grammar and trilingual meaning; no independent or native review; practice band provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a2-0246",
+      "de": "Beim Sprechen brauche ich noch viel Zeit.",
+      "ar": "لسه باخد وقت طويل وأنا بتكلم.",
+      "en": "I still need a lot of time when speaking.",
+      "level": "A2",
+      "topic": "school-and-learning",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial reread of grammar and trilingual meaning; no independent or native review; practice band provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a2-0009",
+      "de": "Wo kann ich meine Fahrkarte entwerten?",
+      "ar": "أقدر أختم تذكرتي فين؟",
+      "en": "Where can I validate my ticket?",
+      "level": "A2",
+      "topic": "travel-and-transport",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial reread of grammar and trilingual meaning; no independent or native review; practice band provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a2-0059",
+      "de": "Ist das Frühstück im Zimmerpreis enthalten?",
+      "ar": "الفطار داخل في سعر الأوضة؟",
+      "en": "Is breakfast included in the room rate?",
+      "level": "A2",
+      "topic": "travel-and-transport",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial reread of grammar and trilingual meaning; no independent or native review; practice band provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a2-0212",
+      "de": "Könnten Sie bitte langsamer sprechen?",
+      "ar": "ممكن تتكلم أبطأ شوية؟",
+      "en": "Could you speak more slowly, please?",
+      "level": "A2",
+      "topic": "health-and-care",
+      "register": "polite",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial reread of grammar and trilingual meaning; no independent or native review; practice band provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a2-0253",
+      "de": "Ich kenne das Wort, aber es fällt mir gerade nicht ein.",
+      "ar": "عارف الكلمة بس مش فاكرها دلوقتي.",
+      "en": "I know the word, but I can't remember it right now.",
+      "level": "A2",
+      "topic": "school-and-learning",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial reread of grammar and trilingual meaning; no independent or native review; practice band provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a2-0328",
+      "de": "Ich brauche gerade ein bisschen Ruhe.",
+      "ar": "محتاج شوية هدوء دلوقتي.",
+      "en": "I need a little peace and quiet right now.",
+      "level": "A2",
+      "topic": "feelings-and-relationships",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial reread of grammar and trilingual meaning; no independent or native review; practice band provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a1-0392",
+      "de": "Mein Fahrrad hat einen platten Reifen.",
+      "ar": "كاوتش العجلة بتاعتي نايم.",
+      "en": "My bicycle has a flat tire.",
+      "level": "A2",
+      "topic": "daily-routine",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "checked",
+        "nativeSignoff": false,
+        "method": "writer editorial self-review; approximate practice band; independent and native review outstanding"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a1-0433",
+      "de": "Meine Tochter braucht Hilfe beim Lesen.",
+      "ar": "بنتي محتاجة مساعدة في القراية.",
+      "en": "My daughter needs help with reading.",
+      "level": "A2",
+      "topic": "family",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "checked",
+        "nativeSignoff": false,
+        "method": "writer editorial self-review; approximate practice band; independent and native review outstanding"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a1-0606",
+      "de": "Diese Schüssel fasst zwei Liter.",
+      "ar": "الطبق العميق ده بيساع لترين.",
+      "en": "This bowl holds two liters.",
+      "level": "A1",
+      "topic": "time-and-quantities",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "checked",
+        "nativeSignoff": false,
+        "method": "writer editorial self-review; approximate practice band; independent and native review outstanding"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a1-0663",
+      "de": "Ich habe seit gestern Halsschmerzen.",
+      "ar": "زوري بيوجعني من إمبارح.",
+      "en": "I've had a sore throat since yesterday.",
+      "level": "A1",
+      "topic": "daily-routine",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "checked",
+        "nativeSignoff": false,
+        "method": "writer editorial self-review; approximate practice band; independent and native review outstanding"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-b1-0033",
+      "de": "Danke für den Hinweis, ich hatte das Datum übersehen.",
+      "ar": "شكرًا على التنبيه، مكنتش واخد بالي من التاريخ.",
+      "en": "Thanks for pointing that out; I'd overlooked the date.",
+      "level": "B1",
+      "topic": "news",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial first-pass and reread of trilingual meaning; no independent or native review; level provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-b1-0074",
+      "de": "Können wir das unter vier Augen besprechen?",
+      "ar": "ممكن نتكلم في ده بيني وبينك؟",
+      "en": "Can we discuss this privately?",
+      "level": "B1",
+      "topic": "work-life",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial first-pass and reread of trilingual meaning; no independent or native review; level provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a1-0961",
+      "de": "Ich habe mein Handy auf lautlos gestellt.",
+      "ar": "أنا حطيت الموبايل صامت.",
+      "en": "I've put my phone on silent.",
+      "level": "A2",
+      "topic": "daily-routine",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "checked",
+        "nativeSignoff": false,
+        "method": "writer editorial self-review; approximate practice band; independent and native review outstanding"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a2-0769",
+      "de": "Ich bin bereit, meinen Teil der Verantwortung zu übernehmen.",
+      "ar": "أنا مستعد أتحمّل الجزء اللي يخصني من المسؤولية.",
+      "en": "I'm ready to take my share of responsibility.",
+      "level": "A2",
+      "topic": "feelings-and-relationships",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial first-pass and reread of trilingual meaning; no independent or native review; level provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a2-0928",
+      "de": "Ich habe die Änderungen im Dokument markiert.",
+      "ar": "علّمت على التعديلات في المستند.",
+      "en": "I've marked the changes in the document.",
+      "level": "A2",
+      "topic": "work",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial first-pass and reread of trilingual meaning; no independent or native review; level provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a2-0396",
+      "de": "Können wir eine halbe Stunde später anfangen?",
+      "ar": "ممكن نبدأ متأخر نص ساعة؟",
+      "en": "Can we start half an hour later?",
+      "level": "A2",
+      "topic": "plans",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial first-pass and reread of trilingual meaning; no independent or native review; level provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a2-0427",
+      "de": "Mein Handy hat kaum noch Akku.",
+      "ar": "بطارية موبايلي قربت تخلص.",
+      "en": "My phone is almost out of battery.",
+      "level": "A2",
+      "topic": "phone-and-online",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial first-pass and reread of trilingual meaning; no independent or native review; level provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a2-0469",
+      "de": "Kennst du das Passwort für das Gäste-WLAN?",
+      "ar": "تعرف كلمة سر شبكة الضيوف؟",
+      "en": "Do you know the password for the guest Wi-Fi?",
+      "level": "A2",
+      "topic": "phone-and-online",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial first-pass and reread of trilingual meaning; no independent or native review; level provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a2-0626",
+      "de": "Die Kartenzahlung wurde abgelehnt.",
+      "ar": "الدفع بالكارت اترفض.",
+      "en": "The card payment was declined.",
+      "level": "A2",
+      "topic": "work",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial first-pass and reread of trilingual meaning; no independent or native review; level provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-b1-0026",
+      "de": "Ich möchte die Originalquelle lesen, bevor ich den Beitrag teile.",
+      "ar": "عايز أقرا المصدر الأصلي قبل ما أشارك المنشور.",
+      "en": "I want to read the original source before sharing the post.",
+      "level": "B1",
+      "topic": "news",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial first-pass and reread of trilingual meaning; no independent or native review; level provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-b1-0094",
+      "de": "Ich möchte nichts versprechen, was ich nicht halten kann.",
+      "ar": "مش عايز أوعد بحاجة مقدرش أنفّذها.",
+      "en": "I don't want to make a promise I can't keep.",
+      "level": "B1",
+      "topic": "idioms-in-use",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial first-pass and reread of trilingual meaning; no independent or native review; level provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-b1-0156",
+      "de": "Falls es Ihnen nicht passt, finden wir einen anderen Termin.",
+      "ar": "لو مش مناسب لحضرتك، نحدد معاد تاني.",
+      "en": "If it doesn't suit you, we'll find another time.",
+      "level": "B1",
+      "topic": "politeness",
+      "register": "polite",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial first-pass and reread of trilingual meaning; no independent or native review; level provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-b1-0180",
+      "de": "Wir können freundlich bleiben, auch wenn wir uns nicht einig sind.",
+      "ar": "نقدر نفضل بنتعامل بذوق حتى لو مش متفقين.",
+      "en": "We can stay friendly even when we disagree.",
+      "level": "B1",
+      "topic": "politeness",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial first-pass and reread of trilingual meaning; no independent or native review; level provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a2-0486",
+      "de": "Darf ich dich auf dem Bild markieren?",
+      "ar": "ينفع أعملك إشارة على الصورة؟",
+      "en": "May I tag you in the picture?",
+      "level": "A2",
+      "topic": "phone-and-online",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "checked",
+        "nativeSignoff": false,
+        "method": "author editorial first-pass and reread of trilingual meaning; no independent or native review; level provisional"
+      },
+      "publication": "draft",
+      "integrationReview": {
+        "status": "checked",
+        "pass": "editorial-language-and-meaning",
+        "nativeSignoff": false,
+        "contentSha256": "078bb54dfda78f89e728527a398cbead444f1742b57f0fd1c8ddb9bc6968e554"
+      }
+    },
+    {
+      "id": "s190-a2-0701",
+      "de": "Kannst du mir das Dokument als PDF schicken?",
+      "ar": "ممكن تبعتلي المستند بصيغة بي دي إف؟",
+      "en": "Can you send me the document as a PDF?",
+      "level": "A2",
+      "topic": "phone-and-online",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial first-pass and reread of trilingual meaning; no independent or native review; level provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a2-1214",
+      "de": "Ich möchte den Wechselkurs vor der Bestätigung sehen.",
+      "ar": "عايز أشوف سعر الصرف قبل التأكيد.",
+      "en": "I want to see the exchange rate before confirming.",
+      "level": "A2",
+      "topic": "money-and-plans",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial first-pass and reread of trilingual meaning; no independent or native review; level provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a2-1224",
+      "de": "Ich habe meine Karte gestern verloren.",
+      "ar": "ضيّعت الكارت امبارح.",
+      "en": "I lost my card yesterday.",
+      "level": "A2",
+      "topic": "money-and-plans",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial first-pass and reread of trilingual meaning; no independent or native review; level provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-a2-1229",
+      "de": "Der Geldautomat hat meine Karte einbehalten.",
+      "ar": "ماكينة السحب سحبت الكارت ومطلّعتوش.",
+      "en": "The cash machine kept my card.",
+      "level": "A2",
+      "topic": "money-and-plans",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "author editorial first-pass and reread of trilingual meaning; no independent or native review; level provisional"
+      },
+      "publication": "draft"
+    },
+    {
+      "id": "s190-b1-1406",
+      "de": "Ich benötige eine beglaubigte Kopie meines Zeugnisses.",
+      "ar": "محتاج نسخة مصدقة من شهادتي.",
+      "en": "I need a certified copy of my certificate.",
+      "level": "B1",
+      "topic": "everyday-situations",
+      "register": "neutral",
+      "origin": "original",
+      "publication": "draft",
+      "review": {
+        "german": "pending",
+        "egyptian": "pending",
+        "english": "pending",
+        "standalone": "pending",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "Writer draft; script checks only (NFC, control characters, punctuation, duplicates); editorial and level review outstanding"
+      }
+    },
+    {
+      "id": "s190-b1-1478",
+      "de": "Kurz gesagt, ich bin mit dem Ergebnis zufrieden.",
+      "ar": "باختصار أنا راضي عن النتيجة.",
+      "en": "In short, I am satisfied with the result.",
+      "level": "B1",
+      "topic": "everyday-situations",
+      "register": "neutral",
+      "origin": "original",
+      "publication": "draft",
+      "review": {
+        "german": "pending",
+        "egyptian": "pending",
+        "english": "pending",
+        "standalone": "pending",
+        "level": "pending",
+        "nativeSignoff": false,
+        "method": "Writer draft; script checks only (NFC, control characters, punctuation, duplicates); editorial and level review outstanding"
+      }
+    },
+    {
+      "id": "s190-a2-0807",
+      "de": "Ich habe meine Wasserflasche im Rucksack.",
+      "ar": "زجاجة المية بتاعتي في شنطة ضهري.",
+      "en": "My water bottle is in my backpack.",
+      "level": "A2",
+      "topic": "travel-outdoors",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "checked",
+        "nativeSignoff": false,
+        "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+      },
+      "publication": "draft",
+      "integrationReview": {
+        "status": "checked",
+        "pass": "editorial-language-and-meaning",
+        "nativeSignoff": false,
+        "contentSha256": "f7663b921f27fe9e11255ca1268c39f8a20a9934a3f172c9842cab2b11c35bf1"
+      }
+    },
+    {
+      "id": "s190-a2-0809",
+      "de": "Wir nehmen unseren Müll wieder mit.",
+      "ar": "هناخد زبالتنا معانا وإحنا راجعين.",
+      "en": "We're taking our rubbish back with us.",
+      "level": "B1",
+      "topic": "travel-outdoors",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "checked",
+        "nativeSignoff": false,
+        "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+      },
+      "publication": "draft",
+      "integrationReview": {
+        "status": "checked",
+        "pass": "editorial-language-and-meaning",
+        "nativeSignoff": false,
+        "contentSha256": "0fcd81219bee4c90ade4914769b597f7bec95851681244fc68d005efe92309a8"
+      }
+    },
+    {
+      "id": "s190-a2-1044",
+      "de": "Wir haben keinen Aufzug im Haus.",
+      "ar": "مفيش أسانسير في العمارة.",
+      "en": "Our building has no lift.",
+      "level": "A2",
+      "topic": "moving-plans",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "checked",
+        "nativeSignoff": false,
+        "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+      },
+      "publication": "draft",
+      "integrationReview": {
+        "status": "checked",
+        "pass": "editorial-language-and-meaning",
+        "nativeSignoff": false,
+        "contentSha256": "50f4f6a1f312c0df6d0fbc0f9f05d16cccdb5c217d1d7960cb80afde6f386e65"
+      }
+    },
+    {
+      "id": "s190-a2-1225",
+      "de": "Ich möchte die verlorene Karte sperren lassen.",
+      "ar": "عايز أوقف الكارت اللي ضاع.",
+      "en": "I'd like to have the lost card blocked.",
+      "level": "B1",
+      "topic": "money-and-plans",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "checked",
+        "nativeSignoff": false,
+        "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+      },
+      "publication": "draft",
+      "integrationReview": {
+        "status": "checked",
+        "pass": "editorial-language-and-meaning",
+        "nativeSignoff": false,
+        "contentSha256": "eabd852aba479144480d7ac8c7cabaa337a78b1142e57b2c0f5ed60bcbd98298"
+      }
+    },
+    {
+      "id": "s190-b1-1047",
+      "de": "Im Haus gibt es leider keinen Aufzug.",
+      "ar": "للأسف مفيش أسانسير في العمارة.",
+      "en": "Unfortunately there is no elevator in the building.",
+      "level": "A2",
+      "topic": "home",
+      "register": "neutral",
+      "origin": "original",
+      "publication": "draft",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "checked",
+        "nativeSignoff": false,
+        "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+      },
+      "integrationReview": {
+        "status": "checked",
+        "pass": "editorial-language-and-meaning",
+        "nativeSignoff": false,
+        "contentSha256": "b63f265b633a33ea221ac35e84d4c16a8622461f40d63da942c7cb210fa32578"
+      }
+    },
+    {
+      "id": "s190-b1-0204",
+      "de": "Die Ersatzunterkunft hat keinen Aufzug.",
+      "ar": "مكان الإقامة البديل مفيهوش أسانسير.",
+      "en": "The replacement accommodation has no lift.",
+      "level": "A2",
+      "topic": "travel-problems",
+      "register": "neutral",
+      "origin": "original",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "checked",
+        "nativeSignoff": false,
+        "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+      },
+      "publication": "draft",
+      "integrationReview": {
+        "status": "checked",
+        "pass": "editorial-language-and-meaning",
+        "nativeSignoff": false,
+        "contentSha256": "6558e09f2fca6d6db4b8ec4ea5e55670060d3dd50ec955c850b206ae4fd45538"
+      }
+    }
+  ],
+  "retainedNearPair": {
+    "ids": [
+      "s190-a2-0014",
+      "s190-core-0118"
+    ],
+    "reason": "When versus where to get off, a distinct practical meaning."
+  }
+}

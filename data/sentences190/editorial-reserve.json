@@ -1,0 +1,187 @@
+{
+  "reason": "Seven reviewed surplus everyday entries reserved to keep the first release at exactly 7000. Preference for topic variety over repeated common patterns; not all are exact duplicates.",
+  "entries": [
+    {
+      "id": "s190-b1-2040",
+      "de": "Ich habe meinen Schlüssel verloren und kann nicht in die Wohnung.",
+      "ar": "ضيعت مفتاحي ومش قادر أدخل الشقة.",
+      "en": "I have lost my key and cannot get into the flat.",
+      "level": "A2",
+      "topic": "housing-communication",
+      "register": "neutral",
+      "origin": "original",
+      "publication": "draft",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "checked",
+        "nativeSignoff": false,
+        "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+      },
+      "integrationReview": {
+        "status": "checked",
+        "pass": "editorial-language-and-meaning",
+        "nativeSignoff": false,
+        "contentSha256": "b628ec6673250a30d122a02c5ff1a9460100587a5f8e5085501cd324df6f2c7b"
+      }
+    },
+    {
+      "id": "s190-b1-2042",
+      "de": "Ich möchte gern ein Zimmer für zwei Nächte buchen.",
+      "ar": "عايز أحجز أوضة لليلتين.",
+      "en": "I would like to book a room for two nights.",
+      "level": "A2",
+      "topic": "housing-communication",
+      "register": "neutral",
+      "origin": "original",
+      "publication": "draft",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "checked",
+        "nativeSignoff": false,
+        "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+      },
+      "integrationReview": {
+        "status": "checked",
+        "pass": "editorial-language-and-meaning",
+        "nativeSignoff": false,
+        "contentSha256": "f48f07de13cd946a37bb97371717667be8aabe4b038342245091b0cfd97be222"
+      }
+    },
+    {
+      "id": "s190-b1-2070",
+      "de": "Kannst du das bitte noch einmal langsamer sagen?",
+      "ar": "ممكن تقولها تاني أبطأ من فضلك؟",
+      "en": "Can you please say that once more more slowly?",
+      "level": "A2",
+      "topic": "everyday-situations",
+      "register": "neutral",
+      "origin": "original",
+      "publication": "draft",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "checked",
+        "nativeSignoff": false,
+        "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+      },
+      "integrationReview": {
+        "status": "checked",
+        "pass": "editorial-language-and-meaning",
+        "nativeSignoff": false,
+        "contentSha256": "af270c9586f8af4e3299367d9d7c08fa3351522aa8f0812167b98fd08e40ac88"
+      }
+    },
+    {
+      "id": "s190-b1-2080",
+      "de": "Zum Frühstück esse ich meistens Brot mit Käse und trinke Tee.",
+      "ar": "في الفطار بآكل غالبًا عيش بجبنة وبشرب شاي.",
+      "en": "For breakfast I mostly eat bread with cheese and drink tea.",
+      "level": "A2",
+      "topic": "food-and-cooking",
+      "register": "neutral",
+      "origin": "original",
+      "publication": "draft",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "checked",
+        "nativeSignoff": false,
+        "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+      },
+      "integrationReview": {
+        "status": "checked",
+        "pass": "editorial-language-and-meaning",
+        "nativeSignoff": false,
+        "contentSha256": "7fcd8cbb15d5bb4e7419acb2a1bb7a2f224bdbe5d50a66d37980f139f006b13c"
+      }
+    },
+    {
+      "id": "s190-b1-2093",
+      "de": "Mach dir keine Sorgen, das ist nicht so schlimm.",
+      "ar": "ماتقلقش، مش وحش أوي.",
+      "en": "Do not worry, it is not that bad.",
+      "level": "A2",
+      "topic": "everyday-situations",
+      "register": "neutral",
+      "origin": "original",
+      "publication": "draft",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "checked",
+        "nativeSignoff": false,
+        "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+      },
+      "integrationReview": {
+        "status": "checked",
+        "pass": "editorial-language-and-meaning",
+        "nativeSignoff": false,
+        "contentSha256": "dfc24c0faac25518ff930b26b421ae111ff55f92646dd22b4ec8be5a6fa2b25b"
+      }
+    },
+    {
+      "id": "s190-b1-2101",
+      "de": "Mein Handy hat keinen Empfang, wenn ich im Keller bin.",
+      "ar": "موبايلي مفيهوش شبكة لما أكون في البدروم.",
+      "en": "My phone has no reception when I am in the basement.",
+      "level": "A2",
+      "topic": "technology-and-media",
+      "register": "neutral",
+      "origin": "original",
+      "publication": "draft",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "checked",
+        "nativeSignoff": false,
+        "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+      },
+      "integrationReview": {
+        "status": "checked",
+        "pass": "editorial-language-and-meaning",
+        "nativeSignoff": false,
+        "contentSha256": "b0673021490b7a325fab8aabb641385d5db27e6460e685def0908cd6937bd265"
+      }
+    },
+    {
+      "id": "s190-b1-2112",
+      "de": "Die Suppe schmeckt gut, aber sie ist mir ein bisschen zu salzig.",
+      "ar": "الشوربة طعمها حلو بس مالحة شوية عليا.",
+      "en": "The soup tastes good but it is a little too salty for me.",
+      "level": "A2",
+      "topic": "everyday-situations",
+      "register": "neutral",
+      "origin": "original",
+      "publication": "draft",
+      "review": {
+        "german": "checked",
+        "egyptian": "checked",
+        "english": "checked",
+        "standalone": "checked",
+        "level": "checked",
+        "nativeSignoff": false,
+        "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+      },
+      "integrationReview": {
+        "status": "checked",
+        "pass": "editorial-language-and-meaning",
+        "nativeSignoff": false,
+        "contentSha256": "3c4d645deb7faa42ebedac9f540af0841a72c7c414f2aa8e3958adc833a532a7"
+      }
+    }
+  ]
+}
