@@ -2825,3 +2825,24 @@ Object.assign(readingEvidence,{
     "Jonas behält seine ausführlichen Beobachtungen in einem separaten Entwurfsblatt."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-die-bilder-nacheinander-zeigen": [
+    "Zuerst schauen sie nur das Eisvogelfoto an.",
+    "Sie legt das zweite Bild mit der Rückseite nach oben auf den Tisch.",
+    "Jetzt liest Lea die Elsterkarte vor.",
+    "Die beiden mischen die Namenskarten und ordnen sie noch einmal zu."
+  ],
+  "alltag-a2-ein-merkmal-reicht-nicht-immer": [
+    "Auf beiden Bildern ist ein Schnabel zu sehen.",
+    "Nora zeigt auf das Eisvogelfoto.",
+    "Aus den Fotos allein erfahren sie zum Beispiel nicht, wie alt die Tiere sind.",
+    "Wichtig ist hier, dass sie bei der Auswahl zwischen den vorhandenen Bildern hilft."
+  ],
+  "alltag-b1-ein-ergebnis-mit-grenzen": [
+    "Wer beide Karten richtig zugeordnet hat, hat diese konkrete Aufgabe erfolgreich gelöst.",
+    "Der erste klingt zwar eindrucksvoller, enthält jedoch mehr, als die kurze Beobachtung belegt.",
+    "das Vorschläge für weitere Übung sind, keine nachträglichen Bedingungen, durch die der erste Erfolg ungültig wird.",
+    "Die Gruppe kann an einem sichtbaren Ergebnis anknüpfen, ohne so zu tun, als sei der ganze Lernprozess abgeschlossen."
+  ]
+});

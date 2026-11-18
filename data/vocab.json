@@ -787,6 +787,10 @@
   {
    "id": "mangostanebrotfrucht",
    "ar": "مانجوستين وثمرة شجرة الخبز"
+  },
+  {
+   "id": "eisvogelelster",
+   "ar": "رفراف وعقعق"
   }
  ],
  "words": [
@@ -15295,6 +15299,36 @@
     "file": "32289299.jpg",
     "commons": "https://www.pexels.com/photo/close-up-of-a-green-breadfruit-on-tree-branch-32289299/",
     "author": "Elizabeth Olson",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "eisvogel",
+   "topic": "eisvogelelster",
+   "art": "der",
+   "de": "Eisvogel",
+   "plural": "Eisvögel",
+   "ar": "رفراف",
+   "photo": {
+    "file": "35953792.jpg",
+    "commons": "https://www.pexels.com/photo/vibrant-kingfisher-perched-in-bangladesh-35953792/",
+    "author": "Sanjeed Quazi",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "elster",
+   "topic": "eisvogelelster",
+   "art": "die",
+   "de": "Elster",
+   "plural": "Elstern",
+   "ar": "عقعق",
+   "photo": {
+    "file": "31670212.jpg",
+    "commons": "https://www.pexels.com/photo/eurasian-magpie-perched-in-oxford-s-countryside-31670212/",
+    "author": "Mark Dubery",
     "license": "Pexels License",
     "modified": true
    }

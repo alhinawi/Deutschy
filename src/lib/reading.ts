@@ -459,3 +459,6 @@ readings.push(...rambutanchirimoyaTexts);
 
 import {mangostanebrotfruchtTexts} from './reading-mangostanebrotfrucht';
 readings.push(...mangostanebrotfruchtTexts);
+
+import {eisvogelelsterTexts} from './reading-eisvogelelster';
+readings.push(...eisvogelelsterTexts);

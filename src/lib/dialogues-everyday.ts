@@ -28798,3 +28798,218 @@ Object.assign(dialogueEvidence,{
     "Dann entscheiden wir nach dem Zweck"
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "bilderfolge-erst-ein-foto-dann-das-andere",
+    "level": "A1",
+    "title": [
+      "Erst ein Foto, dann das andere",
+      "صورة الأول، وبعدين التانية"
+    ],
+    "lines": [
+      [
+        "Lea",
+        "Zeigen wir beide Vogelfotos gleichzeitig?",
+        "نورّي صورتين الطيور مع بعض؟"
+      ],
+      [
+        "Samir",
+        "Lass uns zuerst nur den Eisvogel anschauen.",
+        "خلينا نبص على الرفراف بس الأول."
+      ],
+      [
+        "Lea",
+        "Dann lege ich das Elsterfoto mit der Rückseite nach oben hin.",
+        "يبقى أحط صورة العقعق وضهرها لفوق."
+      ],
+      [
+        "Samir",
+        "Ich lese den Namen mit Artikel vor. Du sprichst ihn nach.",
+        "هقرا الاسم بأداة التعريف بصوت مسموع. وإنتي تكرري ورايا."
+      ],
+      [
+        "Lea",
+        "Beim zweiten Bild lese ich vor.",
+        "مع الصورة التانية أنا اللي هقرا."
+      ],
+      [
+        "Samir",
+        "Und am Ende mischen wir die Karten.",
+        "وفي الآخر نخلط الكروت."
+      ],
+      [
+        "Lea",
+        "Genau. Dann ordnen wir die Namen beiden Fotos zu.",
+        "بالظبط. بعد كده نربط الأسامي بالصورتين."
+      ]
+    ],
+    "q": [
+      [
+        "Welchen Vogel schauen sie zuerst an?",
+        "Den Eisvogel.",
+        "Die Elster.",
+        "Einen Spatz."
+      ],
+      [
+        "Wer liest beim zweiten Bild vor?",
+        "Lea.",
+        "Samir.",
+        "Niemand."
+      ],
+      [
+        "Was machen sie am Ende?",
+        "Die Karten mischen und zuordnen.",
+        "Vogelstimmen aufnehmen.",
+        "Einen Vogel kaufen."
+      ]
+    ]
+  },
+  {
+    "id": "fotowahl-welches-merkmal-hilft",
+    "level": "A2",
+    "title": [
+      "Beide haben einen Schnabel",
+      "الاتنين عندهم منقار"
+    ],
+    "lines": [
+      [
+        "Karim",
+        "Ich meine den Vogel mit dem Schnabel.",
+        "أقصد الطائر اللي عنده منقار."
+      ],
+      [
+        "Nora",
+        "Das passt zu beiden Fotos. Welche Farbe meinst du?",
+        "ده ينطبق على الصورتين. تقصد أنهي لون؟"
+      ],
+      [
+        "Karim",
+        "Oben blaugrün, unten orange.",
+        "فوق أزرق مخضر، وتحت برتقاني."
+      ],
+      [
+        "Nora",
+        "Dann meinst du den Eisvogel. Jetzt bin ich dran. Mein Vogel ist schwarz-weiß und hat einen langen Schwanz.",
+        "يبقى تقصد الرفراف. دلوقتي دوري. الطائر بتاعي أبيض وأسود وديله طويل."
+      ],
+      [
+        "Karim",
+        "Das ist die Elster auf dem Pfosten.",
+        "ده العقعق اللي على العمود."
+      ],
+      [
+        "Nora",
+        "Unsere Angaben sollen zwischen diesen beiden Fotos unterscheiden.",
+        "معلوماتنا المفروض تميز بين الصورتين دول."
+      ],
+      [
+        "Karim",
+        "Ja, daraus wird noch kein Bestimmungsschlüssel für alle Vögel.",
+        "آه، ده لسه مش بيخليها مفتاح لتحديد كل الطيور."
+      ]
+    ],
+    "q": [
+      [
+        "Warum fragt Nora nach einer Farbe?",
+        "Der Schnabel unterscheidet die beiden Fotos nicht.",
+        "Sie sieht keine Fotos.",
+        "Sie möchte einen Preis wissen."
+      ],
+      [
+        "Welchen Vogel beschreibt Nora?",
+        "Die Elster.",
+        "Den Eisvogel.",
+        "Einen Papagei."
+      ],
+      [
+        "Gilt ihre Auswahlhilfe als vollständiger Bestimmungsschlüssel?",
+        "Nein.",
+        "Ja, für alle Vögel.",
+        "Nur nachts."
+      ]
+    ]
+  },
+  {
+    "id": "protokoll-erfolg-genau-beschreiben",
+    "level": "B1",
+    "title": [
+      "Was haben wir wirklich geprüft?",
+      "إحنا اختبرنا إيه فعلًا؟"
+    ],
+    "lines": [
+      [
+        "Paul",
+        "Vier richtige Zuordnungen. Können wir schreiben, dass alle die Wörter sicher beherrschen?",
+        "4 توصيلات صح. نقدر نكتب إن الكل متمكن من الكلمات؟"
+      ],
+      [
+        "Dalia",
+        "Wir sollten genauer sagen, welche Aufgabe sie gelöst haben.",
+        "المفروض نقول بدقة حلوا أنهي مهمة."
+      ],
+      [
+        "Paul",
+        "Also: Vier Personen haben die Namen den bekannten Fotos richtig zugeordnet.",
+        "يبقى: 4 أشخاص وصلوا الأسامي بالصور المعروفة صح."
+      ],
+      [
+        "Dalia",
+        "Ja. Freies Schreiben und Aussprache haben wir damit nicht geprüft.",
+        "آه. الكتابة من غير مساعدة والنطق مااختبرناهمش بكده."
+      ],
+      [
+        "Paul",
+        "Als nächsten Schritt könnten sie die Namen ohne Karten aufschreiben.",
+        "كخطوة تانية ممكن يكتبوا الأسامي من غير كروت."
+      ],
+      [
+        "Dalia",
+        "Freiwillig. Der erste Erfolg bleibt trotzdem bestehen.",
+        "اختياري. النجاح الأول بيفضل موجود برضه."
+      ],
+      [
+        "Paul",
+        "Dann halten wir Ergebnis und Bedingungen zusammen fest.",
+        "يبقى نسجل النتيجة وظروفها مع بعض."
+      ]
+    ],
+    "q": [
+      [
+        "Was will Dalia im Protokoll genauer benennen?",
+        "Die gelöste Aufgabe.",
+        "Den Preis der Fotos.",
+        "Die Wohnadressen."
+      ],
+      [
+        "Welche Fähigkeit wurde nicht geprüft?",
+        "Die Aussprache.",
+        "Die Fotozuordnung.",
+        "Das Anschauen der Karten."
+      ],
+      [
+        "Wie ist die weitere Schreibübung gedacht?",
+        "Freiwillig.",
+        "Als rückwirkende Pflicht.",
+        "Als bezahlte Prüfung."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "bilderfolge-erst-ein-foto-dann-das-andere": [
+    "Lass uns zuerst nur den Eisvogel anschauen.",
+    "Beim zweiten Bild lese ich vor.",
+    "Dann ordnen wir die Namen beiden Fotos zu."
+  ],
+  "fotowahl-welches-merkmal-hilft": [
+    "Das passt zu beiden Fotos.",
+    "Mein Vogel ist schwarz-weiß und hat einen langen Schwanz.",
+    "daraus wird noch kein Bestimmungsschlüssel für alle Vögel."
+  ],
+  "protokoll-erfolg-genau-beschreiben": [
+    "welche Aufgabe sie gelöst haben.",
+    "Freies Schreiben und Aussprache haben wir damit nicht geprüft.",
+    "Freiwillig."
+  ]
+});
