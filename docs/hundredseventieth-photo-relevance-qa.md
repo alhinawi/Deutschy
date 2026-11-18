@@ -1,0 +1,10 @@
+#170:Allverb/topic photo relevance audit
+
+##Scopeandfix
+Owner flagged officebuilding for bezahlen. Actual pixels inspected all43displayedverbphotos/across155verbs,2displayedgrammarphotos/across43topics,and199lesson-topiccovers. Per-verb and per-cover ledger:docs/photo170-audit.md. Removed41weakobject/place-for-actionphotos(e.g.bankbuildingpay,healthytreedie,glasswatershower). Onlyfootballplayandairborneplaneretained. All153otherverbsuseexistingneutraldecorativeSVGbyverbkind,notfakeactiondiagrams. SharedphotoOfpolicycoverscatalogue/detail. No arbitrary fallback to legacyimg hints. Object.hasOwn rejects inheritedkeys;frozenallowlistdeliberatelyrestrictsphotos. Ear removedfrompronunciationgrammar;clockkeptfortellingtime. All199topiccoversshowrepresentativenounsinthatlesson,nochangesneeded.Thisdoesnotclaimfull965nouncardimageaudit.Photofilesandnouncreditsnotdeleted,becausenounusesremainvalid.
+
+##QA
+Typecheck/study/build/content/deps/PWA/export/progress/audit0.New4AR/EN320/390variants124assertions,32verbdetails,8grammarscreens,4lessoncoverinventories/199each,4axe. Modelchecksall155verb/43grammar decisions,catalogueexactly2photos/153SVGs,andunknown/prototypekeysnull. Actual390AR/ENbezahlenfulldetail/cataloguescreensinspected,clearneutralSVGnobankimage,noclipping. Noform/content/questionIDs/progressbackendchanges.1105HTML/1089sitemap,progress396125bytes. Nativeeditorial/actualdevicesstillpending.
+
+##Genuinecontribution
+https://github.com/3mrdiab/Deutschy/commit/dc7ecb562eeebc6a00403cca0b2645d5d9d1733a verifiedauthor356948613,parent169main,singlemoduleverb-photos.ts. Originalcommitpreserved,byte-identicalmodulemovedtosrc/lib/verb-photos.tsbyHinawiintegration. Hinawiwiressharedpolicy/grammardecision/tests/audit/docsinsamePR. Correcttrailer,noClaudemetadata,nohistoryrewrite.Deploymentseparate.PublicaudioOFF,purchasesnone.

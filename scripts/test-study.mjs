@@ -1548,3 +1548,8 @@ assert.equal(conjugated(conjugationVerbs.find(x=>x.inf==='mitbringen'),'Konjunkt
 assert.equal(conjugated(conjugationVerbs.find(x=>x.inf==='anrufen'),'Konjunktiv I Gegenwart',1),'rufest an');
 assert(!conjugationAnswers(conjugationVerbs.find(x=>x.inf==='anrufen'),'Präsens',1).includes('anrufst'));
 console.log('PASS:4separable lab verbs/264added cells,explicit split finite forms,joined compound forms and main-clause scope');
+
+const photos170=lib('verb-photos');assert.deepEqual(Object.keys(photos170.verbPhotos).sort(),['fliegen','spielen']);assert.equal(photos170.verifiedVerbPhoto('__proto__'),null);assert.equal(photos170.verifiedVerbPhoto('constructor'),null);assert(Object.isFrozen(photos170.verbPhotos));
+for(const v of lib('verbs').verbs)assert.equal(lib('verbs').photoOf(v),({spielen:'fussball',fliegen:'flugzeug'})[v.inf]??null);
+assert.deepEqual(Array.from(lib('grammar').GRAMMAR_PHOTO),['zahlen-uhrzeit']);
+console.log('PASS:all155verb and43grammar photo decisions enforce audited action relevance,unknowns use SVG,no legacy noun hints');
