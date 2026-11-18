@@ -44,13 +44,14 @@ export default function VerbBrowser() {
 
               // eslint-disable-next-line @next/next/no-img-element
 
-              <img src={`/img/${photoOf(v)}.jpg`} alt="" className="h-28 w-24 shrink-0 object-cover" loading="lazy" />
+              <img data-verb-photo src={photoOf(v)!} alt="" className="h-28 w-24 shrink-0 object-contain" loading="lazy" />
 
-            ) : <Art kind={v.kind} className="h-28 w-24 shrink-0 object-cover" />}
+            ) : <Art kind={v.kind} className="h-28 w-24 shrink-0 object-contain" />}
             <div className="min-w-0 p-3">
               <p className="num text-xs font-bold text-accent">{v.level} · {KINDS.find((k) => k.id === v.kind)![lang]}</p>
               <p className="de text-2xl font-semibold leading-tight" lang="de">{v.inf}</p>
               <p className="ar-title text-lg text-muted">{lang === 'ar' ? v.ar : v.en}</p>
+              <p className="de mt-2 text-sm text-muted" lang="de">{v.ex[0]}</p>
             </div>
           </Link>
         ))}

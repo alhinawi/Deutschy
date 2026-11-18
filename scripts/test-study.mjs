@@ -1535,7 +1535,7 @@ console.log('PASS:43core grammar topics,2new source-linked explanations,8example
 
 const all168=lib('verbs').verbs,new168=lib('verbs-everyday').everydayVerbs;
 assert.equal(all168.length,155);assert.equal(new168.length,12);assert.equal(new Set(all168.map(v=>v.inf)).size,155);
-for(const v of new168){assert.equal(v.pres.length,6);assert.equal(v.aux,'haben');assert(v.source.startsWith('https://www.duden.de/konjugation/'));assert.equal(lib('verbs').photoOf(v),null);assert.equal(v.ex.length,3);assert(v.ex.every(Boolean));assert.equal(JSON.stringify(all168.find(x=>x.inf===v.inf)),JSON.stringify(v));}
+for(const v of new168){assert.equal(v.pres.length,6);assert.equal(v.aux,'haben');assert(v.source.startsWith('https://www.duden.de/konjugation/'));assert.match(lib('verbs').photoOf(v),/^\/img\/lesson187\/[a-f0-9]{20}\.jpg$/);assert.equal(v.ex.length,3);assert(v.ex.every(Boolean));assert.equal(JSON.stringify(all168.find(x=>x.inf===v.inf)),JSON.stringify(v));}
 for(const [inf,du,pret,pp]of [['bestellen','bestellst','bestellte','bestellt'],['packen','packst','packte','gepackt'],['reparieren','reparierst','reparierte','repariert'],['reservieren','reservierst','reservierte','reserviert'],['benutzen','benutzt','benutzte','benutzt'],['erlauben','erlaubst','erlaubte','erlaubt'],['erreichen','erreichst','erreichte','erreicht'],['gehören','gehörst','gehörte','gehört'],['sparen','sparst','sparte','gespart'],['fehlen','fehlst','fehlte','gefehlt'],['passen','passt','passte','gepasst'],['schicken','schickst','schickte','geschickt']]){const v=new168.find(v=>v.inf===inf);assert.equal(v.pres[1],du);assert.equal(v.pret,pret);assert.equal(v.pp,pp);}
 console.log('PASS:155verb catalogue,12checked everyday entries/72present forms,correct principal parts,source links and no irrelevant photos');
 
@@ -1549,10 +1549,10 @@ assert.equal(conjugated(conjugationVerbs.find(x=>x.inf==='anrufen'),'Konjunktiv 
 assert(!conjugationAnswers(conjugationVerbs.find(x=>x.inf==='anrufen'),'Präsens',1).includes('anrufst'));
 console.log('PASS:4separable lab verbs/264added cells,explicit split finite forms,joined compound forms and main-clause scope');
 
-const photos170=lib('verb-photos');assert.deepEqual(Object.keys(photos170.verbPhotos).sort(),['fliegen','spielen']);assert.equal(photos170.verifiedVerbPhoto('__proto__'),null);assert.equal(photos170.verifiedVerbPhoto('constructor'),null);assert(Object.isFrozen(photos170.verbPhotos));
-for(const v of lib('verbs').verbs)assert.equal(lib('verbs').photoOf(v),({spielen:'fussball',fliegen:'flugzeug'})[v.inf]??null);
-assert.deepEqual(Array.from(lib('grammar').GRAMMAR_PHOTO),['zahlen-uhrzeit']);
-console.log('PASS:all155verb and43grammar photo decisions enforce audited action relevance,unknowns use SVG,no legacy noun hints');
+const photos170=lib('verb-photos');assert.deepEqual(Object.keys(photos170.verbPhotos).sort(),Array.from(lib('verbs').verbs,v=>v.inf).sort());assert.equal(photos170.verifiedVerbPhoto('__proto__'),null);assert.equal(photos170.verifiedVerbPhoto('constructor'),null);assert(Object.isFrozen(photos170.verbPhotos));
+for(const v of lib('verbs').verbs)assert.match(lib('verbs').photoOf(v),/^\/img\/lesson187\/[a-f0-9]{20}\.jpg$/);
+assert.deepEqual(Array.from(lib('grammar').GRAMMAR_PHOTO).sort(),Array.from(lib('grammar').grammar,g=>g.id).sort());
+console.log('PASS:all155verb and43grammar checked photo contexts,no legacy noun hints');
 
 const cp171=lib('completion'),banks171=lib('checkpoint-questions').checkpointQuestions;
 for(const id of ['pron','learn']){assert.equal(banks171[id].length,8);for(const q of banks171[id]){assert.equal(new Set(q.choices).size,3);assert(q.prompt.every(Boolean));assert(q.note.every(Boolean));}assert(!cp171.checkpointState({seen:{},pfad:{}},id).done);assert(cp171.checkpointState({seen:{},pfad:{[id]:true}},id).legacy);assert(cp171.checkpointState({seen:{[cp171.checkpointKey(id)]:{ok:1,bad:0}},pfad:{}},id).earned);}
