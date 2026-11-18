@@ -2,6 +2,7 @@
 import {saveResume} from '@/lib/resume';
 import {localActivity} from '@/lib/local-activity';
 import {useLocalClock} from '@/lib/use-local-clock';
+import SpeechNotice from './SpeechNotice';
 import PwaStatus from './PwaStatus';
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
@@ -82,6 +83,7 @@ export default function Shell({ children }: { children: ReactNode }) {
   return (
     <>
       <AuthSync />
+      <SpeechNotice />
       <a href="#main" className="sr-only z-50 rounded-lg bg-accent focus:px-4 focus:py-2 font-bold text-accent-ink focus:not-sr-only focus:fixed focus:start-3 focus:top-3">{t('روح للمحتوى', 'Skip to content')}</a>
       <SearchBox open={searching} onClose={() => setSearching(false)} />
       <header className="sticky top-0 z-30 border-b border-line bg-paper/95 backdrop-blur">
