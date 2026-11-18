@@ -414,3 +414,6 @@ readings.push(...schachfigurenartenTexts);
 
 import {tinteundfederTexts} from './reading-tinteundfeder';
 readings.push(...tinteundfederTexts);
+
+import {naehbedarfTexts} from './reading-naehbedarf';
+readings.push(...naehbedarfTexts);

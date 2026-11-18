@@ -2510,3 +2510,24 @@ Object.assign(readingEvidence,{
     "Ein Aufnahmedatum wäre ebenfalls kein Herstellungsdatum des abgebildeten Objekts."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-ding-und-material": [
+    "Auf der ersten sieht man eine Nähnadel mit einem Faden im Öhr.",
+    "Mit der Form Nähgarne kann man verschiedene Arten von Nähgarn meinen.",
+    "Paul zählt deshalb nicht einfach die Spulen auf dem Foto.",
+    "Niemand nimmt eine echte Nadel in die Hand oder beginnt zu nähen."
+  ],
+  "alltag-a2-worauf-bezieht-sich-es": [
+    "bei Nähgarn es.",
+    "Danach legt Lena die Fotos beiseite.",
+    "Wenn sie stattdessen über den Faden sprechen würden, wäre er in einem passenden Beispiel möglich.",
+    "Sie liegen auf dem Tisch."
+  ],
+  "alltag-b1-sichtbar-ist-nicht-passend": [
+    "Sie haben weder Nadeldurchmesser noch Garnstärke oder den vorgesehenen Stoff geprüft.",
+    "Weder die genaue Faserzusammensetzung noch die Reißfestigkeit lässt sich daraus zuverlässig bestimmen.",
+    "Der im Stoff steckende Bereich wird nicht künstlich ergänzt.",
+    "Die Lernseite enthält keine Maßangaben und keine Anleitung zum Einfädeln."
+  ]
+});

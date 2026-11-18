@@ -727,6 +727,10 @@
   {
    "id": "tinteundfeder",
    "ar": "محبرة وحامل ريشة كتابة"
+  },
+  {
+   "id": "naehbedarf",
+   "ar": "إبرة وخيط خياطة"
   }
  ],
  "words": [
@@ -14788,6 +14792,36 @@
     "file": "12932839.jpg",
     "commons": "https://www.pexels.com/photo/silver-ink-pen-on-brown-wooden-surface-beside-an-antique-book-12932839/",
     "author": "Atlantic Ambience",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "naehnadel",
+   "topic": "naehbedarf",
+   "art": "die",
+   "de": "Nähnadel",
+   "plural": "Nähnadeln",
+   "ar": "إبرة خياطة",
+   "photo": {
+    "file": "35166546.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-of-sewing-needle-threading-denim-fabric-35166546/",
+    "author": "Marek Ruczaj",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "naehgarn",
+   "topic": "naehbedarf",
+   "art": "das",
+   "de": "Nähgarn",
+   "plural": "Nähgarne",
+   "ar": "خيط خياطة",
+   "photo": {
+    "file": "5271312.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-shot-of-white-sewing-threads-5271312/",
+    "author": "Pew Nguyen",
     "license": "Pexels License",
     "modified": true
    }

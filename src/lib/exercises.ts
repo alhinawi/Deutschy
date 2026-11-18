@@ -576,3 +576,6 @@ for(const[topic,rows]of Object.entries(schachfigurenartenGrammar))exercises[topi
 
 import {tinteundfederGrammar} from './exercises-tinteundfeder';
 for(const[topic,rows]of Object.entries(tinteundfederGrammar))exercises[topic].push(...rows);
+
+import {naehbedarfGrammar} from './exercises-naehbedarf';
+for(const[topic,rows]of Object.entries(naehbedarfGrammar))exercises[topic].push(...rows);

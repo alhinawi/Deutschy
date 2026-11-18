@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-thirty-seventh practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-thirty-eighth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1474,9 +1474,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Shared MiniQuiz explanation | Optional after-answer explanation has localized named note role and auto direction;existing Arabic Mixed preserved,English text unchanged. 80answer checks,2modesAR/EN320/390,exact bilingual text,note absent beforeanswer/next/result,44pxfocus/score/hint unchanged. Initial test targeted unrelated grammar widget;fixed harness to actual MiniQuiz,no app defect. Actual390px notes inspected. |
 | [ ] | Listening/dictation | 70 original segments,280 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice grouping not certification;progress device-local. |
 
+### List 138: Sewing needle and thread
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-ding-und-material/` and linked dialogue | Mia/Paul match Nähnadel and Nähgarn to photos. Nähnadeln counts needles; Nähgarne can mean different kinds of sewing thread, not simply the number of spools. Counts are language examples, not photo counts. No actual sewing. |
+| [ ] | `/reading/alltag-a2-worauf-bezieht-sich-es/` and linked dialogue | Lena/Farid link sie to die Nähnadel and es to das Nähgarn. Er would require a different noun reference such as der Faden. Plural sie combines here with liegen. Limited clear examples, not a complete pronoun lesson. |
+| [ ] | `/reading/alltag-b1-sichtbar-ist-nicht-passend/` and linked dialogue | Sara/Nils distinguish recognizable objects from tested suitability. Separate source photos do not show a joint application test. No fiber, strength, dimensions, universal repair suitability or threading instructions. No hidden section of needle invented. |
+| [ ] | `/lessons/naehbedarf/` and `/credits/` | die Nähnadel/Nähnadeln (إبرة خياطة), das Nähgarn/Nähgarne (خيط خياطة). Duden/DWDS full pages confirm sense, gender and plural. Marek Ruczaj 35166546 needle: 1800 x 1200, crop 100,80-1300,980. Pew Nguyen 5271312 thread: 1800 x 1200, crop 300,150-1500,1050. Both proportional 800 x 600 real photos, no padding or stretch, faces or branding. Needle eye and full visible shaft retained; lower part enters denim. Threader wire remains a contextual prop, not the target noun. Actual 390px AR/EN cards inspected. |
+| [ ] | Six appended grammar banks | 24 article/accusative/present/possessive/two-way/negation rows. Earlier saved identities retained. Native German and Egyptian Arabic editorial checks pending. |
+| [ ] | Shared MiniQuiz explanation | More line spacing and long-word wrapping for optional answer notes. Named role, direction, exact bilingual text and Mixed rendering unchanged. 80 answer checks, both modes in AR/EN at 320/390px, computed line height and wrapping verified. Screenshots inspected. No scoring/audio/storage changes. |
+| [ ] | Listening/dictation | 67 original segments, 268 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice labels are not certification. Progress is device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **931 photo nouns / 182 topics**, **429 reading texts / 1669 reading questions**, **41 core grammar topics / 3238 core grammar questions**, **369 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **933 photo nouns / 183 topics**, **432 reading texts / 1681 reading questions**, **41 core grammar topics / 3262 core grammar questions**, **372 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1488,7 +1500,7 @@ This is an inventory, not completed review. Snapshot: **931 photo nouns / 182 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 125 · A2 153 · B1 121 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 126 · A2 154 · B1 122 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
