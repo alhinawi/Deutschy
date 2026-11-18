@@ -1,5 +1,6 @@
 import { Hono } from 'hono';
 import { handle } from 'hono/cloudflare-pages';
+import {validAccountValues} from '../lib/account-state';
 import {serveTTS,ttsConfigured,type TTSEnv} from '../lib/tts';
 
 type Env = TTSEnv & {
@@ -224,6 +225,33 @@ app.post('/auth/login', async (c) => {
   return startSession(c, { id: row.id, email, name: row.name, picture: row.picture });
 });
 
+app.get('/me/state',async c=>{
+ c.header('Cache-Control','no-store');
+ const u=await getUser(c.req.raw,c.env);if(!u||!c.env.DB)return c.json({error:'unauthorized'},401);
+ const row=await c.env.DB.prepare('SELECT data,revision FROM account_state WHERE user_id=?').bind(u.id).first<{data:string;revision:number}>();
+ if(row){if(!Number.isSafeInteger(row.revision)||row.revision<1)return c.json({error:'unreadable'},503);let values;try{values=JSON.parse(row.data)}catch{return c.json({error:'unreadable'},503)}if(!validAccountValues(values))return c.json({error:'unreadable'},503);return c.json({accountId:u.id,values,revision:row.revision})}
+ // Preserve old account progress when an account first adopts the fuller state.
+ const old=await c.env.DB.prepare('SELECT xp,streak,best,last_day,data FROM progress WHERE user_id=?').bind(u.id).first<{xp:number;streak:number;best:number;last_day:string;data:string}>();
+ const values:Record<string,string>={};if(old){let d;try{d=JSON.parse(old.data||'{}');if(!d||typeof d!=='object'||Array.isArray(d))throw Error('Invalid legacy data')}catch{return c.json({error:'unreadable'},503)}values['deutschy:v1']=JSON.stringify({...d,xp:old.xp,streak:old.streak,best:old.best,lastDay:old.last_day})}
+ if(!validAccountValues(values))return c.json({error:'unreadable'},503);
+ return c.json({accountId:u.id,values,revision:0});
+});
+app.put('/me/state',async c=>{
+ c.header('Cache-Control','no-store');
+ if(c.req.header('Origin')!==new URL(c.req.url).origin)return c.json({error:'origin'},403);
+ const u=await getUser(c.req.raw,c.env);if(!u||!c.env.DB)return c.json({error:'unauthorized'},401);
+ if(Number(c.req.header('Content-Length')||0)>1500000)return c.json({error:'too_big'},413);
+ const raw=await c.req.text();if(enc.encode(raw).length>1500000)return c.json({error:'too_big'},413);
+ let b;try{b=JSON.parse(raw)}catch{return c.json({error:'bad_body'},400)}
+ if(!b||typeof b!=='object'||Array.isArray(b))return c.json({error:'bad_body'},400);
+ if(b.accountId!==u.id)return c.json({error:'account_changed'},409);
+ if(!Number.isSafeInteger(b.revision)||b.revision<0||!validAccountValues(b.values))return c.json({error:'bad_body'},400);
+ const data=JSON.stringify(b.values),at=Date.now();
+ const saved=b.revision===0?await c.env.DB.prepare('INSERT INTO account_state(user_id,data,revision,updated_at) VALUES(?,?,1,?) ON CONFLICT(user_id) DO NOTHING RETURNING revision').bind(u.id,data,at).first<{revision:number}>():await c.env.DB.prepare('UPDATE account_state SET data=?,revision=revision+1,updated_at=? WHERE user_id=? AND revision=? RETURNING revision').bind(data,at,u.id,b.revision).first<{revision:number}>();
+ if(!saved)return c.json({error:'conflict'},409);
+ return c.json({ok:true,revision:saved.revision});
+});
+
 app.get('/me/progress', async (c) => {
   const u = await getUser(c.req.raw, c.env);
   c.header('Cache-Control', 'no-store');
@@ -236,7 +264,8 @@ app.get('/me/progress', async (c) => {
 app.put('/me/progress', async (c) => {
   const u = await getUser(c.req.raw, c.env);
   if (!u || !c.env.DB) return c.json({ error: 'unauthorized' }, 401);
-  const b = (await c.req.json().catch(() => null)) as { xp?: number; streak?: number; best?: number; lastDay?: string; data?: unknown } | null;
+  if(await c.env.DB.prepare('SELECT user_id FROM account_state WHERE user_id=?').bind(u.id).first())return c.json({error:'new_client_required'},409);
+ const b = (await c.req.json().catch(() => null)) as { xp?: number; streak?: number; best?: number; lastDay?: string; data?: unknown } | null;
   if (!b) return c.json({ error: 'bad_body' }, 400);
   const n = (x: unknown) => Math.max(0, Math.min(10_000_000, Math.floor(Number(x) || 0)));
   const data = JSON.stringify(b.data ?? {});
@@ -251,6 +280,7 @@ app.post('/me/score', async (c) => {
   const u = await getUser(c.req.raw, c.env);
   if (!u || !c.env.DB) return c.json({ error: 'unauthorized' }, 401);
   const b = (await c.req.json().catch(() => ({}))) as { game?: string; score?: number };
+  if((b as {accountId?:number}).accountId!==undefined&&(b as {accountId?:number}).accountId!==u.id)return c.json({error:'account_changed'},409);
   const game = String(b.game ?? '').slice(0, 24);
   const score = Math.max(0, Math.min(100000, Math.floor(Number(b.score) || 0)));
   if (!game) return c.json({ error: 'bad_game' }, 400);
@@ -258,10 +288,21 @@ app.post('/me/score', async (c) => {
   return c.json({ ok: true });
 });
 
+// Invalid individual snapshots cannot break a public ranking or replace legacy counters.
+const ACCOUNT_PROGRESS_SQL=`(
+ SELECT u.id,u.name,
+ COALESCE(CASE WHEN json_valid(a.snapshot) THEN MAX(0,MIN(10000000,CAST(json_extract(a.snapshot,'$.xp') AS INTEGER))) END,p.xp,0) xp,
+ COALESCE(CASE WHEN json_valid(a.snapshot) THEN MAX(0,MIN(10000000,CAST(json_extract(a.snapshot,'$.best') AS INTEGER))) END,p.best,0) best
+ FROM users u LEFT JOIN (
+  SELECT user_id,CASE WHEN json_valid(data) THEN json_extract(data,'$."deutschy:v1"') END snapshot FROM account_state
+ ) a ON a.user_id=u.id LEFT JOIN progress p ON p.user_id=u.id
+ WHERE a.user_id IS NOT NULL OR p.user_id IS NOT NULL
+)`;
+
 app.get('/leaderboard', async (c) => {
   if (!c.env.DB) return c.json({ xp: [], scores: [] });
   c.header('Cache-Control', 'public, max-age=30');
-  const xp = await c.env.DB.prepare('SELECT u.name, p.xp, p.best FROM progress p JOIN users u ON u.id = p.user_id ORDER BY p.xp DESC LIMIT 20').all();
+  const xp = await c.env.DB.prepare(`SELECT name,xp,best FROM ${ACCOUNT_PROGRESS_SQL} ORDER BY xp DESC LIMIT 20`).all();
   const scores = await c.env.DB.prepare('SELECT u.name, s.game, MAX(s.score) AS score FROM scores s JOIN users u ON u.id = s.user_id GROUP BY s.user_id, s.game ORDER BY score DESC LIMIT 30').all();
   return c.json({ xp: xp.results, scores: scores.results });
 });
@@ -284,10 +325,10 @@ app.get('/admin/stats', async (c) => {
   const users = (await one('SELECT COUNT(*) n FROM users')).n ?? 0;
   const google = (await one('SELECT COUNT(*) n FROM users WHERE google = 1')).n ?? 0;
   const week = (await one('SELECT COUNT(*) n FROM users WHERE created_at > ?', day)).n ?? 0;
-  const xp = (await one('SELECT COALESCE(SUM(xp),0) n FROM progress')).n ?? 0;
+  const xp = (await one(`SELECT COALESCE(SUM(xp),0) n FROM ${ACCOUNT_PROGRESS_SQL}`)).n ?? 0;
   const games = (await one('SELECT COUNT(*) n FROM scores')).n ?? 0;
   const recent = (await db.prepare('SELECT name, email, google, created_at FROM users ORDER BY created_at DESC LIMIT 10').all()).results;
-  const top = (await db.prepare('SELECT u.name, p.xp FROM progress p JOIN users u ON u.id = p.user_id ORDER BY p.xp DESC LIMIT 5').all()).results;
+  const top = (await db.prepare(`SELECT name,xp FROM ${ACCOUNT_PROGRESS_SQL} ORDER BY xp DESC LIMIT 5`).all()).results;
   return c.json({ users, google, week, xp, games, recent, top });
 });
 

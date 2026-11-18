@@ -1,3 +1,4 @@
+import {accountMemory} from './account-memory';
 import { CHECK_LEVELS, checkBank, type CheckQuestion } from './level-check';
 import { words, sample, glossOf } from './data';
 import { dayNum, grade, type Card } from './srs';
@@ -5,8 +6,8 @@ import type { State } from './store';
 export const REVIEW_KEY = 'deutschy:review:v1';
 export type ReviewData = { cards: Record<string, Card>; saved: string[]; unreadable?:boolean };
 export function cleanReview(raw:unknown):ReviewData{const out:ReviewData={cards:{},saved:[]};if(!raw||typeof raw!=='object'||Array.isArray(raw))return {...out,unreadable:true};const d=raw as Record<string,unknown>;if(d.saved!==undefined){if(Array.isArray(d.saved)){out.saved=[...new Set(d.saved.filter((id):id is string=>typeof id==='string'))];if(d.saved.some(id=>typeof id!=='string'))out.unreadable=true}else out.unreadable=true}if(d.cards!==undefined){if(d.cards&&typeof d.cards==='object'&&!Array.isArray(d.cards)){for(const [key,value] of Object.entries(d.cards)){const c=value as Card;if(c&&typeof c==='object'&&Number.isInteger(c.b)&&c.b>=1&&c.b<=6&&Number.isInteger(c.due)){out.cards[key]={b:c.b,due:c.due}}else out.unreadable=true}}else out.unreadable=true}return out}
-export function readReview():ReviewData{try{return cleanReview(JSON.parse(localStorage.getItem(REVIEW_KEY)||'{}'))}catch{return {cards:{},saved:[],unreadable:true}}}
-export function writeReview(d:ReviewData){if(d.unreadable||readReview().unreadable)throw Error('Unreadable review data preserved');localStorage.setItem(REVIEW_KEY,JSON.stringify(d))}
+export function readReview():ReviewData{try{return cleanReview(JSON.parse(accountMemory.getItem(REVIEW_KEY)||'{}'))}catch{return {cards:{},saved:[],unreadable:true}}}
+export function writeReview(d:ReviewData){if(d.unreadable||readReview().unreadable)throw Error('Unreadable review data preserved');accountMemory.setItem(REVIEW_KEY,JSON.stringify(d))}
 let cachedBank:CheckQuestion[]|null=null;
 export function reviewBank(): CheckQuestion[] {
  if(cachedBank)return cachedBank;
