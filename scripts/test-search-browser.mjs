@@ -69,7 +69,7 @@ for(const lang of ['ar','en']) for(const width of [320,390,1280]) {
  // Result navigation resolves the same selected href; no learner progress writes.
  const title=await g.$eval('[aria-selected=true]',e=>e.innerText);assert.match(title,/Rotkehlchen/);
  await Promise.all([g.waitForNavigation({waitUntil:'networkidle0'}),g.keyboard.press('Enter')]);
- assert.match(g.url(),/\/lessons\/rotkehlchenamsel\/?$/);assert.equal(await g.$('[role=dialog]'),null);
+ assert.match(g.url(),/\/lessons\/rotkehlchenamsel\/?#word-rotkehlchen$/);assert.equal(await g.$('[role=dialog]'),null);
  assert.equal(await g.evaluate(()=>localStorage.getItem('deutschy:v1')),null);assert.deepEqual(errors,[]);checks+=4;
  variants++;await g.close();
 }
