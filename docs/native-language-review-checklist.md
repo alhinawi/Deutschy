@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-thirty-ninth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-fortieth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1498,9 +1498,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Shared MiniQuiz wrong-answer correction | Correct German answer is now isolated in BDI with German language and LTR direction inside localized status. 8 wrong-answer cases in both modes, AR/EN 320/390, exact text, computed isolation, no overflow and 0XP verified. Absent before answer and after next. Existing 80 correct-answer checks and note/hint behavior pass unchanged. Actual 390px correction screenshots inspected. |
 | [ ] | Listening/dictation | 69 original segments, 276 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice labels are not certification; progress is device-local. |
 
+### List 140: Soap bubble and balloon
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zwei-runde-bilder/` and linked dialogue | Ali/Nora identify two unrelated photo scenes and read reverse-side plurals. Seifenblase/Seifenblasen and Luftballon/Luftballons. Example counts are not counts in the photos. Check German and Egyptian Arabic naturalness. |
+| [ ] | `/reading/alltag-a2-zwei-endungen-im-heft/` and linked dialogue | Mara/Tarek compare plural endings. Luftballone is an attested variant associated with nonnasal pronunciation; chosen Luftballons is not presented as the only correct form. Check the wording of this qualification. |
+| [ ] | `/reading/alltag-b1-ein-foto-keine-dauer/` and linked dialogue | David/Selma remove unsupported duration claims. Still photos do not measure lifetime or prove a shared experiment. No gas, material, mixture or formula assertions. |
+| [ ] | `/lessons/luftformen/` and `/credits/` | die Seifenblase/Seifenblasen (فقاعة صابون), der Luftballon/Luftballons (بالونة). Duden/DWDS full pages checked. Chris F 8121944: two clear real bubbles before trees, crop 62,0-1062,750 from 1125 x 750. Obsolete Lense 32343104: one gold-colored balloon against a light wall, crop 0,900-1800,2250 from 1800 x 2400. Both proportional 800 x 600. Balloon knot is visible; ribbon exits frame. A tiny barcode-like patch is not a readable brand. Actual 390px AR/EN cards inspected. |
+| [ ] | Six appended grammar banks | 24 article/accusative/present/possessive/two-way/negation rows. Earlier saved identities retained. Native German and Egyptian Arabic editorial checks pending. |
+| [ ] | Shared MiniQuiz transition focus | After Next, focus goes to the new German prompt; after Result, to the score; after New round, to the first prompt. No entry autofocus. AR/EN 320/390, both shared modes: 80 next/result transitions, 8 new-round and 8 entry checks. Tab then reaches first answer or New round. Screen-reader device check remains pending. |
+| [ ] | Listening/dictation | 68 original segments, 272 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice labels are not certification; progress is device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **935 photo nouns / 184 topics**, **435 reading texts / 1693 reading questions**, **41 core grammar topics / 3286 core grammar questions**, **375 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **937 photo nouns / 185 topics**, **438 reading texts / 1705 reading questions**, **41 core grammar topics / 3310 core grammar questions**, **378 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1512,7 +1524,7 @@ This is an inventory, not completed review. Snapshot: **935 photo nouns / 184 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 127 · A2 155 · B1 123 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 128 · A2 156 · B1 124 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

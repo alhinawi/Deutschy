@@ -420,3 +420,6 @@ readings.push(...naehbedarfTexts);
 
 import {kohlformenTexts} from './reading-kohlformen';
 readings.push(...kohlformenTexts);
+
+import {luftformenTexts} from './reading-luftformen';
+readings.push(...luftformenTexts);

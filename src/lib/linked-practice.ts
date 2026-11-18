@@ -363,4 +363,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-ein-kopf-viele-blaetter',dialogue:'die-zeile-bleibt-frei'},
  {reading:'alltag-a2-wort-und-mengenangabe',dialogue:'portionen-sind-das-zaehlwort'},
  {reading:'alltag-b1-fotogroesse-und-gegenstand',dialogue:'kein-erfundenes-lineal'},
+ {reading:'alltag-a1-zwei-runde-bilder',dialogue:'nicht-dieselbe-szene'},
+ {reading:'alltag-a2-zwei-endungen-im-heft',dialogue:'eine-weitere-belegte-form'},
+ {reading:'alltag-b1-ein-foto-keine-dauer',dialogue:'woher-kommt-die-minute'},
 ];

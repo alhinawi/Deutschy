@@ -26003,3 +26003,218 @@ Object.assign(dialogueEvidence,{
     "behaupten keine Messung."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "nicht-dieselbe-szene",
+    "level": "A1",
+    "title": [
+      "Karten nebeneinander",
+      "كروت جنب بعض"
+    ],
+    "lines": [
+      [
+        "Nora",
+        "Welches Bild passt zum Wort Seifenblase?",
+        "أنهي صورة تناسب دي زايفن بلازه؟"
+      ],
+      [
+        "Ali",
+        "Das Foto vor den grünen Bäumen.",
+        "الصورة اللي قدام الشجر الأخضر."
+      ],
+      [
+        "Nora",
+        "Und wo ist der Luftballon?",
+        "ودير لوفت بالون فين؟"
+      ],
+      [
+        "Ali",
+        "Vor der hellen Wand. Unten sehe ich ein Band.",
+        "قدام الحيطة الفاتحة. شايف شريط تحت."
+      ],
+      [
+        "Nora",
+        "Sind die beiden Bilder aus derselben Szene?",
+        "الصورتين من نفس المشهد؟"
+      ],
+      [
+        "Ali",
+        "Nein. Sie liegen hier nur zum Lernen nebeneinander.",
+        "لأ. هما هنا جنب بعض للمذاكرة بس."
+      ],
+      [
+        "Nora",
+        "Gut. Dann schreiben wir zwei getrennte Beispielsätze.",
+        "تمام. يبقى نكتب جملتين أمثلة منفصلتين."
+      ]
+    ],
+    "q": [
+      [
+        "Welchen Hintergrund nennt Ali zuerst?",
+        "Grüne Bäume.",
+        "Eine rote Tür.",
+        "Eine dunkle Küche."
+      ],
+      [
+        "Was sieht Ali unten am Luftballon?",
+        "Ein Band.",
+        "Ein Preisschild.",
+        "Ein Rezept."
+      ],
+      [
+        "Warum liegen die Bilder nebeneinander?",
+        "Zum Lernen.",
+        "Als Beweis einer gemeinsamen Szene.",
+        "Für eine Materialprüfung."
+      ]
+    ]
+  },
+  {
+    "id": "eine-weitere-belegte-form",
+    "level": "A2",
+    "title": [
+      "Die Karte bleibt richtig",
+      "الكارت لسه صح"
+    ],
+    "lines": [
+      [
+        "Tarek",
+        "Hier steht auch Luftballone. Ist unsere Karte falsch?",
+        "هنا مكتوب لوفت بالونه كمان. كارتنا غلط؟"
+      ],
+      [
+        "Mara",
+        "Nein. Lies die Angabe zur Aussprache mit.",
+        "لأ. اقرا معاها المعلومة الخاصة بالنطق."
+      ],
+      [
+        "Tarek",
+        "Also ist das eine weitere belegte Form.",
+        "يعني دي صيغة تانية موثقة."
+      ],
+      [
+        "Mara",
+        "Ja. Wir bleiben in unseren Beispielen bei Luftballons.",
+        "أيوه. هنفضل في أمثلتنا على لوفت بالونس."
+      ],
+      [
+        "Tarek",
+        "Und Seifenblasen bekommt nicht deshalb auch ein s.",
+        "وزايفن بلازن مش عشان كده تاخد إس هي كمان."
+      ],
+      [
+        "Mara",
+        "Richtig. Vergleiche jedes Wort mit seinem Eintrag.",
+        "صح. قارن كل كلمة بالمدخل بتاعها."
+      ],
+      [
+        "Tarek",
+        "Ich schreibe die zusätzliche Form an den Rand.",
+        "هكتب الصيغة الإضافية على الهامش."
+      ]
+    ],
+    "q": [
+      [
+        "Was soll Tarek mitlesen?",
+        "Die Angabe zur Aussprache.",
+        "Eine Preisliste.",
+        "Eine Bauanleitung."
+      ],
+      [
+        "Welche Form verwenden sie in ihren Beispielen?",
+        "Luftballons.",
+        "Nur Luftballone.",
+        "Luftballonen als Nominativ."
+      ],
+      [
+        "Wo schreibt Tarek die zusätzliche Form hin?",
+        "An den Rand.",
+        "Über das Foto als Messwert.",
+        "Auf alle anderen Karten."
+      ]
+    ]
+  },
+  {
+    "id": "woher-kommt-die-minute",
+    "level": "B1",
+    "title": [
+      "Kein gemessener Zeitraum",
+      "مش مدة اتقاست"
+    ],
+    "lines": [
+      [
+        "David",
+        "Ich hatte geschrieben, dass die Seifenblase eine Minute sichtbar bleibt.",
+        "كنت كاتب إن فقاعة الصابون بتفضل ظاهرة دقيقة."
+      ],
+      [
+        "Selma",
+        "Haben wir dafür eine Messung oder nur das einzelne Foto?",
+        "معانا قياس لكده ولا الصورة الواحدة بس؟"
+      ],
+      [
+        "David",
+        "Nur das Foto. Die Minute ist nicht belegt.",
+        "الصورة بس. الدقيقة مش موثقة."
+      ],
+      [
+        "Selma",
+        "Dann streichen wir die Zahl aus der Beschreibung.",
+        "يبقى نشطب الرقم من الوصف."
+      ],
+      [
+        "David",
+        "Die Fotos zeigen auch keinen gemeinsamen Versuch.",
+        "وكمان الصور مش بتوري تجربة مشتركة."
+      ],
+      [
+        "Selma",
+        "Richtig. Wir beschreiben sie getrennt.",
+        "صح. هنوصفهم بشكل منفصل."
+      ],
+      [
+        "David",
+        "Und im Arbeitsblatt steht, dass wir keine Dauer gemessen haben.",
+        "وفي ورقة الشغل مكتوب إننا ماقسناش مدة."
+      ]
+    ],
+    "q": [
+      [
+        "Was liegt ihnen vor?",
+        "Nur das einzelne Foto.",
+        "Eine vollständige Zeitmessung.",
+        "Ein gemeinsamer Versuchsbericht."
+      ],
+      [
+        "Was streichen sie aus der Beschreibung?",
+        "Die Zahl.",
+        "Den Namen Seifenblase.",
+        "Den sichtbaren Hintergrund."
+      ],
+      [
+        "Wie beschreiben sie die Fotos?",
+        "Getrennt.",
+        "Als einen nachgewiesenen Versuch.",
+        "Mit erfundenen Messwerten."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "nicht-dieselbe-szene": [
+    "vor den grünen Bäumen.",
+    "Unten sehe ich ein Band.",
+    "nur zum Lernen nebeneinander."
+  ],
+  "eine-weitere-belegte-form": [
+    "Angabe zur Aussprache mit.",
+    "bei Luftballons.",
+    "an den Rand."
+  ],
+  "woher-kommt-die-minute": [
+    "Nur das Foto.",
+    "streichen wir die Zahl",
+    "beschreiben sie getrennt."
+  ]
+});
