@@ -1,0 +1,13 @@
+{
+ "$schema":"../node_modules/wrangler/config-schema.json",
+ "name":"deutschy-helper",
+ "main":"index.ts",
+ "compatibility_date":"2026-11-18",
+ "workers_dev":false,
+ "preview_urls":false,
+ "observability":{"enabled":false},
+ "vars":{"HELPER_ENABLED":"true"},
+ "ai":{"binding":"AI"},
+ "durable_objects":{"bindings":[{"name":"HELPER_LIMITS","class_name":"HelperLimits"}]},
+ "migrations":[{"tag":"helper-v1","new_sqlite_classes":["HelperLimits"]}]
+}

@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the food/drink collections update180.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the bounded German helper update181.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1888,6 +1888,12 @@ New collection routes reuse existing reviewed-photo lesson words: `/food/` has 1
 Food groups: fruit 51; vegetables/pulses 35; nuts/seeds 9; bread/grains/pasta 15; meat/fish/eggs 16; cheese/butter 3; dishes/prepared food 12; sweets 12; seasoning/sweeteners 13. Drink groups: water/milk/juice 5; hot drinks 5; other drinks 2. Milk is here because the pictured use is a drink. Coffee beans are a food ingredient; cups,containers and appliances are excluded. Living-animal photos are not reused as meat/seafood foods. Tomato photo's missing author credit was restored from its original Commons source; the image is unchanged.
 
 Native German/Egyptian review and subjective photo teaching suitability remain pending. Search and browsing do not award progress. All counts describe the current library, not completion of every food/drink in the world.
+
+### List 181: Bounded German study helper
+
+`/helper/` accepts short German-study questions with Egyptian Arabic explanations. Check model answers carefully before treating them as teaching material: articles/plurals, conjugation, cases, word order and alternate valid phrasing. Level selection is a practice preference, not a placement result. Pronunciation help is text-only and cannot grade recorded speech. No progress or certification is awarded.
+
+UI is explicit about fallible automated answers, personal-data avoidance, transient conversation, the question plus four recent messages sent to inference and free shared quotas. Please review Egyptian phrasing, mixed German/Arabic rendering, cancellation and quota messages. Current automated browser answers are fixtures, not model-quality evidence. Actual deployed German-response smoke checks and native German/Egyptian editorial review are separate pending checks.
 
 ## 3. Wider review queue after the focused batch
 
