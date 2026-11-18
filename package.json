@@ -42,7 +42,9 @@
     "test:animals:browser": "node scripts/test-animals-browser.mjs",
     "test:static-speech:browser": "node scripts/test-static-speech-browser.mjs",
     "test:effects": "node scripts/test-game-effects.mjs",
-    "test:effects:browser": "node scripts/test-game-effects-browser.mjs"
+    "test:effects:browser": "node scripts/test-game-effects-browser.mjs",
+    "test:speech-balance": "python3 scripts/test-speech-balance.py",
+    "test:balanced-speech:browser": "node scripts/test-balanced-speech-browser.mjs"
   },
   "dependencies": {
     "hono": "^4.13.18",
