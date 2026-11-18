@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-fifty-fourth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-fifty-fifth product update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1677,6 +1677,12 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Six appended grammar banks | 24 article/accusative/present/possessive/two-way/negation rows, prior saved identities unchanged, exact evidence/unique IDs pass. Native German/Egyptian Arabic editorial pending. |
 | [ ] | `/credits/`, English column headers | Existing hardcoded Word/File/Author/License column headers declare lang=en even on Arabic page; German word row headers retain lang=de. Visual/source labels unchanged. 32 English column-language checks,8 German row-language and24 source/license checks AR/EN320/390; actual-device screen-reader pending. 390px credits/lesson/reading/dialogue inspected. |
 | [ ] | Listening/dictation | 69 original segments,276 exact speech/source/answer checks. Existing help retained. Native editorial/actual-device voice pending, labels not certification, progress device-local. |
+
+### List 155: Global search keyboard workflow
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | Global search dialog, all routes | AR/EN at 320/390/1280: 120 keyboard/focus/scroll/IME/navigation/storage assertions and 6 axe snapshots pass. Tab stays within input/close; Escape/close restore opener, arrow-selected result stays visible; stale lazy imports cannot replace newer queries across reopen. Selected text contrast repaired and 390px screenshots inspected. Actual-device keyboard, screen-reader and real IME interaction remain manual review. No content/score/history changes. |
 
 ## 3. Wider review queue after the focused batch
 

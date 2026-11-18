@@ -1473,3 +1473,8 @@ const ra154Grammar=lib('exercises-rotkehlchenamsel').rotkehlchenamselGrammar;ass
 const ra154Words=words.filter(w=>w.topic==='rotkehlchenamsel');assert.deepEqual(JSON.parse(JSON.stringify(ra154Words.map(w=>[w.art,w.de,w.plural]))),[['das','Rotkehlchen','-'],['die','Amsel','Amseln']]);for(const w of ra154Words){assert(w.photo.author&&w.photo.license&&w.photo.commons.startsWith('https://'));assert(existsSync('public/img/'+w.id+'.jpg'));}console.log('PASS:real robin and blackbird nouns');
 
 assert(readFileSync('src/components/CreditsBrowser.tsx','utf8').includes('scope="col" lang="en"'));console.log('PASS:English credit column headers declare English');
+
+const search155=readFileSync('src/components/SearchBox.tsx','utf8');
+for(const guard of ['const opener = document.activeElement','document.body.style.overflow = \'hidden\'','document.body.style.overflow = overflow','opener.focus({ preventScroll: true })','let active = true','if (!active) return','return () => { active = false; }','scrollIntoView({ block: \'nearest\' })','e.nativeEvent.isComposing','e.key === \'Tab\'','e.shiftKey && document.activeElement === first','!e.shiftKey && document.activeElement === last','e.target === input.current && e.key === \'Enter\'','Math.max(0, Math.min(s + 1, hits.length - 1))',"t('اقفل البحث', 'Close search')"])assert(search155.includes(guard),guard);
+assert(!search155.includes('opacity-80'));assert(!search155.includes('opacity-90'));assert(!/localStorage|useStore|award\(/.test(search155));
+console.log('PASS:global search traps/restores focus,locks/restores scroll,keeps keyboard selection visible,cancels stale imports,guards IME and uses solid selected text');
