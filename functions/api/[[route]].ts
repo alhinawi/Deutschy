@@ -1,13 +1,12 @@
 import { Hono } from 'hono';
 import { handle } from 'hono/cloudflare-pages';
+import {serveTTS,ttsConfigured,type TTSEnv} from '../lib/tts';
 
-type Env = {
+type Env = TTSEnv & {
   DB?: D1Database;
   GOOGLE_CLIENT_ID?: string;
   GOOGLE_CLIENT_SECRET?: string;
   SESSION_SECRET?: string;
-  ELEVENLABS_API_KEY?: string;
-  ELEVENLABS_VOICE_ID?: string;
 };
 
 const ADMIN_EMAIL = '3asfuur@gmail.com';
@@ -106,7 +105,7 @@ app.get('/health', (c) =>
     app: 'deutschy',
     auth: Boolean(c.env.GOOGLE_CLIENT_ID && c.env.GOOGLE_CLIENT_SECRET && c.env.SESSION_SECRET),
     db: Boolean(c.env.DB),
-    tts: Boolean(c.env.ELEVENLABS_API_KEY),
+    tts: ttsConfigured(c.env),
   }),
 );
 
@@ -276,26 +275,6 @@ app.get('/admin/stats', async (c) => {
 });
 
 // Text-to-speech via ElevenLabs when a key is configured; otherwise the client falls back to the browser's German voice.
-app.get('/tts', async (c) => {
-  const key = c.env.ELEVENLABS_API_KEY;
-  if (!key) return c.json({ fallback: true }, 501);
-  const text = (c.req.query('text') ?? '').trim();
-  if (!text || text.length > 200) return c.json({ error: 'bad_text' }, 400);
-  const voice = c.env.ELEVENLABS_VOICE_ID ?? '';
-  if (!voice) return c.json({ fallback: true }, 501);
-  const cache = caches.default;
-  const cacheKey = new Request(new URL(`/api/tts?text=${encodeURIComponent(text)}`, c.req.url).toString());
-  const hit = await cache.match(cacheKey);
-  if (hit) return hit;
-  const r = await fetch(`https://api.elevenlabs.io/v1/text-to-speech/${voice}`, {
-    method: 'POST',
-    headers: { 'xi-api-key': key, 'content-type': 'application/json', accept: 'audio/mpeg' },
-    body: JSON.stringify({ text, model_id: 'eleven_multilingual_v2' }),
-  });
-  if (!r.ok) return c.json({ fallback: true }, 502);
-  const res = new Response(r.body, { headers: { 'content-type': 'audio/mpeg', 'cache-control': 'public, max-age=31536000, immutable' } });
-  c.executionCtx.waitUntil(cache.put(cacheKey, res.clone()));
-  return res;
-});
+app.get('/tts', (c) => serveTTS(c.req.raw,c.env));
 
 export const onRequest = handle(app);
