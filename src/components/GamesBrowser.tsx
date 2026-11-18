@@ -1,4 +1,6 @@
 'use client';
+import {modes191} from '@/lib/game-academy191';
+import {challenges191} from '@/lib/game-challenges191';
 import Link from 'next/link';
 import {useRef,useState} from 'react';
 import {useLang,useT} from '@/lib/i18n';
@@ -16,9 +18,19 @@ const games = [
   { id: 'listening', t: 'Hören', ar: 'اسمع واختار', en: 'Listening', d: 'اسمع الجملة واختار معناها الصح. +10 XP لكل جملة.', de: 'Listen to the sentence and pick its meaning. +10 XP per sentence.' },
 ];
 
+const academy=modes191.map(m=>({id:m.id,t:m.de,ar:m.ar,en:m.en,d:m.description[0],de:m.description[1]}));
+const categoryOf=(id:string)=>modes191.find(m=>m.id===id)?.category??(vocabularyGames.has(id)?'vocabulary':['dictation','listening'].includes(id)?'listening':'grammar');
 export default function GamesBrowser(){
+ const [query,setQuery]=useState(''),[category,setCategory]=useState('all');
+ const all=[...games,...academy],shown=all.filter(g=>(category==='all'||categoryOf(g.id)===category)&&[g.t,g.ar,g.en,g.d,g.de].join(' ').toLocaleLowerCase().includes(query.trim().toLocaleLowerCase()));
  const t=useT();const {lang}=useLang();const [topic,setTopic]=useState('');const topicInput=useRef<HTMLSelectElement>(null);const count=topic?wordsOf(topic).length:words.length;
  return <section className="space-y-5" aria-label={t('اختار لعبة وموضوع','Choose a game and topic')}>
+  <div className="space-y-3 rounded-2xl border border-line bg-card p-4">
+   <p className="num font-semibold">{t(`${all.length} لعبة وتدريب`,`${all.length} games and practice modes`)}</p>
+   <label className="block" htmlFor="game-search">{t('دور على لعبة','Find a game')}</label><input id="game-search" type="search" value={query} onChange={e=>setQuery(e.target.value)} className="min-h-11 w-full rounded-xl border border-line bg-paper p-3"/>
+   <label className="block" htmlFor="game-category">{t('نوع التدريب','Practice category')}</label><select id="game-category" value={category} onChange={e=>setCategory(e.target.value)} className="min-h-11 w-full rounded-xl border border-line bg-paper p-3">{[['all','الكل','All'],['vocabulary','كلمات','Vocabulary'],['grammar','قواعد','Grammar'],['listening','استماع','Listening'],['reading','قراءة','Reading']].map(([id,ar,en])=><option key={id} value={id}>{t(ar,en)}</option>)}</select>
+   <p className="num text-sm text-muted" role="status">{t(`النتايج: ${shown.length}`,`Results: ${shown.length}`)}</p>
+  </div>
   <div className="space-y-3 rounded-2xl border border-line bg-card p-4">
    <label htmlFor="game-topic" className="block font-semibold">{t('موضوع ألعاب الكلمات','Vocabulary game topic')}</label>
    <select id="game-topic" ref={topicInput} value={topic} onChange={e=>setTopic(e.target.value)} aria-describedby="game-topic-help" className="min-h-11 w-full max-w-full rounded-xl border border-line bg-paper p-3">
@@ -27,8 +39,8 @@ export default function GamesBrowser(){
    <p id="game-topic-help" className="text-sm text-muted">{t('الموضوع بينطبق على كروت المراجعة والصور والأداة والكتابة والذاكرة بس. ألعاب الجمل بتفضل بمجموعات الجمل الخاصة بيها.','The topic applies only to flashcards, picture quiz, articles, spelling and memory. Sentence games keep their own sentence sets.')}</p>
    <div className="flex flex-wrap items-center gap-3"><p className="num text-sm text-muted" role="status" aria-atomic="true">{t(`كلمات الموضوع: ${count}`,`Words in scope: ${count}`)}</p>{topic&&<button type="button" onClick={()=>{setTopic('');topicInput.current?.focus()}} className="min-h-11 rounded-full border border-line px-4 py-2">{t('ارجع لكل الكلمات','Reset to all words')}</button>}</div>
   </div>
-  <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">{games.map(g=><Link key={g.id} href={gameHref(g.id,topic)} className="min-w-0 rounded-2xl border border-line bg-card p-6 hover:border-accent [overflow-wrap:anywhere]">
-   <p className="text-xs font-bold text-muted">{vocabularyGames.has(g.id)?t('لعبة كلمات','Vocabulary game'):t('لعبة جمل','Sentence game')}</p><p dir="ltr" lang="de" className="de mt-2 text-2xl font-semibold">{g.t}</p><p className="ar-title text-xl text-accent">{t(g.ar,g.en)}</p><p className="mt-2 text-muted">{t(g.d,g.de)}</p>
-  </Link>)}</div>
+  <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">{shown.map(g=><Link key={g.id} href={gameHref(g.id,topic)} className="min-w-0 rounded-2xl border border-line bg-card p-6 hover:border-accent [overflow-wrap:anywhere]">
+   <p className="text-xs font-bold text-muted">{t(({vocabulary:'كلمات',grammar:'قواعد',listening:'استماع',reading:'قراءة'})[categoryOf(g.id)]!,categoryOf(g.id))}</p><p dir="ltr" lang="de" className="de mt-2 text-2xl font-semibold">{g.t}</p><p className="ar-title text-xl text-accent">{t(g.ar,g.en)}</p><p className="mt-2 text-muted">{t(g.d,g.de)}</p>{modes191.some(m=>m.id===g.id)&&<p className="num mt-3 text-xs text-muted">{challenges191.filter(r=>r.mode===g.id).length} {t('تدريب','challenges')}</p>}
+  </Link>)}</div>{!shown.length&&<p role="status">{t('مفيش نتيجة. جرّب كلمة تانية أو اختار الكل.','No results. Try another word or choose All.')}</p>}
  </section>
 }
