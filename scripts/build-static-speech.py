@@ -5,8 +5,8 @@ Use only an explicitly approved free account, with overage disabled. No account 
 import argparse,hashlib,json,os,subprocess,urllib.request
 from speech_balance import least_used,rebalance_plan,counts_for
 from pathlib import Path
-p=argparse.ArgumentParser();p.add_argument('--key-file',required=True);p.add_argument('--output',required=True);p.add_argument('--generate',type=int,default=0);p.add_argument('--rebalance',action='store_true');args=p.parse_args()
-assert 0<=args.generate<=100
+p=argparse.ArgumentParser();p.add_argument('--key-file',required=True);p.add_argument('--output',required=True);p.add_argument('--generate',type=int,default=0);p.add_argument('--rebalance',action='store_true');p.add_argument('--plan-file');args=p.parse_args()
+assert 0<=args.generate<=200
 root=Path(__file__).resolve().parents[1];out=Path(args.output);audio=out/'clips';audio.mkdir(parents=True,exist_ok=True)
 key=Path(args.key_file).read_text().strip()
 def get(path):return json.load(urllib.request.urlopen(urllib.request.Request('https://api.elevenlabs.io'+path,headers={'xi-api-key':key}),timeout=20))
@@ -33,9 +33,9 @@ budget_file.write_text(json.dumps(budget))
 used=max(sub['character_count'],budget['baseline']+budget['reservedTotal']);limit=sub['character_limit'];generated=0
 plan=rebalance_plan(ledger,voices) if args.rebalance else []
 planned_replacements=len(plan)
-for word in words:
+texts=list(dict.fromkeys(row['text'] for row in json.loads(Path(args.plan_file).read_text()))) if args.plan_file else [word['art']+' '+word['de'] for word in words]
+for text in texts:
  if len(plan)>=planned_replacements+args.generate:break
- text=word['art']+' '+word['de']
  if text not in ledger:plan.append((text,None))
 for text,assigned in plan:
  cost=len(text)
@@ -48,7 +48,7 @@ for text,assigned in plan:
  request=urllib.request.Request('https://api.elevenlabs.io/v1/text-to-speech/'+voice+'?output_format=mp3_44100_128',data=json.dumps(body).encode(),headers={'xi-api-key':key,'content-type':'application/json','accept':'audio/mpeg'},method='POST')
  with urllib.request.urlopen(request,timeout=25) as response:
   assert response.headers.get('content-type','').startswith('audio/');data=response.read();assert 0<len(data)<512000
- source=out/'pending.mp3';source.write_bytes(data);store(text,voice,source,'balanced179' if previous else 'generated179');source.unlink();used+=cost;generated+=1
+ source=out/'pending.mp3';source.write_bytes(data);store(text,voice,source,'balanced179' if previous else ('dialogue184' if args.plan_file else 'generated179'));source.unlink();used+=cost;generated+=1
 registry={text:{'url':item['url'],'voiceId':item['voiceId'],'shard':'deutschy-1'} for text,item in ledger.items() if not item.get('pending')}
 (root/'data/static-speech.json').write_text(json.dumps(registry,ensure_ascii=False,indent=2)+'\n')
 (out/'_headers').write_text('/clips/*\n  Cache-Control: public, max-age=31536000, immutable\n  Access-Control-Allow-Origin: *\n  X-Content-Type-Options: nosniff\n')
