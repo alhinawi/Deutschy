@@ -2531,3 +2531,24 @@ Object.assign(readingEvidence,{
     "Die Lernseite enthält keine Maßangaben und keine Anleitung zum Einfädeln."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-ein-kopf-viele-blaetter": [
+    "Auf dem ersten Foto sieht man einen grünen Kohlkopf.",
+    "Auf die Rückseite schreibt er die Mehrzahl: die Kohlköpfe.",
+    "Dort steht ohne Plural.",
+    "Sie kaufen kein Gemüse und bereiten kein Essen zu."
+  ],
+  "alltag-a2-wort-und-mengenangabe": [
+    "Gezählt werden darin die Portionen.",
+    "Das Wort Rosenkohl selbst bleibt unverändert.",
+    "damit er nicht nur auf die Zahl schaut.",
+    "an welcher Stelle eine Mengenangabe im Satz steht."
+  ],
+  "alltag-b1-fotogroesse-und-gegenstand": [
+    "Sie sind keine Messwerte für die abgebildeten Gegenstände.",
+    "Ein engerer Ausschnitt kann einen Gegenstand im Bild größer erscheinen lassen, ohne seine wirkliche Größe zu ändern.",
+    "Ein erfundenes Lineal würde keine verlässliche Messung ergänzen.",
+    "dass keine Größenmessung durchgeführt wurde."
+  ]
+});

@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-thirty-eighth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-thirty-ninth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1486,9 +1486,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Shared MiniQuiz explanation | More line spacing and long-word wrapping for optional answer notes. Named role, direction, exact bilingual text and Mixed rendering unchanged. 80 answer checks, both modes in AR/EN at 320/390px, computed line height and wrapping verified. Screenshots inspected. No scoring/audio/storage changes. |
 | [ ] | Listening/dictation | 67 original segments, 268 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice labels are not certification. Progress is device-local. |
 
+### List 139: Cabbage head and Brussels sprouts
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-ein-kopf-viele-blaetter/` and linked dialogue | Lea/Ben match a closed cabbage head and Brussels sprouts. Kohlkopf/Kohlköpfe versus Rosenkohl without plural. Many visible parts do not license an invented plural. The second card leaves its plural line empty. No food preparation. |
+| [ ] | `/reading/alltag-a2-wort-und-mengenangabe/` and linked dialogue | Jana/Omar compare two Kohlköpfe, etwas Rosenkohl and two Portionen Rosenkohl. Portionen is counted in the last phrase; Rosenkohl stays unchanged. No actual measured portions, shopping or weighing. Check natural metalinguistic wording and Egyptian meaning. |
+| [ ] | `/reading/alltag-b1-fotogroesse-und-gegenstand/` and linked dialogue | Nina/Karim reject physical-size inference from tile size. No common scale or known camera distance. Equal image fields do not make photos to scale. No invented ruler, measurements, freshness, weight or growing-method claims. |
+| [ ] | `/lessons/kohlformen/` and `/credits/` | der Kohlkopf/Kohlköpfe (راس كرنب), der Rosenkohl without plural (كرنب بروكسل). Duden/DWDS full-page sense and forms checked. Gu Bra 17836746: 1125 x 750 crop 62,0-1062,750. Martin Puerto 36906436: 1132 x 750 crop 66,0-1066,750. Both proportional 800 x 600 real photos, no stretch/padding/faces/brands. Closed head and distinct small buds are clear; dark lighting preserved. Actual 390px AR/EN cards inspected. Empty plural differs from same-form '-' convention. |
+| [ ] | Six appended grammar banks | 24 article/dative/present/possessive/two-way/negation rows. All earlier saved identities retained. Native German and Egyptian Arabic editorial checks pending. |
+| [ ] | Shared MiniQuiz wrong-answer correction | Correct German answer is now isolated in BDI with German language and LTR direction inside localized status. 8 wrong-answer cases in both modes, AR/EN 320/390, exact text, computed isolation, no overflow and 0XP verified. Absent before answer and after next. Existing 80 correct-answer checks and note/hint behavior pass unchanged. Actual 390px correction screenshots inspected. |
+| [ ] | Listening/dictation | 69 original segments, 276 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice labels are not certification; progress is device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **933 photo nouns / 183 topics**, **432 reading texts / 1681 reading questions**, **41 core grammar topics / 3262 core grammar questions**, **372 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **935 photo nouns / 184 topics**, **435 reading texts / 1693 reading questions**, **41 core grammar topics / 3286 core grammar questions**, **375 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1500,7 +1512,7 @@ This is an inventory, not completed review. Snapshot: **933 photo nouns / 183 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 126 · A2 154 · B1 122 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 127 · A2 155 · B1 123 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

@@ -417,3 +417,6 @@ readings.push(...tinteundfederTexts);
 
 import {naehbedarfTexts} from './reading-naehbedarf';
 readings.push(...naehbedarfTexts);
+
+import {kohlformenTexts} from './reading-kohlformen';
+readings.push(...kohlformenTexts);

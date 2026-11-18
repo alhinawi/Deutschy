@@ -731,6 +731,10 @@
   {
    "id": "naehbedarf",
    "ar": "إبرة وخيط خياطة"
+  },
+  {
+   "id": "kohlformen",
+   "ar": "راس كرنب وكرنب بروكسل"
   }
  ],
  "words": [
@@ -14822,6 +14826,36 @@
     "file": "5271312.jpg",
     "commons": "https://www.pexels.com/photo/close-up-shot-of-white-sewing-threads-5271312/",
     "author": "Pew Nguyen",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "kohlkopf",
+   "topic": "kohlformen",
+   "art": "der",
+   "de": "Kohlkopf",
+   "plural": "Kohlköpfe",
+   "ar": "راس كرنب",
+   "photo": {
+    "file": "17836746.jpg",
+    "commons": "https://www.pexels.com/photo/close-up-of-fresh-cabbage-17836746/",
+    "author": "Gu Bra",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "rosenkohl",
+   "topic": "kohlformen",
+   "art": "der",
+   "de": "Rosenkohl",
+   "plural": "",
+   "ar": "كرنب بروكسل",
+   "photo": {
+    "file": "36906436.jpg",
+    "commons": "https://www.pexels.com/photo/fresh-brussels-sprouts-on-wooden-table-36906436/",
+    "author": "Martin Puerto",
     "license": "Pexels License",
     "modified": true
    }
