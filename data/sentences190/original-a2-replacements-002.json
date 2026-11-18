@@ -1,0 +1,184 @@
+[
+  {
+    "id": "s190-a2-0009",
+    "de": "Mein Rucksack passt nicht unter den Sitz.",
+    "ar": "شنطة ضهري مش داخلة تحت الكرسي.",
+    "en": "My backpack does not fit under the seat.",
+    "level": "A2",
+    "topic": "travel-and-transport",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "1296e3f960808aa60432f31be80e238a8ca89d7c7396e8a268fd5b83e001f11a"
+    }
+  },
+  {
+    "id": "s190-a2-0059",
+    "de": "Im Bad fehlt ein Mülleimer.",
+    "ar": "مفيش باسكت زبالة في الحمام.",
+    "en": "There is no rubbish bin in the bathroom.",
+    "level": "A2",
+    "topic": "travel-and-transport",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a47c37da9c25f278aab9971db4d194dd4550c039ce6ae32a95b4394df29f968a"
+    }
+  },
+  {
+    "id": "s190-a2-0212",
+    "de": "Ich habe seit gestern ein Taubheitsgefühl im linken Fuß.",
+    "ar": "حاسس بتنميل في قدمي الشمال من امبارح.",
+    "en": "I have had a numb feeling in my left foot since yesterday.",
+    "level": "B1",
+    "topic": "health-and-care",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8e8a5596a4ff36a534b3eb8e3cdf3adc0899cdd0cd0eed2cc16622988aadda64"
+    }
+  },
+  {
+    "id": "s190-a2-0253",
+    "de": "Ich habe das Wort im Inhaltsverzeichnis gefunden.",
+    "ar": "لقيت الكلمة في الفهرس.",
+    "en": "I found the word in the table of contents.",
+    "level": "A2",
+    "topic": "school-and-learning",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f6f33c40a025c1a55cafc02544af2f8efd2de53c87c2ed8f050f027e713493da"
+    }
+  },
+  {
+    "id": "s190-a2-0328",
+    "de": "Die plötzliche Stille hat mich nervös gemacht.",
+    "ar": "السكوت المفاجئ وتّرني.",
+    "en": "The sudden silence made me nervous.",
+    "level": "B1",
+    "topic": "feelings-and-relationships",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "fab829eb1294a3e306e5927c0e55294125a399641d5f0589422cdb8ee4e220d3"
+    }
+  },
+  {
+    "id": "s190-b1-0033",
+    "de": "Der Artikel nennt zwar Experten, aber keine vollständigen Namen.",
+    "ar": "المقال بيذكر خبراء فعلًا، بس مفيش أسامي كاملة.",
+    "en": "The article does mention experts, but gives no full names.",
+    "level": "B1",
+    "topic": "news",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f5306705578ca0279988235d76665fc2cf4b4cf17f14e04540a9feb51610ae7e"
+    }
+  },
+  {
+    "id": "s190-b1-0074",
+    "de": "Mir fehlt bei den vielen Besprechungen Zeit für die eigentliche Arbeit.",
+    "ar": "مع الاجتماعات الكتير دي مبيبقاش عندي وقت للشغل نفسه.",
+    "en": "With all these meetings, I lack time for the actual work.",
+    "level": "B1",
+    "topic": "work-life",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "74ed369d288a7c90944240cad8febe5fb6da0f95c6c22cb5b1e0a13fc19352c9"
+    }
+  }
+]

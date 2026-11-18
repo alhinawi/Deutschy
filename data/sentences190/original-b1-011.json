@@ -1,0 +1,2030 @@
+[
+  {
+    "id": "s190-b1-2031",
+    "de": "Ich muss morgen früh zum Arzt, weil ich Halsschmerzen habe.",
+    "ar": "لازم أروح الدكتور بكرة الصبح لأن عندي ألم في الزور.",
+    "en": "I have to go to the doctor tomorrow morning because I have a sore throat.",
+    "level": "A2",
+    "topic": "health-and-wellbeing",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d5abd5dc9335f8d19f8e3a5feb8abe18aa0510655a72f956991e62d8dcc07abc"
+    }
+  },
+  {
+    "id": "s190-b1-2032",
+    "de": "Kannst du mir bitte die Adresse der Praxis schicken?",
+    "ar": "ممكن تبعتلي عنوان العيادة من فضلك؟",
+    "en": "Can you please send me the address of the practice?",
+    "level": "A2",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "85f9d4f31f3bd809cd2cee8b04c8509d0fcd6337ff6606a8d700018bc852cc80"
+    }
+  },
+  {
+    "id": "s190-b1-2033",
+    "de": "Ich habe vergessen, Milch zu kaufen, deshalb gehe ich noch einmal in den Laden.",
+    "ar": "نسيت أشتري لبن عشان كده هروح المحل تاني.",
+    "en": "I forgot to buy milk so I am going to the shop once more.",
+    "level": "A2",
+    "topic": "shopping-and-money",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "56fcea6f6d2e3a164994051f4da8effef9eaed63a0645fb27b843dc618514794"
+    }
+  },
+  {
+    "id": "s190-b1-2034",
+    "de": "Wenn du Zeit hast, können wir am Wochenende ins Kino gehen.",
+    "ar": "لو عندك وقت ممكن نروح السينما في الويك إند.",
+    "en": "If you have time we can go to the cinema at the weekend.",
+    "level": "A2",
+    "topic": "culture-and-leisure",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "75d9fb9b89108f0f2dce23da558b96c3ff1d0b68e46937df97ca91584833870b"
+    }
+  },
+  {
+    "id": "s190-b1-2035",
+    "de": "Meine Wohnung ist klein, aber ich habe einen schönen Balkon.",
+    "ar": "شقتي صغيرة بس عندي بلكونة حلوة.",
+    "en": "My flat is small but I have a nice balcony.",
+    "level": "A2",
+    "topic": "housing-communication",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "4681f751c717585fd935b074f1bbf179e91069a4a829e5f6e7555724016a3cd6"
+    }
+  },
+  {
+    "id": "s190-b1-2036",
+    "de": "Er hat mir erzählt, dass er nächste Woche nach Berlin fährt.",
+    "ar": "حكالي إنه هيسافر برلين الأسبوع الجاي.",
+    "en": "He told me that he is going to Berlin next week.",
+    "level": "A2",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "286c0582161531da3533cdbe4cc926438917d62167ad01c78ac2d6442007279d"
+    }
+  },
+  {
+    "id": "s190-b1-2037",
+    "de": "Ich weiß nicht, ob ich heute Abend Zeit habe.",
+    "ar": "مش عارف لو هبقى فاضي النهارده بالليل.",
+    "en": "I do not know whether I will have time this evening.",
+    "level": "A2",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "70e8072c1947383e50ba5ac3be3fe442f7c394feb97a56487167b3137e871f8d"
+    }
+  },
+  {
+    "id": "s190-b1-2038",
+    "de": "Sie hat gefragt, wann der Kurs anfängt.",
+    "ar": "سألت الكورس بيبدأ إمتى.",
+    "en": "She asked when the course starts.",
+    "level": "A2",
+    "topic": "economy-and-business",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e21412b972b40e53a0b259840c02bf7fcc4f8a9c413dbf9f2933e16847a3255b"
+    }
+  },
+  {
+    "id": "s190-b1-2039",
+    "de": "Nach dem Essen trinken wir immer einen Kaffee zusammen.",
+    "ar": "بعد الأكل بنشرب دايمًا قهوة مع بعض.",
+    "en": "After the meal we always drink a coffee together.",
+    "level": "A2",
+    "topic": "food-and-cooking",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "1a5ba2aa27f482a621bebd9799d95cdc72c2bdc1b40f5a14d05c533eb092e286"
+    }
+  },
+  {
+    "id": "s190-b1-2041",
+    "de": "Entschuldigung, wo finde ich die Toiletten?",
+    "ar": "لو سمحت فين الحمامات؟",
+    "en": "Excuse me, where can I find the toilets?",
+    "level": "A2",
+    "topic": "opinions-and-discussion",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "54163f179548ea188ba171d12e8b125df927484e8392d6fa283cf5bbada21693"
+    }
+  },
+  {
+    "id": "s190-b1-2043",
+    "de": "Könnten Sie mir bitte ein zweites Handtuch bringen?",
+    "ar": "ممكن حضرتك تجيبلي فوطة تانية من فضلك؟",
+    "en": "Could you please bring me a second towel?",
+    "level": "A2",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f15084ee726f894e5fba6fc21283a5d440b3bc60cc041b38102645088ae5d2ca"
+    }
+  },
+  {
+    "id": "s190-b1-2044",
+    "de": "Wir haben uns im Urlaub jeden Tag am Strand gesonnt.",
+    "ar": "اتشمسنا كل يوم على الشاطئ في الإجازة.",
+    "en": "On holiday we sunbathed on the beach every day.",
+    "level": "A2",
+    "topic": "travel-and-transport",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "774933f974e3843f5febeb5bed8b8aa458e0a09e59ee6982597c7f6d97fcddbf"
+    }
+  },
+  {
+    "id": "s190-b1-2045",
+    "de": "Heute ist das Wetter so schlecht, dass wir zu Hause bleiben.",
+    "ar": "الجو النهارده وحش لدرجة إننا هنفضل في البيت.",
+    "en": "Today the weather is so bad that we are staying at home.",
+    "level": "B1",
+    "topic": "nature-and-environment",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "b962ceffe091807904e237a0b52ce4bb5b6730d0fb1ec8f1e7cae10939309d28"
+    }
+  },
+  {
+    "id": "s190-b1-2046",
+    "de": "Hast du schon einmal in einem anderen Land gearbeitet?",
+    "ar": "اشتغلت قبل كده في بلد تانية؟",
+    "en": "Have you ever worked in another country?",
+    "level": "A2",
+    "topic": "work-coordination",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "697e1fc046feda05d376b8729486ec76daa5ddb3cb7ae0a64ca846de9818e468"
+    }
+  },
+  {
+    "id": "s190-b1-2047",
+    "de": "Ich arbeite seit zwei Jahren in dieser Firma und fühle mich dort wohl.",
+    "ar": "بشتغل في الشركة دي من سنتين وبرتاح فيها.",
+    "en": "I have been working at this company for two years and feel comfortable there.",
+    "level": "A2",
+    "topic": "work-coordination",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ef25660e2691d1036af054e68fe10b5fa8856b1a462e0cea62bab4f400cb51a4"
+    }
+  },
+  {
+    "id": "s190-b1-2048",
+    "de": "Mein Kollege hilft mir oft, wenn ich ein Problem habe.",
+    "ar": "زميلي بيساعدني كتير لما يكون عندي مشكلة.",
+    "en": "My colleague often helps me when I have a problem.",
+    "level": "A2",
+    "topic": "work-coordination",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "59608b2edeff5aa29086862bc2ecf8d14b17b22480ff3608a55cf3dc9a06de8d"
+    }
+  },
+  {
+    "id": "s190-b1-2049",
+    "de": "Wir haben jeden Dienstag eine Besprechung um halb zehn.",
+    "ar": "عندنا اجتماع كل تلات الساعة تسعة ونص.",
+    "en": "We have a meeting every Tuesday at half past nine.",
+    "level": "A2",
+    "topic": "work-coordination",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0153cadef589ef53f6f0aec494e75ba2642c90cec9a5fb9401fcea0618de3845"
+    }
+  },
+  {
+    "id": "s190-b1-2050",
+    "de": "Bitte rufen Sie mich zurück, sobald Sie Zeit haben.",
+    "ar": "من فضلك يا فندم، اتصل بيا تاني أول ما يبقى عند حضرتك وقت.",
+    "en": "Please call me back as soon as you have time.",
+    "level": "B1",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "7a863a658d99f4a4a84c535460cfb31fe3e039abcf10deb54f1a64764a27b044"
+    }
+  },
+  {
+    "id": "s190-b1-2051",
+    "de": "Leider kann ich Ihnen den Termin am Freitag nicht bestätigen.",
+    "ar": "للأسف مش هقدر أأكد لحضرتك ميعاد الجمعة.",
+    "en": "Unfortunately I cannot confirm the Friday appointment for you.",
+    "level": "B1",
+    "topic": "services-and-admin",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "b0d8cfd20d05efc32d272c5862cd01771bcbd0b4f9019246d8d7538a8cdf7f36"
+    }
+  },
+  {
+    "id": "s190-b1-2052",
+    "de": "Wir müssen leider auf einen späteren Termin ausweichen.",
+    "ar": "للأسف لازم ننقل لميعاد لاحق.",
+    "en": "Unfortunately we have to move to a later date.",
+    "level": "B1",
+    "topic": "services-and-admin",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "c27b822c77b276150a6f75da238d3ac902a72d398c53d3eeca00ead6cb1574c2"
+    }
+  },
+  {
+    "id": "s190-b1-2053",
+    "de": "Ich habe das Formular schon ausgefüllt und unterschrieben.",
+    "ar": "ملّيت الاستمارة ووقعتها.",
+    "en": "I have already filled in and signed the form.",
+    "level": "A2",
+    "topic": "services-and-admin",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e21aac205d79146420eb98a8f10405e124b3515ae1f44d073b5b57ed5f5936b1"
+    }
+  },
+  {
+    "id": "s190-b1-2054",
+    "de": "Das Paket ist heute Morgen angekommen, aber es war beschädigt.",
+    "ar": "الطرد وصل الصبح بس كان تالف.",
+    "en": "The parcel arrived this morning but it was damaged.",
+    "level": "A2",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "13f8a20b06a088051ccfd97eccbc2a79ba7ade6c5d8b7fc6a7a7791e5beda12d"
+    }
+  },
+  {
+    "id": "s190-b1-2055",
+    "de": "Ich möchte die Jacke umtauschen, weil sie mir zu groß ist.",
+    "ar": "عايز أبدّل الجاكيت عشان كبير عليا.",
+    "en": "I would like to exchange the jacket because it is too big for me.",
+    "level": "A2",
+    "topic": "shopping-and-money",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a596086b2418efb44ac115d674758c499fad480e57237e7c8bc64785f54fab95"
+    }
+  },
+  {
+    "id": "s190-b1-2056",
+    "de": "Haben Sie diesen Pullover auch in einer anderen Farbe?",
+    "ar": "عندكم الكنزة دي في لون تاني؟",
+    "en": "Do you have this jumper in another colour as well?",
+    "level": "A2",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ce1ea918a35943d4492f42fd7cc0976b22cf4c72e86ad0361fdbf029b4d1dfbf"
+    }
+  },
+  {
+    "id": "s190-b1-2057",
+    "de": "Der Preis ist mir ein bisschen zu hoch.",
+    "ar": "السعر عالي شوية بالنسبالي.",
+    "en": "The price is a bit too high for me.",
+    "level": "A2",
+    "topic": "shopping-and-money",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a6de515322f784f40c20cd331d84c5b8e6785f13827f3362ce69bfa79aa86849"
+    }
+  },
+  {
+    "id": "s190-b1-2058",
+    "de": "Mein Bruder spielt jeden Samstag mit seinen Freunden Fußball.",
+    "ar": "أخويا بيلعب كورة مع أصحابه كل سبت.",
+    "en": "My brother plays football with his friends every Saturday.",
+    "level": "A2",
+    "topic": "culture-and-leisure",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "59a470a3d21b1279aed5a8a16951d07e7b738fbd2881c81812fcb47d59297f52"
+    }
+  },
+  {
+    "id": "s190-b1-2059",
+    "de": "Ich habe mich beim Sport am Knie verletzt und kann nicht laufen.",
+    "ar": "اتصبت في ركبتي في الرياضة ومش قادر أمشي.",
+    "en": "I hurt my knee doing sport and cannot walk.",
+    "level": "B1",
+    "topic": "health-and-wellbeing",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "9cadb94b84c88b1d80d429813d065b189c16d77d5cfddad784f590bdf59471f4"
+    }
+  },
+  {
+    "id": "s190-b1-2060",
+    "de": "Wenn es nicht regnet, gehen wir heute im Park spazieren.",
+    "ar": "لو مش بتمطر هنتمشى النهارده في الحديقة.",
+    "en": "If it is not raining we will go for a walk in the park today.",
+    "level": "A2",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "025fd7fd10bd866e6e704328c2d887b16ace6b52443141d1f627357759a03de7"
+    }
+  },
+  {
+    "id": "s190-b1-2061",
+    "de": "Wir haben beschlossen, nächstes Jahr zusammen nach Spanien zu fahren.",
+    "ar": "قررنا نسافر إسبانيا مع بعض السنة الجاية.",
+    "en": "We have decided to travel to Spain together next year.",
+    "level": "B1",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "351914d172002747daf0508e3b1d10687b6d3ff3438ab005b1f971fda0b250b3"
+    }
+  },
+  {
+    "id": "s190-b1-2062",
+    "de": "Meine Eltern wohnen in einem kleinen Dorf in der Nähe von Kairo.",
+    "ar": "أهلي ساكنين في قرية صغيرة قريبة من القاهرة.",
+    "en": "My parents live in a small village near Cairo.",
+    "level": "A2",
+    "topic": "relationships-and-family",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "9e34f2882cb3a56c7fceccdd8fe41ca20abc6e316af9197ea02544ab0ca1e93e"
+    }
+  },
+  {
+    "id": "s190-b1-2063",
+    "de": "Ich besuche meine Eltern, sooft ich kann.",
+    "ar": "بزور أهلي كل ما أقدر.",
+    "en": "I visit my parents as often as I can.",
+    "level": "A2",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a084b7d83ffc6d3b77381a0c97bf0827df0e9fad578564a52fb17580aedd8a1e"
+    }
+  },
+  {
+    "id": "s190-b1-2064",
+    "de": "Als Kind habe ich jeden Sommer bei meiner Oma verbracht.",
+    "ar": "وأنا طفل كنت بقضي كل صيف عند جدتي.",
+    "en": "As a child I spent every summer at my grandma's.",
+    "level": "A2",
+    "topic": "relationships-and-family",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6e646cfeff7dbfb10b13c0782f88da7afbb94196b986f138e984b304ed3bee94"
+    }
+  },
+  {
+    "id": "s190-b1-2065",
+    "de": "Meine Oma hat immer für uns gekocht, und ich vermisse ihr Essen.",
+    "ar": "جدتي كانت بتطبخلنا دايمًا، وأنا مفتقد أكلها.",
+    "en": "My grandma always cooked for us, and I miss her food.",
+    "level": "A2",
+    "topic": "food-and-cooking",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "32b68d5acb008b48d9e10c9b0406096d002146bd5b85a1ac2014cc7f695fe0a4"
+    }
+  },
+  {
+    "id": "s190-b1-2066",
+    "de": "Meine Schwester ist Lehrerin und unterrichtet Mathematik an einer Schule.",
+    "ar": "أختي مدرسة وبتدرس رياضيات في مدرسة.",
+    "en": "My sister is a teacher and teaches mathematics at a school.",
+    "level": "A2",
+    "topic": "learning-strategies",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "4fad4b05d38e20bc7a7a688e0b3ab1b311bd4bf604ab5aa0e6cf547a5868743a"
+    }
+  },
+  {
+    "id": "s190-b1-2067",
+    "de": "Er interessiert sich sehr für Geschichte und liest viele Bücher darüber.",
+    "ar": "مهتم جدًا بالتاريخ وبيقرا كتب كتير عنه.",
+    "en": "He is very interested in history and reads many books about it.",
+    "level": "A2",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "3a2ba834937f507bc0ed7a9330072e8fbf7123cc151861cab1ae0648cf89051d"
+    }
+  },
+  {
+    "id": "s190-b1-2068",
+    "de": "Ich lerne Deutsch, weil ich später in Deutschland studieren möchte.",
+    "ar": "بتعلم ألماني لأني عايز أدرس في ألمانيا بعدين.",
+    "en": "I am learning German because I want to study in Germany later.",
+    "level": "A2",
+    "topic": "science-and-research",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f409e691d18b884abfe373371eba50072a9e46a8d2edd88922c74e8c57dac112"
+    }
+  },
+  {
+    "id": "s190-b1-2069",
+    "de": "Die Grammatik finde ich schwierig, aber ich übe jeden Tag.",
+    "ar": "القواعد بالنسبالي صعبة بس بتمرن كل يوم.",
+    "en": "I find the grammar difficult but I practise every day.",
+    "level": "A2",
+    "topic": "learning-strategies",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "84a3f969130d97b194390bb1cb345583395d5f04b229892f249cb0e8366144b9"
+    }
+  },
+  {
+    "id": "s190-b1-2071",
+    "de": "Ich habe nicht verstanden, was der Lehrer gemeint hat.",
+    "ar": "مافهمتش المدرس كان يقصد إيه.",
+    "en": "I did not understand what the teacher meant.",
+    "level": "A2",
+    "topic": "learning-strategies",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "7006a689bb9a0be3bb43f600471a0748a9fa7e4621931daca8bd3d9d711b7a64"
+    }
+  },
+  {
+    "id": "s190-b1-2072",
+    "de": "Das Wort kenne ich nicht, aber ich schaue es im Wörterbuch nach.",
+    "ar": "الكلمة دي ماعرفهاش بس هدور عليها في القاموس.",
+    "en": "I do not know that word but I will look it up in the dictionary.",
+    "level": "A2",
+    "topic": "learning-strategies",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "99af05167c034f53d3e71d50e15f5420a92be25553526a97e4e33c22014d1f0f"
+    }
+  },
+  {
+    "id": "s190-b1-2073",
+    "de": "Jeden Abend höre ich eine halbe Stunde deutsche Nachrichten.",
+    "ar": "كل مساء بسمع نص ساعة أخبار ألماني.",
+    "en": "Every evening I listen to half an hour of German news.",
+    "level": "A2",
+    "topic": "learning-strategies",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "4de57922a4ddf04be83f5f7d9885ca75eb291e9d82c73af05f1ca7c2d0e947ee"
+    }
+  },
+  {
+    "id": "s190-b1-2074",
+    "de": "Die Prüfung war nicht so schwer, wie ich gedacht hatte.",
+    "ar": "الامتحان ماكانش صعب زي ما كنت فاكر.",
+    "en": "The exam was not as hard as I had thought.",
+    "level": "B1",
+    "topic": "learning-strategies",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d09e3c67c98329ae595731be53733f3f8f3d8ef9fe838d761345a7b575d41528"
+    }
+  },
+  {
+    "id": "s190-b1-2075",
+    "de": "Ich bin froh, dass ich die Hausaufgaben schon gemacht habe.",
+    "ar": "مبسوط إني عملت الواجب خلاص.",
+    "en": "I am glad that I have already done the homework.",
+    "level": "A2",
+    "topic": "learning-strategies",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "65eb217b2e1c77f9ad502d24ffdcc0726657216de2cd95aecb268b70d1bff66b"
+    }
+  },
+  {
+    "id": "s190-b1-2076",
+    "de": "Meine Mitbewohnerin ist sehr nett, aber manchmal etwas unordentlich.",
+    "ar": "زميلتي في السكن لطيفة جدًا بس أحيانًا شوية مش مرتبة.",
+    "en": "My flatmate is very nice but sometimes a little untidy.",
+    "level": "A2",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "3c39adf2c04b5c8a1fb8996e52dbc10d1d6b7145e72b40d6598d2ce783c84f0c"
+    }
+  },
+  {
+    "id": "s190-b1-2077",
+    "de": "Wir wechseln uns beim Putzen jede Woche ab.",
+    "ar": "بنتبادل التنضيف كل أسبوع.",
+    "en": "We take turns cleaning every week.",
+    "level": "A2",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "118da569f7b45c6642ca5b5e54463943d8d92db8e1b7a4def9bd43073354dc32"
+    }
+  },
+  {
+    "id": "s190-b1-2078",
+    "de": "Gestern habe ich den ganzen Tag gelernt und bin abends sofort eingeschlafen.",
+    "ar": "إمبارح ذاكرت اليوم كله ونمت على طول بالليل.",
+    "en": "Yesterday I studied all day and fell asleep straight away in the evening.",
+    "level": "A2",
+    "topic": "learning-strategies",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "154354f7c4c2efa202b2b19e8ce00cab310d0235425078ef4d837e875f74a80c"
+    }
+  },
+  {
+    "id": "s190-b1-2079",
+    "de": "Ich stehe normalerweise um sieben Uhr auf, aber am Sonntag schlafe ich länger.",
+    "ar": "بصحى عادةً الساعة سبعة بس الأحد بنام أكتر.",
+    "en": "I usually get up at seven but on Sunday I sleep longer.",
+    "level": "A2",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a4ea4b0926e171f2988653297b0f98604daad06b2857bc2a10b117b257fa3dd1"
+    }
+  },
+  {
+    "id": "s190-b1-2081",
+    "de": "Mittags gehe ich oft mit Kollegen in die Kantine.",
+    "ar": "الضهر بروح غالبًا مع زمايلي الكافيتريا.",
+    "en": "At lunchtime I often go to the canteen with colleagues.",
+    "level": "A2",
+    "topic": "work-coordination",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "2863360e398d6ef6ad0959fe6da22e2079b26ef2d4ae4342d31ff62051591f78"
+    }
+  },
+  {
+    "id": "s190-b1-2082",
+    "de": "Am Abend koche ich gern etwas Einfaches für mich allein.",
+    "ar": "بالليل بحب أطبخ حاجة بسيطة لنفسي.",
+    "en": "In the evening I like to cook something simple for myself.",
+    "level": "A2",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0eee703d85b5e702db329bdd165fd5670d16b7bbabdf99493cd8cb60a861ce79"
+    }
+  },
+  {
+    "id": "s190-b1-2083",
+    "de": "Der Bus kommt alle zehn Minuten, also müssen wir nicht rennen.",
+    "ar": "الأتوبيس بيجي كل عشر دقايق فمش لازم نجري.",
+    "en": "The bus comes every ten minutes so we do not have to run.",
+    "level": "A2",
+    "topic": "travel-and-transport",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "785bcd33bf080dc0d7af42a743ec1be534f2ec128439e77e093cafe7fed5d988"
+    }
+  },
+  {
+    "id": "s190-b1-2084",
+    "de": "Ich fahre lieber mit der U-Bahn, weil sie nicht im Stau steht.",
+    "ar": "بفضل المترو لأنه مش بيقف في الزحمة.",
+    "en": "I prefer to take the underground because it does not get stuck in traffic.",
+    "level": "A2",
+    "topic": "travel-and-transport",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "5d203a4704e582042079597ef54ced5f4823e9389488d3aff56eee52b11af42d"
+    }
+  },
+  {
+    "id": "s190-b1-2085",
+    "de": "Bitte steigen Sie hinten aus und halten Sie sich fest.",
+    "ar": "من فضلكم انزلوا من ورا، وامسكوا كويس.",
+    "en": "Please get off at the back and hold on tight.",
+    "level": "A2",
+    "topic": "culture-and-leisure",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "3218c5a8efad07142e6dc7117a05668db4f1e9ad95d0c6925120cb3dbdefc88f"
+    }
+  },
+  {
+    "id": "s190-b1-2086",
+    "de": "Ich habe meinen Regenschirm im Bus liegen lassen.",
+    "ar": "سبت الشمسية بتاعتي في الأتوبيس.",
+    "en": "I left my umbrella behind on the bus.",
+    "level": "A2",
+    "topic": "travel-and-transport",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "eef3cfdd0ba8090cf65b125fd89988cff81d00171f39a4fbe4e4ecf031029930"
+    }
+  },
+  {
+    "id": "s190-b1-2087",
+    "de": "Weißt du, ob die Bibliothek heute bis acht Uhr geöffnet ist?",
+    "ar": "عارف لو المكتبة مفتوحة النهارده لحد تمانية؟",
+    "en": "Do you know whether the library is open until eight today?",
+    "level": "A2",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "bdf98d10febd9a3b6d90559d634d5d8caab407fd335479484acff49447cdd910"
+    }
+  },
+  {
+    "id": "s190-b1-2088",
+    "de": "Ich muss meine Rechnung noch bezahlen, sonst bekomme ich eine Mahnung.",
+    "ar": "لازم أدفع فاتورتي وإلا هتيجيلي تذكير بالدفع.",
+    "en": "I still have to pay my bill or I will get a reminder.",
+    "level": "B1",
+    "topic": "services-and-admin",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d84222e480025012994d6783824ed3c4ab6ff2a98e1531870b4ff9519ef35ff4"
+    }
+  },
+  {
+    "id": "s190-b1-2089",
+    "de": "Meine Freundin hat mich zu ihrer Geburtstagsfeier eingeladen.",
+    "ar": "صاحبتي عزمتني على حفلة عيد ميلادها.",
+    "en": "My friend has invited me to her birthday party.",
+    "level": "A2",
+    "topic": "culture-and-leisure",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "cfeb37bc91c0ad66a3ce9dc34a3a95901bcee7084268f7fbef077952f74ef0fd"
+    }
+  },
+  {
+    "id": "s190-b1-2090",
+    "de": "Ich weiß noch nicht, was ich meiner Freundin zum Geburtstag schenken soll.",
+    "ar": "لسه مش عارف أجيب إيه لصاحبتي هدية عيد ميلادها.",
+    "en": "I do not yet know what to give my friend for her birthday.",
+    "level": "A2",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "94173678f8f1a076bc7015ca41713a85dc59efc869a50e91a98aef32888f124f"
+    }
+  },
+  {
+    "id": "s190-b1-2091",
+    "de": "Vielleicht kaufe ich ihr ein Buch, weil sie so gern liest.",
+    "ar": "يمكن أشتريلها كتاب لأنها بتحب القراءة قوي.",
+    "en": "Perhaps I will buy her a book because she likes reading so much.",
+    "level": "A2",
+    "topic": "culture-and-leisure",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6b63de2ac0a54cf1613aaffd1e8f17dfc8a511c31f48a56ef9b9ff64e1c1d61e"
+    }
+  },
+  {
+    "id": "s190-b1-2092",
+    "de": "Wir haben bis spät in die Nacht getanzt und viel gelacht.",
+    "ar": "رقصنا لحد متأخر بالليل وضحكنا كتير.",
+    "en": "We danced until late at night and laughed a lot.",
+    "level": "A2",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "1fd1d48a74c3ef63c8dd51ecef069cd0283e6cbf5b01ab1a1829f88a98a63f74"
+    }
+  },
+  {
+    "id": "s190-b1-2094",
+    "de": "Ich hoffe, dass wir uns bald wiedersehen.",
+    "ar": "أتمنى إننا نتقابل تاني قريب.",
+    "en": "I hope that we will see each other again soon.",
+    "level": "A2",
+    "topic": "opinions-and-discussion",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d36e4a30c8cee68eb0849966a8bd183d64f3831c5315e1e3b5993ae9396835d3"
+    }
+  },
+  {
+    "id": "s190-b1-2095",
+    "de": "Vielen Dank für deine Hilfe, ohne dich hätte ich es nicht geschafft.",
+    "ar": "شكرًا على مساعدتك، من غيرك ماكنتش هعرف أعملها.",
+    "en": "Thank you for your help, without you I would not have managed it.",
+    "level": "B1",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "994e94a4f2bd061a6f600313d5b290c2218f3769f337177add84df127979505a"
+    }
+  },
+  {
+    "id": "s190-b1-2096",
+    "de": "Wir sollten uns einen Plan machen, damit nichts schiefgeht.",
+    "ar": "المفروض نعمل خطة عشان مفيش حاجة تبوظ.",
+    "en": "We should make a plan so that nothing goes wrong.",
+    "level": "B1",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "83714114adba23430a896ab4457037f299a053d65a6e227de18c77bec4037bb8"
+    }
+  },
+  {
+    "id": "s190-b1-2097",
+    "de": "Weißt du, wie viel das Ticket nach Hamburg kostet?",
+    "ar": "عارف تذكرة هامبورج بكام؟",
+    "en": "Do you know how much the ticket to Hamburg costs?",
+    "level": "A2",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "3bac5fa53bcdb8e6bb756d25faf716d5cd752ac8053eb3d274fa9e6bf0e1d231"
+    }
+  },
+  {
+    "id": "s190-b1-2098",
+    "de": "Ich bin gestern zum ersten Mal mit dem Zug nach Wien gefahren.",
+    "ar": "إمبارح سافرت لأول مرة فيينا بالقطر.",
+    "en": "Yesterday I travelled to Vienna by train for the first time.",
+    "level": "A2",
+    "topic": "travel-and-transport",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "3fefc56ee6b7a756279d24030d4d7a9ed38660f99ed65e71f3eca36fb8bb5606"
+    }
+  },
+  {
+    "id": "s190-b1-2099",
+    "de": "Die Zugfahrt nach Wien war ruhig, und ich konnte die ganze Zeit lesen.",
+    "ar": "رحلة القطر لفيينا كانت هادية، وقدرت أقرا طول الوقت.",
+    "en": "The train journey to Vienna was quiet, and I could read the whole time.",
+    "level": "A2",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "86f30a1e8d9509a3c80e5c05d619c5b7a15463b4c89f7dae77ed910451426a38"
+    }
+  },
+  {
+    "id": "s190-b1-2100",
+    "de": "Wenn du willst, begleite ich dich zum Bahnhof.",
+    "ar": "لو عايز هوصلك للمحطة.",
+    "en": "If you want I will accompany you to the station.",
+    "level": "A2",
+    "topic": "travel-and-transport",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "bbd487156bf44c36db9344461e1297f560097f6ed1165b34d29d9d2dea795444"
+    }
+  },
+  {
+    "id": "s190-b1-2102",
+    "de": "Ich habe die Tür abgeschlossen und das Licht ausgemacht.",
+    "ar": "قفلت الباب وطفيت النور.",
+    "en": "I locked the door and turned off the light.",
+    "level": "A2",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "46249061f56678b8514182b09e239dac60d6ea61d452253218b8c76fddbc3b9c"
+    }
+  },
+  {
+    "id": "s190-b1-2103",
+    "de": "Dürfte ich mich kurz neben Sie setzen, falls der Platz frei ist?",
+    "ar": "ممكن أقعد جنب حضرتك شوية لو المكان فاضي؟",
+    "en": "May I sit down next to you briefly if the seat is free?",
+    "level": "B1",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "aeda5686c20aec3cf5047cef8736b704c05c02afb266e0637e2e2528a920e3d6"
+    }
+  },
+  {
+    "id": "s190-b1-2104",
+    "de": "Meine Tante backt am Wochenende immer einen Apfelkuchen für uns.",
+    "ar": "عمتي بتعمل دايمًا تورتة تفاح لنا في الويك إند.",
+    "en": "My aunt always bakes an apple cake for us at the weekend.",
+    "level": "A2",
+    "topic": "relationships-and-family",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "086feefeac2cc51ed6951b9ecb702d241ae8abd8164826299a2f438e96dbef98"
+    }
+  },
+  {
+    "id": "s190-b1-2105",
+    "de": "Wir haben das Konzert leider verpasst, weil wir im Stau standen.",
+    "ar": "للأسف فوتنا الحفلة لأننا كنا واقفين في زحمة.",
+    "en": "We unfortunately missed the concert because we were stuck in traffic.",
+    "level": "A2",
+    "topic": "culture-and-leisure",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0b293ba89ad750034961dfe6e500d586988232e68a0cd862a24fcf3ea23ee3ff"
+    }
+  },
+  {
+    "id": "s190-b1-2106",
+    "de": "Ich schreibe dir später, wenn ich zu Hause angekommen bin.",
+    "ar": "هكتبلك بعدين لما أوصل البيت.",
+    "en": "I will write to you later when I have arrived home.",
+    "level": "A2",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "7f089ec9424091bae0190b232942f593e82e3ec4d73d9d1119d986c06e47e5a9"
+    }
+  },
+  {
+    "id": "s190-b1-2107",
+    "de": "Der Film hat mir gut gefallen, aber das Ende war etwas traurig.",
+    "ar": "الفيلم عجبني بس النهاية كانت حزينة شوية.",
+    "en": "I liked the film but the ending was a little sad.",
+    "level": "A2",
+    "topic": "culture-and-leisure",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d744a174459648f19a3aa2c50f40b0b60144718977e8c54b003558717fc35243"
+    }
+  },
+  {
+    "id": "s190-b1-2108",
+    "de": "Brauchst du noch etwas aus dem Supermarkt, bevor ich gehe?",
+    "ar": "محتاج حاجة تانية من السوبرماركت قبل ما أمشي؟",
+    "en": "Do you still need something from the supermarket before I go?",
+    "level": "A2",
+    "topic": "economy-and-business",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "64069901edea80ebfe586b079192c9efa32227f24d82fa6fc2c348c876f96375"
+    }
+  },
+  {
+    "id": "s190-b1-2109",
+    "de": "Ich habe den ganzen Nachmittag auf deinen Anruf gewartet.",
+    "ar": "استنيت مكالمتك طول العصر.",
+    "en": "I waited for your call the whole afternoon.",
+    "level": "A2",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "7173f024941b97f5cad21fa0e7708eca8710e91c98f5006673589ecba4208c98"
+    }
+  },
+  {
+    "id": "s190-b1-2110",
+    "de": "Er hat versprochen, pünktlich zu sein, aber er kommt schon wieder zu spät.",
+    "ar": "وعد يكون في الميعاد بس جاي متأخر تاني.",
+    "en": "He promised to be on time but he is late again.",
+    "level": "B1",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6480503174edc7e1710b5eaf2ad620fff4d975c4c15d372120135622c55de48c"
+    }
+  },
+  {
+    "id": "s190-b1-2111",
+    "de": "Mein Computer ist so langsam, dass ich ihn bald ersetzen muss.",
+    "ar": "الكمبيوتر بتاعي بطيء لدرجة إني هضطر أبدله قريب.",
+    "en": "My computer is so slow that I will soon have to replace it.",
+    "level": "B1",
+    "topic": "technology-and-media",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "818d472b326952c0966209552b4cd66c66fa1fa23ad326a2f8a61c83635ee367"
+    }
+  },
+  {
+    "id": "s190-b1-2113",
+    "de": "Wir sollten das Fenster schließen, denn es zieht.",
+    "ar": "المفروض نقفل الشباك لأن في تيار هوا.",
+    "en": "We should close the window because there is a draught.",
+    "level": "A2",
+    "topic": "everyday-situations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "1379fc5dfb2f84bf7ac10ac6514964e31f6fb653d9123e01f772456b6029f7a1"
+    }
+  },
+  {
+    "id": "s190-b1-2114",
+    "de": "Sie wohnt direkt über uns und grüßt immer freundlich im Treppenhaus.",
+    "ar": "ساكنة فوقنا على طول وبتسلم دايمًا بلطف على السلم.",
+    "en": "She lives directly above us and always greets us kindly in the stairwell.",
+    "level": "A2",
+    "topic": "relationships-and-family",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f695cfb46f365ad297e0edbcd6b4b5ee3437af5339045d236a8d1909ae64212e"
+    }
+  },
+  {
+    "id": "s190-b1-2115",
+    "de": "Ich habe heute Morgen verschlafen und musste ohne Frühstück aus dem Haus.",
+    "ar": "النهارده نمت زيادة واضطريت أخرج من غير فطار.",
+    "en": "This morning I overslept and had to leave the house without breakfast.",
+    "level": "A2",
+    "topic": "food-and-cooking",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "4c27417e54d949c9b254ef7970f9015ad5197058f050864c9732b760ecdeb541"
+    }
+  }
+]

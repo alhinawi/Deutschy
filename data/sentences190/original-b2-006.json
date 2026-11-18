@@ -1,0 +1,2966 @@
+[
+  {
+    "id": "s190-b2-0947",
+    "de": "Der Arzt riet ihm, mehr Gemüse zu essen und auf Zucker weitgehend zu verzichten.",
+    "ar": "الدكتور نصحه ياكل خضار أكتر ويبعد عن السكر قد الإمكان.",
+    "en": "The doctor advised him to eat more vegetables and largely give up sugar.",
+    "level": "B1",
+    "topic": "medical-conversations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "dce9122686d68b6edb0b4c11f3075f11008a676891b6caf792470a54a5e4ce66"
+    }
+  },
+  {
+    "id": "s190-b2-0948",
+    "de": "Chronischer Stress kann das Immunsystem schwächen und das Risiko für Herzkrankheiten erhöhen.",
+    "ar": "الضغط المزمن ممكن يضعف المناعة ويزود خطر أمراض القلب.",
+    "en": "Chronic stress can weaken the immune system and increase the risk of heart disease.",
+    "level": "B2",
+    "topic": "medical-conversations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8bf84f92c15817798357b4adf93761b1d67cfab4abc65adbb6d221174a09ceea"
+    }
+  },
+  {
+    "id": "s190-b2-0949",
+    "de": "Wer sich regelmäßig bewegt, schläft in der Regel besser und fühlt sich ausgeglichener.",
+    "ar": "اللي بيتحرك بانتظام غالبًا بينام أحسن وبيحس بتوازن أكتر.",
+    "en": "Those who exercise regularly usually sleep better and feel more balanced.",
+    "level": "B1",
+    "topic": "medical-conversations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8e26ed288df293e1278488a0d7a466ea42d2232a950690593007fe6b138195ea"
+    }
+  },
+  {
+    "id": "s190-b2-0950",
+    "de": "Können Sie mir bestätigen, ob die Kosten der mehrwöchigen Behandlung teilweise von meiner Kasse übernommen werden?",
+    "ar": "ممكن حضرتك تأكدلي لو التأمين بتاعي هيغطي جزء من تكلفة العلاج اللي هياخد كذا أسبوع؟",
+    "en": "Could you confirm whether my insurance will cover part of the cost of the treatment lasting several weeks?",
+    "level": "B2",
+    "topic": "medical-conversations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "5f771ed4bedd7e1a464774d24ca8c6f8f31982117b73746f77668aaa3fb174ce"
+    }
+  },
+  {
+    "id": "s190-b2-0951",
+    "de": "Bevor man ein neues Medikament einnimmt, sollte man den Beipackzettel aufmerksam lesen.",
+    "ar": "قبل ما تاخد دوا جديد المفروض تقرا النشرة بانتباه.",
+    "en": "Before taking a new medication one should read the package leaflet attentively.",
+    "level": "B1",
+    "topic": "medical-conversations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "05fc06cbd01411a86d64be782aeb31ac255cdde6bbd09393aff85f2cae611d7f"
+    }
+  },
+  {
+    "id": "s190-b2-0952",
+    "de": "Wegen anhaltender Rückenschmerzen bat sie ihre Hausärztin um eine Untersuchung.",
+    "ar": "عشان وجع ضهرها مستمر، طلبت من دكتورة الأسرة تفحصها.",
+    "en": "Because of persistent back pain, she asked her family doctor for an examination.",
+    "level": "B1",
+    "topic": "medical-conversations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "609127d8a61218e1c26879815acab2d6f9c6aa2e87960ad28badbba246a2d46f"
+    }
+  },
+  {
+    "id": "s190-b2-0953",
+    "de": "Die Patientin wurde über mögliche Nebenwirkungen ausführlich aufgeklärt.",
+    "ar": "المريضة اتشرحلها الأعراض الجانبية المحتملة بالتفصيل.",
+    "en": "The patient was informed in detail about possible side effects.",
+    "level": "B2",
+    "topic": "medical-conversations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e801f75c53285a2b69fe70b95ed4a22414e82e4199a2f1dad013439a508c25c0"
+    }
+  },
+  {
+    "id": "s190-b2-0954",
+    "de": "Obwohl die Operation riskant war, verlief sie ohne Komplikationen.",
+    "ar": "رغم إن العملية كانت خطيرة عدت من غير مضاعفات.",
+    "en": "Although the operation was risky it went without complications.",
+    "level": "B1",
+    "topic": "medical-conversations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ae7af6973c743a483cc9fee0a80df2c72b6f5bf4cb4c7fea18e6cccbf6ac656b"
+    }
+  },
+  {
+    "id": "s190-b2-0955",
+    "de": "Psychische Erkrankungen werden in der Gesellschaft noch immer oft tabuisiert.",
+    "ar": "الأمراض النفسية لسه كتير بتتعامل كمحرمات في المجتمع.",
+    "en": "Mental illnesses are still often treated as taboo in society.",
+    "level": "B2",
+    "topic": "medical-conversations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8173cea63b3ba91e9daae37e819881855295013a0c3dce29407dda70905af8fe"
+    }
+  },
+  {
+    "id": "s190-b2-0956",
+    "de": "Offen über Ängste zu sprechen, kann der erste Schritt zur Besserung sein.",
+    "ar": "الكلام بصراحة عن المخاوف ممكن يكون أول خطوة للتحسن.",
+    "en": "Talking openly about fears can be the first step towards improvement.",
+    "level": "B1",
+    "topic": "medical-conversations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "b7544859e6e322bbddbd3d30d450a3dc8ddc97eadb924cf3321605fc0a439ed2"
+    }
+  },
+  {
+    "id": "s190-b2-0957",
+    "de": "Viele Menschen scheuen sich, professionelle Hilfe in Anspruch zu nehmen, aus Angst vor Vorurteilen.",
+    "ar": "ناس كتير بتتحرج تطلب مساعدة متخصصة خوفًا من الأحكام المسبقة.",
+    "en": "Many people shy away from seeking professional help for fear of prejudice.",
+    "level": "B2",
+    "topic": "medical-conversations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "56e1beed2e2d467302c2983647142321fc6bb75bfc6b4f5e9f1f0863953ad874"
+    }
+  },
+  {
+    "id": "s190-b2-0958",
+    "de": "Die Erforschung des Gehirns hat in den letzten Jahrzehnten enorme Fortschritte gemacht.",
+    "ar": "أبحاث المخ حققت تقدم هائل في العقود الأخيرة.",
+    "en": "Research into the brain has made enormous progress in recent decades.",
+    "level": "B2",
+    "topic": "medical-conversations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d487ace86e02b3c21f52e231abe3e5bb6b5f7f6db0ece434bb06fa4b307e3bbc"
+    }
+  },
+  {
+    "id": "s190-b2-0959",
+    "de": "Die Forschenden untersuchen, wie sich Schlafmangel auf die Konzentrationsfähigkeit auswirkt.",
+    "ar": "الباحثين بيدرسوا قلة النوم بتأثر إزاي على القدرة على التركيز.",
+    "en": "The researchers are investigating how lack of sleep affects concentration.",
+    "level": "B2",
+    "topic": "medical-conversations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f33345fc67bc79f54af85027d6be92dc1372fb46d7c1cccef43add94fb7ebcc1"
+    }
+  },
+  {
+    "id": "s190-b2-0960",
+    "de": "Die Wirksamkeit des neuen Impfstoffs soll in mehreren unabhängigen Studien überprüft werden.",
+    "ar": "من المقرر فحص فعالية اللقاح الجديد في كذا دراسة مستقلة.",
+    "en": "The effectiveness of the new vaccine is to be examined in several independent studies.",
+    "level": "B2",
+    "topic": "medical-conversations",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "345a363061d9ce68b80b5e3986c5104c8a7b75a612a0d749681dfcf81f06fcd8"
+    }
+  },
+  {
+    "id": "s190-b2-0961",
+    "de": "Künstliche Intelligenz verändert die Art, wie wir arbeiten, lernen und kommunizieren.",
+    "ar": "الذكاء الاصطناعي بيغير طريقة شغلنا وتعلمنا وتواصلنا.",
+    "en": "Artificial intelligence is changing the way we work, learn and communicate.",
+    "level": "B1",
+    "topic": "digital-life",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "2eaaa6aec41723593d4243c8f6eeb749621aab1507e4a49cad0a72483a4b9b13"
+    }
+  },
+  {
+    "id": "s190-b2-0962",
+    "de": "Manche befürchten, dass Maschinen in Zukunft viele Berufe überflüssig machen könnten.",
+    "ar": "البعض بيخاف إن الآلات تخلي مهن كتير مالهاش لازمة في المستقبل.",
+    "en": "Some fear that machines could make many professions superfluous in the future.",
+    "level": "B2",
+    "topic": "digital-life",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "70e6e7557cfa5a31af0bcceb2f0d1fdf05052818786bdad5dd8b6c2b3769a3e1"
+    }
+  },
+  {
+    "id": "s190-b2-0963",
+    "de": "In der Automatisierung monotoner Aufgaben sehen manche eine Chance, Zeit zu gewinnen.",
+    "ar": "فيه ناس شايفة إن أتمتة المهام الروتينية فرصة لتوفير الوقت.",
+    "en": "Some see automating monotonous tasks as an opportunity to save time.",
+    "level": "B2",
+    "topic": "digital-life",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6c2922cc4efead8b3f716cdab45c902702c42f3d56c461f1dd4ade314106d577"
+    }
+  },
+  {
+    "id": "s190-b2-0964",
+    "de": "Entscheidend ist, dass Menschen die Kontrolle über wichtige Entscheidungen behalten.",
+    "ar": "الحاسم إن الناس تفضل ماسكة التحكم في القرارات المهمة.",
+    "en": "What is decisive is that people retain control over important decisions.",
+    "level": "B1",
+    "topic": "digital-life",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "073d5d874a93ac687444343e2d6502d88ce1d0ed820c73db4ac9c83368cde5ae"
+    }
+  },
+  {
+    "id": "s190-b2-0965",
+    "de": "Datenschutz ist kein Luxus, sondern ein Grundrecht, das auch im Netz gelten muss.",
+    "ar": "حماية البيانات مش رفاهية، دي حق أساسي لازم يسري على النت كمان.",
+    "en": "Data protection is not a luxury but a basic right that must also apply online.",
+    "level": "B2",
+    "topic": "digital-life",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "edf54a9ebd8b46931b40e45ec1720b9a598e3af77b33e36b26148ee93e2f1fcf"
+    }
+  },
+  {
+    "id": "s190-b2-0966",
+    "de": "Viele Nutzer akzeptieren die Nutzungsbedingungen, ohne sie gelesen zu haben.",
+    "ar": "مستخدمين كتير بيوافقوا على شروط الاستخدام من غير ما يقروها.",
+    "en": "Many users accept the terms of use without having read them.",
+    "level": "B1",
+    "topic": "digital-life",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0ae7fd5fac2ff4136efe6785d831c4740e75d2dfb0626602b621e0e2bc03a5a4"
+    }
+  },
+  {
+    "id": "s190-b2-0967",
+    "de": "Wer persönliche Daten preisgibt, sollte wissen, wofür sie verwendet werden.",
+    "ar": "اللي بيدي بيانات شخصية لازم يعرف هتتستخدم في إيه.",
+    "en": "Those who give out personal data should know what they will be used for.",
+    "level": "B1",
+    "topic": "digital-life",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f51810832a302c7b2e8857e6b5f9a2d6684ae47abea299fbbd43fc2d25d55b17"
+    }
+  },
+  {
+    "id": "s190-b2-0968",
+    "de": "Für mein Konto verwende ich ein langes, einzigartiges Passwort aus dem Passwortmanager.",
+    "ar": "لحسابي بستخدم كلمة سر طويلة وفريدة من مدير كلمات السر.",
+    "en": "For my account, I use a long, unique password from a password manager.",
+    "level": "B2",
+    "topic": "digital-life",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "b4690cf5f0f56e63be15be5f9c0be90829690db4af888f3b7b005872091810f3"
+    }
+  },
+  {
+    "id": "s190-b2-0969",
+    "de": "Es ist empfehlenswert, für jedes Konto ein eigenes Passwort zu verwenden.",
+    "ar": "يُفضل تستخدم باسورد مختلف لكل حساب.",
+    "en": "It is advisable to use a separate password for every account.",
+    "level": "B1",
+    "topic": "digital-life",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "78c567ed3e7e973bfb5c1aeac862c90c13d9d2bda3ed3e2984f9333518533cdd"
+    }
+  },
+  {
+    "id": "s190-b2-0970",
+    "de": "Die Zwei-Faktor-Authentifizierung bietet zusätzlichen Schutz vor unbefugtem Zugriff.",
+    "ar": "التحقق بخطوتين بيدي حماية إضافية من الدخول غير المصرح.",
+    "en": "Two-factor authentication offers additional protection against unauthorised access.",
+    "level": "B2",
+    "topic": "digital-life",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "dd21e301b106f6d4181c032d29aa798bbee1f30d16b22e5ed7b0d7f5c7e512a9"
+    }
+  },
+  {
+    "id": "s190-b2-0971",
+    "de": "Das Unternehmen räumte ein, dass die Daten mehrerer Kunden gestohlen worden waren.",
+    "ar": "الشركة اعترفت إن بيانات عدد من العملاء اتسرقت.",
+    "en": "The company admitted that the data of several customers had been stolen.",
+    "level": "B2",
+    "topic": "digital-life",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6d88afef8f1934174bcc9ffabad5051ee96f7f0a9c4ea12892c2fc589f20bd6e"
+    }
+  },
+  {
+    "id": "s190-b2-0972",
+    "de": "Nach dem Datendiebstahl wurden die Sicherheitsmaßnahmen deutlich verschärft.",
+    "ar": "بعد سرقة البيانات، إجراءات الأمان اتشددت بشكل واضح.",
+    "en": "After the data theft, security measures were tightened considerably.",
+    "level": "B2",
+    "topic": "digital-life",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8f480c4601dab29c01c87040d9064e2e1e310ba2087a1abb1a05f20f2c0d7606"
+    }
+  },
+  {
+    "id": "s190-b2-0973",
+    "de": "Der Klimawandel zwingt viele Regionen, sich auf häufigere Extremwetterereignisse einzustellen.",
+    "ar": "تغير المناخ بيجبر مناطق كتير تستعد لظواهر جوية متطرفة أكتر.",
+    "en": "Climate change is forcing many regions to prepare for more frequent extreme weather events.",
+    "level": "B2",
+    "topic": "nature-and-environment",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "7bca17b350cc64f2ef7bb42563c8bcca6245959b21a3acaf750f94fae43af8da"
+    }
+  },
+  {
+    "id": "s190-b2-0974",
+    "de": "Um die Erderwärmung zu begrenzen, müssen die Emissionen drastisch gesenkt werden.",
+    "ar": "عشان نحد من الاحتباس الحراري لازم الانبعاثات تتقلل بشكل جذري.",
+    "en": "To limit global warming emissions must be reduced drastically.",
+    "level": "B2",
+    "topic": "nature-and-environment",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0c7d1e6697a5aa6cce639f6689305e97afad90661f6a6a68ab568e2c928b07c5"
+    }
+  },
+  {
+    "id": "s190-b2-0975",
+    "de": "Erneuerbare Energien gewinnen an Bedeutung, doch der Ausbau der Netze hinkt hinterher.",
+    "ar": "الطاقات المتجددة بتكسب أهمية بس توسيع الشبكات متأخر.",
+    "en": "Renewable energies are gaining in importance but the expansion of the grids is lagging behind.",
+    "level": "B2",
+    "topic": "nature-and-environment",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "00a5f9831f8713b1e2c488926f36837a5e8be9266ccd504752df52da6c80abac"
+    }
+  },
+  {
+    "id": "s190-b2-0976",
+    "de": "Wer weniger Fleisch isst und seltener fliegt, verkleinert seinen ökologischen Fußabdruck.",
+    "ar": "اللي بياكل لحمة أقل وبيسافر بالطيارة أقل بيصغر بصمته البيئية.",
+    "en": "Those who eat less meat and fly less often shrink their ecological footprint.",
+    "level": "B1",
+    "topic": "nature-and-environment",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "31964c7652b522f94bc3938dffddce10059af3e6f8b33827d080d5f11b14fc0e"
+    }
+  },
+  {
+    "id": "s190-b2-0977",
+    "de": "Einzelne können viel bewirken, aber ohne politische Rahmenbedingungen bleibt der Effekt begrenzt.",
+    "ar": "الأفراد ممكن يأثروا كتير بس من غير إطار سياسي التأثير بيفضل محدود.",
+    "en": "Individuals can achieve a lot but without political frameworks the effect remains limited.",
+    "level": "B2",
+    "topic": "nature-and-environment",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d48427f3f431c18e79dfdb33f98851fd808548ac21bde70e19bcd70838f48779"
+    }
+  },
+  {
+    "id": "s190-b2-0978",
+    "de": "Das Forschungsteam vergleicht die heutige Gletscherschmelze mit älteren Vorhersagen.",
+    "ar": "فريق البحث بيقارن ذوبان الأنهار الجليدية دلوقتي بالتوقعات القديمة.",
+    "en": "The research team is comparing current glacier melting with earlier forecasts.",
+    "level": "B2",
+    "topic": "nature-and-environment",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8aa4d5a46a85eaa7b92f1d0de1931afde272091354be8b326479e702ee642248"
+    }
+  },
+  {
+    "id": "s190-b2-0979",
+    "de": "Wasserknappheit stellt viele Regionen vor große Herausforderungen.",
+    "ar": "نقص المياه بيحط مناطق كتير قدام تحديات كبيرة.",
+    "en": "Water scarcity presents major challenges for many regions.",
+    "level": "B1",
+    "topic": "nature-and-environment",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "2c2f8188893a64da05de34136da939390550fb8b7d73edd14c23bcdb223ab280"
+    }
+  },
+  {
+    "id": "s190-b2-0980",
+    "de": "Landwirte setzen zunehmend auf Verfahren, die weniger Wasser verbrauchen.",
+    "ar": "الفلاحين بيعتمدوا أكتر على طرق بتستهلك مياه أقل.",
+    "en": "Farmers are increasingly relying on methods that use less water.",
+    "level": "B2",
+    "topic": "nature-and-environment",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6c108a0aafb6d4e6fb3d34ef7fa7485add66280d77fe85f2ec08101366cff3c7"
+    }
+  },
+  {
+    "id": "s190-b2-0981",
+    "de": "Das Recycling von Elektroschrott ist aufwendig, aber für die Rohstoffgewinnung wichtig.",
+    "ar": "إعادة تدوير النفايات الإلكترونية محتاجة مجهود كبير، بس مهمة لاسترجاع المواد الخام.",
+    "en": "Recycling electronic waste is laborious but important for the recovery of raw materials.",
+    "level": "B2",
+    "topic": "nature-and-environment",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a3e6bc74a04f8c63e477d3b772af1cd77faec6c63526a815cd27fd65d1f001d6"
+    }
+  },
+  {
+    "id": "s190-b2-0982",
+    "de": "Welche Vorschriften gelten für Einwegprodukte aus Plastik in der EU?",
+    "ar": "إيه القواعد اللي بتنطبق على المنتجات البلاستيك للاستخدام مرة واحدة في الاتحاد الأوروبي؟",
+    "en": "Which regulations apply to single-use plastic products in the EU?",
+    "level": "B2",
+    "topic": "nature-and-environment",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "fe44dd4400ea8bb168c5b81dc02ce796b2ee3fd2d1f4b08deacefc99f1cbb256"
+    }
+  },
+  {
+    "id": "s190-b2-0983",
+    "de": "Bei der Mülltrennung machen viele Haushalte noch immer Fehler.",
+    "ar": "في فصل القمامة بيوت كتير لسه بتغلط.",
+    "en": "Many households still make mistakes when separating waste.",
+    "level": "B1",
+    "topic": "nature-and-environment",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e4d0fb7817ea37da5f1d50d9d663af22f7fc26fffe4f479cb1e2806de176a717"
+    }
+  },
+  {
+    "id": "s190-b2-0984",
+    "de": "Der Bauer erzählte, dass sein Hof seit fünf Generationen in Familienbesitz sei.",
+    "ar": "الفلاح حكى إن مزرعته ملك العيلة من خمس أجيال.",
+    "en": "The farmer said that his farm had been in family ownership for five generations.",
+    "level": "B2",
+    "topic": "nature-and-environment",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a9313daa7d2fc6385e67d3cb3c1dfe4cf4d15b58e3ac0c0898321aa6f62ace39"
+    }
+  },
+  {
+    "id": "s190-b2-0985",
+    "de": "Auf dem Land fehlt es oft an Ärzten, Geschäften und einer guten Busanbindung.",
+    "ar": "في الريف غالبًا مفيش دكاترة ومحلات ومواصلات كويسة.",
+    "en": "In the countryside there is often a lack of doctors, shops and a good bus connection.",
+    "level": "B1",
+    "topic": "nature-and-environment",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "96b79cf1c1b771c992efade0e5a2ebc97e3ea1106be084dd6c3ce7362634a5dc"
+    }
+  },
+  {
+    "id": "s190-b2-0986",
+    "de": "Immer mehr junge Menschen ziehen vom Dorf in die Stadt, um bessere Chancen zu finden.",
+    "ar": "شباب أكتر وأكتر بينزحوا من القرية للمدينة عشان يلاقوا فرص أحسن.",
+    "en": "More and more young people are moving from the village to the city to find better opportunities.",
+    "level": "B1",
+    "topic": "nature-and-environment",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6138de0b09308a83c7a85705f271f63767340871e0cb28b63903dc7f70306fb8"
+    }
+  },
+  {
+    "id": "s190-b2-0987",
+    "de": "Einige junge Menschen entscheiden sich bewusst für ein ruhigeres Leben abseits der Großstadt.",
+    "ar": "بعض الشباب بيختاروا عن قصد حياة أهدى بعيد عن المدينة الكبيرة.",
+    "en": "Some young people deliberately choose a quieter life away from the big city.",
+    "level": "B1",
+    "topic": "nature-and-environment",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ebd8138ab9388af8c988736bc52924256fc102a164a782277b0b84605055936a"
+    }
+  },
+  {
+    "id": "s190-b2-0988",
+    "de": "Homeoffice hat vielen Beschäftigten mehr Freiheit gebracht, aber auch die Grenze zur Freizeit verwischt.",
+    "ar": "الشغل من البيت ادّى حرية أكتر لموظفين كتير، بس كمان خلّى الحدود مع وقت الراحة مش واضحة.",
+    "en": "Working from home has brought many employees more freedom but also blurred the line with leisure time.",
+    "level": "B2",
+    "topic": "career",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "67f8d2d32f0ab1c2747a1767d5761f82ecd2ec84444a532de76978d0cd2105ae"
+    }
+  },
+  {
+    "id": "s190-b2-0989",
+    "de": "Manche Vorgesetzte misstrauen Mitarbeitern, die nicht im Büro sitzen.",
+    "ar": "بعض المديرين مبيثقوش في موظفين مش قاعدين في المكتب.",
+    "en": "Some managers distrust employees who do not sit in the office.",
+    "level": "B1",
+    "topic": "career",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "dd66fb0585a7bbcffdd40013597be107781cd52d57aaec1434b68bba31a0d4b8"
+    }
+  },
+  {
+    "id": "s190-b2-0990",
+    "de": "Eine gute Kommunikation ist im Team noch wichtiger, wenn man sich selten persönlich sieht.",
+    "ar": "التواصل الكويس في الفريق أهم لما بنتقابل نادرًا وجهًا لوجه.",
+    "en": "Good communication is even more important in a team when people rarely see each other in person.",
+    "level": "B1",
+    "topic": "career",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "cc5565feb63864843e9d75ae9e7b0875213c4187f7003368f925283646e875d0"
+    }
+  },
+  {
+    "id": "s190-b2-0991",
+    "de": "Vor dem Vorstellungsgespräch sollte man sich gründlich über das Unternehmen informieren.",
+    "ar": "قبل المقابلة الشخصية لازم الواحد يعرف عن الشركة كويس.",
+    "en": "Before the job interview one should find out thoroughly about the company.",
+    "level": "B1",
+    "topic": "career",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "48054ced5b5cb9c17ae8dd175cb6e681f458c9e0611abcd855def227576fb89a"
+    }
+  },
+  {
+    "id": "s190-b2-0992",
+    "de": "Auf die Frage nach seinen Schwächen antwortete er ehrlich, aber nicht übertrieben selbstkritisch.",
+    "ar": "لما سألوه عن نقط ضعفه جاوب بصراحة بس من غير مبالغة في النقد الذاتي.",
+    "en": "Asked about his weaknesses he answered honestly but not excessively self-critically.",
+    "level": "B1",
+    "topic": "career",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6eee90557e17238eed70f1a1cdff5bc83732f8762f856ee989aef102a342d57c"
+    }
+  },
+  {
+    "id": "s190-b2-0993",
+    "de": "Ein überzeugendes Anschreiben zeigt, warum man genau für diese Stelle geeignet ist.",
+    "ar": "خطاب التقديم المقنع بيوضح ليه أنت مناسب للوظيفة دي بالذات.",
+    "en": "A convincing cover letter shows why one is suited for exactly this position.",
+    "level": "B1",
+    "topic": "career",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "16365dfd61bae9ae988c42378345e111cd19d7277877a95aa3e8fe5e86b1db9a"
+    }
+  },
+  {
+    "id": "s190-b2-0994",
+    "de": "Die Bewerberin verfügt über langjährige Erfahrung im Projektmanagement und spricht fließend Englisch.",
+    "ar": "المتقدمة عندها خبرة سنين في إدارة المشاريع وبتتكلم إنجليزي بطلاقة.",
+    "en": "The applicant has many years of experience in project management and speaks fluent English.",
+    "level": "B1",
+    "topic": "career",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "5c49cca1d7201dd60bf5acd8f8a312d814a8f447afa92dcf9161a9a340aac924"
+    }
+  },
+  {
+    "id": "s190-b2-0995",
+    "de": "Nach drei Monaten Probezeit wurde ihm eine unbefristete Stelle angeboten.",
+    "ar": "بعد تلات شهور فترة تجربة اتعرضت عليه وظيفة دايمة.",
+    "en": "After three months of probation he was offered a permanent position.",
+    "level": "B1",
+    "topic": "career",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a988948169822f242cf73b2d08f65aad81698753f1abc89ef32e4d7f56b7590a"
+    }
+  },
+  {
+    "id": "s190-b2-0996",
+    "de": "Ihr Gehalt hängt nicht nur von der Qualifikation, sondern auch von der Branche ab.",
+    "ar": "مرتبها مش بيعتمد على المؤهل بس، كمان على المجال.",
+    "en": "Her salary depends not only on qualifications but also on the industry.",
+    "level": "B1",
+    "topic": "career",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e9409298e550fe581116ab73e5b9c0cd14159ccb9f1e25a4bb4c7f9f137c7f2b"
+    }
+  },
+  {
+    "id": "s190-b2-0997",
+    "de": "Wer sich weiterbilden möchte, kann beim Arbeitgeber nach finanzieller Unterstützung fragen.",
+    "ar": "اللي عايز يكمل تدريبه يقدر يسأل صاحب العمل عن دعم مالي.",
+    "en": "Those who want further training can ask their employer about financial support.",
+    "level": "B1",
+    "topic": "career",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "1646b1ebb56400a16a64d7296c8283bc47a3e2b8e56264818987eee2dee14313"
+    }
+  },
+  {
+    "id": "s190-b2-0998",
+    "de": "Die Gewerkschaft fordert kürzere Arbeitszeiten bei vollem Lohnausgleich.",
+    "ar": "النقابة بتطالب بساعات عمل أقل مع تعويض كامل للأجر.",
+    "en": "The union demands shorter working hours with full wage compensation.",
+    "level": "B2",
+    "topic": "career",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "65037a686c50f33099902d193e83c0ba4c70a05ac0132c5636d464b105bfe1a0"
+    }
+  },
+  {
+    "id": "s190-b2-0999",
+    "de": "Nach monatelangen Verhandlungen kam endlich ein Kompromiss zustande.",
+    "ar": "بعد شهور مفاوضات حصل في الآخر حل وسط.",
+    "en": "After months of negotiations a compromise was finally reached.",
+    "level": "B1",
+    "topic": "career",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ca9427a94a250f8a8f311a2d40d96e51798fba41493ec7e2a1a8eba254e26ec9"
+    }
+  },
+  {
+    "id": "s190-b2-1000",
+    "de": "Der Streik legte den gesamten Nahverkehr der Stadt lahm.",
+    "ar": "الإضراب شل المواصلات العامة كلها في المدينة.",
+    "en": "The strike paralysed the entire local transport of the city.",
+    "level": "B2",
+    "topic": "society",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "bd1c9b78c43ad9187e3baf8a150e94aaf736ca284627e27b7b0780e2f9f77791"
+    }
+  },
+  {
+    "id": "s190-b2-1001",
+    "de": "Die Pendler mussten auf Fahrräder oder Fahrgemeinschaften ausweichen.",
+    "ar": "الناس اللي بتتنقل للشغل اضطرت تستخدم عجل أو تتشارك العربيات.",
+    "en": "The commuters had to switch to bicycles or carpools.",
+    "level": "B2",
+    "topic": "society",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "1c4526b6896f120e20cfa7441d0ed3864e57a1fc7d5a540ed82ec793822ae6b1"
+    }
+  },
+  {
+    "id": "s190-b2-1002",
+    "de": "Der Wahlkampf wurde von Themen wie Inflation, Migration und Klimaschutz bestimmt.",
+    "ar": "الحملة الانتخابية اتحددت بقضايا زي التضخم والهجرة وحماية المناخ.",
+    "en": "The election campaign was dominated by issues such as inflation, migration and climate protection.",
+    "level": "B2",
+    "topic": "society",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e174af6e0a38f0e73df828a65f237fa17b592bb08edbeefa08f138b012fcc00d"
+    }
+  },
+  {
+    "id": "s190-b2-1003",
+    "de": "Die Wahlbeteiligung lag deutlich niedriger als bei der letzten Wahl.",
+    "ar": "نسبة المشاركة في الانتخابات كانت أقل بوضوح من المرة اللي فاتت.",
+    "en": "Turnout was clearly lower than in the last election.",
+    "level": "B1",
+    "topic": "society",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0900d729c06567767ff2a25a3f3c7d8ebe97c591f8579d0aa01a6869456492e2"
+    }
+  },
+  {
+    "id": "s190-b2-1004",
+    "de": "Das Parlament stimmte dem Gesetzentwurf mit knapper Mehrheit zu.",
+    "ar": "البرلمان وافق على مشروع القانون بأغلبية ضئيلة.",
+    "en": "Parliament approved the bill by a narrow majority.",
+    "level": "B2",
+    "topic": "society",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d5940db293d6ce7d8598f395cf604e34c7f02ad7a0657c3b1873d7c6034b8568"
+    }
+  },
+  {
+    "id": "s190-b2-1005",
+    "de": "Die Opposition kündigte an, gegen die Entscheidung vor dem Verfassungsgericht zu klagen.",
+    "ar": "المعارضة أعلنت إنها هترفع دعوى ضد القرار قدام المحكمة الدستورية.",
+    "en": "The opposition announced that it would take legal action against the decision before the constitutional court.",
+    "level": "B2",
+    "topic": "society",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "1fa680054a08026a2bc0e5e5b5037aebe8f42a6ccc20b5b4f4e1087c5afb2045"
+    }
+  },
+  {
+    "id": "s190-b2-1006",
+    "de": "Ein unabhängiges Gerichtswesen ist eine Voraussetzung für funktionierende Demokratie.",
+    "ar": "القضاء المستقل شرط لديمقراطية شغالة.",
+    "en": "An independent judiciary is a prerequisite for a functioning democracy.",
+    "level": "B2",
+    "topic": "society",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "2c314e21ade03f8688eaf83af34142936f982f3e05368b3e3f19bcd6e6075e99"
+    }
+  },
+  {
+    "id": "s190-b2-1007",
+    "de": "Journalisten tragen die Verantwortung, Informationen sorgfältig zu prüfen, bevor sie sie veröffentlichen.",
+    "ar": "الصحفيين عليهم مسؤولية فحص المعلومات بعناية قبل نشرها.",
+    "en": "Journalists bear the responsibility of checking information carefully before publishing it.",
+    "level": "B1",
+    "topic": "society",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "eecd1d40422209b2af8d92511a200e0e7acc7ab8d485fc1f72cd3f6f067837ee"
+    }
+  },
+  {
+    "id": "s190-b2-1008",
+    "de": "Falschmeldungen verbreiten sich in sozialen Netzwerken oft schneller als die Wahrheit.",
+    "ar": "الأخبار الكاذبة بتنتشر على السوشيال ميديا غالبًا أسرع من الحقيقة.",
+    "en": "False reports often spread faster on social networks than the truth.",
+    "level": "B2",
+    "topic": "society",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ed9426123d52bfec9879af8541dfb9bd708abd3d19849db795413a1cc86f2485"
+    }
+  },
+  {
+    "id": "s190-b2-1009",
+    "de": "Medienkompetenz sollte meiner Meinung nach schon in der Schule vermittelt werden.",
+    "ar": "في رأيي، لازم نتعلم إزاي نتعامل بوعي مع الإعلام من المدرسة.",
+    "en": "In my opinion, media literacy should be taught at school.",
+    "level": "B1",
+    "topic": "society",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6d0016586c49959750ecfbdc321e2a02fb63a84629dc208dc3519ede66c06217"
+    }
+  },
+  {
+    "id": "s190-b2-1010",
+    "de": "Wie sich Meinungsfreiheit und der Schutz der Menschenwürde zueinander verhalten, ist Gegenstand der Debatte.",
+    "ar": "العلاقة بين حرية التعبير وحماية كرامة الإنسان هي موضوع النقاش.",
+    "en": "The relationship between freedom of expression and the protection of human dignity is the subject of the debate.",
+    "level": "B2",
+    "topic": "society",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "610fe7b2f643c35cadb58b60891e13da633caa9d08ae2772b5fa37056e38ad2a"
+    }
+  },
+  {
+    "id": "s190-b2-1011",
+    "de": "Der Roman, der letztes Jahr erschien, behandelt die Frage, was Heimat bedeutet.",
+    "ar": "الرواية اللي صدرت السنة اللي فاتت بتتناول سؤال معنى الوطن.",
+    "en": "The novel that appeared last year deals with the question of what home means.",
+    "level": "B1",
+    "topic": "culture-and-leisure",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "dc590d7fb3ab16d9fe823235e24a75fdda458f4ef699fea91f128ad814aee08b"
+    }
+  },
+  {
+    "id": "s190-b2-1012",
+    "de": "Die Autorin schildert die Erlebnisse einer Familie, die in den Sechzigerjahren eingewandert ist.",
+    "ar": "المؤلفة بتصف تجارب أسرة هاجرت في الستينات.",
+    "en": "The author describes the experiences of a family that immigrated in the sixties.",
+    "level": "B1",
+    "topic": "culture-and-leisure",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8e835520d4679027ec087eb567412d1f00306e4fc23ca78daa3724ade8071546"
+    }
+  },
+  {
+    "id": "s190-b2-1013",
+    "de": "Die Kritiker lobten vor allem die präzise, unaufgeregte Sprache des Buches.",
+    "ar": "النقاد مدحوا خصوصًا لغة الكتاب الدقيقة والهادية.",
+    "en": "The critics praised above all the precise, calm language of the book.",
+    "level": "B2",
+    "topic": "culture-and-leisure",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "12cee5750e9eccc70e9d3e4d3f5999bddcf8e0306cdd8abe506ce14fd7d0d61d"
+    }
+  },
+  {
+    "id": "s190-b2-1014",
+    "de": "Nach der Vorstellung diskutierten wir lange über das offene Ende.",
+    "ar": "بعد العرض ناقشنا النهاية المفتوحة كتير.",
+    "en": "After the screening we discussed the open ending for a long time.",
+    "level": "B1",
+    "topic": "culture-and-leisure",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "06bf04fbbb9d197a1af1aaa6c51185e2321bffb70ba024c650d3c522b023dc0b"
+    }
+  },
+  {
+    "id": "s190-b2-1015",
+    "de": "Die Ausstellung zeigt Werke, die zum Teil erstmals der Öffentlichkeit präsentiert werden.",
+    "ar": "المعرض بيعرض أعمال، بعضها بيتقدم للجمهور لأول مرة.",
+    "en": "The exhibition shows works that are in part being presented to the public for the first time.",
+    "level": "B2",
+    "topic": "culture-and-leisure",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "662ecb10b7bbb082f36d650ffb581eec880242a1d377b07d4d1ac8a1a1e5d49f"
+    }
+  },
+  {
+    "id": "s190-b2-1016",
+    "de": "Das Orchester spielte ein Programm, das von Bach bis zur zeitgenössischen Musik reichte.",
+    "ar": "الأوركسترا عزفت برنامج امتد من باخ لحد الموسيقى المعاصرة.",
+    "en": "The orchestra played a programme ranging from Bach to contemporary music.",
+    "level": "B2",
+    "topic": "culture-and-leisure",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f0279c9e86147a7f9fd90e95f1e23109ace7c6096d3e445aaa09c82d1818ddd9"
+    }
+  },
+  {
+    "id": "s190-b2-1017",
+    "de": "Das Publikum applaudierte minutenlang, als der Dirigent die Bühne betrat.",
+    "ar": "الجمهور صفق دقايق لما المايسترو دخل المسرح.",
+    "en": "The audience applauded for minutes when the conductor walked on stage.",
+    "level": "B1",
+    "topic": "culture-and-leisure",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "fdac716f855f123a7a60a2d22b3a287311b8810e6815cead7305c28d1e15253c"
+    }
+  },
+  {
+    "id": "s190-b2-1018",
+    "de": "Die Malerei des Künstlers ist geprägt von kräftigen Farben und einer eigenwilligen Bildsprache.",
+    "ar": "رسم الفنان بيتميز بألوان قوية وأسلوب بصري مميز.",
+    "en": "The artist's painting is characterised by strong colours and a distinctive visual language.",
+    "level": "B2",
+    "topic": "culture-and-leisure",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f750ad6e4fb745cc34bd8f764b6a473443aa75cc986e4ce2cd107da2d16d0647"
+    }
+  },
+  {
+    "id": "s190-b2-1019",
+    "de": "Das Theaterstück wirft Fragen auf, die bis heute nichts an Aktualität verloren haben.",
+    "ar": "المسرحية بتطرح أسئلة لسه مفقدتش أهميتها لحد النهارده.",
+    "en": "The play raises questions that have lost none of their relevance to this day.",
+    "level": "B2",
+    "topic": "culture-and-leisure",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ce0889abfbd774cf464a05b8bd3fddfdbf76097d9b491bf046a82459361a0d49"
+    }
+  },
+  {
+    "id": "s190-b2-1020",
+    "de": "Für viele Menschen ist Sprache mehr als ein Kommunikationsmittel, nämlich ein Teil ihrer Identität.",
+    "ar": "لناس كتير اللغة أكتر من وسيلة تواصل، هي جزء من هويتهم.",
+    "en": "For many people language is more than a means of communication, namely a part of their identity.",
+    "level": "B1",
+    "topic": "language-study",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "b128e6aefd92c309e2dfe2d8c874297ad9c4b802c23fefbbec9bad55b918b650"
+    }
+  },
+  {
+    "id": "s190-b2-1021",
+    "de": "Wer mehrere Sprachen spricht, kann sich leichter in andere Kulturen hineinversetzen.",
+    "ar": "اللي بيتكلم لغات كتير بيقدر يتخيل نفسه في ثقافات تانية أسهل.",
+    "en": "Those who speak several languages can empathise with other cultures more easily.",
+    "level": "B2",
+    "topic": "language-study",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "1fed16a6a828a3588ed7982eaa3403ce38c55896d6db3ee5bc6c1115e3e55495"
+    }
+  },
+  {
+    "id": "s190-b2-1022",
+    "de": "Beim Übersetzen geht oft etwas verloren, das sich kaum in Worte fassen lässt.",
+    "ar": "في الترجمة غالبًا بيضيع حاجة صعب نعبر عنها بكلام.",
+    "en": "When translating something often gets lost that can hardly be put into words.",
+    "level": "B2",
+    "topic": "language-study",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6d6da1210ddb09777721c5abf7181e930be6a38e9b6a7fbdebae9101bf2362b0"
+    }
+  },
+  {
+    "id": "s190-b2-1023",
+    "de": "Redewendungen lassen sich selten wörtlich übertragen, weil sie auf kulturellen Bildern beruhen.",
+    "ar": "التعبيرات الاصطلاحية نادرًا بتتنقل حرفيًا لأنها مبنية على صور ثقافية.",
+    "en": "Idioms can rarely be transferred literally because they are based on cultural images.",
+    "level": "B2",
+    "topic": "language-study",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "34bf1e6642027bd4d3a8f779c2f6a781733f26d3867ac822721a79a939a2ad08"
+    }
+  },
+  {
+    "id": "s190-b2-1024",
+    "de": "Ein Wörterbuch ersetzt nicht das Gespür dafür, welches Wort in welcher Situation passt.",
+    "ar": "القاموس مش بيحل محل الحس بأي كلمة مناسبة في أي موقف.",
+    "en": "A dictionary does not replace the feel for which word fits in which situation.",
+    "level": "B2",
+    "topic": "language-study",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "b57763c0e29bd7d6d5695a7fe45ac27175e40ff82541448829d7b3017e237e08"
+    }
+  },
+  {
+    "id": "s190-b2-1025",
+    "de": "Fehler zu machen gehört zum Lernen dazu, solange man bereit ist, daraus zu lernen.",
+    "ar": "الغلط جزء من التعلم طالما الواحد مستعد يتعلم منه.",
+    "en": "Making mistakes is part of learning as long as one is prepared to learn from them.",
+    "level": "B1",
+    "topic": "language-study",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "fbd359af9fd98f204ee1aaf6dc468cb6e137ad508e4088229b8a90cdf104d3e9"
+    }
+  },
+  {
+    "id": "s190-b2-1026",
+    "de": "Lernende, die sich selbst Ziele setzen, bleiben meist länger motiviert.",
+    "ar": "المتعلمين اللي بيحطوا لنفسهم أهداف غالبًا بيفضلوا متحمسين أطول.",
+    "en": "Learners who set themselves goals usually stay motivated for longer.",
+    "level": "B1",
+    "topic": "language-study",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "16a4e576986fd774cb877a85d84d4014f3c3fdb67f11c1156abd2f651e007f51"
+    }
+  },
+  {
+    "id": "s190-b2-1027",
+    "de": "Es hilft, neue Wörter nicht isoliert, sondern in ganzen Sätzen zu lernen.",
+    "ar": "بيفيد تتعلم الكلمات الجديدة مش منفصلة بل في جمل كاملة.",
+    "en": "It helps to learn new words not in isolation but in whole sentences.",
+    "level": "B1",
+    "topic": "language-study",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "15588158c8d875a99bf8490b3b7078c2b7c3a249bb34ff0eaecc50aae7cd028e"
+    }
+  },
+  {
+    "id": "s190-b2-1028",
+    "de": "Der Lehrer ermutigte die Klasse, auch bei Unsicherheit einfach zu sprechen.",
+    "ar": "المدرس شجع الفصل يتكلم حتى لو مش متأكد.",
+    "en": "The teacher encouraged the class simply to speak even when unsure.",
+    "level": "B1",
+    "topic": "language-study",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d609f57e1a44591d4f93f215177a6021f0574905746ac5e8ac89cb4daff05125"
+    }
+  },
+  {
+    "id": "s190-b2-1029",
+    "de": "Auf Dauer macht regelmäßiges kurzes Üben mehr aus als gelegentliches langes Lernen.",
+    "ar": "على المدى الطويل التمرين القصير المنتظم بيفيد أكتر من المذاكرة الطويلة أحيانًا.",
+    "en": "In the long run regular short practice achieves more than occasional long study.",
+    "level": "B1",
+    "topic": "language-study",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "83f158688494b8950ebe41b2eb3f9bcf936e873f95c97f8c6f271dfd727b1025"
+    }
+  },
+  {
+    "id": "s190-b2-1030",
+    "de": "Ich hätte nie gedacht, dass ich eines Tages auf Deutsch diskutieren würde.",
+    "ar": "عمري ما كنت أتخيل إني يوم هتناقش بالألماني.",
+    "en": "I would never have thought that one day I would be debating in German.",
+    "level": "B2",
+    "topic": "language-study",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "dc1ddaefe95667a4f2dff0c6827b499b59b9b3a6d821108b1287f484050139aa"
+    }
+  },
+  {
+    "id": "s190-b2-1031",
+    "de": "Je mehr ich las, desto sicherer wurde ich im Ausdruck.",
+    "ar": "كل ما قريت أكتر كل ما بقيت واثق أكتر في التعبير.",
+    "en": "The more I read the more confident I became in expression.",
+    "level": "B1",
+    "topic": "language-study",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "4489a18d76349678d4e26bbfb9076e70c1e75435a497feac55c8ad0ea3d2d174"
+    }
+  },
+  {
+    "id": "s190-b2-1032",
+    "de": "Es dauerte eine Weile, bis ich verstand, dass Perfektion nicht das Ziel sein muss.",
+    "ar": "خد وقت لحد ما فهمت إن الكمال مش لازم يكون الهدف.",
+    "en": "It took a while until I understood that perfection does not have to be the goal.",
+    "level": "B1",
+    "topic": "language-study",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "5e32ff95a6d79b0523e0ee61ec53ea86e3d252884c5d4717c9c8549588118da2"
+    }
+  },
+  {
+    "id": "s190-b2-1033",
+    "de": "Dass mir Fremde zuhörten, gab mir den Mut weiterzumachen.",
+    "ar": "إن غرباء سمعوني إدّاني الشجاعة أكمل.",
+    "en": "That strangers listened to me gave me the courage to continue.",
+    "level": "B1",
+    "topic": "language-study",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8833d8887ff8cc199644cacc5c905caa880fcf53ce9260cd79e3c7170d11192f"
+    }
+  },
+  {
+    "id": "s190-b2-1034",
+    "de": "Das Gefühl, verstanden zu werden, ist für Lernende die größte Belohnung.",
+    "ar": "الإحساس إنك بتتفهم أكبر مكافأة للمتعلمين.",
+    "en": "The feeling of being understood is the greatest reward for learners.",
+    "level": "B1",
+    "topic": "language-study",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "85495d6d7eb7cf1fc0f49ed94ae19121e980c64bae1f0d5df28f46d78294a8f1"
+    }
+  },
+  {
+    "id": "s190-b2-1035",
+    "de": "Die Stadtverwaltung hat angekündigt, das Gelände in ein Wohnviertel umzuwandeln.",
+    "ar": "إدارة المدينة أعلنت إنها هتحول المنطقة لحي سكني.",
+    "en": "The city administration has announced that it will convert the site into a residential district.",
+    "level": "B2",
+    "topic": "city-and-directions",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "40a68a6f70de83ef2991232a7b91040bbe4d46b65747a9d354810ac24a4b02ae"
+    }
+  },
+  {
+    "id": "s190-b2-1036",
+    "de": "Gegen die geplanten Luxuswohnungen regt sich Widerstand, weil bezahlbarer Wohnraum fehlt.",
+    "ar": "فيه اعتراض على الشقق الفاخرة المخطط لها، عشان المنطقة ناقصها سكن بسعر معقول.",
+    "en": "There is opposition to the planned luxury flats because affordable housing is lacking.",
+    "level": "B2",
+    "topic": "city-and-directions",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "82c35cee0f69c38b78cf7238f34592462511654c9b3b29767a1ccfe15f12c2dd"
+    }
+  },
+  {
+    "id": "s190-b2-1037",
+    "de": "Der Bürgermeister versprach, die Anwohner frühzeitig in die Planung einzubeziehen.",
+    "ar": "رئيس البلدية وعد إنه يشرك السكان بدري في التخطيط.",
+    "en": "The mayor promised to involve residents in the planning early.",
+    "level": "B1",
+    "topic": "city-and-directions",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "82481b4bf4f3261313857bd0a998ac5c7303ec6b4eec4b806abd0d4d233e3824"
+    }
+  },
+  {
+    "id": "s190-b2-1038",
+    "de": "Während der Bauarbeiten wird es zu Verkehrsbehinderungen kommen.",
+    "ar": "خلال أعمال البناء هيحصل تعطل في المرور.",
+    "en": "During the construction work there will be traffic disruptions.",
+    "level": "B1",
+    "topic": "city-and-directions",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "c7595705bc239090362a93a29bde67b7848e74484c9bf35722b5c29df016420a"
+    }
+  },
+  {
+    "id": "s190-b2-1039",
+    "de": "Wegen eines Rohrbruchs musste die Straße kurzfristig gesperrt werden.",
+    "ar": "بسبب كسر ماسورة اضطروا يقفلوا الشارع فجأة.",
+    "en": "Because of a burst pipe the street had to be closed at short notice.",
+    "level": "B1",
+    "topic": "city-and-directions",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "88eeaf41a34501be5e824c734b8910e823cae2685173001775f3858aefe38d8d"
+    }
+  },
+  {
+    "id": "s190-b2-1040",
+    "de": "Die Bahn bittet alle Reisenden, sich vor der Fahrt über mögliche Änderungen zu informieren.",
+    "ar": "السكة الحديد بتطلب من كل المسافرين يعرفوا عن التغييرات المحتملة قبل الرحلة.",
+    "en": "The railway asks all travellers to inform themselves about possible changes before the journey.",
+    "level": "B1",
+    "topic": "city-and-directions",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f33178dc1488897a2569d77c8db3006ec97bb76f290901dc91a0fe82a24ae00f"
+    }
+  },
+  {
+    "id": "s190-b2-1041",
+    "de": "Wegen Bauarbeiten fährt der Zug heute nur bis zum Hauptbahnhof.",
+    "ar": "بسبب الأعمال القطر النهارده بيمشي لحد المحطة الرئيسية بس.",
+    "en": "Because of construction work the train only goes as far as the main station today.",
+    "level": "B1",
+    "topic": "city-and-directions",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "bcbd9178b4127f6dc24e617e5e8ac693b15c919907bb6d6ad8da4199cd21964e"
+    }
+  },
+  {
+    "id": "s190-b2-1042",
+    "de": "Wer sein Gepäck nicht beaufsichtigt, handelt auf eigene Gefahr.",
+    "ar": "اللي بيسيب شنطه من غير مراقبة بيتحمل مسؤوليته.",
+    "en": "Those who do not supervise their luggage act at their own risk.",
+    "level": "B1",
+    "topic": "city-and-directions",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "5813eaee3491c3eebd033e876f2e87139d2ec3b19e2437ca5a97528496693622"
+    }
+  },
+  {
+    "id": "s190-b2-1043",
+    "de": "Nach einer langen Wanderung erreichten wir erschöpft, aber glücklich die Hütte.",
+    "ar": "بعد مشوار طويل وصلنا الكوخ تعبانين بس مبسوطين.",
+    "en": "After a long hike we reached the hut exhausted but happy.",
+    "level": "B1",
+    "topic": "travel-outdoors",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d2a7bfe46ef7625f238b2b1590ee94afef0ec14cc20e41ff050279b149a49ba4"
+    }
+  },
+  {
+    "id": "s190-b2-1044",
+    "de": "Der Aufstieg war anstrengender, als wir gedacht hatten, aber die Aussicht entschädigte uns.",
+    "ar": "الطلوع كان أصعب مما توقعنا بس المنظر عوضنا.",
+    "en": "The ascent was more strenuous than we had thought but the view compensated us.",
+    "level": "B1",
+    "topic": "travel-outdoors",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "660afbc2454cd1a0146524c7869d6f4268636af5e82fe4f27ea08d0702e7faa7"
+    }
+  },
+  {
+    "id": "s190-b2-1045",
+    "de": "Hätten wir früher aufbrechen können, wären wir dem Gewitter entgangen.",
+    "ar": "لو كنا قدرنا نتحرك بدري كنا فلتنا من العاصفة.",
+    "en": "Had we been able to set off earlier we would have escaped the thunderstorm.",
+    "level": "B2",
+    "topic": "travel-outdoors",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0d6614d0d52c9472a453cc0a8e5255f845cdaaee81ef1e211f6945a87a919037"
+    }
+  },
+  {
+    "id": "s190-b2-1046",
+    "de": "Man darf die Kraft der Natur niemals unterschätzen.",
+    "ar": "مينفعش نقلل أبدًا من قوة الطبيعة.",
+    "en": "One must never underestimate the power of nature.",
+    "level": "B1",
+    "topic": "travel-outdoors",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6a037d9467837e2710ab26e7ceb8272f67bd8d164d9b3e1dc5519c0bd22edbfb"
+    }
+  },
+  {
+    "id": "s190-b2-1047",
+    "de": "Mein Großvater erinnert sich noch genau daran, wie es war, als die Berliner Mauer fiel.",
+    "ar": "جدي لسه فاكر بالظبط كان الحال إزاي لما جدار برلين وقع.",
+    "en": "My grandfather still remembers exactly what it was like when the Berlin Wall fell.",
+    "level": "B1",
+    "topic": "history-and-culture",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "15cc8240eb20231bfeb5c54721a48ba2688bce8dcfcd577490781d8df6a5d370"
+    }
+  },
+  {
+    "id": "s190-b2-1048",
+    "de": "Die Stimmung beim Fall der Berliner Mauer sei von Hoffnung und Unsicherheit zugleich geprägt gewesen, sagt mein Großvater.",
+    "ar": "جدي بيقول إن الجو وقت سقوط جدار برلين كان فيه أمل وعدم يقين في نفس الوقت.",
+    "en": "My grandfather says the mood at the fall of the Berlin Wall was marked by both hope and uncertainty.",
+    "level": "B2",
+    "topic": "history-and-culture",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e0e5240354583988700e332a519e5a919b26dab9eb3b611cf729751e0ea1b1df"
+    }
+  },
+  {
+    "id": "s190-b2-1049",
+    "de": "Wer einen politischen Umbruch miterlebt hat, sieht die Gegenwart oft mit anderen Augen.",
+    "ar": "اللي عاش تحول سياسي، غالبًا بيبص للحاضر بعيون مختلفة.",
+    "en": "Those who have lived through political upheaval often see the present with different eyes.",
+    "level": "B2",
+    "topic": "history-and-culture",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "c0e7b12fc5b402192aef70936ff4959e63c7646832db6d1f96d0e0cf492176fe"
+    }
+  },
+  {
+    "id": "s190-b2-1050",
+    "de": "Wir sollten dankbar sein für Freiheiten, die für uns selbstverständlich geworden sind.",
+    "ar": "لازم نكون ممتنين لحريات بقت عندنا بديهية.",
+    "en": "We should be grateful for freedoms that have become self-evident to us.",
+    "level": "B1",
+    "topic": "history-and-culture",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "05ddb111c3d6861be7c3d477a0ad918ad4753854394dc64b5c34f2b7791b984c"
+    }
+  },
+  {
+    "id": "s190-b2-1051",
+    "de": "Er schlug vor, die Sitzung zu vertagen, bis alle Unterlagen vorlägen.",
+    "ar": "اقترح تأجيل الاجتماع لحد ما كل الأوراق تكون جاهزة.",
+    "en": "He proposed adjourning the meeting until all the documents were available.",
+    "level": "B2",
+    "topic": "grammar-in-context",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "1aa9d3080c2b74e36694cc541aaaebe65352f8110ab96f1728888d17edae2779"
+    }
+  },
+  {
+    "id": "s190-b2-1052",
+    "de": "Sie bat darum, dass man ihr die Ergebnisse schriftlich zukommen lasse.",
+    "ar": "طلبت إنهم يبعتولها النتايج كتابيًا.",
+    "en": "She asked that the results be sent to her in writing.",
+    "level": "B2",
+    "topic": "grammar-in-context",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "45a4c2c554a64cd31bb828cbba252f4e2316d0c061e80eca49982d6e08dd700e"
+    }
+  },
+  {
+    "id": "s190-b2-1053",
+    "de": "Der Chef verlangte, dass jeder Mitarbeiter einen Bericht abgebe.",
+    "ar": "المدير طلب إن كل موظف يقدم تقرير.",
+    "en": "The boss demanded that every employee submit a report.",
+    "level": "B2",
+    "topic": "grammar-in-context",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "79c23f253a9bc211df1e92f3a9be8eb171f67e154baa1fa7c65d1a8757443412"
+    }
+  },
+  {
+    "id": "s190-b2-1054",
+    "de": "Man munkelt, die Firma stehe kurz vor der Insolvenz.",
+    "ar": "في كلام إن الشركة على وشك الإفلاس.",
+    "en": "Rumour has it that the company is on the verge of insolvency.",
+    "level": "B2",
+    "topic": "grammar-in-context",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "1e298a584720bd649b26ccc53611a5c3d7879e42e139edbf80f1262b0ecac365"
+    }
+  },
+  {
+    "id": "s190-b2-1055",
+    "de": "Er gab zu, einen Fehler gemacht zu haben, und bot an, ihn zu korrigieren.",
+    "ar": "اعترف إنه غلط وعرض يصلحه.",
+    "en": "He admitted to having made a mistake and offered to correct it.",
+    "level": "B1",
+    "topic": "grammar-in-context",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "1e48806531faf07dc3f1fc433677681255506f2c5cac097789cb6c4f97060b96"
+    }
+  },
+  {
+    "id": "s190-b2-1056",
+    "de": "Sie bestritt, von dem Plan gewusst zu haben.",
+    "ar": "أنكرت إنها كانت تعرف بالخطة.",
+    "en": "She denied having known about the plan.",
+    "level": "B2",
+    "topic": "grammar-in-context",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6c52a747d157a32629a58bf4cb7f2411ecb9699ca5cb7840a1d89bf158e5e9a0"
+    }
+  },
+  {
+    "id": "s190-b2-1057",
+    "de": "Es wird erwartet, dass die Verhandlungen bis zum Wochenende abgeschlossen sind.",
+    "ar": "المتوقع إن المفاوضات تخلص بنهاية الأسبوع.",
+    "en": "It is expected that the negotiations will be concluded by the weekend.",
+    "level": "B2",
+    "topic": "grammar-in-context",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "09af436064ac3f8992d4bc165aa257a0c2a8f287ed726ea3e30a05a2f5f16ca0"
+    }
+  },
+  {
+    "id": "s190-b2-1058",
+    "de": "Der neue Bahnhof soll bis 2030 fertiggestellt werden.",
+    "ar": "المحطة الجديدة المفروض تخلص بحلول 2030.",
+    "en": "The new station is to be completed by 2030.",
+    "level": "B1",
+    "topic": "grammar-in-context",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f7fa37d214ac9946dbfd35b50149add70906c4e894f5a94df421b8ae1368782c"
+    }
+  },
+  {
+    "id": "s190-b2-1059",
+    "de": "Es ließ sich nicht vermeiden, dass einige Details durchsickerten.",
+    "ar": "مكانش ينفع نتفادى إن بعض التفاصيل تتسرب.",
+    "en": "It could not be avoided that some details leaked out.",
+    "level": "B2",
+    "topic": "grammar-in-context",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "9dfa793beea66c91636bbbf447d4ef1c4121d0bb367ededfa7e342ddd66a4167"
+    }
+  },
+  {
+    "id": "s190-b2-1060",
+    "de": "Die Räume können für Veranstaltungen jeder Größe gemietet werden.",
+    "ar": "القاعات ممكن تتأجر لفعاليات بأي حجم.",
+    "en": "The rooms can be rented for events of any size.",
+    "level": "B1",
+    "topic": "grammar-in-context",
+    "register": "neutral",
+    "origin": "original",
+    "publication": "approved",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "061675607df531744cd24696d370144fa6db35cef059b7729b9f71c861c06a61"
+    }
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "id": "s190-a2-0769",
+    "de": "Es fällt mir schwer, Kritik nicht persönlich zu nehmen.",
+    "ar": "صعب عليا ماخدش النقد بشكل شخصي.",
+    "en": "I find it hard not to take criticism personally.",
+    "level": "B1",
+    "topic": "feelings-and-relationships",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "9bafed696f6dab0edf7aa22a4e1382b0d1cd58f7a9ff3b6b5637d27682c92356"
+    }
+  },
+  {
+    "id": "s190-a2-0928",
+    "de": "In meiner E-Mail fehlt die Anlage mit den Preisen.",
+    "ar": "الإيميل بتاعي ناقصه المرفق اللي فيه الأسعار.",
+    "en": "My email is missing the attachment with the prices.",
+    "level": "B1",
+    "topic": "work",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "integration editorial reread of grammar, trilingual meaning, standalone context and approximate practice band; no native certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "13fa7450d86dd9bd9feaad88de8337f57f6269ea9266dc2c0cff447069e2ec34"
+    }
+  }
+]

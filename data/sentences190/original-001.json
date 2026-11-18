@@ -1,0 +1,4942 @@
+[
+  {
+    "id": "s190-core-0001",
+    "de": "Guten Morgen, ich heiße Karim.",
+    "ar": "صباح الخير، أنا اسمي كريم.",
+    "en": "Good morning, my name is Karim.",
+    "level": "A1",
+    "topic": "introductions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "7f536d65c21966655f51f4b330bccdbc7807855a04180d06c38e28a4120e8f3c"
+    }
+  },
+  {
+    "id": "s190-core-0002",
+    "de": "Wie soll ich Sie ansprechen?",
+    "ar": "أنادي حضرتك بإيه؟",
+    "en": "How should I address you?",
+    "level": "A2",
+    "topic": "introductions",
+    "register": "polite",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "79199b0cc64fa680ef16568ad95a9b9e235e4c42b584f684db81da10ae4df94e"
+    }
+  },
+  {
+    "id": "s190-core-0003",
+    "de": "Du kannst mich einfach Lina nennen.",
+    "ar": "ممكن تناديني لينا عادي.",
+    "en": "You can just call me Lina.",
+    "level": "A2",
+    "topic": "introductions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a381ad47b9350fcc4b09d3a13af07bdb084b18f07946e8cef44f93109d088b4e"
+    }
+  },
+  {
+    "id": "s190-core-0004",
+    "de": "Freut mich, dich kennenzulernen.",
+    "ar": "مبسوط إني اتعرفت عليك.",
+    "en": "Nice to meet you.",
+    "level": "A2",
+    "topic": "introductions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "37d376aba017bea8a315bda4d7c8817119126a437f65d932f91f19a46021f39c"
+    }
+  },
+  {
+    "id": "s190-core-0005",
+    "de": "Ich komme aus Ägypten.",
+    "ar": "أنا من مصر.",
+    "en": "I come from Egypt.",
+    "level": "A1",
+    "topic": "introductions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "3ea95ad6d0c7c2fc83615681f9f0099df6474f17b8b89792ecebea3145fe957c"
+    }
+  },
+  {
+    "id": "s190-core-0006",
+    "de": "Ich wohne jetzt in Berlin.",
+    "ar": "أنا ساكن دلوقتي في برلين.",
+    "en": "I live in Berlin now.",
+    "level": "A1",
+    "topic": "introductions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "85c0499909687658f8016c74b9cb72d22f219356eb5d8bed193f80e14b95e620"
+    }
+  },
+  {
+    "id": "s190-core-0007",
+    "de": "Seit wann wohnst du hier?",
+    "ar": "إنت ساكن هنا من إمتى؟",
+    "en": "How long have you lived here?",
+    "level": "A2",
+    "topic": "introductions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "b55a37198c97634c444f220cee245e6e6903d136d94c2d01b1d1b03b587d48c9"
+    }
+  },
+  {
+    "id": "s190-core-0008",
+    "de": "Ich bin zum ersten Mal hier.",
+    "ar": "دي أول مرة ليا هنا.",
+    "en": "This is my first time here.",
+    "level": "A1",
+    "topic": "introductions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "aaaf45d8797c9415259208ff1cff49799335edc8db331f3be24e7efbe74e4a78"
+    }
+  },
+  {
+    "id": "s190-core-0009",
+    "de": "Wir kennen uns noch nicht.",
+    "ar": "إحنا لسه منعرفش بعض.",
+    "en": "We have not met yet.",
+    "level": "A1",
+    "topic": "introductions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0fc789517892d8edf70211fd2a02f31530756137561edf8e906821f5e2b93c83"
+    }
+  },
+  {
+    "id": "s190-core-0010",
+    "de": "Darf ich dir meine Schwester vorstellen?",
+    "ar": "ممكن أعرفك على أختي؟",
+    "en": "May I introduce you to my sister?",
+    "level": "A2",
+    "topic": "introductions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "c49125bdc82f711dc1aa3d24eebd9d78df949b27befa37ffaf3bd9553afcdde8"
+    }
+  },
+  {
+    "id": "s190-core-0011",
+    "de": "Entschuldigung, ich habe Sie nicht verstanden.",
+    "ar": "معلش، أنا مفهمتش حضرتك.",
+    "en": "Sorry, I did not understand you.",
+    "level": "A1",
+    "topic": "clarification",
+    "register": "polite",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "7239f8a1ea844bda795032d4e46be1ec705d1a80e52e5551e5a169c675706e5d"
+    }
+  },
+  {
+    "id": "s190-core-0012",
+    "de": "Können Sie bitte langsamer sprechen?",
+    "ar": "ممكن حضرتك تتكلم أبطأ شوية؟",
+    "en": "Could you speak more slowly, please?",
+    "level": "A1",
+    "topic": "clarification",
+    "register": "polite",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "12da13992d896f64ef7e2f9b775d0cba74fde03022523b17d5fd4ade50cef4b9"
+    }
+  },
+  {
+    "id": "s190-core-0013",
+    "de": "Kannst du das bitte wiederholen?",
+    "ar": "ممكن تعيد الكلام ده لو سمحت؟",
+    "en": "Could you repeat that, please?",
+    "level": "A1",
+    "topic": "clarification",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "c3c2117e86addd51b5b4714ce5147e36d252e7935b5739efe8f3e9af991079f8"
+    }
+  },
+  {
+    "id": "s190-core-0014",
+    "de": "Was bedeutet dieses Wort?",
+    "ar": "الكلمة دي معناها إيه؟",
+    "en": "What does this word mean?",
+    "level": "A1",
+    "topic": "clarification",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "feab62fde8e4c7da3a9e7cbed5881167d25601040c27e38e76a9e2b85c470c1d"
+    }
+  },
+  {
+    "id": "s190-core-0015",
+    "de": "Wie schreibt man deinen Namen?",
+    "ar": "اسمك بيتكتب إزاي؟",
+    "en": "How do you spell your name?",
+    "level": "A2",
+    "topic": "clarification",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "2616dbb56bb510adfd73be6efe6a248963a5cfc39278012a1061490d2a17e5cb"
+    }
+  },
+  {
+    "id": "s190-core-0016",
+    "de": "Kannst du mir ein Beispiel geben?",
+    "ar": "ممكن تديني مثال؟",
+    "en": "Can you give me an example?",
+    "level": "A1",
+    "topic": "clarification",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8052ba34caa1b5758f6179e1dd29d4201adbebabbc66f0701736b3621ddf6520"
+    }
+  },
+  {
+    "id": "s190-core-0017",
+    "de": "Meinen Sie heute oder morgen?",
+    "ar": "حضرتك تقصد النهارده ولا بكرة؟",
+    "en": "Do you mean today or tomorrow?",
+    "level": "A2",
+    "topic": "clarification",
+    "register": "polite",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "5a5a64e1bd4c6edd23014b734afc8d5de32e5ae9a4e206f0de98ebb29039ac3c"
+    }
+  },
+  {
+    "id": "s190-core-0018",
+    "de": "Ich verstehe den ersten Teil.",
+    "ar": "أنا فاهم أول جزء.",
+    "en": "I understand the first part.",
+    "level": "A1",
+    "topic": "clarification",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "52fba2739271ad7c6c6df6e2972a5187db93e378c4402a3092d9fd54fade0332"
+    }
+  },
+  {
+    "id": "s190-core-0019",
+    "de": "Den letzten Satz verstehe ich noch nicht.",
+    "ar": "أنا لسه مش فاهم آخر جملة.",
+    "en": "I do not understand the last sentence yet.",
+    "level": "A1",
+    "topic": "clarification",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "62a3bce2a9b339e977054cc81d90aadbaa1ce4cba6e56f010137bfaae7d68868"
+    }
+  },
+  {
+    "id": "s190-core-0020",
+    "de": "Bitte zeig mir das auf der Karte.",
+    "ar": "وريني ده على الخريطة لو سمحت.",
+    "en": "Please show me that on the map.",
+    "level": "A1",
+    "topic": "clarification",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "7c116901f10e23ad6a13d3c4d3414ec4e7a5b69471f05e4724ae64a69c36bea9"
+    }
+  },
+  {
+    "id": "s190-core-0021",
+    "de": "Vielen Dank für deine Hilfe.",
+    "ar": "متشكر جداً على مساعدتك.",
+    "en": "Thank you very much for your help.",
+    "level": "A1",
+    "topic": "courtesy",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "be63cc4401dc8a1cde8f6228c20daf239f421b4114feccf2b3c15e0ed2b4e38f"
+    }
+  },
+  {
+    "id": "s190-core-0022",
+    "de": "Das ist sehr nett von Ihnen.",
+    "ar": "ده لطف كبير من حضرتك.",
+    "en": "That is very kind of you.",
+    "level": "A1",
+    "topic": "courtesy",
+    "register": "polite",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "effaae02a9a1b48d18764ccbbe9da2716094b4051086d800d5f9ff560d2c5c84"
+    }
+  },
+  {
+    "id": "s190-core-0023",
+    "de": "Entschuldigung, ist dieser Platz frei?",
+    "ar": "لو سمحت، المكان ده فاضي؟",
+    "en": "Excuse me, is this seat free?",
+    "level": "A1",
+    "topic": "courtesy",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e638c0b7d07847a8bbc9b2fe7a136ba4a6296970ad1af19666a73aa53032b3fc"
+    }
+  },
+  {
+    "id": "s190-core-0024",
+    "de": "Darf ich kurz vorbei?",
+    "ar": "ممكن أعدي بسرعة؟",
+    "en": "May I get past for a moment?",
+    "level": "A1",
+    "topic": "courtesy",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6cefa56bf7436219956a13cc8cbff994b66628c61e6204312117c3a152256f4a"
+    }
+  },
+  {
+    "id": "s190-core-0025",
+    "de": "Kein Problem, ich warte hier.",
+    "ar": "مفيش مشكلة، هستنى هنا.",
+    "en": "No problem, I will wait here.",
+    "level": "A1",
+    "topic": "courtesy",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0dba9ec7ed1b62d6cfd6c93041f0bfa44f949d92133a7aa6ea986743ca1095ef"
+    }
+  },
+  {
+    "id": "s190-core-0026",
+    "de": "Es tut mir leid, ich bin zu spät.",
+    "ar": "أنا آسف إني اتأخرت.",
+    "en": "I am sorry I am late.",
+    "level": "A1",
+    "topic": "courtesy",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "324770467f601bf7b959fb17114396b8fa91c928eff66aad1c709bdfabd6ddaf"
+    }
+  },
+  {
+    "id": "s190-core-0027",
+    "de": "Danke, ich brauche gerade nichts.",
+    "ar": "متشكر، مش محتاج حاجة دلوقتي.",
+    "en": "Thank you, I do not need anything right now.",
+    "level": "A1",
+    "topic": "courtesy",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f81b9aab3511d4c5c3da248e1d96f9791f2ca61fac939e425a87312d32dec3f3"
+    }
+  },
+  {
+    "id": "s190-core-0028",
+    "de": "Bitte nehmen Sie hier Platz.",
+    "ar": "اتفضل حضرتك اقعد هنا.",
+    "en": "Please take a seat here.",
+    "level": "A1",
+    "topic": "courtesy",
+    "register": "polite",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "bbdd796e127569460faf89621fe06ffa8eb99b6d74e8a3a7bea0dd40720a1d27"
+    }
+  },
+  {
+    "id": "s190-core-0029",
+    "de": "Ich wünsche dir einen schönen Tag.",
+    "ar": "أتمنالك يوم حلو.",
+    "en": "Have a nice day.",
+    "level": "A1",
+    "topic": "courtesy",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "3f8758c5a0fe845abe6c23d129ec0737ce9e4a5ab3144e14cb7766c0b2cca629"
+    }
+  },
+  {
+    "id": "s190-core-0030",
+    "de": "Danke, dir auch!",
+    "ar": "متشكر، وإنت كمان!",
+    "en": "Thanks, you too!",
+    "level": "A1",
+    "topic": "courtesy",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "7e6a0ccb0b27fb111c71f2164f4f96efe3d6464ab309c707bfcb0c618818934b"
+    }
+  },
+  {
+    "id": "s190-core-0031",
+    "de": "Meine Eltern wohnen in einer anderen Stadt.",
+    "ar": "أهلي ساكنين في مدينة تانية.",
+    "en": "My parents live in another city.",
+    "level": "A1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "2671ed832079889d82f7dc5d689892bc60edfdc4dbf641a9d7fb2bd26f22e902"
+    }
+  },
+  {
+    "id": "s190-core-0032",
+    "de": "Ich habe zwei ältere Brüder.",
+    "ar": "عندي أخين أكبر مني.",
+    "en": "I have two older brothers.",
+    "level": "A1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "2d3ffbeb2354d92c0c55a587cca98e02276209cc1eb077fdc0112200ff9fbef7"
+    }
+  },
+  {
+    "id": "s190-core-0033",
+    "de": "Meine Schwester studiert Medizin.",
+    "ar": "أختي بتدرس طب.",
+    "en": "My sister studies medicine.",
+    "level": "A1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "1249848a7353f4fe726e4607b82226dc662bc0f6ae38974d649c08b6a4b6b631"
+    }
+  },
+  {
+    "id": "s190-core-0034",
+    "de": "Mein Vater arbeitet heute nicht.",
+    "ar": "بابا مش بيشتغل النهارده.",
+    "en": "My father is not working today.",
+    "level": "A1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0f2cb6a00748ee764d2218ac70512caf1b99777b0d56bf4be8ec81a3b369d85c"
+    }
+  },
+  {
+    "id": "s190-core-0035",
+    "de": "Wir essen am Freitag zusammen.",
+    "ar": "إحنا بناكل سوا يوم الجمعة.",
+    "en": "We are eating together on Friday.",
+    "level": "A1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "bcd5a2f886260d3696d67bdb4ed28c001d379a2de36ad5c26128830a39379f20"
+    }
+  },
+  {
+    "id": "s190-core-0036",
+    "de": "Wie alt ist deine Tochter?",
+    "ar": "بنتك عندها كام سنة؟",
+    "en": "How old is your daughter?",
+    "level": "A1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "1a7c3602a11bbcbfe81bf779f0365f12372a69ad1ccc8b5ca3e98e07e6a6812d"
+    }
+  },
+  {
+    "id": "s190-core-0037",
+    "de": "Mein Sohn geht schon zur Schule.",
+    "ar": "ابني بقى بيروح المدرسة.",
+    "en": "My son already goes to school.",
+    "level": "A1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0d8d428e153d4fd074664056f24097b64af8ecc2e2b3d98da3ff8a84d6ec9bd8"
+    }
+  },
+  {
+    "id": "s190-core-0038",
+    "de": "Ich besuche meine Großmutter am Wochenende.",
+    "ar": "بزور جدتي في الويك إند.",
+    "en": "I visit my grandmother at the weekend.",
+    "level": "A1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "fd915aeda2c70bb8edc22a674bfc3eb3f36bc46ecd82aa06a6db1878cfbc742b"
+    }
+  },
+  {
+    "id": "s190-core-0039",
+    "de": "Auf dem Foto ist meine Familie.",
+    "ar": "دي عيلتي اللي في الصورة.",
+    "en": "The people in the photo are my family.",
+    "level": "A1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8d85aa83ebabf8e0794f573e1fa95358ba807d073644a87bc3fddbd6304967bd"
+    }
+  },
+  {
+    "id": "s190-core-0040",
+    "de": "Wir telefonieren jeden Abend.",
+    "ar": "إحنا بنكلم بعض في التليفون كل يوم بالليل.",
+    "en": "We talk on the phone every evening.",
+    "level": "A1",
+    "topic": "family",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "72c7baef7a9c98ab0119e46ed5cf59faff675e1a32b9858990f60c920243d0a5"
+    }
+  },
+  {
+    "id": "s190-core-0041",
+    "de": "Ich stehe normalerweise um sieben Uhr auf.",
+    "ar": "أنا عادة بصحى الساعة 7.",
+    "en": "I usually get up at seven.",
+    "level": "A1",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d7cb2008c679203bc648dc17b48b51dd97648b42f023aa59659e36055ce4875c"
+    }
+  },
+  {
+    "id": "s190-core-0042",
+    "de": "Nach dem Frühstück gehe ich zur Arbeit.",
+    "ar": "بعد الفطار بروح الشغل.",
+    "en": "After breakfast, I go to work.",
+    "level": "A1",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "5bb06da3adf29c11a8c583619573a8cde3e788c759f27bec284ac14ee04a5710"
+    }
+  },
+  {
+    "id": "s190-core-0043",
+    "de": "Ich fahre mit dem Bus nach Hause.",
+    "ar": "برجع البيت بالأتوبيس.",
+    "en": "I take the bus home.",
+    "level": "A1",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "130bdcf8ddb6095084beff45671a05808f1642a027f72a2efc5bdd7e13c326b0"
+    }
+  },
+  {
+    "id": "s190-core-0044",
+    "de": "Heute bleibe ich zu Hause.",
+    "ar": "هفضل في البيت النهارده.",
+    "en": "I am staying at home today.",
+    "level": "A1",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "7734c26725d0781da0022da4cf79543c389fa20f504cb957c6a2035fe9e5e441"
+    }
+  },
+  {
+    "id": "s190-core-0045",
+    "de": "Am Abend koche ich etwas Einfaches.",
+    "ar": "بالليل بطبخ حاجة بسيطة.",
+    "en": "In the evening, I cook something simple.",
+    "level": "A1",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "36090ccd0d0c4158520858b19a1e5748b5c7ee4500ecd1a430a4a747593238e3"
+    }
+  },
+  {
+    "id": "s190-core-0046",
+    "de": "Vor dem Schlafen lese ich ein bisschen.",
+    "ar": "قبل ما أنام بقرا شوية.",
+    "en": "I read a little before going to sleep.",
+    "level": "A1",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "97faefe64c51830286ce55616888c9206039237c3e04e07fc98fdb16c3d3508b"
+    }
+  },
+  {
+    "id": "s190-core-0047",
+    "de": "Ich habe morgens nicht viel Zeit.",
+    "ar": "معنديش وقت كتير الصبح.",
+    "en": "I do not have much time in the morning.",
+    "level": "A1",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "11c4b489c33a66bda464ee5ab104ebf90e9ea736618f6a6acbce28d6e4af7724"
+    }
+  },
+  {
+    "id": "s190-core-0048",
+    "de": "Wann machst du normalerweise Pause?",
+    "ar": "إمتى عادة بتاخد بريك؟",
+    "en": "When do you usually take a break?",
+    "level": "A1",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ce493d86d4d56e97c4ba06ef0c18eef24deb076a06fd27c6e377a157c04e2800"
+    }
+  },
+  {
+    "id": "s190-core-0049",
+    "de": "Heute gehe ich früher ins Bett.",
+    "ar": "هروح أنام بدري النهارده.",
+    "en": "I am going to bed earlier today.",
+    "level": "A1",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "fa8841e0fa605ba4068db11f6b11fd79d2411c13504b64579f6a171f80c561d2"
+    }
+  },
+  {
+    "id": "s190-core-0050",
+    "de": "Morgen muss ich früh aufstehen.",
+    "ar": "لازم أصحى بدري بكرة.",
+    "en": "I have to get up early tomorrow.",
+    "level": "A1",
+    "topic": "daily-routine",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ff9d357eb526bbf568294c84b0f645f845a9f7a82b0a5b977603dfc22986ca1e"
+    }
+  },
+  {
+    "id": "s190-core-0051",
+    "de": "Unsere Wohnung hat zwei Zimmer.",
+    "ar": "شقتنا فيها أوضتين.",
+    "en": "Our apartment has two rooms.",
+    "level": "A1",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "55db5e5766ca95f4b3da278e6a298b3b82a8e5f447aba6de4b05af0e5be1fdba"
+    }
+  },
+  {
+    "id": "s190-core-0052",
+    "de": "Die Küche ist neben dem Wohnzimmer.",
+    "ar": "المطبخ جنب أوضة المعيشة.",
+    "en": "The kitchen is next to the living room.",
+    "level": "A1",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "bc646b7d4c11b4ac9d1482c5c560ccfb910f8baf9c4d57ecc1830d7bbcbbfaa5"
+    }
+  },
+  {
+    "id": "s190-core-0053",
+    "de": "Das Bad ist am Ende des Flurs.",
+    "ar": "الحمام في آخر الطرقة.",
+    "en": "The bathroom is at the end of the hallway.",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "366e4c6874770902ed515066cd9486e44a6e531bb0f508549b0be3e5cefeb94c"
+    }
+  },
+  {
+    "id": "s190-core-0054",
+    "de": "Mein Schlüssel liegt auf dem Tisch.",
+    "ar": "مفتاحي على الترابيزة.",
+    "en": "My key is on the table.",
+    "level": "A1",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "87988c15804ff47b3feed58995072b58299370b22156bbc2b2ceeb53cfb10378"
+    }
+  },
+  {
+    "id": "s190-core-0055",
+    "de": "Mach bitte das Fenster zu.",
+    "ar": "اقفل الشباك لو سمحت.",
+    "en": "Please close the window.",
+    "level": "A1",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8bc4c7572b30d5d16fb822e7e72ba2ce6a5d7e3c02c3a5eff9c7b5b63203427e"
+    }
+  },
+  {
+    "id": "s190-core-0056",
+    "de": "Hier ist es ein bisschen kalt.",
+    "ar": "الدنيا برد شوية هنا.",
+    "en": "It is a little cold in here.",
+    "level": "A1",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d3cf6823b43d4fc339d29e2cbba59c7b87eaa95b81cb4e6af3af9d977ffb2ea9"
+    }
+  },
+  {
+    "id": "s190-core-0057",
+    "de": "Kannst du bitte das Licht anmachen?",
+    "ar": "ممكن تنور النور لو سمحت؟",
+    "en": "Could you turn on the light, please?",
+    "level": "A1",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6fecae68ce1f704fc49d5fe97086a7185d8202ae214581d5626b0b40ca42fe22"
+    }
+  },
+  {
+    "id": "s190-core-0058",
+    "de": "Die Waschmaschine steht im Bad.",
+    "ar": "الغسالة في الحمام.",
+    "en": "The washing machine is in the bathroom.",
+    "level": "A1",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "cfe580ccac9395e02bf43c053a752d2cd387cd11be8eab623115a95caa93bc4b"
+    }
+  },
+  {
+    "id": "s190-core-0059",
+    "de": "Ich suche eine kleine Wohnung.",
+    "ar": "أنا بدور على شقة صغيرة.",
+    "en": "I am looking for a small apartment.",
+    "level": "A1",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a94adaedee0ae9c3b8953bc3e1c1cfcf4495e8eb3628d97eb1403a6689fe6bcf"
+    }
+  },
+  {
+    "id": "s190-core-0060",
+    "de": "Sind die Nebenkosten in der Miete enthalten?",
+    "ar": "الإيجار شامل المصاريف الإضافية؟",
+    "en": "Does the rent include service charges?",
+    "level": "A2",
+    "topic": "home",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a1011ab46c925ecbcb1682546822710276685587d95643e06ef52e01a92e499d"
+    }
+  },
+  {
+    "id": "s190-core-0061",
+    "de": "Ich hätte gern ein Glas Wasser.",
+    "ar": "عايز كوباية مية لو سمحت.",
+    "en": "I would like a glass of water.",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a8b645a9da35ed40bc6a4440f013d00b187279b497266b11c411c7066b72bfcd"
+    }
+  },
+  {
+    "id": "s190-core-0062",
+    "de": "Für mich bitte einen Kaffee ohne Zucker.",
+    "ar": "أنا قهوة من غير سكر لو سمحت.",
+    "en": "A coffee without sugar for me, please.",
+    "level": "A1",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6fabb2b29fbb12d5afee6cd3ee977ad63c89bb1014997f667773405c03456151"
+    }
+  },
+  {
+    "id": "s190-core-0063",
+    "de": "Möchtest du noch etwas Reis?",
+    "ar": "عايز رز كمان؟",
+    "en": "Would you like some more rice?",
+    "level": "A2",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "4a8d12287c11d8417b56726f88695babdd1fc46e3ba7696730680671d8a30971"
+    }
+  },
+  {
+    "id": "s190-core-0064",
+    "de": "Nein danke, ich bin satt.",
+    "ar": "لأ متشكر، أنا شبعت.",
+    "en": "No thank you, I am full.",
+    "level": "A1",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "71b54a90a9b7a6d2878151698c5804dc48856122aa57f8df50cfbe3c25a1782e"
+    }
+  },
+  {
+    "id": "s190-core-0065",
+    "de": "Das Essen schmeckt sehr gut.",
+    "ar": "الأكل طعمه حلو جداً.",
+    "en": "The food tastes very good.",
+    "level": "A1",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "bc79d2d4185105f5eb2b4928456ef0d6e8a1f967d3d7fef76de14a7ac3d54ea3"
+    }
+  },
+  {
+    "id": "s190-core-0066",
+    "de": "Ist in dieser Suppe Fleisch?",
+    "ar": "الشوربة دي فيها لحمة؟",
+    "en": "Is there meat in this soup?",
+    "level": "A1",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "53fdbba75c96652c9fa7830cb5c984d23a138e4cd8594be06097e23e13263fa9"
+    }
+  },
+  {
+    "id": "s190-core-0067",
+    "de": "Ich esse kein Schweinefleisch.",
+    "ar": "أنا مباكلش لحم خنزير.",
+    "en": "I do not eat pork.",
+    "level": "A1",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "3cdb676ee6584afc4627f69eaa32cd3cac23c3fec8fe34f227cfd7a5cb6a2351"
+    }
+  },
+  {
+    "id": "s190-core-0068",
+    "de": "Kann ich das auch ohne Milch bekommen?",
+    "ar": "ممكن آخد ده من غير لبن؟",
+    "en": "Can I have that without milk as well?",
+    "level": "A1",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a03a13fddb4ee290bb3bdc4b6514f5c3ee55fab5d4389a0f7caec972c2417004"
+    }
+  },
+  {
+    "id": "s190-core-0069",
+    "de": "Wir möchten bitte bezahlen.",
+    "ar": "عايزين نحاسب لو سمحت.",
+    "en": "We would like to pay, please.",
+    "level": "A1",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "4d9ff1d6ae8de1279326ff2f3bedd30656378c714487d0dc5963abd730124883"
+    }
+  },
+  {
+    "id": "s190-core-0070",
+    "de": "Zusammen oder getrennt?",
+    "ar": "الحساب مع بعض ولا كل واحد لوحده؟",
+    "en": "Together or separately?",
+    "level": "A1",
+    "topic": "food-and-drink",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "28c37187fe571efdc2b49f502e7066b58c7cfa20d025d202f3f6a27e31df4e61"
+    }
+  },
+  {
+    "id": "s190-core-0071",
+    "de": "Wie viel kostet dieses Brot?",
+    "ar": "العيش ده بكام؟",
+    "en": "How much does this bread cost?",
+    "level": "A1",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "4e353c6ef3bdfeef76a2433c61db6d43814501b68d946de3a95991fbd9baa2d8"
+    }
+  },
+  {
+    "id": "s190-core-0072",
+    "de": "Ich brauche noch ein Kilo Tomaten.",
+    "ar": "محتاج كيلو طماطم كمان.",
+    "en": "I still need a kilo of tomatoes.",
+    "level": "A1",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d11e2d605031c633ddfe2794cc0095ef8294234f23e92de57a4447c31986cfa2"
+    }
+  },
+  {
+    "id": "s190-core-0073",
+    "de": "Wo finde ich die Milch?",
+    "ar": "ألاقي اللبن فين؟",
+    "en": "Where can I find the milk?",
+    "level": "A1",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "44179a3dbc767ae9d9208c4939e8fe1efcc6c4a46038ba555d866a5476868250"
+    }
+  },
+  {
+    "id": "s190-core-0074",
+    "de": "Haben Sie eine kleinere Packung?",
+    "ar": "عند حضرتك عبوة أصغر؟",
+    "en": "Do you have a smaller packet?",
+    "level": "A1",
+    "topic": "shopping",
+    "register": "polite",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "761b0aa553ae6f10f3eafbd4e2a6e21eeabb664b89a8554f8de5a4291ec0be22"
+    }
+  },
+  {
+    "id": "s190-core-0075",
+    "de": "Ich schaue mich nur um, danke.",
+    "ar": "أنا بتفرج بس، متشكر.",
+    "en": "I am just looking, thank you.",
+    "level": "A1",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "190c449b7f4572427baba991c402111d94212ec52e51c4379f243a1151ec5ab8"
+    }
+  },
+  {
+    "id": "s190-core-0076",
+    "de": "Kann ich mit Karte bezahlen?",
+    "ar": "ممكن أدفع بالكارت؟",
+    "en": "Can I pay by card?",
+    "level": "A1",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "acbb33a3c68984e8b3eed38f313531ddad998f33d73e1d9c80648bcc3a3b3e24"
+    }
+  },
+  {
+    "id": "s190-core-0077",
+    "de": "Ich brauche keine Tüte.",
+    "ar": "مش محتاج كيس.",
+    "en": "I do not need a bag.",
+    "level": "A1",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f40fc0e6270dda08d10499fa36256f178c4e2ca20b3f865ee6c978859a72d4fe"
+    }
+  },
+  {
+    "id": "s190-core-0078",
+    "de": "Könnte ich bitte den Kassenbon haben?",
+    "ar": "ممكن آخد الإيصال لو سمحت؟",
+    "en": "Could I have the receipt, please?",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "fcf87588cac5f604abc7e19c77dba31357af7298d61a1addb469a0bf848b5e85"
+    }
+  },
+  {
+    "id": "s190-core-0079",
+    "de": "Die Kasse ist dort vorne.",
+    "ar": "الكاشير هناك قدام.",
+    "en": "The checkout is over there at the front.",
+    "level": "A1",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "b6d6b508363fdea3bc84fb3ffb233c956921a6e811d5e46701c98504fbfebadb"
+    }
+  },
+  {
+    "id": "s190-core-0080",
+    "de": "Entschuldigung, ich bin als Nächstes dran.",
+    "ar": "معلش، الدور عليا أنا بعد كده.",
+    "en": "Excuse me, I am next in line.",
+    "level": "A2",
+    "topic": "shopping",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d37daf9be43b07588adc0d1b2f30870b617f9f83c38ca6ae4152a8da0f729651"
+    }
+  },
+  {
+    "id": "s190-core-0081",
+    "de": "Haben Sie diese Jacke in Größe M?",
+    "ar": "عند حضرتك الجاكيت ده مقاس M؟",
+    "en": "Do you have this jacket in size M?",
+    "level": "A2",
+    "topic": "clothes",
+    "register": "polite",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ab4f08f34d92ce1af0342ee127db11f04c0fc4f4f7546d52cbe958d62528bae8"
+    }
+  },
+  {
+    "id": "s190-core-0082",
+    "de": "Kann ich das Hemd anprobieren?",
+    "ar": "ممكن أقيس القميص؟",
+    "en": "Can I try on the shirt?",
+    "level": "A2",
+    "topic": "clothes",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "1c327c7debed443074e7a90f00899d6a6f866cf5395a05a83a35b403906f5973"
+    }
+  },
+  {
+    "id": "s190-core-0083",
+    "de": "Wo sind die Umkleidekabinen?",
+    "ar": "فين أوض القياس؟",
+    "en": "Where are the fitting rooms?",
+    "level": "A1",
+    "topic": "clothes",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a2eaac8bd1342566b731350e4f44cd129d8af5ee1c8ff65e7478f33c9e42ff7f"
+    }
+  },
+  {
+    "id": "s190-core-0084",
+    "de": "Die Hose ist mir zu lang.",
+    "ar": "البنطلون طويل عليا.",
+    "en": "The trousers are too long for me.",
+    "level": "A1",
+    "topic": "clothes",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "fdd19133fcddbb023b4e3a2a914840833e9b2d1a2dbfbd11637986b1db3e3ead"
+    }
+  },
+  {
+    "id": "s190-core-0085",
+    "de": "Diese Schuhe passen mir gut.",
+    "ar": "الجزمة دي مقاسي مظبوط.",
+    "en": "These shoes fit me well.",
+    "level": "A1",
+    "topic": "clothes",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "2f2a2702f371503cde0ca9e3dd39d20351ccf32a5a93211365ca1745171aaf16"
+    }
+  },
+  {
+    "id": "s190-core-0086",
+    "de": "Haben Sie das auch in Blau?",
+    "ar": "عند حضرتك منه أزرق كمان؟",
+    "en": "Do you have it in blue as well?",
+    "level": "A1",
+    "topic": "clothes",
+    "register": "polite",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a462903ef3ccf141b1126c11daf7453960fbfd7ebc4a168435c1ec5c31b6d998"
+    }
+  },
+  {
+    "id": "s190-core-0087",
+    "de": "Ich nehme lieber die größere Größe.",
+    "ar": "أفضل آخد المقاس الأكبر.",
+    "en": "I would rather take the larger size.",
+    "level": "A2",
+    "topic": "clothes",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "5d06f39a69a8435168416c57d438baa4dffd3655f88742c0722dbfb7bf8315cd"
+    }
+  },
+  {
+    "id": "s190-core-0088",
+    "de": "Der Pullover ist sehr bequem.",
+    "ar": "البلوفر مريح جداً.",
+    "en": "The jumper is very comfortable.",
+    "level": "A1",
+    "topic": "clothes",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "136c5361b51cc46b4fed927aee0768ea99c275423b5063d6d85bb4dabf884ee3"
+    }
+  },
+  {
+    "id": "s190-core-0089",
+    "de": "Ich suche etwas für den Winter.",
+    "ar": "أنا بدور على حاجة للشتا.",
+    "en": "I am looking for something for winter.",
+    "level": "A1",
+    "topic": "clothes",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a728a3e5592aa15f47985e88df562f6e7d0c8e0637c5e060946098cb2ba93cc8"
+    }
+  },
+  {
+    "id": "s190-core-0090",
+    "de": "Kann ich das später umtauschen?",
+    "ar": "ممكن أبدل ده بعدين؟",
+    "en": "Can I exchange it later?",
+    "level": "A2",
+    "topic": "clothes",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a00929a105d84a5fbad25aee541a8d18c6bc95743dc14a743d500abef848f9e6"
+    }
+  },
+  {
+    "id": "s190-core-0091",
+    "de": "Entschuldigung, wo ist der Bahnhof?",
+    "ar": "لو سمحت، محطة القطر فين؟",
+    "en": "Excuse me, where is the train station?",
+    "level": "A1",
+    "topic": "directions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "bcd224748fdaa0cdcb4d1be0e6d99757bfacce83217ab97e2d490b28ab42b2e7"
+    }
+  },
+  {
+    "id": "s190-core-0092",
+    "de": "Gehen Sie geradeaus bis zur Ampel.",
+    "ar": "امشي حضرتك على طول لحد الإشارة.",
+    "en": "Go straight ahead as far as the traffic lights.",
+    "level": "A1",
+    "topic": "directions",
+    "register": "polite",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "69745d9933c2802185219a5dcd4b6a5d24a7ebf0e0fc45ad2392b9620ce06cde"
+    }
+  },
+  {
+    "id": "s190-core-0093",
+    "de": "Dann biegen Sie links ab.",
+    "ar": "بعد كده ادخل حضرتك شمال.",
+    "en": "Then turn left.",
+    "level": "A1",
+    "topic": "directions",
+    "register": "polite",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ddaf205b7eda13780b4547cd558b5809fb5966a5d6ab87a12dc47f81fee84a20"
+    }
+  },
+  {
+    "id": "s190-core-0094",
+    "de": "Die Apotheke ist gegenüber der Bank.",
+    "ar": "الصيدلية قصاد البنك.",
+    "en": "The pharmacy is opposite the bank.",
+    "level": "A2",
+    "topic": "directions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a6fa3099457e1ef39de2afa5b29529bb92206d8ba30a9d5aa317d94b4b14ded1"
+    }
+  },
+  {
+    "id": "s190-core-0095",
+    "de": "Ist das weit von hier?",
+    "ar": "هو ده بعيد من هنا؟",
+    "en": "Is it far from here?",
+    "level": "A1",
+    "topic": "directions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a084910bf9024596b99ce52e6b45c3075bd80bd52a06952f0a194c9c3069074b"
+    }
+  },
+  {
+    "id": "s190-core-0096",
+    "de": "Kann ich zu Fuß dorthin gehen?",
+    "ar": "ممكن أروح هناك مشي؟",
+    "en": "Can I walk there?",
+    "level": "A2",
+    "topic": "directions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "317c26243edcf40033f96fb38c32b72e3242df7efb42bfa1b56310ee92441245"
+    }
+  },
+  {
+    "id": "s190-core-0097",
+    "de": "Ich glaube, wir sind hier falsch.",
+    "ar": "أعتقد إحنا جينا مكان غلط.",
+    "en": "I think we are in the wrong place.",
+    "level": "A1",
+    "topic": "directions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "c742fa9f6e3d3f8f9d7cbcaefd5ba239587093a78bbf60da38fc2594012c12a1"
+    }
+  },
+  {
+    "id": "s190-core-0098",
+    "de": "Wir müssen die Straße überqueren.",
+    "ar": "لازم نعدي الشارع.",
+    "en": "We have to cross the road.",
+    "level": "A2",
+    "topic": "directions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ef0148c9d94a4ba883b623b3a2fb5aeee3272a3cc9dc2a2185fc6d41dd370e3d"
+    }
+  },
+  {
+    "id": "s190-core-0099",
+    "de": "Der Eingang ist auf der anderen Seite.",
+    "ar": "المدخل في الناحية التانية.",
+    "en": "The entrance is on the other side.",
+    "level": "A1",
+    "topic": "directions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "606781c5f7bc204f63832f95d5320849a432d1564cbea8b8e216cc60143e1fee"
+    }
+  },
+  {
+    "id": "s190-core-0100",
+    "de": "Vielen Dank, jetzt finde ich den Weg.",
+    "ar": "متشكر جداً، كده عرفت الطريق.",
+    "en": "Thank you very much, I can find my way now.",
+    "level": "A1",
+    "topic": "directions",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "9a96f32492d25d45622d388767a6946c7dc4af56a339fcb9e1b856e2249aca61"
+    }
+  },
+  {
+    "id": "s190-core-0101",
+    "de": "Ich würde gern einen Termin vereinbaren.",
+    "ar": "كنت عايز أحدد معاد.",
+    "en": "I would like to make an appointment.",
+    "level": "A2",
+    "topic": "appointments",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "fb116a78e5aac6745f9ccdf51ba0d571a52152c635ee11011a4a930cd37fb48d"
+    }
+  },
+  {
+    "id": "s190-core-0102",
+    "de": "Haben Sie am Dienstag noch etwas frei?",
+    "ar": "فاضل عند حضرتك ميعاد فاضي يوم التلات؟",
+    "en": "Do you have any appointments available on Tuesday?",
+    "level": "A2",
+    "topic": "appointments",
+    "register": "polite",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "68cf7f430378da75acde2ceebace5989e2508df292f6b0b1d19468534d88f8d4"
+    }
+  },
+  {
+    "id": "s190-core-0103",
+    "de": "Am Vormittag bin ich leider nicht da.",
+    "ar": "للأسف مش هكون موجود قبل الضهر.",
+    "en": "Unfortunately, I will not be there in the morning.",
+    "level": "A2",
+    "topic": "appointments",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "759bfc20049cf4400cfc42fe570cf08e65d6ae5b2d209a4b9d058965daa90688"
+    }
+  },
+  {
+    "id": "s190-core-0104",
+    "de": "Wäre ein Termin nach vier Uhr möglich?",
+    "ar": "ينفع معاد بعد الساعة 4؟",
+    "en": "Would an appointment after four be possible?",
+    "level": "A2",
+    "topic": "appointments",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "eeab923bffbab649de0ad6147d9551af1e21c5beb457d8d5b0178c4f4b809ef4"
+    }
+  },
+  {
+    "id": "s190-core-0105",
+    "de": "Ich muss unseren Termin leider verschieben.",
+    "ar": "للأسف لازم أغير معادنا.",
+    "en": "Unfortunately, I need to reschedule our appointment.",
+    "level": "A2",
+    "topic": "appointments",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "262acb37484036d9eef068c99d2ac60b0db433b4fb56b5c2feedde0e95045d84"
+    }
+  },
+  {
+    "id": "s190-core-0106",
+    "de": "Passt Ihnen derselbe Termin nächste Woche?",
+    "ar": "يناسب حضرتك نفس المعاد الأسبوع الجاي؟",
+    "en": "Would the same time next week suit you?",
+    "level": "A2",
+    "topic": "appointments",
+    "register": "polite",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "1959f5a0a88ab3283f3a04d2cf35c78a4190b9cf730a9024efe2b709705839c0"
+    }
+  },
+  {
+    "id": "s190-core-0107",
+    "de": "Bitte bestätigen Sie mir den Termin per E-Mail.",
+    "ar": "أكدلي حضرتك المعاد بالإيميل لو سمحت.",
+    "en": "Please confirm the appointment by email.",
+    "level": "A2",
+    "topic": "appointments",
+    "register": "polite",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a024f14fdd2043d93c9e4bb393a22e825bd42425503523a5281dab5474a855b7"
+    }
+  },
+  {
+    "id": "s190-core-0108",
+    "de": "Wie lange dauert das Gespräch ungefähr?",
+    "ar": "المقابلة بتاخد وقت قد إيه تقريباً؟",
+    "en": "Approximately how long does the meeting take?",
+    "level": "A2",
+    "topic": "appointments",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "9605d844566b77befa123b791db8cfe6f70ac9e331c59e05b00c293f5e187f5e"
+    }
+  },
+  {
+    "id": "s190-core-0109",
+    "de": "Ich bin schon unterwegs, aber es gibt Stau.",
+    "ar": "أنا في الطريق، بس فيه زحمة.",
+    "en": "I am already on my way, but there is a traffic jam.",
+    "level": "A2",
+    "topic": "appointments",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "2d536c6d2200b1720082bb035084ec4c067a3935b9b50bac276cebcc78c67a53"
+    }
+  },
+  {
+    "id": "s190-core-0110",
+    "de": "Danke, dass Sie auf mich gewartet haben.",
+    "ar": "متشكر إن حضرتك استنيتني.",
+    "en": "Thank you for waiting for me.",
+    "level": "A2",
+    "topic": "appointments",
+    "register": "polite",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6bbaddc96ae794d85bd9fa0d4ae0f66de1f37c8dc56ec2bddb2f2c543f35cc77"
+    }
+  },
+  {
+    "id": "s190-core-0111",
+    "de": "Welcher Zug fährt nach Hamburg?",
+    "ar": "أنهي قطر بيروح هامبورغ؟",
+    "en": "Which train goes to Hamburg?",
+    "level": "A2",
+    "topic": "public-transport",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "696b0ce06c9f90bcf52931b3717e608d15086c386362eadf8cdd1745903b98b6"
+    }
+  },
+  {
+    "id": "s190-core-0112",
+    "de": "Muss ich unterwegs umsteigen?",
+    "ar": "لازم أغير مواصلة في السكة؟",
+    "en": "Do I have to change on the way?",
+    "level": "A2",
+    "topic": "public-transport",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "5ffa73470abf3ebddb95f30eb1364376ad9fa9dbd8e81fe89974015c85ebf8e9"
+    }
+  },
+  {
+    "id": "s190-core-0113",
+    "de": "Von welchem Gleis fährt der Zug ab?",
+    "ar": "القطر هيتحرك من أنهي رصيف؟",
+    "en": "Which platform does the train leave from?",
+    "level": "A2",
+    "topic": "public-transport",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d20e1e8539a388443a2b8e028590bbe8ad482c3417d771f137229b05bb8fa0ba"
+    }
+  },
+  {
+    "id": "s190-core-0114",
+    "de": "Ist dieser Platz reserviert?",
+    "ar": "الكرسي ده محجوز؟",
+    "en": "Is this seat reserved?",
+    "level": "A2",
+    "topic": "public-transport",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "317b88e2aca3cd6b3248e502168b933080c6c02f31107294c70e87856be34d79"
+    }
+  },
+  {
+    "id": "s190-core-0115",
+    "de": "Ich möchte eine Fahrkarte nach Köln kaufen.",
+    "ar": "عايز أشتري تذكرة لكولونيا.",
+    "en": "I would like to buy a ticket to Cologne.",
+    "level": "A2",
+    "topic": "public-transport",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6c37c48929367d3b1f8a2011e17598cfc1cd652bada9f330c8e872119a704d20"
+    }
+  },
+  {
+    "id": "s190-core-0116",
+    "de": "Gilt diese Fahrkarte auch im Bus?",
+    "ar": "التذكرة دي تنفع للأتوبيس كمان؟",
+    "en": "Is this ticket valid on the bus too?",
+    "level": "A2",
+    "topic": "public-transport",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "69076674f1cf372c4a8240dbd90ae9f6ccfe8fadfb2e2f896c6190fcd422e4d5"
+    }
+  },
+  {
+    "id": "s190-core-0117",
+    "de": "Wo kann ich die Fahrkarte entwerten?",
+    "ar": "أفعل التذكرة بالختم فين؟",
+    "en": "Where can I validate the ticket?",
+    "level": "A2",
+    "topic": "public-transport",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "554fd83ae027db34c850ab57ae1debe72064af3eb4ea24dbeee49b2d54189658"
+    }
+  },
+  {
+    "id": "s190-core-0118",
+    "de": "Bitte sagen Sie mir, wo ich aussteigen muss.",
+    "ar": "قوللي حضرتك أنزل فين لو سمحت.",
+    "en": "Please tell me where I need to get off.",
+    "level": "A2",
+    "topic": "public-transport",
+    "register": "polite",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ba8632a5ceb74efdf6bd9e9cfb0d69503875656454e69fbd54800376ee02110f"
+    }
+  },
+  {
+    "id": "s190-core-0119",
+    "de": "Der nächste Bus kommt erst in zwanzig Minuten.",
+    "ar": "الأتوبيس اللي جاي مش هييجي غير كمان 20 دقيقة.",
+    "en": "The next bus will not arrive for another twenty minutes.",
+    "level": "A2",
+    "topic": "public-transport",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "dbaa7142939de3201fe4d90ca6d7dcb62132910cb65cf5a96597500f3cc45e65"
+    }
+  },
+  {
+    "id": "s190-core-0120",
+    "de": "Ich habe meinen Anschluss verpasst.",
+    "ar": "القطر اللي كنت هكمل بيه رحلتي فاتني.",
+    "en": "I missed my connecting train.",
+    "level": "A2",
+    "topic": "public-transport",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "991c4dc4decb68f7e806b0ac48781b926110d1419331648cec47f3c43ff74a3d"
+    }
+  },
+  {
+    "id": "s190-core-0121",
+    "de": "Ich habe ein Zimmer auf den Namen Hassan reserviert.",
+    "ar": "أنا حاجز أوضة باسم حسن.",
+    "en": "I have reserved a room under the name Hassan.",
+    "level": "A2",
+    "topic": "travel-and-hotel",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "b936d2e40f9b453b814756b0f12e603e58d42d81bdb3f8e7fd2be85886ec9706"
+    }
+  },
+  {
+    "id": "s190-core-0122",
+    "de": "Ab wann kann ich einchecken?",
+    "ar": "أقدر أعمل تشيك إن من الساعة كام؟",
+    "en": "What time can I check in from?",
+    "level": "A2",
+    "topic": "travel-and-hotel",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "30585ff6a273dbad45ce5b5d0124a8acd9eb9d2696ec3681487f9531c8c20ba1"
+    }
+  },
+  {
+    "id": "s190-core-0123",
+    "de": "Ist das Frühstück im Preis enthalten?",
+    "ar": "الفطار داخل في السعر؟",
+    "en": "Is breakfast included in the price?",
+    "level": "A2",
+    "topic": "travel-and-hotel",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "4aef9e53eb848d1cbf3f3146899e3d236cdeb8145b118d3c386c49f7705943a1"
+    }
+  },
+  {
+    "id": "s190-core-0124",
+    "de": "Können wir unser Gepäck hier lassen?",
+    "ar": "ممكن نسيب شنطنا هنا؟",
+    "en": "Can we leave our luggage here?",
+    "level": "A2",
+    "topic": "travel-and-hotel",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "338b8bae4dfd47695a9267052cd1318e895591bccdaf4c569a53b45e7c9e9ee0"
+    }
+  },
+  {
+    "id": "s190-core-0125",
+    "de": "In meinem Zimmer funktioniert die Heizung nicht.",
+    "ar": "التدفئة مش شغالة في أوضتي.",
+    "en": "The heating in my room is not working.",
+    "level": "A2",
+    "topic": "travel-and-hotel",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d3bacbc2b0237014b67b845f08722694d11355ef8d75b6382b79f3aa829bc198"
+    }
+  },
+  {
+    "id": "s190-core-0126",
+    "de": "Könnten Sie uns ein ruhigeres Zimmer geben?",
+    "ar": "ممكن تدينا حضرتك أوضة أهدى؟",
+    "en": "Could you give us a quieter room?",
+    "level": "A2",
+    "topic": "travel-and-hotel",
+    "register": "polite",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "c3a16494267e30e6a11ff4483fc127a125214a4ee8debeae9d9526f7fe27d26a"
+    }
+  },
+  {
+    "id": "s190-core-0127",
+    "de": "Bis wann müssen wir das Zimmer verlassen?",
+    "ar": "لازم نسيب الأوضة قبل الساعة كام؟",
+    "en": "What time do we have to leave the room by?",
+    "level": "A2",
+    "topic": "travel-and-hotel",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "4827e3bde1b0d62149ce3b9e7c4d0e552cba60d3eb60910fb2d91e840fd3dfec"
+    }
+  },
+  {
+    "id": "s190-core-0128",
+    "de": "Ich möchte eine Nacht länger bleiben.",
+    "ar": "عايز أفضل ليلة كمان.",
+    "en": "I would like to stay one more night.",
+    "level": "A2",
+    "topic": "travel-and-hotel",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "2e36b606208a79e141a4aa8abb45c573322d0c3c95c39fb17f5079dcd74bd3ec"
+    }
+  },
+  {
+    "id": "s190-core-0129",
+    "de": "Wie kommen wir am besten zum Flughafen?",
+    "ar": "إيه أحسن طريقة نروح بيها المطار؟",
+    "en": "What is the best way for us to get to the airport?",
+    "level": "A2",
+    "topic": "travel-and-hotel",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "15b7e803511726038c65e3161dda8c280f87ce023e5e9a9157d9c2826cf99ade"
+    }
+  },
+  {
+    "id": "s190-core-0130",
+    "de": "Wir hatten einen sehr angenehmen Aufenthalt.",
+    "ar": "إقامتنا كانت مريحة جداً.",
+    "en": "We had a very pleasant stay.",
+    "level": "A2",
+    "topic": "travel-and-hotel",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "bedcf01b0a67717d6dc3a5a22205868039b33fe7133ad1bb44e14dfca4b79589"
+    }
+  },
+  {
+    "id": "s190-core-0131",
+    "de": "Ich bin seit zwei Wochen in diesem Team.",
+    "ar": "أنا في الفريق ده من أسبوعين.",
+    "en": "I have been in this team for two weeks.",
+    "level": "A2",
+    "topic": "work",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6a3227eddcacaff1222ea3cd5658a7d2c51450904d701a404a75b3b6fcd35434"
+    }
+  },
+  {
+    "id": "s190-core-0132",
+    "de": "Könnten Sie mir die Aufgabe noch einmal erklären?",
+    "ar": "ممكن حضرتك تشرحلي المهمة تاني؟",
+    "en": "Could you explain the task to me again?",
+    "level": "A2",
+    "topic": "work",
+    "register": "polite",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0f2929d6d11feede7d8b6b12548baf5a4982bdd7999c5116e42ede98be3fe732"
+    }
+  },
+  {
+    "id": "s190-core-0133",
+    "de": "Bis wann soll ich damit fertig sein?",
+    "ar": "المفروض أخلص ده قبل إمتى؟",
+    "en": "When should I have this finished by?",
+    "level": "A2",
+    "topic": "work",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6a4eb75683f2b87143b6a39af983d23bf8bf9040b95ace4a85b82c78e27e3655"
+    }
+  },
+  {
+    "id": "s190-core-0134",
+    "de": "Ich brauche dafür noch etwas Zeit.",
+    "ar": "أنا محتاج وقت كمان عشان ده.",
+    "en": "I need a little more time for that.",
+    "level": "A2",
+    "topic": "work",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ee89f574d8712783b1bcd01fe29a7ec44bf510b47903602572705601932d0da6"
+    }
+  },
+  {
+    "id": "s190-core-0135",
+    "de": "Ich bin mit dem ersten Teil fertig.",
+    "ar": "أنا خلصت أول جزء.",
+    "en": "I have finished the first part.",
+    "level": "A2",
+    "topic": "work",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "ae7771e36b91ae1a3eaf536ee59e7ce2a549475b4d112c1ae981f9c0cff3ed3b"
+    }
+  },
+  {
+    "id": "s190-core-0136",
+    "de": "Kannst du kurz meine Arbeit prüfen?",
+    "ar": "ممكن تراجع شغلي بسرعة؟",
+    "en": "Can you quickly check my work?",
+    "level": "A2",
+    "topic": "work",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f1f094686816f1f0d744fb24347fcc71c5704b6be5e7e1a5543283f9f37694e7"
+    }
+  },
+  {
+    "id": "s190-core-0137",
+    "de": "Wir besprechen das morgen im Team.",
+    "ar": "هنتكلم عن ده بكرة مع الفريق.",
+    "en": "We will discuss that with the team tomorrow.",
+    "level": "A2",
+    "topic": "work",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "602bb14bf49cd309b6e88887cb47283c17f8238527897f9b02c192d0db4c41f6"
+    }
+  },
+  {
+    "id": "s190-core-0138",
+    "de": "Heute arbeite ich von zu Hause aus.",
+    "ar": "أنا شغال من البيت النهارده.",
+    "en": "I am working from home today.",
+    "level": "A2",
+    "topic": "work",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8733094dad97e5bc73754da4c2d8e633395f0c6f4d68ace56721ee2198a9a7cb"
+    }
+  },
+  {
+    "id": "s190-core-0139",
+    "de": "Ich bin nächste Woche im Urlaub.",
+    "ar": "أنا في إجازة الأسبوع الجاي.",
+    "en": "I am on leave next week.",
+    "level": "A2",
+    "topic": "work",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "9b8d785f7e882660e39440763901c8b36ecac7be4839c2eae0daf01a967c65f1"
+    }
+  },
+  {
+    "id": "s190-core-0140",
+    "de": "Wer übernimmt meine Aufgaben, wenn ich nicht da bin?",
+    "ar": "مين هيمسك مهامي وأنا مش موجود؟",
+    "en": "Who will take over my tasks while I am away?",
+    "level": "A2",
+    "topic": "work",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "105a3978c3542b1efc96641f0cef51033c404b66c66622f75d5bbdd38333af13"
+    }
+  },
+  {
+    "id": "s190-core-0141",
+    "de": "Ich lerne Deutsch, weil ich in Deutschland arbeiten möchte.",
+    "ar": "بتعلم ألماني عشان عايز أشتغل في ألمانيا.",
+    "en": "I am learning German because I want to work in Germany.",
+    "level": "A2",
+    "topic": "learning",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "c6573ca6ea94aee769468cc651bd9409f59c26c762b0bec21563c08504de3d82"
+    }
+  },
+  {
+    "id": "s190-core-0142",
+    "de": "Beim Sprechen brauche ich noch etwas Zeit.",
+    "ar": "لسه محتاج وقت شوية وأنا بتكلم.",
+    "en": "I still need a little time when speaking.",
+    "level": "A2",
+    "topic": "learning",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "5f38e995185144d425870fb93a6f824459a1ce32e6b36e5a6ce9a515e4265fd9"
+    }
+  },
+  {
+    "id": "s190-core-0143",
+    "de": "Können wir diese Übung zusammen machen?",
+    "ar": "ممكن نحل التمرين ده سوا؟",
+    "en": "Can we do this exercise together?",
+    "level": "A2",
+    "topic": "learning",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "77d11743eea385e383898ac92726e8922ee9d625fa7f843f11e76e7a606b1cf4"
+    }
+  },
+  {
+    "id": "s190-core-0144",
+    "de": "Ich habe das Wort schon einmal gehört.",
+    "ar": "أنا سمعت الكلمة دي قبل كده.",
+    "en": "I have heard this word before.",
+    "level": "A2",
+    "topic": "learning",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f5463a6a8a488edbc96ae9bb4c8965384f65108a91eccce0363162fd4e55d960"
+    }
+  },
+  {
+    "id": "s190-core-0145",
+    "de": "Mir fällt das richtige Wort gerade nicht ein.",
+    "ar": "الكلمة الصح مش جاية في بالي دلوقتي.",
+    "en": "I cannot think of the right word at the moment.",
+    "level": "A2",
+    "topic": "learning",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "06793da42798a4cbd6ea0357790cc496e4b2d7039993dc9ee14ba47a0efb74ba"
+    }
+  },
+  {
+    "id": "s190-core-0146",
+    "de": "Ich schreibe mir neue Wörter mit einem Beispiel auf.",
+    "ar": "بكتب الكلمات الجديدة ومعاها مثال.",
+    "en": "I write down new words with an example.",
+    "level": "A2",
+    "topic": "learning",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "94a76ec0b59b6df713ed02d636e6bf2ce38df1b256dec2b583bad316d18118b8"
+    }
+  },
+  {
+    "id": "s190-core-0147",
+    "de": "Was ist der Unterschied zwischen diesen beiden Sätzen?",
+    "ar": "إيه الفرق بين الجملتين دول؟",
+    "en": "What is the difference between these two sentences?",
+    "level": "A2",
+    "topic": "learning",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "7d93eba253680e9ea68b6e8545c5701db0ce03d7ea674dcfa25b197ae4e7db04"
+    }
+  },
+  {
+    "id": "s190-core-0148",
+    "de": "Ich möchte die Aussprache noch einmal üben.",
+    "ar": "عايز أتمرن على النطق تاني.",
+    "en": "I would like to practise the pronunciation again.",
+    "level": "A2",
+    "topic": "learning",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "58ac0f1bcdb54f405ab5b90ba78b519d614ae62925a8985c498f2dbe08a4ac2b"
+    }
+  },
+  {
+    "id": "s190-core-0149",
+    "de": "Du musst nicht jeden Fehler sofort korrigieren.",
+    "ar": "مش لازم تصلح كل غلطة فوراً.",
+    "en": "You do not have to correct every mistake immediately.",
+    "level": "A2",
+    "topic": "learning",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "886b302e1f13dc5022b14cd691fe629d6a0fea8e43c07f1290e5c5582cabc161"
+    }
+  },
+  {
+    "id": "s190-core-0150",
+    "de": "Heute verstehe ich mehr als letzte Woche.",
+    "ar": "النهارده بفهم أكتر من الأسبوع اللي فات.",
+    "en": "Today I understand more than I did last week.",
+    "level": "A2",
+    "topic": "learning",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "51de477e9fd702f59e9c61f8e486fcfaa2b75559ae178734890c7b261b89f47d"
+    }
+  },
+  {
+    "id": "s190-core-0151",
+    "de": "Könntest du mir den Bericht bis morgen schicken?",
+    "ar": "ممكن تبعتلي التقرير لحد بكرة؟",
+    "en": "Could you send me the report by tomorrow?",
+    "level": "B1",
+    "topic": "requests-and-boundaries",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "b97eae596207da6d14eacc9dfa815b027e425bbab2df586fda5ec5b80fd7c913"
+    }
+  },
+  {
+    "id": "s190-core-0152",
+    "de": "Ich helfe dir gern, aber heute schaffe ich es nicht.",
+    "ar": "نفسي أساعدك، بس مش هلحق النهارده.",
+    "en": "I would gladly help you, but I cannot manage it today.",
+    "level": "B1",
+    "topic": "requests-and-boundaries",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "af017b0eb196bf5ec8a9f814c179a5ea47e5157e7f6f6d44d2fec6e59e4ca0d6"
+    }
+  },
+  {
+    "id": "s190-core-0153",
+    "de": "Dafür bin ich leider nicht die richtige Ansprechperson.",
+    "ar": "للأسف أنا مش الشخص المناسب تتواصل معاه بخصوص ده.",
+    "en": "Unfortunately, I am not the right person to contact about that.",
+    "level": "B1",
+    "topic": "requests-and-boundaries",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "3ef77f4f6c918050906f24683ce24dab3bb28ff64a06a9d0fa1ddce4ca508824"
+    }
+  },
+  {
+    "id": "s190-core-0154",
+    "de": "Frag mich bitte, bevor du meine Sachen weitergibst.",
+    "ar": "اسألني لو سمحت قبل ما تدي حاجتي لحد تاني.",
+    "en": "Please ask me before passing my things on to someone else.",
+    "level": "B1",
+    "topic": "requests-and-boundaries",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "37a5c5e1aa3a27d16c220570004d63e66569cb2c3e5d0dea0ba06c03f3efa417"
+    }
+  },
+  {
+    "id": "s190-core-0155",
+    "de": "Ich möchte darüber lieber nicht sprechen.",
+    "ar": "أنا أفضل متكلمش في الموضوع ده.",
+    "en": "I would rather not talk about that.",
+    "level": "B1",
+    "topic": "requests-and-boundaries",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "b8f58e71b4066657c872fd18c2ea087c194e93387f6addcbb2e6dbda47938b11"
+    }
+  },
+  {
+    "id": "s190-core-0156",
+    "de": "Lass uns erst klären, was genau gebraucht wird.",
+    "ar": "خلينا الأول نوضح إيه المطلوب بالظبط.",
+    "en": "Let us first clarify exactly what is needed.",
+    "level": "B1",
+    "topic": "requests-and-boundaries",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "38f17982c8deacb17dfc5af93729ae07d6fca23a5839957e6fba44cabfc0da6e"
+    }
+  },
+  {
+    "id": "s190-core-0157",
+    "de": "Ich kann das übernehmen, wenn du mir die Unterlagen gibst.",
+    "ar": "ممكن أمسك الموضوع لو إديتني الورق.",
+    "en": "I can take care of that if you give me the documents.",
+    "level": "B1",
+    "topic": "requests-and-boundaries",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "9691d035d08e8df9627c0f839ac611d2621fc11ebfe778ce68120ad672bde953"
+    }
+  },
+  {
+    "id": "s190-core-0158",
+    "de": "Ohne deine Zustimmung ändere ich daran nichts.",
+    "ar": "مش هغير فيه حاجة من غير موافقتك.",
+    "en": "I will not change anything without your consent.",
+    "level": "B1",
+    "topic": "requests-and-boundaries",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "2c0b7cbdb74a6ffe4c74fab7a9171da41ff749c1ca7f58ffab5da560ecde6a47"
+    }
+  },
+  {
+    "id": "s190-core-0159",
+    "de": "Ich brauche noch Bedenkzeit, bevor ich zusage.",
+    "ar": "محتاج أفكر شوية كمان قبل ما أوافق.",
+    "en": "I need more time to think before I agree.",
+    "level": "B1",
+    "topic": "requests-and-boundaries",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e2ff2031701ab1a64b907c5552578c03047ec441516dd7830fa02e574a75e366"
+    }
+  },
+  {
+    "id": "s190-core-0160",
+    "de": "Danke für das Angebot, aber ich möchte es selbst versuchen.",
+    "ar": "متشكر على العرض، بس عايز أجرب بنفسي.",
+    "en": "Thank you for the offer, but I would like to try it myself.",
+    "level": "B1",
+    "topic": "requests-and-boundaries",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "3320818ad9d6e79a44f93f1d4e2e1b03579cd4ba8d710053e17258f38b34f6b8"
+    }
+  },
+  {
+    "id": "s190-core-0161",
+    "de": "Wir wollten eigentlich wandern gehen, aber jetzt regnet es.",
+    "ar": "إحنا كنا ناويين نتمشى في الطبيعة، بس دلوقتي بتمطر.",
+    "en": "We were planning to go hiking, but it is raining now.",
+    "level": "B1",
+    "topic": "plans-and-changes",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "b3b4b1f97233fe953b21e4e10ad3aad51d6dbf8ad12b0b5d1277472998832514"
+    }
+  },
+  {
+    "id": "s190-core-0162",
+    "de": "Falls der Zug ausfällt, nehmen wir den Bus.",
+    "ar": "لو القطر اتلغى، هنركب الأتوبيس.",
+    "en": "If the train is cancelled, we will take the bus.",
+    "level": "B1",
+    "topic": "plans-and-changes",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6cfc9336d6a263fc8283c8616a84c9ef4a48514eac946a54bd98931f1f1f3672"
+    }
+  },
+  {
+    "id": "s190-core-0163",
+    "de": "Ich melde mich, sobald ich mehr weiß.",
+    "ar": "هكلمك أول ما أعرف تفاصيل أكتر.",
+    "en": "I will get in touch as soon as I know more.",
+    "level": "B1",
+    "topic": "plans-and-changes",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "59f31e43c64740f7327c5aa9916b7bcc807f3f171e5455704da5eebbe56b4e20"
+    }
+  },
+  {
+    "id": "s190-core-0164",
+    "de": "Können wir den Beginn um eine halbe Stunde nach hinten verschieben?",
+    "ar": "ممكن نأخر البداية نص ساعة؟",
+    "en": "Can we move the start back by half an hour?",
+    "level": "B1",
+    "topic": "plans-and-changes",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "709738640eee22dee333eafee635b34853b7a59abd71db054691b64dbb11aeb2"
+    }
+  },
+  {
+    "id": "s190-core-0165",
+    "de": "Die Adresse hat sich seit unserem letzten Treffen geändert.",
+    "ar": "العنوان اتغير من آخر مرة اتقابلنا.",
+    "en": "The address has changed since our last meeting.",
+    "level": "B1",
+    "topic": "plans-and-changes",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "302be788fd2c8dd285a82ba9b53bd38ded362bc04d1cb480aaaaa7f9cf3d1fa1"
+    }
+  },
+  {
+    "id": "s190-core-0166",
+    "de": "Ich hatte nicht damit gerechnet, dass es so lange dauert.",
+    "ar": "مكنتش متوقع إن ده هياخد وقت طويل كده.",
+    "en": "I had not expected it to take this long.",
+    "level": "B1",
+    "topic": "plans-and-changes",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "cab91f836ce9397bdde6443750440317fea1893afae04d87a7ff7917c764d3aa"
+    }
+  },
+  {
+    "id": "s190-core-0167",
+    "de": "Wir sollten etwas Zeit für mögliche Verzögerungen einplanen.",
+    "ar": "المفروض نعمل حساب وقت لأي تأخير ممكن يحصل.",
+    "en": "We should allow some time for possible delays.",
+    "level": "B1",
+    "topic": "plans-and-changes",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "a0edafe7ff9d488f9d1aa75bb90ba4f76df12dda4a9a0b217950388153cba495"
+    }
+  },
+  {
+    "id": "s190-core-0168",
+    "de": "Es ist noch nicht entschieden, ob das Treffen stattfindet.",
+    "ar": "لسه متقررّش إذا كان الاجتماع هيتعمل ولا لأ.",
+    "en": "It has not yet been decided whether the meeting will take place.",
+    "level": "B1",
+    "topic": "plans-and-changes",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "20afda12575909195b5db9efe6312f08b7ab571a22c1c5e1b2554ab3df7f38b4"
+    }
+  },
+  {
+    "id": "s190-core-0169",
+    "de": "Wenn dir der Termin nicht passt, suchen wir einen anderen.",
+    "ar": "لو المعاد مش مناسبك، نشوف معاد غيره.",
+    "en": "If the time does not suit you, we will find another one.",
+    "level": "B1",
+    "topic": "plans-and-changes",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "413b2e5ad53cdac1a4f8522c82d5e38025a4ba1913e2450c867e3765b1714b1f"
+    }
+  },
+  {
+    "id": "s190-core-0170",
+    "de": "Bitte gib mir Bescheid, falls sich etwas ändert.",
+    "ar": "بلغني لو سمحت لو حاجة اتغيرت.",
+    "en": "Please let me know if anything changes.",
+    "level": "B1",
+    "topic": "plans-and-changes",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0875b78d3adf22e11c4fde83b46ea5f06ebd94578a7c9a6dd4c1f145274482da"
+    }
+  },
+  {
+    "id": "s190-core-0171",
+    "de": "Ich verstehe deinen Standpunkt, sehe das aber etwas anders.",
+    "ar": "أنا فاهم وجهة نظرك، بس شايف الموضوع بشكل مختلف شوية.",
+    "en": "I understand your point of view, but I see it somewhat differently.",
+    "level": "B2",
+    "topic": "discussion",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e40a61c96bace651459ffb8c11972c0af40a70fd0dfab3257b3f7ad133d4e4ed"
+    }
+  },
+  {
+    "id": "s190-core-0172",
+    "de": "Könntest du genauer erklären, worauf du dich beziehst?",
+    "ar": "ممكن توضح أكتر إنت تقصد إيه تحديداً؟",
+    "en": "Could you explain more precisely what you are referring to?",
+    "level": "B2",
+    "topic": "discussion",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d5aac23b2bdb9bf4d8268ff14dcb6fb4b756ebe25cc209e62c001a30eade7d44"
+    }
+  },
+  {
+    "id": "s190-core-0173",
+    "de": "Dieses Beispiel zeigt nur einen Teil des Problems.",
+    "ar": "المثال ده بيبين جزء بس من المشكلة.",
+    "en": "This example shows only one part of the problem.",
+    "level": "B2",
+    "topic": "discussion",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "8739905a009d117b809736aa0fc7ec113cd47d23c647e517d2c85588eb76ac5d"
+    }
+  },
+  {
+    "id": "s190-core-0174",
+    "de": "Wir sollten zwischen einer Vermutung und einer Tatsache unterscheiden.",
+    "ar": "المفروض نفرق بين التخمين والحقيقة.",
+    "en": "We should distinguish between an assumption and a fact.",
+    "level": "B2",
+    "topic": "discussion",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "982335cc4ebe64bec909bc8ad0141b509ed9444747fa7a7d78631edc5efd0ca8"
+    }
+  },
+  {
+    "id": "s190-core-0175",
+    "de": "Daraus lässt sich nicht automatisch auf die Ursache schließen.",
+    "ar": "مينفعش نستنتج السبب من ده لوحده.",
+    "en": "The cause cannot automatically be inferred from that.",
+    "level": "B2",
+    "topic": "discussion",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "f4fcb5b30600d7bab74e5edb11946c6b677f8fb2c487f0ab922fd879bfc45422"
+    }
+  },
+  {
+    "id": "s190-core-0176",
+    "de": "Welche Folgen hätte diese Entscheidung für die anderen Beteiligten?",
+    "ar": "القرار ده هيأثر إزاي على باقي الأطراف؟",
+    "en": "What consequences would this decision have for the other people involved?",
+    "level": "B2",
+    "topic": "discussion",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "04c39ebe3efae6d556466edcf71730c9658abae0389a69c556568aa3074a2eb4"
+    }
+  },
+  {
+    "id": "s190-core-0177",
+    "de": "Es kommt darauf an, welche Ziele wir verfolgen.",
+    "ar": "ده بيتوقف على الأهداف اللي عايزين نوصلها.",
+    "en": "It depends on which goals we are pursuing.",
+    "level": "B2",
+    "topic": "discussion",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "e050b533b45a37628eabf20fa34e9bf47193e1ea25e67133f4b1b91d40596bcf"
+    }
+  },
+  {
+    "id": "s190-core-0178",
+    "de": "Ich würde vorschlagen, zunächst die offenen Fragen zu sammeln.",
+    "ar": "أقترح نجمع الأول الأسئلة اللي لسه من غير إجابة.",
+    "en": "I would suggest first collecting the unanswered questions.",
+    "level": "B2",
+    "topic": "discussion",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "522bfce8fca46d9e9513af6de11b774e9aa8619820b516b73954797a0df84e9e"
+    }
+  },
+  {
+    "id": "s190-core-0179",
+    "de": "Wir sind uns über das Ziel einig, aber nicht über den Weg dorthin.",
+    "ar": "إحنا متفقين على الهدف، بس مش على طريقة الوصول ليه.",
+    "en": "We agree on the goal, but not on how to get there.",
+    "level": "B2",
+    "topic": "discussion",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "170be0afe0099025d4be38c3f43ebd5ef7409b87894e4ecb250e9d1b6be68940"
+    }
+  },
+  {
+    "id": "s190-core-0180",
+    "de": "Bevor wir entscheiden, sollten wir auch die Gegenargumente prüfen.",
+    "ar": "قبل ما نقرر، المفروض نشوف الحجج المضادة كمان.",
+    "en": "Before deciding, we should consider the counterarguments as well.",
+    "level": "B2",
+    "topic": "discussion",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "4d37c1706cacdcf7d8c6d1247ec00d4a32b5ed4ace3d1ce1bcb95c5401390070"
+    }
+  },
+  {
+    "id": "s190-core-0181",
+    "de": "Nach den bisherigen Angaben ist das noch nicht bestätigt.",
+    "ar": "حسب المعلومات اللي عندنا لحد دلوقتي، ده لسه متأكدش.",
+    "en": "According to the information available so far, this has not yet been confirmed.",
+    "level": "B2",
+    "topic": "evidence-and-uncertainty",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "d2dbf12ddf20a5b472d12bb3d043426685b15d20a07cb98da4a066b91d936d8c"
+    }
+  },
+  {
+    "id": "s190-core-0182",
+    "de": "Ich kann nicht ausschließen, dass wir etwas übersehen haben.",
+    "ar": "مقدرش أستبعد إن فيه حاجة فاتتنا.",
+    "en": "I cannot rule out the possibility that we have overlooked something.",
+    "level": "B2",
+    "topic": "evidence-and-uncertainty",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "27b9368ea559f5d5e599866f71b5fe5840bc78d84a461eaed04ab3db3e6c019c"
+    }
+  },
+  {
+    "id": "s190-core-0183",
+    "de": "Die Zahlen beziehen sich auf unterschiedliche Zeiträume.",
+    "ar": "الأرقام دي بتخص فترات زمنية مختلفة.",
+    "en": "The figures refer to different periods of time.",
+    "level": "B2",
+    "topic": "evidence-and-uncertainty",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "1e61155f81891a7b05d7fbd8533b008ae0aa22c180b8608d39340391544e09d6"
+    }
+  },
+  {
+    "id": "s190-core-0184",
+    "de": "Ein einzelner Fall reicht nicht für eine allgemeine Aussage.",
+    "ar": "حالة واحدة مش كفاية عشان نعمم.",
+    "en": "One case is not enough to support a general statement.",
+    "level": "B2",
+    "topic": "evidence-and-uncertainty",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "4ae63d29494e5160ca12f1be439be53172329fbf0a0aeffca678799f03a29980"
+    }
+  },
+  {
+    "id": "s190-core-0185",
+    "de": "Die Quelle nennt keine Gründe für diese Entwicklung.",
+    "ar": "المصدر مذكرش أسباب للتطور ده.",
+    "en": "The source gives no reasons for this development.",
+    "level": "B2",
+    "topic": "evidence-and-uncertainty",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "1aff29a2625c9511d147f93dd0adc0b6faeb64fbd1c9a37496dd9670750f7909"
+    }
+  },
+  {
+    "id": "s190-core-0186",
+    "de": "Ich habe die Information noch nicht unabhängig überprüft.",
+    "ar": "أنا لسه متحققتش من المعلومة من مصدر مستقل.",
+    "en": "I have not yet checked the information independently.",
+    "level": "B2",
+    "topic": "evidence-and-uncertainty",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "6e0f5b9007ccd4fac24eeb776856203fc4a81775fd255f77ad8f0c2d369a1b2f"
+    }
+  },
+  {
+    "id": "s190-core-0187",
+    "de": "Das Ergebnis hängt davon ab, welche Annahmen wir treffen.",
+    "ar": "النتيجة بتتوقف على الافتراضات اللي هنبدأ منها.",
+    "en": "The result depends on the assumptions we make.",
+    "level": "B2",
+    "topic": "evidence-and-uncertainty",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0a306459056da60ac87e4150b6a0ba4bb10a64a9207a7a72c0dd6433a4bbea32"
+    }
+  },
+  {
+    "id": "s190-core-0188",
+    "de": "Aus dem Foto geht nicht hervor, wann es aufgenommen wurde.",
+    "ar": "الصورة مش موضحة اتصورت إمتى.",
+    "en": "The photo does not reveal when it was taken.",
+    "level": "B2",
+    "topic": "evidence-and-uncertainty",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "2086c843c1562f0d900e0b7b8bf915abd1c64108d3e88936677cd2c93148acc7"
+    }
+  },
+  {
+    "id": "s190-core-0189",
+    "de": "Wir müssen nicht so tun, als wüssten wir schon alles.",
+    "ar": "مش لازم نمثل إننا عارفين كل حاجة خلاص.",
+    "en": "We do not have to pretend that we already know everything.",
+    "level": "B2",
+    "topic": "evidence-and-uncertainty",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "0ece830e33b729cf6d39c5b3fd63886ed685ebeeb0c6e38cd02f810b03b5d816"
+    }
+  },
+  {
+    "id": "s190-core-0190",
+    "de": "Sobald verlässliche Informationen vorliegen, können wir die Einschätzung ändern.",
+    "ar": "أول ما تتوفر معلومات نقدر نعتمد عليها، ممكن نغير تقديرنا.",
+    "en": "Once reliable information is available, we can revise our assessment.",
+    "level": "B2",
+    "topic": "evidence-and-uncertainty",
+    "register": "neutral",
+    "origin": "original",
+    "review": {
+      "german": "checked",
+      "egyptian": "checked",
+      "english": "checked",
+      "standalone": "checked",
+      "level": "checked",
+      "nativeSignoff": false,
+      "method": "editorial first-pass; approximate practice band, not official certification"
+    },
+    "publication": "approved",
+    "integrationReview": {
+      "status": "checked",
+      "pass": "editorial-language-and-meaning",
+      "nativeSignoff": false,
+      "contentSha256": "9f0ee254e338581c16ce170e8c0a4bf8fc420f309ce8c5478bed1c29c381cac7"
+    }
+  }
+]
