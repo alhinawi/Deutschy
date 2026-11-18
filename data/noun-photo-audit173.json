@@ -42,13 +42,13 @@
   "reviewedAt": "2026-11-18",
   "scope": "thumbnail-screen; expanded ambiguous images",
   "beforeSha256": "aa6bf0257fc12bccc099e2f233b8ed7aac366769a79179c68ee81c38635d5f09",
-  "sha256": "aa6bf0257fc12bccc099e2f233b8ed7aac366769a79179c68ee81c38635d5f09",
-  "source": "https://commons.wikimedia.org/wiki/File:Brothers_Playing.jpg",
-  "file": "Brothers Playing.jpg",
-  "license": "CC BY-SA 4.0",
+  "sha256": "d90c842edcdc92337e20306674d0e96101cdf519d404319dac19b4c5f677de11",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Bryan_brothers.jpg",
+  "file": "The_Bryan_brothers.jpg",
+  "license": "CC BY 2.0",
   "note": "Direct representative noun photo or existing contextual example; screened at contact-sheet scale.",
-  "author": "Itzi-itzi",
-  "padding": false
+  "author": "Boss Tweed",
+  "padding": true
  },
  {
   "id": "kind",
@@ -76,13 +76,13 @@
   "reviewedAt": "2026-11-18",
   "scope": "thumbnail-screen; expanded ambiguous images",
   "beforeSha256": "1911b7c16e50541208d283ca69447f1c19aa261386e8e2f879c2a0b4dedb2a4f",
-  "sha256": "1911b7c16e50541208d283ca69447f1c19aa261386e8e2f879c2a0b4dedb2a4f",
+  "sha256": "ee24084943ced9769ee4dc093ac9767eb84c8802a43d7785b6376848cdea07ee",
   "source": "https://commons.wikimedia.org/wiki/File:LauderdaleGrandfatherGrandson1967.jpg",
   "file": "LauderdaleGrandfatherGrandson1967.jpg",
   "license": "CC BY-SA 4.0",
   "note": "Direct representative noun photo or existing contextual example; screened at contact-sheet scale.",
-  "author": "Family of Infrogmation of New Orleans",
-  "padding": false
+  "author": "Please credit \"Family of Infrogmation of New Orleans\"",
+  "padding": true
  },
  {
   "id": "baby",
