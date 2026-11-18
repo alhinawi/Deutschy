@@ -8,7 +8,7 @@ export const pron: PronSection[] = [
     words: [['schön', 'جميل', 'beautiful'], ['Öl', 'زيت', 'oil'], ['Löffel', 'معلقة', 'spoon'], ['können', 'يقدر', 'can'], ['möchten', 'عايز (بأدب)', 'would like'], ['Köln', 'كولن', 'Cologne']] },
   { id: 'umlaut-u', t: 'ü', ar: 'ü قول "إي" وشفايفك مدورة زي "أو". مفيش صوت زيه في العربي.', en: 'ü: say "ee" while rounding your lips. There is no Arabic equivalent.',
     words: [['über', 'فوق', 'over'], ['Tür', 'باب', 'door'], ['Küche', 'مطبخ', 'kitchen'], ['Bücher', 'كتب', 'books'], ['müde', 'تعبان', 'tired'], ['für', 'لـ', 'for']] },
-  { id: 'eszett', t: 'ß', ar: 'ß بتتنطق "س" طويلة ومش مجهورة، زي السين في "سيف". بتيجي بعد صوت طويل.', en: 'ß is a sharp "ss" sound, as in "kiss".',
+  { id: 'eszett', t: 'ß', ar: 'ß صوتها "س" مش مجهورة، زي السين في "سيف"، مش اسم الحرف. بتيجي بعد حرف متحرك طويل أو صوت مزدوج زي ei.', en: 'ß is a sharp "ss" sound, as in "kiss".',
     words: [['Straße', 'شارع', 'street'], ['heiß', 'سخن', 'hot'], ['Fuß', 'رجل (قدم)', 'foot'], ['weiß', 'أبيض', 'white'], ['groß', 'كبير', 'big'], ['Spaß', 'متعة', 'fun']] },
   { id: 'ich', t: 'ch (ich)', ar: 'بعد e وi وä وö وü وl وn وr: صوت خفيف زي "ش" بس من غير ما تحرك شفايفك، زي همسة طالعة من اللسان.', en: 'After e, i, ä, ö, ü, l, n, r: a soft hissing sound, like "h" in "huge".',
     words: [['ich', 'أنا', 'I'], ['nicht', 'مش', 'not'], ['Küche', 'مطبخ', 'kitchen'], ['Milch', 'لبن', 'milk'], ['Mädchen', 'بنت', 'girl'], ['welche', 'أنهي', 'which']] },
@@ -24,7 +24,7 @@ export const pron: PronSection[] = [
     words: [['Zeit', 'وقت', 'time'], ['Zahl', 'رقم', 'number'], ['Zug', 'قطر', 'train'], ['Zimmer', 'أوضة', 'room'], ['ziehen', 'يسحب', 'to pull'], ['Platz', 'مكان', 'place']] },
   { id: 'v-w', t: 'v, w', ar: 'v في الكلمات الألماني = "ف" (Vater). وw = "في" الإنجليزي (Wasser).', en: 'German v is usually "f" (Vater). German w is "v" (Wasser).',
     words: [['Vater', 'أب', 'father'], ['viel', 'كتير', 'a lot'], ['Vogel', 'عصفور', 'bird'], ['Wasser', 'مية', 'water'], ['Wein', 'نبيذ', 'wine'], ['Wohnung', 'شقة', 'flat']] },
-  { id: 'r', t: 'r, -er', ar: 'r بيتنطق من الحلق قريب من الغين الخفيفة. وفي آخر الكلمة -er بيتحول لصوت زي "آ" قصيرة (Lehrer).', en: 'r is made at the back of the throat. A final -er sounds like a short "a" (Lehrer).',
+  { id: 'r', t: 'r, -er', ar: 'r ليها أكتر من نطق صحيح: من الحلق أو بطرف اللسان. النموذج هنا بطرف اللسان. وفي آخر الكلمة -er غالبا بتتحول لصوت متحرك خفيف (Lehrer).', en: 'German r can be made in the throat or with the tongue tip. This model uses the tongue-tip variant. Final -er is usually a reduced vowel (Lehrer).',
     words: [['rot', 'أحمر', 'red'], ['Reis', 'رز', 'rice'], ['Bruder', 'أخ', 'brother'], ['Berg', 'جبل', 'mountain'], ['Lehrer', 'مدرس', 'teacher'], ['Wasser', 'مية', 'water']] },
 ];
 

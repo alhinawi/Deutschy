@@ -1,0 +1,227 @@
+{
+  "engine": "eSpeak NG 1.50",
+  "source": "https://github.com/espeak-ng/espeak-ng/tree/1.50",
+  "notes": "Explicit phoneme input, simplified formant models. Not native recordings or letter names. German r is the valid tongue-tip variant. German 3 models vocalized -er. English voice is used only for isolated voiced v to avoid German final devoicing. No engine code or voice database is distributed.",
+  "entries": [
+    {
+      "id": "heading198-01",
+      "section": "umlaut-a",
+      "label": "ä · 1",
+      "phonemes": "E",
+      "voice": "de",
+      "engineIPA": "ˈɛ",
+      "url": "/clips/45bba00502796c2cbcadd72f2f36ca9047c71903d1eb1c58763e315e79222d0f.mp3",
+      "sha256": "45bba00502796c2cbcadd72f2f36ca9047c71903d1eb1c58763e315e79222d0f",
+      "bytes": 3538
+    },
+    {
+      "id": "heading198-02",
+      "section": "umlaut-a",
+      "label": "ä · 2",
+      "phonemes": "E:",
+      "voice": "de",
+      "engineIPA": "ˈɛː",
+      "url": "/clips/62520b96060761eb1f66528d6a87d20d134644ed70b8804b37bf4b29b57512f9.mp3",
+      "sha256": "62520b96060761eb1f66528d6a87d20d134644ed70b8804b37bf4b29b57512f9",
+      "bytes": 5049
+    },
+    {
+      "id": "heading198-03",
+      "section": "umlaut-o",
+      "label": "ö · 1",
+      "phonemes": "W",
+      "voice": "de",
+      "engineIPA": "ˈœ",
+      "url": "/clips/108ed06e4bc7affe9f77be7bcba40ce80a1412b8aacaf41d4c6977fd5290e69d.mp3",
+      "sha256": "108ed06e4bc7affe9f77be7bcba40ce80a1412b8aacaf41d4c6977fd5290e69d",
+      "bytes": 4267
+    },
+    {
+      "id": "heading198-04",
+      "section": "umlaut-o",
+      "label": "ö · 2",
+      "phonemes": "Y:",
+      "voice": "de",
+      "engineIPA": "ˈøː",
+      "url": "/clips/ec51b5c8af09dd24fe8eafff39efce33aebdc6320ba1bfbe2e5781ddedf4e29b.mp3",
+      "sha256": "ec51b5c8af09dd24fe8eafff39efce33aebdc6320ba1bfbe2e5781ddedf4e29b",
+      "bytes": 4915
+    },
+    {
+      "id": "heading198-05",
+      "section": "umlaut-u",
+      "label": "ü · 1",
+      "phonemes": "y",
+      "voice": "de",
+      "engineIPA": "ˈy",
+      "url": "/clips/d114547d128c79df9568d5bd0800132c7498ec2f159354ed522dce6af6400251.mp3",
+      "sha256": "d114547d128c79df9568d5bd0800132c7498ec2f159354ed522dce6af6400251",
+      "bytes": 2909
+    },
+    {
+      "id": "heading198-06",
+      "section": "umlaut-u",
+      "label": "ü · 2",
+      "phonemes": "y:",
+      "voice": "de",
+      "engineIPA": "ˈyː",
+      "url": "/clips/5bd30269d6b428775687eb5d6c2e3e1aba9fa3bfa7635ebdf72a00d0d299dd69.mp3",
+      "sha256": "5bd30269d6b428775687eb5d6c2e3e1aba9fa3bfa7635ebdf72a00d0d299dd69",
+      "bytes": 5154
+    },
+    {
+      "id": "heading198-07",
+      "section": "eszett",
+      "label": "ß",
+      "phonemes": "s:",
+      "voice": "de",
+      "engineIPA": "sː",
+      "url": "/clips/22624c6db158354a89063e4adfa4f4ee77ba6673f78ec49b554ef6360c5e695a.mp3",
+      "sha256": "22624c6db158354a89063e4adfa4f4ee77ba6673f78ec49b554ef6360c5e695a",
+      "bytes": 3693
+    },
+    {
+      "id": "heading198-08",
+      "section": "ich",
+      "label": "ch · ich",
+      "phonemes": "C:",
+      "voice": "de",
+      "engineIPA": "çː",
+      "url": "/clips/4b2ab743cf652f88b51c9a41b80dfcfb3ee2154ff6c09ad31a7e3c13a5da3115.mp3",
+      "sha256": "4b2ab743cf652f88b51c9a41b80dfcfb3ee2154ff6c09ad31a7e3c13a5da3115",
+      "bytes": 3013
+    },
+    {
+      "id": "heading198-09",
+      "section": "ach",
+      "label": "ch · ach",
+      "phonemes": "x:",
+      "voice": "de",
+      "engineIPA": "xː",
+      "url": "/clips/202f6662270281bc52b7d58017ab40e80ff0b180900ab7050a0646db24810d8e.mp3",
+      "sha256": "202f6662270281bc52b7d58017ab40e80ff0b180900ab7050a0646db24810d8e",
+      "bytes": 3902
+    },
+    {
+      "id": "heading198-10",
+      "section": "sch",
+      "label": "sch",
+      "phonemes": "S:",
+      "voice": "de",
+      "engineIPA": "ʃː",
+      "url": "/clips/ad8678313cdb70fe7ee67c2fc2da539a5e325450b82940ffe684bfbef7897ecd.mp3",
+      "sha256": "ad8678313cdb70fe7ee67c2fc2da539a5e325450b82940ffe684bfbef7897ecd",
+      "bytes": 3428
+    },
+    {
+      "id": "heading198-11",
+      "section": "sch",
+      "label": "st",
+      "phonemes": "St",
+      "voice": "de",
+      "engineIPA": "ʃt",
+      "url": "/clips/f4730caaf7b6a9b613b7120c18b8956bd56d4179cb9523849940fbb88cea0680.mp3",
+      "sha256": "f4730caaf7b6a9b613b7120c18b8956bd56d4179cb9523849940fbb88cea0680",
+      "bytes": 3436
+    },
+    {
+      "id": "heading198-12",
+      "section": "sch",
+      "label": "sp",
+      "phonemes": "Sp",
+      "voice": "de",
+      "engineIPA": "ʃp",
+      "url": "/clips/6ed2e360f659180d84699cfe8c53a34c7ff0b26aa069277d8e8557d68c9c9074.mp3",
+      "sha256": "6ed2e360f659180d84699cfe8c53a34c7ff0b26aa069277d8e8557d68c9c9074",
+      "bytes": 3173
+    },
+    {
+      "id": "heading198-13",
+      "section": "ei-ie",
+      "label": "ei",
+      "phonemes": "aI",
+      "voice": "de",
+      "engineIPA": "ˈaɪ",
+      "url": "/clips/118134be748a0ca2f279709c4245f467c92d54327578967d06e6755f9de4e0be.mp3",
+      "sha256": "118134be748a0ca2f279709c4245f467c92d54327578967d06e6755f9de4e0be",
+      "bytes": 4733
+    },
+    {
+      "id": "heading198-14",
+      "section": "ei-ie",
+      "label": "ie",
+      "phonemes": "i:",
+      "voice": "de",
+      "engineIPA": "ˈiː",
+      "url": "/clips/c42b9082aedc533f54890cc74aa4a8bd2b196920c505bb6ca663a581cb015750.mp3",
+      "sha256": "c42b9082aedc533f54890cc74aa4a8bd2b196920c505bb6ca663a581cb015750",
+      "bytes": 5390
+    },
+    {
+      "id": "heading198-15",
+      "section": "eu",
+      "label": "eu · äu",
+      "phonemes": "OY",
+      "voice": "de",
+      "engineIPA": "ˈɔø",
+      "url": "/clips/40a8c0cc5a8ec5eb62b7e3972ed53009db4da46636937a8fa4455c1b67649d35.mp3",
+      "sha256": "40a8c0cc5a8ec5eb62b7e3972ed53009db4da46636937a8fa4455c1b67649d35",
+      "bytes": 5466
+    },
+    {
+      "id": "heading198-16",
+      "section": "z",
+      "label": "z",
+      "phonemes": "ts",
+      "voice": "de",
+      "engineIPA": "ts",
+      "url": "/clips/6a552b42ec381bab2a73e681ace9825b02d898e7e17a53ff1cad974bf06b03da.mp3",
+      "sha256": "6a552b42ec381bab2a73e681ace9825b02d898e7e17a53ff1cad974bf06b03da",
+      "bytes": 1972
+    },
+    {
+      "id": "heading198-17",
+      "section": "v-w",
+      "label": "v · Vater",
+      "phonemes": "f:",
+      "voice": "de",
+      "engineIPA": "fː",
+      "url": "/clips/04951d263e0589c8bfa03b7da29bbdb3cd3ee1d22298f29b180bf313a74b18d3.mp3",
+      "sha256": "04951d263e0589c8bfa03b7da29bbdb3cd3ee1d22298f29b180bf313a74b18d3",
+      "bytes": 3378
+    },
+    {
+      "id": "heading198-18",
+      "section": "v-w",
+      "label": "w",
+      "phonemes": "v:",
+      "voice": "en",
+      "engineIPA": "vː",
+      "url": "/clips/188cdf81cb45693e2f8340a985c6dd041f851db00aed1b824fad595dc9f5d69e.mp3",
+      "sha256": "188cdf81cb45693e2f8340a985c6dd041f851db00aed1b824fad595dc9f5d69e",
+      "bytes": 2076
+    },
+    {
+      "id": "heading198-19",
+      "section": "r",
+      "label": "r",
+      "phonemes": "r",
+      "voice": "de",
+      "engineIPA": "ɾ",
+      "url": "/clips/c140921f91a71e5d1b6b292797f04169594fcf30403e81e6592acaba20da8292.mp3",
+      "sha256": "c140921f91a71e5d1b6b292797f04169594fcf30403e81e6592acaba20da8292",
+      "bytes": 1296
+    },
+    {
+      "id": "heading198-20",
+      "section": "r",
+      "label": "-er",
+      "phonemes": "3",
+      "voice": "de",
+      "engineIPA": "ˈɜ",
+      "url": "/clips/26c9991c4001d62f2005fce339f1fca841aed02631570ea4bda65c6f0bec127c.mp3",
+      "sha256": "26c9991c4001d62f2005fce339f1fca841aed02631570ea4bda65c6f0bec127c",
+      "bytes": 4529
+    }
+  ]
+}
