@@ -23,6 +23,7 @@ function Quiz({ make, game, size = 10 }: Props) {
   const promptId = useId();
   const hintId = useId();
   const feedbackId = useId();
+  const resultId = useId();
   const promptFocus = useRef<HTMLParagraphElement>(null);
   const resultFocus = useRef<HTMLParagraphElement>(null);
   const { lang } = useLang();
@@ -44,8 +45,8 @@ function Quiz({ make, game, size = 10 }: Props) {
   if (!q) {
     return (
       <div className="space-y-3 rounded-2xl border border-line bg-card p-5">
-        <p ref={resultFocus} tabIndex={-1} role="status" aria-live="polite" aria-atomic="true" className="ar-title text-2xl focus:outline-none">{t(`نتيجتك ${score} من ${items.length}`, `Your score: ${score} of ${items.length}`)}</p>
-        <button onClick={() => { saved.current=false;locked.current=false; audioRequest.current++;stopSpeaking();setAudioError(false); setRun(run + 1); setI(0); setScore(0); setPick(null); }} className="min-h-11 rounded-full bg-accent px-5 py-2 font-bold text-accent-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-card">{t('جولة جديدة', 'New round')}</button>
+        <p id={resultId} ref={resultFocus} tabIndex={-1} role="status" aria-live="polite" aria-atomic="true" className="ar-title text-2xl focus:outline-none">{t(`نتيجتك ${score} من ${items.length}`, `Your score: ${score} of ${items.length}`)}</p>
+        <button aria-describedby={resultId} onClick={() => { saved.current=false;locked.current=false; audioRequest.current++;stopSpeaking();setAudioError(false); setRun(run + 1); setI(0); setScore(0); setPick(null); }} className="min-h-11 rounded-full bg-accent px-5 py-2 font-bold text-accent-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-card">{t('جولة جديدة', 'New round')}</button>
       </div>
     );
   }

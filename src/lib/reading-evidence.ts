@@ -2657,3 +2657,24 @@ Object.assign(readingEvidence,{
     "ein noch offener Rezeptvorschlag und eine Liste mit Rückfragen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-ein-foto-mit-drei-kakis": [
+    "Auf dem ersten Foto liegen drei orange Kakis",
+    "Die Scheiben sehen wie Sterne aus.",
+    "Bei Kaki steht Kakis.",
+    "Sie beschreiben und benennen nur Bilder."
+  ],
+  "alltag-a2-zwei-namen-im-obstregister": [
+    "Leila übernimmt das Register Obst.",
+    "Leila öffnet den Eintrag mit der Bedeutung Frucht.",
+    "weil die beiden Bedeutungen denselben Artikel haben.",
+    "Stattdessen speichern sie die beiden Formen vollständig."
+  ],
+  "alltag-b1-ein-bildausschnitt-fuer-die-lernseite": [
+    "welche Merkmale für die Zuordnung der Wörter wichtig sind.",
+    "sowohl eine ganze Frucht mit ihren Kanten als auch die Sternform der Scheiben",
+    "sondern nur ihren Anteil im angezeigten Bild.",
+    "kontrollieren die Fotos zusammen mit den Beschriftungen."
+  ]
+});

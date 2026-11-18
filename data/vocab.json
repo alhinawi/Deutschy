@@ -755,6 +755,10 @@
   {
    "id": "wurzelgemuese",
    "ar": "بنجر وفجل"
+  },
+  {
+   "id": "kakikarambole",
+   "ar": "كاكي وكارامبولا"
   }
  ],
  "words": [
@@ -15026,6 +15030,36 @@
     "commons": "https://commons.wikimedia.org/wiki/File:Miura_Daikon_ac.jpg",
     "author": "Asturio Cantabrio",
     "license": "CC BY-SA 4.0"
+   }
+  },
+  {
+   "id": "kaki",
+   "topic": "kakikarambole",
+   "art": "die",
+   "de": "Kaki",
+   "plural": "Kakis",
+   "ar": "كاكي",
+   "photo": {
+    "file": "7418945.jpg",
+    "commons": "https://www.pexels.com/photo/3-persimmon-on-gray-background-7418945/",
+    "author": "Evgeniy Alekseyev",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "karambole",
+   "topic": "kakikarambole",
+   "art": "die",
+   "de": "Karambole",
+   "plural": "Karambolen",
+   "ar": "كارامبولا، فاكهة النجمة",
+   "photo": {
+    "file": "40000999.jpg",
+    "commons": "https://www.pexels.com/photo/fresh-starfruit-slices-and-whole-carambola-40000999/",
+    "author": "Jahra Tasfia Reza",
+    "license": "Pexels License",
+    "modified": true
    }
   }
  ]

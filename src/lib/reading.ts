@@ -435,3 +435,6 @@ readings.push(...schalenformenTexts);
 
 import {wurzelgemueseTexts} from './reading-wurzelgemuese';
 readings.push(...wurzelgemueseTexts);
+
+import {kakikaramboleTexts} from './reading-kakikarambole';
+readings.push(...kakikaramboleTexts);
