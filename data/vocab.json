@@ -767,6 +767,10 @@
   {
    "id": "kuechenformen",
    "ar": "موكا بوت وقالب تلج"
+  },
+  {
+   "id": "vogelportraets",
+   "ar": "فلامنجو وكوكاتو"
   }
  ],
  "words": [
@@ -15126,6 +15130,36 @@
     "file": "4641426.jpg",
     "commons": "https://www.pexels.com/photo/ice-cubes-with-white-flowers-on-a-molder-4641426/",
     "author": "Nataliya Vaitkevich",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "flamingo",
+   "topic": "vogelportraets",
+   "art": "der",
+   "de": "Flamingo",
+   "plural": "Flamingos",
+   "ar": "فلامنجو",
+   "photo": {
+    "file": "31594814.jpg",
+    "commons": "https://www.pexels.com/photo/vibrant-flamingo-with-striking-pink-plumage-31594814/",
+    "author": "Phil Mitchell",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "kakadu",
+   "topic": "vogelportraets",
+   "art": "der",
+   "de": "Kakadu",
+   "plural": "Kakadus",
+   "ar": "ببغاء كوكاتو",
+   "photo": {
+    "file": "5683010.jpg",
+    "commons": "https://www.pexels.com/photo/white-bird-in-close-up-photography-5683010/",
+    "author": "Jurie Maree",
     "license": "Pexels License",
     "modified": true
    }

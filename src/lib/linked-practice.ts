@@ -387,4 +387,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zwei-dinge-im-kuechenschrank',dialogue:'kuechenschrank-zwei-neue-namen'},
  {reading:'alltag-a2-am-ende-steht-das-grundwort',dialogue:'grundwort-kocher-oder-form'},
  {reading:'alltag-b1-erst-suchen-dann-fehlend-melden',dialogue:'bestandsliste-suchstand-und-zusage'},
+ {reading:'alltag-a1-zwei-vogelfotos-an-der-wand',dialogue:'vogelfotos-links-und-rechts-zuordnen'},
+ {reading:'alltag-a2-das-s-allein-reicht-nicht',dialogue:'vogelnamen-s-mit-artikel-lesen'},
+ {reading:'alltag-b1-eine-bildbeschreibung-ohne-tonspur',dialogue:'vogelfotos-sichtbar-ist-nicht-hoerbar'},
 ];
