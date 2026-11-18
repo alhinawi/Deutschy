@@ -1,5 +1,6 @@
+import {separableConjugationVerbs} from './conjugation-separable';
 import {extraConjugationVerbs,extraConjugationVariants} from './conjugation-extra';
-export type ConjugationVerb={inf:string;ar:string;pres:string[];pret:string[];pp:string;aux:string;ki:string[];kii:string[];source:string};
+export type ConjugationVerb={inf:string;ar:string;separable?:boolean;pres:string[];pret:string[];pp:string;aux:string;ki:string[];kii:string[];source:string};
 export const persons=['ich','du','er/sie/es','wir','ihr','sie/Sie'];
 const seq=(s:string)=>s.split('|');
 const haben=seq('habe|hast|hat|haben|habt|haben'),sein=seq('bin|bist|ist|sind|seid|sind'),hatte=seq('hatte|hattest|hatte|hatten|hattet|hatten'),war=seq('war|warst|war|waren|wart|waren'),werde=seq('werde|wirst|wird|werden|werdet|werden'),habe=seq('habe|habest|habe|haben|habet|haben'),sei=seq('sei|seiest|sei|seien|seiet|seien'),haette=seq('hätte|hättest|hätte|hätten|hättet|hätten'),waere=seq('wäre|wärest|wäre|wären|wäret|wären');
@@ -9,6 +10,7 @@ export const conjugationVerbs:ConjugationVerb[]=[
  {inf:'machen',ar:'يعمل',pres:seq('mache|machst|macht|machen|macht|machen'),pret:seq('machte|machtest|machte|machten|machtet|machten'),pp:'gemacht',aux:'haben',ki:seq('mache|machest|mache|machen|machet|machen'),kii:seq('machte|machtest|machte|machten|machtet|machten'),source:'https://www.verbformen.de/konjugation/indikativ/praeteritum/machen.htm'},
  {inf:'kommen',ar:'ييجي',pres:seq('komme|kommst|kommt|kommen|kommt|kommen'),pret:seq('kam|kamst|kam|kamen|kamt|kamen'),pp:'gekommen',aux:'sein',ki:seq('komme|kommest|komme|kommen|kommet|kommen'),kii:seq('käme|kämest|käme|kämen|kämet|kämen'),source:'https://www.verbformen.de/konjugation/kommen.htm'},
  ...extraConjugationVerbs,
+ ...separableConjugationVerbs,
 ];
 export const conjugationTenses=['Präsens','Präteritum','Perfekt','Plusquamperfekt','Futur I','Futur II','Konjunktiv I Gegenwart','Konjunktiv I Vergangenheit','Konjunktiv II Gegenwart','Konjunktiv II Vergangenheit','würde + Infinitiv'];
 export function conjugated(v:typeof conjugationVerbs[number],tense:string,p:number){const s=v.aux==='sein';switch(tense){case 'Präsens':return v.pres[p];case 'Präteritum':return v.pret[p];case 'Perfekt':return `${(s?sein:haben)[p]} ${v.pp}`;case 'Plusquamperfekt':return `${(s?war:hatte)[p]} ${v.pp}`;case 'Futur I':return `${werde[p]} ${v.inf}`;case 'Futur II':return `${werde[p]} ${v.pp} ${v.aux}`;case 'Konjunktiv I Gegenwart':return v.ki[p];case 'Konjunktiv I Vergangenheit':return `${(s?sei:habe)[p]} ${v.pp}`;case 'Konjunktiv II Gegenwart':return v.kii[p];case 'Konjunktiv II Vergangenheit':return `${(s?waere:haette)[p]} ${v.pp}`;case 'würde + Infinitiv':return `${seq('würde|würdest|würde|würden|würdet|würden')[p]} ${v.inf}`;default:throw Error('Unknown tense')}}

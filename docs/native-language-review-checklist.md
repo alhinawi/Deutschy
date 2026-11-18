@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-sixty-eighth product update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-sixty-ninth product update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1767,6 +1767,12 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 - [ ] Meanings are selected uses,not every sense. Check Egyptian Arabic usage,especially gehören as belonging,fehlen as missing and passen as fit/suit. No added irrelevant photos;newentries use neutral regular-verb SVGtiles. Original143entries/order compare exactly unchanged.
 - [ ] Full conjugation lab remains12verbs/792cells;core grammar43topics/3662questions. Catalogue expansion does not silently claim all verbs,full German grammar,official CEFRmapping or native review.
 - [ ] Browser:48newdetail variants AR/EN320/390,876assertions,288present/Perfekt table rows,4axe snapshots and4catalogue-search checks. Human/native editorial and real-device audio review remain pending.
+
+### List 169: Separable verbs in the full conjugation lab
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/conjugation/`, einkaufen / anrufen / mitbringen / aufräumen | Check all 264 added cells: explicit finite split forms, joined participles and future infinitives. Strong anrufen vs mixed mitbringen, especially rufest an and brächtest mit. Nonreflexive buying-supplies einkaufen only. Main-clause scope vs joined ordinary subordinate clause clearly taught. Duden, DWDS, DW, Gymglish and Lingolia source ledger. All 792 older outputs/variants unchanged. Actual 390px AR/EN guide/table checked, 4 narrow variants/1628 assertions/16 wrong-order cases/1056 reference rows/4 axe. Native German/Egyptian Arabic editorial still pending. |
 
 ## 3. Wider review queue after the focused batch
 

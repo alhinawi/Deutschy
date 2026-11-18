@@ -28,7 +28,8 @@
     "typecheck:worker": "tsc --noEmit --strict --skipLibCheck --target es2022 --module esnext --moduleResolution bundler --types @cloudflare/workers-types functions/lib/tts.ts",
     "test:conjugation:browser": "node scripts/test-conjugation-browser.mjs",
     "test:grammar-expansion:browser": "node scripts/test-grammar-expansion-browser.mjs",
-    "test:everyday-verbs:browser": "node scripts/test-everyday-verbs-browser.mjs"
+    "test:everyday-verbs:browser": "node scripts/test-everyday-verbs-browser.mjs",
+    "test:separable-conjugation:browser": "node scripts/test-separable-conjugation-browser.mjs"
   },
   "dependencies": {
     "hono": "^4.13.18",

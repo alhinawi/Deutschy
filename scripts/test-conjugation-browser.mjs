@@ -16,8 +16,8 @@ try{
   const g=await b.newPage(),errors=[];g.on('pageerror',e=>errors.push(e.message));await g.setViewport({width,height:840});
   await g.evaluateOnNewDocument(l=>{localStorage.clear();localStorage.setItem('deutschy:lang',l)},lang);
   await g.goto('http://127.0.0.1:'+server.address().port+'/conjugation/',{waitUntil:'networkidle0'});
-  assert.equal(await g.$$eval('#conj-verb option',e=>e.length),12);checks++;
-  for(let vi=4;vi<12;vi++)for(let ti=0;ti<tenses.length;ti++){
+  assert.equal(await g.$$eval('#conj-verb option',e=>e.length),16);checks++;
+  for(let vi=4;vi<16;vi++)for(let ti=0;ti<tenses.length;ti++){
    const person=ti%6;await g.select('#conj-verb',String(vi));await g.select('#conj-tense',tenses[ti]);await g.select('#conj-person',String(person));
    assert.equal(await g.$eval('#conj-answer',e=>e.value),'');checks++;
    const list=answers(verbs[vi],tenses[ti],person);await g.type('#conj-answer',list.at(-1));
@@ -33,8 +33,8 @@ try{
   assert.equal(await g.$$eval('#conj-reference tbody tr',e=>e.length),6);checks++;
   assert.equal(await g.evaluate(()=>document.documentElement.scrollWidth>innerWidth),false);assert.deepEqual(errors,[]);checks+=2;
   await g.addScriptTag({path:require.resolve('axe-core/axe.min.js')});assert.deepEqual(await g.evaluate(async()=>(await axe.run(document,{runOnly:{type:'tag',values:['wcag2a','wcag2aa','wcag21aa']}})).violations.map(v=>v.id)),[]);checks++;
-  if(width===390){await g.evaluate(()=>scrollTo(0,0));await g.screenshot({path:'/downloads/conjugation166-'+lang+'.png',fullPage:true});await g.$eval('#conj-full-title',e=>e.scrollIntoView());await g.screenshot({path:'/downloads/conjugation166-detail-'+lang+'.png'})}
+  if(width===390){await g.evaluate(()=>scrollTo(0,0));await g.screenshot({path:'/downloads/conjugation169-'+lang+'.png',fullPage:true});await g.$eval('#conj-full-title',e=>e.scrollIntoView());await g.screenshot({path:'/downloads/conjugation169-detail-'+lang+'.png'})}
   assert.equal(await g.evaluate(()=>localStorage.getItem('deutschy:v1')),null);checks++;await g.close();
  }
- console.log('PASS4AR/EN320/390 conjugation variants;',checks,'assertions,352 correct-form UI submissions,4 wrong auxiliaries,4axe snapshots;no saved progress');
+ console.log('PASS4AR/EN320/390 conjugation variants;',checks,'assertions,528 correct-form UI submissions,4 wrong auxiliaries,4axe snapshots;no saved progress');
 }finally{await b?.close();server.close()}

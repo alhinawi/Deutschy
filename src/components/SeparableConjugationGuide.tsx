@@ -12,7 +12,7 @@ export default function SeparableConjugationGuide(){
   <p>{t('في الجملة الفرعية العادية، الفعل البسيط بيرجع كلمة واحدة في الآخر. التدريب ده بيطلب صيغة الجملة الرئيسية، مش صيغة الجملة الفرعية.','In an ordinary subordinate clause, the simple verb rejoins at the end. This exercise asks for a main-clause form, not that subordinate-clause form.')}</p>
   <p className="de" lang="de" dir="ltr">Ich weiß, dass du heute anrufst.</p>
   <p>{t('مع الشراء، المعنى هنا شراء طلبات، من غير ضمير انعكاسي. فيه استخدام تاني بمعنى شراء حصة أو عضوية، وده مش المقصود هنا.','Einkaufen here means buying everyday supplies, without a reflexive pronoun. The reflexive use for buying a stake or membership is outside this set.')}</p>
-  <a className="inline-block min-h-11 py-3 text-sm underline" href="https://learngerman.dw.com/de/satzbau-nebens%C3%A4tze-2/l-40555142/gr-40556102" target="_blank" rel="noreferrer">{t('مرجع الجملة الفرعية','Subordinate-clause reference')}</a>
-  <a className="inline-block min-h-11 py-3 text-sm underline" href="https://www.gymglish.com/de/wunderbla/deutsche-grammatik/prasenskonjugation-trennbare-verben" target="_blank" rel="noreferrer">{t('مرجع فصل البادئة','Prefix separation reference')}</a>
+  <a className="block min-h-11 py-3 text-sm underline" href="https://learngerman.dw.com/de/satzbau-nebens%C3%A4tze-2/l-40555142/gr-40556102" target="_blank" rel="noreferrer">{t('مرجع الجملة الفرعية','Subordinate-clause reference')}</a>
+  <a className="block min-h-11 py-3 text-sm underline" href="https://www.gymglish.com/de/wunderbla/deutsche-grammatik/prasenskonjugation-trennbare-verben" target="_blank" rel="noreferrer">{t('مرجع فصل البادئة','Prefix separation reference')}</a>
  </aside>;
 }
