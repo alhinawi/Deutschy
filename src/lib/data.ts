@@ -13,6 +13,7 @@ export const topics: Topic[] = raw.topics;
 export const words = raw.words as Word[];
 
 export const topicTitles: Record<string, string> = {
+  haustiere176:'Haustiere und Bauernhof', wildtiere176:'Wildtiere', meerestiere176:'Meerestiere', krabbeltiere176:'Reptilien, Amphibien und kleine Tiere', voegel176:'Weitere Vögel',
   rotkehlchenamsel: 'Rotkehlchen und Amsel',
   eisvogelelster: 'Eisvogel und Elster',
   mangostanebrotfrucht: 'Mangostane und Brotfrucht',
@@ -196,6 +197,7 @@ export const topicTitles: Record<string, string> = {
   natur3: 'Natur 3',
 };
 export const topicEn: Record<string, string> = {
+  haustiere176:'Pets and farm animals', wildtiere176:'Wild animals', meerestiere176:'Sea animals', krabbeltiere176:'Reptiles, amphibians and small animals', voegel176:'More birds',
   rotkehlchenamsel: 'Robin and blackbird',
   eisvogelelster: 'Kingfisher and magpie',
   mangostanebrotfrucht: 'Mangosteen and breadfruit',

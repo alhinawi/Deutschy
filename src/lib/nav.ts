@@ -19,6 +19,7 @@ export const sidebar: NavGroup[] = [
     ],
   })),
   { id: 'content', ar: 'الموسوعة', en: 'Encyclopedia', items: [
+    {href:'/animals/',ar:'الحيوانات بالصور',en:'Animals in pictures'},
     {href:'/perfekt/',ar:'الماضي',en:'Past tenses'},
     { href: '/grammar-map/', ar: 'خريطة قواعد سريعة A1-C2', en: 'Quick grammar maps A1-C2' },
     { href: '/pitfalls/', ar: 'نقط بتلخبطك في الألماني', en: 'German pitfalls through Arabic' },

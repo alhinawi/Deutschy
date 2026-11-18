@@ -795,6 +795,26 @@
   {
    "id": "rotkehlchenamsel",
    "ar": "أبو الحنّة وشحرور"
+  },
+  {
+   "id": "haustiere176",
+   "ar": "حيوانات أليفة ومزرعة"
+  },
+  {
+   "id": "wildtiere176",
+   "ar": "حيوانات برية"
+  },
+  {
+   "id": "meerestiere176",
+   "ar": "حيوانات البحر"
+  },
+  {
+   "id": "krabbeltiere176",
+   "ar": "زواحف وبرمائيات وحيوانات صغيرة"
+  },
+  {
+   "id": "voegel176",
+   "ar": "طيور أكتر"
   }
  ],
  "words": [
@@ -5374,7 +5394,7 @@
    "art": "der",
    "de": "Hirsch",
    "plural": "Hirsche",
-   "ar": "غزال",
+   "ar": "أيل",
    "photo": {
     "file": "Red Deer Poing.JPG",
     "page": "https://commons.wikimedia.org/wiki/File:Red_Deer_Poing.JPG",
@@ -5659,7 +5679,7 @@
    "art": "der",
    "de": "Tiger",
    "plural": "-",
-   "ar": "نمر",
+   "ar": "نمر مخطط (ببر)",
    "photo": {
     "file": "Bengal tiger (Panthera tigris tigris) female 3.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Bengal_tiger_(Panthera_tigris_tigris)_female_3.jpg",
@@ -7102,7 +7122,7 @@
    "art": "der",
    "de": "Adler",
    "plural": "-",
-   "ar": "نسر",
+   "ar": "عقاب",
    "photo": {
     "file": "African fish eagle (Haliaeetus vocifer) Ethiopia.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:African_fish_eagle_(Haliaeetus_vocifer)_Ethiopia.jpg",
@@ -7372,7 +7392,7 @@
    "art": "der",
    "de": "Leopard",
    "plural": "Leoparden",
-   "ar": "فهد",
+   "ar": "نمر مرقط",
    "photo": {
     "file": "Leopard (Panthera pardus pardus) Kruger.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Leopard_(Panthera_pardus_pardus)_Kruger.jpg",
@@ -7387,7 +7407,7 @@
    "art": "der",
    "de": "Gepard",
    "plural": "Geparden",
-   "ar": "شيتا",
+   "ar": "فهد (شيتا)",
    "photo": {
     "file": "Cheetah (Acinonyx jubatus) female 2.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:Cheetah_(Acinonyx_jubatus)_female_2.jpg",
@@ -9984,7 +10004,7 @@
    "art": "der",
    "de": "Seeadler",
    "plural": "-",
-   "ar": "نسر البحر",
+   "ar": "عقاب البحر",
    "photo": {
     "file": "White-bellied Sea-Eagle in Sundarbans National Park October 2025 by Tisha Mukherjee 03.jpg",
     "page": "https://commons.wikimedia.org/wiki/File:White-bellied_Sea-Eagle_in_Sundarbans_National_Park_October_2025_by_Tisha_Mukherjee_03.jpg",
@@ -15366,6 +15386,710 @@
     "author": "ArWeltAtty Attila",
     "license": "Pexels License",
     "modified": true
+   }
+  },
+  {
+   "id": "hamster",
+   "topic": "haustiere176",
+   "art": "der",
+   "de": "Hamster",
+   "plural": "-",
+   "ar": "هامستر",
+   "photo": {
+    "file": "Goldhamster_terrarium.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Goldhamster_terrarium.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Goldhamster_terrarium.jpg",
+    "license": "CC BY 3.0",
+    "author": "Sqrt (Andreas Hein)",
+    "padding": true
+   }
+  },
+  {
+   "id": "meerschweinchen",
+   "topic": "haustiere176",
+   "art": "das",
+   "de": "Meerschweinchen",
+   "plural": "-",
+   "ar": "خنزير غيني",
+   "photo": {
+    "file": "Meerschweinchen_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Meerschweinchen_2.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Meerschweinchen_2.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "JaPe2007",
+    "padding": true
+   }
+  },
+  {
+   "id": "wellensittich",
+   "topic": "haustiere176",
+   "art": "der",
+   "de": "Wellensittich",
+   "plural": "Wellensittiche",
+   "ar": "عصفور أسترالي",
+   "photo": {
+    "file": "Melopsittacus_undulatus_Alice_Springs_Desert_Park_(crop_2).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Melopsittacus_undulatus_Alice_Springs_Desert_Park_(crop_2).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Melopsittacus_undulatus_Alice_Springs_Desert_Park_(crop_2).jpg",
+    "license": "CC BY 2.0",
+    "author": "Richard.Fisher",
+    "padding": true
+   }
+  },
+  {
+   "id": "kanarienvogel",
+   "topic": "haustiere176",
+   "art": "der",
+   "de": "Kanarienvogel",
+   "plural": "Kanarienvögel",
+   "ar": "كناريا",
+   "photo": {
+    "file": "GelbA.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:GelbA.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:GelbA.JPG",
+    "license": "CC BY-SA 4.0",
+    "author": "NEWSchr",
+    "padding": true
+   }
+  },
+  {
+   "id": "goldfisch",
+   "topic": "haustiere176",
+   "art": "der",
+   "de": "Goldfisch",
+   "plural": "Goldfische",
+   "ar": "سمكة دهبية",
+   "photo": {
+    "file": "Goldfish.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Goldfish.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Goldfish.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Raul654 (photo); Meidosensei (edit)",
+    "padding": true
+   }
+  },
+  {
+   "id": "schwein",
+   "topic": "haustiere176",
+   "art": "das",
+   "de": "Schwein",
+   "plural": "Schweine",
+   "ar": "خنزير",
+   "photo": {
+    "file": "Pig_farm_Vampula_9.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pig_farm_Vampula_9.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Pig_farm_Vampula_9.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "kallerna",
+    "padding": true
+   }
+  },
+  {
+   "id": "hahn",
+   "topic": "haustiere176",
+   "art": "der",
+   "de": "Hahn",
+   "plural": "Hähne",
+   "ar": "ديك",
+   "photo": {
+    "file": "Gallus gallus domesticus, Hahn.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Gallus_gallus_domesticus,_Hahn.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Gallus_gallus_domesticus,_Hahn.JPG",
+    "license": "CC BY-SA 2.5",
+    "author": "Böhringer friedrich",
+    "padding": true
+   }
+  },
+  {
+   "id": "stier",
+   "topic": "haustiere176",
+   "art": "der",
+   "de": "Stier",
+   "plural": "Stiere",
+   "ar": "ثور",
+   "photo": {
+    "file": "Dexter bull PM15b.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Dexter_bull_PM15b.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Dexter_bull_PM15b.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Pieter Delicaat",
+    "padding": true
+   }
+  },
+  {
+   "id": "bueffel",
+   "topic": "haustiere176",
+   "art": "der",
+   "de": "Büffel",
+   "plural": "-",
+   "ar": "جاموس",
+   "photo": {
+    "file": "Wasserbüffel_(25787818312).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Wasserb%C3%BCffel_(25787818312).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Wasserb%C3%BCffel_(25787818312).jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "Eleleleven from Bielefeld, Deutschland",
+    "padding": true
+   }
+  },
+  {
+   "id": "pony",
+   "topic": "haustiere176",
+   "art": "das",
+   "de": "Pony",
+   "plural": "Ponys",
+   "ar": "حصان صغير (بوني)",
+   "photo": {
+    "file": "New Forest Pony.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:New_Forest_Pony.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:New_Forest_Pony.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "Timothy E Baldwin",
+    "padding": true
+   }
+  },
+  {
+   "id": "fledermaus",
+   "topic": "wildtiere176",
+   "art": "die",
+   "de": "Fledermaus",
+   "plural": "Fledermäuse",
+   "ar": "خفاش",
+   "photo": {
+    "file": "Big-eared-townsend-fledermaus.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Big-eared-townsend-fledermaus.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Big-eared-townsend-fledermaus.jpg",
+    "license": "Public domain",
+    "author": "PD-USGov, exact author unknown",
+    "padding": true
+   }
+  },
+  {
+   "id": "faultier",
+   "topic": "wildtiere176",
+   "art": "das",
+   "de": "Faultier",
+   "plural": "Faultiere",
+   "ar": "كسلان",
+   "photo": {
+    "file": "2_toed_sloth.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:2_toed_sloth.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:2_toed_sloth.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Jsfouche",
+    "padding": true
+   }
+  },
+  {
+   "id": "ameisenbaer",
+   "topic": "wildtiere176",
+   "art": "der",
+   "de": "Ameisenbär",
+   "plural": "Ameisenbären",
+   "ar": "آكل النمل",
+   "photo": {
+    "file": "Myrmecophaga_tridactyla,_Pantanal_region,_Brazil_(cropped).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Myrmecophaga_tridactyla,_Pantanal_region,_Brazil_(cropped).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Myrmecophaga_tridactyla,_Pantanal_region,_Brazil_(cropped).jpg",
+    "license": "CC BY 3.0",
+    "author": "Anagoria",
+    "padding": true
+   }
+  },
+  {
+   "id": "erdmaennchen",
+   "topic": "wildtiere176",
+   "art": "das",
+   "de": "Erdmännchen",
+   "plural": "-",
+   "ar": "ميركات",
+   "photo": {
+    "file": "Suricatos_(Suricata_suricatta),_parque_nacional_Makgadikgadi_Pans,_Botsuana,_2018-07-30,_DD_29.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Suricatos_(Suricata_suricatta),_parque_nacional_Makgadikgadi_Pans,_Botsuana,_2018-07-30,_DD_29.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Suricatos_(Suricata_suricatta),_parque_nacional_Makgadikgadi_Pans,_Botsuana,_2018-07-30,_DD_29.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Diego Delso",
+    "padding": true
+   }
+  },
+  {
+   "id": "guerteltier",
+   "topic": "wildtiere176",
+   "art": "das",
+   "de": "Gürteltier",
+   "plural": "Gürteltiere",
+   "ar": "مدرع",
+   "photo": {
+    "file": "Armadillo2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Armadillo2.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Armadillo2.jpg",
+    "license": "Public domain",
+    "author": "Mwcolgan8",
+    "padding": true
+   }
+  },
+  {
+   "id": "gazelle",
+   "topic": "wildtiere176",
+   "art": "die",
+   "de": "Gazelle",
+   "plural": "Gazellen",
+   "ar": "غزالة",
+   "photo": {
+    "file": "Eat228.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Eat228.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Eat228.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "de:Benutzer:Frank Dickert",
+    "padding": true
+   }
+  },
+  {
+   "id": "antilope",
+   "topic": "wildtiere176",
+   "art": "die",
+   "de": "Antilope",
+   "plural": "Antilopen",
+   "ar": "ظبي",
+   "photo": {
+    "file": "Tragelaphus_strepsiceros.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Tragelaphus_strepsiceros.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Tragelaphus_strepsiceros.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Hans Hillewaert",
+    "padding": true
+   }
+  },
+  {
+   "id": "jaguar",
+   "topic": "wildtiere176",
+   "art": "der",
+   "de": "Jaguar",
+   "plural": "Jaguare",
+   "ar": "يجور",
+   "photo": {
+    "file": "Jaguar_(Panthera_onca_palustris)_male_Three_Brothers_River.JPG",
+    "page": "https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_male_Three_Brothers_River.JPG",
+    "commons": "https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_male_Three_Brothers_River.JPG",
+    "license": "CC BY-SA 4.0",
+    "author": "Charles J. Sharp",
+    "padding": true
+   }
+  },
+  {
+   "id": "schakal",
+   "topic": "wildtiere176",
+   "art": "der",
+   "de": "Schakal",
+   "plural": "Schakale",
+   "ar": "ابن آوى",
+   "photo": {
+    "file": "033_Golden_jackal_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:033_Golden_jackal_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:033_Golden_jackal_in_Keoladeo_National_Park_Photo_by_Giles_Laurent.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Giles Laurent",
+    "padding": true
+   }
+  },
+  {
+   "id": "stinktier",
+   "topic": "wildtiere176",
+   "art": "das",
+   "de": "Stinktier",
+   "plural": "Stinktiere",
+   "ar": "ظربان",
+   "photo": {
+    "file": "Skunk_about_to_spray.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Skunk_about_to_spray.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Skunk_about_to_spray.jpg",
+    "license": "Public domain",
+    "author": "Wallace Keck",
+    "padding": true
+   }
+  },
+  {
+   "id": "robbe",
+   "topic": "meerestiere176",
+   "art": "die",
+   "de": "Robbe",
+   "plural": "Robben",
+   "ar": "فقمة",
+   "photo": {
+    "file": "Seehund2cele4.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Seehund2cele4.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Seehund2cele4.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Marcel Burkhard alias cele4 - http://www.tierlexikon.ch",
+    "padding": true
+   }
+  },
+  {
+   "id": "seeloewe",
+   "topic": "meerestiere176",
+   "art": "der",
+   "de": "Seelöwe",
+   "plural": "Seelöwen",
+   "ar": "أسد البحر",
+   "photo": {
+    "file": "Seeloewen_zoom.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Seeloewen_zoom.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Seeloewen_zoom.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Marc Schuelper",
+    "padding": true
+   }
+  },
+  {
+   "id": "walross",
+   "topic": "meerestiere176",
+   "art": "das",
+   "de": "Walross",
+   "plural": "Walrosse",
+   "ar": "فظ",
+   "photo": {
+    "file": "Pacific_Walrus_-_Bull_(8247646168).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Pacific_Walrus_-_Bull_(8247646168).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Pacific_Walrus_-_Bull_(8247646168).jpg",
+    "license": "Public domain",
+    "author": "Joel Garlich-Miller, U.S. Fish and Wildlife Service",
+    "padding": true
+   }
+  },
+  {
+   "id": "rochen",
+   "topic": "meerestiere176",
+   "art": "der",
+   "de": "Rochen",
+   "plural": "-",
+   "ar": "سمكة الراي",
+   "photo": {
+    "file": "Taeniura_lymma2a.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Taeniura_lymma2a.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Taeniura_lymma2a.jpg",
+    "license": "CC BY 2.5",
+    "author": "Jens Petersen",
+    "padding": true
+   }
+  },
+  {
+   "id": "hummer",
+   "topic": "meerestiere176",
+   "art": "der",
+   "de": "Hummer",
+   "plural": "-",
+   "ar": "كركند",
+   "photo": {
+    "file": "KreeftbijDenOsse.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:KreeftbijDenOsse.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:KreeftbijDenOsse.jpg",
+    "license": "Public domain",
+    "author": "Bart Braun",
+    "padding": true
+   }
+  },
+  {
+   "id": "tintenfisch",
+   "topic": "meerestiere176",
+   "art": "der",
+   "de": "Tintenfisch",
+   "plural": "Tintenfische",
+   "ar": "حبار",
+   "photo": {
+    "file": "Kalmar_2.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Kalmar_2.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Kalmar_2.jpg",
+    "license": "Public domain",
+    "author": "US National Oceanic and Atmospheric Administration",
+    "padding": true
+   }
+  },
+  {
+   "id": "muschel",
+   "topic": "meerestiere176",
+   "art": "die",
+   "de": "Muschel",
+   "plural": "Muscheln",
+   "ar": "محار",
+   "photo": {
+    "file": "Giant clam at Great Barrier Reef.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Giant_clam_at_Great_Barrier_Reef.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Giant_clam_at_Great_Barrier_Reef.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Gökhan Tolun",
+    "padding": true
+   }
+  },
+  {
+   "id": "clownfisch",
+   "topic": "meerestiere176",
+   "art": "der",
+   "de": "Clownfisch",
+   "plural": "Clownfische",
+   "ar": "سمكة المهرج",
+   "photo": {
+    "file": "Amphiprion_ocellaris_(Clown_anemonefish)_by_Nick_Hobgood.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Amphiprion_ocellaris_(Clown_anemonefish)_by_Nick_Hobgood.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Amphiprion_ocellaris_(Clown_anemonefish)_by_Nick_Hobgood.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Nick Hobgood",
+    "padding": true
+   }
+  },
+  {
+   "id": "kugelfisch",
+   "topic": "meerestiere176",
+   "art": "der",
+   "de": "Kugelfisch",
+   "plural": "Kugelfische",
+   "ar": "سمكة منتفخة",
+   "photo": {
+    "file": "Black-spotted.puffer.arp.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Black-spotted.puffer.arp.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Black-spotted.puffer.arp.jpg",
+    "license": "Public domain",
+    "author": "Arpingstone",
+    "padding": true
+   }
+  },
+  {
+   "id": "gecko",
+   "topic": "krabbeltiere176",
+   "art": "der",
+   "de": "Gecko",
+   "plural": "Geckos",
+   "ar": "وزغة (برص)",
+   "photo": {
+    "file": "Gekko_gecko_(rock)_by_Robert_Michniewicz.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gekko_gecko_(rock)_by_Robert_Michniewicz.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Gekko_gecko_(rock)_by_Robert_Michniewicz.jpg",
+    "license": "CC BY 3.0",
+    "author": "Robert Michniewicz",
+    "padding": true
+   }
+  },
+  {
+   "id": "leguan",
+   "topic": "krabbeltiere176",
+   "art": "der",
+   "de": "Leguan",
+   "plural": "Leguane",
+   "ar": "إجوانا",
+   "photo": {
+    "file": "Iguana_iguana_Portoviejo_04.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Iguana_iguana_Portoviejo_04.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Iguana_iguana_Portoviejo_04.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Cayambe",
+    "padding": true
+   }
+  },
+  {
+   "id": "kroete",
+   "topic": "krabbeltiere176",
+   "art": "die",
+   "de": "Kröte",
+   "plural": "Kröten",
+   "ar": "علجوم",
+   "photo": {
+    "file": "Bufo_bufo_sitting-Iric2006.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Bufo_bufo_sitting-Iric2006.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Bufo_bufo_sitting-Iric2006.jpg",
+    "license": "CC BY-SA 2.5",
+    "author": "Iric",
+    "padding": true
+   }
+  },
+  {
+   "id": "salamander",
+   "topic": "krabbeltiere176",
+   "art": "der",
+   "de": "Salamander",
+   "plural": "-",
+   "ar": "سمندل",
+   "photo": {
+    "file": "Salamandra_salamandra_Odenwald.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Salamandra_salamandra_Odenwald.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Salamandra_salamandra_Odenwald.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Michael Linnenbach",
+    "padding": true
+   }
+  },
+  {
+   "id": "molch",
+   "topic": "krabbeltiere176",
+   "art": "der",
+   "de": "Molch",
+   "plural": "Molche",
+   "ar": "سمندل مائي",
+   "photo": {
+    "file": "TriturusVulgaris2-.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:TriturusVulgaris2-.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:TriturusVulgaris2-.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Christian Fischer",
+    "padding": true
+   }
+  },
+  {
+   "id": "skorpion",
+   "topic": "krabbeltiere176",
+   "art": "der",
+   "de": "Skorpion",
+   "plural": "Skorpione",
+   "ar": "عقرب",
+   "photo": {
+    "file": "Black_scorpion.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Black_scorpion.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Black_scorpion.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Per-Anders Olsson",
+    "padding": true
+   }
+  },
+  {
+   "id": "regenwurm",
+   "topic": "krabbeltiere176",
+   "art": "der",
+   "de": "Regenwurm",
+   "plural": "Regenwürmer",
+   "ar": "دودة الأرض",
+   "photo": {
+    "file": "Lumbricus_terrestris_(26559560801).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Lumbricus_terrestris_(26559560801).jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Lumbricus_terrestris_(26559560801).jpg",
+    "license": "CC BY 2.0",
+    "author": "Donald Hobern from Copenhagen, Denmark",
+    "padding": true
+   }
+  },
+  {
+   "id": "kakerlake",
+   "topic": "krabbeltiere176",
+   "art": "die",
+   "de": "Kakerlake",
+   "plural": "Kakerlaken",
+   "ar": "صرصار",
+   "photo": {
+    "file": "Blatella_germanica_1.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Blatella_germanica_1.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Blatella_germanica_1.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Bagous",
+    "padding": true
+   }
+  },
+  {
+   "id": "zecke",
+   "topic": "krabbeltiere176",
+   "art": "die",
+   "de": "Zecke",
+   "plural": "Zecken",
+   "ar": "قرادة",
+   "photo": {
+    "file": "Ixodes_ricinus_on_dry_grass.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Ixodes_ricinus_on_dry_grass.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Ixodes_ricinus_on_dry_grass.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "W.alter",
+    "padding": true
+   }
+  },
+  {
+   "id": "falke",
+   "topic": "voegel176",
+   "art": "der",
+   "de": "Falke",
+   "plural": "Falken",
+   "ar": "صقر",
+   "photo": {
+    "file": "Faucon_pelerin_7_mai.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Faucon_pelerin_7_mai.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Faucon_pelerin_7_mai.jpg",
+    "license": "CC BY-SA 3.0",
+    "author": "Georges Lignier (georges.lignier@wanadoo.fr)",
+    "padding": true
+   }
+  },
+  {
+   "id": "geier",
+   "topic": "voegel176",
+   "art": "der",
+   "de": "Geier",
+   "plural": "-",
+   "ar": "نسر أصلع",
+   "photo": {
+    "file": "Gyps_fulvus_Ayódar.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Gyps_fulvus_Ay%C3%B3dar.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Gyps_fulvus_Ay%C3%B3dar.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "Paco Gómez from Castellón, Spain",
+    "padding": true
+   }
+  },
+  {
+   "id": "schwalbe",
+   "topic": "voegel176",
+   "art": "die",
+   "de": "Schwalbe",
+   "plural": "Schwalben",
+   "ar": "سنونو",
+   "photo": {
+    "file": "Rauchschwalbe_Hirundo_rustica.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Rauchschwalbe_Hirundo_rustica.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Rauchschwalbe_Hirundo_rustica.jpg",
+    "license": "CC BY-SA 2.5",
+    "author": "Andreas Trepte",
+    "padding": true
+   }
+  },
+  {
+   "id": "meise",
+   "topic": "voegel176",
+   "art": "die",
+   "de": "Meise",
+   "plural": "Meisen",
+   "ar": "قرقف",
+   "photo": {
+    "file": "Parus_major_Luc_Viatour.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Parus_major_Luc_Viatour.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Parus_major_Luc_Viatour.jpg",
+    "license": "CC BY-SA 2.0",
+    "author": "Luc Viatour from Bruxelles, Belgique",
+    "padding": true
+   }
+  },
+  {
+   "id": "nachtigall",
+   "topic": "voegel176",
+   "art": "die",
+   "de": "Nachtigall",
+   "plural": "Nachtigallen",
+   "ar": "عندليب",
+   "photo": {
+    "file": "Luscinia megarhynchos - Common nightingale - Nachtegaal.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Luscinia_megarhynchos_-_Common_nightingale_-_Nachtegaal.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Luscinia_megarhynchos_-_Common_nightingale_-_Nachtegaal.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Warrieboy",
+    "padding": true
+   }
+  },
+  {
+   "id": "emu",
+   "topic": "voegel176",
+   "art": "der",
+   "de": "Emu",
+   "plural": "Emus",
+   "ar": "إيمو",
+   "photo": {
+    "file": "Emu_1_-_Tidbinbilla.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Emu_1_-_Tidbinbilla.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Emu_1_-_Tidbinbilla.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "JJ Harrison (https://www.jjharrison.com.au/)",
+    "padding": true
    }
   }
  ]

@@ -14,7 +14,7 @@ export default function WordCard({ w, first = false }: { w: Word; first?: boolea
   const copy=status==='unavailable'||status==='error'?speechFailureCopy[status]:null;
   const play=()=>speak(`${w.art} ${w.de}`,{onstatus:next=>{if(mounted.current)setStatus(next)}});
   return (
-    <article className="overflow-hidden rounded-2xl border border-line bg-card">
+    <article id={`word-${w.id}`} className="scroll-mt-20 overflow-hidden rounded-2xl border border-line bg-card">
       {/* eslint-disable-next-line @next/next/no-img-element */}
       <img src={img(w)} alt={`${w.art} ${w.de}`} className="photo" loading={first ? 'eager' : 'lazy'} fetchPriority={first ? 'high' : 'auto'} width={480} height={360} />
       <div className="space-y-1 p-4">
