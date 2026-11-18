@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the balanced-voices update179.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the food/drink collections update180.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1880,6 +1880,14 @@ Native German speech-quality and real-device checks remain pending. Automated pl
 ### List 179: Balanced static voice assignment
 
 81 active clips now use all 21 voices as evenly as whole clips allow: 18 voices have 4 clips each; Matilda, Chris and Lily have 3 each. 71 clips are unchanged; 10 changed voice. This is coverage distribution, not a guarantee of equal listening time or voice quality. New clips choose the least-used voice with a stable tie-break. Please compare pronunciation and stress in the changed phrases: das Bett, der Schlüssel, der Fisch, die Katze, der Mantel, das Haus, das Krankenhaus, das Fahrrad, das Fenster and der Apfel. Synthesized speech is not a native-speaker quality endorsement. German/editorial and actual-phone review remain pending.
+
+### List 180: Food and drink collections
+
+New collection routes reuse existing reviewed-photo lesson words: `/food/` has 166 entries in 9 groups; `/drinks/` has 12 entries in 3 groups. No new nouns or language claims are added. Check that Egyptian category labels feel natural, that search finds German/Arabic/English/plural terms, and that card links land on the intended lesson word. These are study groups, not botanical, nutritional or exhaustive cuisine categories. Related words and regional names remain separate vocabulary entries, not unique dishes.
+
+Food groups: fruit 51; vegetables/pulses 35; nuts/seeds 9; bread/grains/pasta 15; meat/fish/eggs 16; cheese/butter 3; dishes/prepared food 12; sweets 12; seasoning/sweeteners 13. Drink groups: water/milk/juice 5; hot drinks 5; other drinks 2. Milk is here because the pictured use is a drink. Coffee beans are a food ingredient; cups,containers and appliances are excluded. Living-animal photos are not reused as meat/seafood foods. Tomato photo's missing author credit was restored from its original Commons source; the image is unchanged.
+
+Native German/Egyptian review and subjective photo teaching suitability remain pending. Search and browsing do not award progress. All counts describe the current library, not completion of every food/drink in the world.
 
 ## 3. Wider review queue after the focused batch
 

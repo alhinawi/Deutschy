@@ -17,11 +17,12 @@ try{
  browser=await p.launch({executablePath:'/usr/bin/google-chrome',args:['--no-sandbox']});
  const page=await browser.newPage();await page.setViewport({width:390,height:844});
  await page.evaluateOnNewDocument(()=>localStorage.setItem('deutschy:lang','en'));
+ const wordId=process.env.WORD_ID||'mutter';const word=JSON.parse(await fs.readFile('data/vocab.json','utf8')).words.find(w=>w.id===wordId);assert(word);const card='#word-'+wordId;
  const responses=[];page.on('response',r=>{if(r.url().includes('deutschy-sounds'))responses.push({url:r.url(),status:r.status(),headers:r.headers()})});
- await page.goto((process.env.LIVE_BASE||'http://127.0.0.1:'+server.address().port)+'/lessons/family/',{waitUntil:'networkidle0'});
- await page.waitForSelector('article button');await page.click('article button');
+ await page.goto((process.env.LIVE_BASE||'http://127.0.0.1:'+server.address().port)+'/lessons/'+word.topic+'/',{waitUntil:'networkidle0'});
+ await page.waitForSelector(card+' button');await page.$eval(card,e=>e.scrollIntoView({block:'center'}));await page.click(card+' button');
  await new Promise(r=>setTimeout(r,4000));
- assert.equal(responses.length,1);assert.equal(responses[0].status,200);assert.equal(responses[0].headers['content-type'],'audio/mpeg');assert.equal(responses[0].headers['access-control-allow-origin'],'*');assert((await page.$eval('article',e=>e.textContent)).includes('Audio finished.'));
- console.log(JSON.stringify({responses,status:await page.$eval('article',e=>e.textContent),audio:await page.evaluate(()=>[...document.querySelectorAll('audio')].map(e=>({src:e.src,paused:e.paused,duration:e.duration})))},null,2));
- await page.screenshot({path:'/downloads/deutschy178-static-playback-en.png'});
+ assert.equal(responses.length,1);assert.equal(responses[0].status,200);assert.equal(responses[0].headers['content-type'],'audio/mpeg');assert.equal(responses[0].headers['access-control-allow-origin'],'*');assert((await page.$eval(card,e=>e.textContent)).includes('Audio finished.'));
+ console.log(JSON.stringify({responses,status:await page.$eval(card,e=>e.textContent),audio:await page.evaluate(()=>[...document.querySelectorAll('audio')].map(e=>({src:e.src,paused:e.paused,duration:e.duration})))},null,2));
+ await page.screenshot({path:'/downloads/deutschy-static-playback-'+wordId+'-en.png'});
 }finally{await browser?.close();server.close()}
