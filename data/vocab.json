@@ -719,6 +719,10 @@
   {
    "id": "papiermodelle",
    "ar": "نماذج ورق متنية"
+  },
+  {
+   "id": "schachfigurenarten",
+   "ar": "أنواع قطع الشطرنج"
   }
  ],
  "words": [
@@ -14720,6 +14724,36 @@
     "file": "19678.jpg",
     "commons": "https://www.pexels.com/photo/orange-paper-boat-on-white-surface-19678/",
     "author": "Miguel Á. Padriñán",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "schachbauer",
+   "topic": "schachfigurenarten",
+   "art": "der",
+   "de": "Schachbauer",
+   "plural": "Schachbauern",
+   "ar": "بيدق شطرنج",
+   "photo": {
+    "file": "40227387.jpg",
+    "commons": "https://www.pexels.com/photo/wooden-chess-pawn-on-white-background-40227387/",
+    "author": "Caleb Oquendo",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "schachspringer",
+   "topic": "schachfigurenarten",
+   "art": "der",
+   "de": "Schachspringer",
+   "plural": "-",
+   "ar": "حصان شطرنج",
+   "photo": {
+    "file": "30182768.jpg",
+    "commons": "https://www.pexels.com/photo/elegant-white-chess-knight-on-minimalist-board-30182768/",
+    "author": "Waskyria Miranda",
     "license": "Pexels License",
     "modified": true
    }

@@ -351,4 +351,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-ein-modell-mehrere-modelle',dialogue:'gleiches-wort-anderer-artikel'},
  {reading:'alltag-a2-nur-die-offene-frage',dialogue:'name-dann-artikel-dann-mehrzahl'},
  {reading:'alltag-b1-standbild-ist-kein-versuch',dialogue:'kein-messwert-aus-dem-foto'},
+ {reading:'alltag-a1-zwei-figuren-zwei-namen',dialogue:'runder-kopf-pferdekopf'},
+ {reading:'alltag-a2-bauer-im-zusammenhang',dialogue:'ein-wort-mehrere-bedeutungen'},
+ {reading:'alltag-b1-keine-stellung-aus-einzelfotos',dialogue:'nebeneinander-ist-kein-angriff'},
 ];

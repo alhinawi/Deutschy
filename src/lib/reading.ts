@@ -408,3 +408,6 @@ readings.push(...zitrusscheibenTexts);
 
 import {papiermodelleTexts} from './reading-papiermodelle';
 readings.push(...papiermodelleTexts);
+
+import {schachfigurenartenTexts} from './reading-schachfigurenarten';
+readings.push(...schachfigurenartenTexts);
