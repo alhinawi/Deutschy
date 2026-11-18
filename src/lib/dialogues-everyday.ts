@@ -24713,3 +24713,218 @@ Object.assign(dialogueEvidence,{
     "die Quellenzuordnung muss erhalten bleiben."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "abstand-zwischen-den-paaren",
+    "level": "A1",
+    "title": [
+      "Welches Foto gehört dazu?",
+      "أنهي صورة تبعها؟"
+    ],
+    "lines": [
+      [
+        "Tim",
+        "Ich lege die Karten direkt nebeneinander.",
+        "هحط الكروت جنب بعض على طول."
+      ],
+      [
+        "Mara",
+        "Lass bitte etwas Platz zwischen den Paaren.",
+        "سيب مسافة بين كل مجموعة والتانية لو سمحت."
+      ],
+      [
+        "Tim",
+        "Links liegt die Zitronenscheibe, richtig?",
+        "شريحة الليمون على الشمال، صح؟"
+      ],
+      [
+        "Mara",
+        "Ja. Und das passende Foto liegt darüber.",
+        "أيوه. وصورتها فوقها."
+      ],
+      [
+        "Tim",
+        "Rechts liegt die Orangenscheibe mit ihrem Foto.",
+        "على اليمين شريحة البرتقان مع صورتها."
+      ],
+      [
+        "Mara",
+        "Die Mehrzahlformen enden beide auf n.",
+        "الجمع بتاع الكلمتين بينتهي بإن."
+      ],
+      [
+        "Tim",
+        "Der freie Platz ist nur Abstand, keine dritte Karte.",
+        "المكان الفاضي مسافة بس مش كارت تالت."
+      ]
+    ],
+    "q": [
+      [
+        "Was möchte Mara zwischen den Paaren?",
+        "Etwas Platz.",
+        "Eine neue Frucht.",
+        "Einen Preis."
+      ],
+      [
+        "Wo liegt das passende Foto?",
+        "Über dem Wort.",
+        "Im Keller.",
+        "Unter dem Stuhl."
+      ],
+      [
+        "Was ist der freie Platz nicht?",
+        "Eine dritte Karte.",
+        "Abstand.",
+        "Ein Teil des Tisches."
+      ]
+    ]
+  },
+  {
+    "id": "erst-platz-dann-bild",
+    "level": "A2",
+    "title": [
+      "Ich dachte an den alten Platz",
+      "افتكرت المكان القديم"
+    ],
+    "lines": [
+      [
+        "Jonas",
+        "Darf ich die beiden Paare vertauschen?",
+        "ممكن أبدل مكان المجموعتين؟"
+      ],
+      [
+        "Lea",
+        "Ja, aber lass jedes Foto bei seinem Wort.",
+        "أيوه بس خلي كل صورة مع كلمتها."
+      ],
+      [
+        "Jonas",
+        "Jetzt decke ich die Wörter ab. Was siehst du links?",
+        "دلوقتي هغطي الكلمات. شايفة إيه على الشمال؟"
+      ],
+      [
+        "Lea",
+        "Zitronenscheibe. Moment, ich meine Orangenscheibe.",
+        "شريحة ليمون. لحظة، قصدي شريحة برتقان."
+      ],
+      [
+        "Jonas",
+        "Ich notiere deine erste Antwort und die Selbstkorrektur getrennt.",
+        "هسجل إجابتك الأولى وتصحيحك لنفسك كل واحد لوحده."
+      ],
+      [
+        "Lea",
+        "Zuerst habe ich an den alten Platz gedacht.",
+        "فكرت الأول في المكان القديم."
+      ],
+      [
+        "Jonas",
+        "Wir decken die Wörter auf und vergleichen mit der Liste.",
+        "نكشف الكلمات ونقارن بالقايمة."
+      ]
+    ],
+    "q": [
+      [
+        "Was soll bei jedem Foto bleiben?",
+        "Sein passendes Wort.",
+        "Eine neue Zahl.",
+        "Ein anderer Titel."
+      ],
+      [
+        "Wie lautet Leas korrigierte Antwort?",
+        "Orangenscheibe.",
+        "Zitronenscheibe.",
+        "Wortliste."
+      ],
+      [
+        "Was notiert Jonas getrennt?",
+        "Erste Antwort und Selbstkorrektur.",
+        "Nur zwei Preise.",
+        "Zwei neue Quellen."
+      ]
+    ]
+  },
+  {
+    "id": "bildfeld-ist-kein-massstab",
+    "level": "B1",
+    "title": [
+      "Das Feld ist gleich groß, nicht unbedingt die Scheibe",
+      "الخانة قد التانية مش بالضرورة الشريحة"
+    ],
+    "lines": [
+      [
+        "Emil",
+        "Die Bildfelder sind gleich groß. Dann sind die Scheiben auch gleich groß.",
+        "خانات الصور قد بعض. يبقى الشرايح كمان قد بعض."
+      ],
+      [
+        "Nora",
+        "Das folgt daraus nicht. Auf den Fotos fehlt ein Maßstab.",
+        "ده مش استنتاج لازم. الصور مافيهاش مقياس."
+      ],
+      [
+        "Emil",
+        "Ich streiche den Vergleich der tatsächlichen Größe.",
+        "هشطب مقارنة الحجم الحقيقي."
+      ],
+      [
+        "Nora",
+        "Die Lernwörter bleiben. Wir prüfen noch die Zuordnung zu den Quellen.",
+        "كلمات المذاكرة تفضل. نراجع كمان ربط الصور بالمصادر."
+      ],
+      [
+        "Emil",
+        "Eine Zentimeterangabe erfinden wir nicht.",
+        "مش هنألف رقم سنتيمترات."
+      ],
+      [
+        "Nora",
+        "Und wir verändern die Farben nicht für einen stärkeren Unterschied.",
+        "ومش هنغير الألوان عشان الفرق يبقى أقوى."
+      ],
+      [
+        "Emil",
+        "Die gleiche Darstellung beweist keine gleiche wirkliche Größe.",
+        "العرض المتساوي مش بيثبت حجم حقيقي متساوي."
+      ]
+    ],
+    "q": [
+      [
+        "Was fehlt auf den Fotos?",
+        "Ein Maßstab.",
+        "Jede Farbe.",
+        "Ein Bildfeld."
+      ],
+      [
+        "Was erfinden sie nicht?",
+        "Eine Zentimeterangabe.",
+        "Eine interne Notiz.",
+        "Einen korrigierten Entwurf."
+      ],
+      [
+        "Was beweist die gleiche Darstellung nicht?",
+        "Gleiche wirkliche Größe.",
+        "Gleich große Bildfelder.",
+        "Dass es zwei Lernwörter gibt."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "abstand-zwischen-den-paaren": [
+    "Lass bitte etwas Platz zwischen den Paaren.",
+    "das passende Foto liegt darüber.",
+    "keine dritte Karte."
+  ],
+  "erst-platz-dann-bild": [
+    "lass jedes Foto bei seinem Wort.",
+    "ich meine Orangenscheibe.",
+    "deine erste Antwort und die Selbstkorrektur getrennt."
+  ],
+  "bildfeld-ist-kein-massstab": [
+    "Auf den Fotos fehlt ein Maßstab.",
+    "Eine Zentimeterangabe erfinden wir nicht.",
+    "beweist keine gleiche wirkliche Größe."
+  ]
+});

@@ -564,3 +564,6 @@ for(const[topic,rows]of Object.entries(gewuerzformenGrammar))exercises[topic].pu
 
 import {blaetterzweigeGrammar} from './exercises-blaetterzweige';
 for(const[topic,rows]of Object.entries(blaetterzweigeGrammar))exercises[topic].push(...rows);
+
+import {zitrusscheibenGrammar} from './exercises-zitrusscheiben';
+for(const[topic,rows]of Object.entries(zitrusscheibenGrammar))exercises[topic].push(...rows);

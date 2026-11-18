@@ -2426,3 +2426,24 @@ Object.assign(readingEvidence,{
     "nicht vom Bestimmen unbekannter Pflanzen in der Natur."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zwischen-zwei-karten": [
+    "legt jedes Foto über die passende Wortkarte.",
+    "Links liegt nun das Zitronenpaar",
+    "Bei beiden Wörtern kommt ein n dazu.",
+    "Sie ist nur Abstand zwischen den Paaren."
+  ],
+  "alltag-a2-andere-reihenfolge-gleiche-paare": [
+    "ob sie die Bilder erkennt oder sich vor allem an die Plätze erinnert.",
+    "Jonas die beiden vollständigen Paare vertauscht.",
+    "korrigiert sich: Orangenscheibe.",
+    "Der Wechsel der Plätze hat die Bilder und Wörter nicht verändert."
+  ],
+  "alltag-b1-gleiche-groesse-kein-vergleich": [
+    "Er zeigt auf die äußeren Ränder der Bildfelder.",
+    "Emil streicht den Größenvergleich aus dem Entwurf.",
+    "Sie verändern die Farben nicht",
+    "die tatsächlichen Abmessungen der gezeigten Scheiben aber nicht aus diesen Darstellungen bestimmt werden können."
+  ]
+});

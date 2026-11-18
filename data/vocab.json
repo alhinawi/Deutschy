@@ -711,6 +711,10 @@
   {
    "id": "blaetterzweige",
    "ar": "ورق اللورا وفروع الروزماري"
+  },
+  {
+   "id": "zitrusscheiben",
+   "ar": "شرايح الليمون والبرتقان"
   }
  ],
  "words": [
@@ -14652,6 +14656,36 @@
     "file": "31192996.jpg",
     "commons": "https://www.pexels.com/photo/minimalist-rosemary-sprigs-on-red-surface-31192996/",
     "author": "Karen Laårk Boshoff",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "zitronenscheibe",
+   "topic": "zitrusscheiben",
+   "art": "die",
+   "de": "Zitronenscheibe",
+   "plural": "Zitronenscheiben",
+   "ar": "شريحة ليمون",
+   "photo": {
+    "file": "34040557.jpg",
+    "commons": "https://www.pexels.com/photo/sliced-lemons-in-a-vibrant-close-up-view-34040557/",
+    "author": "Bohdan Kyrychenko",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "orangenscheibe",
+   "topic": "zitrusscheiben",
+   "art": "die",
+   "de": "Orangenscheibe",
+   "plural": "Orangenscheiben",
+   "ar": "شريحة برتقان",
+   "photo": {
+    "file": "29919153.jpg",
+    "commons": "https://www.pexels.com/photo/fresh-citrus-orange-slices-on-reflective-surface-29919153/",
+    "author": "Karsten Sporenberg",
     "license": "Pexels License",
     "modified": true
    }

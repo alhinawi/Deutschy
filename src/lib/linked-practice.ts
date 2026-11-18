@@ -345,4 +345,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-das-ende-im-langen-wort',dialogue:'blatt-und-zweig-im-wort'},
  {reading:'alltag-a2-erst-antwort-dann-hilfe',dialogue:'antwort-oder-nachgesprochen'},
  {reading:'alltag-b1-gedrehtes-bild-gleicher-begriff',dialogue:'vierteldrehung-ohne-neue-eigenschaft'},
+ {reading:'alltag-a1-zwischen-zwei-karten',dialogue:'abstand-zwischen-den-paaren'},
+ {reading:'alltag-a2-andere-reihenfolge-gleiche-paare',dialogue:'erst-platz-dann-bild'},
+ {reading:'alltag-b1-gleiche-groesse-kein-vergleich',dialogue:'bildfeld-ist-kein-massstab'},
 ];
