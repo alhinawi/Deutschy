@@ -1,0 +1,632 @@
+{
+  "die Nudel": {
+    "url": "/clips/b7c3b96771d5163ac2b45f39597f57d6b06c349106dd57e15f9d60c2a070c75d.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:nudel"
+  },
+  "der Käse": {
+    "url": "/clips/923a2b14be5ca8a15ad04f2e2c7f59d5e17ec09107f504b8516f102cff6fcf4e.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:kaese"
+  },
+  "die Küche": {
+    "url": "/clips/c79932037e9ae0d8b49ca0b088c8f75719a887716e53436221ec38fbe1f686c8.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:kueche"
+  },
+  "die Tür": {
+    "url": "/clips/8044cf2ea37398ccb4ad00bf7f6541919f14e737f76192995582736c521ce6fc.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:tuer"
+  },
+  "die Lampe": {
+    "url": "/clips/e5bee728d71bfe5fc4f8031189ff8077d79106392493fb2a887a399320d4e39d.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:lampe"
+  },
+  "der Teppich": {
+    "url": "/clips/792fe88d70c5415926c5a2b6ae14d7247ef355669ef0c360bb0d8da6450c633f.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:teppich"
+  },
+  "die Straße": {
+    "url": "/clips/0c05438d17a67b70b3840474567e630fa26601bc38762a52cfb020950192645f.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:strasse"
+  },
+  "das Kino": {
+    "url": "/clips/6c149157efd881cd9eba113a451e540fd7e28f1c8037ae6109d0e4314b5547bc.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:kino"
+  },
+  "das Museum": {
+    "url": "/clips/4c5f1f8551126ba2191b87ddf22e3d3e299044da97c2485e005c542ea1228a7b.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:museum"
+  },
+  "das Auto": {
+    "url": "/clips/b8460049fb0b5b667303ffdf2d2727b4c5d7126180ea2d3842d8ce89c07bfb04.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:auto"
+  },
+  "die Mütze": {
+    "url": "/clips/5a09990333f2d1e81562301aee8de3a3021dd188a8e3627889ed397962d3bbf5.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:muetze"
+  },
+  "das Pferd": {
+    "url": "/clips/672556b12c138d82c3257e690310b43cdbdd369f67587481bb2a367db378f591.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:pferd"
+  },
+  "die Kuh": {
+    "url": "/clips/d71b8812e82b63d8cd8fd97d645ab79a6bf465c4fb817acfa6e98b9ef9045791.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:kuh"
+  },
+  "der Vogel": {
+    "url": "/clips/3327104c5600396670eaeef60e2ef00c887afed5ec991bf6c323f3a77b6e3f62.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:vogel"
+  },
+  "das Schaf": {
+    "url": "/clips/ba3338403adf6de9e0fccd58c7ef542bb26fec944fa5503e195ca695e331fba1.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:schaf"
+  },
+  "das Kamel": {
+    "url": "/clips/e40ae329e9d8d6d5c5deeef5a20e3259257d9fc4088b20dda0b1de5fca34af73.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:kamel"
+  },
+  "der Löwe": {
+    "url": "/clips/810f27f55ac50b14f26533d4f407e836236a48c83ca16aac7e175dffd0d12005.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:loewe"
+  },
+  "der Elefant": {
+    "url": "/clips/31f8ba1ba17209705f70974a1547b7ad07afc6cae291548f5c52874e8403b39b.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:elefant"
+  },
+  "der Esel": {
+    "url": "/clips/48da97ee024c2f21436b5bbace50630fa9dee89c443bbc6447dd2fae7c6b0d83.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:esel"
+  },
+  "die Ziege": {
+    "url": "/clips/ca8f490c9c22ceaa155c2e09debd359ba38197ff59c1c06e00d3af8a42d37c32.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:ziege"
+  },
+  "der Affe": {
+    "url": "/clips/626ef838ff60820cebe88b3bffd4418f3a410493ed4b616b6e7b2ba1b0fe4649.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:affe"
+  },
+  "die Ente": {
+    "url": "/clips/f494d7101cf8d4157e49733377eac51a0baaf989b1842e6f8d4e7e6511b307ca.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:ente"
+  },
+  "das Kaninchen": {
+    "url": "/clips/2aafcd912993d1120b323845ff5d0d882594ea2392bffff89cae94a1483ddb84.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:kaninchen"
+  },
+  "das Auge": {
+    "url": "/clips/16d2c2fd1cf3bd6f0d78c3b9cd83bbbf5731b7fa31dabd2c9df620beb9d18b3c.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:auge"
+  },
+  "das Ohr": {
+    "url": "/clips/0a7b2badd352f4898b7cc33ad8463e18d93363cd35af2e65f19adb6a8689a391.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:ohr"
+  },
+  "der Zahn": {
+    "url": "/clips/f80ef0e8c46c8e2de0a505ab46463c993c6acf9c5ca5366027eaeb3923f99911.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:zahn"
+  },
+  "das Herz": {
+    "url": "/clips/648aaff61c72e386b1e559852e9a207fe8882006ea2086eec5c8d82beb9e6f85.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:herz"
+  },
+  "der Arm": {
+    "url": "/clips/ffec361fd651430d9b07dc79a2b79642de9950be598f703c7d86f754b45e238b.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:arm"
+  },
+  "die Hand": {
+    "url": "/clips/c86f4bd06f2a97cbaa2a08a166889c2f8c29a9849d938733a01164294e6a922d.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:hand"
+  },
+  "der Fuß": {
+    "url": "/clips/af03a3f0d76e155809ce036121223c545ae4ec50db4df96523e600717fb005a2.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:fuss"
+  },
+  "das Haar": {
+    "url": "/clips/18a7f986c4387aa4398c1e32b8ec6c30eb7f517733e024580713f9c8f298f853.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:haar"
+  },
+  "das Buch": {
+    "url": "/clips/fa8e985dfea42293692c17302645c913ac7e679d79051f2488c0494f5522f3e9.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:buch"
+  },
+  "der Stift": {
+    "url": "/clips/6e36dbf7e2bbb1bb0daa9db7fda31cabe62f5b26b6decd1e0efa5573a6384ce0.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:stift"
+  },
+  "der Computer": {
+    "url": "/clips/4d0defe675b425c2675309ac2a659a64e785c3ce597f0168f309fd284cab6e0a.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:computer"
+  },
+  "das Handy": {
+    "url": "/clips/6f581f7e40bd5cd1f1ee1b44a57bb9b7ec310718a3c5f66c99c2665f7322a0d3.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:handy"
+  },
+  "das Papier": {
+    "url": "/clips/03484fb91f6e8f5708586c2eb4ed553eafb588ee21924a62bf68527e093a3c00.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:papier"
+  },
+  "die Tafel": {
+    "url": "/clips/b01c89364c9c7a5395d56f1cd45e541d9a947a4554cb156f2c75078bc52f8586.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:tafel"
+  },
+  "der Bleistift": {
+    "url": "/clips/95cd97d1e9cb6f958abe078f52e8628e3e38192fcdbe7893b0949ede0ac9a1eb.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:bleistift"
+  },
+  "die Schere": {
+    "url": "/clips/e08dee5fa9d5633f923c5dba478127fd575ca2b0e04b7cf083a42ec7081fbd87.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:schere"
+  },
+  "der Rucksack": {
+    "url": "/clips/bdd46c08704bd9900a2a56d44a1e873b7b42c67353bb09603fd285c2f74d535e.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:rucksack"
+  },
+  "das Lineal": {
+    "url": "/clips/6ae9d22d7f93cb3fc56b7a9adcd75510c1ac356b9b19d0973d2918ded692fc25.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:lineal"
+  },
+  "die Zeitung": {
+    "url": "/clips/af9819ac61057031618f19c945da8dd370d51ec83037362cf2b27b8cbf4c942f.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:zeitung"
+  },
+  "das Heft": {
+    "url": "/clips/9d7934a447bffd45a737737a5e4bed7da0662b3a8521f79fa2653af6ea930bc7.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:heft"
+  },
+  "die Sonne": {
+    "url": "/clips/0d10136da09657ac97deb6473af4b66d93fef0f71fe132ac1709c923dce4877d.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:sonne"
+  },
+  "der Mond": {
+    "url": "/clips/018c9d9c629892e90bc8c3854258647abbfa0057a24610f5d3a51ac08da71511.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:mond"
+  },
+  "der Schnee": {
+    "url": "/clips/5d15a2ff3b931669f8f4563e951f337acb9afee17db0680b192ba2f3fa3d755c.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:schnee"
+  },
+  "der Baum": {
+    "url": "/clips/d860a4c469bab7aea8dbf7bdfa92db6fb327d0a52538995a7883d3bf8f071b7e.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:baum"
+  },
+  "die Blume": {
+    "url": "/clips/fc7cbf64fb2e108d62bbbf54ca46090633b11e52b4b5858eb34befeab209262e.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:blume"
+  },
+  "der Berg": {
+    "url": "/clips/a6bb28330916bb9234a1641b66b971687baf9a0cb02def42e973684b51535cce.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:berg"
+  },
+  "das Meer": {
+    "url": "/clips/59a02eff00de1cde477cd493269adc8295e3cf1740e7c6060e985c808471948b.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:meer"
+  },
+  "die Wolke": {
+    "url": "/clips/10b7b80aa2188200cbb727688251dada96fcda2ca0729f70bc475daeeed1ff6c.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:wolke"
+  },
+  "der Fluss": {
+    "url": "/clips/aa3ed50ceb9bc2bd3bcfcd6d29eb45b9d42586f3d0ea13025b08c45e06e2423a.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:fluss"
+  },
+  "der Strand": {
+    "url": "/clips/8bcc5190957a83cf31f87e1d6bfaffd738f31be63c2d8d4f8030f947e061cdb2.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:strand"
+  },
+  "die Wüste": {
+    "url": "/clips/653063af6d171f04ccc4a97965100afec956b85d3c8283184a3fec0a0be91006.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:wueste"
+  },
+  "die Insel": {
+    "url": "/clips/e5ea5c5dc87b9b9755cfe0cbba8e7a3ec1e1b06788b23c07e8ff44baefb6bbc3.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:insel"
+  },
+  "der Regen": {
+    "url": "/clips/4c370fe7537ba30f49328b73613d70498962da0f2b49709aaff080399c5adffe.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:regen"
+  },
+  "der Arzt": {
+    "url": "/clips/2128ffb48d81a189db264bb02c718b4a45cf24f26bede74060f0eccbcd5ecfff.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:arzt"
+  },
+  "der Koch": {
+    "url": "/clips/ff44f385e0f6a27f265e89da67c4c8cfd02c84f74e02761a4edc60f394bcb9a6.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:koch"
+  },
+  "der Polizist": {
+    "url": "/clips/dd89a6c67a34d33d3c63e273d7ba43782dfaf2cddb5c573588a7ea880fd30a67.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:polizist"
+  },
+  "der Bäcker": {
+    "url": "/clips/83680e7d8ca6339ff7e83394237ad56853f5c7268975e6b9e2a3c5c9ffda5017.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:baecker"
+  },
+  "der Ingenieur": {
+    "url": "/clips/e35c3d3e17dd4e019a27d5123b92bbdd15ca0906af78fc3e4b0d426387da9883.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:ingenieur"
+  },
+  "der Pilot": {
+    "url": "/clips/7840165adfd16ad3d8edf111626367c27bef79ca20daa66ba5af8487b7d3b2e9.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:pilot"
+  },
+  "der Bauer": {
+    "url": "/clips/75f92ae081e836d7faab275ad111f37c7df19fa65066f3335f74b7a2b79ea02d.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:bauer"
+  },
+  "der Soldat": {
+    "url": "/clips/59afd40debf120fc3973225c3aeaaa801dbc6ac76a51cd8ff816159e988075ad.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:soldat"
+  },
+  "der Kellner": {
+    "url": "/clips/2e23404ffca2c90182899a58c9bf84a276c211ccab0df7918fa4b65b9e9ec2d5.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:kellner"
+  },
+  "der Teller": {
+    "url": "/clips/dd193dec1c3f25034c764558fd360c4feada677ae19a924cacf25677c839be76.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:teller"
+  },
+  "die Tasse": {
+    "url": "/clips/6765de6396b4b0fbfb2d6e058d8a6c342580940f77cf60eb101db766d008428a.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:tasse"
+  },
+  "das Glas": {
+    "url": "/clips/29c42674c164ecc6b4da337c93c4d7e81ea01a524e45889ffb59890b7334be33.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:glas"
+  },
+  "die Flasche": {
+    "url": "/clips/4d9091011ed39144f7210af97244e872d69c21ccc68801cd7eb2da09664aecab.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:flasche"
+  },
+  "die Pfanne": {
+    "url": "/clips/35bac762cf9f87c2293dc626df060f7085f3180dfdf3349013f0d2b61c049057.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:pfanne"
+  },
+  "die Wassermelone": {
+    "url": "/clips/0fb7d5aac64a01baf7661e623546945f4b6819e3120eeac6b64c2c8f0277ef06.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:wassermelone"
+  },
+  "der Salat": {
+    "url": "/clips/ca2cab8f2cb645c7bc5def917b21bc10977d2df0bb3f4159e6595f88bd9dfea8.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:salat"
+  },
+  "der Pilz": {
+    "url": "/clips/6d91da00c531bae9123ed46feb089e85d16c278971541fcb8087b50e34875d65.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:pilz"
+  },
+  "der Knoblauch": {
+    "url": "/clips/24813842d6aee1592c90aea76974cb49e1251846f33d6222941389af18b562b4.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:knoblauch"
+  },
+  "der Honig": {
+    "url": "/clips/6d4e8debe201ead731fc609d9c8e92b31a3af44f7485d638f6652d34abd3f08e.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:honig"
+  },
+  "die Schokolade": {
+    "url": "/clips/a5f9f8dff97158d850227eb3334d4ccad4d5b007703d2f9b6cc62c484bf7745a.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:schokolade"
+  },
+  "die Pizza": {
+    "url": "/clips/bec535f70da50b8fa4ddfeed91f0a09a208c9df485c89300e0cbf3aea3f49a18.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:pizza"
+  },
+  "der Löffel": {
+    "url": "/clips/bb8e7e13b424936ca8e28818ca346b72f4f15253b59a4ab065c9f2f647b045a2.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:loeffel"
+  },
+  "das Messer": {
+    "url": "/clips/94bc43a670cb6d5eda7ba91ec0859dab08a9f0170ab72bfa6f7fec4f2b1ac2a7.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:messer"
+  },
+  "der Topf": {
+    "url": "/clips/705081389348d5be92efa56f8eb086bebf73ad8b15732f28e1f37162752fe668.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:topf"
+  },
+  "die Birne": {
+    "url": "/clips/43e140fefa21e7b06d4d86963bf567539101ad8c88bae716659e2e6c80793d85.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:birne"
+  },
+  "die Kirsche": {
+    "url": "/clips/55fc1fde7540b8303bdc0df3012b91e278dba0dd2502609cc723be3bc216e976.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:kirsche"
+  },
+  "der Pfirsich": {
+    "url": "/clips/82aa77fcddc9ac86c5e13f1bad7848875fddde6370b611ccf70b050d2c0be8ec.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:pfirsich"
+  },
+  "die Paprika": {
+    "url": "/clips/735945598f8f61d54751828aea5460474ac6226fd16bf4569834fdfdf70b5dc1.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:paprika"
+  },
+  "die Kamera": {
+    "url": "/clips/d461aaf0b5b04f0794e2d8d9a1da3f49207e12bd4e957caee6b1c8cbf47bf80a.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:kamera"
+  },
+  "das Telefon": {
+    "url": "/clips/2427f96e9ac4135e133ac715a488a5b1c0ce1c524345b37a1c06d0e470ce9bf1.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:telefon"
+  },
+  "der Kühlschrank": {
+    "url": "/clips/f0f4ae77233999cc561ae9e5649b207b4b0340f1aa719c8a6111cbd1bf474e2e.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:kuehlschrank"
+  },
+  "die Waschmaschine": {
+    "url": "/clips/57b24e7c17e6beef7611651a7d5190f4da9ed82f91f2d18b6a04a2fd1ea3e01e.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:waschmaschine"
+  },
+  "die Gitarre": {
+    "url": "/clips/4ca3e12b74a288f51f663296fdc3872c3cd4642853c717fc998b3daf0cf69eae.mp3",
+    "voiceId": "Erinome",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:gitarre"
+  },
+  "das Klavier": {
+    "url": "/clips/ed04280a09c25a13e77e5295100c8b16a8ad839fe9c5b2f4db8e3c3653a651d5.mp3",
+    "voiceId": "Iapetus",
+    "shard": "deutschy-local",
+    "provider": "Gemini TTS",
+    "source": "noun:klavier"
+  }
+}
