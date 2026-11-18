@@ -381,4 +381,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-ein-foto-mit-drei-kakis',dialogue:'grauer-grund-dunkle-schale'},
  {reading:'alltag-a2-zwei-namen-im-obstregister',dialogue:'der-kontext-waehlt-die-bedeutung'},
  {reading:'alltag-b1-ein-bildausschnitt-fuer-die-lernseite',dialogue:'die-wichtigen-merkmale-erhalten'},
+ {reading:'alltag-a1-die-mappe-mit-den-gemuesekarten',dialogue:'zwei-karten-in-der-mappe'},
+ {reading:'alltag-a2-ein-buendel-ist-keine-neue-mehrzahl',dialogue:'gemuesemenge-was-wird-gezaehlt'},
+ {reading:'alltag-b1-eine-nachfrage-ohne-unterbrechung',dialogue:'erst-hoeren-dann-gezielt-fragen'},
 ];

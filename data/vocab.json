@@ -759,6 +759,10 @@
   {
    "id": "kakikarambole",
    "ar": "كاكي وكارامبولا"
+  },
+  {
+   "id": "okramangold",
+   "ar": "بامية وسلق"
   }
  ],
  "words": [
@@ -15058,6 +15062,36 @@
     "file": "40000999.jpg",
     "commons": "https://www.pexels.com/photo/fresh-starfruit-slices-and-whole-carambola-40000999/",
     "author": "Jahra Tasfia Reza",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "okra",
+   "topic": "okramangold",
+   "art": "die",
+   "de": "Okra",
+   "plural": "Okras",
+   "ar": "بامية",
+   "photo": {
+    "file": "5651830.jpg",
+    "commons": "https://www.pexels.com/photo/green-vegetable-on-brown-wooden-table-5651830/",
+    "author": "Cassidy Marshall",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "mangold",
+   "topic": "okramangold",
+   "art": "der",
+   "de": "Mangold",
+   "plural": "",
+   "ar": "سلق",
+   "photo": {
+    "file": "35525476.jpg",
+    "commons": "https://www.pexels.com/photo/fresh-vibrant-rainbow-chard-close-up-35525476/",
+    "author": "L. Lum",
     "license": "Pexels License",
     "modified": true
    }

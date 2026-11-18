@@ -600,3 +600,6 @@ for(const[topic,rows]of Object.entries(wurzelgemueseGrammar))exercises[topic].pu
 
 import {kakikaramboleGrammar} from './exercises-kakikarambole';
 for(const[topic,rows]of Object.entries(kakikaramboleGrammar))exercises[topic].push(...rows);
+
+import {okramangoldGrammar} from './exercises-okramangold';
+for(const[topic,rows]of Object.entries(okramangoldGrammar))exercises[topic].push(...rows);

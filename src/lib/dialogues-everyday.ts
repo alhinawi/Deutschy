@@ -27293,3 +27293,218 @@ Object.assign(dialogueEvidence,{
     "Über Geschmack und Reife sagen wir anhand der Fotos nichts."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "zwei-karten-in-der-mappe",
+    "level": "A1",
+    "title": [
+      "Erst schauen, dann erinnern",
+      "نبص الأول وبعدها نفتكر"
+    ],
+    "lines": [
+      [
+        "Eva",
+        "Die Karte liegt falsch herum. Ich drehe sie um.",
+        "الكارت مقلوب. هعدله."
+      ],
+      [
+        "Nabil",
+        "Danke. Jetzt sehe ich den Mangold.",
+        "شكرًا. دلوقتي شايف السلق."
+      ],
+      [
+        "Eva",
+        "Welcher Artikel gehört dazu?",
+        "أنهي أداة تعريف ليه؟"
+      ],
+      [
+        "Nabil",
+        "Der Mangold. Auf der anderen Karte steht die Okra.",
+        "der Mangold. وعلى الكارت التاني مكتوب die Okra."
+      ],
+      [
+        "Eva",
+        "Gut. Mach die Mappe zu und sag beide Wörter noch einmal.",
+        "تمام. اقفل الملف وقول الكلمتين تاني."
+      ],
+      [
+        "Nabil",
+        "An die roten Stiele erinnere ich mich zuerst.",
+        "أنا فاكر السيقان الحمرا الأول."
+      ],
+      [
+        "Eva",
+        "Für das andere Wort sage ich dir nur den ersten Laut.",
+        "بالنسبة للكلمة التانية هقولك أول صوت بس."
+      ]
+    ],
+    "q": [
+      [
+        "Was sieht Nabil nach dem Umdrehen?",
+        "Den Mangold.",
+        "Einen Bus.",
+        "Einen Schlüssel."
+      ],
+      [
+        "Welcher Artikel gehört zu Mangold?",
+        "Der.",
+        "Die.",
+        "Das."
+      ],
+      [
+        "Welche Hilfe bietet Eva zuletzt an?",
+        "Nur den ersten Laut.",
+        "Den ganzen Satz schriftlich.",
+        "Eine neue Fotokarte."
+      ]
+    ]
+  },
+  {
+    "id": "gemuesemenge-was-wird-gezaehlt",
+    "level": "A2",
+    "title": [
+      "Blätter, Bündel oder Früchte?",
+      "ورق ولا ربط ولا ثمار؟"
+    ],
+    "lines": [
+      [
+        "Paula",
+        "Kann ich mehrere Blätter einfach Mangolde nennen?",
+        "ينفع أسمي كذا ورقة Mangolde وخلاص؟"
+      ],
+      [
+        "Samir",
+        "Nein. Diese Mehrzahl meint verschiedene Sorten.",
+        "لأ. الجمع ده المقصود بيه أصناف مختلفة."
+      ],
+      [
+        "Paula",
+        "Dann schreibe ich drei Blätter Mangold.",
+        "يبقى أكتب drei Blätter Mangold."
+      ],
+      [
+        "Samir",
+        "Genau. Du zählst die Blätter, nicht die Sorten.",
+        "بالظبط. إنتي بتعدي الورق، مش الأصناف."
+      ],
+      [
+        "Paula",
+        "Und bei zwei Bündeln bleibt Mangold gleich?",
+        "ومع ربطتين Mangold بتفضل زي ما هي؟"
+      ],
+      [
+        "Samir",
+        "Ja. Die Mehrzahl gehört hier zu Bündel.",
+        "أيوه. الجمع هنا لكلمة Bündel."
+      ],
+      [
+        "Paula",
+        "Bei mehreren Okrafrüchten kann ich dagegen Okras sagen.",
+        "لكن مع كذا ثمرة بامية أقدر أقول Okras."
+      ]
+    ],
+    "q": [
+      [
+        "Was meint Mangolde hier?",
+        "Verschiedene Sorten.",
+        "Drei beliebige Blätter.",
+        "Zwei Fotos."
+      ],
+      [
+        "Was zählt Paula mit drei Blätter Mangold?",
+        "Die Blätter.",
+        "Die Geschäfte.",
+        "Die Wörterbücher."
+      ],
+      [
+        "Zu welchem Wort gehört Bündel?",
+        "Bündel.",
+        "Mangold.",
+        "Okra."
+      ]
+    ]
+  },
+  {
+    "id": "erst-hoeren-dann-gezielt-fragen",
+    "level": "B1",
+    "title": [
+      "Welche Hilfe brauchst du?",
+      "محتاج مساعدة في إيه؟"
+    ],
+    "lines": [
+      [
+        "David",
+        "Ich habe eine Frage zum Wort Mangold notiert.",
+        "كتبت سؤال عن كلمة Mangold."
+      ],
+      [
+        "Selma",
+        "Geht es um die Bedeutung oder um die Schreibweise?",
+        "السؤال عن المعنى ولا طريقة الكتابة؟"
+      ],
+      [
+        "David",
+        "Bitte sprich es langsam und zeig mir die passende Karte.",
+        "انطقيها بالراحة ووريني الكارت المناسب لو سمحتي."
+      ],
+      [
+        "Selma",
+        "Der Mangold. Die roten Stiele beschreibe ich nur für dieses Foto.",
+        "der Mangold. أنا بوصف السيقان الحمرا للصورة دي بس."
+      ],
+      [
+        "David",
+        "Bei Okra kenne ich die Bedeutung, aber nicht die Mehrzahl.",
+        "مع Okra أنا عارف المعنى بس مش الجمع."
+      ],
+      [
+        "Selma",
+        "In meinen Notizen steht Okras. Andere Formen prüfen wir getrennt.",
+        "في ملاحظاتي مكتوب Okras. الصيغ التانية نراجعها لوحدها."
+      ],
+      [
+        "David",
+        "Gut. Offene Fragen markieren wir für die Wörterbuchprüfung.",
+        "تمام. الأسئلة المفتوحة نعلم عليها عشان نراجعها في القاموس."
+      ]
+    ],
+    "q": [
+      [
+        "Was soll Selma zu Mangold tun?",
+        "Langsam sprechen und die Karte zeigen.",
+        "Einen Einkauf auslösen.",
+        "Eine Sorte erfinden."
+      ],
+      [
+        "Was kennt David bei Okra schon?",
+        "Die Bedeutung.",
+        "Die sichere Mehrzahl.",
+        "Alle Sorten weltweit."
+      ],
+      [
+        "Was machen sie mit offenen Fragen?",
+        "Sie markieren sie für die Wörterbuchprüfung.",
+        "Sie erklären sie ungeprüft für richtig.",
+        "Sie löschen ihre Notizen."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "zwei-karten-in-der-mappe": [
+    "Jetzt sehe ich den Mangold.",
+    "Der Mangold.",
+    "nur den ersten Laut."
+  ],
+  "gemuesemenge-was-wird-gezaehlt": [
+    "verschiedene Sorten.",
+    "Du zählst die Blätter",
+    "Die Mehrzahl gehört hier zu Bündel."
+  ],
+  "erst-hoeren-dann-gezielt-fragen": [
+    "sprich es langsam und zeig mir die passende Karte.",
+    "Bei Okra kenne ich die Bedeutung",
+    "Offene Fragen markieren wir für die Wörterbuchprüfung."
+  ]
+});
