@@ -1,63 +1,13 @@
 import NextStudy from '@/components/NextStudy';
-import LevelRoutes from '@/components/LevelRoutes';
 import Link from 'next/link';
-import { topics, words, wordsOf, img } from '@/lib/data';
-import { arWords } from '@/lib/arcount';
-import { T } from '@/lib/i18n';
-import { TopicName } from '@/components/L';
-
-export default function Home() {
-  const hero = words.filter((w) => ['apfel', 'pferd', 'fahrrad', 'kaffee'].includes(w.id));
-  return (
-    <div className="space-y-14">
-      <NextStudy />
-      <LevelRoutes />
-      <section className="grid items-center gap-8 lg:grid-cols-2">
-        <div className="space-y-5">
-          <p className="num text-sm font-bold text-accent"><T ar={`من A1 لحد C2 · ${arWords(words.length)} بصور حقيقية جاهزة دلوقتي`} en={`A1 to C2 · ${words.length} words with real photos, ready now`} /></p>
-          <h1 className="ar-title min-h-[2.3em] text-4xl font-bold leading-[1.15] md:text-6xl">
-            <T ar="الألماني بقى " en="German is easier " /><span className="text-accent"><T ar="أسهل" en="with pictures" /></span><T ar=" بالصورة والعربي المصري" en=" and plain explanations" />
-          </h1>
-          <p className="max-w-lg text-lg text-muted"><T ar="اتعلّم الاسم مع صورته وأداة التعريف، وراجع الجمع لما يكون معروض. ذاكر بالكروت، وبعدها اختبر نفسك في الألعاب." en="Learn each noun with its photo and article, and review its plural where shown. Study the cards, then test yourself in the games." /></p>
-          <div className="flex flex-wrap gap-3">
-            <Link href="/helper/" className="rounded-full border border-line px-6 py-3 font-bold hover:bg-card"><T ar="مساعد مذاكرة الألماني" en="German study helper" /></Link>
-            <Link href="/food/" className="rounded-full border border-line px-6 py-3 font-bold hover:bg-card"><T ar="الأكل بالصور" en="Food in pictures" /></Link>
-            <Link href="/drinks/" className="rounded-full border border-line px-6 py-3 font-bold hover:bg-card"><T ar="المشروبات بالصور" en="Drinks in pictures" /></Link>
-            <Link href="/animals/" className="rounded-full border border-line px-6 py-3 font-bold hover:bg-card"><T ar="الحيوانات بالصور" en="Animals in pictures" /></Link>
-            <Link href="/lessons/" className="rounded-full bg-accent px-6 py-3 font-bold text-accent-ink"><T ar="ابدأ الدروس" en="Start lessons" /></Link>
-            <Link href="/grammar/" className="rounded-full border border-line px-6 py-3 font-bold hover:bg-card"><T ar="القواعد" en="Grammar" /></Link>
-            <Link href="/verbs/" className="rounded-full border border-line px-6 py-3 font-bold hover:bg-card"><T ar="الأفعال" en="Verbs" /></Link>
-            <Link href="/games/" className="rounded-full border border-line px-6 py-3 font-bold hover:bg-card"><T ar="العب" en="Play" /></Link>
-            <Link href="/account/" className="rounded-full border border-line px-6 py-3 font-bold hover:bg-card"><T ar="سجّل حساب" en="Create account" /></Link>
-          </div>
-        </div>
-        <div className="grid grid-cols-2 gap-3">
-          {hero.map((w) => (
-            <div key={w.id} className="overflow-hidden rounded-2xl border border-line bg-card">
-              {/* eslint-disable-next-line @next/next/no-img-element */}
-              <img src={img(w)} alt={w.de} className="photo" width={480} height={360} />
-              <p className="de p-3 text-lg font-semibold"><span className="text-accent">{w.art}</span> {w.de}</p>
-            </div>
-          ))}
-        </div>
-      </section>
-      <section>
-        <h2 className="ar-title mb-5 text-3xl font-bold"><T ar="المستوى A1 · الدروس" en="Level A1 · Lessons" /></h2>
-        <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-          {topics.map((t) => {
-            const ws = wordsOf(t.id);
-            return (
-              <Link key={t.id} href={`/lessons/${t.id}/`} className="group overflow-hidden rounded-2xl border border-line bg-card hover:border-accent">
-                {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={img(ws[0])} alt="" className="photo" width={480} height={360} loading="lazy" />
-                <div className="p-4">
-                  <p className="ar-title text-xl text-ink"><TopicName id={t.id} /> · <span className="num">{ws.length}</span></p>
-                </div>
-              </Link>
-            );
-          })}
-        </div>
-      </section>
-    </div>
-  );
-}
+import {words,img} from '@/lib/data';
+import {T} from '@/lib/i18n';
+const sections=[['/lessons/','الكلمات بالصور','Picture vocabulary','الاسم والأداة والجمع، موضوع بموضوع.','Nouns, articles and plurals, topic by topic.'],['/grammar/','افهم القاعدة','Understand grammar','شرح وأمثلة، وبعدها سؤال تجرب فيه.','Explanations, examples, then a question to try.'],['/reading/','اقرا واسمع','Read and listen','نصوص قصيرة وأسئلة من نفس النص.','Short texts with evidence-based questions.'],['/speaking/','اتدرّب على الكلام','Practise speaking','اقرا بصوتك أو جرّب حوار.','Read aloud or practise a dialogue.'],['/verbs/','الأفعال والتصريف','Verbs and conjugation','دوّر على الفعل وراجع استخدامه.','Find a verb and practise using it.'],['/games/','اختبر الكلمات','Test your vocabulary','العب على الكلمات اللي ذاكرتها.','Play with the words you studied.']];
+export default function Home(){const apple=words.find(w=>w.id==='apfel')!;return <div className="space-y-10 pb-3">
+ <header className="space-y-3 border-b border-line pb-6"><p className="text-xs font-bold tracking-widest text-accent"><span dir="ltr">DEUTSCHY</span> <span aria-hidden="true"> / </span><T ar="ألماني على مهلك" en="GERMAN, AT YOUR PACE"/></p><h1 className="text-3xl font-extrabold leading-snug sm:text-5xl"><T ar="كل يوم، خطوة ألماني." en="A little German. Every day."/></h1><p className="max-w-xl leading-7 text-muted"><T ar="من أول حرف لأول حوار. شرح بالمصري، أمثلة ألماني، وتمرين تعرف بيه فهمت ولا لأ." en="From your first letter to your first conversation. Plain explanations, German examples, and practice that checks understanding."/></p></header>
+ <NextStudy/>
+ <section aria-labelledby="home-levels" className="space-y-4"><div className="flex flex-wrap items-center justify-between gap-2"><h2 id="home-levels" className="text-xl font-bold"><T ar="مش بتبدأ من الصفر؟" en="Not starting from zero?"/></h2><Link href="/start/" className="inline-flex min-h-11 items-center text-sm underline"><T ar="اختار حسب هدفك" en="Choose by your goal"/></Link></div><div className="grid grid-cols-6 gap-1.5">{['A1','A2','B1','B2','C1','C2'].map(l=><Link key={l} href={`/levels/${l}/`} className="num flex min-h-14 items-center justify-center rounded-xl border border-line bg-card text-lg font-bold hover:border-accent">{l}</Link>)}</div><p className="text-xs leading-6 text-muted"><T ar="مسارات تدريب مفتوحة، مش تحديد مستوى أو منهج رسمي كامل." en="Open practice paths, not placement or a complete official syllabus."/></p></section>
+ <section className="grid overflow-hidden rounded-3xl border border-line bg-card sm:grid-cols-2"><div className="space-y-3 p-5"><p className="text-xs font-bold text-accent"><T ar="بص، افهم، افتكر" en="SEE IT. LEARN IT. REMEMBER IT."/></p><h2 className="text-2xl font-bold"><T ar="الكلمة مش لوحدها." en="A word is more than a word."/></h2><p className="text-sm leading-7 text-muted"><T ar="احفظ الاسم مع أداته وصورته. مكتبة حقيقية تقدر تدوّر فيها بدل ما تتوه في قوائم طويلة." en="Learn a noun with its article and photo. A searchable library instead of an endless list."/></p><Link href="/lessons/" className="inline-flex min-h-11 items-center font-bold underline underline-offset-4"><T ar={`افتح مكتبة الـ ${words.length} كلمة`} en={`Explore ${words.length} picture words`}/></Link></div><div className="relative min-h-44 overflow-hidden border-t border-line sm:border-s sm:border-t-0"><img src={img(apple)} alt="der Apfel" width={640} height={480} loading="lazy" className="h-52 w-full object-cover sm:h-full"/><p dir="ltr" lang="de" className="de absolute bottom-3 start-3 rounded-xl border border-line bg-card px-4 py-2 text-xl"><span className="text-accent">der</span> Apfel</p></div></section>
+ <section aria-labelledby="home-library" className="space-y-4"><div className="flex items-center justify-between gap-3"><h2 id="home-library" className="text-2xl font-bold"><T ar="افتح دفتر تاني" en="Open another chapter"/></h2><span className="text-xs text-muted"><T ar="كل أدواتك موجودة" en="Your full library"/></span></div><div className="divide-y divide-line border-y border-line">{sections.map(([href,ar,en,subAr,subEn],i)=><Link key={href} href={href} className="flex min-h-20 items-center gap-4 py-4"><span dir="ltr" className="num text-xs text-accent">0{i+1}</span><div className="min-w-0 flex-1"><h3 className="font-bold"><T ar={ar} en={en}/></h3><p className="mt-1 text-xs leading-6 text-muted"><T ar={subAr} en={subEn}/></p></div><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" className="h-4 w-4 shrink-0 text-accent rtl:rotate-180"><path d="M5 12h14m-6-6 6 6-6 6"/></svg></Link>)}</div><div className="flex flex-wrap gap-2">{[['/animals/','الحيوانات','Animals'],['/food/','الأكل','Food'],['/drinks/','المشروبات','Drinks'],['/study-sheets/','ورق المذاكرة','Study sheets']].map(([href,ar,en])=><Link key={href} href={href} className="inline-flex min-h-11 items-center rounded-full border border-line px-4 text-sm"><T ar={ar} en={en}/></Link>)}</div></section>
+ <section className="border-s-4 border-accent bg-card p-5"><h2 className="font-bold"><T ar="سؤال واقف معاك؟" en="Stuck on a question?"/></h2><p className="mt-2 text-sm leading-7 text-muted"><T ar="المساعد يشرح نقطة صغيرة. ردوده آلية وممكن تغلط؛ الدروس والتمارين هي الأساس." en="The helper can explain a small point. Automated answers can be wrong; lessons and practice come first."/></p><Link href="/helper/" className="mt-2 inline-flex min-h-11 items-center font-bold underline"><T ar="اسأل مساعد الألماني" en="Ask the German helper"/></Link></section>
+ </div>}
