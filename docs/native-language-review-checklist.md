@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-seventy-first product update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-seventy-second product update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1787,6 +1787,12 @@ The learning path no longer has manual lesson-completion checkboxes. Two origina
 Review all 16 prompts, distractors and explanations in `src/lib/checkpoint-questions.ts`, the Arabic/English completion copy in `src/components/LessonCheckpoint.tsx`, and all 14 visible path rules in `src/lib/progress.ts`. Pay particular attention to Egyptian Arabic clarity, the limits of the written pronunciation review, and the limited automatic writing checks. The complete rule and storage-compatibility ledger is `docs/completion171-rules.md`.
 
 Old pronunciation/basics completion flags remain clearly labeled prior records. They are not converted to quiz passes or new XP. Existing saved learner data is not reset. Other steps retain their established activity rules. Review status: German and Egyptian Arabic editorial review still pending; automated tests and mobile rendering checks are not editorial approval.
+
+## Word discovery update 172: check translated search wording
+
+Lesson discovery, photo credits and saved-review word selection now search the existing English meanings as well as German forms, plurals and Egyptian Arabic. They share case-insensitive, Unicode-normalized substring matching, trim and collapse spaces, and treat German ß/ss alike for discovery only. They do not remove umlaut distinctions or change answer grading. Each field is matched separately, so an accidental phrase spanning different fields is not a result.
+
+Review the new Arabic/English labels and help text in LessonBrowser, CreditsBrowser and AnswerReview. Existing catalogue order and lesson numbers stay unchanged. Word selection shows the first 15 matches and the full count; saving still needs an explicit Save click. Search itself does not change XP, progress or saved cards. Photo-credit file/author lookup remains available. No new German teaching content or language-review sign-off is implied.
 
 ## 3. Wider review queue after the focused batch
 
