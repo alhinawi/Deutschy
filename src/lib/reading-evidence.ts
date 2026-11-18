@@ -2615,3 +2615,24 @@ Object.assign(readingEvidence,{
     "Eine Aussage über Belastbarkeit, geeignete Anwendung oder sichere Montage folgt daraus nicht."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zwei-schalen-auf-bildern": [
+    "Links liegt eine Muschelschale auf Sand.",
+    "Ein kleiner grüner Trieb steht davor.",
+    "verbessert sich: das Schneckenhaus.",
+    "Sie haben heute Bilder beschrieben."
+  ],
+  "alltag-a2-ein-haus-mehrere-haeuser": [
+    "Malik bemerkt sofort den Unterschied bei den Artikeln der Einzahl.",
+    "Malik markiert den Umlaut und die Endung er.",
+    "Die Veränderung des einen Wortes wird nicht einfach auf das andere übertragen.",
+    "Die Zahlen sind Teil der Übung und keine Bestandsliste zu den ausgewählten Fotos."
+  ],
+  "alltag-b1-zwei-quellen-keine-reiseerinnerung": [
+    "Keiner von beiden war bei den Aufnahmen dabei.",
+    "Auch das Alter der Schalen lässt sich aus der Auswahl nicht bestimmen.",
+    "Die Umrisse sollen gut erkennbar bleiben",
+    "Diese wäre dann als Fiktion gekennzeichnet"
+  ]
+});

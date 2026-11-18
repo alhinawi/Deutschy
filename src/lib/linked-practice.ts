@@ -372,4 +372,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zwei-karten-in-der-werkstatt',dialogue:'foto-statt-montage'},
  {reading:'alltag-a2-das-ende-des-langen-worts',dialogue:'zwei-bedeutungsgruppen'},
  {reading:'alltag-b1-farbe-und-materialangabe',dialogue:'beleuchtung-statt-beschichtung'},
+ {reading:'alltag-a1-zwei-schalen-auf-bildern',dialogue:'ueberschriften-ausblenden'},
+ {reading:'alltag-a2-ein-haus-mehrere-haeuser',dialogue:'jede-mehrzahl-einzeln'},
+ {reading:'alltag-b1-zwei-quellen-keine-reiseerinnerung',dialogue:'keine-erfundene-eigene-erfahrung'},
 ];

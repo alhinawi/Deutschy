@@ -747,6 +747,10 @@
   {
    "id": "kleinteile",
    "ar": "وردة مسمار وصامولة"
+  },
+  {
+   "id": "schalenformen",
+   "ar": "صدفة محار وقوقعة حلزون"
   }
  ],
  "words": [
@@ -14958,6 +14962,36 @@
     "file": "28119580.jpg",
     "commons": "https://www.pexels.com/photo/nuts-and-bolts-28119580/",
     "author": "Nic Wood",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "muschelschale",
+   "topic": "schalenformen",
+   "art": "die",
+   "de": "Muschelschale",
+   "plural": "Muschelschalen",
+   "ar": "صدفة محار",
+   "photo": {
+    "file": "20544152.jpg",
+    "commons": "https://www.pexels.com/photo/shell-on-beach-20544152/",
+    "author": "Chelsie Grace",
+    "license": "Pexels License",
+    "modified": true
+   }
+  },
+  {
+   "id": "schneckenhaus",
+   "topic": "schalenformen",
+   "art": "das",
+   "de": "Schneckenhaus",
+   "plural": "Schneckenhäuser",
+   "ar": "قوقعة حلزون",
+   "photo": {
+    "file": "15898599.jpg",
+    "commons": "https://www.pexels.com/photo/snail-shell-in-close-up-view-15898599/",
+    "author": "Anton Atanasov",
     "license": "Pexels License",
     "modified": true
    }
