@@ -20,6 +20,7 @@ export const sidebar: NavGroup[] = [
   })),
   { id: 'content', ar: 'الموسوعة', en: 'Encyclopedia', items: [
     {href:'/animals/',ar:'الحيوانات بالصور',en:'Animals in pictures'},
+    {href:'/helper/',ar:'مساعد مذاكرة الألماني',en:'German study helper'},
     {href:'/food/',ar:'الأكل بالصور',en:'Food in pictures'},
     {href:'/drinks/',ar:'المشروبات بالصور',en:'Drinks in pictures'},
     {href:'/perfekt/',ar:'الماضي',en:'Past tenses'},
