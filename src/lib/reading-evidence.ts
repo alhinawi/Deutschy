@@ -2846,3 +2846,24 @@ Object.assign(readingEvidence,{
     "Die Gruppe kann an einem sichtbaren Ergebnis anknüpfen, ohne so zu tun, als sei der ganze Lernprozess abgeschlossen."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-ein-bild-und-zwei-namenskarten": [
+    "Omar dreht die Karte um und liest Rotkehlchen.",
+    "Lina zeigt auf das einzelne Tier im Foto.",
+    "Die Kreise sind nur Zählhilfen und keine weiteren Vogelfotos.",
+    "Zum Schluss räumen sie die Kreise in eine kleine Dose."
+  ],
+  "alltag-a2-eine-korrektur-am-richtigen-ort": [
+    "Bei der Mehrzahl Amseln fehlt das n.",
+    "Unter dem Foto wird dagegen das eine abgebildete Tier benannt.",
+    "Danach liest er den vollständigen Satz noch einmal.",
+    "Das bedeutet nur, dass diese eine Stelle geprüft und geändert wurde."
+  ],
+  "alltag-b1-ein-beispiel-ist-keine-vollstaendige-regel": [
+    "Das einzelne Foto zeigt ein Beispiel und belegt nicht, dass jedes Tier dieser Art gleich aussieht.",
+    "Die Amsel auf diesem Foto hat braunes Gefieder.",
+    "Dort suchen sie den Artikel und die Mehrzahl jedes Namens nach.",
+    "Ein Bild kann beim Erinnern helfen, entscheidet aber nicht über das grammatische Geschlecht oder die Mehrzahlform."
+  ]
+});

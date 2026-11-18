@@ -20,7 +20,7 @@ export default function CreditsBrowser() {
     <div dir="ltr" className="overflow-x-auto rounded-2xl border border-line bg-card" tabIndex={0} role="region" aria-label={t('جدول حقوق الصور، يتحرك بالعرض', 'Photo credits table, scroll horizontally')}>
       <table className="w-full text-start text-sm" dir="ltr">
         <caption className="p-3 text-left text-muted">{t('حقوق الصور وروابط الملفات الأصلية', 'Photo credits and original source links')}</caption>
-        <thead><tr className="border-b border-line text-left text-muted">{['Word', 'File', 'Author', 'License'].map(h => <th scope="col" key={h} className="p-3">{h}</th>)}</tr></thead>
+        <thead><tr className="border-b border-line text-left text-muted">{['Word', 'File', 'Author', 'License'].map(h => <th scope="col" lang="en" key={h} className="p-3">{h}</th>)}</tr></thead>
         <tbody>{filtered.slice(current * PAGE_SIZE, (current + 1) * PAGE_SIZE).map(w => <tr key={w.id} className="border-b border-line last:border-0">
           <th scope="row" lang="de" className="p-3 de text-left font-normal">{w.art} {w.de}</th>
           <td className="p-3"><a aria-label={t(`الصورة الأصلية لـ ${w.art} ${w.de}: ${w.photo.file}`, `Original photo for ${w.art} ${w.de}: ${w.photo.file}`)} className="underline" href={w.photo.commons} target="_blank" rel="noreferrer">{w.photo.file}</a></td>

@@ -405,4 +405,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-die-bilder-nacheinander-zeigen',dialogue:'bilderfolge-erst-ein-foto-dann-das-andere'},
  {reading:'alltag-a2-ein-merkmal-reicht-nicht-immer',dialogue:'fotowahl-welches-merkmal-hilft'},
  {reading:'alltag-b1-ein-ergebnis-mit-grenzen',dialogue:'protokoll-erfolg-genau-beschreiben'},
+ {reading:'alltag-a1-ein-bild-und-zwei-namenskarten',dialogue:'wortformen-das-wort-bleibt-gleich'},
+ {reading:'alltag-a2-eine-korrektur-am-richtigen-ort',dialogue:'korrekturstelle-nur-den-beispielsatz-aendern'},
+ {reading:'alltag-b1-ein-beispiel-ist-keine-vollstaendige-regel',dialogue:'bildbeispiel-nicht-immer-braun'},
 ];

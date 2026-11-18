@@ -624,3 +624,6 @@ for(const[topic,rows]of Object.entries(mangostanebrotfruchtGrammar))exercises[to
 
 import {eisvogelelsterGrammar} from './exercises-eisvogelelster';
 for(const[topic,rows]of Object.entries(eisvogelelsterGrammar))exercises[topic].push(...rows);
+
+import {rotkehlchenamselGrammar} from './exercises-rotkehlchenamsel';
+for(const[topic,rows]of Object.entries(rotkehlchenamselGrammar))exercises[topic].push(...rows);
