@@ -1,5 +1,6 @@
 import {conjugationVerbs} from './conjugation';
-export const presentFocus=[...conjugationVerbs.map(v=>({inf:v.inf,forms:v.pres,source:v.source})),{inf:'lesen',forms:['lese','liest','liest','lesen','lest','lesen'],source:'https://www.verbformen.de/konjugation/indikativ/praesens/lesen.htm'},{inf:'sprechen',forms:['spreche','sprichst','spricht','sprechen','sprecht','sprechen'],source:'https://www.verbformen.de/konjugation/indikativ/praesens/sprechen.htm'}];
+// Preserve the original twelve entries and their order as the full lab grows.
+export const presentFocus=[...conjugationVerbs.slice(0,4).map(v=>({inf:v.inf,forms:v.pres,source:v.source})),{inf:'lesen',forms:['lese','liest','liest','lesen','lest','lesen'],source:'https://www.verbformen.de/konjugation/indikativ/praesens/lesen.htm'},{inf:'sprechen',forms:['spreche','sprichst','spricht','sprechen','sprecht','sprechen'],source:'https://www.verbformen.de/konjugation/indikativ/praesens/sprechen.htm'}];
 
 // New forms transcribed from each linked present-indicative reference.
 presentFocus.push(

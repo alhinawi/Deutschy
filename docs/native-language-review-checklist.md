@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-sixty-fifth product update (local preview, publication pending).
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-sixty-sixth product update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1744,6 +1744,14 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 - [ ] Sidebar: levels now run A1, A2, B1, B2, C1, C2. Each level groups its overview and existing study links. A1 has its overview and learning path; higher levels retain practice, vocabulary and writing. This does not claim identical or complete level coverage.
 - [ ] Review Egyptian Arabic navigation labels, especially the overview label, for clarity. All 80 prior destinations are preserved, including the admin-only link and Past tenses under Encyclopedia.
 - [ ] Keyboard/mobile: opening focus reaches the X; Escape, backdrop, link selection and desktop resize close the dialog without leaving background scroll locked. Native editorial review remains pending.
+
+### Hundred-and-sixty-sixth update: common verbs in the full conjugation lab
+
+- [ ] `/conjugation/`: review eight added verbs: geben, nehmen, lesen, sprechen, fahren, bleiben, finden, arbeiten. Full lab now12verbs x11tense/mood choices x6persons =792cells,528new. The separate143verb catalogue and41grammar topics have not changed. No all-verbs or full-grammar claim.
+- [ ] Check all explicit present, simple-past, KI and KII person forms against each linked Duden paradigm. Verify participles/auxiliaries and accepted short alternatives: gäbst/gäbt, nähmst/nähmt, sprächst/sprächt, führst/führt, du last, du fandst.
+- [ ] Check fahren's travel meaning with sein, contrasting the transitive example with haben. Both examples must stay separate from the form-only answer checker, which uses the selected travel meaning.
+- [ ] Check the Egyptian Arabic explanation of ambiguous simple forms, would+infinitive and reported speech. Notes explain grammar but are not native-reviewed. New material has no photos or audio-generation side effects.
+- [ ] Confirm the original12present-focus entries/order remain unchanged, with no duplicates or shifted identities. Browser tests cover352new correct-form submissions,4wrong auxiliaries,4AR/EN320/390variants,740assertions and4axe snapshots. Real-device/screen-reader and native teaching review remain pending.
 
 ## 3. Wider review queue after the focused batch
 
