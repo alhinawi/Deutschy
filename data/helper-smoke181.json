@@ -1,0 +1,10 @@
+[
+  {
+    "question": "صحح Ich gehen zur Schule واشرح السبب بالمصري في سطرين.",
+    "text": "التصحيح هو: **Ich gehe zur Schule.**\n\nالسبب: في الألماني، الفعل لازم يتصرف مع الفاعل. مع الضمير **Ich** (أنا)، بنشيل الـ **-en** من آخر الفعل ونحط **-e**.\n\n**مثال للتوضيح:**\n*   Ich geh**e** (أنا أذهب)\n*   Du geh**st** (أنت تذهب)\n*   Er/Sie/Es geh**t** (هو/هي تذهب)"
+  },
+  {
+    "question": "What is the difference between Ich bin in Berlin and Ich fahre nach Berlin? Give two short German examples.",
+    "text": "الفرق في \"الحالة\" مقابل \"الحركة\":\n\n1. **Ich bin in Berlin**: بتوصف مكانك الحالي (State/Location). أنت موجود بالفعل داخل برلين.\n   * *Beispiel:* Ich bin in Berlin und esse Pizza.\n\n2. **Ich fahre nach Berlin**: بتوصف حركة أو اتجاه (Movement/Direction) نحو مدينة. أنت في الطريق أو بتخطط تروح.\n   * *Beispiel:* Ich fahre nach Berlin mit dem Zug.\n\n**القاعدة:**\n* استخدم **in** مع الأماكن اللي أنت موجود فيها.\n* استخدم **nach** مع المدن والدول (اللي ملهاش article) لما تكون رايح لمكان."
+  }
+]

@@ -33,8 +33,8 @@ export class HelperLimits extends DurableObject<Env> {
     })
     if (decision.result !== 'ok') return reply(decision.result === 'daily' ? DAILY_MESSAGE : RATE_MESSAGE, 429, decision.result === 'daily' ? 'HELPER_DAILY_LIMIT' : 'HELPER_RATE_LIMIT')
     // Requests remain reserved on abort/errors: an uncertain inference may have
-    // consumed the shared account allocation. One primary attempt and one free
-    // fallback share this reservation; no retry loop is allowed.
+    // consumed the shared account allocation. Exactly one provider attempt is
+    // allowed; no fallback or retry loop.
     try {
       let timer: ReturnType<typeof setTimeout> | undefined
       const inference = answerWithProvider(this.env, body.messages)

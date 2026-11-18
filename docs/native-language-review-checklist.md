@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the bounded German helper update181.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after helper answer clarity update182.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1938,3 +1938,14 @@ Do not reorder or insert into an existing saved question bank casually. A correc
 - [ ] Unreviewed content remains labeled pending in the review record. One approved sample does not approve the entire site.
 
 No reviewer or review date has been filled in. This document requests review; it does not claim review has happened.
+
+
+## Helper answer clarity182: production findings to review
+
+- [ ] Production on2026-11-18 returned two real answers, but the conjugation explanation overstated the regular ending rule and the Berlin explanation overgeneralized location vs motion. Correct forms in those answers do not approve their explanations.
+- [ ] Review location vs destination with motion inside a location: `Ich laufe im Park` versus `Ich gehe in den Park`; `nach Berlin` versus `in die Schweiz`. Avoid teaching all movement as accusative or all `in` as stationary.
+- [ ] Review profession/language/nationality wording: `Ich bin Lehrer`, `Ich bin ein guter Lehrer`, `Ich bin Deutscher`, `Ich spreche Deutsch`, `das Deutsche`. Do not mark article-bearing profession statements as always wrong.
+- [ ] Check the revised helper follows a requested short answer and admits uncertainty. Prompt constraints cannot guarantee correct German. Recheck actual new-model responses after Worker deployment; local replay tests only verify formatting.
+- [ ] AR/EN320/390 replays now safely render bold/italics/code and align each line by its first letter. HTML stays literal text and cannot run. Inspect German-only lines, Arabic explanations, punctuation and wrapped mixed-script examples. No editor/date has been filled in.
+
+Sources: https://deutschlernerblog.de/lokale-praepositionen-deutsch-ortsangaben-wo-wohin-woher/ ; https://flumi.io/grammar/de/artikel-bei-berufen-laendern-und-sprachen ; https://www.nemcina-on-line.cz/gramatika/podstatna-jmena-a-cleny/clen-u-povolani-narodnosti-a-jazyku-v-nemcine .
