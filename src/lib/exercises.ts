@@ -597,3 +597,6 @@ for(const[topic,rows]of Object.entries(schalenformenGrammar))exercises[topic].pu
 
 import {wurzelgemueseGrammar} from './exercises-wurzelgemuese';
 for(const[topic,rows]of Object.entries(wurzelgemueseGrammar))exercises[topic].push(...rows);
+
+import {kakikaramboleGrammar} from './exercises-kakikarambole';
+for(const[topic,rows]of Object.entries(kakikaramboleGrammar))exercises[topic].push(...rows);

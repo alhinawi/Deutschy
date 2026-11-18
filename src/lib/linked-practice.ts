@@ -378,4 +378,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-gemuese-auf-den-karten',dialogue:'welches-bild-hat-den-korb'},
  {reading:'alltag-a2-zwei-woerter-ein-name',dialogue:'die-endung-gehoert-zum-artikel'},
  {reading:'alltag-b1-eine-aenderung-im-kursplan',dialogue:'notiert-ist-noch-nicht-umgesetzt'},
+ {reading:'alltag-a1-ein-foto-mit-drei-kakis',dialogue:'grauer-grund-dunkle-schale'},
+ {reading:'alltag-a2-zwei-namen-im-obstregister',dialogue:'der-kontext-waehlt-die-bedeutung'},
+ {reading:'alltag-b1-ein-bildausschnitt-fuer-die-lernseite',dialogue:'die-wichtigen-merkmale-erhalten'},
 ];

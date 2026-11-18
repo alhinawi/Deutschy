@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-forty-fourth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-forty-fifth practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1558,9 +1558,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Credits license link | CC BY-SA 4.0 now links to its exact license URL with the existing new-tab/noreferrer/underline pattern. 12 new/existing license-link checks and 4 axe in AR/EN 320/390; author, original source, no false crop marker, plain Pexels text, no-results/clear/focus and no XP. 390px license-cell pixels inspected. Actual assistive-device review pending. |
 | [ ] | Listening/dictation | 72 original segments, 288 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice labels are not certification; progress is device-local. |
 
+### List 145: Kaki and Karambole
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-ein-foto-mit-drei-kakis/` and linked dialogue | Farah/Tom identify three orange persimmons on gray and starfruit with star-shaped slices in a dark bowl. Singular die Kaki/die Karambole; plural Kakis/Karambolen. They name pictures, not taste or handle food. |
+| [ ] | `/reading/alltag-a2-zwei-namen-im-obstregister/` and linked dialogue | Leila/Moritz choose the fruit-sense dictionary entries, not Kaki color/fabric or Karambole billiard ball. Both Karambole senses are feminine, so article alone cannot select the sense. Separate complete plurals, no rule for all fruit. |
+| [ ] | `/reading/alltag-b1-ein-bildausschnitt-fuer-die-lernseite/` and linked dialogue | Nora/Hatem compare fictional image crops with original images; recognizable whole fruit/calyx or ridges/star slices retained. Displayed share is not actual physical size. No taste, ripeness, health or personal suitability claim. |
+| [ ] | `/lessons/kakikarambole/` | die Kaki/Kakis (كاكي), die Karambole/Karambolen (كارامبولا، فاكهة النجمة). Duden exact fruit senses checked; DWDS Kaki and WAHRIG Karambole read with sense caveats. Evgeniy Alekseyev 7418945 persimmons; Jahra Tasfia Reza 40000999 whole starfruit and slices. Proportional 4:3 crops to 800 x 600, no faces/brands/padding/generated fill. Actual 390px AR/EN cards inspected. |
+| [ ] | Six appended grammar banks | 24 article/dative/present/possessive/two-way/negation rows. Earlier identities and fixtures preserved. Native German and Egyptian Arabic editorial checks pending. |
+| [ ] | Shared quiz result | New round button describes its current score status through a unique result ID. 8 exact score-description and keyboard new-round checks in AR/EN 320/390. Existing Next/Result feedback and listen-prompt descriptions retained. 390px result pixels inspected in both languages after fonts/scroll settled. Actual assistive-device review pending. |
+| [ ] | Listening/dictation | 67 original segments, 268 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice labels are not certification; progress is device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **945 photo nouns / 189 topics**, **450 reading texts / 1753 reading questions**, **41 core grammar topics / 3406 core grammar questions**, **390 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **947 photo nouns / 190 topics**, **453 reading texts / 1765 reading questions**, **41 core grammar topics / 3430 core grammar questions**, **393 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1572,7 +1584,7 @@ This is an inventory, not completed review. Snapshot: **945 photo nouns / 189 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 132 · A2 160 · B1 128 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 133 · A2 161 · B1 129 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

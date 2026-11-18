@@ -27078,3 +27078,218 @@ Object.assign(dialogueEvidence,{
     "keine allergenfreie Küche."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "grauer-grund-dunkle-schale",
+    "level": "A1",
+    "title": [
+      "Noch einmal hinsehen",
+      "نبص تاني"
+    ],
+    "lines": [
+      [
+        "Farah",
+        "Welches Foto zeigt die drei Kakis?",
+        "أنهي صورة فيها التلات كاكي؟"
+      ],
+      [
+        "Tom",
+        "Das Foto mit dem grauen Untergrund.",
+        "الصورة اللي على سطح رمادي."
+      ],
+      [
+        "Farah",
+        "Und was liegt in der dunklen Schale?",
+        "وإيه اللي جوه الطبق الغامق؟"
+      ],
+      [
+        "Tom",
+        "Karambolen und Scheiben in Sternform.",
+        "كارامبولا وشرايح على شكل نجمة."
+      ],
+      [
+        "Farah",
+        "Gut. Wie heißt die Einzahl?",
+        "تمام. المفرد إيه؟"
+      ],
+      [
+        "Tom",
+        "Die Karambole. Ich schreibe die Mehrzahl darunter.",
+        "die Karambole. هكتب الجمع تحتها."
+      ],
+      [
+        "Farah",
+        "Danach kannst du die Tafel als Lernhilfe fotografieren.",
+        "بعد كده ينفع تصور السبورة عشان تساعدك تذاكر."
+      ]
+    ],
+    "q": [
+      [
+        "Welcher Untergrund gehört zum Kaki-Foto?",
+        "Der graue.",
+        "Der blaue.",
+        "Ein rotes Tuch."
+      ],
+      [
+        "Welche Form haben die Scheiben?",
+        "Eine Sternform.",
+        "Eine Würfelform.",
+        "Eine Ringform."
+      ],
+      [
+        "Was möchte Tom unter das Wort schreiben?",
+        "Die Mehrzahl.",
+        "Einen Preis.",
+        "Ein Rezept."
+      ]
+    ]
+  },
+  {
+    "id": "der-kontext-waehlt-die-bedeutung",
+    "level": "A2",
+    "title": [
+      "Welcher Eintrag passt?",
+      "أنهي مدخل مناسب؟"
+    ],
+    "lines": [
+      [
+        "Moritz",
+        "Bei Kaki sehe ich mehrere Einträge.",
+        "مع Kaki شايف أكتر من مدخل."
+      ],
+      [
+        "Leila",
+        "Wir brauchen die Frucht, nicht den Stoff oder den Farbton.",
+        "محتاجين الفاكهة، مش القماش ولا اللون."
+      ],
+      [
+        "Moritz",
+        "Dann notiere ich die Kaki und die Kakis.",
+        "يبقى أسجل die Kaki وdie Kakis."
+      ],
+      [
+        "Leila",
+        "Bei Karambole wählen wir auch die Frucht.",
+        "ومع Karambole هنختار الفاكهة برضه."
+      ],
+      [
+        "Moritz",
+        "Der Artikel allein trennt die Bedeutungen hier nicht.",
+        "أداة التعريف لوحدها هنا مش بتفصل بين المعاني."
+      ],
+      [
+        "Leila",
+        "Genau. Lies die Erklärung und prüfe den Zusammenhang.",
+        "بالظبط. اقرا الشرح وراجع السياق."
+      ],
+      [
+        "Moritz",
+        "Ich ergänze deshalb Frucht als kurze Themenangabe.",
+        "عشان كده هزود فاكهة كتوضيح قصير للموضوع."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Kaki-Bedeutung brauchen sie?",
+        "Die Frucht.",
+        "Den Stoff.",
+        "Den Farbton."
+      ],
+      [
+        "Was trennt bei Karambole die Bedeutungen hier nicht allein?",
+        "Der Artikel.",
+        "Der Zusammenhang.",
+        "Die Erklärung."
+      ],
+      [
+        "Welche Themenangabe ergänzt Moritz?",
+        "Frucht.",
+        "Billard.",
+        "Stoffmuster."
+      ]
+    ]
+  },
+  {
+    "id": "die-wichtigen-merkmale-erhalten",
+    "level": "B1",
+    "title": [
+      "Nicht nur eine Farbfläche",
+      "مش مساحة لون وخلاص"
+    ],
+    "lines": [
+      [
+        "Hatem",
+        "Wenn ich enger zuschneide, wird die Frucht auf der Seite größer.",
+        "لو قصيت أضيق الفاكهة هتبان أكبر على الصفحة."
+      ],
+      [
+        "Nora",
+        "Aber entferne nicht ihre erkennbaren Merkmale.",
+        "بس ماتشيلش العلامات اللي بتوضح هي إيه."
+      ],
+      [
+        "Hatem",
+        "Bei der Karambole lasse ich die ganze Frucht und die Sternscheiben sichtbar.",
+        "مع الكارامبولا هسيب الثمرة الكاملة وشرايح النجمة ظاهرين."
+      ],
+      [
+        "Nora",
+        "Und bei der Kaki prüfen wir auch die Form und den Kelch.",
+        "ومع الكاكي هنراجع الشكل والكأس النباتي كمان."
+      ],
+      [
+        "Hatem",
+        "Danach sehe ich mir die fertige schmale Ansicht an.",
+        "بعد كده هبص على العرض الضيق النهائي."
+      ],
+      [
+        "Nora",
+        "Genau. Speichern allein ersetzt diese Prüfung nicht.",
+        "بالظبط. الحفظ لوحده مش بدل المراجعة دي."
+      ],
+      [
+        "Hatem",
+        "Über Geschmack und Reife sagen wir anhand der Fotos nichts.",
+        "مش هنقول حاجة عن الطعم أو النضج بناء على الصور."
+      ]
+    ],
+    "q": [
+      [
+        "Was soll Hatem nicht entfernen?",
+        "Die erkennbaren Merkmale.",
+        "Alle Quellenangaben.",
+        "Den Artikelnamen aus dem Wörterbuch."
+      ],
+      [
+        "Was prüft er nach dem Speichern?",
+        "Die fertige schmale Ansicht.",
+        "Eine echte Geschmacksprobe.",
+        "Die Herkunft jedes Samens."
+      ],
+      [
+        "Wozu machen sie keine Bildaussage?",
+        "Zu Geschmack und Reife.",
+        "Zu sichtbaren Sternscheiben.",
+        "Zu einer dunklen Schale."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "grauer-grund-dunkle-schale": [
+    "grauen Untergrund.",
+    "Scheiben in Sternform.",
+    "die Mehrzahl darunter."
+  ],
+  "der-kontext-waehlt-die-bedeutung": [
+    "die Frucht, nicht den Stoff oder den Farbton.",
+    "Der Artikel allein trennt die Bedeutungen hier nicht.",
+    "Frucht als kurze Themenangabe."
+  ],
+  "die-wichtigen-merkmale-erhalten": [
+    "entferne nicht ihre erkennbaren Merkmale.",
+    "die fertige schmale Ansicht an.",
+    "Über Geschmack und Reife sagen wir anhand der Fotos nichts."
+  ]
+});
