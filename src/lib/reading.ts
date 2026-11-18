@@ -453,3 +453,6 @@ readings.push(...durianjackfruchtTexts);
 
 import {guavephysalisTexts} from './reading-guavephysalis';
 readings.push(...guavephysalisTexts);
+
+import {rambutanchirimoyaTexts} from './reading-rambutanchirimoya';
+readings.push(...rambutanchirimoyaTexts);

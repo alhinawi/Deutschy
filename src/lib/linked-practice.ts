@@ -396,4 +396,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-das-bilderraetsel-mit-fruechten',dialogue:'bilderraetsel-erst-beschreiben-dann-benennen'},
  {reading:'alltag-a2-zwei-erlaubte-mehrzahlformen',dialogue:'physalis-zwei-varianten-eine-beschriftung'},
  {reading:'alltag-b1-beobachtung-oder-deutung',dialogue:'bildbeschreibung-den-vergleich-markieren'},
+ {reading:'alltag-a1-eine-nachricht-fuer-den-kurspartner',dialogue:'kursmaterial-das-regal-im-kursraum'},
+ {reading:'alltag-a2-beschreiben-ohne-vorzusagen',dialogue:'partneraufgabe-auf-das-signal-warten'},
+ {reading:'alltag-b1-mehr-als-eine-sinnvolle-reihenfolge',dialogue:'heftgestaltung-kriterien-statt-vorlieben'},
 ];

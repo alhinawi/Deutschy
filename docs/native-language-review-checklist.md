@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-fiftieth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-fifty-first practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1630,9 +1630,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Dictation answer field | New visible AR/EN helper and aria-describedby distinguish exact-match punctuation from basic punctuation ignored by word map; case/umlauts matter in both. 4 unique-target/focus checks AR/EN 320/390, both 390px screenshots inspected. No comparison/scoring/selection/persistence change. Earlier source/voice/speed/Next descriptions retained. Actual-device screen-reader pending. |
 | [ ] | Listening/dictation | 73 original segments; 292 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice labels not certification, progress device-local. |
 
+### List 151: Rambutan and Chirimoya
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-eine-nachricht-fuer-den-kurspartner/` and linked dialogue | Amina leaves absent Ben a materials message: photos in envelope, names in blue folder directly below, articles on back, shelf in classroom not hall. Photos only, no real fruit/purchase. 172 German words, 7 dialogue turns. |
+| [ ] | `/reading/alltag-a2-beschreiben-ohne-vorzusagen/` and linked dialogue | Elisa/Rami describe without saying the name, agree a finished signal while allowing genuine clarification; rule applies to this game, not ordinary conversation. 240 words. Check pragmatic clarity and Egyptian Arabic. |
+| [ ] | `/reading/alltag-b1-mehr-als-eine-sinnvolle-reihenfolge/` and linked dialogue | Paula/Deniz distinguish preferences from shared layout criteria, accept group choice without labelling another valid order wrong. Names/visible articles/plurals remain the real task. Both names take plural -s, not a rule for all fruits. 317 words. |
+| [ ] | `/lessons/rambutanchirimoya/` | die Rambutan/Rambutans (رامبوتان), die Chirimoya/Chirimoyas (شيريمويا، نوع قشطة). Exact Duden forms; DWDS fruit sense and related Cherimoya spelling. ROMAN ODINTSOV 4869137 red hairy Rambutans, Hannes Grobe Commons Cherimoya_fruit_hg.jpg green Chirimoyas on tray. Clear unbranded/faceless real photos; crop flag only on Rambutan. No ripeness/taste/health/actual-location/size claim. |
+| [ ] | Six appended grammar banks | 24 article/accusative/present/possessive/two-way/negation rows; saved IDs preserved. All question evidence exact; global reading/dialogue IDs unique. Native German/Egyptian Arabic editorial pending. |
+| [ ] | `/credits/`, Chirimoya | New actual CC BY-SA 2.5 license link opens correct version, underline/focus/target/rel checked AR/EN 320/390. Author/source retained; no false crop label on uncropped resize. Existing CC BY-SA4/SA3/BY4/Pexels handling unchanged. 16 license checks, 4 axe, AR/EN390px inspected. |
+| [ ] | Listening/dictation | 67 original segments, 268 exact speech/source/answer checks. Earlier answer-field/source-set/voice/speed/Next/link help retained. Native editorial and actual-device voice/screen-reader pending. Labels not certification, progress device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **957 photo nouns / 195 topics**, **468 reading texts / 1825 reading questions**, **41 core grammar topics / 3550 core grammar questions**, **408 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **959 photo nouns / 196 topics**, **471 reading texts / 1837 reading questions**, **41 core grammar topics / 3574 core grammar questions**, **411 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1644,7 +1656,7 @@ This is an inventory, not completed review. Snapshot: **957 photo nouns / 195 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 138 · A2 166 · B1 134 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 139 · A2 167 · B1 135 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
