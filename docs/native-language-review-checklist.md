@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-forty-second practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-forty-third practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1534,9 +1534,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Shared MiniQuiz listen description | Listen control now references the visible German prompt by aria-describedby, retaining its localized name. 8 voice-state cases verify unique current prompt ID and exact description. 20 race cases retain valid references after transitions or mode changes where a listen control exists. Keyboard, focus, status and XP checks unchanged. Actual screen-reader/device tests pending. |
 | [ ] | Listening/dictation | 69 original segments, 276 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice labels are not certification; progress is device-local. |
 
+### List 143: Bivalve shell and snail shell
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zwei-schalen-auf-bildern/` and linked dialogue | Rana/Paul describe photos in a library, hide headings and correct das Schneckenhaus. Visible sand, leaves and green plant. No collection or handling; no assertion that photographed objects share a location. |
+| [ ] | `/reading/alltag-a2-ein-haus-mehrere-haeuser/` and linked dialogue | Sofia/Malik compare Muschelschalen and Schneckenhäuser. Umlaut and er for the second word only. Singular feminine versus neuter; both plural die. Numbers are practice, not a photo count. No blanket suffix or scale rule. |
+| [ ] | `/reading/alltag-b1-zwei-quellen-keine-reiseerinnerung/` and linked dialogue | Lara/Youssef remove an invented personal trip claim from a fictional teaching page. No invented common source, date, age or collection. Visible crop versus generated background. A fictional story would need a fiction label, not a photo provenance claim. |
+| [ ] | `/lessons/schalenformen/` and `/credits/` | die Muschelschale/Muschelschalen (صدفة محار), das Schneckenhaus/Schneckenhäuser (قوقعة حلزون). DWDS/Wiktionary and Duden/DWDS full pages. Chelsie Grace 20544152: sand fan-shell, 1800 x 2400 crop 0,550-1800,1900. Anton Atanasov 15898599: visibly empty brown spiral shell, 1125 x 750 crop 62,0-1062,750. Both 800 x 600, no padding/stretch/faces/brands. Full crops and actual 390px AR/EN cards inspected. No species, age, death or common-location claim. |
+| [ ] | Six appended grammar banks | 24 article/dative/present/possessive/two-way/negation rows. Earlier identities preserved. Native German and Egyptian Arabic editorial checks pending. |
+| [ ] | Shared MiniQuiz continuation description | Next/Result now references the current answer feedback via aria-describedby, retaining localized names. 80 correct and 8 wrong cases check unique valid references to exact feedback, including isolated German correction. 80 next/result and 8 new-round focus checks pass. Actual screen-reader/device tests pending. |
+| [ ] | Listening/dictation | 69 original segments, 276 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice labels are not certification; progress is device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **941 photo nouns / 187 topics**, **444 reading texts / 1729 reading questions**, **41 core grammar topics / 3358 core grammar questions**, **384 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **943 photo nouns / 188 topics**, **447 reading texts / 1741 reading questions**, **41 core grammar topics / 3382 core grammar questions**, **387 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1548,7 +1560,7 @@ This is an inventory, not completed review. Snapshot: **941 photo nouns / 187 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 130 · A2 158 · B1 126 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 131 · A2 159 · B1 127 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

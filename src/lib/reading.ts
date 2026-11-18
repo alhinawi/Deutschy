@@ -429,3 +429,6 @@ readings.push(...wasserformenTexts);
 
 import {kleinteileTexts} from './reading-kleinteile';
 readings.push(...kleinteileTexts);
+
+import {schalenformenTexts} from './reading-schalenformen';
+readings.push(...schalenformenTexts);

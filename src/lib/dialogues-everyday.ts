@@ -26648,3 +26648,218 @@ Object.assign(dialogueEvidence,{
     "eine Wortschatzübung."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "ueberschriften-ausblenden",
+    "level": "A1",
+    "title": [
+      "Das rechte Bild",
+      "الصورة اليمين"
+    ],
+    "lines": [
+      [
+        "Paul",
+        "Was liegt links auf dem Sand?",
+        "إيه اللي على الشمال فوق الرمل؟"
+      ],
+      [
+        "Rana",
+        "Eine Muschelschale.",
+        "صدفة محار."
+      ],
+      [
+        "Paul",
+        "Und wie heißt das Wort zum rechten Foto?",
+        "واسم الكلمة اللي للصورة اليمين إيه؟"
+      ],
+      [
+        "Rana",
+        "Das Schneckenhaus. Ich hatte zuerst den falschen Artikel.",
+        "داس شنيكن هاوس. كنت قلت الأول أداة التعريف الغلط."
+      ],
+      [
+        "Paul",
+        "Jetzt stimmt er. Soll ich die Überschriften wieder zeigen?",
+        "دلوقتي صح. أظهر العناوين تاني؟"
+      ],
+      [
+        "Rana",
+        "Noch nicht. Ich möchte beide Wörter noch einmal nennen.",
+        "لسه. عايزة أقول الكلمتين مرة كمان."
+      ],
+      [
+        "Paul",
+        "Gut. Wir bleiben bei den Fotos auf dem Bildschirm.",
+        "تمام. هنفضل مع الصور على الشاشة."
+      ]
+    ],
+    "q": [
+      [
+        "Was nennt Rana zum linken Foto?",
+        "Eine Muschelschale.",
+        "Ein Schneckenhaus.",
+        "Eine Gießkanne."
+      ],
+      [
+        "Was war zuerst falsch?",
+        "Der Artikel.",
+        "Die Bildschirmgröße.",
+        "Ein Datum."
+      ],
+      [
+        "Was möchte Rana noch einmal tun?",
+        "Beide Wörter nennen.",
+        "Tiere anfassen.",
+        "Eine Sammlung kaufen."
+      ]
+    ]
+  },
+  {
+    "id": "jede-mehrzahl-einzeln",
+    "level": "A2",
+    "title": [
+      "Nicht derselbe Plural",
+      "مش نفس طريقة الجمع"
+    ],
+    "lines": [
+      [
+        "Malik",
+        "Schneckenhaus wird zu Schneckenhäuser.",
+        "شنيكن هاوس بتبقى شنيكن هايزر."
+      ],
+      [
+        "Sofia",
+        "Welche Veränderungen siehst du?",
+        "شايف أنهي تغييرات؟"
+      ],
+      [
+        "Malik",
+        "Den Umlaut und er am Ende.",
+        "الأوملاوت وإر في الآخر."
+      ],
+      [
+        "Sofia",
+        "Gut. Und wie lautet die andere Mehrzahl?",
+        "تمام. والجمع التاني إيه؟"
+      ],
+      [
+        "Malik",
+        "Muschelschalen, ohne neuen Umlaut.",
+        "موشل شالن من غير أوملاوت جديد."
+      ],
+      [
+        "Sofia",
+        "Genau. Wir prüfen jedes Wort einzeln.",
+        "بالظبط. بنراجع كل كلمة لوحدها."
+      ],
+      [
+        "Malik",
+        "Die Zahlen in unseren Beispielen sind keine Bildzählung.",
+        "الأعداد في أمثلتنا مش عد للصور."
+      ]
+    ],
+    "q": [
+      [
+        "Welche Endung nennt Malik zuerst?",
+        "er",
+        "s",
+        "en als einzige Veränderung"
+      ],
+      [
+        "Wie lautet die andere Mehrzahl?",
+        "Muschelschalen.",
+        "Muschelschäler.",
+        "Muschelschales."
+      ],
+      [
+        "Wie prüfen sie die Wörter?",
+        "Einzeln.",
+        "Nur nach Bildgröße.",
+        "Ohne die Einträge zu lesen."
+      ]
+    ]
+  },
+  {
+    "id": "keine-erfundene-eigene-erfahrung",
+    "level": "B1",
+    "title": [
+      "Nicht unser Ausflug",
+      "مش رحلتنا"
+    ],
+    "lines": [
+      [
+        "Lara",
+        "Ich hatte geschrieben, dass wir die Schalen selbst gefunden haben.",
+        "كنت كاتبة إننا لقينا الصدف بنفسنا."
+      ],
+      [
+        "Youssef",
+        "Das stimmt nicht. Wir verwenden Fotos aus verschiedenen Quellen.",
+        "ده مش صح. إحنا بنستخدم صور من مصادر مختلفة."
+      ],
+      [
+        "Lara",
+        "Dann streiche ich die persönliche Einleitung.",
+        "يبقى هشطب المقدمة الشخصية."
+      ],
+      [
+        "Youssef",
+        "Beschreibe lieber, was die beiden Fotos zeigen.",
+        "الأحسن توصفي اللي الصورتين بيوروه."
+      ],
+      [
+        "Lara",
+        "Die Quellen und die Ausschnitte dokumentiere ich getrennt.",
+        "هوثق المصادر والقص بشكل منفصل."
+      ],
+      [
+        "Youssef",
+        "Gut. Behaupte auch keinen gemeinsamen Fundort.",
+        "تمام. وكمان ماتدعيش مكان عثور مشترك."
+      ],
+      [
+        "Lara",
+        "Eine erfundene Reisegeschichte müsste ausdrücklich Fiktion heißen.",
+        "قصة رحلة خيالية لازم تتسمى خيال صراحة."
+      ]
+    ],
+    "q": [
+      [
+        "Woher stammen die verwendeten Fotos?",
+        "Aus verschiedenen Quellen.",
+        "Aus ihrer eigenen dokumentierten Sammlung.",
+        "Aus demselben Reisealbum von Lara."
+      ],
+      [
+        "Was streicht Lara?",
+        "Die persönliche Einleitung.",
+        "Alle Quellen.",
+        "Die beiden Lernwörter."
+      ],
+      [
+        "Was dokumentiert Lara getrennt?",
+        "Quellen und Ausschnitte.",
+        "Erfundene Altersangaben.",
+        "Einen unbelegten Fundort."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "ueberschriften-ausblenden": [
+    "Eine Muschelschale.",
+    "den falschen Artikel.",
+    "beide Wörter noch einmal nennen."
+  ],
+  "jede-mehrzahl-einzeln": [
+    "er am Ende.",
+    "Muschelschalen, ohne neuen Umlaut.",
+    "jedes Wort einzeln."
+  ],
+  "keine-erfundene-eigene-erfahrung": [
+    "Fotos aus verschiedenen Quellen.",
+    "die persönliche Einleitung.",
+    "Die Quellen und die Ausschnitte dokumentiere ich getrennt."
+  ]
+});

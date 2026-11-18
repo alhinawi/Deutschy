@@ -591,3 +591,6 @@ for(const[topic,rows]of Object.entries(wasserformenGrammar))exercises[topic].pus
 
 import {kleinteileGrammar} from './exercises-kleinteile';
 for(const[topic,rows]of Object.entries(kleinteileGrammar))exercises[topic].push(...rows);
+
+import {schalenformenGrammar} from './exercises-schalenformen';
+for(const[topic,rows]of Object.entries(schalenformenGrammar))exercises[topic].push(...rows);
