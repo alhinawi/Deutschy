@@ -1,8 +1,9 @@
+import {topicPhoto} from '@/lib/lesson-photos';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { arWords } from '@/lib/arcount';
 import { levels, levelOf, topicLevel } from '@/lib/levels';
-import { topics, wordsOf, img } from '@/lib/data';
+import { topics, wordsOf } from '@/lib/data';
 import { T } from '@/lib/i18n';
 import { LevelText, TopicName } from '@/components/L';
 import LevelGrammar from '@/components/LevelGrammar';
@@ -27,7 +28,7 @@ export default async function LevelPage({ params }: { params: Promise<{ level: s
             return (
               <Link key={t.id} href={`/lessons/${t.id}/`} className="flex overflow-hidden rounded-2xl border border-line bg-card hover:border-accent">
                 {/* eslint-disable-next-line @next/next/no-img-element */}
-                <img src={img(ws[0])} alt="" className="h-28 w-28 shrink-0 object-cover" width={112} height={112} loading="lazy" />
+                <img src={topicPhoto(t.id)} alt="" className="h-28 w-28 shrink-0 object-cover" width={112} height={112} loading="lazy" />
                 <div className="p-4">
                   <p className="num text-xs font-bold text-accent">{l.id} · <T ar={`درس ${i + 1}`} en={`Lesson ${i + 1}`} /></p>
                   <p className="ar-title text-xl text-ink"><TopicName id={t.id} /></p>
