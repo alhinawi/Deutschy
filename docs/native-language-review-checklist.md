@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after account storage update186.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after core lesson photographs187.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1991,3 +1991,15 @@ No reviewer/date/sign-off is supplied. Earlier editorial targets remain pending.
 - [ ] Distinguish static offline files from personal study data. Static pages/fonts/photos remain cached; personal API data is not cached. The required sign-in cookie remains. Do not promise fully offline account saving.
 
 No reviewer/date/sign-off is supplied. German content is unchanged by this storage update. Earlier editorial and pronunciation targets remain pending.
+
+
+## Core lesson photographs187: pending editorial and device review
+
+- [ ] Review all 43 grammar, 204 vocabulary-topic and 155 verb photo choices on catalogue cards, level pages and lesson details. Check whether the picture helps learners recognize a concrete teaching context without teaching a wrong meaning.
+- [ ] Distinguish an action scene from an example's object or setting. The key photograph for finding/forgetting does not depict a mental state. The grammar photographs do not establish tense, ownership, causation or the truth of fictional examples.
+- [ ] Check the existing German example now displayed on each verb card, especially long sentences and reflexive verbs. No German sentence, conjugation or Arabic translation was rewritten in this photo update.
+- [ ] Inspect Arabic/English cards at 320/390 pixels on a real phone. Confirm that the main subject is visible and hands/faces are not clipped in verb details. Automated layout and image-load tests are not real-device approval.
+- [ ] Review the Photo credits wording and source/license links. Images are used for neutral education, not to identify photographed people as fictional characters or imply endorsement.
+- [ ] Reading and dialogue coverage remains open: 480 reading texts, 420 general dialogues and 16 Egyptian-context dialogues are outside this core-lesson milestone. Do not mark the whole-site photo request finished on the strength of the 402 core lessons.
+
+No reviewer/date/sign-off is supplied. Earlier German editorial, pronunciation and helper-quality targets remain pending.

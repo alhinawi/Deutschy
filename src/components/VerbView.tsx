@@ -30,9 +30,9 @@ export default function VerbView({ v }: { v: Verb }) {
 
           // eslint-disable-next-line @next/next/no-img-element
 
-          <img src={`/img/${photoOf(v)}.jpg`} alt="" className="h-44 w-full object-cover sm:h-auto sm:w-56" loading="lazy" />
+          <img data-verb-photo src={photoOf(v)!} alt="" className="h-44 w-full object-contain sm:h-auto sm:w-56" loading="lazy" />
 
-        ) : <Art kind={v.kind} className="h-44 w-full object-cover sm:h-auto sm:w-56" />}
+        ) : <Art kind={v.kind} className="h-44 w-full object-contain sm:h-auto sm:w-56" />}
         <div className="space-y-2 p-5">
           <p className="text-sm font-bold text-accent"><span className="num">{v.level}</span> · <bdi>{KINDS[v.kind][lang === 'ar' ? 0 : 1]}</bdi></p>
           <div className="flex items-center gap-3">

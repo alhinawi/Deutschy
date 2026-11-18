@@ -1,3 +1,4 @@
+import {topicPhoto} from '@/lib/lesson-photos';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import { arWords } from '@/lib/arcount';
@@ -20,6 +21,8 @@ export default async function Topic({ params }: { params: Promise<{ topic: strin
   const neighbors = [{item:topics[topicIndex-1],index:topicIndex-1,previous:true},{item:topics[topicIndex+1],index:topicIndex+1,previous:false}].filter(x=>x.item);
   return (
     <div className="space-y-6">
+      {/* eslint-disable-next-line @next/next/no-img-element */}
+      <img src={topicPhoto(topic)} alt="" data-lesson-photo className="h-44 w-full rounded-2xl border border-line bg-card object-contain p-3 sm:h-56" width={960} height={224} loading="eager"/>
       <div className="flex flex-wrap items-end justify-between gap-3">
         <div className="min-w-0 max-w-full">
           <Link href="/lessons/" className="min-h-11 inline-flex items-center rounded-full text-sm text-muted hover:text-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper">← <T ar="كل الدروس" en="All lessons" /></Link>
