@@ -366,4 +366,7 @@ export const linkedPractice=[
  {reading:'alltag-a1-zwei-runde-bilder',dialogue:'nicht-dieselbe-szene'},
  {reading:'alltag-a2-zwei-endungen-im-heft',dialogue:'eine-weitere-belegte-form'},
  {reading:'alltag-b1-ein-foto-keine-dauer',dialogue:'woher-kommt-die-minute'},
+ {reading:'alltag-a1-ein-tropfen-am-blatt',dialogue:'zwei-fotos-eine-heftseite'},
+ {reading:'alltag-a2-gleiche-form-anderes-verb',dialogue:'das-verb-gibt-einen-hinweis'},
+ {reading:'alltag-b1-keine-vorher-nachher-reihe',dialogue:'bild-a-und-bild-b'},
 ];

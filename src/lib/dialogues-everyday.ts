@@ -26218,3 +26218,218 @@ Object.assign(dialogueEvidence,{
     "beschreiben sie getrennt."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "zwei-fotos-eine-heftseite",
+    "level": "A1",
+    "title": [
+      "Die richtige Karte",
+      "الكارت الصح"
+    ],
+    "lines": [
+      [
+        "Ben",
+        "Was siehst du am grünen Blatt?",
+        "شايفة إيه على ورقة الشجر الخضرا؟"
+      ],
+      [
+        "Lea",
+        "Einen Wassertropfen an der Spitze.",
+        "نقطة مية على الطرف."
+      ],
+      [
+        "Ben",
+        "Und auf dem anderen Foto?",
+        "وفي الصورة التانية؟"
+      ],
+      [
+        "Lea",
+        "Mehrere Eiszapfen mit langen Spitzen.",
+        "كذا لسان تلج بأطراف طويلة."
+      ],
+      [
+        "Ben",
+        "Welcher Artikel steht vor beiden Wörtern in der Einzahl?",
+        "أنهي أداة قبل الكلمتين في المفرد؟"
+      ],
+      [
+        "Lea",
+        "Der. In der Mehrzahl steht die.",
+        "دير. في الجمع مكتوب دي."
+      ],
+      [
+        "Ben",
+        "Gut. Lass die Bilder in getrennten Feldern.",
+        "تمام. خلي الصور في خانات منفصلة."
+      ]
+    ],
+    "q": [
+      [
+        "Was sieht Lea am Blatt?",
+        "Einen Wassertropfen.",
+        "Ein Preisschild.",
+        "Einen Stift."
+      ],
+      [
+        "Was sieht sie auf dem anderen Foto?",
+        "Mehrere Eiszapfen.",
+        "Mehrere rote Blätter.",
+        "Mehrere Hefte."
+      ],
+      [
+        "Wie sollen die Bilder bleiben?",
+        "In getrennten Feldern.",
+        "Übereinander ohne Abstand.",
+        "Ohne Wortkarten."
+      ]
+    ]
+  },
+  {
+    "id": "das-verb-gibt-einen-hinweis",
+    "level": "A2",
+    "title": [
+      "Ist oder sind?",
+      "إست ولا زيند؟"
+    ],
+    "lines": [
+      [
+        "Omar",
+        "Wassertropfen sieht in beiden Zeilen gleich aus.",
+        "فاسر تروبفن شكلها واحد في السطرين."
+      ],
+      [
+        "Jana",
+        "Vergleiche auch den Artikel und das Verb.",
+        "قارن كمان أداة التعريف والفعل."
+      ],
+      [
+        "Omar",
+        "Hier steht der und ist, dort die und sind.",
+        "هنا دير وإست وهناك دي وزيند."
+      ],
+      [
+        "Jana",
+        "Genau. Jetzt fehlt hinter mehrere Eiszapfen ein Verb.",
+        "بالظبط. دلوقتي بعد ميرره آيس تسابفن ناقص فعل."
+      ],
+      [
+        "Omar",
+        "Ich ergänze sind.",
+        "هكمل بزيند."
+      ],
+      [
+        "Jana",
+        "Gut. Wir vergleichen vollständige Sätze.",
+        "تمام. إحنا بنقارن جمل كاملة."
+      ],
+      [
+        "Omar",
+        "Und wir behaupten keine gemessene Länge.",
+        "ومابندعيش طول اتقاس."
+      ]
+    ],
+    "q": [
+      [
+        "Was soll Omar zusätzlich vergleichen?",
+        "Artikel und Verb.",
+        "Preis und Datum.",
+        "Länge und Gewicht."
+      ],
+      [
+        "Welches Verb ergänzt Omar?",
+        "sind",
+        "ist",
+        "seid"
+      ],
+      [
+        "Was vergleichen sie?",
+        "Vollständige Sätze.",
+        "Gemessene Temperaturen.",
+        "Zwei Rezepte."
+      ]
+    ]
+  },
+  {
+    "id": "bild-a-und-bild-b",
+    "level": "B1",
+    "title": [
+      "Nicht vorher und nachher",
+      "مش قبل وبعد"
+    ],
+    "lines": [
+      [
+        "Nina",
+        "Ich hatte vorher und nachher über die Fotos geschrieben.",
+        "كنت كاتبة قبل وبعد فوق الصور."
+      ],
+      [
+        "Karim",
+        "Zeigen sie denn denselben Gegenstand zu zwei Zeitpunkten?",
+        "هما فعلا بيوروا نفس الحاجة في وقتين؟"
+      ],
+      [
+        "Nina",
+        "Nein. Sie stammen aus verschiedenen Quellen.",
+        "لأ. هما من مصادر مختلفة."
+      ],
+      [
+        "Karim",
+        "Dann nennen wir sie Bild A und Bild B.",
+        "يبقى نسميهم صورة أ وصورة ب."
+      ],
+      [
+        "Nina",
+        "Auch den Regenschauer am Morgen kann ich nicht belegen.",
+        "وكمان شوية المطر الصبح مش قادرة أثبتهم."
+      ],
+      [
+        "Karim",
+        "Dann streiche diese Angabe und beschreibe das Sichtbare.",
+        "يبقى اشطبي المعلومة دي واصفي اللي ظاهر."
+      ],
+      [
+        "Nina",
+        "Die Quellen bleiben bei den jeweiligen Bildern.",
+        "المصادر هتفضل جنب كل صورة تخصها."
+      ]
+    ],
+    "q": [
+      [
+        "Woher stammen die Fotos?",
+        "Aus verschiedenen Quellen.",
+        "Aus derselben dokumentierten Zeitreihe.",
+        "Aus Ninas eigener Wetterstation."
+      ],
+      [
+        "Wie nennen sie die Fotos jetzt?",
+        "Bild A und Bild B.",
+        "Vorher und nachher.",
+        "Morgen und Abend."
+      ],
+      [
+        "Was kann Nina nicht belegen?",
+        "Den Regenschauer am Morgen.",
+        "Dass sie zwei Bilder hat.",
+        "Dass es Quellenangaben gibt."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "zwei-fotos-eine-heftseite": [
+    "Einen Wassertropfen an der Spitze.",
+    "Mehrere Eiszapfen",
+    "in getrennten Feldern."
+  ],
+  "das-verb-gibt-einen-hinweis": [
+    "den Artikel und das Verb.",
+    "Ich ergänze sind.",
+    "vollständige Sätze."
+  ],
+  "bild-a-und-bild-b": [
+    "aus verschiedenen Quellen.",
+    "Bild A und Bild B.",
+    "Regenschauer am Morgen kann ich nicht belegen."
+  ]
+});
