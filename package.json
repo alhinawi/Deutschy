@@ -20,7 +20,8 @@
     "test:planner:browser": "node scripts/test-planner-browser.mjs",
     "test:writing:browser": "node scripts/test-writing-browser.mjs",
     "test:verbs:browser": "node scripts/test-verbs-browser.mjs",
-    "test:satzbau:browser": "node scripts/test-satzbau-browser.mjs"
+    "test:satzbau:browser": "node scripts/test-satzbau-browser.mjs",
+    "test:voices:browser": "node scripts/test-voices-browser.mjs"
   },
   "dependencies": {
     "hono": "^4.13.18",
