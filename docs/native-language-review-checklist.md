@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-fifty-fifth product update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-fifty-sixth product update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1683,6 +1683,12 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | Done | Route / location | What needs a human decision |
 | --- | --- | --- |
 | [ ] | Global search dialog, all routes | AR/EN at 320/390/1280: 120 keyboard/focus/scroll/IME/navigation/storage assertions and 6 axe snapshots pass. Tab stays within input/close; Escape/close restore opener, arrow-selected result stays visible; stale lazy imports cannot replace newer queries across reopen. Selected text contrast repaired and 390px screenshots inspected. Actual-device keyboard, screen-reader and real IME interaction remain manual review. No content/score/history changes. |
+
+### List 156: Build dependency maintenance
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | Next PostCSS build dependency | Scoped override replaces vulnerable nested 8.4.31 with existing shared 8.5.33, no Next/React major update. Clean full and production-only install, actual dependency resolution, source-map fixture regressions and current npm audit 0 pass. Full build/PWA/export/progress, 132 route checks, 276 dictation checks, 6 offline routes, search keyboard regression and 10 axe snapshots pass. Rebuilt390pxAR/EN search screenshots inspected. No content/score/identity changes. Reassess override on future Next upgrade. Actual-device and native editorial checks remain manual. |
 
 ## 3. Wider review queue after the focused batch
 
