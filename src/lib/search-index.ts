@@ -38,7 +38,7 @@ export function index(): Hit[] {
   h('page','Modal meaning contrasts','المعنى والمنع وعدم الضرورة','/grammar/modalverben/#modal-meaning','nicht müssen nicht dürfen');
   h('page','Guided Konjunktiv forms','الطلب بأدب والافتراض','/b1/#polite-transform','hätte wäre könnte würde');
   topics.forEach(topic => h('page', topicTitles[topic.id] || topic.id, `${topicName(topic.id, 'ar')} · ${topicName(topic.id, 'en')}`, `/lessons/${topic.id}/`, `${topic.id} ${topic.ar} ${topicName(topic.id, 'en')}`));
-  words.forEach((w) => h('word', `${w.art} ${w.de}`, `${w.ar} · ${glossOf(w, 'en')}`, `/lessons/${w.topic}/`, `${w.de} ${w.plural} ${topicName(w.topic, 'en')}`));
+  words.forEach((w) => h('word', `${w.art} ${w.de}`, `${w.ar} · ${glossOf(w, 'en')}`, `/lessons/${w.topic}/#word-${w.id}`, `${w.de} ${w.plural} ${topicName(w.topic, 'en')}`));
   grammar.forEach((g) => h('grammar', g.title[1], `${g.title[0]} · ${g.level}`, `/grammar/${g.id}/`, g.sum.join(' ')));
   verbs.forEach((v) => h('verb', v.inf, `${v.ar} · ${v.en}`, `/verbs/${slug(v.inf)}/`, `${v.pp} ${v.pret} ${v.pres.join(' ')}`));
   idioms.forEach((d) => h('idiom', d.de, `${d.ar} · ${d.en}`, '/redewendungen/', d.literal));
@@ -67,6 +67,7 @@ export function search(q: string, limit = 30): Hit[] {
     const t = norm(x.title);
     let s = 0;
     if (t === n) s = 100; else if (t.split(' ').some((p) => p === n)) s = 90; else if (t.startsWith(n) || t.split(' ').some((p) => p.startsWith(n))) s = 70; else if (t.includes(n)) s = 50; else if (x.hay.includes(n)) s = 20;
+    if(x.kind==='page'&&x.sub.split(' · ').some(label=>norm(label)===n))s=Math.max(s,100);
     if (s) res.push([s + (x.kind === 'word' || x.kind === 'verb' ? 1 : 0), x]);
   }
   return res.sort((a, b) => b[0] - a[0]).slice(0, limit).map((r) => r[1]);

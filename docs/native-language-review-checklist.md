@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-seventy-fourth product update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the common-animals product update176.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1806,9 +1806,66 @@ Check the Egyptian Arabic and English failure/retry messages on `/review/daily/`
 
 The review schedule and general XP record remain separate local-storage writes. This change does not promise an atomic transaction across them, multi-device sync or survival of cleared browser data. No new teaching content or editorial sign-off is implied. Native German/Egyptian Arabic and real-device checks remain pending.
 
+## Common animals update 176: new lessons and direct word cards
+
+Scope:113 living-animal vocabulary cards before,157 after (+44). Previous animal-topic lessons held 111 cards, with bee and butterfly in Outdoors; food fish/shrimp and toy/object cards are excluded from this count. The new `/animals/` hub includes all 157 and six groups: pets/farm 30,wild 45,birds 35,aquatic 19,reptiles/amphibians 11,small/invertebrates 17. This is common vocabulary, not every species. Five new lessons are appended without changing existing lesson numbers or word IDs. Their cards use 44 visually checked living-animal photos, full-subject padding and original credits. Stuffed swordfish and an uncertain flea specimen were not added.
+
+Check the following German articles/plurals, Egyptian meanings and whether each pictured example communicates the intended broad animal name. Morphology uses the linked Wiktionary entries; original Commons file and license details are in `data/animal-expansion176.json`. Native German/Egyptian Arabic and real-device checks remain pending. A photo check or automated test is not language sign-off.
+
+| German | Plural | Egyptian Arabic | English |
+| --- | --- | --- | --- |
+| der Hamster | Hamster | هامستر | hamster |
+| das Meerschweinchen | Meerschweinchen | خنزير غيني | guinea pig |
+| der Wellensittich | Wellensittiche | عصفور أسترالي | budgerigar |
+| der Kanarienvogel | Kanarienvögel | كناريا | canary |
+| der Goldfisch | Goldfische | سمكة دهبية | goldfish |
+| das Schwein | Schweine | خنزير | pig |
+| der Hahn | Hähne | ديك | rooster |
+| der Stier | Stiere | ثور | bull |
+| der Büffel | Büffel | جاموس | buffalo |
+| das Pony | Ponys | حصان صغير (بوني) | pony |
+| die Fledermaus | Fledermäuse | خفاش | bat |
+| das Faultier | Faultiere | كسلان | sloth |
+| der Ameisenbär | Ameisenbären | آكل النمل | anteater |
+| das Erdmännchen | Erdmännchen | ميركات | meerkat |
+| das Gürteltier | Gürteltiere | مدرع | armadillo |
+| die Gazelle | Gazellen | غزالة | gazelle |
+| die Antilope | Antilopen | ظبي | antelope |
+| der Jaguar | Jaguare | يجور | jaguar |
+| der Schakal | Schakale | ابن آوى | jackal |
+| das Stinktier | Stinktiere | ظربان | skunk |
+| die Robbe | Robben | فقمة | seal |
+| der Seelöwe | Seelöwen | أسد البحر | sea lion |
+| das Walross | Walrosse | فظ | walrus |
+| der Rochen | Rochen | سمكة الراي | ray |
+| der Hummer | Hummer | كركند | lobster |
+| der Tintenfisch | Tintenfische | حبار | squid / cuttlefish |
+| die Muschel | Muscheln | محار | bivalve |
+| der Clownfisch | Clownfische | سمكة المهرج | clownfish |
+| der Kugelfisch | Kugelfische | سمكة منتفخة | pufferfish |
+| der Gecko | Geckos | وزغة (برص) | gecko |
+| der Leguan | Leguane | إجوانا | iguana |
+| die Kröte | Kröten | علجوم | toad |
+| der Salamander | Salamander | سمندل | salamander |
+| der Molch | Molche | سمندل مائي | newt |
+| der Skorpion | Skorpione | عقرب | scorpion |
+| der Regenwurm | Regenwürmer | دودة الأرض | earthworm |
+| die Kakerlake | Kakerlaken | صرصار | cockroach |
+| die Zecke | Zecken | قرادة | tick |
+| der Falke | Falken | صقر | falcon |
+| der Geier | Geier | نسر أصلع | vulture |
+| die Schwalbe | Schwalben | سنونو | swallow |
+| die Meise | Meisen | قرقف | tit |
+| die Nachtigall | Nachtigallen | عندليب | nightingale |
+| der Emu | Emus | إيمو | emu |
+
+Please also check 6 clarified older Arabic glosses: Hirsch=أيل, Adler=عقاب, Seeadler=عقاب البحر, Leopard=نمر مرقط, Gepard=فهد (شيتا), Tiger=نمر مخطط (ببر). The point is to avoid conflating deer with gazelle, eagle with vulture, or the different big cats. Existing German nouns, articles, plurals and identities are unchanged.
+
+Search checks: `hedgehog` should show the hedgehog thumbnail, `der Igel` as a visible matching word, and a direct link to `/lessons/tiere2/#word-igel`. The global word search should also land at that card rather than the top of a long lesson. No activity or progress is awarded by browsing or filtering.
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **965 photo nouns / 199 topics**, **480 reading texts / 1873 reading questions**, **43 core grammar topics / 3662 core grammar questions**, **420 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **1009 photo nouns / 204 topics**, **480 reading texts / 1873 reading questions**, **43 core grammar topics / 3662 core grammar questions**, **420 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1817,10 +1874,10 @@ This is an inventory, not completed review. Snapshot: **965 photo nouns / 199 to
 | Reading and listening | `/reading/` | `src/lib/reading.ts` and `reading-*.ts`; exact support excerpts in `reading-evidence.ts` |
 | Dialogues | `/dialogues/` | `src/lib/dialogues.ts`; also review the separate Egyptian situations from `/egypt-dialogues/` |
 | Conjugation and verbs | `/conjugation/` and `/verbs/` | `src/lib/present-focus.ts`, `conjugation.ts`, `verbs.ts`; distinguish form recall from use in context |
-| Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
-| Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
+| Higher-level specialist material | `/b 1/`, `/b 2/`, `/c 1/`, `/c 2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
+| Product language | `/progress/`, `/level-check/`, `/certificate/A 1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 142 · A2 170 · B1 138 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A 1 142 · A 2 170 · B 1 138 · B 2 12 · C 1 9 · C 2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 
