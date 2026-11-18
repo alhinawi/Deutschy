@@ -28583,3 +28583,218 @@ Object.assign(dialogueEvidence,{
     "Dein Vorschlag wird dadurch nicht falsch."
   ]
 });
+
+everydayDialogues.push(...[
+  {
+    "id": "vorbereitung-die-alte-karte-zur-seite",
+    "level": "A1",
+    "title": [
+      "Die neue Karte kommt unter das Foto",
+      "الكارت الجديد تحت الصورة"
+    ],
+    "lines": [
+      [
+        "Clara",
+        "Sind die Fotos von Mangostane und Brotfrucht da?",
+        "صور المانجوستين وثمرة شجرة الخبز موجودة؟"
+      ],
+      [
+        "Yassin",
+        "Ja, und die vier Karten liegen neben den Bildern.",
+        "آه، والـ4 كروت جنب الصور."
+      ],
+      [
+        "Clara",
+        "Der Artikel bei Brotfrucht ist zu klein. Ich schreibe die Karte neu.",
+        "أداة التعريف عند Brotfrucht صغيرة قوي. هكتب الكارت من جديد."
+      ],
+      [
+        "Yassin",
+        "Dann lege ich die alte Karte zur Seite.",
+        "يبقى أحط الكارت القديم على جنب."
+      ],
+      [
+        "Clara",
+        "Die neue Karte kommt direkt unter das Brotfruchtfoto.",
+        "الكارت الجديد هيتحط تحت صورة ثمرة شجرة الخبز على طول."
+      ],
+      [
+        "Yassin",
+        "Was machen wir mit der Liste?",
+        "نعمل إيه بالقايمة؟"
+      ],
+      [
+        "Clara",
+        "Wir lassen sie für die nächste Gruppe auf dem Tisch.",
+        "نسيبها للمجموعة اللي بعدها على الترابيزة."
+      ]
+    ],
+    "q": [
+      [
+        "Was schreibt Clara neu?",
+        "Die Karte mit dem zu kleinen Artikel.",
+        "Die ganze Liste.",
+        "Den Namen der Gruppe."
+      ],
+      [
+        "Wohin legt Yassin die alte Karte?",
+        "Zur Seite.",
+        "Unter die neue Karte.",
+        "In den Kühlschrank."
+      ],
+      [
+        "Für wen bleibt die Liste liegen?",
+        "Für die nächste Gruppe.",
+        "Für einen Verkäufer.",
+        "Für den Fotografen."
+      ]
+    ]
+  },
+  {
+    "id": "anweisung-karte-oder-mappe-umdrehen",
+    "level": "A2",
+    "title": [
+      "Die Karte, nicht die Mappe",
+      "الكارت، مش الملف"
+    ],
+    "lines": [
+      [
+        "Nabil",
+        "Hier steht: Lege die Karte neben die Mappe und drehe sie um. Was soll ich umdrehen?",
+        "هنا مكتوب حط الكارت جنب الملف واقلبها. أقلب إيه؟"
+      ],
+      [
+        "Mara",
+        "Die Karte. Auf ihrer Rückseite steht der Artikel.",
+        "الكارت. على ضهره أداة التعريف."
+      ],
+      [
+        "Nabil",
+        "Dann sollten wir Karte wiederholen. Sie könnte hier auch die Mappe meinen.",
+        "يبقى نكرر Karte. الضمير sie هنا ممكن يقصد الملف كمان."
+      ],
+      [
+        "Mara",
+        "Gut: Drehe danach die Karte um. Die Mappe bleibt geschlossen.",
+        "تمام: بعد كده اقلب الكارت. الملف يفضل مقفول."
+      ],
+      [
+        "Nabil",
+        "Müssen wir nun jedes sie ersetzen?",
+        "لازم دلوقتي نبدل كل sie؟"
+      ],
+      [
+        "Mara",
+        "Nein. Wir ändern nur die unklaren Stellen.",
+        "لأ. نغير الحتت اللي مش واضحة بس."
+      ],
+      [
+        "Nabil",
+        "Dann testen wir die Anleitung mit einer anderen Person.",
+        "يبقى نجرب التعليمات مع حد تاني."
+      ]
+    ],
+    "q": [
+      [
+        "Was soll Nabil umdrehen?",
+        "Die Karte.",
+        "Die Mappe.",
+        "Den Tisch."
+      ],
+      [
+        "Was steht auf der Rückseite?",
+        "Der Artikel.",
+        "Ein Preis.",
+        "Eine Adresse."
+      ],
+      [
+        "Welche Stellen wollen sie ändern?",
+        "Nur die unklaren.",
+        "Alle mit sie.",
+        "Nur die Überschriften."
+      ]
+    ]
+  },
+  {
+    "id": "lernstation-details-zweck-und-ergaenzung",
+    "level": "B1",
+    "title": [
+      "Richtig, aber hier nicht nötig",
+      "صح، بس مش محتاجينه هنا"
+    ],
+    "lines": [
+      [
+        "Jonas",
+        "Soll ich die Farbe des Hintergrunds bei den Mangostanen genau beschreiben?",
+        "أوصف لون الخلفية عند المانجوستين بدقة؟"
+      ],
+      [
+        "Sofia",
+        "Für unsere Namensaufgabe ist das nicht nötig. Die Angabe kann trotzdem stimmen.",
+        "لمهمة الأسامي عندنا ده مش ضروري. المعلومة مع كده ممكن تكون صح."
+      ],
+      [
+        "Jonas",
+        "Dann ist weglassen nicht dasselbe wie für falsch erklären.",
+        "يبقى نشيل المعلومة مش معناها نقول عليها غلط."
+      ],
+      [
+        "Sofia",
+        "Genau. Name, Artikel und Mehrzahl stehen direkt beim Foto. Die Bildbeschreibung ist eine Ergänzung.",
+        "بالظبط. الاسم وأداة التعريف والجمع جنب الصورة على طول. وصف الصورة إضافة."
+      ],
+      [
+        "Jonas",
+        "Meine längeren Beobachtungen behalte ich auf dem Entwurfsblatt.",
+        "ملاحظاتي الأطول هاحتفظ بيها في ورقة المسودة."
+      ],
+      [
+        "Sofia",
+        "Später können sie bei einer anderen Aufgabe nützlich sein.",
+        "بعدين ممكن تنفع في مهمة تانية."
+      ],
+      [
+        "Jonas",
+        "Dann entscheiden wir nach dem Zweck und nicht nur nach der Wortzahl.",
+        "يبقى نقرر حسب الغرض، مش عدد الكلمات بس."
+      ]
+    ],
+    "q": [
+      [
+        "Ist die Hintergrundfarbe laut Sofia automatisch falsch?",
+        "Nein, sie ist für diese Aufgabe nicht nötig.",
+        "Ja, jede Farbangabe ist falsch.",
+        "Sie nennt keinen Hintergrund."
+      ],
+      [
+        "Was ist die Bildbeschreibung hier?",
+        "Eine Ergänzung.",
+        "Der einzige Fruchtname.",
+        "Ein Wörterbuchfehler."
+      ],
+      [
+        "Wonach wollen sie entscheiden?",
+        "Nach dem Zweck.",
+        "Nur nach der Wortzahl.",
+        "Nach einem erfundenen Preis."
+      ]
+    ]
+  }
+] satisfies Dialogue[]);
+Object.assign(dialogueEvidence,{
+  "vorbereitung-die-alte-karte-zur-seite": [
+    "Ich schreibe die Karte neu.",
+    "Dann lege ich die alte Karte zur Seite.",
+    "Wir lassen sie für die nächste Gruppe auf dem Tisch."
+  ],
+  "anweisung-karte-oder-mappe-umdrehen": [
+    "Die Karte.",
+    "Auf ihrer Rückseite steht der Artikel.",
+    "Wir ändern nur die unklaren Stellen."
+  ],
+  "lernstation-details-zweck-und-ergaenzung": [
+    "Die Angabe kann trotzdem stimmen.",
+    "Die Bildbeschreibung ist eine Ergänzung.",
+    "Dann entscheiden wir nach dem Zweck"
+  ]
+});
