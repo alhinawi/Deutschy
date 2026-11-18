@@ -1,9 +1,9 @@
 {
   "grammar": {
     "aussprache": {
-      "asset": "schule",
-      "reason": "School photograph cues the exact example Schule; not a claim that a photo teaches spelling.",
-      "path": "/img/lesson187/062863287455303bbbf8.jpg"
+      "asset": "group-discussion",
+      "reason": "People speaking together give a pronunciation practice context, without pretending that their words or language can be inferred from the photograph. No foreign-script signage.",
+      "path": "/img/lesson187/718d1cb68c509855add0.jpg"
     },
     "pronomen-sein-haben": {
       "asset": "hund",
@@ -234,8 +234,8 @@
       "path": "/img/lesson187/386872aa853687f82667.jpg"
     },
     "places": {
-      "asset": "schule",
-      "path": "/img/lesson187/062863287455303bbbf8.jpg"
+      "asset": "marktplatz",
+      "path": "/img/lesson187/1f33db7f54e5d712ad15.jpg"
     },
     "transport": {
       "asset": "bus",
@@ -5631,10 +5631,10 @@
       "path": "/img/lesson187/f5a9850c49c90a79b250.jpg"
     },
     "einkaufen": {
-      "asset": "supermarkt",
-      "reason": "Concrete photograph supplies the object or situation for this lesson, not proof of the verb, a mental state, ownership, causation, movement, or tense. Teaching example: Wir kaufen im Supermarkt ein.",
+      "asset": "marktplatz",
+      "reason": "Market square supplies a shopping context without the Cyrillic store signage in the previous supermarket photograph. The photo does not prove a purchase.",
       "example": "Wir kaufen im Supermarkt ein.",
-      "path": "/img/lesson187/7e9b7a1e0e91113847c7.jpg"
+      "path": "/img/lesson187/1f33db7f54e5d712ad15.jpg"
     },
     "ankommen": {
       "asset": "zug",

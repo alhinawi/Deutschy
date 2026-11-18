@@ -1,4 +1,5 @@
 import type { Metadata } from 'next';
+import {appearanceThemes,DEFAULT_APPEARANCE} from '@/lib/appearance';
 import './globals.css';
 import { LangProvider } from '@/lib/i18n';
 import AccountStateBoundary from '@/components/AccountStateBoundary';
@@ -16,7 +17,7 @@ export const metadata: Metadata = {
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
   return (
-    <html lang="ar" dir="rtl" data-theme="papier" suppressHydrationWarning>
+    <html lang="ar" dir="rtl" data-theme={DEFAULT_APPEARANCE} className={appearanceThemes[0].className} suppressHydrationWarning>
       <head>
         <link rel="preload" href="/fonts/cairo-var.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
         <link rel="preload" href="/fonts/amiri-bold-arabic.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
