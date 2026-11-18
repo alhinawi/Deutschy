@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-sixty-fourth product update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-sixty-fifth product update (local preview, publication pending).
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1737,6 +1737,13 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | Done | Route / location | What needs a human decision |
 | --- | --- | --- |
 | [ ] | /settings/ and all speech buttons | Check Egyptian Arabic labels and all21German premade voices for pronunciation. Varied/fixed selection is local per account;not native-accent certification.21private noun clips transcribe correctly but need listening review. Public ElevenLabs OFF pending license/publication clearance. Recorded(if present)>manifest proxy>Edge-only fallback;no human recordings currently.32AR/EN320/390audio variants,272assertions/8axe;390pxsettings inspected. Real-device/screen-reader/native review pending. Initial content audit finds no empty vocab topic but129thin topics(1or2nouns);not yet enriched. |
+
+### Hundred-and-sixty-fifth update: navigation preview
+
+- [ ] Mobile menu: confirm the visible X is clear in Arabic and English. Its accessible name remains localized; no label is drawn beside the icon.
+- [ ] Sidebar: levels now run A1, A2, B1, B2, C1, C2. Each level groups its overview and existing study links. A1 has its overview and learning path; higher levels retain practice, vocabulary and writing. This does not claim identical or complete level coverage.
+- [ ] Review Egyptian Arabic navigation labels, especially the overview label, for clarity. All 80 prior destinations are preserved, including the admin-only link and Past tenses under Encyclopedia.
+- [ ] Keyboard/mobile: opening focus reaches the X; Escape, backdrop, link selection and desktop resize close the dialog without leaving background scroll locked. Native editorial review remains pending.
 
 ## 3. Wider review queue after the focused batch
 
