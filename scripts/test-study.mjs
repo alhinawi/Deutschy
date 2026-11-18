@@ -226,7 +226,7 @@ console.log('PASS: empty/own-miss/saved review, schedule boundaries, unknown-key
 
 const {dictationItems,compareDictation}=lib('dictation');for(const l of CHECK_LEVELS)assert(dictationItems.some(x=>x.level===l));assert(compareDictation('Grüße dich!','Grüße dich!').exact);assert(!compareDictation('Grusse dich','Grüße dich!').words[0].match);assert.equal(compareDictation('Hallo, Welt','Hallo Welt!').words.filter(w=>!w.match).length,0);console.log('PASS: dictation all levels, NFC, umlaut and punctuation comparison');
 
-const {conjugationVerbs,conjugationTenses,conjugated,conjugationAnswers}=lib('conjugation');for(const v of conjugationVerbs)for(const tense of conjugationTenses)for(let p=0;p<6;p++)assert(conjugated(v,tense,p).length>1);assert.equal(conjugated(conjugationVerbs[3],'Perfekt',1),'bist gekommen');assert.equal(conjugated(conjugationVerbs[2],'Futur II',4),'werdet gemacht haben');assert(conjugationAnswers(conjugationVerbs[0],'Konjunktiv II Vergangenheit',1).includes('wärst gewesen'));console.log('PASS: 264 conjugation cells, sein/haben selection, Futur II and accepted short variant');
+const {conjugationVerbs,conjugationTenses,conjugated,conjugationAnswers}=lib('conjugation');for(const v of conjugationVerbs)for(const tense of conjugationTenses)for(let p=0;p<6;p++)assert(conjugated(v,tense,p).length>1);assert.equal(conjugated(conjugationVerbs[3],'Perfekt',1),'bist gekommen');assert.equal(conjugated(conjugationVerbs[2],'Futur II',4),'werdet gemacht haben');assert(conjugationAnswers(conjugationVerbs[0],'Konjunktiv II Vergangenheit',1).includes('wärst gewesen'));console.log('PASS: 792 conjugation cells, sein/haben selection, Futur II and accepted short variant');
 
 const {dialogues}=lib('egypt-dialogues');assert.equal(dialogues.length,16);assert.equal(new Set(dialogues.map(d=>d.id)).size,16);for(const l of ['A1','A2','B1','B2']){assert.equal(dialogues.filter(d=>d.level===l).length,4);for(const topic of ['market','doctor','work','travel'])assert(dialogues.some(d=>d.level===l&&d.topic===topic))}for(const d of dialogues){assert.equal(d.lines.length,4);assert(d.lines.every(l=>l.length===3&&l.every(Boolean)));assert.equal(d.q.length,2);for(const q of d.q)assert.equal(new Set(q.slice(1)).size,3)}console.log('PASS: 16 original dialogues, 64 bilingual turns, 32 distinct comprehension questions');
 
@@ -1506,3 +1506,20 @@ const verb161=readFileSync('src/components/VerbQuiz.tsx','utf8');assert(verb161.
 const sb162=readFileSync('src/components/SatzbauGame.tsx','utf8');assert(sb162.includes('c.chosen!==chosen')&&sb162.includes('c.index!==i')&&sb162.includes('c.locked=true')&&sb162.includes('new Set(chosen).size'));assert(!sb162.includes('if (!saved) {'));assert(sb162.includes("!saved.current){saved.current=true;addScore('satzbau',score)"));console.log('PASS:sentence-builder guards token/check/Next against stale handlers and saves result outside render');
 
 for(const file of ['SpeakingPractice','SoundContrastLab','GermanVoice','DictationTrainer']){const source=readFileSync('src/components/'+file+'.tsx','utf8');assert(source.includes('availableEdgeGermanVoices()')&&source.includes("from '@/lib/speak'"));assert(!source.includes('getVoices().filter'));}assert(readFileSync('src/lib/speak.ts','utf8').includes('chooseEdgeGermanVoice(options.voice)'));console.log('PASS:all five browser speech paths use the shared Edge-only German policy');
+
+assert.equal(conjugationVerbs.length,12);
+assert.equal(new Set(conjugationVerbs.map(v=>v.inf)).size,12);
+assert.deepEqual(Array.from(conjugationVerbs.slice(0,4),v=>v.inf),['sein','haben','machen','kommen']);
+const expected166={geben:['gibst','gabt','gegeben','haben'],nehmen:['nimmst','nahmt','genommen','haben'],lesen:['liest','last','gelesen','haben'],sprechen:['sprichst','spracht','gesprochen','haben'],fahren:['fährst','fuhrt','gefahren','sein'],bleiben:['bleibst','bliebt','geblieben','sein'],finden:['findest','fandet','gefunden','haben'],arbeiten:['arbeitest','arbeitetet','gearbeitet','haben']};
+for(const [inf,[du,pastIhr,pp,aux]]of Object.entries(expected166)){
+ const v=conjugationVerbs.find(v=>v.inf===inf);assert(v);
+ for(const field of ['pres','pret','ki','kii'])assert.equal(v[field].length,6);
+ assert.equal(v.pres[1],du);assert.equal(v.pret[4],pastIhr);assert.equal(v.pp,pp);assert.equal(v.aux,aux);
+ assert.equal(conjugated(v,'Perfekt',2),`${aux==='sein'?'ist':'hat'} ${pp}`);
+ assert.equal(conjugated(v,'Futur II',3),`werden ${pp} ${aux}`);
+ assert.equal(conjugated(v,'Konjunktiv I Vergangenheit',0),`${aux==='sein'?'sei':'habe'} ${pp}`);
+ assert.equal(conjugated(v,'Konjunktiv II Vergangenheit',3),`${aux==='sein'?'wären':'hätten'} ${pp}`);
+}
+for(const [inf,tense,person,alternative]of [['geben','Konjunktiv II Gegenwart',1,'gäbst'],['geben','Konjunktiv II Gegenwart',4,'gäbt'],['nehmen','Konjunktiv II Gegenwart',1,'nähmst'],['sprechen','Konjunktiv II Gegenwart',4,'sprächt'],['fahren','Konjunktiv II Gegenwart',1,'führst'],['lesen','Präteritum',1,'last'],['finden','Präteritum',1,'fandst']])assert(conjugationAnswers(conjugationVerbs.find(v=>v.inf===inf),tense,person).includes(alternative));
+assert.deepEqual(Array.from(presentFocus,v=>v.inf),['sein','haben','machen','kommen','lesen','sprechen','nehmen','geben','fahren','arbeiten','wissen','sehen']);
+console.log('PASS:12 source-linked verbs/792 cells, verified irregular parts/auxiliaries/variants and stable existing present-focus order');
