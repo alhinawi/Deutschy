@@ -1,6 +1,6 @@
 # Native-language editorial review checklist
 
-Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-forty-sixth practice update.
+Status: **not yet reviewed by a native-language editor**. Prepared 2026-11-18 after the hundred-and-forty-seventh practice update.
 
 This is a handoff for a native German teacher/editor and an Egyptian Arabic reviewer. Passing automated checks does not establish idiomatic language, suitable difficulty or sound teaching. Level labels organize practice; they are not an official CEFR/Goethe mapping or assessment.
 
@@ -1582,9 +1582,21 @@ Sources were checked for these forms; that is not native editorial sign-off. Eac
 | [ ] | Dictation source selector | Source select describes its existing order/wrap/no-score/source-can-reveal-answer help. 4 unique valid help-target/focus checks AR/EN 320/390 and 390px pixels inspected. Help wording and sequencing unchanged. Actual assistive-device review pending. |
 | [ ] | Listening/dictation | 77 original segments, 308 exact German speech/source/answer checks. Native editorial and actual-device voice pending. Practice labels are not certification; progress is device-local. |
 
+### List 147: Espressokocher and Eiswürfelform
+
+| Done | Route / location | What needs a human decision |
+| --- | --- | --- |
+| [ ] | `/reading/alltag-a1-zwei-dinge-im-kuechenschrank/` and linked dialogue | Lea/Jan name two objects, write articles, self-correct and underline. Naming only: no heating or appliance use. 174 German words. |
+| [ ] | `/reading/alltag-a2-am-ende-steht-das-grundwort/` and linked dialogue | Deniz/Mira mark Kocher/Form, compare same-form Espressokocher with Eiswürfelformen, keep compounds as whole written words and check new forms independently. 241 German words. |
+| [ ] | `/reading/alltag-b1-erst-suchen-dann-fehlend-melden/` and linked dialogue | Fictional shared-flat list: not yet found versus confirmed missing; seen versus tested function. Robin finishes searching before sharing the corrected draft. No real stock, purchase, safety or function claim. 311 German words. |
+| [ ] | `/lessons/kuechenformen/` | der Espressokocher / same-form Espressokocher (موكا بوت), die Eiswürfelform / Eiswürfelformen (قالب مكعبات تلج). Wiktionary exact masculine/same plural; arabdict exact feminine; DWDS compound entries explicitly generated. Duden Form/Formen supports compound ending, not an exact compound entry. Verify independently in native review. Brunxs Monochrome 4262634 whole moka pot; Nataliya Vaitkevich 4641426 whole tray with decorative flowers. Rotation/crops recorded, no edible-flower claim. AR/EN 390px cards inspected. |
+| [ ] | Six appended grammar banks | 24 article/accusative/present/possessive/two-way/negation rows; earlier saved identities unchanged. Global reading/dialogue ID and evidence checks pass. German/Egyptian Arabic native editorial remains pending. |
+| [ ] | Dictation voice and speed controls | Both selects reference the existing device-voice limitation paragraph. 8 unique-target/focus checks AR/EN 320/390; both 390px control/helper views inspected. No wording/voice/behavior/persistence change. Actual assistive-device testing pending. |
+| [ ] | Listening/dictation | 71 original segments, 284 exact German speech/source/answer checks. Native editorial and actual-device voices pending; practice labels are not certification and progress is device-local. |
+
 ## 3. Wider review queue after the focused batch
 
-This is an inventory, not completed review. Snapshot: **949 photo nouns / 191 topics**, **456 reading texts / 1777 reading questions**, **41 core grammar topics / 3454 core grammar questions**, **396 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
+This is an inventory, not completed review. Snapshot: **951 photo nouns / 192 topics**, **459 reading texts / 1789 reading questions**, **41 core grammar topics / 3478 core grammar questions**, **399 general dialogues**, plus **16 separate Egyptian-context dialogues**, **72 present-focus cells**. Separate specialist tools contain additional material not counted in the core grammar figure.
 
 | Queue | Reader entry point | Editable content |
 | --- | --- | --- |
@@ -1596,7 +1608,7 @@ This is an inventory, not completed review. Snapshot: **949 photo nouns / 191 to
 | Higher-level specialist material | `/b1/`, `/b2/`, `/c1/`, `/c2/` | Corresponding `*-grammar.ts`, `*-themes.ts`, reading and writing files; prioritize nuance and alternative valid answers |
 | Product language | `/progress/`, `/level-check/`, `/certificate/A1/` | Verify local-only records, repeated-attempt counts and non-official completion language; do not turn practice scores into proficiency claims |
 
-Reading distribution: A1 134 · A2 162 · B1 130 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
+Reading distribution: A1 135 · A2 163 · B1 131 · B2 12 · C1 9 · C2 9. These are content counts, not evidence of full level coverage.
 
 ## 4. Record findings so a fix is actionable
 

@@ -441,3 +441,6 @@ readings.push(...kakikaramboleTexts);
 
 import {okramangoldTexts} from './reading-okramangold';
 readings.push(...okramangoldTexts);
+
+import {kuechenformenTexts} from './reading-kuechenformen';
+readings.push(...kuechenformenTexts);

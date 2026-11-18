@@ -1,0 +1,29 @@
+# List 147 QA: Moka pot and ice cube tray
+
+## Scope
+- 3 original linked reading/dialogue/listening/dictation sets, 21 questions and 71 dictation segments. A1 naming and article correction, A2 compound endings and same-form versus -en plural, B1 precise inventory reporting after incomplete search. A1/A2/B1 texts contain 174/241/311 German words. Fictional practice only, with no appliance operation or real stock/ordering claims.
+- 2 previously absent real-photo nouns: der Espressokocher / Espressokocher, stored with existing same-form marker; die Eiswürfelform / Eiswürfelformen. Egyptian Arabic موكا بوت / قالب مكعبات تلج, English moka pot / ice cube tray.
+- 24 append-only article/accusative/present/possessive/two-way/negation rows. Earlier saved exercise identities preserved, global reading/dialogue ID uniqueness and exact evidence pass.
+- Bounded UI: dictation voice/speed selects describe the existing paragraph about device voice, varying pronunciation/quality, normal-speed practice and no microphone/pronunciation assessment. Wording, voice settings and behavior unchanged. Existing reading-source help kept.
+
+## Sources and photos
+- https://de.wiktionary.org/wiki/Espressokocher full page confirms masculine, identical plural, device sense. https://www.dwds.de/wb/Espressokocher supports the term but explicitly labels its morphology computer-generated, not editorial evidence.
+- https://www.arabdict.com/de/deutsch-arabisch/Eisw%C3%BCrfelform full page supports feminine tray meaning, not an independently checked plural. https://www.dwds.de/wb/Eisw%C3%BCrfelform gives generated feminine/-en morphology; generated status preserved. https://www.duden.de/rechtschreibung/Form full page gives feminine Form/Formen and molding-container sense. The compound's head morphology supports Eiswürfelformen; no false claim of an exact Duden Eiswürfelform entry. Exact German Wiktionary Eiswürfelform retrieval failed, so it is not relied on. Native editorial remains pending. Source types: lexical dictionary/community entries and photographer/license records; unrelated product reviews would not improve wordform/photo checks.
+- https://www.pexels.com/photo/photo-of-a-moka-pot-on-a-white-surface-4262634/ by Brunxs Monochrome. Plain silver whole moka pot, black handle and lid knob, pale surface. Source explicitly identifies moka pot. Original download 1800 x 2696, crop (0,680)-(1800,2030), proportional resize 800 x 600. Top/bottom/handle/base preserved. Pexels License, exact source and author and modified/cropped marker retained.
+- https://www.pexels.com/photo/ice-cubes-with-white-flowers-on-a-molder-4641426/ by Nataliya Vaitkevich. Whole white ice tray, compartments, ice and decorative flowers, no faces/brands. Original 1800 x 2700, rotated 90 degrees to 2700 x 1800, crop (150,0)-(2550,1800), proportional resize 800 x 600. All corners visible. Rotation and crop recorded; Pexels License, exact source/author and modified/cropped marker. No edible-flower, suitability or food-safety claim.
+- Inspected alternatives https://www.pexels.com/photo/grey-stainless-steel-moka-pot-2556685/ by Christian Naccarato (open device on stove, darker) and https://www.pexels.com/photo/moka-pot-beside-a-ceramic-cup-on-wooden-surface-6766676/ by KATRIN BOLOVTSOVA (more competing objects). Cleaner single pot selected. Both final crops and actual 390px AR/EN lesson card pixels inspected. No artificial padding, stretching, generated fill or brand/face imagery.
+
+## QA
+- 9272 main browser answers: 9132 grammar (2283 per AR/EN 320/390 pass across two bounded three-bank halves), 132 linked reading/listening/dialogue and 8 photo answers.
+- Additional shared regressions: 80 correct, 8 wrong, 20 spelling, 8 article answers. Race harness answers once in each of 8 Next cases.
+- 284 exact German dictation/speech/source/answer checks over 71 segments; 132 route/layout/image checks, 6 cached offline routes plus uncached fallback.
+- 136 axe checks: 32 grammar/photo, 36 linked, 8 shared correct, 8 shared wrong, 8 listen, 8 spelling, 8 article, 4 dictation, 20 audio race and 4 credits.
+- Voice/speed description: 8 unique valid help-target/focus checks, AR/EN 320/390, and inspected 390px control/helper pixels. Existing source-order/wrap/reveal help checks retained. No XP saved by dictation. Speech mocks verify payloads, not actual pronunciation or assistive-device behavior.
+- Shared quiz: 8 exact New round score descriptions, 80 next/result and 8 new-round focus checks, 8 no-entry-autofocus checks. Listen: 8 voice states, 4 German calls. Audio races: 20 (8 Next, 8 newest tap, 4 unmount), no stale errors/unwanted speech/extra XP and genuine current errors visible. Note/hint/correction isolation, spelling/article controls and credits checks pass.
+- Credits: 12 exact existing BY-SA4/BY-SA3/BY4 license links, 4 axe, source-author/no-false-crop, plain Pexels/no-results/clear/focus/no-XP regressions retained. Both new crops correctly marked modified.
+- First standard build killed during type validation, cause unknown. Standalone unchanged standard full build passed; no appenders rerun. All export and browser QA used the final complete build.
+- Typecheck, content, study, speech, standard build, PWA, export and progress budget pass. 1060 HTML pages / 1045 sitemap targets; worker 8WOLJ-JbwggAHqBgGb7Qk. Initial progress JavaScript 396127 bytes, below 500000.
+- Inventory: 951 nouns / 192 topics; 459 readings / 1789 reading questions; 3478 core grammar across 41 topics; 399 general +16 separate Egyptian-context dialogues. A1-C2 labels 135/163/131/12/9/9.
+
+## Limits
+Native German/Egyptian Arabic editorial, actual-device voice and screen-reader tests remain pending. No invented review sign-off, CEFR certification or backend/sync claims. Progress stays device-local. Parent owns deployment.

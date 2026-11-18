@@ -2699,3 +2699,24 @@ Object.assign(readingEvidence,{
     "Offen gebliebene Sprachfragen markieren sie und prüfen sie später im Wörterbuch."
   ]
 });
+
+Object.assign(readingEvidence,{
+  "alltag-a1-zwei-dinge-im-kuechenschrank": [
+    "Lea besucht ihren Bruder Jan",
+    "Er hat einen Griff und einen Deckel.",
+    "Lea schreibt die Eiswürfelform",
+    "und schaltet kein Gerät ein."
+  ],
+  "alltag-a2-am-ende-steht-das-grundwort": [
+    "Deniz markiert Kocher und Form.",
+    "Die geschriebene Form des Nomens ändert sich hier nicht.",
+    "die Eiswürfelformen.",
+    "öffnet er den passenden Wörterbucheintrag."
+  ],
+  "alltag-b1-erst-suchen-dann-fehlend-melden": [
+    "Den Schrank neben der Tür hat er noch nicht geöffnet.",
+    "Die neue Fassung beschreibt dagegen nur den bisherigen Stand der Suche.",
+    "keine Funktionsprüfung durchgeführt.",
+    "Er ändert den Entwurf, bevor er ihn an die übrigen Mitbewohner weitergibt."
+  ]
+});
