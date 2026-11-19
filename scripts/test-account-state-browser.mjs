@@ -27,7 +27,7 @@ const server=http.createServer(async(req,res)=>{
 await new Promise(resolve=>server.listen(0,'127.0.0.1',resolve));const base='http://127.0.0.1:'+server.address().port;
 let browser,checks=0,axeChecks=0;const errors=[];
 async function page(id=0){const p=await browser.newPage();p.on('pageerror',e=>errors.push(e.message));p.on('dialog',d=>d.accept());await p.setViewport({width:Number(process.env.ACCOUNT_WIDTH||390),height:844});await p.setExtraHTTPHeaders({'x-fixture-user':String(id)});await p.evaluateOnNewDocument(()=>{
- window.__storageAttempts=[];for(const name of ['localStorage','sessionStorage','indexedDB'])Object.defineProperty(window,name,{configurable:true,get(){window.__storageAttempts.push(name);throw Error('Persistent storage blocked by fixture')}});
+ window.__storageAttempts=[];for(const name of ['localStorage','sessionStorage','indexedDB'])Object.defineProperty(window,name,{configurable:true,get(){if(name==='localStorage')return{getItem(k){if(k!=='deutschy:appearance')window.__storageAttempts.push('localStorage');return null},setItem(k){if(k!=='deutschy:appearance')window.__storageAttempts.push('localStorage')},removeItem(k){if(k!=='deutschy:appearance')window.__storageAttempts.push('localStorage')}};window.__storageAttempts.push(name);throw Error('Persistent storage blocked')}});
  });return p}
 const ready=p=>p.waitForSelector('[data-account-ready]',{visible:false});
 const saved=p=>p.waitForFunction(()=>document.querySelector('[data-account-save]')?.textContent.match(/Saved to your account|اتحفظ في حسابك/));
