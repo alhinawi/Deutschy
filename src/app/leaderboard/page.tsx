@@ -1,15 +1,14 @@
 'use client';
 import { useEffect, useState } from 'react';
 import Flame from '@/components/Flame';
-import { useStore, level, useAuth } from '@/lib/store';
+import { useStore, level } from '@/lib/store';
 import { T, useT } from '@/lib/i18n';
 
 const names: Record<string, string> = { quiz: 'Bild-Quiz', article: 'der·die·das', spelling: 'Buchstabieren', memory: 'Memory' };
 type Board = { xp: { name: string; xp: number; best: number }[]; scores: { name: string; game: string; score: number }[] };
 
 export default function Leaderboard() {
-  const { s, patch } = useStore();
-  const user = useAuth();
+  const { s } = useStore();
   const t = useT();
   const [board, setBoard] = useState<Board | null>(null);
   useEffect(() => { fetch('/api/leaderboard').then((r) => r.json()).then(setBoard).catch(() => setBoard({ xp: [], scores: [] })); }, []);
@@ -19,8 +18,7 @@ export default function Leaderboard() {
         <h1 className="ar-title text-4xl font-bold"><T ar="المتصدرين" en="Leaderboard" /></h1>
         <p className="mt-2 text-muted"><T ar="الترتيب العالمي لكل اللي عاملين حساب. سجّل حساب عشان اسمك يظهر وتقدمك يتحفظ." en="The global ranking of everyone with an account. Create an account so your name shows up and your progress is saved." /></p>
       </div>
-      <section className="grid gap-4 rounded-2xl border border-line bg-card p-5 sm:grid-cols-4">
-        <Stat l={t('الاسم', 'Name')} v={<input className="w-full rounded-lg border border-line bg-paper px-2 py-1" placeholder={user?.name ?? t('اكتب اسمك', 'Your name')} value={s.name} onChange={(e) => patch({ name: e.target.value })} />} />
+      <section className="grid gap-4 rounded-2xl border border-line bg-card p-5 sm:grid-cols-3">
         <Stat l={t('المستوى', 'Level')} v={<span className="num text-3xl font-bold">{level(s.xp)}</span>} />
         <Stat l="XP" v={<span className="num text-3xl font-bold">{s.xp}</span>} />
         <Stat l={t('أطول سلسلة أيام', 'Best streak')} v={<span className="num inline-flex items-center gap-1 text-3xl font-bold"><Flame className="h-7 w-7 text-accent" />{s.best}</span>} />
