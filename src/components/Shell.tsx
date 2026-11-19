@@ -13,7 +13,7 @@ import CloseIcon from './CloseIcon';
 import SheetLink from './SheetLink';
 import { useAuth, useStore, level } from '@/lib/store';
 import { useLang, useT } from '@/lib/i18n';
-import {applyAppearance,readAppearance} from '@/lib/appearance';
+import {applyAppearance,readAppearance,persistAppearanceBrowser} from '@/lib/appearance';
 import StudyNavigation from './StudyNavigation';
 import AuthSync from './AuthSync';
 import SearchBox, { SearchIcon } from './SearchBox';
@@ -59,7 +59,7 @@ export default function Shell({ children }: { children: ReactNode }) {
     return () => window.removeEventListener('keydown', k);
   }, []);
   useEffect(() => {
-    const sync=()=>applyAppearance(readAppearance(s.theme));sync();window.addEventListener('storage',sync);window.addEventListener('deutschy:appearance',sync);return()=>{window.removeEventListener('storage',sync);window.removeEventListener('deutschy:appearance',sync)};
+    const sync=()=>{const resolved=readAppearance(s.theme);applyAppearance(resolved);persistAppearanceBrowser(resolved)};sync();window.addEventListener('storage',sync);window.addEventListener('deutschy:appearance',sync);return()=>{window.removeEventListener('storage',sync);window.removeEventListener('deutschy:appearance',sync)};
   }, [s.theme]);
   const navigation = <StudyNavigation path={path} isAdmin={Boolean(user?.isAdmin)} onSearch={()=>{setOpen(false);setSearching(true)}}/>;
   return (

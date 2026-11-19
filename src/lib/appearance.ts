@@ -192,6 +192,16 @@ export const appearanceThemes=[
   "styleEn": "Focused minimal"
  },
  {
+  "id": "almania",
+  "ar": "ألمانيا",
+  "en": "German flag",
+  "dark": false,
+  "className": "[--paper:#f6f0e2] [--card:#fffaf0] [--ink:#201a12] [--muted:#6f6355] [--line:#e3d7c0] [--accent:#b3251e] [--accent-ink:#fff6ea] [--good:#2f7a52] [--bad:#a8261e] [--display-font:Cairo,system-ui,sans-serif] [--arabic-heading:Cairo,system-ui,sans-serif] scheme-light",
+  "fonts": "Cairo",
+  "styleAr": "دافي ومقروء",
+  "styleEn": "Warm reading"
+ },
+ {
   "id": "cherry",
   "ar": "كرز بالليل",
   "en": "Cherry at night",
@@ -204,6 +214,10 @@ export const appearanceThemes=[
 ] as const;
 export const APPEARANCE_KEY='deutschy:appearance';
 export function validAppearance(value:unknown):value is string{return typeof value==='string'&&appearanceThemes.some(t=>t.id===value)}
-export function readAppearance(legacy=DEFAULT_APPEARANCE){try{const saved=accountMemory.getItem(APPEARANCE_KEY);return validAppearance(saved)?saved:validAppearance(legacy)?legacy:DEFAULT_APPEARANCE}catch{return validAppearance(legacy)?legacy:DEFAULT_APPEARANCE}}
+// Per-browser persistence (owner request, Nov 19 2026): the theme choice is the one
+// piece of state kept on the device so every visit opens in the chosen look.
+export function readAppearanceBrowser():string|null{try{const v=window.localStorage.getItem(APPEARANCE_KEY);return validAppearance(v)?v:null}catch{return null}}
+export function persistAppearanceBrowser(value:string){if(!validAppearance(value))return;try{window.localStorage.setItem(APPEARANCE_KEY,value)}catch{}}
+export function readAppearance(legacy=DEFAULT_APPEARANCE){try{const saved=accountMemory.getItem(APPEARANCE_KEY);if(validAppearance(saved))return saved}catch{}const browser=readAppearanceBrowser();if(browser)return browser;return validAppearance(legacy)?legacy:DEFAULT_APPEARANCE}
 export function applyAppearance(value:string){const theme=appearanceThemes.find(t=>t.id===value)??appearanceThemes[0];const root=document.documentElement;root.classList.remove(...appearanceThemes.flatMap(t=>t.className.split(' ')));root.classList.add(...theme.className.split(' '));root.dataset.theme=theme.id}
-export function saveAppearance(value:string){if(!validAppearance(value))return false;try{accountMemory.setItem(APPEARANCE_KEY,value);applyAppearance(value);window.dispatchEvent(new Event('deutschy:appearance'));return true}catch{return false}}
+export function saveAppearance(value:string){if(!validAppearance(value))return false;persistAppearanceBrowser(value);try{accountMemory.setItem(APPEARANCE_KEY,value)}catch{}applyAppearance(value);window.dispatchEvent(new Event('deutschy:appearance'));return true}

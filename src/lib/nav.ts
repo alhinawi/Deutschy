@@ -77,7 +77,7 @@ export const sidebar: NavGroup[] = [
     { href: '/daily/', ar: 'تحدي اليوم', en: 'Daily challenge' },
     { href: '/review/', ar: 'راجع أخطاءك', en: 'Review mistakes' },
     { href: '/review/words/', ar: 'مراجعة الكلمات المتباعدة', en: 'Spaced word review' },
-    { href: '/settings/', ar: 'إعدادات الصوت', en: 'Audio settings' },
+    { href: '/settings/', ar: 'الشكل والصوت', en: 'Appearance and audio' },
     { href: '/account/', ar: 'الحساب', en: 'Account' },
     { href: '/admin/', ar: 'لوحة التحكم', en: 'Admin', admin: true },
     { href: '/credits/', ar: 'حقوق الصور', en: 'Photo credits' },

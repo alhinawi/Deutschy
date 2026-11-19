@@ -37,6 +37,8 @@ button, a { -webkit-tap-highlight-color: transparent; }
 /* Owner request (Nov 19 2026): the search overlay input shows no blue focus line; its caret marks focus. */
 [data-search-input]:focus-visible { outline: none; }
 .photo { aspect-ratio: 4 / 3; object-fit: cover; width: 100%; background: var(--line); }
+/* German-flag stripe across the top, only in the almania theme (owner's chosen look, Nov 19 2026). */
+[data-theme="almania"] body::before { content: ""; display: block; height: 6px; background: linear-gradient(to right, #161311 0 33.34%, #cf202a 33.34% 66.67%, #f0b90b 66.67% 100%); }
 
 @media print {
   body > div > header, body header.sticky, aside, .no-print { display: none !important; }
