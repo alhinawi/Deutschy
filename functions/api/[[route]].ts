@@ -302,12 +302,30 @@ const ACCOUNT_PROGRESS_SQL=`(
  WHERE a.user_id IS NOT NULL OR p.user_id IS NOT NULL
 )`;
 
+// Only registered learners who started studying (xp > 0) rank. Placeholder leaders fill the
+// remaining slots so a new board never looks empty; every real learner who earns XP takes one
+// placeholder's slot, and the combined list stays ordered by XP.
+const PLACEHOLDER_LEADERS: { name: string; xp: number; best: number }[] = [
+  { name: 'Lena', xp: 240, best: 6 },
+  { name: 'Jonas', xp: 195, best: 5 },
+  { name: 'Marie', xp: 160, best: 4 },
+  { name: 'Finn', xp: 130, best: 4 },
+  { name: 'Leonie', xp: 105, best: 3 },
+  { name: 'Paul', xp: 80, best: 3 },
+  { name: 'Clara', xp: 60, best: 2 },
+  { name: 'Emil', xp: 45, best: 2 },
+  { name: 'Mia', xp: 30, best: 1 },
+  { name: 'Noah', xp: 20, best: 1 },
+];
+const BOARD_SIZE = 10;
+
 app.get('/leaderboard', async (c) => {
   if (!c.env.DB) return c.json({ xp: [], scores: [] });
   c.header('Cache-Control', 'public, max-age=30');
-  const xp = await c.env.DB.prepare(`SELECT name,xp,best FROM ${ACCOUNT_PROGRESS_SQL} ORDER BY xp DESC LIMIT 20`).all();
+  const real = ((await c.env.DB.prepare(`SELECT name,xp,best FROM ${ACCOUNT_PROGRESS_SQL} WHERE xp > 0 ORDER BY xp DESC LIMIT ${BOARD_SIZE}`).all()).results ?? []) as { name: string; xp: number; best: number }[];
+  const xp = [...real, ...PLACEHOLDER_LEADERS.slice(0, Math.max(0, BOARD_SIZE - real.length))].sort((a, b) => b.xp - a.xp);
   const scores = await c.env.DB.prepare('SELECT u.name, s.game, MAX(s.score) AS score FROM scores s JOIN users u ON u.id = s.user_id GROUP BY s.user_id, s.game ORDER BY score DESC LIMIT 30').all();
-  return c.json({ xp: xp.results, scores: scores.results });
+  return c.json({ xp, scores: scores.results });
 });
 
 app.get('/admin/ping', async (c) => {
