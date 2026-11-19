@@ -16,9 +16,16 @@ export const metadata: Metadata = {
 
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
+  // Applies the per-browser saved theme before first paint so the site never
+  // flashes the default look (owner request, Nov 19 2026). Only the appearance
+  // key is read; a failure leaves the default theme in place.
+  const themeMap=Object.fromEntries(appearanceThemes.map(t=>[t.id,t.className]));
+  const allClasses=[...new Set(appearanceThemes.flatMap(t=>t.className.split(' ')))];
+  const themeScript=`(function(){try{var m=${JSON.stringify(themeMap)},all=${JSON.stringify(allClasses)},t=window.localStorage.getItem('deutschy:appearance');if(t&&m[t]){var r=document.documentElement;r.classList.remove.apply(r.classList,all);for(var c of m[t].split(' '))r.classList.add(c);r.dataset.theme=t}}catch(e){}})();`;
   return (
     <html lang="ar" dir="rtl" data-theme={DEFAULT_APPEARANCE} className={appearanceThemes[0].className} suppressHydrationWarning>
       <head>
+        <script dangerouslySetInnerHTML={{ __html: themeScript }} />
         <link rel="preload" href="/fonts/cairo-var.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
         <link rel="preload" href="/fonts/amiri-bold-arabic.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />
         <link rel="preload" href="/fonts/fraunces-latin-wght-normal.woff2" as="font" type="font/woff2" crossOrigin="anonymous" />

@@ -190,6 +190,16 @@
     "styleEn": "Focused minimal"
   },
   {
+    "id": "almania",
+    "ar": "ألمانيا",
+    "en": "German flag",
+    "dark": false,
+    "className": "[--paper:#f6f0e2] [--card:#fffaf0] [--ink:#201a12] [--muted:#6f6355] [--line:#e3d7c0] [--accent:#b3251e] [--accent-ink:#fff6ea] [--good:#2f7a52] [--bad:#a8261e] [--display-font:Cairo,system-ui,sans-serif] [--arabic-heading:Cairo,system-ui,sans-serif] scheme-light",
+    "fonts": "Cairo",
+    "styleAr": "دافي ومقروء",
+    "styleEn": "Warm reading"
+  },
+  {
     "id": "cherry",
     "ar": "كرز بالليل",
     "en": "Cherry at night",
