@@ -70,7 +70,7 @@ export default function SearchBox({ open, onClose }: { open: boolean; onClose: (
       <div ref={dialog} role="dialog" aria-modal="true" aria-label={t('بحث', 'Search')} onKeyDown={onKey} className="w-full max-w-xl rounded-2xl border border-line bg-paper shadow-xl">
         <div className="flex items-center gap-2 border-b border-line px-4 py-3">
           <SearchIcon className="h-5 w-5 shrink-0 text-muted" />
-          <input ref={input} dir="auto" value={q} onChange={(e) => setQ(e.target.value)} role="combobox" aria-expanded={hits.length > 0} aria-controls={id} aria-activedescendant={hits[sel] ? `${id}-${sel}` : undefined} aria-label={t('بحث', 'Search')} placeholder={t('دوّر في الكلمات والقواعد والقراءة والكتابة A1-C2', 'Search vocabulary, grammar, reading and writing A1-C2')} className="w-full bg-transparent py-1 text-lg outline-none" />
+          <input ref={input} dir="auto" data-search-input value={q} onChange={(e) => setQ(e.target.value)} role="combobox" aria-expanded={hits.length > 0} aria-controls={id} aria-activedescendant={hits[sel] ? `${id}-${sel}` : undefined} aria-label={t('بحث', 'Search')} placeholder={t('دوّر في الكلمات والقواعد والقراءة والكتابة A1-C2', 'Search vocabulary, grammar, reading and writing A1-C2')} className="w-full bg-transparent py-1 text-lg outline-none" />
           <button aria-label={t('اقفل البحث', 'Close search')} onClick={onClose} className="rounded-lg border border-line px-2 py-1 text-xs font-bold text-muted">Esc</button>
         </div>
         <ul ref={list} id={id} role="listbox" className="max-h-[60vh] overflow-y-auto p-2">
