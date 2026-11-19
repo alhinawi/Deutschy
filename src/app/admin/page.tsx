@@ -57,7 +57,7 @@ export default function Admin() {
       )}
       <section>
         <h2 className="ar-title mb-3 text-2xl font-bold">{t('الثيمات', 'Themes')}</h2>
-        <Link href="/settings/" className="inline-flex min-h-12 items-center rounded-xl border border-line px-4 font-bold underline">{t('اختار من 20 ثيم في الإعدادات','Choose from 20 themes in settings')}</Link>
+        <Link href="/settings/" className="inline-flex min-h-12 items-center rounded-xl border border-line px-4 font-bold underline">{t('اختار شكل الموقع من الإعدادات','Choose the site theme in settings')}</Link>
         <p className="mt-3 text-sm text-muted">{t('الثيمات متاحة لكل الناس. اختيارك على المتصفح ده بس، من غير تغيير تقدم المذاكرة.','Themes are available to everyone. Your choice stays in this browser without changing study progress.')}</p>
       </section>
     </div>
