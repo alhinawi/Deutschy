@@ -2,9 +2,9 @@
 import {saveResume} from '@/lib/resume';
 import {localActivity} from '@/lib/local-activity';
 import {useLocalClock} from '@/lib/use-local-clock';
-import GameSoundControl from './GameSoundControl';
+import PwaRuntime from './PwaRuntime';
 import SpeechNotice from './SpeechNotice';
-import PwaStatus from './PwaStatus';
+
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
 import { useEffect, useRef, useState, type ReactNode } from 'react';
@@ -117,8 +117,9 @@ export default function Shell({ children }: { children: ReactNode }) {
       <aside className="fixed bottom-0 top-[65px] z-40 hidden w-64 overflow-y-auto border-e border-line bg-paper p-3 start-0 md:block" aria-label={t('التنقل', 'Navigation')}>
         {navigation}
       </aside>
+      <PwaRuntime />
       <main id="main" tabIndex={-1} className="outline-none px-4 pb-28 pt-6 md:pb-8 md:ps-72 md:pe-8">
-        <div className="mx-auto max-w-5xl">{storageError&&<p role="alert" className="mb-4 rounded-xl border border-line bg-card p-4">{t('سجل التدريب مش قابل للتحديث أو جزء منه مش مقروء. الأصل متساب من غير تغيير؛ الإجابات الجديدة ممكن ماتتحفظش. احتفظ بنسخة من أي كلام مهم قبل إعادة التحميل.','Practice data cannot be updated or part of its record cannot be read. The original is unchanged; new answers may not be saved. Copy important text before reloading.')}</p>}{children}<SheetLink /><details className="mt-8 border-t border-line pt-3 text-sm text-muted"><summary className="min-h-11 cursor-pointer py-3">{t('الصوت والتثبيت','Sound and installation')}</summary><GameSoundControl /><p className="mt-6 text-sm text-muted">{t('الصوت المصنّع: ','Synthesized speech: ')}<a href="https://elevenlabs.io" className="underline" title="German synthesized speech | elevenlabs.io">elevenlabs.io</a>{t('، مش تسجيل بشري. حسب توفر الكلمة والصوت المختار.','; not a human recording. Availability depends on the phrase and selected voice.')}</p><PwaStatus /></details></div>
+        <div className="mx-auto max-w-5xl">{storageError&&<p role="alert" className="mb-4 rounded-xl border border-line bg-card p-4">{t('سجل التدريب مش قابل للتحديث أو جزء منه مش مقروء. الأصل متساب من غير تغيير؛ الإجابات الجديدة ممكن ماتتحفظش. احتفظ بنسخة من أي كلام مهم قبل إعادة التحميل.','Practice data cannot be updated or part of its record cannot be read. The original is unchanged; new answers may not be saved. Copy important text before reloading.')}</p>}{children}<SheetLink /></div>
       </main>
       <nav aria-label={t('التنقل السريع','Quick navigation')} className="fixed inset-x-0 bottom-0 z-30 grid grid-cols-4 border-t border-line bg-card pb-[env(safe-area-inset-bottom)] shadow-lg md:hidden">{[['/','دفترى','Journal','home'],['/lernpfad/','المسار','Path','path'],['/lessons/','المكتبة','Library','library'],['/progress/','تقدمي','Progress','progress']].map(([href,ar,en,icon])=><Link key={href} href={href} aria-current={path===href?'page':undefined} className={`flex min-h-16 flex-col items-center justify-center gap-1 px-1 text-xs font-bold ${path===href?'bg-accent/10 text-accent':'text-muted'}`}><svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" strokeLinecap="round" strokeLinejoin="round" className="h-5 w-5">{icon==='home'?<path d="m3 10 9-7 9 7v10H3Zm5 10v-7h8v7"/>:icon==='path'?<path d="M5 20v-5a3 3 0 0 1 3-3h8a3 3 0 0 0 0-6H5m0 0 3-3M5 6l3 3m-3 8v3h3"/>:icon==='library'?<path d="M3 4h7v16H3zm11 0h7v16h-7M6 8h1m10 0h1"/>:<path d="M4 20h16M7 16v-4m5 4V8m5 8V4"/>}</svg><span>{t(ar,en)}</span></Link>)}</nav>
     </>
