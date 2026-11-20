@@ -1,0 +1,553 @@
+[
+ {
+  "de": "Helmpflicht",
+  "ar": "إجبارية الخوذة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Hemmung",
+  "ar": "الكبح",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hemmungen"
+ },
+ {
+  "de": "Hepatitis",
+  "ar": "الالتهاب الكبدي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Herablassung",
+  "ar": "التعالي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Herabstufung",
+  "ar": "التخفيض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Herabstufungen"
+ },
+ {
+  "de": "Heranwachsende",
+  "ar": "المراهق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Heranwachsenden"
+ },
+ {
+  "de": "Herausgeber",
+  "ar": "الناشر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Herausgeber"
+ },
+ {
+  "de": "Herausgeberin",
+  "ar": "الناشرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Herausgeberinnen"
+ },
+ {
+  "de": "Herbizid",
+  "ar": "مبيد الأعشاب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Herbizide"
+ },
+ {
+  "de": "Herbstfest",
+  "ar": "مهرجان الخريف",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Herbstfeste"
+ },
+ {
+  "de": "Hering",
+  "ar": "الرنجة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Heringe"
+ },
+ {
+  "de": "Herrchen",
+  "ar": "صاحب الكلب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Herrchen"
+ },
+ {
+  "de": "Herrschaftssystem",
+  "ar": "نظام الحكم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Herrschaftssysteme"
+ },
+ {
+  "de": "Herstellerangaben",
+  "ar": "بيانات الشركة الصانعة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Herstellungskosten",
+  "ar": "تكاليف التصنيع",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Herzenswunsch",
+  "ar": "أمنية القلب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Herzenswünsche"
+ },
+ {
+  "de": "Herzkrankheit",
+  "ar": "مرض القلب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Herzkrankheiten"
+ },
+ {
+  "de": "Herzlichkeit",
+  "ar": "الحفاوة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Herzmuskel",
+  "ar": "عضلة القلب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Herzmuskeln"
+ },
+ {
+  "de": "Herzogtum",
+  "ar": "الدوقية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Herzogtümer"
+ },
+ {
+  "de": "Herzrhythmusstörungen",
+  "ar": "اضطراب ضربات القلب",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Herzstillstand",
+  "ar": "توقف القلب",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Hexenjagd",
+  "ar": "مطاردة الساحرات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hexenjagden"
+ },
+ {
+  "de": "Hexenkessel",
+  "ar": "الملعب الملتهب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hexenkessel"
+ },
+ {
+  "de": "Hexer",
+  "ar": "الساحر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hexer"
+ },
+ {
+  "de": "Hierarchie",
+  "ar": "التسلسل الهرمي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hierarchien"
+ },
+ {
+  "de": "Highschool",
+  "ar": "الثانوية الأمريكية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Highschools"
+ },
+ {
+  "de": "Hilferuf",
+  "ar": "صرخة الاستغاثة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hilferufe"
+ },
+ {
+  "de": "Hilfsangebot",
+  "ar": "عرض المساعدة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hilfsangebote"
+ },
+ {
+  "de": "Hilfsbedürftige",
+  "ar": "المحتاج",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hilfsbedürftigen"
+ },
+ {
+  "de": "Hilfsbereitschaft",
+  "ar": "الاستعداد للمساعدة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Hilfsgelder",
+  "ar": "أموال المساعدات",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Hilfsgüter",
+  "ar": "مواد الإغاثة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Hilfsorganisation",
+  "ar": "منظمة الإغاثة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hilfsorganisationen"
+ },
+ {
+  "de": "Hilfspaket",
+  "ar": "حزمة المساعدات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hilfspakete"
+ },
+ {
+  "de": "Hilfsprogramm",
+  "ar": "برنامج المساعدات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hilfsprogramme"
+ },
+ {
+  "de": "Hilfsprojekt",
+  "ar": "مشروع المساعدات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hilfsprojekte"
+ },
+ {
+  "de": "Himalaya",
+  "ar": "الهيمالايا",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Himmelfahrtskommando",
+  "ar": "المهمة الانتحارية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Himmelfahrtskommandos"
+ },
+ {
+  "de": "Himmelsrichtung",
+  "ar": "الاتجاه",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Himmelsrichtungen"
+ },
+ {
+  "de": "Hinhaltetaktik",
+  "ar": "تكتيك المماطلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hinhaltetaktiken"
+ },
+ {
+  "de": "Hinterbliebene",
+  "ar": "ذوو المتوفى",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hinterbliebenen"
+ },
+ {
+  "de": "Hintergedanke",
+  "ar": "النية الخفية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hintergedanken"
+ },
+ {
+  "de": "Hinterhof",
+  "ar": "حوش البيت الخلفي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hinterhöfe"
+ },
+ {
+  "de": "Hinterkopf",
+  "ar": "مؤخرة الراس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hinterköpfe"
+ },
+ {
+  "de": "Hintermann",
+  "ar": "العقل المدبر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hintermänner"
+ },
+ {
+  "de": "Hinweisgeber",
+  "ar": "المبلغ عن الفساد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hinweisgeber"
+ },
+ {
+  "de": "Hinweisschild",
+  "ar": "لافتة الإرشاد",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hinweisschilder"
+ },
+ {
+  "de": "Hiobsbotschaft",
+  "ar": "الخبر الكارثي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hiobsbotschaften"
+ },
+ {
+  "de": "Hipster",
+  "ar": "الهيبستر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hipster"
+ },
+ {
+  "de": "Hirte",
+  "ar": "الراعي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hirten"
+ },
+ {
+  "de": "Histamin",
+  "ar": "الهيستامين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Histamine"
+ },
+ {
+  "de": "Hitparade",
+  "ar": "قايمة الأغاني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hitparaden"
+ },
+ {
+  "de": "Hitzschlag",
+  "ar": "ضربة الشمس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hitzschläge"
+ },
+ {
+  "de": "Hizbollah",
+  "ar": "حزب الله",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Hobbysportler",
+  "ar": "الرياضي الهاوي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hobbysportler"
+ },
+ {
+  "de": "Hochsaison",
+  "ar": "موسم الذروة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hochsaisons"
+ },
+ {
+  "de": "Hochsensibilität",
+  "ar": "الحساسية المفرطة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Hochsicherheitsgefängnis",
+  "ar": "سجن شديد الحراسة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hochsicherheitsgefängnisse"
+ },
+ {
+  "de": "Hochspannungsleitung",
+  "ar": "خط الجهد العالي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hochspannungsleitungen"
+ },
+ {
+  "de": "Hochstimmung",
+  "ar": "المعنويات العالية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Hochstuhl",
+  "ar": "كرسي الأطفال العالي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hochstühle"
+ },
+ {
+  "de": "Hochwassergefahr",
+  "ar": "خطر الفيضان",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Hochzeitsfeier",
+  "ar": "حفلة الفرح",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hochzeitsfeiern"
+ },
+ {
+  "de": "Hochzeitspaar",
+  "ar": "العروسين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hochzeitspaare"
+ },
+ {
+  "de": "Hochzeitsplanerin",
+  "ar": "منظمة الأفراح",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hochzeitsplanerinnen"
+ },
+ {
+  "de": "Hochzeitsvorbereitungen",
+  "ar": "تجهيزات الفرح",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Hocker",
+  "ar": "المقعد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hocker"
+ },
+ {
+  "de": "Hockey",
+  "ar": "الهوكي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Hoheitsgebiet",
+  "ar": "الإقليم السيادي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hoheitsgebiete"
+ },
+ {
+  "de": "Hollywoodstar",
+  "ar": "نجم هوليوود",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hollywoodstars"
+ },
+ {
+  "de": "Holocaust",
+  "ar": "الهولوكوست",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Holocaustüberlebende",
+  "ar": "الناجي من الهولوكوست",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Holocaustüberlebenden"
+ },
+ {
+  "de": "Holzkohle",
+  "ar": "الفحم الخشبي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Holzschnitzerei",
+  "ar": "النحت على الخشب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Holzschnitzereien"
+ },
+ {
+  "de": "Hommage",
+  "ar": "التكريم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hommagen"
+ },
+ {
+  "de": "Homophobie",
+  "ar": "رهاب المثلية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Homosexualität",
+  "ar": "المثلية الجنسية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Homosexuelle",
+  "ar": "المثلي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Homosexuellen"
+ },
+ {
+  "de": "Hoodie",
+  "ar": "الهودي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hoodies"
+ },
+ {
+  "de": "Hopfen",
+  "ar": "الهوبس",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Hornisse",
+  "ar": "الدبور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hornissen"
+ }
+]
