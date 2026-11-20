@@ -1,0 +1,1575 @@
+[
+ {
+  "de": "Unterstellung",
+  "ar": "الإيهام / الاتهام الضمني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Unterstellungen"
+ },
+ {
+  "de": "Untreue",
+  "ar": "الخيانة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Unverständnis",
+  "ar": "عدم الفهم / الاستنكار",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Unwohlsein",
+  "ar": "الشعور بالتعب",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Unze",
+  "ar": "الأونصة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Unzen"
+ },
+ {
+  "de": "Upcycling",
+  "ar": "إعادة التدوير للأحسن",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Urabstimmung",
+  "ar": "التصويت العام للأعضاء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Urabstimmungen"
+ },
+ {
+  "de": "Uran",
+  "ar": "اليورانيوم",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Urlauberin",
+  "ar": "المصطافة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Urlauberinnen"
+ },
+ {
+  "de": "Urlaubsinsel",
+  "ar": "جزيرة المصيف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Urlaubsinseln"
+ },
+ {
+  "de": "Urne",
+  "ar": "الجرّة / صندوق الانتخاب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Urnen"
+ },
+ {
+  "de": "Urteilsbegründung",
+  "ar": "أسباب الحكم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Urteilsbegründungen"
+ },
+ {
+  "de": "Veganer",
+  "ar": "النباتي الصرف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Veganer"
+ },
+ {
+  "de": "Vene",
+  "ar": "الوريد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Venen"
+ },
+ {
+  "de": "Veranlagung",
+  "ar": "الميل / التقييم الضريبي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Veranlagungen"
+ },
+ {
+  "de": "Veranschaulichung",
+  "ar": "التوضيح",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Veranschaulichungen"
+ },
+ {
+  "de": "Veranstaltungshalle",
+  "ar": "قاعة الفعاليات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Veranstaltungshallen"
+ },
+ {
+  "de": "Veranstaltungsort",
+  "ar": "مكان الفعالية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Veranstaltungsorte"
+ },
+ {
+  "de": "Verbandsgemeinde",
+  "ar": "اتحاد البلديات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Verbandsgemeinden"
+ },
+ {
+  "de": "Verbandsliga",
+  "ar": "دوري الاتحاد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Verbandsligen"
+ },
+ {
+  "de": "Verbitterung",
+  "ar": "المرارة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Verbraucherin",
+  "ar": "المستهلكة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Verbraucherinnen"
+ },
+ {
+  "de": "Verbraucherschützer",
+  "ar": "ناشط حماية المستهلك",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Verbraucherschützer"
+ },
+ {
+  "de": "Verbrennungsmotor",
+  "ar": "محرك الاحتراق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Verbrennungsmotoren"
+ },
+ {
+  "de": "Verbund",
+  "ar": "الاتحاد / الشبكة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Verbünde"
+ },
+ {
+  "de": "Vereinbarkeit",
+  "ar": "التوفيق (بين الشغل والعيلة)",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Vereinsarbeit",
+  "ar": "شغل النادي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Vereinsgeschichte",
+  "ar": "تاريخ النادي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Vereinsgeschichten"
+ },
+ {
+  "de": "Vereinsheim",
+  "ar": "مقر النادي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Vereinsheime"
+ },
+ {
+  "de": "Vereinsmitglied",
+  "ar": "عضو النادي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Vereinsmitglieder"
+ },
+ {
+  "de": "Verfassungsgericht",
+  "ar": "المحكمة الدستورية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Verfassungsgerichte"
+ },
+ {
+  "de": "Verfassungsklage",
+  "ar": "الدعوى الدستورية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Verfassungsklagen"
+ },
+ {
+  "de": "Verfassungsrichter",
+  "ar": "القاضي الدستوري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Verfassungsrichter"
+ },
+ {
+  "de": "Verfassungsschutz-Präsident",
+  "ar": "رئيس هيئة حماية الدستور",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Verfassungsschutz-Präsidenten"
+ },
+ {
+  "de": "Vergessenheit",
+  "ar": "النسيان (in Vergessenheit geraten)",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Vergütung",
+  "ar": "الأجر / المكافأة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Vergütungen"
+ },
+ {
+  "de": "Verhandlungstag",
+  "ar": "يوم الجلسة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Verhandlungstage"
+ },
+ {
+  "de": "Verhängnis",
+  "ar": "القدر المشؤوم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Verhängnisse"
+ },
+ {
+  "de": "Verkaufspreis",
+  "ar": "سعر البيع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Verkaufspreise"
+ },
+ {
+  "de": "Verkehrsbehinderung",
+  "ar": "إعاقة المرور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Verkehrsbehinderungen"
+ },
+ {
+  "de": "Verkehrsbetrieb",
+  "ar": "شركة المواصلات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Verkehrsbetriebe"
+ },
+ {
+  "de": "Verkehrsfluss",
+  "ar": "انسياب المرور",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Verkehrsführung",
+  "ar": "تنظيم المرور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Verkehrsführungen"
+ },
+ {
+  "de": "Verkehrsinspektion",
+  "ar": "شرطة المرور (النمسا)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Verkehrsinspektionen"
+ },
+ {
+  "de": "Verkehrsministerium",
+  "ar": "وزارة النقل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Verkehrsministerien"
+ },
+ {
+  "de": "Verkehrsregel",
+  "ar": "قاعدة المرور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Verkehrsregeln"
+ },
+ {
+  "de": "Verkehrsteilnehmerin",
+  "ar": "مستخدمة الطريق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Verkehrsteilnehmerinnen"
+ },
+ {
+  "de": "Verkehrsverbund",
+  "ar": "اتحاد النقل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Verkehrsverbünde"
+ },
+ {
+  "de": "Verkehrswende",
+  "ar": "التحول المروري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Verkehrswenden"
+ },
+ {
+  "de": "Verleger",
+  "ar": "الناشر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Verleger"
+ },
+ {
+  "de": "Vermögenswert",
+  "ar": "الأصل المالي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Vermögenswerte"
+ },
+ {
+  "de": "Vernachlässigung",
+  "ar": "الإهمال",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Vernetzung",
+  "ar": "التشابك / التواصل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Vernetzungen"
+ },
+ {
+  "de": "Vernichtung",
+  "ar": "الإبادة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Versand",
+  "ar": "الشحن",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Verschleiß",
+  "ar": "التآكل",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Verschluss",
+  "ar": "الغطاء / القفل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Verschlüsse"
+ },
+ {
+  "de": "Verschmutzung",
+  "ar": "التلوث",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Verschmutzungen"
+ },
+ {
+  "de": "Verschnaufpause",
+  "ar": "استراحة النفس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Verschnaufpausen"
+ },
+ {
+  "de": "Verschwörungstheorie",
+  "ar": "نظرية المؤامرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Verschwörungstheorien"
+ },
+ {
+  "de": "Versicherte",
+  "ar": "المؤمن عليه",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Versicherten"
+ },
+ {
+  "de": "Versicherungspflicht",
+  "ar": "إلزامية التأمين",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Versorgungsleitung",
+  "ar": "خط الإمداد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Versorgungsleitungen"
+ },
+ {
+  "de": "Versorgungssicherheit",
+  "ar": "أمن الإمدادات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Verstorbene",
+  "ar": "المتوفى",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Verstorbenen"
+ },
+ {
+  "de": "Versöhnung",
+  "ar": "المصالحة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Versöhnungen"
+ },
+ {
+  "de": "Vertikale",
+  "ar": "العمودية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Vertikalen"
+ },
+ {
+  "de": "Vertragslaufzeit",
+  "ar": "مدة العقد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Vertragslaufzeiten"
+ },
+ {
+  "de": "Vertraute",
+  "ar": "الشخص المقرب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Vertrauten"
+ },
+ {
+  "de": "Vertriebene",
+  "ar": "المهجر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Vertriebenen"
+ },
+ {
+  "de": "Verunreinigung",
+  "ar": "التلوث",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Verunreinigungen"
+ },
+ {
+  "de": "Verwandtschaft",
+  "ar": "القرابة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Verwandtschaften"
+ },
+ {
+  "de": "Verwechslung",
+  "ar": "الالتباس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Verwechslungen"
+ },
+ {
+  "de": "Verzehr",
+  "ar": "الاستهلاك",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Verzögerung",
+  "ar": "التأخير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Verzögerungen"
+ },
+ {
+  "de": "Veto",
+  "ar": "الفيتو",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Vetos"
+ },
+ {
+  "de": "Vibration",
+  "ar": "الاهتزاز",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Vibrationen"
+ },
+ {
+  "de": "Videoaufnahme",
+  "ar": "تسجيل الفيديو",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Videoaufnahmen"
+ },
+ {
+  "de": "Videobotschaft",
+  "ar": "رسالة الفيديو",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Videobotschaften"
+ },
+ {
+  "de": "Videoclip",
+  "ar": "الكليب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Videoclips"
+ },
+ {
+  "de": "Videokonferenz",
+  "ar": "مؤتمر الفيديو",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Videokonferenzen"
+ },
+ {
+  "de": "Videoplattform",
+  "ar": "منصة الفيديو",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Videoplattformen"
+ },
+ {
+  "de": "Videospiel",
+  "ar": "لعبة الفيديو",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Videospiele"
+ },
+ {
+  "de": "Videowiedergabe",
+  "ar": "تشغيل الفيديو",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Vielseitigkeit",
+  "ar": "التنوع",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Vierlinge",
+  "ar": "التوأم الرباعي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Viertagewoche",
+  "ar": "أسبوع الأربع أيام",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Viertagewochen"
+ },
+ {
+  "de": "Vierteljahrhundert",
+  "ar": "ربع قرن",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Vierteljahrhunderte"
+ },
+ {
+  "de": "Viertklässler",
+  "ar": "طالب رابعة ابتدائي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Viertklässler"
+ },
+ {
+  "de": "Vize-Präsidentin",
+  "ar": "نائبة الرئيس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Vize-Präsidentinnen"
+ },
+ {
+  "de": "Vizemeister",
+  "ar": "الوصيف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Vizemeister"
+ },
+ {
+  "de": "Vizepräsidentin",
+  "ar": "نائبة الرئيس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Vizepräsidentinnen"
+ },
+ {
+  "de": "Vogelgrippevirus",
+  "ar": "فيروس إنفلونزا الطيور",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Vogelgrippeviren"
+ },
+ {
+  "de": "Volksbühne",
+  "ar": "مسرح الشعب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Volksbühnen"
+ },
+ {
+  "de": "Volksfestplatz",
+  "ar": "ساحة المولد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Volksfestplätze"
+ },
+ {
+  "de": "Volkshochschule",
+  "ar": "جامعة الشعب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Volkshochschulen"
+ },
+ {
+  "de": "Volksmund",
+  "ar": "لسان الشعب / العامية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Volksmusik",
+  "ar": "موسيقى الشعب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Volksschule",
+  "ar": "المدرسة الابتدائية (النمسا)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Volksschulen"
+ },
+ {
+  "de": "Vollendung",
+  "ar": "الإتمام",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Volley",
+  "ar": "الكرة الطايرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Volleys"
+ },
+ {
+  "de": "Volltreffer",
+  "ar": "الإصابة المباشرة / الجايزة الكبرى",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Volltreffer"
+ },
+ {
+  "de": "Vollzeit",
+  "ar": "الدوام الكامل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Vorbereitungszeit",
+  "ar": "فترة التحضير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Vorbereitungszeiten"
+ },
+ {
+  "de": "Vordermann",
+  "ar": "النظام (auf Vordermann bringen)",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Vorfahr",
+  "ar": "السلف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Vorfahren"
+ },
+ {
+  "de": "Vorfahrt",
+  "ar": "أولوية المرور",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Vorführung",
+  "ar": "العرض / الإحضار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Vorführungen"
+ },
+ {
+  "de": "Vorgesetzte",
+  "ar": "المدير المباشر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Vorgesetzten"
+ },
+ {
+  "de": "Vorgängerregierung",
+  "ar": "الحكومة السابقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Vorgängerregierungen"
+ },
+ {
+  "de": "Vorhof",
+  "ar": "الفناء / الأذين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Vorhöfe"
+ },
+ {
+  "de": "Vorjahresniveau",
+  "ar": "مستوى السنة الفايتة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Vorjahreszeitraum",
+  "ar": "نفس الفترة السنة الفايتة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Vorjahreszeiträume"
+ },
+ {
+  "de": "Vorliebe",
+  "ar": "التفضيل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Vorlieben"
+ },
+ {
+  "de": "Vormonat",
+  "ar": "الشهر اللي فات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Vormonate"
+ },
+ {
+  "de": "Vorquartal",
+  "ar": "الربع السابق",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Vorquartale"
+ },
+ {
+  "de": "Vorrat",
+  "ar": "المخزون",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Vorräte"
+ },
+ {
+  "de": "Vorreiterrolle",
+  "ar": "دور الرائد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Vorreiterrollen"
+ },
+ {
+  "de": "Vorschein",
+  "ar": "الظهور (zum Vorschein kommen)",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Vorsitz",
+  "ar": "الرئاسة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Vorstandsmitglied",
+  "ar": "عضو مجلس الإدارة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Vorstandsmitglieder"
+ },
+ {
+  "de": "Vorstandsteam",
+  "ar": "فريق الإدارة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Vorstandsteams"
+ },
+ {
+  "de": "Vorstellungskraft",
+  "ar": "الخيال",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Vorstoß",
+  "ar": "المبادرة / الهجوم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Vorstöße"
+ },
+ {
+  "de": "Vorverkauf",
+  "ar": "البيع المسبق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Vorverkäufe"
+ },
+ {
+  "de": "Vorwahl",
+  "ar": "الانتخابات التمهيدية / كود المدينة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Vorwahlen"
+ },
+ {
+  "de": "Vorwarnung",
+  "ar": "التحذير المسبق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Vorwarnungen"
+ },
+ {
+  "de": "Vorweihnachtszeit",
+  "ar": "فترة ما قبل الكريسماس",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Vorzeigeprojekt",
+  "ar": "المشروع النموذجي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Vorzeigeprojekte"
+ },
+ {
+  "de": "Vulkanologie",
+  "ar": "علم البراكين",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Waagschale",
+  "ar": "كفة الميزان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Waagschalen"
+ },
+ {
+  "de": "Wachsamkeit",
+  "ar": "اليقظة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Wachstumsmotor",
+  "ar": "محرك النمو",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Wachstumsmotoren"
+ },
+ {
+  "de": "Wachstumspaket",
+  "ar": "حزمة النمو",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Wachstumspakete"
+ },
+ {
+  "de": "Waffengesetz",
+  "ar": "قانون السلاح",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Waffengesetze"
+ },
+ {
+  "de": "Wahlabend",
+  "ar": "ليلة الانتخابات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Wahlabende"
+ },
+ {
+  "de": "Wahlausgang",
+  "ar": "نتيجة الانتخابات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Wahlausgänge"
+ },
+ {
+  "de": "Wahlbezirk",
+  "ar": "الدائرة الانتخابية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Wahlbezirke"
+ },
+ {
+  "de": "Wahlkampfabschluss",
+  "ar": "ختام الحملة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Wahlkampfabschlüsse"
+ },
+ {
+  "de": "Wahlkampfauftritt",
+  "ar": "ظهور الحملة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Wahlkampfauftritte"
+ },
+ {
+  "de": "Wahlkampfphase",
+  "ar": "مرحلة الحملة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Wahlkampfphasen"
+ },
+ {
+  "de": "Wahlkampfteam",
+  "ar": "فريق الحملة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Wahlkampfteams"
+ },
+ {
+  "de": "Wahlkreis",
+  "ar": "الدائرة الانتخابية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Wahlkreise"
+ },
+ {
+  "de": "Wahlmann",
+  "ar": "الناخب الكبير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Wahlmänner"
+ },
+ {
+  "de": "Wahlplakat",
+  "ar": "لافتة الانتخابات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Wahlplakate"
+ },
+ {
+  "de": "Wahlrecht",
+  "ar": "حق التصويت",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Wahlsonntag",
+  "ar": "يوم الانتخابات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Wahlsonntage"
+ },
+ {
+  "de": "Wahlunterlage",
+  "ar": "مستندات الانتخاب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Wahlunterlagen"
+ },
+ {
+  "de": "Wahlurne",
+  "ar": "صندوق الانتخاب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Wahlurnen"
+ },
+ {
+  "de": "Wahlversprechen",
+  "ar": "الوعد الانتخابي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Wahlversprechen"
+ },
+ {
+  "de": "Wahlvorschlag",
+  "ar": "قائمة المرشحين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Wahlvorschläge"
+ },
+ {
+  "de": "Wahlwerbung",
+  "ar": "الدعاية الانتخابية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Wahlzettel",
+  "ar": "ورقة التصويت",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Wahlzettel"
+ },
+ {
+  "de": "Waldbesucher",
+  "ar": "زائر الغابة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Waldbesucher"
+ },
+ {
+  "de": "Waldbrandgefahr",
+  "ar": "خطر حرائق الغابات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Waldbrand",
+  "ar": "حريق الغابة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Waldbrände"
+ },
+ {
+  "de": "Walzer",
+  "ar": "الفالس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Walzer"
+ },
+ {
+  "de": "Wanderausstellung",
+  "ar": "المعرض المتجول",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Wanderausstellungen"
+ },
+ {
+  "de": "Wanderweg",
+  "ar": "طريق المشي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Wanderwege"
+ },
+ {
+  "de": "Wandmalerei",
+  "ar": "الرسم على الحيطة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Wandmalereien"
+ },
+ {
+  "de": "Wanken",
+  "ar": "التزعزع",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Warnmeldung",
+  "ar": "رسالة التحذير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Warnmeldungen"
+ },
+ {
+  "de": "Warnstreikaktion",
+  "ar": "إضراب التحذير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Warnstreikaktionen"
+ },
+ {
+  "de": "Wartezeit",
+  "ar": "فترة الانتظار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Wartezeiten"
+ },
+ {
+  "de": "Wasserfläche",
+  "ar": "المسطح المائي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Wasserflächen"
+ },
+ {
+  "de": "Wasserhöhe",
+  "ar": "منسوب المية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Wasserhöhen"
+ },
+ {
+  "de": "Wasserprobe",
+  "ar": "عينة المية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Wasserproben"
+ },
+ {
+  "de": "Wasserschutzpolizei",
+  "ar": "شرطة المسطحات المائية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Wassertemperatur",
+  "ar": "درجة حرارة المية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Wassertemperaturen"
+ },
+ {
+  "de": "Wasserwirtschaft",
+  "ar": "إدارة الموارد المائية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Website",
+  "ar": "الموقع الإلكتروني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Websites"
+ },
+ {
+  "de": "Weggang",
+  "ar": "الرحيل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Weggänge"
+ },
+ {
+  "de": "Wehrdienst",
+  "ar": "الخدمة العسكرية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Wehretat",
+  "ar": "ميزانية الدفاع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Wehretats"
+ },
+ {
+  "de": "Wehrpflichtige",
+  "ar": "المجند",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Wehrpflichtigen"
+ },
+ {
+  "de": "Weiberfastnacht",
+  "ar": "خميس الستات (كرنفال)",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Weichenstellung",
+  "ar": "التحويلة / القرار المفصلي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Weichenstellungen"
+ },
+ {
+  "de": "Weide",
+  "ar": "المرعى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Weiden"
+ },
+ {
+  "de": "Weihnachtsfeiertag",
+  "ar": "يوم عيد الكريسماس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Weihnachtsfeiertage"
+ },
+ {
+  "de": "Weihnachtslied",
+  "ar": "أغنية الكريسماس",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Weihnachtslieder"
+ },
+ {
+  "de": "Weihnachtsstimmung",
+  "ar": "أجواء الكريسماس",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Weinberg",
+  "ar": "كرم العنب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Weinberge"
+ },
+ {
+  "de": "Weingut",
+  "ar": "مزرعة النبيت",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Weingüter"
+ },
+ {
+  "de": "Weiterkommen",
+  "ar": "التأهل",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Weizen",
+  "ar": "القمح",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Weltcup-Rennen",
+  "ar": "سباق كأس العالم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Weltcup-Rennen"
+ },
+ {
+  "de": "Welterbe",
+  "ar": "التراث العالمي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Weltflucht",
+  "ar": "الهروب من العالم",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Weltgesundheitsorganisation",
+  "ar": "منظمة الصحة العالمية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Weltklasse",
+  "ar": "الطراز العالمي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Weltmarkt",
+  "ar": "السوق العالمي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Weltmärkte"
+ },
+ {
+  "de": "Weltrangliste",
+  "ar": "التصنيف العالمي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Weltranglisten"
+ },
+ {
+  "de": "Welttournee",
+  "ar": "الجولة العالمية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Welttourneen"
+ },
+ {
+  "de": "Werbegag",
+  "ar": "الحيلة الإعلانية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Werbegags"
+ },
+ {
+  "de": "Werbegemeinschaft",
+  "ar": "اتحاد الإعلانات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Werbegemeinschaften"
+ },
+ {
+  "de": "Werbetrommel",
+  "ar": "الدعاية (die Werbetrommel rühren)",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Werbeumsatz",
+  "ar": "إيرادات الإعلانات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Werbeumsätze"
+ },
+ {
+  "de": "Werksgelände",
+  "ar": "أرض المصنع",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Werksgelände"
+ },
+ {
+  "de": "Wertpapierbesitz",
+  "ar": "حيازة الأوراق المالية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Wertsache",
+  "ar": "الأشياء الثمينة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Wertsachen"
+ },
+ {
+  "de": "Wertschöpfungskette",
+  "ar": "سلسلة القيمة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Wertschöpfungsketten"
+ },
+ {
+  "de": "Wertung",
+  "ar": "التقييم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Wertungen"
+ },
+ {
+  "de": "Wetterexperte",
+  "ar": "خبير الأرصاد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Wetterexperten"
+ },
+ {
+  "de": "Wetterprognose",
+  "ar": "توقعات الطقس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Wetterprognosen"
+ },
+ {
+  "de": "Wetterverhältnis",
+  "ar": "الأحوال الجوية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Wetterverhältnisse"
+ },
+ {
+  "de": "Widerruf",
+  "ar": "الرجوع / الإلغاء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Widerrufe"
+ },
+ {
+  "de": "Widersacher",
+  "ar": "الخصم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Widersacher"
+ },
+ {
+  "de": "Widget",
+  "ar": "الودجت",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Widgets"
+ },
+ {
+  "de": "Wiederaufnahme",
+  "ar": "الاستئناف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Wiederaufnahmen"
+ },
+ {
+  "de": "Wiederaufstieg",
+  "ar": "العودة للدوري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Wiederaufstiege"
+ },
+ {
+  "de": "Wiederbelebung",
+  "ar": "الإنعاش",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Wiederbelebungen"
+ },
+ {
+  "de": "Wiedereinzug",
+  "ar": "العودة للبرلمان",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Wiedergabe",
+  "ar": "التشغيل / العرض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Wiedergaben"
+ },
+ {
+  "de": "Wiederholung",
+  "ar": "الإعادة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Wiederholungen"
+ },
+ {
+  "de": "Wiesengelände",
+  "ar": "أرض المرج",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Wiesengelände"
+ },
+ {
+  "de": "Windenergie",
+  "ar": "طاقة الرياح",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Windkraft",
+  "ar": "طاقة الرياح",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Windmühle",
+  "ar": "طاحونة الهوا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Windmühlen"
+ },
+ {
+  "de": "Windpark",
+  "ar": "مزرعة الرياح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Windparks"
+ },
+ {
+  "de": "Windschutzscheibe",
+  "ar": "زجاج العربية الأمامي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Windschutzscheiben"
+ },
+ {
+  "de": "Wirkungsstätte",
+  "ar": "مكان العمل / التأثير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Wirkungsstätten"
+ },
+ {
+  "de": "Wirtschaftskammer",
+  "ar": "الغرفة الاقتصادية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Wirtschaftskammern"
+ },
+ {
+  "de": "Wirtshaus",
+  "ar": "الحانة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Wirtshäuser"
+ },
+ {
+  "de": "Wochenhälfte",
+  "ar": "نص الأسبوع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Wochenhälften"
+ },
+ {
+  "de": "Wochenstart",
+  "ar": "بداية الأسبوع",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Wohneigentum",
+  "ar": "الملكية السكنية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Wohngebiet",
+  "ar": "المنطقة السكنية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Wohngebiete"
+ },
+ {
+  "de": "Wohngebäude",
+  "ar": "المبنى السكني",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Wohngebäude"
+ },
+ {
+  "de": "Wohnungsmangel",
+  "ar": "نقص الشقق",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Workshop",
+  "ar": "الورشة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Workshops"
+ },
+ {
+  "de": "Wortmeldung",
+  "ar": "المداخلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Wortmeldungen"
+ },
+ {
+  "de": "Wortwahl",
+  "ar": "اختيار الكلمات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Wunschdenken",
+  "ar": "التمني",
+  "pos": "noun",
+  "art": "das"
+ }
+]
