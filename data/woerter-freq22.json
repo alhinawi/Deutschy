@@ -1,0 +1,968 @@
+[
+ {
+  "de": "EU-Parlament",
+  "ar": "البرلمان الأوروبي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Südamerika",
+  "ar": "أمريكا الجنوبية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Südkorea",
+  "ar": "كوريا الجنوبية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Tabelle",
+  "ar": "الجدول / الترتيب",
+  "pos": "noun"
+ },
+ {
+  "de": "Tabellenplatz",
+  "ar": "مركز في الجدول",
+  "pos": "noun"
+ },
+ {
+  "de": "Taliban",
+  "ar": "طالبان",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "Teig",
+  "ar": "عجينة",
+  "pos": "noun"
+ },
+ {
+  "de": "Teuerung",
+  "ar": "غلاء أسعار",
+  "pos": "noun"
+ },
+ {
+  "de": "Thematik",
+  "ar": "موضوع / قضية",
+  "pos": "noun"
+ },
+ {
+  "de": "Trainingslager",
+  "ar": "معسكر تدريبي",
+  "pos": "noun"
+ },
+ {
+  "de": "Trauung",
+  "ar": "الجوازة (الإجراء)",
+  "pos": "noun"
+ },
+ {
+  "de": "Träger",
+  "ar": "حامل / جهة مشغلة",
+  "pos": "noun"
+ },
+ {
+  "de": "Trümmer",
+  "ar": "حطام",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "US-Regierung",
+  "ar": "الحكومة الأمريكية",
+  "pos": "noun"
+ },
+ {
+  "de": "Umland",
+  "ar": "الضواحي",
+  "pos": "noun"
+ },
+ {
+  "de": "Untersuchungsausschuss",
+  "ar": "لجنة تحقيق برلمانية",
+  "pos": "noun"
+ },
+ {
+  "de": "Urlauber",
+  "ar": "مصطاف / سايح",
+  "pos": "noun"
+ },
+ {
+  "de": "Verabschiedung",
+  "ar": "وداع / إقرار قانون",
+  "pos": "noun"
+ },
+ {
+  "de": "Verkehrssicherheit",
+  "ar": "أمان الطريق",
+  "pos": "noun"
+ },
+ {
+  "de": "Verstoß",
+  "ar": "مخالفات",
+  "pos": "noun"
+ },
+ {
+  "de": "Volkspartei",
+  "ar": "حزب الشعب",
+  "pos": "noun"
+ },
+ {
+  "de": "Wahlsieg",
+  "ar": "فوز انتخابي",
+  "pos": "noun"
+ },
+ {
+  "de": "Wiedervereinigung",
+  "ar": "إعادة توحيد ألمانيا",
+  "pos": "noun"
+ },
+ {
+  "de": "Wirksamkeit",
+  "ar": "فاعلية",
+  "pos": "noun"
+ },
+ {
+  "de": "Wissenschafter",
+  "ar": "عالم / باحث",
+  "pos": "noun"
+ },
+ {
+  "de": "Wohnraum",
+  "ar": "مساحات سكنية",
+  "pos": "noun"
+ },
+ {
+  "de": "Wärmepumpe",
+  "ar": "مضخة حرارية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Zivilgesellschaft",
+  "ar": "المجتمع المدني",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Zulieferer",
+  "ar": "مورد قطع",
+  "pos": "noun"
+ },
+ {
+  "de": "Zusammenspiel",
+  "ar": "تفاعل / تناغم",
+  "pos": "noun"
+ },
+ {
+  "de": "Zuschauerin",
+  "ar": "المشاهدة (ست)",
+  "pos": "noun"
+ },
+ {
+  "de": "Äußerung",
+  "ar": "تصريح",
+  "pos": "noun"
+ },
+ {
+  "de": "Öffnungszeiten",
+  "ar": "مواعيد الفتح",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "Ökonom",
+  "ar": "خبرا اقتصاد",
+  "pos": "noun"
+ },
+ {
+  "de": "Übergriff",
+  "ar": "اعتداءات",
+  "pos": "noun"
+ },
+ {
+  "de": "Wiederaufbau",
+  "ar": "إعادة الإعمار",
+  "pos": "noun"
+ },
+ {
+  "de": "Wichtigkeit",
+  "ar": "الأهمية",
+  "pos": "noun"
+ },
+ {
+  "de": "Weite",
+  "ar": "اتساع / رحابة",
+  "pos": "noun"
+ },
+ {
+  "de": "Volksvertreter",
+  "ar": "ممثلين الشعب",
+  "pos": "noun"
+ },
+ {
+  "de": "Watt",
+  "ar": "واط",
+  "pos": "noun"
+ },
+ {
+  "de": "abschließen",
+  "ar": "يقفلها / يخلصها",
+  "pos": "verb"
+ },
+ {
+  "de": "ansteigen",
+  "ar": "يرتفع",
+  "pos": "verb"
+ },
+ {
+  "de": "aufteilen",
+  "ar": "يوزعها / يقسمها",
+  "pos": "verb"
+ },
+ {
+  "de": "ausbilden",
+  "ar": "يدرب / يعلم صنعة",
+  "pos": "verb"
+ },
+ {
+  "de": "ausführen",
+  "ar": "ينفذها / يصدر",
+  "pos": "verb"
+ },
+ {
+  "de": "ausrichten",
+  "ar": "ينظم / يستضيف",
+  "pos": "verb"
+ },
+ {
+  "de": "austragen",
+  "ar": "يقيم (ماتش)",
+  "pos": "verb"
+ },
+ {
+  "de": "auswerten",
+  "ar": "يحللها",
+  "pos": "verb"
+ },
+ {
+  "de": "basieren",
+  "ar": "مبني على",
+  "pos": "verb"
+ },
+ {
+  "de": "bearbeiten",
+  "ar": "يشتغل عليها / يعالجها",
+  "pos": "verb"
+ },
+ {
+  "de": "begeben",
+  "ar": "يروح لـ",
+  "pos": "verb"
+ },
+ {
+  "de": "begründen",
+  "ar": "يبررها / يؤسس",
+  "pos": "verb"
+ },
+ {
+  "de": "bekanntgeben",
+  "ar": "يعلنها رسمي",
+  "pos": "verb"
+ },
+ {
+  "de": "belasten",
+  "ar": "يحمله فوق طاقته",
+  "pos": "verb"
+ },
+ {
+  "de": "belaufen",
+  "ar": "تبلغ (قيمة)",
+  "pos": "verb"
+ },
+ {
+  "de": "benennen",
+  "ar": "يسميه",
+  "pos": "verb"
+ },
+ {
+  "de": "beschränken",
+  "ar": "يحد من",
+  "pos": "verb"
+ },
+ {
+  "de": "betreten",
+  "ar": "يدخل / يطأ",
+  "pos": "verb"
+ },
+ {
+  "de": "beurteilen",
+  "ar": "يحكم عليها",
+  "pos": "verb"
+ },
+ {
+  "de": "dotieren",
+  "ar": "يرصد لها مبلغ",
+  "pos": "verb"
+ },
+ {
+  "de": "einklemmen",
+  "ar": "يتحبس / يتعلق",
+  "pos": "verb"
+ },
+ {
+  "de": "einspielen",
+  "ar": "يجيب فلوس / يتناغم",
+  "pos": "verb"
+ },
+ {
+  "de": "einweihen",
+  "ar": "يدشنه",
+  "pos": "verb"
+ },
+ {
+  "de": "einziehen",
+  "ar": "يصادرها / يسكن",
+  "pos": "verb"
+ },
+ {
+  "de": "empören",
+  "ar": "يغضب الراي العام",
+  "pos": "verb"
+ },
+ {
+  "de": "entlassen",
+  "ar": "يفصله / يخرجه",
+  "pos": "verb"
+ },
+ {
+  "de": "entwerfen",
+  "ar": "يصمم / يرسم أولي",
+  "pos": "verb"
+ },
+ {
+  "de": "erforschen",
+  "ar": "يبحث فيه علميا",
+  "pos": "verb"
+ },
+ {
+  "de": "errichten",
+  "ar": "ينشئ / يبني",
+  "pos": "verb"
+ },
+ {
+  "de": "erschüttern",
+  "ar": "يهز كيانه",
+  "pos": "verb"
+ },
+ {
+  "de": "erzeugen",
+  "ar": "ينتج / يولد",
+  "pos": "verb"
+ },
+ {
+  "de": "etablieren",
+  "ar": "يرسخ / يثبت قدمه",
+  "pos": "verb"
+ },
+ {
+  "de": "festlegen",
+  "ar": "يحددها قانونيا",
+  "pos": "verb"
+ },
+ {
+  "de": "fertigen",
+  "ar": "يصنعها",
+  "pos": "verb"
+ },
+ {
+  "de": "hinzuziehen",
+  "ar": "يستعين بـ",
+  "pos": "verb"
+ },
+ {
+  "de": "kompensieren",
+  "ar": "يعوض عن",
+  "pos": "verb"
+ },
+ {
+  "de": "monieren",
+  "ar": "ينتقد / يعترض",
+  "pos": "verb"
+ },
+ {
+  "de": "mobilisieren",
+  "ar": "يحشد",
+  "pos": "verb"
+ },
+ {
+  "de": "moderieren",
+  "ar": "يقدم (برنامج)",
+  "pos": "verb"
+ },
+ {
+  "de": "motivieren",
+  "ar": "يحمسهم",
+  "pos": "verb"
+ },
+ {
+  "de": "positionieren",
+  "ar": "يحط نفسه / يتمركز",
+  "pos": "verb"
+ },
+ {
+  "de": "punkten",
+  "ar": "يجيب نقط / يعجب",
+  "pos": "verb"
+ },
+ {
+  "de": "rechtfertigen",
+  "ar": "يبرر",
+  "pos": "verb"
+ },
+ {
+  "de": "untersagen",
+  "ar": "يمنع رسمي",
+  "pos": "verb"
+ },
+ {
+  "de": "unterziehen",
+  "ar": "يخضعه لـ",
+  "pos": "verb"
+ },
+ {
+  "de": "verdoppeln",
+  "ar": "يضاعف",
+  "pos": "verb"
+ },
+ {
+  "de": "vereinen",
+  "ar": "يوحد / يجمع",
+  "pos": "verb"
+ },
+ {
+  "de": "verfassen",
+  "ar": "يكتبها / يؤلفها",
+  "pos": "verb"
+ },
+ {
+  "de": "verhängen",
+  "ar": "يفرض (عقوبة)",
+  "pos": "verb"
+ },
+ {
+  "de": "verleihen",
+  "ar": "يمنح (جايزة)",
+  "pos": "verb"
+ },
+ {
+  "de": "verringern",
+  "ar": "يقللها",
+  "pos": "verb"
+ },
+ {
+  "de": "verschaffen",
+  "ar": "يوفرله / يجيبله",
+  "pos": "verb"
+ },
+ {
+  "de": "vorantreiben",
+  "ar": "يدفع المشروع قدام",
+  "pos": "verb"
+ },
+ {
+  "de": "vorlegen",
+  "ar": "يقدمها / يطرحها",
+  "pos": "verb"
+ },
+ {
+  "de": "vorhersagen",
+  "ar": "يتنبأ بـ",
+  "pos": "verb"
+ },
+ {
+  "de": "vorkommen",
+  "ar": "يظهر / يحصل",
+  "pos": "verb"
+ },
+ {
+  "de": "zustimmen",
+  "ar": "يوافق على",
+  "pos": "verb"
+ },
+ {
+  "de": "zugreifen",
+  "ar": "يشتري / يمسكها",
+  "pos": "verb"
+ },
+ {
+  "de": "zulegen",
+  "ar": "يشتري لنفسه",
+  "pos": "verb"
+ },
+ {
+  "de": "zurückziehen",
+  "ar": "يسحب نفسه / يعتزل",
+  "pos": "verb"
+ },
+ {
+  "de": "umgehen",
+  "ar": "يلف حوالين / يتعامل مع",
+  "pos": "verb"
+ },
+ {
+  "de": "moniert",
+  "ar": "يعترض على",
+  "pos": "verb"
+ },
+ {
+  "de": "akut",
+  "ar": "طارئ / حاد",
+  "pos": "adj"
+ },
+ {
+  "de": "allgemein",
+  "ar": "عام / شامل",
+  "pos": "adj"
+ },
+ {
+  "de": "anhaltend",
+  "ar": "مستمر / طويل",
+  "pos": "adj"
+ },
+ {
+  "de": "anwesend",
+  "ar": "حاضر / موجود",
+  "pos": "adj"
+ },
+ {
+  "de": "ausländisch",
+  "ar": "أجنبي",
+  "pos": "adj"
+ },
+ {
+  "de": "bemerkenswert",
+  "ar": "جدير بالملاحظة",
+  "pos": "adj"
+ },
+ {
+  "de": "beruflich",
+  "ar": "مهني / شغل",
+  "pos": "adj"
+ },
+ {
+  "de": "bestmöglich",
+  "ar": "أحسن ما يمكن",
+  "pos": "adj"
+ },
+ {
+  "de": "brasilianisch",
+  "ar": "برازيلي",
+  "pos": "adj"
+ },
+ {
+  "de": "brutal",
+  "ar": "وحشي / عنيف",
+  "pos": "adj"
+ },
+ {
+  "de": "bürokratisch",
+  "ar": "بيروقراطي / روتيني",
+  "pos": "adj"
+ },
+ {
+  "de": "detailliert",
+  "ar": "مفصل",
+  "pos": "adj"
+ },
+ {
+  "de": "diplomatisch",
+  "ar": "دبلوماسي",
+  "pos": "adj"
+ },
+ {
+  "de": "dänisch",
+  "ar": "دنماركي",
+  "pos": "adj"
+ },
+ {
+  "de": "eigenständig",
+  "ar": "مستقل بذاته",
+  "pos": "adj"
+ },
+ {
+  "de": "einmalig",
+  "ar": "فريد / مرة واحدة",
+  "pos": "adj"
+ },
+ {
+  "de": "elektronisch",
+  "ar": "إلكتروني",
+  "pos": "adj"
+ },
+ {
+  "de": "entspannt",
+  "ar": "مرتاح / هادي",
+  "pos": "adj"
+ },
+ {
+  "de": "erfolglos",
+  "ar": "من غير نجاح",
+  "pos": "adj"
+ },
+ {
+  "de": "erkennbar",
+  "ar": "ملحوظ / واضح",
+  "pos": "adj"
+ },
+ {
+  "de": "erschüttert",
+  "ar": "مصدوم / متأثر",
+  "pos": "adj"
+ },
+ {
+  "de": "etlich",
+  "ar": "كتير / عدد من",
+  "pos": "adj"
+ },
+ {
+  "de": "faktisch",
+  "ar": "فعلي / بحكم الواقع",
+  "pos": "adj"
+ },
+ {
+  "de": "fassungslos",
+  "ar": "مش مصدق / مصدوم",
+  "pos": "adj"
+ },
+ {
+  "de": "friedlich",
+  "ar": "سلمي",
+  "pos": "adj"
+ },
+ {
+  "de": "gebunden",
+  "ar": "مقيد / مربوط",
+  "pos": "adj"
+ },
+ {
+  "de": "gelassen",
+  "ar": "هادي الدم",
+  "pos": "adj"
+ },
+ {
+  "de": "geltend",
+  "ar": "ساري المفعول",
+  "pos": "adj"
+ },
+ {
+  "de": "großartig",
+  "ar": "رائع / عظيم",
+  "pos": "adj"
+ },
+ {
+  "de": "heimisch",
+  "ar": "محلي / بلدي",
+  "pos": "adj"
+ },
+ {
+  "de": "hervorragend",
+  "ar": "ممتاز / فاخر",
+  "pos": "adj"
+ },
+ {
+  "de": "häuslich",
+  "ar": "منزلي",
+  "pos": "adj"
+ },
+ {
+  "de": "inhaltlich",
+  "ar": "من ناحية المحتوى",
+  "pos": "adj"
+ },
+ {
+  "de": "irrelevant",
+  "ar": "مش مهم / مش ذا صلة",
+  "pos": "adj"
+ },
+ {
+  "de": "jeweilig",
+  "ar": "المعني / كل على حدة",
+  "pos": "adj"
+ },
+ {
+  "de": "katholisch",
+  "ar": "كاثوليكي",
+  "pos": "adj"
+ },
+ {
+  "de": "konsequent",
+  "ar": "ثابت على مبدأ / حاسم",
+  "pos": "adj"
+ },
+ {
+  "de": "konstant",
+  "ar": "ثابت القيمة",
+  "pos": "adj"
+ },
+ {
+  "de": "korrekt",
+  "ar": "صح / سليم",
+  "pos": "adj"
+ },
+ {
+  "de": "liebevoll",
+  "ar": "بحب / حنين",
+  "pos": "adj"
+ },
+ {
+  "de": "minimal",
+  "ar": "ضئيل جدا",
+  "pos": "adj"
+ },
+ {
+  "de": "nördlich",
+  "ar": "شمالي",
+  "pos": "adj"
+ },
+ {
+  "de": "oberst",
+  "ar": "أعلى سلطة",
+  "pos": "adj"
+ },
+ {
+  "de": "polizeilich",
+  "ar": "بوليسي / أمني",
+  "pos": "adj"
+ },
+ {
+  "de": "polnisch",
+  "ar": "بولندي",
+  "pos": "adj"
+ },
+ {
+  "de": "problematisch",
+  "ar": "إشكالي / فيه مشاكل",
+  "pos": "adj"
+ },
+ {
+  "de": "radikal",
+  "ar": "جذري / متطرف",
+  "pos": "adj"
+ },
+ {
+  "de": "restlich",
+  "ar": "الباقي",
+  "pos": "adj"
+ },
+ {
+  "de": "schwedisch",
+  "ar": "سويدي",
+  "pos": "adj"
+ },
+ {
+  "de": "selbstständig",
+  "ar": "فري لانسر / مستقل",
+  "pos": "adj"
+ },
+ {
+  "de": "sofortig",
+  "ar": "فوري",
+  "pos": "adj"
+ },
+ {
+  "de": "spanisch",
+  "ar": "أسباني",
+  "pos": "adj"
+ },
+ {
+  "de": "strafbar",
+  "ar": "جرم يعاقب عليه",
+  "pos": "adj"
+ },
+ {
+  "de": "tendenziell",
+  "ar": "يميل لـ / غالبا",
+  "pos": "adv"
+ },
+ {
+  "de": "vegan",
+  "ar": "نباتي صرف",
+  "pos": "adj"
+ },
+ {
+  "de": "verblieben",
+  "ar": "المتبقي / الباقي",
+  "pos": "adj"
+ },
+ {
+  "de": "vereinzelt",
+  "ar": "متفرق / هنا وهناك",
+  "pos": "adj"
+ },
+ {
+  "de": "vergleichbar",
+  "ar": "قابل للمقارنة",
+  "pos": "adj"
+ },
+ {
+  "de": "vorhergesagt",
+  "ar": "متوقع سلفا",
+  "pos": "adj"
+ },
+ {
+  "de": "weiblich",
+  "ar": "أنثوي / ستاتي",
+  "pos": "adj"
+ },
+ {
+  "de": "zeitnah",
+  "ar": "قريب / في وقت قصير",
+  "pos": "adj"
+ },
+ {
+  "de": "zivil",
+  "ar": "مدني",
+  "pos": "adj"
+ },
+ {
+  "de": "zugunsten",
+  "ar": "لصالح",
+  "pos": "part"
+ },
+ {
+  "de": "zwingend",
+  "ar": "إلزامي / ضروري",
+  "pos": "adj"
+ },
+ {
+  "de": "zügig",
+  "ar": "بسرعة / فورا",
+  "pos": "adv"
+ },
+ {
+  "de": "gratis",
+  "ar": "ببلاش",
+  "pos": "adv"
+ },
+ {
+  "de": "wesentlich",
+  "ar": "جوهري / أساسي",
+  "pos": "adj"
+ },
+ {
+  "de": "auseinander",
+  "ar": "متفرقين / متباعدين",
+  "pos": "adv"
+ },
+ {
+  "de": "bekanntlich",
+  "ar": "كما هو معروف",
+  "pos": "adv"
+ },
+ {
+  "de": "daneben",
+  "ar": "جنبها / بالمقابل",
+  "pos": "adv"
+ },
+ {
+  "de": "dasselbe",
+  "ar": "نفس الحاجة",
+  "pos": "part"
+ },
+ {
+  "de": "dato",
+  "ar": "لحد دلوقتي (قديم)",
+  "pos": "adv"
+ },
+ {
+  "de": "kurzerhand",
+  "ar": "فورا وبلا تفكير",
+  "pos": "adv"
+ },
+ {
+  "de": "kurzzeitig",
+  "ar": "مؤقتا",
+  "pos": "adv"
+ },
+ {
+  "de": "manch",
+  "ar": "بعض / كذا",
+  "pos": "part"
+ },
+ {
+  "de": "vielfach",
+  "ar": "كثيرا / في مواضع كتير",
+  "pos": "adv"
+ },
+ {
+  "de": "viermal",
+  "ar": "أربع مرات",
+  "pos": "adv"
+ },
+ {
+  "de": "wofür",
+  "ar": "لأجل أي / لماذا",
+  "pos": "part"
+ },
+ {
+  "de": "zueinander",
+  "ar": "لبعض",
+  "pos": "adv"
+ },
+ {
+  "de": "zumeist",
+  "ar": "في الغالب",
+  "pos": "adv"
+ },
+ {
+  "de": "cm",
+  "ar": "سنتيمتر",
+  "pos": "part"
+ },
+ {
+  "de": "cool",
+  "ar": "كوول / جامد",
+  "pos": "adj"
+ },
+ {
+  "de": "net",
+  "ar": "مش (بافاري)",
+  "pos": "part"
+ },
+ {
+  "de": "dachten",
+  "ar": "كانوا فاكرين",
+  "pos": "verb"
+ },
+ {
+  "de": "jetzig",
+  "ar": "حالي / بتاع دلوقتي",
+  "pos": "adj"
+ },
+ {
+  "de": "meines",
+  "ar": "بتاعي (رسمي)",
+  "pos": "part"
+ },
+ {
+  "de": "gemäß",
+  "ar": "وفقا لـ",
+  "pos": "part"
+ },
+ {
+  "de": "wem",
+  "ar": "لمن",
+  "pos": "part"
+ },
+ {
+  "de": "weitem",
+  "ar": "بمراحل",
+  "pos": "part"
+ }
+]
