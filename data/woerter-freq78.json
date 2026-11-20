@@ -1,0 +1,698 @@
+[
+ {
+  "de": "Frohsinn",
+  "ar": "البهجة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Frontalangriff",
+  "ar": "الهجوم الأمامي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Frontalangriffe"
+ },
+ {
+  "de": "Frontalzusammenstoß",
+  "ar": "التصادم الأمامي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Frontalzusammenstöße"
+ },
+ {
+  "de": "Frontlader",
+  "ar": "اللودر الأمامي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Frontlader"
+ },
+ {
+  "de": "Frontmann",
+  "ar": "واجهة الفرقة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Frontmänner"
+ },
+ {
+  "de": "Fruchtbarkeit",
+  "ar": "الخصوبة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fruchtjoghurt",
+  "ar": "زبادي الفاكهة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fruchtjoghurts"
+ },
+ {
+  "de": "Frustration",
+  "ar": "الإحباط",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Frustrationen"
+ },
+ {
+  "de": "Früherkennung",
+  "ar": "الكشف المبكر",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Frühjahrshochwasser",
+  "ar": "فيضان الربيع",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Frühjahrshochwässer"
+ },
+ {
+  "de": "Frühlingsanfang",
+  "ar": "بداية الربيع",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Frühmensch",
+  "ar": "الإنسان البدائي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Frühmenschen"
+ },
+ {
+  "de": "Frühphase",
+  "ar": "المرحلة المبكرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Frühphasen"
+ },
+ {
+  "de": "Funfact",
+  "ar": "معلومة طريفة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Funfacts"
+ },
+ {
+  "de": "Funkloch",
+  "ar": "منطقة مفيش شبكة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Funklöcher"
+ },
+ {
+  "de": "Funkstille",
+  "ar": "انقطاع التواصل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Funkstreife",
+  "ar": "دورية الشرطة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Funkstreifen"
+ },
+ {
+  "de": "Funktionärin",
+  "ar": "المسؤولة الحزبية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Funktionärinnen"
+ },
+ {
+  "de": "Furore",
+  "ar": "الضجة الكبيرة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Fusionsgespräche",
+  "ar": "محادثات الاندماج",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Fußballverband",
+  "ar": "اتحاد الكورة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fußballverbände"
+ },
+ {
+  "de": "Futtermittel",
+  "ar": "العلف",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Futtermittel"
+ },
+ {
+  "de": "Fußabdruck",
+  "ar": "أثر القدم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fußabdrücke"
+ },
+ {
+  "de": "Fußballfeld",
+  "ar": "ملعب الكورة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fußballfelder"
+ },
+ {
+  "de": "Fußballfieber",
+  "ar": "حمى الكورة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Fußballgeschäft",
+  "ar": "بيزنس الكورة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fußballgeschäfte"
+ },
+ {
+  "de": "Fußballkarriere",
+  "ar": "المسيرة الكروية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fußballkarrieren"
+ },
+ {
+  "de": "Fußballlegende",
+  "ar": "أسطورة الكورة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fußballlegenden"
+ },
+ {
+  "de": "Fußballmeister",
+  "ar": "بطل الدوري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fußballmeister"
+ },
+ {
+  "de": "Fußballnationalmannschaft",
+  "ar": "المنتخب الوطني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fußballnationalmannschaften"
+ },
+ {
+  "de": "Fußballplatz",
+  "ar": "ملعب الكورة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fußballplätze"
+ },
+ {
+  "de": "Fußballstadion",
+  "ar": "استاد الكورة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fußballstadien"
+ },
+ {
+  "de": "Fußballstar",
+  "ar": "نجم الكورة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fußballstars"
+ },
+ {
+  "de": "Fußballturnier",
+  "ar": "بطولة الكورة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fußballturniere"
+ },
+ {
+  "de": "Fußballverein",
+  "ar": "نادي الكورة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fußballvereine"
+ },
+ {
+  "de": "Fußballweltmeisterschaft",
+  "ar": "كأس العالم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fußballweltmeisterschaften"
+ },
+ {
+  "de": "Fußbodenheizung",
+  "ar": "التدفئة الأرضية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fußbodenheizungen"
+ },
+ {
+  "de": "Fußfessel",
+  "ar": "القيد الإلكتروني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fußfesseln"
+ },
+ {
+  "de": "Fußgängerampel",
+  "ar": "إشارة المشاة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fußgängerampeln"
+ },
+ {
+  "de": "Fußgängerin",
+  "ar": "المواطنة الماشية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fußgängerinnen"
+ },
+ {
+  "de": "Fußgängerübergang",
+  "ar": "ممر المشاة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fußgängerübergänge"
+ },
+ {
+  "de": "Fußverletzung",
+  "ar": "إصابة القدم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fußverletzungen"
+ },
+ {
+  "de": "Fußweg",
+  "ar": "مشوار رجلين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fußwege"
+ },
+ {
+  "de": "Fähnchen",
+  "ar": "العلم الصغير",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fähnchen"
+ },
+ {
+  "de": "Fährte",
+  "ar": "الأثر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fährten"
+ },
+ {
+  "de": "Fäkalien",
+  "ar": "الفضلات",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Fälligkeit",
+  "ar": "الاستحقاق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fälligkeiten"
+ },
+ {
+  "de": "Fälschung",
+  "ar": "التزوير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fälschungen"
+ },
+ {
+  "de": "Färbung",
+  "ar": "التلوين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Färbungen"
+ },
+ {
+  "de": "Föderalismus",
+  "ar": "الفيدرالية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Förderband",
+  "ar": "السير الناقل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Förderbänder"
+ },
+ {
+  "de": "Fördermittel",
+  "ar": "أموال الدعم",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Förderprogramm",
+  "ar": "برنامج الدعم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Förderprogramme"
+ },
+ {
+  "de": "Försterin",
+  "ar": "حارسة الغابة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Försterinnen"
+ },
+ {
+  "de": "Fötus",
+  "ar": "الجنين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Föten"
+ },
+ {
+  "de": "Führungsetage",
+  "ar": "الإدارة العليا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Führungsetagen"
+ },
+ {
+  "de": "Führungsposition",
+  "ar": "المنصب القيادي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Führungspositionen"
+ },
+ {
+  "de": "Führungsrolle",
+  "ar": "الدور القيادي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Führungsrollen"
+ },
+ {
+  "de": "Führungsspitze",
+  "ar": "قمة القيادة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Führungsspitzen"
+ },
+ {
+  "de": "Führungsteam",
+  "ar": "فريق القيادة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Führungsteams"
+ },
+ {
+  "de": "Füllung",
+  "ar": "الحشوة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Füllungen"
+ },
+ {
+  "de": "Fürsprache",
+  "ar": "المناصرة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fütterung",
+  "ar": "الإطعام",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fütterungen"
+ },
+ {
+  "de": "Galaabend",
+  "ar": "سهرة الجالا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Galaabende"
+ },
+ {
+  "de": "Galerist",
+  "ar": "صاحب الجاليري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Galeristen"
+ },
+ {
+  "de": "Galgen",
+  "ar": "المشنقة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Galgen"
+ },
+ {
+  "de": "Galle",
+  "ar": "المرارة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gallen"
+ },
+ {
+  "de": "Gamechanger",
+  "ar": "مغير قواعد اللعبة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gamechanger"
+ },
+ {
+  "de": "Gangsterboss",
+  "ar": "زعيم العصابة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gangsterbosse"
+ },
+ {
+  "de": "Garagentor",
+  "ar": "باب الجراج",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Garagentore"
+ },
+ {
+  "de": "Gartenbau",
+  "ar": "البستنة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Gartenhandschuhe",
+  "ar": "جوانتي البستنة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Gartenlaube",
+  "ar": "بيت الحديقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gartenlauben"
+ },
+ {
+  "de": "Gartenwirtschaft",
+  "ar": "البير جاردن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gartenwirtschaften"
+ },
+ {
+  "de": "Gartenzaun",
+  "ar": "سور الجنينة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gartenzäune"
+ },
+ {
+  "de": "Gartenzwerg",
+  "ar": "قزم الحديقة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gartenzwerge"
+ },
+ {
+  "de": "Gasaustritt",
+  "ar": "تسرب الغاز",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gasaustritte"
+ },
+ {
+  "de": "Gasflasche",
+  "ar": "أسطوانة الغاز",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gasflaschen"
+ },
+ {
+  "de": "Gasförderung",
+  "ar": "استخراج الغاز",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gasheizung",
+  "ar": "دفاية الغاز",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gasheizungen"
+ },
+ {
+  "de": "Gaskraftwerk",
+  "ar": "محطة كهرباء الغاز",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gaskraftwerke"
+ },
+ {
+  "de": "Gasleitung",
+  "ar": "خط الغاز",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gasleitungen"
+ },
+ {
+  "de": "Gaspreisbremse",
+  "ar": "سقف سعر الغاز",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gaspreisbremsen"
+ },
+ {
+  "de": "Gassigehen",
+  "ar": "تمشية الكلب",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Gasspeicher",
+  "ar": "مخزن الغاز",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gasspeicher"
+ },
+ {
+  "de": "Gastauftritt",
+  "ar": "الظهور كضيف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gastauftritte"
+ },
+ {
+  "de": "Gastautor",
+  "ar": "الكاتب الضيف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gastautoren"
+ },
+ {
+  "de": "Gastfamilie",
+  "ar": "الأسرة المضيفة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gastfamilien"
+ },
+ {
+  "de": "Gastgeberland",
+  "ar": "البلد المضيف",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gastgeberländer"
+ },
+ {
+  "de": "Gasthof",
+  "ar": "النزل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gasthöfe"
+ },
+ {
+  "de": "Gastkommentar",
+  "ar": "مقال الضيف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gastkommentare"
+ },
+ {
+  "de": "Gastmannschaft",
+  "ar": "الفريق الضيف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gastmannschaften"
+ },
+ {
+  "de": "Gastronomiesektor",
+  "ar": "قطاع المطاعم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gastronomiesektoren"
+ },
+ {
+  "de": "Gastspiel",
+  "ar": "العرض الضيف",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gastspiele"
+ },
+ {
+  "de": "Gastwirt",
+  "ar": "صاحب الحانة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gastwirte"
+ },
+ {
+  "de": "Gastwirtin",
+  "ar": "صاحبة الحانة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gastwirtinnen"
+ },
+ {
+  "de": "Gasverbrauch",
+  "ar": "استهلاك الغاز",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Gasversorger",
+  "ar": "مورد الغاز",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gasversorger"
+ },
+ {
+  "de": "Gasversorgung",
+  "ar": "إمداد الغاز",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gattung",
+  "ar": "النوع (بيولوجي)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gattungen"
+ },
+ {
+  "de": "Gaukler",
+  "ar": "البهلوان",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gaukler"
+ },
+ {
+  "de": "Gaumen",
+  "ar": "سقف الحلق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gaumen"
+ }
+]
