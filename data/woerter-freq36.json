@@ -1,0 +1,1553 @@
+[
+ {
+  "de": "Düngemittel",
+  "ar": "السماد",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Düngemittel"
+ },
+ {
+  "de": "E-Auto-Hersteller",
+  "ar": "شركة السيارات الكهربائية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "E-Auto-Hersteller"
+ },
+ {
+  "de": "E-Fahrzeug",
+  "ar": "العربية الكهربائية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "E-Fahrzeuge"
+ },
+ {
+  "de": "E-Mail-Adresse",
+  "ar": "عنوان الإيميل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "E-Mail-Adressen"
+ },
+ {
+  "de": "EM-Eröffnungsspiel",
+  "ar": "ماتش افتتاح اليورو",
+  "pos": "noun",
+  "art": "das",
+  "pl": "EM-Eröffnungsspiele"
+ },
+ {
+  "de": "EM-Viertelfinale",
+  "ar": "ربع نهائي اليورو",
+  "pos": "noun",
+  "art": "das",
+  "pl": "EM-Viertelfinals"
+ },
+ {
+  "de": "EU-Gesetz",
+  "ar": "قانون الاتحاد الأوروبي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "EU-Gesetze"
+ },
+ {
+  "de": "EU-Kommissionspräsidentin",
+  "ar": "رئيسة المفوضية الأوروبية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "EU-Kommissionspräsidentinnen"
+ },
+ {
+  "de": "EU-Lieferkettengesetz",
+  "ar": "قانون سلاسل التوريد الأوروبي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "EU-Lieferkettengesetze"
+ },
+ {
+  "de": "EU-Rat",
+  "ar": "المجلس الأوروبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "EU-Räte"
+ },
+ {
+  "de": "Echtzeit",
+  "ar": "الوقت الحقيقي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Eckpfeiler",
+  "ar": "الركيزة الأساسية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Eckpfeiler"
+ },
+ {
+  "de": "Ehegatte",
+  "ar": "الزوج / الزوجة (رسمي)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ehegatten"
+ },
+ {
+  "de": "Ehekrise",
+  "ar": "الأزمة الزوجية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ehekrisen"
+ },
+ {
+  "de": "Eheschließung",
+  "ar": "عقد القران",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eheschließungen"
+ },
+ {
+  "de": "Ehrenamt",
+  "ar": "العمل التطوعي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ehrenämter"
+ },
+ {
+  "de": "Ehrenamtliche",
+  "ar": "المتطوع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ehrenamtlichen"
+ },
+ {
+  "de": "Ehrentag",
+  "ar": "يوم التكريم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ehrentage"
+ },
+ {
+  "de": "Eigenleistung",
+  "ar": "المجهود الشخصي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eigenleistungen"
+ },
+ {
+  "de": "Einberufung",
+  "ar": "الاستدعاء للجيش",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einberufungen"
+ },
+ {
+  "de": "Eindringling",
+  "ar": "المتسلل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Eindringlinge"
+ },
+ {
+  "de": "Einfallstor",
+  "ar": "ثغرة الدخول",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Einfallstore"
+ },
+ {
+  "de": "Einfrieren",
+  "ar": "التجميد",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Einfuhr",
+  "ar": "الاستيراد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einfuhren"
+ },
+ {
+  "de": "Einfuhrzoll",
+  "ar": "جمارك الاستيراد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einfuhrzölle"
+ },
+ {
+  "de": "Eingangstür",
+  "ar": "باب الدخول",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eingangstüren"
+ },
+ {
+  "de": "Einklang",
+  "ar": "التناغم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einklänge"
+ },
+ {
+  "de": "Einlage",
+  "ar": "النعل الداخلي / الإيداع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einlagen"
+ },
+ {
+  "de": "Einmischung",
+  "ar": "التدخل في شؤون غيره",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einmischungen"
+ },
+ {
+  "de": "Einrichtungsgegenstand",
+  "ar": "قطعة الأثاث",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einrichtungsgegenstände"
+ },
+ {
+  "de": "Einsatzlage",
+  "ar": "الموقف الميداني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einsatzlagen"
+ },
+ {
+  "de": "Einstellungsmöglichkeit",
+  "ar": "خيار الضبط",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einstellungsmöglichkeiten"
+ },
+ {
+  "de": "Einstiegsmodell",
+  "ar": "الموديل الأساسي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Einstiegsmodelle"
+ },
+ {
+  "de": "Einsturz",
+  "ar": "الانهيار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einstürze"
+ },
+ {
+  "de": "Eintrag",
+  "ar": "القيد / التدوينة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einträge"
+ },
+ {
+  "de": "Einvernehmen",
+  "ar": "التفاهم / الاتفاق",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Einwanderungsgeschichte",
+  "ar": "تاريخ الهجرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einwanderungsgeschichten"
+ },
+ {
+  "de": "Einwechslung",
+  "ar": "التبديل (رياضة)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einwechslungen"
+ },
+ {
+  "de": "Einweg-E-Zigarette",
+  "ar": "الفيب الذي يستخدم مرة واحدة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einweg-E-Zigaretten"
+ },
+ {
+  "de": "Eisdiele",
+  "ar": "محل الآيس كريم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eisdielen"
+ },
+ {
+  "de": "Eisenbahnbrücke",
+  "ar": "كوبري السكة الحديد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eisenbahnbrücken"
+ },
+ {
+  "de": "Eishalle",
+  "ar": "صالة التزلج على الجليد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eishallen"
+ },
+ {
+  "de": "Eisschicht",
+  "ar": "طبقة الجليد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eisschichten"
+ },
+ {
+  "de": "Eissorte",
+  "ar": "نوع الآيس كريم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eissorten"
+ },
+ {
+  "de": "Ekel",
+  "ar": "الاشمئزاز",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Eleganz",
+  "ar": "الأناقة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Elektrifizierung",
+  "ar": "الكهربة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Elektrifizierungen"
+ },
+ {
+  "de": "Elektrogerät",
+  "ar": "الجهاز الكهربائي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Elektrogeräte"
+ },
+ {
+  "de": "Emanzipation",
+  "ar": "التحرر",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Emoji",
+  "ar": "الإيموجي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Emojis"
+ },
+ {
+  "de": "Emotionalität",
+  "ar": "العاطفية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Endlager",
+  "ar": "المستودع النهائي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Endlager"
+ },
+ {
+  "de": "Endziffer",
+  "ar": "الرقم الأخير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Endziffern"
+ },
+ {
+  "de": "Energiebedarf",
+  "ar": "احتياجات الطاقة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Energieeffizienz",
+  "ar": "كفاءة الطاقة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Energiepolitik",
+  "ar": "سياسة الطاقة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Energietechnologie",
+  "ar": "تقنية الطاقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Energietechnologien"
+ },
+ {
+  "de": "Energieverbrauch",
+  "ar": "استهلاك الطاقة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Energieversorgung",
+  "ar": "إمدادات الطاقة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Entertainerin",
+  "ar": "الفنانة الاستعراضية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Entertainerinnen"
+ },
+ {
+  "de": "Entgelt",
+  "ar": "الأجر / المقابل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Entgelte"
+ },
+ {
+  "de": "Enthaltung",
+  "ar": "الامتناع عن التصويت",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Enthaltungen"
+ },
+ {
+  "de": "Enthusiasmus",
+  "ar": "الحماس",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Entnahme",
+  "ar": "السحب / الأخذ",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Entnahmen"
+ },
+ {
+  "de": "Entscheidungsfindung",
+  "ar": "اتخاذ القرار",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Entscheidungsträger",
+  "ar": "صانع القرار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Entscheidungsträger"
+ },
+ {
+  "de": "Entschließungsantrag",
+  "ar": "طلب القرار البرلماني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Entschließungsanträge"
+ },
+ {
+  "de": "Entschärfung",
+  "ar": "التهدئة / إبطال المفعول",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Entschärfungen"
+ },
+ {
+  "de": "Entsendung",
+  "ar": "الإيفاد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Entsendungen"
+ },
+ {
+  "de": "Entsetzen",
+  "ar": "الرعب",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Entwicklerfirma",
+  "ar": "شركة التطوير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Entwicklerfirmen"
+ },
+ {
+  "de": "Entwicklungsland",
+  "ar": "الدولة النامية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Entwicklungsländer"
+ },
+ {
+  "de": "Epoche",
+  "ar": "الحقبة / العصر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Epochen"
+ },
+ {
+  "de": "Equipment",
+  "ar": "المعدات",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Erfassung",
+  "ar": "التسجيل / الرصد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Erfassungen"
+ },
+ {
+  "de": "Erfinder",
+  "ar": "المخترع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Erfinder"
+ },
+ {
+  "de": "Erfolgskurs",
+  "ar": "مسار النجاح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Erfolgskurse"
+ },
+ {
+  "de": "Erfolgsserie",
+  "ar": "سلسلة الانتصارات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Erfolgsserien"
+ },
+ {
+  "de": "Erfolgstrainer",
+  "ar": "المدرب الناجح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Erfolgstrainer"
+ },
+ {
+  "de": "Ergebniskosmetik",
+  "ar": "تجميل النتائج",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Ergonomie",
+  "ar": "بيئة العمل المريحة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Ergreifung",
+  "ar": "القبض عليه",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Erkennung",
+  "ar": "التعرف / الكشف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Erkennungen"
+ },
+ {
+  "de": "Erlebniswelt",
+  "ar": "عالم التجارب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Erlebniswelten"
+ },
+ {
+  "de": "Erlernen",
+  "ar": "التعلم",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Erlös",
+  "ar": "العائد / الإيراد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Erlöse"
+ },
+ {
+  "de": "Ermahnung",
+  "ar": "التوبيخ / التحذير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ermahnungen"
+ },
+ {
+  "de": "Ermessen",
+  "ar": "التقدير / السلطة التقديرية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Erneuerung",
+  "ar": "التجديد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Erneuerungen"
+ },
+ {
+  "de": "Ernstfall",
+  "ar": "الحالة الطارئة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ernstfälle"
+ },
+ {
+  "de": "Eroberung",
+  "ar": "الفتح / الاستيلاء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eroberungen"
+ },
+ {
+  "de": "Erreger",
+  "ar": "الجرثومة الممرضة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Erreger"
+ },
+ {
+  "de": "Erregung",
+  "ar": "الإثارة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Ersatzteil",
+  "ar": "قطعة الغيار",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ersatzteile"
+ },
+ {
+  "de": "Erschöpfung",
+  "ar": "الإرهاق",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Ersparnis",
+  "ar": "المدخرات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ersparnisse"
+ },
+ {
+  "de": "Erstgeborener",
+  "ar": "الابن البكر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Erstgeborenen"
+ },
+ {
+  "de": "Ersthelfer",
+  "ar": "المسعف الأول",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ersthelfer"
+ },
+ {
+  "de": "Erstligist",
+  "ar": "فريق الدرجة الأولى",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Erstligisten"
+ },
+ {
+  "de": "Ertrag",
+  "ar": "المحصول / العائد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Erträge"
+ },
+ {
+  "de": "Ertüchtigung",
+  "ar": "التدريب البدني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ertüchtigungen"
+ },
+ {
+  "de": "Erwachsenenalter",
+  "ar": "سن الرشد",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Erwachsenwerden",
+  "ar": "البلوغ / الكبر",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Erwerbstätige",
+  "ar": "المشتغل / العامل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Erwerbstätigen"
+ },
+ {
+  "de": "Erzbischof",
+  "ar": "رئيس الأساقفة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Erzbischöfe"
+ },
+ {
+  "de": "Erzieherin",
+  "ar": "المربية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Erzieherinnen"
+ },
+ {
+  "de": "Erzrivale",
+  "ar": "العدو اللدود",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Erzrivalen"
+ },
+ {
+  "de": "Eröffnungsfest",
+  "ar": "حفل الافتتاح",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Eröffnungsfeste"
+ },
+ {
+  "de": "Eröffnungstag",
+  "ar": "يوم الافتتاح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Eröffnungstage"
+ },
+ {
+  "de": "Eröffnungszeremonie",
+  "ar": "مراسم الافتتاح",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eröffnungszeremonien"
+ },
+ {
+  "de": "Essay",
+  "ar": "المقال الأدبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Essays"
+ },
+ {
+  "de": "Essstörung",
+  "ar": "اضطراب الأكل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Essstörungen"
+ },
+ {
+  "de": "Etappe",
+  "ar": "المرحلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Etappen"
+ },
+ {
+  "de": "Ethik",
+  "ar": "الأخلاقيات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Europaabgeordnete",
+  "ar": "عضو البرلمان الأوروبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Europaabgeordneten"
+ },
+ {
+  "de": "Evakuierung",
+  "ar": "الإخلاء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Evakuierungen"
+ },
+ {
+  "de": "Ex-Botschafter",
+  "ar": "السفير السابق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ex-Botschafter"
+ },
+ {
+  "de": "Ex-Frau",
+  "ar": "المرات السابقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ex-Frauen"
+ },
+ {
+  "de": "Exekutive",
+  "ar": "السلطة التنفيذية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Exempel",
+  "ar": "العبرة (ein Exempel statuieren)",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Exempel"
+ },
+ {
+  "de": "Exklusivität",
+  "ar": "الحصرية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Exmatrikulation",
+  "ar": "شطب القيد الجامعي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Exmatrikulationen"
+ },
+ {
+  "de": "Expertenrat",
+  "ar": "مجلس الخبراء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Expertenräte"
+ },
+ {
+  "de": "Expertin",
+  "ar": "الخبيرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Expertinnen"
+ },
+ {
+  "de": "Exporteur",
+  "ar": "المصدر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Exporteure"
+ },
+ {
+  "de": "Extraklasse",
+  "ar": "الفئة الاستثنائية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Extremismus",
+  "ar": "التطرف",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Fachangestellte",
+  "ar": "الموظف المتخصص",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fachangestellten"
+ },
+ {
+  "de": "Fachhochschule",
+  "ar": "الجامعة التطبيقية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fachhochschulen"
+ },
+ {
+  "de": "Fachhändler",
+  "ar": "التاجر المتخصص",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fachhändler"
+ },
+ {
+  "de": "Fachmann",
+  "ar": "المتخصص / الفني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fachleute"
+ },
+ {
+  "de": "Fachpersonal",
+  "ar": "الكوادر المتخصصة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Fachstelle",
+  "ar": "الجهة المختصة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fachstellen"
+ },
+ {
+  "de": "Fachwerkhaus",
+  "ar": "البيت الخشبي التقليدي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fachwerkhäuser"
+ },
+ {
+  "de": "Fachwissen",
+  "ar": "الخبرة المتخصصة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Fackelwanderung",
+  "ar": "مسيرة المشاعل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fackelwanderungen"
+ },
+ {
+  "de": "Fahnder",
+  "ar": "المحقق / المتعقب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fahnder"
+ },
+ {
+  "de": "Fahnenstange",
+  "ar": "سارية العلم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fahnenstangen"
+ },
+ {
+  "de": "Fahrerflucht",
+  "ar": "الهروب بعد الحادثة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fahrersitz",
+  "ar": "كرسي السواق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fahrersitze"
+ },
+ {
+  "de": "Fahrplanwechsel",
+  "ar": "تغيير جدول المواصلات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fahrplanwechsel"
+ },
+ {
+  "de": "Fahrradfahren",
+  "ar": "ركوب العجلة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Fahrspur",
+  "ar": "حارة السير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fahrspuren"
+ },
+ {
+  "de": "Fahrtrichtung",
+  "ar": "اتجاه السير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fahrtrichtungen"
+ },
+ {
+  "de": "Fahrverhalten",
+  "ar": "أسلوب القيادة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Fahrzeit",
+  "ar": "مدة الرحلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fahrzeiten"
+ },
+ {
+  "de": "Fahrzeuginsasse",
+  "ar": "راكب العربية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fahrzeuginsassen"
+ },
+ {
+  "de": "Fallzahl",
+  "ar": "عدد الحالات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fallzahlen"
+ },
+ {
+  "de": "Falschparker",
+  "ar": "اللي بيركن غلط",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Falschparker"
+ },
+ {
+  "de": "Familienangehörige",
+  "ar": "قريب العيلة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Familienangehörigen"
+ },
+ {
+  "de": "Familienbad",
+  "ar": "حمام السباحة العائلي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Familienbäder"
+ },
+ {
+  "de": "Familienbetrieb",
+  "ar": "المشروع العائلي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Familienbetriebe"
+ },
+ {
+  "de": "Familiengeschichte",
+  "ar": "تاريخ العيلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Familiengeschichten"
+ },
+ {
+  "de": "Familienleben",
+  "ar": "الحياة الأسرية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Familienstreit",
+  "ar": "الخلاف العائلي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Familienstreitigkeiten"
+ },
+ {
+  "de": "Familienunternehmen",
+  "ar": "الشركة العائلية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Familienunternehmen"
+ },
+ {
+  "de": "Fangruppe",
+  "ar": "مجموعة المشجعين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fangruppen"
+ },
+ {
+  "de": "Fanzone",
+  "ar": "منطقة المشجعين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fanzonen"
+ },
+ {
+  "de": "Farbton",
+  "ar": "درجة اللون",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Farbtöne"
+ },
+ {
+  "de": "Fassung",
+  "ar": "الصيغة / رباطة الجأش",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fassungen"
+ },
+ {
+  "de": "Faszination",
+  "ar": "السحر / الفتنة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fehde",
+  "ar": "العداوة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fehden"
+ },
+ {
+  "de": "Feindbild",
+  "ar": "صورة العدو",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Feindbilder"
+ },
+ {
+  "de": "Ferienhaus",
+  "ar": "بيت المصيف",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ferienhäuser"
+ },
+ {
+  "de": "Fernsehkoch",
+  "ar": "شيف التلفزيون",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fernsehköche"
+ },
+ {
+  "de": "Fernverkehr",
+  "ar": "النقل لمسافات طويلة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Fernwärme",
+  "ar": "التدفئة المركزية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fernwärmeleitung",
+  "ar": "خط التدفئة المركزية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fernwärmeleitungen"
+ },
+ {
+  "de": "Fernwärmenetz",
+  "ar": "شبكة التدفئة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fernwärmenetze"
+ },
+ {
+  "de": "Festgeld",
+  "ar": "الوديعة الثابتة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Festgelder"
+ },
+ {
+  "de": "Festgeldkonto",
+  "ar": "حساب الوديعة الثابتة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Festgeldkonten"
+ },
+ {
+  "de": "Festplatz",
+  "ar": "ساحة الاحتفالات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Festplätze"
+ },
+ {
+  "de": "Festsaal",
+  "ar": "قاعة الاحتفالات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Festsäle"
+ },
+ {
+  "de": "Feststimmung",
+  "ar": "أجواء الاحتفال",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Festtag",
+  "ar": "يوم العيد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Festtage"
+ },
+ {
+  "de": "Fettsäure",
+  "ar": "الحمد الدهني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fettsäuren"
+ },
+ {
+  "de": "Feuerpause",
+  "ar": "وقف إطلاق النار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Feuerpausen"
+ },
+ {
+  "de": "Filmgenuss",
+  "ar": "متعة السينما",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Filmpreis",
+  "ar": "جايزة الفيلم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Filmpreise"
+ },
+ {
+  "de": "Filmpremiere",
+  "ar": "العرض الأول للفيلم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Filmpremieren"
+ },
+ {
+  "de": "Filmproduzent",
+  "ar": "منتج الأفلام",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Filmproduzenten"
+ },
+ {
+  "de": "Filmprojekt",
+  "ar": "مشروع الفيلم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Filmprojekte"
+ },
+ {
+  "de": "Finalist",
+  "ar": "المتأهل للنهائي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Finalisten"
+ },
+ {
+  "de": "Finalserie",
+  "ar": "سلسلة النهائيات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Finalserien"
+ },
+ {
+  "de": "Finalspiel",
+  "ar": "الماتش النهائي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Finalspiele"
+ },
+ {
+  "de": "Finanzchef",
+  "ar": "المدير المالي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Finanzchefs"
+ },
+ {
+  "de": "Finanzierbarkeit",
+  "ar": "القدرة على التمويل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Finanzkriminalität",
+  "ar": "الجريمة المالية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Finanzlage",
+  "ar": "الوضع المالي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Finanzministerin",
+  "ar": "وزيرة المالية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Finanzministerinnen"
+ },
+ {
+  "de": "Finne",
+  "ar": "الفنلندي / الزعنفة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Finnen"
+ },
+ {
+  "de": "Firmenchef",
+  "ar": "رئيس الشركة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Firmenchefs"
+ },
+ {
+  "de": "Firmenname",
+  "ar": "اسم الشركة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Firmennamen"
+ },
+ {
+  "de": "Firmware-Update",
+  "ar": "تحديث الفيرموير",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Firmware-Updates"
+ },
+ {
+  "de": "Fitness",
+  "ar": "اللياقة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Flair",
+  "ar": "الأجواء / الطابع",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Flaschenhals",
+  "ar": "عنق الزجاجة / نقطة الاختناق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Flaschenhälse"
+ },
+ {
+  "de": "Flitzer",
+  "ar": "العربية السريعة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Flitzer"
+ },
+ {
+  "de": "Flop",
+  "ar": "الفشل التجاري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Flops"
+ },
+ {
+  "de": "Flora",
+  "ar": "النباتات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Flugabwehr",
+  "ar": "الدفاع الجوي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Flugbahn",
+  "ar": "مسار الطيران",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Flugbahnen"
+ },
+ {
+  "de": "Fluggerät",
+  "ar": "الطائرة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fluggeräte"
+ },
+ {
+  "de": "Fluggesellschaft",
+  "ar": "شركة الطيران",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fluggesellschaften"
+ },
+ {
+  "de": "Fluggast",
+  "ar": "راكب الطيارة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fluggäste"
+ },
+ {
+  "de": "Flughafengelände",
+  "ar": "أرض المطار",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Flughafengelände"
+ },
+ {
+  "de": "Fluglinie",
+  "ar": "خط الطيران",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fluglinien"
+ },
+ {
+  "de": "Flugstrecke",
+  "ar": "مسار الرحلة الجوية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Flugstrecken"
+ },
+ {
+  "de": "Flusslandschaft",
+  "ar": "منظر النهر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Flusslandschaften"
+ },
+ {
+  "de": "Flutwelle",
+  "ar": "موجة الفيضان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Flutwellen"
+ },
+ {
+  "de": "Flächenbrand",
+  "ar": "حريق الغابات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Flächenbrände"
+ },
+ {
+  "de": "Flüchtlingshilfe",
+  "ar": "مساعدة اللاجئين",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Flüchtlingskonvention",
+  "ar": "اتفاقية اللاجئين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Flüchtlingskonventionen"
+ },
+ {
+  "de": "Folklore",
+  "ar": "الفولكلور",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fondue",
+  "ar": "الفوندو",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fondues"
+ },
+ {
+  "de": "Formsache",
+  "ar": "الإجراء الشكلي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Formsachen"
+ },
+ {
+  "de": "Forscherin",
+  "ar": "الباحثة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Forscherinnen"
+ },
+ {
+  "de": "Forschungsinstitut",
+  "ar": "معهد البحوث",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Forschungsinstitute"
+ },
+ {
+  "de": "Forschungsschwerpunkt",
+  "ar": "محور البحث",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Forschungsschwerpunkte"
+ },
+ {
+  "de": "Forst",
+  "ar": "الغابة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Forste"
+ },
+ {
+  "de": "Fortpflanzung",
+  "ar": "التكاثر",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fotofalle",
+  "ar": "كاميرا الفخ",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fotofallen"
+ },
+ {
+  "de": "Fragestellung",
+  "ar": "سؤال البحث / القضية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fragestellungen"
+ },
+ {
+  "de": "Fraktionschefin",
+  "ar": "رئيسة الكتلة البرلمانية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fraktionschefinnen"
+ },
+ {
+  "de": "Fraktionsvorsitzende",
+  "ar": "رئيس الكتلة البرلمانية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fraktionsvorsitzenden"
+ },
+ {
+  "de": "Frauen-Bundesliga",
+  "ar": "بوندسليجا الستات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Frauenhaus",
+  "ar": "ملجأ النساء",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Frauenhäuser"
+ },
+ {
+  "de": "Frauentag",
+  "ar": "يوم المرأة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Frauentage"
+ },
+ {
+  "de": "Freifläche",
+  "ar": "المساحة المفتوحة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Freiflächen"
+ }
+]
