@@ -1,0 +1,1431 @@
+[
+ {
+  "de": "Preisrückgang",
+  "ar": "تراجع الأسعار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Preisrückgänge"
+ },
+ {
+  "de": "Preissteigerung",
+  "ar": "زيادة الأسعار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Preissteigerungen"
+ },
+ {
+  "de": "Preisvergleich",
+  "ar": "مقارنة الأسعار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Preisvergleiche"
+ },
+ {
+  "de": "Premium",
+  "ar": "البريميوم / الفئة المميزة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Pressedienst",
+  "ar": "خدمة الصحافة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Pressedienste"
+ },
+ {
+  "de": "Presseerklärung",
+  "ar": "البيان الصحفي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Presseerklärungen"
+ },
+ {
+  "de": "Pressegespräch",
+  "ar": "المؤتمر الصحفي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Pressegespräche"
+ },
+ {
+  "de": "Pressemeldung",
+  "ar": "الخبر الصحفي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Pressemeldungen"
+ },
+ {
+  "de": "Pressereferentin",
+  "ar": "مسؤولة الصحافة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Pressereferentinnen"
+ },
+ {
+  "de": "Pressestelle",
+  "ar": "المكتب الصحفي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Pressestellen"
+ },
+ {
+  "de": "Pressestimme",
+  "ar": "رأي الصحافة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Pressestimmen"
+ },
+ {
+  "de": "Pressewart",
+  "ar": "مسؤول الإعلام في النادي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Pressewarte"
+ },
+ {
+  "de": "Pride",
+  "ar": "الفخر",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Primarschule",
+  "ar": "المدرسة الابتدائية (سويسرا/النمسا)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Primarschulen"
+ },
+ {
+  "de": "Primetime",
+  "ar": "وقت الذروة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Primzahl",
+  "ar": "العدد الأولي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Primzahlen"
+ },
+ {
+  "de": "Printmedium",
+  "ar": "الصحافة المطبوعة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Printmedien"
+ },
+ {
+  "de": "Privatbesitz",
+  "ar": "الملكية الخاصة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Privatperson",
+  "ar": "الشخص العادي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Privatpersonen"
+ },
+ {
+  "de": "Privatsache",
+  "ar": "المسألة الشخصية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Privatsachen"
+ },
+ {
+  "de": "Privatstiftung",
+  "ar": "المؤسسة الخاصة (النمسا)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Privatstiftungen"
+ },
+ {
+  "de": "Probebetrieb",
+  "ar": "التشغيل التجريبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Probebetriebe"
+ },
+ {
+  "de": "Proberaum",
+  "ar": "أوضة البروفة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Proberäume"
+ },
+ {
+  "de": "Produktionskosten",
+  "ar": "تكاليف الإنتاج",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Produktionsstart",
+  "ar": "بدء الإنتاج",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Produktionsstarts"
+ },
+ {
+  "de": "Profisport",
+  "ar": "الاحتراف الرياضي",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Projektion",
+  "ar": "الإسقاط",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Projektionen"
+ },
+ {
+  "de": "Projektmanager",
+  "ar": "مدير المشروع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Projektmanager"
+ },
+ {
+  "de": "Projektteam",
+  "ar": "فريق المشروع",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Projektteams"
+ },
+ {
+  "de": "Promille",
+  "ar": "نسبة الكحول في الدم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Promille"
+ },
+ {
+  "de": "Propaganda",
+  "ar": "البروباجاندا",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Prostata",
+  "ar": "البروستاتا",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Protein",
+  "ar": "البروتين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Proteine"
+ },
+ {
+  "de": "Protestbewegung",
+  "ar": "حركة الاحتجاج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Protestbewegungen"
+ },
+ {
+  "de": "Protestform",
+  "ar": "شكل الاحتجاج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Protestformen"
+ },
+ {
+  "de": "Protestwelle",
+  "ar": "موجة الاحتجاجات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Protestwellen"
+ },
+ {
+  "de": "Proviant",
+  "ar": "المؤن",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Provider",
+  "ar": "مزود الخدمة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Provider"
+ },
+ {
+  "de": "Provokation",
+  "ar": "الاستفزاز",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Provokationen"
+ },
+ {
+  "de": "Prozentbereich",
+  "ar": "النطاق المئوي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Prozentbereiche"
+ },
+ {
+  "de": "Prozessor",
+  "ar": "المعالج",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Prozessoren"
+ },
+ {
+  "de": "Präfektur",
+  "ar": "المحافظة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Präfekturen"
+ },
+ {
+  "de": "Präparat",
+  "ar": "المستحضر",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Präparate"
+ },
+ {
+  "de": "Präsidentschaft",
+  "ar": "الرئاسة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Präsidentschaften"
+ },
+ {
+  "de": "Prüfbericht",
+  "ar": "تقرير الفحص",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Prüfberichte"
+ },
+ {
+  "de": "Prüfer",
+  "ar": "الفاحص / الممتحِن",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Prüfer"
+ },
+ {
+  "de": "Psyche",
+  "ar": "النفس",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Psychiatrie",
+  "ar": "الطب النفسي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Psychotherapeut",
+  "ar": "المعالج النفسي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Psychotherapeuten"
+ },
+ {
+  "de": "Psychotherapeutin",
+  "ar": "المعالجة النفسية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Psychotherapeutinnen"
+ },
+ {
+  "de": "Publizist",
+  "ar": "الصحفي / الكاتب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Publizisten"
+ },
+ {
+  "de": "Puderzucker",
+  "ar": "السكر البودرة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Puffer",
+  "ar": "الاحتياطي / البفر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Puffer"
+ },
+ {
+  "de": "Pumps",
+  "ar": "الكعب العالي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Punch",
+  "ar": "اللكمة / النكتة الحادة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Punchs"
+ },
+ {
+  "de": "Punktspiel",
+  "ar": "ماتش الدوري",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Punktspiele"
+ },
+ {
+  "de": "Putsch",
+  "ar": "الانقلاب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Putsche"
+ },
+ {
+  "de": "Pünktlichkeit",
+  "ar": "الدقة في المواعيد",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Qualifikationsrunde",
+  "ar": "دور التصفيات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Qualifikationsrunden"
+ },
+ {
+  "de": "Qualifying",
+  "ar": "التصفيات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Qualifyings"
+ },
+ {
+  "de": "Quantentechnologie",
+  "ar": "تقنيات الكم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Quantentechnologien"
+ },
+ {
+  "de": "Quartalsbericht",
+  "ar": "التقرير الفصلي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Quartalsberichte"
+ },
+ {
+  "de": "Rabattcode",
+  "ar": "كود الخصم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Rabattcodes"
+ },
+ {
+  "de": "Radikale",
+  "ar": "المتطرف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Radikalen"
+ },
+ {
+  "de": "Radikalisierung",
+  "ar": "التطرف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Radikalisierungen"
+ },
+ {
+  "de": "Radiosender",
+  "ar": "محطة الراديو",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Radiosender"
+ },
+ {
+  "de": "Radlader",
+  "ar": "اللودر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Radlader"
+ },
+ {
+  "de": "Radprofi",
+  "ar": "محترف العجل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Radprofis"
+ },
+ {
+  "de": "Raffinerie",
+  "ar": "الصفاة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Raffinerien"
+ },
+ {
+  "de": "Rallye-Weltmeisterschaft",
+  "ar": "بطولة العالم للراليات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rallye-Weltmeisterschaften"
+ },
+ {
+  "de": "Randalierer",
+  "ar": "المخرب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Randalierer"
+ },
+ {
+  "de": "Rapperin",
+  "ar": "الرابر (ست)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rapperinnen"
+ },
+ {
+  "de": "Rastanlage",
+  "ar": "محطة الاستراحة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rastanlagen"
+ },
+ {
+  "de": "Rathauschef",
+  "ar": "رئيس البلدية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Rathauschefs"
+ },
+ {
+  "de": "Ratsmitglied",
+  "ar": "عضو المجلس",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ratsmitglieder"
+ },
+ {
+  "de": "Ratssaal",
+  "ar": "قاعة المجلس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ratssäle"
+ },
+ {
+  "de": "Rattenplage",
+  "ar": "طاعون الفئران",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rattenplagen"
+ },
+ {
+  "de": "Raucher",
+  "ar": "المدخن",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Raucher"
+ },
+ {
+  "de": "Rauchgasvergiftung",
+  "ar": "التسمم بالدخان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rauchgasvergiftungen"
+ },
+ {
+  "de": "Rauchmelder",
+  "ar": "كاشف الدخان",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Rauchmelder"
+ },
+ {
+  "de": "Raumkapsel",
+  "ar": "كبسولة الفضاء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Raumkapseln"
+ },
+ {
+  "de": "Realisierung",
+  "ar": "التنفيذ",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Realisierungen"
+ },
+ {
+  "de": "Rechnungshof",
+  "ar": "ديوان المحاسبة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Rechnungshöfe"
+ },
+ {
+  "de": "Rechtsanspruch",
+  "ar": "الحق القانوني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Rechtsansprüche"
+ },
+ {
+  "de": "Rechtsaußen",
+  "ar": "الظهير الأيمن",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Rechtsaußen"
+ },
+ {
+  "de": "Rechtsextremist",
+  "ar": "المتطرف اليميني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Rechtsextremisten"
+ },
+ {
+  "de": "Rechtsform",
+  "ar": "الشكل القانوني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rechtsformen"
+ },
+ {
+  "de": "Rechtslage",
+  "ar": "الوضع القانوني",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Rechtssicherheit",
+  "ar": "الأمان القانوني",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Redakteur",
+  "ar": "المحرر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Redakteure"
+ },
+ {
+  "de": "Redaktionsnetzwerk",
+  "ar": "شبكة التحرير",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Redaktionsnetzwerke"
+ },
+ {
+  "de": "Reduzierung",
+  "ar": "التخفيض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Reduzierungen"
+ },
+ {
+  "de": "Reederei",
+  "ar": "شركة الشحن البحري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Reedereien"
+ },
+ {
+  "de": "Reeperbahn",
+  "ar": "شارع الحمرا في هامبورج",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Referendum",
+  "ar": "الاستفتاء",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Referenden"
+ },
+ {
+  "de": "Reflex",
+  "ar": "رد الفعل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Reflexe"
+ },
+ {
+  "de": "Regenjacke",
+  "ar": "جاكيت المطر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Regenjacken"
+ },
+ {
+  "de": "Regierungsbeteiligung",
+  "ar": "المشاركة في الحكومة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Regierungsbeteiligungen"
+ },
+ {
+  "de": "Regierungserklärung",
+  "ar": "البيان الحكومي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Regierungserklärungen"
+ },
+ {
+  "de": "Regierungsgeschäft",
+  "ar": "شؤون الحكم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Regierungsgeschäfte"
+ },
+ {
+  "de": "Regierungspartei",
+  "ar": "حزب الحكومة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Regierungsparteien"
+ },
+ {
+  "de": "Regierungsrat",
+  "ar": "عضو حكومة الكانتون (سويسرا)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Regierungsräte"
+ },
+ {
+  "de": "Regierungsseite",
+  "ar": "جانب الحكومة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Regierungsseiten"
+ },
+ {
+  "de": "Regierungsverhandlung",
+  "ar": "مفاوضات تشكيل الحكومة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Regierungsverhandlungen"
+ },
+ {
+  "de": "Regionalität",
+  "ar": "الإقليمية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Regionalligist",
+  "ar": "فريق الدرجة الرابعة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Regionalligisten"
+ },
+ {
+  "de": "Regionalzug",
+  "ar": "القطر الإقليمي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Regionalzüge"
+ },
+ {
+  "de": "Regulierung",
+  "ar": "التنظيم / الضبط",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Regulierungen"
+ },
+ {
+  "de": "Reichsbürger",
+  "ar": "عضو حركة مواطني الرايخ",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Reichsbürger"
+ },
+ {
+  "de": "Reifenwechsel",
+  "ar": "تغيير الكاوتش",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Reifenwechsel"
+ },
+ {
+  "de": "Reifeprüfung",
+  "ar": "امتحان الثانوية (النمسا)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Reifeprüfungen"
+ },
+ {
+  "de": "Reinfall",
+  "ar": "الفشل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Reinfälle"
+ },
+ {
+  "de": "Reisebus",
+  "ar": "أتوبيس الرحلات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Reisebusse"
+ },
+ {
+  "de": "Reiterin",
+  "ar": "الفارسة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Reiterinnen"
+ },
+ {
+  "de": "Reizgas",
+  "ar": "الغاز المسيل",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Rekordeinnahme",
+  "ar": "الإيراد القياسي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rekordeinnahmen"
+ },
+ {
+  "de": "Rekordhoch",
+  "ar": "الرقم القياسي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Rekordhochs"
+ },
+ {
+  "de": "Rekordjagd",
+  "ar": "مطاردة الأرقام القياسية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rekordjagden"
+ },
+ {
+  "de": "Rekordjahr",
+  "ar": "السنة القياسية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Rekordjahre"
+ },
+ {
+  "de": "Rektorin",
+  "ar": "مديرة الجامعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rektorinnen"
+ },
+ {
+  "de": "Relevanz",
+  "ar": "الصلة / الأهمية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Religionsführer",
+  "ar": "الزعيم الديني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Religionsführer"
+ },
+ {
+  "de": "Renovierung",
+  "ar": "الترميم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Renovierungen"
+ },
+ {
+  "de": "Rentabilität",
+  "ar": "الربحية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Rentenalter",
+  "ar": "سن التقاعد",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Rentnerin",
+  "ar": "المتقاعدة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rentnerinnen"
+ },
+ {
+  "de": "Repertoire",
+  "ar": "الرصيد الفني",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Repertoires"
+ },
+ {
+  "de": "Reset",
+  "ar": "إعادة الضبط",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Resets"
+ },
+ {
+  "de": "Resolution",
+  "ar": "القرار الدولي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Resolutionen"
+ },
+ {
+  "de": "Resonanz",
+  "ar": "الصدى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Resonanzen"
+ },
+ {
+  "de": "Ressort",
+  "ar": "القسم / الوزارة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ressorts"
+ },
+ {
+  "de": "Restmüll",
+  "ar": "الزبالة العادية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Restrukturierung",
+  "ar": "إعادة الهيكلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Restrukturierungen"
+ },
+ {
+  "de": "Rettungsgasse",
+  "ar": "ممر الطوارئ",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rettungsgassen"
+ },
+ {
+  "de": "Rettungsgerät",
+  "ar": "معدات الإنقاذ",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Rettungsgeräte"
+ },
+ {
+  "de": "Rettungsschwimmer",
+  "ar": "منقذ الشاطئ",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Rettungsschwimmer"
+ },
+ {
+  "de": "Revolutionsgarde",
+  "ar": "الحرس الثوري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Revolutionsgarden"
+ },
+ {
+  "de": "Rezession",
+  "ar": "الركود الاقتصادي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rezessionen"
+ },
+ {
+  "de": "Rhetorik",
+  "ar": "البلاغة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Riboflavin",
+  "ar": "فيتامين ب2",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Richtigkeit",
+  "ar": "الصحة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Riege",
+  "ar": "المجموعة / الفرقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Riegen"
+ },
+ {
+  "de": "Riegel",
+  "ar": "البار / المزلاج",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Riegel"
+ },
+ {
+  "de": "Riesenslalom",
+  "ar": "التعرج العملاق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Riesenslaloms"
+ },
+ {
+  "de": "Rinde",
+  "ar": "قشرة الشجرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rinden"
+ },
+ {
+  "de": "Ringen",
+  "ar": "المصارعة / الصراع",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Rodung",
+  "ar": "إزالة الغابات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rodungen"
+ },
+ {
+  "de": "Rollstuhlfahrer",
+  "ar": "مستخدم الكرسي المتحرك",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Rollstuhlfahrer"
+ },
+ {
+  "de": "Roots",
+  "ar": "الجذور",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Rotstift",
+  "ar": "القلم الأحمر / التقشف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Rotstifte"
+ },
+ {
+  "de": "Routinekontrolle",
+  "ar": "الفحص الروتيني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Routinekontrollen"
+ },
+ {
+  "de": "Routinier",
+  "ar": "الخبير / المخضرم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Routiniers"
+ },
+ {
+  "de": "Ruine",
+  "ar": "الأطلال",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ruinen"
+ },
+ {
+  "de": "Rumba",
+  "ar": "الرومبا",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Rummel",
+  "ar": "الضجة / الملاهي",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Rundfahrt",
+  "ar": "الجولة الدائرية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rundfahrten"
+ },
+ {
+  "de": "Rundgang",
+  "ar": "الجولة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Rundgänge"
+ },
+ {
+  "de": "Rundschau",
+  "ar": "المجلة الإخبارية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rundschauen"
+ },
+ {
+  "de": "Röhre",
+  "ar": "الأنبوبة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Röhren"
+ },
+ {
+  "de": "Rötung",
+  "ar": "الاحمرار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rötungen"
+ },
+ {
+  "de": "Rückabwicklung",
+  "ar": "التسوية العكسية / التفكيك",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rückabwicklungen"
+ },
+ {
+  "de": "Rückbau",
+  "ar": "التفكيك",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Rückenschmerzen",
+  "ar": "ألم الظهر",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Rückerstattung",
+  "ar": "الاسترداد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rückerstattungen"
+ },
+ {
+  "de": "Rückführung",
+  "ar": "إعادة التوطين / الترحيل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rückführungen"
+ },
+ {
+  "de": "Rückgrat",
+  "ar": "العمود الفقري",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Rückgrate"
+ },
+ {
+  "de": "Rückmeldung",
+  "ar": "الرد / التغذية الراجعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rückmeldungen"
+ },
+ {
+  "de": "Rücknahme",
+  "ar": "الاسترجاع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rücknahmen"
+ },
+ {
+  "de": "Rückzahlung",
+  "ar": "السداد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Rückzahlungen"
+ },
+ {
+  "de": "Rüde",
+  "ar": "الكلب الذكر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Rüden"
+ },
+ {
+  "de": "Rüstungsindustrie",
+  "ar": "صناعة السلاح",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Saatgut",
+  "ar": "بذور الزراعة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Sachverhalt",
+  "ar": "وقائع القضية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Sachverhalte"
+ },
+ {
+  "de": "Sachverständige",
+  "ar": "الخبير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Sachverständigen"
+ },
+ {
+  "de": "Saisonspiel",
+  "ar": "ماتش الموسم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Saisonspiele"
+ },
+ {
+  "de": "Saisonziel",
+  "ar": "هدف الموسم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Saisonziele"
+ },
+ {
+  "de": "Sandbank",
+  "ar": "الشط الرملي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Sandbänke"
+ },
+ {
+  "de": "Sandplatz",
+  "ar": "ملعب الرمل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Sandplätze"
+ },
+ {
+  "de": "Sandstrand",
+  "ar": "الشاطئ الرملي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Sandstrände"
+ },
+ {
+  "de": "Sanierungsbedarf",
+  "ar": "الحاجة للترميم",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Sanierungsmaßnahme",
+  "ar": "إجراء الترميم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Sanierungsmaßnahmen"
+ },
+ {
+  "de": "Satellitenbild",
+  "ar": "صورة القمر الصناعي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Satellitenbilder"
+ },
+ {
+  "de": "Sauna",
+  "ar": "الساونا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Saunen"
+ },
+ {
+  "de": "Schadstoffbelastung",
+  "ar": "العبء الملوث",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Schadstoffbelastungen"
+ },
+ {
+  "de": "Schafwolle",
+  "ar": "صوف الخروف",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Schanze",
+  "ar": "منحدر قفز التزلج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Schanzen"
+ },
+ {
+  "de": "Schattenseite",
+  "ar": "الجانب المظلم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Schattenseiten"
+ },
+ {
+  "de": "Schatzsuche",
+  "ar": "البحث عن الكنز",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Schaulustige",
+  "ar": "المتفرج الفضولي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Schaulustigen"
+ },
+ {
+  "de": "Schauspielerei",
+  "ar": "التمثيل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Schauspielpreis",
+  "ar": "جايزة التمثيل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Schauspielpreise"
+ },
+ {
+  "de": "Scheinwerfer",
+  "ar": "الكشاف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Scheinwerfer"
+ },
+ {
+  "de": "Scheitel",
+  "ar": "فرقة الشعر / القمة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Scheitel"
+ },
+ {
+  "de": "Scheiterhaufen",
+  "ar": "المحرقة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Scheiterhaufen"
+ },
+ {
+  "de": "Schema",
+  "ar": "النمط / المخطط",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Schemata"
+ },
+ {
+  "de": "Schenkungssteuer",
+  "ar": "ضريبة الهبة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Schenkungssteuern"
+ },
+ {
+  "de": "Scheu",
+  "ar": "الخجل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Schieberegler",
+  "ar": "شريط التمرير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Schieberegler"
+ },
+ {
+  "de": "Schiedsgericht",
+  "ar": "محكمة التحكيم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Schiedsgerichte"
+ },
+ {
+  "de": "Schiffsverkehr",
+  "ar": "حركة السفن",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Schlachthof",
+  "ar": "المسلخ",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Schlachthöfe"
+ },
+ {
+  "de": "Schlafmangel",
+  "ar": "نقص النوم",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Schlafproblem",
+  "ar": "مشكلة النوم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Schlafprobleme"
+ },
+ {
+  "de": "Schlagloch",
+  "ar": "حفرة الشارع",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Schlaglöcher"
+ },
+ {
+  "de": "Schlauchboot",
+  "ar": "القارب المطاطي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Schlauchboote"
+ },
+ {
+  "de": "Schlepper",
+  "ar": "المهرب / الجرار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Schlepper"
+ },
+ {
+  "de": "Schlupfloch",
+  "ar": "الثغرة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Schlupflöcher"
+ },
+ {
+  "de": "Schlussfolgerung",
+  "ar": "الاستنتاج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Schlussfolgerungen"
+ },
+ {
+  "de": "Schlussmann",
+  "ar": "حارس المرمى (عامية)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Schlussmänner"
+ },
+ {
+  "de": "Schlussminute",
+  "ar": "الدقايق الأخيرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Schlussminuten"
+ }
+]
