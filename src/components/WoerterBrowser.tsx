@@ -17,7 +17,7 @@ function WortCard({ w }: { w: Wort }) {
         <p dir="ltr" lang="de" className="de text-xl font-semibold">
           {w.art && !w.pluralOnly && <span className={`art-badge ${artClass}`}>{w.art}</span>} {w.de}
         </p>
-        <button onClick={() => speak(w.de)} aria-label={t('اسمع الكلمة', 'Hear the word')} className="flex min-h-11 min-w-11 shrink-0 items-center justify-center rounded-full border border-line p-2"><Speaker /></button>
+        <button onClick={() => speak(w.pluralOnly ? w.de : `${w.art} ${w.de}`)} aria-label={t('اسمع الكلمة', 'Hear the word')} className="flex min-h-11 min-w-11 shrink-0 items-center justify-center rounded-full border border-line p-2"><Speaker /></button>
       </div>
       <p className="ar-title mt-1 font-bold">{w.ar}</p>
       <div className="mt-2 flex flex-wrap gap-x-4 gap-y-1 text-sm text-muted">
