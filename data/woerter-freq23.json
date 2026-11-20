@@ -1,0 +1,870 @@
+[
+ {
+  "de": "Dunkelziffer",
+  "ar": "الرقم غير المعلن",
+  "pos": "noun"
+ },
+ {
+  "de": "Durchmesser",
+  "ar": "قطر الدائرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Däne",
+  "ar": "الدنماركيين",
+  "pos": "noun"
+ },
+ {
+  "de": "E-Bike",
+  "ar": "عجلة كهربا",
+  "pos": "noun"
+ },
+ {
+  "de": "Einfamilienhaus",
+  "ar": "فيلا عيلة واحدة",
+  "pos": "noun"
+ },
+ {
+  "de": "Einheimische",
+  "ar": "أهل البلد",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "Einkauf",
+  "ar": "مشتريات / شوبينج",
+  "pos": "noun"
+ },
+ {
+  "de": "Einlass",
+  "ar": "سماح بالدخول",
+  "pos": "noun"
+ },
+ {
+  "de": "Einsatzstelle",
+  "ar": "مكان البلاغ",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Entlassung",
+  "ar": "فصل من شغل",
+  "pos": "noun"
+ },
+ {
+  "de": "Entspannung",
+  "ar": "استرخاء / انفراجة",
+  "pos": "noun"
+ },
+ {
+  "de": "Erdgeschoss",
+  "ar": "الدور الأرضي",
+  "pos": "noun"
+ },
+ {
+  "de": "Ermittlungsverfahren",
+  "ar": "إجراءات التحقيق",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Erstellung",
+  "ar": "إعداد / إنشاء",
+  "pos": "noun"
+ },
+ {
+  "de": "Erwärmung",
+  "ar": "احترار / سخونية",
+  "pos": "noun"
+ },
+ {
+  "de": "Etat",
+  "ar": "ميزانية مخصصة",
+  "pos": "noun"
+ },
+ {
+  "de": "Europameister",
+  "ar": "بطل أوروبا",
+  "pos": "noun"
+ },
+ {
+  "de": "Export",
+  "ar": "تصدير",
+  "pos": "noun"
+ },
+ {
+  "de": "Fahrradfahrer",
+  "ar": "راكب العجلة",
+  "pos": "noun"
+ },
+ {
+  "de": "Fahrstreifen",
+  "ar": "حارة مرورية",
+  "pos": "noun"
+ },
+ {
+  "de": "Fassade",
+  "ar": "واجهة مبنى",
+  "pos": "noun"
+ },
+ {
+  "de": "Feedback",
+  "ar": "تقييم / رد فعل",
+  "pos": "noun"
+ },
+ {
+  "de": "Flügelspieler",
+  "ar": "الجناح (كورة)",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Foul",
+  "ar": "خطأ / فاول",
+  "pos": "noun"
+ },
+ {
+  "de": "Freibad",
+  "ar": "حمام سباحة عام",
+  "pos": "noun"
+ },
+ {
+  "de": "Freiheitsstrafe",
+  "ar": "عقوبة سالبة للحرية",
+  "pos": "noun"
+ },
+ {
+  "de": "Freundeskreis",
+  "ar": "شلة صحاب",
+  "pos": "noun"
+ },
+ {
+  "de": "Frust",
+  "ar": "زهق / كبت",
+  "pos": "noun"
+ },
+ {
+  "de": "Frucht",
+  "ar": "فواكه / ثمار",
+  "pos": "noun"
+ },
+ {
+  "de": "Fund",
+  "ar": "اكتشاف / لقية",
+  "pos": "noun"
+ },
+ {
+  "de": "Fundament",
+  "ar": "أساس بناء",
+  "pos": "noun"
+ },
+ {
+  "de": "Funktionär",
+  "ar": "مسؤول حزبي",
+  "pos": "noun"
+ },
+ {
+  "de": "Fusion",
+  "ar": "اندماج شركات",
+  "pos": "noun"
+ },
+ {
+  "de": "Fußballfan",
+  "ar": "عاشق كورة",
+  "pos": "noun"
+ },
+ {
+  "de": "Gasthaus",
+  "ar": "فندق شعبي",
+  "pos": "noun"
+ },
+ {
+  "de": "Geldwäsche",
+  "ar": "غسيل أموال",
+  "pos": "noun"
+ },
+ {
+  "de": "Genuss",
+  "ar": "متعة / تذوق",
+  "pos": "noun"
+ },
+ {
+  "de": "Gerichtsverfahren",
+  "ar": "قضية / دعوى",
+  "pos": "noun"
+ },
+ {
+  "de": "Gesamtschaden",
+  "ar": "إجمالي الخسائر",
+  "pos": "noun"
+ },
+ {
+  "de": "Geschoss",
+  "ar": "طلقة / دور",
+  "pos": "noun"
+ },
+ {
+  "de": "Geschäftsbereich",
+  "ar": "قطاع أعمال",
+  "pos": "noun"
+ },
+ {
+  "de": "Geschäftsführerin",
+  "ar": "المديرة التنفيذية",
+  "pos": "noun"
+ },
+ {
+  "de": "Geschäftsführung",
+  "ar": "الإدارة التنفيذية",
+  "pos": "noun"
+ },
+ {
+  "de": "Geschäftsleitung",
+  "ar": "إدارة الشركة",
+  "pos": "noun"
+ },
+ {
+  "de": "Gespür",
+  "ar": "حاسة / إحساس",
+  "pos": "noun"
+ },
+ {
+  "de": "Gesundheitswesen",
+  "ar": "القطاع الصحي",
+  "pos": "noun"
+ },
+ {
+  "de": "Gewalttat",
+  "ar": "جرايم عنف",
+  "pos": "noun"
+ },
+ {
+  "de": "Großstadt",
+  "ar": "مدينة كبيرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Grundgesetz",
+  "ar": "الدستور الألماني",
+  "pos": "noun"
+ },
+ {
+  "de": "Gruppenphase",
+  "ar": "دور المجموعات",
+  "pos": "noun"
+ },
+ {
+  "de": "Hauch",
+  "ar": "لمسة / نسمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Hausarzt",
+  "ar": "دكتور العيلة",
+  "pos": "noun"
+ },
+ {
+  "de": "Haustier",
+  "ar": "حيوان أليف",
+  "pos": "noun"
+ },
+ {
+  "de": "Herangehensweise",
+  "ar": "طريقة التعامل",
+  "pos": "noun"
+ },
+ {
+  "de": "Hinrunde",
+  "ar": "الدور الأول",
+  "pos": "noun"
+ },
+ {
+  "de": "Historiker",
+  "ar": "مؤرخ",
+  "pos": "noun"
+ },
+ {
+  "de": "Hit",
+  "ar": "أغنية ناجحة / ضربة",
+  "pos": "noun"
+ },
+ {
+  "de": "Indikator",
+  "ar": "مؤشر قياس",
+  "pos": "noun"
+ },
+ {
+  "de": "Insolvenzverfahren",
+  "ar": "إجراءات إفلاس",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Intendant",
+  "ar": "مدير قناة/مسرح",
+  "pos": "noun"
+ },
+ {
+  "de": "Inventar",
+  "ar": "جرد / أثاث",
+  "pos": "noun"
+ },
+ {
+  "de": "Isolation",
+  "ar": "عزل",
+  "pos": "noun"
+ },
+ {
+  "de": "Jahreswechsel",
+  "ar": "رأس السنة",
+  "pos": "noun"
+ },
+ {
+  "de": "Japaner",
+  "ar": "اليابانيين",
+  "pos": "noun"
+ },
+ {
+  "de": "Jungtier",
+  "ar": "صغار الحيوانات",
+  "pos": "noun"
+ },
+ {
+  "de": "Kabinett",
+  "ar": "تشكيلة وزارية",
+  "pos": "noun"
+ },
+ {
+  "de": "Kaufhaus",
+  "ar": "محل كبير / مول",
+  "pos": "noun"
+ },
+ {
+  "de": "Kilogramm",
+  "ar": "كيلو جرام",
+  "pos": "noun"
+ },
+ {
+  "de": "Kinderbetreuung",
+  "ar": "رعاية الأطفال",
+  "pos": "noun"
+ },
+ {
+  "de": "Klarheit",
+  "ar": "وضوح",
+  "pos": "noun"
+ },
+ {
+  "de": "Klimapolitik",
+  "ar": "سياسات المناخ",
+  "pos": "noun"
+ },
+ {
+  "de": "Klimaziel",
+  "ar": "أهداف مناخية",
+  "pos": "noun"
+ },
+ {
+  "de": "Kneipe",
+  "ar": "بار شعبي",
+  "pos": "noun"
+ },
+ {
+  "de": "Komplikation",
+  "ar": "مضاعفات",
+  "pos": "noun"
+ },
+ {
+  "de": "Komponist",
+  "ar": "ملحن",
+  "pos": "noun"
+ },
+ {
+  "de": "Komödie",
+  "ar": "كوميديا",
+  "pos": "noun"
+ },
+ {
+  "de": "Konservative",
+  "ar": "المحافظين",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "Kreuzbandriss",
+  "ar": "قطع في الرباط الصليبي",
+  "pos": "noun"
+ },
+ {
+  "de": "Kreuzfahrt",
+  "ar": "رحلة بحرية",
+  "pos": "noun"
+ },
+ {
+  "de": "Kundgebung",
+  "ar": "وقفة احتجاجية",
+  "pos": "noun"
+ },
+ {
+  "de": "Kundschaft",
+  "ar": "الزباين",
+  "pos": "noun"
+ },
+ {
+  "de": "Landesliga",
+  "ar": "دوري الولاية",
+  "pos": "noun"
+ },
+ {
+  "de": "Landesverband",
+  "ar": "اتحاد الولاية",
+  "pos": "noun"
+ },
+ {
+  "de": "Lebensjahr",
+  "ar": "سنة من عمره",
+  "pos": "noun"
+ },
+ {
+  "de": "Lehrkraft",
+  "ar": "مدرسين",
+  "pos": "noun"
+ },
+ {
+  "de": "Lenkrad",
+  "ar": "طارة / دركسيون",
+  "pos": "noun"
+ },
+ {
+  "de": "Leserin",
+  "ar": "القارئة (ست)",
+  "pos": "noun"
+ },
+ {
+  "de": "Lesung",
+  "ar": "قراءة عامة",
+  "pos": "noun"
+ },
+ {
+  "de": "Liveticker",
+  "ar": "بث لحظي",
+  "pos": "noun"
+ },
+ {
+  "de": "Lkw-Fahrer",
+  "ar": "سواق نقل",
+  "pos": "noun"
+ },
+ {
+  "de": "Machthaber",
+  "ar": "الحاكم",
+  "pos": "noun"
+ },
+ {
+  "de": "Maibaum",
+  "ar": "عمود مايو",
+  "pos": "noun"
+ },
+ {
+  "de": "Manier",
+  "ar": "أسلوب / أدب",
+  "pos": "noun"
+ },
+ {
+  "de": "Mehrfamilienhaus",
+  "ar": "عمارة سكنية",
+  "pos": "noun"
+ },
+ {
+  "de": "Meilenstein",
+  "ar": "محطة فارقة",
+  "pos": "noun"
+ },
+ {
+  "de": "Menschenleben",
+  "ar": "أرواح بشرية",
+  "pos": "noun"
+ },
+ {
+  "de": "Messerattacke",
+  "ar": "هجوم بسكينة",
+  "pos": "noun"
+ },
+ {
+  "de": "Meteorologe",
+  "ar": "خبير أرصاد",
+  "pos": "noun"
+ },
+ {
+  "de": "Minderheit",
+  "ar": "أقليات",
+  "pos": "noun"
+ },
+ {
+  "de": "Mitspieler",
+  "ar": "زميله في الفريق",
+  "pos": "noun"
+ },
+ {
+  "de": "Mittelstürmer",
+  "ar": "المهاجم الصريح",
+  "pos": "noun"
+ },
+ {
+  "de": "Musikerin",
+  "ar": "الموسيقية (ست)",
+  "pos": "noun"
+ },
+ {
+  "de": "Nachkomme",
+  "ar": "سليل / ولاد",
+  "pos": "noun"
+ },
+ {
+  "de": "Nachspielzeit",
+  "ar": "الوقت بدل الضايع",
+  "pos": "noun"
+ },
+ {
+  "de": "Nachweis",
+  "ar": "إثبات / دليل",
+  "pos": "noun"
+ },
+ {
+  "de": "Nationalpark",
+  "ar": "محمية طبيعية",
+  "pos": "noun"
+ },
+ {
+  "de": "Nationalrat",
+  "ar": "المجلس الوطني",
+  "pos": "noun"
+ },
+ {
+  "de": "Neuland",
+  "ar": "مجال مجهول",
+  "pos": "noun"
+ },
+ {
+  "de": "Niederschlag",
+  "ar": "هطول مطر",
+  "pos": "noun"
+ },
+ {
+  "de": "Nominierung",
+  "ar": "ترشيح",
+  "pos": "noun"
+ },
+ {
+  "de": "Nordamerika",
+  "ar": "أمريكا الشمالية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Nordsee",
+  "ar": "بحر الشمال",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Nötigung",
+  "ar": "إكراه / إجبار",
+  "pos": "noun"
+ },
+ {
+  "de": "Obergeschoss",
+  "ar": "الدور العلوي",
+  "pos": "noun"
+ },
+ {
+  "de": "Oberhand",
+  "ar": "اليد العليا",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Oberliga",
+  "ar": "دوري درجة خامسة",
+  "pos": "noun"
+ },
+ {
+  "de": "Olympiastadion",
+  "ar": "الملعب الأولمبي",
+  "pos": "noun"
+ },
+ {
+  "de": "Optimismus",
+  "ar": "تفاؤل",
+  "pos": "noun"
+ },
+ {
+  "de": "Orientierung",
+  "ar": "توجيه / توجه",
+  "pos": "noun"
+ },
+ {
+  "de": "Ortsvorsteher",
+  "ar": "شيخ البلد",
+  "pos": "noun"
+ },
+ {
+  "de": "Ostsee",
+  "ar": "بحر البلطيق",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Parlamentswahl",
+  "ar": "انتخابات برلمانية",
+  "pos": "noun"
+ },
+ {
+  "de": "Parteichef",
+  "ar": "زعيم الحزب",
+  "pos": "noun"
+ },
+ {
+  "de": "Patientenakte",
+  "ar": "ملف المريض",
+  "pos": "noun"
+ },
+ {
+  "de": "Pendler",
+  "ar": "رايح جاي للشغل",
+  "pos": "noun"
+ },
+ {
+  "de": "Personalkosten",
+  "ar": "تكاليف الموظفين",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "Pfarrei",
+  "ar": "رعية الكنيسة",
+  "pos": "noun"
+ },
+ {
+  "de": "Piste",
+  "ar": "مضمار / منحدر",
+  "pos": "noun"
+ },
+ {
+  "de": "Polizeirevier",
+  "ar": "قسم بوليس",
+  "pos": "noun"
+ },
+ {
+  "de": "Preiserhöhung",
+  "ar": "زيادة أسعار",
+  "pos": "noun"
+ },
+ {
+  "de": "Problematik",
+  "ar": "القضية الشائكة",
+  "pos": "noun"
+ },
+ {
+  "de": "Produktionsstätte",
+  "ar": "مصانع إنتاج",
+  "pos": "noun"
+ },
+ {
+  "de": "Professionalität",
+  "ar": "احترافية",
+  "pos": "noun"
+ },
+ {
+  "de": "Protagonist",
+  "ar": "بطل القصة",
+  "pos": "noun"
+ },
+ {
+  "de": "Präsidentschaftskandidat",
+  "ar": "مرشح الرئاسة",
+  "pos": "noun"
+ },
+ {
+  "de": "Präsidium",
+  "ar": "رئاسة المكتب",
+  "pos": "noun"
+ },
+ {
+  "de": "Quartalszahlen",
+  "ar": "نتايج الربع سنة",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "Radweg",
+  "ar": "مسار عجل",
+  "pos": "noun"
+ },
+ {
+  "de": "Ramadan",
+  "ar": "رمضان",
+  "pos": "noun"
+ },
+ {
+  "de": "Rauchentwicklung",
+  "ar": "تصاعد دخان",
+  "pos": "noun"
+ },
+ {
+  "de": "Rechtsruck",
+  "ar": "تحول لليمين",
+  "pos": "noun"
+ },
+ {
+  "de": "Regierungschef",
+  "ar": "رؤسا الحكومات",
+  "pos": "noun"
+ },
+ {
+  "de": "Rentenpaket",
+  "ar": "حزمة المعاشات",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Resultat",
+  "ar": "نتيجة / حصاد",
+  "pos": "noun"
+ },
+ {
+  "de": "Rivale",
+  "ar": "منافسين",
+  "pos": "noun"
+ },
+ {
+  "de": "Sachbeschädigung",
+  "ar": "تخريب ممتلكات",
+  "pos": "noun"
+ },
+ {
+  "de": "Saisonauftakt",
+  "ar": "افتتاحية الموسم",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Sattelzug",
+  "ar": "تريلا / مقطورة",
+  "pos": "noun"
+ },
+ {
+  "de": "Schnäppchen",
+  "ar": "فرصة رخيصة",
+  "pos": "noun"
+ },
+ {
+  "de": "Schuljahr",
+  "ar": "السنة الدراسية",
+  "pos": "noun"
+ },
+ {
+  "de": "Schutzmaßnahme",
+  "ar": "إجراءات حماية",
+  "pos": "noun"
+ },
+ {
+  "de": "Schäfer",
+  "ar": "راعي غنم",
+  "pos": "noun"
+ },
+ {
+  "de": "verantworten",
+  "ar": "يكون مسؤول عن",
+  "pos": "verb"
+ },
+ {
+  "de": "beschäftigen",
+  "ar": "يشغل باله / يوظفه",
+  "pos": "verb"
+ },
+ {
+  "de": "beschleunigen",
+  "ar": "يسرع الخطى",
+  "pos": "verb"
+ },
+ {
+  "de": "verlangsamen",
+  "ar": "يبطئها",
+  "pos": "verb"
+ },
+ {
+  "de": "vereinfachen",
+  "ar": "يبسطها",
+  "pos": "verb"
+ },
+ {
+  "de": "beachten",
+  "ar": "يراعي / يحترم",
+  "pos": "verb"
+ },
+ {
+  "de": "verzögern",
+  "ar": "يتأخر / يعطل",
+  "pos": "verb"
+ },
+ {
+  "de": "berechnen",
+  "ar": "يحسبها",
+  "pos": "verb"
+ },
+ {
+  "de": "verwirklichen",
+  "ar": "يحقق حلمه",
+  "pos": "verb"
+ },
+ {
+  "de": "beanstanden",
+  "ar": "يعترض على",
+  "pos": "verb"
+ },
+ {
+  "de": "bewältigen",
+  "ar": "يتغلب عليه",
+  "pos": "verb"
+ },
+ {
+  "de": "erwähnen",
+  "ar": "يذكره بالاسم",
+  "pos": "verb"
+ },
+ {
+  "de": "einerseits",
+  "ar": "من ناحية",
+  "pos": "adv"
+ },
+ {
+  "de": "evangelisch",
+  "ar": "بروتستانتي",
+  "pos": "adj"
+ },
+ {
+  "de": "organisiert",
+  "ar": "منظم / ممنهج",
+  "pos": "adj"
+ },
+ {
+  "de": "letztlich",
+  "ar": "في النهاية",
+  "pos": "adv"
+ },
+ {
+  "de": "letzt",
+  "ar": "الأخير",
+  "pos": "adj"
+ },
+ {
+  "de": "erwähnt",
+  "ar": "مذكور / متقال",
+  "pos": "adj"
+ }
+]
