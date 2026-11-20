@@ -1,0 +1,733 @@
+[
+ {
+  "de": "Leseratte",
+  "ar": "الفأرة الكتبية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Leseratten"
+ },
+ {
+  "de": "Leserschaft",
+  "ar": "الجمهور القارئ",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Leuchter",
+  "ar": "الشمعدان",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Leuchter"
+ },
+ {
+  "de": "Leuchtkörper",
+  "ar": "الجسم المضيء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Leuchtkörper"
+ },
+ {
+  "de": "Leuchtstab",
+  "ar": "عصا الإضاءة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Leuchtstäbe"
+ },
+ {
+  "de": "Leuchtturmprojekt",
+  "ar": "المشروع الرائد",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Leuchtturmprojekte"
+ },
+ {
+  "de": "Leutnant",
+  "ar": "الملازم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Leutnants"
+ },
+ {
+  "de": "Libero",
+  "ar": "الليبرو",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Liberos"
+ },
+ {
+  "de": "Libyen",
+  "ar": "ليبيا",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Lichtanlage",
+  "ar": "نظام الإضاءة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lichtanlagen"
+ },
+ {
+  "de": "Lichtermeer",
+  "ar": "بحر الأنوار",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Lichtermeere"
+ },
+ {
+  "de": "Lichtjahr",
+  "ar": "السنة الضوئية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Lichtjahre"
+ },
+ {
+  "de": "Liebesbekundung",
+  "ar": "إعلان الحب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Liebesbekundungen"
+ },
+ {
+  "de": "Liebespaar",
+  "ar": "العشاق",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Liebespaare"
+ },
+ {
+  "de": "Liebesroman",
+  "ar": "الرواية الرومانسية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Liebesromane"
+ },
+ {
+  "de": "Lieblingsfilm",
+  "ar": "الفيلم المفضل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lieblingsfilme"
+ },
+ {
+  "de": "Lieblingskind",
+  "ar": "الولد المدلل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Lieblingskinder"
+ },
+ {
+  "de": "Lieblingsmensch",
+  "ar": "الشخص المفضل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lieblingsmenschen"
+ },
+ {
+  "de": "Lieblingsort",
+  "ar": "المكان المفضل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lieblingsorte"
+ },
+ {
+  "de": "Lieblingsstück",
+  "ar": "القطعة المفضلة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Lieblingsstücke"
+ },
+ {
+  "de": "Lieblingsvokabel",
+  "ar": "الكلمة المفضلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lieblingsvokabeln"
+ },
+ {
+  "de": "Liedtext",
+  "ar": "كلمات الأغنية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Liedtexte"
+ },
+ {
+  "de": "Lieferstopp",
+  "ar": "وقف التوريد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lieferstopps"
+ },
+ {
+  "de": "Liegenschaft",
+  "ar": "العقار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Liegenschaften"
+ },
+ {
+  "de": "Ligaerhalt",
+  "ar": "البقاء في الدوري",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Likör",
+  "ar": "الليكيور",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Liköre"
+ },
+ {
+  "de": "Linderung",
+  "ar": "التخفيف",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Linienflug",
+  "ar": "الرحلة المجدولة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Linienflüge"
+ },
+ {
+  "de": "Linienrichter",
+  "ar": "حكم الراية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Linienrichter"
+ },
+ {
+  "de": "Linksaußen",
+  "ar": "الجناح الشمال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Linksaußen"
+ },
+ {
+  "de": "Linksextremismus",
+  "ar": "اليسار المتطرف",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Linksverkehr",
+  "ar": "القيادة على الشمال",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Liquidität",
+  "ar": "السيولة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Liquiditätsspritze",
+  "ar": "حقنة السيولة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Liquiditätsspritzen"
+ },
+ {
+  "de": "Lissabon",
+  "ar": "لشبونة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Listenhund",
+  "ar": "كلب القائمة الخطرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Listenhunde"
+ },
+ {
+  "de": "Listeria",
+  "ar": "بكتيريا الليستيريا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Listerien"
+ },
+ {
+  "de": "Literat",
+  "ar": "الأديب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Literaten"
+ },
+ {
+  "de": "Literaturfestival",
+  "ar": "مهرجان الأدب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Literaturfestivals"
+ },
+ {
+  "de": "Literaturkritikerin",
+  "ar": "ناقدة الأدب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Literaturkritikerinnen"
+ },
+ {
+  "de": "Literaturverfilmung",
+  "ar": "الاقتباس السينمائي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Literaturverfilmungen"
+ },
+ {
+  "de": "Literaturwissenschaft",
+  "ar": "علم الأدب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Littering",
+  "ar": "رمي الزبالة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Liveact",
+  "ar": "العرض الحي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Liveacts"
+ },
+ {
+  "de": "Liveauftritt",
+  "ar": "الظهور المباشر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Liveauftritte"
+ },
+ {
+  "de": "Liveshow",
+  "ar": "العرض المباشر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Liveshows"
+ },
+ {
+  "de": "Liveübertragung",
+  "ar": "البث المباشر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Liveübertragungen"
+ },
+ {
+  "de": "Lizenzentzug",
+  "ar": "سحب الترخيص",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lizenzentzüge"
+ },
+ {
+  "de": "Lizenzvereinbarung",
+  "ar": "اتفاقية الترخيص",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lizenzvereinbarungen"
+ },
+ {
+  "de": "Lobbygruppe",
+  "ar": "جماعة الضغط",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lobbygruppen"
+ },
+ {
+  "de": "Lockerung",
+  "ar": "التخفيف (القيود)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lockerungen"
+ },
+ {
+  "de": "Loge",
+  "ar": "اللوج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Logen"
+ },
+ {
+  "de": "Logistikbranche",
+  "ar": "قطاع اللوجستيات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Logistikbranchen"
+ },
+ {
+  "de": "Logistikunternehmen",
+  "ar": "شركة اللوجستيات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Logistikunternehmen"
+ },
+ {
+  "de": "Logistikzentrum",
+  "ar": "مركز اللوجستيات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Logistikzentren"
+ },
+ {
+  "de": "Logopädie",
+  "ar": "علاج التخاطب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Logopädin",
+  "ar": "أخصائية التخاطب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Logopädinnen"
+ },
+ {
+  "de": "Lohnabschluss",
+  "ar": "اتفاق الأجور",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lohnabschlüsse"
+ },
+ {
+  "de": "Lohnabzug",
+  "ar": "خصم المرتب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lohnabzüge"
+ },
+ {
+  "de": "Lohnerhöhung",
+  "ar": "زيادة المرتب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lohnerhöhungen"
+ },
+ {
+  "de": "Lokaljournalist",
+  "ar": "الصحفي المحلي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lokaljournalisten"
+ },
+ {
+  "de": "Lokalkolorit",
+  "ar": "الطابع المحلي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Lokalkolorite"
+ },
+ {
+  "de": "Lokalmatador",
+  "ar": "نجم الحارة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lokalmatadoren"
+ },
+ {
+  "de": "Lokalpolizei",
+  "ar": "الشرطة المحلية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lokalpolizeien"
+ },
+ {
+  "de": "Lokalrivale",
+  "ar": "غريم الحارة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lokalrivalen"
+ },
+ {
+  "de": "Lokalzeitung",
+  "ar": "الجرنال المحلي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lokalzeitungen"
+ },
+ {
+  "de": "Longplayer",
+  "ar": "الألبوم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Longplayer"
+ },
+ {
+  "de": "Lotterie",
+  "ar": "اليانصيب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lotterien"
+ },
+ {
+  "de": "Lottoschein",
+  "ar": "تذكرة اللوتو",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lottoscheine"
+ },
+ {
+  "de": "Lottozahlen",
+  "ar": "أرقام اللوتو",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Lounge",
+  "ar": "اللاونج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lounges"
+ },
+ {
+  "de": "Louvre",
+  "ar": "اللوفر",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Loyalist",
+  "ar": "الموالي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Loyalisten"
+ },
+ {
+  "de": "Luftabwehrsystem",
+  "ar": "نظام الدفاع الجوي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Luftabwehrsysteme"
+ },
+ {
+  "de": "Luftaufnahme",
+  "ar": "اللقطة الجوية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Luftaufnahmen"
+ },
+ {
+  "de": "Luftfahrzeug",
+  "ar": "المركبة الجوية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Luftfahrzeuge"
+ },
+ {
+  "de": "Luftgewehr",
+  "ar": "بندقية الهواء",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Luftgewehre"
+ },
+ {
+  "de": "Lufthoheit",
+  "ar": "السيادة الجوية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Luftkompressor",
+  "ar": "الكمبريسور",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Luftkompressoren"
+ },
+ {
+  "de": "Luftlinie",
+  "ar": "الخط المستقيم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Luftlinien"
+ },
+ {
+  "de": "Luftmasse",
+  "ar": "الكتلة الهوائية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Luftmassen"
+ },
+ {
+  "de": "Luftnummer",
+  "ar": "الفقاعة (الوهم)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Luftnummern"
+ },
+ {
+  "de": "Luftschloss",
+  "ar": "قصر الأحلام",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Luftschlösser"
+ },
+ {
+  "de": "Luftschutzbunker",
+  "ar": "ملجأ الغارات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Luftschutzbunker"
+ },
+ {
+  "de": "Luftseilbahn",
+  "ar": "التلفريك",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Luftseilbahnen"
+ },
+ {
+  "de": "Luftstreitkräfte",
+  "ar": "القوات الجوية",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Luftverkehr",
+  "ar": "حركة الطيران",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Luftwaffenbasis",
+  "ar": "قاعدة سلاح الجو",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Luftwaffenbasen"
+ },
+ {
+  "de": "Lungenentzündung",
+  "ar": "الالتهاب الرئوي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lungenentzündungen"
+ },
+ {
+  "de": "Lungenfibrose",
+  "ar": "تليف الرئة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lungenfibrosen"
+ },
+ {
+  "de": "Lungengesundheit",
+  "ar": "صحة الرئة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Lungenkrebs",
+  "ar": "سرطان الرئة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Lupfer",
+  "ar": "اللوب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lupfer"
+ },
+ {
+  "de": "Lustgarten",
+  "ar": "حديقة المتعة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lustgärten"
+ },
+ {
+  "de": "Luxusartikel",
+  "ar": "سلعة الرفاهية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Luxusartikel"
+ },
+ {
+  "de": "Luxusauto",
+  "ar": "العربية الفاخرة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Luxusautos"
+ },
+ {
+  "de": "Luxushotel",
+  "ar": "الفندق الفاخر",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Luxushotels"
+ },
+ {
+  "de": "Luxusimmobilie",
+  "ar": "العقار الفاخر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Luxusimmobilien"
+ },
+ {
+  "de": "Luxusreise",
+  "ar": "الرحلة الفاخرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Luxusreisen"
+ },
+ {
+  "de": "Luxusresort",
+  "ar": "المنتجع الفاخر",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Luxusresorts"
+ },
+ {
+  "de": "Lymphom",
+  "ar": "الليمفوما",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Lymphome"
+ },
+ {
+  "de": "Lyriker",
+  "ar": "الشاعر الغنائي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lyriker"
+ },
+ {
+  "de": "Ländergrenze",
+  "ar": "حدود الولايات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ländergrenzen"
+ },
+ {
+  "de": "Länderkammer",
+  "ar": "مجلس الولايات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Länderkammern"
+ },
+ {
+  "de": "Länderspieldebüt",
+  "ar": "أول ماتش دولي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Länderspieldebüts"
+ },
+ {
+  "de": "Läuferin",
+  "ar": "العداءة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Läuferinnen"
+ },
+ {
+  "de": "Lernvideo",
+  "ar": "الفيديو التعليمي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Lernvideos"
+ }
+]
