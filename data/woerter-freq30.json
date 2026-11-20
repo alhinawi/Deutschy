@@ -1,0 +1,868 @@
+[
+ {
+  "de": "Laufsteg",
+  "ar": "ممشى عرض الأزياء",
+  "pos": "noun"
+ },
+ {
+  "de": "Lebensgefährte",
+  "ar": "رفيق العمر",
+  "pos": "noun"
+ },
+ {
+  "de": "Lebensraum",
+  "ar": "موائل / مجالات حياة",
+  "pos": "noun"
+ },
+ {
+  "de": "Lebensstil",
+  "ar": "ستايل حياة",
+  "pos": "noun"
+ },
+ {
+  "de": "Leerlauf",
+  "ar": "وضع محايد / بطالة",
+  "pos": "noun"
+ },
+ {
+  "de": "Legitimität",
+  "ar": "شرعية",
+  "pos": "noun"
+ },
+ {
+  "de": "Lehrgeld",
+  "ar": "ثمن التجربة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Lehrstuhl",
+  "ar": "كرسي أستاذية",
+  "pos": "noun"
+ },
+ {
+  "de": "Leistungsträger",
+  "ar": "عمود الفريق",
+  "pos": "noun"
+ },
+ {
+  "de": "Libanese",
+  "ar": "اللبنانيين",
+  "pos": "noun"
+ },
+ {
+  "de": "Lieferkette",
+  "ar": "سلسلة توريد",
+  "pos": "noun"
+ },
+ {
+  "de": "Lift",
+  "ar": "أسانسير / تلفريك",
+  "pos": "noun"
+ },
+ {
+  "de": "Linienbus",
+  "ar": "أوتوبيس خط",
+  "pos": "noun"
+ },
+ {
+  "de": "Linkskurve",
+  "ar": "لفة شمال",
+  "pos": "noun"
+ },
+ {
+  "de": "Lithium",
+  "ar": "ليثيوم",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Logistik",
+  "ar": "اللوجستيات",
+  "pos": "noun"
+ },
+ {
+  "de": "Lokführer",
+  "ar": "سواق القطر",
+  "pos": "noun"
+ },
+ {
+  "de": "Lokführergewerkschaft",
+  "ar": "نقابة سواقي القطرات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Länderspiel",
+  "ar": "ماتش دولي",
+  "pos": "noun"
+ },
+ {
+  "de": "Löschzug",
+  "ar": "فرقة إطفاء",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Macher",
+  "ar": "الصنايعي / المنجز",
+  "pos": "noun"
+ },
+ {
+  "de": "Magistrat",
+  "ar": "إدارة المدينة",
+  "pos": "noun"
+ },
+ {
+  "de": "Mainstream",
+  "ar": "التيار السائد",
+  "pos": "noun"
+ },
+ {
+  "de": "Malerei",
+  "ar": "فن الرسم",
+  "pos": "noun"
+ },
+ {
+  "de": "Mannschaftsleistung",
+  "ar": "أداء الفريق",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Marktanteil",
+  "ar": "حصص سوقية",
+  "pos": "noun"
+ },
+ {
+  "de": "Marktteilnehmer",
+  "ar": "لاعبي السوق",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Marschflugkörper",
+  "ar": "صواريخ كروز",
+  "pos": "noun"
+ },
+ {
+  "de": "Masche",
+  "ar": "حيلة / غرزة",
+  "pos": "noun"
+ },
+ {
+  "de": "Maskottchen",
+  "ar": "تميمة الحظ",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Matchwinner",
+  "ar": "صانع الفوز",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Mechanismus",
+  "ar": "آلية عمل",
+  "pos": "noun"
+ },
+ {
+  "de": "Medienbericht",
+  "ar": "تقارير صحفية",
+  "pos": "noun"
+ },
+ {
+  "de": "Mediengruppe",
+  "ar": "مجموعة إعلامية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Medizincheck",
+  "ar": "الكشف الطبي",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Meerenge",
+  "ar": "مضيق",
+  "pos": "noun"
+ },
+ {
+  "de": "Mehrzweckhalle",
+  "ar": "قاعة متعددة الأغراض",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Meinungsfreiheit",
+  "ar": "حرية الرأي",
+  "pos": "noun"
+ },
+ {
+  "de": "Meme",
+  "ar": "ميمز",
+  "pos": "noun"
+ },
+ {
+  "de": "Menschenmenge",
+  "ar": "جمع غفير",
+  "pos": "noun"
+ },
+ {
+  "de": "Messerangriff",
+  "ar": "هجوم بالسكينة",
+  "pos": "noun"
+ },
+ {
+  "de": "Metropole",
+  "ar": "مدينة كبرى",
+  "pos": "noun"
+ },
+ {
+  "de": "Mietvertrag",
+  "ar": "عقد إيجار",
+  "pos": "noun"
+ },
+ {
+  "de": "Militäreinsatz",
+  "ar": "عملية عسكرية",
+  "pos": "noun"
+ },
+ {
+  "de": "Miliz",
+  "ar": "ميليشيات",
+  "pos": "noun"
+ },
+ {
+  "de": "Milliardär",
+  "ar": "ملياردير",
+  "pos": "noun"
+ },
+ {
+  "de": "Ministrant",
+  "ar": "خادم مذبح",
+  "pos": "noun"
+ },
+ {
+  "de": "Mitarbeit",
+  "ar": "تعاون / مشاركة في شغل",
+  "pos": "noun"
+ },
+ {
+  "de": "Mitfahrer",
+  "ar": "راكب معاه",
+  "pos": "noun"
+ },
+ {
+  "de": "Mittelstand",
+  "ar": "الشركات المتوسطة",
+  "pos": "noun"
+ },
+ {
+  "de": "Moderation",
+  "ar": "تقديم / إدارة حوار",
+  "pos": "noun"
+ },
+ {
+  "de": "Moderator",
+  "ar": "مذيعين",
+  "pos": "noun"
+ },
+ {
+  "de": "Monarch",
+  "ar": "ملوك",
+  "pos": "noun"
+ },
+ {
+  "de": "Monarchie",
+  "ar": "ملكية (حكم)",
+  "pos": "noun"
+ },
+ {
+  "de": "Motorsport",
+  "ar": "سباقات عربيات",
+  "pos": "noun"
+ },
+ {
+  "de": "Mountainbike",
+  "ar": "عجلة جبال",
+  "pos": "noun"
+ },
+ {
+  "de": "Musical",
+  "ar": "مسرحية استعراضية",
+  "pos": "noun"
+ },
+ {
+  "de": "Muskulatur",
+  "ar": "الجهاز العضلي",
+  "pos": "noun"
+ },
+ {
+  "de": "Nachlöscharbeiten",
+  "ar": "إخماد بقايا حريق",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "Nachrichtenportal",
+  "ar": "موقع أخبار",
+  "pos": "noun"
+ },
+ {
+  "de": "Nachschuss",
+  "ar": "دفعة إضافية",
+  "pos": "noun"
+ },
+ {
+  "de": "Nachspiel",
+  "ar": "مسرحية لاحقة / تداعيات",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Nachtstunde",
+  "ar": "ساعات الليل",
+  "pos": "noun"
+ },
+ {
+  "de": "Nackenschlag",
+  "ar": "صدمة / لطمة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Nahverkehr",
+  "ar": "مواصلات محلية",
+  "pos": "noun"
+ },
+ {
+  "de": "Nationalelf",
+  "ar": "منتخب ألمانيا (الـ11)",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Nationalgarde",
+  "ar": "الحرس الوطني",
+  "pos": "noun"
+ },
+ {
+  "de": "Nationalität",
+  "ar": "جنسية",
+  "pos": "noun"
+ },
+ {
+  "de": "Nationalsozialismus",
+  "ar": "النازية",
+  "pos": "noun"
+ },
+ {
+  "de": "Nationalsozialist",
+  "ar": "نازيين",
+  "pos": "noun"
+ },
+ {
+  "de": "Nationalteam",
+  "ar": "المنتخب الوطني",
+  "pos": "noun"
+ },
+ {
+  "de": "Nato-Staat",
+  "ar": "دول الناتو",
+  "pos": "noun"
+ },
+ {
+  "de": "Naturschützer",
+  "ar": "ناشط بيئي",
+  "pos": "noun"
+ },
+ {
+  "de": "Nettogewinn",
+  "ar": "صافي الربح",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Neuaufstellung",
+  "ar": "إعادة تشكيل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Neujahrsempfang",
+  "ar": "استقبال رأس السنة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Neuwagen",
+  "ar": "عربية زيرو",
+  "pos": "noun"
+ },
+ {
+  "de": "Notenbank",
+  "ar": "البنك المركزي",
+  "pos": "noun"
+ },
+ {
+  "de": "Nutzerin",
+  "ar": "المستخدمة (ست)",
+  "pos": "noun"
+ },
+ {
+  "de": "Obdachlose",
+  "ar": "المشردين",
+  "pos": "noun"
+ },
+ {
+  "de": "Oberkörper",
+  "ar": "الجذع / نص الفوقاني",
+  "pos": "noun"
+ },
+ {
+  "de": "Oberligist",
+  "ar": "فريق دوري خامس",
+  "pos": "noun"
+ },
+ {
+  "de": "Offenlegung",
+  "ar": "إفصاح / كشف",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Olivenöl",
+  "ar": "زيت زيتون",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Olympiasieg",
+  "ar": "ذهبية أولمبية",
+  "pos": "noun"
+ },
+ {
+  "de": "Olympiasiegerin",
+  "ar": "بطلة أولمبية",
+  "pos": "noun"
+ },
+ {
+  "de": "Online-Plattform",
+  "ar": "منصات أونلاين",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Oppositionelle",
+  "ar": "معارضين سياسيين",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Oppositionspartei",
+  "ar": "أحزاب معارضة",
+  "pos": "noun"
+ },
+ {
+  "de": "Ornament",
+  "ar": "زخرفة",
+  "pos": "noun"
+ },
+ {
+  "de": "Ortsvorsteherin",
+  "ar": "شيخة البلد",
+  "pos": "noun"
+ },
+ {
+  "de": "Ostdeutschland",
+  "ar": "ألمانيا الشرقية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Paragraf",
+  "ar": "مادة قانونية",
+  "pos": "noun"
+ },
+ {
+  "de": "Parallele",
+  "ar": "تشابهات / خطوط موازية",
+  "pos": "noun"
+ },
+ {
+  "de": "Parkett",
+  "ar": "باركيه / صالة بورصة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Parkgebühr",
+  "ar": "رسوم باركنج",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Parkhaus",
+  "ar": "جراج متعدد",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Parlamentarier",
+  "ar": "برلمانيين",
+  "pos": "noun"
+ },
+ {
+  "de": "Parole",
+  "ar": "شعارات / باسورد عسكري",
+  "pos": "noun"
+ },
+ {
+  "de": "Parteivorsitzende",
+  "ar": "رئيس الحزب",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Partnerorganisation",
+  "ar": "منظمات شريكة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Patriarchat",
+  "ar": "النظام الأبوي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Pedelec",
+  "ar": "عجلة كهربا مساعدة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Pensionssystem",
+  "ar": "نظام المعاشات",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Perle",
+  "ar": "لولي / جواهر",
+  "pos": "noun"
+ },
+ {
+  "de": "Pestizid",
+  "ar": "مبيدات",
+  "pos": "noun"
+ },
+ {
+  "de": "Pfarre",
+  "ar": "رعية / كنيسة محلية",
+  "pos": "noun"
+ },
+ {
+  "de": "Pfarrheim",
+  "ar": "دار الكنيسة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Pfarrkirche",
+  "ar": "كنيسة الرعية",
+  "pos": "noun"
+ },
+ {
+  "de": "Pfeiler",
+  "ar": "أعمدة / دعامات",
+  "pos": "noun"
+ },
+ {
+  "de": "Pflanzenart",
+  "ar": "أنواع نباتات",
+  "pos": "noun"
+ },
+ {
+  "de": "Pfleger",
+  "ar": "ممرض",
+  "pos": "noun"
+ },
+ {
+  "de": "Philosophie",
+  "ar": "فلسفة",
+  "pos": "noun"
+ },
+ {
+  "de": "Physiotherapeut",
+  "ar": "أخصائي علاج طبيعي",
+  "pos": "noun"
+ },
+ {
+  "de": "Plage",
+  "ar": "آفة / وبا",
+  "pos": "noun"
+ },
+ {
+  "de": "Planer",
+  "ar": "مخططين",
+  "pos": "noun"
+ },
+ {
+  "de": "Podium",
+  "ar": "منصة / جلسة نقاش",
+  "pos": "noun"
+ },
+ {
+  "de": "Politbarometer",
+  "ar": "مقياس سياسي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Politikwissenschaftler",
+  "ar": "محلل سياسي",
+  "pos": "noun"
+ },
+ {
+  "de": "Polizeichef",
+  "ar": "مدير البوليس",
+  "pos": "noun"
+ },
+ {
+  "de": "Polizeidienststelle",
+  "ar": "قسم شرطة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Polizeidirektion",
+  "ar": "مديرية أمن",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Polizeieinsatz",
+  "ar": "عملية أمنية",
+  "pos": "noun"
+ },
+ {
+  "de": "Polizeihubschrauber",
+  "ar": "هليكوبتر بوليس",
+  "pos": "noun"
+ },
+ {
+  "de": "Poller",
+  "ar": "عمود حديد شارع",
+  "pos": "noun"
+ },
+ {
+  "de": "Portion",
+  "ar": "حصص أكل",
+  "pos": "noun"
+ },
+ {
+  "de": "Praktik",
+  "ar": "ممارسات / طرق",
+  "pos": "noun"
+ },
+ {
+  "de": "Preisauftrieb",
+  "ar": "ضغط أسعار",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Preisverleihung",
+  "ar": "حفل توزيع جوايز",
+  "pos": "noun"
+ },
+ {
+  "de": "Privileg",
+  "ar": "امتياز",
+  "pos": "noun"
+ },
+ {
+  "de": "Promenade",
+  "ar": "كورنيش",
+  "pos": "noun"
+ },
+ {
+  "de": "Protestaktion",
+  "ar": "فعاليات احتجاج",
+  "pos": "noun"
+ },
+ {
+  "de": "Prozentsatz",
+  "ar": "النسبة المئوية",
+  "pos": "noun"
+ },
+ {
+  "de": "Prämie",
+  "ar": "مكافآت / حوافز",
+  "pos": "noun"
+ },
+ {
+  "de": "Präsentation",
+  "ar": "عرض تقديمي",
+  "pos": "noun"
+ },
+ {
+  "de": "Präsidentenwahl",
+  "ar": "انتخابات الرئاسة",
+  "pos": "noun"
+ },
+ {
+  "de": "Präzision",
+  "ar": "دقة متناهية",
+  "pos": "noun"
+ },
+ {
+  "de": "Pächter",
+  "ar": "مستأجر",
+  "pos": "noun"
+ },
+ {
+  "de": "Quote",
+  "ar": "نسبة مشاهدة / كوتة",
+  "pos": "noun"
+ },
+ {
+  "de": "Radler",
+  "ar": "شاندي / راكب عجلة",
+  "pos": "noun"
+ },
+ {
+  "de": "Rahmenprogramm",
+  "ar": "برنامج مصاحب",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Raketenangriff",
+  "ar": "هجمات صاروخية",
+  "pos": "noun"
+ },
+ {
+  "de": "Raketenbeschuss",
+  "ar": "قصف صاروخي",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Rampe",
+  "ar": "منحدر صعود",
+  "pos": "noun"
+ },
+ {
+  "de": "Rarität",
+  "ar": "تحف نادرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Raser",
+  "ar": "مجانين سرعة",
+  "pos": "noun"
+ },
+ {
+  "de": "Rastplatz",
+  "ar": "استراحة طريق",
+  "pos": "noun"
+ },
+ {
+  "de": "Ratgeber",
+  "ar": "دليل إرشادي",
+  "pos": "noun"
+ },
+ {
+  "de": "Rauswurf",
+  "ar": "طرد",
+  "pos": "noun"
+ },
+ {
+  "de": "Reaktor",
+  "ar": "مفاعل نووي",
+  "pos": "noun"
+ },
+ {
+  "de": "Reality-Show",
+  "ar": "برنامج واقع",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Rebound",
+  "ar": "كرة مرتدة",
+  "pos": "noun"
+ },
+ {
+  "de": "Rechenschaft",
+  "ar": "حساب / مساءلة",
+  "pos": "noun"
+ },
+ {
+  "de": "Rechenzentrum",
+  "ar": "مراكز بيانات",
+  "pos": "noun"
+ },
+ {
+  "de": "Rechner",
+  "ar": "كمبيوترات",
+  "pos": "noun"
+ },
+ {
+  "de": "Rechtspopulismus",
+  "ar": "الشعبوية اليمينية",
+  "pos": "noun"
+ },
+ {
+  "de": "Rechtsprechung",
+  "ar": "سوابق قضائية",
+  "pos": "noun"
+ },
+ {
+  "de": "Redner",
+  "ar": "خطيب / متحدث",
+  "pos": "noun"
+ },
+ {
+  "de": "Rednerpult",
+  "ar": "منصة الخطابة",
+  "pos": "noun"
+ },
+ {
+  "de": "Reflexion",
+  "ar": "تأمل / انعكاس",
+  "pos": "noun"
+ },
+ {
+  "de": "Regierungskoalition",
+  "ar": "ائتلاف حاكم",
+  "pos": "noun"
+ },
+ {
+  "de": "Register",
+  "ar": "سجلات",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Reiseziel",
+  "ar": "وجهات سفر",
+  "pos": "noun"
+ },
+ {
+  "de": "Rennfahrer",
+  "ar": "سواق سباقات",
+  "pos": "noun"
+ },
+ {
+  "de": "Rennsport",
+  "ar": "رياضة السباقات",
+  "pos": "noun"
+ }
+]
