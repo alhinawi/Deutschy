@@ -1,0 +1,730 @@
+[
+ {
+  "de": "Gespann",
+  "ar": "الثنائي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gespanne"
+ },
+ {
+  "de": "Gespenst",
+  "ar": "الشبح",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gespenster"
+ },
+ {
+  "de": "Gesprächspartner",
+  "ar": "شريك الحوار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gesprächspartner"
+ },
+ {
+  "de": "Gesprächsrunde",
+  "ar": "جولة المحادثات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gesprächsrunden"
+ },
+ {
+  "de": "Gesprächsthema",
+  "ar": "موضوع الحديث",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gesprächsthemen"
+ },
+ {
+  "de": "Gesprächsversuch",
+  "ar": "محاولة الحوار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gesprächsversuche"
+ },
+ {
+  "de": "Gestapo",
+  "ar": "الجستابو",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gestik",
+  "ar": "الإيماءات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gesuch",
+  "ar": "الطلب الرسمي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gesuche"
+ },
+ {
+  "de": "Gesundheitsausgaben",
+  "ar": "مصاريف الصحة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Gesundheitsausschuss",
+  "ar": "لجنة الصحة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gesundheitsausschüsse"
+ },
+ {
+  "de": "Gesundheitsberatung",
+  "ar": "الاستشارة الصحية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gesundheitsberatungen"
+ },
+ {
+  "de": "Gesundheitsdaten",
+  "ar": "بيانات الصحة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Gesundheitsexperte",
+  "ar": "خبير الصحة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gesundheitsexperten"
+ },
+ {
+  "de": "Gesundheitsfürsorge",
+  "ar": "الرعاية الصحية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gesundheitskasse",
+  "ar": "التأمين الصحي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gesundheitskassen"
+ },
+ {
+  "de": "Gesundheitskrise",
+  "ar": "الأزمة الصحية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gesundheitskrisen"
+ },
+ {
+  "de": "Gesundheitsministerin",
+  "ar": "وزيرة الصحة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gesundheitsministerinnen"
+ },
+ {
+  "de": "Gesundheitszentrum",
+  "ar": "المركز الصحي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gesundheitszentren"
+ },
+ {
+  "de": "Gesundheitszustand",
+  "ar": "الحالة الصحية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Getreideernte",
+  "ar": "حصاد الحبوب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Getreideernten"
+ },
+ {
+  "de": "Getreidesorte",
+  "ar": "نوع الحبوب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Getreidesorten"
+ },
+ {
+  "de": "Getränkeindustrie",
+  "ar": "صناعة المشروبات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Getränkeindustrien"
+ },
+ {
+  "de": "Getue",
+  "ar": "الضجة الفاضية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Getümmel",
+  "ar": "الزحمة والدوشة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Gewahrsam",
+  "ar": "الحبس الاحتياطي",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Gewaltakt",
+  "ar": "العمل العنيف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gewaltakte"
+ },
+ {
+  "de": "Gewaltausbruch",
+  "ar": "اندلاع العنف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gewaltausbrüche"
+ },
+ {
+  "de": "Gewalttäter",
+  "ar": "مرتكب العنف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gewalttäter"
+ },
+ {
+  "de": "Gewaltvorfall",
+  "ar": "حادثة العنف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gewaltvorfälle"
+ },
+ {
+  "de": "Gewaltvorwurf",
+  "ar": "اتهام بالعنف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gewaltvorwürfe"
+ },
+ {
+  "de": "Geweih",
+  "ar": "قرون الغزال",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Geweihe"
+ },
+ {
+  "de": "Gewerbeanmeldung",
+  "ar": "تسجيل النشاط التجاري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gewerbeanmeldungen"
+ },
+ {
+  "de": "Gewerbegebiet",
+  "ar": "المنطقة الصناعية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gewerbegebiete"
+ },
+ {
+  "de": "Gewerbeverband",
+  "ar": "اتحاد الأعمال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gewerbeverbände"
+ },
+ {
+  "de": "Gewerkschafter",
+  "ar": "النقابي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gewerkschafter"
+ },
+ {
+  "de": "Gewerkschaftschef",
+  "ar": "رئيس النقابة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gewerkschaftschefs"
+ },
+ {
+  "de": "Gewerkschaftsmitglied",
+  "ar": "عضو النقابة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gewerkschaftsmitglieder"
+ },
+ {
+  "de": "Gewichtsreduzierung",
+  "ar": "إنقاص الوزن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gewichtsreduzierungen"
+ },
+ {
+  "de": "Gewichtung",
+  "ar": "الترجيح",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gewichtungen"
+ },
+ {
+  "de": "Gewinnerin",
+  "ar": "الفائزة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gewinnerinnen"
+ },
+ {
+  "de": "Gewinnerwartung",
+  "ar": "توقعات الأرباح",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gewinnerwartungen"
+ },
+ {
+  "de": "Gewinnmarge",
+  "ar": "هامش الربح",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gewinnmargen"
+ },
+ {
+  "de": "Gewinnschwelle",
+  "ar": "نقطة التعادل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gewinnschwellen"
+ },
+ {
+  "de": "Gewinnspiel",
+  "ar": "المسابقة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gewinnspiele"
+ },
+ {
+  "de": "Gewinnwarnung",
+  "ar": "تحذير الأرباح",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gewinnwarnungen"
+ },
+ {
+  "de": "Gewinnzahl",
+  "ar": "الرقم الفائز",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gewinnzahlen"
+ },
+ {
+  "de": "Gewittergefahr",
+  "ar": "خطر العواصف",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gewohnheitsrecht",
+  "ar": "القانون العرفي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Gewächshaus",
+  "ar": "البيت الزجاجي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gewächshäuser"
+ },
+ {
+  "de": "Gewölbe",
+  "ar": "القبو المقنطر",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gewölbe"
+ },
+ {
+  "de": "Geäst",
+  "ar": "الأغصان",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Ghosting",
+  "ar": "الاختفاء فجأة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Giebel",
+  "ar": "الجملون",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Giebel"
+ },
+ {
+  "de": "Gießerei",
+  "ar": "المسبك",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gießereien"
+ },
+ {
+  "de": "Giftpflanze",
+  "ar": "النبتة السامة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Giftpflanzen"
+ },
+ {
+  "de": "Gigafactory",
+  "ar": "الجيجا فاكتوري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gigafactories"
+ },
+ {
+  "de": "Gipfelstürmer",
+  "ar": "متسلق القمم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gipfelstürmer"
+ },
+ {
+  "de": "Girokarte",
+  "ar": "كارت البنك",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Girokarten"
+ },
+ {
+  "de": "Glamour",
+  "ar": "البريق",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Glasdach",
+  "ar": "السقف الزجاجي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Glasdächer"
+ },
+ {
+  "de": "Glasfaser",
+  "ar": "الألياف الضوئية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Glasfaserausbau",
+  "ar": "مد شبكة الألياف",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Glasscheibe",
+  "ar": "لوح الزجاج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Glasscheiben"
+ },
+ {
+  "de": "Glasur",
+  "ar": "التزجيج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Glasuren"
+ },
+ {
+  "de": "Glaswaren",
+  "ar": "الأدوات الزجاجية",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Glatze",
+  "ar": "الصلعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Glatzen"
+ },
+ {
+  "de": "Glaubenssatz",
+  "ar": "المعتقد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Glaubenssätze"
+ },
+ {
+  "de": "Gleichberechtigung",
+  "ar": "المساواة في الحقوق",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gleichgesinnte",
+  "ar": "المشابه في التفكير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gleichgesinnten"
+ },
+ {
+  "de": "Gleichmut",
+  "ar": "رباطة الجأش",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Gleichsetzung",
+  "ar": "المساواة بين حاجتين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gleichsetzungen"
+ },
+ {
+  "de": "Gleichstellungsbeauftragte",
+  "ar": "مفوضة المساواة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gleichstellungsbeauftragten"
+ },
+ {
+  "de": "Gleitschirm",
+  "ar": "الباراشوت الشراعي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gleitschirme"
+ },
+ {
+  "de": "Gleitzeit",
+  "ar": "الدوام المرن",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Glyphosat",
+  "ar": "الجليفوسات",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Glättegefahr",
+  "ar": "خطر الجليد على الطريق",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Glöckchen",
+  "ar": "الجرص الصغير",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Glöckchen"
+ },
+ {
+  "de": "Glücksfall",
+  "ar": "ضربة الحظ",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Glücksfälle"
+ },
+ {
+  "de": "Glücksritter",
+  "ar": "المغامر الطامع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Glücksritter"
+ },
+ {
+  "de": "Glücksspiel",
+  "ar": "القمار",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Glücksspiele"
+ },
+ {
+  "de": "Gnadenhof",
+  "ar": "مأوى الحيوانات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gnadenhöfe"
+ },
+ {
+  "de": "Goalgetter",
+  "ar": "الهداف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Goalgetter"
+ },
+ {
+  "de": "Goalie",
+  "ar": "الحارس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Goalies"
+ },
+ {
+  "de": "Goldhochzeit",
+  "ar": "اليوبيل الذهبي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Goldhochzeiten"
+ },
+ {
+  "de": "Goldmünze",
+  "ar": "العملة الذهبية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Goldmünzen"
+ },
+ {
+  "de": "Goldpreis",
+  "ar": "سعر الدهب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Goldpreise"
+ },
+ {
+  "de": "Goldrausch",
+  "ar": "حمى الدهب",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Goldschatz",
+  "ar": "كنز الدهب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Goldschätze"
+ },
+ {
+  "de": "Goldschmied",
+  "ar": "الصايغ",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Goldschmiede"
+ },
+ {
+  "de": "Goldstandard",
+  "ar": "المعيار الذهبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Goldstandards"
+ },
+ {
+  "de": "Golfplatz",
+  "ar": "ملعب الجولف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Golfplätze"
+ },
+ {
+  "de": "Gonorrhöe",
+  "ar": "السيلان",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Governance",
+  "ar": "الحوكمة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Grafikdesign",
+  "ar": "تصميم الجرافيك",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Grafikdesignerin",
+  "ar": "مصممة الجرافيك",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grafikdesignerinnen"
+ },
+ {
+  "de": "Granate",
+  "ar": "القنبلة اليدوية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Granaten"
+ },
+ {
+  "de": "Granit",
+  "ar": "الجرانيت",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Granite"
+ },
+ {
+  "de": "Graphit",
+  "ar": "الجرافيت",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Gratwanderung",
+  "ar": "المشي على حرف السكينة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gratwanderungen"
+ },
+ {
+  "de": "Grauzone",
+  "ar": "المنطقة الرمادية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grauzonen"
+ },
+ {
+  "de": "Greifvogel",
+  "ar": "الطائر الجارح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Greifvögel"
+ },
+ {
+  "de": "Grenzbereich",
+  "ar": "منطقة الحدود",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Grenzbereiche"
+ },
+ {
+  "de": "Grenzschließung",
+  "ar": "قفل الحدود",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grenzschließungen"
+ },
+ {
+  "de": "Grenzschutz",
+  "ar": "حرس الحدود",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Grenzsicherung",
+  "ar": "تأمين الحدود",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grenzsicherungen"
+ },
+ {
+  "de": "Grenzstadt",
+  "ar": "مدينة الحدود",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grenzstädte"
+ },
+ {
+  "de": "Grenzübergangsstelle",
+  "ar": "معبر الحدود",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grenzübergangsstellen"
+ }
+]
