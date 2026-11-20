@@ -18,10 +18,11 @@ export default function Leaderboard() {
         <h1 className="ar-title text-4xl font-bold"><T ar="المتصدرين" en="Leaderboard" /></h1>
         <p className="mt-2 text-muted"><T ar="الترتيب العالمي لكل اللي عاملين حساب. سجّل حساب عشان اسمك يظهر وتقدمك يتحفظ." en="The global ranking of everyone with an account. Create an account so your name shows up and your progress is saved." /></p>
       </div>
-      <section className="grid gap-4 rounded-2xl border border-line bg-card p-5 sm:grid-cols-3">
-        <Stat l={t('المستوى', 'Level')} v={<span className="num text-3xl font-bold">{level(s.xp)}</span>} />
-        <Stat l="XP" v={<span className="num text-3xl font-bold">{s.xp}</span>} />
-        <Stat l={t('أطول سلسلة أيام', 'Best streak')} v={<span className="num inline-flex items-center gap-1 text-3xl font-bold"><Flame className="h-7 w-7 text-accent" />{s.best}</span>} />
+      <section aria-label={t('إحصائياتك', 'Your stats')} className="flex flex-wrap items-center gap-x-6 gap-y-2 rounded-2xl border border-line bg-card px-4 py-3">
+        <span className="ar-title text-sm font-bold text-muted"><T ar="إحصائياتك" en="Your stats" /></span>
+        <span className="num flex items-center gap-1.5 text-sm"><span className="text-xs text-muted"><T ar="المستوى" en="Level" /></span><b>{level(s.xp)}</b></span>
+        <span className="num flex items-center gap-1.5 text-sm"><span className="text-xs text-muted">XP</span><b>{s.xp}</b></span>
+        <span className="num flex items-center gap-1.5 text-sm"><span className="text-xs text-muted"><T ar="أطول سلسلة" en="Best streak" /></span><b className="inline-flex items-center gap-1"><Flame className="h-4 w-4 text-accent" />{s.best}</b></span>
       </section>
       <section className="rounded-2xl border border-line bg-card p-5">
         <h2 className="ar-title text-2xl font-bold"><T ar="أعلى XP" en="Top XP" /></h2>
@@ -48,10 +49,6 @@ export default function Leaderboard() {
     </div>
   );
 }
-function Stat({ l, v }: { l: string; v: React.ReactNode }) {
-  return <div><p className="mb-1 text-xs text-muted">{l}</p>{v}</div>;
-}
-
 function LeaderAvatar({ src }: { src?: string | null }) {
   const [failed, setFailed] = useState(false);
   return <span data-avatar={src && !failed ? 'photo' : 'default'} className="flex h-10 w-10 shrink-0 items-center justify-center overflow-hidden rounded-full border border-line bg-paper text-muted">{src && !failed ? <img src={src} alt="" width={40} height={40} className="h-full w-full object-cover" onError={() => setFailed(true)} /> : <svg aria-hidden="true" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.7" className="h-5 w-5"><circle cx="12" cy="8" r="3.5" /><path d="M5 21v-2a7 7 0 0 1 14 0v2" /></svg>}</span>;
