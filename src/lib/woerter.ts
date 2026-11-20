@@ -9,6 +9,7 @@ export type Wort = {
   cat: string;
   pluralOnly: boolean;
   src: string;
+  pos?: 'noun' | 'verb' | 'adj' | 'adv' | 'part';
 };
 
 export const woerter = data as Wort[];

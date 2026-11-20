@@ -3,7 +3,7 @@
 // (CC BY-SA 4.0, extracted from the German Wiktionary). Repo vocabulary (data/vocab.json) keeps
 // its own in-house articles/plurals; the CSV is the referee and covers the extra nouns authored
 // in data/woerter-extra.json. data/woerter-overrides.json fixes known source gaps by hand.
-import { readFileSync, writeFileSync, mkdirSync } from 'node:fs';
+import { readFileSync, writeFileSync, mkdirSync, readdirSync } from 'node:fs';
 
 const csvPath = process.env.NOUNS_CSV || '/tmp/nouns.csv';
 const ART = { m: 'der', f: 'die', n: 'das' };
@@ -45,9 +45,10 @@ const vocab = JSON.parse(readFileSync('data/vocab.json', 'utf8'));
 const out = [];
 const seen = new Set();
 const issues = [];
-const addWord = (de, ar, cat, src, fallback) => {
+const addWord = (de, ar, cat, src, fallback, pos = 'noun') => {
   if (seen.has(de)) return;
   seen.add(de);
+  if (pos !== 'noun') { out.push({ de, art: null, pl: '', gen: '', ar, cat, pluralOnly: false, src, pos }); return; }
   const c = byLemma.get(de);
   const o = overrides[de] || {};
   const genus = o.genus || c?.genus || '';
@@ -55,11 +56,17 @@ const addWord = (de, ar, cat, src, fallback) => {
   const pl = o.pl !== undefined ? o.pl : (c?.pl || fallback?.pl || '');
   const pluralOnly = !!o.pluralOnly || (!art && !!pl);
   if (!pluralOnly && !art) { issues.push('NO ARTICLE: ' + de); return; }
-  out.push({ de, art: pluralOnly ? null : art, pl: pluralOnly ? '' : pl, gen: o.gen || c?.gen || '', ar, cat, pluralOnly, src });
+  out.push({ de, art: pluralOnly ? null : art, pl: pluralOnly ? '' : pl, gen: o.gen || c?.gen || '', ar, cat, pluralOnly, src, pos });
 };
 
 for (const w of vocab.words) addWord(w.de, w.ar, w.topic, 'vocab', { art: w.art, pl: w.plural });
 for (const w of extra) addWord(w.de, w.ar, w.cat, 'extra');
+// frequency-ranked expansion batches: data/woerter-freq<N>.json, entries { de, ar, pos, cat? }
+// selection source: Hermit Dave FrequencyWords de_50k (CC BY-SA 4.0, OpenSubtitles2018); meanings authored in-house
+const freqFiles = readdirSync('data').filter((f) => /^woerter-freq\d+\.json$/.test(f)).sort();
+for (const f of freqFiles) {
+  for (const w of JSON.parse(readFileSync('data/' + f, 'utf8'))) addWord(w.de, w.ar, w.cat || 'freq', f.replace('.json', ''), undefined, w.pos || 'noun');
+}
 
 out.sort((a, b) => a.de.localeCompare(b.de, 'de'));
 mkdirSync('src/lib/generated', { recursive: true });
