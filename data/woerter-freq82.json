@@ -1,0 +1,567 @@
+[
+ {
+  "de": "Halstuch",
+  "ar": "الوشاح",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Halstücher"
+ },
+ {
+  "de": "Haltbarkeit",
+  "ar": "الصلاحية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Halteverbot",
+  "ar": "حظر الوقوف",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Halteverbote"
+ },
+ {
+  "de": "Handabdruck",
+  "ar": "بصمة الإيد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Handabdrücke"
+ },
+ {
+  "de": "Handarbeit",
+  "ar": "الشغل اليدوي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Handarbeiten"
+ },
+ {
+  "de": "Handelfmeter",
+  "ar": "ضربة الجزاء (يد)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Handelfmeter"
+ },
+ {
+  "de": "Handelsbilanz",
+  "ar": "الميزان التجاري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Handelsbilanzen"
+ },
+ {
+  "de": "Handelsgericht",
+  "ar": "المحكمة التجارية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Handelsgerichte"
+ },
+ {
+  "de": "Handelskette",
+  "ar": "سلسلة المحلات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Handelsketten"
+ },
+ {
+  "de": "Handelsname",
+  "ar": "الاسم التجاري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Handelsnamen"
+ },
+ {
+  "de": "Handelspartner",
+  "ar": "الشريك التجاري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Handelspartner"
+ },
+ {
+  "de": "Handelsplatz",
+  "ar": "مركز التداول",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Handelsplätze"
+ },
+ {
+  "de": "Handelsregister",
+  "ar": "السجل التجاري",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Handelsregister"
+ },
+ {
+  "de": "Handelsroute",
+  "ar": "طريق التجارة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Handelsrouten"
+ },
+ {
+  "de": "Handelsschiff",
+  "ar": "السفينة التجارية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Handelsschiffe"
+ },
+ {
+  "de": "Handelstag",
+  "ar": "يوم التداول",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Handelstage"
+ },
+ {
+  "de": "Handfläche",
+  "ar": "كف الإيد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Handflächen"
+ },
+ {
+  "de": "Handgelenk",
+  "ar": "الرسغ",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Handgelenke"
+ },
+ {
+  "de": "Handgriff",
+  "ar": "المقبض",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Handgriffe"
+ },
+ {
+  "de": "Handhabung",
+  "ar": "طريقة التعامل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Handicap",
+  "ar": "الهانديكاب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Handicaps"
+ },
+ {
+  "de": "Handlungsempfehlung",
+  "ar": "توصية التصرف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Handlungsempfehlungen"
+ },
+ {
+  "de": "Handschrift",
+  "ar": "خط الإيد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Handschriften"
+ },
+ {
+  "de": "Handspiel",
+  "ar": "لمسة اليد",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Handspiele"
+ },
+ {
+  "de": "Handwerksbetrieb",
+  "ar": "ورشة الصنايعية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Handwerksbetriebe"
+ },
+ {
+  "de": "Handyempfang",
+  "ar": "شبكة الموبايل",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Handynummer",
+  "ar": "رقم الموبايل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Handynummern"
+ },
+ {
+  "de": "Handyvertrag",
+  "ar": "عقد الموبايل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Handyverträge"
+ },
+ {
+  "de": "Harmonie",
+  "ar": "الانسجام",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Harmonien"
+ },
+ {
+  "de": "Harnblase",
+  "ar": "المثانة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Harnblasen"
+ },
+ {
+  "de": "Hauptangeklagte",
+  "ar": "المتهم الرئيسي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hauptangeklagten"
+ },
+ {
+  "de": "Hauptargument",
+  "ar": "الحجة الرئيسية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hauptargumente"
+ },
+ {
+  "de": "Hauptaufgabe",
+  "ar": "المهمة الرئيسية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hauptaufgaben"
+ },
+ {
+  "de": "Hauptausschuss",
+  "ar": "اللجنة الرئيسية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hauptausschüsse"
+ },
+ {
+  "de": "Hauptcharakter",
+  "ar": "الشخصية الرئيسية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hauptcharaktere"
+ },
+ {
+  "de": "Hauptfach",
+  "ar": "التخصص الرئيسي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hauptfächer"
+ },
+ {
+  "de": "Hauptfokus",
+  "ar": "التركيز الرئيسي",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Hauptgewinn",
+  "ar": "الجايزة الكبرى",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hauptgewinne"
+ },
+ {
+  "de": "Hauptmieter",
+  "ar": "المستأجر الرئيسي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hauptmieter"
+ },
+ {
+  "de": "Hauptproblem",
+  "ar": "المشكلة الرئيسية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hauptprobleme"
+ },
+ {
+  "de": "Hauptschule",
+  "ar": "المدرسة الأساسية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hauptschulen"
+ },
+ {
+  "de": "Hauptspeise",
+  "ar": "الطبق الرئيسي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hauptspeisen"
+ },
+ {
+  "de": "Haupttreiber",
+  "ar": "المحرك الرئيسي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Haupttreiber"
+ },
+ {
+  "de": "Haupttribüne",
+  "ar": "المدرج الرئيسي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Haupttribünen"
+ },
+ {
+  "de": "Hausarbeit",
+  "ar": "البحث الجامعي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hausarbeiten"
+ },
+ {
+  "de": "Hausarrest",
+  "ar": "الإقامة الجبرية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Hausfrau",
+  "ar": "ربة البيت",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hausfrauen"
+ },
+ {
+  "de": "Haushaltsgeräte",
+  "ar": "أجهزة البيت",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Haushaltsjahr",
+  "ar": "سنة الميزانية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Haushaltsjahre"
+ },
+ {
+  "de": "Haushaltsloch",
+  "ar": "عجز الميزانية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Haushaltslöcher"
+ },
+ {
+  "de": "Haushaltsposten",
+  "ar": "بند الميزانية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Haushaltsposten"
+ },
+ {
+  "de": "Haushaltsüberschuss",
+  "ar": "فائض الميزانية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Haushaltsüberschüsse"
+ },
+ {
+  "de": "Hausherr",
+  "ar": "صاحب البيت",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hausherren"
+ },
+ {
+  "de": "Haushälterin",
+  "ar": "مدبرة البيت",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Haushälterinnen"
+ },
+ {
+  "de": "Hauskäufer",
+  "ar": "شاري البيت",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hauskäufer"
+ },
+ {
+  "de": "Hausmüll",
+  "ar": "زبالة البيت",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Hausrat",
+  "ar": "أثاث البيت",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Hausregeln",
+  "ar": "قواعد البيت",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Haussanierung",
+  "ar": "ترميم البيت",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Haussanierungen"
+ },
+ {
+  "de": "Haustierbesitzer",
+  "ar": "صاحب الحيوان الأليف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Haustierbesitzer"
+ },
+ {
+  "de": "Hausverbot",
+  "ar": "المنع من الدخول",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hausverbote"
+ },
+ {
+  "de": "Hausverstand",
+  "ar": "العقل السليم",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Havarie",
+  "ar": "العطل الكبير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Havarien"
+ },
+ {
+  "de": "Headset",
+  "ar": "السماعة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Headsets"
+ },
+ {
+  "de": "Hebräisch",
+  "ar": "العبرية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Hedonismus",
+  "ar": "المتعية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Hefeteig",
+  "ar": "عجينة الخميرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hefeteige"
+ },
+ {
+  "de": "Heidengeld",
+  "ar": "فلوس كتير جدا",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Heilbad",
+  "ar": "المنتجع الصحي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Heilbäder"
+ },
+ {
+  "de": "Heilkräuter",
+  "ar": "الأعشاب الطبية",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Heilpraktiker",
+  "ar": "المعالج الطبيعي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Heilpraktiker"
+ },
+ {
+  "de": "Heilungsprozess",
+  "ar": "عملية الشفاء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Heilungsprozesse"
+ },
+ {
+  "de": "Heimatort",
+  "ar": "مسقط الراس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Heimatorte"
+ },
+ {
+  "de": "Heimflug",
+  "ar": "رحلة العودة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Heimflüge"
+ },
+ {
+  "de": "Heimkehrer",
+  "ar": "العائد لبلده",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Heimkehrer"
+ },
+ {
+  "de": "Heimkino",
+  "ar": "السينما المنزلية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Heimkinos"
+ },
+ {
+  "de": "Heimmannschaft",
+  "ar": "فريق الأرض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Heimmannschaften"
+ },
+ {
+  "de": "Heiratsantrag",
+  "ar": "عرض الجواز",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Heiratsanträge"
+ },
+ {
+  "de": "Heizkosten",
+  "ar": "مصاريف التدفئة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Heizkostenzuschuss",
+  "ar": "إعانة التدفئة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Heizkostenzuschüsse"
+ },
+ {
+  "de": "Heizkörper",
+  "ar": "الدفاية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Heizkörper"
+ },
+ {
+  "de": "Heißluft",
+  "ar": "الهوا السخن",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Heldentat",
+  "ar": "العمل البطولي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Heldentaten"
+ }
+]
