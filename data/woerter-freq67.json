@@ -1,0 +1,470 @@
+[
+ {
+  "de": "DNA-Probe",
+  "ar": "عينة DNA",
+  "pos": "noun",
+  "art": "die",
+  "pl": "DNA-Proben"
+ },
+ {
+  "de": "DSGVO",
+  "ar": "قانون حماية البيانات الأوروبي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "DVD",
+  "ar": "الدي في دي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "DVDs"
+ },
+ {
+  "de": "Dachkonstruktion",
+  "ar": "هيكل السقف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dachkonstruktionen"
+ },
+ {
+  "de": "Dachverband",
+  "ar": "الاتحاد الجامع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dachverbände"
+ },
+ {
+  "de": "Daily-Soap",
+  "ar": "المسلسل اليومي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Daily-Soaps"
+ },
+ {
+  "de": "Damenmannschaft",
+  "ar": "فريق السيدات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Damenmannschaften"
+ },
+ {
+  "de": "Damentoilette",
+  "ar": "حمام السيدات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Damentoiletten"
+ },
+ {
+  "de": "Damoklesschwert",
+  "ar": "سيف ديموقليس",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Damoklesschwerter"
+ },
+ {
+  "de": "Dampfschiff",
+  "ar": "باخرة البخار",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Dampfschiffe"
+ },
+ {
+  "de": "Dankesrede",
+  "ar": "خطاب الشكر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dankesreden"
+ },
+ {
+  "de": "Darsteller",
+  "ar": "الممثل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Darsteller"
+ },
+ {
+  "de": "Darstellungsform",
+  "ar": "شكل العرض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Darstellungsformen"
+ },
+ {
+  "de": "Darts",
+  "ar": "لعبة السهام",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Dartspieler",
+  "ar": "لاعب السهام",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dartspieler"
+ },
+ {
+  "de": "Dartsturnier",
+  "ar": "بطولة السهام",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Dartsturniere"
+ },
+ {
+  "de": "Dasein",
+  "ar": "الوجود",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Daseinsvorsorge",
+  "ar": "الخدمات الأساسية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Dashcam",
+  "ar": "كاميرا العربية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dashcams"
+ },
+ {
+  "de": "Dateigröße",
+  "ar": "حجم الملف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dateigrößen"
+ },
+ {
+  "de": "Datenaustausch",
+  "ar": "تبادل البيانات",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Datenauswertung",
+  "ar": "تحليل البيانات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Datenauswertungen"
+ },
+ {
+  "de": "Datenblatt",
+  "ar": "ورقة البيانات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Datenblätter"
+ },
+ {
+  "de": "Datenbrille",
+  "ar": "نضارة البيانات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Datenbrillen"
+ },
+ {
+  "de": "Datenerfassung",
+  "ar": "جمع البيانات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Datenformat",
+  "ar": "صيغة البيانات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Datenformate"
+ },
+ {
+  "de": "Datenkrake",
+  "ar": "أخطبوط البيانات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Datenkraken"
+ },
+ {
+  "de": "Datenleck",
+  "ar": "تسريب البيانات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Datenlecks"
+ },
+ {
+  "de": "Datenmenge",
+  "ar": "كمية البيانات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Datenmengen"
+ },
+ {
+  "de": "Datennutzung",
+  "ar": "استخدام البيانات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Datenpanne",
+  "ar": "ثغرة البيانات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Datenpannen"
+ },
+ {
+  "de": "Datenquelle",
+  "ar": "مصدر البيانات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Datenquellen"
+ },
+ {
+  "de": "Datenschutzerklärung",
+  "ar": "سياسة الخصوصية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Datenschutzerklärungen"
+ },
+ {
+  "de": "Datenschutzgrundverordnung",
+  "ar": "قانون حماية البيانات الأوروبي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Datensatz",
+  "ar": "مجموعة البيانات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Datensätze"
+ },
+ {
+  "de": "Datenträger",
+  "ar": "وسيط التخزين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Datenträger"
+ },
+ {
+  "de": "Datenverarbeitung",
+  "ar": "معالجة البيانات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Datenverschlüsselung",
+  "ar": "تشفير البيانات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Datenvolumen",
+  "ar": "حجم البيانات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Datenvolumen"
+ },
+ {
+  "de": "Dating-App",
+  "ar": "تطبيق المواعدة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dating-Apps"
+ },
+ {
+  "de": "Datingshow",
+  "ar": "برنامج المواعدة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Datingshows"
+ },
+ {
+  "de": "Dauergast",
+  "ar": "الضيف الدائم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dauergäste"
+ },
+ {
+  "de": "Dauerschleife",
+  "ar": "التكرار المستمر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dauerschleifen"
+ },
+ {
+  "de": "Dauerstress",
+  "ar": "الضغط المستمر",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Dauerwelle",
+  "ar": "بيرماننت الشعر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dauerwellen"
+ },
+ {
+  "de": "Davidstern",
+  "ar": "نجمة داود",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Davidsterne"
+ },
+ {
+  "de": "Dealmaker",
+  "ar": "صانع الصفقات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dealmaker"
+ },
+ {
+  "de": "Debütalbum",
+  "ar": "الألبوم الأول",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Debütalben"
+ },
+ {
+  "de": "Debütroman",
+  "ar": "الرواية الأولى",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Debütromane"
+ },
+ {
+  "de": "Deckelung",
+  "ar": "السقف (تحديد)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Deckelungen"
+ },
+ {
+  "de": "Deckenventilator",
+  "ar": "مروحة السقف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Deckenventilatoren"
+ },
+ {
+  "de": "Deepfake",
+  "ar": "التزييف العميق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Deepfakes"
+ },
+ {
+  "de": "Defensivarbeit",
+  "ar": "الشغل الدفاعي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Deflation",
+  "ar": "الانكماش الاقتصادي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Degradierung",
+  "ar": "التخفيض (رتبة)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Degradierungen"
+ },
+ {
+  "de": "Dehydrierung",
+  "ar": "الجفاف (طبي)",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Deich",
+  "ar": "السد (بحر)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Deiche"
+ },
+ {
+  "de": "Deichbruch",
+  "ar": "انهيار السد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Deichbrüche"
+ },
+ {
+  "de": "Dekoration",
+  "ar": "الديكور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dekorationen"
+ },
+ {
+  "de": "Delegierte",
+  "ar": "المندوب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Delegierten"
+ },
+ {
+  "de": "Delir",
+  "ar": "الهذيان",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Delire"
+ },
+ {
+  "de": "Delle",
+  "ar": "النقرة (في الحديد)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dellen"
+ },
+ {
+  "de": "Delphin",
+  "ar": "الدولفين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Delphine"
+ },
+ {
+  "de": "Demenzforschung",
+  "ar": "أبحاث الخرف",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Demenzkranke",
+  "ar": "مريض الخرف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Demenzkranken"
+ },
+ {
+  "de": "Demokratiefeind",
+  "ar": "عدو الديمقراطية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Demokratiefeinde"
+ },
+ {
+  "de": "Demokratin",
+  "ar": "الديمقراطية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Demokratinnen"
+ },
+ {
+  "de": "Demonstrantin",
+  "ar": "المتظاهرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Demonstrantinnen"
+ },
+ {
+  "de": "Demonstrationsverbot",
+  "ar": "حظر المظاهرات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Demonstrationsverbote"
+ }
+]
