@@ -1,0 +1,645 @@
+[
+ {
+  "de": "Alt-Partei",
+  "ar": "الحزب القديم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Alt-Parteien"
+ },
+ {
+  "de": "Altar",
+  "ar": "المذبح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Altäre"
+ },
+ {
+  "de": "Altarbild",
+  "ar": "لوحة المذبح",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Altarbilder"
+ },
+ {
+  "de": "Altbischof",
+  "ar": "الأسقف السابق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Altbischöfe"
+ },
+ {
+  "de": "Altcoin",
+  "ar": "العملة البديلة (كريبتو)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Altcoins"
+ },
+ {
+  "de": "Alteingesessene",
+  "ar": "المقيم القديم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Alteingesessenen"
+ },
+ {
+  "de": "Alten-WG",
+  "ar": "سكن مشترك للمسنين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Alten-WGs"
+ },
+ {
+  "de": "Altenheim",
+  "ar": "دار المسنين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Altenheime"
+ },
+ {
+  "de": "Altenpflege",
+  "ar": "رعاية المسنين",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Altenpflegeheim",
+  "ar": "دار رعاية المسنين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Altenpflegeheime"
+ },
+ {
+  "de": "Altenwohnheim",
+  "ar": "دار إقامة المسنين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Altenwohnheime"
+ },
+ {
+  "de": "Alternativroute",
+  "ar": "الطريق البديل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Alternativrouten"
+ },
+ {
+  "de": "Alternativtitel",
+  "ar": "العنوان البديل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Alternativtitel"
+ },
+ {
+  "de": "Altersarmut",
+  "ar": "فقر الشيخوخة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Altersbeschränkung",
+  "ar": "حد السن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Altersbeschränkungen"
+ },
+ {
+  "de": "Altersempfehlung",
+  "ar": "توصية السن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Altersempfehlungen"
+ },
+ {
+  "de": "Altersfleck",
+  "ar": "بقعة الشيخوخة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Altersflecken"
+ },
+ {
+  "de": "Altersfreigabe",
+  "ar": "تصنيف السن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Altersfreigaben"
+ },
+ {
+  "de": "Altersgrenze",
+  "ar": "حد السن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Altersgrenzen"
+ },
+ {
+  "de": "Altersgruppe",
+  "ar": "الفئة العمرية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Altersgruppen"
+ },
+ {
+  "de": "Altersheim",
+  "ar": "دار المسنين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Altersheime"
+ },
+ {
+  "de": "Altersklasse",
+  "ar": "الفئة العمرية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Altersklassen"
+ },
+ {
+  "de": "Alterskohorte",
+  "ar": "الجيل العمري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Alterskohorten"
+ },
+ {
+  "de": "Alterskontrolle",
+  "ar": "التحقق من السن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Alterskontrollen"
+ },
+ {
+  "de": "Alterspräsident",
+  "ar": "أكبر الأعضاء سنا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Alterspräsidenten"
+ },
+ {
+  "de": "Altersstruktur",
+  "ar": "التركيبة العمرية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Altersstrukturen"
+ },
+ {
+  "de": "Altersvorsorge",
+  "ar": "التأمين التقاعدي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Altgediente",
+  "ar": "القديم في الخدمة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Altgedienten"
+ },
+ {
+  "de": "Altkanzler",
+  "ar": "المستشار السابق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Altkanzler"
+ },
+ {
+  "de": "Altkleider",
+  "ar": "الهدوم المستعملة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Altmeister",
+  "ar": "المعلم القدير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Altmeister"
+ },
+ {
+  "de": "Altpapier",
+  "ar": "الورق المستعمل",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Altstadtfest",
+  "ar": "مهرجان البلدة القديمة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Altstadtfeste"
+ },
+ {
+  "de": "Altstadtmarkt",
+  "ar": "سوق البلدة القديمة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Altstadtmärkte"
+ },
+ {
+  "de": "Alufolie",
+  "ar": "ورق الألومونيوم",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Aluminium",
+  "ar": "الألومونيوم",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Alzheimer-Therapie",
+  "ar": "علاج ألزهايمر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Alzheimer-Therapien"
+ },
+ {
+  "de": "Amalgamfüllung",
+  "ar": "حشوة الملغم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Amalgamfüllungen"
+ },
+ {
+  "de": "Amateurbereich",
+  "ar": "مجال الهواة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Amateurbereiche"
+ },
+ {
+  "de": "Amateurfunker",
+  "ar": "هاوي اللاسلكي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Amateurfunker"
+ },
+ {
+  "de": "Amazonas",
+  "ar": "الأمازون",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Amazonasregion",
+  "ar": "منطقة الأمازون",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Amazonasregionen"
+ },
+ {
+  "de": "Ambiguität",
+  "ar": "الغموض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ambiguitäten"
+ },
+ {
+  "de": "Ambulanz",
+  "ar": "العيادة الخارجية / الإسعاف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ambulanzen"
+ },
+ {
+  "de": "Ameisensäure",
+  "ar": "حمض النمل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Ami",
+  "ar": "الأمريكاني (عامية)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Amis"
+ },
+ {
+  "de": "Amnestie",
+  "ar": "العفو العام",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Amnestien"
+ },
+ {
+  "de": "Amoklauf",
+  "ar": "هجوم القتل العشوائي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Amokläufe"
+ },
+ {
+  "de": "Ampelpartei",
+  "ar": "حزب الائتلاف (الإشارة)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ampelparteien"
+ },
+ {
+  "de": "Ampelschaltung",
+  "ar": "برمجة الإشارة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ampelschaltungen"
+ },
+ {
+  "de": "Ampere",
+  "ar": "الأمبير",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ampere"
+ },
+ {
+  "de": "Amphetamin",
+  "ar": "الأمفيتامين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Amphetamine"
+ },
+ {
+  "de": "Amphibie",
+  "ar": "البرمائي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Amphibien"
+ },
+ {
+  "de": "Amplitude",
+  "ar": "السعة (موجة)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Amplituden"
+ },
+ {
+  "de": "Amtseid",
+  "ar": "اليمين الرسمي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Amtseide"
+ },
+ {
+  "de": "Amtsenthebungsverfahren",
+  "ar": "إجراءات العزل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Amtsenthebungsverfahren"
+ },
+ {
+  "de": "Amtshandlung",
+  "ar": "الإجراء الرسمي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Amtshandlungen"
+ },
+ {
+  "de": "Amtsleiter",
+  "ar": "رئيس المكتب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Amtsleiter"
+ },
+ {
+  "de": "Amtsnachfolger",
+  "ar": "الخلف في المنصب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Amtsnachfolger"
+ },
+ {
+  "de": "Amtsniederlegung",
+  "ar": "الاستقالة من المنصب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Amtsniederlegungen"
+ },
+ {
+  "de": "Amtsträger",
+  "ar": "شاغل المنصب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Amtsträger"
+ },
+ {
+  "de": "Amtsvorgänger",
+  "ar": "السلف في المنصب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Amtsvorgänger"
+ },
+ {
+  "de": "Anachronismus",
+  "ar": "المفارقة الزمنية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anachronismen"
+ },
+ {
+  "de": "Analphabet",
+  "ar": "الأمي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Analphabeten"
+ },
+ {
+  "de": "Analysetool",
+  "ar": "أداة التحليل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Analysetools"
+ },
+ {
+  "de": "Anbauverbot",
+  "ar": "حظر الزراعة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Anbauverbote"
+ },
+ {
+  "de": "Anbiederung",
+  "ar": "التملق",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Anbieterwechsel",
+  "ar": "تغيير المزود",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anbieterwechsel"
+ },
+ {
+  "de": "Andernorts",
+  "ar": "في مكان تاني",
+  "pos": "adv"
+ },
+ {
+  "de": "Andersgläubige",
+  "ar": "أصحاب الديانات التانية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Andersgläubigen"
+ },
+ {
+  "de": "Android-Smartphone",
+  "ar": "موبايل أندرويد",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Android-Smartphones"
+ },
+ {
+  "de": "Androidversion",
+  "ar": "إصدار أندرويد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Androidversionen"
+ },
+ {
+  "de": "Anerkennungsquote",
+  "ar": "نسبة الاعتراف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anerkennungsquoten"
+ },
+ {
+  "de": "Aneurysma",
+  "ar": "تمدد الشريان",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Aneurysmen"
+ },
+ {
+  "de": "Anfahrtsroute",
+  "ar": "طريق الوصول",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anfahrtsrouten"
+ },
+ {
+  "de": "Anfahrtszeit",
+  "ar": "وقت الوصول",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anfahrtszeiten"
+ },
+ {
+  "de": "Anfangsformation",
+  "ar": "التشكيل الأساسي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anfangsformationen"
+ },
+ {
+  "de": "Anfangsverdacht",
+  "ar": "الاشتباه الأولي",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Anfeindung",
+  "ar": "العداء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anfeindungen"
+ },
+ {
+  "de": "Anflug",
+  "ar": "مسحة / لمحة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anflüge"
+ },
+ {
+  "de": "Anforderungsprofil",
+  "ar": "المواصفات المطلوبة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Anforderungsprofile"
+ },
+ {
+  "de": "Anfängerin",
+  "ar": "المبتدئة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anfängerinnen"
+ },
+ {
+  "de": "Angebotspaket",
+  "ar": "باقة العرض",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Angebotspakete"
+ },
+ {
+  "de": "Angelausflug",
+  "ar": "رحلة صيد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Angelausflüge"
+ },
+ {
+  "de": "Angler",
+  "ar": "الصياد بالسنارة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Angler"
+ },
+ {
+  "de": "Angreifertruppe",
+  "ar": "قوة الهجوم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Angreifertruppen"
+ },
+ {
+  "de": "Angriffsleistung",
+  "ar": "الأداء الهجومي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Angriffsleistungen"
+ },
+ {
+  "de": "Angriffspunkt",
+  "ar": "نقطة الهجوم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Angriffspunkte"
+ },
+ {
+  "de": "Angriffsreihe",
+  "ar": "سلسلة الهجوم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Angriffsreihen"
+ },
+ {
+  "de": "Angriffsziel",
+  "ar": "هدف الهجوم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Angriffsziele"
+ },
+ {
+  "de": "Angsterkrankung",
+  "ar": "اضطراب القلق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Angsterkrankungen"
+ },
+ {
+  "de": "Angstgefühl",
+  "ar": "الشعور بالخوف",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Angstgefühle"
+ },
+ {
+  "de": "Angstlosigkeit",
+  "ar": "عدم الخوف",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Angstschweiß",
+  "ar": "عرق الخوف",
+  "pos": "noun",
+  "art": "der"
+ }
+]
