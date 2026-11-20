@@ -1,0 +1,775 @@
+[
+ {
+  "de": "Belieferung",
+  "ar": "التوريد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Belieferungen"
+ },
+ {
+  "de": "Belohnungsstufe",
+  "ar": "مستوى المكافأة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Belohnungsstufen"
+ },
+ {
+  "de": "Belohnungssystem",
+  "ar": "نظام المكافآت",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Belohnungssysteme"
+ },
+ {
+  "de": "Belüftung",
+  "ar": "التهوية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Belüftungen"
+ },
+ {
+  "de": "Benachteiligung",
+  "ar": "الظلم / التمييز",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Benachteiligungen"
+ },
+ {
+  "de": "Benediktiner",
+  "ar": "الراهب البندكتي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Benediktiner"
+ },
+ {
+  "de": "Benefizspiel",
+  "ar": "ماتش خيري",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Benefizspiele"
+ },
+ {
+  "de": "Benefizveranstaltung",
+  "ar": "فعالية خيرية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Benefizveranstaltungen"
+ },
+ {
+  "de": "Benelux-Staaten",
+  "ar": "دول البنلوكس",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Benommenheit",
+  "ar": "الدوخة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Benutzerfreundlichkeit",
+  "ar": "سهولة الاستخدام",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Benutzung",
+  "ar": "الاستخدام",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Benutzungen"
+ },
+ {
+  "de": "Beobachtungsstelle",
+  "ar": "مرصد المراقبة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beobachtungsstellen"
+ },
+ {
+  "de": "Bepflanzung",
+  "ar": "الزراعة التجميلية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bepflanzungen"
+ },
+ {
+  "de": "Beprobung",
+  "ar": "أخذ العينات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beprobungen"
+ },
+ {
+  "de": "Bequemlichkeit",
+  "ar": "الراحة / الكسل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bequemlichkeiten"
+ },
+ {
+  "de": "Beraterfirma",
+  "ar": "شركة الاستشارات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beraterfirmen"
+ },
+ {
+  "de": "Beratungsdienst",
+  "ar": "خدمة الاستشارة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Beratungsdienste"
+ },
+ {
+  "de": "Beratungseinrichtung",
+  "ar": "مؤسسة الاستشارة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beratungseinrichtungen"
+ },
+ {
+  "de": "Beratungstermin",
+  "ar": "معاد الاستشارة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Beratungstermine"
+ },
+ {
+  "de": "Berechtigte",
+  "ar": "صاحب الحق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Berechtigten"
+ },
+ {
+  "de": "Berechtigung",
+  "ar": "الصلاحية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Berechtigungen"
+ },
+ {
+  "de": "Bereitschaftsdienst",
+  "ar": "نوبة الطوارئ",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bereitschaftsdienste"
+ },
+ {
+  "de": "Bergbahn",
+  "ar": "القطار الجبلي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bergbahnen"
+ },
+ {
+  "de": "Bergbau",
+  "ar": "التعدين",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Bergbauschacht",
+  "ar": "بئر التعدين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bergbauschächte"
+ },
+ {
+  "de": "Bergdorf",
+  "ar": "قرية جبلية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bergdörfer"
+ },
+ {
+  "de": "Bergfluss",
+  "ar": "نهر جبلي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bergflüsse"
+ },
+ {
+  "de": "Berghaus",
+  "ar": "بيت الجبل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Berghäuser"
+ },
+ {
+  "de": "Bergmarathon",
+  "ar": "ماراثون الجبل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bergmarathons"
+ },
+ {
+  "de": "Bergpanorama",
+  "ar": "بانوراما الجبل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bergpanoramen"
+ },
+ {
+  "de": "Bergretter",
+  "ar": "منقذ الجبال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bergretter"
+ },
+ {
+  "de": "Bergrettungsdienst",
+  "ar": "خدمة إنقاذ الجبال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bergrettungsdienste"
+ },
+ {
+  "de": "Bergsee",
+  "ar": "بحيرة جبلية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bergseen"
+ },
+ {
+  "de": "Bergstation",
+  "ar": "محطة الجبل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bergstationen"
+ },
+ {
+  "de": "Bergsteiger",
+  "ar": "متسلق الجبال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bergsteiger"
+ },
+ {
+  "de": "Bergstraße",
+  "ar": "طريق الجبل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bergstraßen"
+ },
+ {
+  "de": "Bergtour",
+  "ar": "جولة الجبل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bergtouren"
+ },
+ {
+  "de": "Bergungsunternehmen",
+  "ar": "شركة الإنقاذ",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bergungsunternehmen"
+ },
+ {
+  "de": "Bergwacht",
+  "ar": "حراسة الجبل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bergwachten"
+ },
+ {
+  "de": "Bergwelt",
+  "ar": "عالم الجبال",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bergwelten"
+ },
+ {
+  "de": "Bergwerk",
+  "ar": "المنجم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bergwerke"
+ },
+ {
+  "de": "Bernstein",
+  "ar": "الكهرمان",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bernsteine"
+ },
+ {
+  "de": "Berufsalltag",
+  "ar": "حياة الشغل اليومية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Berufsausbildung",
+  "ar": "التدريب المهني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Berufsausbildungen"
+ },
+ {
+  "de": "Berufsschullehrer",
+  "ar": "مدرس المدارس المهنية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Berufsschullehrer"
+ },
+ {
+  "de": "Berufseinstieg",
+  "ar": "بداية الحياة المهنية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Berufseinstiege"
+ },
+ {
+  "de": "Berufserfahrung",
+  "ar": "خبرة الشغل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Berufserfahrungen"
+ },
+ {
+  "de": "Berufsfachschule",
+  "ar": "المدرسة الفنية المهنية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Berufsfachschulen"
+ },
+ {
+  "de": "Berufsgruppe",
+  "ar": "فئة مهنية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Berufsgruppen"
+ },
+ {
+  "de": "Berufskleidung",
+  "ar": "ملابس الشغل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Berufsoffizier",
+  "ar": "الظابط المحترف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Berufsoffiziere"
+ },
+ {
+  "de": "Berufspendler",
+  "ar": "المسافر اليومي للشغل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Berufspendler"
+ },
+ {
+  "de": "Berufspflichten",
+  "ar": "واجبات المهنة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Berufstitel",
+  "ar": "اللقب المهني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Berufstitel"
+ },
+ {
+  "de": "Berufstätige",
+  "ar": "الشغال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Berufstätigen"
+ },
+ {
+  "de": "Berufstätigkeit",
+  "ar": "النشاط المهني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Berufstätigkeiten"
+ },
+ {
+  "de": "Berufsunfähigkeit",
+  "ar": "عدم القدرة على العمل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Berufsverband",
+  "ar": "النقابة المهنية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Berufsverbände"
+ },
+ {
+  "de": "Berufsverkehr",
+  "ar": "زحمة المواصلات وقت الشغل",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Berufsweg",
+  "ar": "المسار المهني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Berufswege"
+ },
+ {
+  "de": "Berufungsgericht",
+  "ar": "محكمة الاستئناف",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Berufungsgerichte"
+ },
+ {
+  "de": "Berühmtheit",
+  "ar": "الشهرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Berühmtheiten"
+ },
+ {
+  "de": "Berührungspunkt",
+  "ar": "نقطة التلامس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Berührungspunkte"
+ },
+ {
+  "de": "Berührungssteuerung",
+  "ar": "التحكم باللمس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Berührungssteuerungen"
+ },
+ {
+  "de": "Besatzungsmitglied",
+  "ar": "عضو الطاقم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Besatzungsmitglieder"
+ },
+ {
+  "de": "Besatzungszeit",
+  "ar": "فترة الاحتلال",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Besatzungszeiten"
+ },
+ {
+  "de": "Beschaffungsprozess",
+  "ar": "عملية الشراء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Beschaffungsprozesse"
+ },
+ {
+  "de": "Beschaffungsstrategie",
+  "ar": "استراتيجية الشراء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beschaffungsstrategien"
+ },
+ {
+  "de": "Beschattung",
+  "ar": "التظليل / المراقبة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beschattungen"
+ },
+ {
+  "de": "Beschichtung",
+  "ar": "الطلاء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beschichtungen"
+ },
+ {
+  "de": "Beschicker",
+  "ar": "العارض (معرض)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Beschicker"
+ },
+ {
+  "de": "Beschilderung",
+  "ar": "اللافتات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beschilderungen"
+ },
+ {
+  "de": "Beschleunigungsspur",
+  "ar": "حارة التسارع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beschleunigungsspuren"
+ },
+ {
+  "de": "Beschlussempfehlung",
+  "ar": "توصية القرار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beschlussempfehlungen"
+ },
+ {
+  "de": "Beschlussentwurf",
+  "ar": "مسودة القرار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Beschlussentwürfe"
+ },
+ {
+  "de": "Beschmierung",
+  "ar": "التخريب بالكتابة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beschmierungen"
+ },
+ {
+  "de": "Beschneidung",
+  "ar": "الختان / التقليم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beschneidungen"
+ },
+ {
+  "de": "Beschneiung",
+  "ar": "التثليج الصناعي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beschneiungen"
+ },
+ {
+  "de": "Beschwichtigungspolitik",
+  "ar": "سياسة التهدئة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Beschäftigtenzahl",
+  "ar": "عدد الموظفين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beschäftigtenzahlen"
+ },
+ {
+  "de": "Beschäftigungslage",
+  "ar": "وضع التوظيف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beschäftigungslagen"
+ },
+ {
+  "de": "Beschäftigungsverhältnis",
+  "ar": "علاقة العمل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Beschäftigungsverhältnisse"
+ },
+ {
+  "de": "Besitzanspruch",
+  "ar": "ادعاء الملكية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Besitzansprüche"
+ },
+ {
+  "de": "Besoldung",
+  "ar": "مرتب الموظف الحكومي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Besoldungen"
+ },
+ {
+  "de": "Bespannung",
+  "ar": "الشد (مضرب)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bespannungen"
+ },
+ {
+  "de": "Besprechungsraum",
+  "ar": "أوضة الاجتماعات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Besprechungsräume"
+ },
+ {
+  "de": "Best-Practice-Beispiel",
+  "ar": "مثال أفضل ممارسة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Best-Practice-Beispiele"
+ },
+ {
+  "de": "Bestandsanalyse",
+  "ar": "تحليل المخزون",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bestandsanalysen"
+ },
+ {
+  "de": "Bestandsgebäude",
+  "ar": "المبنى القائم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bestandsgebäude"
+ },
+ {
+  "de": "Bestatter",
+  "ar": "عامل الجنازة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bestatter"
+ },
+ {
+  "de": "Bestatterin",
+  "ar": "عاملة الجنازة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bestatterinnen"
+ },
+ {
+  "de": "Bestattung",
+  "ar": "الدفن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bestattungen"
+ },
+ {
+  "de": "Bestattungswald",
+  "ar": "غابة الدفن",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bestattungswälder"
+ },
+ {
+  "de": "Bestenliste",
+  "ar": "قايمة الأفضل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bestenlisten"
+ },
+ {
+  "de": "Bestmarke",
+  "ar": "الرقم القياسي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bestmarken"
+ },
+ {
+  "de": "Bestrahlung",
+  "ar": "الأشعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bestrahlungen"
+ },
+ {
+  "de": "Bestrebung",
+  "ar": "المساعي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bestrebungen"
+ },
+ {
+  "de": "Bestsellerautor",
+  "ar": "كاتب الأكثر مبيعا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bestsellerautoren"
+ },
+ {
+  "de": "Bestwert",
+  "ar": "أفضل قيمة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bestwerte"
+ },
+ {
+  "de": "Bestäubung",
+  "ar": "التلقيح (نبات)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bestäubungen"
+ },
+ {
+  "de": "Besucherandrang",
+  "ar": "زحمة الزوار",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Besucherin",
+  "ar": "الزائرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Besucherinnen"
+ },
+ {
+  "de": "Besucherrekord",
+  "ar": "رقم قياسي للزوار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Besucherrekorde"
+ },
+ {
+  "de": "Besucherschar",
+  "ar": "جمهور الزوار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Besucherscharen"
+ },
+ {
+  "de": "Besucherstrom",
+  "ar": "تدفق الزوار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Besucherströme"
+ },
+ {
+  "de": "Besuchsbeschränkung",
+  "ar": "قيود الزيارة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Besuchsbeschränkungen"
+ },
+ {
+  "de": "Besuchsregelung",
+  "ar": "قواعد الزيارة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Besuchsregelungen"
+ },
+ {
+  "de": "Besäufnis",
+  "ar": "السكر الشديد",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Besäufnisse"
+ },
+ {
+  "de": "Beta-Stadium",
+  "ar": "مرحلة البيتا",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Beta-Stadien"
+ },
+ {
+  "de": "Beteiligungsgesellschaft",
+  "ar": "شركة الاستثمار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beteiligungsgesellschaften"
+ },
+ {
+  "de": "Betonschutzwand",
+  "ar": "سور الخرسانة الحامي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Betonschutzwände"
+ }
+]
