@@ -1,0 +1,1101 @@
+[
+ {
+  "de": "Abdeckung",
+  "ar": "التغطية / الغطاء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abdeckungen"
+ },
+ {
+  "de": "Abfallbehälter",
+  "ar": "سلة المهملات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abfallbehälter"
+ },
+ {
+  "de": "Abgeordnetenhaus",
+  "ar": "مجلس النواب المحلي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Abgeordnetenhäuser"
+ },
+ {
+  "de": "Abgrenzung",
+  "ar": "التمييز / تحديد الحدود",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abgrenzungen"
+ },
+ {
+  "de": "Abi",
+  "ar": "الثانوية العامة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Abis"
+ },
+ {
+  "de": "Abklärung",
+  "ar": "التوضيح / الفحص",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abklärungen"
+ },
+ {
+  "de": "Abkürzung",
+  "ar": "الاختصار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abkürzungen"
+ },
+ {
+  "de": "Ablagerung",
+  "ar": "الترسبات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ablagerungen"
+ },
+ {
+  "de": "Abnehmer",
+  "ar": "المشتري / العميل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abnehmer"
+ },
+ {
+  "de": "Abonnent",
+  "ar": "المشترك",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abonnenten"
+ },
+ {
+  "de": "Absatzmarkt",
+  "ar": "سوق التصريف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Absatzmärkte"
+ },
+ {
+  "de": "Abschleppunternehmen",
+  "ar": "شركة سحب العربيات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Abschleppunternehmen"
+ },
+ {
+  "de": "Abschleppwagen",
+  "ar": "الونش / عربية السحب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abschleppwagen"
+ },
+ {
+  "de": "Abschürfung",
+  "ar": "الخدش / الكشط",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abschürfungen"
+ },
+ {
+  "de": "Absolvent",
+  "ar": "الخريج",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Absolventen"
+ },
+ {
+  "de": "Absperrung",
+  "ar": "الحاجز / الإغلاق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Absperrungen"
+ },
+ {
+  "de": "Absteiger",
+  "ar": "الفريق الهابط",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Absteiger"
+ },
+ {
+  "de": "Abstiegsplatz",
+  "ar": "مركز الهبوط",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abstiegsplätze"
+ },
+ {
+  "de": "Abstiegszone",
+  "ar": "منطقة الهبوط",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abstiegszonen"
+ },
+ {
+  "de": "Abteilungsleiterin",
+  "ar": "مديرة القسم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abteilungsleiterinnen"
+ },
+ {
+  "de": "Abtreibungsgegner",
+  "ar": "معارض الإجهاض",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abtreibungsgegner"
+ },
+ {
+  "de": "Abwassergebühr",
+  "ar": "رسوم الصرف الصحي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abwassergebühren"
+ },
+ {
+  "de": "Abwertung",
+  "ar": "تخفيض القيمة / الاستهانة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abwertungen"
+ },
+ {
+  "de": "Abwicklung",
+  "ar": "التصفية / إتمام الإجراءات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abwicklungen"
+ },
+ {
+  "de": "Abänderungsantrag",
+  "ar": "طلب تعديل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abänderungsanträge"
+ },
+ {
+  "de": "Achterbahn",
+  "ar": "الأفعوانية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Achterbahnen"
+ },
+ {
+  "de": "Acker",
+  "ar": "الحقل / الأرض الزراعية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Äcker"
+ },
+ {
+  "de": "Ader",
+  "ar": "الوريد / العرق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Adern"
+ },
+ {
+  "de": "Advent",
+  "ar": "فترة ما قبل الكريسماس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Advente"
+ },
+ {
+  "de": "Aerodynamik",
+  "ar": "الديناميكا الهوائية",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": false
+ },
+ {
+  "de": "Aggressor",
+  "ar": "المعتدي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aggressoren"
+ },
+ {
+  "de": "Aktivierung",
+  "ar": "التفعيل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aktivierungen"
+ },
+ {
+  "de": "Aktualität",
+  "ar": "الراهنية / الحداثة",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": false
+ },
+ {
+  "de": "Alarmbereitschaft",
+  "ar": "حالة التأهب",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": false
+ },
+ {
+  "de": "Alarmzeichen",
+  "ar": "علامة إنذار",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Alarmzeichen"
+ },
+ {
+  "de": "Alge",
+  "ar": "الطحلب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Algen"
+ },
+ {
+  "de": "Algorithmus",
+  "ar": "الخوارزمية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Algorithmen"
+ },
+ {
+  "de": "Alien",
+  "ar": "الكائن الفضائي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Aliens"
+ },
+ {
+  "de": "Alkoholismus",
+  "ar": "إدمان الكحول",
+  "pos": "noun",
+  "art": "der",
+  "pluralOnly": false
+ },
+ {
+  "de": "Allerheiligen",
+  "ar": "عيد جميع القديسين",
+  "pos": "noun",
+  "art": "das",
+  "pluralOnly": false
+ },
+ {
+  "de": "Allgemeinmediziner",
+  "ar": "الدكتور العام / طبيب الأسرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Allgemeinmediziner"
+ },
+ {
+  "de": "Allradantrieb",
+  "ar": "الدفع الرباعي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Allradantriebe"
+ },
+ {
+  "de": "Alphabet",
+  "ar": "الأبجدية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Alphabete"
+ },
+ {
+  "de": "Altersüberprüfung",
+  "ar": "التحقق من السن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Altersüberprüfungen"
+ },
+ {
+  "de": "Altlast",
+  "ar": "العبء القديم / المخلفات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Altlasten"
+ },
+ {
+  "de": "Altstar",
+  "ar": "النجم القدير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Altstars"
+ },
+ {
+  "de": "Amateurfußball",
+  "ar": "كرة القدم للهواة",
+  "pos": "noun",
+  "art": "der",
+  "pluralOnly": false
+ },
+ {
+  "de": "Aminosäure",
+  "ar": "الحمد الأميني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aminosäuren"
+ },
+ {
+  "de": "Ammoniak",
+  "ar": "الأمونيا",
+  "pos": "noun",
+  "art": "das",
+  "pluralOnly": false
+ },
+ {
+  "de": "Amokfahrt",
+  "ar": "حادثة الدهس المتعمد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Amokfahrten"
+ },
+ {
+  "de": "Ampelregierung",
+  "ar": "حكومة ائتلاف الإشارة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ampelregierungen"
+ },
+ {
+  "de": "Ampulle",
+  "ar": "الأمبولة (الحقنة الزجاج)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ampullen"
+ },
+ {
+  "de": "Amtseinführung",
+  "ar": "حفل التنصيب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Amtseinführungen"
+ },
+ {
+  "de": "Amtsenthebung",
+  "ar": "العزل من المنصب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Amtsenthebungen"
+ },
+ {
+  "de": "Anbahnung",
+  "ar": "التمهيد / بدء التقارب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anbahnungen"
+ },
+ {
+  "de": "Anekdote",
+  "ar": "النادرة / الحكاية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anekdoten"
+ },
+ {
+  "de": "Anfahrt",
+  "ar": "مشوار الوصول",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anfahrten"
+ },
+ {
+  "de": "Angabe",
+  "ar": "البيان / المعلومة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Angaben"
+ },
+ {
+  "de": "Angelobung",
+  "ar": "أداء اليمين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Angelobungen"
+ },
+ {
+  "de": "Anhaltspunkt",
+  "ar": "نقطة الاستدلال / الدليل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anhaltspunkte"
+ },
+ {
+  "de": "Anklagebank",
+  "ar": "قفص الاتهام",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anklagebänke"
+ },
+ {
+  "de": "Anklageerhebung",
+  "ar": "رفع الدعوى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anklageerhebungen"
+ },
+ {
+  "de": "Anklagepunkt",
+  "ar": "نقطة الاتهام",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anklagepunkte"
+ },
+ {
+  "de": "Anlehnung",
+  "ar": "الاستناد إلى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anlehnungen"
+ },
+ {
+  "de": "Anleihe",
+  "ar": "السند (المالي)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anleihen"
+ },
+ {
+  "de": "Anregung",
+  "ar": "الاقتراح / التحفيز",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anregungen"
+ },
+ {
+  "de": "Anspielung",
+  "ar": "التلميح / الإشارة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anspielungen"
+ },
+ {
+  "de": "Anstrengung",
+  "ar": "المجهود / المشقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anstrengungen"
+ },
+ {
+  "de": "Anstrich",
+  "ar": "الدهان / الطلاء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anstriche"
+ },
+ {
+  "de": "Antenne",
+  "ar": "الهوائي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Antennen"
+ },
+ {
+  "de": "Anthologie",
+  "ar": "المختارات الأدبية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anthologien"
+ },
+ {
+  "de": "Antritt",
+  "ar": "تولي المنصب / البداية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Antritte"
+ },
+ {
+  "de": "Anwaltskosten",
+  "ar": "أتعاب المحاماة",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": false
+ },
+ {
+  "de": "Anwohnerin",
+  "ar": "الساكنة في المنطقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anwohnerinnen"
+ },
+ {
+  "de": "Anwärter",
+  "ar": "المرشح / الطامح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anwärter"
+ },
+ {
+  "de": "Apokalypse",
+  "ar": "نهاية العالم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Apokalypsen"
+ },
+ {
+  "de": "Appell",
+  "ar": "النداء / المناشدة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Appelle"
+ },
+ {
+  "de": "Applikation",
+  "ar": "التطبيق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Applikationen"
+ },
+ {
+  "de": "Aquarium",
+  "ar": "حوض السمك",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Aquarien"
+ },
+ {
+  "de": "Arbeiterwohlfahrt",
+  "ar": "رعاية العمال",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": false
+ },
+ {
+  "de": "Arbeitgeberverband",
+  "ar": "اتحاد أصحاب العمل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Arbeitgeberverbände"
+ },
+ {
+  "de": "Arbeitsbelastung",
+  "ar": "عبء العمل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Arbeitsbelastungen"
+ },
+ {
+  "de": "Arbeitsgemeinschaft",
+  "ar": "مجموعة العمل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Arbeitsgemeinschaften"
+ },
+ {
+  "de": "Arbeitsgericht",
+  "ar": "محكمة العمل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Arbeitsgerichte"
+ },
+ {
+  "de": "Arbeitslager",
+  "ar": "معسكر العمل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Arbeitslager"
+ },
+ {
+  "de": "Arbeitslosengeld",
+  "ar": "إعانة البطالة",
+  "pos": "noun",
+  "art": "das",
+  "pluralOnly": false
+ },
+ {
+  "de": "Arbeitsminister",
+  "ar": "وزير العمل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Arbeitsminister"
+ },
+ {
+  "de": "Arbeitsschutz",
+  "ar": "حماية العمل والعمال",
+  "pos": "noun",
+  "art": "der",
+  "pluralOnly": false
+ },
+ {
+  "de": "Armutsgrenze",
+  "ar": "خط الفقر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Armutsgrenzen"
+ },
+ {
+  "de": "Artenvielfalt",
+  "ar": "التنوع البيولوجي",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": false
+ },
+ {
+  "de": "Aschenbecher",
+  "ar": "طفاية السجاير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aschenbecher"
+ },
+ {
+  "de": "Asphaltarbeiten",
+  "ar": "أعمال الأسفلت",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": false
+ },
+ {
+  "de": "Assistenz",
+  "ar": "المساعدة / المساعد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Assistenz"
+ },
+ {
+  "de": "Atemschutz",
+  "ar": "حماية التنفس",
+  "pos": "noun",
+  "art": "der",
+  "pluralOnly": false
+ },
+ {
+  "de": "Athletin",
+  "ar": "اللاعبة الرياضية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Athletinnen"
+ },
+ {
+  "de": "Atom",
+  "ar": "الذرة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Atome"
+ },
+ {
+  "de": "Atomkraft",
+  "ar": "الطاقة النووية",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": false
+ },
+ {
+  "de": "Atommüll",
+  "ar": "النفايات النووية",
+  "pos": "noun",
+  "art": "der",
+  "pluralOnly": false
+ },
+ {
+  "de": "Attraktion",
+  "ar": "المعلم الجاذب / الجاذبية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Attraktionen"
+ },
+ {
+  "de": "Aufbewahrung",
+  "ar": "التخزين / الحفظ",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": false
+ },
+ {
+  "de": "Auffangstation",
+  "ar": "مركز الاستقبال",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Auffangstationen"
+ },
+ {
+  "de": "Auffälligkeit",
+  "ar": "الملاحظة الشاذة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Auffälligkeiten"
+ },
+ {
+  "de": "Aufgebot",
+  "ar": "الحشد / القوة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Aufgebote"
+ },
+ {
+  "de": "Auflieger",
+  "ar": "المقطورة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Auflieger"
+ },
+ {
+  "de": "Aufprall",
+  "ar": "الاصطدام",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aufpralle"
+ },
+ {
+  "de": "Aufschrei",
+  "ar": "صرخة الاحتجاج",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aufschreie"
+ },
+ {
+  "de": "Aufsichtsbehörde",
+  "ar": "الهيئة الرقابية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aufsichtsbehörden"
+ },
+ {
+  "de": "Aufteilung",
+  "ar": "التقسيم / التوزيع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aufteilungen"
+ },
+ {
+  "de": "Aufwertung",
+  "ar": "رفع القيمة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aufwertungen"
+ },
+ {
+  "de": "Aufwind",
+  "ar": "التيار الصاعد / الدفعة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aufwinde"
+ },
+ {
+  "de": "Augenmerk",
+  "ar": "الاهتمام / التركيز",
+  "pos": "noun",
+  "art": "das",
+  "pluralOnly": false
+ },
+ {
+  "de": "Augenzwinkern",
+  "ar": "الغمزة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Augenzwinkern"
+ },
+ {
+  "de": "Ausbildungsberuf",
+  "ar": "المهنة التدريبية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ausbildungsberufe"
+ },
+ {
+  "de": "Ausbildungsmesse",
+  "ar": "معرض التدريب المهني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausbildungsmessen"
+ },
+ {
+  "de": "Ausflugsziel",
+  "ar": "وجهة الرحلة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ausflugsziele"
+ },
+ {
+  "de": "Ausgangsposition",
+  "ar": "نقطة الانطلاق / الوضعية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausgangspositionen"
+ },
+ {
+  "de": "Ausgeglichenheit",
+  "ar": "التوازن النفسي",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": false
+ },
+ {
+  "de": "Aushängeschild",
+  "ar": "الواجهة / العلامة المميزة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Aushängeschilder"
+ },
+ {
+  "de": "Ausklang",
+  "ar": "الختام",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ausklänge"
+ },
+ {
+  "de": "Auslosung",
+  "ar": "القرعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Auslosungen"
+ },
+ {
+  "de": "Ausläufer",
+  "ar": "الأطراف (الجبل/السلسلة)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ausläufer"
+ },
+ {
+  "de": "Ausnahmeregelung",
+  "ar": "الاستثناء من القاعدة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausnahmeregelungen"
+ },
+ {
+  "de": "Ausnahmezustand",
+  "ar": "حالة الطوارئ",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ausnahmezustände"
+ },
+ {
+  "de": "Ausreise",
+  "ar": "مغادرة البلد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausreisen"
+ },
+ {
+  "de": "Aussagekraft",
+  "ar": "القوة الإثباتية",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": false
+ },
+ {
+  "de": "Ausscheiden",
+  "ar": "الخروج / الإقصاء",
+  "pos": "noun",
+  "art": "das",
+  "pluralOnly": false
+ },
+ {
+  "de": "Ausschöpfung",
+  "ar": "الاستغلال الكامل",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": false
+ },
+ {
+  "de": "Aussetzung",
+  "ar": "التعليق / الإيقاف المؤقت",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aussetzungen"
+ },
+ {
+  "de": "Aussichtspunkt",
+  "ar": "نقطة الإطلالة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aussichtspunkte"
+ },
+ {
+  "de": "Ausstand",
+  "ar": "الإضراب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ausstände"
+ },
+ {
+  "de": "Aussteiger",
+  "ar": "المنسحب من النظام",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aussteiger"
+ },
+ {
+  "de": "Ausstellungsort",
+  "ar": "مكان المعرض",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ausstellungsorte"
+ },
+ {
+  "de": "Aussterben",
+  "ar": "الانقراض",
+  "pos": "noun",
+  "art": "das",
+  "pluralOnly": false
+ },
+ {
+  "de": "Ausstoß",
+  "ar": "الانبعاثات",
+  "pos": "noun",
+  "art": "der",
+  "pluralOnly": false
+ },
+ {
+  "de": "Austragungsort",
+  "ar": "مكان إقامة البطولة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Austragungsorte"
+ },
+ {
+  "de": "Auswahlverfahren",
+  "ar": "عملية الاختيار",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Auswahlverfahren"
+ },
+ {
+  "de": "Auswärtserfolg",
+  "ar": "الفوز خارج الأرض",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Auswärtserfolge"
+ },
+ {
+  "de": "Auswärtspartie",
+  "ar": "ماتش خارج الأرض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Auswärtspartien"
+ },
+ {
+  "de": "Auszug",
+  "ar": "الانتقال / المقتطف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Auszüge"
+ },
+ {
+  "de": "Ausübung",
+  "ar": "الممارسة",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": false
+ },
+ {
+  "de": "Autobahnauffahrt",
+  "ar": "مدخل الطريق السريع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Autobahnauffahrten"
+ },
+ {
+  "de": "Autobiografie",
+  "ar": "السيرة الذاتية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Autobiografien"
+ },
+ {
+  "de": "Autofahren",
+  "ar": "قيادة العربيات",
+  "pos": "noun",
+  "art": "das",
+  "pluralOnly": false
+ },
+ {
+  "de": "Autohaus",
+  "ar": "معرض العربيات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Autohäuser"
+ },
+ {
+  "de": "Autokino",
+  "ar": "سينما السيارات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Autokinos"
+ },
+ {
+  "de": "Autokratie",
+  "ar": "الحكم الاستبدادي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Autokratien"
+ },
+ {
+  "de": "Automobilhersteller",
+  "ar": "شركة صناعة السيارات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Automobilhersteller"
+ },
+ {
+  "de": "Autonomie",
+  "ar": "الحكم الذاتي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Autonomien"
+ },
+ {
+  "de": "Autoscooter",
+  "ar": "عربيات التصادم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Autoscooter"
+ },
+ {
+  "de": "Autoverkehr",
+  "ar": "حركة مرور السيارات",
+  "pos": "noun",
+  "art": "der",
+  "pluralOnly": false
+ },
+ {
+  "de": "Autozulieferer",
+  "ar": "مورد قطع غيار السيارات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Autozulieferer"
+ },
+ {
+  "de": "Backpapier",
+  "ar": "ورق الزبدة",
+  "pos": "noun",
+  "art": "das",
+  "pluralOnly": false
+ },
+ {
+  "de": "Backpulver",
+  "ar": "البيكنج بودر",
+  "pos": "noun",
+  "art": "das",
+  "pluralOnly": false
+ },
+ {
+  "de": "Backware",
+  "ar": "المخبوزات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Backwaren"
+ },
+ {
+  "de": "Badegast",
+  "ar": "رواد المصيف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Badegäste"
+ },
+ {
+  "de": "Badesaison",
+  "ar": "موسم السباحة",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": false
+ },
+ {
+  "de": "Badesee",
+  "ar": "بحيرة السباحة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Badeseen"
+ }
+]
