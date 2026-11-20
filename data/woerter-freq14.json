@@ -1,0 +1,204 @@
+[
+ {
+  "de": "Landkreis",
+  "ar": "محافظة / مركز",
+  "pos": "noun"
+ },
+ {
+  "de": "Wähler",
+  "ar": "ناخب",
+  "pos": "noun"
+ },
+ {
+  "de": "Gewerkschaft",
+  "ar": "نقابة عمال",
+  "pos": "noun"
+ },
+ {
+  "de": "Koalition",
+  "ar": "ائتلاف حكومي",
+  "pos": "noun"
+ },
+ {
+  "de": "Verwaltung",
+  "ar": "إدارة عمومية",
+  "pos": "noun"
+ },
+ {
+  "de": "Vorsitzende",
+  "ar": "رئيس مجلس / حزب",
+  "pos": "noun"
+ },
+ {
+  "de": "Erwartung",
+  "ar": "توقع",
+  "pos": "noun"
+ },
+ {
+  "de": "Halbzeit",
+  "ar": "شوط / نص الماتش",
+  "pos": "noun"
+ },
+ {
+  "de": "Auftakt",
+  "ar": "بداية / افتتاح",
+  "pos": "noun"
+ },
+ {
+  "de": "Engagement",
+  "ar": "التزام / نشاط اجتماعي",
+  "pos": "noun"
+ },
+ {
+  "de": "Forderung",
+  "ar": "مطلب",
+  "pos": "noun"
+ },
+ {
+  "de": "Frühjahr",
+  "ar": "ربيع",
+  "pos": "noun"
+ },
+ {
+  "de": "Anbieter",
+  "ar": "مزود خدمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Anfrage",
+  "ar": "طلب / استفسار",
+  "pos": "noun"
+ },
+ {
+  "de": "Bund",
+  "ar": "الاتحاد الفيدرالي",
+  "pos": "noun"
+ },
+ {
+  "de": "Gemeinderat",
+  "ar": "مجلس محلي",
+  "pos": "noun"
+ },
+ {
+  "de": "Chancen",
+  "ar": "فرص",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Betroffene",
+  "ar": "المتضررين",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Motto",
+  "ar": "شعار",
+  "pos": "noun"
+ },
+ {
+  "de": "bezeichnen",
+  "ar": "يسميه / يصفه",
+  "pos": "verb"
+ },
+ {
+  "de": "ankündigen",
+  "ar": "يصرح",
+  "pos": "verb"
+ },
+ {
+  "de": "herauskommen",
+  "ar": "يطلع / يظهر",
+  "pos": "verb"
+ },
+ {
+  "de": "angreifen",
+  "ar": "يهاجم",
+  "pos": "verb"
+ },
+ {
+  "de": "eröffnen",
+  "ar": "يفتتح",
+  "pos": "verb"
+ },
+ {
+  "de": "leisten",
+  "ar": "يقدر يشتري / ينجز",
+  "pos": "verb"
+ },
+ {
+  "de": "erhalten",
+  "ar": "يستلم / ياخد",
+  "pos": "verb"
+ },
+ {
+  "de": "profitieren",
+  "ar": "يستفيد",
+  "pos": "verb"
+ },
+ {
+  "de": "sogenannt",
+  "ar": "المسمى / ما يسمى بـ",
+  "pos": "adj"
+ },
+ {
+  "de": "größte",
+  "ar": "أكبر",
+  "pos": "adj"
+ },
+ {
+  "de": "weltweit",
+  "ar": "على مستوى العالم",
+  "pos": "adj"
+ },
+ {
+  "de": "lang",
+  "ar": "طويل",
+  "pos": "adj"
+ },
+ {
+  "de": "größer",
+  "ar": "أكبر من",
+  "pos": "adj"
+ },
+ {
+  "de": "besser",
+  "ar": "أحسن من",
+  "pos": "adj"
+ },
+ {
+  "de": "ausreichend",
+  "ar": "كفاية / وافي",
+  "pos": "adj"
+ },
+ {
+  "de": "vorerst",
+  "ar": "في الوقت الراهن",
+  "pos": "adv"
+ },
+ {
+  "de": "vermutlich",
+  "ar": "على الأرجح",
+  "pos": "adv"
+ },
+ {
+  "de": "voraussichtlich",
+  "ar": "المتوقع",
+  "pos": "adv"
+ },
+ {
+  "de": "jedenfalls",
+  "ar": "على أي حال / المهم",
+  "pos": "adv"
+ },
+ {
+  "de": "angesichts",
+  "ar": "في ظل / بسبب",
+  "pos": "part"
+ },
+ {
+  "de": "hinzu",
+  "ar": "بالإضافة",
+  "pos": "adv"
+ }
+]
