@@ -1,0 +1,1085 @@
+[
+ {
+  "de": "Wintereinbruch",
+  "ar": "دخول الشتا المفاجئ",
+  "pos": "noun"
+ },
+ {
+  "de": "Wirtschaftsleistung",
+  "ar": "الناتج الاقتصادي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Wirtschaftsminister",
+  "ar": "وزير الاقتصاد",
+  "pos": "noun"
+ },
+ {
+  "de": "Wohneinheit",
+  "ar": "وحدة سكنية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Wucht",
+  "ar": "قوة هائلة",
+  "pos": "noun"
+ },
+ {
+  "de": "Wurzel",
+  "ar": "جذور",
+  "pos": "noun"
+ },
+ {
+  "de": "Wählerin",
+  "ar": "الناخبة (ست)",
+  "pos": "noun"
+ },
+ {
+  "de": "Zivilbevölkerung",
+  "ar": "المدنيين (سكان)",
+  "pos": "noun"
+ },
+ {
+  "de": "Zunahme",
+  "ar": "زيادة / تنامي",
+  "pos": "noun"
+ },
+ {
+  "de": "Zurückhaltung",
+  "ar": "تحفظ / كبح",
+  "pos": "noun"
+ },
+ {
+  "de": "YouTube",
+  "ar": "يوتيوب",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "abbiegen",
+  "ar": "يلف / ياخد شمال",
+  "pos": "verb"
+ },
+ {
+  "de": "abbrechen",
+  "ar": "يوقفها في نصها",
+  "pos": "verb"
+ },
+ {
+  "de": "abfangen",
+  "ar": "يعترض / يلقط",
+  "pos": "verb"
+ },
+ {
+  "de": "ablösen",
+  "ar": "يحل محله",
+  "pos": "verb"
+ },
+ {
+  "de": "absperren",
+  "ar": "يقفل المنطقة",
+  "pos": "verb"
+ },
+ {
+  "de": "abbauen",
+  "ar": "يهدم / يقلل",
+  "pos": "verb"
+ },
+ {
+  "de": "andauern",
+  "ar": "يفضل شغال / مستمر",
+  "pos": "verb"
+ },
+ {
+  "de": "anschaffen",
+  "ar": "يجيب / يشتري",
+  "pos": "verb"
+ },
+ {
+  "de": "ansiedeln",
+  "ar": "يستقر / يسكن",
+  "pos": "verb"
+ },
+ {
+  "de": "anmerken",
+  "ar": "يلاحظ / يعلق",
+  "pos": "verb"
+ },
+ {
+  "de": "ansprechen",
+  "ar": "يكلم / يعجبه",
+  "pos": "verb"
+ },
+ {
+  "de": "appellieren",
+  "ar": "يناشد",
+  "pos": "verb"
+ },
+ {
+  "de": "auffordern",
+  "ar": "يطلب منه بإلحاح",
+  "pos": "verb"
+ },
+ {
+  "de": "aufgehen",
+  "ar": "يطلع (عجينة) / يفتح",
+  "pos": "verb"
+ },
+ {
+  "de": "aufklären",
+  "ar": "يحقق فيها / يوعي",
+  "pos": "verb"
+ },
+ {
+  "de": "aufsteigen",
+  "ar": "يصعد / يترقى",
+  "pos": "verb"
+ },
+ {
+  "de": "aufstocken",
+  "ar": "يزود / يعلي",
+  "pos": "verb"
+ },
+ {
+  "de": "ausmachen",
+  "ar": "يتفق على / يشكل",
+  "pos": "verb"
+ },
+ {
+  "de": "ausprobieren",
+  "ar": "يجربها",
+  "pos": "verb"
+ },
+ {
+  "de": "ausreichen",
+  "ar": "تكفي / تملأ الغرض",
+  "pos": "verb"
+ },
+ {
+  "de": "ausrücken",
+  "ar": "يتحرك (إسعاف)",
+  "pos": "verb"
+ },
+ {
+  "de": "ausweichen",
+  "ar": "يبعد عن / يتجنب",
+  "pos": "verb"
+ },
+ {
+  "de": "ausweisen",
+  "ar": "يثبت هويته",
+  "pos": "verb"
+ },
+ {
+  "de": "bedienen",
+  "ar": "يخدم / يشغل",
+  "pos": "verb"
+ },
+ {
+  "de": "befördern",
+  "ar": "يرقيه / ينقله",
+  "pos": "verb"
+ },
+ {
+  "de": "begrenzen",
+  "ar": "يحدد سقف",
+  "pos": "verb"
+ },
+ {
+  "de": "beklagen",
+  "ar": "يشتكي من",
+  "pos": "verb"
+ },
+ {
+  "de": "bekräftigen",
+  "ar": "يجدد تأكيده",
+  "pos": "verb"
+ },
+ {
+  "de": "beliefern",
+  "ar": "يورد لـ",
+  "pos": "verb"
+ },
+ {
+  "de": "bemühen",
+  "ar": "يحاول / يجتهد",
+  "pos": "verb"
+ },
+ {
+  "de": "berechtigen",
+  "ar": "يخول / يحق له",
+  "pos": "verb"
+ },
+ {
+  "de": "bereitstellen",
+  "ar": "يجهزها / يوفرها",
+  "pos": "verb"
+ },
+ {
+  "de": "besche",
+  "ar": "يجيبله / يهده",
+  "pos": "verb"
+ },
+ {
+  "de": "besprechen",
+  "ar": "يتكلم فيها / يراجع",
+  "pos": "verb"
+ },
+ {
+  "de": "bestimmen",
+  "ar": "يحدده",
+  "pos": "verb"
+ },
+ {
+  "de": "bewerben",
+  "ar": "قدم على شغل",
+  "pos": "verb"
+ },
+ {
+  "de": "dastehen",
+  "ar": "يبقى في موقف",
+  "pos": "verb"
+ },
+ {
+  "de": "eingehen",
+  "ar": "يدخل في / يتعمق",
+  "pos": "verb"
+ },
+ {
+  "de": "einschlagen",
+  "ar": "يكسر / يلف يمين",
+  "pos": "verb"
+ },
+ {
+  "de": "einschätzen",
+  "ar": "يقيم الموقف",
+  "pos": "verb"
+ },
+ {
+  "de": "einstecken",
+  "ar": "يبلعها / يحطها في جيبه",
+  "pos": "verb"
+ },
+ {
+  "de": "entwenden",
+  "ar": "يسرقها / يختلسها",
+  "pos": "verb"
+ },
+ {
+  "de": "entziehen",
+  "ar": "يسحبها منه",
+  "pos": "verb"
+ },
+ {
+  "de": "erarbeiten",
+  "ar": "يشتغل عليها لحد ما تطلع",
+  "pos": "verb"
+ },
+ {
+  "de": "erbeuten",
+  "ar": "يغنم / يسرق غنيمة",
+  "pos": "verb"
+ },
+ {
+  "de": "ergreifen",
+  "ar": "يمسك / يتخذ إجراء",
+  "pos": "verb"
+ },
+ {
+  "de": "erkranken",
+  "ar": "يمرض",
+  "pos": "verb"
+ },
+ {
+  "de": "erledigen",
+  "ar": "يخلصه",
+  "pos": "verb"
+ },
+ {
+  "de": "erleichtern",
+  "ar": "يسهل عليه",
+  "pos": "verb"
+ },
+ {
+  "de": "erschließen",
+  "ar": "يطور منطقة / يستنتج",
+  "pos": "verb"
+ },
+ {
+  "de": "fokussieren",
+  "ar": "يركز على",
+  "pos": "verb"
+ },
+ {
+  "de": "fortführen",
+  "ar": "يكملها",
+  "pos": "verb"
+ },
+ {
+  "de": "freigeben",
+  "ar": "يفرج عن / يعتمد",
+  "pos": "verb"
+ },
+ {
+  "de": "fressen",
+  "ar": "ياكل (حيوان)",
+  "pos": "verb"
+ },
+ {
+  "de": "decken",
+  "ar": "يغطي / يطابق",
+  "pos": "verb"
+ },
+ {
+  "de": "einigen",
+  "ar": "يتفقوا",
+  "pos": "verb"
+ },
+ {
+  "de": "gegründen",
+  "ar": "يأسسها",
+  "pos": "verb"
+ },
+ {
+  "de": "rüsten",
+  "ar": "يتسلح / يجهز",
+  "pos": "verb"
+ },
+ {
+  "de": "würdigen",
+  "ar": "يثمن / يقدر مجهوده",
+  "pos": "verb"
+ },
+ {
+  "de": "hadern",
+  "ar": "يتذمر / متردد",
+  "pos": "verb"
+ },
+ {
+  "de": "inspirieren",
+  "ar": "يلهم",
+  "pos": "verb"
+ },
+ {
+  "de": "kombinieren",
+  "ar": "يجمع بين",
+  "pos": "verb"
+ },
+ {
+  "de": "kriegen",
+  "ar": "ياخد / يمسك",
+  "pos": "verb"
+ },
+ {
+  "de": "krönen",
+  "ar": "يتوج / يختمها بأحسن حاجة",
+  "pos": "verb"
+ },
+ {
+  "de": "kühlen",
+  "ar": "يبرد / يقلل حماس",
+  "pos": "verb"
+ },
+ {
+  "de": "lancieren",
+  "ar": "يطرح / يطلق",
+  "pos": "verb"
+ },
+ {
+  "de": "lenken",
+  "ar": "يوجه / يسوق",
+  "pos": "verb"
+ },
+ {
+  "de": "nachvollziehen",
+  "ar": "يفهمها / يتتبعها",
+  "pos": "verb"
+ },
+ {
+  "de": "prognostizieren",
+  "ar": "يتنبأ بـ",
+  "pos": "verb"
+ },
+ {
+  "de": "recherchieren",
+  "ar": "يبحث / يدقق",
+  "pos": "verb"
+ },
+ {
+  "de": "schenken",
+  "ar": "يهديه",
+  "pos": "verb"
+ },
+ {
+  "de": "schockieren",
+  "ar": "يصدمه",
+  "pos": "verb"
+ },
+ {
+  "de": "schrumpfen",
+  "ar": "بيتقلص / بينكمش",
+  "pos": "verb"
+ },
+ {
+  "de": "schwärmen",
+  "ar": "يتغزل في",
+  "pos": "verb"
+ },
+ {
+  "de": "senden",
+  "ar": "يبعت / يذيع",
+  "pos": "verb"
+ },
+ {
+  "de": "singt",
+  "ar": "بيغني",
+  "pos": "verb"
+ },
+ {
+  "de": "trauern",
+  "ar": "يحزن على / ينوح",
+  "pos": "verb"
+ },
+ {
+  "de": "veranstalten",
+  "ar": "ينظم حدث",
+  "pos": "verb"
+ },
+ {
+  "de": "vergehen",
+  "ar": "يمضي (وقت)",
+  "pos": "verb"
+ },
+ {
+  "de": "vergrößern",
+  "ar": "يكبره",
+  "pos": "verb"
+ },
+ {
+  "de": "unterzeichnen",
+  "ar": "يوقع رسمي",
+  "pos": "verb"
+ },
+ {
+  "de": "umrechnen",
+  "ar": "يحولها (عملة)",
+  "pos": "verb"
+ },
+ {
+  "de": "amtierend",
+  "ar": "الحالي في المنصب",
+  "pos": "adj"
+ },
+ {
+  "de": "anderthalb",
+  "ar": "واحد ونص",
+  "pos": "part"
+ },
+ {
+  "de": "angemessen",
+  "ar": "مناسبة / عادلة",
+  "pos": "adj"
+ },
+ {
+  "de": "anonym",
+  "ar": "مجهول الهوية",
+  "pos": "adj"
+ },
+ {
+  "de": "anstehend",
+  "ar": "قادمة",
+  "pos": "adj"
+ },
+ {
+  "de": "antisemitisch",
+  "ar": "معادي للسامية",
+  "pos": "adj"
+ },
+ {
+  "de": "aufrecht",
+  "ar": "واقف / قائم",
+  "pos": "adj"
+ },
+ {
+  "de": "aufwendig",
+  "ar": "مكلف / متعب",
+  "pos": "adj"
+ },
+ {
+  "de": "ausdrücklich",
+  "ar": "صريح / واضح",
+  "pos": "adj"
+ },
+ {
+  "de": "ausgelastet",
+  "ar": "ممتلئ / مستنزف",
+  "pos": "adj"
+ },
+ {
+  "de": "ausgewiesen",
+  "ar": "مثبت / معلن",
+  "pos": "adj"
+ },
+ {
+  "de": "ausgewählt",
+  "ar": "مختار",
+  "pos": "adj"
+ },
+ {
+  "de": "automatisch",
+  "ar": "أوتوماتيكي",
+  "pos": "adj"
+ },
+ {
+  "de": "autoritär",
+  "ar": "ديكتاتوري",
+  "pos": "adj"
+ },
+ {
+  "de": "bedingt",
+  "ar": "مشروط / جزئي",
+  "pos": "adj"
+ },
+ {
+  "de": "beieinander",
+  "ar": "مجتمعين / جنب بعض",
+  "pos": "adv"
+ },
+ {
+  "de": "belarussisch",
+  "ar": "بيلاروسي",
+  "pos": "adj"
+ },
+ {
+  "de": "benachbart",
+  "ar": "مجاور",
+  "pos": "adj"
+ },
+ {
+  "de": "berechtigt",
+  "ar": "شرعي / له حق",
+  "pos": "adj"
+ },
+ {
+  "de": "beschlossen",
+  "ar": "مقروو / متفق عليه",
+  "pos": "adj"
+ },
+ {
+  "de": "dement",
+  "ar": "مصاب بالخرف",
+  "pos": "adj"
+ },
+ {
+  "de": "dicht",
+  "ar": "كثيفة / محكمة",
+  "pos": "adj"
+ },
+ {
+  "de": "durchweg",
+  "ar": "طوال الوقت / كلهم",
+  "pos": "adv"
+ },
+ {
+  "de": "ehrenamtlich",
+  "ar": "تطوعي",
+  "pos": "adj"
+ },
+ {
+  "de": "eindringlich",
+  "ar": "ملح / مؤثر",
+  "pos": "adj"
+ },
+ {
+  "de": "eingereicht",
+  "ar": "مقدم رسمي",
+  "pos": "adj"
+ },
+ {
+  "de": "eingetroffen",
+  "ar": "وصلت",
+  "pos": "adj"
+ },
+ {
+  "de": "einstig",
+  "ar": "السابق / الأسبق",
+  "pos": "adj"
+ },
+ {
+  "de": "eiskalt",
+  "ar": "ساقع تلج / بدم بارد",
+  "pos": "adj"
+ },
+ {
+  "de": "engagiert",
+  "ar": "ملتزم / نشيط",
+  "pos": "adj"
+ },
+ {
+  "de": "erfolgreichst",
+  "ar": "أنجح واحد",
+  "pos": "adj"
+ },
+ {
+  "de": "erneuerbar",
+  "ar": "متجدد (طاقة)",
+  "pos": "adj"
+ },
+ {
+  "de": "erstmalig",
+  "ar": "لأول مرة",
+  "pos": "adj"
+ },
+ {
+  "de": "fair",
+  "ar": "نضيف / عادل",
+  "pos": "adj"
+ },
+ {
+  "de": "fällig",
+  "ar": "مستحق الدفع",
+  "pos": "adj"
+ },
+ {
+  "de": "gedeckt",
+  "ar": "مغطى / متأمن",
+  "pos": "adj"
+ },
+ {
+  "de": "gedreht",
+  "ar": "مصور / ملفوف",
+  "pos": "adj"
+ },
+ {
+  "de": "geglückt",
+  "ar": "نجحت / تمت بسلام",
+  "pos": "adj"
+ },
+ {
+  "de": "gelegen",
+  "ar": "واقع في",
+  "pos": "adj"
+ },
+ {
+  "de": "gelitten",
+  "ar": "متألم / معاناة",
+  "pos": "adj"
+ },
+ {
+  "de": "gelungen",
+  "ar": "ناجح / متقن",
+  "pos": "adj"
+ },
+ {
+  "de": "geparkt",
+  "ar": "مركون / متصفي",
+  "pos": "adj"
+ },
+ {
+  "de": "geräumt",
+  "ar": "متخلي / منزوح",
+  "pos": "adj"
+ },
+ {
+  "de": "gerüstet",
+  "ar": "مجهز / مستعد",
+  "pos": "adj"
+ },
+ {
+  "de": "gesetzt",
+  "ar": "محطوط / معين",
+  "pos": "adj"
+ },
+ {
+  "de": "gestiegen",
+  "ar": "ارتفع",
+  "pos": "adj"
+ },
+ {
+  "de": "gesundheitlich",
+  "ar": "صحي",
+  "pos": "adj"
+ },
+ {
+  "de": "gewaltsam",
+  "ar": "بالعافية / عنيف",
+  "pos": "adv"
+ },
+ {
+  "de": "gängig",
+  "ar": "شايع / مستعمل",
+  "pos": "adj"
+ },
+ {
+  "de": "hauptsächlich",
+  "ar": "أساسا / في الغالب",
+  "pos": "adv"
+ },
+ {
+  "de": "hinterlegt",
+  "ar": "مودع / مسجل",
+  "pos": "adj"
+ },
+ {
+  "de": "höher",
+  "ar": "أعلى",
+  "pos": "adj"
+ },
+ {
+  "de": "industriell",
+  "ar": "صناعي",
+  "pos": "adj"
+ },
+ {
+  "de": "involviert",
+  "ar": "متورط / مشارك",
+  "pos": "adj"
+ },
+ {
+  "de": "islamistisch",
+  "ar": "إسلاموي",
+  "pos": "adj"
+ },
+ {
+  "de": "juristisch",
+  "ar": "قانوني / شرعي",
+  "pos": "adj"
+ },
+ {
+  "de": "kommerziell",
+  "ar": "تجاري",
+  "pos": "adj"
+ },
+ {
+  "de": "komplex",
+  "ar": "معقد",
+  "pos": "adj"
+ },
+ {
+  "de": "konservativ",
+  "ar": "محافظ",
+  "pos": "adj"
+ },
+ {
+  "de": "kurdisch",
+  "ar": "كردي",
+  "pos": "adj"
+ },
+ {
+  "de": "künstlich",
+  "ar": "صناعي",
+  "pos": "adj"
+ },
+ {
+  "de": "legendär",
+  "ar": "أسطوري",
+  "pos": "adj"
+ },
+ {
+  "de": "liberal",
+  "ar": "ليبرالي",
+  "pos": "adj"
+ },
+ {
+  "de": "mittendrin",
+  "ar": "في نص الحدث",
+  "pos": "adv"
+ },
+ {
+  "de": "moderat",
+  "ar": "معتدل / وسطي",
+  "pos": "adj"
+ },
+ {
+  "de": "moralisch",
+  "ar": "أخلاقي",
+  "pos": "adj"
+ },
+ {
+  "de": "mühsam",
+  "ar": "شاق / متعب",
+  "pos": "adj"
+ },
+ {
+  "de": "nacheinander",
+  "ar": "ورا بعض",
+  "pos": "adv"
+ },
+ {
+  "de": "niedersächsisch",
+  "ar": "بتاع سكسونيا السفلى",
+  "pos": "adj"
+ },
+ {
+  "de": "nochmal",
+  "ar": "تاني / مرة كمان",
+  "pos": "adv"
+ },
+ {
+  "de": "norwegisch",
+  "ar": "نرويجي",
+  "pos": "adj"
+ },
+ {
+  "de": "operativ",
+  "ar": "عملياتي / جراحي",
+  "pos": "adj"
+ },
+ {
+  "de": "permanent",
+  "ar": "دائم / مستمر",
+  "pos": "adj"
+ },
+ {
+  "de": "primär",
+  "ar": "أساسي / أولي",
+  "pos": "adj"
+ },
+ {
+  "de": "problemlos",
+  "ar": "بسهولة / بلا مشاكل",
+  "pos": "adv"
+ },
+ {
+  "de": "psychisch",
+  "ar": "نفسي",
+  "pos": "adj"
+ },
+ {
+  "de": "queer",
+  "ar": "كويري / مثلي",
+  "pos": "adj"
+ },
+ {
+  "de": "rasant",
+  "ar": "سريع / صاروخ",
+  "pos": "adj"
+ },
+ {
+  "de": "rassistisch",
+  "ar": "عنصري",
+  "pos": "adj"
+ },
+ {
+  "de": "real",
+  "ar": "واقعية",
+  "pos": "adj"
+ },
+ {
+  "de": "rechtsextrem",
+  "ar": "يميني متطرف",
+  "pos": "adj"
+ },
+ {
+  "de": "regulär",
+  "ar": "عادي / نظامي",
+  "pos": "adj"
+ },
+ {
+  "de": "robust",
+  "ar": "صلبة / متينة",
+  "pos": "adj"
+ },
+ {
+  "de": "schriftlich",
+  "ar": "مكتوبة",
+  "pos": "adj"
+ },
+ {
+  "de": "sechst",
+  "ar": "السادس",
+  "pos": "adj"
+ },
+ {
+  "de": "sichtlich",
+  "ar": "بشكل باين",
+  "pos": "adv"
+ },
+ {
+  "de": "solide",
+  "ar": "محترمة / كويسة",
+  "pos": "adj"
+ },
+ {
+  "de": "stehend",
+  "ar": "واقف / ثابت",
+  "pos": "adj"
+ },
+ {
+  "de": "stellenweise",
+  "ar": "في حتت / أحيانا",
+  "pos": "adv"
+ },
+ {
+  "de": "sukzessive",
+  "ar": "بالتدريج",
+  "pos": "adv"
+ },
+ {
+  "de": "sächsisch",
+  "ar": "سكسوني",
+  "pos": "adj"
+ },
+ {
+  "de": "südlich",
+  "ar": "جنوبي",
+  "pos": "adj"
+ },
+ {
+  "de": "teilnehmend",
+  "ar": "مشارك فيها",
+  "pos": "adj"
+ },
+ {
+  "de": "telefonisch",
+  "ar": "تيليفوني",
+  "pos": "adj"
+ },
+ {
+  "de": "temporär",
+  "ar": "مؤقت",
+  "pos": "adj"
+ },
+ {
+  "de": "terroristisch",
+  "ar": "إرهابي",
+  "pos": "adj"
+ },
+ {
+  "de": "umgerechnet",
+  "ar": "بما يعادل",
+  "pos": "adv"
+ },
+ {
+  "de": "ungeschlagen",
+  "ar": "مش مهزوم",
+  "pos": "adj"
+ },
+ {
+  "de": "ungewiss",
+  "ar": "غير مؤكد",
+  "pos": "adj"
+ },
+ {
+  "de": "untereinander",
+  "ar": "فيما بينهم",
+  "pos": "adv"
+ },
+ {
+  "de": "unzählig",
+  "ar": "لا يعد",
+  "pos": "adj"
+ },
+ {
+  "de": "verletzt",
+  "ar": "مصاب / مجروح",
+  "pos": "adj"
+ },
+ {
+  "de": "vermisst",
+  "ar": "مفقود / مختفي",
+  "pos": "adj"
+ },
+ {
+  "de": "by",
+  "ar": "بواسطة (إنجليزي)",
+  "pos": "part"
+ },
+ {
+  "de": "dementsprechend",
+  "ar": "وبالتالي / على هذا الأساس",
+  "pos": "adv"
+ },
+ {
+  "de": "einher",
+  "ar": "متلازم مع",
+  "pos": "part"
+ },
+ {
+  "de": "eurer",
+  "ar": "بتاعكم",
+  "pos": "part"
+ },
+ {
+  "de": "hierzu",
+  "ar": "في هذا الشأن",
+  "pos": "part"
+ },
+ {
+  "de": "is",
+  "ar": "هو (عامية)",
+  "pos": "part"
+ },
+ {
+  "de": "kW",
+  "ar": "كيلوواط",
+  "pos": "part"
+ },
+ {
+  "de": "langem",
+  "ar": "من زمان",
+  "pos": "adv"
+ },
+ {
+  "de": "las",
+  "ar": "كان بيقرا",
+  "pos": "verb"
+ },
+ {
+  "de": "mm",
+  "ar": "ميليمتر",
+  "pos": "part"
+ },
+ {
+  "de": "ots",
+  "ar": "خبر وكالة",
+  "pos": "part"
+ },
+ {
+  "de": "siehe",
+  "ar": "بص على",
+  "pos": "part"
+ },
+ {
+  "de": "sogleich",
+  "ar": "على الفور",
+  "pos": "adv"
+ },
+ {
+  "de": "sowas",
+  "ar": "حاجة زي كده",
+  "pos": "part"
+ },
+ {
+  "de": "top",
+  "ar": "توب / ممتاز",
+  "pos": "adj"
+ },
+ {
+  "de": "gäbe",
+  "ar": "لو فيه",
+  "pos": "part"
+ },
+ {
+  "de": "fänden",
+  "ar": "لو لقوا",
+  "pos": "part"
+ },
+ {
+  "de": "bringe",
+  "ar": "أجيب (شرط)",
+  "pos": "verb"
+ },
+ {
+  "de": "funktioniere",
+  "ar": "تشتغل (شرط)",
+  "pos": "verb"
+ },
+ {
+  "de": "gemäss",
+  "ar": "طبقا لـ (سويسري)",
+  "pos": "part"
+ }
+]
