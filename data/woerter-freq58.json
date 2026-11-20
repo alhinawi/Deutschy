@@ -1,0 +1,954 @@
+[
+ {
+  "de": "Baugerüst",
+  "ar": "السقالة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Baugerüste"
+ },
+ {
+  "de": "Baugrube",
+  "ar": "حفرة البناء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Baugruben"
+ },
+ {
+  "de": "Baugruppe",
+  "ar": "مجموعة البناء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Baugruppen"
+ },
+ {
+  "de": "Bauhaus",
+  "ar": "الباوهاوس",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bauhäuser"
+ },
+ {
+  "de": "Bauherr",
+  "ar": "صاحب المشروع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bauherren"
+ },
+ {
+  "de": "Bauholz",
+  "ar": "خشب البناء",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Baukindergeld",
+  "ar": "إعانة سكن الأطفال",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Baukostenzuschuss",
+  "ar": "دعم تكاليف البناء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Baukostenzuschüsse"
+ },
+ {
+  "de": "Baukran",
+  "ar": "الونش",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Baukräne"
+ },
+ {
+  "de": "Baukredit",
+  "ar": "قرض البناء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Baukredite"
+ },
+ {
+  "de": "Baukultur",
+  "ar": "ثقافة البناء",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bauland",
+  "ar": "أرض البناء",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Bauleiter",
+  "ar": "مدير الموقع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bauleiter"
+ },
+ {
+  "de": "Baulücke",
+  "ar": "أرض فاضية بين المباني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Baulücken"
+ },
+ {
+  "de": "Baumart",
+  "ar": "نوع الشجر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Baumarten"
+ },
+ {
+  "de": "Baumaschine",
+  "ar": "معدات البناء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Baumaschinen"
+ },
+ {
+  "de": "Baumbestand",
+  "ar": "المخزون الشجري",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Baumeister",
+  "ar": "المهندس البناء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Baumeister"
+ },
+ {
+  "de": "Baumexperte",
+  "ar": "خبير الشجر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Baumexperten"
+ },
+ {
+  "de": "Baumhaus",
+  "ar": "بيت الشجرة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Baumhäuser"
+ },
+ {
+  "de": "Bauminister",
+  "ar": "وزير البناء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bauminister"
+ },
+ {
+  "de": "Baumklettern",
+  "ar": "تسلق الشجر",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Baumkronenpfad",
+  "ar": "ممشى قمم الشجر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Baumkronenpfade"
+ },
+ {
+  "de": "Baumriese",
+  "ar": "الشجرة العملاقة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Baumriesen"
+ },
+ {
+  "de": "Baumstamm",
+  "ar": "جذع الشجرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Baumstämme"
+ },
+ {
+  "de": "Baumzucht",
+  "ar": "زراعة الشجر",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bauplan",
+  "ar": "مخطط البناء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Baupläne"
+ },
+ {
+  "de": "Baupreis",
+  "ar": "سعر البناء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Baupreise"
+ },
+ {
+  "de": "Bauproduktion",
+  "ar": "إنتاج البناء",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bauprogramm",
+  "ar": "برنامج البناء",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bauprogramme"
+ },
+ {
+  "de": "Bauqualität",
+  "ar": "جودة البناء",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bausachverständige",
+  "ar": "خبير البناء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bausachverständigen"
+ },
+ {
+  "de": "Bauschutt",
+  "ar": "مخلفات البناء",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Bausektor",
+  "ar": "قطاع البناء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bausektoren"
+ },
+ {
+  "de": "Bausparkasse",
+  "ar": "بنك التوفير العقاري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bausparkassen"
+ },
+ {
+  "de": "Baustandard",
+  "ar": "معيار البناء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Baustandards"
+ },
+ {
+  "de": "Baustart",
+  "ar": "بدء البناء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Baustarts"
+ },
+ {
+  "de": "Baustellenbereich",
+  "ar": "منطقة الورشة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Baustellenbereiche"
+ },
+ {
+  "de": "Baustellenbesichtigung",
+  "ar": "معاينة الورشة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Baustellenbesichtigungen"
+ },
+ {
+  "de": "Baustellensperrung",
+  "ar": "إغلاق الورشة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Baustellensperrungen"
+ },
+ {
+  "de": "Baustoff",
+  "ar": "مادة البناء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Baustoffe"
+ },
+ {
+  "de": "Baustoffhersteller",
+  "ar": "صانع مواد البناء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Baustoffhersteller"
+ },
+ {
+  "de": "Bausatz",
+  "ar": "طقم التركيب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bausätze"
+ },
+ {
+  "de": "Bauteil",
+  "ar": "قطعة البناء",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bauteile"
+ },
+ {
+  "de": "Bautrupp",
+  "ar": "فريق البناء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bautrupps"
+ },
+ {
+  "de": "Bauunternehmen",
+  "ar": "شركة المقاولات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bauunternehmen"
+ },
+ {
+  "de": "Bauweise",
+  "ar": "طريقة البناء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bauweisen"
+ },
+ {
+  "de": "Bauwerk",
+  "ar": "المنشأة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bauwerke"
+ },
+ {
+  "de": "Bauwerkszustand",
+  "ar": "حالة المنشأة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Bauzeit",
+  "ar": "مدة البناء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bauzeiten"
+ },
+ {
+  "de": "Bauzaun",
+  "ar": "سور الورشة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bauzäune"
+ },
+ {
+  "de": "Beach-Party",
+  "ar": "حفلة الشاطي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beach-Partys"
+ },
+ {
+  "de": "Beachbar",
+  "ar": "بار الشاطي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beachbars"
+ },
+ {
+  "de": "Beamtenschaft",
+  "ar": "فئة الموظفين الحكوميين",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Beanstandung",
+  "ar": "الشكوى / الملاحظة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beanstandungen"
+ },
+ {
+  "de": "Bearbeitungsschritt",
+  "ar": "خطوة المعالجة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bearbeitungsschritte"
+ },
+ {
+  "de": "Beaufsichtigung",
+  "ar": "الإشراف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beaufsichtigungen"
+ },
+ {
+  "de": "Beauftragte",
+  "ar": "المفوض",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Beauftragten"
+ },
+ {
+  "de": "Bebauungsplan",
+  "ar": "مخطط التعمير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bebauungspläne"
+ },
+ {
+  "de": "Beckenfraktur",
+  "ar": "كسر الحوض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beckenfrakturen"
+ },
+ {
+  "de": "Bedarfserhebung",
+  "ar": "جمع الاحتياجات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bedarfserhebungen"
+ },
+ {
+  "de": "Bedarfsplanung",
+  "ar": "تخطيط الاحتياجات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bedarfsplanungen"
+ },
+ {
+  "de": "Bedenkzeit",
+  "ar": "مهلة التفكير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bedenkzeiten"
+ },
+ {
+  "de": "Bedeutsamkeit",
+  "ar": "الأهمية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bedienelement",
+  "ar": "عنصر التحكم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bedienelemente"
+ },
+ {
+  "de": "Bediener",
+  "ar": "المشغل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bediener"
+ },
+ {
+  "de": "Bedienungsanleitung",
+  "ar": "دليل الاستخدام",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bedienungsanleitungen"
+ },
+ {
+  "de": "Bedrohungslage",
+  "ar": "وضع التهديد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bedrohungslagen"
+ },
+ {
+  "de": "Bedrängnis",
+  "ar": "الضيق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bedrängnisse"
+ },
+ {
+  "de": "Bedürftige",
+  "ar": "المحتاج",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bedürftigen"
+ },
+ {
+  "de": "Bedürftigkeit",
+  "ar": "الاحتياج",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Beeinflussung",
+  "ar": "التأثير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beeinflussungen"
+ },
+ {
+  "de": "Beerenobst",
+  "ar": "فواكه التوت",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Beet",
+  "ar": "الحوض (زرع)",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Beete"
+ },
+ {
+  "de": "Befangenheit",
+  "ar": "الانحياز (قانوني)",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Befestigungsanlage",
+  "ar": "التحصينات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Befestigungsanlagen"
+ },
+ {
+  "de": "Befindlichkeit",
+  "ar": "الحالة (شكاوى)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Befindlichkeiten"
+ },
+ {
+  "de": "Befreiungsschlag",
+  "ar": "ضربة التحرر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Befreiungsschläge"
+ },
+ {
+  "de": "Befristung",
+  "ar": "التحديد بمدة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Befristungen"
+ },
+ {
+  "de": "Befruchtung",
+  "ar": "التخصيب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Befruchtungen"
+ },
+ {
+  "de": "Befugnis",
+  "ar": "الصلاحية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Befugnisse"
+ },
+ {
+  "de": "Befund",
+  "ar": "نتيجة الفحص",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Befunde"
+ },
+ {
+  "de": "Befürchtung",
+  "ar": "التخوف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Befürchtungen"
+ },
+ {
+  "de": "Begebenheit",
+  "ar": "الواقعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Begebenheiten"
+ },
+ {
+  "de": "Begegnungsort",
+  "ar": "مكان اللقاء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Begegnungsorte"
+ },
+ {
+  "de": "Begegnungszone",
+  "ar": "منطقة المشاة المشتركة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Begegnungszonen"
+ },
+ {
+  "de": "Begehrlichkeit",
+  "ar": "الأطماع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Begehrlichkeiten"
+ },
+ {
+  "de": "Begehung",
+  "ar": "الارتكاب / الجولة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Begehungen"
+ },
+ {
+  "de": "Begleichung",
+  "ar": "السداد",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Begleiterin",
+  "ar": "المرافقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Begleiterinnen"
+ },
+ {
+  "de": "Begleitkosten",
+  "ar": "التكاليف المرافقة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Begleitmusiker",
+  "ar": "الموسيقي المرافق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Begleitmusiker"
+ },
+ {
+  "de": "Begleitperson",
+  "ar": "المرافق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Begleitpersonen"
+ },
+ {
+  "de": "Begnadigung",
+  "ar": "العفو الرئاسي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Begnadigungen"
+ },
+ {
+  "de": "Begräbnis",
+  "ar": "الجنازة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Begräbnisse"
+ },
+ {
+  "de": "Begründer",
+  "ar": "المؤسس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Begründer"
+ },
+ {
+  "de": "Begrüßung",
+  "ar": "الترحيب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Begrüßungen"
+ },
+ {
+  "de": "Begrüßungsrede",
+  "ar": "كلمة الترحيب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Begrüßungsreden"
+ },
+ {
+  "de": "Begutachtung",
+  "ar": "التقييم الخبيري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Begutachtungen"
+ },
+ {
+  "de": "Begünstigte",
+  "ar": "المستفيد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Begünstigten"
+ },
+ {
+  "de": "Begünstigung",
+  "ar": "التفضيل / المعونة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Begünstigungen"
+ },
+ {
+  "de": "Behandlungsform",
+  "ar": "شكل العلاج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Behandlungsformen"
+ },
+ {
+  "de": "Behandlungsmöglichkeit",
+  "ar": "إمكانية العلاج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Behandlungsmöglichkeiten"
+ },
+ {
+  "de": "Behandlungsoption",
+  "ar": "خيار العلاج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Behandlungsoptionen"
+ },
+ {
+  "de": "Behandlungsqualität",
+  "ar": "جودة العلاج",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Behandlungszimmer",
+  "ar": "أوضة العلاج",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Behandlungszimmer"
+ },
+ {
+  "de": "Beharrlichkeit",
+  "ar": "المثابرة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Behausung",
+  "ar": "المسكن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Behausungen"
+ },
+ {
+  "de": "Behindertenbeauftragte",
+  "ar": "مفوض ذوي الإعاقة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Behindertenbeauftragten"
+ },
+ {
+  "de": "Behindertenparkplatz",
+  "ar": "موقف ذوي الإعاقة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Behindertenparkplätze"
+ },
+ {
+  "de": "Behindertensport",
+  "ar": "رياضة ذوي الإعاقة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Behördenmitarbeiter",
+  "ar": "موظف الجهات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Behördenmitarbeiter"
+ },
+ {
+  "de": "Beifahrerfenster",
+  "ar": "شباك الركاب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Beifahrerfenster"
+ },
+ {
+  "de": "Beigeordnete",
+  "ar": "نائب العمدة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Beigeordneten"
+ },
+ {
+  "de": "Beilage",
+  "ar": "الطبق الجانبي / الملحق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beilagen"
+ },
+ {
+  "de": "Beilegung",
+  "ar": "التسوية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beilegungen"
+ },
+ {
+  "de": "Beinfreiheit",
+  "ar": "مساحة الرجلين",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Beinverletzung",
+  "ar": "إصابة الرجل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beinverletzungen"
+ },
+ {
+  "de": "Beiprogramm",
+  "ar": "البرنامج المصاحب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Beiprogramme"
+ },
+ {
+  "de": "Beirat",
+  "ar": "المجلس الاستشاري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Beiräte"
+ },
+ {
+  "de": "Beisammensein",
+  "ar": "التجمع",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Beisetzung",
+  "ar": "الدفن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beisetzungen"
+ },
+ {
+  "de": "Beispielrechnung",
+  "ar": "مثال حسابي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beispielrechnungen"
+ },
+ {
+  "de": "Beistandspakt",
+  "ar": "حلف المساندة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Beistandspakte"
+ },
+ {
+  "de": "Beitragserhöhung",
+  "ar": "زيادة الاشتراك",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beitragserhöhungen"
+ },
+ {
+  "de": "Beitragshöhe",
+  "ar": "قيمة الاشتراك",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Beitragspflicht",
+  "ar": "إلزامية الاشتراك",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Beitragssatz",
+  "ar": "معدل الاشتراك",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Beitragssätze"
+ },
+ {
+  "de": "Beitragszahler",
+  "ar": "دافع الاشتراك",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Beitragszahler"
+ },
+ {
+  "de": "Beitrittsgesuch",
+  "ar": "طلب الانضمام",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Beitrittsgesuche"
+ },
+ {
+  "de": "Beitrittskandidat",
+  "ar": "مرشح الانضمام",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Beitrittskandidaten"
+ },
+ {
+  "de": "Beitrittsverhandlung",
+  "ar": "مفاوضات الانضمام",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beitrittsverhandlungen"
+ },
+ {
+  "de": "Bejagung",
+  "ar": "الصيد",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bekanntheit",
+  "ar": "الشهرة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bekanntwerden",
+  "ar": "الانكشاف",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Bekenntnis",
+  "ar": "الاعتراف / العقيدة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bekenntnisse"
+ },
+ {
+  "de": "Beklemmung",
+  "ar": "الكآبة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beklemmungen"
+ },
+ {
+  "de": "Belagerung",
+  "ar": "الحصار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Belagerungen"
+ },
+ {
+  "de": "Beleidigung",
+  "ar": "الإهانة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beleidigungen"
+ },
+ {
+  "de": "Belichtung",
+  "ar": "التعريض (تصوير)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Belichtungen"
+ }
+]
