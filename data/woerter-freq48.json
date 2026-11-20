@@ -1,0 +1,657 @@
+[
+ {
+  "de": "verpflichtend",
+  "ar": "إلزامي",
+  "pos": "adj"
+ },
+ {
+  "de": "verschleiern",
+  "ar": "يخفي / يلبس",
+  "pos": "verb"
+ },
+ {
+  "de": "verschlagen",
+  "ar": "يدهش / ياخده لـ",
+  "pos": "verb"
+ },
+ {
+  "de": "verschlüsseln",
+  "ar": "يشفر",
+  "pos": "verb"
+ },
+ {
+  "de": "verschmutzen",
+  "ar": "يلوث",
+  "pos": "verb"
+ },
+ {
+  "de": "verschneit",
+  "ar": "مثلج",
+  "pos": "adj"
+ },
+ {
+  "de": "verschollen",
+  "ar": "مفقود",
+  "pos": "adj"
+ },
+ {
+  "de": "verschwimmen",
+  "ar": "يتلاشى",
+  "pos": "verb"
+ },
+ {
+  "de": "verschütten",
+  "ar": "يسكب / يدفن",
+  "pos": "verb"
+ },
+ {
+  "de": "versenden",
+  "ar": "يبعت بالبريد",
+  "pos": "verb"
+ },
+ {
+  "de": "verspielt",
+  "ar": "مرح",
+  "pos": "adj"
+ },
+ {
+  "de": "verspüren",
+  "ar": "يحس",
+  "pos": "verb"
+ },
+ {
+  "de": "versteigern",
+  "ar": "يبيع بالمزاد",
+  "pos": "verb"
+ },
+ {
+  "de": "verstreichen",
+  "ar": "يعدي (وقت)",
+  "pos": "verb"
+ },
+ {
+  "de": "verstreuen",
+  "ar": "يبعثر",
+  "pos": "verb"
+ },
+ {
+  "de": "versöhnlich",
+  "ar": "متصالح",
+  "pos": "adj"
+ },
+ {
+  "de": "verteuern",
+  "ar": "يغلى",
+  "pos": "verb"
+ },
+ {
+  "de": "verunsichern",
+  "ar": "يقلق / يزعزع ثقته",
+  "pos": "verb"
+ },
+ {
+  "de": "verwehren",
+  "ar": "يمنع عنه",
+  "pos": "verb"
+ },
+ {
+  "de": "verwinkelt",
+  "ar": "متعرج / معقد",
+  "pos": "adj"
+ },
+ {
+  "de": "verwoben",
+  "ar": "متشابك",
+  "pos": "adj"
+ },
+ {
+  "de": "verwunderlich",
+  "ar": "مدهش",
+  "pos": "adj"
+ },
+ {
+  "de": "verwunden",
+  "ar": "يجرح",
+  "pos": "verb"
+ },
+ {
+  "de": "verwunschen",
+  "ar": "مسحور",
+  "pos": "adj"
+ },
+ {
+  "de": "verwüsten",
+  "ar": "يدمر",
+  "pos": "verb"
+ },
+ {
+  "de": "verzerren",
+  "ar": "يشوه",
+  "pos": "verb"
+ },
+ {
+  "de": "vielerlei",
+  "ar": "متنوع كتير",
+  "pos": "adj"
+ },
+ {
+  "de": "vielversprechend",
+  "ar": "واعد",
+  "pos": "adj"
+ },
+ {
+  "de": "vierjährig",
+  "ar": "أربع سنين",
+  "pos": "adj"
+ },
+ {
+  "de": "visuell",
+  "ar": "بصري",
+  "pos": "adj"
+ },
+ {
+  "de": "vollelektrisch",
+  "ar": "كهربائي بالكامل",
+  "pos": "adj"
+ },
+ {
+  "de": "vollends",
+  "ar": "تماما",
+  "pos": "adv"
+ },
+ {
+  "de": "vollziehen",
+  "ar": "ينفذ / يتم",
+  "pos": "verb"
+ },
+ {
+  "de": "vorangegangen",
+  "ar": "سابق",
+  "pos": "adj"
+ },
+ {
+  "de": "vorausgesetzt",
+  "ar": "بشرط",
+  "pos": "conj"
+ },
+ {
+  "de": "vorbehalten",
+  "ar": "محجوز / محتفظ بـ",
+  "pos": "adj"
+ },
+ {
+  "de": "vorbeugen",
+  "ar": "يقي",
+  "pos": "verb"
+ },
+ {
+  "de": "vordergründig",
+  "ar": "ظاهري",
+  "pos": "adj"
+ },
+ {
+  "de": "vordringen",
+  "ar": "يتقدم / يوصل",
+  "pos": "verb"
+ },
+ {
+  "de": "vorfinden",
+  "ar": "يلاقي موجود",
+  "pos": "verb"
+ },
+ {
+  "de": "vorrücken",
+  "ar": "يتقدم",
+  "pos": "verb"
+ },
+ {
+  "de": "vorhalten",
+  "ar": "يعاتبه / يوفر",
+  "pos": "verb"
+ },
+ {
+  "de": "vorig",
+  "ar": "اللي فات",
+  "pos": "adj"
+ },
+ {
+  "de": "vorletzt",
+  "ar": "اللي قبل الأخير",
+  "pos": "adj"
+ },
+ {
+  "de": "vorliebnehmen",
+  "ar": "يكتفي بـ",
+  "pos": "verb"
+ },
+ {
+  "de": "vormalig",
+  "ar": "السابق",
+  "pos": "adj"
+ },
+ {
+  "de": "vornehmlich",
+  "ar": "بالأساس",
+  "pos": "adv"
+ },
+ {
+  "de": "vorsätzlich",
+  "ar": "عمدا",
+  "pos": "adj"
+ },
+ {
+  "de": "vorüber",
+  "ar": "فات / خلص",
+  "pos": "adv"
+ },
+ {
+  "de": "wachen",
+  "ar": "يفضل صاحي",
+  "pos": "verb"
+ },
+ {
+  "de": "wackeln",
+  "ar": "يهتز",
+  "pos": "verb"
+ },
+ {
+  "de": "wahlberechtigt",
+  "ar": "له حق التصويت",
+  "pos": "adj"
+ },
+ {
+  "de": "wahllos",
+  "ar": "عشوائي",
+  "pos": "adj"
+ },
+ {
+  "de": "wahlweise",
+  "ar": "اختياري",
+  "pos": "adv"
+ },
+ {
+  "de": "wechselhaft",
+  "ar": "متقلب",
+  "pos": "adj"
+ },
+ {
+  "de": "wegfallen",
+  "ar": "يتلغى / يتشال",
+  "pos": "verb"
+ },
+ {
+  "de": "wegweisend",
+  "ar": "رائد",
+  "pos": "adj"
+ },
+ {
+  "de": "wehrhaft",
+  "ar": "قادر على الدفاع",
+  "pos": "adj"
+ },
+ {
+  "de": "weigern",
+  "ar": "يرفض",
+  "pos": "verb"
+ },
+ {
+  "de": "weiterhelfen",
+  "ar": "يساعده يكمل",
+  "pos": "verb"
+ },
+ {
+  "de": "weiterkämpfen",
+  "ar": "يكمل كفاح",
+  "pos": "verb"
+ },
+ {
+  "de": "weiterverkaufen",
+  "ar": "يبيعه تاني",
+  "pos": "verb"
+ },
+ {
+  "de": "weithin",
+  "ar": "على نطاق واسع",
+  "pos": "adv"
+ },
+ {
+  "de": "westafrikanisch",
+  "ar": "غرب أفريقي",
+  "pos": "adj"
+ },
+ {
+  "de": "wiederwählen",
+  "ar": "يعيد انتخابه",
+  "pos": "verb"
+ },
+ {
+  "de": "wiederkehrend",
+  "ar": "متكرر",
+  "pos": "adj"
+ },
+ {
+  "de": "wiederverwenden",
+  "ar": "يعيد استخدام",
+  "pos": "verb"
+ },
+ {
+  "de": "wiederverwerten",
+  "ar": "يعيد تدوير",
+  "pos": "verb"
+ },
+ {
+  "de": "wirr",
+  "ar": "مشوش",
+  "pos": "adj"
+ },
+ {
+  "de": "wirtschaftspolitisch",
+  "ar": "اقتصادي (سياسة)",
+  "pos": "adj"
+ },
+ {
+  "de": "wochentags",
+  "ar": "أيام الأسبوع",
+  "pos": "adv"
+ },
+ {
+  "de": "wohlfeil",
+  "ar": "رخيص",
+  "pos": "adj"
+ },
+ {
+  "de": "wohlfühlen",
+  "ar": "يرتاح",
+  "pos": "verb"
+ },
+ {
+  "de": "wohlhabend",
+  "ar": "ميسور",
+  "pos": "adj"
+ },
+ {
+  "de": "wohltätig",
+  "ar": "خيري",
+  "pos": "adj"
+ },
+ {
+  "de": "wohlwollend",
+  "ar": "متعاطف",
+  "pos": "adj"
+ },
+ {
+  "de": "wuchtig",
+  "ar": "ضخم وثقيل",
+  "pos": "adj"
+ },
+ {
+  "de": "wünschenswert",
+  "ar": "مرغوب",
+  "pos": "adj"
+ },
+ {
+  "de": "würdig",
+  "ar": "جدير / محترم",
+  "pos": "adj"
+ },
+ {
+  "de": "zaghaft",
+  "ar": "متردد بخوف",
+  "pos": "adj"
+ },
+ {
+  "de": "zahnlos",
+  "ar": "بلا أسنان / ضعيف",
+  "pos": "adj"
+ },
+ {
+  "de": "zappenduster",
+  "ar": "ضلمة دامسة",
+  "pos": "adj"
+ },
+ {
+  "de": "zart",
+  "ar": "رقيق",
+  "pos": "adj"
+ },
+ {
+  "de": "zaubern",
+  "ar": "يعمل سحر",
+  "pos": "verb"
+ },
+ {
+  "de": "zehnjährig",
+  "ar": "عشر سنين",
+  "pos": "adj"
+ },
+ {
+  "de": "zehnmal",
+  "ar": "عشر مرات",
+  "pos": "adv"
+ },
+ {
+  "de": "zeitgemäß",
+  "ar": "عصري",
+  "pos": "adj"
+ },
+ {
+  "de": "zeitgenössisch",
+  "ar": "معاصر",
+  "pos": "adj"
+ },
+ {
+  "de": "zeitlich",
+  "ar": "زمني",
+  "pos": "adj"
+ },
+ {
+  "de": "zeitlos",
+  "ar": "خالد الموضة",
+  "pos": "adj"
+ },
+ {
+  "de": "zelebrieren",
+  "ar": "يحتفل بـ",
+  "pos": "verb"
+ },
+ {
+  "de": "zerbrechen",
+  "ar": "يتكسر",
+  "pos": "verb"
+ },
+ {
+  "de": "zerlegen",
+  "ar": "يفكك",
+  "pos": "verb"
+ },
+ {
+  "de": "zerreißen",
+  "ar": "يمشق",
+  "pos": "verb"
+ },
+ {
+  "de": "zerschlagen",
+  "ar": "يحطم",
+  "pos": "verb"
+ },
+ {
+  "de": "zielführend",
+  "ar": "مفيد للهدف",
+  "pos": "adj"
+ },
+ {
+  "de": "zielstrebig",
+  "ar": "طموح مركز",
+  "pos": "adj"
+ },
+ {
+  "de": "zielen",
+  "ar": "يصوب",
+  "pos": "verb"
+ },
+ {
+  "de": "zierlich",
+  "ar": "رشيق",
+  "pos": "adj"
+ },
+ {
+  "de": "zubereiten",
+  "ar": "يجهز (أكل)",
+  "pos": "verb"
+ },
+ {
+  "de": "zugehören",
+  "ar": "ينتمي",
+  "pos": "verb"
+ },
+ {
+  "de": "zuspielen",
+  "ar": "يمررله / يوصله",
+  "pos": "verb"
+ },
+ {
+  "de": "zuspitzen",
+  "ar": "يتفاقم",
+  "pos": "verb"
+ },
+ {
+  "de": "zusprechen",
+  "ar": "يحكم له / يشجع",
+  "pos": "verb"
+ },
+ {
+  "de": "zugehen",
+  "ar": "يحصل / يتقفل",
+  "pos": "verb"
+ },
+ {
+  "de": "zugucken",
+  "ar": "يتفرج",
+  "pos": "verb"
+ },
+ {
+  "de": "zugutekommen",
+  "ar": "يفيده",
+  "pos": "verb"
+ },
+ {
+  "de": "zukunftsfähig",
+  "ar": "صالح للمستقبل",
+  "pos": "adj"
+ },
+ {
+  "de": "zulasten",
+  "ar": "على حساب",
+  "pos": "prep"
+ },
+ {
+  "de": "zuliebe",
+  "ar": "من أجله",
+  "pos": "prep"
+ },
+ {
+  "de": "zulässig",
+  "ar": "مسموح",
+  "pos": "adj"
+ },
+ {
+  "de": "zurückbekommen",
+  "ar": "يسترجعه",
+  "pos": "verb"
+ },
+ {
+  "de": "zurückgehen",
+  "ar": "يرجع / يقل",
+  "pos": "verb"
+ },
+ {
+  "de": "zurücklegen",
+  "ar": "يقطع (مسافة)",
+  "pos": "verb"
+ },
+ {
+  "de": "zurücknehmen",
+  "ar": "يسحب (كلام)",
+  "pos": "verb"
+ },
+ {
+  "de": "zurückrufen",
+  "ar": "يستدعي / يسحب منتج",
+  "pos": "verb"
+ },
+ {
+  "de": "zurückweisen",
+  "ar": "يرفض / يرد",
+  "pos": "verb"
+ },
+ {
+  "de": "zurückhaltend",
+  "ar": "متحفظ",
+  "pos": "adj"
+ },
+ {
+  "de": "zurückliegen",
+  "ar": "يعدي / يبقى ورا",
+  "pos": "verb"
+ },
+ {
+  "de": "zurückversetzen",
+  "ar": "يرجعه لمكانه",
+  "pos": "verb"
+ },
+ {
+  "de": "zusammenbrechen",
+  "ar": "ينهار",
+  "pos": "verb"
+ },
+ {
+  "de": "zusammenkommen",
+  "ar": "يجتمع",
+  "pos": "verb"
+ },
+ {
+  "de": "zusammenwachsen",
+  "ar": "يكبر مع بعض",
+  "pos": "verb"
+ },
+ {
+  "de": "zusammenhalten",
+  "ar": "يتماسك",
+  "pos": "verb"
+ },
+ {
+  "de": "zusammenhängen",
+  "ar": "يرتبط",
+  "pos": "verb"
+ },
+ {
+  "de": "zusammenreißen",
+  "ar": "يمسك نفسه",
+  "pos": "verb"
+ },
+ {
+  "de": "zuschauen",
+  "ar": "يتفرج",
+  "pos": "verb"
+ },
+ {
+  "de": "zustehen",
+  "ar": "يستحق",
+  "pos": "verb"
+ },
+ {
+  "de": "zweckgebunden",
+  "ar": "مخصص لغرض",
+  "pos": "adj"
+ },
+ {
+  "de": "zweifellos",
+  "ar": "بلا شك",
+  "pos": "adv"
+ },
+ {
+  "de": "zwangsweise",
+  "ar": "جبري / إجباري",
+  "pos": "adj"
+ }
+]
