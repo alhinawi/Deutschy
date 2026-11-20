@@ -18,14 +18,17 @@ const addUser = (id, name, xp, best = 1) => {
   sqlite.prepare('INSERT INTO users VALUES(?,?)').run(id, name);
   sqlite.prepare('INSERT INTO account_state(user_id,data,revision,updated_at) VALUES(?,?,1,0)').run(id, JSON.stringify({ 'deutschy:v1': JSON.stringify({ xp, best }) }));
 };
-const PLACEHOLDERS = ['Lena', 'Jonas', 'Marie', 'Finn', 'Leonie', 'Paul', 'Clara', 'Emil', 'Mia', 'Noah'];
+const PLACEHOLDERS = ['Ahmed', 'Mostafa', 'Nour', 'Omar', 'Salma', 'Youssef', 'Mariam', 'Hana', 'Kareem', 'Farah'];
 let checks = 0;
 // Empty site: the board is ten placeholders, highest XP first.
 let data = await board();
 assert.equal(data.xp.length, 10);
 assert.deepEqual(data.xp.map(r => r.name), PLACEHOLDERS);
 assert(data.xp.every((r, i, a) => i === 0 || a[i - 1].xp >= r.xp));
-checks += 3;
+assert.equal(data.xp.filter(r => r.avatar).length, 7);
+assert.equal(data.xp.filter(r => r.avatar === null).length, 3);
+assert(data.xp.every(r => r.placeholder === true));
+checks += 6;
 // A registered user with zero XP has not started studying and stays off the board.
 addUser(1, 'Zero', 0);
 data = await board();
@@ -39,7 +42,7 @@ assert.equal(data.xp.length, 10);
 assert.equal(data.xp.filter(r => PLACEHOLDERS.includes(r.name)).length, 9);
 assert.equal(data.xp.find(r => r.name === 'RealOne').xp, 150);
 assert(data.xp.every((r, i, a) => i === 0 || a[i - 1].xp >= r.xp));
-assert(data.xp.findIndex(r => r.name === 'RealOne') < data.xp.findIndex(r => r.name === 'Finn'));
+assert(data.xp.findIndex(r => r.name === 'RealOne') < data.xp.findIndex(r => r.name === 'Omar'));
 checks += 5;
 // Legacy progress counters without a snapshot still rank.
 sqlite.prepare('INSERT INTO users VALUES(?,?)').run(3, 'Legacy');

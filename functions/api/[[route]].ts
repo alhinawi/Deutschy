@@ -305,17 +305,17 @@ const ACCOUNT_PROGRESS_SQL=`(
 // Only registered learners who started studying (xp > 0) rank. Placeholder leaders fill the
 // remaining slots so a new board never looks empty; every real learner who earns XP takes one
 // placeholder's slot, and the combined list stays ordered by XP.
-const PLACEHOLDER_LEADERS: { name: string; xp: number; best: number }[] = [
-  { name: 'Lena', xp: 240, best: 6 },
-  { name: 'Jonas', xp: 195, best: 5 },
-  { name: 'Marie', xp: 160, best: 4 },
-  { name: 'Finn', xp: 130, best: 4 },
-  { name: 'Leonie', xp: 105, best: 3 },
-  { name: 'Paul', xp: 80, best: 3 },
-  { name: 'Clara', xp: 60, best: 2 },
-  { name: 'Emil', xp: 45, best: 2 },
-  { name: 'Mia', xp: 30, best: 1 },
-  { name: 'Noah', xp: 20, best: 1 },
+const PLACEHOLDER_LEADERS: { name: string; xp: number; best: number; avatar: string | null; placeholder: true }[] = [
+  { name: 'Ahmed', xp: 240, best: 6, avatar: '/images/leaders/leader-1.jpg', placeholder: true },
+  { name: 'Mostafa', xp: 195, best: 5, avatar: '/images/leaders/leader-2.jpg', placeholder: true },
+  { name: 'Nour', xp: 160, best: 4, avatar: null, placeholder: true },
+  { name: 'Omar', xp: 130, best: 4, avatar: '/images/leaders/leader-3.jpg', placeholder: true },
+  { name: 'Salma', xp: 105, best: 3, avatar: '/images/leaders/leader-4.jpg', placeholder: true },
+  { name: 'Youssef', xp: 80, best: 3, avatar: null, placeholder: true },
+  { name: 'Mariam', xp: 60, best: 2, avatar: '/images/leaders/leader-5.jpg', placeholder: true },
+  { name: 'Hana', xp: 45, best: 2, avatar: '/images/leaders/leader-6.jpg', placeholder: true },
+  { name: 'Kareem', xp: 30, best: 1, avatar: null, placeholder: true },
+  { name: 'Farah', xp: 20, best: 1, avatar: '/images/leaders/leader-7.jpg', placeholder: true },
 ];
 const BOARD_SIZE = 10;
 
