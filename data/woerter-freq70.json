@@ -1,0 +1,372 @@
+[
+ {
+  "de": "Drücker",
+  "ar": "المقبض / الزناد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Drücker"
+ },
+ {
+  "de": "Dschihad",
+  "ar": "الجهاد",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Dual-Studierende",
+  "ar": "طالب الدراسة المزدوجة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dual-Studierenden"
+ },
+ {
+  "de": "Dual-Use-Güter",
+  "ar": "بضايع مزدوجة الاستخدام",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Dudelsack",
+  "ar": "مزمار القربة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dudelsäcke"
+ },
+ {
+  "de": "Dumpingpreis",
+  "ar": "سعر الإغراق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dumpingpreise"
+ },
+ {
+  "de": "Dunkelflaute",
+  "ar": "الركود المظلم (طاقة)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dunkelflauten"
+ },
+ {
+  "de": "Durchblick",
+  "ar": "الفهم",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Durchfahrt",
+  "ar": "المرور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Durchfahrten"
+ },
+ {
+  "de": "Durchhalteparole",
+  "ar": "شعار الصمود",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Durchhalteparolen"
+ },
+ {
+  "de": "Durchimpfung",
+  "ar": "معدل التطعيم",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Durchlauf",
+  "ar": "الجولة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Durchläufe"
+ },
+ {
+  "de": "Durchlässigkeit",
+  "ar": "النفاذية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Durchquerung",
+  "ar": "العبور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Durchquerungen"
+ },
+ {
+  "de": "Durchschnittsbürger",
+  "ar": "المواطن العادي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Durchschnittsbürger"
+ },
+ {
+  "de": "Durchschnittseinkommen",
+  "ar": "الدخل المتوسط",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Durchschnittseinkommen"
+ },
+ {
+  "de": "Durchschnittspreis",
+  "ar": "السعر المتوسط",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Durchschnittspreise"
+ },
+ {
+  "de": "Durchschnittstemperatur",
+  "ar": "درجة الحرارة المتوسطة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Durchschnittstemperaturen"
+ },
+ {
+  "de": "Durchschnittswert",
+  "ar": "القيمة المتوسطة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Durchschnittswerte"
+ },
+ {
+  "de": "Durchsetzungsvermögen",
+  "ar": "القدرة على الفرض",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Durstlöscher",
+  "ar": "مشروب الريقي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Durstlöscher"
+ },
+ {
+  "de": "Dämmerung",
+  "ar": "الغسق",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Dänin",
+  "ar": "الدنماركية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Däninnen"
+ },
+ {
+  "de": "Dünger",
+  "ar": "السماد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dünger"
+ },
+ {
+  "de": "Dürreperiode",
+  "ar": "فترة الجفاف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dürreperioden"
+ },
+ {
+  "de": "Düse",
+  "ar": "الفوهة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Düsen"
+ },
+ {
+  "de": "E-Auto-Besitzer",
+  "ar": "صاحب العربية الكهربا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "E-Auto-Besitzer"
+ },
+ {
+  "de": "E-Autobauer",
+  "ar": "صانع العربيات الكهربا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "E-Autobauer"
+ },
+ {
+  "de": "E-Book-Reader",
+  "ar": "قارئ الكتب الإلكترونية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "E-Book-Reader"
+ },
+ {
+  "de": "E-Lkw",
+  "ar": "النقل الكهربا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "E-Lkws"
+ },
+ {
+  "de": "E-Motor",
+  "ar": "الموتور الكهربا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "E-Motoren"
+ },
+ {
+  "de": "E-Rezept",
+  "ar": "الروشتة الإلكترونية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "E-Rezepte"
+ },
+ {
+  "de": "E-Transporter",
+  "ar": "الفان الكهربا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "E-Transporter"
+ },
+ {
+  "de": "E-Zigarette",
+  "ar": "السيجارة الإلكترونية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "E-Zigaretten"
+ },
+ {
+  "de": "EM-Achtelfinale",
+  "ar": "دور ال16 لليورو",
+  "pos": "noun",
+  "art": "das",
+  "pl": "EM-Achtelfinals"
+ },
+ {
+  "de": "EM-Finale",
+  "ar": "نهائي اليورو",
+  "pos": "noun",
+  "art": "das",
+  "pl": "EM-Finals"
+ },
+ {
+  "de": "EM-Halbfinale",
+  "ar": "نصف نهائي اليورو",
+  "pos": "noun",
+  "art": "das",
+  "pl": "EM-Halbfinals"
+ },
+ {
+  "de": "EM-Teilnehmer",
+  "ar": "مشارك اليورو",
+  "pos": "noun",
+  "art": "der",
+  "pl": "EM-Teilnehmer"
+ },
+ {
+  "de": "EM-Titel",
+  "ar": "لقب اليورو",
+  "pos": "noun",
+  "art": "der",
+  "pl": "EM-Titel"
+ },
+ {
+  "de": "ETF",
+  "ar": "صندوق المؤشرات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "ETFs"
+ },
+ {
+  "de": "EU-Abgeordnete",
+  "ar": "عضو البرلمان الأوروبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "EU-Abgeordneten"
+ },
+ {
+  "de": "EU-Austritt",
+  "ar": "الخروج من الاتحاد الأوروبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "EU-Austritte"
+ },
+ {
+  "de": "EU-Außenbeauftragte",
+  "ar": "مفوض الخارجية الأوروبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "EU-Außenbeauftragten"
+ },
+ {
+  "de": "EU-Beitritt",
+  "ar": "الانضمام للاتحاد الأوروبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "EU-Beitritte"
+ },
+ {
+  "de": "EU-Botschafter",
+  "ar": "سفير الاتحاد الأوروبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "EU-Botschafter"
+ },
+ {
+  "de": "EU-Flagge",
+  "ar": "علم الاتحاد الأوروبي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "EU-Flaggen"
+ },
+ {
+  "de": "EU-Kommissar",
+  "ar": "المفوض الأوروبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "EU-Kommissare"
+ },
+ {
+  "de": "EU-Land",
+  "ar": "دولة الاتحاد الأوروبي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "EU-Länder"
+ },
+ {
+  "de": "EU-Mitgliedsstaat",
+  "ar": "الدولة العضو",
+  "pos": "noun",
+  "art": "der",
+  "pl": "EU-Mitgliedsstaaten"
+ },
+ {
+  "de": "EU-Ratspräsident",
+  "ar": "رئيس المجلس الأوروبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "EU-Ratspräsidenten"
+ },
+ {
+  "de": "EU-Verordnung",
+  "ar": "لائحة الاتحاد الأوروبي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "EU-Verordnungen"
+ },
+ {
+  "de": "EU-Vertrag",
+  "ar": "معاهدة الاتحاد الأوروبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "EU-Verträge"
+ },
+ {
+  "de": "EZB-Präsident",
+  "ar": "رئيس البنك المركزي الأوروبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "EZB-Präsidenten"
+ },
+ {
+  "de": "Earbuds",
+  "ar": "السماعات",
+  "pos": "noun",
+  "pluralOnly": true
+ }
+]
