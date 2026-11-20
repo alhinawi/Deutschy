@@ -63,6 +63,7 @@ export const sidebar: NavGroup[] = [
     { href: '/practical-words/', ar: 'كلمات الورق والشغل والدراسة', en: 'Work, paperwork and study words' },
     { href: '/context-packs/', ar: 'كلمات للمشاوير والشغل', en: 'Everyday context packs' },
     { href: '/lessons/', ar: 'المفردات بالموضوع', en: 'Vocabulary by topic' },
+    { href: '/woerter/', ar: 'قاموس الكلمات', en: 'Word dictionary' },
     { href: '/sound-contrasts/', ar: 'اسمع فرق الأصوات', en: 'Sound contrast lab' },
     { href: '/pronunciation/', ar: 'النطق', en: 'Pronunciation' },
     { href: '/learn/', ar: 'أساسيات', en: 'Basics' },

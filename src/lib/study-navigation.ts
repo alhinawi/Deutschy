@@ -5,7 +5,7 @@ function take(paths:string[]){return paths.flatMap(href=>{const item=all.find(i=
 const dashboard=take(['/']);const courses=take(['/levels/','/lernpfad/','/start/','/weekly-plan/',...all.filter(i=>/^\/levels\/|^\/(a2|b1|b2|c1|c2)\//.test(i.href)).map(i=>i.href)]);
 const academies=[
  {id:'grammar',ar:'أكاديمية الجرامر',en:'Grammar academy',paths:['/grammar/','/grammar-map/','/learn/','/verbs/','/conjugation/','/praesens/','/verbs/trainer/','/perfekt/','/trennbare-verben/','/zahlen/','/adjektivendungen/','/kasus/','/case-lab/','/praepositionen/','/negation/','/word-formation/','/pitfalls/']},
- {id:'words',ar:'أكاديمية الكلمات',en:'Vocabulary academy',paths:['/lessons/','/animals/','/food/','/drinks/','/wortschatz/','/practical-words/','/context-packs/']},
+ {id:'words',ar:'أكاديمية الكلمات',en:'Vocabulary academy',paths:['/lessons/','/woerter/','/animals/','/food/','/drinks/','/wortschatz/','/practical-words/','/context-packs/']},
  {id:'conversation',ar:'أكاديمية المحادثة',en:'Conversation academy',paths:['/conversation/','/speaking-cards/','/egypt-dialogues/','/dialogues/']},
  {id:'listening',ar:'أكاديمية الاستماع',en:'Listening academy',paths:['/dictation/','/shadowing/']},
  {id:'reading',ar:'أكاديمية القراءة',en:'Reading academy',paths:['/reading/','/micro-reading/']},

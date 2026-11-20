@@ -57,3 +57,9 @@ button, a { -webkit-tap-highlight-color: transparent; }
 /* Text remains readable on tinted level badges. */
 .bg-accent\/10.text-accent { color: var(--ink); }
 button[aria-label="Speak"] { min-width: 44px; min-height: 44px; }
+
+/* Noun gender colors (article badges and card accents) */
+.art-badge { display: inline-block; border-radius: 0.5rem; padding: 0 0.375rem; font-size: 0.75em; font-weight: 700; color: #fff; }
+.art-der { border-color: #2563eb; } .art-die { border-color: #e11d48; } .art-das { border-color: #16a34a; } .art-plural { border-color: #7c3aed; }
+.art-badge.art-der { background: #2563eb; } .art-badge.art-die { background: #e11d48; } .art-badge.art-das { background: #16a34a; }
+.art-der-text { color: #2563eb; } .art-die-text { color: #e11d48; } .art-das-text { color: #16a34a; }
