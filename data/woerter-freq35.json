@@ -1,0 +1,1015 @@
+[
+ {
+  "de": "Beschleunigung",
+  "ar": "التسارع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beschleunigungen"
+ },
+ {
+  "de": "Besinnlichkeit",
+  "ar": "الهدوء التأملي / الخشوع",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Besorgnis",
+  "ar": "القلق / الانزعاج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Besorgnisse"
+ },
+ {
+  "de": "Besorgung",
+  "ar": "المشوار / الشراء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Besorgungen"
+ },
+ {
+  "de": "Bestandskunde",
+  "ar": "العميل الحالي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bestandskunden"
+ },
+ {
+  "de": "Bestechung",
+  "ar": "الرشوة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Besteuerung",
+  "ar": "فرض الضرائب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Besteuerungen"
+ },
+ {
+  "de": "Bestleistung",
+  "ar": "أفضل أداء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bestleistungen"
+ },
+ {
+  "de": "Bestreben",
+  "ar": "السعي / المسعى",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Bestürzung",
+  "ar": "الصدمة / الذهول",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Besucherzahl",
+  "ar": "عدد الزوار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Besucherzahlen"
+ },
+ {
+  "de": "Betracht",
+  "ar": "الاعتبار (in Betracht ziehen)",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Betriebsleiter",
+  "ar": "مدير التشغيل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Betriebsleiter"
+ },
+ {
+  "de": "Betriebsstoff",
+  "ar": "وقود التشغيل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Betriebsstoffe"
+ },
+ {
+  "de": "Betriebszeit",
+  "ar": "ساعات التشغيل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Betriebszeiten"
+ },
+ {
+  "de": "Betrügerei",
+  "ar": "النصب / الخداع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Betrügereien"
+ },
+ {
+  "de": "Betäubungsmittel",
+  "ar": "المخدرات / المسكنات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Betäubungsmittel"
+ },
+ {
+  "de": "Bevölkerungsgruppe",
+  "ar": "فئة سكانية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bevölkerungsgruppen"
+ },
+ {
+  "de": "Bevölkerungsschicht",
+  "ar": "طبقة اجتماعية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bevölkerungsschichten"
+ },
+ {
+  "de": "Bewerb",
+  "ar": "المسابقة (النمسا/سويسرا)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bewerbe"
+ },
+ {
+  "de": "Bewilligung",
+  "ar": "التصريح / الموافقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bewilligungen"
+ },
+ {
+  "de": "Bewältigung",
+  "ar": "التغلب / التجاوز",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bezirksgericht",
+  "ar": "محكمة المقاطعة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bezirksgerichte"
+ },
+ {
+  "de": "Bezirkshauptmann",
+  "ar": "رئيس المقاطعة (النمسا)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bezirkshauptleute"
+ },
+ {
+  "de": "Bezirksregierung",
+  "ar": "حكومة المقاطعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bezirksregierungen"
+ },
+ {
+  "de": "Bezuschussung",
+  "ar": "الدعم المالي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bezuschussungen"
+ },
+ {
+  "de": "Biathlet",
+  "ar": "لاعب البياثلون",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Biathleten"
+ },
+ {
+  "de": "Biathlon",
+  "ar": "البياثلون",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Biergarten",
+  "ar": "حديقة البيرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Biergärten"
+ },
+ {
+  "de": "Biersorte",
+  "ar": "نوع البيرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Biersorten"
+ },
+ {
+  "de": "Bildbearbeitung",
+  "ar": "تعديل الصور",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bildergalerie",
+  "ar": "معرض الصور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bildergalerien"
+ },
+ {
+  "de": "Bildfläche",
+  "ar": "الساحة العامة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bildhauer",
+  "ar": "النحات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bildhauer"
+ },
+ {
+  "de": "Bildungseinrichtung",
+  "ar": "المؤسسة التعليمية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bildungseinrichtungen"
+ },
+ {
+  "de": "Bindemittel",
+  "ar": "المادة الرابطة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bindemittel"
+ },
+ {
+  "de": "Binnenmarkt",
+  "ar": "السوق الداخلية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Binnenmärkte"
+ },
+ {
+  "de": "Biogas",
+  "ar": "الغاز الحيوي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Biografie",
+  "ar": "السيرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Biografien"
+ },
+ {
+  "de": "Biomasse",
+  "ar": "الكتلة الحيوية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bistum",
+  "ar": "الأسقفية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bistümer"
+ },
+ {
+  "de": "Blackout",
+  "ar": "انقطاع الكهربا / الإغماء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Blackouts"
+ },
+ {
+  "de": "Blasmusik",
+  "ar": "موسيقى آلات النفخ",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Blaulicht",
+  "ar": "أنوار الطوارئ الزرقا",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Blauton",
+  "ar": "درجة الأزرق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Blautöne"
+ },
+ {
+  "de": "Blog",
+  "ar": "المدونة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Blogs"
+ },
+ {
+  "de": "Blogeintrag",
+  "ar": "التدوينة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Blogeinträge"
+ },
+ {
+  "de": "Blues",
+  "ar": "البلوز",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Blutbad",
+  "ar": "المذبحة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Blutbäder"
+ },
+ {
+  "de": "Bluthochdruck",
+  "ar": "ضغط الدم العالي",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Bluttat",
+  "ar": "الجريمة الدموية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bluttaten"
+ },
+ {
+  "de": "Blutzuckerspiegel",
+  "ar": "مستوى السكر في الدم",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Blütenpflanze",
+  "ar": "النبات المزهر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Blütenpflanzen"
+ },
+ {
+  "de": "Bodenständigkeit",
+  "ar": "التواضع / الارتباط بالأرض",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bodenversiegelung",
+  "ar": "تغطية الأرض بالأسفلت",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bodenversiegelungen"
+ },
+ {
+  "de": "Bogenschießen",
+  "ar": "الرماية بالقوس",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Bond",
+  "ar": "السند المالي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bonds"
+ },
+ {
+  "de": "Booster",
+  "ar": "الجرعة المعززة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Booster"
+ },
+ {
+  "de": "Bootshaus",
+  "ar": "بيت القوارب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bootshäuser"
+ },
+ {
+  "de": "Bot",
+  "ar": "البوت / الروبوت",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bots"
+ },
+ {
+  "de": "Brandermittler",
+  "ar": "محقق الحرايق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Brandermittler"
+ },
+ {
+  "de": "Brandschutz",
+  "ar": "الحماية من الحرايق",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Brandschutzerziehung",
+  "ar": "التوعية من الحرايق",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Brandursache",
+  "ar": "سبب الحريق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Brandursachen"
+ },
+ {
+  "de": "Break",
+  "ar": "كسر الإرسال / الاستراحة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Breaks"
+ },
+ {
+  "de": "Brennholz",
+  "ar": "خشب التدفئة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Brennpunkt",
+  "ar": "البؤرة / النقطة الساخنة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Brennpunkte"
+ },
+ {
+  "de": "Brennstoff",
+  "ar": "الوقود",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Brennstoffe"
+ },
+ {
+  "de": "Brexit",
+  "ar": "البريكست",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Britin",
+  "ar": "البريطانية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Britinnen"
+ },
+ {
+  "de": "Browser",
+  "ar": "المتصفح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Browser"
+ },
+ {
+  "de": "Brutalität",
+  "ar": "الوحشية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Brutzeit",
+  "ar": "موسم التفقيس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Brutzeiten"
+ },
+ {
+  "de": "Bub",
+  "ar": "الولد (النمسا/سويسرا)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Buben"
+ },
+ {
+  "de": "Buchhaltung",
+  "ar": "المحاسبة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Buchmesse",
+  "ar": "معرض الكتاب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Buchmessen"
+ },
+ {
+  "de": "Buchung",
+  "ar": "الحجز",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Buchungen"
+ },
+ {
+  "de": "Buckel",
+  "ar": "الحدبة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Buckel"
+ },
+ {
+  "de": "Bundesbürger",
+  "ar": "المواطن الألماني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bundesbürger"
+ },
+ {
+  "de": "Bundesdrogenbeauftragte",
+  "ar": "مفوض المخدرات الاتحادي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bundesdrogenbeauftragten"
+ },
+ {
+  "de": "Bundesfamilienministerin",
+  "ar": "وزيرة الأسرة الاتحادية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bundesfamilienministerinnen"
+ },
+ {
+  "de": "Bundesfinanzminister",
+  "ar": "وزير المالية الاتحادي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bundesfinanzminister"
+ },
+ {
+  "de": "Bundesgesetz",
+  "ar": "القانون الاتحادي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bundesgesetze"
+ },
+ {
+  "de": "Bundesheer",
+  "ar": "الجيش النمساوي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Bundesinstitut",
+  "ar": "المعهد الاتحادي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bundesinstitute"
+ },
+ {
+  "de": "Bundeskabinett",
+  "ar": "الحكومة الاتحادية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bundeskabinette"
+ },
+ {
+  "de": "Bundeskriminalamt",
+  "ar": "مكتب التحقيقات الاتحادي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bundeskriminalämter"
+ },
+ {
+  "de": "Bundesliga-Aufstieg",
+  "ar": "الصعود للبوندسليجا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bundesliga-Aufstiege"
+ },
+ {
+  "de": "Bundesliga-Spiel",
+  "ar": "ماتش البوندسليجا",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bundesliga-Spiele"
+ },
+ {
+  "de": "Bundespartei",
+  "ar": "الحزب الاتحادي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bundesparteien"
+ },
+ {
+  "de": "Bundestagsfraktion",
+  "ar": "الكتلة البرلمانية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bundestagsfraktionen"
+ },
+ {
+  "de": "Bundeswahlleiterin",
+  "ar": "رئيسة لجنة الانتخابات الاتحادية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bundeswahlleiterinnen"
+ },
+ {
+  "de": "Bundeswettbewerb",
+  "ar": "المسابقة الاتحادية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bundeswettbewerbe"
+ },
+ {
+  "de": "Bundeswirtschaftsministerium",
+  "ar": "وزارة الاقتصاد الاتحادية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bundeswirtschaftsministerien"
+ },
+ {
+  "de": "Bundeszuschuss",
+  "ar": "الدعم الاتحادي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bundeszuschüsse"
+ },
+ {
+  "de": "Burschenschaft",
+  "ar": "الأخوية الطلابية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Burschenschaften"
+ },
+ {
+  "de": "Bäuerin",
+  "ar": "الفلاحة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bäuerinnen"
+ },
+ {
+  "de": "Bäumchen",
+  "ar": "الشجيرة الصغيرة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bäumchen"
+ },
+ {
+  "de": "Bö",
+  "ar": "الهبة العاصفة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Böen"
+ },
+ {
+  "de": "Bücherschrank",
+  "ar": "دولاب الكتب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bücherschränke"
+ },
+ {
+  "de": "Bürgeramt",
+  "ar": "مكتب المواطنين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bürgerämter"
+ },
+ {
+  "de": "Bürgerbüro",
+  "ar": "مكتب خدمة المواطنين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bürgerbüros"
+ },
+ {
+  "de": "Bürgerliste",
+  "ar": "قائمة المواطنين الانتخابية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bürgerlisten"
+ },
+ {
+  "de": "Bürgersolarpark",
+  "ar": "مزرعة الطاقة الشمسية الأهلية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bürgersolarparks"
+ },
+ {
+  "de": "Bürgersteig",
+  "ar": "الرصيف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bürgersteige"
+ },
+ {
+  "de": "Bürgerversammlung",
+  "ar": "تجمع المواطنين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bürgerversammlungen"
+ },
+ {
+  "de": "Büroarbeit",
+  "ar": "الشغل المكتبي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bürokratieabbau",
+  "ar": "تقليل البيروقراطية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Cannabis-Gesetz",
+  "ar": "قانون الحشيش",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Cannabis-Gesetze"
+ },
+ {
+  "de": "Cannabis-Legalisierung",
+  "ar": "تقنين الحشيش",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Camping",
+  "ar": "التخييم",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Cashflow",
+  "ar": "التدفق النقدي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Cashflows"
+ },
+ {
+  "de": "Castingshow",
+  "ar": "برنامج اكتشاف المواهب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Castingshows"
+ },
+ {
+  "de": "Chancenverwertung",
+  "ar": "استغلال الفرص",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Charge",
+  "ar": "الدفعة / الشحنة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Chargen"
+ },
+ {
+  "de": "Charts",
+  "ar": "قوائم الأغاني",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Chassis",
+  "ar": "الشاسيه",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Chassis"
+ },
+ {
+  "de": "Chat",
+  "ar": "الشات / المحادثة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Chats"
+ },
+ {
+  "de": "Chatbot",
+  "ar": "روبوت المحادثة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Chatbots"
+ },
+ {
+  "de": "Chauffeur",
+  "ar": "السواق الخاص",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Chauffeure"
+ },
+ {
+  "de": "Chefarzt",
+  "ar": "كبير الأطباء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Chefärzte"
+ },
+ {
+  "de": "Chemikalie",
+  "ar": "المادة الكيميائية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Chemikalien"
+ },
+ {
+  "de": "Chirurgie",
+  "ar": "الجراحة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Christdemokrat",
+  "ar": "الديمقراطي المسيحي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Christdemokraten"
+ },
+ {
+  "de": "Clou",
+  "ar": "النقطة المحورية / اللفتة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Clous"
+ },
+ {
+  "de": "Comedian",
+  "ar": "الكوميديان",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Comedians"
+ },
+ {
+  "de": "Comedy",
+  "ar": "الكوميديا",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Corona-Impfung",
+  "ar": "تطعيم كورونا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Corona-Impfungen"
+ },
+ {
+  "de": "Coupon",
+  "ar": "الكوبون",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Coupons"
+ },
+ {
+  "de": "Cyberangriff",
+  "ar": "الهجوم السيبراني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Cyberangriffe"
+ },
+ {
+  "de": "Cyberattacke",
+  "ar": "الهجوم السيبراني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Cyberattacken"
+ },
+ {
+  "de": "Cybermobbing",
+  "ar": "التنمر الإلكتروني",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Dachgeschoss",
+  "ar": "الدور الأخير",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Dachgeschosse"
+ },
+ {
+  "de": "Dachstuhl",
+  "ar": "هيكل السقف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dachstühle"
+ },
+ {
+  "de": "Dackel",
+  "ar": "كلب الداشوند",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dackel"
+ },
+ {
+  "de": "Darbietung",
+  "ar": "العرض / الأداء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Darbietungen"
+ },
+ {
+  "de": "Darlehen",
+  "ar": "القرض",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Darlehen"
+ },
+ {
+  "de": "Darstellerin",
+  "ar": "الممثلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Darstellerinnen"
+ },
+ {
+  "de": "Datenabfluss",
+  "ar": "تسريب البيانات",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Datenlage",
+  "ar": "البيانات المتاحة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Datenlagen"
+ },
+ {
+  "de": "Datensicherheit",
+  "ar": "أمن البيانات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Dauerkarte",
+  "ar": "الاشتراك الموسمي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dauerkarten"
+ },
+ {
+  "de": "Deckschicht",
+  "ar": "الطبقة السطحية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Deckschichten"
+ },
+ {
+  "de": "Defekt",
+  "ar": "العطل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Defekte"
+ },
+ {
+  "de": "Defensivspieler",
+  "ar": "لاعب الدفاع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Defensivspieler"
+ },
+ {
+  "de": "Deindustrialisierung",
+  "ar": "تراجع التصنيع",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Delegation",
+  "ar": "الوفد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Delegationen"
+ },
+ {
+  "de": "Delegiertenstimme",
+  "ar": "صوت المندوب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Delegiertenstimmen"
+ },
+ {
+  "de": "Delegiertenversammlung",
+  "ar": "جمعية المندوبين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Delegiertenversammlungen"
+ },
+ {
+  "de": "Delikatesse",
+  "ar": "الصنف الفاخر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Delikatessen"
+ }
+]
