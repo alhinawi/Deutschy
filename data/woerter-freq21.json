@@ -557,7 +557,8 @@
  {
   "de": "EU-Parlament",
   "ar": "برلمان أوروبا",
-  "pos": "noun"
+  "pos": "noun",
+  "art": "das"
  },
  {
   "de": "Bube",
