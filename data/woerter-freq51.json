@@ -1,0 +1,483 @@
+[
+ {
+  "de": "Agrarpolitik",
+  "ar": "السياسة الزراعية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Agrarpolitiken"
+ },
+ {
+  "de": "Agrarregion",
+  "ar": "المنطقة الزراعية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Agrarregionen"
+ },
+ {
+  "de": "Agroforstwirtschaft",
+  "ar": "الزراعة الحرجية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Aha-Moment",
+  "ar": "لحظة الفهم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aha-Momente"
+ },
+ {
+  "de": "Ahnenforschung",
+  "ar": "بحث الأنساب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Airdrop",
+  "ar": "الإسقاط الجوي / الإيردروب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Airdrops"
+ },
+ {
+  "de": "Airline-Pleite",
+  "ar": "إفلاس شركة طيران",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Airline-Pleiten"
+ },
+ {
+  "de": "Ajatollah",
+  "ar": "آية الله",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ajatollahs"
+ },
+ {
+  "de": "Akku-Bohrhammer",
+  "ar": "مثقاب بالبطارية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Akku-Bohrhämmer"
+ },
+ {
+  "de": "Akku-Leistung",
+  "ar": "أداء البطارية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Akku-Leistungen"
+ },
+ {
+  "de": "Akkusauger",
+  "ar": "مكنسة بالبطارية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Akkusauger"
+ },
+ {
+  "de": "Akkuverbrauch",
+  "ar": "استهلاك البطارية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Akrobatik",
+  "ar": "الأكروبات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Aktiengesellschaft",
+  "ar": "شركة المساهمة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aktiengesellschaften"
+ },
+ {
+  "de": "Aktienindex",
+  "ar": "مؤشر الأسهم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aktienindizes"
+ },
+ {
+  "de": "Aktieninhaber",
+  "ar": "المساهم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aktieninhaber"
+ },
+ {
+  "de": "Aktienkauf",
+  "ar": "شراء الأسهم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aktienkäufe"
+ },
+ {
+  "de": "Aktienkurs",
+  "ar": "سعر السهم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aktienkurse"
+ },
+ {
+  "de": "Aktienpaket",
+  "ar": "حزمة أسهم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Aktienpakete"
+ },
+ {
+  "de": "Aktienquote",
+  "ar": "نسبة الأسهم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aktienquoten"
+ },
+ {
+  "de": "Aktienrecht",
+  "ar": "قانون الأسهم",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Aktionsgemeinschaft",
+  "ar": "تحالف أهلي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aktionsgemeinschaften"
+ },
+ {
+  "de": "Aktionskünstler",
+  "ar": "فنان الأداء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aktionskünstler"
+ },
+ {
+  "de": "Aktionsplan",
+  "ar": "خطة عمل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aktionspläne"
+ },
+ {
+  "de": "Aktionsprogramm",
+  "ar": "برنامج عمل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Aktionsprogramme"
+ },
+ {
+  "de": "Aktionszeitraum",
+  "ar": "فترة العرض",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aktionszeiträume"
+ },
+ {
+  "de": "Aktiva",
+  "ar": "الأصول (مالية)",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Aktivgruppe",
+  "ar": "المجموعة النشطة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aktivgruppen"
+ },
+ {
+  "de": "Aktivismus",
+  "ar": "النشاطية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Aktualisierung",
+  "ar": "التحديث",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aktualisierungen"
+ },
+ {
+  "de": "Alarmfahrt",
+  "ar": "مشوار الإنذار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Alarmfahrten"
+ },
+ {
+  "de": "Alarmglocke",
+  "ar": "جرس الإنذار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Alarmglocken"
+ },
+ {
+  "de": "Alarmsignal",
+  "ar": "إشارة الإنذار",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Alarmsignale"
+ },
+ {
+  "de": "Alarmzustand",
+  "ar": "حالة التأهب",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Albtraumsituation",
+  "ar": "موقف كابوسي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Albtraumsituationen"
+ },
+ {
+  "de": "Alchemist",
+  "ar": "الكيميائي السحري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Alchemisten"
+ },
+ {
+  "de": "Alimente",
+  "ar": "النفقة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Alkoholeinfluss",
+  "ar": "تأثير الكحول",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Alkoholfahne",
+  "ar": "ريحة الكحول",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Alkoholfahnen"
+ },
+ {
+  "de": "Alkoholgenuss",
+  "ar": "شرب الكحول",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Alkoholgeruch",
+  "ar": "ريحة الكحول",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Alkoholika",
+  "ar": "المشروبات الكحولية",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Alkoholkonsum",
+  "ar": "استهلاك الكحول",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Alkoholsucht",
+  "ar": "إدمان الكحول",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Alkoholverbot",
+  "ar": "حظر الكحول",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Alkoholverbote"
+ },
+ {
+  "de": "Alkoholvergiftung",
+  "ar": "التسمم الكحولي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Alkoholvergiftungen"
+ },
+ {
+  "de": "Alkotest",
+  "ar": "اختبار الكحول",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Alkotests"
+ },
+ {
+  "de": "Alleineigentümer",
+  "ar": "المالك الوحيد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Alleineigentümer"
+ },
+ {
+  "de": "Alleinlebende",
+  "ar": "العايش لوحده",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Alleinlebenden"
+ },
+ {
+  "de": "Alleinunterhalter",
+  "ar": "الون مان باند",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Alleinunterhalter"
+ },
+ {
+  "de": "Allergierisiko",
+  "ar": "خطر الحساسية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Allergierisiken"
+ },
+ {
+  "de": "Allergologe",
+  "ar": "دكتور الحساسية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Allergologen"
+ },
+ {
+  "de": "Allerseelentag",
+  "ar": "عيد الأرواح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Allerseelentage"
+ },
+ {
+  "de": "Allgemeinbildung",
+  "ar": "الثقافة العامة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Allgemeinchirurgie",
+  "ar": "الجراحة العامة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Allgemeinmedizin",
+  "ar": "الطب العام",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Allgemeinplatz",
+  "ar": "الكليشيه",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Allgemeinplätze"
+ },
+ {
+  "de": "Allgemeinwissen",
+  "ar": "المعلومات العامة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Allradlenkung",
+  "ar": "التوجيه الرباعي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Allradlenkungen"
+ },
+ {
+  "de": "Alltagsbewältigung",
+  "ar": "تدبير اليوم",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Alltagsgewohnheit",
+  "ar": "عادة يومية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Alltagsgewohnheiten"
+ },
+ {
+  "de": "Alltagsleben",
+  "ar": "الحياة اليومية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Alltagsprodukt",
+  "ar": "منتج يومي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Alltagsprodukte"
+ },
+ {
+  "de": "Alltagsradler",
+  "ar": "راكب العجلة اليومي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Alltagsradler"
+ },
+ {
+  "de": "Alltagssprache",
+  "ar": "اللغة اليومية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Alltagssprachen"
+ },
+ {
+  "de": "Alltagsstress",
+  "ar": "ضغط اليوم",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Alpengebiet",
+  "ar": "منطقة الألب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Alpengebiete"
+ },
+ {
+  "de": "Alpenpanorama",
+  "ar": "بانوراما الألب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Alpenpanoramen"
+ },
+ {
+  "de": "Alpenraum",
+  "ar": "منطقة الألب",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Alpenregion",
+  "ar": "إقليم الألب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Alpenregionen"
+ },
+ {
+  "de": "Alpenüberquerung",
+  "ar": "عبور الألب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Alpenüberquerungen"
+ },
+ {
+  "de": "Alpinist",
+  "ar": "متسلق الجبال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Alpinisten"
+ }
+]
