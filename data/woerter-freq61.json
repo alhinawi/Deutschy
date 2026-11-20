@@ -1,0 +1,423 @@
+[
+ {
+  "de": "Birnbaum",
+  "ar": "شجرة الكمثرى",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Birnbäume"
+ },
+ {
+  "de": "Bischofskonferenz",
+  "ar": "مؤتمر الأساقفة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bischofskonferenzen"
+ },
+ {
+  "de": "Bisswunde",
+  "ar": "جرح العضة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bisswunden"
+ },
+ {
+  "de": "Bitcoin-Wallet",
+  "ar": "محفظة البيتكوين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bitcoin-Wallets"
+ },
+ {
+  "de": "Biwak",
+  "ar": "التخييم المؤقت",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Biwaks"
+ },
+ {
+  "de": "Bizeps",
+  "ar": "عضلة البايسبس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bizepse"
+ },
+ {
+  "de": "Blackbox",
+  "ar": "الصندوق الأسود",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Blackboxen"
+ },
+ {
+  "de": "Blamage",
+  "ar": "الحرج / الفضيحة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Blamagen"
+ },
+ {
+  "de": "Blasmusikkapelle",
+  "ar": "فرقة الموسيقى النفخية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Blasmusikkapellen"
+ },
+ {
+  "de": "Blasorchester",
+  "ar": "أوركسترا النفخ",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Blasorchester"
+ },
+ {
+  "de": "Blauhelm",
+  "ar": "جندي حفظ السلام",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Blauhelme"
+ },
+ {
+  "de": "Blazer",
+  "ar": "البليزر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Blazer"
+ },
+ {
+  "de": "Blechschaden",
+  "ar": "خبطة الطوبة (عربية)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Blechschäden"
+ },
+ {
+  "de": "Blende",
+  "ar": "فتحة الكاميرا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Blenden"
+ },
+ {
+  "de": "Blender",
+  "ar": "الخلاط",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Blender"
+ },
+ {
+  "de": "Blessur",
+  "ar": "الإصابة الخفيفة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Blessuren"
+ },
+ {
+  "de": "Blickfeld",
+  "ar": "مجال الرؤية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Blickfelder"
+ },
+ {
+  "de": "Blickwinkel",
+  "ar": "زاوية النظر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Blickwinkel"
+ },
+ {
+  "de": "Blindenschrift",
+  "ar": "طريقة برايل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Blitzeranlage",
+  "ar": "جهاز رادار السرعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Blitzeranlagen"
+ },
+ {
+  "de": "Blitzumfrage",
+  "ar": "استطلاع سريع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Blitzumfragen"
+ },
+ {
+  "de": "Blockbildung",
+  "ar": "تكوين الكتل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Blockbildungen"
+ },
+ {
+  "de": "Blogger",
+  "ar": "المدون",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Blogger"
+ },
+ {
+  "de": "Bloggerin",
+  "ar": "المدونة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bloggerinnen"
+ },
+ {
+  "de": "Blondine",
+  "ar": "الشقرا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Blondinen"
+ },
+ {
+  "de": "Blumengeschäft",
+  "ar": "محل الزهور",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Blumengeschäfte"
+ },
+ {
+  "de": "Blumenmuster",
+  "ar": "نمط الزهور",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Blumenmuster"
+ },
+ {
+  "de": "Blumensamen",
+  "ar": "بذور الزهور",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Blumenvase",
+  "ar": "فازة الزهور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Blumenvasen"
+ },
+ {
+  "de": "Blumenzwiebel",
+  "ar": "بصلة الزهرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Blumenzwiebeln"
+ },
+ {
+  "de": "Blutabnahme",
+  "ar": "سحب الدم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Blutabnahmen"
+ },
+ {
+  "de": "Blutfett",
+  "ar": "دهون الدم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Blutfette"
+ },
+ {
+  "de": "Blutgerinnung",
+  "ar": "تخثر الدم",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Blutprobe",
+  "ar": "عينة الدم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Blutproben"
+ },
+ {
+  "de": "Blutspur",
+  "ar": "أثر الدم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Blutspuren"
+ },
+ {
+  "de": "Bluttest",
+  "ar": "تحليل الدم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bluttests"
+ },
+ {
+  "de": "Blutuntersuchung",
+  "ar": "فحص الدم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Blutuntersuchungen"
+ },
+ {
+  "de": "Blutversorgung",
+  "ar": "إمداد الدم",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Blutzuckermessung",
+  "ar": "قياس السكر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Blutzuckermessungen"
+ },
+ {
+  "de": "Blähung",
+  "ar": "الانتفاخ / الغازات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Blähungen"
+ },
+ {
+  "de": "Boarding",
+  "ar": "الصعود للطيارة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Bodenbelag",
+  "ar": "الأرضية (تغطية)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bodenbeläge"
+ },
+ {
+  "de": "Bodenfeuchtigkeit",
+  "ar": "رطوبة التربة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bodenplatte",
+  "ar": "البلاطة الأرضية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bodenplatten"
+ },
+ {
+  "de": "Bodenprobe",
+  "ar": "عينة التربة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bodenproben"
+ },
+ {
+  "de": "Bodybuilder",
+  "ar": "لاعب كمال الأجسام",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bodybuilder"
+ },
+ {
+  "de": "Bohneneintopf",
+  "ar": "شوربة الفاصوليا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bohneneintöpfe"
+ },
+ {
+  "de": "Bohrhammer",
+  "ar": "الهيلتي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bohrhämmer"
+ },
+ {
+  "de": "Bohrung",
+  "ar": "الثقب (حفر)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bohrungen"
+ },
+ {
+  "de": "Bollerwagen",
+  "ar": "عربة النزهة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bollerwagen"
+ },
+ {
+  "de": "Bollwerk",
+  "ar": "الحصن",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bollwerke"
+ },
+ {
+  "de": "Bombenangriff",
+  "ar": "قصف بالقنابل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bombenangriffe"
+ },
+ {
+  "de": "Bombenanschlag",
+  "ar": "هجوم بقنبلة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bombenanschläge"
+ },
+ {
+  "de": "Bombendrohung",
+  "ar": "تهديد بقنبلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bombendrohungen"
+ },
+ {
+  "de": "Bombenentschärfung",
+  "ar": "إبطال قنبلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bombenentschärfungen"
+ },
+ {
+  "de": "Bomber",
+  "ar": "القاذف / الهداف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bomber"
+ },
+ {
+  "de": "Bomberjacke",
+  "ar": "جاكيت بومبر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bomberjacken"
+ },
+ {
+  "de": "Bonusprogramm",
+  "ar": "برنامج المكافآت",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bonusprogramme"
+ },
+ {
+  "de": "Bonuszahlung",
+  "ar": "دفعة المكافأة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bonuszahlungen"
+ },
+ {
+  "de": "Bootsflüchtling",
+  "ar": "لاجئ القوارب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bootsflüchtlinge"
+ },
+ {
+  "de": "Bordrechner",
+  "ar": "كمبيوتر الطيارة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bordrechner"
+ }
+]
