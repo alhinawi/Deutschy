@@ -1,0 +1,706 @@
+[
+ {
+  "de": "Fastenkur",
+  "ar": "رجيم الصيام العلاجي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fastenkuren"
+ },
+ {
+  "de": "Fastnacht",
+  "ar": "كرنفال ما قبل الصوم",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fatalismus",
+  "ar": "القدرية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Faulheit",
+  "ar": "الكسل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Faustpfand",
+  "ar": "ورقة الضغط",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Faustpfänder"
+ },
+ {
+  "de": "Faustrecht",
+  "ar": "شريعة الغاب",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Favoritenrolle",
+  "ar": "دور المرشح الأوفر حظا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Favoritenrollen"
+ },
+ {
+  "de": "Federführung",
+  "ar": "القيادة المسؤولة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fehlanzeige",
+  "ar": "علامة \"مفيش\"",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fehlanzeigen"
+ },
+ {
+  "de": "Fehlbetrag",
+  "ar": "العجز في المبلغ",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fehlbeträge"
+ },
+ {
+  "de": "Fehldiagnose",
+  "ar": "التشخيص الخاطئ",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fehldiagnosen"
+ },
+ {
+  "de": "Fehleinschätzung",
+  "ar": "سوء التقدير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fehleinschätzungen"
+ },
+ {
+  "de": "Fehlentwicklung",
+  "ar": "التطور الخاطئ",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fehlentwicklungen"
+ },
+ {
+  "de": "Fehleranalyse",
+  "ar": "تحليل الأخطاء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fehleranalysen"
+ },
+ {
+  "de": "Fehlerkultur",
+  "ar": "ثقافة التعامل مع الأخطاء",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fehlerquote",
+  "ar": "نسبة الخطأ",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fehlerquoten"
+ },
+ {
+  "de": "Fehlersuche",
+  "ar": "البحث عن الخطأ",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fehlinformation",
+  "ar": "المعلومة المغلوطة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fehlinformationen"
+ },
+ {
+  "de": "Fehlpass",
+  "ar": "التمريرة الخاطئة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fehlpässe"
+ },
+ {
+  "de": "Fehltritt",
+  "ar": "الزلة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fehltritte"
+ },
+ {
+  "de": "Fehlzündung",
+  "ar": "الشرارة الفاشلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fehlzündungen"
+ },
+ {
+  "de": "Feierabendverkehr",
+  "ar": "زحمة آخر الشغل",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Feierlaune",
+  "ar": "مزاج الاحتفال",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Feierstunde",
+  "ar": "الحفل الرسمي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Feierstunden"
+ },
+ {
+  "de": "Feinschliff",
+  "ar": "اللمسة الأخيرة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Feinstaub",
+  "ar": "الغبار الناعم",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Feintuning",
+  "ar": "الضبط الدقيق",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Feldarbeit",
+  "ar": "العمل الميداني",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Feldhase",
+  "ar": "الأرنب البري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Feldhasen"
+ },
+ {
+  "de": "Feldversuch",
+  "ar": "التجربة الميدانية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Feldversuche"
+ },
+ {
+  "de": "Feldweg",
+  "ar": "الطريق الريفي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Feldwege"
+ },
+ {
+  "de": "Felge",
+  "ar": "الجنط",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Felgen"
+ },
+ {
+  "de": "Felsbrocken",
+  "ar": "كتلة الصخور",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Felsbrocken"
+ },
+ {
+  "de": "Feminismus",
+  "ar": "النسوية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Fensterbank",
+  "ar": "حرف الشباك",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fensterbänke"
+ },
+ {
+  "de": "Fensterladen",
+  "ar": "مصراع الشباك",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fensterläden"
+ },
+ {
+  "de": "Fensternische",
+  "ar": "تجويف الشباك",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fensternischen"
+ },
+ {
+  "de": "Fentanyl",
+  "ar": "الفنتانيل",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Feriendomizil",
+  "ar": "بيت الأجازة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Feriendomizile"
+ },
+ {
+  "de": "Feriendorf",
+  "ar": "قرية الأجازات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Feriendörfer"
+ },
+ {
+  "de": "Ferienimmobilie",
+  "ar": "عقار الأجازات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ferienimmobilien"
+ },
+ {
+  "de": "Ferienregion",
+  "ar": "منطقة الأجازات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ferienregionen"
+ },
+ {
+  "de": "Fernbus",
+  "ar": "أتوبيس السفر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fernbusse"
+ },
+ {
+  "de": "Fernsehkonzern",
+  "ar": "المجموعة التلفزيونية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fernsehkonzerne"
+ },
+ {
+  "de": "Fernsehmoderator",
+  "ar": "مذيع التلفزيون",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fernsehmoderatoren"
+ },
+ {
+  "de": "Fernsehserie",
+  "ar": "المسلسل التلفزيوني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fernsehserien"
+ },
+ {
+  "de": "Fernsehstudio",
+  "ar": "استوديو التلفزيون",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fernsehstudios"
+ },
+ {
+  "de": "Fertigkeit",
+  "ar": "المهارة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fertigkeiten"
+ },
+ {
+  "de": "Festanstellung",
+  "ar": "التعيين الثابت",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Festanstellungen"
+ },
+ {
+  "de": "Festgelände",
+  "ar": "أرض المهرجان",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Festgelände"
+ },
+ {
+  "de": "Festhalle",
+  "ar": "القاعة الكبرى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Festhallen"
+ },
+ {
+  "de": "Festigkeit",
+  "ar": "المتانة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Festlegung",
+  "ar": "التحديد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Festlegungen"
+ },
+ {
+  "de": "Festwoche",
+  "ar": "أسبوع المهرجان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Festwochen"
+ },
+ {
+  "de": "Festzug",
+  "ar": "موكب الاحتفال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Festzüge"
+ },
+ {
+  "de": "Fettgehalt",
+  "ar": "نسبة الدهون",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Fettleber",
+  "ar": "الكبد الدهني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fettlebern"
+ },
+ {
+  "de": "Fettnäpfchen",
+  "ar": "الموقف المحرج",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fettnäpfchen"
+ },
+ {
+  "de": "Feuerlöschmittel",
+  "ar": "مادة الإطفاء",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Feuerlöschmittel"
+ },
+ {
+  "de": "Filialleiter",
+  "ar": "مدير الفرع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Filialleiter"
+ },
+ {
+  "de": "Filmbranche",
+  "ar": "صناعة السينما",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Filmbranchen"
+ },
+ {
+  "de": "Filmemacherin",
+  "ar": "صانعة الأفلام",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Filmemacherinnen"
+ },
+ {
+  "de": "Filmfest",
+  "ar": "مهرجان الأفلام",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Filmfeste"
+ },
+ {
+  "de": "Filmfigur",
+  "ar": "شخصية الفيلم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Filmfiguren"
+ },
+ {
+  "de": "Filmindustrie",
+  "ar": "صناعة الأفلام",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Filmindustrien"
+ },
+ {
+  "de": "Filmklassiker",
+  "ar": "الفيلم الكلاسيكي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Filmklassiker"
+ },
+ {
+  "de": "Filmkritiker",
+  "ar": "الناقد السينمائي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Filmkritiker"
+ },
+ {
+  "de": "Filmschauspieler",
+  "ar": "ممثل سينمائي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Filmschauspieler"
+ },
+ {
+  "de": "Filmset",
+  "ar": "موقع التصوير",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Filmsets"
+ },
+ {
+  "de": "Filmstudio",
+  "ar": "استوديو الأفلام",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Filmstudios"
+ },
+ {
+  "de": "Finaleinzug",
+  "ar": "التأهل للنهائي",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Finanzaufsicht",
+  "ar": "الرقابة المالية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Finanzbeamter",
+  "ar": "موظف الضرائب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Finanzbeamten"
+ },
+ {
+  "de": "Finanzbildung",
+  "ar": "التعليم المالي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Finanzdienstleister",
+  "ar": "مقدم الخدمات المالية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Finanzdienstleister"
+ },
+ {
+  "de": "Finanzdirektor",
+  "ar": "المدير المالي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Finanzdirektoren"
+ },
+ {
+  "de": "Finanzhilfe",
+  "ar": "المساعدة المالية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Finanzhilfen"
+ },
+ {
+  "de": "Finanzierungsrunde",
+  "ar": "جولة التمويل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Finanzierungsrunden"
+ },
+ {
+  "de": "Finanzinstitut",
+  "ar": "المؤسسة المالية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Finanzinstitute"
+ },
+ {
+  "de": "Finanzkrise",
+  "ar": "الأزمة المالية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Finanzkrisen"
+ },
+ {
+  "de": "Finanzloch",
+  "ar": "العجز المالي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Finanzlöcher"
+ },
+ {
+  "de": "Finanzmittel",
+  "ar": "الموارد المالية",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Finanzplanung",
+  "ar": "التخطيط المالي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Finanzreserven",
+  "ar": "الاحتياطات المالية",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Finanzvorstand",
+  "ar": "المدير المالي التنفيذي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Finanzvorstände"
+ },
+ {
+  "de": "Finesse",
+  "ar": "اللمسة الفنية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Finessen"
+ },
+ {
+  "de": "Fingerabdruck",
+  "ar": "البصمة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fingerabdrücke"
+ },
+ {
+  "de": "Fingernagel",
+  "ar": "الظفر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fingernägel"
+ },
+ {
+  "de": "Fingertipp",
+  "ar": "طرف الصباع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fingertipps"
+ },
+ {
+  "de": "Finte",
+  "ar": "الخدعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Finten"
+ },
+ {
+  "de": "Firmenanteil",
+  "ar": "حصة في الشركة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Firmenanteile"
+ },
+ {
+  "de": "Firmenevent",
+  "ar": "فعالية الشركة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Firmenevents"
+ },
+ {
+  "de": "Firmengeschichte",
+  "ar": "تاريخ الشركة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Firmengeschichten"
+ },
+ {
+  "de": "Firmengründer",
+  "ar": "مؤسس الشركة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Firmengründer"
+ },
+ {
+  "de": "Firmenübernahme",
+  "ar": "الاستحواذ على الشركة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Firmenübernahmen"
+ },
+ {
+  "de": "Firmware",
+  "ar": "البرنامج الثابت",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fischart",
+  "ar": "نوع السمك",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fischarten"
+ },
+ {
+  "de": "Fischbestand",
+  "ar": "مخزون الأسماك",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fischbestände"
+ },
+ {
+  "de": "Fischteich",
+  "ar": "حوض السمك",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fischteiche"
+ },
+ {
+  "de": "Fixpunkt",
+  "ar": "النقطة الثابتة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fixpunkte"
+ },
+ {
+  "de": "Flachdach",
+  "ar": "السقف المسطح",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Flachdächer"
+ },
+ {
+  "de": "Flaggschiff",
+  "ar": "المنتج الرائد",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Flaggschiffe"
+ },
+ {
+  "de": "Flammkuchen",
+  "ar": "بيتزا الألزاس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Flammkuchen"
+ },
+ {
+  "de": "Flanellhemd",
+  "ar": "القميص الفانيلا",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Flanellhemden"
+ }
+]
