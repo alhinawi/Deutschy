@@ -1,0 +1,642 @@
+[
+ {
+  "de": "Abholzung",
+  "ar": "إزالة الغابات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abholzungen"
+ },
+ {
+  "de": "Abiball",
+  "ar": "حفلة التخرج",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abibälle"
+ },
+ {
+  "de": "Abkehr",
+  "ar": "الابتعاد / الهجر",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Abklatsch",
+  "ar": "النسخة الممسوخة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abklatsche"
+ },
+ {
+  "de": "Abklingen",
+  "ar": "الخفوت",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Abkühlung",
+  "ar": "التبريد / البرودة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abkühlungen"
+ },
+ {
+  "de": "Ablage",
+  "ar": "الرف / مكان التخزين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ablagen"
+ },
+ {
+  "de": "Ablassen",
+  "ar": "التوقف عن",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Ableben",
+  "ar": "الوفاة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Ablehnungsquote",
+  "ar": "نسبة الرفض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ablehnungsquoten"
+ },
+ {
+  "de": "Ablösesumme",
+  "ar": "مقابل الانتقال (لاعب)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ablösesummen"
+ },
+ {
+  "de": "Abmahnung",
+  "ar": "الإنذار الرسمي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abmahnungen"
+ },
+ {
+  "de": "Abmarsch",
+  "ar": "الانطلاق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abmärsche"
+ },
+ {
+  "de": "Abneigung",
+  "ar": "النفور / الكراهة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abneigungen"
+ },
+ {
+  "de": "Abnutzung",
+  "ar": "البلى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abnutzungen"
+ },
+ {
+  "de": "Abonnement",
+  "ar": "الاشتراك",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Abonnements"
+ },
+ {
+  "de": "Abordnung",
+  "ar": "الوفد / النقل المؤقت",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abordnungen"
+ },
+ {
+  "de": "Abrechnung",
+  "ar": "التسوية / الحساب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abrechnungen"
+ },
+ {
+  "de": "Abriss",
+  "ar": "الهدم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abrisse"
+ },
+ {
+  "de": "Abschiedsbesuch",
+  "ar": "زيارة الوداع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abschiedsbesuche"
+ },
+ {
+  "de": "Abschiedsfeier",
+  "ar": "حفلة الوداع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abschiedsfeiern"
+ },
+ {
+  "de": "Abschiedsnachricht",
+  "ar": "رسالة الوداع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abschiedsnachrichten"
+ },
+ {
+  "de": "Abschiedsspiel",
+  "ar": "ماتش الوداع",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Abschiedsspiele"
+ },
+ {
+  "de": "Abschiedstournee",
+  "ar": "جولة الوداع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abschiedstourneen"
+ },
+ {
+  "de": "Abschlussbericht",
+  "ar": "التقرير النهائي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abschlussberichte"
+ },
+ {
+  "de": "Abschlussfeier",
+  "ar": "حفلة الختام",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abschlussfeiern"
+ },
+ {
+  "de": "Abschlussprüfung",
+  "ar": "الامتحان النهائي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abschlussprüfungen"
+ },
+ {
+  "de": "Abschlusszeugnis",
+  "ar": "الشهادة النهائية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Abschlusszeugnisse"
+ },
+ {
+  "de": "Abschlag",
+  "ar": "الخصم / القسط",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abschläge"
+ },
+ {
+  "de": "Abschreckungsstrategie",
+  "ar": "استراتيجية الردع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abschreckungsstrategien"
+ },
+ {
+  "de": "Abschreibung",
+  "ar": "الإهلاك / الشطب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abschreibungen"
+ },
+ {
+  "de": "Abschwächung",
+  "ar": "التخفيف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abschwächungen"
+ },
+ {
+  "de": "Abschätzung",
+  "ar": "التقدير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abschätzungen"
+ },
+ {
+  "de": "Absegnung",
+  "ar": "المصادقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Absegnungen"
+ },
+ {
+  "de": "Abseitstor",
+  "ar": "جون التسلل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Abseitstore"
+ },
+ {
+  "de": "Absenkung",
+  "ar": "الخفض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Absenkungen"
+ },
+ {
+  "de": "Absichtserklärung",
+  "ar": "إعلان النية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Absichtserklärungen"
+ },
+ {
+  "de": "Absolvierung",
+  "ar": "إتمام (الدراسة)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Absolvierungen"
+ },
+ {
+  "de": "Absperrgitter",
+  "ar": "الحاجز",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Absperrgitter"
+ },
+ {
+  "de": "Absprache",
+  "ar": "الاتفاق المسبق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Absprachen"
+ },
+ {
+  "de": "Absprung",
+  "ar": "القفزة / الانسحاب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Absprünge"
+ },
+ {
+  "de": "Abstammung",
+  "ar": "الأصل / النسب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abstammungen"
+ },
+ {
+  "de": "Abstandsregel",
+  "ar": "قاعدة المسافة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abstandsregeln"
+ },
+ {
+  "de": "Abstecher",
+  "ar": "الزيارة الجانبية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abstecher"
+ },
+ {
+  "de": "Abstellgleis",
+  "ar": "سكة الانتظار (المهمل)",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Abstellgleise"
+ },
+ {
+  "de": "Abstellraum",
+  "ar": "أوضة التخزين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abstellräume"
+ },
+ {
+  "de": "Abstinenz",
+  "ar": "الامتناع",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Abstoßung",
+  "ar": "النبذ / الرفض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abstoßungen"
+ },
+ {
+  "de": "Absurdität",
+  "ar": "العبثية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Absurditäten"
+ },
+ {
+  "de": "Abtei",
+  "ar": "الدير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abteien"
+ },
+ {
+  "de": "Abteilungsleiter",
+  "ar": "رئيس القسم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abteilungsleiter"
+ },
+ {
+  "de": "Abtreibungsgesetz",
+  "ar": "قانون الإجهاض",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Abtreibungsgesetze"
+ },
+ {
+  "de": "Abwahl",
+  "ar": "العزل بالتصويت",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abwahlen"
+ },
+ {
+  "de": "Abwanderung",
+  "ar": "الهجرة للخارج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abwanderungen"
+ },
+ {
+  "de": "Abwandlung",
+  "ar": "الصيغة المعدلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abwandlungen"
+ },
+ {
+  "de": "Abwasser",
+  "ar": "مية المجاري",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Abwässer"
+ },
+ {
+  "de": "Abwehrchef",
+  "ar": "قائد الدفاع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abwehrchefs"
+ },
+ {
+  "de": "Abwehrfehler",
+  "ar": "غلطة الدفاع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abwehrfehler"
+ },
+ {
+  "de": "Abwehrmittel",
+  "ar": "وسيلة الدفاع",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Abwehrmittel"
+ },
+ {
+  "de": "Abwehrsystem",
+  "ar": "منظومة الدفاع",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Abwehrsysteme"
+ },
+ {
+  "de": "Abwägung",
+  "ar": "الموازنة (بين)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abwägungen"
+ },
+ {
+  "de": "Abwärtsentwicklung",
+  "ar": "التدهور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abwärtsentwicklungen"
+ },
+ {
+  "de": "Abwärtstrend",
+  "ar": "الاتجاه النازل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abwärtstrends"
+ },
+ {
+  "de": "Abwurf",
+  "ar": "الإسقاط / الرمي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abwürfe"
+ },
+ {
+  "de": "Abzocker",
+  "ar": "النصاب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abzocker"
+ },
+ {
+  "de": "Accessoire",
+  "ar": "الإكسسوار",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Accessoires"
+ },
+ {
+  "de": "Achillessehne",
+  "ar": "وتر أخيل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Achillessehnen"
+ },
+ {
+  "de": "Achselzucken",
+  "ar": "هز الكتف",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Achterbahnfahrt",
+  "ar": "لفة الأفعوانية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Achterbahnfahrten"
+ },
+ {
+  "de": "Achtungserfolg",
+  "ar": "نجاح يحترم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Achtungserfolge"
+ },
+ {
+  "de": "Achtziger",
+  "ar": "الثمانينات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Achtziger"
+ },
+ {
+  "de": "Ackerland",
+  "ar": "الأرض الزراعية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Acrylfarbe",
+  "ar": "ألوان أكريليك",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Acrylfarben"
+ },
+ {
+  "de": "Adblocker",
+  "ar": "مانع الإعلانات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Adblocker"
+ },
+ {
+  "de": "Addition",
+  "ar": "الجمع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Additionen"
+ },
+ {
+  "de": "Addon",
+  "ar": "الإضافة (برنامج)",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Addons"
+ },
+ {
+  "de": "Adelige",
+  "ar": "النبيل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Adeligen"
+ },
+ {
+  "de": "Adipositas",
+  "ar": "السمنة المفرطة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Adjektiv",
+  "ar": "الصفة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Adjektive"
+ },
+ {
+  "de": "Adjutant",
+  "ar": "المساعد العسكري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Adjutanten"
+ },
+ {
+  "de": "Administration",
+  "ar": "الإدارة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Administrationen"
+ },
+ {
+  "de": "Administrator",
+  "ar": "المسؤول (سيستم)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Administratoren"
+ },
+ {
+  "de": "Adoleszenz",
+  "ar": "المراهقة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Adoptivfamilie",
+  "ar": "الأسرة بالتبني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Adoptivfamilien"
+ },
+ {
+  "de": "Adoptivsohn",
+  "ar": "الابن بالتبني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Adoptivsöhne"
+ },
+ {
+  "de": "Adoptivtochter",
+  "ar": "البنت بالتبني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Adoptivtöchter"
+ },
+ {
+  "de": "Adrenalinspiegel",
+  "ar": "مستوى الأدرينالين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Adrenalinspiegel"
+ },
+ {
+  "de": "Adventskonzert",
+  "ar": "كونسيرت الأدفنت",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Adventskonzerte"
+ },
+ {
+  "de": "Adventsmarkt",
+  "ar": "سوق الأدفنت",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Adventsmärkte"
+ },
+ {
+  "de": "Aerosol",
+  "ar": "الرذاذ",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Aerosole"
+ },
+ {
+  "de": "Affinität",
+  "ar": "الميل / القربى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Affinitäten"
+ },
+ {
+  "de": "Agilität",
+  "ar": "الرشاقة (إداريا)",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Agonie",
+  "ar": "الاحتضار",
+  "pos": "noun",
+  "art": "die"
+ }
+]
