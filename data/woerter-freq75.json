@@ -1,0 +1,506 @@
+[
+ {
+  "de": "Expertenwissen",
+  "ar": "خبرة المتخصصين",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Exploration",
+  "ar": "الاستكشاف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Explorationen"
+ },
+ {
+  "de": "Explorer",
+  "ar": "المستكشف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Explorer"
+ },
+ {
+  "de": "Explosionsgefahr",
+  "ar": "خطر الانفجار",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Exponat",
+  "ar": "قطعة معروضة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Exponate"
+ },
+ {
+  "de": "Exportpreis",
+  "ar": "سعر التصدير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Exportpreise"
+ },
+ {
+  "de": "Exportvolumen",
+  "ar": "حجم الصادرات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Exportvolumina"
+ },
+ {
+  "de": "Exportwirtschaft",
+  "ar": "اقتصاد التصدير",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Extremfall",
+  "ar": "الحالة القصوى",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Extremfälle"
+ },
+ {
+  "de": "Extremwetter",
+  "ar": "الطقس القاسي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Exzess",
+  "ar": "الإفراط والمغالاة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Exzesse"
+ },
+ {
+  "de": "Fachabitur",
+  "ar": "الثانوية المهنية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Facharzt",
+  "ar": "طبيب متخصص",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fachärzte"
+ },
+ {
+  "de": "Facharztausbildung",
+  "ar": "تدريب التخصص الطبي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Facharztausbildungen"
+ },
+ {
+  "de": "Fachausschuss",
+  "ar": "اللجنة المتخصصة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fachausschüsse"
+ },
+ {
+  "de": "Fachberater",
+  "ar": "المستشار المتخصص",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fachberater"
+ },
+ {
+  "de": "Fachbereich",
+  "ar": "القسم الأكاديمي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fachbereiche"
+ },
+ {
+  "de": "Fachbericht",
+  "ar": "التقرير الفني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fachberichte"
+ },
+ {
+  "de": "Fachdebatte",
+  "ar": "النقاش المتخصص",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fachdebatten"
+ },
+ {
+  "de": "Fachfirma",
+  "ar": "الشركة المتخصصة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fachfirmen"
+ },
+ {
+  "de": "Fachgeschäft",
+  "ar": "المحل المتخصص",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fachgeschäfte"
+ },
+ {
+  "de": "Fachkommission",
+  "ar": "اللجنة الفنية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fachkommissionen"
+ },
+ {
+  "de": "Fachkräftelücke",
+  "ar": "عجز الكفاءات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fachkräftelücken"
+ },
+ {
+  "de": "Fachmagazin",
+  "ar": "المجلة المتخصصة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fachmagazine"
+ },
+ {
+  "de": "Fachmarkt",
+  "ar": "المتجر المتخصص",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fachmärkte"
+ },
+ {
+  "de": "Fachmesse",
+  "ar": "المعرض التجاري المتخصص",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fachmessen"
+ },
+ {
+  "de": "Fachteam",
+  "ar": "الفريق المتخصص",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fachteams"
+ },
+ {
+  "de": "Fachverband",
+  "ar": "الاتحاد المهني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fachverbände"
+ },
+ {
+  "de": "Fachwerk",
+  "ar": "البناء بالهيكل الخشبي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Fahndungsliste",
+  "ar": "قائمة المطلوبين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fahndungslisten"
+ },
+ {
+  "de": "Fahranfänger",
+  "ar": "السائق المبتدئ",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fahranfänger"
+ },
+ {
+  "de": "Fahrdienst",
+  "ar": "خدمة النقل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fahrdienste"
+ },
+ {
+  "de": "Fahrerkabine",
+  "ar": "كابينة السائق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fahrerkabinen"
+ },
+ {
+  "de": "Fahrgeschäft",
+  "ar": "لعبة الملاهي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fahrgeschäfte"
+ },
+ {
+  "de": "Fahrgestell",
+  "ar": "شاسيه العربية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fahrgestelle"
+ },
+ {
+  "de": "Fahrlässigkeit",
+  "ar": "الإهمال",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fahrpersonal",
+  "ar": "طاقم القيادة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Fahrprüfung",
+  "ar": "امتحان القيادة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fahrprüfungen"
+ },
+ {
+  "de": "Fahrraddieb",
+  "ar": "حرامي العجل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fahrraddiebe"
+ },
+ {
+  "de": "Fahrradständer",
+  "ar": "ستاند العجلة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fahrradständer"
+ },
+ {
+  "de": "Fahrradverkehr",
+  "ar": "مرور الدراجات",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Fahrschule",
+  "ar": "مدرسة تعليم السواقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fahrschulen"
+ },
+ {
+  "de": "Fahrstil",
+  "ar": "أسلوب القيادة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fahrstile"
+ },
+ {
+  "de": "Fahrverbot",
+  "ar": "حظر القيادة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fahrverbote"
+ },
+ {
+  "de": "Fahrvergnügen",
+  "ar": "متعة القيادة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Fahrwerk",
+  "ar": "نظام التعليق",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fahrwerke"
+ },
+ {
+  "de": "Fahrzeughalter",
+  "ar": "مالك المركبة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fahrzeughalter"
+ },
+ {
+  "de": "Faktenlage",
+  "ar": "المعطيات المتاحة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fallbeil",
+  "ar": "المقصلة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fallbeile"
+ },
+ {
+  "de": "Fallschirmjäger",
+  "ar": "المظلي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fallschirmjäger"
+ },
+ {
+  "de": "Fallstudie",
+  "ar": "دراسة الحالة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fallstudien"
+ },
+ {
+  "de": "Falschaussage",
+  "ar": "شهادة الزور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Falschaussagen"
+ },
+ {
+  "de": "Falscheid",
+  "ar": "الحلف الكاذب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Falscheide"
+ },
+ {
+  "de": "Falschmeldung",
+  "ar": "الخبر الكاذب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Falschmeldungen"
+ },
+ {
+  "de": "Falthandy",
+  "ar": "الموبايل القابل للطي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Falthandys"
+ },
+ {
+  "de": "Familienbesitz",
+  "ar": "ممتلكات العيلة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Familiengeheimnis",
+  "ar": "سر العيلة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Familiengeheimnisse"
+ },
+ {
+  "de": "Familienhund",
+  "ar": "كلب العيلة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Familienhunde"
+ },
+ {
+  "de": "Familienministerin",
+  "ar": "وزيرة الأسرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Familienministerinnen"
+ },
+ {
+  "de": "Familienname",
+  "ar": "اسم العيلة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Familiennamen"
+ },
+ {
+  "de": "Familienpolitik",
+  "ar": "سياسة الأسرة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fanfest",
+  "ar": "مهرجان الجماهير",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fanfeste"
+ },
+ {
+  "de": "Fankultur",
+  "ar": "ثقافة الجماهير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fankulturen"
+ },
+ {
+  "de": "Fankurve",
+  "ar": "مدرج الألتراس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fankurven"
+ },
+ {
+  "de": "Fanszene",
+  "ar": "أوساط الجماهير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fanszenen"
+ },
+ {
+  "de": "Farbpalette",
+  "ar": "لوحة الألوان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Farbpaletten"
+ },
+ {
+  "de": "Farbpatrone",
+  "ar": "خرطوشة الحبر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Farbpatronen"
+ },
+ {
+  "de": "Farbstoff",
+  "ar": "الصبغة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Farbstoffe"
+ },
+ {
+  "de": "Farbtemperatur",
+  "ar": "درجة حرارة اللون",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Farbtemperaturen"
+ },
+ {
+  "de": "Farbwechsel",
+  "ar": "تغيير اللون",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Farbwechsel"
+ },
+ {
+  "de": "Farce",
+  "ar": "المهزلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Farcen"
+ },
+ {
+  "de": "Faschismus",
+  "ar": "الفاشية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Faschist",
+  "ar": "الفاشي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Faschisten"
+ },
+ {
+  "de": "Faser",
+  "ar": "الليفة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fasern"
+ }
+]
