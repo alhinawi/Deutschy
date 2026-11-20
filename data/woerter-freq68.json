@@ -1,0 +1,475 @@
+[
+ {
+  "de": "Demoskopie",
+  "ar": "استطلاع الرأي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Demozug",
+  "ar": "موكب المظاهرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Demozüge"
+ },
+ {
+  "de": "Dengue-Fieber",
+  "ar": "حمى الضنك",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Denkfabrik",
+  "ar": "مركز الأبحاث",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Denkfabriken"
+ },
+ {
+  "de": "Denkmalamt",
+  "ar": "مكتب الآثار",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Denkmalämter"
+ },
+ {
+  "de": "Denkverbot",
+  "ar": "حظر التفكير",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Denkverbote"
+ },
+ {
+  "de": "Denkzettel",
+  "ar": "العبرة / الدرس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Denkzettel"
+ },
+ {
+  "de": "Denunziation",
+  "ar": "الوشاية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Denunziationen"
+ },
+ {
+  "de": "Deportation",
+  "ar": "الترحيل القسري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Deportationen"
+ },
+ {
+  "de": "Depot",
+  "ar": "المحفظة الاستثمارية / المخزن",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Depots"
+ },
+ {
+  "de": "Derbyheld",
+  "ar": "بطل الديربي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Derbyhelden"
+ },
+ {
+  "de": "Derbytag",
+  "ar": "يوم الديربي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Derbytage"
+ },
+ {
+  "de": "Derivat",
+  "ar": "المشتقة المالية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Derivate"
+ },
+ {
+  "de": "Dermatologe",
+  "ar": "دكتور الجلدية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dermatologen"
+ },
+ {
+  "de": "Deserteur",
+  "ar": "الهارب من الجيش",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Deserteure"
+ },
+ {
+  "de": "Designermöbel",
+  "ar": "موبيليا المصممين",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Designstudio",
+  "ar": "استوديو التصميم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Designstudios"
+ },
+ {
+  "de": "Desinfektionsspender",
+  "ar": "موزع المطهر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Desinfektionsspender"
+ },
+ {
+  "de": "Desktop-PC",
+  "ar": "الكمبيوتر المكتبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Desktop-PCs"
+ },
+ {
+  "de": "Desktophintergrund",
+  "ar": "خلفية الشاشة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Desktophintergründe"
+ },
+ {
+  "de": "Despot",
+  "ar": "المستبد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Despoten"
+ },
+ {
+  "de": "Dessert",
+  "ar": "الحلو (بعد الأكل)",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Desserts"
+ },
+ {
+  "de": "Detonation",
+  "ar": "الانفجار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Detonationen"
+ },
+ {
+  "de": "Deutschförderung",
+  "ar": "دعم اللغة الألمانية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Deutschkurs",
+  "ar": "كورس الألمانية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Deutschkurse"
+ },
+ {
+  "de": "Deutschlandflagge",
+  "ar": "علم ألمانيا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Deutschlandflaggen"
+ },
+ {
+  "de": "Deutschlandticket",
+  "ar": "التذكرة الألمانية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Deutschlehrerin",
+  "ar": "مدرسة الألمانية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Deutschlehrerinnen"
+ },
+ {
+  "de": "Deutschtest",
+  "ar": "اختبار الألمانية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Deutschtests"
+ },
+ {
+  "de": "Diabetes",
+  "ar": "السكر (مرض)",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Diagramm",
+  "ar": "الرسم البياني",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Diagramme"
+ },
+ {
+  "de": "Dichtmittel",
+  "ar": "مادة العزل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Dichtmittel"
+ },
+ {
+  "de": "Dichtung",
+  "ar": "الجوان / الشعر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dichtungen"
+ },
+ {
+  "de": "Dickdarmkrebs",
+  "ar": "سرطان القولون",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Dickhäuter",
+  "ar": "سميك الجلد (فيل)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dickhäuter"
+ },
+ {
+  "de": "Dickicht",
+  "ar": "الأجمة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Dickichte"
+ },
+ {
+  "de": "Dienstanbieter",
+  "ar": "مقدم الخدمة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dienstanbieter"
+ },
+ {
+  "de": "Dienstauto",
+  "ar": "عربية الشغل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Dienstautos"
+ },
+ {
+  "de": "Diensthund",
+  "ar": "كلب الخدمة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Diensthunde"
+ },
+ {
+  "de": "Dienstleistungsbranche",
+  "ar": "قطاع الخدمات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dienstleistungsbranchen"
+ },
+ {
+  "de": "Dienstplan",
+  "ar": "جدول الشيفتات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dienstpläne"
+ },
+ {
+  "de": "Dienstreise",
+  "ar": "سفر الشغل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dienstreisen"
+ },
+ {
+  "de": "Dienstwaffe",
+  "ar": "سلاح الخدمة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dienstwaffen"
+ },
+ {
+  "de": "Dieselmotor",
+  "ar": "موتور الديزل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dieselmotoren"
+ },
+ {
+  "de": "Dieselpreis",
+  "ar": "سعر السولار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dieselpreise"
+ },
+ {
+  "de": "Diffamierung",
+  "ar": "التشهير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Diffamierungen"
+ },
+ {
+  "de": "Differenz",
+  "ar": "الفرق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Differenzen"
+ },
+ {
+  "de": "Diktat",
+  "ar": "الإملاء / الأمر",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Diktate"
+ },
+ {
+  "de": "Diktatur",
+  "ar": "الديكتاتورية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Diktaturen"
+ },
+ {
+  "de": "Dill",
+  "ar": "الشبت",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Dingsbums",
+  "ar": "الحاجة الفلانية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Dinosaur",
+  "ar": "الديناصور",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dinosaurier"
+ },
+ {
+  "de": "Diplom",
+  "ar": "الدبلومة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Diplome"
+ },
+ {
+  "de": "Diplomarbeit",
+  "ar": "رسالة التخرج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Diplomarbeiten"
+ },
+ {
+  "de": "Diplomat",
+  "ar": "الدبلوماسي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Diplomaten"
+ },
+ {
+  "de": "Diplomatin",
+  "ar": "الدبلوماسية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Diplomatinnen"
+ },
+ {
+  "de": "Direktbank",
+  "ar": "البنك المباشر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Direktbanken"
+ },
+ {
+  "de": "Direktkandidat",
+  "ar": "المرشح المباشر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Direktkandidaten"
+ },
+ {
+  "de": "Dirigent",
+  "ar": "قائد الأوركسترا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dirigenten"
+ },
+ {
+  "de": "Dirigentin",
+  "ar": "قائدة الأوركسترا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dirigentinnen"
+ },
+ {
+  "de": "Discokugel",
+  "ar": "كرة الديسكو",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Discokugeln"
+ },
+ {
+  "de": "Diskus",
+  "ar": "القرص (رمي)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Diskusse"
+ },
+ {
+  "de": "Diskussionsrunde",
+  "ar": "جلسة النقاش",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Diskussionsrunden"
+ },
+ {
+  "de": "Diskuswerfen",
+  "ar": "رمي القرص",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Displayauflösung",
+  "ar": "دقة الشاشة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Displayauflösungen"
+ },
+ {
+  "de": "Dispositionskredit",
+  "ar": "السحب على المكشوف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dispositionskredite"
+ },
+ {
+  "de": "Disput",
+  "ar": "الجدل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dispute"
+ },
+ {
+  "de": "Disqualifikation",
+  "ar": "الاستبعاد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Disqualifikationen"
+ },
+ {
+  "de": "Dissident",
+  "ar": "المعارض",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dissidenten"
+ }
+]
