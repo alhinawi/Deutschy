@@ -1,0 +1,832 @@
+[
+ {
+  "de": "Untersuchungshaft",
+  "ar": "حبس احتياطي",
+  "pos": "noun"
+ },
+ {
+  "de": "Variante",
+  "ar": "نسخة / صيغة",
+  "pos": "noun"
+ },
+ {
+  "de": "Verbleib",
+  "ar": "مكان وجود / مصير",
+  "pos": "noun"
+ },
+ {
+  "de": "Verbündete",
+  "ar": "الحلفاء",
+  "pos": "noun"
+ },
+ {
+  "de": "Verteilung",
+  "ar": "توزيع / تقسيم",
+  "pos": "noun"
+ },
+ {
+  "de": "Wandel",
+  "ar": "تحول / تغير",
+  "pos": "noun"
+ },
+ {
+  "de": "Webseite",
+  "ar": "الموقع الإلكتروني",
+  "pos": "noun"
+ },
+ {
+  "de": "Zahlung",
+  "ar": "دفعة / عملية دفع",
+  "pos": "noun"
+ },
+ {
+  "de": "Überprüfung",
+  "ar": "مراجعة / تدقيق",
+  "pos": "noun"
+ },
+ {
+  "de": "Abfahrt",
+  "ar": "انطلاق / منحدر",
+  "pos": "noun"
+ },
+ {
+  "de": "Abstiegskampf",
+  "ar": "صراع الهبوط",
+  "pos": "noun"
+ },
+ {
+  "de": "Anreise",
+  "ar": "رحلة الوصول",
+  "pos": "noun"
+ },
+ {
+  "de": "Architektur",
+  "ar": "عمارة / تصميم",
+  "pos": "noun"
+ },
+ {
+  "de": "Areal",
+  "ar": "منطقة / مساحة أرض",
+  "pos": "noun"
+ },
+ {
+  "de": "Aufruf",
+  "ar": "نداء / دعوة",
+  "pos": "noun"
+ },
+ {
+  "de": "Auskunft",
+  "ar": "معلومة / استعلام",
+  "pos": "noun"
+ },
+ {
+  "de": "Auszeichnung",
+  "ar": "تكريم / جايزة",
+  "pos": "noun"
+ },
+ {
+  "de": "Bahnverkehr",
+  "ar": "حركة القطارات",
+  "pos": "noun"
+ },
+ {
+  "de": "Bedürfnis",
+  "ar": "احتياجات",
+  "pos": "noun"
+ },
+ {
+  "de": "Beobachter",
+  "ar": "مراقبين",
+  "pos": "noun"
+ },
+ {
+  "de": "Beschuldigte",
+  "ar": "المتهمين",
+  "pos": "noun"
+ },
+ {
+  "de": "Bewerber",
+  "ar": "المتقدم للوظيفة",
+  "pos": "noun"
+ },
+ {
+  "de": "Blockade",
+  "ar": "حصار / عطلة",
+  "pos": "noun"
+ },
+ {
+  "de": "Bundesgesundheitsminister",
+  "ar": "وزير الصحة الفيدرالي",
+  "pos": "noun"
+ },
+ {
+  "de": "Bundesinnenministerin",
+  "ar": "وزيرة الداخلية",
+  "pos": "noun"
+ },
+ {
+  "de": "Bundespräsident",
+  "ar": "رئيس ألمانيا",
+  "pos": "noun"
+ },
+ {
+  "de": "Bürgergeld",
+  "ar": "معاش المواطن",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Co-Trainer",
+  "ar": "المدرب المساعد",
+  "pos": "noun"
+ },
+ {
+  "de": "DFB-Pokal",
+  "ar": "كأس ألمانيا",
+  "pos": "noun"
+ },
+ {
+  "de": "Darstellung",
+  "ar": "عرض / تصوير",
+  "pos": "noun"
+ },
+ {
+  "de": "Defensive",
+  "ar": "الخط الخلفي",
+  "pos": "noun"
+ },
+ {
+  "de": "Dimension",
+  "ar": "بعد / حجم ضخم",
+  "pos": "noun"
+ },
+ {
+  "de": "Distanz",
+  "ar": "مسافة / برود",
+  "pos": "noun"
+ },
+ {
+  "de": "Dreharbeiten",
+  "ar": "شغل تصوير",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "E-Auto",
+  "ar": "عربية كهربا",
+  "pos": "noun"
+ },
+ {
+  "de": "Einhaltung",
+  "ar": "التزام بـ",
+  "pos": "noun"
+ },
+ {
+  "de": "Einzelfall",
+  "ar": "حالة فردية",
+  "pos": "noun"
+ },
+ {
+  "de": "Energiewende",
+  "ar": "تحول الطاقة",
+  "pos": "noun"
+ },
+ {
+  "de": "Erhalt",
+  "ar": "حفاظ على / تسلم",
+  "pos": "noun"
+ },
+ {
+  "de": "Fachkraft",
+  "ar": "عمالة ماهرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Finanzminister",
+  "ar": "وزير المالية",
+  "pos": "noun"
+ },
+ {
+  "de": "Freilassung",
+  "ar": "إفراج",
+  "pos": "noun"
+ },
+ {
+  "de": "Freiwillige",
+  "ar": "المتطوعين",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "Geflüchtete",
+  "ar": "اللاجئين",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "Gegenspieler",
+  "ar": "الخصم",
+  "pos": "noun"
+ },
+ {
+  "de": "Geschlecht",
+  "ar": "النوع / الجنس",
+  "pos": "noun"
+ },
+ {
+  "de": "Gremium",
+  "ar": "مجلس / لجنة",
+  "pos": "noun"
+ },
+ {
+  "de": "Haftstrafe",
+  "ar": "حبس",
+  "pos": "noun"
+ },
+ {
+  "de": "Heimatstadt",
+  "ar": "بلدته الأصلية",
+  "pos": "noun"
+ },
+ {
+  "de": "Interessent",
+  "ar": "شخص مهتم",
+  "pos": "noun"
+ },
+ {
+  "de": "Investor",
+  "ar": "مستثمر",
+  "pos": "noun"
+ },
+ {
+  "de": "Kamerad",
+  "ar": "رفيق / زميل",
+  "pos": "noun"
+ },
+ {
+  "de": "Klassiker",
+  "ar": "كلاسيكو / تحفة",
+  "pos": "noun"
+ },
+ {
+  "de": "Kontinuität",
+  "ar": "استمرارية",
+  "pos": "noun"
+ },
+ {
+  "de": "Kreativität",
+  "ar": "إبداع",
+  "pos": "noun"
+ },
+ {
+  "de": "Kriminalpolizei",
+  "ar": "المباحث الجنائية",
+  "pos": "noun"
+ },
+ {
+  "de": "Kriterium",
+  "ar": "معيار",
+  "pos": "noun"
+ },
+ {
+  "de": "Landratsamt",
+  "ar": "مجلس المحافظة",
+  "pos": "noun"
+ },
+ {
+  "de": "Lebensqualität",
+  "ar": "جودة حياة",
+  "pos": "noun"
+ },
+ {
+  "de": "Legislaturperiode",
+  "ar": "الفترة التشريعية",
+  "pos": "noun"
+ },
+ {
+  "de": "Leistungsfähigkeit",
+  "ar": "كفاءة / قدرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Luftwaffe",
+  "ar": "سلاح الجو",
+  "pos": "noun"
+ },
+ {
+  "de": "Menschenrecht",
+  "ar": "حقوق إنسان",
+  "pos": "noun"
+ },
+ {
+  "de": "Modernisierung",
+  "ar": "تحديث / تطوير",
+  "pos": "noun"
+ },
+ {
+  "de": "Nachwuchs",
+  "ar": "الناشئين / الولاد",
+  "pos": "noun"
+ },
+ {
+  "de": "Neuzugang",
+  "ar": "صفقة جديدة",
+  "pos": "noun"
+ },
+ {
+  "de": "Oktoberfest",
+  "ar": "أكتوبرفست",
+  "pos": "noun"
+ },
+ {
+  "de": "Politikerin",
+  "ar": "السياسية",
+  "pos": "noun"
+ },
+ {
+  "de": "Präsidentschaftswahl",
+  "ar": "انتخابات رئاسية",
+  "pos": "noun"
+ },
+ {
+  "de": "Rahmenbedingung",
+  "ar": "شروط إطارية",
+  "pos": "noun"
+ },
+ {
+  "de": "Rallye",
+  "ar": "رالي",
+  "pos": "noun"
+ },
+ {
+  "de": "Rassismus",
+  "ar": "عنصرية",
+  "pos": "noun"
+ },
+ {
+  "de": "Remis",
+  "ar": "تعادل",
+  "pos": "noun"
+ },
+ {
+  "de": "Schauspiel",
+  "ar": "تمثيل / مسرحية",
+  "pos": "noun"
+ },
+ {
+  "de": "Sommerferien",
+  "ar": "أجازة الصيف",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Sparkasse",
+  "ar": "بنك التوفير",
+  "pos": "noun"
+ },
+ {
+  "de": "Spezialist",
+  "ar": "متخصص / خبير",
+  "pos": "noun"
+ },
+ {
+  "de": "Spielraum",
+  "ar": "هامش / مساحة",
+  "pos": "noun"
+ },
+ {
+  "de": "Stadtwerke",
+  "ar": "شركة المرافق",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Strafzoll",
+  "ar": "جمارك عقابية",
+  "pos": "noun"
+ },
+ {
+  "de": "Stream",
+  "ar": "بث مباشر",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Tatverdächtige",
+  "ar": "المشتبه فيهم",
+  "pos": "noun"
+ },
+ {
+  "de": "Teilnehmerin",
+  "ar": "المشاركة (ست)",
+  "pos": "noun"
+ },
+ {
+  "de": "Trailer",
+  "ar": "إعلان فيلم",
+  "pos": "noun"
+ },
+ {
+  "de": "Tribüne",
+  "ar": "مدرج",
+  "pos": "noun"
+ },
+ {
+  "de": "Tötung",
+  "ar": "قتل",
+  "pos": "noun"
+ },
+ {
+  "de": "Verbraucherzentrale",
+  "ar": "مركز حماية المستهلك",
+  "pos": "noun"
+ },
+ {
+  "de": "Kripo",
+  "ar": "المباحث",
+  "pos": "noun"
+ },
+ {
+  "de": "AI",
+  "ar": "الذكاء الاصطناعي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "abgeben",
+  "ar": "يسلم / يصدر تصريح",
+  "pos": "verb"
+ },
+ {
+  "de": "abstimmen",
+  "ar": "ينسق / يصوت",
+  "pos": "verb"
+ },
+ {
+  "de": "analysieren",
+  "ar": "يحلل",
+  "pos": "verb"
+ },
+ {
+  "de": "anklagen",
+  "ar": "يتهمه قضائيا",
+  "pos": "verb"
+ },
+ {
+  "de": "ausstrahlen",
+  "ar": "يبثها / يشع",
+  "pos": "verb"
+ },
+ {
+  "de": "belegen",
+  "ar": "يثبت / يحتل",
+  "pos": "verb"
+ },
+ {
+  "de": "bestreiten",
+  "ar": "ينكرها / يمولها",
+  "pos": "verb"
+ },
+ {
+  "de": "betrachten",
+  "ar": "يتأملها / يعتبرها",
+  "pos": "verb"
+ },
+ {
+  "de": "betreuen",
+  "ar": "يهتم بـ / يشرف على",
+  "pos": "verb"
+ },
+ {
+  "de": "einliefern",
+  "ar": "يدخله مستشفى / يوصله",
+  "pos": "verb"
+ },
+ {
+  "de": "erwerben",
+  "ar": "يقتني / يشتري",
+  "pos": "verb"
+ },
+ {
+  "de": "ehren",
+  "ar": "يكرمه",
+  "pos": "verb"
+ },
+ {
+  "de": "lagern",
+  "ar": "يخزنها",
+  "pos": "verb"
+ },
+ {
+  "de": "hinweisen",
+  "ar": "يلفت النظر لـ",
+  "pos": "verb"
+ },
+ {
+  "de": "kollidieren",
+  "ar": "يخبط في",
+  "pos": "verb"
+ },
+ {
+  "de": "kommentieren",
+  "ar": "يعلق على",
+  "pos": "verb"
+ },
+ {
+  "de": "realisieren",
+  "ar": "يدرك / ينفذ",
+  "pos": "verb"
+ },
+ {
+  "de": "vermitteln",
+  "ar": "يوسط / ينقل انطباع",
+  "pos": "verb"
+ },
+ {
+  "de": "verzichten",
+  "ar": "يستغنى عن",
+  "pos": "verb"
+ },
+ {
+  "de": "vorliegen",
+  "ar": "موجود / مطروح",
+  "pos": "verb"
+ },
+ {
+  "de": "zulassen",
+  "ar": "يسمح بـ / يعتمد",
+  "pos": "verb"
+ },
+ {
+  "de": "zurückgreifen",
+  "ar": "يلجأ لـ",
+  "pos": "verb"
+ },
+ {
+  "de": "außergewöhnlich",
+  "ar": "استثنائي / مش عادي",
+  "pos": "adj"
+ },
+ {
+  "de": "bevorstehend",
+  "ar": "قادم / على وشك",
+  "pos": "adj"
+ },
+ {
+  "de": "derzeitig",
+  "ar": "حالي / بتاع الوقت ده",
+  "pos": "adj"
+ },
+ {
+  "de": "durchschnittlich",
+  "ar": "متوسط / عادي",
+  "pos": "adj"
+ },
+ {
+  "de": "emotional",
+  "ar": "عاطفي / مؤثر",
+  "pos": "adj"
+ },
+ {
+  "de": "erreichbar",
+  "ar": "متاح / يمكن الوصول له",
+  "pos": "adj"
+ },
+ {
+  "de": "fehlend",
+  "ar": "ناقص / مفقود",
+  "pos": "adj"
+ },
+ {
+  "de": "geboren",
+  "ar": "من مواليد",
+  "pos": "adj"
+ },
+ {
+  "de": "geeignet",
+  "ar": "مناسب",
+  "pos": "adj"
+ },
+ {
+  "de": "gemeinnützig",
+  "ar": "غير ربحي",
+  "pos": "adj"
+ },
+ {
+  "de": "gesellschaftlich",
+  "ar": "مجتمعي",
+  "pos": "adj"
+ },
+ {
+  "de": "geringer",
+  "ar": "أقل / أصغر",
+  "pos": "adj"
+ },
+ {
+  "de": "gänzlich",
+  "ar": "تماما / كليا",
+  "pos": "adv"
+ },
+ {
+  "de": "keinerlei",
+  "ar": "ولا أي",
+  "pos": "part"
+ },
+ {
+  "de": "mittler",
+  "ar": "وسط",
+  "pos": "adj"
+ },
+ {
+  "de": "mobil",
+  "ar": "متحرك / موبايل",
+  "pos": "adj"
+ },
+ {
+  "de": "musikalisch",
+  "ar": "موسيقي",
+  "pos": "adj"
+ },
+ {
+  "de": "optisch",
+  "ar": "بصري / شكلي",
+  "pos": "adj"
+ },
+ {
+  "de": "rechtlich",
+  "ar": "قانوني",
+  "pos": "adj"
+ },
+ {
+  "de": "souverän",
+  "ar": "واثق / متمكن",
+  "pos": "adj"
+ },
+ {
+  "de": "spontan",
+  "ar": "سبontan / عفوي",
+  "pos": "adj"
+ },
+ {
+  "de": "stetig",
+  "ar": "ثابت / منتظم",
+  "pos": "adj"
+ },
+ {
+  "de": "strafrechtlich",
+  "ar": "جنائي",
+  "pos": "adj"
+ },
+ {
+  "de": "stärkst",
+  "ar": "أقوى",
+  "pos": "adj"
+ },
+ {
+  "de": "syrisch",
+  "ar": "سوري",
+  "pos": "adj"
+ },
+ {
+  "de": "tödlich",
+  "ar": "قاتل / مميت",
+  "pos": "adj"
+ },
+ {
+  "de": "wissenschaftlich",
+  "ar": "علمي / أكاديمي",
+  "pos": "adj"
+ },
+ {
+  "de": "überwiegend",
+  "ar": "في أغلبه",
+  "pos": "adj"
+ },
+ {
+  "de": "schlechter",
+  "ar": "أسوأ",
+  "pos": "adj"
+ },
+ {
+  "de": "zurückliegend",
+  "ar": "ماضي / سابق",
+  "pos": "adj"
+ },
+ {
+  "de": "toll",
+  "ar": "جميل جدا / روعة",
+  "pos": "adj"
+ },
+ {
+  "de": "aufeinander",
+  "ar": "على بعض",
+  "pos": "adv"
+ },
+ {
+  "de": "binnen",
+  "ar": "في غضون",
+  "pos": "part"
+ },
+ {
+  "de": "heran",
+  "ar": "قريب من",
+  "pos": "part"
+ },
+ {
+  "de": "hinein",
+  "ar": "لجوه",
+  "pos": "part"
+ },
+ {
+  "de": "hinterher",
+  "ar": "وراها / بعدها",
+  "pos": "adv"
+ },
+ {
+  "de": "infolge",
+  "ar": "على إثر / نتيجة",
+  "pos": "part"
+ },
+ {
+  "de": "keineswegs",
+  "ar": "مش أبدا",
+  "pos": "adv"
+ },
+ {
+  "de": "mehrmals",
+  "ar": "أكتر من مرة",
+  "pos": "adv"
+ },
+ {
+  "de": "vergeblich",
+  "ar": "من غير فايدة",
+  "pos": "adv"
+ },
+ {
+  "de": "vergleichsweise",
+  "ar": "نسبيا",
+  "pos": "adv"
+ },
+ {
+  "de": "vielmehr",
+  "ar": "بالأحرى / بل",
+  "pos": "adv"
+ },
+ {
+  "de": "vorläufig",
+  "ar": "مؤقت",
+  "pos": "adj"
+ },
+ {
+  "de": "zumal",
+  "ar": "خاصة إن / وبالذات",
+  "pos": "part"
+ },
+ {
+  "de": "wonach",
+  "ar": "وبناء عليه",
+  "pos": "part"
+ },
+ {
+  "de": "überaus",
+  "ar": "جدا جدا",
+  "pos": "adv"
+ },
+ {
+  "de": "zustande",
+  "ar": "يحصل / يتم",
+  "pos": "part"
+ },
+ {
+  "de": "musst",
+  "ar": "لازم (انت)",
+  "pos": "verb"
+ },
+ {
+  "de": "mögen",
+  "ar": "بتحب",
+  "pos": "verb"
+ },
+ {
+  "de": "lasse",
+  "ar": "أخلي / أشوف",
+  "pos": "verb"
+ },
+ {
+  "de": "wider",
+  "ar": "ضد (قديم)",
+  "pos": "part"
+ },
+ {
+  "de": "zweit",
+  "ar": "ثاني",
+  "pos": "part"
+ },
+ {
+  "de": "gibt's",
+  "ar": "فيه (عامية)",
+  "pos": "part"
+ }
+]
