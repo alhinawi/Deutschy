@@ -1,0 +1,632 @@
+[
+ {
+  "de": "Kriegführung",
+  "ar": "إدارة الحرب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kriegführungen"
+ },
+ {
+  "de": "Kriegsanstrengungen",
+  "ar": "المجهود الحربي",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Kriegsausbruch",
+  "ar": "اندلاع الحرب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kriegsausbrüche"
+ },
+ {
+  "de": "Kriegseinsatz",
+  "ar": "العملية العسكرية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kriegseinsätze"
+ },
+ {
+  "de": "Kriegsende",
+  "ar": "نهاية الحرب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kriegsenden"
+ },
+ {
+  "de": "Kriegsfilm",
+  "ar": "الفيلم الحربي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kriegsfilme"
+ },
+ {
+  "de": "Kriegsgebiet",
+  "ar": "منطقة الحرب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kriegsgebiete"
+ },
+ {
+  "de": "Kriegsgeflüchtete",
+  "ar": "لاجئ الحرب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kriegsgeflüchteten"
+ },
+ {
+  "de": "Kriegspartei",
+  "ar": "طرف الحرب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kriegsparteien"
+ },
+ {
+  "de": "Kriegstagebuch",
+  "ar": "مذكرات الحرب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kriegstagebücher"
+ },
+ {
+  "de": "Kriegstreiber",
+  "ar": "مؤجج الحرب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kriegstreiber"
+ },
+ {
+  "de": "Kriminalbeamter",
+  "ar": "رجل المباحث",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kriminalbeamten"
+ },
+ {
+  "de": "Kriminalfall",
+  "ar": "القضية الجنائية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kriminalfälle"
+ },
+ {
+  "de": "Kriminalstatistik",
+  "ar": "إحصائيات الجريمة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kriminalstatistiken"
+ },
+ {
+  "de": "Krisengespräch",
+  "ar": "اجتماع الأزمة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Krisengespräche"
+ },
+ {
+  "de": "Krisenherd",
+  "ar": "بؤرة الأزمة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Krisenherde"
+ },
+ {
+  "de": "Krisenregion",
+  "ar": "منطقة الأزمات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Krisenregionen"
+ },
+ {
+  "de": "Kristallkugel",
+  "ar": "الكرة الكريستال",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kristallkugeln"
+ },
+ {
+  "de": "Kritikerin",
+  "ar": "الناقدة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kritikerinnen"
+ },
+ {
+  "de": "Kritzelei",
+  "ar": "الخربشة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kritzeleien"
+ },
+ {
+  "de": "Kronprinzessin",
+  "ar": "ولية العهد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kronprinzessinnen"
+ },
+ {
+  "de": "Kronzeuge",
+  "ar": "شاهد الملك",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kronzeugen"
+ },
+ {
+  "de": "Kryptoanleger",
+  "ar": "مستثمر الكريبتو",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kryptoanleger"
+ },
+ {
+  "de": "Kryptobörse",
+  "ar": "بورصة الكريبتو",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kryptobörsen"
+ },
+ {
+  "de": "Kräftegleichgewicht",
+  "ar": "توازن القوى",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kräftegleichgewichte"
+ },
+ {
+  "de": "Kräftemessen",
+  "ar": "شد الحبل (قياس القوى)",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Krümmung",
+  "ar": "الانحناء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Krümmungen"
+ },
+ {
+  "de": "Kubaner",
+  "ar": "الكوبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kubaner"
+ },
+ {
+  "de": "Kultfilm",
+  "ar": "فيلم الكلت",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kultfilme"
+ },
+ {
+  "de": "Kulturgut",
+  "ar": "الموروث الثقافي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kulturgüter"
+ },
+ {
+  "de": "Kulturinstitution",
+  "ar": "المؤسسة الثقافية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kulturinstitutionen"
+ },
+ {
+  "de": "Kulturleben",
+  "ar": "الحياة الثقافية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Kulturpolitik",
+  "ar": "السياسة الثقافية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Kulturtasche",
+  "ar": "شنطة التواليت",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kulturtaschen"
+ },
+ {
+  "de": "Kultusminister",
+  "ar": "وزير الثقافة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kultusminister"
+ },
+ {
+  "de": "Kultusministerin",
+  "ar": "وزيرة الثقافة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kultusministerinnen"
+ },
+ {
+  "de": "Kundenbetreuer",
+  "ar": "مسؤول خدمة العملاء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kundenbetreuer"
+ },
+ {
+  "de": "Kundengruppe",
+  "ar": "فئة العملاء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kundengruppen"
+ },
+ {
+  "de": "Kundenkarte",
+  "ar": "كارت العملاء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kundenkarten"
+ },
+ {
+  "de": "Kunstakademie",
+  "ar": "أكاديمية الفنون",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kunstakademien"
+ },
+ {
+  "de": "Kunstausstellung",
+  "ar": "معرض الفن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kunstausstellungen"
+ },
+ {
+  "de": "Kunstbiennale",
+  "ar": "البينالي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kunstbiennalen"
+ },
+ {
+  "de": "Kunstblume",
+  "ar": "الوردة الصناعية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kunstblumen"
+ },
+ {
+  "de": "Kunstdünger",
+  "ar": "السماد الصناعي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kunstdünger"
+ },
+ {
+  "de": "Kunstfaser",
+  "ar": "الألياف الصناعية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kunstfasern"
+ },
+ {
+  "de": "Kunstgeschichte",
+  "ar": "تاريخ الفن",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Kunstgriff",
+  "ar": "الحيلة الفنية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kunstgriffe"
+ },
+ {
+  "de": "Kunstleder",
+  "ar": "الجلد الصناعي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Kunstschnee",
+  "ar": "التلج الصناعي",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Kunststoff",
+  "ar": "البلاستيك",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kunststoffe"
+ },
+ {
+  "de": "Kunststück",
+  "ar": "الخدعة البهلوانية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kunststücke"
+ },
+ {
+  "de": "Kunstturnen",
+  "ar": "الجمباز الفني",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Kuppel",
+  "ar": "القبة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kuppeln"
+ },
+ {
+  "de": "Kupplung",
+  "ar": "القابض (الدبرياج)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kupplungen"
+ },
+ {
+  "de": "Kurdin",
+  "ar": "الكردية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kurdinnen"
+ },
+ {
+  "de": "Kurskorrektur",
+  "ar": "تصحيح السعر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kurskorrekturen"
+ },
+ {
+  "de": "Kurzarbeitergeld",
+  "ar": "إعانة العمل المختصر",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kurzarbeitergelder"
+ },
+ {
+  "de": "Kurzatmigkeit",
+  "ar": "ضيق النفس",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Kurzfassung",
+  "ar": "الملخص",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kurzfassungen"
+ },
+ {
+  "de": "Kurzfilm",
+  "ar": "الفيلم القصير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kurzfilme"
+ },
+ {
+  "de": "Kurzgeschichte",
+  "ar": "القصة القصيرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kurzgeschichten"
+ },
+ {
+  "de": "Kurzschlussreaktion",
+  "ar": "رد الفعل الانفعالي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kurzschlussreaktionen"
+ },
+ {
+  "de": "Kurzschluss",
+  "ar": "القصور الكهربي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kurzschlüsse"
+ },
+ {
+  "de": "Kurzurlaub",
+  "ar": "الأجازة القصيرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kurzurlaube"
+ },
+ {
+  "de": "Käseplatte",
+  "ar": "طبق الجبنة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Käseplatten"
+ },
+ {
+  "de": "Käserei",
+  "ar": "مصنع الجبنة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Käsereien"
+ },
+ {
+  "de": "Kätzchen",
+  "ar": "القطيطة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kätzchen"
+ },
+ {
+  "de": "Königsdisziplin",
+  "ar": "التخصص الأعلى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Königsdisziplinen"
+ },
+ {
+  "de": "Köpfchen",
+  "ar": "الشطارة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Köpfchen"
+ },
+ {
+  "de": "Körperbild",
+  "ar": "صورة الجسم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Körperbilder"
+ },
+ {
+  "de": "Körperfett",
+  "ar": "دهون الجسم",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Körperwärme",
+  "ar": "حرارة الجسم",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Küchenchef",
+  "ar": "رئيس الطهاة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Küchenchefs"
+ },
+ {
+  "de": "Küchenhilfe",
+  "ar": "مساعد المطبخ",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Küchenhilfen"
+ },
+ {
+  "de": "Küchenmesser",
+  "ar": "سكينة المطبخ",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Küchenmesser"
+ },
+ {
+  "de": "Küchentisch",
+  "ar": "ترابيزة المطبخ",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Küchentische"
+ },
+ {
+  "de": "Küchenutensilien",
+  "ar": "أدوات المطبخ",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Kühlhaus",
+  "ar": "مخزن التبريد",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kühlhäuser"
+ },
+ {
+  "de": "Kühlturm",
+  "ar": "برج التبريد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kühltürme"
+ },
+ {
+  "de": "Kümmel",
+  "ar": "الكمون",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kümmel"
+ },
+ {
+  "de": "Kündigungsschutz",
+  "ar": "الحماية من الفصل",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Künstlername",
+  "ar": "الاسم الفني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Künstlernamen"
+ },
+ {
+  "de": "Küstenstaat",
+  "ar": "الدولة الساحلية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Küstenstaaten"
+ },
+ {
+  "de": "Küstenstadt",
+  "ar": "المدينة الساحلية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Küstenstädte"
+ },
+ {
+  "de": "Laborergebnis",
+  "ar": "نتيجة التحليل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Laborergebnisse"
+ },
+ {
+  "de": "Lachgas",
+  "ar": "غاز الضحك",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Lachgase"
+ },
+ {
+  "de": "Lachtränen",
+  "ar": "دموع الضحك",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Lackierung",
+  "ar": "الدهان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lackierungen"
+ },
+ {
+  "de": "Ladeinfrastruktur",
+  "ar": "البنية التحتية للشحن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ladeinfrastrukturen"
+ },
+ {
+  "de": "Ladekarte",
+  "ar": "كارت الشحن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ladekarten"
+ },
+ {
+  "de": "Ladengeschäft",
+  "ar": "المحل التجاري",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ladengeschäfte"
+ },
+ {
+  "de": "Ladenschlussgesetz",
+  "ar": "قانون قفل المحلات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ladenschlussgesetze"
+ }
+]
