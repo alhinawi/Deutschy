@@ -6,6 +6,7 @@ import { verbOf, slug } from '@/lib/verbs';
 import { useLang, useT } from '@/lib/i18n';
 import { speak } from '@/lib/speak';
 import Speaker from './Speaker';
+import FilterDisclosure from './FilterDisclosure';
 
 const LV = ['A1', 'A2', 'B1', 'B2'] as const;
 const KINDS = [
@@ -103,18 +104,20 @@ export default function VerbenBrowser() {
   const reset = (fn: () => void) => () => { fn(); setShown(PAGE); };
   return (
     <div className="space-y-4">
-      <div className="flex flex-wrap items-center gap-2" role="group" aria-label={t('المستوى', 'Level')}>
-        {(['all', ...LV] as const).map((l) => <button key={l} aria-pressed={lv === l} onClick={reset(() => setLv(l))} className={chip(lv === l)}>{l === 'all' ? t('كل المستويات', 'All levels') : l}</button>)}
-      </div>
-      <div className="flex flex-wrap items-center gap-2" role="group" aria-label={t('نوع الفعل', 'Verb type')}>
-        <button aria-pressed={kind === 'all'} onClick={reset(() => setKind('all'))} className={chip(kind === 'all')}>{t('كل الأنواع', 'All types')}</button>
-        {KINDS.map((k) => <button key={k.id} aria-pressed={kind === k.id} onClick={reset(() => setKind(k.id))} className={chip(kind === k.id)}>{lang === 'ar' ? k.ar : k.en}</button>)}
-      </div>
       <label htmlFor="verben-search" className="block font-semibold">{t('دوّر على أي فعل بالألماني أو المصري', 'Search any verb in German or Arabic')}</label>
       <input ref={searchInput} id="verben-search" type="search" dir="auto" value={q} onChange={(e) => { setQ(e.target.value); setShown(PAGE); }} placeholder={t('مثال: gehen أو يروح', 'e.g. gehen')} className="min-h-11 w-full rounded-full border border-line bg-card px-4 py-2 text-sm sm:w-96" />
+      <FilterDisclosure activeCount={(lv !== 'all' ? 1 : 0) + (kind !== 'all' ? 1 : 0)}>
+        <div className="flex flex-wrap items-center gap-2" role="group" aria-label={t('المستوى', 'Level')}>
+          {(['all', ...LV] as const).map((l) => <button key={l} aria-pressed={lv === l} onClick={reset(() => setLv(l))} className={chip(lv === l)}>{l === 'all' ? t('كل المستويات', 'All levels') : l}</button>)}
+        </div>
+        <div className="flex flex-wrap items-center gap-2" role="group" aria-label={t('نوع الفعل', 'Verb type')}>
+          <button aria-pressed={kind === 'all'} onClick={reset(() => setKind('all'))} className={chip(kind === 'all')}>{t('كل الأنواع', 'All types')}</button>
+          {KINDS.map((k) => <button key={k.id} aria-pressed={kind === k.id} onClick={reset(() => setKind(k.id))} className={chip(kind === k.id)}>{lang === 'ar' ? k.ar : k.en}</button>)}
+        </div>
+        {(q || lv !== 'all' || kind !== 'all') && <button onClick={reset(() => { setQ(''); setLv('all'); setKind('all'); searchInput.current?.focus(); })} className="min-h-11 rounded-full border border-line px-4 py-2">{t('امسح البحث والفلاتر', 'Clear search and filters')}</button>}
+      </FilterDisclosure>
       <div className="flex flex-wrap items-center gap-3">
         <p className="num text-sm text-muted" role="status" aria-atomic="true">{list.length} / {verben.length}</p>
-        {(q || lv !== 'all' || kind !== 'all') && <button onClick={reset(() => { setQ(''); setLv('all'); setKind('all'); searchInput.current?.focus(); })} className="min-h-11 rounded-full border border-line px-4 py-2">{t('امسح البحث والفلاتر', 'Clear search and filters')}</button>}
       </div>
       {list.length === 0 && <p className="rounded-2xl border border-line bg-card p-5">{t('مفيش فعل مطابق. جرّب كلمة أقصر أو امسح الفلاتر.', 'No matching verb. Try a shorter term or clear the filters.')}</p>}
       <ul className="grid gap-3 sm:grid-cols-2">
