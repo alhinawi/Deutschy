@@ -1,0 +1,786 @@
+[
+ {
+  "de": "Backrohr",
+  "ar": "الفرن (النمسا)",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Backrohre"
+ },
+ {
+  "de": "Backstein",
+  "ar": "الطوب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Backsteine"
+ },
+ {
+  "de": "Backsteingebäude",
+  "ar": "مبنى طوب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Backsteingebäude"
+ },
+ {
+  "de": "Badebucht",
+  "ar": "خليج السباحة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Badebuchten"
+ },
+ {
+  "de": "Badegewässer",
+  "ar": "مياه السباحة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Badegewässer"
+ },
+ {
+  "de": "Badekappe",
+  "ar": "كاب السباحة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Badekappen"
+ },
+ {
+  "de": "Bademeister",
+  "ar": "المنقذ",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bademeister"
+ },
+ {
+  "de": "Badeoase",
+  "ar": "واحة السباحة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Badeoasen"
+ },
+ {
+  "de": "Badestrand",
+  "ar": "شاطي السباحة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Badestrände"
+ },
+ {
+  "de": "Badregal",
+  "ar": "رف الحمام",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Badregale"
+ },
+ {
+  "de": "BahnCard",
+  "ar": "كارت البان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "BahnCards"
+ },
+ {
+  "de": "Bahnhofsmission",
+  "ar": "خدمة المحطة الاجتماعية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bahnhofsmissionen"
+ },
+ {
+  "de": "Bahnhofsparkplatz",
+  "ar": "موقف المحطة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bahnhofsparkplätze"
+ },
+ {
+  "de": "Bahnhofstunnel",
+  "ar": "نفق المحطة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bahnhofstunnel"
+ },
+ {
+  "de": "Bahnhofsviertel",
+  "ar": "حي المحطة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bahnhofsviertel"
+ },
+ {
+  "de": "Bahnhofsvorplatz",
+  "ar": "ساحة المحطة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bahnhofsvorplätze"
+ },
+ {
+  "de": "Bahninfrastruktur",
+  "ar": "البنية التحتية للسكك",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bahnlinie",
+  "ar": "خط القطر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bahnlinien"
+ },
+ {
+  "de": "Bahnpendler",
+  "ar": "راكب القطر اليومي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bahnpendler"
+ },
+ {
+  "de": "Bahnreisende",
+  "ar": "مسافر القطر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bahnreisenden"
+ },
+ {
+  "de": "Bahnrekord",
+  "ar": "رقم قياسي للقطرات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bahnrekorde"
+ },
+ {
+  "de": "Bahnsteigdach",
+  "ar": "سقف الرصيف",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bahnsteigdächer"
+ },
+ {
+  "de": "Bahnstreik",
+  "ar": "إضراب القطرات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bahnstreiks"
+ },
+ {
+  "de": "Bahnunterführung",
+  "ar": "نفق القطر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bahnunterführungen"
+ },
+ {
+  "de": "Bahnverbindung",
+  "ar": "مواصلة القطر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bahnverbindungen"
+ },
+ {
+  "de": "Balanceakt",
+  "ar": "الموازنة الصعبة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Balanceakte"
+ },
+ {
+  "de": "Baleareninsel",
+  "ar": "جزيرة البليار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Baleareninseln"
+ },
+ {
+  "de": "Balken",
+  "ar": "العارضة (خشب)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Balken"
+ },
+ {
+  "de": "Balkonkraftwerk",
+  "ar": "محطة شمسية للبلكونة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Balkonkraftwerke"
+ },
+ {
+  "de": "Ballade",
+  "ar": "الأغنية القصصية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Balladen"
+ },
+ {
+  "de": "Ballaststoffe",
+  "ar": "الألياف الغذائية",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Ballbesitz",
+  "ar": "الاستحواذ",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Ballenpresse",
+  "ar": "مكبس البالات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ballenpressen"
+ },
+ {
+  "de": "Ballerina",
+  "ar": "راقصة الباليه",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ballerinas"
+ },
+ {
+  "de": "Balleroberung",
+  "ar": "استخلاص الكورة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Balleroberungen"
+ },
+ {
+  "de": "Ballhaus",
+  "ar": "قاعة الرقص",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ballhäuser"
+ },
+ {
+  "de": "Ballkontakt",
+  "ar": "لمسة الكورة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ballkontakte"
+ },
+ {
+  "de": "Ballspiel",
+  "ar": "لعبة الكورة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ballspiele"
+ },
+ {
+  "de": "Ballungsraum",
+  "ar": "التجمع السكاني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ballungsräume"
+ },
+ {
+  "de": "Ballungszentrum",
+  "ar": "مركز التجمع",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ballungszentren"
+ },
+ {
+  "de": "Ballverlust",
+  "ar": "ضياع الكورة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ballverluste"
+ },
+ {
+  "de": "Ballverteiler",
+  "ar": "موزع الكورة (صانع اللعب)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ballverteiler"
+ },
+ {
+  "de": "Baltenrepublik",
+  "ar": "جمهورية البلطيق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Baltenrepubliken"
+ },
+ {
+  "de": "Bambini",
+  "ar": "الصغيرين (فرق الأطفال)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bambinis"
+ },
+ {
+  "de": "Banalität",
+  "ar": "التفاهة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Banalitäten"
+ },
+ {
+  "de": "Bananenplantage",
+  "ar": "مزرعة موز",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bananenplantagen"
+ },
+ {
+  "de": "Bananenrepublik",
+  "ar": "جمهورية موز",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bananenrepubliken"
+ },
+ {
+  "de": "Bandendiebstahl",
+  "ar": "السرقة المنظمة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bandendiebstähle"
+ },
+ {
+  "de": "Bandenkriminalität",
+  "ar": "جرايم العصابات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bankangestellte",
+  "ar": "موظف البنك",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bankangestellten"
+ },
+ {
+  "de": "Bankbürgschaft",
+  "ar": "ضمانة البنك",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bankbürgschaften"
+ },
+ {
+  "de": "Bankdaten",
+  "ar": "بيانات البنك",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Bankdrücken",
+  "ar": "الضغط بالبار",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Bankengruppe",
+  "ar": "مجموعة البنوك",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bankengruppen"
+ },
+ {
+  "de": "Bankenmarkt",
+  "ar": "سوق البنوك",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bankenmärkte"
+ },
+ {
+  "de": "Bankensektor",
+  "ar": "القطاع المصرفي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bankensektoren"
+ },
+ {
+  "de": "Banker",
+  "ar": "المصرفي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Banker"
+ },
+ {
+  "de": "Bankett",
+  "ar": "الوليمة الرسمية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bankette"
+ },
+ {
+  "de": "Bankfiliale",
+  "ar": "فرع البنك",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bankfilialen"
+ },
+ {
+  "de": "Bankgeschäft",
+  "ar": "المعاملة البنكية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bankgeschäfte"
+ },
+ {
+  "de": "Bankier",
+  "ar": "المصرفي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bankiers"
+ },
+ {
+  "de": "Bankinstitut",
+  "ar": "المؤسسة المصرفية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bankinstitute"
+ },
+ {
+  "de": "Bankkontodaten",
+  "ar": "بيانات الحساب البنكي",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Bankreihe",
+  "ar": "صف المقاعد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bankreihen"
+ },
+ {
+  "de": "Bankrotterklärung",
+  "ar": "إعلان الإفلاس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bankrotterklärungen"
+ },
+ {
+  "de": "Banksparplan",
+  "ar": "خطة التوفير البنكية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Banksparpläne"
+ },
+ {
+  "de": "Barbarei",
+  "ar": "الهمجية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Barbershop",
+  "ar": "محل الحلاقة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Barbershops"
+ },
+ {
+  "de": "Barbiepuppe",
+  "ar": "عروسة باربي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Barbiepuppen"
+ },
+ {
+  "de": "Bargeldobergrenze",
+  "ar": "حد الكاش",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bargeldobergrenzen"
+ },
+ {
+  "de": "Barke",
+  "ar": "المركب الشراعي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Barken"
+ },
+ {
+  "de": "Bartagame",
+  "ar": "تنين اللحية (سحلية)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bartagamen"
+ },
+ {
+  "de": "Bartenderin",
+  "ar": "البارمان (ست)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bartenderinnen"
+ },
+ {
+  "de": "Basalt",
+  "ar": "البازلت",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Baseball-Kappe",
+  "ar": "كاب البيسبول",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Baseball-Kappen"
+ },
+ {
+  "de": "Basislinie",
+  "ar": "الخط الأساسي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Basislinien"
+ },
+ {
+  "de": "Basisprodukt",
+  "ar": "المنتج الأساسي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Basisprodukte"
+ },
+ {
+  "de": "Basispunkt",
+  "ar": "نقطة أساس (مالية)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Basispunkte"
+ },
+ {
+  "de": "Basissystem",
+  "ar": "النظام الأساسي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Basissysteme"
+ },
+ {
+  "de": "Basiszinssatz",
+  "ar": "سعر الفايدة الأساسي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Basiszinssätze"
+ },
+ {
+  "de": "Basketball-Feld",
+  "ar": "ملعب السلة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Basketball-Felder"
+ },
+ {
+  "de": "Basketball-Profi",
+  "ar": "محترف السلة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Basketball-Profis"
+ },
+ {
+  "de": "Basketballanlage",
+  "ar": "منشأة السلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Basketballanlagen"
+ },
+ {
+  "de": "Basketballspielerin",
+  "ar": "لعيبة السلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Basketballspielerinnen"
+ },
+ {
+  "de": "Basketballstar",
+  "ar": "نجم السلة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Basketballstars"
+ },
+ {
+  "de": "Basketballverband",
+  "ar": "اتحاد السلة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Basketballverbände"
+ },
+ {
+  "de": "Basketballweltmeister",
+  "ar": "بطل العالم للسلة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Basketballweltmeister"
+ },
+ {
+  "de": "Bassklarinette",
+  "ar": "الكلارينيت باس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bassklarinetten"
+ },
+ {
+  "de": "Bataillon",
+  "ar": "الكتيبة (عسكرية)",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bataillone"
+ },
+ {
+  "de": "Batteriefabrik",
+  "ar": "مصنع البطاريات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Batteriefabriken"
+ },
+ {
+  "de": "Batteriehersteller",
+  "ar": "صانع البطاريات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Batteriehersteller"
+ },
+ {
+  "de": "Batteriekonzern",
+  "ar": "مجموعة البطاريات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Batteriekonzerne"
+ },
+ {
+  "de": "Batteriequalität",
+  "ar": "جودة البطارية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Batterievariante",
+  "ar": "نسخة البطارية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Batterievarianten"
+ },
+ {
+  "de": "Bauamt",
+  "ar": "مكتب البناء",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bauämter"
+ },
+ {
+  "de": "Bauarbeiterhelm",
+  "ar": "خوزة عامل البناء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bauarbeiterhelme"
+ },
+ {
+  "de": "Bauart",
+  "ar": "نوع البناء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bauarten"
+ },
+ {
+  "de": "Bauaufsicht",
+  "ar": "رقابة البناء",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Baubereich",
+  "ar": "منطقة البناء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Baubereiche"
+ },
+ {
+  "de": "Baubewilligung",
+  "ar": "تصريح البناء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Baubewilligungen"
+ },
+ {
+  "de": "Baubürgermeister",
+  "ar": "عمدة البناء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Baubürgermeister"
+ },
+ {
+  "de": "Bauchfellentzündung",
+  "ar": "التهاب الصفاق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bauchfellentzündungen"
+ },
+ {
+  "de": "Bauchgefühl",
+  "ar": "الإحساس بالقلب",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Bauchschmerzen",
+  "ar": "وجع البطن",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Bauchspeicheldrüse",
+  "ar": "البنكرياس",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Baudezernent",
+  "ar": "مسؤول البناء بالبلدية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Baudezernenten"
+ },
+ {
+  "de": "Baudirektor",
+  "ar": "مدير البناء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Baudirektoren"
+ },
+ {
+  "de": "Baueingabe",
+  "ar": "طلب البناء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Baueingaben"
+ },
+ {
+  "de": "Bauernbetrieb",
+  "ar": "مزرعة الفلاح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bauernbetriebe"
+ },
+ {
+  "de": "Bauernhaus",
+  "ar": "بيت الفلاح",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bauernhäuser"
+ },
+ {
+  "de": "Baufachzentrum",
+  "ar": "متجر مواد البناء",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Baufachzentren"
+ },
+ {
+  "de": "Baufertigstellung",
+  "ar": "إتمام البناء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Baufertigstellungen"
+ },
+ {
+  "de": "Baufirma",
+  "ar": "شركة البناء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Baufirmen"
+ },
+ {
+  "de": "Baugenehmigung",
+  "ar": "رخصة البناء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Baugenehmigungen"
+ }
+]
