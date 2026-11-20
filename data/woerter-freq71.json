@@ -1,0 +1,578 @@
+[
+ {
+  "de": "Ebenholz",
+  "ar": "الأبنوس",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Echtheit",
+  "ar": "الأصالة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Echtzeit-Überwachung",
+  "ar": "المراقبة الفورية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Echtzeitüberweisung",
+  "ar": "التحويل الفوري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Echtzeitüberweisungen"
+ },
+ {
+  "de": "Eckball",
+  "ar": "الكورنر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Eckbälle"
+ },
+ {
+  "de": "Eckbank",
+  "ar": "الكنبة الركنة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eckbänke"
+ },
+ {
+  "de": "Eckdaten",
+  "ar": "البيانات الأساسية",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Eckkneipe",
+  "ar": "الحانة الركنة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eckkneipen"
+ },
+ {
+  "de": "Eckwert",
+  "ar": "القيمة المرجعية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Eckwerte"
+ },
+ {
+  "de": "Edelgas",
+  "ar": "الغاز النبيل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Edelgase"
+ },
+ {
+  "de": "Edeljoker",
+  "ar": "الجوكر الذهبي (بديل سوبر)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Edeljoker"
+ },
+ {
+  "de": "Effizienzsteigerung",
+  "ar": "زيادة الكفاءة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Effizienzsteigerungen"
+ },
+ {
+  "de": "Ego-Shooter",
+  "ar": "لعبة التصويب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ego-Shooter"
+ },
+ {
+  "de": "Ehegelübde",
+  "ar": "عهد الجواز",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ehegelübde"
+ },
+ {
+  "de": "Ehepartner",
+  "ar": "شريك الجواز",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ehepartner"
+ },
+ {
+  "de": "Eheproblem",
+  "ar": "مشكلة زوجية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Eheprobleme"
+ },
+ {
+  "de": "Ehevertrag",
+  "ar": "عقد الجواز",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Eheverträge"
+ },
+ {
+  "de": "Ehrenamtler",
+  "ar": "المتطوع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ehrenamtler"
+ },
+ {
+  "de": "Ehrenbürger",
+  "ar": "المواطن الفخري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ehrenbürger"
+ },
+ {
+  "de": "Ehrengarde",
+  "ar": "حرس الشرف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ehrengarden"
+ },
+ {
+  "de": "Ehrengast",
+  "ar": "ضيف الشرف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ehrengäste"
+ },
+ {
+  "de": "Ehrenpreis",
+  "ar": "جايزة الشرف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ehrenpreise"
+ },
+ {
+  "de": "Ehrenrunde",
+  "ar": "لفة الشرف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ehrenrunden"
+ },
+ {
+  "de": "Ehrenzeichen",
+  "ar": "وسام الشرف",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ehrenzeichen"
+ },
+ {
+  "de": "Ehrung",
+  "ar": "التكريم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ehrungen"
+ },
+ {
+  "de": "Eiersalat",
+  "ar": "سلطة البيض",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Eiersalate"
+ },
+ {
+  "de": "Eifer",
+  "ar": "الحماس",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Eigenentwicklung",
+  "ar": "التطوير الذاتي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eigenentwicklungen"
+ },
+ {
+  "de": "Eigenheim",
+  "ar": "البيت الخاص",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Eigenheime"
+ },
+ {
+  "de": "Eigenheit",
+  "ar": "الخاصية / العادة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eigenheiten"
+ },
+ {
+  "de": "Eigeninteresse",
+  "ar": "المصلحة الذاتية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Eigeninteressen"
+ },
+ {
+  "de": "Eigenkonsum",
+  "ar": "الاستهلاك الذاتي",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Eigenmittel",
+  "ar": "رأس المال الذاتي",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Eigensinn",
+  "ar": "العناد",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Eigentümerin",
+  "ar": "المالكة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eigentümerinnen"
+ },
+ {
+  "de": "Eigenverantwortung",
+  "ar": "المسؤولية الذاتية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Eignung",
+  "ar": "الملاءمة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Eilantrag",
+  "ar": "الطلب العاجل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Eilanträge"
+ },
+ {
+  "de": "Eilmaßnahme",
+  "ar": "إجراء عاجل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eilmaßnahmen"
+ },
+ {
+  "de": "Eilverfahren",
+  "ar": "الإجراء المستعجل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Eilverfahren"
+ },
+ {
+  "de": "Ein-Kind-Politik",
+  "ar": "سياسة الطفل الواحد",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Einbauküche",
+  "ar": "المطبخ المدمج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einbauküchen"
+ },
+ {
+  "de": "Einbruchsversuch",
+  "ar": "محاولة السطو",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einbruchsversuche"
+ },
+ {
+  "de": "Einbuße",
+  "ar": "الخسارة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einbußen"
+ },
+ {
+  "de": "Einbürgerungsrecht",
+  "ar": "قانون التجنس",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Eindämmung",
+  "ar": "الاحتواء",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Einfachheit",
+  "ar": "البساطة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Einfallsreichtum",
+  "ar": "الابتكار",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Einfuhrbeschränkung",
+  "ar": "قيد الاستيراد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einfuhrbeschränkungen"
+ },
+ {
+  "de": "Eingabefeld",
+  "ar": "خانة الإدخال",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Eingabefelder"
+ },
+ {
+  "de": "Eingabestift",
+  "ar": "قلم اللمس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Eingabestifte"
+ },
+ {
+  "de": "Eingruppierung",
+  "ar": "التصنيف الوظيفي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eingruppierungen"
+ },
+ {
+  "de": "Einheitspartei",
+  "ar": "الحزب الواحد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einheitsparteien"
+ },
+ {
+  "de": "Einheitswert",
+  "ar": "القيمة الموحدة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einheitswerte"
+ },
+ {
+  "de": "Einkaufserlebnis",
+  "ar": "تجربة التسوق",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Einkaufserlebnisse"
+ },
+ {
+  "de": "Einkaufsliste",
+  "ar": "قايمة المشتريات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einkaufslisten"
+ },
+ {
+  "de": "Einkaufstasche",
+  "ar": "شنطة التسوق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einkaufstaschen"
+ },
+ {
+  "de": "Einkaufswagen",
+  "ar": "عربة التسوق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einkaufswagen"
+ },
+ {
+  "de": "Einkaufszone",
+  "ar": "منطقة التسوق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einkaufszonen"
+ },
+ {
+  "de": "Einkommenssteuererklärung",
+  "ar": "إقرار ضريبة الدخل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einkommenssteuererklärungen"
+ },
+ {
+  "de": "Einkommensteuer",
+  "ar": "ضريبة الدخل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Einkünfte",
+  "ar": "الدخل",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Einladungskarte",
+  "ar": "كارت الدعوة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einladungskarten"
+ },
+ {
+  "de": "Einmalhandschuh",
+  "ar": "الجوانتي الاستخدام الواحد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einmalhandschuhe"
+ },
+ {
+  "de": "Einnahmeausfall",
+  "ar": "خسارة الإيرادات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einnahmeausfälle"
+ },
+ {
+  "de": "Einnahmequelle",
+  "ar": "مصدر الدخل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einnahmequellen"
+ },
+ {
+  "de": "Einpersonenhaushalt",
+  "ar": "أسرة الفرد الواحد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einpersonenhaushalte"
+ },
+ {
+  "de": "Einrichtungsstil",
+  "ar": "ستايل الفرش",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einrichtungsstile"
+ },
+ {
+  "de": "Einsatzbereitschaft",
+  "ar": "الجاهزية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Einsatzbericht",
+  "ar": "تقرير المهمة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einsatzberichte"
+ },
+ {
+  "de": "Einsatzfahrzeug",
+  "ar": "عربية الخدمة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Einsatzfahrzeuge"
+ },
+ {
+  "de": "Einsatzleitung",
+  "ar": "قيادة العملية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Einsatzplan",
+  "ar": "خطة المهمة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einsatzpläne"
+ },
+ {
+  "de": "Einsatztrupp",
+  "ar": "فرقة المهمة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einsatztrupps"
+ },
+ {
+  "de": "Einschaltquote",
+  "ar": "نسبة المشاهدة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einschaltquoten"
+ },
+ {
+  "de": "Einschlafhilfe",
+  "ar": "مساعد النوم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einschlafhilfen"
+ },
+ {
+  "de": "Einschätzungsfehler",
+  "ar": "خطأ التقدير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einschätzungsfehler"
+ },
+ {
+  "de": "Einschüchterung",
+  "ar": "التخويف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einschüchterungen"
+ },
+ {
+  "de": "Einsendeschluss",
+  "ar": "آخر معاد التسليم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einsendeschlüsse"
+ },
+ {
+  "de": "Einsendung",
+  "ar": "المشاركة المُرسلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einsendungen"
+ },
+ {
+  "de": "Einsetzung",
+  "ar": "التعيين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einsetzungen"
+ },
+ {
+  "de": "Einsparmaßnahme",
+  "ar": "إجراء التوفير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einsparmaßnahmen"
+ },
+ {
+  "de": "Einsparziel",
+  "ar": "هدف التوفير",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Einsparziele"
+ },
+ {
+  "de": "Einspeisevergütung",
+  "ar": "تعريفة التغذية (كهربا)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einspeisevergütungen"
+ },
+ {
+  "de": "Einspeisung",
+  "ar": "التغذية (شبكة)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einspeisungen"
+ }
+]
