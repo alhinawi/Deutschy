@@ -1,0 +1,485 @@
+[
+ {
+  "de": "Catcalling",
+  "ar": "التحرش اللفظي في الشارع",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Catering",
+  "ar": "الكيترينج",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Catwalk",
+  "ar": "منصة العرض",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Catwalks"
+ },
+ {
+  "de": "Cayennepfeffer",
+  "ar": "شطة الكايين",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Chalet",
+  "ar": "الشاليه",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Chalets"
+ },
+ {
+  "de": "Champions-League-Pokal",
+  "ar": "كأس دوري الأبطال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Champions-League-Pokale"
+ },
+ {
+  "de": "Champions-League-Sieger",
+  "ar": "بطل دوري الأبطال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Champions-League-Sieger"
+ },
+ {
+  "de": "Chancenauswertung",
+  "ar": "استغلال الفرص (كورة)",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Chaot",
+  "ar": "الفوضوي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Chaoten"
+ },
+ {
+  "de": "Charakterbeschreibung",
+  "ar": "وصف الشخصية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Charakterbeschreibungen"
+ },
+ {
+  "de": "Charaktereigenschaft",
+  "ar": "صفة شخصية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Charaktereigenschaften"
+ },
+ {
+  "de": "Charmeur",
+  "ar": "الساحر (راجل)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Charmeure"
+ },
+ {
+  "de": "Chart",
+  "ar": "الرسم البياني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Charts"
+ },
+ {
+  "de": "Charta",
+  "ar": "الميثاق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Charten"
+ },
+ {
+  "de": "Chat-Plattform",
+  "ar": "منصة الدردشة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Chat-Plattformen"
+ },
+ {
+  "de": "Chatgruppe",
+  "ar": "جروب الشات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Chatgruppen"
+ },
+ {
+  "de": "Chatnachricht",
+  "ar": "رسالة الشات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Chatnachrichten"
+ },
+ {
+  "de": "Check-in",
+  "ar": "تسجيل الوصول",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Check-ins"
+ },
+ {
+  "de": "Checkbox",
+  "ar": "خانة الاختيار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Checkboxen"
+ },
+ {
+  "de": "Checkliste",
+  "ar": "قايمة التحقق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Checklisten"
+ },
+ {
+  "de": "Check",
+  "ar": "الفحص",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Checks"
+ },
+ {
+  "de": "Cheerleader",
+  "ar": "المشجعة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Cheerleader"
+ },
+ {
+  "de": "Chefdesigner",
+  "ar": "كبير المصممين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Chefdesigner"
+ },
+ {
+  "de": "Chefdiplomatin",
+  "ar": "كبيرة الدبلوماسيين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Chefdiplomatinnen"
+ },
+ {
+  "de": "Chefdirigent",
+  "ar": "قائد الأوركسترا الرئيسي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Chefdirigenten"
+ },
+ {
+  "de": "Chefetage",
+  "ar": "الدور الإداري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Chefetagen"
+ },
+ {
+  "de": "Chefredakteur",
+  "ar": "رئيس التحرير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Chefredakteure"
+ },
+ {
+  "de": "Chefvolkswirt",
+  "ar": "كبير الاقتصاديين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Chefvolkswirte"
+ },
+ {
+  "de": "Chefärztin",
+  "ar": "كبيرة الأطباء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Chefärztinnen"
+ },
+ {
+  "de": "Chemiefabrik",
+  "ar": "مصنع الكيماويات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Chemiefabriken"
+ },
+ {
+  "de": "Chemieunternehmen",
+  "ar": "شركة الكيماويات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Chemieunternehmen"
+ },
+ {
+  "de": "Chemieunterricht",
+  "ar": "درس الكيمياء",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Chilischote",
+  "ar": "الشطة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Chilischoten"
+ },
+ {
+  "de": "Chinese",
+  "ar": "الصيني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Chinesen"
+ },
+ {
+  "de": "Chinesin",
+  "ar": "الصينية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Chinesinnen"
+ },
+ {
+  "de": "Chinohose",
+  "ar": "بنطلون الشينو",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Chinohosen"
+ },
+ {
+  "de": "Chipfabrik",
+  "ar": "مصنع الرقايق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Chipfabriken"
+ },
+ {
+  "de": "Chiphersteller",
+  "ar": "صانع الرقايق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Chiphersteller"
+ },
+ {
+  "de": "Chipkonzern",
+  "ar": "مجموعة الرقايق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Chipkonzerne"
+ },
+ {
+  "de": "Chlamydien",
+  "ar": "الكلاميديا",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Chlor",
+  "ar": "الكلور",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Chlorgas",
+  "ar": "غاز الكلور",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Chlorophyll",
+  "ar": "الكلوروفيل",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Cholera",
+  "ar": "الكوليرا",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Cholesterin",
+  "ar": "الكوليسترول",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Cholesterinspiegel",
+  "ar": "مستوى الكوليسترول",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Cholesterinspiegel"
+ },
+ {
+  "de": "Choreografie",
+  "ar": "الكوريجرافيا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Choreografien"
+ },
+ {
+  "de": "Choreograf",
+  "ar": "مصمم الرقصات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Choreografen"
+ },
+ {
+  "de": "Chorizo",
+  "ar": "الكوريزو",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Chorizos"
+ },
+ {
+  "de": "Chorleiter",
+  "ar": "قائد الكورال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Chorleiter"
+ },
+ {
+  "de": "Chorleiterin",
+  "ar": "قائدة الكورال",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Chorleiterinnen"
+ },
+ {
+  "de": "Chormitglied",
+  "ar": "عضو الكورال",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Chormitglieder"
+ },
+ {
+  "de": "Christentum",
+  "ar": "المسيحية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Christkindlmarkt",
+  "ar": "سوق الكريسماس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Christkindlmärkte"
+ },
+ {
+  "de": "Chrom",
+  "ar": "الكروم",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Chromosom",
+  "ar": "الكروموسوم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Chromosomen"
+ },
+ {
+  "de": "Chronik",
+  "ar": "السجل / الأخبار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Chroniken"
+ },
+ {
+  "de": "Chronist",
+  "ar": "المؤرخ",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Chronisten"
+ },
+ {
+  "de": "Cineast",
+  "ar": "عاشق السينما",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Cineasten"
+ },
+ {
+  "de": "Clan",
+  "ar": "العشيرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Clans"
+ },
+ {
+  "de": "Cliffhanger",
+  "ar": "النهاية المشوقة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Cliffhanger"
+ },
+ {
+  "de": "Clip",
+  "ar": "المقطع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Clips"
+ },
+ {
+  "de": "Clique",
+  "ar": "الشلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Cliquen"
+ },
+ {
+  "de": "Club-WM",
+  "ar": "كأس العالم للأندية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Clubkasse",
+  "ar": "خزينة النادي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Clubkassen"
+ },
+ {
+  "de": "Co-Chefin",
+  "ar": "الشريكة في الرئاسة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Co-Chefinnen"
+ },
+ {
+  "de": "Co-Geschäftsführer",
+  "ar": "الشريك في الإدارة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Co-Geschäftsführer"
+ },
+ {
+  "de": "Co-Pilot",
+  "ar": "مساعد الطيار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Co-Piloten"
+ },
+ {
+  "de": "Co-Pilotin",
+  "ar": "مساعدة الطيار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Co-Pilotinnen"
+ },
+ {
+  "de": "Cockpit",
+  "ar": "قمرة القيادة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Cockpits"
+ },
+ {
+  "de": "Cocktailbar",
+  "ar": "بار الكوكتيل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Cocktailbars"
+ }
+]
