@@ -1,0 +1,661 @@
+[
+ {
+  "de": "Infrastrukturprogramm",
+  "ar": "برنامج البنية التحتية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Infrastrukturprogramme"
+ },
+ {
+  "de": "Infrastrukturprojekt",
+  "ar": "مشروع البنية التحتية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Infrastrukturprojekte"
+ },
+ {
+  "de": "Ingenieurbüro",
+  "ar": "مكتب الهندسة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ingenieurbüros"
+ },
+ {
+  "de": "Ingenieurwesen",
+  "ar": "علم الهندسة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Inhaftierte",
+  "ar": "المعتقل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Inhaftierten"
+ },
+ {
+  "de": "Inhaltsstoff",
+  "ar": "المكون",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Inhaltsstoffe"
+ },
+ {
+  "de": "Initiale",
+  "ar": "الحرف الأول من الاسم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Initialen"
+ },
+ {
+  "de": "Initiatorin",
+  "ar": "صاحبة المبادرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Initiatorinnen"
+ },
+ {
+  "de": "Inkrafttreten",
+  "ar": "دخول حيز التنفيذ",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Inkubationszeit",
+  "ar": "فترة الحضانة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Inkubationszeiten"
+ },
+ {
+  "de": "Innenbereich",
+  "ar": "المنطقة الداخلية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Innenbereiche"
+ },
+ {
+  "de": "Innenleben",
+  "ar": "الحياة الداخلية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Innenleben"
+ },
+ {
+  "de": "Innenohr",
+  "ar": "الأذن الداخلية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Innenohren"
+ },
+ {
+  "de": "Innenraum",
+  "ar": "المقصورة الداخلية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Innenräume"
+ },
+ {
+  "de": "Innenverteidiger",
+  "ar": "قلب الدفاع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Innenverteidiger"
+ },
+ {
+  "de": "Innovationskraft",
+  "ar": "القوة الابتكارية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Innovationspreis",
+  "ar": "جايزة الابتكار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Innovationspreise"
+ },
+ {
+  "de": "Inquisition",
+  "ar": "محاكم التفتيش",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Insassin",
+  "ar": "الراكبة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Insassinnen"
+ },
+ {
+  "de": "Insekt",
+  "ar": "الحشرة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Insekten"
+ },
+ {
+  "de": "Insektenstich",
+  "ar": "لسعة الحشرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Insektenstiche"
+ },
+ {
+  "de": "Insektizid",
+  "ar": "مبيد الحشرات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Insektizide"
+ },
+ {
+  "de": "Inselgruppe",
+  "ar": "مجموعة الجزر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Inselgruppen"
+ },
+ {
+  "de": "Inselstaat",
+  "ar": "الدولة الجزرية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Inselstaaten"
+ },
+ {
+  "de": "Insolvenzantrag",
+  "ar": "طلب إشهار الإفلاس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Insolvenzanträge"
+ },
+ {
+  "de": "Inspektion",
+  "ar": "الفحص الدوري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Inspektionen"
+ },
+ {
+  "de": "Instandhaltungskosten",
+  "ar": "تكاليف الصيانة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Instandsetzung",
+  "ar": "الترميم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Instandsetzungen"
+ },
+ {
+  "de": "Instrumentalisierung",
+  "ar": "التوظيف السياسي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Instrumentalisierungen"
+ },
+ {
+  "de": "Insulinresistenz",
+  "ar": "مقاومة الأنسولين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Insulinresistenzen"
+ },
+ {
+  "de": "Integrationskurs",
+  "ar": "كورس الاندماج",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Integrationskurse"
+ },
+ {
+  "de": "Integrationsmaßnahme",
+  "ar": "إجراء الاندماج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Integrationsmaßnahmen"
+ },
+ {
+  "de": "Integrität",
+  "ar": "النزاهة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Intellektuelle",
+  "ar": "المثقف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Intellektuellen"
+ },
+ {
+  "de": "Intensivbett",
+  "ar": "سرير العناية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Intensivbetten"
+ },
+ {
+  "de": "Intensivierung",
+  "ar": "التكثيف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Intensivierungen"
+ },
+ {
+  "de": "Intensivtäter",
+  "ar": "المجرم المتكرر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Intensivtäter"
+ },
+ {
+  "de": "Interaktion",
+  "ar": "التفاعل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Interaktionen"
+ },
+ {
+  "de": "Interessenkonflikt",
+  "ar": "تضارب المصالح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Interessenkonflikte"
+ },
+ {
+  "de": "Interessenverband",
+  "ar": "اتحاد المصالح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Interessenverbände"
+ },
+ {
+  "de": "Interimscoach",
+  "ar": "المدرب المؤقت",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Interimscoaches"
+ },
+ {
+  "de": "Interimspräsident",
+  "ar": "الرئيس المؤقت",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Interimspräsidenten"
+ },
+ {
+  "de": "Interkontinentalrakete",
+  "ar": "الصاروخ العابر للقارات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Interkontinentalraketen"
+ },
+ {
+  "de": "Internetanschluss",
+  "ar": "توصيلة النت",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Internetanschlüsse"
+ },
+ {
+  "de": "Internetkriminalität",
+  "ar": "جريمة الإنترنت",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Internetplattform",
+  "ar": "منصة الإنترنت",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Internetplattformen"
+ },
+ {
+  "de": "Interpret",
+  "ar": "المطرب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Interpreten"
+ },
+ {
+  "de": "Intervallfasten",
+  "ar": "الصيام المتقطع",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Interviewer",
+  "ar": "المحاوِر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Interviewer"
+ },
+ {
+  "de": "Intifada",
+  "ar": "الانتفاضة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Intifadas"
+ },
+ {
+  "de": "Intrige",
+  "ar": "المؤامرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Intrigen"
+ },
+ {
+  "de": "Intuition",
+  "ar": "الحدس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Intuitionen"
+ },
+ {
+  "de": "Investitionskosten",
+  "ar": "تكاليف الاستثمار",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Inzidenz",
+  "ar": "معدل الإصابة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Inzidenzen"
+ },
+ {
+  "de": "Iraker",
+  "ar": "العراقي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Iraker"
+ },
+ {
+  "de": "Iranerin",
+  "ar": "الإيرانية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Iranerinnen"
+ },
+ {
+  "de": "Irrenanstalt",
+  "ar": "المصحة العقلية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Irrenanstalten"
+ },
+ {
+  "de": "Irritation",
+  "ar": "الارتباك",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Irritationen"
+ },
+ {
+  "de": "Irrweg",
+  "ar": "الطريق الغلط",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Irrwege"
+ },
+ {
+  "de": "Isländer",
+  "ar": "الآيسلندي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Isländer"
+ },
+ {
+  "de": "Isolierung",
+  "ar": "العزل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Isolierungen"
+ },
+ {
+  "de": "Jackentasche",
+  "ar": "جيب الجاكيتة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Jackentaschen"
+ },
+ {
+  "de": "Jahresabo",
+  "ar": "الاشتراك السنوي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Jahresabos"
+ },
+ {
+  "de": "Jahresauftakt",
+  "ar": "بداية السنة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Jahresauftakte"
+ },
+ {
+  "de": "Jahresbilanz",
+  "ar": "حصيلة السنة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Jahresbilanzen"
+ },
+ {
+  "de": "Jahresdurchschnitt",
+  "ar": "متوسط السنة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Jahresdurchschnitte"
+ },
+ {
+  "de": "Jahresergebnis",
+  "ar": "نتيجة السنة المالية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Jahresergebnisse"
+ },
+ {
+  "de": "Jahresgehalt",
+  "ar": "المرتب السنوي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Jahresgehälter"
+ },
+ {
+  "de": "Jahreshauptversammlung",
+  "ar": "الجمعية العمومية السنوية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Jahreshauptversammlungen"
+ },
+ {
+  "de": "Jahresmitte",
+  "ar": "نص السنة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Jahresrückblick",
+  "ar": "مراجعة السنة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Jahresrückblicke"
+ },
+ {
+  "de": "Jahresverbrauch",
+  "ar": "الاستهلاك السنوي",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Jahresziel",
+  "ar": "هدف السنة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Jahresziele"
+ },
+ {
+  "de": "Jahrgangsstufe",
+  "ar": "الصف الدراسي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Jahrgangsstufen"
+ },
+ {
+  "de": "Jahrhundertflut",
+  "ar": "فيضان القرن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Jahrhundertfluten"
+ },
+ {
+  "de": "Jahrhundertwende",
+  "ar": "مطلع القرن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Jahrhundertwenden"
+ },
+ {
+  "de": "Jahrmarkt",
+  "ar": "المولد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Jahrmärkte"
+ },
+ {
+  "de": "Jalousie",
+  "ar": "الشيش",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Jalousien"
+ },
+ {
+  "de": "Jamaika",
+  "ar": "جامايكا",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Japanisch",
+  "ar": "اللغة اليابانية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Jargon",
+  "ar": "مصطلحات المهنة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Jargons"
+ },
+ {
+  "de": "Jemen",
+  "ar": "اليمن",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Jihad",
+  "ar": "الجهاد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Jihads"
+ },
+ {
+  "de": "Jobcenter",
+  "ar": "مكتب العمل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Jobcenter"
+ },
+ {
+  "de": "Jobsuche",
+  "ar": "البحث عن شغل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Jogginghose",
+  "ar": "البنطلون الرياضي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Jogginghosen"
+ },
+ {
+  "de": "Jubiläumsfeier",
+  "ar": "حفلة اليوبيل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Jubiläumsfeiern"
+ },
+ {
+  "de": "Juckreiz",
+  "ar": "الحكة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Juckreize"
+ },
+ {
+  "de": "Judenhass",
+  "ar": "كراهية اليهود",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Judenverfolgung",
+  "ar": "اضطهاد اليهود",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Judenverfolgungen"
+ },
+ {
+  "de": "Jugendamt",
+  "ar": "مكتب رعاية الشباب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Jugendämter"
+ },
+ {
+  "de": "Jugendarbeitslosigkeit",
+  "ar": "بطالة الشباب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Jugendgewalt",
+  "ar": "عنف الشباب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Jugendhilfe",
+  "ar": "رعاية الشباب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Jugendliteratur",
+  "ar": "أدب الشباب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Jugendmannschaft",
+  "ar": "فريق الشباب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Jugendmannschaften"
+ },
+ {
+  "de": "Jugendmeisterschaft",
+  "ar": "بطولة الشباب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Jugendmeisterschaften"
+ }
+]
