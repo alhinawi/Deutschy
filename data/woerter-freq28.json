@@ -1,0 +1,976 @@
+[
+ {
+  "de": "verkommen",
+  "ar": "يتدهور / يخرب",
+  "pos": "verb"
+ },
+ {
+  "de": "verlagern",
+  "ar": "ينقل مكانها",
+  "pos": "verb"
+ },
+ {
+  "de": "verpacken",
+  "ar": "يغلفها",
+  "pos": "verb"
+ },
+ {
+  "de": "versammeln",
+  "ar": "يتجمع",
+  "pos": "verb"
+ },
+ {
+  "de": "verschonen",
+  "ar": "يعفو عن / يستثني",
+  "pos": "verb"
+ },
+ {
+  "de": "versenken",
+  "ar": "يغورها / يغرقها",
+  "pos": "verb"
+ },
+ {
+  "de": "verständigen",
+  "ar": "يتوصل لتفاهم / يبلغ",
+  "pos": "verb"
+ },
+ {
+  "de": "versäumen",
+  "ar": "يفوت / يقصر",
+  "pos": "verb"
+ },
+ {
+  "de": "vertreiben",
+  "ar": "يطرده من بيته",
+  "pos": "verb"
+ },
+ {
+  "de": "verweigern",
+  "ar": "يمتنع عن",
+  "pos": "verb"
+ },
+ {
+  "de": "voranbringen",
+  "ar": "يقدمها قدام",
+  "pos": "verb"
+ },
+ {
+  "de": "vorführen",
+  "ar": "يعرضه / يهينه",
+  "pos": "verb"
+ },
+ {
+  "de": "vorgeben",
+  "ar": "يدعي / يحدد مسبقا",
+  "pos": "verb"
+ },
+ {
+  "de": "walten",
+  "ar": "يدير / يسود",
+  "pos": "verb"
+ },
+ {
+  "de": "werben",
+  "ar": "يروج / يتقدم",
+  "pos": "verb"
+ },
+ {
+  "de": "wecken",
+  "ar": "يوقظ / يثير",
+  "pos": "verb"
+ },
+ {
+  "de": "weiterentwickeln",
+  "ar": "يطورها أكتر",
+  "pos": "verb"
+ },
+ {
+  "de": "weiterlaufen",
+  "ar": "يكمل / يفضل شغال",
+  "pos": "verb"
+ },
+ {
+  "de": "werten",
+  "ar": "يقيمها / يحتسبها",
+  "pos": "verb"
+ },
+ {
+  "de": "widerspiegeln",
+  "ar": "يعكس صورته",
+  "pos": "verb"
+ },
+ {
+  "de": "widerstehen",
+  "ar": "يقاوم",
+  "pos": "verb"
+ },
+ {
+  "de": "wirbt",
+  "ar": "بيروج / بيتقدم",
+  "pos": "verb"
+ },
+ {
+  "de": "zuordnen",
+  "ar": "ينسبه لـ",
+  "pos": "verb"
+ },
+ {
+  "de": "zuschlagen",
+  "ar": "يضرب / يخطف الصفقة",
+  "pos": "verb"
+ },
+ {
+  "de": "zusichern",
+  "ar": "يعده بـ",
+  "pos": "verb"
+ },
+ {
+  "de": "zurückblicken",
+  "ar": "يبص ورا",
+  "pos": "verb"
+ },
+ {
+  "de": "zurücktreten",
+  "ar": "يستقيل",
+  "pos": "verb"
+ },
+ {
+  "de": "zusammenstellen",
+  "ar": "يجمع تشكيلة",
+  "pos": "verb"
+ },
+ {
+  "de": "überarbeiten",
+  "ar": "يشتغل عليها تاني",
+  "pos": "verb"
+ },
+ {
+  "de": "überfluten",
+  "ar": "تغرقها",
+  "pos": "verb"
+ },
+ {
+  "de": "überrollen",
+  "ar": "يدهس / يجتاح",
+  "pos": "verb"
+ },
+ {
+  "de": "überschreiten",
+  "ar": "يتجاوز الحد",
+  "pos": "verb"
+ },
+ {
+  "de": "überstehen",
+  "ar": "ينجو منها",
+  "pos": "verb"
+ },
+ {
+  "de": "überwinden",
+  "ar": "يتغلب عليها",
+  "pos": "verb"
+ },
+ {
+  "de": "verlässlich",
+  "ar": "معتمد عليها",
+  "pos": "adj"
+ },
+ {
+  "de": "vermutet",
+  "ar": "مشتبه فيه",
+  "pos": "adj"
+ },
+ {
+  "de": "versammelt",
+  "ar": "مجتمعين",
+  "pos": "adj"
+ },
+ {
+  "de": "verstärkt",
+  "ar": "مكثف / متعزز",
+  "pos": "adj"
+ },
+ {
+  "de": "verurteilt",
+  "ar": "محكوم عليه",
+  "pos": "adj"
+ },
+ {
+  "de": "vielseitig",
+  "ar": "متعدد المواهب",
+  "pos": "adj"
+ },
+ {
+  "de": "vollkommen",
+  "ar": "كامل تماما",
+  "pos": "adj"
+ },
+ {
+  "de": "vorder",
+  "ar": "أمامي",
+  "pos": "adj"
+ },
+ {
+  "de": "vorgegeben",
+  "ar": "محدد سلفا",
+  "pos": "adj"
+ },
+ {
+  "de": "vorm",
+  "ar": "قبل الـ",
+  "pos": "part"
+ },
+ {
+  "de": "vorrangig",
+  "ar": "أولوية / أساسا",
+  "pos": "adj"
+ },
+ {
+  "de": "vorsorglich",
+  "ar": "احتياطي",
+  "pos": "adj"
+ },
+ {
+  "de": "wahnsinnig",
+  "ar": "جنوني / جدا",
+  "pos": "adj"
+ },
+ {
+  "de": "weitreichend",
+  "ar": "واسع التأثير",
+  "pos": "adj"
+ },
+ {
+  "de": "wenngleich",
+  "ar": "وإن كان",
+  "pos": "part"
+ },
+ {
+  "de": "wirkungsvoll",
+  "ar": "مؤثر / فعال",
+  "pos": "adj"
+ },
+ {
+  "de": "zehnt",
+  "ar": "العاشر",
+  "pos": "adj"
+ },
+ {
+  "de": "zugeordnet",
+  "ar": "منسوب / تابع",
+  "pos": "adj"
+ },
+ {
+  "de": "zurecht",
+  "ar": "بالعدل / صح",
+  "pos": "adv"
+ },
+ {
+  "de": "zurückgetreten",
+  "ar": "مستقيل",
+  "pos": "adj"
+ },
+ {
+  "de": "zusammengestellt",
+  "ar": "مختارة / مجمعة",
+  "pos": "adj"
+ },
+ {
+  "de": "zusehends",
+  "ar": "بشكل متزايد",
+  "pos": "adv"
+ },
+ {
+  "de": "zweistellig",
+  "ar": "من رقمين",
+  "pos": "adj"
+ },
+ {
+  "de": "zwölft",
+  "ar": "الثاني عشر",
+  "pos": "adj"
+ },
+ {
+  "de": "ärztlich",
+  "ar": "طبي (دكتور)",
+  "pos": "adj"
+ },
+ {
+  "de": "ökologisch",
+  "ar": "بيئي",
+  "pos": "adj"
+ },
+ {
+  "de": "ökonomisch",
+  "ar": "اقتصادي",
+  "pos": "adj"
+ },
+ {
+  "de": "österreichweit",
+  "ar": "على مستوى النمسا",
+  "pos": "adj"
+ },
+ {
+  "de": "überarbeitet",
+  "ar": "معدل / متجدد",
+  "pos": "adj"
+ },
+ {
+  "de": "überflutet",
+  "ar": "مغمور / مخنوق",
+  "pos": "adj"
+ },
+ {
+  "de": "überflüssig",
+  "ar": "مش لازم / زيادة",
+  "pos": "adj"
+ },
+ {
+  "de": "überwiesen",
+  "ar": "محولة",
+  "pos": "adj"
+ },
+ {
+  "de": "Übergangsregierung",
+  "ar": "حكومة انتقالية",
+  "pos": "noun"
+ },
+ {
+  "de": "Abgang",
+  "ar": "رحيل / خصم",
+  "pos": "noun"
+ },
+ {
+  "de": "Abholung",
+  "ar": "استلام",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Abnahme",
+  "ar": "تسلم فني / انخفاض",
+  "pos": "noun"
+ },
+ {
+  "de": "Abspaltung",
+  "ar": "انفصال / انشقاق",
+  "pos": "noun"
+ },
+ {
+  "de": "Absturz",
+  "ar": "سقوط طيارة / انهيار",
+  "pos": "noun"
+ },
+ {
+  "de": "Abwärme",
+  "ar": "حرارة مهدرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Airline",
+  "ar": "شركة طيران",
+  "pos": "noun"
+ },
+ {
+  "de": "Akkulaufzeit",
+  "ar": "عمر البطارية",
+  "pos": "noun"
+ },
+ {
+  "de": "Akquisition",
+  "ar": "استحواذات",
+  "pos": "noun"
+ },
+ {
+  "de": "Aktenzeichen",
+  "ar": "رقم ملف",
+  "pos": "noun"
+ },
+ {
+  "de": "Albtraum",
+  "ar": "كابوس",
+  "pos": "noun"
+ },
+ {
+  "de": "Alkoholisierung",
+  "ar": "تأثير الكحول",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Allergiker",
+  "ar": "مريض حساسية",
+  "pos": "noun"
+ },
+ {
+  "de": "Alliierte",
+  "ar": "الحلفاء",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "Ampel-Aus",
+  "ar": "انهيار الائتلاف",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Amtskollege",
+  "ar": "نظيره في المنصب",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Amtssitz",
+  "ar": "مقر المنصب",
+  "pos": "noun"
+ },
+ {
+  "de": "Amtsübergabe",
+  "ar": "تسليم المنصب",
+  "pos": "noun"
+ },
+ {
+  "de": "Anbetracht",
+  "ar": "بالنظر لـ",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Andacht",
+  "ar": "قداس / تأمل",
+  "pos": "noun"
+ },
+ {
+  "de": "Andrang",
+  "ar": "تزاحم / إقبال",
+  "pos": "noun"
+ },
+ {
+  "de": "Angelpunkt",
+  "ar": "محور أساسي",
+  "pos": "noun"
+ },
+ {
+  "de": "Angstgegner",
+  "ar": "بعبع / خصم صعب",
+  "pos": "noun"
+ },
+ {
+  "de": "Animation",
+  "ar": "رسوم متحركة",
+  "pos": "noun"
+ },
+ {
+  "de": "Annäherung",
+  "ar": "تقارب / تهدئة",
+  "pos": "noun"
+ },
+ {
+  "de": "Anrainer",
+  "ar": "جيران (نمسا)",
+  "pos": "noun"
+ },
+ {
+  "de": "Anreiz",
+  "ar": "حوافز",
+  "pos": "noun"
+ },
+ {
+  "de": "Ansage",
+  "ar": "تصريح واضح",
+  "pos": "noun"
+ },
+ {
+  "de": "Anschlusstreffer",
+  "ar": "جون تعديل النتيجة",
+  "pos": "noun"
+ },
+ {
+  "de": "Ansinnen",
+  "ar": "طلب وقح",
+  "pos": "noun"
+ },
+ {
+  "de": "Ansturm",
+  "ar": "هجوم جماهيري",
+  "pos": "noun"
+ },
+ {
+  "de": "Anziehungskraft",
+  "ar": "جاذبية",
+  "pos": "noun"
+ },
+ {
+  "de": "Apotheker",
+  "ar": "صيدلي",
+  "pos": "noun"
+ },
+ {
+  "de": "Arbeiterkammer",
+  "ar": "غرفة العمال",
+  "pos": "noun"
+ },
+ {
+  "de": "Arbeitskampf",
+  "ar": "إضراب عمالي",
+  "pos": "noun"
+ },
+ {
+  "de": "Arbeitsleben",
+  "ar": "الحياة العملية",
+  "pos": "noun"
+ },
+ {
+  "de": "Arbeitslosenquote",
+  "ar": "معدل البطالة",
+  "pos": "noun"
+ },
+ {
+  "de": "Arbeitsumfeld",
+  "ar": "بيئة الشغل",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Arbeitsunfall",
+  "ar": "حادث شغل",
+  "pos": "noun"
+ },
+ {
+  "de": "Arbeitswelt",
+  "ar": "عالم الشغل",
+  "pos": "noun"
+ },
+ {
+  "de": "Arche",
+  "ar": "فلك / سفينة نوح",
+  "pos": "noun"
+ },
+ {
+  "de": "Arktis",
+  "ar": "القطب الشمالي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Artgenosse",
+  "ar": "من نفس النوع",
+  "pos": "noun"
+ },
+ {
+  "de": "Artillerie",
+  "ar": "مدفعية",
+  "pos": "noun"
+ },
+ {
+  "de": "Artilleriemunition",
+  "ar": "ذخيرة مدفعية",
+  "pos": "noun"
+ },
+ {
+  "de": "Arzneimittel",
+  "ar": "أدوية رسمية",
+  "pos": "noun"
+ },
+ {
+  "de": "Asylantrag",
+  "ar": "طلب لجوء",
+  "pos": "noun"
+ },
+ {
+  "de": "Asylrecht",
+  "ar": "قانون اللجوء",
+  "pos": "noun"
+ },
+ {
+  "de": "Asylsuchende",
+  "ar": "طالبي اللجوء",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Atelier",
+  "ar": "ورشة فنان",
+  "pos": "noun"
+ },
+ {
+  "de": "Aufbruch",
+  "ar": "انطلاقة / رحيل",
+  "pos": "noun"
+ },
+ {
+  "de": "Aufeinandertreffen",
+  "ar": "مواجهة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Aufforderung",
+  "ar": "طلب رسمي",
+  "pos": "noun"
+ },
+ {
+  "de": "Aufrüstung",
+  "ar": "تسلح",
+  "pos": "noun"
+ },
+ {
+  "de": "Aufschluss",
+  "ar": "معلومة مهمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Auftrieb",
+  "ar": "دفعة / رواج",
+  "pos": "noun"
+ },
+ {
+  "de": "Aufwendung",
+  "ar": "نفقات / تكاليف",
+  "pos": "noun"
+ },
+ {
+  "de": "Aufzeichnung",
+  "ar": "تسجيلات",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausbeutung",
+  "ar": "استغلال",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausbildungsplatz",
+  "ar": "مكان تدريب مهني",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausgangslage",
+  "ar": "الوضع المبدئي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Ausgestaltung",
+  "ar": "صياغة / تفاصيل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Ausgleichstreffer",
+  "ar": "جون التعادل",
+  "pos": "noun"
+ },
+ {
+  "de": "Auslegung",
+  "ar": "تفسير / مداد",
+  "pos": "noun"
+ },
+ {
+  "de": "Auslieferung",
+  "ar": "تسليم / ترحيل",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausrufung",
+  "ar": "إعلان رسمي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Ausschluss",
+  "ar": "استبعاد / طرد",
+  "pos": "noun"
+ },
+ {
+  "de": "Aussteller",
+  "ar": "عارضين / جهة إصدار",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausstiegsklausel",
+  "ar": "شرط خروج",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausstrahlung",
+  "ar": "بث / كاريزما",
+  "pos": "noun"
+ },
+ {
+  "de": "Auswärtsspiel",
+  "ar": "ماتش بره",
+  "pos": "noun"
+ },
+ {
+  "de": "Auszahlung",
+  "ar": "صرف فلوس",
+  "pos": "noun"
+ },
+ {
+  "de": "Auszubildende",
+  "ar": "متدرب مهني",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Authentizität",
+  "ar": "أصالة / مصداقية",
+  "pos": "noun"
+ },
+ {
+  "de": "Autohersteller",
+  "ar": "شركات عربيات",
+  "pos": "noun"
+ },
+ {
+  "de": "Automobilindustrie",
+  "ar": "صناعة العربيات",
+  "pos": "noun"
+ },
+ {
+  "de": "Außenministerium",
+  "ar": "وزارة الخارجية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Babyboomer",
+  "ar": "جيل الطفرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Balance",
+  "ar": "توازن",
+  "pos": "noun"
+ },
+ {
+  "de": "Ballett",
+  "ar": "باليه",
+  "pos": "noun"
+ },
+ {
+  "de": "Bankmitarbeiter",
+  "ar": "موظف بنك",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Bann",
+  "ar": "حظر / سحر",
+  "pos": "noun"
+ },
+ {
+  "de": "Banner",
+  "ar": "لافتات",
+  "pos": "noun"
+ },
+ {
+  "de": "Basisversion",
+  "ar": "النسخة الأساسية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bass",
+  "ar": "باص / صوت جهوري",
+  "pos": "noun"
+ },
+ {
+  "de": "Baubeginn",
+  "ar": "بداية البناء",
+  "pos": "noun"
+ },
+ {
+  "de": "Baumaßnahme",
+  "ar": "أعمال بناء",
+  "pos": "noun"
+ },
+ {
+  "de": "Beachtung",
+  "ar": "انتباه / اهتمام",
+  "pos": "noun"
+ },
+ {
+  "de": "Beantwortung",
+  "ar": "الإجابة على",
+  "pos": "noun"
+ },
+ {
+  "de": "Beere",
+  "ar": "توت",
+  "pos": "noun"
+ },
+ {
+  "de": "Befürworter",
+  "ar": "مؤيدين",
+  "pos": "noun"
+ },
+ {
+  "de": "Beihilfe",
+  "ar": "مساعدة / تواطؤ",
+  "pos": "noun"
+ },
+ {
+  "de": "Beitritt",
+  "ar": "انضمام",
+  "pos": "noun"
+ },
+ {
+  "de": "Berichtssaison",
+  "ar": "موسم النتايج المالية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Berufsleben",
+  "ar": "الحياة المهنية",
+  "pos": "noun"
+ },
+ {
+  "de": "Berufsschule",
+  "ar": "مدرسة تعليم مهني",
+  "pos": "noun"
+ },
+ {
+  "de": "Beschimpfung",
+  "ar": "شتيمة / إهانة",
+  "pos": "noun"
+ },
+ {
+  "de": "Beschlussvorlage",
+  "ar": "مشروع قرار",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Beschädigung",
+  "ar": "أضرار",
+  "pos": "noun"
+ },
+ {
+  "de": "Beseitigung",
+  "ar": "إزالة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Besitzerin",
+  "ar": "المالكة (ست)",
+  "pos": "noun"
+ },
+ {
+  "de": "Bestpreis",
+  "ar": "أحسن سعر",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Beständigkeit",
+  "ar": "ثبات / متانة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Betriebskosten",
+  "ar": "تكاليف تشغيل",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "Betrugsmasche",
+  "ar": "حيلة نصب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bewölkung",
+  "ar": "غيوم / تقلب",
+  "pos": "noun"
+ },
+ {
+  "de": "Bezirksversammlung",
+  "ar": "مجلس الحي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Blitzer",
+  "ar": "رادار سرعة",
+  "pos": "noun"
+ },
+ {
+  "de": "Bodenoffensive",
+  "ar": "هجوم بري",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Brandbekämpfung",
+  "ar": "مكافحة النيران",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Brandmeldeanlage",
+  "ar": "إنذار حريق",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Brauerei",
+  "ar": "مصنع بيرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Briefwahl",
+  "ar": "تصويت بالبريد",
+  "pos": "noun"
+ },
+ {
+  "de": "Brocken",
+  "ar": "قطعة ضخمة / هضبة",
+  "pos": "noun"
+ },
+ {
+  "de": "Bruttoinlandsprodukt",
+  "ar": "الناتج المحلي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Buchhandlung",
+  "ar": "مكتبة بيع كتب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Buffet",
+  "ar": "بوفيه",
+  "pos": "noun"
+ },
+ {
+  "de": "Bundesgesundheitsministerium",
+  "ar": "وزارة الصحة الفيدرالية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Bundesjustizminister",
+  "ar": "وزير العدل الفيدرالي",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Bundesland",
+  "ar": "ولايات",
+  "pos": "noun"
+ },
+ {
+  "de": "Bambus",
+  "ar": "خيزران",
+  "pos": "noun"
+ }
+]
