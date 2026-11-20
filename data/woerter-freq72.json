@@ -1,0 +1,530 @@
+[
+ {
+  "de": "Einstiegspreis",
+  "ar": "سعر الدخول",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einstiegspreise"
+ },
+ {
+  "de": "Eintopf",
+  "ar": "اليخنة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Eintöpfe"
+ },
+ {
+  "de": "Eintrittsgebühr",
+  "ar": "رسوم الدخول",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eintrittsgebühren"
+ },
+ {
+  "de": "Eintrittspreis",
+  "ar": "سعر التذكرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Eintrittspreise"
+ },
+ {
+  "de": "Einverständnis",
+  "ar": "الموافقة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Einwand",
+  "ar": "الاعتراض",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einwände"
+ },
+ {
+  "de": "Einwanderung",
+  "ar": "الهجرة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Einwanderungsgesellschaft",
+  "ar": "مجتمع الهجرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einwanderungsgesellschaften"
+ },
+ {
+  "de": "Einwanderungspolitik",
+  "ar": "سياسة الهجرة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Einweg-Geschirr",
+  "ar": "أدوات المائدة الاستخدام الواحد",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Einwegverpackung",
+  "ar": "عبوة الاستخدام الواحد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einwegverpackungen"
+ },
+ {
+  "de": "Einweihung",
+  "ar": "التدشين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einweihungen"
+ },
+ {
+  "de": "Einwohnerin",
+  "ar": "الساكنة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einwohnerinnen"
+ },
+ {
+  "de": "Einwohnerzahl",
+  "ar": "عدد السكان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einwohnerzahlen"
+ },
+ {
+  "de": "Einwurf",
+  "ar": "رمية التماس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einwürfe"
+ },
+ {
+  "de": "Einzelfahrt",
+  "ar": "الرحلة الفردية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Einzelfahrten"
+ },
+ {
+  "de": "Einzelhaft",
+  "ar": "الحبس الانفرادي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Einzelhändler",
+  "ar": "تاجر التجزئة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einzelhändler"
+ },
+ {
+  "de": "Einzelkind",
+  "ar": "الابن الوحيد",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Einzelkinder"
+ },
+ {
+  "de": "Einzelreisende",
+  "ar": "المسافر لوحده",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einzelreisenden"
+ },
+ {
+  "de": "Einzelschicksal",
+  "ar": "المصير الفردي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Einzelschicksale"
+ },
+ {
+  "de": "Einzeltitel",
+  "ar": "اللقب الفردي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Einzeltitel"
+ },
+ {
+  "de": "Eisbaden",
+  "ar": "السباحة في الجليد",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Eisenbahngesellschaft",
+  "ar": "شركة السكة الحديد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eisenbahngesellschaften"
+ },
+ {
+  "de": "Eisenbahnmuseum",
+  "ar": "متحف السكة الحديد",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Eisenbahnmuseen"
+ },
+ {
+  "de": "Eisengestell",
+  "ar": "الهيكل الحديد",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Eisengestelle"
+ },
+ {
+  "de": "Eisenstange",
+  "ar": "عمود الحديد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eisenstangen"
+ },
+ {
+  "de": "Eishockey",
+  "ar": "الهوكي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Eiskunstläuferin",
+  "ar": "لاعبة التزلج الفني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eiskunstläuferinnen"
+ },
+ {
+  "de": "Eisregen",
+  "ar": "المطر المتجمد",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Eissporthalle",
+  "ar": "صالة الجليد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eissporthallen"
+ },
+ {
+  "de": "Eisstadion",
+  "ar": "ملعب الجليد",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Eisstadien"
+ },
+ {
+  "de": "Eiszeit",
+  "ar": "العصر الجليدي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eiszeiten"
+ },
+ {
+  "de": "Eitelkeit",
+  "ar": "الغرور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eitelkeiten"
+ },
+ {
+  "de": "Eiweißquelle",
+  "ar": "مصدر البروتين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eiweißquellen"
+ },
+ {
+  "de": "Eizelle",
+  "ar": "البويضة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eizellen"
+ },
+ {
+  "de": "Elektrode",
+  "ar": "القطب الكهربائي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Elektroden"
+ },
+ {
+  "de": "Elektromotor",
+  "ar": "الموتور الكهربا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Elektromotoren"
+ },
+ {
+  "de": "Elektroniker",
+  "ar": "فني الإلكترونيات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Elektroniker"
+ },
+ {
+  "de": "Elektronikhersteller",
+  "ar": "صانع الإلكترونيات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Elektronikhersteller"
+ },
+ {
+  "de": "Elektronikindustrie",
+  "ar": "صناعة الإلكترونيات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Elektropop",
+  "ar": "البوب الإلكتروني",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Elektroschrott",
+  "ar": "الخردة الإلكترونية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Elfmeterschütze",
+  "ar": "منفذ البنالتي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Elfmeterschützen"
+ },
+ {
+  "de": "Eliteliga",
+  "ar": "دوري النخبة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eliteligen"
+ },
+ {
+  "de": "Eliteuni",
+  "ar": "الجامعة المرموقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eliteunis"
+ },
+ {
+  "de": "Elternbeirat",
+  "ar": "مجلس الآباء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Elternbeiräte"
+ },
+ {
+  "de": "Elternbeitrag",
+  "ar": "مساهمة الآباء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Elternbeiträge"
+ },
+ {
+  "de": "Elterngeld",
+  "ar": "إعانة الآباء",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Elternverein",
+  "ar": "جمعية الآباء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Elternvereine"
+ },
+ {
+  "de": "Emirat",
+  "ar": "الإمارة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Emirate"
+ },
+ {
+  "de": "Emissionshandel",
+  "ar": "تجارة الانبعاثات",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Empathie",
+  "ar": "التعاطف",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Empfindung",
+  "ar": "الشعور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Empfindungen"
+ },
+ {
+  "de": "Empore",
+  "ar": "الشرفة (كنيسة)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Emporen"
+ },
+ {
+  "de": "Empörung",
+  "ar": "الغضب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Endabrechnung",
+  "ar": "الفاتورة النهائية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Endabrechnungen"
+ },
+ {
+  "de": "Endbetrag",
+  "ar": "المبلغ النهائي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Endbeträge"
+ },
+ {
+  "de": "Enddatum",
+  "ar": "تاريخ الانتهاء",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Enddaten"
+ },
+ {
+  "de": "Endergebnis",
+  "ar": "النتيجة النهائية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Endergebnisse"
+ },
+ {
+  "de": "Endgegner",
+  "ar": "الزعيم النهائي (لعبة)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Endgegner"
+ },
+ {
+  "de": "Endgerät",
+  "ar": "الجهاز الطرفي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Endgeräte"
+ },
+ {
+  "de": "Endhaltestelle",
+  "ar": "المحطة الأخيرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Endhaltestellen"
+ },
+ {
+  "de": "Endlagerung",
+  "ar": "التخزين النهائي (نووي)",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Endlosschleife",
+  "ar": "الحلقة اللانهائية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Endlosschleifen"
+ },
+ {
+  "de": "Endorphine",
+  "ar": "الإندورفين",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Endrunde",
+  "ar": "الجولة النهائية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Endrunden"
+ },
+ {
+  "de": "Endstand",
+  "ar": "النتيجة النهائية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Endstände"
+ },
+ {
+  "de": "Endziel",
+  "ar": "الهدف النهائي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Endziele"
+ },
+ {
+  "de": "Endzone",
+  "ar": "منطقة النهاية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Endzonen"
+ },
+ {
+  "de": "Energieagentur",
+  "ar": "وكالة الطاقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Energieagenturen"
+ },
+ {
+  "de": "Energieanlage",
+  "ar": "محطة الطاقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Energieanlagen"
+ },
+ {
+  "de": "Energiebilanz",
+  "ar": "ميزان الطاقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Energiebilanzen"
+ },
+ {
+  "de": "Energiedichte",
+  "ar": "كثافة الطاقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Energiedichten"
+ },
+ {
+  "de": "Energiedrink",
+  "ar": "مشروب الطاقة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Energiedrinks"
+ },
+ {
+  "de": "Energieeinsparung",
+  "ar": "توفير الطاقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Energieeinsparungen"
+ },
+ {
+  "de": "Energieerzeugung",
+  "ar": "إنتاج الطاقة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Energiefonds",
+  "ar": "صندوق الطاقة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Energiefonds"
+ }
+]
