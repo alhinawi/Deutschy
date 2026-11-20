@@ -1,0 +1,365 @@
+[
+ {
+  "de": "DNA",
+  "ar": "دي إن إيه / تحليل جينات",
+  "pos": "noun"
+ },
+ {
+  "de": "Kopfschmerzen",
+  "ar": "وجع دماغ",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Handschellen",
+  "ar": "كلبشات",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Ferien",
+  "ar": "أجازة المدارس",
+  "pos": "noun"
+ },
+ {
+  "de": "Konsequenz",
+  "ar": "نتيجة / عاقبة",
+  "pos": "noun"
+ },
+ {
+  "de": "Mommy",
+  "ar": "مامي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Unterlagen",
+  "ar": "أوراق / مستندات",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Hausaufgaben",
+  "ar": "واجب مدرسة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "OP",
+  "ar": "عملية جراحية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "SMS",
+  "ar": "مسدج / رسالة",
+  "pos": "noun"
+ },
+ {
+  "de": "Seelen",
+  "ar": "أرواح",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Papiere",
+  "ar": "بطاقة وأوراق",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Arsch",
+  "ar": "طيز (وقح)",
+  "pos": "noun"
+ },
+ {
+  "de": "durchsuchen",
+  "ar": "يفتش",
+  "pos": "verb"
+ },
+ {
+  "de": "bedanken",
+  "ar": "يتشكر",
+  "pos": "verb"
+ },
+ {
+  "de": "vergewaltigen",
+  "ar": "يغتصب",
+  "pos": "verb"
+ },
+ {
+  "de": "amüsieren",
+  "ar": "يتسلى / يضحك",
+  "pos": "verb"
+ },
+ {
+  "de": "bitten",
+  "ar": "يطلب منه",
+  "pos": "verb"
+ },
+ {
+  "de": "vergiften",
+  "ar": "يسمم",
+  "pos": "verb"
+ },
+ {
+  "de": "präsentieren",
+  "ar": "يعرض / يقدم",
+  "pos": "verb"
+ },
+ {
+  "de": "aktivieren",
+  "ar": "يفعل / يشغل",
+  "pos": "verb"
+ },
+ {
+  "de": "aufpassen",
+  "ar": "ياخد باله / يركز",
+  "pos": "verb"
+ },
+ {
+  "de": "abwarten",
+  "ar": "يستنى ويبص",
+  "pos": "verb"
+ },
+ {
+  "de": "zurückbringen",
+  "ar": "يرجع حاجة",
+  "pos": "verb"
+ },
+ {
+  "de": "verwickeln",
+  "ar": "يورط",
+  "pos": "verb"
+ },
+ {
+  "de": "blicken",
+  "ar": "يبص",
+  "pos": "verb"
+ },
+ {
+  "de": "kennen",
+  "ar": "يعرف / يكون عارف",
+  "pos": "verb"
+ },
+ {
+  "de": "abhalten",
+  "ar": "يمنع / يعمل حفلة",
+  "pos": "verb"
+ },
+ {
+  "de": "einschlafen",
+  "ar": "ينام",
+  "pos": "verb"
+ },
+ {
+  "de": "vorbeikommen",
+  "ar": "يعدي عليه",
+  "pos": "verb"
+ },
+ {
+  "de": "verpflichten",
+  "ar": "يلزم / يجبر قانونيا",
+  "pos": "verb"
+ },
+ {
+  "de": "kehren",
+  "ar": "يرجع / يكنس",
+  "pos": "verb"
+ },
+ {
+  "de": "sichern",
+  "ar": "يأمن / يحمي",
+  "pos": "verb"
+ },
+ {
+  "de": "belügen",
+  "ar": "يكدب عليه",
+  "pos": "verb"
+ },
+ {
+  "de": "ausgehen",
+  "ar": "يخرج / يفترض",
+  "pos": "verb"
+ },
+ {
+  "de": "aussetzen",
+  "ar": "يعرض لـ / يشرد",
+  "pos": "verb"
+ },
+ {
+  "de": "beweisen",
+  "ar": "يثبت بالدليل",
+  "pos": "verb"
+ },
+ {
+  "de": "wegnehmen",
+  "ar": "ياخد منه",
+  "pos": "verb"
+ },
+ {
+  "de": "identifizieren",
+  "ar": "يتعرف على هويته",
+  "pos": "verb"
+ },
+ {
+  "de": "verloben",
+  "ar": "يخطب",
+  "pos": "verb"
+ },
+ {
+  "de": "romantisch",
+  "ar": "رومانسي",
+  "pos": "adj"
+ },
+ {
+  "de": "reizend",
+  "ar": "ساحر / لطيف قوي",
+  "pos": "adj"
+ },
+ {
+  "de": "verlobt",
+  "ar": "مخطوب",
+  "pos": "adj"
+ },
+ {
+  "de": "bewaffnet",
+  "ar": "مسلح",
+  "pos": "adj"
+ },
+ {
+  "de": "unangenehm",
+  "ar": "مش مريح / متضايق",
+  "pos": "adj"
+ },
+ {
+  "de": "entschlossen",
+  "ar": "عازم / مصر",
+  "pos": "adj"
+ },
+ {
+  "de": "hilfreich",
+  "ar": "مفيد / بيساعد",
+  "pos": "adj"
+ },
+ {
+  "de": "jahrelang",
+  "ar": "من سنين",
+  "pos": "adj"
+ },
+ {
+  "de": "widerlich",
+  "ar": "مقرف",
+  "pos": "adj"
+ },
+ {
+  "de": "durchaus",
+  "ar": "تماما / جدا",
+  "pos": "adv"
+ },
+ {
+  "de": "attraktiv",
+  "ar": "جذاب",
+  "pos": "adj"
+ },
+ {
+  "de": "heftig",
+  "ar": "عنيف / جامد",
+  "pos": "adj"
+ },
+ {
+  "de": "faszinierend",
+  "ar": "ساحر / مبهر",
+  "pos": "adj"
+ },
+ {
+  "de": "herrlich",
+  "ar": "عظيم / روعة",
+  "pos": "adj"
+ },
+ {
+  "de": "gefälligst",
+  "ar": "من فضلك (بحدية)",
+  "pos": "adv"
+ },
+ {
+  "de": "bewusstlos",
+  "ar": "فاقد الوعي",
+  "pos": "adj"
+ },
+ {
+  "de": "absichtlich",
+  "ar": "عمدا / بقصد",
+  "pos": "adv"
+ },
+ {
+  "de": "mies",
+  "ar": "وحش / بايظ",
+  "pos": "adj"
+ },
+ {
+  "de": "laufend",
+  "ar": "جاري / شغال",
+  "pos": "adj"
+ },
+ {
+  "de": "nirgends",
+  "ar": "مفيش أي حتة",
+  "pos": "adv"
+ },
+ {
+  "de": "sozusagen",
+  "ar": "يعني كده",
+  "pos": "adv"
+ },
+ {
+  "de": "apropos",
+  "ar": "بالمناسبة",
+  "pos": "adv"
+ },
+ {
+  "de": "zurzeit",
+  "ar": "في الوقت الحالي",
+  "pos": "adv"
+ },
+ {
+  "de": "bezüglich",
+  "ar": "بخصوص",
+  "pos": "part"
+ },
+ {
+  "de": "grade",
+  "ar": "دلوقتي حالا",
+  "pos": "adv"
+ },
+ {
+  "de": "allzu",
+  "ar": "أكتر من اللازم",
+  "pos": "adv"
+ },
+ {
+  "de": "ansonsten",
+  "ar": "غير كده",
+  "pos": "adv"
+ },
+ {
+  "de": "aua",
+  "ar": "آخ / آي",
+  "pos": "part"
+ },
+ {
+  "de": "pst",
+  "ar": "هس / اسكت",
+  "pos": "part"
+ },
+ {
+  "de": "sachte",
+  "ar": "بمهل / براحة",
+  "pos": "adv"
+ },
+ {
+  "de": "online",
+  "ar": "أونلاين",
+  "pos": "adv"
+ }
+]
