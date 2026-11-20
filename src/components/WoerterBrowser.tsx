@@ -4,6 +4,7 @@ import { woerter, type Wort } from '@/lib/woerter';
 import { useT } from '@/lib/i18n';
 import { speak } from '@/lib/speak';
 import Speaker from './Speaker';
+import FilterDisclosure from './FilterDisclosure';
 
 type ArtFilter = 'all' | 'der' | 'die' | 'das' | 'plural';
 const PAGE = 60;
@@ -46,18 +47,20 @@ export default function WoerterBrowser() {
   const reset = (fn: () => void) => () => { fn(); setShown(PAGE); };
   return (
     <div className="space-y-4">
-      <div className="flex flex-wrap items-center gap-2" role="group" aria-label={t('الأداة', 'Article')}>
-        <button aria-pressed={art === 'all'} onClick={reset(() => setArt('all'))} className={chip(art === 'all')}>{t('الكل', 'All')}</button>
-        <button aria-pressed={art === 'der'} onClick={reset(() => setArt('der'))} className={chip(art === 'der', 'art-der-text')}>der</button>
-        <button aria-pressed={art === 'die'} onClick={reset(() => setArt('die'))} className={chip(art === 'die', 'art-die-text')}>die</button>
-        <button aria-pressed={art === 'das'} onClick={reset(() => setArt('das'))} className={chip(art === 'das', 'art-das-text')}>das</button>
-        <button aria-pressed={art === 'plural'} onClick={reset(() => setArt('plural'))} className={chip(art === 'plural')}>{t('جمع فقط', 'Plural only')}</button>
-      </div>
       <label htmlFor="woerter-search" className="block font-semibold">{t('دوّر على أي كلمة بالألماني أو المصري', 'Search any word in German or Arabic')}</label>
       <input ref={searchInput} id="woerter-search" type="search" dir="auto" value={q} onChange={(e) => { setQ(e.target.value); setShown(PAGE); }} placeholder={t('مثال: Haus أو بيت', 'e.g. Haus')} className="min-h-11 w-full rounded-full border border-line bg-card px-4 py-2 text-sm sm:w-96" />
+      <FilterDisclosure activeCount={art === 'all' ? 0 : 1}>
+        <div className="flex flex-wrap items-center gap-2" role="group" aria-label={t('الأداة', 'Article')}>
+          <button aria-pressed={art === 'all'} onClick={reset(() => setArt('all'))} className={chip(art === 'all')}>{t('الكل', 'All')}</button>
+          <button aria-pressed={art === 'der'} onClick={reset(() => setArt('der'))} className={chip(art === 'der', 'art-der-text')}>der</button>
+          <button aria-pressed={art === 'die'} onClick={reset(() => setArt('die'))} className={chip(art === 'die', 'art-die-text')}>die</button>
+          <button aria-pressed={art === 'das'} onClick={reset(() => setArt('das'))} className={chip(art === 'das', 'art-das-text')}>das</button>
+          <button aria-pressed={art === 'plural'} onClick={reset(() => setArt('plural'))} className={chip(art === 'plural')}>{t('جمع فقط', 'Plural only')}</button>
+        </div>
+        {(q || art !== 'all') && <button onClick={reset(() => { setQ(''); setArt('all'); searchInput.current?.focus(); })} className="min-h-11 rounded-full border border-line px-4 py-2">{t('امسح البحث والفلتر', 'Clear search and filter')}</button>}
+      </FilterDisclosure>
       <div className="flex flex-wrap items-center gap-3">
         <p className="num text-sm text-muted" role="status" aria-atomic="true">{list.length} / {woerter.length}</p>
-        {(q || art !== 'all') && <button onClick={reset(() => { setQ(''); setArt('all'); searchInput.current?.focus(); })} className="min-h-11 rounded-full border border-line px-4 py-2">{t('امسح البحث والفلتر', 'Clear search and filter')}</button>}
       </div>
       <div className="flex flex-wrap gap-4 text-sm" aria-hidden="true">
         <span><span className="art-badge art-der">der</span> {t('مذكر', 'masculine')}</span>
