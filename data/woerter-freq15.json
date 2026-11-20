@@ -1,0 +1,527 @@
+[
+ {
+  "de": "Migration",
+  "ar": "هجرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Teilnahme",
+  "ar": "مشاركة / حضور",
+  "pos": "noun"
+ },
+ {
+  "de": "Umsetzung",
+  "ar": "تنفيذ",
+  "pos": "noun"
+ },
+ {
+  "de": "Alltag",
+  "ar": "الحياة اليومية",
+  "pos": "noun"
+ },
+ {
+  "de": "Einigung",
+  "ar": "اتفاق / توافق",
+  "pos": "noun"
+ },
+ {
+  "de": "Erhöhung",
+  "ar": "زيادة",
+  "pos": "noun"
+ },
+ {
+  "de": "Konzern",
+  "ar": "شركة ضخمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Verhalten",
+  "ar": "سلوك / تصرف",
+  "pos": "noun"
+ },
+ {
+  "de": "Vorwurf",
+  "ar": "تهمة / لوم",
+  "pos": "noun"
+ },
+ {
+  "de": "Bundeskanzler",
+  "ar": "المستشار الألماني",
+  "pos": "noun"
+ },
+ {
+  "de": "Heimspiel",
+  "ar": "ماتش على أرضه",
+  "pos": "noun"
+ },
+ {
+  "de": "Integration",
+  "ar": "اندماج",
+  "pos": "noun"
+ },
+ {
+  "de": "Quadratmeter",
+  "ar": "متر مربع",
+  "pos": "noun"
+ },
+ {
+  "de": "Sanierung",
+  "ar": "ترميم / إصلاح",
+  "pos": "noun"
+ },
+ {
+  "de": "Vorhaben",
+  "ar": "مشروع / نية",
+  "pos": "noun"
+ },
+ {
+  "de": "Wachstum",
+  "ar": "نمو",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausbau",
+  "ar": "توسعة",
+  "pos": "noun"
+ },
+ {
+  "de": "Börse",
+  "ar": "البورصة",
+  "pos": "noun"
+ },
+ {
+  "de": "Einführung",
+  "ar": "تقديم / تطبيق",
+  "pos": "noun"
+ },
+ {
+  "de": "Ermittler",
+  "ar": "محقق",
+  "pos": "noun"
+ },
+ {
+  "de": "Hochwasser",
+  "ar": "فيضان",
+  "pos": "noun"
+ },
+ {
+  "de": "Kommune",
+  "ar": "بلدية",
+  "pos": "noun"
+ },
+ {
+  "de": "Opposition",
+  "ar": "معارضة",
+  "pos": "noun"
+ },
+ {
+  "de": "Reform",
+  "ar": "إصلاح",
+  "pos": "noun"
+ },
+ {
+  "de": "Umfrage",
+  "ar": "استطلاع رأي",
+  "pos": "noun"
+ },
+ {
+  "de": "Auseinandersetzung",
+  "ar": "صراع / جدال",
+  "pos": "noun"
+ },
+ {
+  "de": "Großteil",
+  "ar": "الجزء الأكبر",
+  "pos": "noun"
+ },
+ {
+  "de": "Planung",
+  "ar": "تخطيط",
+  "pos": "noun"
+ },
+ {
+  "de": "Trend",
+  "ar": "ترند / اتجاه",
+  "pos": "noun"
+ },
+ {
+  "de": "Vielfalt",
+  "ar": "تنوع",
+  "pos": "noun"
+ },
+ {
+  "de": "Änderung",
+  "ar": "تعديل",
+  "pos": "noun"
+ },
+ {
+  "de": "Amtszeit",
+  "ar": "فترة حكم",
+  "pos": "noun"
+ },
+ {
+  "de": "Landwirt",
+  "ar": "مزارع",
+  "pos": "noun"
+ },
+ {
+  "de": "Plattform",
+  "ar": "منصة",
+  "pos": "noun"
+ },
+ {
+  "de": "Verantwortliche",
+  "ar": "المسؤول",
+  "pos": "noun"
+ },
+ {
+  "de": "Verletzter",
+  "ar": "مصاب",
+  "pos": "noun"
+ },
+ {
+  "de": "Anleger",
+  "ar": "مستثمر",
+  "pos": "noun"
+ },
+ {
+  "de": "Angeklagter",
+  "ar": "متهم",
+  "pos": "noun"
+ },
+ {
+  "de": "Angreifer",
+  "ar": "مهاجم",
+  "pos": "noun"
+ },
+ {
+  "de": "Bilanz",
+  "ar": "ميزانية / حصيلة",
+  "pos": "noun"
+ },
+ {
+  "de": "Bundeswehr",
+  "ar": "الجيش الألماني",
+  "pos": "noun"
+ },
+ {
+  "de": "Digitalisierung",
+  "ar": "رقمنة",
+  "pos": "noun"
+ },
+ {
+  "de": "Hektar",
+  "ar": "هكتار",
+  "pos": "noun"
+ },
+ {
+  "de": "Protest",
+  "ar": "احتجاج / مظاهرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Redaktion",
+  "ar": "غرفة أخبار / تحرير",
+  "pos": "noun"
+ },
+ {
+  "de": "Rettungsdienst",
+  "ar": "إسعاف",
+  "pos": "noun"
+ },
+ {
+  "de": "Unternehmer",
+  "ar": "راجل أعمال",
+  "pos": "noun"
+ },
+ {
+  "de": "Veranstalter",
+  "ar": "منظم",
+  "pos": "noun"
+ },
+ {
+  "de": "Anforderung",
+  "ar": "متطلب",
+  "pos": "noun"
+ },
+ {
+  "de": "Ankündigung",
+  "ar": "إعلان",
+  "pos": "noun"
+ },
+ {
+  "de": "Athlet",
+  "ar": "لاعب قوى",
+  "pos": "noun"
+ },
+ {
+  "de": "Aufsehen",
+  "ar": "ضجة",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausgleich",
+  "ar": "تعويض / تعادل",
+  "pos": "noun"
+ },
+ {
+  "de": "aufstellen",
+  "ar": "ينصب / يجهز",
+  "pos": "verb"
+ },
+ {
+  "de": "umsetzen",
+  "ar": "ينفذ / يحول",
+  "pos": "verb"
+ },
+ {
+  "de": "versorgen",
+  "ar": "يوفر له / يعول",
+  "pos": "verb"
+ },
+ {
+  "de": "verstärken",
+  "ar": "يقوي / يزود",
+  "pos": "verb"
+ },
+ {
+  "de": "vorwerfen",
+  "ar": "يلوم / يتهم",
+  "pos": "verb"
+ },
+ {
+  "de": "erzielen",
+  "ar": "يحقق نتيجة / يسجل",
+  "pos": "verb"
+ },
+ {
+  "de": "richten",
+  "ar": "يوجه / يظبط",
+  "pos": "verb"
+ },
+ {
+  "de": "vorsehen",
+  "ar": "يخطط له / ينص على",
+  "pos": "verb"
+ },
+ {
+  "de": "äußern",
+  "ar": "يعبر عن / يصرح",
+  "pos": "verb"
+ },
+ {
+  "de": "ausschließen",
+  "ar": "يستبعد",
+  "pos": "verb"
+ },
+ {
+  "de": "geraten",
+  "ar": "يقع في / يتحول",
+  "pos": "verb"
+ },
+ {
+  "de": "stärken",
+  "ar": "يدعمه / يقويه",
+  "pos": "verb"
+ },
+ {
+  "de": "verfügen",
+  "ar": "يمتلك / عنده",
+  "pos": "verb"
+ },
+ {
+  "de": "wirken",
+  "ar": "يبان / يشتغل (دوا)",
+  "pos": "verb"
+ },
+ {
+  "de": "begleiten",
+  "ar": "يرافق",
+  "pos": "verb"
+ },
+ {
+  "de": "bilden",
+  "ar": "يكون / يشكل",
+  "pos": "verb"
+ },
+ {
+  "de": "ersetzen",
+  "ar": "يستبدل / يعوض",
+  "pos": "verb"
+ },
+ {
+  "de": "fördern",
+  "ar": "يدعم بفلوس",
+  "pos": "verb"
+ },
+ {
+  "de": "genießen",
+  "ar": "يستمتع",
+  "pos": "verb"
+ },
+ {
+  "de": "verbreiten",
+  "ar": "ينشر / يوزع",
+  "pos": "verb"
+ },
+ {
+  "de": "eingreifen",
+  "ar": "يتدخل",
+  "pos": "verb"
+ },
+ {
+  "de": "einsetzen",
+  "ar": "يستخدم / يعين",
+  "pos": "verb"
+ },
+ {
+  "de": "einstellen",
+  "ar": "يوقف / يوظف",
+  "pos": "verb"
+ },
+ {
+  "de": "hinzufügen",
+  "ar": "يضيف",
+  "pos": "verb"
+ },
+ {
+  "de": "fühlen",
+  "ar": "يحس بـ",
+  "pos": "verb"
+ },
+ {
+  "de": "gefährden",
+  "ar": "يعرض للخطر",
+  "pos": "verb"
+ },
+ {
+  "de": "beitragen",
+  "ar": "يساهم",
+  "pos": "verb"
+ },
+ {
+  "de": "auszeichnen",
+  "ar": "يكرم / يميز",
+  "pos": "verb"
+ },
+ {
+  "de": "finanziell",
+  "ar": "مالي",
+  "pos": "adj"
+ },
+ {
+  "de": "grundsätzlich",
+  "ar": "مبدئيا / أساسا",
+  "pos": "adv"
+ },
+ {
+  "de": "historisch",
+  "ar": "تاريخي",
+  "pos": "adj"
+ },
+ {
+  "de": "daraufhin",
+  "ar": "وبعدها / بناء عليه",
+  "pos": "adv"
+ },
+ {
+  "de": "maximal",
+  "ar": "أقصى حاجة",
+  "pos": "adv"
+ },
+ {
+  "de": "äußerst",
+  "ar": "للغاية",
+  "pos": "adv"
+ },
+ {
+  "de": "besonders",
+  "ar": "مميز / خاص",
+  "pos": "adj"
+ },
+ {
+  "de": "britisch",
+  "ar": "بريطاني",
+  "pos": "adj"
+ },
+ {
+  "de": "rasch",
+  "ar": "بسرعة",
+  "pos": "adv"
+ },
+ {
+  "de": "spätestens",
+  "ar": "على الأكثر / أقصى ميعاد",
+  "pos": "adv"
+ },
+ {
+  "de": "kommend",
+  "ar": "القادم",
+  "pos": "adj"
+ },
+ {
+  "de": "älter",
+  "ar": "أكبر سنا",
+  "pos": "adj"
+ },
+ {
+  "de": "konkret",
+  "ar": "تحديدا / ملموس",
+  "pos": "adj"
+ },
+ {
+  "de": "mehrerer",
+  "ar": "عدة",
+  "pos": "adj"
+ },
+ {
+  "de": "mutmaßlich",
+  "ar": "المفترض / المشتبه",
+  "pos": "adj"
+ },
+ {
+  "de": "französisch",
+  "ar": "فرنسي",
+  "pos": "adj"
+ },
+ {
+  "de": "enorm",
+  "ar": "ضخم / هائل",
+  "pos": "adj"
+ },
+ {
+  "de": "unterschiedlich",
+  "ar": "مختلفة",
+  "pos": "adj"
+ },
+ {
+  "de": "zunehmend",
+  "ar": "بشكل متزايد",
+  "pos": "adv"
+ },
+ {
+  "de": "außerhalb",
+  "ar": "بره / خارج",
+  "pos": "adv"
+ },
+ {
+  "de": "hierzulande",
+  "ar": "عندنا في البلد",
+  "pos": "adv"
+ },
+ {
+  "de": "inklusive",
+  "ar": "شامل / بما فيه",
+  "pos": "part"
+ },
+ {
+  "de": "quasi",
+  "ar": "تقريبا / شبه",
+  "pos": "adv"
+ },
+ {
+  "de": "live",
+  "ar": "على الهوا",
+  "pos": "adv"
+ }
+]
