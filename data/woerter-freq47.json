@@ -1,0 +1,627 @@
+[
+ {
+  "de": "steuerfrei",
+  "ar": "معفي من الضرايب",
+  "pos": "adj"
+ },
+ {
+  "de": "steuerlich",
+  "ar": "ضريبي",
+  "pos": "adj"
+ },
+ {
+  "de": "stolpern",
+  "ar": "يتعثر",
+  "pos": "verb"
+ },
+ {
+  "de": "stopfen",
+  "ar": "يحشو / يسد",
+  "pos": "verb"
+ },
+ {
+  "de": "strahlend",
+  "ar": "مشرق",
+  "pos": "adj"
+ },
+ {
+  "de": "straucheln",
+  "ar": "يتعثر / يفشل",
+  "pos": "verb"
+ },
+ {
+  "de": "streicheln",
+  "ar": "يربت / يمسد",
+  "pos": "verb"
+ },
+ {
+  "de": "strukturell",
+  "ar": "هيكلي",
+  "pos": "adj"
+ },
+ {
+  "de": "strömen",
+  "ar": "يتدفق",
+  "pos": "verb"
+ },
+ {
+  "de": "städtebaulich",
+  "ar": "عمراني",
+  "pos": "adj"
+ },
+ {
+  "de": "subventionieren",
+  "ar": "يدعم بفلوس",
+  "pos": "verb"
+ },
+ {
+  "de": "symbolisch",
+  "ar": "رمزي",
+  "pos": "adj"
+ },
+ {
+  "de": "symbolisieren",
+  "ar": "يرمز لـ",
+  "pos": "verb"
+ },
+ {
+  "de": "tagen",
+  "ar": "ينعقد / يجتمع",
+  "pos": "verb"
+ },
+ {
+  "de": "taktisch",
+  "ar": "تكتيكي",
+  "pos": "adj"
+ },
+ {
+  "de": "terminieren",
+  "ar": "يحدد معاد",
+  "pos": "verb"
+ },
+ {
+  "de": "theoretisch",
+  "ar": "نظري",
+  "pos": "adj"
+ },
+ {
+  "de": "toben",
+  "ar": "يعيث / يهيج",
+  "pos": "verb"
+ },
+ {
+  "de": "touchieren",
+  "ar": "يلمس / يمس",
+  "pos": "verb"
+ },
+ {
+  "de": "traditionsreich",
+  "ar": "عريق",
+  "pos": "adj"
+ },
+ {
+  "de": "tragisch",
+  "ar": "مأساوي",
+  "pos": "adj"
+ },
+ {
+  "de": "transferieren",
+  "ar": "يحول",
+  "pos": "verb"
+ },
+ {
+  "de": "transkribieren",
+  "ar": "يفرغ نص",
+  "pos": "verb"
+ },
+ {
+  "de": "traumatisiert",
+  "ar": "مصدوم نفسيا",
+  "pos": "adj"
+ },
+ {
+  "de": "triumphieren",
+  "ar": "ينتصر انتصار ساحق",
+  "pos": "verb"
+ },
+ {
+  "de": "tropisch",
+  "ar": "استوائي",
+  "pos": "adj"
+ },
+ {
+  "de": "trotzen",
+  "ar": "يتحدى",
+  "pos": "verb"
+ },
+ {
+  "de": "trüben",
+  "ar": "يعكر / يكدر",
+  "pos": "verb"
+ },
+ {
+  "de": "trügen",
+  "ar": "يخدع",
+  "pos": "verb"
+ },
+ {
+  "de": "tummeln",
+  "ar": "يتفسح / يتجمع",
+  "pos": "verb"
+ },
+ {
+  "de": "turbulent",
+  "ar": "مضطرب / مليان حركة",
+  "pos": "adj"
+ },
+ {
+  "de": "tückisch",
+  "ar": "غدار",
+  "pos": "adj"
+ },
+ {
+  "de": "ultimativ",
+  "ar": "نهائي قاطع",
+  "pos": "adj"
+ },
+ {
+  "de": "umgebend",
+  "ar": "محيط",
+  "pos": "adj"
+ },
+ {
+  "de": "umbringen",
+  "ar": "يقتل",
+  "pos": "verb"
+ },
+ {
+  "de": "umhauen",
+  "ar": "يقلع / يبهر",
+  "pos": "verb"
+ },
+ {
+  "de": "umkehren",
+  "ar": "يرجع / يقلب",
+  "pos": "verb"
+ },
+ {
+  "de": "umkippen",
+  "ar": "يقلب / يقع",
+  "pos": "verb"
+ },
+ {
+  "de": "umlegen",
+  "ar": "يحول / يطيح",
+  "pos": "verb"
+ },
+ {
+  "de": "ummanteln",
+  "ar": "يغلف",
+  "pos": "verb"
+ },
+ {
+  "de": "umrahmen",
+  "ar": "يبرز / يحيط",
+  "pos": "verb"
+ },
+ {
+  "de": "umtreiben",
+  "ar": "يشغل باله",
+  "pos": "verb"
+ },
+ {
+  "de": "umwerben",
+  "ar": "يغازل / يكسب وده",
+  "pos": "verb"
+ },
+ {
+  "de": "unappetitlich",
+  "ar": "مقزز",
+  "pos": "adj"
+ },
+ {
+  "de": "unattraktiv",
+  "ar": "مش جذاب",
+  "pos": "adj"
+ },
+ {
+  "de": "unbegründet",
+  "ar": "بلا أساس",
+  "pos": "adj"
+ },
+ {
+  "de": "unbesetzt",
+  "ar": "فاضي (مكان)",
+  "pos": "adj"
+ },
+ {
+  "de": "unbestimmt",
+  "ar": "غير محدد",
+  "pos": "adj"
+ },
+ {
+  "de": "unbewacht",
+  "ar": "بلا حراسة",
+  "pos": "adj"
+ },
+ {
+  "de": "unbewohnbar",
+  "ar": "مش صالح للسكن",
+  "pos": "adj"
+ },
+ {
+  "de": "unbrauchbar",
+  "ar": "مش صالح للاستخدام",
+  "pos": "adj"
+ },
+ {
+  "de": "unendlich",
+  "ar": "لا نهائي",
+  "pos": "adj"
+ },
+ {
+  "de": "unerbittlich",
+  "ar": "صارم لا يرحم",
+  "pos": "adj"
+ },
+ {
+  "de": "unerlaubt",
+  "ar": "ممنوع",
+  "pos": "adj"
+ },
+ {
+  "de": "unermüdlich",
+  "ar": "لا يكل",
+  "pos": "adj"
+ },
+ {
+  "de": "unerträglich",
+  "ar": "لا يتحمل",
+  "pos": "adj"
+ },
+ {
+  "de": "unfassbar",
+  "ar": "مش متصدق",
+  "pos": "adj"
+ },
+ {
+  "de": "ungebremst",
+  "ar": "بلا فرامل",
+  "pos": "adj"
+ },
+ {
+  "de": "ungebrochen",
+  "ar": "ثابت ما اتكسرش",
+  "pos": "adj"
+ },
+ {
+  "de": "ungehindert",
+  "ar": "بلا عوائق",
+  "pos": "adj"
+ },
+ {
+  "de": "ungeklärt",
+  "ar": "مش متحلل",
+  "pos": "adj"
+ },
+ {
+  "de": "ungemein",
+  "ar": "بشكل غير عادي",
+  "pos": "adv"
+ },
+ {
+  "de": "ungenau",
+  "ar": "مش دقيق",
+  "pos": "adj"
+ },
+ {
+  "de": "ungeniert",
+  "ar": "بلا حرج",
+  "pos": "adv"
+ },
+ {
+  "de": "ungenutzt",
+  "ar": "غير مستغل",
+  "pos": "adj"
+ },
+ {
+  "de": "ungerecht",
+  "ar": "ظالم",
+  "pos": "adj"
+ },
+ {
+  "de": "ungewollt",
+  "ar": "غير مقصود",
+  "pos": "adj"
+ },
+ {
+  "de": "unglaubwürdig",
+  "ar": "مش موثوق",
+  "pos": "adj"
+ },
+ {
+  "de": "uniformiert",
+  "ar": "بالزي الموحد",
+  "pos": "adj"
+ },
+ {
+  "de": "unkompliziert",
+  "ar": "بسيط غير معقد",
+  "pos": "adj"
+ },
+ {
+  "de": "unlauter",
+  "ar": "غير شريف",
+  "pos": "adj"
+ },
+ {
+  "de": "unlängst",
+  "ar": "مؤخرا",
+  "pos": "adv"
+ },
+ {
+  "de": "unmissverständlich",
+  "ar": "واضح بلا لبس",
+  "pos": "adj"
+ },
+ {
+  "de": "unpopulär",
+  "ar": "مش محبوب",
+  "pos": "adj"
+ },
+ {
+  "de": "unrealistisch",
+  "ar": "غير واقعي",
+  "pos": "adj"
+ },
+ {
+  "de": "unschlagbar",
+  "ar": "لا يقهر",
+  "pos": "adj"
+ },
+ {
+  "de": "unsterblich",
+  "ar": "خالد",
+  "pos": "adj"
+ },
+ {
+  "de": "unterbinden",
+  "ar": "يمنع",
+  "pos": "verb"
+ },
+ {
+  "de": "unterirdisch",
+  "ar": "تحت الأرض",
+  "pos": "adj"
+ },
+ {
+  "de": "unternehmerisch",
+  "ar": "ريادي",
+  "pos": "adj"
+ },
+ {
+  "de": "unterstellen",
+  "ar": "يفترض / يودع",
+  "pos": "verb"
+ },
+ {
+  "de": "unterteilen",
+  "ar": "يقسم",
+  "pos": "verb"
+ },
+ {
+  "de": "untertreiben",
+  "ar": "يقلل من شأن",
+  "pos": "verb"
+ },
+ {
+  "de": "unverbindlich",
+  "ar": "غير ملزم",
+  "pos": "adj"
+ },
+ {
+  "de": "unverhohlen",
+  "ar": "صريح / علني",
+  "pos": "adj"
+ },
+ {
+  "de": "unvermittelt",
+  "ar": "فجأة",
+  "pos": "adv"
+ },
+ {
+  "de": "unvorstellbar",
+  "ar": "لا يتخيل",
+  "pos": "adj"
+ },
+ {
+  "de": "unweigerlich",
+  "ar": "حتما",
+  "pos": "adv"
+ },
+ {
+  "de": "unwiderstehlich",
+  "ar": "لا يقاوم",
+  "pos": "adj"
+ },
+ {
+  "de": "unwiederbringlich",
+  "ar": "بلا رجعة",
+  "pos": "adj"
+ },
+ {
+  "de": "unwillkürlich",
+  "ar": "لا إرادي",
+  "pos": "adj"
+ },
+ {
+  "de": "unzertrennlich",
+  "ar": "لا يفترق",
+  "pos": "adj"
+ },
+ {
+  "de": "unübersehbar",
+  "ar": "مش ممكن يتفوت",
+  "pos": "adj"
+ },
+ {
+  "de": "unübersichtlich",
+  "ar": "مش واضح",
+  "pos": "adj"
+ },
+ {
+  "de": "uralt",
+  "ar": "قديم جدا",
+  "pos": "adj"
+ },
+ {
+  "de": "urban",
+  "ar": "حضري",
+  "pos": "adj"
+ },
+ {
+  "de": "variieren",
+  "ar": "يتنوع",
+  "pos": "verb"
+ },
+ {
+  "de": "vegetarisch",
+  "ar": "نباتي (أكل)",
+  "pos": "adj"
+ },
+ {
+  "de": "verabreichen",
+  "ar": "يعطي (دوا)",
+  "pos": "verb"
+ },
+ {
+  "de": "veranlassen",
+  "ar": "يقرر / يعمل",
+  "pos": "verb"
+ },
+ {
+  "de": "veranschlagen",
+  "ar": "يقدر (تكلفة)",
+  "pos": "verb"
+ },
+ {
+  "de": "verbal",
+  "ar": "لفظي",
+  "pos": "adj"
+ },
+ {
+  "de": "verbeugen",
+  "ar": "ينحني",
+  "pos": "verb"
+ },
+ {
+  "de": "verbindlich",
+  "ar": "ملزم / لطيف",
+  "pos": "adj"
+ },
+ {
+  "de": "verdauen",
+  "ar": "يهضم",
+  "pos": "verb"
+ },
+ {
+  "de": "verdecken",
+  "ar": "يغطي / يخبي",
+  "pos": "verb"
+ },
+ {
+  "de": "verdrängen",
+  "ar": "يزيح / يكبت",
+  "pos": "verb"
+ },
+ {
+  "de": "vereiteln",
+  "ar": "يحبط (مخطط)",
+  "pos": "verb"
+ },
+ {
+  "de": "verewigen",
+  "ar": "يخلد",
+  "pos": "verb"
+ },
+ {
+  "de": "verfeinden",
+  "ar": "يتعادى",
+  "pos": "verb"
+ },
+ {
+  "de": "verfeinern",
+  "ar": "يحسن / يدقق",
+  "pos": "verb"
+ },
+ {
+  "de": "verfrachten",
+  "ar": "ينقل بعيد",
+  "pos": "verb"
+ },
+ {
+  "de": "verführerisch",
+  "ar": "مغري",
+  "pos": "adj"
+ },
+ {
+  "de": "verführen",
+  "ar": "يغوي",
+  "pos": "verb"
+ },
+ {
+  "de": "vergüten",
+  "ar": "يعوض بفلوس",
+  "pos": "verb"
+ },
+ {
+  "de": "verhältnismäßig",
+  "ar": "نسبيا",
+  "pos": "adv"
+ },
+ {
+  "de": "verinnerlichen",
+  "ar": "يستوعب بعمق",
+  "pos": "verb"
+ },
+ {
+  "de": "verirren",
+  "ar": "يتوه",
+  "pos": "verb"
+ },
+ {
+  "de": "verkleinern",
+  "ar": "يصغر",
+  "pos": "verb"
+ },
+ {
+  "de": "verknüpfen",
+  "ar": "يربط",
+  "pos": "verb"
+ },
+ {
+  "de": "verkörpern",
+  "ar": "يجسد",
+  "pos": "verb"
+ },
+ {
+  "de": "verkümmern",
+  "ar": "يضمر",
+  "pos": "verb"
+ },
+ {
+  "de": "verlautbaren",
+  "ar": "يعلن",
+  "pos": "verb"
+ },
+ {
+  "de": "vermarkten",
+  "ar": "يسوق",
+  "pos": "verb"
+ },
+ {
+  "de": "vermummen",
+  "ar": "يتقنع",
+  "pos": "verb"
+ }
+]
