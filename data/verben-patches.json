@@ -1,0 +1,313 @@
+{
+ "mitkommen": {
+  "kinds": [
+   "strong",
+   "separable"
+  ],
+  "aux": "sein",
+  "pres": [
+   "komme mit",
+   "kommst mit",
+   "kommt mit",
+   "kommen mit",
+   "kommt mit",
+   "kommen mit"
+  ],
+  "pret": [
+   "kam mit",
+   "kamst mit",
+   "kam mit",
+   "kamen mit",
+   "kamt mit",
+   "kamen mit"
+  ],
+  "kj2": [
+   "käme mit",
+   "kämest mit",
+   "käme mit",
+   "kämen mit",
+   "kämet mit",
+   "kämen mit"
+  ],
+  "imp": [
+   "komm mit",
+   "kommt mit"
+  ],
+  "pp": "mitgekommen"
+ },
+ "frühstücken": {
+  "kinds": [
+   "regular"
+  ],
+  "aux": "haben",
+  "pres": [
+   "frühstücke",
+   "frühstückst",
+   "frühstückt",
+   "frühstücken",
+   "frühstückt",
+   "frühstücken"
+  ],
+  "pret": [
+   "frühstückte",
+   "frühstücktest",
+   "frühstückte",
+   "frühstückten",
+   "frühstücktet",
+   "frühstückten"
+  ],
+  "kj2": null,
+  "imp": [
+   "frühstücke",
+   "frühstückt"
+  ],
+  "pp": "gefrühstückt"
+ },
+ "chatten": {
+  "kinds": [
+   "regular"
+  ],
+  "aux": "haben",
+  "pres": [
+   "chatte",
+   "chattest",
+   "chattet",
+   "chatten",
+   "chattet",
+   "chatten"
+  ],
+  "pret": [
+   "chattete",
+   "chattetest",
+   "chattete",
+   "chatteten",
+   "chattetet",
+   "chatteten"
+  ],
+  "kj2": null,
+  "imp": [
+   "chatte",
+   "chattet"
+  ],
+  "pp": "gechattet"
+ },
+ "vereinbaren": {
+  "kinds": [
+   "regular"
+  ],
+  "aux": "haben",
+  "pres": [
+   "vereinbare",
+   "vereinbarst",
+   "vereinbart",
+   "vereinbaren",
+   "vereinbart",
+   "vereinbaren"
+  ],
+  "pret": [
+   "vereinbarte",
+   "vereinbartest",
+   "vereinbarte",
+   "vereinbarten",
+   "vereinbartet",
+   "vereinbarten"
+  ],
+  "kj2": null,
+  "imp": [
+   "vereinbare",
+   "vereinbart"
+  ],
+  "pp": "vereinbart"
+ },
+ "hinausgehen": {
+  "kinds": [
+   "strong",
+   "separable"
+  ],
+  "aux": "sein",
+  "pres": [
+   "gehe hinaus",
+   "gehst hinaus",
+   "geht hinaus",
+   "gehen hinaus",
+   "geht hinaus",
+   "gehen hinaus"
+  ],
+  "pret": [
+   "ging hinaus",
+   "gingst hinaus",
+   "ging hinaus",
+   "gingen hinaus",
+   "gingt hinaus",
+   "gingen hinaus"
+  ],
+  "kj2": [
+   "ginge hinaus",
+   "gingest hinaus",
+   "ginge hinaus",
+   "gingen hinaus",
+   "ginget hinaus",
+   "gingen hinaus"
+  ],
+  "imp": [
+   "geh hinaus",
+   "geht hinaus"
+  ],
+  "pp": "hinausgegangen"
+ },
+ "vorhaben": {
+  "kinds": [
+   "irregular",
+   "separable"
+  ],
+  "aux": "haben",
+  "pres": [
+   "habe vor",
+   "hast vor",
+   "hat vor",
+   "haben vor",
+   "habt vor",
+   "haben vor"
+  ],
+  "pret": [
+   "hatte vor",
+   "hattest vor",
+   "hatte vor",
+   "hatten vor",
+   "hattet vor",
+   "hatten vor"
+  ],
+  "kj2": [
+   "hätte vor",
+   "hättest vor",
+   "hätte vor",
+   "hätten vor",
+   "hättet vor",
+   "hätten vor"
+  ],
+  "imp": [
+   "hab vor",
+   "habt vor"
+  ],
+  "pp": "vorgehabt"
+ },
+ "schreiten": {
+  "kinds": [
+   "strong"
+  ],
+  "aux": "sein",
+  "pres": [
+   "schreite",
+   "schreitest",
+   "schreitet",
+   "schreiten",
+   "schreitet",
+   "schreiten"
+  ],
+  "pret": [
+   "schritt",
+   "schrittest",
+   "schritt",
+   "schritten",
+   "schrittet",
+   "schritten"
+  ],
+  "kj2": [
+   "schritte",
+   "schrittest",
+   "schritte",
+   "schritten",
+   "schrittet",
+   "schritten"
+  ],
+  "imp": [
+   "schreite",
+   "schreitet"
+  ],
+  "pp": "geschritten"
+ },
+ "kennen lernen": {
+  "kinds": [
+   "regular"
+  ],
+  "aux": "haben",
+  "pres": [
+   "lerne kennen",
+   "lernst kennen",
+   "lernt kennen",
+   "lernen kennen",
+   "lernt kennen",
+   "lernen kennen"
+  ],
+  "pret": [
+   "lernte kennen",
+   "lerntest kennen",
+   "lernte kennen",
+   "lernten kennen",
+   "lerntet kennen",
+   "lernten kennen"
+  ],
+  "kj2": null,
+  "imp": [
+   "lerne kennen",
+   "lernt kennen"
+  ],
+  "pp": "kennen gelernt"
+ },
+ "spazieren gehen": {
+  "kinds": [
+   "strong"
+  ],
+  "aux": "sein",
+  "pres": [
+   "gehe spazieren",
+   "gehst spazieren",
+   "geht spazieren",
+   "gehen spazieren",
+   "geht spazieren",
+   "gehen spazieren"
+  ],
+  "pret": [
+   "ging spazieren",
+   "gingst spazieren",
+   "ging spazieren",
+   "gingen spazieren",
+   "gingt spazieren",
+   "gingen spazieren"
+  ],
+  "kj2": null,
+  "imp": [
+   "geh spazieren",
+   "geht spazieren"
+  ],
+  "pp": "spazieren gegangen"
+ },
+ "bleiben stehen": {
+  "kinds": [
+   "strong"
+  ],
+  "aux": "sein",
+  "pres": [
+   "bleibe stehen",
+   "bleibst stehen",
+   "bleibt stehen",
+   "bleiben stehen",
+   "bleibt stehen",
+   "bleiben stehen"
+  ],
+  "pret": [
+   "blieb stehen",
+   "bliebst stehen",
+   "blieb stehen",
+   "blieben stehen",
+   "bliebt stehen",
+   "blieben stehen"
+  ],
+  "kj2": null,
+  "imp": [
+   "bleib stehen",
+   "bleibt stehen"
+  ],
+  "pp": "stehen geblieben"
+ }
+}

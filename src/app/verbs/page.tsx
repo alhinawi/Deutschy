@@ -1,17 +1,16 @@
-import VerbBrowser from '@/components/VerbBrowser';
+import VerbenBrowser from '@/components/VerbenBrowser';
 import { T } from '@/lib/i18n';
-import { arVerbs } from '@/lib/arcount';
-import { verbs } from '@/lib/verbs';
+import { verben } from '@/lib/verben';
 
-export const metadata = { title: 'Verbs – Deutschy' };
+export const metadata = { title: 'Verben – Deutschy' };
 export default function VerbsPage() {
   return (
     <div className="space-y-6">
       <div>
-        <h1 className="ar-title text-4xl font-bold"><T ar="الأفعال والتصريف" en="Verbs and conjugation" /></h1>
-        <p className="mt-2 max-w-2xl text-muted"><T ar={`${arVerbs(verbs.length)} في مجموعة بتكبر، مش كل أفعال الألماني. معاها صيغ المضارع والماضي. اختار فعل عشان تراجع تصريفه وأمثلته، وركّز على الصيغة المطلوبة في كل تدريب.`} en={`${verbs.length} verbs with present, Perfekt and Präteritum, including strong, irregular, separable and reflexive verbs. A growing selection, not all German verbs.`} /></p>
+        <h1 className="ar-title text-4xl font-bold"><T ar="تصريف الأفعال" en="Verb conjugation" /></h1>
+        <p className="mt-2 max-w-2xl text-muted"><T ar={`${verben.length} فعل ألماني بتصريفهم الكامل: المضارع والماضي البسيط والماضي التام والافتراضي والأمر. دوّر على أي فعل، أو فلتر بالمستوى والنوع (منتظم، قوي، شاذ، مساعد، منفصل، انعكاسي).`} en={`${verben.length} German verbs with full conjugation: present, simple past, present perfect, subjunctive II and imperative. Search any verb or filter by level and type.`} /></p>
       </div>
-      <VerbBrowser />
+      <VerbenBrowser />
     </div>
   );
 }
