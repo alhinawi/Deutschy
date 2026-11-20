@@ -1,0 +1,633 @@
+[
+ {
+  "de": "Hosentasche",
+  "ar": "جيب البنطلون",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hosentaschen"
+ },
+ {
+  "de": "Hotelbewohner",
+  "ar": "نزيل الفندق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hotelbewohner"
+ },
+ {
+  "de": "Hotelier",
+  "ar": "صاحب الفندق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hoteliers"
+ },
+ {
+  "de": "Hotellerie",
+  "ar": "قطاع الفنادق",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Hotelmanagerin",
+  "ar": "مديرة الفندق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hotelmanagerinnen"
+ },
+ {
+  "de": "Hotelrezeptionist",
+  "ar": "موظف ريسبشن الفندق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hotelrezeptionisten"
+ },
+ {
+  "de": "Hotelübernachtung",
+  "ar": "ليلة الفندق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hotelübernachtungen"
+ },
+ {
+  "de": "Hotline",
+  "ar": "الخط السخن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hotlines"
+ },
+ {
+  "de": "Houthi",
+  "ar": "الحوثي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Houthis"
+ },
+ {
+  "de": "Hufeisen",
+  "ar": "الحدوة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hufeisen"
+ },
+ {
+  "de": "Humanismus",
+  "ar": "الفلسفة الإنسانية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Hummus",
+  "ar": "الحمص",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Hundeattacke",
+  "ar": "هجوم الكلب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hundeattacken"
+ },
+ {
+  "de": "Hundeführschein",
+  "ar": "رخصة الكلب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hundeführscheine"
+ },
+ {
+  "de": "Hundehaltung",
+  "ar": "تربية الكلاب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Hundehaufen",
+  "ar": "براز الكلاب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hundehaufen"
+ },
+ {
+  "de": "Hunderasse",
+  "ar": "سلالة الكلاب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hunderassen"
+ },
+ {
+  "de": "Hundeschule",
+  "ar": "مدرسة الكلاب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hundeschulen"
+ },
+ {
+  "de": "Hundewelpe",
+  "ar": "جرو الكلب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hundewelpen"
+ },
+ {
+  "de": "Hungerstreikende",
+  "ar": "المضرب عن الأكل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hungerstreikenden"
+ },
+ {
+  "de": "Hupen",
+  "ar": "الزمير",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Hustenanfall",
+  "ar": "نوبة الكحة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hustenanfälle"
+ },
+ {
+  "de": "Hybridantrieb",
+  "ar": "الدفع الهجين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hybridantriebe"
+ },
+ {
+  "de": "Hybridarbeit",
+  "ar": "الشغل الهجين",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Hybris",
+  "ar": "الغطرسة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Hydrant",
+  "ar": "حنفية الحريق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hydranten"
+ },
+ {
+  "de": "Hygieneartikel",
+  "ar": "مستلزمات النظافة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hygieneartikel"
+ },
+ {
+  "de": "Hygienekonzept",
+  "ar": "مفهوم النظافة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hygienekonzepte"
+ },
+ {
+  "de": "Hämodialyse",
+  "ar": "غسيل الكلى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hämodialysen"
+ },
+ {
+  "de": "Händlerin",
+  "ar": "التاجرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Händlerinnen"
+ },
+ {
+  "de": "Hängepartie",
+  "ar": "المأزق المعلق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hängepartien"
+ },
+ {
+  "de": "Häppchen",
+  "ar": "الكانابيه",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Häppchen"
+ },
+ {
+  "de": "Härtefall",
+  "ar": "الحالة الصعبة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Härtefälle"
+ },
+ {
+  "de": "Härtetest",
+  "ar": "اختبار الصلابة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Härtetests"
+ },
+ {
+  "de": "Höchststrafe",
+  "ar": "العقوبة القصوى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Höchststrafen"
+ },
+ {
+  "de": "Höhenangst",
+  "ar": "فوبيا الأماكن العالية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Höhenkrankheit",
+  "ar": "دوار المرتفعات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Höhenunterschied",
+  "ar": "فرق الارتفاع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Höhenunterschiede"
+ },
+ {
+  "de": "Hörbuch",
+  "ar": "الكتاب الصوتي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hörbücher"
+ },
+ {
+  "de": "Hörspiel",
+  "ar": "المسرحية الصوتية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hörspiele"
+ },
+ {
+  "de": "Hüftoperation",
+  "ar": "عملية الحوض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hüftoperationen"
+ },
+ {
+  "de": "Hühnernudelsuppe",
+  "ar": "شوربة الفراخ بالمكرونة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hühnernudelsuppen"
+ },
+ {
+  "de": "Hühnerstall",
+  "ar": "عنبر الفراخ",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hühnerställe"
+ },
+ {
+  "de": "Hülsenfrüchte",
+  "ar": "البقوليات",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Hündin",
+  "ar": "الكلبة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hündinnen"
+ },
+ {
+  "de": "Hüpfburg",
+  "ar": "القلعة النطاطة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hüpfburgen"
+ },
+ {
+  "de": "Hürdenlauf",
+  "ar": "سباق الحواجز",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hürdenläufe"
+ },
+ {
+  "de": "Ideengeber",
+  "ar": "صاحب الفكرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ideengeber"
+ },
+ {
+  "de": "Ideenschmiede",
+  "ar": "مصنع الأفكار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ideenschmieden"
+ },
+ {
+  "de": "Identitätspolitik",
+  "ar": "سياسة الهوية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Ideologe",
+  "ar": "الأيديولوجي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ideologen"
+ },
+ {
+  "de": "Ideologie",
+  "ar": "الأيديولوجيا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ideologien"
+ },
+ {
+  "de": "Imker",
+  "ar": "مربي النحل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Imker"
+ },
+ {
+  "de": "Imkerei",
+  "ar": "المنحل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Imkereien"
+ },
+ {
+  "de": "Immobilienbranche",
+  "ar": "قطاع العقارات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Immobilienbranchen"
+ },
+ {
+  "de": "Immobilienexperte",
+  "ar": "خبير العقارات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Immobilienexperten"
+ },
+ {
+  "de": "Immobilienfirma",
+  "ar": "شركة العقارات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Immobilienfirmen"
+ },
+ {
+  "de": "Immobilienkauf",
+  "ar": "شراء العقار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Immobilienkäufe"
+ },
+ {
+  "de": "Immobilienplattform",
+  "ar": "منصة العقارات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Immobilienplattformen"
+ },
+ {
+  "de": "Immobilienpreis",
+  "ar": "سعر العقار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Immobilienpreise"
+ },
+ {
+  "de": "Imperium",
+  "ar": "الإمبراطورية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Imperien"
+ },
+ {
+  "de": "Impfgeschädigte",
+  "ar": "المتضرر من التطعيم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Impfgeschädigten"
+ },
+ {
+  "de": "Impfkampagne",
+  "ar": "حملة التطعيم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Impfkampagnen"
+ },
+ {
+  "de": "Impfpflicht",
+  "ar": "إجبارية التطعيم",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Impfquote",
+  "ar": "نسبة التطعيم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Impfquoten"
+ },
+ {
+  "de": "Implementierung",
+  "ar": "التنفيذ",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Implementierungen"
+ },
+ {
+  "de": "Importeur",
+  "ar": "المستورد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Importeure"
+ },
+ {
+  "de": "Importzoll",
+  "ar": "جمرك الاستيراد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Importzölle"
+ },
+ {
+  "de": "Improvisation",
+  "ar": "الارتجال",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Improvisationen"
+ },
+ {
+  "de": "Inbegriff",
+  "ar": "التجسيد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Inbegriffe"
+ },
+ {
+  "de": "Industrieanlage",
+  "ar": "المنشأة الصناعية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Industrieanlagen"
+ },
+ {
+  "de": "Industriebetrieb",
+  "ar": "المصنع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Industriebetriebe"
+ },
+ {
+  "de": "Industriepolitik",
+  "ar": "السياسة الصناعية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Industrieproduktion",
+  "ar": "الإنتاج الصناعي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Industriestadt",
+  "ar": "المدينة الصناعية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Industriestädte"
+ },
+ {
+  "de": "Industrieunternehmen",
+  "ar": "الشركة الصناعية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Industrieunternehmen"
+ },
+ {
+  "de": "Industriezweig",
+  "ar": "القطاع الصناعي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Industriezweige"
+ },
+ {
+  "de": "Infanterist",
+  "ar": "جندي المشاة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Infanteristen"
+ },
+ {
+  "de": "Infektionszahlen",
+  "ar": "أرقام الإصابات",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Inferno",
+  "ar": "الجحيم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Infernos"
+ },
+ {
+  "de": "Infizierte",
+  "ar": "المصاب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Infizierten"
+ },
+ {
+  "de": "Inflationsausgleich",
+  "ar": "تعويض التضخم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Inflationsausgleiche"
+ },
+ {
+  "de": "Inflationsprämie",
+  "ar": "علاوة التضخم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Inflationsprämien"
+ },
+ {
+  "de": "Influencerin",
+  "ar": "المؤثرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Influencerinnen"
+ },
+ {
+  "de": "Influenza",
+  "ar": "الأنفلونزا",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Infografik",
+  "ar": "الإنفوجرافيك",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Infografiken"
+ },
+ {
+  "de": "Informationsaustausch",
+  "ar": "تبادل المعلومات",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Informationsfreiheit",
+  "ar": "حرية المعلومات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Informationskampagne",
+  "ar": "حملة التوعية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Informationskampagnen"
+ },
+ {
+  "de": "Informationskrieg",
+  "ar": "حرب المعلومات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Informationskriege"
+ },
+ {
+  "de": "Informationssystem",
+  "ar": "نظام المعلومات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Informationssysteme"
+ },
+ {
+  "de": "Informationstechnologie",
+  "ar": "تكنولوجيا المعلومات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Infrarotlicht",
+  "ar": "الأشعة تحت الحمراء",
+  "pos": "noun",
+  "art": "das"
+ }
+]
