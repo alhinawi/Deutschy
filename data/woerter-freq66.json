@@ -1,0 +1,243 @@
+[
+ {
+  "de": "Codewort",
+  "ar": "الكلمة السرية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Codewörter"
+ },
+ {
+  "de": "Collegejacke",
+  "ar": "جاكيت الجامعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Collegejacken"
+ },
+ {
+  "de": "Comicbuch",
+  "ar": "كتاب الكوميكس",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Comicbücher"
+ },
+ {
+  "de": "Coming-out",
+  "ar": "الإعلان عن الميول",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Coming-outs"
+ },
+ {
+  "de": "Communitymanagerin",
+  "ar": "مديرة المجتمع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Communitymanagerinnen"
+ },
+ {
+  "de": "Compliance",
+  "ar": "الامتثال",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Computerexperte",
+  "ar": "خبير الكمبيوتر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Computerexperten"
+ },
+ {
+  "de": "Computermodell",
+  "ar": "نموذج الكمبيوتر",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Computermodelle"
+ },
+ {
+  "de": "Computerspiel",
+  "ar": "لعبة الكمبيوتر",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Computerspiele"
+ },
+ {
+  "de": "Containerschiff",
+  "ar": "سفينة الحاويات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Containerschiffe"
+ },
+ {
+  "de": "Copyright",
+  "ar": "حقوق النشر",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Copyrights"
+ },
+ {
+  "de": "Corona-Generation",
+  "ar": "جيل كورونا",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Corona-Infektion",
+  "ar": "إصابة كورونا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Corona-Infektionen"
+ },
+ {
+  "de": "Corona-Krise",
+  "ar": "أزمة كورونا",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Corona-Variante",
+  "ar": "متحور كورونا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Corona-Varianten"
+ },
+ {
+  "de": "Coronamaßnahme",
+  "ar": "إجراءات كورونا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Coronamaßnahmen"
+ },
+ {
+  "de": "Coronapandemie",
+  "ar": "جايحة كورونا",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Coronavirus",
+  "ar": "فيروس كورونا",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Coronaviren"
+ },
+ {
+  "de": "Cortisol",
+  "ar": "الكورتيزول",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Countrymusik",
+  "ar": "موسيقى الكانتري",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Coverband",
+  "ar": "فرقة الكوفر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Coverbands"
+ },
+ {
+  "de": "Coversong",
+  "ar": "أغنية الكوفر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Coversongs"
+ },
+ {
+  "de": "Crash",
+  "ar": "الحادثة / الانهيار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Crashes"
+ },
+ {
+  "de": "Creatorin",
+  "ar": "صانعة المحتوى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Creatorinnen"
+ },
+ {
+  "de": "Creole",
+  "ar": "حلق الأذن الحلقي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Creolen"
+ },
+ {
+  "de": "Cricket",
+  "ar": "الكريكت",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Currysoße",
+  "ar": "صوص الكاري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Currysoßen"
+ },
+ {
+  "de": "Cyberkriminalität",
+  "ar": "الجريمة الإلكترونية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Cyberkriminelle",
+  "ar": "المجرم الإلكتروني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Cyberkriminellen"
+ },
+ {
+  "de": "Cyberraum",
+  "ar": "الفضاء السيبراني",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Cybersecurity-Experte",
+  "ar": "خبير الأمن السيبراني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Cybersecurity-Experten"
+ },
+ {
+  "de": "DDR-Geschichte",
+  "ar": "تاريخ ألمانيا الشرقية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "DDR-Regierung",
+  "ar": "حكومة ألمانيا الشرقية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "DDoS-Attacke",
+  "ar": "هجوم الحرمان من الخدمة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "DDoS-Attacken"
+ },
+ {
+  "de": "DFB-Nationalspieler",
+  "ar": "لاعب المنتخب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "DFB-Nationalspieler"
+ },
+ {
+  "de": "DFB-Team",
+  "ar": "منتخب ألمانيا",
+  "pos": "noun",
+  "art": "das",
+  "pl": "DFB-Teams"
+ }
+]
