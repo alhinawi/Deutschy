@@ -27,7 +27,7 @@ export const sidebar: NavGroup[] = [
     { href: '/grammar-map/', ar: 'خريطة قواعد سريعة A1-C2', en: 'Quick grammar maps A1-C2' },
     { href: '/pitfalls/', ar: 'نقط بتلخبطك في الألماني', en: 'German pitfalls through Arabic' },
     { href: '/grammar/', ar: 'أكاديمية القواعد', en: 'Grammar academy' },
-    { href: '/verbs/', ar: 'الأفعال والتصريف', en: 'Verbs' },
+    { href: '/verbs/', ar: 'تصريف كل الأفعال', en: 'All verbs conjugated' },
     { href: '/exam/', ar: 'امتحان المستوى', en: 'Level exam' },
     { href: '/review/daily/', ar: 'مراجعة أخطائي وكلماتي', en: 'My daily review' },
     { href: '/level-check/', ar: 'مراجعة مختلطة A1-C2', en: 'Mixed level check A1-C2' },
