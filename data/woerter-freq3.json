@@ -1,0 +1,1997 @@
+[
+ {
+  "de": "Haus",
+  "ar": "بيت",
+  "pos": "noun"
+ },
+ {
+  "de": "Sache",
+  "ar": "حاجة / موضوع",
+  "pos": "noun"
+ },
+ {
+  "de": "Ding",
+  "ar": "حاجة / شيء",
+  "pos": "noun"
+ },
+ {
+  "de": "Person",
+  "ar": "شخص",
+  "pos": "noun"
+ },
+ {
+  "de": "Mensch",
+  "ar": "إنسان / بني آدم",
+  "pos": "noun"
+ },
+ {
+  "de": "Herr",
+  "ar": "أستاذ / سيد",
+  "pos": "noun"
+ },
+ {
+  "de": "Dame",
+  "ar": "مدام / سيدة",
+  "pos": "noun"
+ },
+ {
+  "de": "Partner",
+  "ar": "شريك / قرين",
+  "pos": "noun"
+ },
+ {
+  "de": "Eltern",
+  "ar": "الوالدين",
+  "pos": "noun"
+ },
+ {
+  "de": "Opa",
+  "ar": "جدّو",
+  "pos": "noun"
+ },
+ {
+  "de": "Oma",
+  "ar": "تيتة",
+  "pos": "noun"
+ },
+ {
+  "de": "Onkel",
+  "ar": "عمو / خالو",
+  "pos": "noun"
+ },
+ {
+  "de": "Tante",
+  "ar": "تانت / خالة / عمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Baby",
+  "ar": "بيبي / رضيع",
+  "pos": "noun"
+ },
+ {
+  "de": "Erwachsene",
+  "ar": "شخص بالغ / كبير",
+  "pos": "noun"
+ },
+ {
+  "de": "Team",
+  "ar": "فريق",
+  "pos": "noun"
+ },
+ {
+  "de": "Verein",
+  "ar": "نادي / جمعية",
+  "pos": "noun"
+ },
+ {
+  "de": "Mitglied",
+  "ar": "عضو",
+  "pos": "noun"
+ },
+ {
+  "de": "Mitarbeiter",
+  "ar": "موظف / زميل شغل",
+  "pos": "noun"
+ },
+ {
+  "de": "Arbeiter",
+  "ar": "عامل",
+  "pos": "noun"
+ },
+ {
+  "de": "Verkäufer",
+  "ar": "بائع",
+  "pos": "noun"
+ },
+ {
+  "de": "Kellner",
+  "ar": "جرسون / ويتر",
+  "pos": "noun"
+ },
+ {
+  "de": "Bäcker",
+  "ar": "فرّان / خباز",
+  "pos": "noun"
+ },
+ {
+  "de": "Metzger",
+  "ar": "جزار",
+  "pos": "noun"
+ },
+ {
+  "de": "Bauer",
+  "ar": "فلاح / مزارع",
+  "pos": "noun"
+ },
+ {
+  "de": "Mechaniker",
+  "ar": "ميكانيكي",
+  "pos": "noun"
+ },
+ {
+  "de": "Elektriker",
+  "ar": "كهربائي",
+  "pos": "noun"
+ },
+ {
+  "de": "Friseur",
+  "ar": "حلاق / كوافير",
+  "pos": "noun"
+ },
+ {
+  "de": "Anwalt",
+  "ar": "محامي",
+  "pos": "noun"
+ },
+ {
+  "de": "Richter",
+  "ar": "قاضي",
+  "pos": "noun"
+ },
+ {
+  "de": "Ingenieur",
+  "ar": "مهندس",
+  "pos": "noun"
+ },
+ {
+  "de": "Journalist",
+  "ar": "صحفي",
+  "pos": "noun"
+ },
+ {
+  "de": "Fotograf",
+  "ar": "مصور",
+  "pos": "noun"
+ },
+ {
+  "de": "Musiker",
+  "ar": "مزيكاتي / موسيقي",
+  "pos": "noun"
+ },
+ {
+  "de": "Schauspieler",
+  "ar": "ممثل",
+  "pos": "noun"
+ },
+ {
+  "de": "Autor",
+  "ar": "كاتب / مؤلف",
+  "pos": "noun"
+ },
+ {
+  "de": "Übersetzer",
+  "ar": "مترجم",
+  "pos": "noun"
+ },
+ {
+  "de": "Tourist",
+  "ar": "سايح",
+  "pos": "noun"
+ },
+ {
+  "de": "Gastgeber",
+  "ar": "المضيف / صاحب البيت",
+  "pos": "noun"
+ },
+ {
+  "de": "Einwohner",
+  "ar": "مواطن / ساكن",
+  "pos": "noun"
+ },
+ {
+  "de": "Bürger",
+  "ar": "مواطن",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausländer",
+  "ar": "أجنبي",
+  "pos": "noun"
+ },
+ {
+  "de": "Flüchtling",
+  "ar": "لاجئ",
+  "pos": "noun"
+ },
+ {
+  "de": "Patient",
+  "ar": "مريض (عند الدكتور)",
+  "pos": "noun"
+ },
+ {
+  "de": "Besucher",
+  "ar": "زائر",
+  "pos": "noun"
+ },
+ {
+  "de": "Zuschauer",
+  "ar": "مشاهد / متفرج",
+  "pos": "noun"
+ },
+ {
+  "de": "Leser",
+  "ar": "قارئ",
+  "pos": "noun"
+ },
+ {
+  "de": "Nutzer",
+  "ar": "مستخدم",
+  "pos": "noun"
+ },
+ {
+  "de": "Spieler",
+  "ar": "لاعب",
+  "pos": "noun"
+ },
+ {
+  "de": "Gewinner",
+  "ar": "كسبان / فائز",
+  "pos": "noun"
+ },
+ {
+  "de": "Verlierer",
+  "ar": "خسران",
+  "pos": "noun"
+ },
+ {
+  "de": "Sieger",
+  "ar": "بطل / فائز",
+  "pos": "noun"
+ },
+ {
+  "de": "Meister",
+  "ar": "بطل / معلم (صنعة)",
+  "pos": "noun"
+ },
+ {
+  "de": "Experte",
+  "ar": "خبير",
+  "pos": "noun"
+ },
+ {
+  "de": "Profi",
+  "ar": "محترف",
+  "pos": "noun"
+ },
+ {
+  "de": "Anfänger",
+  "ar": "مبتدئ",
+  "pos": "noun"
+ },
+ {
+  "de": "Held",
+  "ar": "بطل",
+  "pos": "noun"
+ },
+ {
+  "de": "Star",
+  "ar": "نجم",
+  "pos": "noun"
+ },
+ {
+  "de": "Präsident",
+  "ar": "رئيس",
+  "pos": "noun"
+ },
+ {
+  "de": "Minister",
+  "ar": "وزير",
+  "pos": "noun"
+ },
+ {
+  "de": "Bürgermeister",
+  "ar": "عمدة",
+  "pos": "noun"
+ },
+ {
+  "de": "Politiker",
+  "ar": "سياسي",
+  "pos": "noun"
+ },
+ {
+  "de": "Soldat",
+  "ar": "عسكري",
+  "pos": "noun"
+ },
+ {
+  "de": "Polizist",
+  "ar": "ظابط بوليس",
+  "pos": "noun"
+ },
+ {
+  "de": "Feuerwehrmann",
+  "ar": "رجل مطافي",
+  "pos": "noun"
+ },
+ {
+  "de": "Trainer",
+  "ar": "كابتن / مدرب",
+  "pos": "noun"
+ },
+ {
+  "de": "Schiedsrichter",
+  "ar": "حكم",
+  "pos": "noun"
+ },
+ {
+  "de": "Zeuge",
+  "ar": "شاهد",
+  "pos": "noun"
+ },
+ {
+  "de": "Opfer",
+  "ar": "ضحية",
+  "pos": "noun"
+ },
+ {
+  "de": "Täter",
+  "ar": "جاني / متهم",
+  "pos": "noun"
+ },
+ {
+  "de": "Verbrecher",
+  "ar": "مجرم",
+  "pos": "noun"
+ },
+ {
+  "de": "Dieb",
+  "ar": "حرامي",
+  "pos": "noun"
+ },
+ {
+  "de": "Gegenstand",
+  "ar": "غرض / حاجة",
+  "pos": "noun"
+ },
+ {
+  "de": "Produkt",
+  "ar": "منتج",
+  "pos": "noun"
+ },
+ {
+  "de": "Ware",
+  "ar": "بضاعة",
+  "pos": "noun"
+ },
+ {
+  "de": "Artikel",
+  "ar": "منتج / مقال",
+  "pos": "noun"
+ },
+ {
+  "de": "Marke",
+  "ar": "ماركة",
+  "pos": "noun"
+ },
+ {
+  "de": "Modell",
+  "ar": "موديل",
+  "pos": "noun"
+ },
+ {
+  "de": "Qualität",
+  "ar": "جودة",
+  "pos": "noun"
+ },
+ {
+  "de": "Größe",
+  "ar": "مقاس / حجم",
+  "pos": "noun"
+ },
+ {
+  "de": "Länge",
+  "ar": "طول",
+  "pos": "noun"
+ },
+ {
+  "de": "Breite",
+  "ar": "عرض",
+  "pos": "noun"
+ },
+ {
+  "de": "Höhe",
+  "ar": "ارتفاع",
+  "pos": "noun"
+ },
+ {
+  "de": "Tiefe",
+  "ar": "عمق",
+  "pos": "noun"
+ },
+ {
+  "de": "Gewicht",
+  "ar": "وزن",
+  "pos": "noun"
+ },
+ {
+  "de": "Inhalt",
+  "ar": "محتوى",
+  "pos": "noun"
+ },
+ {
+  "de": "Oberfläche",
+  "ar": "سطح",
+  "pos": "noun"
+ },
+ {
+  "de": "Form",
+  "ar": "شكل / استمارة",
+  "pos": "noun"
+ },
+ {
+  "de": "Figur",
+  "ar": "شخصية / قوام",
+  "pos": "noun"
+ },
+ {
+  "de": "System",
+  "ar": "نظام / سيستم",
+  "pos": "noun"
+ },
+ {
+  "de": "Methode",
+  "ar": "طريقة / منهج",
+  "pos": "noun"
+ },
+ {
+  "de": "Prozess",
+  "ar": "عملية / قضية",
+  "pos": "noun"
+ },
+ {
+  "de": "Ablauf",
+  "ar": "مجريات / خطوات",
+  "pos": "noun"
+ },
+ {
+  "de": "Schritt",
+  "ar": "خطوة",
+  "pos": "noun"
+ },
+ {
+  "de": "Phase",
+  "ar": "مرحلة",
+  "pos": "noun"
+ },
+ {
+  "de": "Zustand",
+  "ar": "حالة",
+  "pos": "noun"
+ },
+ {
+  "de": "Situation",
+  "ar": "موقف / وضع",
+  "pos": "noun"
+ },
+ {
+  "de": "Lage",
+  "ar": "وضع / موقع",
+  "pos": "noun"
+ },
+ {
+  "de": "Umstand",
+  "ar": "ظرف",
+  "pos": "noun"
+ },
+ {
+  "de": "Bedingung",
+  "ar": "شرط",
+  "pos": "noun"
+ },
+ {
+  "de": "Einfluss",
+  "ar": "تأثير / نفوذ",
+  "pos": "noun"
+ },
+ {
+  "de": "Wirkung",
+  "ar": "تأثير / مفعول",
+  "pos": "noun"
+ },
+ {
+  "de": "Folge",
+  "ar": "نتيجة / حلقة",
+  "pos": "noun"
+ },
+ {
+  "de": "Ergebnis",
+  "ar": "نتيجة",
+  "pos": "noun"
+ },
+ {
+  "de": "Effekt",
+  "ar": "إفكت / تأثير",
+  "pos": "noun"
+ },
+ {
+  "de": "Nutzen",
+  "ar": "فايدة",
+  "pos": "noun"
+ },
+ {
+  "de": "Vorteil",
+  "ar": "ميزة",
+  "pos": "noun"
+ },
+ {
+  "de": "Nachteil",
+  "ar": "عيب / ضرر",
+  "pos": "noun"
+ },
+ {
+  "de": "Schaden",
+  "ar": "ضرر / تلف",
+  "pos": "noun"
+ },
+ {
+  "de": "Störung",
+  "ar": "عطل / إزعاج",
+  "pos": "noun"
+ },
+ {
+  "de": "Unfall",
+  "ar": "حادثة",
+  "pos": "noun"
+ },
+ {
+  "de": "Katastrophe",
+  "ar": "كارثة",
+  "pos": "noun"
+ },
+ {
+  "de": "Notfall",
+  "ar": "حالة طوارئ",
+  "pos": "noun"
+ },
+ {
+  "de": "Krise",
+  "ar": "أزمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Konflikt",
+  "ar": "صراع / خناقة",
+  "pos": "noun"
+ },
+ {
+  "de": "Kampf",
+  "ar": "قتال / نضال",
+  "pos": "noun"
+ },
+ {
+  "de": "Angriff",
+  "ar": "هجوم",
+  "pos": "noun"
+ },
+ {
+  "de": "Verteidigung",
+  "ar": "دفاع",
+  "pos": "noun"
+ },
+ {
+  "de": "Waffe",
+  "ar": "سلاح",
+  "pos": "noun"
+ },
+ {
+  "de": "Pistole",
+  "ar": "طبنجة / مسدس",
+  "pos": "noun"
+ },
+ {
+  "de": "Schuss",
+  "ar": "طلقة / شوطة",
+  "pos": "noun"
+ },
+ {
+  "de": "Kugel",
+  "ar": "كورة / رصاصة",
+  "pos": "noun"
+ },
+ {
+  "de": "Explosion",
+  "ar": "انفجار",
+  "pos": "noun"
+ },
+ {
+  "de": "Brand",
+  "ar": "حريق",
+  "pos": "noun"
+ },
+ {
+  "de": "Rettung",
+  "ar": "إنقاذ",
+  "pos": "noun"
+ },
+ {
+  "de": "Hilfe",
+  "ar": "مساعدة",
+  "pos": "noun"
+ },
+ {
+  "de": "Unterstützung",
+  "ar": "دعم",
+  "pos": "noun"
+ },
+ {
+  "de": "Dienst",
+  "ar": "خدمة / وردية",
+  "pos": "noun"
+ },
+ {
+  "de": "Service",
+  "ar": "خدمة / سيرفيس",
+  "pos": "noun"
+ },
+ {
+  "de": "Leistung",
+  "ar": "أداء / خدمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Angebot",
+  "ar": "عرض",
+  "pos": "noun"
+ },
+ {
+  "de": "Nachfrage",
+  "ar": "طلب (سوق)",
+  "pos": "noun"
+ },
+ {
+  "de": "Bedarf",
+  "ar": "احتياج / طلب",
+  "pos": "noun"
+ },
+ {
+  "de": "Verbrauch",
+  "ar": "استهلاك",
+  "pos": "noun"
+ },
+ {
+  "de": "Anwendung",
+  "ar": "استخدام / تطبيق",
+  "pos": "noun"
+ },
+ {
+  "de": "Funktion",
+  "ar": "وظيفة (حاجة) / فانكشن",
+  "pos": "noun"
+ },
+ {
+  "de": "Zweck",
+  "ar": "غرض",
+  "pos": "noun"
+ },
+ {
+  "de": "Rolle",
+  "ar": "دور",
+  "pos": "noun"
+ },
+ {
+  "de": "Aufgabe",
+  "ar": "مهمة / واجب (مدرسي)",
+  "pos": "noun"
+ },
+ {
+  "de": "Stelle",
+  "ar": "مكان / وظيفة",
+  "pos": "noun"
+ },
+ {
+  "de": "Position",
+  "ar": "مركز / وضعية",
+  "pos": "noun"
+ },
+ {
+  "de": "Rang",
+  "ar": "رتبة / مرتبة",
+  "pos": "noun"
+ },
+ {
+  "de": "Titel",
+  "ar": "لقب / عنوان",
+  "pos": "noun"
+ },
+ {
+  "de": "Niveau",
+  "ar": "مستوى",
+  "pos": "noun"
+ },
+ {
+  "de": "Standard",
+  "ar": "مستوى معتاد / ستاندرد",
+  "pos": "noun"
+ },
+ {
+  "de": "Kategorie",
+  "ar": "فئة / تصنيف",
+  "pos": "noun"
+ },
+ {
+  "de": "Format",
+  "ar": "فورمات / صيغة",
+  "pos": "noun"
+ },
+ {
+  "de": "Stil",
+  "ar": "ستايل / أسلوب",
+  "pos": "noun"
+ },
+ {
+  "de": "Design",
+  "ar": "ديزاين / تصميم",
+  "pos": "noun"
+ },
+ {
+  "de": "Ton",
+  "ar": "صوت / نبرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Geräusch",
+  "ar": "صوت / دوشة",
+  "pos": "noun"
+ },
+ {
+  "de": "Lärm",
+  "ar": "دوشة / صخب",
+  "pos": "noun"
+ },
+ {
+  "de": "Lied",
+  "ar": "أغنية",
+  "pos": "noun"
+ },
+ {
+  "de": "Melodie",
+  "ar": "لحن",
+  "pos": "noun"
+ },
+ {
+  "de": "Rhythmus",
+  "ar": "إيقاع",
+  "pos": "noun"
+ },
+ {
+  "de": "Tanz",
+  "ar": "رقص",
+  "pos": "noun"
+ },
+ {
+  "de": "Oper",
+  "ar": "أوبرا",
+  "pos": "noun"
+ },
+ {
+  "de": "Theater",
+  "ar": "مسرح",
+  "pos": "noun"
+ },
+ {
+  "de": "Vorstellung",
+  "ar": "عرض / فكرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Fest",
+  "ar": "احتفال / عيد",
+  "pos": "noun"
+ },
+ {
+  "de": "Festival",
+  "ar": "مهرجان",
+  "pos": "noun"
+ },
+ {
+  "de": "Feuerwerk",
+  "ar": "ألعاب نارية",
+  "pos": "noun"
+ },
+ {
+  "de": "Überraschung",
+  "ar": "مفاجأة",
+  "pos": "noun"
+ },
+ {
+  "de": "Witz",
+  "ar": "نكتة",
+  "pos": "noun"
+ },
+ {
+  "de": "Spaß",
+  "ar": "وناسة / فكاهة",
+  "pos": "noun"
+ },
+ {
+  "de": "Unterhaltung",
+  "ar": "تسلية / دردشة",
+  "pos": "noun"
+ },
+ {
+  "de": "Hobby",
+  "ar": "هواية",
+  "pos": "noun"
+ },
+ {
+  "de": "Interesse",
+  "ar": "اهتمام",
+  "pos": "noun"
+ },
+ {
+  "de": "Leidenschaft",
+  "ar": "شغف",
+  "pos": "noun"
+ },
+ {
+  "de": "Talent",
+  "ar": "موهبة",
+  "pos": "noun"
+ },
+ {
+  "de": "Fähigkeit",
+  "ar": "قدرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Stärke",
+  "ar": "قوة (ميزة)",
+  "pos": "noun"
+ },
+ {
+  "de": "Schwäche",
+  "ar": "ضعف",
+  "pos": "noun"
+ },
+ {
+  "de": "Schwierigkeit",
+  "ar": "صعوبة",
+  "pos": "noun"
+ },
+ {
+  "de": "Hindernis",
+  "ar": "عقبة",
+  "pos": "noun"
+ },
+ {
+  "de": "Limit",
+  "ar": "ليميت / حد أقصى",
+  "pos": "noun"
+ },
+ {
+  "de": "Maximum",
+  "ar": "أقصى حاجة",
+  "pos": "noun"
+ },
+ {
+  "de": "Minimum",
+  "ar": "أقل حاجة",
+  "pos": "noun"
+ },
+ {
+  "de": "Durchschnitt",
+  "ar": "متوسط",
+  "pos": "noun"
+ },
+ {
+  "de": "Spitze",
+  "ar": "قمة / راس حادة",
+  "pos": "noun"
+ },
+ {
+  "de": "Gipfel",
+  "ar": "قمة (جبل)",
+  "pos": "noun"
+ },
+ {
+  "de": "Beginn",
+  "ar": "بداية",
+  "pos": "noun"
+ },
+ {
+  "de": "Start",
+  "ar": "ستارت / انطلاق",
+  "pos": "noun"
+ },
+ {
+  "de": "Schluss",
+  "ar": "نهاية / ختام",
+  "pos": "noun"
+ },
+ {
+  "de": "Abschluss",
+  "ar": "ختم / قفل (شهادة أو صفقة)",
+  "pos": "noun"
+ },
+ {
+  "de": "Runde",
+  "ar": "جولة / شوط",
+  "pos": "noun"
+ },
+ {
+  "de": "Abschnitt",
+  "ar": "جزء / قطاع",
+  "pos": "noun"
+ },
+ {
+  "de": "Bereich",
+  "ar": "مجال / منطقة",
+  "pos": "noun"
+ },
+ {
+  "de": "Gebiet",
+  "ar": "منطقة / نطاق",
+  "pos": "noun"
+ },
+ {
+  "de": "Region",
+  "ar": "منطقة / إقليم",
+  "pos": "noun"
+ },
+ {
+  "de": "Zone",
+  "ar": "زون / منطقة",
+  "pos": "noun"
+ },
+ {
+  "de": "Viertel",
+  "ar": "حي / ربع",
+  "pos": "noun"
+ },
+ {
+  "de": "Zentrum",
+  "ar": "وسط البلد / سنتر",
+  "pos": "noun"
+ },
+ {
+  "de": "Innenstadt",
+  "ar": "وسط البلد",
+  "pos": "noun"
+ },
+ {
+  "de": "Altstadt",
+  "ar": "البلد القديمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Vorort",
+  "ar": "ضاحية",
+  "pos": "noun"
+ },
+ {
+  "de": "Hafen",
+  "ar": "ميناء",
+  "pos": "noun"
+ },
+ {
+  "de": "Busbahnhof",
+  "ar": "موقف أتوبيسات",
+  "pos": "noun"
+ },
+ {
+  "de": "Parkplatz",
+  "ar": "جراج / باركنج",
+  "pos": "noun"
+ },
+ {
+  "de": "Garage",
+  "ar": "جراج",
+  "pos": "noun"
+ },
+ {
+  "de": "Tankstelle",
+  "ar": "بنزينة",
+  "pos": "noun"
+ },
+ {
+  "de": "Werkstatt",
+  "ar": "ورشة",
+  "pos": "noun"
+ },
+ {
+  "de": "Fabrik",
+  "ar": "مصنع",
+  "pos": "noun"
+ },
+ {
+  "de": "Betrieb",
+  "ar": "مصنع / شغل (شركة)",
+  "pos": "noun"
+ },
+ {
+  "de": "Unternehmen",
+  "ar": "شركة / مؤسسة",
+  "pos": "noun"
+ },
+ {
+  "de": "Geschäft",
+  "ar": "محل / بيزنس",
+  "pos": "noun"
+ },
+ {
+  "de": "Büro",
+  "ar": "مكتب",
+  "pos": "noun"
+ },
+ {
+  "de": "Gebäude",
+  "ar": "عمارة / مبنى",
+  "pos": "noun"
+ },
+ {
+  "de": "Hochhaus",
+  "ar": "برج / عمارة عالية",
+  "pos": "noun"
+ },
+ {
+  "de": "Villa",
+  "ar": "فيلا",
+  "pos": "noun"
+ },
+ {
+  "de": "Hütte",
+  "ar": "كوخ",
+  "pos": "noun"
+ },
+ {
+  "de": "Stall",
+  "ar": "زريبة / إسطبل",
+  "pos": "noun"
+ },
+ {
+  "de": "Keller",
+  "ar": "سرداب",
+  "pos": "noun"
+ },
+ {
+  "de": "Dach",
+  "ar": "سقف / سطح",
+  "pos": "noun"
+ },
+ {
+  "de": "Wand",
+  "ar": "حيطة",
+  "pos": "noun"
+ },
+ {
+  "de": "Mauer",
+  "ar": "سور",
+  "pos": "noun"
+ },
+ {
+  "de": "Zaun",
+  "ar": "سور / سلك",
+  "pos": "noun"
+ },
+ {
+  "de": "Tür",
+  "ar": "باب",
+  "pos": "noun"
+ },
+ {
+  "de": "Aufzug",
+  "ar": "أسانسير",
+  "pos": "noun"
+ },
+ {
+  "de": "Flur",
+  "ar": "طرقة",
+  "pos": "noun"
+ },
+ {
+  "de": "Eingang",
+  "ar": "مدخل",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausgang",
+  "ar": "مخرج",
+  "pos": "noun"
+ },
+ {
+  "de": "Notausgang",
+  "ar": "مخرج طوارئ",
+  "pos": "noun"
+ },
+ {
+  "de": "Empfang",
+  "ar": "ريسبشن / استقبال",
+  "pos": "noun"
+ },
+ {
+  "de": "Wartezimmer",
+  "ar": "أوضة انتظار",
+  "pos": "noun"
+ },
+ {
+  "de": "Klassenzimmer",
+  "ar": "فصل",
+  "pos": "noun"
+ },
+ {
+  "de": "Bibliothek",
+  "ar": "مكتبة",
+  "pos": "noun"
+ },
+ {
+  "de": "Lager",
+  "ar": "مخزن",
+  "pos": "noun"
+ },
+ {
+  "de": "Schrank",
+  "ar": "دولاب",
+  "pos": "noun"
+ },
+ {
+  "de": "Regal",
+  "ar": "رف",
+  "pos": "noun"
+ },
+ {
+  "de": "Schublade",
+  "ar": "درج",
+  "pos": "noun"
+ },
+ {
+  "de": "Kiste",
+  "ar": "صندوق / علبة",
+  "pos": "noun"
+ },
+ {
+  "de": "Korb",
+  "ar": "سلة",
+  "pos": "noun"
+ },
+ {
+  "de": "Eimer",
+  "ar": "جردل",
+  "pos": "noun"
+ },
+ {
+  "de": "Spüle",
+  "ar": "حوض",
+  "pos": "noun"
+ },
+ {
+  "de": "Wasserhahn",
+  "ar": "حنفية",
+  "pos": "noun"
+ },
+ {
+  "de": "Badewanne",
+  "ar": "بانيو",
+  "pos": "noun"
+ },
+ {
+  "de": "Waschmaschine",
+  "ar": "غسالة",
+  "pos": "noun"
+ },
+ {
+  "de": "Mikrowelle",
+  "ar": "ميكروويف",
+  "pos": "noun"
+ },
+ {
+  "de": "Toaster",
+  "ar": "توستر",
+  "pos": "noun"
+ },
+ {
+  "de": "Wasserkocher",
+  "ar": "غلاية / كتل",
+  "pos": "noun"
+ },
+ {
+  "de": "Kaffeemaschine",
+  "ar": "ماكينة قهوة",
+  "pos": "noun"
+ },
+ {
+  "de": "Mixer",
+  "ar": "خلاط",
+  "pos": "noun"
+ },
+ {
+  "de": "Grill",
+  "ar": "شواية",
+  "pos": "noun"
+ },
+ {
+  "de": "Schüssel",
+  "ar": "بولة / طبق كبير",
+  "pos": "noun"
+ },
+ {
+  "de": "Tablett",
+  "ar": "طبق تقديم / صينية",
+  "pos": "noun"
+ },
+ {
+  "de": "Löffel",
+  "ar": "معلقة",
+  "pos": "noun"
+ },
+ {
+  "de": "Teelöffel",
+  "ar": "معلقة صغيرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Sieb",
+  "ar": "مصفاة",
+  "pos": "noun"
+ },
+ {
+  "de": "Dose",
+  "ar": "علبة (معلبات)",
+  "pos": "noun"
+ },
+ {
+  "de": "Packung",
+  "ar": "عبوة / باكو",
+  "pos": "noun"
+ },
+ {
+  "de": "Paket",
+  "ar": "طرد / باكيج",
+  "pos": "noun"
+ },
+ {
+  "de": "Schachtel",
+  "ar": "علبة",
+  "pos": "noun"
+ },
+ {
+  "de": "Karton",
+  "ar": "كرتونة",
+  "pos": "noun"
+ },
+ {
+  "de": "Tüte",
+  "ar": "كيس",
+  "pos": "noun"
+ },
+ {
+  "de": "Beutel",
+  "ar": "كيس / شنطة صغيرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Müll",
+  "ar": "زبالة",
+  "pos": "noun"
+ },
+ {
+  "de": "Mülltonne",
+  "ar": "زبالة (سطل)",
+  "pos": "noun"
+ },
+ {
+  "de": "Dreck",
+  "ar": "وساخة / عفن",
+  "pos": "noun"
+ },
+ {
+  "de": "Fleck",
+  "ar": "بقعة",
+  "pos": "noun"
+ },
+ {
+  "de": "Geruch",
+  "ar": "ريحة",
+  "pos": "noun"
+ },
+ {
+  "de": "Duft",
+  "ar": "ريحة حلوة / عطر",
+  "pos": "noun"
+ },
+ {
+  "de": "Parfüm",
+  "ar": "برفان",
+  "pos": "noun"
+ },
+ {
+  "de": "Shampoo",
+  "ar": "شامبو",
+  "pos": "noun"
+ },
+ {
+  "de": "Creme",
+  "ar": "كريم",
+  "pos": "noun"
+ },
+ {
+  "de": "Rasierer",
+  "ar": "ماكينة حلاقة",
+  "pos": "noun"
+ },
+ {
+  "de": "Kamm",
+  "ar": "مشط",
+  "pos": "noun"
+ },
+ {
+  "de": "Bürste",
+  "ar": "فرشة",
+  "pos": "noun"
+ },
+ {
+  "de": "Waage",
+  "ar": "ميزان",
+  "pos": "noun"
+ },
+ {
+  "de": "Thermometer",
+  "ar": "ترمومتر",
+  "pos": "noun"
+ },
+ {
+  "de": "Medikament",
+  "ar": "دوا",
+  "pos": "noun"
+ },
+ {
+  "de": "Tablette",
+  "ar": "برشامة",
+  "pos": "noun"
+ },
+ {
+  "de": "Spritze",
+  "ar": "حقنة",
+  "pos": "noun"
+ },
+ {
+  "de": "Impfung",
+  "ar": "تطعيم",
+  "pos": "noun"
+ },
+ {
+  "de": "Verband",
+  "ar": "ضمادة / رابطة",
+  "pos": "noun"
+ },
+ {
+  "de": "Pflaster",
+  "ar": "بلاستر / لزقة",
+  "pos": "noun"
+ },
+ {
+  "de": "Rollstuhl",
+  "ar": "كرسي متحرك",
+  "pos": "noun"
+ },
+ {
+  "de": "Krankenwagen",
+  "ar": "عربية إسعاف",
+  "pos": "noun"
+ },
+ {
+  "de": "Notaufnahme",
+  "ar": "طوارئ (مستشفى)",
+  "pos": "noun"
+ },
+ {
+  "de": "Operation",
+  "ar": "عملية (جراحية)",
+  "pos": "noun"
+ },
+ {
+  "de": "Untersuchung",
+  "ar": "كشف / فحص",
+  "pos": "noun"
+ },
+ {
+  "de": "Behandlung",
+  "ar": "علاج",
+  "pos": "noun"
+ },
+ {
+  "de": "Therapie",
+  "ar": "علاج (نفسي أو طبيعي)",
+  "pos": "noun"
+ },
+ {
+  "de": "Klinik",
+  "ar": "عيادة / مستشفى",
+  "pos": "noun"
+ },
+ {
+  "de": "Praxis",
+  "ar": "عيادة (دكتور)",
+  "pos": "noun"
+ },
+ {
+  "de": "Apotheke",
+  "ar": "صيدلية",
+  "pos": "noun"
+ },
+ {
+  "de": "krabbeln",
+  "ar": "يحبو",
+  "pos": "verb"
+ },
+ {
+  "de": "kleiden",
+  "ar": "يلبس / يلبّس",
+  "pos": "verb"
+ },
+ {
+  "de": "bügeln",
+  "ar": "يكوي",
+  "pos": "verb"
+ },
+ {
+  "de": "fegen",
+  "ar": "يكنس",
+  "pos": "verb"
+ },
+ {
+  "de": "wischen",
+  "ar": "يمسح",
+  "pos": "verb"
+ },
+ {
+  "de": "räumen",
+  "ar": "يلم / يفرغ",
+  "pos": "verb"
+ },
+ {
+  "de": "ordnen",
+  "ar": "يرتب / ينظم",
+  "pos": "verb"
+ },
+ {
+  "de": "sortieren",
+  "ar": "يرتب / يصنف",
+  "pos": "verb"
+ },
+ {
+  "de": "falten",
+  "ar": "يطوي",
+  "pos": "verb"
+ },
+ {
+  "de": "kämmen",
+  "ar": "يمشط",
+  "pos": "verb"
+ },
+ {
+  "de": "rasieren",
+  "ar": "يحلق",
+  "pos": "verb"
+ },
+ {
+  "de": "flüstern",
+  "ar": "يهمس",
+  "pos": "verb"
+ },
+ {
+  "de": "nicken",
+  "ar": "يهز راسه موافقا",
+  "pos": "verb"
+ },
+ {
+  "de": "winken",
+  "ar": "يلوح بإيده",
+  "pos": "verb"
+ },
+ {
+  "de": "deuten",
+  "ar": "يشاور / يدل",
+  "pos": "verb"
+ },
+ {
+  "de": "beißen",
+  "ar": "يعض",
+  "pos": "verb"
+ },
+ {
+  "de": "kratzen",
+  "ar": "يخربش / يحك",
+  "pos": "verb"
+ },
+ {
+  "de": "schütteln",
+  "ar": "يهز / يرج",
+  "pos": "verb"
+ },
+ {
+  "de": "mischen",
+  "ar": "يخلط",
+  "pos": "verb"
+ },
+ {
+  "de": "rühren",
+  "ar": "يقلب (بالمعلقة)",
+  "pos": "verb"
+ },
+ {
+  "de": "gießen",
+  "ar": "يسقي / يصب",
+  "pos": "verb"
+ },
+ {
+  "de": "braten",
+  "ar": "يقلي / يشوي",
+  "pos": "verb"
+ },
+ {
+  "de": "backen",
+  "ar": "يخبز",
+  "pos": "verb"
+ },
+ {
+  "de": "schälen",
+  "ar": "يقشر",
+  "pos": "verb"
+ },
+ {
+  "de": "würzen",
+  "ar": "يتبل",
+  "pos": "verb"
+ },
+ {
+  "de": "probieren",
+  "ar": "يدوق / يجرب",
+  "pos": "verb"
+ },
+ {
+  "de": "Hunger",
+  "ar": "جوع (اسم)",
+  "pos": "noun"
+ },
+ {
+  "de": "Durst",
+  "ar": "عطش",
+  "pos": "noun"
+ },
+ {
+  "de": "Appetit",
+  "ar": "شهية",
+  "pos": "noun"
+ },
+ {
+  "de": "Gericht",
+  "ar": "أكلة / محكمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Mahlzeit",
+  "ar": "وجبة",
+  "pos": "noun"
+ },
+ {
+  "de": "Zutat",
+  "ar": "مكون",
+  "pos": "noun"
+ },
+ {
+  "de": "Rezept",
+  "ar": "وصفة / روشتة",
+  "pos": "noun"
+ },
+ {
+  "de": "Speisekarte",
+  "ar": "منيو",
+  "pos": "noun"
+ },
+ {
+  "de": "Schmerz",
+  "ar": "وجع / ألم",
+  "pos": "noun"
+ },
+ {
+  "de": "Krankheit",
+  "ar": "مرض",
+  "pos": "noun"
+ },
+ {
+  "de": "Grippe",
+  "ar": "إنفلونزا",
+  "pos": "noun"
+ },
+ {
+  "de": "Erkältung",
+  "ar": "برد / زكام",
+  "pos": "noun"
+ },
+ {
+  "de": "Fieber",
+  "ar": "سخونية",
+  "pos": "noun"
+ },
+ {
+  "de": "Husten",
+  "ar": "كحة",
+  "pos": "noun"
+ },
+ {
+  "de": "Schnupfen",
+  "ar": "زكام",
+  "pos": "noun"
+ },
+ {
+  "de": "Allergie",
+  "ar": "حساسية",
+  "pos": "noun"
+ },
+ {
+  "de": "Wunde",
+  "ar": "جرح",
+  "pos": "noun"
+ },
+ {
+  "de": "Narbe",
+  "ar": "أثر الجرح",
+  "pos": "noun"
+ },
+ {
+  "de": "Knochen",
+  "ar": "عظمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Muskel",
+  "ar": "عضلة",
+  "pos": "noun"
+ },
+ {
+  "de": "Nerv",
+  "ar": "عصب",
+  "pos": "noun"
+ },
+ {
+  "de": "Gehirn",
+  "ar": "مخ",
+  "pos": "noun"
+ },
+ {
+  "de": "Lunge",
+  "ar": "رئة",
+  "pos": "noun"
+ },
+ {
+  "de": "Leber",
+  "ar": "كبد",
+  "pos": "noun"
+ },
+ {
+  "de": "Niere",
+  "ar": "كلية",
+  "pos": "noun"
+ },
+ {
+  "de": "Magen",
+  "ar": "معدة",
+  "pos": "noun"
+ },
+ {
+  "de": "Darm",
+  "ar": "أمعاء",
+  "pos": "noun"
+ },
+ {
+  "de": "Rücken",
+  "ar": "ضهر",
+  "pos": "noun"
+ },
+ {
+  "de": "Schulter",
+  "ar": "كتف",
+  "pos": "noun"
+ },
+ {
+  "de": "Knie",
+  "ar": "ركبة",
+  "pos": "noun"
+ },
+ {
+  "de": "Ellbogen",
+  "ar": "كوع",
+  "pos": "noun"
+ },
+ {
+  "de": "Hals",
+  "ar": "رقبة / زور",
+  "pos": "noun"
+ },
+ {
+  "de": "Kehle",
+  "ar": "حلق / زور",
+  "pos": "noun"
+ },
+ {
+  "de": "Lippe",
+  "ar": "شفة",
+  "pos": "noun"
+ },
+ {
+  "de": "Zunge",
+  "ar": "لسان",
+  "pos": "noun"
+ },
+ {
+  "de": "Stirn",
+  "ar": "جبهة / نصيص",
+  "pos": "noun"
+ },
+ {
+  "de": "Wange",
+  "ar": "خد",
+  "pos": "noun"
+ },
+ {
+  "de": "Kinn",
+  "ar": "دقن",
+  "pos": "noun"
+ },
+ {
+  "de": "Bart",
+  "ar": "دقن (شعر)",
+  "pos": "noun"
+ },
+ {
+  "de": "Hautfarbe",
+  "ar": "لون البشرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Atem",
+  "ar": "نفس / شهيق وزفير",
+  "pos": "noun"
+ },
+ {
+  "de": "Puls",
+  "ar": "نبض",
+  "pos": "noun"
+ },
+ {
+  "de": "Blutdruck",
+  "ar": "ضغط الدم",
+  "pos": "noun"
+ },
+ {
+  "de": "frisch",
+  "ar": "فريش / طازة",
+  "pos": "adj"
+ },
+ {
+  "de": "warm",
+  "ar": "دافي",
+  "pos": "adj"
+ },
+ {
+  "de": "weit",
+  "ar": "بعيد",
+  "pos": "adj"
+ },
+ {
+  "de": "nah",
+  "ar": "قريب",
+  "pos": "adj"
+ },
+ {
+  "de": "entfernt",
+  "ar": "بعيد",
+  "pos": "adj"
+ },
+ {
+  "de": "fremd",
+  "ar": "غريب / أجنبي",
+  "pos": "adj"
+ },
+ {
+  "de": "eigen",
+  "ar": "خاص بيه / بتاعه هو",
+  "pos": "adj"
+ },
+ {
+  "de": "gemeinsam",
+  "ar": "مشترك / مع بعض",
+  "pos": "adj"
+ },
+ {
+  "de": "einzeln",
+  "ar": "منفرد / بالواحدة",
+  "pos": "adj"
+ },
+ {
+  "de": "doppelt",
+  "ar": "مزدوج / دبل",
+  "pos": "adj"
+ },
+ {
+  "de": "mehrfach",
+  "ar": "متكرر / أكتر من مرة",
+  "pos": "adj"
+ },
+ {
+  "de": "vollständig",
+  "ar": "كامل",
+  "pos": "adj"
+ },
+ {
+  "de": "unvollständig",
+  "ar": "ناقص / مش كامل",
+  "pos": "adj"
+ },
+ {
+  "de": "fertig",
+  "ar": "جاهز / خلصان",
+  "pos": "adj"
+ },
+ {
+  "de": "bereit",
+  "ar": "جاهز / مستعد",
+  "pos": "adj"
+ },
+ {
+  "de": "beschäftigt",
+  "ar": "مشغول",
+  "pos": "adj"
+ },
+ {
+  "de": "pünktlich",
+  "ar": "دقيق في المعاد",
+  "pos": "adj"
+ },
+ {
+  "de": "zeitig",
+  "ar": "في وقته / بدري",
+  "pos": "adj"
+ },
+ {
+  "de": "plötzlich",
+  "ar": "فجائي",
+  "pos": "adj"
+ },
+ {
+  "de": "allmählich",
+  "ar": "تدريجي",
+  "pos": "adj"
+ },
+ {
+  "de": "ständig",
+  "ar": "طول الوقت",
+  "pos": "adj"
+ },
+ {
+  "de": "dauerhaft",
+  "ar": "دايم / مستمر",
+  "pos": "adj"
+ },
+ {
+  "de": "vorübergehend",
+  "ar": "مؤقت",
+  "pos": "adj"
+ },
+ {
+  "de": "ewig",
+  "ar": "أبدي",
+  "pos": "adj"
+ },
+ {
+  "de": "täglich",
+  "ar": "يومي",
+  "pos": "adj"
+ },
+ {
+  "de": "wöchentlich",
+  "ar": "أسبوعي",
+  "pos": "adj"
+ },
+ {
+  "de": "monatlich",
+  "ar": "شهري",
+  "pos": "adj"
+ },
+ {
+  "de": "jährlich",
+  "ar": "سنوي",
+  "pos": "adj"
+ },
+ {
+  "de": "morgendlich",
+  "ar": "صباحي",
+  "pos": "adj"
+ },
+ {
+  "de": "nächtlich",
+  "ar": "ليلي",
+  "pos": "adj"
+ },
+ {
+  "de": "wochentäglich",
+  "ar": "يوم شغل",
+  "pos": "adj"
+ },
+ {
+  "de": "öffentlich",
+  "ar": "عمومي",
+  "pos": "adj"
+ },
+ {
+  "de": "staatlich",
+  "ar": "حكومي",
+  "pos": "adj"
+ },
+ {
+  "de": "kommunal",
+  "ar": "بلدي / محلي",
+  "pos": "adj"
+ },
+ {
+  "de": "national",
+  "ar": "قومي / وطني",
+  "pos": "adj"
+ },
+ {
+  "de": "international",
+  "ar": "دولي",
+  "pos": "adj"
+ },
+ {
+  "de": "lokal",
+  "ar": "محلي",
+  "pos": "adj"
+ },
+ {
+  "de": "regional",
+  "ar": "محلي / إقليمي",
+  "pos": "adj"
+ },
+ {
+  "de": "global",
+  "ar": "عالمي",
+  "pos": "adj"
+ },
+ {
+  "de": "europäisch",
+  "ar": "أوروبي",
+  "pos": "adj"
+ },
+ {
+  "de": "deutsch",
+  "ar": "ألماني",
+  "pos": "adj"
+ },
+ {
+  "de": "ägyptisch",
+  "ar": "مصري",
+  "pos": "adj"
+ },
+ {
+  "de": "arabisch",
+  "ar": "عربي",
+  "pos": "adj"
+ },
+ {
+  "de": "englisch",
+  "ar": "إنجليزي",
+  "pos": "adj"
+ }
+]
