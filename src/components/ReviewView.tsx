@@ -30,7 +30,7 @@ export default function ReviewView() {
   if (!ready) return <p role="status" className="text-muted">{t("بنحمّل تقدمك...","Loading your progress...")}</p>;
   return (
     <div className="space-y-6">
-      <h1 className="ar-title text-4xl font-bold">{t('راجع أخطاءك', 'Review your mistakes')}</h1>
+      <h2 className="ar-title text-2xl font-bold">{t('تدريبات أخطاء الجرامر', 'Grammar mistake drills')}</h2>
       <p className="text-muted">{t('دي أسئلة القواعد اللي إجاباتك الغلط فيها أكتر من الصح في السجل المحفوظ. الإجابة الصح بتزوّد عداد الصح، مش بتمسح تاريخ الغلط. القائمة بتفضل زي ما هي طول الجولة. اضغط على تحديث القائمة عشان تشوف الأسئلة اللي لسه محتاجة مراجعة.', 'These grammar exercises have more saved wrong answers than correct ones. A correct answer adds to the correct count; it does not erase past errors. The round stays fixed. Refresh to see which exercises still need review.')}</p>
       <p className="text-sm text-muted">{t('السجل ده على المتصفح والجهاز ده، مش تشخيص مستوى. صفحة المراجعة اليومية بتجمع أنواع تانية من الأسئلة المحفوظة.','This browser/device record is not a proficiency diagnosis. Daily review also covers other supported saved question types.')}</p><div className="flex flex-wrap gap-3"><button onClick={()=>{answered.current.clear();setDone({});setRound(r=>r+1)}} className="rounded-full border border-line px-5 py-3">{t('حدث قائمة الجولة','Refresh round list')}</button><Link className="rounded-full border border-line px-5 py-3" href="/review/daily/">{t('المراجعة اليومية الأوسع','Wider daily review')}</Link></div>
       {list.length === 0 ? (
