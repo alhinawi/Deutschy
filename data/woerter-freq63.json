@@ -1,0 +1,565 @@
+[
+ {
+  "de": "Brühe",
+  "ar": "الشوربة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Brühen"
+ },
+ {
+  "de": "Betäubungsmittelgesetz",
+  "ar": "قانون المخدرات",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Bubble",
+  "ar": "الفقاعة (سوشيال)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bubbles"
+ },
+ {
+  "de": "Buchautor",
+  "ar": "مؤلف الكتب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Buchautoren"
+ },
+ {
+  "de": "Buchclub",
+  "ar": "نادي الكتاب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Buchclubs"
+ },
+ {
+  "de": "Buchführung",
+  "ar": "المحاسبة الدفترية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Buchhalter",
+  "ar": "المحاسب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Buchhalter"
+ },
+ {
+  "de": "Buchhändlerin",
+  "ar": "بياعة الكتب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Buchhändlerinnen"
+ },
+ {
+  "de": "Buchladen",
+  "ar": "محل الكتب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Buchläden"
+ },
+ {
+  "de": "Buchreihe",
+  "ar": "سلسلة الكتب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Buchreihen"
+ },
+ {
+  "de": "Buchtipp",
+  "ar": "ترشيح كتاب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Buchtipps"
+ },
+ {
+  "de": "Buchungsdatum",
+  "ar": "تاريخ الحجز",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Buchungsdaten"
+ },
+ {
+  "de": "Buchungsplattform",
+  "ar": "منصة الحجز",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Buchungsplattformen"
+ },
+ {
+  "de": "Buchverfilmung",
+  "ar": "فيلم مبني على كتاب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Buchverfilmungen"
+ },
+ {
+  "de": "Buchvorstellung",
+  "ar": "عرض كتاب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Buchvorstellungen"
+ },
+ {
+  "de": "Buchwert",
+  "ar": "القيمة الدفترية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Buchwerte"
+ },
+ {
+  "de": "Buckelwal",
+  "ar": "الحوت الأحدب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Buckelwale"
+ },
+ {
+  "de": "Buddhist",
+  "ar": "البوذي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Buddhisten"
+ },
+ {
+  "de": "Budgetdefizit",
+  "ar": "عجز الميزانية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Budgetdefizite"
+ },
+ {
+  "de": "Budgetierung",
+  "ar": "إعداد الميزانية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Budgetierungen"
+ },
+ {
+  "de": "Buffetbereich",
+  "ar": "منطقة البوفيه",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Buffetbereiche"
+ },
+ {
+  "de": "Bulgare",
+  "ar": "البلغاري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bulgaren"
+ },
+ {
+  "de": "Bulgursalat",
+  "ar": "سلطة البرغل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bulgursalate"
+ },
+ {
+  "de": "Bulle",
+  "ar": "الثور / البوليس (عامية)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bullen"
+ },
+ {
+  "de": "Bummel",
+  "ar": "المشوار الهادي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bummel"
+ },
+ {
+  "de": "Bundesagentur",
+  "ar": "الوكالة الاتحادية (للعمل)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bundesagenturen"
+ },
+ {
+  "de": "Bundesanleihe",
+  "ar": "سند اتحادي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bundesanleihen"
+ },
+ {
+  "de": "Bundesbank",
+  "ar": "البنك المركزي الألماني",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bundesbankchef",
+  "ar": "رئيس البنك المركزي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bundesbankchefs"
+ },
+ {
+  "de": "Bundesbeauftragte",
+  "ar": "المفوض الاتحادي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bundesbeauftragten"
+ },
+ {
+  "de": "Bundesbehörde",
+  "ar": "الهيئة الاتحادية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bundesbehörden"
+ },
+ {
+  "de": "Bundesdurchschnitt",
+  "ar": "المتوسط الاتحادي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bundesdurchschnitte"
+ },
+ {
+  "de": "Bundesfinanzministerium",
+  "ar": "وزارة المالية الاتحادية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Bundeshauptstadt",
+  "ar": "العاصمة الاتحادية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bundeshauptstädte"
+ },
+ {
+  "de": "Bundesinnenminister",
+  "ar": "وزير الداخلية الاتحادي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bundesinnenminister"
+ },
+ {
+  "de": "Bundesjustizministerium",
+  "ar": "وزارة العدل الاتحادية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Bundeskanzleramt",
+  "ar": "مكتب المستشار الاتحادي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Bundeskanzlerin",
+  "ar": "المستشارة الاتحادية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bundeskanzlerinnen"
+ },
+ {
+  "de": "Bundesliga-Aufsteiger",
+  "ar": "الصاعد للبوندسليجا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bundesliga-Aufsteiger"
+ },
+ {
+  "de": "Bundesliga-Debüt",
+  "ar": "الظهور الأول في البوندسليجا",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bundesliga-Debüts"
+ },
+ {
+  "de": "Bundesliga-Profi",
+  "ar": "محترف البوندسليجا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bundesliga-Profis"
+ },
+ {
+  "de": "Bundesligaspiel",
+  "ar": "ماتش البوندسليجا",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bundesligaspiele"
+ },
+ {
+  "de": "Bundesligaspieler",
+  "ar": "لاعب البوندسليجا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bundesligaspieler"
+ },
+ {
+  "de": "Bundesministerin",
+  "ar": "الوزيرة الاتحادية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bundesministerinnen"
+ },
+ {
+  "de": "Bundesnetzagentur",
+  "ar": "وكالة الشبكات الاتحادية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bundesparteitag",
+  "ar": "مؤتمر الحزب الاتحادي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bundesparteitage"
+ },
+ {
+  "de": "Bundespräsidentin",
+  "ar": "الرئيسة الاتحادية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bundespräsidentinnen"
+ },
+ {
+  "de": "Bundesratspräsident",
+  "ar": "رئيس مجلس الولايات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bundesratspräsidenten"
+ },
+ {
+  "de": "Bundesrechnungshof",
+  "ar": "محكمة الحسابات الاتحادية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Bundessozialgericht",
+  "ar": "المحكمة الاجتماعية الاتحادية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Bundestagsdebatte",
+  "ar": "نقاش البوندستاج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bundestagsdebatten"
+ },
+ {
+  "de": "Bundestagsvizepräsident",
+  "ar": "نائب رئيس البوندستاج",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bundestagsvizepräsidenten"
+ },
+ {
+  "de": "Bundestagswahlkampf",
+  "ar": "حملة انتخابات البوندستاج",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bundestagswahlkämpfe"
+ },
+ {
+  "de": "Bundestrainer",
+  "ar": "المدرب الوطني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bundestrainer"
+ },
+ {
+  "de": "Bundesverdienstkreuz",
+  "ar": "وسام الاستحقاق الاتحادي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bundesverdienstkreuze"
+ },
+ {
+  "de": "Bundesverkehrsministerium",
+  "ar": "وزارة النقل الاتحادية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Bundesversammlung",
+  "ar": "الجمعية الاتحادية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bundesversammlungen"
+ },
+ {
+  "de": "Bundesverteidigungsministerium",
+  "ar": "وزارة الدفاع الاتحادية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Bundesverwaltungsgericht",
+  "ar": "المحكمة الإدارية الاتحادية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Bundesvorsitzende",
+  "ar": "الرئيس الاتحادي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bundesvorsitzenden"
+ },
+ {
+  "de": "Bundeswahl",
+  "ar": "الانتخابات الاتحادية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bundeswahlen"
+ },
+ {
+  "de": "Bundeswehrangehörige",
+  "ar": "عضو الجيش",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bundeswehrangehörigen"
+ },
+ {
+  "de": "Bundeswehrsoldat",
+  "ar": "جندي الجيش",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bundeswehrsoldaten"
+ },
+ {
+  "de": "Bungalow",
+  "ar": "البانجلو",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bungalows"
+ },
+ {
+  "de": "Bungee",
+  "ar": "القفز بالحبل",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Burgruine",
+  "ar": "أطلال القلعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Burgruinen"
+ },
+ {
+  "de": "Burnout",
+  "ar": "الاحتراق النفسي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Busfahrerin",
+  "ar": "سواقة الباص",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Busfahrerinnen"
+ },
+ {
+  "de": "Businessclass",
+  "ar": "درجة رجال الأعمال",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Businessfrau",
+  "ar": "سيدة الأعمال",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Businessfrauen"
+ },
+ {
+  "de": "Busspur",
+  "ar": "حارة الباص",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Busspuren"
+ },
+ {
+  "de": "Busterminal",
+  "ar": "محطة الباصات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Busterminals"
+ },
+ {
+  "de": "Busunternehmen",
+  "ar": "شركة الباصات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Busunternehmen"
+ },
+ {
+  "de": "Butterschmalz",
+  "ar": "السمن النقي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Bußgeldverfahren",
+  "ar": "إجراء الغرامة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bußgeldverfahren"
+ },
+ {
+  "de": "Bänderriss",
+  "ar": "قطع الأربطة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bänderrisse"
+ },
+ {
+  "de": "Bärin",
+  "ar": "الدببة (أنثى)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bärinnen"
+ },
+ {
+  "de": "Bärlauch",
+  "ar": "الثوم البري",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Böller",
+  "ar": "البومبة (مفرقعة)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Böller"
+ },
+ {
+  "de": "Börek",
+  "ar": "البوريك",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Böreks"
+ },
+ {
+  "de": "Börsenaufsicht",
+  "ar": "رقابة البورصة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Börsendebüt",
+  "ar": "الظهور الأول في البورصة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Börsendebüts"
+ },
+ {
+  "de": "Börsengang",
+  "ar": "الطرح في البورصة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Börsengänge"
+ }
+]
