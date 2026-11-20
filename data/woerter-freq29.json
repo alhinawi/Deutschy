@@ -1,0 +1,992 @@
+[
+ {
+  "de": "Einbahnstraße",
+  "ar": "شارع اتجاه واحد",
+  "pos": "noun"
+ },
+ {
+  "de": "Einbau",
+  "ar": "تركيب / دمج",
+  "pos": "noun"
+ },
+ {
+  "de": "Einfahrt",
+  "ar": "مدخل جراج",
+  "pos": "noun"
+ },
+ {
+  "de": "Eingangsbereich",
+  "ar": "منطقة المدخل",
+  "pos": "noun"
+ },
+ {
+  "de": "Einigkeit",
+  "ar": "اتفاق / وحدة رأي",
+  "pos": "noun"
+ },
+ {
+  "de": "Einmalzahlung",
+  "ar": "دفعة واحدة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Einmündung",
+  "ar": "تقاطع / مصب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Einordnung",
+  "ar": "تصنيف / تقييم",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Einsatzort",
+  "ar": "مكان البلاغ",
+  "pos": "noun"
+ },
+ {
+  "de": "Einschlag",
+  "ar": "سقوط / اصطدام",
+  "pos": "noun"
+ },
+ {
+  "de": "Eintauchen",
+  "ar": "الغوص في",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Einvernahme",
+  "ar": "استجواب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Einwilligung",
+  "ar": "موافقة رسمية",
+  "pos": "noun"
+ },
+ {
+  "de": "Einzugsgebiet",
+  "ar": "منطقة نفوذ",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Elektroroller",
+  "ar": "سكوتر كهربائي",
+  "pos": "noun"
+ },
+ {
+  "de": "Elfmeterpunkt",
+  "ar": "علامة الجزا",
+  "pos": "noun"
+ },
+ {
+  "de": "Elternteil",
+  "ar": "الأب أو الأم",
+  "pos": "noun"
+ },
+ {
+  "de": "Energiepreis",
+  "ar": "أسعار الطاقة",
+  "pos": "noun"
+ },
+ {
+  "de": "Energieträger",
+  "ar": "حامل طاقة",
+  "pos": "noun"
+ },
+ {
+  "de": "Entertainer",
+  "ar": "فنان استعراضي",
+  "pos": "noun"
+ },
+ {
+  "de": "Enthüllung",
+  "ar": "كشف فضايح",
+  "pos": "noun"
+ },
+ {
+  "de": "Entlassungswelle",
+  "ar": "موجة تسريح",
+  "pos": "noun"
+ },
+ {
+  "de": "Entschädigung",
+  "ar": "تعويض",
+  "pos": "noun"
+ },
+ {
+  "de": "Epizentrum",
+  "ar": "بؤرة الزلزال",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Erhebung",
+  "ar": "مسح / استطلاع",
+  "pos": "noun"
+ },
+ {
+  "de": "Erlösung",
+  "ar": "خلاص / فداء",
+  "pos": "noun"
+ },
+ {
+  "de": "Ermittlungsstand",
+  "ar": "وضع التحقيقات",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Ermordung",
+  "ar": "اغتيال / قتل",
+  "pos": "noun"
+ },
+ {
+  "de": "Erreichbarkeit",
+  "ar": "سهولة الوصول",
+  "pos": "noun"
+ },
+ {
+  "de": "Errichtung",
+  "ar": "إقامة / تشييد",
+  "pos": "noun"
+ },
+ {
+  "de": "Ersatztermin",
+  "ar": "ميعاد بديل",
+  "pos": "noun"
+ },
+ {
+  "de": "Erscheinungsbild",
+  "ar": "الهيئة العامة",
+  "pos": "noun"
+ },
+ {
+  "de": "Erstarken",
+  "ar": "تعاظم قوة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Erwerb",
+  "ar": "اقتناء / شراء",
+  "pos": "noun"
+ },
+ {
+  "de": "Erzdiözese",
+  "ar": "الأبرشية الكبرى",
+  "pos": "noun"
+ },
+ {
+  "de": "Erzeugerpreis",
+  "ar": "أسعار المنتجين",
+  "pos": "noun"
+ },
+ {
+  "de": "Erzeugnis",
+  "ar": "منتجات",
+  "pos": "noun"
+ },
+ {
+  "de": "Erzählung",
+  "ar": "حكايات / روايات",
+  "pos": "noun"
+ },
+ {
+  "de": "Eröffnungsspiel",
+  "ar": "ماتش الافتتاح",
+  "pos": "noun"
+ },
+ {
+  "de": "Etablierung",
+  "ar": "ترسيخ",
+  "pos": "noun"
+ },
+ {
+  "de": "Europäer",
+  "ar": "الأوروبيين",
+  "pos": "noun"
+ },
+ {
+  "de": "Ex-Profi",
+  "ar": "لاعب معتزل",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Ex-Spieler",
+  "ar": "اللاعب السابق",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Exemplar",
+  "ar": "نسخة من كتاب",
+  "pos": "noun"
+ },
+ {
+  "de": "Exil",
+  "ar": "المنفى",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Extremist",
+  "ar": "متطرفين",
+  "pos": "noun"
+ },
+ {
+  "de": "Facette",
+  "ar": "وجوه / جوانب",
+  "pos": "noun"
+ },
+ {
+  "de": "Fachbereichsleiter",
+  "ar": "رئيس القسم",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Fachfrau",
+  "ar": "الخبيرة (ست)",
+  "pos": "noun"
+ },
+ {
+  "de": "Fachjury",
+  "ar": "لجنة تحكيم متخصصة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fachzeitschrift",
+  "ar": "مجلة متخصصة",
+  "pos": "noun"
+ },
+ {
+  "de": "Fahrbahnrand",
+  "ar": "حرف الطريق",
+  "pos": "noun"
+ },
+ {
+  "de": "Fahrerlaubnis",
+  "ar": "رخصة قيادة",
+  "pos": "noun"
+ },
+ {
+  "de": "Fahrradstraße",
+  "ar": "شارع عجل",
+  "pos": "noun"
+ },
+ {
+  "de": "Fahrzeugführer",
+  "ar": "سواق المركبة",
+  "pos": "noun"
+ },
+ {
+  "de": "Falschinformation",
+  "ar": "أخبار مفبركة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Familienmitglied",
+  "ar": "فرد من العيلة",
+  "pos": "noun"
+ },
+ {
+  "de": "Fasnacht",
+  "ar": "كرنفال (النمسا)",
+  "pos": "noun"
+ },
+ {
+  "de": "Fastenzeit",
+  "ar": "فترة الصوم",
+  "pos": "noun"
+ },
+ {
+  "de": "Favoritin",
+  "ar": "المرشحة الأقوى",
+  "pos": "noun"
+ },
+ {
+  "de": "Feierabendmarkt",
+  "ar": "سوق بعد الشغل",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Ferienbeginn",
+  "ar": "بداية الأجازة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Fernost",
+  "ar": "الشرق الأقصى",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Fernsehinterview",
+  "ar": "لقاء تلفزيوني",
+  "pos": "noun"
+ },
+ {
+  "de": "Festakt",
+  "ar": "احتفالية رسمية",
+  "pos": "noun"
+ },
+ {
+  "de": "Festspiel",
+  "ar": "مهرجانات فنية",
+  "pos": "noun"
+ },
+ {
+  "de": "Feststellung",
+  "ar": "استنتاج / تأكيد",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Feuerwehreinsatz",
+  "ar": "تدخل المطافي",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Feuerwehrfrau",
+  "ar": "مطفجية (ست)",
+  "pos": "noun"
+ },
+ {
+  "de": "Feuerwehrhaus",
+  "ar": "محطة مطافي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Feuerwerkskörper",
+  "ar": "ألعاب نارية",
+  "pos": "noun"
+ },
+ {
+  "de": "Fiktion",
+  "ar": "خيال / فنتازيا",
+  "pos": "noun"
+ },
+ {
+  "de": "Filmemacher",
+  "ar": "صانع أفلام",
+  "pos": "noun"
+ },
+ {
+  "de": "Filmmusik",
+  "ar": "موسيقى تصويرية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Filmstar",
+  "ar": "نجم سينما",
+  "pos": "noun"
+ },
+ {
+  "de": "Finanzamt",
+  "ar": "مصلحة الضرايب",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Finanzmarkt",
+  "ar": "الأسواق المالية",
+  "pos": "noun"
+ },
+ {
+  "de": "Firmenstandort",
+  "ar": "مقر الشركة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Firmenzentrale",
+  "ar": "المركز الرئيسي",
+  "pos": "noun"
+ },
+ {
+  "de": "Fischerei",
+  "ar": "صيد السمك",
+  "pos": "noun"
+ },
+ {
+  "de": "Flaschenwurf",
+  "ar": "رمي ازايز",
+  "pos": "noun"
+ },
+ {
+  "de": "Flitterwochen",
+  "ar": "شهر العسل",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "Flosse",
+  "ar": "زعنفة",
+  "pos": "noun"
+ },
+ {
+  "de": "Flyer",
+  "ar": "منشور دعائي",
+  "pos": "noun"
+ },
+ {
+  "de": "Flüchtlingsunterkunft",
+  "ar": "مسكن لاجئين",
+  "pos": "noun"
+ },
+ {
+  "de": "Fokussierung",
+  "ar": "تركيز",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Folgezeit",
+  "ar": "الفترة اللي بعدها",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Forschungsprojekt",
+  "ar": "مشروع بحثي",
+  "pos": "noun"
+ },
+ {
+  "de": "Forsthaus",
+  "ar": "بيت الغابة",
+  "pos": "noun"
+ },
+ {
+  "de": "Franchise",
+  "ar": "فرانشايز",
+  "pos": "noun"
+ },
+ {
+  "de": "Freistil",
+  "ar": "سباحة حرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Freizeitmöglichkeit",
+  "ar": "أنشطة وقت الفراغ",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Friedensverhandlung",
+  "ar": "محادثات سلام",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fußball-EM",
+  "ar": "يورو الكورة",
+  "pos": "noun"
+ },
+ {
+  "de": "Fußball-Kreisliga",
+  "ar": "دوري القسم",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fußballgeschichte",
+  "ar": "تاريخ الكورة",
+  "pos": "noun"
+ },
+ {
+  "de": "Förderverein",
+  "ar": "جمعية دعم",
+  "pos": "noun"
+ },
+ {
+  "de": "Fünf-Prozent-Hürde",
+  "ar": "حاجز الخمسة بالمية",
+  "pos": "noun"
+ },
+ {
+  "de": "Fünfter",
+  "ar": "الخامس",
+  "pos": "noun"
+ },
+ {
+  "de": "Gala",
+  "ar": "حفلة فخمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Gastbeitrag",
+  "ar": "مقال ضيف",
+  "pos": "noun"
+ },
+ {
+  "de": "Gastronom",
+  "ar": "صاحب مطعم",
+  "pos": "noun"
+ },
+ {
+  "de": "Gaststätte",
+  "ar": "مطعم شعبي",
+  "pos": "noun"
+ },
+ {
+  "de": "Gefahrenzone",
+  "ar": "منطقة خطر",
+  "pos": "noun"
+ },
+ {
+  "de": "Gefährdungslage",
+  "ar": "وضع الخطر",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gefäß",
+  "ar": "أواني / أوعية دموية",
+  "pos": "noun"
+ },
+ {
+  "de": "Gegenkandidat",
+  "ar": "المرشح المنافس",
+  "pos": "noun"
+ },
+ {
+  "de": "Gegenpressing",
+  "ar": "ضغط عكسي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Gegenwind",
+  "ar": "رياح معاكسة",
+  "pos": "noun"
+ },
+ {
+  "de": "Geheimtipp",
+  "ar": "مكان سر مميز",
+  "pos": "noun"
+ },
+ {
+  "de": "Geiger",
+  "ar": "عازف كمان",
+  "pos": "noun"
+ },
+ {
+  "de": "Geiselnahme",
+  "ar": "احتجاز رهائن",
+  "pos": "noun"
+ },
+ {
+  "de": "Geländer",
+  "ar": "درابزين",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Gemeinschaftsschule",
+  "ar": "مدرسة مجتمعية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Generaldirektor",
+  "ar": "المدير العام",
+  "pos": "noun"
+ },
+ {
+  "de": "Generationenwechsel",
+  "ar": "تغيير الأجيال",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Gerüst",
+  "ar": "سقالات",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Gesamtfläche",
+  "ar": "المساحة الكلية",
+  "pos": "noun"
+ },
+ {
+  "de": "Gesamtleistung",
+  "ar": "الأداء العام",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gesamtwertung",
+  "ar": "الترتيب العام",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Geschick",
+  "ar": "براعة / قدر",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Geschäftsmodell",
+  "ar": "نموذج عمل",
+  "pos": "noun"
+ },
+ {
+  "de": "Geschäftswelt",
+  "ar": "عالم البيزنس",
+  "pos": "noun"
+ },
+ {
+  "de": "Gestein",
+  "ar": "صخور",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Gewalthilfegesetz",
+  "ar": "قانون حماية من العنف",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Gewand",
+  "ar": "رداء / لبس",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Gewerbe",
+  "ar": "نشاط تجاري",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Gewerbetreibende",
+  "ar": "أصحاب محلات",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Girokonto",
+  "ar": "حساب جاري",
+  "pos": "noun"
+ },
+ {
+  "de": "Gleiche",
+  "ar": "نفس الحاجة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Gläubiger",
+  "ar": "دائنين",
+  "pos": "noun"
+ },
+ {
+  "de": "Grenzgänger",
+  "ar": "متخطي حدود",
+  "pos": "noun"
+ },
+ {
+  "de": "Grenzregion",
+  "ar": "منطقة حدودية",
+  "pos": "noun"
+ },
+ {
+  "de": "Großveranstaltung",
+  "ar": "فعاليات ضخمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Grundeigentümer",
+  "ar": "مالك الأرض",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Grundlagenforschung",
+  "ar": "أبحاث أساسية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Grundsatz",
+  "ar": "مبدأ أساسي",
+  "pos": "noun"
+ },
+ {
+  "de": "Grundschüler",
+  "ar": "تلميذ ابتدائي",
+  "pos": "noun"
+ },
+ {
+  "de": "Grundsicherung",
+  "ar": "الحد الأدنى من المعاش",
+  "pos": "noun"
+ },
+ {
+  "de": "Grundstein",
+  "ar": "حجر الأساس",
+  "pos": "noun"
+ },
+ {
+  "de": "Grundversorgung",
+  "ar": "الرعاية الأساسية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Grünen-Chefin",
+  "ar": "زعيمة الخضر",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gurtretter",
+  "ar": "نظام حزام",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Hallenbad",
+  "ar": "حمام سباحة مغطى",
+  "pos": "noun"
+ },
+ {
+  "de": "Halter",
+  "ar": "مالك / حامل",
+  "pos": "noun"
+ },
+ {
+  "de": "Handball-EM",
+  "ar": "يورو اليد",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Handgepäck",
+  "ar": "شنطة يد",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Handhabe",
+  "ar": "وسيلة / تعامل",
+  "pos": "noun"
+ },
+ {
+  "de": "Handwerker",
+  "ar": "صنايعية",
+  "pos": "noun"
+ },
+ {
+  "de": "Handwerkskunst",
+  "ar": "فن الحرفة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Haupteingang",
+  "ar": "المدخل الرئيسي",
+  "pos": "noun"
+ },
+ {
+  "de": "Hauptsponsor",
+  "ar": "الراعي الرئيسي",
+  "pos": "noun"
+ },
+ {
+  "de": "Hauptversammlung",
+  "ar": "الجمعية العمومية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Hausherrin",
+  "ar": "ربة البيت",
+  "pos": "noun"
+ },
+ {
+  "de": "Hausmittel",
+  "ar": "وصفات بيتية",
+  "pos": "noun"
+ },
+ {
+  "de": "Heimatverein",
+  "ar": "جمعية أهل البلد",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Heimstätte",
+  "ar": "مقر / معقل",
+  "pos": "noun"
+ },
+ {
+  "de": "Hektoliter",
+  "ar": "هيكتولتر",
+  "pos": "noun"
+ },
+ {
+  "de": "Herabsetzung",
+  "ar": "تخفيض",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Herausforderer",
+  "ar": "المتحدي",
+  "pos": "noun"
+ },
+ {
+  "de": "Hereingabe",
+  "ar": "عرضية كورة",
+  "pos": "noun"
+ },
+ {
+  "de": "Herkunftsland",
+  "ar": "بلد المنشأ",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Hilfestellung",
+  "ar": "مساعدة / إرشاد",
+  "pos": "noun"
+ },
+ {
+  "de": "Hilfsgut",
+  "ar": "مساعدات إنسانية",
+  "pos": "noun"
+ },
+ {
+  "de": "Hitzewelle",
+  "ar": "موجات حر",
+  "pos": "noun"
+ },
+ {
+  "de": "Hochwasserlage",
+  "ar": "وضع الفيضان",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Home-Office",
+  "ar": "الشغل من البيت",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Honorar",
+  "ar": "أتعاب",
+  "pos": "noun"
+ },
+ {
+  "de": "Horoskop",
+  "ar": "الأبراج",
+  "pos": "noun"
+ },
+ {
+  "de": "Hubbrücke",
+  "ar": "كوبري متحرك",
+  "pos": "noun"
+ },
+ {
+  "de": "Hubschrauberabsturz",
+  "ar": "سقوط هيليكوبتر",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Hypothese",
+  "ar": "فرضية",
+  "pos": "noun"
+ },
+ {
+  "de": "Häme",
+  "ar": "شماتة",
+  "pos": "noun"
+ },
+ {
+  "de": "Häufigkeit",
+  "ar": "معدل التكرار",
+  "pos": "noun"
+ },
+ {
+  "de": "Höchstwert",
+  "ar": "أعلى قيمة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Höhenmeter",
+  "ar": "متر ارتفاع",
+  "pos": "noun"
+ },
+ {
+  "de": "Hülle",
+  "ar": "غلاف / جراب",
+  "pos": "noun"
+ },
+ {
+  "de": "Identifikation",
+  "ar": "تعريف هوية",
+  "pos": "noun"
+ },
+ {
+  "de": "Identifizierung",
+  "ar": "تحديد الهوية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Image",
+  "ar": "صورة ذهنية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Impfstoff",
+  "ar": "لقاحات",
+  "pos": "noun"
+ },
+ {
+  "de": "Infektionskrankheit",
+  "ar": "أمراض معدية",
+  "pos": "noun"
+ },
+ {
+  "de": "Initiator",
+  "ar": "صاحب المبادرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Innenverteidigung",
+  "ar": "قلب الدفاع",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Insider",
+  "ar": "من الداخل",
+  "pos": "noun"
+ }
+]
