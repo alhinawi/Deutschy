@@ -1,0 +1,1158 @@
+[
+ {
+  "de": "Skandinavien",
+  "ar": "الدول الإسكندنافية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Ski",
+  "ar": "زلاجات تلج",
+  "pos": "noun"
+ },
+ {
+  "de": "Skulptur",
+  "ar": "تماثيل",
+  "pos": "noun"
+ },
+ {
+  "de": "Sommermärchen",
+  "ar": "حكاية صيف (مونديال 2006)",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Sommerspiele",
+  "ar": "أولمبياد الصيف",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "Sonderausstellung",
+  "ar": "معرض خاص",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Soundtrack",
+  "ar": "الموسيقى التصويرية",
+  "pos": "noun"
+ },
+ {
+  "de": "Sozialdemokratie",
+  "ar": "الاشتراكية الديمقراطية",
+  "pos": "noun"
+ },
+ {
+  "de": "Sozialstaat",
+  "ar": "دولة الرفاه",
+  "pos": "noun"
+ },
+ {
+  "de": "Spagat",
+  "ar": "فرجعة / موقف صعب",
+  "pos": "noun"
+ },
+ {
+  "de": "Sparpotenzial",
+  "ar": "فرص توفير",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Spaziergänger",
+  "ar": "ماشي يتمشى",
+  "pos": "noun"
+ },
+ {
+  "de": "Speiseöl",
+  "ar": "زيت طبخ",
+  "pos": "noun"
+ },
+ {
+  "de": "Spezialkräfte",
+  "ar": "قوات خاصة",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "Spielaufbau",
+  "ar": "بناء اللعب",
+  "pos": "noun"
+ },
+ {
+  "de": "Spielerin",
+  "ar": "اللاعبة (ست)",
+  "pos": "noun"
+ },
+ {
+  "de": "Spielplan",
+  "ar": "جدول الماتشات",
+  "pos": "noun"
+ },
+ {
+  "de": "Sport-Geschäftsführer",
+  "ar": "المدير الرياضي",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Sportlerin",
+  "ar": "الرياضية (ست)",
+  "pos": "noun"
+ },
+ {
+  "de": "Sportzentrum",
+  "ar": "مركز رياضي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Spurensicherung",
+  "ar": "رفع الأدلة",
+  "pos": "noun"
+ },
+ {
+  "de": "Staatsanwältin",
+  "ar": "وكيلة النيابة",
+  "pos": "noun"
+ },
+ {
+  "de": "Staatsbesuch",
+  "ar": "زيارة دولة",
+  "pos": "noun"
+ },
+ {
+  "de": "Staatskanzlei",
+  "ar": "ديوان المستشارية",
+  "pos": "noun"
+ },
+ {
+  "de": "Staatspräsident",
+  "ar": "رئيس الدولة",
+  "pos": "noun"
+ },
+ {
+  "de": "Stabilisierung",
+  "ar": "استقرار / تثبيت",
+  "pos": "noun"
+ },
+ {
+  "de": "Stadtbild",
+  "ar": "شكل المدينة",
+  "pos": "noun"
+ },
+ {
+  "de": "Stadtgemeinde",
+  "ar": "بلدية المدينة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Stadtgrenze",
+  "ar": "حدود المدينة",
+  "pos": "noun"
+ },
+ {
+  "de": "Stadtrand",
+  "ar": "أطراف المدينة",
+  "pos": "noun"
+ },
+ {
+  "de": "Stagnation",
+  "ar": "ركود",
+  "pos": "noun"
+ },
+ {
+  "de": "Stalker",
+  "ar": "مطارد / ملاحق",
+  "pos": "noun"
+ },
+ {
+  "de": "Stammspieler",
+  "ar": "لاعب أساسي",
+  "pos": "noun"
+ },
+ {
+  "de": "Start-up",
+  "ar": "شركة ناشئة",
+  "pos": "noun"
+ },
+ {
+  "de": "Startschuss",
+  "ar": "طلقة البداية",
+  "pos": "noun"
+ },
+ {
+  "de": "Stausee",
+  "ar": "بحيرة سد",
+  "pos": "noun"
+ },
+ {
+  "de": "Steg",
+  "ar": "رصيف / كوبري ماشي",
+  "pos": "noun"
+ },
+ {
+  "de": "Stellenabbau",
+  "ar": "تسريح وظايف",
+  "pos": "noun"
+ },
+ {
+  "de": "Sternstunde",
+  "ar": "لحظة مجد",
+  "pos": "noun"
+ },
+ {
+  "de": "Steuererhöhung",
+  "ar": "زيادة ضرايب",
+  "pos": "noun"
+ },
+ {
+  "de": "Steuerrecht",
+  "ar": "قانون الضرايب",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Stichtag",
+  "ar": "تاريخ مرجعي",
+  "pos": "noun"
+ },
+ {
+  "de": "Stichwahl",
+  "ar": "جولة إعادة",
+  "pos": "noun"
+ },
+ {
+  "de": "Stillschweigen",
+  "ar": "صمت / سرية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Stimmungsschwankung",
+  "ar": "تقلبات مزاجية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Stimmzettel",
+  "ar": "ورقة تصويت",
+  "pos": "noun"
+ },
+ {
+  "de": "Strafanzeige",
+  "ar": "بلاغ جنائي",
+  "pos": "noun"
+ },
+ {
+  "de": "Strafkammer",
+  "ar": "دائرة جنح",
+  "pos": "noun"
+ },
+ {
+  "de": "Straftat",
+  "ar": "جريمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Strafverfolgung",
+  "ar": "ملاحقة قضائية",
+  "pos": "noun"
+ },
+ {
+  "de": "Straßenverhältnis",
+  "ar": "حالة الطرق",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Streifzug",
+  "ar": "جولة استكشاف",
+  "pos": "noun"
+ },
+ {
+  "de": "Streitigkeit",
+  "ar": "خلافات",
+  "pos": "noun"
+ },
+ {
+  "de": "Stromausfall",
+  "ar": "قطوع الكهربا",
+  "pos": "noun"
+ },
+ {
+  "de": "Stromerzeugung",
+  "ar": "توليد الكهربا",
+  "pos": "noun"
+ },
+ {
+  "de": "Stromkabel",
+  "ar": "كابل كهربا",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Stromnetz",
+  "ar": "شبكة الكهربا",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Studiengang",
+  "ar": "تخصص دراسي",
+  "pos": "noun"
+ },
+ {
+  "de": "Sturmflut",
+  "ar": "عاصفة فيضان",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Suchaktion",
+  "ar": "عملية بحث",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Sympathie",
+  "ar": "تعاطف / إعجاب",
+  "pos": "noun"
+ },
+ {
+  "de": "Sympathisant",
+  "ar": "متعاطفين",
+  "pos": "noun"
+ },
+ {
+  "de": "Synergie",
+  "ar": "تكامل / تضافر",
+  "pos": "noun"
+ },
+ {
+  "de": "Süddeutschland",
+  "ar": "جنوب ألمانيا",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Südlibanon",
+  "ar": "جنوب لبنان",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Südosten",
+  "ar": "الجنوب الشرقي",
+  "pos": "noun"
+ },
+ {
+  "de": "Sündenbock",
+  "ar": "كبش فدا",
+  "pos": "noun"
+ },
+ {
+  "de": "TV-Experte",
+  "ar": "محلل تلفزيوني",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Tagesverlauf",
+  "ar": "مجريات اليوم",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Tagung",
+  "ar": "مؤتمرات",
+  "pos": "noun"
+ },
+ {
+  "de": "Takt",
+  "ar": "إيقاع / تكتيك",
+  "pos": "noun"
+ },
+ {
+  "de": "Talfahrt",
+  "ar": "نزول / انهيار",
+  "pos": "noun"
+ },
+ {
+  "de": "Talkshow",
+  "ar": "توك شو",
+  "pos": "noun"
+ },
+ {
+  "de": "Tannenbaum",
+  "ar": "شجرة الكريسماس",
+  "pos": "noun"
+ },
+ {
+  "de": "Tarifverhandlung",
+  "ar": "مفاوضات أجور",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Tatzeit",
+  "ar": "وقت الجريمة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Teamkollege",
+  "ar": "زمايل الفريق",
+  "pos": "noun"
+ },
+ {
+  "de": "Technologieunternehmen",
+  "ar": "شركات تكنولوجيا",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Teilnehmerzahl",
+  "ar": "عدد المشاركين",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Tempolimit",
+  "ar": "الحد الأقصى للسرعة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Terrorismus",
+  "ar": "إرهاب",
+  "pos": "noun"
+ },
+ {
+  "de": "These",
+  "ar": "أطروحة / رأي",
+  "pos": "noun"
+ },
+ {
+  "de": "Tiefstwert",
+  "ar": "أدنى قيمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Tiergarten",
+  "ar": "جنينة حيوانات",
+  "pos": "noun"
+ },
+ {
+  "de": "Tierschutz",
+  "ar": "حماية الحيوان",
+  "pos": "noun"
+ },
+ {
+  "de": "Todesfall",
+  "ar": "حالات وفاة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Tombola",
+  "ar": "يانصيب خيري",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Torchance",
+  "ar": "فرصة جون",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Torschuss",
+  "ar": "تسديدة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Totalschaden",
+  "ar": "خسارة كلية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Trainingseinheit",
+  "ar": "وحدة تدريب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Tram",
+  "ar": "ترام",
+  "pos": "noun"
+ },
+ {
+  "de": "Transfermarkt",
+  "ar": "سوق الانتقالات",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Traumschiff",
+  "ar": "مركب الأحلام",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Trinkwasserversorgung",
+  "ar": "إمداد مياه الشرب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Tugend",
+  "ar": "فضيلة",
+  "pos": "noun"
+ },
+ {
+  "de": "Turbulenz",
+  "ar": "مطبات هوائية",
+  "pos": "noun"
+ },
+ {
+  "de": "Turnerin",
+  "ar": "لاعبة جمباز",
+  "pos": "noun"
+ },
+ {
+  "de": "Türke",
+  "ar": "الأتراك",
+  "pos": "noun"
+ },
+ {
+  "de": "U-Haft",
+  "ar": "حبس احتياطي",
+  "pos": "noun"
+ },
+ {
+  "de": "US-Notenbank",
+  "ar": "الفيدرالي الأمريكي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Ukrainerin",
+  "ar": "الأوكرانية (ست)",
+  "pos": "noun"
+ },
+ {
+  "de": "Ultimatum",
+  "ar": "إنذار أخير",
+  "pos": "noun"
+ },
+ {
+  "de": "Umarmung",
+  "ar": "حضن",
+  "pos": "noun"
+ },
+ {
+  "de": "Umbauarbeiten",
+  "ar": "أعمال تعديل",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "Umbenennung",
+  "ar": "إعادة تسمية",
+  "pos": "noun"
+ },
+ {
+  "de": "Umstieg",
+  "ar": "تحويل / تغيير وسيلة",
+  "pos": "noun"
+ },
+ {
+  "de": "Umweg",
+  "ar": "طريق طويل / لفة",
+  "pos": "noun"
+ },
+ {
+  "de": "Umweltministerium",
+  "ar": "وزارة البيئة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Umweltschützer",
+  "ar": "ناشط بيئي",
+  "pos": "noun"
+ },
+ {
+  "de": "Ungerechtigkeit",
+  "ar": "ظلم",
+  "pos": "noun"
+ },
+ {
+  "de": "Unkraut",
+  "ar": "حشائش ضارة",
+  "pos": "noun"
+ },
+ {
+  "de": "Unterbrechung",
+  "ar": "مقاطعة / انقطاع",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Unterbringung",
+  "ar": "إيواء / سكن",
+  "pos": "noun"
+ },
+ {
+  "de": "Unterhändler",
+  "ar": "مفاوض",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Unternehmerfamilie",
+  "ar": "عيلة رجال أعمال",
+  "pos": "noun"
+ },
+ {
+  "de": "Unterseite",
+  "ar": "الصفحة الفرعية",
+  "pos": "noun"
+ },
+ {
+  "de": "Unterzeichnung",
+  "ar": "توقيع رسمي",
+  "pos": "noun"
+ },
+ {
+  "de": "Unzufriedenheit",
+  "ar": "عدم رضا",
+  "pos": "noun"
+ },
+ {
+  "de": "Upgrade",
+  "ar": "ترقية / تحديث",
+  "pos": "noun"
+ },
+ {
+  "de": "Urkunde",
+  "ar": "شهادة رسمية",
+  "pos": "noun"
+ },
+ {
+  "de": "Urkundenfälschung",
+  "ar": "تزوير مستندات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Verarbeitung",
+  "ar": "معالجة / هضم",
+  "pos": "noun"
+ },
+ {
+  "de": "Verbrenner-Aus",
+  "ar": "حظر مواتير البنزين",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Verdachtsfall",
+  "ar": "حالة اشتباه",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Verkaufsstart",
+  "ar": "بدء البيع",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Verkehrschaos",
+  "ar": "زحمة مرورية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Verkehrsinfrastruktur",
+  "ar": "بنية النقل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Verkehrsmittel",
+  "ar": "وسائل مواصلات",
+  "pos": "noun",
+  "art": "das",
+  "pluralOnly": true
+ },
+ {
+  "de": "Verkündung",
+  "ar": "إعلان / بشارة",
+  "pos": "noun"
+ },
+ {
+  "de": "Verlag",
+  "ar": "دار نشر",
+  "pos": "noun"
+ },
+ {
+  "de": "Verleihung",
+  "ar": "منح / توزيع",
+  "pos": "noun"
+ },
+ {
+  "de": "Verletzungspause",
+  "ar": "فترة غياب للإصابة",
+  "pos": "noun"
+ },
+ {
+  "de": "Vermietung",
+  "ar": "تأجير",
+  "pos": "noun"
+ },
+ {
+  "de": "Vermittlung",
+  "ar": "وساطة / توظيف",
+  "pos": "noun"
+ },
+ {
+  "de": "Vernehmen",
+  "ar": "علم / سمع رسمي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Vernissage",
+  "ar": "افتتاح معرض",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Verpackung",
+  "ar": "عبوات / تغليف",
+  "pos": "noun"
+ },
+ {
+  "de": "Versicherer",
+  "ar": "شركات تأمين",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Versteigerung",
+  "ar": "مزاد",
+  "pos": "noun"
+ },
+ {
+  "de": "Verständigung",
+  "ar": "تفاهم / تواصل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Versäumnis",
+  "ar": "تقصير / إهمال",
+  "pos": "noun"
+ },
+ {
+  "de": "Verteidigerin",
+  "ar": "المدافعة (ست)",
+  "pos": "noun"
+ },
+ {
+  "de": "Vertrauter",
+  "ar": "مقرب / مستشار",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Vertreterin",
+  "ar": "الممثلة (ست)",
+  "pos": "noun"
+ },
+ {
+  "de": "Verurteilte",
+  "ar": "المحكوم عليهم",
+  "pos": "noun",
+  "art": "der",
+  "pluralOnly": true
+ },
+ {
+  "de": "Verwaltungsgericht",
+  "ar": "محكمة إدارية",
+  "pos": "noun"
+ },
+ {
+  "de": "Verwaltungsrat",
+  "ar": "مجلس إدارة (سويسرا)",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Videoansprache",
+  "ar": "رسالة فيديو",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Viertelstunde",
+  "ar": "ربع ساعة",
+  "pos": "noun"
+ },
+ {
+  "de": "Vizebürgermeister",
+  "ar": "نائب العمدة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Vizebürgermeisterin",
+  "ar": "نائبة العمدة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Vogelart",
+  "ar": "أنواع طيور",
+  "pos": "noun"
+ },
+ {
+  "de": "Volksbegehren",
+  "ar": "استفتاء شعبي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Volksrepublik",
+  "ar": "جمهورية شعبية",
+  "pos": "noun"
+ },
+ {
+  "de": "Volksverhetzung",
+  "ar": "تحريض شعبي",
+  "pos": "noun"
+ },
+ {
+  "de": "Vollmond",
+  "ar": "بدر كامل",
+  "pos": "noun"
+ },
+ {
+  "de": "Vollsperrung",
+  "ar": "إغلاق تام",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Vollversammlung",
+  "ar": "جمعية عمومية",
+  "pos": "noun"
+ },
+ {
+  "de": "Voraussicht",
+  "ar": "توقع / تقدير",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Vorderrad",
+  "ar": "العجلة الأمامية",
+  "pos": "noun"
+ },
+ {
+  "de": "Vorlauf",
+  "ar": "تمهيد / تسخين",
+  "pos": "noun"
+ },
+ {
+  "de": "Vorratsdatenspeicherung",
+  "ar": "تخزين بيانات الاتصالات",
+  "pos": "noun"
+ },
+ {
+  "de": "Vorzug",
+  "ar": "مزايا",
+  "pos": "noun"
+ },
+ {
+  "de": "Völkermord",
+  "ar": "إبادة جماعية",
+  "pos": "noun"
+ },
+ {
+  "de": "WG",
+  "ar": "سكن مشترك",
+  "pos": "noun"
+ },
+ {
+  "de": "Wagnis",
+  "ar": "مغامرة محسوبة",
+  "pos": "noun"
+ },
+ {
+  "de": "Wahlbeobachter",
+  "ar": "مراقب انتخابات",
+  "pos": "noun"
+ },
+ {
+  "de": "Wahlberechtigte",
+  "ar": "من لهم حق التصويت",
+  "pos": "noun"
+ },
+ {
+  "de": "Wahlgang",
+  "ar": "جولة تصويت",
+  "pos": "noun"
+ },
+ {
+  "de": "Wahlhelfer",
+  "ar": "مساعد انتخابات",
+  "pos": "noun"
+ },
+ {
+  "de": "Wahlkampfauftakt",
+  "ar": "افتتاح الحملة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Wahlkommission",
+  "ar": "لجنة انتخابات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Wahllokal",
+  "ar": "لجان تصويت",
+  "pos": "noun"
+ },
+ {
+  "de": "Wahlnacht",
+  "ar": "ليلة الانتخابات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Waldbesitzer",
+  "ar": "مالك غابة",
+  "pos": "noun"
+ },
+ {
+  "de": "Warentest",
+  "ar": "اختبار المنتجات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Warnstreik",
+  "ar": "إضرابات تحذيرية",
+  "pos": "noun"
+ },
+ {
+  "de": "Wassermenge",
+  "ar": "كميات مياه",
+  "pos": "noun"
+ },
+ {
+  "de": "Weggefährte",
+  "ar": "رفيق درب",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Weihnachtstag",
+  "ar": "يوم الكريسماس",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Weihnachtszeit",
+  "ar": "موسم الكريسماس",
+  "pos": "noun"
+ },
+ {
+  "de": "Weinfest",
+  "ar": "مهرجان النبيت",
+  "pos": "noun"
+ },
+ {
+  "de": "Weingarten",
+  "ar": "كروم عنب",
+  "pos": "noun"
+ },
+ {
+  "de": "Weltgeschehen",
+  "ar": "أحداث العالم",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Weltmeisterin",
+  "ar": "بطلة العالم",
+  "pos": "noun"
+ },
+ {
+  "de": "Weltmeisterschaft",
+  "ar": "بطولات عالم",
+  "pos": "noun"
+ },
+ {
+  "de": "Weltrekord",
+  "ar": "رقم قياسي عالمي",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Weltwirtschaft",
+  "ar": "الاقتصاد العالمي",
+  "pos": "noun"
+ },
+ {
+  "de": "Wendung",
+  "ar": "تحول / تعبير لغوي",
+  "pos": "noun"
+ },
+ {
+  "de": "Werfer",
+  "ar": "رامي (يد/بيسبول)",
+  "pos": "noun"
+ },
+ {
+  "de": "Werksschließung",
+  "ar": "إغلاق مصانع",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Wertschätzung",
+  "ar": "تقدير",
+  "pos": "noun"
+ },
+ {
+  "de": "Wertschöpfung",
+  "ar": "قيمة مضافة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Westdeutschland",
+  "ar": "غرب ألمانيا",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Wettervorhersage",
+  "ar": "توقعات الطقس",
+  "pos": "noun"
+ },
+ {
+  "de": "Widerspruch",
+  "ar": "اعتراض / تناقض",
+  "pos": "noun"
+ },
+ {
+  "de": "Wiederbeginn",
+  "ar": "استئناف",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Wiedereinführung",
+  "ar": "إعادة تطبيق",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Willkür",
+  "ar": "تعسف / عشوائية",
+  "pos": "noun"
+ },
+ {
+  "de": "Wintermonat",
+  "ar": "شهور الشتا",
+  "pos": "noun"
+ },
+ {
+  "de": "Winterreifen",
+  "ar": "كاوتش شتا",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Winzer",
+  "ar": "زارع عنب / نبيتي",
+  "pos": "noun"
+ },
+ {
+  "de": "Wirkstoff",
+  "ar": "مادة فعالة",
+  "pos": "noun"
+ },
+ {
+  "de": "Wirtschaftlichkeit",
+  "ar": "جدوى اقتصادية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Wirtschaftsdaten",
+  "ar": "بيانات اقتصادية",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "Wirtschaftsforschung",
+  "ar": "أبحاث اقتصادية",
+  "pos": "noun"
+ },
+ {
+  "de": "Wirtschaftsförderung",
+  "ar": "تنمية اقتصادية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Wirtschaftsstandort",
+  "ar": "موقع اقتصادي",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Wirtschaftsverband",
+  "ar": "اتحادات أعمال",
+  "pos": "noun"
+ },
+ {
+  "de": "Witterung",
+  "ar": "أحوال جو",
+  "pos": "noun"
+ },
+ {
+  "de": "Woge",
+  "ar": "موجات",
+  "pos": "noun"
+ },
+ {
+  "de": "Wohnbau",
+  "ar": "إسكان",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Wohnsitz",
+  "ar": "محل الإقامة",
+  "pos": "noun",
+  "art": "der"
+ }
+]
