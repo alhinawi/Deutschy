@@ -1,0 +1,887 @@
+[
+ {
+  "de": "haltlos",
+  "ar": "بلا سند / مش متماسك",
+  "pos": "adj"
+ },
+ {
+  "de": "harsch",
+  "ar": "قاسي / حاد",
+  "pos": "adj"
+ },
+ {
+  "de": "hasserfüllt",
+  "ar": "مليان كره",
+  "pos": "adj"
+ },
+ {
+  "de": "hauptamtlich",
+  "ar": "متفرغ (شغل رسمي)",
+  "pos": "adj"
+ },
+ {
+  "de": "hautnah",
+  "ar": "عن قرب جدا",
+  "pos": "adv"
+ },
+ {
+  "de": "hegen",
+  "ar": "يحمل (أمل أو شك)",
+  "pos": "verb"
+ },
+ {
+  "de": "hemmen",
+  "ar": "يعيق / يكبح",
+  "pos": "verb"
+ },
+ {
+  "de": "herablassend",
+  "ar": "متعالي",
+  "pos": "adj"
+ },
+ {
+  "de": "heranwachsen",
+  "ar": "يكبر / يترعرع",
+  "pos": "verb"
+ },
+ {
+  "de": "herausstellen",
+  "ar": "يتضح / يظهر",
+  "pos": "verb"
+ },
+ {
+  "de": "herb",
+  "ar": "مر / حاد",
+  "pos": "adj"
+ },
+ {
+  "de": "herbstlich",
+  "ar": "خريفي",
+  "pos": "adj"
+ },
+ {
+  "de": "herrichten",
+  "ar": "يجهز / يصلح",
+  "pos": "verb"
+ },
+ {
+  "de": "herhalten",
+  "ar": "يقوم بالدور",
+  "pos": "verb"
+ },
+ {
+  "de": "herkömmlich",
+  "ar": "تقليدي",
+  "pos": "adj"
+ },
+ {
+  "de": "herumlaufen",
+  "ar": "يتسكع ملفلف",
+  "pos": "verb"
+ },
+ {
+  "de": "hervorrufen",
+  "ar": "يسبب",
+  "pos": "verb"
+ },
+ {
+  "de": "herzhaft",
+  "ar": "دسم / من القلب",
+  "pos": "adj"
+ },
+ {
+  "de": "hierher",
+  "ar": "لهنا",
+  "pos": "adv"
+ },
+ {
+  "de": "hiesig",
+  "ar": "اللي هنا / المحلي",
+  "pos": "adj"
+ },
+ {
+  "de": "hilflos",
+  "ar": "عاجز",
+  "pos": "adj"
+ },
+ {
+  "de": "hinbekommen",
+  "ar": "يظبطها",
+  "pos": "verb"
+ },
+ {
+  "de": "hingehen",
+  "ar": "يروح",
+  "pos": "verb"
+ },
+ {
+  "de": "hinrichten",
+  "ar": "يعدم",
+  "pos": "verb"
+ },
+ {
+  "de": "hinkommen",
+  "ar": "يوصل / يكفي",
+  "pos": "verb"
+ },
+ {
+  "de": "hinschauen",
+  "ar": "يبص",
+  "pos": "verb"
+ },
+ {
+  "de": "hinüber",
+  "ar": "للناحية التانية",
+  "pos": "adv"
+ },
+ {
+  "de": "hochkarätig",
+  "ar": "رفيع المستوى",
+  "pos": "adj"
+ },
+ {
+  "de": "honorieren",
+  "ar": "يقدر / يكافئ",
+  "pos": "verb"
+ },
+ {
+  "de": "horizontal",
+  "ar": "أفقي",
+  "pos": "adj"
+ },
+ {
+  "de": "humorvoll",
+  "ar": "خفيف الدم",
+  "pos": "adj"
+ },
+ {
+  "de": "hygienisch",
+  "ar": "صحي / نظيف",
+  "pos": "adj"
+ },
+ {
+  "de": "häufen",
+  "ar": "يتراكم",
+  "pos": "verb"
+ },
+ {
+  "de": "höchstwahrscheinlich",
+  "ar": "على الأرجح جدا",
+  "pos": "adv"
+ },
+ {
+  "de": "identisch",
+  "ar": "مطابق",
+  "pos": "adj"
+ },
+ {
+  "de": "ideologisch",
+  "ar": "أيديولوجي",
+  "pos": "adj"
+ },
+ {
+  "de": "implantieren",
+  "ar": "يزرع (طبي)",
+  "pos": "verb"
+ },
+ {
+  "de": "inakzeptabel",
+  "ar": "مش مقبول",
+  "pos": "adj"
+ },
+ {
+  "de": "ineinandergreifen",
+  "ar": "يتشابك ويشتغل سوا",
+  "pos": "verb"
+ },
+ {
+  "de": "infizieren",
+  "ar": "يعدي",
+  "pos": "verb"
+ },
+ {
+  "de": "initiieren",
+  "ar": "يطلق / يبدأ",
+  "pos": "verb"
+ },
+ {
+  "de": "inkonstant",
+  "ar": "مش ثابت",
+  "pos": "adj"
+ },
+ {
+  "de": "innerstädtisch",
+  "ar": "جوه المدينة",
+  "pos": "adj"
+ },
+ {
+  "de": "inoffiziell",
+  "ar": "غير رسمي",
+  "pos": "adj"
+ },
+ {
+  "de": "insolvent",
+  "ar": "مفلس",
+  "pos": "adj"
+ },
+ {
+  "de": "inspirierend",
+  "ar": "ملهم",
+  "pos": "adj"
+ },
+ {
+  "de": "inspizieren",
+  "ar": "يتفقد",
+  "pos": "verb"
+ },
+ {
+  "de": "instabil",
+  "ar": "مش مستقر",
+  "pos": "adj"
+ },
+ {
+  "de": "instrumentalisieren",
+  "ar": "يستغله لصالحه",
+  "pos": "verb"
+ },
+ {
+  "de": "inszenieren",
+  "ar": "يخرج / يدبر",
+  "pos": "verb"
+ },
+ {
+  "de": "interaktiv",
+  "ar": "تفاعلي",
+  "pos": "adj"
+ },
+ {
+  "de": "interdisziplinär",
+  "ar": "متعدد التخصصات",
+  "pos": "adj"
+ },
+ {
+  "de": "interkulturell",
+  "ar": "بين الثقافات",
+  "pos": "adj"
+ },
+ {
+  "de": "ironisch",
+  "ar": "ساخر",
+  "pos": "adj"
+ },
+ {
+  "de": "irregulär",
+  "ar": "غير منتظم",
+  "pos": "adj"
+ },
+ {
+  "de": "islamisch",
+  "ar": "إسلامي",
+  "pos": "adj"
+ },
+ {
+  "de": "isoliert",
+  "ar": "معزول",
+  "pos": "adj"
+ },
+ {
+  "de": "jucken",
+  "ar": "يحك / يهرش",
+  "pos": "verb"
+ },
+ {
+  "de": "katastrophal",
+  "ar": "كارثي",
+  "pos": "adj"
+ },
+ {
+  "de": "kategorisch",
+  "ar": "قاطع",
+  "pos": "adj"
+ },
+ {
+  "de": "kaufmännisch",
+  "ar": "تجاري (وظيفي)",
+  "pos": "adj"
+ },
+ {
+  "de": "kitschig",
+  "ar": "مبتذل",
+  "pos": "adj"
+ },
+ {
+  "de": "klaffen",
+  "ar": "يتفتح (فجوة)",
+  "pos": "verb"
+ },
+ {
+  "de": "klarstellen",
+  "ar": "يوضح",
+  "pos": "verb"
+ },
+ {
+  "de": "klimatisiert",
+  "ar": "مكيف",
+  "pos": "adj"
+ },
+ {
+  "de": "knallen",
+  "ar": "يفرقع / يخبط",
+  "pos": "verb"
+ },
+ {
+  "de": "knüpfen",
+  "ar": "يربط / يعمل",
+  "pos": "verb"
+ },
+ {
+  "de": "kollektiv",
+  "ar": "جماعي",
+  "pos": "adj"
+ },
+ {
+  "de": "kompatibel",
+  "ar": "متوافق",
+  "pos": "adj"
+ },
+ {
+  "de": "kompromisslos",
+  "ar": "بلا تنازلات",
+  "pos": "adj"
+ },
+ {
+  "de": "kompromittieren",
+  "ar": "يورط / يحرج",
+  "pos": "verb"
+ },
+ {
+  "de": "konkretisieren",
+  "ar": "يحدد بدقة",
+  "pos": "verb"
+ },
+ {
+  "de": "konkurrieren",
+  "ar": "ينافس",
+  "pos": "verb"
+ },
+ {
+  "de": "konstruktiv",
+  "ar": "بناء",
+  "pos": "adj"
+ },
+ {
+  "de": "konsultieren",
+  "ar": "يستشير",
+  "pos": "verb"
+ },
+ {
+  "de": "kontraproduktiv",
+  "ar": "عكسي النتيجة",
+  "pos": "adj"
+ },
+ {
+  "de": "kontrollierbar",
+  "ar": "قابل للسيطرة",
+  "pos": "adj"
+ },
+ {
+  "de": "konventionell",
+  "ar": "تقليدي",
+  "pos": "adj"
+ },
+ {
+  "de": "korrelieren",
+  "ar": "يرتبط إحصائيا",
+  "pos": "verb"
+ },
+ {
+  "de": "kostenpflichtig",
+  "ar": "بفلوس",
+  "pos": "adj"
+ },
+ {
+  "de": "kraftvoll",
+  "ar": "قوي",
+  "pos": "adj"
+ },
+ {
+  "de": "krankgeschrieben",
+  "ar": "في إجازة مرضية",
+  "pos": "adj"
+ },
+ {
+  "de": "kriminalisieren",
+  "ar": "يجرم",
+  "pos": "verb"
+ },
+ {
+  "de": "kriseln",
+  "ar": "يكون في أزمة",
+  "pos": "verb"
+ },
+ {
+  "de": "kurios",
+  "ar": "غريب عجيب",
+  "pos": "adj"
+ },
+ {
+  "de": "kursieren",
+  "ar": "يتداول",
+  "pos": "verb"
+ },
+ {
+  "de": "kuscheln",
+  "ar": "يتحضن",
+  "pos": "verb"
+ },
+ {
+  "de": "königlich",
+  "ar": "ملكي",
+  "pos": "adj"
+ },
+ {
+  "de": "köstlich",
+  "ar": "لذيذ جدا",
+  "pos": "adj"
+ },
+ {
+  "de": "kühn",
+  "ar": "جريء",
+  "pos": "adj"
+ },
+ {
+  "de": "küren",
+  "ar": "يختار / يتوّج",
+  "pos": "verb"
+ },
+ {
+  "de": "lachend",
+  "ar": "ضاحك",
+  "pos": "adj"
+ },
+ {
+  "de": "lahmlegen",
+  "ar": "يشل",
+  "pos": "verb"
+ },
+ {
+  "de": "landesweit",
+  "ar": "على مستوى البلد",
+  "pos": "adj"
+ },
+ {
+  "de": "landläufig",
+  "ar": "شائع",
+  "pos": "adj"
+ },
+ {
+  "de": "langlebig",
+  "ar": "عمره طويل",
+  "pos": "adj"
+ },
+ {
+  "de": "langwierig",
+  "ar": "طويل وممل",
+  "pos": "adj"
+ },
+ {
+  "de": "lau",
+  "ar": "فاتر",
+  "pos": "adj"
+ },
+ {
+  "de": "lautstark",
+  "ar": "صوته عالي",
+  "pos": "adj"
+ },
+ {
+  "de": "lebensbedrohlich",
+  "ar": "مهدد للحياة",
+  "pos": "adj"
+ },
+ {
+  "de": "lebenslang",
+  "ar": "مدى الحياة",
+  "pos": "adj"
+ },
+ {
+  "de": "lecker",
+  "ar": "لذيذ",
+  "pos": "adj"
+ },
+ {
+  "de": "leiblich",
+  "ar": "شرعي (ابن)",
+  "pos": "adj"
+ },
+ {
+  "de": "leidenschaftlich",
+  "ar": "شغوف",
+  "pos": "adj"
+ },
+ {
+  "de": "leistungsfähig",
+  "ar": "قوي الأداء",
+  "pos": "adj"
+ },
+ {
+  "de": "leistungsstark",
+  "ar": "عالي الأداء",
+  "pos": "adj"
+ },
+ {
+  "de": "leitend",
+  "ar": "قيادي",
+  "pos": "adj"
+ },
+ {
+  "de": "leugnen",
+  "ar": "ينكر",
+  "pos": "verb"
+ },
+ {
+  "de": "literarisch",
+  "ar": "أدبي",
+  "pos": "adj"
+ },
+ {
+  "de": "logistisch",
+  "ar": "لوجستي",
+  "pos": "adj"
+ },
+ {
+  "de": "loslegen",
+  "ar": "يبدأ بقوه",
+  "pos": "verb"
+ },
+ {
+  "de": "luxuriös",
+  "ar": "فخم",
+  "pos": "adj"
+ },
+ {
+  "de": "lyrisch",
+  "ar": "غنائي",
+  "pos": "adj"
+ },
+ {
+  "de": "lästig",
+  "ar": "مزعج",
+  "pos": "adj"
+ },
+ {
+  "de": "lückenlos",
+  "ar": "كامل بلا فجوات",
+  "pos": "adj"
+ },
+ {
+  "de": "magnetisch",
+  "ar": "مغناطيسي",
+  "pos": "adj"
+ },
+ {
+  "de": "mancherorts",
+  "ar": "في أماكن كتير",
+  "pos": "adv"
+ },
+ {
+  "de": "mangeln",
+  "ar": "ينقصه",
+  "pos": "verb"
+ },
+ {
+  "de": "manipulieren",
+  "ar": "يتلاعب",
+  "pos": "verb"
+ },
+ {
+  "de": "manövrieren",
+  "ar": "يمناور",
+  "pos": "verb"
+ },
+ {
+  "de": "markant",
+  "ar": "مميز / بارز",
+  "pos": "adj"
+ },
+ {
+  "de": "marschieren",
+  "ar": "يمشي في مسيرة",
+  "pos": "verb"
+ },
+ {
+  "de": "maschinell",
+  "ar": "آلي",
+  "pos": "adj"
+ },
+ {
+  "de": "maximieren",
+  "ar": "يزود للآخر",
+  "pos": "verb"
+ },
+ {
+  "de": "medial",
+  "ar": "إعلامي",
+  "pos": "adj"
+ },
+ {
+  "de": "mehren",
+  "ar": "يزيد / يتكاثر",
+  "pos": "verb"
+ },
+ {
+  "de": "mehrjährig",
+  "ar": "متعدد السنين",
+  "pos": "adj"
+ },
+ {
+  "de": "mehrtägig",
+  "ar": "عدة أيام",
+  "pos": "adj"
+ },
+ {
+  "de": "meiden",
+  "ar": "يتجنب",
+  "pos": "verb"
+ },
+ {
+  "de": "mental",
+  "ar": "ذهني",
+  "pos": "adj"
+ },
+ {
+  "de": "migrieren",
+  "ar": "يهاجر",
+  "pos": "verb"
+ },
+ {
+  "de": "militant",
+  "ar": "متشدد",
+  "pos": "adj"
+ },
+ {
+  "de": "mindern",
+  "ar": "يقلل",
+  "pos": "verb"
+ },
+ {
+  "de": "mitarbeiten",
+  "ar": "يشتغل معاه",
+  "pos": "verb"
+ },
+ {
+  "de": "mitbekommen",
+  "ar": "يلاحظ / يعرف",
+  "pos": "verb"
+ },
+ {
+  "de": "mitgehen",
+  "ar": "يروح معاه",
+  "pos": "verb"
+ },
+ {
+  "de": "mitgestalten",
+  "ar": "يشارك في التشكيل",
+  "pos": "verb"
+ },
+ {
+  "de": "mithelfen",
+  "ar": "يساعد",
+  "pos": "verb"
+ },
+ {
+  "de": "mittelständisch",
+  "ar": "متوسط الحجم (شركات)",
+  "pos": "adj"
+ },
+ {
+  "de": "motiviert",
+  "ar": "متحمس",
+  "pos": "adj"
+ },
+ {
+  "de": "muslimisch",
+  "ar": "مسلم",
+  "pos": "adj"
+ },
+ {
+  "de": "mündlich",
+  "ar": "شفهي",
+  "pos": "adj"
+ },
+ {
+  "de": "nachdenklich",
+  "ar": "متفكر / ساهم",
+  "pos": "adj"
+ },
+ {
+  "de": "nachreichen",
+  "ar": "يقدم بعدين",
+  "pos": "verb"
+ },
+ {
+  "de": "nachlegen",
+  "ar": "يزود / يضيف",
+  "pos": "verb"
+ },
+ {
+  "de": "nachweislich",
+  "ar": "مثبت",
+  "pos": "adj"
+ },
+ {
+  "de": "nahegelegen",
+  "ar": "قريب",
+  "pos": "adj"
+ },
+ {
+  "de": "nahtlos",
+  "ar": "سلس",
+  "pos": "adj"
+ },
+ {
+  "de": "naturnah",
+  "ar": "قريب من الطبيعة",
+  "pos": "adj"
+ },
+ {
+  "de": "nebst",
+  "ar": "بالإضافة لـ",
+  "pos": "prep"
+ },
+ {
+  "de": "nennenswert",
+  "ar": "يستحق الذكر",
+  "pos": "adj"
+ },
+ {
+  "de": "neuartig",
+  "ar": "جديد من نوعه",
+  "pos": "adj"
+ },
+ {
+  "de": "nichtig",
+  "ar": "باطل",
+  "pos": "adj"
+ },
+ {
+  "de": "niederschlagen",
+  "ar": "يحبط / يسقط",
+  "pos": "verb"
+ },
+ {
+  "de": "obliegen",
+  "ar": "من مسؤوليته",
+  "pos": "verb"
+ },
+ {
+  "de": "offenlegen",
+  "ar": "يكشف",
+  "pos": "verb"
+ },
+ {
+  "de": "opfern",
+  "ar": "يضحي",
+  "pos": "verb"
+ },
+ {
+  "de": "oppositionell",
+  "ar": "معارض",
+  "pos": "adj"
+ },
+ {
+  "de": "opulent",
+  "ar": "فخم / باذخ",
+  "pos": "adj"
+ },
+ {
+  "de": "ordern",
+  "ar": "يطلب",
+  "pos": "verb"
+ },
+ {
+  "de": "orten",
+  "ar": "يحدد مكانه",
+  "pos": "verb"
+ },
+ {
+  "de": "parieren",
+  "ar": "يصد (ضربة)",
+  "pos": "verb"
+ },
+ {
+  "de": "parteiintern",
+  "ar": "داخل الحزب",
+  "pos": "adj"
+ },
+ {
+  "de": "parteilos",
+  "ar": "مستقل (بلا حزب)",
+  "pos": "adj"
+ },
+ {
+  "de": "parteiübergreifend",
+  "ar": "بين الأحزاب",
+  "pos": "adj"
+ },
+ {
+  "de": "passiv",
+  "ar": "سلبي",
+  "pos": "adj"
+ },
+ {
+  "de": "pausieren",
+  "ar": "يوقف مؤقتا",
+  "pos": "verb"
+ },
+ {
+  "de": "pensioniert",
+  "ar": "متقاعد",
+  "pos": "adj"
+ },
+ {
+  "de": "personenbezogen",
+  "ar": "شخصي (بيانات)",
+  "pos": "adj"
+ },
+ {
+  "de": "pflanzlich",
+  "ar": "نباتي",
+  "pos": "adj"
+ },
+ {
+  "de": "pittoresk",
+  "ar": "خلاب",
+  "pos": "adj"
+ },
+ {
+  "de": "platzsparend",
+  "ar": "موفر للمكان",
+  "pos": "adj"
+ },
+ {
+  "de": "plausibel",
+  "ar": "منطقي / مقنع",
+  "pos": "adj"
+ },
+ {
+  "de": "polizeibekannt",
+  "ar": "معروف للبوليس",
+  "pos": "adj"
+ },
+ {
+  "de": "populistisch",
+  "ar": "شعبوي",
+  "pos": "adj"
+ },
+ {
+  "de": "populär",
+  "ar": "محبوب / شعبي",
+  "pos": "adj"
+ },
+ {
+  "de": "preisgeben",
+  "ar": "يكشف / يفشي",
+  "pos": "verb"
+ }
+]
