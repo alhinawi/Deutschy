@@ -1,0 +1,687 @@
+[
+ {
+  "de": "Ladevorgang",
+  "ar": "عملية الشحن",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ladevorgänge"
+ },
+ {
+  "de": "Ladezeit",
+  "ar": "وقت الشحن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ladezeiten"
+ },
+ {
+  "de": "Lagebesprechung",
+  "ar": "اجتماع تقييم الوضع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lagebesprechungen"
+ },
+ {
+  "de": "Lageristin",
+  "ar": "عاملة المخزن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lageristinnen"
+ },
+ {
+  "de": "Lagerraum",
+  "ar": "مساحة التخزين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lagerräume"
+ },
+ {
+  "de": "Landarzt",
+  "ar": "دكتور الريف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Landärzte"
+ },
+ {
+  "de": "Landenge",
+  "ar": "البرزخ",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Landengen"
+ },
+ {
+  "de": "Landesbank",
+  "ar": "بنك الولاية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Landesbanken"
+ },
+ {
+  "de": "Landeschefin",
+  "ar": "رئيسة الولاية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Landeschefinnen"
+ },
+ {
+  "de": "Landeshauptmann",
+  "ar": "رئيس الولاية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Landeshauptmänner"
+ },
+ {
+  "de": "Landesmeister",
+  "ar": "بطل الولاية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Landesmeister"
+ },
+ {
+  "de": "Landesmeisterschaft",
+  "ar": "بطولة الولاية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Landesmeisterschaften"
+ },
+ {
+  "de": "Landesmuseum",
+  "ar": "متحف الولاية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Landesmuseen"
+ },
+ {
+  "de": "Landesparlament",
+  "ar": "برلمان الولاية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Landesparlamente"
+ },
+ {
+  "de": "Landespolitik",
+  "ar": "سياسة الولاية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Landespolizei",
+  "ar": "شرطة الولاية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Landespolizeien"
+ },
+ {
+  "de": "Landesverfassung",
+  "ar": "دستور الولاية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Landesverfassungen"
+ },
+ {
+  "de": "Landesverrat",
+  "ar": "الخيانة العظمى",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Landesverteidigung",
+  "ar": "الدفاع عن البلاد",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Landfriedensbruch",
+  "ar": "الإخلال بالسلم العام",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Landfriedensbrüche"
+ },
+ {
+  "de": "Landgut",
+  "ar": "العزبة الريفية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Landgüter"
+ },
+ {
+  "de": "Landhaus",
+  "ar": "البيت الريفي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Landhäuser"
+ },
+ {
+  "de": "Landmaschinen",
+  "ar": "معدات الزراعة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Landpartie",
+  "ar": "النزهة الريفية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Landpartien"
+ },
+ {
+  "de": "Landrat",
+  "ar": "رئيس المقاطعة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Landräte"
+ },
+ {
+  "de": "Landschaftsarchitekt",
+  "ar": "مهندس اللاندسكيب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Landschaftsarchitekten"
+ },
+ {
+  "de": "Landschaftspark",
+  "ar": "الحديقة الطبيعية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Landschaftsparks"
+ },
+ {
+  "de": "Landschaftsschutzgebiet",
+  "ar": "المحمية الطبيعية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Landschaftsschutzgebiete"
+ },
+ {
+  "de": "Landsleute",
+  "ar": "أبناء البلد",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Landtagsabgeordnete",
+  "ar": "نائب برلمان الولاية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Landtagsabgeordneten"
+ },
+ {
+  "de": "Landweg",
+  "ar": "الطريق البري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Landwege"
+ },
+ {
+  "de": "Landwirtin",
+  "ar": "الفلاحة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Landwirtinnen"
+ },
+ {
+  "de": "Langlauf",
+  "ar": "التزلج الريفي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Langläufe"
+ },
+ {
+  "de": "Langlebigkeit",
+  "ar": "طول العمر",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Langstreckenflug",
+  "ar": "الرحلة الطويلة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Langstreckenflüge"
+ },
+ {
+  "de": "Langzeitarbeitslose",
+  "ar": "عاطل طويل المدة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Langzeitarbeitslosen"
+ },
+ {
+  "de": "Langzeitfolgen",
+  "ar": "التأثيرات طويلة المدى",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Lappen",
+  "ar": "الخرقة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lappen"
+ },
+ {
+  "de": "Lastkraftwagen",
+  "ar": "الشاحنة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lastkraftwagen"
+ },
+ {
+  "de": "Lastschrifteinzug",
+  "ar": "الخصم المباشر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lastschrifteinzüge"
+ },
+ {
+  "de": "Lastzug",
+  "ar": "القاطرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lastzüge"
+ },
+ {
+  "de": "Latein",
+  "ar": "اللاتينية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Lateinamerika",
+  "ar": "أمريكا اللاتينية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Laubbaum",
+  "ar": "الشجرة النفضية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Laubbäume"
+ },
+ {
+  "de": "Laube",
+  "ar": "البرجولا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lauben"
+ },
+ {
+  "de": "Lauchzwiebel",
+  "ar": "البصل الأخضر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lauchzwiebeln"
+ },
+ {
+  "de": "Laufbahn",
+  "ar": "المسار المهني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Laufbahnen"
+ },
+ {
+  "de": "Lauterkeit",
+  "ar": "النزاهة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Lautstärke",
+  "ar": "مستوى الصوت",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lautstärken"
+ },
+ {
+  "de": "Lawinengefahr",
+  "ar": "خطر الانهيار الجليدي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lawinengefahren"
+ },
+ {
+  "de": "Layout",
+  "ar": "التخطيط",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Layouts"
+ },
+ {
+  "de": "Lebendorganspende",
+  "ar": "التبرع بالأعضاء من حي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lebendorganspenden"
+ },
+ {
+  "de": "Lebensgröße",
+  "ar": "الحجم الطبيعي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lebensgrößen"
+ },
+ {
+  "de": "Lebenshaltungskosten",
+  "ar": "تكاليف المعيشة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Lebenslüge",
+  "ar": "كدبة الحياة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lebenslügen"
+ },
+ {
+  "de": "Lebensmittelgeschäft",
+  "ar": "محل البقالة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Lebensmittelgeschäfte"
+ },
+ {
+  "de": "Lebensmittelpreise",
+  "ar": "أسعار الأكل",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Lebensmittelpunkt",
+  "ar": "مركز الحياة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lebensmittelpunkte"
+ },
+ {
+  "de": "Lebensmittelsicherheit",
+  "ar": "سلامة الغذاء",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Lebensmittelvergiftung",
+  "ar": "التسمم الغذائي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lebensmittelvergiftungen"
+ },
+ {
+  "de": "Lebensmittelverschwendung",
+  "ar": "هدر الأكل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Lebensphase",
+  "ar": "مرحلة الحياة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lebensphasen"
+ },
+ {
+  "de": "Lebensstandard",
+  "ar": "مستوى المعيشة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lebensstandards"
+ },
+ {
+  "de": "Lebensunterhalt",
+  "ar": "نفقة المعيشة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Lebenszeichen",
+  "ar": "علامة الحياة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Lebenszeichen"
+ },
+ {
+  "de": "Lebenszyklus",
+  "ar": "دورة الحياة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lebenszyklen"
+ },
+ {
+  "de": "Lebewesen",
+  "ar": "الكائن الحي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Lebewesen"
+ },
+ {
+  "de": "Leckerbissen",
+  "ar": "اللقمة الشهية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Leckerbissen"
+ },
+ {
+  "de": "Leck",
+  "ar": "التسريب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Lecks"
+ },
+ {
+  "de": "Lederhose",
+  "ar": "البنطلون الجلد البافاري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lederhosen"
+ },
+ {
+  "de": "Legalisierung",
+  "ar": "التقنين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Legalisierungen"
+ },
+ {
+  "de": "Legalität",
+  "ar": "الشرعية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Legion",
+  "ar": "الفيلق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Legionen"
+ },
+ {
+  "de": "Lehrbeauftragter",
+  "ar": "المحاضر المتعاقد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lehrbeauftragte"
+ },
+ {
+  "de": "Lehrergewerkschaft",
+  "ar": "نقابة المعلمين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lehrergewerkschaften"
+ },
+ {
+  "de": "Lehrkräftemangel",
+  "ar": "نقص المدرسين",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Lehrstelle",
+  "ar": "مكان التدريب المهني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lehrstellen"
+ },
+ {
+  "de": "Leibesübungen",
+  "ar": "التربية البدنية",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Leichenschauhaus",
+  "ar": "المشرحة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Leichenschauhäuser"
+ },
+ {
+  "de": "Leichtathlet",
+  "ar": "لاعب ألعاب القوى",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Leichtathleten"
+ },
+ {
+  "de": "Leichtverletzte",
+  "ar": "المصاب إصابة طفيفة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Leichtverletzten"
+ },
+ {
+  "de": "Leiharbeit",
+  "ar": "العمل المؤقت",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Leihmutterschaft",
+  "ar": "تأجير الأرحام",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Leihmutterschaften"
+ },
+ {
+  "de": "Leinwand",
+  "ar": "الشاشة (السينما)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Leinwände"
+ },
+ {
+  "de": "Leistenverletzung",
+  "ar": "إصابة الأربية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Leistenverletzungen"
+ },
+ {
+  "de": "Leistungsabfall",
+  "ar": "تراجع الأداء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Leistungsabfälle"
+ },
+ {
+  "de": "Leistungsbezieher",
+  "ar": "متلقي الإعانة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Leistungsbezieher"
+ },
+ {
+  "de": "Leistungsdruck",
+  "ar": "ضغط الأداء",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Leistungssport",
+  "ar": "الرياضة التنافسية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Leitartikel",
+  "ar": "المقال الافتتاحي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Leitartikel"
+ },
+ {
+  "de": "Leitlinie",
+  "ar": "الدليل الإرشادي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Leitlinien"
+ },
+ {
+  "de": "Leitplanke",
+  "ar": "حاجز الطريق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Leitplanken"
+ },
+ {
+  "de": "Leitstelle",
+  "ar": "مركز التحكم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Leitstellen"
+ },
+ {
+  "de": "Leitzinserhöhung",
+  "ar": "رفع الفايدة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Leitzinserhöhungen"
+ },
+ {
+  "de": "Leitzinssenkung",
+  "ar": "خفض الفايدة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Leitzinssenkungen"
+ },
+ {
+  "de": "Lektüre",
+  "ar": "المطالعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lektüren"
+ },
+ {
+  "de": "Lenkflugkörper",
+  "ar": "الصاروخ الموجه",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lenkflugkörper"
+ },
+ {
+  "de": "Lenkung",
+  "ar": "التوجيه",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lenkungen"
+ },
+ {
+  "de": "Lernbereitschaft",
+  "ar": "الاستعداد للتعلم",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Lernplattform",
+  "ar": "منصة التعلم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lernplattformen"
+ },
+ {
+  "de": "Lesart",
+  "ar": "القراءة (التفسير)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Lesarten"
+ }
+]
