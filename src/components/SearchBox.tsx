@@ -84,7 +84,7 @@ export default function SearchBox({ open, onClose }: { open: boolean; onClose: (
               <span className={`shrink-0 text-xs font-bold ${k === sel ? '' : 'text-muted'}`}>{lang === 'ar' ? KIND[h.kind][0] : KIND[h.kind][1]}</span>
             </li>
           ))}
-          {q.trim().length >= 2 && hits.length === 0 && <li className="px-3 py-4 text-center text-muted">{t('مفيش نتائج', 'No results')}</li>}
+          {q.trim().length >= 2 && hits.length === 0 && <li className="px-3 py-4 text-center text-muted">{t('مفيش نتائج. جرّب كلمة أقصر، أو دوّر على فعل زي gehen أو كلمة زي Haus.', 'No results. Try a shorter term, or search a verb like gehen or a noun like Haus.')}</li>}
           {q.trim().length < 2 && <li className="px-3 py-4 text-center text-sm text-muted">{t('اكتب حرفين على الأقل. اختصار: / أو Ctrl+K', 'Type at least 2 letters. Shortcut: / or Ctrl+K')}</li>}
         </ul>
       </div>

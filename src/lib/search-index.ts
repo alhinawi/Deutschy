@@ -17,7 +17,9 @@ import { c2Grammar } from './c2-grammar';
 import { words, topics, topicTitles, glossOf, topicName } from './data';
 import { grammar } from './grammar';
 import { verbs, slug } from './verbs';
-import { idioms } from './idioms';
+import { verben } from './verben';
+import { woerter } from './woerter';
+import { idioms, idiomTopics } from './idioms';
 import { sidebar } from './nav';
 
 export type Hit = { kind: 'word' | 'grammar' | 'verb' | 'idiom' | 'page' | 'reading' | 'writing' | 'dialogue'; title: string; sub: string; href: string; hay: string };
@@ -41,7 +43,10 @@ export function index(): Hit[] {
   words.forEach((w) => h('word', `${w.art} ${w.de}`, `${w.ar} · ${glossOf(w, 'en')}`, `/lessons/${w.topic}/#word-${w.id}`, `${w.de} ${w.plural} ${topicName(w.topic, 'en')}`));
   grammar.forEach((g) => h('grammar', g.title[1], `${g.title[0]} · ${g.level}`, `/grammar/${g.id}/`, g.sum.join(' ')));
   verbs.forEach((v) => h('verb', v.inf, `${v.ar} · ${v.en}`, `/verbs/${slug(v.inf)}/`, `${v.pp} ${v.pret} ${v.pres.join(' ')}`));
-  idioms.forEach((d) => h('idiom', d.de, `${d.ar} · ${d.en}`, '/redewendungen/', d.literal));
+  const curatedInfs=new Set(verbs.map((v)=>v.inf));
+  verben.filter((v)=>!curatedInfs.has(v.inf)&&!curatedInfs.has(v.inf.replace(/^sich /,''))).forEach((v) => h('verb', v.inf, `${v.ar} · ${v.lvl}`, '/verbs/', `${v.pp} ${v.pret.join(' ')} ${v.pres.join(' ')}`));
+  woerter.forEach((w) => h('word', `${w.art ? w.art + ' ' : ''}${w.de}`, w.ar, '/woerter/', `${w.pl ?? ''} ${w.gen ?? ''}`));
+  idioms.forEach((d) => h('idiom', d.de, `${d.ar} · ${d.en}`, '/redewendungen/', `${d.literal} ${d.topic ? (idiomTopics[d.topic] ?? []).join(' ') : ''}`));
   caseGroups.forEach(([id,ar,en])=>h('grammar',en,ar,`/case-lab/#${id}`,caseDrills.filter(d=>d.group===id).map(d=>d.prompt+' '+d.ar+' '+d.en).join(' ')));
   formationLessons.forEach(l=>h('grammar',l.title[1],l.title[0],`/word-formation/#${l.id}`,l.note.join(' ')+' '+l.examples.join(' ')));
   practicalTerms.forEach(w=>h('word',w.article+' '+w.de,w.ar+' · '+w.en,`/practical-words/#${w.id}`,w.plural+' '+w.example));
