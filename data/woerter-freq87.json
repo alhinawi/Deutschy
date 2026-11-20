@@ -1,0 +1,599 @@
+[
+ {
+  "de": "Kaufprämie",
+  "ar": "علاوة الشراء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kaufprämien"
+ },
+ {
+  "de": "Kaufverhalten",
+  "ar": "سلوك الشراء",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Kaufvertrag",
+  "ar": "عقد الشراء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kaufverträge"
+ },
+ {
+  "de": "Kausalität",
+  "ar": "السببية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Kavaliersdelikt",
+  "ar": "المخالفة البسيطة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kavaliersdelikte"
+ },
+ {
+  "de": "Kehrseite",
+  "ar": "الوجه التاني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kehrseiten"
+ },
+ {
+  "de": "Kelte",
+  "ar": "السلتي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kelten"
+ },
+ {
+  "de": "Kenianer",
+  "ar": "الكيني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kenianer"
+ },
+ {
+  "de": "Kenner",
+  "ar": "الخبير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kenner"
+ },
+ {
+  "de": "Kenntnisse",
+  "ar": "المعرفة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Kennzahl",
+  "ar": "الرقم المؤشر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kennzahlen"
+ },
+ {
+  "de": "Kennzeichnungspflicht",
+  "ar": "إجبارية التوصيف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kennzeichnungspflichten"
+ },
+ {
+  "de": "Keramik",
+  "ar": "الفخار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Keramiken"
+ },
+ {
+  "de": "Kernenergie",
+  "ar": "الطاقة النووية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Kernfusion",
+  "ar": "الاندماج النووي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kernfusionen"
+ },
+ {
+  "de": "Kerngeschäft",
+  "ar": "النشاط الأساسي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kerngeschäfte"
+ },
+ {
+  "de": "Kernpunkt",
+  "ar": "النقطة الجوهرية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kernpunkte"
+ },
+ {
+  "de": "Kernteam",
+  "ar": "الفريق الأساسي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kernteams"
+ },
+ {
+  "de": "Keyword",
+  "ar": "الكلمة المفتاحية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Keywords"
+ },
+ {
+  "de": "Kibbuz",
+  "ar": "الكيبوتس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kibbuze"
+ },
+ {
+  "de": "Kiefer",
+  "ar": "الفك",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kiefer"
+ },
+ {
+  "de": "Killerwal",
+  "ar": "الحوت القاتل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Killerwale"
+ },
+ {
+  "de": "Kilowattstunde",
+  "ar": "الكيلووات ساعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kilowattstunden"
+ },
+ {
+  "de": "Kimchi",
+  "ar": "الكيمتشي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Kinderarzt",
+  "ar": "دكتور الأطفال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kinderärzte"
+ },
+ {
+  "de": "Kinderbetreuer",
+  "ar": "مشرف الأطفال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kinderbetreuer"
+ },
+ {
+  "de": "Kindergeburtstag",
+  "ar": "عيد ميلاد الأطفال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kindergeburtstage"
+ },
+ {
+  "de": "Kindergeld",
+  "ar": "إعانة الأطفال",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Kindergärtner",
+  "ar": "مدرس الحضانة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kindergärtner"
+ },
+ {
+  "de": "Kinderheim",
+  "ar": "دار الأيتام",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kinderheime"
+ },
+ {
+  "de": "Kinderhort",
+  "ar": "الحضانة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kinderhorte"
+ },
+ {
+  "de": "Kindermörder",
+  "ar": "قاتل الأطفال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kindermörder"
+ },
+ {
+  "de": "Kinderpflegerin",
+  "ar": "مربية الأطفال",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kinderpflegerinnen"
+ },
+ {
+  "de": "Kinderrechte",
+  "ar": "حقوق الطفل",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Kinderschutzzentrum",
+  "ar": "مركز حماية الطفل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kinderschutzzentren"
+ },
+ {
+  "de": "Kindersitz",
+  "ar": "كرسي الأطفال في العربية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kindersitze"
+ },
+ {
+  "de": "Kinderspielplatz",
+  "ar": "ملعب الأطفال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kinderspielplätze"
+ },
+ {
+  "de": "Kinderspital",
+  "ar": "مستشفى الأطفال",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kinderspitäler"
+ },
+ {
+  "de": "Kindertagesstätte",
+  "ar": "الحضانة النهارية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kindertagesstätten"
+ },
+ {
+  "de": "Kindertransport",
+  "ar": "نقل الأطفال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kindertransporte"
+ },
+ {
+  "de": "Kinderwunschzentrum",
+  "ar": "مركز الإنجاب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kinderwunschzentren"
+ },
+ {
+  "de": "Kinderzuschlag",
+  "ar": "علاوة الأطفال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kinderzuschläge"
+ },
+ {
+  "de": "Kindeswohl",
+  "ar": "مصلحة الطفل",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Kinoeinnahmen",
+  "ar": "إيرادات السينما",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Kinokasse",
+  "ar": "شباك التذاكر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kinokassen"
+ },
+ {
+  "de": "Kinoleinwand",
+  "ar": "شاشة السينما",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kinoleinwände"
+ },
+ {
+  "de": "Kinopublikum",
+  "ar": "جمهور السينما",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Kinosaal",
+  "ar": "قاعة السينما",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kinosäle"
+ },
+ {
+  "de": "Kipppunkt",
+  "ar": "نقطة اللاعودة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kipppunkte"
+ },
+ {
+  "de": "Kirchenaustritt",
+  "ar": "الخروج من الكنيسة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kirchenaustritte"
+ },
+ {
+  "de": "Kirchengemeinde",
+  "ar": "رعية الكنيسة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kirchengemeinden"
+ },
+ {
+  "de": "Kirchenglocke",
+  "ar": "جرس الكنيسة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kirchenglocken"
+ },
+ {
+  "de": "Kirchenmusik",
+  "ar": "موسيقى الكنيسة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Kirchensteuer",
+  "ar": "ضريبة الكنيسة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kirchensteuern"
+ },
+ {
+  "de": "Kirchturm",
+  "ar": "برج الكنيسة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kirchtürme"
+ },
+ {
+  "de": "Kirgistan",
+  "ar": "قيرغيزستان",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Kitagebühren",
+  "ar": "رسوم الحضانة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Klagemauer",
+  "ar": "حائط المبكى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Klagemauern"
+ },
+ {
+  "de": "Klarname",
+  "ar": "الاسم الحقيقي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Klarnamen"
+ },
+ {
+  "de": "Klarstellung",
+  "ar": "التوضيح",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Klarstellungen"
+ },
+ {
+  "de": "Klassenlehrerin",
+  "ar": "ميس الفصل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Klassenlehrerinnen"
+ },
+ {
+  "de": "Klassenstreber",
+  "ar": "مجتهد الفصل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Klassenstreber"
+ },
+ {
+  "de": "Klavierspieler",
+  "ar": "عازف البيانو",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Klavierspieler"
+ },
+ {
+  "de": "Kleeblatt",
+  "ar": "ورقة البرسيم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kleeblätter"
+ },
+ {
+  "de": "Kleidergeschäft",
+  "ar": "محل الهدوم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kleidergeschäfte"
+ },
+ {
+  "de": "Kleiderspende",
+  "ar": "تبرع الهدوم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kleiderspenden"
+ },
+ {
+  "de": "Kleidungsstück",
+  "ar": "قطعة الهدوم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kleidungsstücke"
+ },
+ {
+  "de": "Kleinanzeige",
+  "ar": "الإعلان المبوب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kleinanzeigen"
+ },
+ {
+  "de": "Kleinbus",
+  "ar": "الميكروباص",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kleinbusse"
+ },
+ {
+  "de": "Kleinpartei",
+  "ar": "الحزب الصغير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kleinparteien"
+ },
+ {
+  "de": "Klerus",
+  "ar": "رجال الدين",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Kletterhalle",
+  "ar": "صالة التسلق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kletterhallen"
+ },
+ {
+  "de": "Klimaabkommen",
+  "ar": "اتفاقية المناخ",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Klimaabkommen"
+ },
+ {
+  "de": "Klimaaktivistin",
+  "ar": "ناشطة المناخ",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Klimaaktivistinnen"
+ },
+ {
+  "de": "Klimagipfel",
+  "ar": "قمة المناخ",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Klimagipfel"
+ },
+ {
+  "de": "Klimakiller",
+  "ar": "قاتل المناخ",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Klimakiller"
+ },
+ {
+  "de": "Klimaneutralität",
+  "ar": "الحياد الكربوني",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Klimaschutzgesetz",
+  "ar": "قانون حماية المناخ",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Klimaschutzgesetze"
+ },
+ {
+  "de": "Klinikkonzern",
+  "ar": "مجموعة المستشفيات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Klinikkonzerne"
+ },
+ {
+  "de": "Klinke",
+  "ar": "مقبض الباب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Klinken"
+ },
+ {
+  "de": "Klubchef",
+  "ar": "رئيس النادي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Klubchefs"
+ },
+ {
+  "de": "Klugheit",
+  "ar": "الذكاء",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Klärungsbedarf",
+  "ar": "الحاجة للتوضيح",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Knabbergebäck",
+  "ar": "المسليات",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Kneipenkultur",
+  "ar": "ثقافة القهاوي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kneipenkulturen"
+ },
+ {
+  "de": "Kniegelenk",
+  "ar": "مفصل الركبة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kniegelenke"
+ },
+ {
+  "de": "Kniescheibe",
+  "ar": "صابونة الركبة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kniescheiben"
+ },
+ {
+  "de": "Knieschmerzen",
+  "ar": "ألم الركبة",
+  "pos": "noun",
+  "pluralOnly": true
+ }
+]
