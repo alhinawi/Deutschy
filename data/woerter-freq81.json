@@ -1,0 +1,634 @@
+[
+ {
+  "de": "Grieche",
+  "ar": "اليوناني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Griechen"
+ },
+ {
+  "de": "Grillabend",
+  "ar": "سهرة الشوي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Grillabende"
+ },
+ {
+  "de": "Grillfest",
+  "ar": "حفلة الشوي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Grillfeste"
+ },
+ {
+  "de": "Grobplanung",
+  "ar": "التخطيط المبدئي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grobplanungen"
+ },
+ {
+  "de": "Großalarm",
+  "ar": "الإنذار الكبير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Großalarme"
+ },
+ {
+  "de": "Großangriff",
+  "ar": "الهجوم الكبير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Großangriffe"
+ },
+ {
+  "de": "Großfamilie",
+  "ar": "العيلة الكبيرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Großfamilien"
+ },
+ {
+  "de": "Großgewinn",
+  "ar": "الجايزة الكبيرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Großgewinne"
+ },
+ {
+  "de": "Großhändler",
+  "ar": "تاجر الجملة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Großhändler"
+ },
+ {
+  "de": "Großkunde",
+  "ar": "العميل الكبير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Großkunden"
+ },
+ {
+  "de": "Großküche",
+  "ar": "المطبخ الصناعي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Großküchen"
+ },
+ {
+  "de": "Großmeister",
+  "ar": "الجراند ماستر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Großmeister"
+ },
+ {
+  "de": "Großspende",
+  "ar": "التبرع الكبير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Großspenden"
+ },
+ {
+  "de": "Großverdiener",
+  "ar": "صاحب الدخل العالي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Großverdiener"
+ },
+ {
+  "de": "Großübung",
+  "ar": "المناورة الكبيرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Großübungen"
+ },
+ {
+  "de": "Grube",
+  "ar": "الحفرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gruben"
+ },
+ {
+  "de": "Gruft",
+  "ar": "السرداب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grüfte"
+ },
+ {
+  "de": "Grundausstattung",
+  "ar": "التجهيز الأساسي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grundausstattungen"
+ },
+ {
+  "de": "Grundbaustein",
+  "ar": "حجر الأساس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Grundbausteine"
+ },
+ {
+  "de": "Grundbucheintrag",
+  "ar": "قيد السجل العقاري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Grundbucheinträge"
+ },
+ {
+  "de": "Grunderwerbssteuer",
+  "ar": "ضريبة شراء العقار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grunderwerbssteuern"
+ },
+ {
+  "de": "Grundfläche",
+  "ar": "مساحة الأرض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grundflächen"
+ },
+ {
+  "de": "Grundform",
+  "ar": "الصيغة الأصلية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grundformen"
+ },
+ {
+  "de": "Grundgehalt",
+  "ar": "المرتب الأساسي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Grundgehälter"
+ },
+ {
+  "de": "Grundgerüst",
+  "ar": "الهيكل الأساسي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Grundgerüste"
+ },
+ {
+  "de": "Grundordnung",
+  "ar": "النظام الأساسي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grundordnungen"
+ },
+ {
+  "de": "Grundpauschale",
+  "ar": "الرسوم الثابتة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grundpauschalen"
+ },
+ {
+  "de": "Grundpfeiler",
+  "ar": "الركيزة الأساسية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Grundpfeiler"
+ },
+ {
+  "de": "Grundrechtseinschränkung",
+  "ar": "تقييد الحقوق الأساسية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grundrechtseinschränkungen"
+ },
+ {
+  "de": "Grundriss",
+  "ar": "المخطط الأرضي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Grundrisse"
+ },
+ {
+  "de": "Grundsatzfrage",
+  "ar": "السؤال المبدئي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grundsatzfragen"
+ },
+ {
+  "de": "Grundsatzreform",
+  "ar": "الإصلاح الجذري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grundsatzreformen"
+ },
+ {
+  "de": "Grundsteinlegung",
+  "ar": "وضع حجر الأساس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grundsteinlegungen"
+ },
+ {
+  "de": "Grundstückseigentümer",
+  "ar": "مالك الأرض",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Grundstückseigentümer"
+ },
+ {
+  "de": "Grundstücksverkauf",
+  "ar": "بيع الأرض",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Grundstücksverkäufe"
+ },
+ {
+  "de": "Grundversion",
+  "ar": "النسخة الأساسية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grundversionen"
+ },
+ {
+  "de": "Grundversorger",
+  "ar": "مورد الخدمة الأساسية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Grundversorger"
+ },
+ {
+  "de": "Grundverständnis",
+  "ar": "الفهم الأساسي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Grundwasser",
+  "ar": "المياه الجوفية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Grundwasserspiegel",
+  "ar": "منسوب المياه الجوفية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Grundwasserspiegel"
+ },
+ {
+  "de": "Grundzüge",
+  "ar": "الخطوط العريضة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Gruppenchat",
+  "ar": "الجروب شات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gruppenchats"
+ },
+ {
+  "de": "Gruppendritter",
+  "ar": "التالت في المجموعة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gruppendritten"
+ },
+ {
+  "de": "Gruppendynamik",
+  "ar": "ديناميكية الجروب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gruppendynamiken"
+ },
+ {
+  "de": "Gruppenerster",
+  "ar": "الأول في المجموعة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gruppenersten"
+ },
+ {
+  "de": "Gruppenfoto",
+  "ar": "الصورة الجماعية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gruppenfotos"
+ },
+ {
+  "de": "Gruppengröße",
+  "ar": "حجم الجروب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gruppengrößen"
+ },
+ {
+  "de": "Gruppenleiterin",
+  "ar": "قائدة الجروب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gruppenleiterinnen"
+ },
+ {
+  "de": "Gruppentherapie",
+  "ar": "العلاج الجماعي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gruppentherapien"
+ },
+ {
+  "de": "Gruppierung",
+  "ar": "التكتل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gruppierungen"
+ },
+ {
+  "de": "Gründerin",
+  "ar": "المؤسِّسة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gründerinnen"
+ },
+ {
+  "de": "Gründervater",
+  "ar": "الأب المؤسس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gründerväter"
+ },
+ {
+  "de": "Gründerzentrum",
+  "ar": "مركز ريادة الأعمال",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gründerzentren"
+ },
+ {
+  "de": "Gründungsjahr",
+  "ar": "سنة التأسيس",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gründungsjahre"
+ },
+ {
+  "de": "Gründungskapital",
+  "ar": "رأس مال التأسيس",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Gründungsmitglied",
+  "ar": "العضو المؤسس",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gründungsmitglieder"
+ },
+ {
+  "de": "Gründungsurkunde",
+  "ar": "وثيقة التأسيس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gründungsurkunden"
+ },
+ {
+  "de": "Grüngürtel",
+  "ar": "الحزام الأخضر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Grüngürtel"
+ },
+ {
+  "de": "Grünland",
+  "ar": "المراعي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Grünstreifen",
+  "ar": "الشريط الأخضر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Grünstreifen"
+ },
+ {
+  "de": "Grünstrom",
+  "ar": "الكهرباء الخضرا",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Gulag",
+  "ar": "الجولاج",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gulags"
+ },
+ {
+  "de": "Gulaschsuppe",
+  "ar": "شوربة الجولاش",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gulaschsuppen"
+ },
+ {
+  "de": "Gummibärchen",
+  "ar": "حلوى الدببة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gummibärchen"
+ },
+ {
+  "de": "Gurkensalat",
+  "ar": "سلطة الخيار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gurkensalate"
+ },
+ {
+  "de": "Gutscheinkarte",
+  "ar": "كارت الهدية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gutscheinkarten"
+ },
+ {
+  "de": "Gutshaus",
+  "ar": "القصر الريفي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gutshäuser"
+ },
+ {
+  "de": "Gymnasiast",
+  "ar": "طالب الثانوي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gymnasiasten"
+ },
+ {
+  "de": "Gynäkologe",
+  "ar": "دكتور النسا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gynäkologen"
+ },
+ {
+  "de": "Gynäkologin",
+  "ar": "دكتورة النسا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gynäkologinnen"
+ },
+ {
+  "de": "Gästeblock",
+  "ar": "مدرج الضيوف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gästeblöcke"
+ },
+ {
+  "de": "Gästeliste",
+  "ar": "قائمة المعازيم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gästelisten"
+ },
+ {
+  "de": "Güterbahnhof",
+  "ar": "محطة البضائع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Güterbahnhöfe"
+ },
+ {
+  "de": "Güterumschlag",
+  "ar": "حركة البضائع",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Güterzug",
+  "ar": "قطار البضائع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Güterzüge"
+ },
+ {
+  "de": "Gütesiegel",
+  "ar": "علامة الجودة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gütesiegel"
+ },
+ {
+  "de": "Gütetermin",
+  "ar": "جلسة الصلح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gütetermine"
+ },
+ {
+  "de": "Haarentfernung",
+  "ar": "إزالة الشعر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Haarentfernungen"
+ },
+ {
+  "de": "Haarverlust",
+  "ar": "تساقط الشعر",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Hadsch",
+  "ar": "الحج",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Hafer",
+  "ar": "الشوفان",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Haftgrund",
+  "ar": "سبب الحبس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Haftgründe"
+ },
+ {
+  "de": "Haftrichter",
+  "ar": "قاضي الحبس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Haftrichter"
+ },
+ {
+  "de": "Hagelkorn",
+  "ar": "حبة البرد",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hagelkörner"
+ },
+ {
+  "de": "Hakenkreuz",
+  "ar": "الصليب المعقوف",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hakenkreuze"
+ },
+ {
+  "de": "Halbbruder",
+  "ar": "الأخ غير الشقيق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Halbbrüder"
+ },
+ {
+  "de": "Halbgeschwister",
+  "ar": "الإخوة غير الأشقاء",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Halbjahresbericht",
+  "ar": "التقرير نص السنوي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Halbjahresberichte"
+ },
+ {
+  "de": "Halbkugel",
+  "ar": "نص الكورة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Halbkugeln"
+ },
+ {
+  "de": "Halbmond",
+  "ar": "الهلال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Halbmonde"
+ },
+ {
+  "de": "Halbwissen",
+  "ar": "المعرفة الناقصة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Halbzeitpause",
+  "ar": "الفاصل بين الشوطين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Halbzeitpausen"
+ }
+]
