@@ -1,0 +1,385 @@
+[
+ {
+  "de": "Börsenhändler",
+  "ar": "تاجر البورصة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Börsenhändler"
+ },
+ {
+  "de": "Börsenindex",
+  "ar": "مؤشر البورصة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Börsenindizes"
+ },
+ {
+  "de": "Börsenwert",
+  "ar": "القيمة السوقية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Börsenwerte"
+ },
+ {
+  "de": "Bösewicht",
+  "ar": "الشرير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bösewichte"
+ },
+ {
+  "de": "Bücherregal",
+  "ar": "رف الكتب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bücherregale"
+ },
+ {
+  "de": "Bügel",
+  "ar": "العلاقة / الشماعة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bügel"
+ },
+ {
+  "de": "Bügelfalte",
+  "ar": "كسرة البنطلون المكوي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bügelfalten"
+ },
+ {
+  "de": "Bühnenauftritt",
+  "ar": "الظهور على المسرح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bühnenauftritte"
+ },
+ {
+  "de": "Bühnenbild",
+  "ar": "ديكور المسرح",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bühnenbilder"
+ },
+ {
+  "de": "Bühnenbildner",
+  "ar": "مصمم ديكور المسرح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bühnenbildner"
+ },
+ {
+  "de": "Bühnenpräsenz",
+  "ar": "الحضور المسرحي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bündel",
+  "ar": "الحزمة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bündel"
+ },
+ {
+  "de": "Bündnispartner",
+  "ar": "شريك التحالف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bündnispartner"
+ },
+ {
+  "de": "Bürgerbegehren",
+  "ar": "استفتاء شعبي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bürgerbegehren"
+ },
+ {
+  "de": "Bürgerbeteiligung",
+  "ar": "مشاركة المواطنين",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bürgerbündnis",
+  "ar": "تحالف المواطنين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bürgerbündnisse"
+ },
+ {
+  "de": "Bürgerentscheid",
+  "ar": "الاستفتاء الشعبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bürgerentscheide"
+ },
+ {
+  "de": "Bürgerfest",
+  "ar": "مهرجان المواطنين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bürgerfeste"
+ },
+ {
+  "de": "Bürgerforum",
+  "ar": "منتدى المواطنين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bürgerforen"
+ },
+ {
+  "de": "Bürgergeldempfänger",
+  "ar": "مستلم إعانة المواطن",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bürgergeldempfänger"
+ },
+ {
+  "de": "Bürgerinitiative",
+  "ar": "مبادرة المواطنين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bürgerinitiativen"
+ },
+ {
+  "de": "Bürgerkrieg",
+  "ar": "الحرب الأهلية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bürgerkriege"
+ },
+ {
+  "de": "Bürgermeisteramt",
+  "ar": "منصب العمدة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bürgermeisterämter"
+ },
+ {
+  "de": "Bürgernähe",
+  "ar": "القرب من المواطن",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bürgerpreis",
+  "ar": "جايزة المواطنين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bürgerpreise"
+ },
+ {
+  "de": "Bürgerrat",
+  "ar": "مجلس المواطنين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bürgerräte"
+ },
+ {
+  "de": "Bürgerrechtsbewegung",
+  "ar": "حركة الحقوق المدنية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bürgerrechtsbewegungen"
+ },
+ {
+  "de": "Bürgerverein",
+  "ar": "جمعية المواطنين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bürgervereine"
+ },
+ {
+  "de": "Bürgerwehr",
+  "ar": "الحرس المدني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bürgerwehren"
+ },
+ {
+  "de": "Bürgerzentrum",
+  "ar": "مركز المواطنين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bürgerzentren"
+ },
+ {
+  "de": "Büroalltag",
+  "ar": "يوميات المكتب",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Büroangestellte",
+  "ar": "موظف المكتب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Büroangestellten"
+ },
+ {
+  "de": "Bürofläche",
+  "ar": "مساحة المكاتب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Büroflächen"
+ },
+ {
+  "de": "Bürogebäude",
+  "ar": "مبنى المكاتب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bürogebäude"
+ },
+ {
+  "de": "Büschel",
+  "ar": "الحفنة (شعر/عشب)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Büschel"
+ },
+ {
+  "de": "CD",
+  "ar": "السي دي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "CDs"
+ },
+ {
+  "de": "COVID-Lockdown",
+  "ar": "إغلاق كورونا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "COVID-Lockdowns"
+ },
+ {
+  "de": "CPU",
+  "ar": "البروسيسور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "CPUs"
+ },
+ {
+  "de": "Cabaret",
+  "ar": "الكباريه",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Cabarets"
+ },
+ {
+  "de": "Calisthenics",
+  "ar": "تمارين الكاليسثينكس",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Camcorder",
+  "ar": "كاميرا الفيديو",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Camcorder"
+ },
+ {
+  "de": "Camperin",
+  "ar": "المخيمة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Camperinnen"
+ },
+ {
+  "de": "Campervan",
+  "ar": "عربة التخييم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Campervans"
+ },
+ {
+  "de": "Campingstuhl",
+  "ar": "كرسي التخييم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Campingstühle"
+ },
+ {
+  "de": "Cannabis-Club",
+  "ar": "نادي الحشيش",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Cannabis-Clubs"
+ },
+ {
+  "de": "Cannabis-Konsum",
+  "ar": "استهلاك الحشيش",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Cannabisgesetz",
+  "ar": "قانون الحشيش",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Cannabislegalisierung",
+  "ar": "تقنين الحشيش",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Cannabispflanze",
+  "ar": "نبتة الحشيش",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Cannabispflanzen"
+ },
+ {
+  "de": "Cannabisshop",
+  "ar": "محل الحشيش",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Cannabisshops"
+ },
+ {
+  "de": "Cap",
+  "ar": "الطاقية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Caps"
+ },
+ {
+  "de": "Capybara",
+  "ar": "الكابيبارا",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Capybaras"
+ },
+ {
+  "de": "Care-Arbeit",
+  "ar": "عمل الرعاية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Cartoon",
+  "ar": "الكرتون (رسم)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Cartoons"
+ },
+ {
+  "de": "Cast-Mitglied",
+  "ar": "عضو الفريق (فيلم)",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Cast-Mitglieder"
+ },
+ {
+  "de": "Casting-Show",
+  "ar": "برنامج اكتشاف المواهب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Casting-Shows"
+ }
+]
