@@ -1,0 +1,1012 @@
+[
+ {
+  "de": "minimieren",
+  "ar": "يقللها للحد الأدنى",
+  "pos": "verb"
+ },
+ {
+  "de": "mithalten",
+  "ar": "يجاري / يلحق عليه",
+  "pos": "verb"
+ },
+ {
+  "de": "mitlaufen",
+  "ar": "يجري معاهم",
+  "pos": "verb"
+ },
+ {
+  "de": "mitmischen",
+  "ar": "يدخل في اللعبة",
+  "pos": "verb"
+ },
+ {
+  "de": "musizieren",
+  "ar": "يعزف",
+  "pos": "verb"
+ },
+ {
+  "de": "nachholen",
+  "ar": "يعوض / يلحق الفايت",
+  "pos": "verb"
+ },
+ {
+  "de": "nachlesen",
+  "ar": "يقرا عنها",
+  "pos": "verb"
+ },
+ {
+  "de": "operieren",
+  "ar": "يعمل عملية",
+  "pos": "verb"
+ },
+ {
+  "de": "optimieren",
+  "ar": "يحسنها / يظبطها",
+  "pos": "verb"
+ },
+ {
+  "de": "plaudern",
+  "ar": "يتحادث / يفضفض",
+  "pos": "verb"
+ },
+ {
+  "de": "plädieren",
+  "ar": "يدافع عن قضية",
+  "pos": "verb"
+ },
+ {
+  "de": "polarisieren",
+  "ar": "يستقطب / يقسم",
+  "pos": "verb"
+ },
+ {
+  "de": "prophezeien",
+  "ar": "يتنبأ",
+  "pos": "verb"
+ },
+ {
+  "de": "protestieren",
+  "ar": "احتجوا",
+  "pos": "verb"
+ },
+ {
+  "de": "provozieren",
+  "ar": "يستفز",
+  "pos": "verb"
+ },
+ {
+  "de": "pushen",
+  "ar": "يدفع / يروج",
+  "pos": "verb"
+ },
+ {
+  "de": "quälen",
+  "ar": "يعذب / يعصر",
+  "pos": "verb"
+ },
+ {
+  "de": "reanimieren",
+  "ar": "يعمل إنعاش",
+  "pos": "verb"
+ },
+ {
+  "de": "reflektieren",
+  "ar": "يتأمل / يراجع نفسه",
+  "pos": "verb"
+ },
+ {
+  "de": "reformieren",
+  "ar": "يصلح النظام",
+  "pos": "verb"
+ },
+ {
+  "de": "rekonstruieren",
+  "ar": "يعيد بناء / تركيب",
+  "pos": "verb"
+ },
+ {
+  "de": "relativieren",
+  "ar": "ينسب / يهون من",
+  "pos": "verb"
+ },
+ {
+  "de": "reservieren",
+  "ar": "محجوزة",
+  "pos": "adj"
+ },
+ {
+  "de": "resümieren",
+  "ar": "يلخص / يستنتج",
+  "pos": "verb"
+ },
+ {
+  "de": "rückgängig",
+  "ar": "تراجع عنها",
+  "pos": "adj"
+ },
+ {
+  "de": "rütteln",
+  "ar": "يهز / يوقظ",
+  "pos": "verb"
+ },
+ {
+  "de": "scherzen",
+  "ar": "بيستهبل / يهزر",
+  "pos": "verb"
+ },
+ {
+  "de": "schimpfen",
+  "ar": "بيتذمر / يشتكي",
+  "pos": "verb"
+ },
+ {
+  "de": "schlüpfen",
+  "ar": "يتسلل / يفقس",
+  "pos": "verb"
+ },
+ {
+  "de": "schmieden",
+  "ar": "يصيغ / يدبر",
+  "pos": "verb"
+ },
+ {
+  "de": "schmälern",
+  "ar": "ينتقص من",
+  "pos": "verb"
+ },
+ {
+  "de": "schmücken",
+  "ar": "يزينها",
+  "pos": "verb"
+ },
+ {
+  "de": "schreiten",
+  "ar": "يتقدم بخطى",
+  "pos": "verb"
+ },
+ {
+  "de": "schwächeln",
+  "ar": "بيتثاقل / متعثر",
+  "pos": "verb"
+ },
+ {
+  "de": "schädigen",
+  "ar": "يضرها",
+  "pos": "verb"
+ },
+ {
+  "de": "servieren",
+  "ar": "يقدم الأكل",
+  "pos": "verb"
+ },
+ {
+  "de": "signalisieren",
+  "ar": "يديله إشارة",
+  "pos": "verb"
+ },
+ {
+  "de": "stabilisieren",
+  "ar": "يثبتها / يدعمها",
+  "pos": "verb"
+ },
+ {
+  "de": "stechen",
+  "ar": "يطعنه / يلسعه",
+  "pos": "verb"
+ },
+ {
+  "de": "streben",
+  "ar": "يسعى لـ",
+  "pos": "verb"
+ },
+ {
+  "de": "stufen",
+  "ar": "يصنفها",
+  "pos": "verb"
+ },
+ {
+  "de": "stützen",
+  "ar": "يدعمه / يسنده",
+  "pos": "verb"
+ },
+ {
+  "de": "thematisieren",
+  "ar": "يطرح الموضوع",
+  "pos": "verb"
+ },
+ {
+  "de": "tolerieren",
+  "ar": "يتسامح مع",
+  "pos": "verb"
+ },
+ {
+  "de": "touren",
+  "ar": "بيطوف / بيعمل جولة",
+  "pos": "verb"
+ },
+ {
+  "de": "täuschen",
+  "ar": "يغشه / يخدع",
+  "pos": "verb"
+ },
+ {
+  "de": "umwandeln",
+  "ar": "يحولها",
+  "pos": "verb"
+ },
+ {
+  "de": "umgeben",
+  "ar": "تحيط بـ",
+  "pos": "verb"
+ },
+ {
+  "de": "umhüllen",
+  "ar": "تغلفه / تغطيه",
+  "pos": "verb"
+ },
+ {
+  "de": "umplanen",
+  "ar": "يغير الخطة",
+  "pos": "verb"
+ },
+ {
+  "de": "unterdrücken",
+  "ar": "يقمع / يكبت",
+  "pos": "verb"
+ },
+ {
+  "de": "untermauern",
+  "ar": "يدعم حجته",
+  "pos": "verb"
+ },
+ {
+  "de": "veranschaulichen",
+  "ar": "يوضحها بالأمثلة",
+  "pos": "verb"
+ },
+ {
+  "de": "verbauen",
+  "ar": "يخسر فرصته / يبني غلط",
+  "pos": "verb"
+ },
+ {
+  "de": "verbrauchen",
+  "ar": "يستهلك",
+  "pos": "verb"
+ },
+ {
+  "de": "verbuchen",
+  "ar": "يسجلها (نجاح/فلوس)",
+  "pos": "verb"
+ },
+ {
+  "de": "verdeutlichen",
+  "ar": "يوضحها أكتر",
+  "pos": "verb"
+ },
+ {
+  "de": "verdreifachen",
+  "ar": "يتريبل / يتضاعف تلاتة",
+  "pos": "verb"
+ },
+ {
+  "de": "verdächtigen",
+  "ar": "يشتبه فيه",
+  "pos": "verb"
+ },
+ {
+  "de": "verfehlen",
+  "ar": "يفوت هدفه",
+  "pos": "verb"
+ },
+ {
+  "de": "verfallen",
+  "ar": "يسقط / يفسد",
+  "pos": "verb"
+ },
+ {
+  "de": "vergraben",
+  "ar": "يدفنها",
+  "pos": "verb"
+ },
+ {
+  "de": "vergreifen",
+  "ar": "يتعدى على / ياخد غلط",
+  "pos": "verb"
+ },
+ {
+  "de": "verkehren",
+  "ar": "يستخدم المواصلات / غلط",
+  "pos": "verb"
+ },
+ {
+  "de": "verkleiden",
+  "ar": "يتنكر",
+  "pos": "verb"
+ },
+ {
+  "de": "verkraften",
+  "ar": "يستحملها / يتقبلها",
+  "pos": "verb"
+ },
+ {
+  "de": "verkürzen",
+  "ar": "يقصرها",
+  "pos": "verb"
+ },
+ {
+  "de": "verlocken",
+  "ar": "مغرية / مغرية جدا",
+  "pos": "adj"
+ },
+ {
+  "de": "vermehren",
+  "ar": "يتكاثر / يزيد",
+  "pos": "verb"
+ },
+ {
+  "de": "vermengen",
+  "ar": "يخلط",
+  "pos": "verb"
+ },
+ {
+  "de": "vermischen",
+  "ar": "مدمجة / مخلوطة",
+  "pos": "adj"
+ },
+ {
+  "de": "vernetzen",
+  "ar": "مترابط / متواصل",
+  "pos": "adj"
+ },
+ {
+  "de": "verriegeln",
+  "ar": "يأمنها / يقفلها بالمفتاح",
+  "pos": "verb"
+ },
+ {
+  "de": "verschicken",
+  "ar": "يبعتها / يشحنها",
+  "pos": "verb"
+ },
+ {
+  "de": "verschleppen",
+  "ar": "ياخده رهينة / يؤجل",
+  "pos": "verb"
+ },
+ {
+  "de": "verschließen",
+  "ar": "يغلقها بإحكام",
+  "pos": "verb"
+ },
+ {
+  "de": "versiegeln",
+  "ar": "يختمها / يوثقها",
+  "pos": "verb"
+ },
+ {
+  "de": "verstricken",
+  "ar": "يتورط",
+  "pos": "verb"
+ },
+ {
+  "de": "vertiefen",
+  "ar": "يعمقها",
+  "pos": "verb"
+ },
+ {
+  "de": "vertragen",
+  "ar": "يتحملها / يتصالح",
+  "pos": "verb"
+ },
+ {
+  "de": "verunfallen",
+  "ar": "يعمل حادثة",
+  "pos": "verb"
+ },
+ {
+  "de": "verunglücken",
+  "ar": "يتعرض لحادث",
+  "pos": "verb"
+ },
+ {
+  "de": "verwaisen",
+  "ar": "يتيتم / يخلو",
+  "pos": "verb"
+ },
+ {
+  "de": "verwerfen",
+  "ar": "يرفضها / يرميها",
+  "pos": "verb"
+ },
+ {
+  "de": "verwundern",
+  "ar": "يتعجب / يسيب أثر",
+  "pos": "verb"
+ },
+ {
+  "de": "verüben",
+  "ar": "يرتكب (جريمة)",
+  "pos": "verb"
+ },
+ {
+  "de": "vorziehen",
+  "ar": "يقدمها (ميعاد)",
+  "pos": "verb"
+ },
+ {
+  "de": "weitergeben",
+  "ar": "يمررها / يوصلها",
+  "pos": "verb"
+ },
+ {
+  "de": "weiterleiten",
+  "ar": "يحولها (إيميل)",
+  "pos": "verb"
+ },
+ {
+  "de": "widersprechen",
+  "ar": "يناقض / يرد عليه",
+  "pos": "verb"
+ },
+ {
+  "de": "mild",
+  "ar": "معتدل / رحيم",
+  "pos": "adj"
+ },
+ {
+  "de": "milliardenschwer",
+  "ar": "بمليارات",
+  "pos": "adj"
+ },
+ {
+  "de": "mitgereist",
+  "ar": "مسافر معاه",
+  "pos": "adj"
+ },
+ {
+  "de": "mittelalterlich",
+  "ar": "من القرون الوسطى",
+  "pos": "adj"
+ },
+ {
+  "de": "nachdrücklich",
+  "ar": "بحسم / بتأكيد",
+  "pos": "adj"
+ },
+ {
+  "de": "nachfolgend",
+  "ar": "التالية",
+  "pos": "adj"
+ },
+ {
+  "de": "naiv",
+  "ar": "ساذج / برئ",
+  "pos": "adj"
+ },
+ {
+  "de": "naturgemäß",
+  "ar": "بطبيعة الحال",
+  "pos": "adv"
+ },
+ {
+  "de": "nebenbei",
+  "ar": "على جنب / بالمناسبة",
+  "pos": "adv"
+ },
+ {
+  "de": "nebeneinander",
+  "ar": "جنب بعض",
+  "pos": "adv"
+ },
+ {
+  "de": "nebensächlich",
+  "ar": "ثانوي / مش مهم",
+  "pos": "adj"
+ },
+ {
+  "de": "neunt",
+  "ar": "التاسع",
+  "pos": "adj"
+ },
+ {
+  "de": "niederösterreichisch",
+  "ar": "بتاع النمسا السفلى",
+  "pos": "adj"
+ },
+ {
+  "de": "nuklear",
+  "ar": "نووي",
+  "pos": "adj"
+ },
+ {
+  "de": "obig",
+  "ar": "المذكور فوق",
+  "pos": "adj"
+ },
+ {
+  "de": "olympisch",
+  "ar": "أولمبي",
+  "pos": "adj"
+ },
+ {
+  "de": "organisatorisch",
+  "ar": "تنظيمي",
+  "pos": "adj"
+ },
+ {
+  "de": "panisch",
+  "ar": "مرعوب / هستيري",
+  "pos": "adj"
+ },
+ {
+  "de": "perspektivisch",
+  "ar": "من منظور",
+  "pos": "adj"
+ },
+ {
+  "de": "physisch",
+  "ar": "جسدي / فيزيائي",
+  "pos": "adj"
+ },
+ {
+  "de": "pragmatisch",
+  "ar": "عملي / براجماتي",
+  "pos": "adj"
+ },
+ {
+  "de": "prima",
+  "ar": "زي الفل",
+  "pos": "adj"
+ },
+ {
+  "de": "prinzipiell",
+  "ar": "من حيث المبدأ",
+  "pos": "adj"
+ },
+ {
+  "de": "pro-iranisch",
+  "ar": "مؤيد لإيران",
+  "pos": "adj"
+ },
+ {
+  "de": "provisorisch",
+  "ar": "مؤقت / بدائي",
+  "pos": "adj"
+ },
+ {
+  "de": "publik",
+  "ar": "علني / معلن",
+  "pos": "adj"
+ },
+ {
+  "de": "pur",
+  "ar": "صافي / خالص",
+  "pos": "adj"
+ },
+ {
+  "de": "rar",
+  "ar": "نادرة",
+  "pos": "adj"
+ },
+ {
+  "de": "rauschend",
+  "ar": "صاخبة / هادرة",
+  "pos": "adj"
+ },
+ {
+  "de": "rechtskonservativ",
+  "ar": "يمين محافظ",
+  "pos": "adj"
+ },
+ {
+  "de": "regnerisch",
+  "ar": "ممطور",
+  "pos": "adj"
+ },
+ {
+  "de": "regulatorisch",
+  "ar": "تنظيمي / رقابي",
+  "pos": "adj"
+ },
+ {
+  "de": "reihenweise",
+  "ar": "بالجملة",
+  "pos": "adv"
+ },
+ {
+  "de": "respektlos",
+  "ar": "قليل الأدب",
+  "pos": "adj"
+ },
+ {
+  "de": "restauriert",
+  "ar": "مستعادة / مرممة",
+  "pos": "adj"
+ },
+ {
+  "de": "riskant",
+  "ar": "خطرة",
+  "pos": "adj"
+ },
+ {
+  "de": "rückwärts",
+  "ar": "لورا",
+  "pos": "adv"
+ },
+ {
+  "de": "sanft",
+  "ar": "ناعم / هادي",
+  "pos": "adj"
+ },
+ {
+  "de": "scheidend",
+  "ar": "مغادر / منتهي ولايته",
+  "pos": "adj"
+ },
+ {
+  "de": "schief",
+  "ar": "مائل / غلط",
+  "pos": "adj"
+ },
+ {
+  "de": "schlau",
+  "ar": "شاطر / ذكي",
+  "pos": "adj"
+ },
+ {
+  "de": "schlussendlich",
+  "ar": "في نهاية المطاف",
+  "pos": "adv"
+ },
+ {
+  "de": "schmerzhaft",
+  "ar": "مؤلمة",
+  "pos": "adj"
+ },
+ {
+  "de": "schrittweise",
+  "ar": "على مراحل",
+  "pos": "adv"
+ },
+ {
+  "de": "schwerwiegend",
+  "ar": "خطيرة",
+  "pos": "adj"
+ },
+ {
+  "de": "schwäbisch",
+  "ar": "شوابي (جنوب ألمانيا)",
+  "pos": "adj"
+ },
+ {
+  "de": "schwächer",
+  "ar": "أضعف شوية",
+  "pos": "adj"
+ },
+ {
+  "de": "schärfer",
+  "ar": "أشد / أحد",
+  "pos": "adj"
+ },
+ {
+  "de": "sechsköpfig",
+  "ar": "ست أفراد",
+  "pos": "adj"
+ },
+ {
+  "de": "sechsstellig",
+  "ar": "من ست أرقام",
+  "pos": "adj"
+ },
+ {
+  "de": "seinerseits",
+  "ar": "من ناحيته",
+  "pos": "adv"
+ },
+ {
+  "de": "selbstbewusst",
+  "ar": "واثق من نفسه",
+  "pos": "adj"
+ },
+ {
+  "de": "selbsternannt",
+  "ar": "معين نفسه",
+  "pos": "adj"
+ },
+ {
+  "de": "sensibel",
+  "ar": "حساسة",
+  "pos": "adj"
+ },
+ {
+  "de": "slowenisch",
+  "ar": "سلوفيني",
+  "pos": "adj"
+ },
+ {
+  "de": "sommerlich",
+  "ar": "صيفي",
+  "pos": "adj"
+ },
+ {
+  "de": "sozialdemokratisch",
+  "ar": "اشتراكي ديمقراطي",
+  "pos": "adj"
+ },
+ {
+  "de": "spezifisch",
+  "ar": "محددة / خاصة",
+  "pos": "adj"
+ },
+ {
+  "de": "spielerisch",
+  "ar": "بشكل لعوب / بسهولة",
+  "pos": "adj"
+ },
+ {
+  "de": "spitz",
+  "ar": "حداد / مدبب",
+  "pos": "adj"
+ },
+ {
+  "de": "stationär",
+  "ar": "داخلي (مستشفى)",
+  "pos": "adj"
+ },
+ {
+  "de": "steil",
+  "ar": "منحدر / واقف",
+  "pos": "adj"
+ },
+ {
+  "de": "steirisch",
+  "ar": "شتايري (النمسا)",
+  "pos": "adj"
+ },
+ {
+  "de": "straffällig",
+  "ar": "ذو سوابق",
+  "pos": "adj"
+ },
+ {
+  "de": "subtil",
+  "ar": "خفي / بارع",
+  "pos": "adj"
+ },
+ {
+  "de": "synthetisch",
+  "ar": "صناعي (كيميائي)",
+  "pos": "adj"
+ },
+ {
+  "de": "sächsische",
+  "ar": "السكسونية",
+  "pos": "adj"
+ },
+ {
+  "de": "südkoreanisch",
+  "ar": "كوري جنوبي",
+  "pos": "adj"
+ },
+ {
+  "de": "tabu",
+  "ar": "تابو / محظور",
+  "pos": "adj"
+ },
+ {
+  "de": "technologisch",
+  "ar": "تكنولوجي",
+  "pos": "adj"
+ },
+ {
+  "de": "touristisch",
+  "ar": "سياحي",
+  "pos": "adj"
+ },
+ {
+  "de": "toxisch",
+  "ar": "سام / مضر",
+  "pos": "adj"
+ },
+ {
+  "de": "transparent",
+  "ar": "شفاف",
+  "pos": "adj"
+ },
+ {
+  "de": "treibend",
+  "ar": "محرك / دافع",
+  "pos": "adj"
+ },
+ {
+  "de": "träge",
+  "ar": "كسول / خامد",
+  "pos": "adj"
+ },
+ {
+  "de": "tätlich",
+  "ar": "بالعنف الجسدي",
+  "pos": "adj"
+ },
+ {
+  "de": "umsetzbar",
+  "ar": "قابل للتنفيذ",
+  "pos": "adj"
+ },
+ {
+  "de": "umweltfreundlich",
+  "ar": "صديق للبيئة",
+  "pos": "adj"
+ },
+ {
+  "de": "unbeeindruckt",
+  "ar": "مش متأثر",
+  "pos": "adj"
+ },
+ {
+  "de": "unbemerkt",
+  "ar": "من غير ما حد يلاحظ",
+  "pos": "adj"
+ },
+ {
+  "de": "undenkbar",
+  "ar": "مش متخيل / مستحيل",
+  "pos": "adj"
+ },
+ {
+  "de": "unerfahren",
+  "ar": "قليل الخبرة",
+  "pos": "adj"
+ },
+ {
+  "de": "unfair",
+  "ar": "مش عادل",
+  "pos": "adj"
+ },
+ {
+  "de": "ungarisch",
+  "ar": "مجري",
+  "pos": "adj"
+ },
+ {
+  "de": "unterhaltsam",
+  "ar": "مسلية / ممتعة",
+  "pos": "adj"
+ },
+ {
+  "de": "untragbar",
+  "ar": "لا يطاق",
+  "pos": "adj"
+ },
+ {
+  "de": "unverzichtbar",
+  "ar": "لا غنى عنه",
+  "pos": "adj"
+ },
+ {
+  "de": "urheberrechtlich",
+  "ar": "حقوق ملكية",
+  "pos": "adj"
+ },
+ {
+  "de": "vage",
+  "ar": "غامض / مش محدد",
+  "pos": "adj"
+ },
+ {
+  "de": "vehement",
+  "ar": "بحدة / بقوة",
+  "pos": "adv"
+ },
+ {
+  "de": "verbleibend",
+  "ar": "المتبقي",
+  "pos": "adj"
+ },
+ {
+  "de": "verbraucht",
+  "ar": "مستهلكة",
+  "pos": "adj"
+ },
+ {
+  "de": "verfassungswidrig",
+  "ar": "غير دستوري",
+  "pos": "adj"
+ },
+ {
+  "de": "verfehlt",
+  "ar": "فاشل / مضلل",
+  "pos": "adj"
+ },
+ {
+  "de": "verregnet",
+  "ar": "ممطور / مزعن",
+  "pos": "adj"
+ },
+ {
+  "de": "verriegelt",
+  "ar": "مقفول بالضبة والمفتاح",
+  "pos": "adj"
+ },
+ {
+  "de": "verschlossen",
+  "ar": "مغلقة بإحكام",
+  "pos": "adj"
+ },
+ {
+  "de": "verständigt",
+  "ar": "متفاهم / متفق",
+  "pos": "adj"
+ },
+ {
+  "de": "vertraulich",
+  "ar": "سرية / شخصية",
+  "pos": "adj"
+ },
+ {
+  "de": "verwaist",
+  "ar": "ميتم / مهجور",
+  "pos": "adj"
+ },
+ {
+  "de": "verwundert",
+  "ar": "متعجب / مستغرب",
+  "pos": "adj"
+ },
+ {
+  "de": "vielem",
+  "ar": "كتير جدا",
+  "pos": "adv"
+ },
+ {
+  "de": "viereinhalb",
+  "ar": "أربعة ونص",
+  "pos": "part"
+ },
+ {
+  "de": "virtuell",
+  "ar": "افتراضي",
+  "pos": "adj"
+ },
+ {
+  "de": "vorbörslich",
+  "ar": "قبل فتح البورصة",
+  "pos": "adj"
+ },
+ {
+  "de": "vorgezogen",
+  "ar": "مقدم / معجل",
+  "pos": "adj"
+ },
+ {
+  "de": "vorwiegend",
+  "ar": "في الغالب",
+  "pos": "adv"
+ },
+ {
+  "de": "wahrlich",
+  "ar": "حقا / فعلا",
+  "pos": "adv"
+ },
+ {
+  "de": "weiterentwickelt",
+  "ar": "متطورة",
+  "pos": "adj"
+ },
+ {
+  "de": "weiterführend",
+  "ar": "تكميلي / متقدم",
+  "pos": "adj"
+ },
+ {
+  "de": "weitläufig",
+  "ar": "واسعة / مترامية",
+  "pos": "adj"
+ },
+ {
+  "de": "verändert",
+  "ar": "المتغيرة",
+  "pos": "adj"
+ }
+]
