@@ -1,0 +1,522 @@
+[
+ {
+  "de": "preislich",
+  "ar": "من ناحية السعر",
+  "pos": "adj"
+ },
+ {
+  "de": "proben",
+  "ar": "يتدرب / بروفة",
+  "pos": "verb"
+ },
+ {
+  "de": "profitabel",
+  "ar": "مربح",
+  "pos": "adj"
+ },
+ {
+  "de": "progressiv",
+  "ar": "تقدمي",
+  "pos": "adj"
+ },
+ {
+  "de": "projizieren",
+  "ar": "يعرض / يطلق",
+  "pos": "verb"
+ },
+ {
+  "de": "prompt",
+  "ar": "فوري / على طول",
+  "pos": "adj"
+ },
+ {
+  "de": "prophetisch",
+  "ar": "نبوي",
+  "pos": "adj"
+ },
+ {
+  "de": "provokant",
+  "ar": "مستفز",
+  "pos": "adj"
+ },
+ {
+  "de": "prächtig",
+  "ar": "فخم / جميل",
+  "pos": "adj"
+ },
+ {
+  "de": "prägend",
+  "ar": "مؤثر في تكوينه",
+  "pos": "adj"
+ },
+ {
+  "de": "präparieren",
+  "ar": "يجهز / يحضر",
+  "pos": "verb"
+ },
+ {
+  "de": "präventiv",
+  "ar": "وقائي",
+  "pos": "adj"
+ },
+ {
+  "de": "psychiatrisch",
+  "ar": "نفسي (طب)",
+  "pos": "adj"
+ },
+ {
+  "de": "publizieren",
+  "ar": "ينشر",
+  "pos": "verb"
+ },
+ {
+  "de": "puncto",
+  "ar": "في موضوع",
+  "pos": "prep"
+ },
+ {
+  "de": "qualitativ",
+  "ar": "نوعي",
+  "pos": "adj"
+ },
+ {
+  "de": "radeln",
+  "ar": "يركب عجلة",
+  "pos": "verb"
+ },
+ {
+  "de": "radikalisieren",
+  "ar": "يتطرف",
+  "pos": "verb"
+ },
+ {
+  "de": "ragen",
+  "ar": "يطلع / يبرز",
+  "pos": "verb"
+ },
+ {
+  "de": "rammen",
+  "ar": "يخبط فيه",
+  "pos": "verb"
+ },
+ {
+  "de": "rasend",
+  "ar": "مسعور / سريع جدا",
+  "pos": "adj"
+ },
+ {
+  "de": "rauswerfen",
+  "ar": "يطرده",
+  "pos": "verb"
+ },
+ {
+  "de": "rauskommen",
+  "ar": "يطلع / يخرج",
+  "pos": "verb"
+ },
+ {
+  "de": "realisierbar",
+  "ar": "قابل للتنفيذ",
+  "pos": "adj"
+ },
+ {
+  "de": "rechnerisch",
+  "ar": "حسابي",
+  "pos": "adj"
+ },
+ {
+  "de": "rechtmäßig",
+  "ar": "شرعي قانونيا",
+  "pos": "adj"
+ },
+ {
+  "de": "rechtskräftig",
+  "ar": "نهائي (حكم)",
+  "pos": "adj"
+ },
+ {
+  "de": "rechtspopulistisch",
+  "ar": "يميني شعبوي",
+  "pos": "adj"
+ },
+ {
+  "de": "referieren",
+  "ar": "يقدم تقرير",
+  "pos": "verb"
+ },
+ {
+  "de": "regenerativ",
+  "ar": "متجدد",
+  "pos": "adj"
+ },
+ {
+  "de": "regenreich",
+  "ar": "ممطر",
+  "pos": "adj"
+ },
+ {
+  "de": "reg",
+  "ar": "نشط / متحرك",
+  "pos": "adj"
+ },
+ {
+  "de": "reglos",
+  "ar": "ساكن تماما",
+  "pos": "adj"
+ },
+ {
+  "de": "reinschauen",
+  "ar": "يبص جوه",
+  "pos": "verb"
+ },
+ {
+  "de": "renaturieren",
+  "ar": "يرجعها لطبيعتها",
+  "pos": "verb"
+ },
+ {
+  "de": "repressiv",
+  "ar": "قمعي",
+  "pos": "adj"
+ },
+ {
+  "de": "repräsentativ",
+  "ar": "تمثيلي",
+  "pos": "adj"
+ },
+ {
+  "de": "resigniert",
+  "ar": "يائس / مستسلم",
+  "pos": "adj"
+ },
+ {
+  "de": "respektive",
+  "ar": "على التوالي",
+  "pos": "adv"
+ },
+ {
+  "de": "restriktiv",
+  "ar": "مقيد",
+  "pos": "adj"
+ },
+ {
+  "de": "resultieren",
+  "ar": "ينتج عن",
+  "pos": "verb"
+ },
+ {
+  "de": "retour",
+  "ar": "راجع / بالرجوع",
+  "pos": "adv"
+ },
+ {
+  "de": "revanchieren",
+  "ar": "يرد الصاع",
+  "pos": "verb"
+ },
+ {
+  "de": "richtungsweisend",
+  "ar": "رائد / مؤشر للاتجاه",
+  "pos": "adj"
+ },
+ {
+  "de": "rings",
+  "ar": "حوالين",
+  "pos": "adv"
+ },
+ {
+  "de": "runden",
+  "ar": "يقرب (رقم)",
+  "pos": "verb"
+ },
+ {
+  "de": "rückläufig",
+  "ar": "في انخفاض",
+  "pos": "adj"
+ },
+ {
+  "de": "rückwirkend",
+  "ar": "بأثر رجعي",
+  "pos": "adj"
+ },
+ {
+  "de": "sacken",
+  "ar": "يهبط / ينزل فجأة",
+  "pos": "verb"
+ },
+ {
+  "de": "sandig",
+  "ar": "رملي",
+  "pos": "adj"
+ },
+ {
+  "de": "schallen",
+  "ar": "يصدر صوت",
+  "pos": "verb"
+ },
+ {
+  "de": "schauspielern",
+  "ar": "يمثل",
+  "pos": "verb"
+ },
+ {
+  "de": "scheißegal",
+  "ar": "مش فارقة معاه خالص",
+  "pos": "adj"
+ },
+ {
+  "de": "scheren",
+  "ar": "يهمه / يقص",
+  "pos": "verb"
+ },
+ {
+  "de": "schick",
+  "ar": "شيك",
+  "pos": "adj"
+ },
+ {
+  "de": "schiefgehen",
+  "ar": "يبوظ / يمشي غلط",
+  "pos": "verb"
+ },
+ {
+  "de": "schleichend",
+  "ar": "تدريجي وخفي",
+  "pos": "adj"
+ },
+ {
+  "de": "schleifen",
+  "ar": "يجر / يسن",
+  "pos": "verb"
+ },
+ {
+  "de": "schlendern",
+  "ar": "يتمشى ببطء",
+  "pos": "verb"
+ },
+ {
+  "de": "schleppend",
+  "ar": "بطيء ومتعسر",
+  "pos": "adj"
+ },
+ {
+  "de": "schmackhaft",
+  "ar": "طعمه حلو",
+  "pos": "adj"
+ },
+ {
+  "de": "schuften",
+  "ar": "يشتغل بقسوة",
+  "pos": "verb"
+ },
+ {
+  "de": "schulisch",
+  "ar": "مدرسي",
+  "pos": "adj"
+ },
+ {
+  "de": "schultern",
+  "ar": "يشيل على كتفه",
+  "pos": "verb"
+ },
+ {
+  "de": "schwanken",
+  "ar": "يتذبذب / يتمايل",
+  "pos": "verb"
+ },
+ {
+  "de": "schweben",
+  "ar": "يحوم / يطفو",
+  "pos": "verb"
+ },
+ {
+  "de": "schwenken",
+  "ar": "يلف / يحول",
+  "pos": "verb"
+ },
+ {
+  "de": "schwingen",
+  "ar": "يهز / يتأرجح",
+  "pos": "verb"
+ },
+ {
+  "de": "schwächen",
+  "ar": "يضعف",
+  "pos": "verb"
+ },
+ {
+  "de": "schwören",
+  "ar": "يقسم",
+  "pos": "verb"
+ },
+ {
+  "de": "schädlich",
+  "ar": "ضار",
+  "pos": "adj"
+ },
+ {
+  "de": "schärfen",
+  "ar": "يسن / يشدد",
+  "pos": "verb"
+ },
+ {
+  "de": "schätzungsweise",
+  "ar": "تقديريا",
+  "pos": "adv"
+ },
+ {
+  "de": "sechsfach",
+  "ar": "ست أضعاف",
+  "pos": "adj"
+ },
+ {
+  "de": "sehnen",
+  "ar": "يشتاق",
+  "pos": "verb"
+ },
+ {
+  "de": "selbstsicher",
+  "ar": "واثق من نفسه",
+  "pos": "adj"
+ },
+ {
+  "de": "sensationell",
+  "ar": "مذهل",
+  "pos": "adj"
+ },
+ {
+  "de": "sensibilisieren",
+  "ar": "يوعي / يحسس",
+  "pos": "verb"
+ },
+ {
+  "de": "seriös",
+  "ar": "محترم / موثوق",
+  "pos": "adj"
+ },
+ {
+  "de": "sicherheitshalber",
+  "ar": "للاحتياط",
+  "pos": "adv"
+ },
+ {
+  "de": "sicherheitspolitisch",
+  "ar": "أمني (سياسة)",
+  "pos": "adj"
+ },
+ {
+  "de": "siegreich",
+  "ar": "منتصر",
+  "pos": "adj"
+ },
+ {
+  "de": "signifikant",
+  "ar": "ملحوظ / معنوي",
+  "pos": "adj"
+ },
+ {
+  "de": "silbern",
+  "ar": "فضي",
+  "pos": "adj"
+ },
+ {
+  "de": "simpel",
+  "ar": "بسيط",
+  "pos": "adj"
+ },
+ {
+  "de": "sinnbildlich",
+  "ar": "رمزي",
+  "pos": "adj"
+ },
+ {
+  "de": "sitzend",
+  "ar": "قاعد",
+  "pos": "adj"
+ },
+ {
+  "de": "sonnig",
+  "ar": "مشمس",
+  "pos": "adj"
+ },
+ {
+  "de": "sonstig",
+  "ar": "تاني / آخر",
+  "pos": "adj"
+ },
+ {
+  "de": "sowjetisch",
+  "ar": "سوفييتي",
+  "pos": "adj"
+ },
+ {
+  "de": "sparsam",
+  "ar": "موفر",
+  "pos": "adj"
+ },
+ {
+  "de": "spekulieren",
+  "ar": "يتكهن / يضارب",
+  "pos": "verb"
+ },
+ {
+  "de": "spenden",
+  "ar": "يتبرع",
+  "pos": "verb"
+ },
+ {
+  "de": "spritzen",
+  "ar": "يرش / يحقن",
+  "pos": "verb"
+ },
+ {
+  "de": "spruchreif",
+  "ar": "جاهز للإعلان",
+  "pos": "adj"
+ },
+ {
+  "de": "spucken",
+  "ar": "يبصق",
+  "pos": "verb"
+ },
+ {
+  "de": "stagnieren",
+  "ar": "يركد",
+  "pos": "verb"
+ },
+ {
+  "de": "standardisieren",
+  "ar": "يوحد المعيار",
+  "pos": "verb"
+ },
+ {
+  "de": "startbereit",
+  "ar": "جاهز للانطلاق",
+  "pos": "adj"
+ },
+ {
+  "de": "stationieren",
+  "ar": "ينشر (قوات)",
+  "pos": "verb"
+ },
+ {
+  "de": "statisch",
+  "ar": "ثابت",
+  "pos": "adj"
+ },
+ {
+  "de": "stattlich",
+  "ar": "مهيب / محترم الحجم",
+  "pos": "adj"
+ },
+ {
+  "de": "stauen",
+  "ar": "يتزحمق / يخزن",
+  "pos": "verb"
+ },
+ {
+  "de": "steinig",
+  "ar": "حجري",
+  "pos": "adj"
+ }
+]
