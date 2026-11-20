@@ -1,0 +1,811 @@
+[
+ {
+  "de": "Knochenbruch",
+  "ar": "كسر العضم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Knochenbrüche"
+ },
+ {
+  "de": "Knöllchen",
+  "ar": "مخالفة الركن",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Knöllchen"
+ },
+ {
+  "de": "Koalitionspartei",
+  "ar": "حزب الائتلاف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Koalitionsparteien"
+ },
+ {
+  "de": "Koalitionsvertrag",
+  "ar": "اتفاق الائتلاف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Koalitionsverträge"
+ },
+ {
+  "de": "Kobold",
+  "ar": "العفريت",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kobolde"
+ },
+ {
+  "de": "Kochkunst",
+  "ar": "فن الطبخ",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kochkünste"
+ },
+ {
+  "de": "Kochsalzlösung",
+  "ar": "المحلول الملحي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kochsalzlösungen"
+ },
+ {
+  "de": "Kochshow",
+  "ar": "برنامج الطبخ",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kochshows"
+ },
+ {
+  "de": "Kohleindustrie",
+  "ar": "صناعة الفحم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kohleindustrien"
+ },
+ {
+  "de": "Kohlendioxidemissionen",
+  "ar": "انبعاثات ثاني أكسيد الكربون",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Kohlenmonoxid",
+  "ar": "أول أكسيد الكربون",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Kollaboration",
+  "ar": "التعاون مع العدو",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kollaborationen"
+ },
+ {
+  "de": "Kollaps",
+  "ar": "الانهيار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kollapse"
+ },
+ {
+  "de": "Kollateralschaden",
+  "ar": "الضرر الجانبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kollateralschäden"
+ },
+ {
+  "de": "Kollegium",
+  "ar": "هيئة التدريس",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kollegien"
+ },
+ {
+  "de": "Kollektivstrafe",
+  "ar": "العقوبة الجماعية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kollektivstrafen"
+ },
+ {
+  "de": "Kollision",
+  "ar": "التصادم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kollisionen"
+ },
+ {
+  "de": "Kollisionskurs",
+  "ar": "مسار التصادم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kollisionskurse"
+ },
+ {
+  "de": "Kolonialismus",
+  "ar": "الاستعمارية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Kolumne",
+  "ar": "العمود الصحفي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kolumnen"
+ },
+ {
+  "de": "Kolumnistin",
+  "ar": "الكاتبة الصحفية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kolumnistinnen"
+ },
+ {
+  "de": "Komfortzone",
+  "ar": "منطقة الراحة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Komfortzonen"
+ },
+ {
+  "de": "Komik",
+  "ar": "الكوميديا",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Kommandeur",
+  "ar": "القائد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kommandeure"
+ },
+ {
+  "de": "Kommentarbereich",
+  "ar": "قسم التعليقات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kommentarbereiche"
+ },
+ {
+  "de": "Kommentator",
+  "ar": "المعلق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kommentatoren"
+ },
+ {
+  "de": "Kommilitone",
+  "ar": "زميل الجامعة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kommilitonen"
+ },
+ {
+  "de": "Kommunalpolitik",
+  "ar": "سياسة البلديات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Kommunikationskanal",
+  "ar": "قناة التواصل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kommunikationskanäle"
+ },
+ {
+  "de": "Kommunismus",
+  "ar": "الشيوعية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Kommunist",
+  "ar": "الشيوعي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kommunisten"
+ },
+ {
+  "de": "Kompensation",
+  "ar": "التعويض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kompensationen"
+ },
+ {
+  "de": "Komplettausfall",
+  "ar": "العطل الكامل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Komplettausfälle"
+ },
+ {
+  "de": "Komplettpaket",
+  "ar": "الباقة الكاملة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Komplettpakete"
+ },
+ {
+  "de": "Komplize",
+  "ar": "الشريك في الجريمة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Komplizen"
+ },
+ {
+  "de": "Komponente",
+  "ar": "المكون",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Komponenten"
+ },
+ {
+  "de": "Komposition",
+  "ar": "التأليف الموسيقي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kompositionen"
+ },
+ {
+  "de": "Kompost",
+  "ar": "الكومبوست",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Komposte"
+ },
+ {
+  "de": "Kompromissbereitschaft",
+  "ar": "الاستعداد للتسوية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Kompromisskandidat",
+  "ar": "مرشح التسوية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kompromisskandidaten"
+ },
+ {
+  "de": "Kondition",
+  "ar": "اللياقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Konditionen"
+ },
+ {
+  "de": "Konditorei",
+  "ar": "محل الحلواني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Konditoreien"
+ },
+ {
+  "de": "Kondolenzbuch",
+  "ar": "دفتر العزاء",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kondolenzbücher"
+ },
+ {
+  "de": "Konfession",
+  "ar": "الطائفة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Konfessionen"
+ },
+ {
+  "de": "Konfiszierung",
+  "ar": "المصادرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Konfiszierungen"
+ },
+ {
+  "de": "Konfitüre",
+  "ar": "المربى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Konfitüren"
+ },
+ {
+  "de": "Konfrontationskurs",
+  "ar": "مسار المواجهة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Konfrontationskurse"
+ },
+ {
+  "de": "Kongolese",
+  "ar": "الكونغولي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kongolesen"
+ },
+ {
+  "de": "Konjunktureinbruch",
+  "ar": "الكساد الاقتصادي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Konjunktureinbrüche"
+ },
+ {
+  "de": "Konklave",
+  "ar": "الكونكلاف",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Konklaven"
+ },
+ {
+  "de": "Konkurrenzdruck",
+  "ar": "ضغط المنافسة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Konkursverfahren",
+  "ar": "إجراءات الإفلاس",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Konkursverfahren"
+ },
+ {
+  "de": "Konsortium",
+  "ar": "الكونسورتيوم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Konsortien"
+ },
+ {
+  "de": "Konstitution",
+  "ar": "البنية الدستورية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Konstitutionen"
+ },
+ {
+  "de": "Konsumentenpreisindex",
+  "ar": "مؤشر أسعار المستهلك",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Konsumentenpreisindizes"
+ },
+ {
+  "de": "Konsumgüter",
+  "ar": "السلع الاستهلاكية",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Kontaktaufnahme",
+  "ar": "بدء التواصل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Konterattacke",
+  "ar": "الهجمة المرتدة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Konterattacken"
+ },
+ {
+  "de": "Kontertor",
+  "ar": "هدف الهجمة المرتدة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kontertore"
+ },
+ {
+  "de": "Kontingent",
+  "ar": "الحصة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kontingente"
+ },
+ {
+  "de": "Kontrollposten",
+  "ar": "نقطة التفتيش",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kontrollposten"
+ },
+ {
+  "de": "Kontrollverlust",
+  "ar": "فقدان السيطرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kontrollverluste"
+ },
+ {
+  "de": "Kontroverse",
+  "ar": "الجدل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kontroversen"
+ },
+ {
+  "de": "Konvention",
+  "ar": "الاتفاقية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Konventionen"
+ },
+ {
+  "de": "Konzentrationslager",
+  "ar": "معسكر الاعتقال",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Konzentrationslager"
+ },
+ {
+  "de": "Konzertabsage",
+  "ar": "إلغاء الحفلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Konzertabsagen"
+ },
+ {
+  "de": "Konzerthaus",
+  "ar": "دار الحفلات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Konzerthäuser"
+ },
+ {
+  "de": "Konzession",
+  "ar": "الامتياز",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Konzessionen"
+ },
+ {
+  "de": "Konzil",
+  "ar": "المجمع الكنسي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Konzilien"
+ },
+ {
+  "de": "Kopenhagen",
+  "ar": "كوبنهاجن",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Kopfarbeit",
+  "ar": "الشغل الذهني",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Kopfjäger",
+  "ar": "صائد الرؤوس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kopfjäger"
+ },
+ {
+  "de": "Kopfnuss",
+  "ar": "الدماغة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kopfnüsse"
+ },
+ {
+  "de": "Kopfschuss",
+  "ar": "رصاصة الراس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kopfschüsse"
+ },
+ {
+  "de": "Kopfsteinpflaster",
+  "ar": "البلاط الحجري",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Kopfverletzung",
+  "ar": "إصابة الراس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kopfverletzungen"
+ },
+ {
+  "de": "Kopiergerät",
+  "ar": "ماكينة التصوير",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kopiergeräte"
+ },
+ {
+  "de": "Koran",
+  "ar": "القرآن",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Korane"
+ },
+ {
+  "de": "Korrespondent",
+  "ar": "المراسل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Korrespondenten"
+ },
+ {
+  "de": "Korrespondentin",
+  "ar": "المراسلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Korrespondentinnen"
+ },
+ {
+  "de": "Korrespondenz",
+  "ar": "المراسلات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Korrespondenzen"
+ },
+ {
+  "de": "Korridor",
+  "ar": "الممر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Korridore"
+ },
+ {
+  "de": "Korruptionsvorwurf",
+  "ar": "اتهام الفساد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Korruptionsvorwürfe"
+ },
+ {
+  "de": "Koryphäe",
+  "ar": "الخبير الكبير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Koryphäen"
+ },
+ {
+  "de": "Kostenanschlag",
+  "ar": "تقدير التكاليف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kostenanschläge"
+ },
+ {
+  "de": "Kostenbremse",
+  "ar": "فرملة التكاليف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kostenbremsen"
+ },
+ {
+  "de": "Kosteneinsparung",
+  "ar": "توفير التكاليف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kosteneinsparungen"
+ },
+ {
+  "de": "Kostenerstattung",
+  "ar": "استرداد التكاليف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kostenerstattungen"
+ },
+ {
+  "de": "Kostenfalle",
+  "ar": "فخ التكاليف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kostenfallen"
+ },
+ {
+  "de": "Kostenspirale",
+  "ar": "حلزون التكاليف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kostenspiralen"
+ },
+ {
+  "de": "Krabbe",
+  "ar": "الكابوريا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Krabben"
+ },
+ {
+  "de": "Kraftakt",
+  "ar": "الجهد الخارق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kraftakte"
+ },
+ {
+  "de": "Kraftstoff",
+  "ar": "الوقود",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kraftstoffe"
+ },
+ {
+  "de": "Kraftstoffpreis",
+  "ar": "سعر الوقود",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kraftstoffpreise"
+ },
+ {
+  "de": "Krafttraining",
+  "ar": "تمرين القوة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Kralle",
+  "ar": "المخلب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Krallen"
+ },
+ {
+  "de": "Krankengeld",
+  "ar": "إعانة المرض",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Krankengelder"
+ },
+ {
+  "de": "Krankenhausaufenthalt",
+  "ar": "الإقامة في المستشفى",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Krankenhausaufenthalte"
+ },
+ {
+  "de": "Krankenhausbett",
+  "ar": "سرير المستشفى",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Krankenhausbetten"
+ },
+ {
+  "de": "Krankenpfleger",
+  "ar": "الممرض",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Krankenpfleger"
+ },
+ {
+  "de": "Krankheitserreger",
+  "ar": "مسبب المرض",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Krankheitserreger"
+ },
+ {
+  "de": "Krankheitsverlauf",
+  "ar": "مسار المرض",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Krankheitsverläufe"
+ },
+ {
+  "de": "Krankmeldung",
+  "ar": "إخطار الإجازة المرضية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Krankmeldungen"
+ },
+ {
+  "de": "Krankschreibung",
+  "ar": "الشهادة المرضية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Krankschreibungen"
+ },
+ {
+  "de": "Kraut",
+  "ar": "الكرنب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kräuter"
+ },
+ {
+  "de": "Krebserkrankung",
+  "ar": "مرض السرطان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Krebserkrankungen"
+ },
+ {
+  "de": "Krebsforschung",
+  "ar": "أبحاث السرطان",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Kreditgeber",
+  "ar": "المقرض",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kreditgeber"
+ },
+ {
+  "de": "Kreditzinsen",
+  "ar": "فوايد القروض",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Kreislaufprobleme",
+  "ar": "مشاكل الدورة الدموية",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Kreislaufwirtschaft",
+  "ar": "الاقتصاد الدائري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kreislaufwirtschaften"
+ },
+ {
+  "de": "Kreisliga",
+  "ar": "دوري المنطقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kreisligen"
+ },
+ {
+  "de": "Kreisläufer",
+  "ar": "لاعب الوسط (هاند)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kreisläufer"
+ },
+ {
+  "de": "Kreißsaal",
+  "ar": "غرفة الولادة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kreißsäle"
+ },
+ {
+  "de": "Kremlgegner",
+  "ar": "معارض الكرملين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kremlgegner"
+ },
+ {
+  "de": "Kreuzband",
+  "ar": "الرباط الصليبي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kreuzbänder"
+ },
+ {
+  "de": "Kreuzfahrtschiff",
+  "ar": "سفينة الرحلات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kreuzfahrtschiffe"
+ },
+ {
+  "de": "Kreuzigung",
+  "ar": "الصلب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kreuzigungen"
+ }
+]
