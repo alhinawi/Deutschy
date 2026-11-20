@@ -1,0 +1,399 @@
+[
+ {
+  "de": "zyklisch",
+  "ar": "دوري",
+  "pos": "adj"
+ },
+ {
+  "de": "zäh",
+  "ar": "عنيد / صلب",
+  "pos": "adj"
+ },
+ {
+  "de": "zögerlich",
+  "ar": "متردد",
+  "pos": "adj"
+ },
+ {
+  "de": "ästhetisch",
+  "ar": "جمالي",
+  "pos": "adj"
+ },
+ {
+  "de": "äußer",
+  "ar": "خارجي",
+  "pos": "adj"
+ },
+ {
+  "de": "überdacht",
+  "ar": "مغطى",
+  "pos": "adj"
+ },
+ {
+  "de": "übereinstimmend",
+  "ar": "متطابق",
+  "pos": "adj"
+ },
+ {
+  "de": "überfüllt",
+  "ar": "مزدحم جدا",
+  "pos": "adj"
+ },
+ {
+  "de": "übergehen",
+  "ar": "يتجاوز / ينقلب على",
+  "pos": "verb"
+ },
+ {
+  "de": "überheblich",
+  "ar": "متكبر",
+  "pos": "adj"
+ },
+ {
+  "de": "überlastet",
+  "ar": "مثقل",
+  "pos": "adj"
+ },
+ {
+  "de": "überliefern",
+  "ar": "ينقل بالتواتر",
+  "pos": "verb"
+ },
+ {
+  "de": "überqueren",
+  "ar": "يعبر",
+  "pos": "verb"
+ },
+ {
+  "de": "überraschenderweise",
+  "ar": "بشكل مفاجئ",
+  "pos": "adv"
+ },
+ {
+  "de": "überrumpeln",
+  "ar": "يفاجئه بهجوم",
+  "pos": "verb"
+ },
+ {
+  "de": "überschatten",
+  "ar": "يطغى عليه",
+  "pos": "verb"
+ },
+ {
+  "de": "überschaubar",
+  "ar": "محدود / معقول",
+  "pos": "adj"
+ },
+ {
+  "de": "überschlagen",
+  "ar": "يقدر بسرعة",
+  "pos": "verb"
+ },
+ {
+  "de": "überschwemmen",
+  "ar": "يغمر",
+  "pos": "verb"
+ },
+ {
+  "de": "übersteigen",
+  "ar": "يتجاوز",
+  "pos": "verb"
+ },
+ {
+  "de": "überstellen",
+  "ar": "يوديه لـ",
+  "pos": "verb"
+ },
+ {
+  "de": "übersät",
+  "ar": "مليان بـ",
+  "pos": "adj"
+ },
+ {
+  "de": "überwiegen",
+  "ar": "يغلب / يرجح",
+  "pos": "verb"
+ },
+ {
+  "de": "überwältigend",
+  "ar": "ساحق",
+  "pos": "adj"
+ },
+ {
+  "de": "überwältigen",
+  "ar": "يغلبه",
+  "pos": "verb"
+ },
+ {
+  "de": "überzeugend",
+  "ar": "مقنع",
+  "pos": "adj"
+ },
+ {
+  "de": "überziehen",
+  "ar": "يغطي / يسحب على المكشوف",
+  "pos": "verb"
+ },
+ {
+  "de": "üblicherweise",
+  "ar": "عادة",
+  "pos": "adv"
+ },
+ {
+  "de": "üppig",
+  "ar": "وفير / خصب",
+  "pos": "adj"
+ },
+ {
+  "de": "Überangebot",
+  "ar": "المعروض الزايد",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Überangebote"
+ },
+ {
+  "de": "Überbleibsel",
+  "ar": "البقية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Überbleibsel"
+ },
+ {
+  "de": "Überfahrt",
+  "ar": "الرحلة بالبحر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Überfahrten"
+ },
+ {
+  "de": "Überflutung",
+  "ar": "الفيضان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Überflutungen"
+ },
+ {
+  "de": "Überforderung",
+  "ar": "الإثقال / الحمل الزايد",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Übergewicht",
+  "ar": "الوزن الزايد",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Überlebenskampf",
+  "ar": "صراع البقاء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Überlebenskämpfe"
+ },
+ {
+  "de": "Überlegenheit",
+  "ar": "التفوق",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Übermittlung",
+  "ar": "الإرسال / التسليم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Übermittlungen"
+ },
+ {
+  "de": "Überreste",
+  "ar": "البقايا",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Überraschungstüte",
+  "ar": "كيس المفاجآت",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Überraschungstüten"
+ },
+ {
+  "de": "Überzahl",
+  "ar": "الأغلبية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Ästhetik",
+  "ar": "الجماليات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Öffnung",
+  "ar": "الفتحة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Öffnungen"
+ },
+ {
+  "de": "Ökostrom",
+  "ar": "الكهرباء الخضرا",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Ökosystem",
+  "ar": "النظام البيئي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ökosysteme"
+ },
+ {
+  "de": "Ölpreis",
+  "ar": "سعر البترول",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ölpreise"
+ },
+ {
+  "de": "Ölspur",
+  "ar": "أثر الزيت",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ölspuren"
+ },
+ {
+  "de": "Abberufung",
+  "ar": "العزل / الاستدعاء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abberufungen"
+ },
+ {
+  "de": "Abbild",
+  "ar": "الصورة المطابقة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Abbilder"
+ },
+ {
+  "de": "Abbruchfirma",
+  "ar": "شركة الهدم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abbruchfirmen"
+ },
+ {
+  "de": "Abdichten",
+  "ar": "العزل",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Abdriften",
+  "ar": "الانحراف التدريجي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Abenddämmerung",
+  "ar": "الغسق",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Abendkasse",
+  "ar": "شباك التذاكر بالليل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abendkassen"
+ },
+ {
+  "de": "Abendkleid",
+  "ar": "فستان السهرة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Abendkleider"
+ },
+ {
+  "de": "Abendsonne",
+  "ar": "شمس العشية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Abenteuerlust",
+  "ar": "روح المغامرة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Aberglaube",
+  "ar": "الخرافة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Abfallentsorgung",
+  "ar": "التخلص من الزبالة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abfallentsorgungen"
+ },
+ {
+  "de": "Abfallprodukt",
+  "ar": "المخلف",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Abfallprodukte"
+ },
+ {
+  "de": "Abfindung",
+  "ar": "التعويض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abfindungen"
+ },
+ {
+  "de": "Abfluss",
+  "ar": "البالوعة / التصريف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Abflüsse"
+ },
+ {
+  "de": "Abfuhr",
+  "ar": "الصرف / الهزيمة النكراء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abfuhren"
+ },
+ {
+  "de": "Abgas",
+  "ar": "العادم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Abgase"
+ },
+ {
+  "de": "Abgasemission",
+  "ar": "انبعاث العادم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abgasemissionen"
+ },
+ {
+  "de": "Abhilfe",
+  "ar": "الحل / التدارك",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Abholstation",
+  "ar": "نقطة الاستلام",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Abholstationen"
+ }
+]
