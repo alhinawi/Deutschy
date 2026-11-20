@@ -1,0 +1,952 @@
+[
+ {
+  "de": "befahren",
+  "ar": "يسلك الطريق",
+  "pos": "verb"
+ },
+ {
+  "de": "befallen",
+  "ar": "يجتاح / يصيب",
+  "pos": "verb"
+ },
+ {
+  "de": "beflügeln",
+  "ar": "يديله جناحات",
+  "pos": "verb"
+ },
+ {
+  "de": "begehren",
+  "ar": "يتمناه / يطمع فيه",
+  "pos": "verb"
+ },
+ {
+  "de": "beharren",
+  "ar": "يصر على",
+  "pos": "verb"
+ },
+ {
+  "de": "beherrschen",
+  "ar": "يتقنها / يسيطر",
+  "pos": "verb"
+ },
+ {
+  "de": "beilegen",
+  "ar": "يسوي / يحسمها",
+  "pos": "verb"
+ },
+ {
+  "de": "beirren",
+  "ar": "يثني عزمه",
+  "pos": "verb"
+ },
+ {
+  "de": "belästigen",
+  "ar": "يزعجه / يتحرش",
+  "pos": "verb"
+ },
+ {
+  "de": "bemängeln",
+  "ar": "يعيب / ينتقد",
+  "pos": "verb"
+ },
+ {
+  "de": "bereisen",
+  "ar": "يسافر فيها",
+  "pos": "verb"
+ },
+ {
+  "de": "berufen",
+  "ar": "يستند لـ / يعينه",
+  "pos": "verb"
+ },
+ {
+  "de": "beruhen",
+  "ar": "يقوم على",
+  "pos": "verb"
+ },
+ {
+  "de": "berücksichtigen",
+  "ar": "يحط في اعتباره",
+  "pos": "verb"
+ },
+ {
+  "de": "besagen",
+  "ar": "تقول / تعني",
+  "pos": "verb"
+ },
+ {
+  "de": "beschaffen",
+  "ar": "يؤمن / يجيب",
+  "pos": "verb"
+ },
+ {
+  "de": "beschlagnahmen",
+  "ar": "يصادرها",
+  "pos": "verb"
+ },
+ {
+  "de": "beschwören",
+  "ar": "يحلف / يستحلف",
+  "pos": "verb"
+ },
+ {
+  "de": "beseitigen",
+  "ar": "يزيلها",
+  "pos": "verb"
+ },
+ {
+  "de": "bestreiken",
+  "ar": "يضرب عن الشغل",
+  "pos": "verb"
+ },
+ {
+  "de": "beteuern",
+  "ar": "يؤكد بإلحاح",
+  "pos": "verb"
+ },
+ {
+  "de": "bevorstehen",
+  "ar": "قادم في الطريق",
+  "pos": "verb"
+ },
+ {
+  "de": "bewilligen",
+  "ar": "يوافق على صرف",
+  "pos": "verb"
+ },
+ {
+  "de": "bewohnen",
+  "ar": "ساكن فيه",
+  "pos": "verb"
+ },
+ {
+  "de": "bewähren",
+  "ar": "يثبت كفاءته",
+  "pos": "verb"
+ },
+ {
+  "de": "bezwingen",
+  "ar": "يقهره / يتغلب عليه",
+  "pos": "verb"
+ },
+ {
+  "de": "bremsen",
+  "ar": "يفرمل / يعطل",
+  "pos": "verb"
+ },
+ {
+  "de": "darstellen",
+  "ar": "يعرضها / يجسدها",
+  "pos": "verb"
+ },
+ {
+  "de": "distanzieren",
+  "ar": "يتبرأ / يبعد نفسه",
+  "pos": "verb"
+ },
+ {
+  "de": "durchbrechen",
+  "ar": "يخترق / يكسر",
+  "pos": "verb"
+ },
+ {
+  "de": "einarbeiten",
+  "ar": "يدربه على الشغل",
+  "pos": "verb"
+ },
+ {
+  "de": "einfahren",
+  "ar": "يدخل بعربيته / يحصد",
+  "pos": "verb"
+ },
+ {
+  "de": "einbetten",
+  "ar": "يدمجها / يضمنها",
+  "pos": "verb"
+ },
+ {
+  "de": "einblenden",
+  "ar": "يعرضها على الشاشة",
+  "pos": "verb"
+ },
+ {
+  "de": "einstehen",
+  "ar": "يعترف / يتقبل",
+  "pos": "verb"
+ },
+ {
+  "de": "eintragen",
+  "ar": "يسجلها / يقيدها",
+  "pos": "verb"
+ },
+ {
+  "de": "einschüchtern",
+  "ar": "يرهبه",
+  "pos": "verb"
+ },
+ {
+  "de": "einsparen",
+  "ar": "يوفر في",
+  "pos": "verb"
+ },
+ {
+  "de": "einordnen",
+  "ar": "يصنفها / يقيمها",
+  "pos": "verb"
+ },
+ {
+  "de": "empfinden",
+  "ar": "يحس / يشعر",
+  "pos": "verb"
+ },
+ {
+  "de": "entbinden",
+  "ar": "يولدها / يعفيه",
+  "pos": "verb"
+ },
+ {
+  "de": "entlasten",
+  "ar": "يخفف عنه",
+  "pos": "verb"
+ },
+ {
+  "de": "entpuppen",
+  "ar": "يطلع / يتضح",
+  "pos": "verb"
+ },
+ {
+  "de": "entrichten",
+  "ar": "يسددها",
+  "pos": "verb"
+ },
+ {
+  "de": "entsprechen",
+  "ar": "توافق مع",
+  "pos": "verb"
+ },
+ {
+  "de": "erachten",
+  "ar": "يعتبره",
+  "pos": "verb"
+ },
+ {
+  "de": "erfreuen",
+  "ar": "يسعده",
+  "pos": "verb"
+ },
+ {
+  "de": "ergattern",
+  "ar": "يظفر بـ / يخطفها",
+  "pos": "verb"
+ },
+ {
+  "de": "erkunden",
+  "ar": "يستكشف",
+  "pos": "verb"
+ },
+ {
+  "de": "erlangen",
+  "ar": "يحصل على / يكسب",
+  "pos": "verb"
+ },
+ {
+  "de": "ermutigen",
+  "ar": "يشجعه",
+  "pos": "verb"
+ },
+ {
+  "de": "erschweren",
+  "ar": "يصعبها",
+  "pos": "verb"
+ },
+ {
+  "de": "erstatten",
+  "ar": "يسددها / يقدم بلاغ",
+  "pos": "verb"
+ },
+ {
+  "de": "erstrecken",
+  "ar": "يمتد / يشمل",
+  "pos": "verb"
+ },
+ {
+  "de": "erwägen",
+  "ar": "يدرس احتمال",
+  "pos": "verb"
+ },
+ {
+  "de": "eskalierten",
+  "ar": "تصاعدت / انفجرت",
+  "pos": "verb"
+ },
+ {
+  "de": "fernhalten",
+  "ar": "يبعده عن",
+  "pos": "verb"
+ },
+ {
+  "de": "festhalten",
+  "ar": "يتمسك بـ / يوثق",
+  "pos": "verb"
+ },
+ {
+  "de": "fixieren",
+  "ar": "يثبت عينه على",
+  "pos": "verb"
+ },
+ {
+  "de": "forcieren",
+  "ar": "يسرع / يقوي",
+  "pos": "verb"
+ },
+ {
+  "de": "forschen",
+  "ar": "يبحث علميا",
+  "pos": "verb"
+ },
+ {
+  "de": "freilassen",
+  "ar": "أفرجوا عنه",
+  "pos": "verb"
+ },
+ {
+  "de": "frustrieren",
+  "ar": "مخنوق / محبط",
+  "pos": "verb"
+ },
+ {
+  "de": "ebnen",
+  "ar": "يمهد له الطريق",
+  "pos": "verb"
+ },
+ {
+  "de": "formen",
+  "ar": "يشكلها",
+  "pos": "verb"
+ },
+ {
+  "de": "gegensteuern",
+  "ar": "ياخد إجراء مضاد",
+  "pos": "verb"
+ },
+ {
+  "de": "hindern",
+  "ar": "يعيقه عن",
+  "pos": "verb"
+ },
+ {
+  "de": "impfen",
+  "ar": "متطعم / ماخد لقاح",
+  "pos": "adj"
+ },
+ {
+  "de": "kippen",
+  "ar": "قلبها / رفضها",
+  "pos": "verb"
+ },
+ {
+  "de": "kürzen",
+  "ar": "مخصوم / مقلص",
+  "pos": "adj"
+ },
+ {
+  "de": "gelangen",
+  "ar": "يوصل لـ",
+  "pos": "verb"
+ },
+ {
+  "de": "launen",
+  "ar": "مزاجه",
+  "pos": "verb"
+ },
+ {
+  "de": "platzen",
+  "ar": "انفجرت / اتلغت",
+  "pos": "verb"
+ },
+ {
+  "de": "schlucken",
+  "ar": "بلعها",
+  "pos": "verb"
+ },
+ {
+  "de": "schocken",
+  "ar": "مصدوم",
+  "pos": "adj"
+ },
+ {
+  "de": "schulen",
+  "ar": "متدرب / مؤهل",
+  "pos": "adj"
+ },
+ {
+  "de": "sondern",
+  "ar": "منفصل / خاص",
+  "pos": "adj"
+ },
+ {
+  "de": "stiften",
+  "ar": "تبرع بيه / أسسه",
+  "pos": "verb"
+ },
+ {
+  "de": "stillen",
+  "ar": "يرويه / يهديه",
+  "pos": "verb"
+ },
+ {
+  "de": "streamen",
+  "ar": "متبث",
+  "pos": "adj"
+ },
+ {
+  "de": "streiken",
+  "ar": "مضرب عن الشغل",
+  "pos": "adj"
+ },
+ {
+  "de": "stressen",
+  "ar": "مضغوط / متوتر",
+  "pos": "adj"
+ },
+ {
+  "de": "wandeln",
+  "ar": "متحول / متغير",
+  "pos": "adj"
+ },
+ {
+  "de": "gleiten",
+  "ar": "بينزلق",
+  "pos": "verb"
+ },
+ {
+  "de": "glätten",
+  "ar": "يسوي / يلمع",
+  "pos": "verb"
+ },
+ {
+  "de": "heimsuchen",
+  "ar": "يجتاح / يصيب",
+  "pos": "verb"
+ },
+ {
+  "de": "herausgeben",
+  "ar": "يصدرها / ينشرها",
+  "pos": "verb"
+ },
+ {
+  "de": "herumsprechen",
+  "ar": "الكلام انتشر",
+  "pos": "verb"
+ },
+ {
+  "de": "hervorheben",
+  "ar": "يبرز / يؤكد",
+  "pos": "verb"
+ },
+ {
+  "de": "hinlegen",
+  "ar": "ينام / يحطها",
+  "pos": "verb"
+ },
+ {
+  "de": "hinnehmen",
+  "ar": "يتقبلها على مضض",
+  "pos": "verb"
+ },
+ {
+  "de": "hinterfragen",
+  "ar": "يشكك فيها",
+  "pos": "verb"
+ },
+ {
+  "de": "bedeutsam",
+  "ar": "مهم / دلالي",
+  "pos": "adj"
+ },
+ {
+  "de": "beigelegt",
+  "ar": "مرفق",
+  "pos": "adj"
+ },
+ {
+  "de": "beiliegend",
+  "ar": "مرفق معاه",
+  "pos": "adj"
+ },
+ {
+  "de": "bereitwillig",
+  "ar": "مستعد بكل سرور",
+  "pos": "adj"
+ },
+ {
+  "de": "bergauf",
+  "ar": "طالع / في تحسن",
+  "pos": "adv"
+ },
+ {
+  "de": "besagt",
+  "ar": "المعني / المذكور",
+  "pos": "adj"
+ },
+ {
+  "de": "betriebsbedingt",
+  "ar": "لأسباب تشغيلية",
+  "pos": "adj"
+ },
+ {
+  "de": "betrügerisch",
+  "ar": "احتيالي / نصب",
+  "pos": "adj"
+ },
+ {
+  "de": "bewacht",
+  "ar": "محروس",
+  "pos": "adj"
+ },
+ {
+  "de": "bewährt",
+  "ar": "مجرب ومضمون",
+  "pos": "adj"
+ },
+ {
+  "de": "bezahlt",
+  "ar": "مدفوعة",
+  "pos": "adj"
+ },
+ {
+  "de": "bilateral",
+  "ar": "ثنائي",
+  "pos": "adj"
+ },
+ {
+  "de": "bisweilen",
+  "ar": "ساعات / أحيانا",
+  "pos": "adv"
+ },
+ {
+  "de": "bizarr",
+  "ar": "غريب الأطوار",
+  "pos": "adj"
+ },
+ {
+  "de": "bleibend",
+  "ar": "دائمة / باقية",
+  "pos": "adj"
+ },
+ {
+  "de": "blöd",
+  "ar": "غبية / مخييبة",
+  "pos": "adj"
+ },
+ {
+  "de": "boomt",
+  "ar": "مزدهر / عامل طفرة",
+  "pos": "adj"
+ },
+ {
+  "de": "brutto",
+  "ar": "إجمالي (قبل الخصم)",
+  "pos": "adv"
+ },
+ {
+  "de": "chancenlos",
+  "ar": "مفيهوش حظ",
+  "pos": "adj"
+ },
+ {
+  "de": "chaotisch",
+  "ar": "فوضوي",
+  "pos": "adj"
+ },
+ {
+  "de": "chemisch",
+  "ar": "كيميائي",
+  "pos": "adj"
+ },
+ {
+  "de": "chronologisch",
+  "ar": "بالترتيب الزمني",
+  "pos": "adj"
+ },
+ {
+  "de": "darauffolgend",
+  "ar": "التالي عليه",
+  "pos": "adj"
+ },
+ {
+  "de": "dazwischen",
+  "ar": "في النص بينهم",
+  "pos": "adv"
+ },
+ {
+  "de": "defensiv",
+  "ar": "دفاعي",
+  "pos": "adj"
+ },
+ {
+  "de": "demografisch",
+  "ar": "ديموغرافي / سكاني",
+  "pos": "adj"
+ },
+ {
+  "de": "derjenige",
+  "ar": "اللي / ذلك",
+  "pos": "part"
+ },
+ {
+  "de": "derselbe",
+  "ar": "عينه / نفس",
+  "pos": "part"
+ },
+ {
+  "de": "designiert",
+  "ar": "معين بالاسم",
+  "pos": "adj"
+ },
+ {
+  "de": "deutschsprachig",
+  "ar": "ناطق بالألماني",
+  "pos": "adj"
+ },
+ {
+  "de": "diskutiert",
+  "ar": "محل نقاش",
+  "pos": "adj"
+ },
+ {
+  "de": "donnerstags",
+  "ar": "أيام الخميس",
+  "pos": "adv"
+ },
+ {
+  "de": "dramatisch",
+  "ar": "أكثر دراما",
+  "pos": "adj"
+ },
+ {
+  "de": "dynamisch",
+  "ar": "ديناميكي / متحرك",
+  "pos": "adj"
+ },
+ {
+  "de": "edel",
+  "ar": "فخم / نبيل",
+  "pos": "adj"
+ },
+ {
+  "de": "ehest",
+  "ar": "أقرب وقت ممكن",
+  "pos": "adv"
+ },
+ {
+  "de": "einflussreich",
+  "ar": "مؤثر / واسع النفوذ",
+  "pos": "adj"
+ },
+ {
+  "de": "eingebettet",
+  "ar": "مدمج / محاط",
+  "pos": "adj"
+ },
+ {
+  "de": "eingetreten",
+  "ar": "واقع / حاصل",
+  "pos": "adj"
+ },
+ {
+  "de": "einigermaßen",
+  "ar": "لحد ما / نوعا ما",
+  "pos": "adv"
+ },
+ {
+  "de": "einsatzfähig",
+  "ar": "جاهز للعمل",
+  "pos": "adj"
+ },
+ {
+  "de": "einsetzbar",
+  "ar": "قابل للاستخدام",
+  "pos": "adj"
+ },
+ {
+  "de": "einwandfrei",
+  "ar": "سليم تماما",
+  "pos": "adj"
+ },
+ {
+  "de": "empfindlich",
+  "ar": "حساسة / غالية",
+  "pos": "adj"
+ },
+ {
+  "de": "entblößt",
+  "ar": "عارية / مكشوفة",
+  "pos": "adj"
+ },
+ {
+  "de": "entsetzt",
+  "ar": "مشمئز / مصدوم",
+  "pos": "adj"
+ },
+ {
+  "de": "enttäuschend",
+  "ar": "مخيبة للآمال",
+  "pos": "adj"
+ },
+ {
+  "de": "ergebnislos",
+  "ar": "من غير نتيجة",
+  "pos": "adj"
+ },
+ {
+  "de": "erfreulich",
+  "ar": "مبشر / مفرح",
+  "pos": "adj"
+ },
+ {
+  "de": "ernstzunehmend",
+  "ar": "جديرة بالاحترام",
+  "pos": "adj"
+ },
+ {
+  "de": "erschreckend",
+  "ar": "مرعبة",
+  "pos": "adj"
+ },
+ {
+  "de": "erschwert",
+  "ar": "متعقدة / متعسرة",
+  "pos": "adj"
+ },
+ {
+  "de": "erstaunlicherweise",
+  "ar": "بشكل مدهش",
+  "pos": "adv"
+ },
+ {
+  "de": "essenziell",
+  "ar": "أساسي / جوهري",
+  "pos": "adj"
+ },
+ {
+  "de": "fachlich",
+  "ar": "متخصص / فني",
+  "pos": "adj"
+ },
+ {
+  "de": "farblich",
+  "ar": "لونيا",
+  "pos": "adj"
+ },
+ {
+  "de": "fatal",
+  "ar": "قاتل / وخيم",
+  "pos": "adj"
+ },
+ {
+  "de": "feucht",
+  "ar": "مبلولة / رطبة",
+  "pos": "adj"
+ },
+ {
+  "de": "final",
+  "ar": "نهائي",
+  "pos": "adj"
+ },
+ {
+  "de": "finster",
+  "ar": "معتم / غامض",
+  "pos": "adj"
+ },
+ {
+  "de": "fix",
+  "ar": "ثابت / سريع",
+  "pos": "adj"
+ },
+ {
+  "de": "flexibel",
+  "ar": "مرن",
+  "pos": "adj"
+ },
+ {
+  "de": "folgerichtig",
+  "ar": "ومن ثم / منطقيا",
+  "pos": "adv"
+ },
+ {
+  "de": "fortgeschritten",
+  "ar": "متقدم / متطور",
+  "pos": "adj"
+ },
+ {
+  "de": "fraglich",
+  "ar": "مشكوك فيه",
+  "pos": "adj"
+ },
+ {
+  "de": "frustriert",
+  "ar": "محبط / مقهور",
+  "pos": "adj"
+ },
+ {
+  "de": "frühestens",
+  "ar": "أقرب وقت",
+  "pos": "adv"
+ },
+ {
+  "de": "frühzeitig",
+  "ar": "مبكر",
+  "pos": "adj"
+ },
+ {
+  "de": "funktionierend",
+  "ar": "شغالة تمام",
+  "pos": "adj"
+ },
+ {
+  "de": "führend",
+  "ar": "رائدة / قيادية",
+  "pos": "adj"
+ },
+ {
+  "de": "gegenüberliegend",
+  "ar": "اللي قصاد",
+  "pos": "adj"
+ },
+ {
+  "de": "geladen",
+  "ar": "مشحونة / مدعو",
+  "pos": "adj"
+ },
+ {
+  "de": "gelaunt",
+  "ar": "على مزاجه",
+  "pos": "adj"
+ },
+ {
+  "de": "geraumer",
+  "ar": "طويلة المدى",
+  "pos": "adj"
+ },
+ {
+  "de": "gesondert",
+  "ar": "منفصلة / مستقلة",
+  "pos": "adj"
+ },
+ {
+  "de": "gestiftet",
+  "ar": "ممولة / مهدى",
+  "pos": "adj"
+ },
+ {
+  "de": "gewagt",
+  "ar": "جريئة / خطرة",
+  "pos": "adj"
+ },
+ {
+  "de": "gewertet",
+  "ar": "محتسبة",
+  "pos": "adj"
+ },
+ {
+  "de": "gewonnen",
+  "ar": "مكسوبة",
+  "pos": "adj"
+ },
+ {
+  "de": "giftig",
+  "ar": "سام / مسموم",
+  "pos": "adj"
+ },
+ {
+  "de": "glaubwürdig",
+  "ar": "موثوق / مصدق",
+  "pos": "adj"
+ },
+ {
+  "de": "globalisiert",
+  "ar": "معولم",
+  "pos": "adj"
+ },
+ {
+  "de": "golden",
+  "ar": "ذهبية",
+  "pos": "adj"
+ },
+ {
+  "de": "grenzüberschreitend",
+  "ar": "عابر للحدود",
+  "pos": "adj"
+ },
+ {
+  "de": "großangelegt",
+  "ar": "ضخم النطاق",
+  "pos": "adj"
+ },
+ {
+  "de": "grundlegend",
+  "ar": "أساسي / جذري",
+  "pos": "adj"
+ },
+ {
+  "de": "hakt",
+  "ar": "فيه مشكلة تقنية",
+  "pos": "verb"
+ },
+ {
+  "de": "happy",
+  "ar": "مبسوط",
+  "pos": "adj"
+ },
+ {
+  "de": "harmonisch",
+  "ar": "متناغم / هادي",
+  "pos": "adj"
+ },
+ {
+  "de": "hartnäckig",
+  "ar": "عنيد / مستميت",
+  "pos": "adj"
+ },
+ {
+  "de": "hauptberuflich",
+  "ar": "شغلته الأساسية",
+  "pos": "adj"
+ },
+ {
+  "de": "hektisch",
+  "ar": "مجنون / سريع",
+  "pos": "adj"
+ },
+ {
+  "de": "herausfordernd",
+  "ar": "صعب / محفز",
+  "pos": "adj"
+ },
+ {
+  "de": "herbe",
+  "ar": "قاسية / حادة",
+  "pos": "adj"
+ },
+ {
+  "de": "hierbei",
+  "ar": "في هذا / هنا",
+  "pos": "part"
+ },
+ {
+  "de": "hiermit",
+  "ar": "بهذا / مع ده",
+  "pos": "part"
+ },
+ {
+  "de": "hinauf",
+  "ar": "لفوق",
+  "pos": "adv"
+ },
+ {
+  "de": "hinunter",
+  "ar": "لتحت",
+  "pos": "adv"
+ }
+]
