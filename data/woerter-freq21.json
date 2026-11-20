@@ -1,0 +1,912 @@
+[
+ {
+  "de": "Übergang",
+  "ar": "مرحلة انتقالية",
+  "pos": "noun"
+ },
+ {
+  "de": "Abitur",
+  "ar": "الثانوية العامة (بكالوريا ألمانيا)",
+  "pos": "noun"
+ },
+ {
+  "de": "Ablehnung",
+  "ar": "رفض / إجابة بلا",
+  "pos": "noun"
+ },
+ {
+  "de": "Abschaffung",
+  "ar": "إلغاء",
+  "pos": "noun"
+ },
+ {
+  "de": "Absicherung",
+  "ar": "تأمين / ضمان",
+  "pos": "noun"
+ },
+ {
+  "de": "Agenda",
+  "ar": "أجندة / برنامج",
+  "pos": "noun"
+ },
+ {
+  "de": "Akzeptanz",
+  "ar": "قبول / ترحاب",
+  "pos": "noun"
+ },
+ {
+  "de": "Amtsantritt",
+  "ar": "تسلم المنصب",
+  "pos": "noun"
+ },
+ {
+  "de": "Amtsinhaber",
+  "ar": "شاغل المنصب",
+  "pos": "noun"
+ },
+ {
+  "de": "Anbau",
+  "ar": "زراعة / ملحق",
+  "pos": "noun"
+ },
+ {
+  "de": "Angestellte",
+  "ar": "الموظفين",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Anwender",
+  "ar": "المستخدم",
+  "pos": "noun"
+ },
+ {
+  "de": "Arbeitskraft",
+  "ar": "أيدي عاملة",
+  "pos": "noun"
+ },
+ {
+  "de": "Aufführung",
+  "ar": "عرض مسرحي",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausblick",
+  "ar": "نظرة مستقبلية",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausfall",
+  "ar": "إلغاء / غياب",
+  "pos": "noun"
+ },
+ {
+  "de": "Auslastung",
+  "ar": "نسبة الإشغال",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Auslöser",
+  "ar": "السبب / الزناد",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausschreibung",
+  "ar": "مناقصة",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausschreitung",
+  "ar": "أعمال شغب",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausstieg",
+  "ar": "انسحاب / خروج",
+  "pos": "noun"
+ },
+ {
+  "de": "Behauptung",
+  "ar": "ادعاء",
+  "pos": "noun"
+ },
+ {
+  "de": "Behinderung",
+  "ar": "إعاقة",
+  "pos": "noun"
+ },
+ {
+  "de": "Bekanntgabe",
+  "ar": "إعلان رسمي",
+  "pos": "noun"
+ },
+ {
+  "de": "Belastung",
+  "ar": "عبء / ضغط",
+  "pos": "noun"
+ },
+ {
+  "de": "Beratung",
+  "ar": "استشارة / جلسة نقاش",
+  "pos": "noun"
+ },
+ {
+  "de": "Berichterstattung",
+  "ar": "تغطية صحفية",
+  "pos": "noun"
+ },
+ {
+  "de": "Beschuss",
+  "ar": "قصف ناري",
+  "pos": "noun"
+ },
+ {
+  "de": "Bestseller",
+  "ar": "الأكتر مبيعا",
+  "pos": "noun"
+ },
+ {
+  "de": "Bitcoin",
+  "ar": "بيتكوين",
+  "pos": "noun"
+ },
+ {
+  "de": "Bodensee",
+  "ar": "بحيرة بودنزيه",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Brandmauer",
+  "ar": "السور الناري (ضد اليمين)",
+  "pos": "noun"
+ },
+ {
+  "de": "Bundesanwaltschaft",
+  "ar": "النيابة الفيدرالية",
+  "pos": "noun"
+ },
+ {
+  "de": "Bundesstaat",
+  "ar": "ولاية فيدرالية",
+  "pos": "noun"
+ },
+ {
+  "de": "Bundestagsabgeordnete",
+  "ar": "نائب برلماني",
+  "pos": "noun"
+ },
+ {
+  "de": "Bürgerhaus",
+  "ar": "مركز شبابي",
+  "pos": "noun"
+ },
+ {
+  "de": "Cheftrainer",
+  "ar": "المدير الفني",
+  "pos": "noun"
+ },
+ {
+  "de": "Chemotherapie",
+  "ar": "علاج كيماوي",
+  "pos": "noun"
+ },
+ {
+  "de": "Comic",
+  "ar": "قصص مصورة",
+  "pos": "noun"
+ },
+ {
+  "de": "Demenz",
+  "ar": "خرف",
+  "pos": "noun"
+ },
+ {
+  "de": "Diskurs",
+  "ar": "نقاش مجتمعي",
+  "pos": "noun"
+ },
+ {
+  "de": "Download",
+  "ar": "تحميل",
+  "pos": "noun"
+ },
+ {
+  "de": "Durchführung",
+  "ar": "تنفيذ / إجراء",
+  "pos": "noun"
+ },
+ {
+  "de": "EU-Wahl",
+  "ar": "انتخابات أوروبا",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Ehepaar",
+  "ar": "جوز ومراته",
+  "pos": "noun"
+ },
+ {
+  "de": "Einflussnahme",
+  "ar": "محاولة تأثير",
+  "pos": "noun"
+ },
+ {
+  "de": "Einreise",
+  "ar": "دخول البلد",
+  "pos": "noun"
+ },
+ {
+  "de": "Elbe",
+  "ar": "نهر الإلبه",
+  "pos": "noun"
+ },
+ {
+  "de": "Emission",
+  "ar": "انبعاثات",
+  "pos": "noun"
+ },
+ {
+  "de": "Empfehlung",
+  "ar": "توصيات / ترشيحات",
+  "pos": "noun"
+ },
+ {
+  "de": "Endspiel",
+  "ar": "النهائي",
+  "pos": "noun"
+ },
+ {
+  "de": "Energiekrise",
+  "ar": "أزمة الطاقة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Engländer",
+  "ar": "الإنجليز",
+  "pos": "noun"
+ },
+ {
+  "de": "Entsorgung",
+  "ar": "تخلص من زبالة",
+  "pos": "noun"
+ },
+ {
+  "de": "Entstehung",
+  "ar": "نشأة / تكوين",
+  "pos": "noun"
+ },
+ {
+  "de": "Entwarnung",
+  "ar": "إنهاء الإنذار",
+  "pos": "noun"
+ },
+ {
+  "de": "Erdgas",
+  "ar": "غاز طبيعي",
+  "pos": "noun"
+ },
+ {
+  "de": "Erfolgsgeschichte",
+  "ar": "قصة نجاح",
+  "pos": "noun"
+ },
+ {
+  "de": "Ergänzung",
+  "ar": "إضافة / تكملة",
+  "pos": "noun"
+ },
+ {
+  "de": "Eröffnungsfeier",
+  "ar": "حفل الافتتاح",
+  "pos": "noun"
+ },
+ {
+  "de": "Euphorie",
+  "ar": "نشوة / حماس",
+  "pos": "noun"
+ },
+ {
+  "de": "Fahne",
+  "ar": "أعلام",
+  "pos": "noun"
+ },
+ {
+  "de": "Fahrerin",
+  "ar": "السواقة (ست)",
+  "pos": "noun"
+ },
+ {
+  "de": "Fertigstellung",
+  "ar": "إنهاء / استكمال",
+  "pos": "noun"
+ },
+ {
+  "de": "Festland",
+  "ar": "اليابسة",
+  "pos": "noun"
+ },
+ {
+  "de": "Feuchtigkeit",
+  "ar": "رطوبة",
+  "pos": "noun"
+ },
+ {
+  "de": "Finanzministerium",
+  "ar": "وزارة المالية",
+  "pos": "noun"
+ },
+ {
+  "de": "Flanke",
+  "ar": "عرضية (كورة)",
+  "pos": "noun"
+ },
+ {
+  "de": "Follower",
+  "ar": "متابعين",
+  "pos": "noun"
+ },
+ {
+  "de": "Forschungsteam",
+  "ar": "فريق أبحاث",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Freigabe",
+  "ar": "موافقة / إفراج",
+  "pos": "noun"
+ },
+ {
+  "de": "Freistaat",
+  "ar": "ولاية حرة (بافاريا/ساكسونيا)",
+  "pos": "noun"
+ },
+ {
+  "de": "Fülle",
+  "ar": "وفرة / كم كبير",
+  "pos": "noun"
+ },
+ {
+  "de": "Garantie",
+  "ar": "ضمان",
+  "pos": "noun"
+ },
+ {
+  "de": "Gegebenheit",
+  "ar": "ظروف قائمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Gegenzug",
+  "ar": "رد فعل / مقابل",
+  "pos": "noun"
+ },
+ {
+  "de": "Gehege",
+  "ar": "حظيرة حيوانات",
+  "pos": "noun"
+ },
+ {
+  "de": "Genre",
+  "ar": "نوع فني",
+  "pos": "noun"
+ },
+ {
+  "de": "Gestaltung",
+  "ar": "تصميم / تشكيل",
+  "pos": "noun"
+ },
+ {
+  "de": "Gesundheitsversorgung",
+  "ar": "الرعاية الصحية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gottesdienst",
+  "ar": "قداس / صلاة",
+  "pos": "noun"
+ },
+ {
+  "de": "Grafik",
+  "ar": "جرافيك / رسوم",
+  "pos": "noun"
+ },
+ {
+  "de": "Grenzkontrolle",
+  "ar": "نقاط تفتيش حدودية",
+  "pos": "noun"
+ },
+ {
+  "de": "Handlungsbedarf",
+  "ar": "حاجة للتحرك",
+  "pos": "noun"
+ },
+ {
+  "de": "Hetze",
+  "ar": "حملة تحريض",
+  "pos": "noun"
+ },
+ {
+  "de": "Hochtouren",
+  "ar": "أقصى سرعة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Hürde",
+  "ar": "عقبة / حاجز",
+  "pos": "noun"
+ },
+ {
+  "de": "Idealfall",
+  "ar": "أحسن سيناريو",
+  "pos": "noun"
+ },
+ {
+  "de": "Import",
+  "ar": "واردات",
+  "pos": "noun"
+ },
+ {
+  "de": "Impuls",
+  "ar": "دفعة / شرارة",
+  "pos": "noun"
+ },
+ {
+  "de": "Inland",
+  "ar": "الداخل (البلد)",
+  "pos": "noun"
+ },
+ {
+  "de": "Innenhof",
+  "ar": "فناء داخلي",
+  "pos": "noun"
+ },
+ {
+  "de": "Islamist",
+  "ar": "إسلامويين متطرفين",
+  "pos": "noun"
+ },
+ {
+  "de": "Jahrgang",
+  "ar": "دفعة / إنتاج سنة",
+  "pos": "noun"
+ },
+ {
+  "de": "Justizvollzugsanstalt",
+  "ar": "سجن",
+  "pos": "noun"
+ },
+ {
+  "de": "KI-Systeme",
+  "ar": "أنظمة ذكاء اصطناعي",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "Kapazität",
+  "ar": "قدرات استيعابية",
+  "pos": "noun"
+ },
+ {
+  "de": "Kirmes",
+  "ar": "مولد / ملاهي شعبية",
+  "pos": "noun"
+ },
+ {
+  "de": "Kleinstadt",
+  "ar": "مدينة صغيرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Klimakrise",
+  "ar": "أزمة المناخ",
+  "pos": "noun"
+ },
+ {
+  "de": "Klimawandel",
+  "ar": "تغير المناخ",
+  "pos": "noun"
+ },
+ {
+  "de": "Klinikum",
+  "ar": "مستشفى جامعي",
+  "pos": "noun"
+ },
+ {
+  "de": "Koalitionspartner",
+  "ar": "شريك الائتلاف",
+  "pos": "noun"
+ },
+ {
+  "de": "Kommunalwahl",
+  "ar": "انتخابات المحليات",
+  "pos": "noun"
+ },
+ {
+  "de": "Konstruktion",
+  "ar": "تصميم هندسي",
+  "pos": "noun"
+ },
+ {
+  "de": "Konsument",
+  "ar": "مستهلكين",
+  "pos": "noun"
+ },
+ {
+  "de": "Kontinent",
+  "ar": "قارة",
+  "pos": "noun"
+ },
+ {
+  "de": "Kryptowährung",
+  "ar": "عملات مشفرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Kunstwerk",
+  "ar": "لوحات فنية",
+  "pos": "noun"
+ },
+ {
+  "de": "EU-Parlament",
+  "ar": "برلمان أوروبا",
+  "pos": "noun"
+ },
+ {
+  "de": "Bube",
+  "ar": "واد صغير",
+  "pos": "noun"
+ },
+ {
+  "de": "irritieren",
+  "ar": "يربك / يستفز",
+  "pos": "verb"
+ },
+ {
+  "de": "kommunizieren",
+  "ar": "يتواصل / يعلن",
+  "pos": "verb"
+ },
+ {
+  "de": "mahnen",
+  "ar": "ينبه / يحذر",
+  "pos": "verb"
+ },
+ {
+  "de": "missbrauchen",
+  "ar": "يستغل / يعتدي",
+  "pos": "verb"
+ },
+ {
+  "de": "nachweisen",
+  "ar": "يثبت بالدليل",
+  "pos": "verb"
+ },
+ {
+  "de": "orientieren",
+  "ar": "يوجه نفسه لـ",
+  "pos": "verb"
+ },
+ {
+  "de": "pflegen",
+  "ar": "يرعى / يعتني بـ",
+  "pos": "verb"
+ },
+ {
+  "de": "transportieren",
+  "ar": "ينقل",
+  "pos": "verb"
+ },
+ {
+  "de": "umstellen",
+  "ar": "يحول / يغير نظام",
+  "pos": "verb"
+ },
+ {
+  "de": "unterbringen",
+  "ar": "يسكنهم / يوفر مكان",
+  "pos": "verb"
+ },
+ {
+  "de": "wehren",
+  "ar": "يدافع عن نفسه",
+  "pos": "verb"
+ },
+ {
+  "de": "widmen",
+  "ar": "يكرس وقته لـ",
+  "pos": "verb"
+ },
+ {
+  "de": "überlassen",
+  "ar": "يسيبهاله",
+  "pos": "verb"
+ },
+ {
+  "de": "überreichen",
+  "ar": "يسلمها رسميا",
+  "pos": "verb"
+ },
+ {
+  "de": "widmet",
+  "ar": "يهدي / يخصص",
+  "pos": "verb"
+ },
+ {
+  "de": "geregelt",
+  "ar": "منظم / مقنن",
+  "pos": "adj"
+ },
+ {
+  "de": "gereist",
+  "ar": "مسافر",
+  "pos": "adj"
+ },
+ {
+  "de": "gespannt",
+  "ar": "متشوق / قلقان",
+  "pos": "adj"
+ },
+ {
+  "de": "gestrichen",
+  "ar": "ملغي / مشطوب",
+  "pos": "adj"
+ },
+ {
+  "de": "gewünscht",
+  "ar": "مطلوب / مرغوب",
+  "pos": "adj"
+ },
+ {
+  "de": "gleichermaßen",
+  "ar": "بنفس القدر / على السواء",
+  "pos": "adv"
+ },
+ {
+  "de": "größtenteils",
+  "ar": "في معظمه",
+  "pos": "adv"
+ },
+ {
+  "de": "größt",
+  "ar": "أكبر",
+  "pos": "adj"
+ },
+ {
+  "de": "gründlich",
+  "ar": "جذري / بدقة",
+  "pos": "adj"
+ },
+ {
+  "de": "gültig",
+  "ar": "ساري / صالح",
+  "pos": "adj"
+ },
+ {
+  "de": "hessisch",
+  "ar": "بتاع هسن",
+  "pos": "adj"
+ },
+ {
+  "de": "heurig",
+  "ar": "بتاع السنة دي",
+  "pos": "adj"
+ },
+ {
+  "de": "humanitär",
+  "ar": "إنساني (إغاثة)",
+  "pos": "adj"
+ },
+ {
+  "de": "intern",
+  "ar": "داخلي / سري",
+  "pos": "adj"
+ },
+ {
+  "de": "irritiert",
+  "ar": "مستغرب / مش فاهم",
+  "pos": "adj"
+ },
+ {
+  "de": "körperlich",
+  "ar": "جسدي / بدني",
+  "pos": "adj"
+ },
+ {
+  "de": "künstlerisch",
+  "ar": "فني",
+  "pos": "adj"
+ },
+ {
+  "de": "lebensgefährlich",
+  "ar": "ممكن يقتل",
+  "pos": "adj"
+ },
+ {
+  "de": "ländlich",
+  "ar": "ريفي",
+  "pos": "adj"
+ },
+ {
+  "de": "mehrheitlich",
+  "ar": "بالأغلبية",
+  "pos": "adj"
+ },
+ {
+  "de": "männlich",
+  "ar": "ذكوري",
+  "pos": "adj"
+ },
+ {
+  "de": "nachgewiesen",
+  "ar": "مثبت علميا",
+  "pos": "adj"
+ },
+ {
+  "de": "notfalls",
+  "ar": "لو لزم الأمر",
+  "pos": "adv"
+ },
+ {
+  "de": "oberhalb",
+  "ar": "فوق من",
+  "pos": "part"
+ },
+ {
+  "de": "optimal",
+  "ar": "مثالي / أحسن حاجة",
+  "pos": "adj"
+ },
+ {
+  "de": "parallel",
+  "ar": "في نفس الوقت",
+  "pos": "adv"
+ },
+ {
+  "de": "passend",
+  "ar": "مناسبة",
+  "pos": "adj"
+ },
+ {
+  "de": "personell",
+  "ar": "بتاع موظفين",
+  "pos": "adj"
+ },
+ {
+  "de": "professionell",
+  "ar": "احترافي",
+  "pos": "adj"
+ },
+ {
+  "de": "prominent",
+  "ar": "مشهور / وجه معروف",
+  "pos": "adj"
+ },
+ {
+  "de": "präzise",
+  "ar": "دقيق",
+  "pos": "adj"
+ },
+ {
+  "de": "quer",
+  "ar": "عرضي / في كل حتة",
+  "pos": "adv"
+ },
+ {
+  "de": "reibungslos",
+  "ar": "سلس / من غير مشاكل",
+  "pos": "adj"
+ },
+ {
+  "de": "reichlich",
+  "ar": "بكثرة / وفير",
+  "pos": "adv"
+ },
+ {
+  "de": "renoviert",
+  "ar": "متجدد / معمول صيانة",
+  "pos": "adj"
+ },
+ {
+  "de": "republikanisch",
+  "ar": "جمهوري",
+  "pos": "adj"
+ },
+ {
+  "de": "sorgfältig",
+  "ar": "بعناية",
+  "pos": "adv"
+ },
+ {
+  "de": "sowieso",
+  "ar": "أصلا / على أي حال",
+  "pos": "adv"
+ },
+ {
+  "de": "spektakulär",
+  "ar": "مذهل / عالمي",
+  "pos": "adj"
+ },
+ {
+  "de": "systematisch",
+  "ar": "منهجي",
+  "pos": "adj"
+ },
+ {
+  "de": "umkämpft",
+  "ar": "متنازع عليه",
+  "pos": "adj"
+ },
+ {
+  "de": "untergebracht",
+  "ar": "متسكن / متحطوط",
+  "pos": "adj"
+ },
+ {
+  "de": "unterhalb",
+  "ar": "تحت من",
+  "pos": "part"
+ },
+ {
+  "de": "unzufrieden",
+  "ar": "مش راضي",
+  "pos": "adj"
+ },
+ {
+  "de": "verheerend",
+  "ar": "مدمر / كارثي",
+  "pos": "adj"
+ },
+ {
+  "de": "verkauft",
+  "ar": "مبيوع / اتباع",
+  "pos": "adj"
+ },
+ {
+  "de": "vonseiten",
+  "ar": "من جهة",
+  "pos": "part"
+ },
+ {
+  "de": "weitaus",
+  "ar": "بكتير قوي",
+  "pos": "adv"
+ },
+ {
+  "de": "wenigstens",
+  "ar": "على الأقل",
+  "pos": "adv"
+ },
+ {
+  "de": "wodurch",
+  "ar": "ومن خلاله",
+  "pos": "part"
+ },
+ {
+  "de": "zirka",
+  "ar": "حوالي",
+  "pos": "adv"
+ },
+ {
+  "de": "zugänglich",
+  "ar": "متاح / سهل الوصول",
+  "pos": "adj"
+ },
+ {
+  "de": "östlich",
+  "ar": "شرقي",
+  "pos": "adj"
+ },
+ {
+  "de": "integriert",
+  "ar": "مدمج / متكامل",
+  "pos": "adj"
+ }
+]
