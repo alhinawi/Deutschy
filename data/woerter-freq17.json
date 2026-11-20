@@ -1,0 +1,663 @@
+[
+ {
+  "de": "Anliegen",
+  "ar": "طلب / هم",
+  "pos": "noun"
+ },
+ {
+  "de": "Aufsteiger",
+  "ar": "الصاعد (فريق/شخص)",
+  "pos": "noun"
+ },
+ {
+  "de": "Bundesrepublik",
+  "ar": "الجمهورية الألمانية",
+  "pos": "noun"
+ },
+ {
+  "de": "Eck",
+  "ar": "كورنر / زاوية",
+  "pos": "noun"
+ },
+ {
+  "de": "Ensemble",
+  "ar": "فرقة مسرحية",
+  "pos": "noun"
+ },
+ {
+  "de": "Entwickler",
+  "ar": "مطور / مبرمج",
+  "pos": "noun"
+ },
+ {
+  "de": "Erkenntnis",
+  "ar": "استنتاج / معرفة",
+  "pos": "noun"
+ },
+ {
+  "de": "Nachhaltigkeit",
+  "ar": "استدامة",
+  "pos": "noun"
+ },
+ {
+  "de": "Oberbürgermeister",
+  "ar": "عمدة المدينة",
+  "pos": "noun"
+ },
+ {
+  "de": "Passagier",
+  "ar": "راكب",
+  "pos": "noun"
+ },
+ {
+  "de": "Performance",
+  "ar": "أداء / عرض",
+  "pos": "noun"
+ },
+ {
+  "de": "Podcast",
+  "ar": "بودكاست",
+  "pos": "noun"
+ },
+ {
+  "de": "Präsenz",
+  "ar": "حضور / تواجد",
+  "pos": "noun"
+ },
+ {
+  "de": "Radfahrer",
+  "ar": "راكب عجلة",
+  "pos": "noun"
+ },
+ {
+  "de": "Rückgang",
+  "ar": "انخفاض / تراجع",
+  "pos": "noun"
+ },
+ {
+  "de": "Sportler",
+  "ar": "رياضي",
+  "pos": "noun"
+ },
+ {
+  "de": "Starkregen",
+  "ar": "مطر غزير",
+  "pos": "noun"
+ },
+ {
+  "de": "Tabellenführer",
+  "ar": "متصدر الجدول",
+  "pos": "noun"
+ },
+ {
+  "de": "Torwart",
+  "ar": "حارس مرمى",
+  "pos": "noun"
+ },
+ {
+  "de": "Zusammenstoß",
+  "ar": "تصادم / خبطة",
+  "pos": "noun"
+ },
+ {
+  "de": "Überblick",
+  "ar": "نظرة عامة",
+  "pos": "noun"
+ },
+ {
+  "de": "Abgeordnete",
+  "ar": "نواب البرلمان",
+  "pos": "noun"
+ },
+ {
+  "de": "Akteur",
+  "ar": "لاعب أساسي / فاعل",
+  "pos": "noun"
+ },
+ {
+  "de": "Album",
+  "ar": "ألبوم",
+  "pos": "noun"
+ },
+ {
+  "de": "Antisemitismus",
+  "ar": "عداء السامية",
+  "pos": "noun"
+ },
+ {
+  "de": "Arbeitsmarkt",
+  "ar": "سوق شغل",
+  "pos": "noun"
+ },
+ {
+  "de": "Asylbewerber",
+  "ar": "طالب لجوء",
+  "pos": "noun"
+ },
+ {
+  "de": "Aufklärung",
+  "ar": "توضيح / تحقيق",
+  "pos": "noun"
+ },
+ {
+  "de": "Bekämpfung",
+  "ar": "مكافحة",
+  "pos": "noun"
+ },
+ {
+  "de": "Betrag",
+  "ar": "مبلغ",
+  "pos": "noun"
+ },
+ {
+  "de": "Bewertung",
+  "ar": "تقييم / ريفيو",
+  "pos": "noun"
+ },
+ {
+  "de": "Bundesamt",
+  "ar": "مكتب فيدرالي",
+  "pos": "noun"
+ },
+ {
+  "de": "Bürokratie",
+  "ar": "بيروقراطية / روتين",
+  "pos": "noun"
+ },
+ {
+  "de": "Dauer",
+  "ar": "مدة",
+  "pos": "noun"
+ },
+ {
+  "de": "Einkommen",
+  "ar": "دخل / مرتب",
+  "pos": "noun"
+ },
+ {
+  "de": "Einschätzung",
+  "ar": "تقدير / تقييم موقف",
+  "pos": "noun"
+ },
+ {
+  "de": "Eintritt",
+  "ar": "دخول / تذكرة دخول",
+  "pos": "noun"
+ },
+ {
+  "de": "Erholung",
+  "ar": "استجمام / راحة",
+  "pos": "noun"
+ },
+ {
+  "de": "Erweiterung",
+  "ar": "توسعة / إضافة",
+  "pos": "noun"
+ },
+ {
+  "de": "Finanzen",
+  "ar": "أموال / مالية",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Fläche",
+  "ar": "مساحة",
+  "pos": "noun"
+ },
+ {
+  "de": "Handlung",
+  "ar": "حبكة / تصرف",
+  "pos": "noun"
+ },
+ {
+  "de": "Hauptbahnhof",
+  "ar": "محطة القطر الرئيسية",
+  "pos": "noun"
+ },
+ {
+  "de": "Installation",
+  "ar": "تركيب / تثبيت",
+  "pos": "noun"
+ },
+ {
+  "de": "Institution",
+  "ar": "مؤسسة رسمية",
+  "pos": "noun"
+ },
+ {
+  "de": "Jahresende",
+  "ar": "آخر السنة",
+  "pos": "noun"
+ },
+ {
+  "de": "Jubiläum",
+  "ar": "يوبيل / ذكرى سنوية",
+  "pos": "noun"
+ },
+ {
+  "de": "Kürzung",
+  "ar": "تقليص / خصم",
+  "pos": "noun"
+ },
+ {
+  "de": "Landesregierung",
+  "ar": "حكومة الولاية",
+  "pos": "noun"
+ },
+ {
+  "de": "Missbrauch",
+  "ar": "استغلال / اعتداء",
+  "pos": "noun"
+ },
+ {
+  "de": "Mobilität",
+  "ar": "تنقل / مواصلات",
+  "pos": "noun"
+ },
+ {
+  "de": "Qualifikation",
+  "ar": "مؤهل / تصفيات",
+  "pos": "noun"
+ },
+ {
+  "de": "Rettungswagen",
+  "ar": "عربية إسعاف",
+  "pos": "noun"
+ },
+ {
+  "de": "Stellungnahme",
+  "ar": "بيان / موقف رسمي",
+  "pos": "noun"
+ },
+ {
+  "de": "Verteidiger",
+  "ar": "مدافع",
+  "pos": "noun"
+ },
+ {
+  "de": "Vorgabe",
+  "ar": "تعليمية / معيار",
+  "pos": "noun"
+ },
+ {
+  "de": "Zähler",
+  "ar": "عداد",
+  "pos": "noun"
+ },
+ {
+  "de": "Amtsgericht",
+  "ar": "محكمة جزئية",
+  "pos": "noun"
+ },
+ {
+  "de": "Dialog",
+  "ar": "حوار",
+  "pos": "noun"
+ },
+ {
+  "de": "Elfmeter",
+  "ar": "ضربة جزاء",
+  "pos": "noun"
+ },
+ {
+  "de": "Filiale",
+  "ar": "فرع محل",
+  "pos": "noun"
+ },
+ {
+  "de": "Fußballer",
+  "ar": "لاعب كورة",
+  "pos": "noun"
+ },
+ {
+  "de": "Geschäftsjahr",
+  "ar": "سنة مالية",
+  "pos": "noun"
+ },
+ {
+  "de": "Grundschule",
+  "ar": "مدرسة ابتدائي",
+  "pos": "noun"
+ },
+ {
+  "de": "Gründer",
+  "ar": "مؤسس شركة",
+  "pos": "noun"
+ },
+ {
+  "de": "Halbjahr",
+  "ar": "نص سنة",
+  "pos": "noun"
+ },
+ {
+  "de": "Hinspiel",
+  "ar": "ماتش الذهاب",
+  "pos": "noun"
+ },
+ {
+  "de": "Inszenierung",
+  "ar": "إخراج مسرحي",
+  "pos": "noun"
+ },
+ {
+  "de": "Kandidatur",
+  "ar": "ترشح",
+  "pos": "noun"
+ },
+ {
+  "de": "Kompromiss",
+  "ar": "حل وسط",
+  "pos": "noun"
+ },
+ {
+  "de": "anpassen",
+  "ar": "يعدل / يظبط على",
+  "pos": "verb"
+ },
+ {
+  "de": "befürchten",
+  "ar": "يخاف يحصل",
+  "pos": "verb"
+ },
+ {
+  "de": "behalten",
+  "ar": "يحتفظ بـ",
+  "pos": "verb"
+ },
+ {
+  "de": "besetzen",
+  "ar": "يحتل / يملأ مكان",
+  "pos": "verb"
+ },
+ {
+  "de": "durchsetzen",
+  "ar": "يفرض / ينجح في فرض",
+  "pos": "verb"
+ },
+ {
+  "de": "einleiten",
+  "ar": "يبدأ إجراء / يمهد",
+  "pos": "verb"
+ },
+ {
+  "de": "engagieren",
+  "ar": "يلتزم / يشتغل تطوع",
+  "pos": "verb"
+ },
+ {
+  "de": "erläutern",
+  "ar": "يفسر بالتفصيل",
+  "pos": "verb"
+ },
+ {
+  "de": "erweitern",
+  "ar": "يكبر / يوسع",
+  "pos": "verb"
+ },
+ {
+  "de": "finanzieren",
+  "ar": "يمول",
+  "pos": "verb"
+ },
+ {
+  "de": "nominieren",
+  "ar": "يرشح لجايزة",
+  "pos": "verb"
+ },
+ {
+  "de": "verschärfen",
+  "ar": "يشدد / يزيد سوء",
+  "pos": "verb"
+ },
+ {
+  "de": "aufbauen",
+  "ar": "يبني / يؤسس",
+  "pos": "verb"
+ },
+ {
+  "de": "beraten",
+  "ar": "ينصحه / يستشيره",
+  "pos": "verb"
+ },
+ {
+  "de": "einbringen",
+  "ar": "يدخل / يقدم",
+  "pos": "verb"
+ },
+ {
+  "de": "einschränken",
+  "ar": "يقيد / يقلل",
+  "pos": "verb"
+ },
+ {
+  "de": "prägen",
+  "ar": "يميز / يطبع",
+  "pos": "verb"
+ },
+ {
+  "de": "konfrontieren",
+  "ar": "يواجهه بـ",
+  "pos": "verb"
+ },
+ {
+  "de": "registrieren",
+  "ar": "يسجلها / يقيدها",
+  "pos": "verb"
+ },
+ {
+  "de": "senken",
+  "ar": "يخفض",
+  "pos": "verb"
+ },
+ {
+  "de": "sicherstellen",
+  "ar": "يضمن وجودها",
+  "pos": "verb"
+ },
+ {
+  "de": "spezialisieren",
+  "ar": "يتخصص",
+  "pos": "verb"
+ },
+ {
+  "de": "zurückführen",
+  "ar": "يرجع سببه لـ",
+  "pos": "verb"
+ },
+ {
+  "de": "mess",
+  "ar": "يقيسها",
+  "pos": "verb"
+ },
+ {
+  "de": "abseits",
+  "ar": "بعيد عن / جنب",
+  "pos": "adv"
+ },
+ {
+  "de": "bestehend",
+  "ar": "موجود / قائم",
+  "pos": "adj"
+ },
+ {
+  "de": "derart",
+  "ar": "كده / لهذه الدرجة",
+  "pos": "adv"
+ },
+ {
+  "de": "divers",
+  "ar": "متنوع",
+  "pos": "adj"
+ },
+ {
+  "de": "entscheidend",
+  "ar": "حاسم",
+  "pos": "adj"
+ },
+ {
+  "de": "generell",
+  "ar": "عموما",
+  "pos": "adv"
+ },
+ {
+  "de": "gesunken",
+  "ar": "نزل سعره",
+  "pos": "adj"
+ },
+ {
+  "de": "gewohnt",
+  "ar": "متعود عليه",
+  "pos": "adj"
+ },
+ {
+  "de": "langjährig",
+  "ar": "منذ سنين طويلة",
+  "pos": "adj"
+ },
+ {
+  "de": "sämtlich",
+  "ar": "كلهم بلا استثناء",
+  "pos": "adj"
+ },
+ {
+  "de": "vermehrt",
+  "ar": "بشكل متزايد",
+  "pos": "adv"
+ },
+ {
+  "de": "vorhanden",
+  "ar": "موجودة / متوفرة",
+  "pos": "adj"
+ },
+ {
+  "de": "zuversichtlich",
+  "ar": "متفائل / واثق",
+  "pos": "adj"
+ },
+ {
+  "de": "ausgefallen",
+  "ar": "ملغي / غريب",
+  "pos": "adj"
+ },
+ {
+  "de": "damalig",
+  "ar": "بتاع الزمن ده",
+  "pos": "adj"
+ },
+ {
+  "de": "deutschlandweit",
+  "ar": "في كل ألمانيا",
+  "pos": "adj"
+ },
+ {
+  "de": "eingeschränkt",
+  "ar": "مقيد / محدود",
+  "pos": "adj"
+ },
+ {
+  "de": "einstimmig",
+  "ar": "بالإجماع",
+  "pos": "adj"
+ },
+ {
+  "de": "erleichtert",
+  "ar": "مرتاح / خف هم",
+  "pos": "adj"
+ },
+ {
+  "de": "fit",
+  "ar": "فورمة / لياقة",
+  "pos": "adj"
+ },
+ {
+  "de": "gebürtig",
+  "ar": "أصله من / ابن",
+  "pos": "adj"
+ },
+ {
+  "de": "gering",
+  "ar": "قليل / ضئيل",
+  "pos": "adj"
+ },
+ {
+  "de": "geschickt",
+  "ar": "بمهارة / شاطر",
+  "pos": "adj"
+ },
+ {
+  "de": "jüdisch",
+  "ar": "يهودي",
+  "pos": "adj"
+ },
+ {
+  "de": "kritisch",
+  "ar": "حرج / ناقد",
+  "pos": "adj"
+ },
+ {
+  "de": "medizinisch",
+  "ar": "طبي",
+  "pos": "adj"
+ },
+ {
+  "de": "oftmals",
+  "ar": "كتير جدا ما يحصل",
+  "pos": "adv"
+ },
+ {
+  "de": "spürbar",
+  "ar": "ملموس / باين",
+  "pos": "adj"
+ },
+ {
+  "de": "unverletzt",
+  "ar": "سليم / مفيهوش حاجة",
+  "pos": "adj"
+ },
+ {
+  "de": "westlich",
+  "ar": "غربي",
+  "pos": "adj"
+ },
+ {
+  "de": "zentral",
+  "ar": "مركزي",
+  "pos": "adj"
+ },
+ {
+  "de": "umfassend",
+  "ar": "شامل",
+  "pos": "adj"
+ },
+ {
+  "de": "unglaublich",
+  "ar": "مش مصدق / خرافي",
+  "pos": "adj"
+ },
+ {
+  "de": "andererseits",
+  "ar": "من ناحية تانية",
+  "pos": "adv"
+ },
+ {
+  "de": "inmitten",
+  "ar": "في نص / وسط",
+  "pos": "part"
+ },
+ {
+  "de": "vielerorts",
+  "ar": "في أماكن كتير",
+  "pos": "adv"
+ },
+ {
+  "de": "wiederholt",
+  "ar": "متكرر / أكتر من مرة",
+  "pos": "adv"
+ },
+ {
+  "de": "mitunter",
+  "ar": "أحيانا / ساعات",
+  "pos": "adv"
+ }
+]
