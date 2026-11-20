@@ -18,9 +18,8 @@ let clearActive:(()=>void)|null=null,notifyActive:((status:SpeechStatus)=>void)|
 function cancel(){clearActive?.();clearActive=null;request?.abort();request=null;if(cur){cur.onended=null;cur.onerror=null;cur.pause();cur=null}if(curUrl){URL.revokeObjectURL(curUrl);curUrl=null}if(typeof speechSynthesis!=='undefined')speechSynthesis.cancel()}
 export function stopSpeaking(){generation++;const notify=notifyActive;notifyActive=null;cancel();notify?.('stopped')}
 const denied=(error:unknown)=>['AbortError','NotAllowedError'].includes((error as {name?:string})?.name??'');
-// Exact clips first. The old /api/tts is ElevenLabs, NOT a free-server path.
-// No free server generator is configured today. The permitted browser voice comes next.
-// The new same-origin vendor adapter is attempted once, only after real free-path failure.
+// Exact clips first, then the live ElevenLabs adapter (/api/audio-fallback),
+// then the permitted browser voice as the last resort.
 export async function speak(raw:string,options:SpeechOptions={}){
  stopSpeaking();const token=generation,text=raw.normalize('NFC').trim().replace(/\s+/gu,' '),rate=Math.min(1.5,Math.max(.5,options.rate??.85));
  const active=()=>token===generation&&!finished;
@@ -45,29 +44,29 @@ export async function speak(raw:string,options:SpeechOptions={}){
  }
  async function vendor():Promise<boolean>{
   if(!active()||vendorTried)return false;vendorTried=true;
-  if(text.length>1000)return finish('unavailable');
+  if(text.length>1000)return browser();
   request=new AbortController();const controller=request;let timedOut=false;
   const timer=setTimeout(()=>{timedOut=true;controller.abort()},8000);
   try{
    if(!health||health.until<Date.now()){const res=await fetch('/api/health',{signal:controller.signal});const data=await res.json();health={audioFallback:data.audioFallback===true,voices:Array.isArray(data.audioFallbackVoices)?data.audioFallbackVoices.filter((v:unknown)=>typeof v==='string'):[],until:Date.now()+30000}}
-   if(!active())return false;if(!health.audioFallback)return finish('unavailable');
+   if(!active())return false;if(!health.audioFallback)return browser();
    let preference='';try{preference=await readVoicePreference()}catch{}
-   const voice=preference==='varied'||health.voices.includes(preference)?preference:'varied';if(!health.voices.length)return finish('unavailable');
+   const voice=preference==='varied'||health.voices.includes(preference)?preference:'varied';if(!health.voices.length)return browser();
    if(!active())return false;notify('loading');
    const res=await fetch('/api/audio-fallback',{method:'POST',headers:{'content-type':'application/json'},body:JSON.stringify({text,language:'de',voice,fallbackReason:reason}),signal:controller.signal});
    if(!active())return false;
-   if(!res.ok||!(res.headers.get('content-type')??'').startsWith('audio/'))return finish('unavailable');
+   if(!res.ok||!(res.headers.get('content-type')??'').startsWith('audio/'))return browser();
    const blob=await res.blob();if(!active())return false;curUrl=URL.createObjectURL(blob);return await playAudio(curUrl,async()=>finish('error'));
-  }catch(error){if(!active())return false;return finish(denied(error)&&!timedOut?'error':'unavailable')}
+  }catch(error){if(!active())return false;if(denied(error)&&!timedOut)return finish('error');return browser()}
   finally{clearTimeout(timer)}
  }
  async function browser():Promise<boolean>{
   if(!active())return false;
   const voice=typeof speechSynthesis==='undefined'?undefined:chooseEdgeGermanVoice(options.voice);
-  if(!voice)return vendor();
+  if(!voice)return finish('unavailable');
   let moved=false,started=false,timer:ReturnType<typeof setTimeout>|undefined;const u=new SpeechSynthesisUtterance(text);u.lang=voice.lang;u.voice=voice;u.rate=rate;
   const clean=()=>{if(timer!==undefined)clearTimeout(timer);u.onstart=null;u.onend=null;u.onerror=null};clearActive=clean;
-  const advance=async(error?:unknown)=>{if(moved||!active())return false;moved=true;clean();speechSynthesis.cancel();if(denied(error)||(error as {error?:string})?.error==='not-allowed'||['canceled','interrupted'].includes((error as {error?:string})?.error??''))return finish('error');if(reason!=='free_start_timeout')reason='free_playback_error';return vendor()};
+  const advance=async(error?:unknown)=>{if(moved||!active())return false;moved=true;clean();speechSynthesis.cancel();if(denied(error)||(error as {error?:string})?.error==='not-allowed'||['canceled','interrupted'].includes((error as {error?:string})?.error??''))return finish('error');if(reason!=='free_start_timeout')reason='free_playback_error';return finish('unavailable')};
   u.onstart=()=>{started=true;if(active()&&timer!==undefined)clearTimeout(timer)};
   u.onend=()=>{if(moved||!active())return;moved=true;clean();finish('ended')};u.onerror=e=>{void advance(e)};
   try{speechSynthesis.speak(u);if(!active())return false;notify('playing');if(!started)timer=setTimeout(()=>{reason='free_start_timeout';void advance()},8000);return true}catch(error){return advance(error)}
@@ -77,5 +76,5 @@ export async function speak(raw:string,options:SpeechOptions={}){
  const sources:string[]=[];if(recordedAudio[text])sources.push(recordedAudio[text]);const cached=staticSpeech[text];
  if(cached?.shard==='deutschy-local'&&/^\/clips\/[a-f0-9]{64}\.mp3$/.test(cached.url))sources.push(cached.url);
  const base=cached?speechShardBases[cached.shard]:'';if(cached&&/^https:\/\/[a-z0-9-]+\.pages\.dev$/.test(base))sources.push(base+cached.url);
- let index=0;const next=async():Promise<boolean>=>{if(!active())return false;return index<sources.length?playAudio(sources[index++],next):browser()};return next();
+ let index=0;const next=async():Promise<boolean>=>{if(!active())return false;return index<sources.length?playAudio(sources[index++],next):vendor()};return next();
 }
