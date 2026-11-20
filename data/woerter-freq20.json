@@ -1,0 +1,904 @@
+[
+ {
+  "de": "Abbau",
+  "ar": "هدم / تقليص",
+  "pos": "noun"
+ },
+ {
+  "de": "Abgabe",
+  "ar": "تسليم / ضريبة",
+  "pos": "noun"
+ },
+ {
+  "de": "Abpfiff",
+  "ar": "صافرة النهاية",
+  "pos": "noun"
+ },
+ {
+  "de": "Abschuss",
+  "ar": "إسقاط طيارة",
+  "pos": "noun"
+ },
+ {
+  "de": "Abtreibung",
+  "ar": "إجهاض",
+  "pos": "noun"
+ },
+ {
+  "de": "Aktienmarkt",
+  "ar": "البورصة",
+  "pos": "noun"
+ },
+ {
+  "de": "Ambiente",
+  "ar": "أجواء / ديكور",
+  "pos": "noun"
+ },
+ {
+  "de": "Ambition",
+  "ar": "طموحات",
+  "pos": "noun"
+ },
+ {
+  "de": "Analyst",
+  "ar": "محلل خبراء",
+  "pos": "noun"
+ },
+ {
+  "de": "Anmeldung",
+  "ar": "تسجيل / اشتراك",
+  "pos": "noun"
+ },
+ {
+  "de": "Ansprache",
+  "ar": "كلمة رسمية",
+  "pos": "noun"
+ },
+ {
+  "de": "Ansprechpartner",
+  "ar": "شخص مرجع",
+  "pos": "noun"
+ },
+ {
+  "de": "Arbeitsbedingung",
+  "ar": "ظروف شغل",
+  "pos": "noun"
+ },
+ {
+  "de": "Asphalt",
+  "ar": "أسفلت",
+  "pos": "noun"
+ },
+ {
+  "de": "Auflösung",
+  "ar": "حل / تفكيك",
+  "pos": "noun"
+ },
+ {
+  "de": "Aufräumarbeiten",
+  "ar": "شغل تنضيف",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Aufsichtsrat",
+  "ar": "مجلس الإدارة",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausschuss",
+  "ar": "لجنة برلمانية",
+  "pos": "noun"
+ },
+ {
+  "de": "Auswärtssieg",
+  "ar": "فوز بره",
+  "pos": "noun"
+ },
+ {
+  "de": "Automatisierung",
+  "ar": "أتمتة",
+  "pos": "noun"
+ },
+ {
+  "de": "Bahngleis",
+  "ar": "قضبان قطار",
+  "pos": "noun"
+ },
+ {
+  "de": "Begleiter",
+  "ar": "مرافق / رفيق",
+  "pos": "noun"
+ },
+ {
+  "de": "Belegschaft",
+  "ar": "طاقم الموظفين",
+  "pos": "noun"
+ },
+ {
+  "de": "Beleuchtung",
+  "ar": "إضاءة",
+  "pos": "noun"
+ },
+ {
+  "de": "Bemühung",
+  "ar": "محاولات / جهود",
+  "pos": "noun"
+ },
+ {
+  "de": "Berechnung",
+  "ar": "حسابات",
+  "pos": "noun"
+ },
+ {
+  "de": "Bereitschaft",
+  "ar": "استعداد",
+  "pos": "noun"
+ },
+ {
+  "de": "Bereitstellung",
+  "ar": "توفير / تجهيز",
+  "pos": "noun"
+ },
+ {
+  "de": "Beschluss",
+  "ar": "قرار رسمي",
+  "pos": "noun"
+ },
+ {
+  "de": "Bestandteil",
+  "ar": "مكون أساسي",
+  "pos": "noun"
+ },
+ {
+  "de": "Betreuung",
+  "ar": "رعاية / حضانة",
+  "pos": "noun"
+ },
+ {
+  "de": "Bezeichnung",
+  "ar": "تسمية / اسم",
+  "pos": "noun"
+ },
+ {
+  "de": "Bundesstraße",
+  "ar": "طريق سريع فيدرالي",
+  "pos": "noun"
+ },
+ {
+  "de": "Bundesverband",
+  "ar": "اتحاد فيدرالي",
+  "pos": "noun"
+ },
+ {
+  "de": "Bundesverfassungsgericht",
+  "ar": "المحكمة الدستورية",
+  "pos": "noun"
+ },
+ {
+  "de": "Corona-Pandemie",
+  "ar": "جايحة كورونا",
+  "pos": "noun"
+ },
+ {
+  "de": "Demo",
+  "ar": "مظاهرة / تجريبي",
+  "pos": "noun"
+ },
+ {
+  "de": "E-Mail",
+  "ar": "إيميل",
+  "pos": "noun"
+ },
+ {
+  "de": "Effizienz",
+  "ar": "كفاءة",
+  "pos": "noun"
+ },
+ {
+  "de": "Eigentor",
+  "ar": "جون في مرماه",
+  "pos": "noun"
+ },
+ {
+  "de": "Einsparung",
+  "ar": "توفير / اقتطاع",
+  "pos": "noun"
+ },
+ {
+  "de": "Eintreffen",
+  "ar": "وصول",
+  "pos": "noun"
+ },
+ {
+  "de": "Einzelperson",
+  "ar": "شخص لوحده",
+  "pos": "noun"
+ },
+ {
+  "de": "Elektroauto",
+  "ar": "عربيات كهربا",
+  "pos": "noun"
+ },
+ {
+  "de": "Elektromobilität",
+  "ar": "التنقل الكهربائي",
+  "pos": "noun"
+ },
+ {
+  "de": "Elfmeterschießen",
+  "ar": "ركلات الترجيح",
+  "pos": "noun"
+ },
+ {
+  "de": "Energiekosten",
+  "ar": "تكاليف الطاقة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Entlastung",
+  "ar": "تخفيف عبء",
+  "pos": "noun"
+ },
+ {
+  "de": "Europaparlament",
+  "ar": "البرلمان الأوروبي",
+  "pos": "noun"
+ },
+ {
+  "de": "Expertise",
+  "ar": "خبرة متخصصة",
+  "pos": "noun"
+ },
+ {
+  "de": "Fachkräftemangel",
+  "ar": "نقص العمالة الماهرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Feierlichkeit",
+  "ar": "احتفالات رسمية",
+  "pos": "noun"
+ },
+ {
+  "de": "Fernsehsender",
+  "ar": "قناة تلفزيون",
+  "pos": "noun"
+ },
+ {
+  "de": "Flexibilität",
+  "ar": "مرونة",
+  "pos": "noun"
+ },
+ {
+  "de": "Fußgänger",
+  "ar": "مشاة",
+  "pos": "noun"
+ },
+ {
+  "de": "Gehweg",
+  "ar": "رصيف مشاة",
+  "pos": "noun"
+ },
+ {
+  "de": "Gehäuse",
+  "ar": "هيكل / جراب",
+  "pos": "noun"
+ },
+ {
+  "de": "Handwerk",
+  "ar": "حرفة يدوية",
+  "pos": "noun"
+ },
+ {
+  "de": "Herrschaft",
+  "ar": "حكم / سيطرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Inhaber",
+  "ar": "صاحب المحل",
+  "pos": "noun"
+ },
+ {
+  "de": "Internetseite",
+  "ar": "صفحة إنترنت",
+  "pos": "noun"
+ },
+ {
+  "de": "Jahrestag",
+  "ar": "ذكرى سنوية",
+  "pos": "noun"
+ },
+ {
+  "de": "Kapital",
+  "ar": "رأس مال",
+  "pos": "noun"
+ },
+ {
+  "de": "Kita",
+  "ar": "حضانة أطفال",
+  "pos": "noun"
+ },
+ {
+  "de": "Klassenerhalt",
+  "ar": "البقاء في الدوري",
+  "pos": "noun"
+ },
+ {
+  "de": "Klub",
+  "ar": "أندية",
+  "pos": "noun"
+ },
+ {
+  "de": "Komfort",
+  "ar": "رفاهية / راحة",
+  "pos": "noun"
+ },
+ {
+  "de": "Kompetenz",
+  "ar": "كفاءة / صلاحية",
+  "pos": "noun"
+ },
+ {
+  "de": "Konjunktur",
+  "ar": "دورة اقتصادية",
+  "pos": "noun"
+ },
+ {
+  "de": "Konsole",
+  "ar": "كونسول / بلايستيشن",
+  "pos": "noun"
+ },
+ {
+  "de": "Kontext",
+  "ar": "سياق / خلفية",
+  "pos": "noun"
+ },
+ {
+  "de": "Kulisse",
+  "ar": "كواليس",
+  "pos": "noun"
+ },
+ {
+  "de": "Königsklasse",
+  "ar": "دوري الأبطال",
+  "pos": "noun"
+ },
+ {
+  "de": "Landeskriminalamt",
+  "ar": "مباحث الولاية",
+  "pos": "noun"
+ },
+ {
+  "de": "Laufzeit",
+  "ar": "مدة سريان",
+  "pos": "noun"
+ },
+ {
+  "de": "Lieferant",
+  "ar": "مورد",
+  "pos": "noun"
+ },
+ {
+  "de": "Literatur",
+  "ar": "أدب",
+  "pos": "noun"
+ },
+ {
+  "de": "Löscharbeiten",
+  "ar": "عمليات إطفاء",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Mandat",
+  "ar": "مقاعد برلمانية",
+  "pos": "noun"
+ },
+ {
+  "de": "Ministerin",
+  "ar": "الوزيرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Ministerpräsidentin",
+  "ar": "رئيسة وزرا الولاية",
+  "pos": "noun"
+ },
+ {
+  "de": "Mittelmeer",
+  "ar": "البحر المتوسط",
+  "pos": "noun"
+ },
+ {
+  "de": "Motorradfahrer",
+  "ar": "سواق موتوسيكل",
+  "pos": "noun"
+ },
+ {
+  "de": "Musikschule",
+  "ar": "مدرسة موسيقى",
+  "pos": "noun"
+ },
+ {
+  "de": "Nachbarland",
+  "ar": "دولة جارة",
+  "pos": "noun"
+ },
+ {
+  "de": "Nachfolge",
+  "ar": "خلافة / وريث",
+  "pos": "noun"
+ },
+ {
+  "de": "Neuerung",
+  "ar": "تجديدات / تعديلات",
+  "pos": "noun"
+ },
+ {
+  "de": "Neustart",
+  "ar": "بداية جديدة",
+  "pos": "noun"
+ },
+ {
+  "de": "Notwendigkeit",
+  "ar": "ضرورة ملحة",
+  "pos": "noun"
+ },
+ {
+  "de": "Oberlandesgericht",
+  "ar": "محكمة استئناف",
+  "pos": "noun"
+ },
+ {
+  "de": "Orchester",
+  "ar": "أوركسترا",
+  "pos": "noun"
+ },
+ {
+  "de": "Ortschaft",
+  "ar": "قرية / بلدة",
+  "pos": "noun"
+ },
+ {
+  "de": "Ortszeit",
+  "ar": "التوقيت المحلي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Pflichtspiel",
+  "ar": "ماتش رسمي",
+  "pos": "noun"
+ },
+ {
+  "de": "Pop",
+  "ar": "بوب (موسيقى)",
+  "pos": "noun"
+ },
+ {
+  "de": "Produktivität",
+  "ar": "إنتاجية",
+  "pos": "noun"
+ },
+ {
+  "de": "Promi",
+  "ar": "مشاهير",
+  "pos": "noun"
+ },
+ {
+  "de": "Prävention",
+  "ar": "وقاية",
+  "pos": "noun"
+ },
+ {
+  "de": "Pyrotechnik",
+  "ar": "شماريخ / ألعاب نارية",
+  "pos": "noun"
+ },
+ {
+  "de": "Rapper",
+  "ar": "رابر",
+  "pos": "noun"
+ },
+ {
+  "de": "Rechtsanwalt",
+  "ar": "محامي",
+  "pos": "noun"
+ },
+ {
+  "de": "Rechtsextremismus",
+  "ar": "التطرف اليميني",
+  "pos": "noun"
+ },
+ {
+  "de": "Regionalliga",
+  "ar": "دوري الدرجة الرابعة",
+  "pos": "noun"
+ },
+ {
+  "de": "Reisende",
+  "ar": "المسافرين",
+  "pos": "noun"
+ },
+ {
+  "de": "Release",
+  "ar": "إصدار / طرح",
+  "pos": "noun"
+ },
+ {
+  "de": "Rettungshubschrauber",
+  "ar": "هيليكوبتر إسعاف",
+  "pos": "noun"
+ },
+ {
+  "de": "Schauer",
+  "ar": "مطر خفيف",
+  "pos": "noun"
+ },
+ {
+  "de": "Schauplatz",
+  "ar": "مسرح الأحداث",
+  "pos": "noun"
+ },
+ {
+  "de": "Schlager",
+  "ar": "أغنية شعبية",
+  "pos": "noun"
+ },
+ {
+  "de": "Schlusspfiff",
+  "ar": "صافرة النهاية",
+  "pos": "noun"
+ },
+ {
+  "de": "Schuldenbremse",
+  "ar": "كابح الديون",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Schwankung",
+  "ar": "تقلبات",
+  "pos": "noun"
+ },
+ {
+  "de": "Schwung",
+  "ar": "زخم / قوة دفع",
+  "pos": "noun"
+ },
+ {
+  "de": "Sicherung",
+  "ar": "تأمين / فيوز",
+  "pos": "noun"
+ },
+ {
+  "de": "Staatsbürger",
+  "ar": "مواطن / حامل جنسية",
+  "pos": "noun"
+ },
+ {
+  "de": "Staatsschutz",
+  "ar": "أمن الدولة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Sternzeichen",
+  "ar": "برج فلكي",
+  "pos": "noun"
+ },
+ {
+  "de": "Strafraum",
+  "ar": "منطقة الجزا",
+  "pos": "noun"
+ },
+ {
+  "de": "Streik",
+  "ar": "إضرابات",
+  "pos": "noun"
+ },
+ {
+  "de": "Teilzeit",
+  "ar": "دوام جزئي",
+  "pos": "noun"
+ },
+ {
+  "de": "Testspiel",
+  "ar": "ماتش ودي",
+  "pos": "noun"
+ },
+ {
+  "de": "Tierart",
+  "ar": "أنواع حيوانات",
+  "pos": "noun"
+ },
+ {
+  "de": "Traktor",
+  "ar": "جرار زراعي",
+  "pos": "noun"
+ },
+ {
+  "de": "Transaktion",
+  "ar": "معاملة مالية",
+  "pos": "noun"
+ },
+ {
+  "de": "Dschungelcamp",
+  "ar": "برنامج الغابة",
+  "pos": "noun"
+ },
+ {
+  "de": "Feierlichkeiten",
+  "ar": "احتفالات",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Index",
+  "ar": "مؤشر / فهرس",
+  "pos": "noun"
+ },
+ {
+  "de": "Hype",
+  "ar": "ضجة / ترند",
+  "pos": "noun"
+ },
+ {
+  "de": "generieren",
+  "ar": "يولد / يجيب",
+  "pos": "verb"
+ },
+ {
+  "de": "tätigen",
+  "ar": "يجري (مكالمة/معاملة)",
+  "pos": "verb"
+ },
+ {
+  "de": "heben",
+  "ar": "يرفعها",
+  "pos": "verb"
+ },
+ {
+  "de": "hervorgehen",
+  "ar": "ينتج عن",
+  "pos": "verb"
+ },
+ {
+  "de": "integrieren",
+  "ar": "يدمج",
+  "pos": "verb"
+ },
+ {
+  "de": "kassieren",
+  "ar": "يقبض / يستلم فلوس",
+  "pos": "verb"
+ },
+ {
+  "de": "locken",
+  "ar": "يجذب",
+  "pos": "verb"
+ },
+ {
+  "de": "meistern",
+  "ar": "يتغلب عليها",
+  "pos": "verb"
+ },
+ {
+  "de": "qualifizieren",
+  "ar": "يتأهل",
+  "pos": "verb"
+ },
+ {
+  "de": "schildern",
+  "ar": "يحكي بالتفصيل",
+  "pos": "verb"
+ },
+ {
+  "de": "spiegeln",
+  "ar": "يعكس",
+  "pos": "verb"
+ },
+ {
+  "de": "steigern",
+  "ar": "يزود / يحسن",
+  "pos": "verb"
+ },
+ {
+  "de": "stemmen",
+  "ar": "يرفع / يتحمل",
+  "pos": "verb"
+ },
+ {
+  "de": "stimmen",
+  "ar": "يصح / يتفق",
+  "pos": "verb"
+ },
+ {
+  "de": "unterbrechen",
+  "ar": "يقاطعه",
+  "pos": "verb"
+ },
+ {
+  "de": "unterscheiden",
+  "ar": "يفرق بين",
+  "pos": "verb"
+ },
+ {
+  "de": "verankern",
+  "ar": "يرسخ / يثبتها",
+  "pos": "verb"
+ },
+ {
+  "de": "landete",
+  "ar": "نزلت الطيارة",
+  "pos": "verb"
+ },
+ {
+  "de": "sammelt",
+  "ar": "يلمها",
+  "pos": "verb"
+ },
+ {
+  "de": "gemeint",
+  "ar": "مقصود / معني",
+  "pos": "adj"
+ },
+ {
+  "de": "ideal",
+  "ar": "مثالية",
+  "pos": "adj"
+ },
+ {
+  "de": "kontinuierlich",
+  "ar": "مستمر بلا توقف",
+  "pos": "adj"
+ },
+ {
+  "de": "kräftig",
+  "ar": "قوي / دسم",
+  "pos": "adj"
+ },
+ {
+  "de": "kulturell",
+  "ar": "ثقافية",
+  "pos": "adj"
+ },
+ {
+  "de": "landwirtschaftlich",
+  "ar": "زراعي",
+  "pos": "adj"
+ },
+ {
+  "de": "libanesisch",
+  "ar": "لبناني",
+  "pos": "adj"
+ },
+ {
+  "de": "mächtig",
+  "ar": "قوي / عظيم",
+  "pos": "adj"
+ },
+ {
+  "de": "potenziell",
+  "ar": "محتمل / ممكن",
+  "pos": "adj"
+ },
+ {
+  "de": "relevant",
+  "ar": "مرتبط / مهم",
+  "pos": "adj"
+ },
+ {
+  "de": "schlimmst",
+  "ar": "أسوأ حاجة",
+  "pos": "adj"
+ },
+ {
+  "de": "schwieriger",
+  "ar": "أصعب",
+  "pos": "adj"
+ },
+ {
+  "de": "sexuell",
+  "ar": "جنسي",
+  "pos": "adj"
+ },
+ {
+  "de": "sicherer",
+  "ar": "أأمن",
+  "pos": "adj"
+ },
+ {
+  "de": "skeptisch",
+  "ar": "شكاك / متردد",
+  "pos": "adj"
+ },
+ {
+  "de": "sofern",
+  "ar": "طالما / لو",
+  "pos": "part"
+ },
+ {
+  "de": "solch",
+  "ar": "من هذا النوع",
+  "pos": "part"
+ },
+ {
+  "de": "stellvertretend",
+  "ar": "وكيل / بالإنابة",
+  "pos": "adj"
+ },
+ {
+  "de": "strategisch",
+  "ar": "استراتيجي",
+  "pos": "adj"
+ },
+ {
+  "de": "tagsüber",
+  "ar": "بالنهار",
+  "pos": "adv"
+ },
+ {
+  "de": "umgekehrt",
+  "ar": "بالعكس",
+  "pos": "adv"
+ },
+ {
+  "de": "unsicher",
+  "ar": "مش واثق / قلقان",
+  "pos": "adj"
+ },
+ {
+  "de": "verankert",
+  "ar": "متجذر / مثبت",
+  "pos": "adj"
+ },
+ {
+  "de": "versichert",
+  "ar": "مؤمن عليه",
+  "pos": "adj"
+ },
+ {
+  "de": "voneinander",
+  "ar": "من بعض",
+  "pos": "part"
+ },
+ {
+  "de": "vorgeschlagen",
+  "ar": "مقترح",
+  "pos": "adj"
+ },
+ {
+  "de": "vorherig",
+  "ar": "السابق / اللي فات",
+  "pos": "adj"
+ },
+ {
+  "de": "vorzeitig",
+  "ar": "مبكر / قبل الأوان",
+  "pos": "adj"
+ },
+ {
+  "de": "öfter",
+  "ar": "كتير / أكتر من مرة",
+  "pos": "adv"
+ },
+ {
+  "de": "kWh",
+  "ar": "كيلوواط ساعة",
+  "pos": "part"
+ },
+ {
+  "de": "hierfür",
+  "ar": "لأجل ده",
+  "pos": "part"
+ },
+ {
+  "de": "wisse",
+  "ar": "يعرف (شرط)",
+  "pos": "verb"
+ }
+]
