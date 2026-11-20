@@ -1,0 +1,358 @@
+[
+ {
+  "de": "Ersatzmaßnahme",
+  "ar": "الإجراء البديل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ersatzmaßnahmen"
+ },
+ {
+  "de": "Ersatzspieler",
+  "ar": "اللاعب البديل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ersatzspieler"
+ },
+ {
+  "de": "Ersatzverkehr",
+  "ar": "النقل البديل",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Erschießung",
+  "ar": "الإعدام رميا بالرصاص",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Erschießungen"
+ },
+ {
+  "de": "Erschließung",
+  "ar": "تطوير الأرض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Erschließungen"
+ },
+ {
+  "de": "Erspartes",
+  "ar": "المدخرات",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Erstattung",
+  "ar": "الاسترداد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Erstattungen"
+ },
+ {
+  "de": "Erstaufführung",
+  "ar": "العرض الأول (مسرح)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Erstaufführungen"
+ },
+ {
+  "de": "Erstaunen",
+  "ar": "الدهشة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Erstausgabe",
+  "ar": "العدد الأول",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Erstausgaben"
+ },
+ {
+  "de": "Erstgespräch",
+  "ar": "المقابلة الأولى",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Erstgespräche"
+ },
+ {
+  "de": "Erstkontakt",
+  "ar": "التواصل الأول",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Erstkontakte"
+ },
+ {
+  "de": "Eruption",
+  "ar": "الثوران",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eruptionen"
+ },
+ {
+  "de": "Erzeuger",
+  "ar": "المنتج",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Erzeuger"
+ },
+ {
+  "de": "Erzfeind",
+  "ar": "العدو اللدود",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Erzfeinde"
+ },
+ {
+  "de": "Erziehungsberechtigte",
+  "ar": "ولي الأمر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Erziehungsberechtigten"
+ },
+ {
+  "de": "Eröffnungsfilm",
+  "ar": "فيلم الافتتاح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Eröffnungsfilme"
+ },
+ {
+  "de": "Eröffnungsrede",
+  "ar": "خطاب الافتتاح",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eröffnungsreden"
+ },
+ {
+  "de": "Escape-Room",
+  "ar": "غرفة الهروب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Escape-Rooms"
+ },
+ {
+  "de": "Esche",
+  "ar": "شجرة الدردار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eschen"
+ },
+ {
+  "de": "Eselsbrücke",
+  "ar": "حيلة الذاكرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eselsbrücken"
+ },
+ {
+  "de": "Eskalationsspirale",
+  "ar": "حلقة التصعيد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Eskalationsspiralen"
+ },
+ {
+  "de": "Espresso",
+  "ar": "الإسبريسو",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Espressos"
+ },
+ {
+  "de": "Essensreste",
+  "ar": "بقايا الأكل",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Essensausgabe",
+  "ar": "توزيع الأكل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Essensmarke",
+  "ar": "قسيمة الأكل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Essensmarken"
+ },
+ {
+  "de": "Essenspause",
+  "ar": "استراحة الأكل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Essenspausen"
+ },
+ {
+  "de": "Essiggurke",
+  "ar": "الخيار المخلل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Essiggurken"
+ },
+ {
+  "de": "Esskastanie",
+  "ar": "الكستناء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Esskastanien"
+ },
+ {
+  "de": "Etappenlauf",
+  "ar": "سباق المراحل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Etappenläufe"
+ },
+ {
+  "de": "Etappensieg",
+  "ar": "فوز المرحلة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Etappensiege"
+ },
+ {
+  "de": "Ethikrat",
+  "ar": "مجلس الأخلاق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ethikräte"
+ },
+ {
+  "de": "Europakritiker",
+  "ar": "منتقد أوروبا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Europakritiker"
+ },
+ {
+  "de": "Europameisterin",
+  "ar": "بطلة أوروبا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Europameisterinnen"
+ },
+ {
+  "de": "Europapolitiker",
+  "ar": "سياسي أوروبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Europapolitiker"
+ },
+ {
+  "de": "Europapremiere",
+  "ar": "العرض الأوروبي الأول",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Europapremieren"
+ },
+ {
+  "de": "Europarat",
+  "ar": "مجلس أوروبا",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Europäerin",
+  "ar": "الأوروبية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Europäerinnen"
+ },
+ {
+  "de": "Euroraum",
+  "ar": "منطقة اليورو",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Evangelium",
+  "ar": "الإنجيل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Evangelien"
+ },
+ {
+  "de": "Eventkalender",
+  "ar": "تقويم الفعاليات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Eventkalender"
+ },
+ {
+  "de": "Ewigkeitschemikalie",
+  "ar": "كيماويات الأبدية (PFAS)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ewigkeitschemikalien"
+ },
+ {
+  "de": "Ex-Ehemann",
+  "ar": "الجوز السابق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ex-Ehemänner"
+ },
+ {
+  "de": "Ex-Freund",
+  "ar": "الحبيب السابق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ex-Freunde"
+ },
+ {
+  "de": "Ex-Freundin",
+  "ar": "الحبيبة السابقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ex-Freundinnen"
+ },
+ {
+  "de": "Existenzgründer",
+  "ar": "مؤسس الشركة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Existenzgründer"
+ },
+ {
+  "de": "Existenzminimum",
+  "ar": "الحد الأدنى للمعيشة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Exoskelett",
+  "ar": "الهيكل الخارجي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Exoskelette"
+ },
+ {
+  "de": "Expat",
+  "ar": "المغترب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Expats"
+ },
+ {
+  "de": "Expedition",
+  "ar": "البعثة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Expeditionen"
+ },
+ {
+  "de": "Expertengremium",
+  "ar": "هيئة الخبراء",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Expertengremien"
+ },
+ {
+  "de": "Expertenkommission",
+  "ar": "لجنة الخبراء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Expertenkommissionen"
+ }
+]
