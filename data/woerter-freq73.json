@@ -1,0 +1,504 @@
+[
+ {
+  "de": "Energieform",
+  "ar": "شكل الطاقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Energieformen"
+ },
+ {
+  "de": "Energiegesetz",
+  "ar": "قانون الطاقة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Energiegesetze"
+ },
+ {
+  "de": "Energiehandel",
+  "ar": "تجارة الطاقة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Energiekonsum",
+  "ar": "استهلاك الطاقة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Energiekonzern",
+  "ar": "مجموعة الطاقة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Energiekonzerne"
+ },
+ {
+  "de": "Energieminister",
+  "ar": "وزير الطاقة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Energieminister"
+ },
+ {
+  "de": "Energiemarkt",
+  "ar": "سوق الطاقة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Energiemärkte"
+ },
+ {
+  "de": "Energienetz",
+  "ar": "شبكة الطاقة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Energienetze"
+ },
+ {
+  "de": "Energieproduktion",
+  "ar": "إنتاج الطاقة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Energiequelle",
+  "ar": "مصدر الطاقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Energiequellen"
+ },
+ {
+  "de": "Energiesektor",
+  "ar": "قطاع الطاقة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Energiesystem",
+  "ar": "نظام الطاقة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Energiesysteme"
+ },
+ {
+  "de": "Energiezufuhr",
+  "ar": "إمداد الطاقة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Engländerin",
+  "ar": "الإنجليزية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Engländerinnen"
+ },
+ {
+  "de": "Enkelkind",
+  "ar": "الحفيد",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Enkelkinder"
+ },
+ {
+  "de": "Enkeltrick",
+  "ar": "خدعة الحفيد (نصب)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Enkeltricks"
+ },
+ {
+  "de": "Entbindung",
+  "ar": "الولادة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Entbindungen"
+ },
+ {
+  "de": "Entdecker",
+  "ar": "المكتشف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Entdecker"
+ },
+ {
+  "de": "Entenfamilie",
+  "ar": "عيلة البط",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Entenfamilien"
+ },
+ {
+  "de": "Entenküken",
+  "ar": "فرخ البط",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Entenküken"
+ },
+ {
+  "de": "Entgeltfortzahlung",
+  "ar": "استمرار المرتب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Entgeltgleichheit",
+  "ar": "مساواة الأجر",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Entgleisung",
+  "ar": "خروج القطار عن القضبان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Entgleisungen"
+ },
+ {
+  "de": "Entladung",
+  "ar": "التفريغ",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Entladungen"
+ },
+ {
+  "de": "Entnazifizierung",
+  "ar": "إزالة النازية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Entsalzungsanlage",
+  "ar": "محطة تحلية المياه",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Entsalzungsanlagen"
+ },
+ {
+  "de": "Entscheidungsgremium",
+  "ar": "هيئة القرار",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Entscheidungsgremien"
+ },
+ {
+  "de": "Entschleunigung",
+  "ar": "التباطؤ",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Entschuldigungsbrief",
+  "ar": "خطاب الاعتذار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Entschuldigungsbriefe"
+ },
+ {
+  "de": "Entschädigungszahlung",
+  "ar": "دفعة التعويض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Entschädigungszahlungen"
+ },
+ {
+  "de": "Entsorgungskosten",
+  "ar": "تكاليف التخلص",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Entwicklungsabteilung",
+  "ar": "قسم التطوير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Entwicklungsabteilungen"
+ },
+ {
+  "de": "Entwicklungsministerin",
+  "ar": "وزيرة التنمية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Entwicklungsministerinnen"
+ },
+ {
+  "de": "Entwicklungsschritt",
+  "ar": "خطوة التطوير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Entwicklungsschritte"
+ },
+ {
+  "de": "Entwicklungszentrum",
+  "ar": "مركز التطوير",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Entwicklungszentren"
+ },
+ {
+  "de": "Entwicklungszusammenarbeit",
+  "ar": "التعاون التنموي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Entziehung",
+  "ar": "السحب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Entziehungen"
+ },
+ {
+  "de": "Entzug",
+  "ar": "الانسحاب / السحب",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Entzündung",
+  "ar": "الالتهاب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Entzündungen"
+ },
+ {
+  "de": "Entzündungshemmer",
+  "ar": "مضاد الالتهاب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Entzündungshemmer"
+ },
+ {
+  "de": "Enzym",
+  "ar": "الإنزيم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Enzyme"
+ },
+ {
+  "de": "Erblasser",
+  "ar": "المورث",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Erblasser"
+ },
+ {
+  "de": "Erbrechen",
+  "ar": "القيء",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Erbschaft",
+  "ar": "الميراث",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Erbschaften"
+ },
+ {
+  "de": "Erbschaftssteuer",
+  "ar": "ضريبة الميراث",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Erdbebenregion",
+  "ar": "منطقة الزلازل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Erdbebenregionen"
+ },
+ {
+  "de": "Erdgas-Pipeline",
+  "ar": "خط الغاز",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Erdgas-Pipelines"
+ },
+ {
+  "de": "Erdrutsch",
+  "ar": "الانهيار الأرضي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Erdrutsche"
+ },
+ {
+  "de": "Erdöl",
+  "ar": "البترول",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Erfahrungsbericht",
+  "ar": "تقرير التجربة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Erfahrungsberichte"
+ },
+ {
+  "de": "Erfolgschance",
+  "ar": "فرصة النجاح",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Erfolgschancen"
+ },
+ {
+  "de": "Erfolgsfaktor",
+  "ar": "عامل النجاح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Erfolgsfaktoren"
+ },
+ {
+  "de": "Erfolgsgeheimnis",
+  "ar": "سر النجاح",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Erfolgsgeheimnisse"
+ },
+ {
+  "de": "Erfrischung",
+  "ar": "الانتعاش",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Erfrischungen"
+ },
+ {
+  "de": "Ergebnisliste",
+  "ar": "قايمة النتايج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ergebnislisten"
+ },
+ {
+  "de": "Ergotherapie",
+  "ar": "العلاج الوظيفي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Ergänzungsspieler",
+  "ar": "اللاعب الاحتياطي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ergänzungsspieler"
+ },
+ {
+  "de": "Erinnerungsstück",
+  "ar": "التذكار",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Erinnerungsstücke"
+ },
+ {
+  "de": "Erklärvideo",
+  "ar": "فيديو الشرح",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Erklärvideos"
+ },
+ {
+  "de": "Erkundung",
+  "ar": "الاستكشاف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Erkundungen"
+ },
+ {
+  "de": "Erkundungstour",
+  "ar": "جولة الاستكشاف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Erkundungstouren"
+ },
+ {
+  "de": "Erkältungskrankheit",
+  "ar": "مرض البرد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Erkältungskrankheiten"
+ },
+ {
+  "de": "Erlass",
+  "ar": "المرسوم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Erlasse"
+ },
+ {
+  "de": "Erledigung",
+  "ar": "الإنجاز",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Erledigungen"
+ },
+ {
+  "de": "Ermittlerteam",
+  "ar": "فريق التحقيق",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ermittlerteams"
+ },
+ {
+  "de": "Ermittlungsbehörde",
+  "ar": "جهة التحقيق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ermittlungsbehörden"
+ },
+ {
+  "de": "Ermäßigung",
+  "ar": "الخصم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ermäßigungen"
+ },
+ {
+  "de": "Erntehelfer",
+  "ar": "عامل الحصاد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Erntehelfer"
+ },
+ {
+  "de": "Ernährungsberater",
+  "ar": "أخصائي التغذية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ernährungsberater"
+ },
+ {
+  "de": "Ernährungsexperte",
+  "ar": "خبير التغذية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ernährungsexperten"
+ },
+ {
+  "de": "Erpresser",
+  "ar": "المبتز",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Erpresser"
+ },
+ {
+  "de": "Errungenschaft",
+  "ar": "الإنجاز",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Errungenschaften"
+ },
+ {
+  "de": "Ersatzbank",
+  "ar": "دكة البدلاء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ersatzbänke"
+ },
+ {
+  "de": "Ersatzbus",
+  "ar": "الباص البديل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ersatzbusse"
+ }
+]
