@@ -1,0 +1,885 @@
+[
+ {
+  "de": "Matchball",
+  "ar": "نقطة حسم الماتش",
+  "pos": "noun"
+ },
+ {
+  "de": "Maßstab",
+  "ar": "معايير / مقياس",
+  "pos": "noun"
+ },
+ {
+  "de": "Mehl",
+  "ar": "دقيق",
+  "pos": "noun"
+ },
+ {
+  "de": "Meistertitel",
+  "ar": "لقب البطولة",
+  "pos": "noun"
+ },
+ {
+  "de": "Meldestelle",
+  "ar": "مكتب التبليغ",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Migrationshintergrund",
+  "ar": "أصول مهاجرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Millionär",
+  "ar": "مليونير",
+  "pos": "noun"
+ },
+ {
+  "de": "Mindestlohn",
+  "ar": "الحد الأدنى للأجور",
+  "pos": "noun"
+ },
+ {
+  "de": "Mitgliedschaft",
+  "ar": "عضوية",
+  "pos": "noun"
+ },
+ {
+  "de": "Mitgliedstaat",
+  "ar": "دول أعضاء",
+  "pos": "noun"
+ },
+ {
+  "de": "Mitstreiter",
+  "ar": "رفيق درب",
+  "pos": "noun"
+ },
+ {
+  "de": "Mobilisierung",
+  "ar": "تعبئة / حشد",
+  "pos": "noun"
+ },
+ {
+  "de": "Moderatorin",
+  "ar": "المذيعة (ست)",
+  "pos": "noun"
+ },
+ {
+  "de": "Mordkommission",
+  "ar": "وحدة مباحث القتل",
+  "pos": "noun"
+ },
+ {
+  "de": "Mülltrennung",
+  "ar": "فرز الزبالة",
+  "pos": "noun"
+ },
+ {
+  "de": "Nachhinein",
+  "ar": "فيما بعد",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Nahrungsmittel",
+  "ar": "مواد غذائية",
+  "pos": "noun",
+  "art": "das",
+  "pluralOnly": true
+ },
+ {
+  "de": "Nationaltrainer",
+  "ar": "مدرب المنتخب",
+  "pos": "noun"
+ },
+ {
+  "de": "Neuauflage",
+  "ar": "إصدار جديد / ريميك",
+  "pos": "noun"
+ },
+ {
+  "de": "Neuausrichtung",
+  "ar": "إعادة توجيه",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Neuheit",
+  "ar": "حاجة جديدة",
+  "pos": "noun"
+ },
+ {
+  "de": "Neuschnee",
+  "ar": "تلج طازة",
+  "pos": "noun"
+ },
+ {
+  "de": "Obduktion",
+  "ar": "تشريح الجثة",
+  "pos": "noun"
+ },
+ {
+  "de": "Oberstaatsanwalt",
+  "ar": "رئيس النيابة",
+  "pos": "noun"
+ },
+ {
+  "de": "Optik",
+  "ar": "الشكل / البصريات",
+  "pos": "noun"
+ },
+ {
+  "de": "Ordnungsamt",
+  "ar": "شرطة المرافق",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Osteuropa",
+  "ar": "شرق أوروبا",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Personalien",
+  "ar": "بيانات شخصية",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "Pflegeheim",
+  "ar": "دار مسنين",
+  "pos": "noun"
+ },
+ {
+  "de": "Photovoltaik",
+  "ar": "طاقة شمسية (ألواح)",
+  "pos": "noun"
+ },
+ {
+  "de": "Photovoltaikanlage",
+  "ar": "محطة ألواح شمسية",
+  "pos": "noun"
+ },
+ {
+  "de": "Pipeline",
+  "ar": "خطوط أنابيب",
+  "pos": "noun"
+ },
+ {
+  "de": "Plakat",
+  "ar": "لافتات إعلانية",
+  "pos": "noun"
+ },
+ {
+  "de": "Podest",
+  "ar": "منصة التتويج",
+  "pos": "noun"
+ },
+ {
+  "de": "Polizeibeamte",
+  "ar": "ضباط بوليس",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Polizeikraft",
+  "ar": "قوات أمن",
+  "pos": "noun"
+ },
+ {
+  "de": "Polizeisprecherin",
+  "ar": "المتحدثة باسم البوليس",
+  "pos": "noun"
+ },
+ {
+  "de": "Polizeiwache",
+  "ar": "قسم شرطة",
+  "pos": "noun"
+ },
+ {
+  "de": "Popstar",
+  "ar": "نجم بوب",
+  "pos": "noun"
+ },
+ {
+  "de": "Populist",
+  "ar": "شعبويين",
+  "pos": "noun"
+ },
+ {
+  "de": "Portfolio",
+  "ar": "محفظة أعمال",
+  "pos": "noun"
+ },
+ {
+  "de": "Porträt",
+  "ar": "بورتريه",
+  "pos": "noun"
+ },
+ {
+  "de": "Preisträger",
+  "ar": "الفايز بالجايزة",
+  "pos": "noun"
+ },
+ {
+  "de": "Pressesprecher",
+  "ar": "المتحدث الرسمي",
+  "pos": "noun"
+ },
+ {
+  "de": "Professorin",
+  "ar": "البروفيسورة (ست)",
+  "pos": "noun"
+ },
+ {
+  "de": "Profifußball",
+  "ar": "كورة المحترفين",
+  "pos": "noun"
+ },
+ {
+  "de": "Prüfstand",
+  "ar": "منصة اختبار",
+  "pos": "noun"
+ },
+ {
+  "de": "Radverkehr",
+  "ar": "حركة العجل",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Rampenlicht",
+  "ar": "الأضواء / الشهرة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Realschule",
+  "ar": "مدرسة إعدادي مهنية",
+  "pos": "noun"
+ },
+ {
+  "de": "Reanimation",
+  "ar": "إنعاش قلبي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Recherche",
+  "ar": "أبحاث / تحقيقات",
+  "pos": "noun"
+ },
+ {
+  "de": "Rechtsextreme",
+  "ar": "اليمين المتطرف",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Rechtspopulist",
+  "ar": "شعبويين يمين",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Rechtsstreit",
+  "ar": "نزاع قضائي",
+  "pos": "noun"
+ },
+ {
+  "de": "Recycling",
+  "ar": "إعادة التدوير",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Reduktion",
+  "ar": "تقليص / خفض",
+  "pos": "noun"
+ },
+ {
+  "de": "Referentenentwurf",
+  "ar": "مسودة قانون أولية",
+  "pos": "noun"
+ },
+ {
+  "de": "Regelfall",
+  "ar": "الحالة العادية",
+  "pos": "noun"
+ },
+ {
+  "de": "Regisseurin",
+  "ar": "المخرجة (ست)",
+  "pos": "noun"
+ },
+ {
+  "de": "Reihenfolge",
+  "ar": "ترتيب / تسلسل",
+  "pos": "noun"
+ },
+ {
+  "de": "Reiz",
+  "ar": "إثارة / جاذبية",
+  "pos": "noun"
+ },
+ {
+  "de": "Relegationsplatz",
+  "ar": "مركز الملحق",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Rentenversicherung",
+  "ar": "تأمين المعاشات",
+  "pos": "noun"
+ },
+ {
+  "de": "Resilienz",
+  "ar": "القدرة على الصمود",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Revision",
+  "ar": "استئناف / مراجعة",
+  "pos": "noun"
+ },
+ {
+  "de": "Rohstoff",
+  "ar": "خامات / مواد خام",
+  "pos": "noun"
+ },
+ {
+  "de": "Rosenmontagszug",
+  "ar": "موكب الكرنفال",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Rundfunk",
+  "ar": "الإذاعة والتلفزيون",
+  "pos": "noun"
+ },
+ {
+  "de": "Rundweg",
+  "ar": "طريق دائري",
+  "pos": "noun"
+ },
+ {
+  "de": "Räumung",
+  "ar": "إخلاء / طرد",
+  "pos": "noun"
+ },
+ {
+  "de": "Rückblick",
+  "ar": "نظرة للورا",
+  "pos": "noun"
+ },
+ {
+  "de": "Rückhalt",
+  "ar": "سند / دعم",
+  "pos": "noun"
+ },
+ {
+  "de": "Rückreise",
+  "ar": "رحلة العودة",
+  "pos": "noun"
+ },
+ {
+  "de": "Satzung",
+  "ar": "لائحة / نظام داخلي",
+  "pos": "noun"
+ },
+ {
+  "de": "Schaffung",
+  "ar": "إنشاء / خلق",
+  "pos": "noun"
+ },
+ {
+  "de": "Schiene",
+  "ar": "خطوط سكة حديد",
+  "pos": "noun"
+ },
+ {
+  "de": "Schimmel",
+  "ar": "عفن",
+  "pos": "noun"
+ },
+ {
+  "de": "Schlagersängerin",
+  "ar": "مطربة شعبية",
+  "pos": "noun"
+ },
+ {
+  "de": "Schlägerei",
+  "ar": "خناقة بالأيدي",
+  "pos": "noun"
+ },
+ {
+  "de": "Schnittstelle",
+  "ar": "واجهات ربط",
+  "pos": "noun"
+ },
+ {
+  "de": "Schreiner",
+  "ar": "نجار",
+  "pos": "noun"
+ },
+ {
+  "de": "Schutt",
+  "ar": "ركام / أنقاض",
+  "pos": "noun"
+ },
+ {
+  "de": "Schwachstelle",
+  "ar": "نقاط ضعف",
+  "pos": "noun"
+ },
+ {
+  "de": "Schwimmer",
+  "ar": "سباحين",
+  "pos": "noun"
+ },
+ {
+  "de": "Schützenverein",
+  "ar": "نادي رماية",
+  "pos": "noun"
+ },
+ {
+  "de": "Selbstbestimmung",
+  "ar": "تقرير المصير",
+  "pos": "noun"
+ },
+ {
+  "de": "Sendezeit",
+  "ar": "ميعاد البث",
+  "pos": "noun"
+ },
+ {
+  "de": "Server",
+  "ar": "سيرفرات",
+  "pos": "noun"
+ },
+ {
+  "de": "Sicherheitsbehörde",
+  "ar": "جهات أمنية",
+  "pos": "noun"
+ },
+ {
+  "de": "Sicherheitslücke",
+  "ar": "ثغرة أمنية",
+  "pos": "noun"
+ },
+ {
+  "de": "Siebter",
+  "ar": "السابع",
+  "pos": "noun"
+ },
+ {
+  "de": "Silvester",
+  "ar": "ليلة رأس السنة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Solaranlage",
+  "ar": "ألواح شمسية",
+  "pos": "noun"
+ },
+ {
+  "de": "Sondersitzung",
+  "ar": "جلسة طارئة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Spender",
+  "ar": "متبرعين / مانحين",
+  "pos": "noun"
+ },
+ {
+  "de": "Sperre",
+  "ar": "عقوبة إيقاف",
+  "pos": "noun"
+ },
+ {
+  "de": "Spielminute",
+  "ar": "دقيقة في الماتش",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Spital",
+  "ar": "مستشفيات (نمسا)",
+  "pos": "noun"
+ },
+ {
+  "de": "Sponsor",
+  "ar": "رعاة",
+  "pos": "noun"
+ },
+ {
+  "de": "Sportchef",
+  "ar": "مدير الكورة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Sporthalle",
+  "ar": "صالة ألعاب",
+  "pos": "noun"
+ },
+ {
+  "de": "Sportplatz",
+  "ar": "ملعب بلدي",
+  "pos": "noun"
+ },
+ {
+  "de": "Sprengung",
+  "ar": "تفجير / هدم بالديناميت",
+  "pos": "noun"
+ },
+ {
+  "de": "Staatsoberhaupt",
+  "ar": "رأس الدولة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Stadtarchiv",
+  "ar": "أرشيف المدينة",
+  "pos": "noun"
+ },
+ {
+  "de": "Stadtfest",
+  "ar": "مهرجان المدينة",
+  "pos": "noun"
+ },
+ {
+  "de": "Stadtgebiet",
+  "ar": "نطاق المدينة",
+  "pos": "noun"
+ },
+ {
+  "de": "Stadtkirche",
+  "ar": "كنيسة المدينة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Stadträtin",
+  "ar": "عضوة مجلس المدينة",
+  "pos": "noun"
+ },
+ {
+  "de": "Stadtsprecherin",
+  "ar": "متحدثة البلدية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Statistik",
+  "ar": "إحصائيات",
+  "pos": "noun"
+ },
+ {
+  "de": "Steuereinnahme",
+  "ar": "حصيلة الضرايب",
+  "pos": "noun"
+ },
+ {
+  "de": "Stichwort",
+  "ar": "كلمة مفتاحية",
+  "pos": "noun"
+ },
+ {
+  "de": "Stimmabgabe",
+  "ar": "الإدلا بالصوت",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Stoffwechsel",
+  "ar": "الأيض / التمثيل الغذائي",
+  "pos": "noun"
+ },
+ {
+  "de": "Straßenrand",
+  "ar": "جنب الطريق",
+  "pos": "noun"
+ },
+ {
+  "de": "Streichung",
+  "ar": "حذف / إلغاء",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Stromleitung",
+  "ar": "خطوط كهربا",
+  "pos": "noun"
+ },
+ {
+  "de": "Strompreis",
+  "ar": "سعر الكهربا",
+  "pos": "noun"
+ },
+ {
+  "de": "Süßigkeit",
+  "ar": "حلويات",
+  "pos": "noun"
+ },
+ {
+  "de": "Tanzfläche",
+  "ar": "حلبة الرقص",
+  "pos": "noun"
+ },
+ {
+  "de": "Taste",
+  "ar": "أزرار / كيبورد",
+  "pos": "noun"
+ },
+ {
+  "de": "Teamgeist",
+  "ar": "روح الفريق",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Techniker",
+  "ar": "فنيين",
+  "pos": "noun"
+ },
+ {
+  "de": "Teilhabe",
+  "ar": "مشاركة مجتمعية",
+  "pos": "noun"
+ },
+ {
+  "de": "Telefonat",
+  "ar": "مكالمة تليفون",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Terrain",
+  "ar": "أرضية / تضاريس",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Terrororganisation",
+  "ar": "منظمة إرهابية",
+  "pos": "noun"
+ },
+ {
+  "de": "Testbericht",
+  "ar": "تقييم منتج",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Testphase",
+  "ar": "فترة تجريبية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Tierpark",
+  "ar": "جنينة حيوانات",
+  "pos": "noun"
+ },
+ {
+  "de": "Tierärztin",
+  "ar": "الدكتورة البيطرية",
+  "pos": "noun"
+ },
+ {
+  "de": "Torjäger",
+  "ar": "هداف",
+  "pos": "noun"
+ },
+ {
+  "de": "Transfer",
+  "ar": "صفقة انتقال",
+  "pos": "noun"
+ },
+ {
+  "de": "Traumstart",
+  "ar": "بداية حلم",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Treiber",
+  "ar": "تعريفات / محركات",
+  "pos": "noun"
+ },
+ {
+  "de": "Trikot",
+  "ar": "تيشيرتات كورة",
+  "pos": "noun"
+ },
+ {
+  "de": "Trockenheit",
+  "ar": "جفاف / قحط",
+  "pos": "noun"
+ },
+ {
+  "de": "Trophäe",
+  "ar": "كأس / درع",
+  "pos": "noun"
+ },
+ {
+  "de": "Turnhalle",
+  "ar": "جيم / صالة",
+  "pos": "noun"
+ },
+ {
+  "de": "Umfragewert",
+  "ar": "نسب استطلاعات",
+  "pos": "noun"
+ },
+ {
+  "de": "Umleitung",
+  "ar": "تحويلة مرورية",
+  "pos": "noun"
+ },
+ {
+  "de": "Umweltbundesamt",
+  "ar": "وكالة البيئة الفيدرالية",
+  "pos": "noun"
+ },
+ {
+  "de": "Unfallursache",
+  "ar": "سبب الحادث",
+  "pos": "noun"
+ },
+ {
+  "de": "Uniklinik",
+  "ar": "مستشفى جامعي",
+  "pos": "noun"
+ },
+ {
+  "de": "Urgestein",
+  "ar": "مخضرم / عمود قديم",
+  "pos": "noun"
+ },
+ {
+  "de": "Urnengang",
+  "ar": "يوم الانتخاب",
+  "pos": "noun"
+ },
+ {
+  "de": "Veranstaltungsreihe",
+  "ar": "سلسلة فعاليات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Verbundenheit",
+  "ar": "انتماء / ترابط",
+  "pos": "noun"
+ },
+ {
+  "de": "Verfassungsgerichtshof",
+  "ar": "المحكمة الدستورية العليا",
+  "pos": "noun"
+ },
+ {
+  "de": "Verfechter",
+  "ar": "مؤيد شرس",
+  "pos": "noun"
+ },
+ {
+  "de": "Verhaltensweise",
+  "ar": "سلوكيات",
+  "pos": "noun"
+ },
+ {
+  "de": "Verkehrskontrolle",
+  "ar": "كمين مرور",
+  "pos": "noun"
+ },
+ {
+  "de": "Verkäuferin",
+  "ar": "البياعة (ست)",
+  "pos": "noun"
+ },
+ {
+  "de": "Verlegung",
+  "ar": "نقل / تأجيل",
+  "pos": "noun"
+ },
+ {
+  "de": "Vermisste",
+  "ar": "المفقودين",
+  "pos": "noun",
+  "art": "der",
+  "pluralOnly": true
+ },
+ {
+  "de": "Verschlüsselung",
+  "ar": "تشفير",
+  "pos": "noun"
+ },
+ {
+  "de": "Verschärfung",
+  "ar": "تشديد / تصعيد",
+  "pos": "noun"
+ },
+ {
+  "de": "Vertragsverlängerung",
+  "ar": "تجديد عقد",
+  "pos": "noun"
+ },
+ {
+  "de": "Vertrauensfrage",
+  "ar": "سحب الثقة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Vertretung",
+  "ar": "بديل / وكالة",
+  "pos": "noun"
+ },
+ {
+  "de": "Verwüstung",
+  "ar": "دمار / خراب",
+  "pos": "noun"
+ },
+ {
+  "de": "Vierbeiner",
+  "ar": "الحيوان الأليف (رباعي)",
+  "pos": "noun"
+ },
+ {
+  "de": "Vierter",
+  "ar": "الرابع",
+  "pos": "noun"
+ },
+ {
+  "de": "Vitamin",
+  "ar": "فيتامينات",
+  "pos": "noun"
+ },
+ {
+  "de": "Vizekanzler",
+  "ar": "نائب المستشار",
+  "pos": "noun"
+ },
+ {
+  "de": "Volkswirtschaft",
+  "ar": "الاقتصاد القومي",
+  "pos": "noun"
+ },
+ {
+  "de": "Volatilität",
+  "ar": "تقلب شديد",
+  "pos": "noun"
+ }
+]
