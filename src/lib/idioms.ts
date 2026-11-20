@@ -1,8 +1,28 @@
 import type { Lvl } from './grammar-types';
+import extras from './generated/redewendungen-extra.json';
 // [idiom, literal (English), meaning (Egyptian Arabic), meaning (English), example (German), example (Arabic)]
-export type Idiom = { de: string; literal: string; ar: string; en: string; ex: string; exAr: string; level: Lvl };
+export type Idiom = { de: string; literal: string; ar: string; en: string; ex: string; exAr: string; level: Lvl; topic?: string };
 
-export const idioms: Idiom[] = [
+export const idiomTopics: Record<string, [string, string]> = {
+  alltag: ['يوميات', 'everyday'], essen: ['أكل وشرب', 'food'], koerper: ['الجسم', 'body'], liebe: ['حب وعلاقات', 'love'],
+  arbeit: ['شغل', 'work'], gefuehle: ['مشاعر', 'feelings'], tiere: ['حيوانات', 'animals'], geld: ['فلوس', 'money'],
+  sport: ['رياضة', 'sports'], bildung: ['تعليم', 'education'], zeit: ['وقت', 'time'], natur: ['طبيعة', 'nature'],
+  kleidung: ['لبس', 'clothes'], wetter: ['طقس', 'weather'], kunst: ['فن', 'art'],
+};
+
+const curatedTopics: Record<string, string> = {
+  'Ich verstehe nur Bahnhof.': 'alltag', 'Daumen drücken': 'gefuehle', 'Das ist mir Wurst.': 'essen',
+  'Tomaten auf den Augen haben': 'essen', 'Da steppt der Bär.': 'tiere', 'Ich habe die Nase voll.': 'koerper',
+  'Das ist ein Katzensprung.': 'tiere', 'Das ist nicht mein Bier.': 'essen', 'Jemandem auf die Nerven gehen': 'gefuehle',
+  'Zwei Fliegen mit einer Klappe schlagen': 'tiere', 'Es regnet in Strömen.': 'wetter', 'Ins Gras beißen': 'natur',
+  'Den Nagel auf den Kopf treffen': 'alltag', 'Hals- und Beinbruch!': 'koerper', 'Unter vier Augen': 'alltag',
+  'Auf der Leitung stehen': 'alltag', 'Die Daumen drehen': 'koerper', 'Etwas auf die lange Bank schieben': 'zeit',
+  'Ins kalte Wasser springen': 'natur', 'Durch die Blume sagen': 'natur', 'Alles in Butter': 'essen',
+  'Einen Kater haben': 'tiere', 'Jemandem einen Bären aufbinden': 'tiere', 'Das Eis brechen': 'alltag',
+  'Jemandem reinen Wein einschenken': 'essen', 'Wie die Faust aufs Auge passen': 'koerper',
+};
+
+const curated: Idiom[] = [
   { level: 'B1', de: 'Ich verstehe nur Bahnhof.', literal: 'I only understand train station.', ar: 'مش فاهم أي حاجة', en: 'I do not understand anything.', ex: 'Der Professor redet so schnell, ich verstehe nur Bahnhof.', exAr: 'الدكتور بيتكلم بسرعة، أنا مش فاهم أي حاجة.' },
   { level: 'B1', de: 'Daumen drücken', literal: 'to press thumbs', ar: 'يتمنى لحد التوفيق', en: 'to keep your fingers crossed', ex: 'Morgen ist meine Prüfung. Drück mir die Daumen!', exAr: 'بكرة امتحاني. ادعيلي بالتوفيق!' },
   { level: 'B1', de: 'Das ist mir Wurst.', literal: 'That is sausage to me.', ar: 'ده عادي عندي، ما يفرقش معايا', en: 'I do not care.', ex: 'Ob wir Pizza oder Pasta essen, ist mir Wurst.', exAr: 'سواء أكلنا بيتزا ولا مكرونة، ما يفرقش معايا.' },
@@ -29,4 +49,9 @@ export const idioms: Idiom[] = [
   { level: 'C1', de: 'Das Eis brechen', literal: 'to break the ice', ar: 'يكسر الحاجز في أول لقاء', en: 'to break the ice', ex: 'Ein Witz half, das Eis zu brechen.', exAr: 'نكتة ساعدت تكسر الحاجز.' },
   { level: 'C1', de: 'Jemandem reinen Wein einschenken', literal: 'to pour someone pure wine', ar: 'يقول لحد الحقيقة كاملة', en: 'to tell someone the plain truth', ex: 'Es wird Zeit, dir reinen Wein einzuschenken.', exAr: 'جه وقت أقولك الحقيقة كاملة.' },
   { level: 'C1', de: 'Wie die Faust aufs Auge passen', literal: 'to fit like the fist on the eye', ar: 'ما يليقش خالص', en: 'to not fit at all', ex: 'Das neue Sofa passt zum Zimmer wie die Faust aufs Auge.', exAr: 'الكنبة الجديدة مش لايقة على الأوضة خالص.' },
+];
+
+export const idioms: Idiom[] = [
+  ...curated.map((d) => ({ ...d, topic: curatedTopics[d.de] ?? 'alltag' })),
+  ...(extras as Idiom[]),
 ];
