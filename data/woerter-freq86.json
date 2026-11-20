@@ -1,0 +1,541 @@
+[
+ {
+  "de": "Jugendorganisation",
+  "ar": "منظمة الشباب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Jugendorganisationen"
+ },
+ {
+  "de": "Jugendparlament",
+  "ar": "برلمان الشباب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Jugendparlamente"
+ },
+ {
+  "de": "Jugendschutz",
+  "ar": "حماية الشباب",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Jugendschutzgesetz",
+  "ar": "قانون حماية الشباب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Jugendschutzgesetze"
+ },
+ {
+  "de": "Jugendspieler",
+  "ar": "لاعب الشباب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Jugendspieler"
+ },
+ {
+  "de": "Jugendverband",
+  "ar": "اتحاد الشباب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Jugendverbände"
+ },
+ {
+  "de": "Jugendzentrum",
+  "ar": "مركز الشباب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Jugendzentren"
+ },
+ {
+  "de": "Jungfräulichkeit",
+  "ar": "العذرية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Jungstar",
+  "ar": "النجم الصاعد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Jungstars"
+ },
+ {
+  "de": "Jungunternehmen",
+  "ar": "الشركة الناشئة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Jungunternehmen"
+ },
+ {
+  "de": "Juristin",
+  "ar": "المحامية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Juristinnen"
+ },
+ {
+  "de": "Jurymitglied",
+  "ar": "عضو لجنة التحكيم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Jurymitglieder"
+ },
+ {
+  "de": "Justizreform",
+  "ar": "إصلاح القضاء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Justizreformen"
+ },
+ {
+  "de": "Justizwesen",
+  "ar": "الجهاز القضائي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Jüdin",
+  "ar": "اليهودية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Jüdinnen"
+ },
+ {
+  "de": "Kabarettistin",
+  "ar": "فنانة الكاباريه",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kabarettistinnen"
+ },
+ {
+  "de": "Kabelnetz",
+  "ar": "شبكة الكابلات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kabelnetze"
+ },
+ {
+  "de": "Kabinenbahn",
+  "ar": "التلفريك",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kabinenbahnen"
+ },
+ {
+  "de": "Kaffeebecher",
+  "ar": "كوباية القهوة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kaffeebecher"
+ },
+ {
+  "de": "Kaffeeindustrie",
+  "ar": "صناعة القهوة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kaffeeindustrien"
+ },
+ {
+  "de": "Kaffeepause",
+  "ar": "بريك القهوة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kaffeepausen"
+ },
+ {
+  "de": "Kaffeevollautomat",
+  "ar": "ماكينة القهوة الأوتوماتيك",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kaffeevollautomaten"
+ },
+ {
+  "de": "Kairo",
+  "ar": "القاهرة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Kakaobohne",
+  "ar": "حبة الكاكاو",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kakaobohnen"
+ },
+ {
+  "de": "Kakaobutter",
+  "ar": "زبدة الكاكاو",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Kalenderwoche",
+  "ar": "الأسبوع الميلادي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kalenderwochen"
+ },
+ {
+  "de": "Kalifat",
+  "ar": "الخلافة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kalifate"
+ },
+ {
+  "de": "Kalkulation",
+  "ar": "الحساب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kalkulationen"
+ },
+ {
+  "de": "Kalorie",
+  "ar": "السعرة الحرارية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kalorien"
+ },
+ {
+  "de": "Kaltschnäuzigkeit",
+  "ar": "الوقاحة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Kameradin",
+  "ar": "الرفيقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kameradinnen"
+ },
+ {
+  "de": "Kameradschaft",
+  "ar": "الرفقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kameradschaften"
+ },
+ {
+  "de": "Kamerafrau",
+  "ar": "المصورة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kamerafrauen"
+ },
+ {
+  "de": "Kameramann",
+  "ar": "المصور",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kameramänner"
+ },
+ {
+  "de": "Kameruner",
+  "ar": "الكاميروني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kameruner"
+ },
+ {
+  "de": "Kamille",
+  "ar": "البابونج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kamillen"
+ },
+ {
+  "de": "Kampfansage",
+  "ar": "إعلان الحرب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kampfansagen"
+ },
+ {
+  "de": "Kampfflugzeug",
+  "ar": "الطائرة المقاتلة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kampfflugzeuge"
+ },
+ {
+  "de": "Kampfhandlungen",
+  "ar": "العمليات القتالية",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Kampfhubschrauber",
+  "ar": "الهليكوبتر الهجومية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kampfhubschrauber"
+ },
+ {
+  "de": "Kampfkunst",
+  "ar": "الفنون القتالية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kampfkünste"
+ },
+ {
+  "de": "Kanalisationssystem",
+  "ar": "نظام الصرف",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kanalisationssysteme"
+ },
+ {
+  "de": "Kanaren",
+  "ar": "جزر الكناري",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Kandidatenliste",
+  "ar": "قائمة المرشحين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kandidatenlisten"
+ },
+ {
+  "de": "Kanister",
+  "ar": "الجركن",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kanister"
+ },
+ {
+  "de": "Kantine",
+  "ar": "الكانتين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kantinen"
+ },
+ {
+  "de": "Kanzleramt",
+  "ar": "المستشارية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kanzlerämter"
+ },
+ {
+  "de": "Kapitalanlage",
+  "ar": "الاستثمار الرأسمالي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kapitalanlagen"
+ },
+ {
+  "de": "Kapitalismus",
+  "ar": "الرأسمالية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Kapitol",
+  "ar": "الكابيتول",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kapitole"
+ },
+ {
+  "de": "Kapitänsbinde",
+  "ar": "شارة الكابتن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kapitänsbinden"
+ },
+ {
+  "de": "Kapuze",
+  "ar": "الكابوشون",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kapuzen"
+ },
+ {
+  "de": "Karat",
+  "ar": "القيراط",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Karat"
+ },
+ {
+  "de": "Kardinal",
+  "ar": "الكاردينال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kardinäle"
+ },
+ {
+  "de": "Karikatur",
+  "ar": "الكاريكاتير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Karikaturen"
+ },
+ {
+  "de": "Karneval",
+  "ar": "الكرنفال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Karnevale"
+ },
+ {
+  "de": "Karosserie",
+  "ar": "هيكل العربية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Karosserien"
+ },
+ {
+  "de": "Karrierechance",
+  "ar": "فرصة الكارير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Karrierechancen"
+ },
+ {
+  "de": "Karriereleiter",
+  "ar": "سلم الكارير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Karriereleitern"
+ },
+ {
+  "de": "Karrierestart",
+  "ar": "بداية الكارير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Karrierestarts"
+ },
+ {
+  "de": "Karsamstag",
+  "ar": "سبت النور",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Karsamstage"
+ },
+ {
+  "de": "Kartellamt",
+  "ar": "مكتب مكافحة الاحتكار",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kartellämter"
+ },
+ {
+  "de": "Kartenverkauf",
+  "ar": "بيع التذاكر",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Kartoffelpüree",
+  "ar": "بيوريه البطاطس",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Kartoffelpürees"
+ },
+ {
+  "de": "Kartoffelsalat",
+  "ar": "سلطة البطاطس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kartoffelsalate"
+ },
+ {
+  "de": "Karussell",
+  "ar": "الدوامة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Karussells"
+ },
+ {
+  "de": "Kaschmir",
+  "ar": "الكشمير",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Kaserne",
+  "ar": "الثكنة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kasernen"
+ },
+ {
+  "de": "Kassenbon",
+  "ar": "إيصال الكاشير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kassenbons"
+ },
+ {
+  "de": "Kassenschlager",
+  "ar": "البست سيلر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kassenschlager"
+ },
+ {
+  "de": "Kassettenrecorder",
+  "ar": "مسجل الكاسيت",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kassettenrecorder"
+ },
+ {
+  "de": "Kassierer",
+  "ar": "الكاشير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kassierer"
+ },
+ {
+  "de": "Katastrophenschutz",
+  "ar": "الحماية من الكوارث",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Katzenbesitzer",
+  "ar": "صاحب القطة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Katzenbesitzer"
+ },
+ {
+  "de": "Kaufbereitschaft",
+  "ar": "الاستعداد للشراء",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Kaufentscheidung",
+  "ar": "قرار الشراء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kaufentscheidungen"
+ },
+ {
+  "de": "Kaufkraftparität",
+  "ar": "تعادل القوة الشرائية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Kaufkraftparitäten"
+ },
+ {
+  "de": "Kaufkraftverlust",
+  "ar": "فقدان القوة الشرائية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Kaufkraftverluste"
+ },
+ {
+  "de": "Kauflaune",
+  "ar": "مزاج الشراء",
+  "pos": "noun",
+  "art": "die"
+ }
+]
