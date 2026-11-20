@@ -1,0 +1,918 @@
+[
+ {
+  "de": "Geborgenheitsgefühl",
+  "ar": "إحساس الأمان",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Gebrauchtwagen",
+  "ar": "العربية المستعملة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gebrauchtwagen"
+ },
+ {
+  "de": "Gebrüll",
+  "ar": "الزعيق",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Geburtenrate",
+  "ar": "معدل المواليد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Geburtenraten"
+ },
+ {
+  "de": "Geburtshilfe",
+  "ar": "التوليد",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Geburtsjahr",
+  "ar": "سنة الميلاد",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Geburtsjahre"
+ },
+ {
+  "de": "Geburtsstadt",
+  "ar": "مدينة الميلاد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Geburtsstädte"
+ },
+ {
+  "de": "Geburtstagsfeier",
+  "ar": "حفلة عيد الميلاد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Geburtstagsfeiern"
+ },
+ {
+  "de": "Geburtstagsgeschenk",
+  "ar": "هدية عيد الميلاد",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Geburtstagsgeschenke"
+ },
+ {
+  "de": "Geburtsurkunde",
+  "ar": "شهادة الميلاد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Geburtsurkunden"
+ },
+ {
+  "de": "Gebäudebestand",
+  "ar": "المباني القائمة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Gebäudekomplex",
+  "ar": "مجمع المباني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gebäudekomplexe"
+ },
+ {
+  "de": "Gebäudeschaden",
+  "ar": "ضرر المبنى",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gebäudeschäden"
+ },
+ {
+  "de": "Gebüsch",
+  "ar": "الشجيرات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gebüsche"
+ },
+ {
+  "de": "Gedankengut",
+  "ar": "الأفكار الموروثة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Gedenkstein",
+  "ar": "حجر الذكرى",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gedenksteine"
+ },
+ {
+  "de": "Gedenktag",
+  "ar": "يوم الذكرى",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gedenktage"
+ },
+ {
+  "de": "Gedränge",
+  "ar": "الزحمة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Geduldsprobe",
+  "ar": "اختبار الصبر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Geduldsproben"
+ },
+ {
+  "de": "Gefahrenbereich",
+  "ar": "منطقة الخطر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gefahrenbereiche"
+ },
+ {
+  "de": "Gefahrgut",
+  "ar": "البضائع الخطرة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gefahrgüter"
+ },
+ {
+  "de": "Gefahrenlage",
+  "ar": "الوضع الخطر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gefahrenlagen"
+ },
+ {
+  "de": "Gefangenschaft",
+  "ar": "الأسر",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Geflecht",
+  "ar": "النسيج",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Geflechte"
+ },
+ {
+  "de": "Gefolge",
+  "ar": "الحاشية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Gefrierpunkt",
+  "ar": "درجة التجمد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gefrierpunkte"
+ },
+ {
+  "de": "Gefährte",
+  "ar": "الرفيق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gefährten"
+ },
+ {
+  "de": "Gefährtin",
+  "ar": "الرفيقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gefährtinnen"
+ },
+ {
+  "de": "Gefängnisstrafe",
+  "ar": "عقوبة السجن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gefängnisstrafen"
+ },
+ {
+  "de": "Gefüge",
+  "ar": "التركيبة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gefüge"
+ },
+ {
+  "de": "Gefühlsregung",
+  "ar": "الانفعال",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gefühlsregungen"
+ },
+ {
+  "de": "Gegenangebot",
+  "ar": "العرض المضاد",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gegenangebote"
+ },
+ {
+  "de": "Gegenargument",
+  "ar": "الحجة المضادة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gegenargumente"
+ },
+ {
+  "de": "Gegenbeispiel",
+  "ar": "المثال المضاد",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gegenbeispiele"
+ },
+ {
+  "de": "Gegendemonstration",
+  "ar": "المظاهرة المضادة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gegendemonstrationen"
+ },
+ {
+  "de": "Gegenfrage",
+  "ar": "السؤال المضاد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gegenfragen"
+ },
+ {
+  "de": "Gegengewicht",
+  "ar": "الوزن الموازن",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gegengewichte"
+ },
+ {
+  "de": "Gegenoffensive",
+  "ar": "الهجوم المضاد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gegenoffensiven"
+ },
+ {
+  "de": "Gegenpart",
+  "ar": "الطرف المقابل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gegenparte"
+ },
+ {
+  "de": "Gegenschlag",
+  "ar": "الضربة المضادة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gegenschläge"
+ },
+ {
+  "de": "Gegenseite",
+  "ar": "الطرف التاني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gegenseiten"
+ },
+ {
+  "de": "Gegensprechanlage",
+  "ar": "الإنتركم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gegensprechanlagen"
+ },
+ {
+  "de": "Gegenstimme",
+  "ar": "الصوت المعارض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gegenstimmen"
+ },
+ {
+  "de": "Gegenstück",
+  "ar": "النظير",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gegenstücke"
+ },
+ {
+  "de": "Gegentreffer",
+  "ar": "الهدف في مرمانا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gegentreffer"
+ },
+ {
+  "de": "Gegenwehr",
+  "ar": "المقاومة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gehaltskosten",
+  "ar": "تكاليف المرتبات",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Gehaltspaket",
+  "ar": "حزمة المرتب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gehaltspakete"
+ },
+ {
+  "de": "Gehaltsschere",
+  "ar": "فجوة المرتبات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gehaltsscheren"
+ },
+ {
+  "de": "Gehaltsverzicht",
+  "ar": "التنازل عن المرتب",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Geheimagent",
+  "ar": "العميل السري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Geheimagenten"
+ },
+ {
+  "de": "Geheimniskrämerei",
+  "ar": "السرية الزايدة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Geheimrezept",
+  "ar": "الوصفة السرية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Geheimrezepte"
+ },
+ {
+  "de": "Gehirnblutung",
+  "ar": "نزيف المخ",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gehirnblutungen"
+ },
+ {
+  "de": "Gehirnerschütterung",
+  "ar": "ارتجاج المخ",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gehirnerschütterungen"
+ },
+ {
+  "de": "Gehminuten",
+  "ar": "دقايق ماشي",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Gehörschutz",
+  "ar": "واقي السمع",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Geisteszustand",
+  "ar": "الحالة العقلية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Geisteszustände"
+ },
+ {
+  "de": "Geistliche",
+  "ar": "رجل الدين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Geistlichen"
+ },
+ {
+  "de": "Geißel",
+  "ar": "السوط",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Geißeln"
+ },
+ {
+  "de": "Gejubel",
+  "ar": "الهتاف",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Gekicher",
+  "ar": "القهقهة الخفيفة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Gelassenheit",
+  "ar": "الهدوء النفسي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Geldanlage",
+  "ar": "الاستثمار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Geldanlagen"
+ },
+ {
+  "de": "Geldbetrag",
+  "ar": "المبلغ المالي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Geldbeträge"
+ },
+ {
+  "de": "Geldbuße",
+  "ar": "الغرامة المالية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Geldbußen"
+ },
+ {
+  "de": "Geldforderung",
+  "ar": "المطالبة المالية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Geldforderungen"
+ },
+ {
+  "de": "Geldgier",
+  "ar": "الطمع في الفلوس",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Geldschein",
+  "ar": "الورقة المالية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Geldscheine"
+ },
+ {
+  "de": "Geldtasche",
+  "ar": "محفظة الفلوس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Geldtaschen"
+ },
+ {
+  "de": "Geldübergabe",
+  "ar": "تسليم الفلوس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Geldübergaben"
+ },
+ {
+  "de": "Gelenkschmerzen",
+  "ar": "ألم المفاصل",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Geltung",
+  "ar": "السريان",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gemeindewahl",
+  "ar": "انتخابات البلدية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gemeindewahlen"
+ },
+ {
+  "de": "Gemeinschaftsgeist",
+  "ar": "روح الجماعة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Gemeinschaftsprojekt",
+  "ar": "المشروع المشترك",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gemeinschaftsprojekte"
+ },
+ {
+  "de": "Gemeinschaftsunternehmen",
+  "ar": "المشروع المشترك",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gemeinschaftsunternehmen"
+ },
+ {
+  "de": "Gemäldesammlung",
+  "ar": "مجموعة اللوحات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gemäldesammlungen"
+ },
+ {
+  "de": "Gemüseladen",
+  "ar": "محل الخضار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gemüseläden"
+ },
+ {
+  "de": "Genderdebatte",
+  "ar": "نقاش الجندر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Genderdebatten"
+ },
+ {
+  "de": "Genehmigungsverfahren",
+  "ar": "إجراءات الترخيص",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Genehmigungsverfahren"
+ },
+ {
+  "de": "Generalbundesanwalt",
+  "ar": "المدعي العام الاتحادي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Generalbundesanwälte"
+ },
+ {
+  "de": "Generalprobe",
+  "ar": "البروفة النهائية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Generalproben"
+ },
+ {
+  "de": "Generalsanierung",
+  "ar": "التجديد الشامل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Generalsanierungen"
+ },
+ {
+  "de": "Generalstaatsanwältin",
+  "ar": "المدعية العامة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Generalstaatsanwältinnen"
+ },
+ {
+  "de": "Generalstab",
+  "ar": "هيئة الأركان",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Generalstäbe"
+ },
+ {
+  "de": "Generalstreik",
+  "ar": "الإضراب العام",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Generalstreiks"
+ },
+ {
+  "de": "Generalverdacht",
+  "ar": "الاشتباه العام",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Generationswechsel",
+  "ar": "تغيير الأجيال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Generationswechsel"
+ },
+ {
+  "de": "Genervtheit",
+  "ar": "الزهق",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Genetik",
+  "ar": "علم الوراثة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Genom",
+  "ar": "الجينوم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Genome"
+ },
+ {
+  "de": "Genossin",
+  "ar": "الرفيقة الحزبية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Genossinnen"
+ },
+ {
+  "de": "Genozid",
+  "ar": "الإبادة الجماعية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Genozide"
+ },
+ {
+  "de": "Gentechnik",
+  "ar": "الهندسة الوراثية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gentest",
+  "ar": "التحليل الجيني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gentests"
+ },
+ {
+  "de": "Genussmittel",
+  "ar": "المشروبات والمنبهات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Genussmittel"
+ },
+ {
+  "de": "Geodaten",
+  "ar": "البيانات الجغرافية",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Geographie",
+  "ar": "الجغرافيا",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gepäckaufgabe",
+  "ar": "تسليم الشنط",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gepäckstück",
+  "ar": "قطعة الشنط",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gepäckstücke"
+ },
+ {
+  "de": "Gerangel",
+  "ar": "التدافع",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Gerichtsentscheidung",
+  "ar": "قرار المحكمة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gerichtsentscheidungen"
+ },
+ {
+  "de": "Gerichtsmedizinerin",
+  "ar": "الطبيبة الشرعية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gerichtsmedizinerinnen"
+ },
+ {
+  "de": "Gerichtspräsident",
+  "ar": "رئيس المحكمة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gerichtspräsidenten"
+ },
+ {
+  "de": "Gerichtsurteil",
+  "ar": "حكم المحكمة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gerichtsurteile"
+ },
+ {
+  "de": "Gerichtsverhandlung",
+  "ar": "جلسة المحكمة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gerichtsverhandlungen"
+ },
+ {
+  "de": "Geschichtsmuseum",
+  "ar": "متحف التاريخ",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Geschichtsmuseen"
+ },
+ {
+  "de": "Geschichtswissenschaft",
+  "ar": "علم التاريخ",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Geschicklichkeit",
+  "ar": "المهارة اليدوية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Geschlechtergleichheit",
+  "ar": "المساواة بين الجنسين",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Geschlechtsanpassung",
+  "ar": "تغيير الجنس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Geschlechtsanpassungen"
+ },
+ {
+  "de": "Geschlossenheit",
+  "ar": "التكاتف",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Geschmackssache",
+  "ar": "مسألة ذوق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Geschmackssachen"
+ },
+ {
+  "de": "Geschwindigkeitskontrolle",
+  "ar": "رادار السرعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Geschwindigkeitskontrollen"
+ },
+ {
+  "de": "Geschwindigkeitsmessung",
+  "ar": "قياس السرعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Geschwindigkeitsmessungen"
+ },
+ {
+  "de": "Geschäftsadresse",
+  "ar": "عنوان الشغل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Geschäftsadressen"
+ },
+ {
+  "de": "Geschäftsbedingungen",
+  "ar": "الشروط والأحكام",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Geschäftsbericht",
+  "ar": "التقرير السنوي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Geschäftsberichte"
+ },
+ {
+  "de": "Geschäftsbetrieb",
+  "ar": "سير العمل",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Geschäftsentwicklung",
+  "ar": "تطور الأعمال",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Geschäftsentwicklungen"
+ },
+ {
+  "de": "Geschäftsfeld",
+  "ar": "مجال العمل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Geschäftsfelder"
+ },
+ {
+  "de": "Geschäftslokal",
+  "ar": "المحل التجاري",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Geschäftslokale"
+ },
+ {
+  "de": "Geschäftspraktik",
+  "ar": "ممارسات الشغل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Geschäftspraktiken"
+ },
+ {
+  "de": "Geschäftsreise",
+  "ar": "رحلة الشغل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Geschäftsreisen"
+ },
+ {
+  "de": "Geschäftstätigkeit",
+  "ar": "النشاط التجاري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Geschäftstätigkeiten"
+ },
+ {
+  "de": "Gesellschafterversammlung",
+  "ar": "جمعية المساهمين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gesellschafterversammlungen"
+ },
+ {
+  "de": "Gesetzesbrecher",
+  "ar": "مخالف القانون",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gesetzesbrecher"
+ },
+ {
+  "de": "Gesetzespaket",
+  "ar": "حزمة القوانين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gesetzespakete"
+ },
+ {
+  "de": "Gesetzestext",
+  "ar": "نص القانون",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gesetzestexte"
+ },
+ {
+  "de": "Gesetzesverstoß",
+  "ar": "مخالفة القانون",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gesetzesverstöße"
+ },
+ {
+  "de": "Gesetzesvorlage",
+  "ar": "مقترح القانون",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gesetzesvorlagen"
+ },
+ {
+  "de": "Gesetzesänderung",
+  "ar": "تعديل القانون",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gesetzesänderungen"
+ },
+ {
+  "de": "Gesetzgebungsverfahren",
+  "ar": "إجراءات التشريع",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gesetzgebungsverfahren"
+ },
+ {
+  "de": "Gesichtserkennung",
+  "ar": "التعرف على الوجه",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gesinnung",
+  "ar": "الاتجاه الفكري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gesinnungen"
+ }
+]
