@@ -5,6 +5,7 @@ import {foodGroups,drinkGroups,foodIds,drinkIds} from '@/lib/food-groups';
 import {words,img,glossOf,pluralText} from '@/lib/data';
 import {wordMatchesSearch} from '@/lib/word-search';
 import {useLang,useT} from '@/lib/i18n';
+import FilterDisclosure from './FilterDisclosure';
 export default function FoodBrowser({kind}:{kind:'food'|'drinks'}){
  const drinking=kind==='drinks',groups=drinking?drinkGroups:foodGroups,ids=drinking?drinkIds:foodIds,searchId=drinking?'drink-search':'food-search';
  const t=useT(),{lang}=useLang();const [group,setGroup]=useState('all'),[query,setQuery]=useState(''),[limit,setLimit]=useState(24);
@@ -15,9 +16,11 @@ export default function FoodBrowser({kind}:{kind:'food'|'drinks'}){
  return <section aria-label={drinking?t('كلمات المشروبات','Drink vocabulary'):t('كلمات الأكل','Food vocabulary')} className="space-y-5">
   <label htmlFor={searchId} className="block font-bold">{t('دوّر بالألماني أو المصري أو الإنجليزي أو الجمع','Search German, Egyptian Arabic, English or plural')}</label>
   <input id={searchId} type="search" value={query} onChange={e=>{setQuery(e.target.value);reset()}} className="min-h-11 w-full rounded-xl border border-line bg-card p-3"/>
-  <label className="block space-y-2"><span className="font-bold">{t('اختار مجموعة','Choose a group')}</span><select aria-label={t('مجموعة الكلمات','Vocabulary group')} value={group} onChange={e=>{setGroup(e.target.value);reset()}} className="min-h-11 w-full rounded-xl border border-line bg-card p-3">{[{id:'all',ar:drinking?'كل المشروبات':'كل الأكل',en:drinking?'All drinks':'All food'},...groups].map(g=><option key={g.id} value={g.id}>{t(g.ar,g.en)} ({g.id==='all'?all.length:groups.find(a=>a.id===g.id)?.ids.length})</option>)}</select></label>
+  <FilterDisclosure activeCount={group!=='all'?1:0}>
+   <label className="block space-y-2"><span className="font-bold">{t('اختار مجموعة','Choose a group')}</span><select aria-label={t('مجموعة الكلمات','Vocabulary group')} value={group} onChange={e=>{setGroup(e.target.value);reset()}} className="min-h-11 w-full rounded-xl border border-line bg-card p-3">{[{id:'all',ar:drinking?'كل المشروبات':'كل الأكل',en:drinking?'All drinks':'All food'},...groups].map(g=><option key={g.id} value={g.id}>{t(g.ar,g.en)} ({g.id==='all'?all.length:groups.find(a=>a.id===g.id)?.ids.length})</option>)}</select></label>
+   {(query||group!=='all')&&<button type="button" onClick={()=>{setQuery('');setGroup('all');reset();document.getElementById(searchId)?.focus()}} className="min-h-11 rounded-full border border-line px-4 py-2">{t('امسح البحث والفلاتر','Clear search and filters')}</button>}
+  </FilterDisclosure>
   <p role="status" aria-atomic="true" className="num">{t(`النتائج: ${filtered.length}، المعروض: ${Math.min(limit,filtered.length)}`,`Results: ${filtered.length}; showing ${Math.min(limit,filtered.length)}`)}</p>
-  {(query||group!=='all')&&<button type="button" onClick={()=>{setQuery('');setGroup('all');reset();document.getElementById(searchId)?.focus()}} className="min-h-11 rounded-full border border-line px-4 py-2">{t('امسح البحث والفلاتر','Clear search and filters')}</button>}
   {!filtered.length?<p>{t('مفيش كلمة مطابقة. جرّب اسم تاني أو امسح الفلاتر.','No matching word. Try another name or clear the filters.')}</p>:<div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">{filtered.slice(0,limit).map(w=><article key={w.id} className="min-w-0 overflow-hidden rounded-2xl border border-line bg-card">
    {/* eslint-disable-next-line @next/next/no-img-element */}
    <img src={img(w)} alt={`${w.art} ${w.de}`} loading="lazy" width={640} height={480} className="photo"/>
