@@ -1,0 +1,407 @@
+[
+ {
+  "de": "Dissonanz",
+  "ar": "التنافر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dissonanzen"
+ },
+ {
+  "de": "Disziplinarverfahren",
+  "ar": "الإجراء التأديبي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Disziplinarverfahren"
+ },
+ {
+  "de": "Diätologin",
+  "ar": "أخصائية التغذية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Diätologinnen"
+ },
+ {
+  "de": "Dogma",
+  "ar": "العقيدة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Dogmen"
+ },
+ {
+  "de": "Doktorarbeit",
+  "ar": "رسالة الدكتوراه",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Doktorarbeiten"
+ },
+ {
+  "de": "Dollarreserve",
+  "ar": "احتياطي الدولار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dollarreserven"
+ },
+ {
+  "de": "Domain",
+  "ar": "النطاق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Domains"
+ },
+ {
+  "de": "Domizil",
+  "ar": "المقر / السكن",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Domizile"
+ },
+ {
+  "de": "Dongle",
+  "ar": "الدونجل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dongles"
+ },
+ {
+  "de": "Dopingskandal",
+  "ar": "فضيحة الدوبينج",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dopingskandale"
+ },
+ {
+  "de": "Doppelagent",
+  "ar": "العميل المزدوج",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Doppelagenten"
+ },
+ {
+  "de": "Doppelbesteuerung",
+  "ar": "الضريبة المزدوجة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Doppelfunktion",
+  "ar": "الوظيفة المزدوجة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Doppelfunktionen"
+ },
+ {
+  "de": "Doppelhaus",
+  "ar": "البيت التوأم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Doppelhäuser"
+ },
+ {
+  "de": "Doppelinterview",
+  "ar": "المقابلة المزدوجة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Doppelinterviews"
+ },
+ {
+  "de": "Doppelpack",
+  "ar": "الثنائية (كورة)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Doppelpacks"
+ },
+ {
+  "de": "Doppelsitzer",
+  "ar": "المقعد المزدوج",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Doppelsitzer"
+ },
+ {
+  "de": "Doppelstockbett",
+  "ar": "سرير الدورين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Doppelstockbetten"
+ },
+ {
+  "de": "Dorffest",
+  "ar": "عيد القرية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Dorffeste"
+ },
+ {
+  "de": "Dorfgemeinschaftshaus",
+  "ar": "دار مجتمع القرية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Dorfgemeinschaftshäuser"
+ },
+ {
+  "de": "Dorfjugend",
+  "ar": "شباب القرية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Dorfplatz",
+  "ar": "ميدان القرية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dorfplätze"
+ },
+ {
+  "de": "Dornröschenschlaf",
+  "ar": "نوم الجميلة النائمة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Dornwarze",
+  "ar": "الثالولة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dornwarzen"
+ },
+ {
+  "de": "Dorsch",
+  "ar": "سمك القد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dorsche"
+ },
+ {
+  "de": "Dosierung",
+  "ar": "الجرعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dosierungen"
+ },
+ {
+  "de": "Dossier",
+  "ar": "الملف (تقرير)",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Dossiers"
+ },
+ {
+  "de": "Dozent",
+  "ar": "المحاضر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dozenten"
+ },
+ {
+  "de": "Drahtzieher",
+  "ar": "العقل المدبر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Drahtzieher"
+ },
+ {
+  "de": "Dramaserie",
+  "ar": "مسلسل درامي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dramaserien"
+ },
+ {
+  "de": "Drecksarbeit",
+  "ar": "الشغل الوسخ",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Drehbewegung",
+  "ar": "الحركة الدائرية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Drehbewegungen"
+ },
+ {
+  "de": "Drehbuchautorin",
+  "ar": "كاتبة السيناريو",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Drehbuchautorinnen"
+ },
+ {
+  "de": "Dreher",
+  "ar": "عامل الخراطة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dreher"
+ },
+ {
+  "de": "Drehmoment",
+  "ar": "عزم الدوران",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Drehmomente"
+ },
+ {
+  "de": "Drehort",
+  "ar": "موقع التصوير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Drehorte"
+ },
+ {
+  "de": "Drehscheibe",
+  "ar": "القرص الدوار / المحور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Drehscheiben"
+ },
+ {
+  "de": "Drehschluss",
+  "ar": "انتهاء التصوير",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Drehtag",
+  "ar": "يوم التصوير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Drehtage"
+ },
+ {
+  "de": "Dreitagebart",
+  "ar": "دقن التلات أيام",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dreitagebärte"
+ },
+ {
+  "de": "Dreieck",
+  "ar": "المثلث",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Dreiecke"
+ },
+ {
+  "de": "Dreierkoalition",
+  "ar": "ائتلاف التلاتة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dreierkoalitionen"
+ },
+ {
+  "de": "Dreiergruppe",
+  "ar": "مجموعة التلاتة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dreiergruppen"
+ },
+ {
+  "de": "Dreiviertelstunde",
+  "ar": "تلات ترباع ساعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dreiviertelstunden"
+ },
+ {
+  "de": "Dreizack",
+  "ar": "الرمح التلاتي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Dreizacke"
+ },
+ {
+  "de": "Dribbling",
+  "ar": "المراوغة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Dribblings"
+ },
+ {
+  "de": "Drillinge",
+  "ar": "التوائم التلاتة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Dringlichkeitsliste",
+  "ar": "قايمة الأولويات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Dringlichkeitslisten"
+ },
+ {
+  "de": "Drittanbieter",
+  "ar": "الطرف التالت",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Drittanbieter"
+ },
+ {
+  "de": "Drittland",
+  "ar": "الدولة التالتة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Drittländer"
+ },
+ {
+  "de": "Drogenbesitz",
+  "ar": "حيازة المخدرات",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Drogendelikt",
+  "ar": "جريمة المخدرات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Drogendelikte"
+ },
+ {
+  "de": "Drogenhändler",
+  "ar": "تاجر المخدرات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Drogenhändler"
+ },
+ {
+  "de": "Drogenkonsum",
+  "ar": "استهلاك المخدرات",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Drogenproblem",
+  "ar": "مشكلة المخدرات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Drogenprobleme"
+ },
+ {
+  "de": "Drogentote",
+  "ar": "ضحية المخدرات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Drogentoten"
+ },
+ {
+  "de": "Drogeriekette",
+  "ar": "سلسلة الدروجيري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Drogerieketten"
+ },
+ {
+  "de": "Druckmaschine",
+  "ar": "ماكينة الطباعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Druckmaschinen"
+ },
+ {
+  "de": "Druckpunkt",
+  "ar": "نقطة الضغط",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Druckpunkte"
+ }
+]
