@@ -1,0 +1,690 @@
+[
+ {
+  "de": "Flaschenpost",
+  "ar": "رسالة في زجاجة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Flaschenposten"
+ },
+ {
+  "de": "Flatrate",
+  "ar": "الباقة المفتوحة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Flatrates"
+ },
+ {
+  "de": "Flaute",
+  "ar": "الركود",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Flauten"
+ },
+ {
+  "de": "Fleischbrühe",
+  "ar": "شوربة اللحمة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fleischbrühen"
+ },
+ {
+  "de": "Fleischindustrie",
+  "ar": "صناعة اللحوم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fleischindustrien"
+ },
+ {
+  "de": "Fleischprodukt",
+  "ar": "منتج اللحوم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fleischprodukte"
+ },
+ {
+  "de": "Fleischverarbeitung",
+  "ar": "تصنيع اللحوم",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fleischwolf",
+  "ar": "مفرمة اللحمة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fleischwölfe"
+ },
+ {
+  "de": "Fleiß",
+  "ar": "الاجتهاد",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Fliegerbombe",
+  "ar": "قنبلة جوية قديمة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fliegerbomben"
+ },
+ {
+  "de": "Fließband",
+  "ar": "خط الإنتاج",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fließbänder"
+ },
+ {
+  "de": "Flipper",
+  "ar": "البينبول",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Flipper"
+ },
+ {
+  "de": "Flohmarkt",
+  "ar": "سوق الخردة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Flohmärkte"
+ },
+ {
+  "de": "Fluchtgefahr",
+  "ar": "احتمال الهروب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fluchtweg",
+  "ar": "طريق الهروب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fluchtwege"
+ },
+ {
+  "de": "Flugabwehrrakete",
+  "ar": "صاروخ دفاع جوي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Flugabwehrraketen"
+ },
+ {
+  "de": "Flugbegleiterin",
+  "ar": "مضيفة الطيران",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Flugbegleiterinnen"
+ },
+ {
+  "de": "Flugblatt",
+  "ar": "المنشور",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Flugblätter"
+ },
+ {
+  "de": "Flughafensicherheit",
+  "ar": "أمن المطار",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Flugmeilen",
+  "ar": "أميال الطيران",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Flugplatz",
+  "ar": "المطار الصغير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Flugplätze"
+ },
+ {
+  "de": "Flugtechniker",
+  "ar": "فني طائرات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Flugtechniker"
+ },
+ {
+  "de": "Flugverkehr",
+  "ar": "حركة الطيران",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Flugzeugabsturz",
+  "ar": "سقوط الطائرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Flugzeugabstürze"
+ },
+ {
+  "de": "Flugzeugbau",
+  "ar": "صناعة الطائرات",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Flugzeugbauer",
+  "ar": "شركة صناعة الطائرات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Flugzeugbauer"
+ },
+ {
+  "de": "Flugzeugträger",
+  "ar": "حاملة الطائرات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Flugzeugträger"
+ },
+ {
+  "de": "Flugzeugtyp",
+  "ar": "طراز الطائرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Flugzeugtypen"
+ },
+ {
+  "de": "Fluktuation",
+  "ar": "معدل دوران الموظفين",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Flussmündung",
+  "ar": "مصب النهر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Flussmündungen"
+ },
+ {
+  "de": "Flutkatastrophe",
+  "ar": "كارثة الفيضان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Flutkatastrophen"
+ },
+ {
+  "de": "Flutlicht",
+  "ar": "الكشافات",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Flächennutzung",
+  "ar": "استغلال الأراضي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fläschchen",
+  "ar": "الزجاجة الصغيرة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fläschchen"
+ },
+ {
+  "de": "Flüchtlingsheim",
+  "ar": "مسكن اللاجئين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Flüchtlingsheime"
+ },
+ {
+  "de": "Flüchtlingslager",
+  "ar": "معسكر اللاجئين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Flüchtlingslager"
+ },
+ {
+  "de": "Flüssiggas",
+  "ar": "الغاز المسال",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Folgejahr",
+  "ar": "السنة التالية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Folgejahre"
+ },
+ {
+  "de": "Folgeschaden",
+  "ar": "الضرر اللاحق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Folgeschäden"
+ },
+ {
+  "de": "Folgetag",
+  "ar": "اليوم التالي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Folgetage"
+ },
+ {
+  "de": "Folgeuntersuchung",
+  "ar": "الفحص المتابع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Folgeuntersuchungen"
+ },
+ {
+  "de": "Forensik",
+  "ar": "الأدلة الجنائية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Formalie",
+  "ar": "الشكلية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Formalien"
+ },
+ {
+  "de": "Formkrise",
+  "ar": "أزمة المستوى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Formkrisen"
+ },
+ {
+  "de": "Formulierung",
+  "ar": "الصياغة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Formulierungen"
+ },
+ {
+  "de": "Forscherteam",
+  "ar": "فريق الباحثين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Forscherteams"
+ },
+ {
+  "de": "Forschungsarbeit",
+  "ar": "البحث العلمي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Forschungsarbeiten"
+ },
+ {
+  "de": "Forschungsergebnis",
+  "ar": "نتيجة البحث",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Forschungsergebnisse"
+ },
+ {
+  "de": "Forschungsgruppe",
+  "ar": "مجموعة البحث",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Forschungsgruppen"
+ },
+ {
+  "de": "Forschungslabor",
+  "ar": "معمل الأبحاث",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Forschungslabore"
+ },
+ {
+  "de": "Forschungszentrum",
+  "ar": "مركز الأبحاث",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Forschungszentren"
+ },
+ {
+  "de": "Forstamt",
+  "ar": "إدارة الغابات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Forstämter"
+ },
+ {
+  "de": "Fortbestand",
+  "ar": "الاستمرار",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Fortbewegung",
+  "ar": "التنقل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fortbildung",
+  "ar": "التدريب المستمر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fortbildungen"
+ },
+ {
+  "de": "Fortgang",
+  "ar": "سير الأمور",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Fotoshooting",
+  "ar": "جلسة التصوير",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fotoshootings"
+ },
+ {
+  "de": "Foulelfmeter",
+  "ar": "ضربة الجزاء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Foulelfmeter"
+ },
+ {
+  "de": "Frachtflugzeug",
+  "ar": "طائرة الشحن",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Frachtflugzeuge"
+ },
+ {
+  "de": "Frachtraum",
+  "ar": "عنبر الشحن",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Frachträume"
+ },
+ {
+  "de": "Frachtschiff",
+  "ar": "سفينة الشحن",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Frachtschiffe"
+ },
+ {
+  "de": "Fragebogen",
+  "ar": "الاستبيان",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fragebögen"
+ },
+ {
+  "de": "Fragestunde",
+  "ar": "ساعة الأسئلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fragestunden"
+ },
+ {
+  "de": "Fragezeichen",
+  "ar": "علامة الاستفهام",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Fragezeichen"
+ },
+ {
+  "de": "Fraktionsvorsitzender",
+  "ar": "رئيس الكتلة البرلمانية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fraktionsvorsitzenden"
+ },
+ {
+  "de": "Fraktur",
+  "ar": "الكسر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Frakturen"
+ },
+ {
+  "de": "Framework",
+  "ar": "إطار العمل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Frameworks"
+ },
+ {
+  "de": "Fratze",
+  "ar": "الوجه البشع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fratzen"
+ },
+ {
+  "de": "Frauenanteil",
+  "ar": "نسبة النساء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Frauenanteile"
+ },
+ {
+  "de": "Frauenbewegung",
+  "ar": "الحركة النسائية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Frauenbewegungen"
+ },
+ {
+  "de": "Frauenfeindlichkeit",
+  "ar": "كراهية النساء",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Frauenfußball",
+  "ar": "كورة الستات",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Frauengefängnis",
+  "ar": "سجن النساء",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Frauengefängnisse"
+ },
+ {
+  "de": "Frauenmord",
+  "ar": "قتل النساء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Frauenmorde"
+ },
+ {
+  "de": "Frauenquote",
+  "ar": "كوتة النساء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Frauenquoten"
+ },
+ {
+  "de": "Frauenrechte",
+  "ar": "حقوق النساء",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Frauensport",
+  "ar": "الرياضة النسائية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Freibetrag",
+  "ar": "الإعفاء الضريبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Freibeträge"
+ },
+ {
+  "de": "Freihandelsabkommen",
+  "ar": "اتفاقية التجارة الحرة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Freihandelsabkommen"
+ },
+ {
+  "de": "Freiheitsberaubung",
+  "ar": "حبس الحرية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Freiheitskämpfer",
+  "ar": "مقاتل الحرية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Freiheitskämpfer"
+ },
+ {
+  "de": "Freilichtmuseum",
+  "ar": "المتحف المفتوح",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Freilichtmuseen"
+ },
+ {
+  "de": "Freiluftkino",
+  "ar": "سينما الهواء الطلق",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Freiluftkinos"
+ },
+ {
+  "de": "Freiraum",
+  "ar": "المساحة الحرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Freiräume"
+ },
+ {
+  "de": "Freischaltung",
+  "ar": "التفعيل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Freischaltungen"
+ },
+ {
+  "de": "Freisetzung",
+  "ar": "الإفراج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Freisetzungen"
+ },
+ {
+  "de": "Freizeitangebot",
+  "ar": "عرض التسلية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Freizeitangebote"
+ },
+ {
+  "de": "Freizeitgestaltung",
+  "ar": "تنظيم وقت الفراغ",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Freizeitpark",
+  "ar": "مدينة الملاهي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Freizeitparks"
+ },
+ {
+  "de": "Freizeitzentrum",
+  "ar": "مركز الترفيه",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Freizeitzentren"
+ },
+ {
+  "de": "Freizügigkeit",
+  "ar": "حرية التنقل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fremdenfeindlichkeit",
+  "ar": "كراهية الأجانب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fremdkörper",
+  "ar": "الجسم الغريب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Fremdkörper"
+ },
+ {
+  "de": "Fremdwährung",
+  "ar": "العملة الأجنبية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fremdwährungen"
+ },
+ {
+  "de": "Frequenz",
+  "ar": "التردد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Frequenzen"
+ },
+ {
+  "de": "Freudentränen",
+  "ar": "دموع الفرح",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Freundlichkeit",
+  "ar": "اللطافة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Friedensnobelpreis",
+  "ar": "نوبل للسلام",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Friedensnobelpreise"
+ },
+ {
+  "de": "Friedensstifter",
+  "ar": "صانع السلام",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Friedensstifter"
+ },
+ {
+  "de": "Frischluft",
+  "ar": "الهواء النقي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fristverlängerung",
+  "ar": "مد المهلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fristverlängerungen"
+ },
+ {
+  "de": "Fritteuse",
+  "ar": "القلاية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Fritteusen"
+ }
+]
