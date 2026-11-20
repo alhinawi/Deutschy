@@ -1,0 +1,533 @@
+[
+ {
+  "de": "Bordstein",
+  "ar": "حافة الرصيف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bordsteine"
+ },
+ {
+  "de": "Borkenkäfer",
+  "ar": "خنفساء اللحاء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Borkenkäfer"
+ },
+ {
+  "de": "Borreliose",
+  "ar": "مرض لايم",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bosskampf",
+  "ar": "معركة الزعيم (لعبة)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bosskämpfe"
+ },
+ {
+  "de": "Botschaftsgebäude",
+  "ar": "مبنى السفارة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Botschaftsgebäude"
+ },
+ {
+  "de": "Botschafterin",
+  "ar": "السفيرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Botschafterinnen"
+ },
+ {
+  "de": "Bouillon",
+  "ar": "المرقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bouillons"
+ },
+ {
+  "de": "Boulder",
+  "ar": "الصخرة / التسلق الصخري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Boulder"
+ },
+ {
+  "de": "Boulevard",
+  "ar": "الجادة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Boulevards"
+ },
+ {
+  "de": "Boulevardmedien",
+  "ar": "صحافة الإثارة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Boulevardzeitung",
+  "ar": "جورنال الإثارة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Boulevardzeitungen"
+ },
+ {
+  "de": "Bowle",
+  "ar": "مشروب الفواكه المخمور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bowlen"
+ },
+ {
+  "de": "Boxengasse",
+  "ar": "حارة الصيانة (سباق)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Boxengassen"
+ },
+ {
+  "de": "Boxenstopp",
+  "ar": "وقفة الصيانة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Boxenstopps"
+ },
+ {
+  "de": "Boxsport",
+  "ar": "الملاكمة (رياضة)",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Boxweltmeisterin",
+  "ar": "بطلة العالم في الملاكمة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Boxweltmeisterinnen"
+ },
+ {
+  "de": "Branchenbericht",
+  "ar": "تقرير القطاع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Branchenberichte"
+ },
+ {
+  "de": "Branchenstandard",
+  "ar": "معيار القطاع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Branchenstandards"
+ },
+ {
+  "de": "Branchenvertreter",
+  "ar": "ممثل القطاع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Branchenvertreter"
+ },
+ {
+  "de": "Brandgeruch",
+  "ar": "ريحة الحريق",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Brandherd",
+  "ar": "بؤرة الحريق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Brandherde"
+ },
+ {
+  "de": "Brandsachverständige",
+  "ar": "خبير الحرايق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Brandsachverständigen"
+ },
+ {
+  "de": "Brandschutztür",
+  "ar": "باب الحريق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Brandschutztüren"
+ },
+ {
+  "de": "Brandserie",
+  "ar": "سلسلة حرايق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Brandserien"
+ },
+ {
+  "de": "Brandstifter",
+  "ar": "المحرق (جريمة)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Brandstifter"
+ },
+ {
+  "de": "Brandstifterin",
+  "ar": "المحرقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Brandstifterinnen"
+ },
+ {
+  "de": "Brandstiftung",
+  "ar": "الحرق العمد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Brandstiftungen"
+ },
+ {
+  "de": "Brandwunde",
+  "ar": "الحرق (جرح)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Brandwunden"
+ },
+ {
+  "de": "Brasilianer",
+  "ar": "البرازيلي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Brasilianer"
+ },
+ {
+  "de": "Bratkartoffeln",
+  "ar": "البطاطس المحمرة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Brauchtum",
+  "ar": "التراث الشعبي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Brauer",
+  "ar": "المخمر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Brauer"
+ },
+ {
+  "de": "Braunkohlekraftwerk",
+  "ar": "محطة الفحم البني",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Braunkohlekraftwerke"
+ },
+ {
+  "de": "Brause",
+  "ar": "الدش",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Brausen"
+ },
+ {
+  "de": "Brautjungfer",
+  "ar": "وصيفة العروسة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Brautjungfern"
+ },
+ {
+  "de": "Brautkleid",
+  "ar": "فستان الفرح",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Brautkleider"
+ },
+ {
+  "de": "Brei",
+  "ar": "العصيدة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Breie"
+ },
+ {
+  "de": "Breitband",
+  "ar": "النطاق العريض",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Breitengrad",
+  "ar": "خط العرض",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Breitengrade"
+ },
+ {
+  "de": "Bremser",
+  "ar": "المكبح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bremser"
+ },
+ {
+  "de": "Bremsgriff",
+  "ar": "عصا الفرامل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bremsgriffe"
+ },
+ {
+  "de": "Brenner",
+  "ar": "الموقد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Brenner"
+ },
+ {
+  "de": "Brennglas",
+  "ar": "العدسة المكبرة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Brenngläser"
+ },
+ {
+  "de": "Brennofen",
+  "ar": "الفرن الصناعي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Brennöfen"
+ },
+ {
+  "de": "Brennstoffzelle",
+  "ar": "خلية الوقود",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Brennstoffzellen"
+ },
+ {
+  "de": "Bresche",
+  "ar": "الثغرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Breschen"
+ },
+ {
+  "de": "Brexit-Debatte",
+  "ar": "نقاش البريكست",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Brexit-Debatten"
+ },
+ {
+  "de": "Briefbombe",
+  "ar": "قنبلة خطابية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Briefbomben"
+ },
+ {
+  "de": "Briefkastenfirma",
+  "ar": "الشركة الوهمية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Briefkastenfirmen"
+ },
+ {
+  "de": "Briefwahlbüro",
+  "ar": "مكتب التصويت البريدي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Briefwahlbüros"
+ },
+ {
+  "de": "Briefwahlkarte",
+  "ar": "كارت التصويت البريدي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Briefwahlkarten"
+ },
+ {
+  "de": "Brigade",
+  "ar": "اللواء (جيش)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Brigaden"
+ },
+ {
+  "de": "Brigadegeneral",
+  "ar": "العميد (رتبة)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Brigadegeneräle"
+ },
+ {
+  "de": "Brisanz",
+  "ar": "الخطورة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bronchien",
+  "ar": "الشعب الهوائية",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Bronchitis",
+  "ar": "الالتهاب الشعبي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bronzefigur",
+  "ar": "تمثال برونزي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bronzefiguren"
+ },
+ {
+  "de": "Bronzemedaille",
+  "ar": "الميدالية البرونزية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bronzemedaillen"
+ },
+ {
+  "de": "Bronzezeit",
+  "ar": "العصر البرونزي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Broschüre",
+  "ar": "الكتيب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Broschüren"
+ },
+ {
+  "de": "Brotbackofen",
+  "ar": "فرن العيش",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Brotbacköfen"
+ },
+ {
+  "de": "Brotbox",
+  "ar": "علبة الساندوتشات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Brotboxen"
+ },
+ {
+  "de": "Brotschneidemaschine",
+  "ar": "ماكينة تقطيع العيش",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Brotschneidemaschinen"
+ },
+ {
+  "de": "Brotzeit",
+  "ar": "وجبة خفيفة (بافاريا)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Brotzeiten"
+ },
+ {
+  "de": "Bruchstück",
+  "ar": "القطعة المكسورة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bruchstücke"
+ },
+ {
+  "de": "Bruderschaft",
+  "ar": "الأخوة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bruderschaften"
+ },
+ {
+  "de": "Brunch",
+  "ar": "البرانش",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Brunchs"
+ },
+ {
+  "de": "Brunnenbecken",
+  "ar": "حوض النافورة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Brunnenbecken"
+ },
+ {
+  "de": "Brustkorb",
+  "ar": "القفص الصدري",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Brustkrebs",
+  "ar": "سرطان الثدي",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Brustschmerzen",
+  "ar": "ألام الصدر",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Brutgebiet",
+  "ar": "منطقة التكاثر",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Brutgebiete"
+ },
+ {
+  "de": "Bruttoeinkommen",
+  "ar": "الدخل الإجمالي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bruttoeinkommen"
+ },
+ {
+  "de": "Bruttolohn",
+  "ar": "المرتب الإجمالي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bruttolöhne"
+ },
+ {
+  "de": "Bräter",
+  "ar": "صينية الفرن",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bräter"
+ },
+ {
+  "de": "Brückenbau",
+  "ar": "بناء الجسور",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Brückenkopf",
+  "ar": "رأس الجسر (عسكري)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Brückenköpfe"
+ },
+ {
+  "de": "Brückentag",
+  "ar": "يوم الجسر (أجازة بين)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Brückentage"
+ }
+]
