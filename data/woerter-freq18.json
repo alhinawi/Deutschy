@@ -1,0 +1,871 @@
+[
+ {
+  "de": "Übernahme",
+  "ar": "استحواذ / تسلم منصب",
+  "pos": "noun"
+ },
+ {
+  "de": "Übersicht",
+  "ar": "نظرة عامة / جدول",
+  "pos": "noun"
+ },
+ {
+  "de": "Ampel-Koalition",
+  "ar": "ائتلاف إشارة المرور",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Angriffskrieg",
+  "ar": "حرب هجومية",
+  "pos": "noun"
+ },
+ {
+  "de": "Ansatz",
+  "ar": "منهج / بداية فكرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Arbeitnehmer",
+  "ar": "الموظف / العامل",
+  "pos": "noun"
+ },
+ {
+  "de": "Attacke",
+  "ar": "هجمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Auflage",
+  "ar": "طبعة / شرط",
+  "pos": "noun"
+ },
+ {
+  "de": "Bakterien",
+  "ar": "بكتيريا",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Besetzung",
+  "ar": "طاقم عمل / احتلال",
+  "pos": "noun"
+ },
+ {
+  "de": "CEO",
+  "ar": "المدير التنفيذي",
+  "pos": "noun"
+ },
+ {
+  "de": "Demonstrant",
+  "ar": "متظاهر",
+  "pos": "noun"
+ },
+ {
+  "de": "Dokumentation",
+  "ar": "فيلم تسجيلي",
+  "pos": "noun"
+ },
+ {
+  "de": "Einblick",
+  "ar": "نظرة داخلية",
+  "pos": "noun"
+ },
+ {
+  "de": "Einsatzkraft",
+  "ar": "قوات الإنقاذ",
+  "pos": "noun"
+ },
+ {
+  "de": "Einstieg",
+  "ar": "بداية / مدخل",
+  "pos": "noun"
+ },
+ {
+  "de": "Einstufung",
+  "ar": "تصنيف / تقدير",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Emotion",
+  "ar": "مشاعر جياشة",
+  "pos": "noun"
+ },
+ {
+  "de": "Favorit",
+  "ar": "المرشح الأوفر حظا",
+  "pos": "noun"
+ },
+ {
+  "de": "Gastronomie",
+  "ar": "مطاعم وكافيهات",
+  "pos": "noun"
+ },
+ {
+  "de": "Gebühr",
+  "ar": "رسوم",
+  "pos": "noun"
+ },
+ {
+  "de": "Gerichtshof",
+  "ar": "محكمة عليا",
+  "pos": "noun"
+ },
+ {
+  "de": "Gesundheitsministerium",
+  "ar": "وزارة الصحة",
+  "pos": "noun"
+ },
+ {
+  "de": "Gutachten",
+  "ar": "تقرير خبراء",
+  "pos": "noun"
+ },
+ {
+  "de": "Gymnasium",
+  "ar": "مدرسة ثانوي",
+  "pos": "noun"
+ },
+ {
+  "de": "Inklusion",
+  "ar": "دمج (ذوي الهمم)",
+  "pos": "noun"
+ },
+ {
+  "de": "Innenminister",
+  "ar": "وزير الداخلية",
+  "pos": "noun"
+ },
+ {
+  "de": "Innovation",
+  "ar": "ابتكار",
+  "pos": "noun"
+ },
+ {
+  "de": "Justizminister",
+  "ar": "وزير العدل",
+  "pos": "noun"
+ },
+ {
+  "de": "Kandidatin",
+  "ar": "المرشحة",
+  "pos": "noun"
+ },
+ {
+  "de": "Keeper",
+  "ar": "حارس مرمى",
+  "pos": "noun"
+ },
+ {
+  "de": "Klimaschutz",
+  "ar": "حماية المناخ",
+  "pos": "noun"
+ },
+ {
+  "de": "Kriminalität",
+  "ar": "معدل الجريمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Körperverletzung",
+  "ar": "ضرب وجرح",
+  "pos": "noun"
+ },
+ {
+  "de": "Lob",
+  "ar": "مديح",
+  "pos": "noun"
+ },
+ {
+  "de": "Minus",
+  "ar": "سالب / عجز",
+  "pos": "noun"
+ },
+ {
+  "de": "Motivation",
+  "ar": "حافز / دافع",
+  "pos": "noun"
+ },
+ {
+  "de": "Petition",
+  "ar": "عرائض / التماس",
+  "pos": "noun"
+ },
+ {
+  "de": "Pfosten",
+  "ar": "قايم (كورة)",
+  "pos": "noun"
+ },
+ {
+  "de": "Regelung",
+  "ar": "تنظيم / بند",
+  "pos": "noun"
+ },
+ {
+  "de": "Regime",
+  "ar": "نظام حكم",
+  "pos": "noun"
+ },
+ {
+  "de": "Rekordmeister",
+  "ar": "صاحب الرقم القياسي في البطولات",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Richterin",
+  "ar": "القاضية",
+  "pos": "noun"
+ },
+ {
+  "de": "Rücktritt",
+  "ar": "استقالة",
+  "pos": "noun"
+ },
+ {
+  "de": "Schlagzeile",
+  "ar": "عناوين أخبار",
+  "pos": "noun"
+ },
+ {
+  "de": "Solidarität",
+  "ar": "تضامن",
+  "pos": "noun"
+ },
+ {
+  "de": "Spekulation",
+  "ar": "تكهنات",
+  "pos": "noun"
+ },
+ {
+  "de": "Sperrung",
+  "ar": "إغلاق / حظر",
+  "pos": "noun"
+ },
+ {
+  "de": "Spitzenkandidat",
+  "ar": "المرشح الأول",
+  "pos": "noun"
+ },
+ {
+  "de": "Stadtteil",
+  "ar": "حي",
+  "pos": "noun"
+ },
+ {
+  "de": "Superstar",
+  "ar": "ميجا ستار",
+  "pos": "noun"
+ },
+ {
+  "de": "Szenario",
+  "ar": "سيناريو",
+  "pos": "noun"
+ },
+ {
+  "de": "Tagesordnung",
+  "ar": "جدول أعمال",
+  "pos": "noun"
+ },
+ {
+  "de": "Unterstützer",
+  "ar": "داعمين",
+  "pos": "noun"
+ },
+ {
+  "de": "Verbesserung",
+  "ar": "تحسين",
+  "pos": "noun"
+ },
+ {
+  "de": "Verfassungsschutz",
+  "ar": "حماية الدستور (الأمن الداخلي)",
+  "pos": "noun"
+ },
+ {
+  "de": "Verschiebung",
+  "ar": "تأجيل",
+  "pos": "noun"
+ },
+ {
+  "de": "Vielzahl",
+  "ar": "عدد كبير",
+  "pos": "noun"
+ },
+ {
+  "de": "Vision",
+  "ar": "رؤية مستقبلية",
+  "pos": "noun"
+ },
+ {
+  "de": "Waffenruhe",
+  "ar": "هدنة / وقف نار",
+  "pos": "noun"
+ },
+ {
+  "de": "Wasserstoff",
+  "ar": "هيدروجين",
+  "pos": "noun"
+ },
+ {
+  "de": "Wettbewerbsfähigkeit",
+  "ar": "قدرة تنافسية",
+  "pos": "noun"
+ },
+ {
+  "de": "Zivilist",
+  "ar": "مدنيين",
+  "pos": "noun"
+ },
+ {
+  "de": "Zusammenhalt",
+  "ar": "تكاتف / لحمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Überschwemmung",
+  "ar": "سيول / فيضانات",
+  "pos": "noun"
+ },
+ {
+  "de": "Abhängigkeit",
+  "ar": "اعتمادية / إدمان",
+  "pos": "noun"
+ },
+ {
+  "de": "Abstieg",
+  "ar": "هبوط / نزول",
+  "pos": "noun"
+ },
+ {
+  "de": "Abwehr",
+  "ar": "دفاع",
+  "pos": "noun"
+ },
+ {
+  "de": "Achtelfinale",
+  "ar": "دور الـ16",
+  "pos": "noun"
+ },
+ {
+  "de": "Anbindung",
+  "ar": "ربط مواصلات",
+  "pos": "noun"
+ },
+ {
+  "de": "Anpfiff",
+  "ar": "صافرة البداية",
+  "pos": "noun"
+ },
+ {
+  "de": "Aspekt",
+  "ar": "جانب / ناحية",
+  "pos": "noun"
+ },
+ {
+  "de": "Aufbau",
+  "ar": "بناء / تكوين",
+  "pos": "noun"
+ },
+ {
+  "de": "Aufwand",
+  "ar": "مجهود / تكلفة",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausbruch",
+  "ar": "انفجار / تفشي",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausmaß",
+  "ar": "حجم / مدى",
+  "pos": "noun"
+ },
+ {
+  "de": "Auszählung",
+  "ar": "فرز الأصوات",
+  "pos": "noun"
+ },
+ {
+  "de": "Autorin",
+  "ar": "الكاتبة",
+  "pos": "noun"
+ },
+ {
+  "de": "Begründung",
+  "ar": "مبرر / سبب",
+  "pos": "noun"
+ },
+ {
+  "de": "Bergung",
+  "ar": "انتشال / إنقاذ",
+  "pos": "noun"
+ },
+ {
+  "de": "Beschäftigte",
+  "ar": "موظفين",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Besonderheit",
+  "ar": "خاصية مميزة",
+  "pos": "noun"
+ },
+ {
+  "de": "Besserung",
+  "ar": "تحسن",
+  "pos": "noun"
+ },
+ {
+  "de": "Beteiligte",
+  "ar": "المشاركين",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Bienen",
+  "ar": "نحل",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Bundesländer",
+  "ar": "ولايات ألمانيا",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Bundestagswahl",
+  "ar": "انتخابات البرلمان",
+  "pos": "noun"
+ },
+ {
+  "de": "Bürgermeisterin",
+  "ar": "العمدة (ست)",
+  "pos": "noun"
+ },
+ {
+  "de": "Community",
+  "ar": "مجتمع / جماهير",
+  "pos": "noun"
+ },
+ {
+  "de": "Derby",
+  "ar": "ديربي",
+  "pos": "noun"
+ },
+ {
+  "de": "Dienstleistung",
+  "ar": "خدمات",
+  "pos": "noun"
+ },
+ {
+  "de": "Donau",
+  "ar": "نهر الدانوب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "agiert",
+  "ar": "يتصرف / يشتغل",
+  "pos": "verb"
+ },
+ {
+  "de": "aufheben",
+  "ar": "يلغيها",
+  "pos": "verb"
+ },
+ {
+  "de": "aufkommen",
+  "ar": "يظهر / يتكفل بتكلفة",
+  "pos": "verb"
+ },
+ {
+  "de": "beziffern",
+  "ar": "يحدد رقمها",
+  "pos": "verb"
+ },
+ {
+  "de": "beziehen",
+  "ar": "يستند على",
+  "pos": "verb"
+ },
+ {
+  "de": "dominieren",
+  "ar": "يسيطر على",
+  "pos": "verb"
+ },
+ {
+  "de": "einreichen",
+  "ar": "يقدمها رسمي",
+  "pos": "verb"
+ },
+ {
+  "de": "erheben",
+  "ar": "يرفع / يجمع بيانات",
+  "pos": "verb"
+ },
+ {
+  "de": "gewährleisten",
+  "ar": "يضمنها قانونيا",
+  "pos": "verb"
+ },
+ {
+  "de": "lehnen",
+  "ar": "يرفض",
+  "pos": "verb"
+ },
+ {
+  "de": "produzieren",
+  "ar": "ينتج / يصنع",
+  "pos": "verb"
+ },
+ {
+  "de": "unterstreichen",
+  "ar": "يؤكد على",
+  "pos": "verb"
+ },
+ {
+  "de": "verzeichnen",
+  "ar": "يسجل (رقم)",
+  "pos": "verb"
+ },
+ {
+  "de": "wahrnehmen",
+  "ar": "يدرك / يلاحظ",
+  "pos": "verb"
+ },
+ {
+  "de": "zusammenarbeiten",
+  "ar": "يتعاون مع",
+  "pos": "verb"
+ },
+ {
+  "de": "verarbeiten",
+  "ar": "يعالج / يهضم خبر",
+  "pos": "verb"
+ },
+ {
+  "de": "verlaufen",
+  "ar": "يتم سيره / يعدي",
+  "pos": "verb"
+ },
+ {
+  "de": "vornehmen",
+  "ar": "يجري (تعديل)",
+  "pos": "verb"
+ },
+ {
+  "de": "agieren",
+  "ar": "يتصرف بحرفية",
+  "pos": "verb"
+ },
+ {
+  "de": "treibt",
+  "ar": "يدفع قدام",
+  "pos": "verb"
+ },
+ {
+  "de": "stoßen",
+  "ar": "يصدم / يواجه",
+  "pos": "verb"
+ },
+ {
+  "de": "gesichtet",
+  "ar": "مرصود / متشاف",
+  "pos": "adj"
+ },
+ {
+  "de": "höchst",
+  "ar": "أعلى",
+  "pos": "adj"
+ },
+ {
+  "de": "intensiv",
+  "ar": "مكثف / عميق",
+  "pos": "adj"
+ },
+ {
+  "de": "iranisch",
+  "ar": "إيراني",
+  "pos": "adj"
+ },
+ {
+  "de": "italienisch",
+  "ar": "طلياني",
+  "pos": "adj"
+ },
+ {
+  "de": "massiv",
+  "ar": "ضخم / عنيف",
+  "pos": "adj"
+ },
+ {
+  "de": "menschlich",
+  "ar": "إنساني / بشري",
+  "pos": "adj"
+ },
+ {
+  "de": "militärisch",
+  "ar": "عسكري",
+  "pos": "adj"
+ },
+ {
+  "de": "neuest",
+  "ar": "أحدث",
+  "pos": "adj"
+ },
+ {
+  "de": "niederländisch",
+  "ar": "هولندي",
+  "pos": "adj"
+ },
+ {
+  "de": "ober",
+  "ar": "علوي",
+  "pos": "adj"
+ },
+ {
+  "de": "präsent",
+  "ar": "حاضر / موجود",
+  "pos": "adj"
+ },
+ {
+  "de": "sinnvoll",
+  "ar": "ليه معنى / مفيد",
+  "pos": "adj"
+ },
+ {
+  "de": "türkisch",
+  "ar": "تركي",
+  "pos": "adj"
+ },
+ {
+  "de": "umfangreich",
+  "ar": "ضخم / موسع",
+  "pos": "adj"
+ },
+ {
+  "de": "unwahrscheinlich",
+  "ar": "مستبعد الحدوث",
+  "pos": "adj"
+ },
+ {
+  "de": "vermeintlich",
+  "ar": "مزعوم",
+  "pos": "adj"
+ },
+ {
+  "de": "vielfältig",
+  "ar": "غني بالتنوع",
+  "pos": "adj"
+ },
+ {
+  "de": "wichtigst",
+  "ar": "أهم",
+  "pos": "adj"
+ },
+ {
+  "de": "örtlich",
+  "ar": "محلي المنطقة",
+  "pos": "adj"
+ },
+ {
+  "de": "auffällig",
+  "ar": "ملفت / واضح",
+  "pos": "adj"
+ },
+ {
+  "de": "aufgewachsen",
+  "ar": "متربي في",
+  "pos": "adj"
+ },
+ {
+  "de": "bayerisch",
+  "ar": "بافاري",
+  "pos": "adj"
+ },
+ {
+  "de": "besonder",
+  "ar": "خاصة",
+  "pos": "adj"
+ },
+ {
+  "de": "gegenwärtig",
+  "ar": "حالي / راهن",
+  "pos": "adj"
+ },
+ {
+  "de": "gesetzlich",
+  "ar": "قانوني",
+  "pos": "adj"
+ },
+ {
+  "de": "gescheitert",
+  "ar": "فاشل / فشل",
+  "pos": "adj"
+ },
+ {
+  "de": "günstig",
+  "ar": "رخيصة / مناسب",
+  "pos": "adj"
+ },
+ {
+  "de": "individuell",
+  "ar": "فردي / مخصوص",
+  "pos": "adj"
+ },
+ {
+  "de": "länger",
+  "ar": "أطول",
+  "pos": "adj"
+ },
+ {
+  "de": "sportlich",
+  "ar": "رياضية",
+  "pos": "adj"
+ },
+ {
+  "de": "traditionell",
+  "ar": "تقليدي",
+  "pos": "adj"
+ },
+ {
+  "de": "tschechisch",
+  "ar": "تشيكي",
+  "pos": "adj"
+ },
+ {
+  "de": "umstritten",
+  "ar": "مثير للجدل",
+  "pos": "adj"
+ },
+ {
+  "de": "unerwartet",
+  "ar": "غير متوقع",
+  "pos": "adj"
+ },
+ {
+  "de": "unverändert",
+  "ar": "زي ما هو / لم يتغير",
+  "pos": "adj"
+ },
+ {
+  "de": "verstorben",
+  "ar": "راحل / متوفي",
+  "pos": "adj"
+ },
+ {
+  "de": "zukünftig",
+  "ar": "مستقبلية",
+  "pos": "adj"
+ },
+ {
+  "de": "letztendlich",
+  "ar": "في الآخر خالص",
+  "pos": "adv"
+ },
+ {
+  "de": "mithilfe",
+  "ar": "بمساعدة",
+  "pos": "part"
+ },
+ {
+  "de": "näher",
+  "ar": "عن قرب / أكتر",
+  "pos": "adv"
+ },
+ {
+  "de": "niemals",
+  "ar": "أبدا",
+  "pos": "adv"
+ },
+ {
+  "de": "seither",
+  "ar": "من ساعتها",
+  "pos": "adv"
+ },
+ {
+  "de": "sank",
+  "ar": "نزل (ماضي)",
+  "pos": "verb"
+ },
+ {
+  "de": "vorab",
+  "ar": "مسبقا",
+  "pos": "adv"
+ },
+ {
+  "de": "welchem",
+  "ar": "الذي فيه",
+  "pos": "part"
+ },
+ {
+  "de": "womit",
+  "ar": "بالذي / بيه",
+  "pos": "part"
+ },
+ {
+  "de": "woraufhin",
+  "ar": "وعلى إثره",
+  "pos": "adv"
+ },
+ {
+  "de": "zwischenzeitlich",
+  "ar": "في الفترة دي",
+  "pos": "adv"
+ },
+ {
+  "de": "via",
+  "ar": "عن طريق",
+  "pos": "part"
+ },
+ {
+  "de": "daß",
+  "ar": "إن (قديم)",
+  "pos": "part"
+ },
+ {
+  "de": "dortig",
+  "ar": "بتاع هناك",
+  "pos": "adj"
+ },
+ {
+  "de": "halt",
+  "ar": "بس / يعني",
+  "pos": "part"
+ },
+ {
+  "de": "jen",
+  "ar": "ده / ذاك (رسمي)",
+  "pos": "part"
+ },
+ {
+  "de": "lauter",
+  "ar": "مجرد / محض",
+  "pos": "adv"
+ },
+ {
+  "de": "beider",
+  "ar": "الاتنين",
+  "pos": "part"
+ },
+ {
+  "de": "seitdem",
+  "ar": "من وقتها",
+  "pos": "adv"
+ },
+ {
+  "de": "seitens",
+  "ar": "من جانب",
+  "pos": "part"
+ },
+ {
+  "de": "weitergeht",
+  "ar": "مستمر",
+  "pos": "verb"
+ }
+]
