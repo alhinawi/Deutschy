@@ -1,0 +1,770 @@
+[
+ {
+  "de": "Arbeitslose",
+  "ar": "العاطل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Arbeitslosen"
+ },
+ {
+  "de": "Arbeitslosenzahl",
+  "ar": "عدد العاطلين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Arbeitslosenzahlen"
+ },
+ {
+  "de": "Arbeitsmarktbericht",
+  "ar": "تقرير سوق العمل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Arbeitsmarktberichte"
+ },
+ {
+  "de": "Arbeitsmarktforscher",
+  "ar": "باحث سوق العمل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Arbeitsmarktforscher"
+ },
+ {
+  "de": "Arbeitsmaschine",
+  "ar": "ماكينة الشغل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Arbeitsmaschinen"
+ },
+ {
+  "de": "Arbeitsmoral",
+  "ar": "أخلاقيات الشغل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Arbeitsniederlegung",
+  "ar": "وقف الشغل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Arbeitsniederlegungen"
+ },
+ {
+  "de": "Arbeitsorganisation",
+  "ar": "تنظيم العمل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Arbeitsorganisationen"
+ },
+ {
+  "de": "Arbeitspapier",
+  "ar": "ورقة العمل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Arbeitspapiere"
+ },
+ {
+  "de": "Arbeitspferd",
+  "ar": "اللي بيشتغل كتير",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Arbeitspferde"
+ },
+ {
+  "de": "Arbeitsplan",
+  "ar": "خطة الشغل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Arbeitspläne"
+ },
+ {
+  "de": "Arbeitsprogramm",
+  "ar": "برنامج العمل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Arbeitsprogramme"
+ },
+ {
+  "de": "Arbeitsrechtler",
+  "ar": "مختص قانون العمل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Arbeitsrechtler"
+ },
+ {
+  "de": "Arbeitsschritt",
+  "ar": "خطوة الشغل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Arbeitsschritte"
+ },
+ {
+  "de": "Arbeitssicherheit",
+  "ar": "أمان الشغل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Arbeitsstätte",
+  "ar": "موقع العمل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Arbeitsstätten"
+ },
+ {
+  "de": "Arbeitssuchende",
+  "ar": "الباحث عن شغل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Arbeitssuchenden"
+ },
+ {
+  "de": "Arbeitstag",
+  "ar": "يوم الشغل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Arbeitstage"
+ },
+ {
+  "de": "Arbeitsteilung",
+  "ar": "تقسيم العمل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Arbeitsverhältnis",
+  "ar": "علاقة العمل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Arbeitsverhältnisse"
+ },
+ {
+  "de": "Arbeitsvertrag",
+  "ar": "عقد الشغل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Arbeitsverträge"
+ },
+ {
+  "de": "Arbeitsweise",
+  "ar": "طريقة الشغل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Arbeitsweisen"
+ },
+ {
+  "de": "Arbeitszeit",
+  "ar": "مواعيد الشغل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Arbeitszeiten"
+ },
+ {
+  "de": "Arbeitszeitreduzierung",
+  "ar": "تقليل ساعات العمل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Arbeitszeitreduzierungen"
+ },
+ {
+  "de": "Architekt",
+  "ar": "المهندس المعماري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Architekten"
+ },
+ {
+  "de": "Architektin",
+  "ar": "المهندسة المعمارية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Architektinnen"
+ },
+ {
+  "de": "Architekturbüro",
+  "ar": "المكتب المعماري",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Architekturbüros"
+ },
+ {
+  "de": "Architekturführer",
+  "ar": "الدليل المعماري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Architekturführer"
+ },
+ {
+  "de": "Archiv-Foto",
+  "ar": "صورة أرشيف",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Archiv-Fotos"
+ },
+ {
+  "de": "Archivaufnahme",
+  "ar": "تسجيلة أرشيف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Archivaufnahmen"
+ },
+ {
+  "de": "Archivkraft",
+  "ar": "موظف الأرشيف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Archivkräfte"
+ },
+ {
+  "de": "Archäologe",
+  "ar": "عالم الآثار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Archäologen"
+ },
+ {
+  "de": "Archäologie",
+  "ar": "علم الآثار",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Argentinier",
+  "ar": "الأرجنتيني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Argentinier"
+ },
+ {
+  "de": "Aristokrat",
+  "ar": "الأرستقراطي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aristokraten"
+ },
+ {
+  "de": "Armbrust",
+  "ar": "القوس والنشاب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Armbrüste"
+ },
+ {
+  "de": "Armband",
+  "ar": "الإسورة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Armbänder"
+ },
+ {
+  "de": "Armeechef",
+  "ar": "قائد الجيش",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Armeechefs"
+ },
+ {
+  "de": "Armeeflugzeug",
+  "ar": "طيارة الجيش",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Armeeflugzeuge"
+ },
+ {
+  "de": "Armeeoffizier",
+  "ar": "ظابط الجيش",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Armeeoffiziere"
+ },
+ {
+  "de": "Armenviertel",
+  "ar": "حي الفقراء",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Armenviertel"
+ },
+ {
+  "de": "Armlehne",
+  "ar": "مسند الدراع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Armlehnen"
+ },
+ {
+  "de": "Armschiene",
+  "ar": "جبيرة الدراع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Armschienen"
+ },
+ {
+  "de": "Armutsrisiko",
+  "ar": "خطر الفقر",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Aroma",
+  "ar": "النكهة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Aromen"
+ },
+ {
+  "de": "Arrangement",
+  "ar": "الترتيب / التوزيع الموسيقي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Arrangements"
+ },
+ {
+  "de": "Arschloch",
+  "ar": "الوغد (شتيمة)",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Arschlöcher"
+ },
+ {
+  "de": "Arsenal",
+  "ar": "الترسانة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Arsenale"
+ },
+ {
+  "de": "Artenschutz",
+  "ar": "حماية الأنواع",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Artenschutzexperte",
+  "ar": "خبير حماية الأنواع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Artenschutzexperten"
+ },
+ {
+  "de": "Arterie",
+  "ar": "الشريان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Arterien"
+ },
+ {
+  "de": "Artikulation",
+  "ar": "النطق / التعبير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Artikulationen"
+ },
+ {
+  "de": "Artist",
+  "ar": "فنان السيرك",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Artisten"
+ },
+ {
+  "de": "Arznei",
+  "ar": "الدوا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Arzneien"
+ },
+ {
+  "de": "Arzneimittel-Behörde",
+  "ar": "هيئة الأدوية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Arzneimittel-Behörden"
+ },
+ {
+  "de": "Arzthelferin",
+  "ar": "مساعدة الدكتور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Arzthelferinnen"
+ },
+ {
+  "de": "Arztpraxis",
+  "ar": "عيادة الدكتور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Arztpraxen"
+ },
+ {
+  "de": "Aschenputtel",
+  "ar": "سندريلا",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Aschermittwoch",
+  "ar": "أربعاء الرماد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aschermittwoche"
+ },
+ {
+  "de": "Assimilation",
+  "ar": "الاندماج الثقافي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Assimilationen"
+ },
+ {
+  "de": "Assistenzfunktion",
+  "ar": "وظيفة المساعدة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Assistenzfunktionen"
+ },
+ {
+  "de": "Assoziation",
+  "ar": "الارتباط الذهني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Assoziationen"
+ },
+ {
+  "de": "Asteroid",
+  "ar": "الكويكب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Asteroiden"
+ },
+ {
+  "de": "Asthma",
+  "ar": "الربو",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Astrobiologie",
+  "ar": "علم الأحياء الفلكي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Astronautin",
+  "ar": "رائدة الفضاء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Astronautinnen"
+ },
+ {
+  "de": "Astronom",
+  "ar": "عالم الفلك",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Astronomen"
+ },
+ {
+  "de": "Astronomie",
+  "ar": "علم الفلك",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Asylgrund",
+  "ar": "سبب اللجوء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Asylgründe"
+ },
+ {
+  "de": "Asylquote",
+  "ar": "نسبة اللجوء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Asylquoten"
+ },
+ {
+  "de": "Asylstatus",
+  "ar": "وضع اللجوء",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Asylstopp",
+  "ar": "وقف اللجوء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Asylstopps"
+ },
+ {
+  "de": "Asylsystem",
+  "ar": "نظام اللجوء",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Asylsysteme"
+ },
+ {
+  "de": "Asylverfahren",
+  "ar": "إجراءات اللجوء",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Asylverfahren"
+ },
+ {
+  "de": "Asylzahl",
+  "ar": "عدد طلبات اللجوء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Asylzahlen"
+ },
+ {
+  "de": "Atemalkoholtest",
+  "ar": "اختبار الكحول بالنفس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Atemalkoholtests"
+ },
+ {
+  "de": "Atemfrequenz",
+  "ar": "معدل التنفس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Atemfrequenzen"
+ },
+ {
+  "de": "Atempause",
+  "ar": "استراحة نفس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Atempausen"
+ },
+ {
+  "de": "Atemwege",
+  "ar": "المسارات التنفسية",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Atemwegsbeschwerden",
+  "ar": "شكاوى الجهاز التنفسي",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Atemwegsinfekt",
+  "ar": "العدوى التنفسية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Atemwegsinfekte"
+ },
+ {
+  "de": "Athletikcoach",
+  "ar": "مدرب اللياقة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Athletikcoachs"
+ },
+ {
+  "de": "Athletiktrainer",
+  "ar": "مدرب اللياقة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Athletiktrainer"
+ },
+ {
+  "de": "Atlantikküste",
+  "ar": "ساحل الأطلنطي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Atlantikküsten"
+ },
+ {
+  "de": "Atmung",
+  "ar": "التنفس",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Atoll",
+  "ar": "الجزيرة المرجانية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Atolle"
+ },
+ {
+  "de": "Atom-Programm",
+  "ar": "البرنامج النووي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Atom-Programme"
+ },
+ {
+  "de": "Atomanlage",
+  "ar": "المنشأة النووية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Atomanlagen"
+ },
+ {
+  "de": "Atombombe",
+  "ar": "القنبلة النووية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Atombomben"
+ },
+ {
+  "de": "Atomenergie",
+  "ar": "الطاقة النووية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Atomexplosion",
+  "ar": "الانفجار النووي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Atomexplosionen"
+ },
+ {
+  "de": "Atomkatastrophe",
+  "ar": "الكارثة النووية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Atomkatastrophen"
+ },
+ {
+  "de": "Atomkraftwerk",
+  "ar": "المفاعل النووي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Atomkraftwerke"
+ },
+ {
+  "de": "Atomkrieg",
+  "ar": "الحرب النووية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Atomkriege"
+ },
+ {
+  "de": "Atomreaktor",
+  "ar": "المفاعل النووي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Atomreaktoren"
+ },
+ {
+  "de": "Atomstrom",
+  "ar": "الكهرباء النووية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Atomtechnologie",
+  "ar": "التقنية النووية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Atomtechnologien"
+ },
+ {
+  "de": "Attentatsversuch",
+  "ar": "محاولة الاغتيال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Attentatsversuche"
+ },
+ {
+  "de": "Attrappe",
+  "ar": "المجسم المقلد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Attrappen"
+ },
+ {
+  "de": "Audiosignal",
+  "ar": "الإشارة الصوتية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Audiosignale"
+ },
+ {
+  "de": "Audiowalk",
+  "ar": "الجولة الصوتية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Audiowalks"
+ },
+ {
+  "de": "Auditorium",
+  "ar": "القاعة الكبيرة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Auditorien"
+ },
+ {
+  "de": "Audit",
+  "ar": "التدقيق",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Audits"
+ },
+ {
+  "de": "Auf-der-Stelle-Treten",
+  "ar": "الجري في المكان",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Aufatmen",
+  "ar": "التنهد بارتياح",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Aufbauspieler",
+  "ar": "صانع اللعب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aufbauspieler"
+ },
+ {
+  "de": "Aufbautraining",
+  "ar": "التدريب التأسيسي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Aufbegehren",
+  "ar": "التمرد",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Aufbruchstimmung",
+  "ar": "مزاج الانطلاق",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Aufdeckung",
+  "ar": "الكشف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aufdeckungen"
+ },
+ {
+  "de": "Aufdrehen",
+  "ar": "علو الصوت / الفتح",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Aufdruck",
+  "ar": "الطبعة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aufdrucke"
+ },
+ {
+  "de": "Aufeinanderachten",
+  "ar": "الاهتمام ببعض",
+  "pos": "noun",
+  "art": "das"
+ }
+]
