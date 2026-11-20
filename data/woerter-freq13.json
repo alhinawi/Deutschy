@@ -1,0 +1,554 @@
+[
+ {
+  "de": "Bundesregierung",
+  "ar": "الحكومة الألمانية",
+  "pos": "noun"
+ },
+ {
+  "de": "Kritik",
+  "ar": "نقد",
+  "pos": "noun"
+ },
+ {
+  "de": "Maßnahme",
+  "ar": "إجراء / تدبير",
+  "pos": "noun"
+ },
+ {
+  "de": "Mehrheit",
+  "ar": "أغلبية",
+  "pos": "noun"
+ },
+ {
+  "de": "Beamter",
+  "ar": "موظف حكومة",
+  "pos": "noun"
+ },
+ {
+  "de": "Fokus",
+  "ar": "تركيز / فوكس",
+  "pos": "noun"
+ },
+ {
+  "de": "Bundestag",
+  "ar": "البرلمان الألماني",
+  "pos": "noun"
+ },
+ {
+  "de": "Parlament",
+  "ar": "برلمان",
+  "pos": "noun"
+ },
+ {
+  "de": "Auswirkung",
+  "ar": "تأثير / نتيجة",
+  "pos": "noun"
+ },
+ {
+  "de": "Teilnehmer",
+  "ar": "مشترك",
+  "pos": "noun"
+ },
+ {
+  "de": "Einsatzkräfte",
+  "ar": "قوات الطوارئ",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Mitteilung",
+  "ar": "إخطار / بيان",
+  "pos": "noun"
+ },
+ {
+  "de": "Anstieg",
+  "ar": "زيادة / صعود",
+  "pos": "noun"
+ },
+ {
+  "de": "Förderung",
+  "ar": "دعم / تمويل",
+  "pos": "noun"
+ },
+ {
+  "de": "Autofahrer",
+  "ar": "سواق عربية",
+  "pos": "noun"
+ },
+ {
+  "de": "Wahlkampf",
+  "ar": "حملة انتخابية",
+  "pos": "noun"
+ },
+ {
+  "de": "Hersteller",
+  "ar": "شركة مصنعة",
+  "pos": "noun"
+ },
+ {
+  "de": "Quartal",
+  "ar": "ربع سنة",
+  "pos": "noun"
+ },
+ {
+  "de": "Umfeld",
+  "ar": "محيط / دايرة المعارف",
+  "pos": "noun"
+ },
+ {
+  "de": "Betroffener",
+  "ar": "متضرر / معني بالأمر",
+  "pos": "noun"
+ },
+ {
+  "de": "Industrie",
+  "ar": "صناعة",
+  "pos": "noun"
+ },
+ {
+  "de": "Inflation",
+  "ar": "تضخم / غلا",
+  "pos": "noun"
+ },
+ {
+  "de": "Infrastruktur",
+  "ar": "بنية تحتية",
+  "pos": "noun"
+ },
+ {
+  "de": "Nutzung",
+  "ar": "استخدام",
+  "pos": "noun"
+ },
+ {
+  "de": "Zeitraum",
+  "ar": "فترة زمنية",
+  "pos": "noun"
+ },
+ {
+  "de": "Milliarde",
+  "ar": "مليار",
+  "pos": "noun"
+ },
+ {
+  "de": "Sprecher",
+  "ar": "متحدث رسمي",
+  "pos": "noun"
+ },
+ {
+  "de": "Beamte",
+  "ar": "موظفين دولة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Medium",
+  "ar": "وسيلة إعلام",
+  "pos": "noun"
+ },
+ {
+  "de": "Ministerpräsident",
+  "ar": "رئيس وزرا الولاية",
+  "pos": "noun"
+ },
+ {
+  "de": "betragen",
+  "ar": "يبلغ / يساوي",
+  "pos": "verb"
+ },
+ {
+  "de": "erhöhen",
+  "ar": "يزيد / يرفع",
+  "pos": "verb"
+ },
+ {
+  "de": "kündigen",
+  "ar": "يفصل / يلغي عقد",
+  "pos": "verb"
+ },
+ {
+  "de": "reichen",
+  "ar": "يكفي / يوصل",
+  "pos": "verb"
+ },
+ {
+  "de": "verhindern",
+  "ar": "يمنع",
+  "pos": "verb"
+ },
+ {
+  "de": "beteiligen",
+  "ar": "يشارك",
+  "pos": "verb"
+ },
+ {
+  "de": "erfolgen",
+  "ar": "يحصل / يتم",
+  "pos": "verb"
+ },
+ {
+  "de": "benötigen",
+  "ar": "يحتاج",
+  "pos": "verb"
+ },
+ {
+  "de": "durchführen",
+  "ar": "ينفذ / يعمل",
+  "pos": "verb"
+ },
+ {
+  "de": "festnehmen",
+  "ar": "يلقي القبض",
+  "pos": "verb"
+ },
+ {
+  "de": "unterstützen",
+  "ar": "يدعم / يساند",
+  "pos": "verb"
+ },
+ {
+  "de": "sperren",
+  "ar": "يحظر / يقفل",
+  "pos": "verb"
+ },
+ {
+  "de": "ermitteln",
+  "ar": "يحقق في",
+  "pos": "verb"
+ },
+ {
+  "de": "ermöglichen",
+  "ar": "يخلي ممكن",
+  "pos": "verb"
+ },
+ {
+  "de": "tun",
+  "ar": "يسوي / يعمل",
+  "pos": "verb"
+ },
+ {
+  "de": "berichten",
+  "ar": "يبلغ / ينقل خبر",
+  "pos": "verb"
+ },
+ {
+  "de": "müssen",
+  "ar": "لازم",
+  "pos": "verb"
+ },
+ {
+  "de": "können",
+  "ar": "يقدر",
+  "pos": "verb"
+ },
+ {
+  "de": "dürfen",
+  "ar": "مسموح له",
+  "pos": "verb"
+ },
+ {
+  "de": "sollen",
+  "ar": "المفروض",
+  "pos": "verb"
+ },
+ {
+  "de": "wollen",
+  "ar": "عايز",
+  "pos": "verb"
+ },
+ {
+  "de": "werden",
+  "ar": "هيبقى / هيحصل",
+  "pos": "verb"
+ },
+ {
+  "de": "sein",
+  "ar": "يكون",
+  "pos": "verb"
+ },
+ {
+  "de": "haben",
+  "ar": "يكون عنده",
+  "pos": "verb"
+ },
+ {
+  "de": "insbesondere",
+  "ar": "خصوصا / بالذات",
+  "pos": "adv"
+ },
+ {
+  "de": "beispielsweise",
+  "ar": "مثلا",
+  "pos": "adv"
+ },
+ {
+  "de": "jeweils",
+  "ar": "كل واحد / على التوالي",
+  "pos": "adv"
+ },
+ {
+  "de": "zumindest",
+  "ar": "عالأقل",
+  "pos": "adv"
+ },
+ {
+  "de": "lediglich",
+  "ar": "مجرد / بس",
+  "pos": "adv"
+ },
+ {
+  "de": "hingegen",
+  "ar": "على النقيض",
+  "pos": "adv"
+ },
+ {
+  "de": "bereits",
+  "ar": "بالفعل",
+  "pos": "adv"
+ },
+ {
+  "de": "ehemalig",
+  "ar": "سابق",
+  "pos": "adj"
+ },
+ {
+  "de": "zahlreich",
+  "ar": "كتير / عديد",
+  "pos": "adj"
+ },
+ {
+  "de": "politisch",
+  "ar": "سياسي",
+  "pos": "adj"
+ },
+ {
+  "de": "sozial",
+  "ar": "اجتماعي",
+  "pos": "adj"
+ },
+ {
+  "de": "aktuell",
+  "ar": "حالي / دلوقتي",
+  "pos": "adj"
+ },
+ {
+  "de": "gesamt",
+  "ar": "إجمالي / كامل",
+  "pos": "adj"
+ },
+ {
+  "de": "möglichst",
+  "ar": "قد الإمكان",
+  "pos": "adv"
+ },
+ {
+  "de": "heutig",
+  "ar": "بتاع النهارده",
+  "pos": "adj"
+ },
+ {
+  "de": "teilweise",
+  "ar": "جزئيا",
+  "pos": "adv"
+ },
+ {
+  "de": "zusätzlich",
+  "ar": "إضافي / كمان",
+  "pos": "adj"
+ },
+ {
+  "de": "bisherig",
+  "ar": "سابق / لحد دلوقتي",
+  "pos": "adj"
+ },
+ {
+  "de": "geplant",
+  "ar": "مخطط له",
+  "pos": "adj"
+ },
+ {
+  "de": "unklar",
+  "ar": "مش واضح",
+  "pos": "adj"
+ },
+ {
+  "de": "entsprechend",
+  "ar": "مناسب / تابع لـ",
+  "pos": "adj"
+ },
+ {
+  "de": "jüngst",
+  "ar": "أخير / حديث",
+  "pos": "adj"
+ },
+ {
+  "de": "relativ",
+  "ar": "نسبيا",
+  "pos": "adv"
+ },
+ {
+  "de": "extrem",
+  "ar": "جامد / مفرط",
+  "pos": "adj"
+ },
+ {
+  "de": "ähnlich",
+  "ar": "شبه بعض",
+  "pos": "adj"
+ },
+ {
+  "de": "kurz",
+  "ar": "قصير / باختصار",
+  "pos": "adj"
+ },
+ {
+  "de": "tätig",
+  "ar": "شغال / نشيط",
+  "pos": "adj"
+ },
+ {
+  "de": "weitere",
+  "ar": "زيادة / تاني",
+  "pos": "adj"
+ },
+ {
+  "de": "russisch",
+  "ar": "روسي",
+  "pos": "adj"
+ },
+ {
+  "de": "ukrainisch",
+  "ar": "أوكراني",
+  "pos": "adj"
+ },
+ {
+  "de": "israelisch",
+  "ar": "إسرائيلي",
+  "pos": "adj"
+ },
+ {
+  "de": "amerikanisch",
+  "ar": "أمريكاني",
+  "pos": "adj"
+ },
+ {
+  "de": "österreichisch",
+  "ar": "نمساوي",
+  "pos": "adj"
+ },
+ {
+  "de": "zufolge",
+  "ar": "حسب / طبقا لـ",
+  "pos": "part"
+ },
+ {
+  "de": "bislang",
+  "ar": "لحد دلوقتي",
+  "pos": "adv"
+ },
+ {
+  "de": "erstmals",
+  "ar": "لأول مرة",
+  "pos": "adv"
+ },
+ {
+  "de": "künftig",
+  "ar": "في المستقبل",
+  "pos": "adv"
+ },
+ {
+  "de": "demnach",
+  "ar": "وبالتالي",
+  "pos": "adv"
+ },
+ {
+  "de": "zudem",
+  "ar": "وكمان / إضافة لكده",
+  "pos": "adv"
+ },
+ {
+  "de": "derzeit",
+  "ar": "حاليا / أيامنا دي",
+  "pos": "adv"
+ },
+ {
+  "de": "zwar",
+  "ar": "صحيح بس",
+  "pos": "adv"
+ },
+ {
+  "de": "sogar",
+  "ar": "حتى / كمان",
+  "pos": "adv"
+ },
+ {
+  "de": "dabei",
+  "ar": "في الوقت ده / مع كده",
+  "pos": "adv"
+ },
+ {
+  "de": "davon",
+  "ar": "منه / من ده",
+  "pos": "adv"
+ },
+ {
+  "de": "dazu",
+  "ar": "لده / لكده",
+  "pos": "adv"
+ },
+ {
+  "de": "darum",
+  "ar": "علشان كده",
+  "pos": "adv"
+ },
+ {
+  "de": "insgesamt",
+  "ar": "في المجموع",
+  "pos": "adv"
+ },
+ {
+  "de": "ohnehin",
+  "ar": "أصلا / على أي حال",
+  "pos": "adv"
+ },
+ {
+  "de": "sodass",
+  "ar": "بحيث إن",
+  "pos": "part"
+ },
+ {
+  "de": "wobei",
+  "ar": "مع إن / وحيث",
+  "pos": "part"
+ },
+ {
+  "de": "wiederum",
+  "ar": "في المقابل / بدوره",
+  "pos": "adv"
+ },
+ {
+  "de": "anschließend",
+  "ar": "وبعدها",
+  "pos": "adv"
+ },
+ {
+  "de": "dank",
+  "ar": "بفضل",
+  "pos": "part"
+ },
+ {
+  "de": "somit",
+  "ar": "وبكده / إذن",
+  "pos": "adv"
+ },
+ {
+  "de": "heuer",
+  "ar": "السنة دي",
+  "pos": "adv"
+ },
+ {
+  "de": "meist",
+  "ar": "غالبا",
+  "pos": "adv"
+ }
+]
