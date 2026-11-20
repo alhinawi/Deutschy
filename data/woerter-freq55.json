@@ -1,0 +1,1092 @@
+[
+ {
+  "de": "Aufenthaltsbehörde",
+  "ar": "مكتب الإقامة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aufenthaltsbehörden"
+ },
+ {
+  "de": "Aufenthaltsgenehmigung",
+  "ar": "تصريح الإقامة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aufenthaltsgenehmigungen"
+ },
+ {
+  "de": "Aufenthaltsqualität",
+  "ar": "جودة المكان",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Aufenthaltsrecht",
+  "ar": "قانون الإقامة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Aufenthaltsraum",
+  "ar": "أوضة الانتظار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aufenthaltsräume"
+ },
+ {
+  "de": "Aufenthaltsverbot",
+  "ar": "حظر التواجد",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Aufenthaltsverbote"
+ },
+ {
+  "de": "Auffahrt",
+  "ar": "المدخل (طريق) / الصعود",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Auffahrten"
+ },
+ {
+  "de": "Auffahrunfall",
+  "ar": "حادثة الخبطة من ورا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Auffahrunfälle"
+ },
+ {
+  "de": "Auffinden",
+  "ar": "العثور عليه",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Aufforsten",
+  "ar": "التشجير",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Auffrischen",
+  "ar": "الإنعاش",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Auffrischungsimpfung",
+  "ar": "التطعيمة المنشطة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Auffrischungsimpfungen"
+ },
+ {
+  "de": "Aufführungsrecht",
+  "ar": "حقوق العرض",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Aufführungsrechte"
+ },
+ {
+  "de": "Aufgabenstellung",
+  "ar": "المهمة المطلوبة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aufgabenstellungen"
+ },
+ {
+  "de": "Aufguss",
+  "ar": "المشروب المغلي (شاي)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aufgüsse"
+ },
+ {
+  "de": "Aufheizzeit",
+  "ar": "وقت التسخين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aufheizzeiten"
+ },
+ {
+  "de": "Aufholprozess",
+  "ar": "عملية اللحاق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aufholprozesse"
+ },
+ {
+  "de": "Aufhorchen",
+  "ar": "الانتباه بأذنيه",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Aufhängung",
+  "ar": "التعليق (عربية)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aufhängungen"
+ },
+ {
+  "de": "Aufkleber",
+  "ar": "الاستيكر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aufkleber"
+ },
+ {
+  "de": "Aufklärungsarbeit",
+  "ar": "شغل التوعية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Aufklärungsflugzeug",
+  "ar": "طيارة الاستطلاع",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Aufklärungsflugzeuge"
+ },
+ {
+  "de": "Aufklärungsquote",
+  "ar": "نسبة الكشف (جرايم)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aufklärungsquoten"
+ },
+ {
+  "de": "Auflistung",
+  "ar": "السرد / القايمة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Auflistungen"
+ },
+ {
+  "de": "Auflauf",
+  "ar": "التجمع / الوجبة الفرن",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aufläufe"
+ },
+ {
+  "de": "Aufmachung",
+  "ar": "الشكل / التغليف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aufmachungen"
+ },
+ {
+  "de": "Aufmarsch",
+  "ar": "الاستعراض / الحشد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aufmärsche"
+ },
+ {
+  "de": "Aufnahmeprüfung",
+  "ar": "امتحان القبول",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aufnahmeprüfungen"
+ },
+ {
+  "de": "Aufpralldämpfer",
+  "ar": "ممتص الصدمات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aufpralldämpfer"
+ },
+ {
+  "de": "Aufputschmittel",
+  "ar": "المنبهات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Aufputschmittel"
+ },
+ {
+  "de": "Aufrechterhaltung",
+  "ar": "الحفاظ على",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Aufreger",
+  "ar": "الموضوع المثير للغضب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aufreger"
+ },
+ {
+  "de": "Aufrüsten",
+  "ar": "التسليح",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Aufsichtsperson",
+  "ar": "المشرف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aufsichtspersonen"
+ },
+ {
+  "de": "Aufsichtsratschef",
+  "ar": "رئيس مجلس الرقابة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aufsichtsratschefs"
+ },
+ {
+  "de": "Aufsichtsratssitzung",
+  "ar": "اجتماع مجلس الرقابة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aufsichtsratssitzungen"
+ },
+ {
+  "de": "Aufsichtsratsvorsitzende",
+  "ar": "رئيس مجلس الرقابة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aufsichtsratsvorsitzenden"
+ },
+ {
+  "de": "Aufspaltung",
+  "ar": "التقسيم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aufspaltungen"
+ },
+ {
+  "de": "Aufspielen",
+  "ar": "التثبيت (برنامج)",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Aufstiegsplatz",
+  "ar": "مركز الصعود",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aufstiegsplätze"
+ },
+ {
+  "de": "Aufstiegsroute",
+  "ar": "طريق الصعود",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aufstiegsrouten"
+ },
+ {
+  "de": "Aufstrich",
+  "ar": "الدهنة (أكل)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aufstriche"
+ },
+ {
+  "de": "Aufständische",
+  "ar": "المتمرد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aufständischen"
+ },
+ {
+  "de": "Auftaktgegner",
+  "ar": "خصم الافتتاح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Auftaktgegner"
+ },
+ {
+  "de": "Auftaktpartie",
+  "ar": "ماتش الافتتاح",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Auftaktpartien"
+ },
+ {
+  "de": "Auftaktsieg",
+  "ar": "فوز الافتتاح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Auftaktsiege"
+ },
+ {
+  "de": "Auftaktsitzung",
+  "ar": "جلسة الافتتاح",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Auftaktsitzungen"
+ },
+ {
+  "de": "Auftaktspiel",
+  "ar": "ماتش الافتتاح",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Auftaktspiele"
+ },
+ {
+  "de": "Auftaktveranstaltung",
+  "ar": "فعالية الافتتاح",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Auftaktveranstaltungen"
+ },
+ {
+  "de": "Auftraggeber",
+  "ar": "العميل (صاحب الطلب)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Auftraggeber"
+ },
+ {
+  "de": "Auftragsbestand",
+  "ar": "حجم الطلبات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Auftragsbestände"
+ },
+ {
+  "de": "Auftragsbuch",
+  "ar": "سجل الطلبات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Auftragsbücher"
+ },
+ {
+  "de": "Auftragseingang",
+  "ar": "الطلبات الواردة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Auftragseingänge"
+ },
+ {
+  "de": "Auftragskiller",
+  "ar": "القاتل المأجور",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Auftragskiller"
+ },
+ {
+  "de": "Auftragslage",
+  "ar": "وضع الطلبات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Auftragslagen"
+ },
+ {
+  "de": "Auftragsproduktion",
+  "ar": "الإنتاج بطلب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Auftragsproduktionen"
+ },
+ {
+  "de": "Aufwärmen",
+  "ar": "التسخين",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Aufwärtsbewegung",
+  "ar": "الحركة الصاعدة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aufwärtsbewegungen"
+ },
+ {
+  "de": "Aufwärtsdruck",
+  "ar": "الضغط الصاعد",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Aufwärtstrend",
+  "ar": "الاتجاه الصاعد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aufwärtstrends"
+ },
+ {
+  "de": "Aufzucht",
+  "ar": "التربية (عجول)",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Aufzählung",
+  "ar": "العد / السرد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aufzählungen"
+ },
+ {
+  "de": "Augenmaß",
+  "ar": "التقدير بالعين",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Augenmedikament",
+  "ar": "دوا العيون",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Augenmedikamente"
+ },
+ {
+  "de": "Augenschein",
+  "ar": "المعاينة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Augenverletzung",
+  "ar": "إصابة العين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Augenverletzungen"
+ },
+ {
+  "de": "Augenzahl",
+  "ar": "عدد النقط (نرد)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Augenzahlen"
+ },
+ {
+  "de": "Augenzeuge",
+  "ar": "شاهد العيان",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Augenzeugen"
+ },
+ {
+  "de": "Augenöffner",
+  "ar": "التجربة اللي بتفتح العين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Augenöffner"
+ },
+ {
+  "de": "Augenüberprüfung",
+  "ar": "فحص العين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Augenüberprüfungen"
+ },
+ {
+  "de": "Auktionshaus",
+  "ar": "دار المزادات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Auktionshäuser"
+ },
+ {
+  "de": "Aula",
+  "ar": "القاعة الكبرى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aulen"
+ },
+ {
+  "de": "Ausbauarbeiten",
+  "ar": "أعمال التوسعة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Ausbaustufe",
+  "ar": "مرحلة التوسعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausbaustufen"
+ },
+ {
+  "de": "Ausbilder",
+  "ar": "المدرب المهني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ausbilder"
+ },
+ {
+  "de": "Ausbilderin",
+  "ar": "المدربة المهنية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausbilderinnen"
+ },
+ {
+  "de": "Ausbildungsangebot",
+  "ar": "عرض التدريب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ausbildungsangebote"
+ },
+ {
+  "de": "Ausbildungsbetrieb",
+  "ar": "شركة التدريب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ausbildungsbetriebe"
+ },
+ {
+  "de": "Ausbildungsgarantie",
+  "ar": "ضمان التدريب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausbildungsgarantien"
+ },
+ {
+  "de": "Ausbildungsjahr",
+  "ar": "سنة التدريب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ausbildungsjahre"
+ },
+ {
+  "de": "Ausbildungskurs",
+  "ar": "كورس التدريب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ausbildungskurse"
+ },
+ {
+  "de": "Ausbildungsmarkt",
+  "ar": "سوق التدريب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ausbildungsmärkte"
+ },
+ {
+  "de": "Ausbildungsmodell",
+  "ar": "نموذج التدريب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ausbildungsmodelle"
+ },
+ {
+  "de": "Ausbildungsrichtung",
+  "ar": "تخصص التدريب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausbildungsrichtungen"
+ },
+ {
+  "de": "Ausbildungsstelle",
+  "ar": "مكان التدريب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausbildungsstellen"
+ },
+ {
+  "de": "Ausbildungsstätte",
+  "ar": "مؤسسة التدريب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausbildungsstätten"
+ },
+ {
+  "de": "Ausbildungsvertrag",
+  "ar": "عقد التدريب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ausbildungsverträge"
+ },
+ {
+  "de": "Ausbildungsvorbereitung",
+  "ar": "التحضير للتدريب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Ausbluten",
+  "ar": "النزيف حتى الموت",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Ausbrüten",
+  "ar": "التفريخ / التدبير",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Ausdauer",
+  "ar": "التحمل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Ausdauersport",
+  "ar": "رياضات التحمل",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Ausdrucksmöglichkeit",
+  "ar": "إمكانية التعبير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausdrucksmöglichkeiten"
+ },
+ {
+  "de": "Auserwählte",
+  "ar": "المختار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Auserwählten"
+ },
+ {
+  "de": "Ausfallliste",
+  "ar": "قايمة الغياب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausfalllisten"
+ },
+ {
+  "de": "Ausfallzeit",
+  "ar": "وقت التعطل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausfallzeiten"
+ },
+ {
+  "de": "Ausfertigung",
+  "ar": "النسخة الرسمية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausfertigungen"
+ },
+ {
+  "de": "Ausflugsboot",
+  "ar": "مركب النزهة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ausflugsboote"
+ },
+ {
+  "de": "Ausfuhr",
+  "ar": "التصدير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausfuhren"
+ },
+ {
+  "de": "Ausgabefach",
+  "ar": "درج التسليم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ausgabefächer"
+ },
+ {
+  "de": "Ausgabenposten",
+  "ar": "بند المصاريف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ausgabenposten"
+ },
+ {
+  "de": "Ausgangsjahr",
+  "ar": "سنة البداية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ausgangsjahre"
+ },
+ {
+  "de": "Ausgangszustand",
+  "ar": "الحالة الابتدائية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Ausgleichfläche",
+  "ar": "مساحة التعويض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausgleichflächen"
+ },
+ {
+  "de": "Ausgleichschance",
+  "ar": "فرصة التعادل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausgleichschancen"
+ },
+ {
+  "de": "Ausgleichszulage",
+  "ar": "بدل التعويض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausgleichszulagen"
+ },
+ {
+  "de": "Ausgrabung",
+  "ar": "التنقيب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausgrabungen"
+ },
+ {
+  "de": "Aushandlung",
+  "ar": "التفاوض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aushandlungen"
+ },
+ {
+  "de": "Aushang",
+  "ar": "الإعلان المعلق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aushänge"
+ },
+ {
+  "de": "Aushöhlung",
+  "ar": "التآكل / التقوير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aushöhlungen"
+ },
+ {
+  "de": "Auskunftsersuchen",
+  "ar": "طلب المعلومات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Auskunftsersuchen"
+ },
+ {
+  "de": "Auslandserfahrung",
+  "ar": "خبرة الخارج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Auslandserfahrungen"
+ },
+ {
+  "de": "Auslandsgeheimdienst",
+  "ar": "المخابرات الخارجية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Auslandsgeheimdienste"
+ },
+ {
+  "de": "Auslandstourist",
+  "ar": "السائح الأجنبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Auslandstouristen"
+ },
+ {
+  "de": "Ausleben",
+  "ar": "العيش بحرية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Ausleihung",
+  "ar": "الإعارة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausleihungen"
+ },
+ {
+  "de": "Auslieferungsbegehren",
+  "ar": "طلب التسليم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Auslieferungsbegehren"
+ },
+ {
+  "de": "Ausländerbehörde",
+  "ar": "مكتب الأجانب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausländerbehörden"
+ },
+ {
+  "de": "Ausländerzentralregister",
+  "ar": "السجل المركزي للأجانب",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Ausnahmeentscheidung",
+  "ar": "قرار استثنائي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausnahmeentscheidungen"
+ },
+ {
+  "de": "Ausnahmekönner",
+  "ar": "الموهوب الاستثنائي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ausnahmekönner"
+ },
+ {
+  "de": "Ausnahmekünstler",
+  "ar": "الفنان الاستثنائي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ausnahmekünstler"
+ },
+ {
+  "de": "Ausnahmelage",
+  "ar": "الوضع الاستثنائي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausnahmelagen"
+ },
+ {
+  "de": "Ausnahmelösung",
+  "ar": "الحل الاستثنائي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausnahmelösungen"
+ },
+ {
+  "de": "Ausnahmesituation",
+  "ar": "الموقف الاستثنائي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausnahmesituationen"
+ },
+ {
+  "de": "Ausnahmetalent",
+  "ar": "الموهبة الاستثنائية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ausnahmetalente"
+ },
+ {
+  "de": "Ausprägung",
+  "ar": "الشكل / التجلي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausprägungen"
+ },
+ {
+  "de": "Auspuffgas",
+  "ar": "غازات العادم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Auspuffgase"
+ },
+ {
+  "de": "Ausreisebewilligung",
+  "ar": "تصريح الخروج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausreisebewilligungen"
+ },
+ {
+  "de": "Ausreißer",
+  "ar": "القيمة الشاذة / الهارب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ausreißer"
+ },
+ {
+  "de": "Ausrichter",
+  "ar": "المنظم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ausrichter"
+ },
+ {
+  "de": "Ausritt",
+  "ar": "رحلة ركوب الخيل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ausritte"
+ },
+ {
+  "de": "Ausräumen",
+  "ar": "التفريغ",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Aussageverweigerung",
+  "ar": "رفض الشهادة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Ausschaffung",
+  "ar": "الترحيل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausschaffungen"
+ },
+ {
+  "de": "Ausschaltung",
+  "ar": "الإيقاف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausschaltungen"
+ },
+ {
+  "de": "Ausschank",
+  "ar": "تقديم المشروبات",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Ausschankverbot",
+  "ar": "حظر تقديم المشروبات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ausschankverbote"
+ },
+ {
+  "de": "ausschlaggebend",
+  "ar": "حاسم",
+  "pos": "adj"
+ },
+ {
+  "de": "Ausschnitt",
+  "ar": "المقطع / الفتحة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ausschnitte"
+ },
+ {
+  "de": "Ausschussmitglied",
+  "ar": "عضو اللجنة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ausschussmitglieder"
+ },
+ {
+  "de": "Ausschussberatung",
+  "ar": "مداولات اللجنة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausschussberatungen"
+ },
+ {
+  "de": "Ausschussvorsitzende",
+  "ar": "رئيس اللجنة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ausschussvorsitzenden"
+ },
+ {
+  "de": "Aussenbordmotor",
+  "ar": "الموتور الخارجي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aussenbordmotoren"
+ },
+ {
+  "de": "Aussichtsplattform",
+  "ar": "منصة المشاهدة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aussichtsplattformen"
+ },
+ {
+  "de": "Ausstellungsbranche",
+  "ar": "قطاع المعارض",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Ausstellungseröffnung",
+  "ar": "افتتاح المعرض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausstellungseröffnungen"
+ },
+ {
+  "de": "Ausstellungshalle",
+  "ar": "قاعة العرض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausstellungshallen"
+ },
+ {
+  "de": "Ausstellungsstück",
+  "ar": "قطعة العرض",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ausstellungsstücke"
+ },
+ {
+  "de": "Ausstiegsplan",
+  "ar": "خطة الخروج",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ausstiegspläne"
+ },
+ {
+  "de": "Aussöhnung",
+  "ar": "المصالحة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aussöhnungen"
+ },
+ {
+  "de": "Austernpilz",
+  "ar": "مشروم المحار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Austernpilze"
+ },
+ {
+  "de": "Austragung",
+  "ar": "الاستضافة (بطولة)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Austragungen"
+ },
+ {
+  "de": "Austritt",
+  "ar": "الخروج (عضوية)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Austritte"
+ },
+ {
+  "de": "Austrittsreferendum",
+  "ar": "استفتاء الخروج",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Austrittsreferenden"
+ },
+ {
+  "de": "Auswahlkriterium",
+  "ar": "معيار الاختيار",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Auswahlkriterien"
+ },
+ {
+  "de": "Auswanderer",
+  "ar": "المهاجر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Auswanderer"
+ },
+ {
+  "de": "Auswanderungsziel",
+  "ar": "وجهة الهجرة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Auswanderungsziele"
+ },
+ {
+  "de": "Auswechselbank",
+  "ar": "دكة البدلاء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Auswechselbänke"
+ },
+ {
+  "de": "Auswechslung",
+  "ar": "التبديل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Auswechslungen"
+ }
+]
