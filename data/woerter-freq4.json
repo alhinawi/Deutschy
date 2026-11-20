@@ -1,0 +1,1572 @@
+[
+ {
+  "de": "rot",
+  "ar": "أحمر",
+  "pos": "adj"
+ },
+ {
+  "de": "blau",
+  "ar": "أزرق",
+  "pos": "adj"
+ },
+ {
+  "de": "grün",
+  "ar": "أخضر",
+  "pos": "adj"
+ },
+ {
+  "de": "gelb",
+  "ar": "أصفر",
+  "pos": "adj"
+ },
+ {
+  "de": "schwarz",
+  "ar": "أسود / إسود",
+  "pos": "adj"
+ },
+ {
+  "de": "weiß",
+  "ar": "أبيض",
+  "pos": "adj"
+ },
+ {
+  "de": "grau",
+  "ar": "رمادي",
+  "pos": "adj"
+ },
+ {
+  "de": "braun",
+  "ar": "بني",
+  "pos": "adj"
+ },
+ {
+  "de": "rosa",
+  "ar": "روز / وردي",
+  "pos": "adj"
+ },
+ {
+  "de": "lila",
+  "ar": "موف / بنفسجي",
+  "pos": "adj"
+ },
+ {
+  "de": "bunt",
+  "ar": "ملون",
+  "pos": "adj"
+ },
+ {
+  "de": "hell",
+  "ar": "فاتح / منور",
+  "pos": "adj"
+ },
+ {
+  "de": "dunkel",
+  "ar": "غامق / مضلمة",
+  "pos": "adj"
+ },
+ {
+  "de": "eins",
+  "ar": "واحد",
+  "pos": "part"
+ },
+ {
+  "de": "zwei",
+  "ar": "اتنين",
+  "pos": "part"
+ },
+ {
+  "de": "drei",
+  "ar": "تلاتة",
+  "pos": "part"
+ },
+ {
+  "de": "vier",
+  "ar": "أربعة",
+  "pos": "part"
+ },
+ {
+  "de": "fünf",
+  "ar": "خمسة",
+  "pos": "part"
+ },
+ {
+  "de": "sechs",
+  "ar": "ستة",
+  "pos": "part"
+ },
+ {
+  "de": "sieben",
+  "ar": "سبعة",
+  "pos": "part"
+ },
+ {
+  "de": "acht",
+  "ar": "تمانية",
+  "pos": "part"
+ },
+ {
+  "de": "neun",
+  "ar": "تسعة",
+  "pos": "part"
+ },
+ {
+  "de": "zehn",
+  "ar": "عشرة",
+  "pos": "part"
+ },
+ {
+  "de": "elf",
+  "ar": "حداشر",
+  "pos": "part"
+ },
+ {
+  "de": "zwölf",
+  "ar": "اتناشر",
+  "pos": "part"
+ },
+ {
+  "de": "zwanzig",
+  "ar": "عشرين",
+  "pos": "part"
+ },
+ {
+  "de": "dreißig",
+  "ar": "تلاتين",
+  "pos": "part"
+ },
+ {
+  "de": "vierzig",
+  "ar": "أربعين",
+  "pos": "part"
+ },
+ {
+  "de": "fünfzig",
+  "ar": "خمسين",
+  "pos": "part"
+ },
+ {
+  "de": "hundert",
+  "ar": "مية",
+  "pos": "part"
+ },
+ {
+  "de": "tausend",
+  "ar": "ألف",
+  "pos": "part"
+ },
+ {
+  "de": "Million",
+  "ar": "مليون",
+  "pos": "noun"
+ },
+ {
+  "de": "erste",
+  "ar": "أول / أول واحد",
+  "pos": "adj"
+ },
+ {
+  "de": "letzte",
+  "ar": "آخر / أخير",
+  "pos": "adj"
+ },
+ {
+  "de": "nächste",
+  "ar": "الجاي / التالي",
+  "pos": "adj"
+ },
+ {
+  "de": "Montag",
+  "ar": "يوم الاتنين",
+  "pos": "noun"
+ },
+ {
+  "de": "Dienstag",
+  "ar": "يوم التلات",
+  "pos": "noun"
+ },
+ {
+  "de": "Mittwoch",
+  "ar": "يوم الأربع",
+  "pos": "noun"
+ },
+ {
+  "de": "Donnerstag",
+  "ar": "يوم الخميس",
+  "pos": "noun"
+ },
+ {
+  "de": "Freitag",
+  "ar": "يوم الجمعة",
+  "pos": "noun"
+ },
+ {
+  "de": "Samstag",
+  "ar": "يوم السبت",
+  "pos": "noun"
+ },
+ {
+  "de": "Sonntag",
+  "ar": "يوم الحد",
+  "pos": "noun"
+ },
+ {
+  "de": "Januar",
+  "ar": "يناير",
+  "pos": "noun"
+ },
+ {
+  "de": "Februar",
+  "ar": "فبراير",
+  "pos": "noun"
+ },
+ {
+  "de": "April",
+  "ar": "أبريل",
+  "pos": "noun"
+ },
+ {
+  "de": "Mai",
+  "ar": "مايو",
+  "pos": "noun"
+ },
+ {
+  "de": "Juni",
+  "ar": "يونيو",
+  "pos": "noun"
+ },
+ {
+  "de": "Juli",
+  "ar": "يوليو",
+  "pos": "noun"
+ },
+ {
+  "de": "August",
+  "ar": "أغسطس",
+  "pos": "noun"
+ },
+ {
+  "de": "September",
+  "ar": "سبتمبر",
+  "pos": "noun"
+ },
+ {
+  "de": "Oktober",
+  "ar": "أكتوبر",
+  "pos": "noun"
+ },
+ {
+  "de": "November",
+  "ar": "نوفمبر",
+  "pos": "noun"
+ },
+ {
+  "de": "Dezember",
+  "ar": "ديسمبر",
+  "pos": "noun"
+ },
+ {
+  "de": "Wochentag",
+  "ar": "يوم من الأسبوع",
+  "pos": "noun"
+ },
+ {
+  "de": "heißen",
+  "ar": "اسمه / يعني",
+  "pos": "verb"
+ },
+ {
+  "de": "nennen",
+  "ar": "يسمّي",
+  "pos": "verb"
+ },
+ {
+  "de": "bedeuten",
+  "ar": "معناه / يقصد",
+  "pos": "verb"
+ },
+ {
+  "de": "erwarten",
+  "ar": "يتوقع / يستنى",
+  "pos": "verb"
+ },
+ {
+  "de": "wünschen",
+  "ar": "يتمنى",
+  "pos": "verb"
+ },
+ {
+  "de": "empfangen",
+  "ar": "يستقبل",
+  "pos": "verb"
+ },
+ {
+  "de": "beschweren",
+  "ar": "يشتكي",
+  "pos": "verb"
+ },
+ {
+  "de": "kümmern",
+  "ar": "يهتم / ياخد باله",
+  "pos": "verb"
+ },
+ {
+  "de": "lohnen",
+  "ar": "يستاهل (التعب)",
+  "pos": "verb"
+ },
+ {
+  "de": "passieren",
+  "ar": "يحصل",
+  "pos": "verb"
+ },
+ {
+  "de": "geschehen",
+  "ar": "يحصل",
+  "pos": "verb"
+ },
+ {
+  "de": "scheinen",
+  "ar": "يبدو / ينور (شمس)",
+  "pos": "verb"
+ },
+ {
+  "de": "erscheinen",
+  "ar": "يظهر",
+  "pos": "verb"
+ },
+ {
+  "de": "verschwinden",
+  "ar": "يختفي",
+  "pos": "verb"
+ },
+ {
+  "de": "existieren",
+  "ar": "يوجد",
+  "pos": "verb"
+ },
+ {
+  "de": "entstehen",
+  "ar": "ينشأ / يتكون",
+  "pos": "verb"
+ },
+ {
+  "de": "überleben",
+  "ar": "ينجو",
+  "pos": "verb"
+ },
+ {
+  "de": "riskieren",
+  "ar": "يغامر",
+  "pos": "verb"
+ },
+ {
+  "de": "trauen",
+  "ar": "يثق / يجرؤ",
+  "pos": "verb"
+ },
+ {
+  "de": "klopfen",
+  "ar": "يخبط",
+  "pos": "verb"
+ },
+ {
+  "de": "läuten",
+  "ar": "يرن (جرس)",
+  "pos": "verb"
+ },
+ {
+  "de": "klingeln",
+  "ar": "يرن (جرس الباب)",
+  "pos": "verb"
+ },
+ {
+  "de": "klingen",
+  "ar": "صوته يبقى / يرن",
+  "pos": "verb"
+ },
+ {
+  "de": "stinken",
+  "ar": "ريحته وحشة",
+  "pos": "verb"
+ },
+ {
+  "de": "duften",
+  "ar": "ريحته حلوة",
+  "pos": "verb"
+ },
+ {
+  "de": "leuchten",
+  "ar": "ينور",
+  "pos": "verb"
+ },
+ {
+  "de": "blinken",
+  "ar": "يرمش (نور)",
+  "pos": "verb"
+ },
+ {
+  "de": "glänzen",
+  "ar": "يلمع",
+  "pos": "verb"
+ },
+ {
+  "de": "rosten",
+  "ar": "يصدي",
+  "pos": "verb"
+ },
+ {
+  "de": "schmelzen",
+  "ar": "يدوب",
+  "pos": "verb"
+ },
+ {
+  "de": "frieren",
+  "ar": "يتجمد / يبرد أوي",
+  "pos": "verb"
+ },
+ {
+  "de": "brennen",
+  "ar": "يولع / يحترق",
+  "pos": "verb"
+ },
+ {
+  "de": "löschen",
+  "ar": "يطفي",
+  "pos": "verb"
+ },
+ {
+  "de": "fließen",
+  "ar": "يجري (مية)",
+  "pos": "verb"
+ },
+ {
+  "de": "tropfen",
+  "ar": "ينقط",
+  "pos": "verb"
+ },
+ {
+  "de": "füllen",
+  "ar": "يملّي",
+  "pos": "verb"
+ },
+ {
+  "de": "entleeren",
+  "ar": "يفرغ",
+  "pos": "verb"
+ },
+ {
+  "de": "bedecken",
+  "ar": "يغطي",
+  "pos": "verb"
+ },
+ {
+  "de": "verbergen",
+  "ar": "يخفي",
+  "pos": "verb"
+ },
+ {
+  "de": "tauschen",
+  "ar": "يبادل",
+  "pos": "verb"
+ },
+ {
+  "de": "teilen",
+  "ar": "يقسم / يشيرك",
+  "pos": "verb"
+ },
+ {
+  "de": "verteilen",
+  "ar": "يوزع",
+  "pos": "verb"
+ },
+ {
+  "de": "schätzen",
+  "ar": "يقدر / يخمن",
+  "pos": "verb"
+ },
+ {
+  "de": "vermuten",
+  "ar": "يفترض / يظن",
+  "pos": "verb"
+ },
+ {
+  "de": "ahnen",
+  "ar": "يحس / يتوقع",
+  "pos": "verb"
+ },
+ {
+  "de": "raten",
+  "ar": "يخمن / ينصح",
+  "pos": "verb"
+ },
+ {
+  "de": "erraten",
+  "ar": "يخمن صح",
+  "pos": "verb"
+ },
+ {
+  "de": "klären",
+  "ar": "يوضح / يحسم",
+  "pos": "verb"
+ },
+ {
+  "de": "regeln",
+  "ar": "ينظم / يحل",
+  "pos": "verb"
+ },
+ {
+  "de": "gelingen",
+  "ar": "ينجح (الحاجة نفسها)",
+  "pos": "verb"
+ },
+ {
+  "de": "misslingen",
+  "ar": "يفشل",
+  "pos": "verb"
+ },
+ {
+  "de": "scheitern",
+  "ar": "يفشل",
+  "pos": "verb"
+ },
+ {
+  "de": "klappen",
+  "ar": "يزبط / ينجح",
+  "pos": "verb"
+ },
+ {
+  "de": "funktionieren",
+  "ar": "يشتغل / يظبط",
+  "pos": "verb"
+ },
+ {
+  "de": "kaputtgehen",
+  "ar": "يبوظ",
+  "pos": "verb"
+ },
+ {
+  "de": "kaputtmachen",
+  "ar": "يبوظ / يكسر",
+  "pos": "verb"
+ },
+ {
+  "de": "zerstören",
+  "ar": "يدمر",
+  "pos": "verb"
+ },
+ {
+  "de": "beschädigen",
+  "ar": "يتلف / يضر",
+  "pos": "verb"
+ },
+ {
+  "de": "reinigen",
+  "ar": "ينضف",
+  "pos": "verb"
+ },
+ {
+  "de": "säubern",
+  "ar": "ينضف",
+  "pos": "verb"
+ },
+ {
+  "de": "bewachen",
+  "ar": "يحرس",
+  "pos": "verb"
+ },
+ {
+  "de": "überwachen",
+  "ar": "يراقب / يتحكم",
+  "pos": "verb"
+ },
+ {
+  "de": "einholen",
+  "ar": "يلحق",
+  "pos": "verb"
+ },
+ {
+  "de": "überholen",
+  "ar": "يعدي (عربية)",
+  "pos": "verb"
+ },
+ {
+  "de": "entkommen",
+  "ar": "يفلت / يهرب",
+  "pos": "verb"
+ },
+ {
+  "de": "jagen",
+  "ar": "يصطاد / يجري ورا",
+  "pos": "verb"
+ },
+ {
+  "de": "befreien",
+  "ar": "يحرر",
+  "pos": "verb"
+ },
+ {
+  "de": "gefangen",
+  "ar": "يمسك / يحبس",
+  "pos": "verb"
+ },
+ {
+  "de": "verhaften",
+  "ar": "يقبض على",
+  "pos": "verb"
+ },
+ {
+  "de": "bestrafen",
+  "ar": "يعاقب",
+  "pos": "verb"
+ },
+ {
+  "de": "belohnen",
+  "ar": "يكافئ",
+  "pos": "verb"
+ },
+ {
+  "de": "vergeben",
+  "ar": "يسامح",
+  "pos": "verb"
+ },
+ {
+  "de": "bedauern",
+  "ar": "يندم / يتأسف",
+  "pos": "verb"
+ },
+ {
+  "de": "bereuen",
+  "ar": "يندم",
+  "pos": "verb"
+ },
+ {
+  "de": "grüßen",
+  "ar": "يسلم على",
+  "pos": "verb"
+ },
+ {
+  "de": "verabschieden",
+  "ar": "يودع",
+  "pos": "verb"
+ },
+ {
+  "de": "beruhigen",
+  "ar": "يهدي / يطمن",
+  "pos": "verb"
+ },
+ {
+  "de": "trösten",
+  "ar": "يعزي / يسلّي",
+  "pos": "verb"
+ },
+ {
+  "de": "stören",
+  "ar": "يزعج",
+  "pos": "verb"
+ },
+ {
+  "de": "nerven",
+  "ar": "يعصب / يزعج",
+  "pos": "verb"
+ },
+ {
+  "de": "wundern",
+  "ar": "يتفاجأ / يتعجب",
+  "pos": "verb"
+ },
+ {
+  "de": "schämen",
+  "ar": "يستحي / يخجل",
+  "pos": "verb"
+ },
+ {
+  "de": "beneiden",
+  "ar": "يحسد",
+  "pos": "verb"
+ },
+ {
+  "de": "bewundern",
+  "ar": "يعجب بـ / يقدّر",
+  "pos": "verb"
+ },
+ {
+  "de": "respektieren",
+  "ar": "يحترم",
+  "pos": "verb"
+ },
+ {
+  "de": "achten",
+  "ar": "يحترم / ياخد باله",
+  "pos": "verb"
+ },
+ {
+  "de": "ignorieren",
+  "ar": "يتجاهل",
+  "pos": "verb"
+ },
+ {
+  "de": "beleidigen",
+  "ar": "يشتّم / يهين",
+  "pos": "verb"
+ },
+ {
+  "de": "loben",
+  "ar": "يمدح",
+  "pos": "verb"
+ },
+ {
+  "de": "kritisieren",
+  "ar": "ينتقد",
+  "pos": "verb"
+ },
+ {
+  "de": "bewerten",
+  "ar": "يقيّم",
+  "pos": "verb"
+ },
+ {
+  "de": "urteilen",
+  "ar": "يحكم / يقضي",
+  "pos": "verb"
+ },
+ {
+  "de": "überzeugen",
+  "ar": "يقنع",
+  "pos": "verb"
+ },
+ {
+  "de": "beeinflussen",
+  "ar": "يأثر في",
+  "pos": "verb"
+ },
+ {
+  "de": "zwingen",
+  "ar": "يجبر",
+  "pos": "verb"
+ },
+ {
+  "de": "genehmigen",
+  "ar": "يوافق رسميا",
+  "pos": "verb"
+ },
+ {
+  "de": "annehmen",
+  "ar": "يقبل",
+  "pos": "verb"
+ },
+ {
+  "de": "vorschlagen",
+  "ar": "يقترح",
+  "pos": "verb"
+ },
+ {
+  "de": "bieten",
+  "ar": "يعرض",
+  "pos": "verb"
+ },
+ {
+  "de": "anbieten",
+  "ar": "يعرض",
+  "pos": "verb"
+ },
+ {
+  "de": "anfordern",
+  "ar": "يطلب رسميا",
+  "pos": "verb"
+ },
+ {
+  "de": "fordern",
+  "ar": "يطالب",
+  "pos": "verb"
+ },
+ {
+  "de": "verlangen",
+  "ar": "يطالب / يطلب",
+  "pos": "verb"
+ },
+ {
+  "de": "befehlen",
+  "ar": "يأمر",
+  "pos": "verb"
+ },
+ {
+  "de": "gehorchen",
+  "ar": "يطيع",
+  "pos": "verb"
+ },
+ {
+  "de": "dienen",
+  "ar": "يخدم",
+  "pos": "verb"
+ },
+ {
+  "de": "herrschen",
+  "ar": "يحكم / يسود",
+  "pos": "verb"
+ },
+ {
+  "de": "regieren",
+  "ar": "يحكم",
+  "pos": "verb"
+ },
+ {
+  "de": "verwalten",
+  "ar": "يدير",
+  "pos": "verb"
+ },
+ {
+  "de": "organisieren",
+  "ar": "ينظم",
+  "pos": "verb"
+ },
+ {
+  "de": "arrangieren",
+  "ar": "يرتب / ينظم",
+  "pos": "verb"
+ },
+ {
+  "de": "vereinbaren",
+  "ar": "يتفق على",
+  "pos": "verb"
+ },
+ {
+  "de": "verschieben",
+  "ar": "يأجل / ينقل",
+  "pos": "verb"
+ },
+ {
+  "de": "absagen",
+  "ar": "يلغي",
+  "pos": "verb"
+ },
+ {
+  "de": "zusagen",
+  "ar": "يوافق / يأكد حضور",
+  "pos": "verb"
+ },
+ {
+  "de": "teilnehmen",
+  "ar": "يشترك / يحضر",
+  "pos": "verb"
+ },
+ {
+  "de": "stattfinden",
+  "ar": "يتعقد / يحصل (حدث)",
+  "pos": "verb"
+ },
+ {
+  "de": "ausfallen",
+  "ar": "يتلغي / يقع",
+  "pos": "verb"
+ },
+ {
+  "de": "anhalten",
+  "ar": "يوقف / يفضل",
+  "pos": "verb"
+ },
+ {
+  "de": "weitergehen",
+  "ar": "يكمل ماشي",
+  "pos": "verb"
+ },
+ {
+  "de": "weitermachen",
+  "ar": "يكمل شغل",
+  "pos": "verb"
+ },
+ {
+  "de": "zurückkommen",
+  "ar": "يرجع",
+  "pos": "verb"
+ },
+ {
+  "de": "zurückkehren",
+  "ar": "يرجع",
+  "pos": "verb"
+ },
+ {
+  "de": "ankommen",
+  "ar": "يوصل",
+  "pos": "verb"
+ },
+ {
+  "de": "abfahren",
+  "ar": "يمشي (مواصلات)",
+  "pos": "verb"
+ },
+ {
+  "de": "abfliegen",
+  "ar": "يقلع (طيارة)",
+  "pos": "verb"
+ },
+ {
+  "de": "landen",
+  "ar": "يهبط",
+  "pos": "verb"
+ },
+ {
+  "de": "starten",
+  "ar": "يبدأ / يقلع",
+  "pos": "verb"
+ },
+ {
+  "de": "einsteigen",
+  "ar": "يركب",
+  "pos": "verb"
+ },
+ {
+  "de": "aussteigen",
+  "ar": "ينزل (مواصلات)",
+  "pos": "verb"
+ },
+ {
+  "de": "umsteigen",
+  "ar": "يحول (مواصلات)",
+  "pos": "verb"
+ },
+ {
+  "de": "verspäten",
+  "ar": "يتأخر",
+  "pos": "verb"
+ },
+ {
+  "de": "beeilen",
+  "ar": "يستعجل",
+  "pos": "verb"
+ },
+ {
+  "de": "hetzen",
+  "ar": "يجري مستعجل",
+  "pos": "verb"
+ },
+ {
+  "de": "eilen",
+  "ar": "يستعجل",
+  "pos": "verb"
+ },
+ {
+  "de": "abholen",
+  "ar": "ياخد / يروح يجيب",
+  "pos": "verb"
+ },
+ {
+  "de": "mitnehmen",
+  "ar": "ياخد معاه",
+  "pos": "verb"
+ },
+ {
+  "de": "mitbringen",
+  "ar": "يجيب معاه",
+  "pos": "verb"
+ },
+ {
+  "de": "mitkommen",
+  "ar": "ييجي معاه",
+  "pos": "verb"
+ },
+ {
+  "de": "weggehen",
+  "ar": "يمشي",
+  "pos": "verb"
+ },
+ {
+  "de": "weglaufen",
+  "ar": "يهرب جري",
+  "pos": "verb"
+ },
+ {
+  "de": "zurückgeben",
+  "ar": "يرجع / يرد",
+  "pos": "verb"
+ },
+ {
+  "de": "zurückzahlen",
+  "ar": "يرد فلوس",
+  "pos": "verb"
+ },
+ {
+  "de": "umtauschen",
+  "ar": "يستبدل",
+  "pos": "verb"
+ },
+ {
+  "de": "reklamieren",
+  "ar": "يشتكي (منتج)",
+  "pos": "verb"
+ },
+ {
+  "de": "garantieren",
+  "ar": "يضمن",
+  "pos": "verb"
+ },
+ {
+  "de": "versichern",
+  "ar": "يأمن / يؤكد",
+  "pos": "verb"
+ },
+ {
+  "de": "borgen",
+  "ar": "يستلف",
+  "pos": "verb"
+ },
+ {
+  "de": "mieten",
+  "ar": "يأجر",
+  "pos": "verb"
+ },
+ {
+  "de": "vermieten",
+  "ar": "يأجر (لحد)",
+  "pos": "verb"
+ },
+ {
+  "de": "pachten",
+  "ar": "يأجر (أرض/محل)",
+  "pos": "verb"
+ },
+ {
+  "de": "einkaufen",
+  "ar": "يتسوق",
+  "pos": "verb"
+ },
+ {
+  "de": "shoppen",
+  "ar": "يتسوق",
+  "pos": "verb"
+ },
+ {
+  "de": "zahlen",
+  "ar": "يدفع",
+  "pos": "verb"
+ },
+ {
+  "de": "einnehmen",
+  "ar": "يكسب / ياخد (دوا)",
+  "pos": "verb"
+ },
+ {
+  "de": "überweisen",
+  "ar": "يحول فلوس",
+  "pos": "verb"
+ },
+ {
+  "de": "abheben",
+  "ar": "يسحب فلوس",
+  "pos": "verb"
+ },
+ {
+  "de": "einzahlen",
+  "ar": "يديع فلوس",
+  "pos": "verb"
+ },
+ {
+  "de": "investieren",
+  "ar": "يستثمر",
+  "pos": "verb"
+ },
+ {
+  "de": "sinken",
+  "ar": "يقل / ينزل",
+  "pos": "verb"
+ },
+ {
+  "de": "stürzen",
+  "ar": "يقع بشدة",
+  "pos": "verb"
+ },
+ {
+  "de": "rutschen",
+  "ar": "يتزحلق",
+  "pos": "verb"
+ },
+ {
+  "de": "klettern",
+  "ar": "يتسلق",
+  "pos": "verb"
+ },
+ {
+  "de": "tauchen",
+  "ar": "يغوص",
+  "pos": "verb"
+ },
+ {
+  "de": "hüpfen",
+  "ar": "ينطنط",
+  "pos": "verb"
+ },
+ {
+  "de": "reisen",
+  "ar": "يسافر",
+  "pos": "verb"
+ },
+ {
+  "de": "segeln",
+  "ar": "يبحر بشراع",
+  "pos": "verb"
+ },
+ {
+  "de": "rudern",
+  "ar": "يقذف / يجدف",
+  "pos": "verb"
+ },
+ {
+  "de": "baden",
+  "ar": "يستحمى / يعوم",
+  "pos": "verb"
+ },
+ {
+  "de": "duschen",
+  "ar": "ياخد دوش",
+  "pos": "verb"
+ },
+ {
+  "de": "schminken",
+  "ar": "يحط ميكب",
+  "pos": "verb"
+ },
+ {
+  "de": "flicken",
+  "ar": "يرقع",
+  "pos": "verb"
+ },
+ {
+  "de": "stricken",
+  "ar": "يكروشيه / تريكو",
+  "pos": "verb"
+ },
+ {
+  "de": "weben",
+  "ar": "ينسج",
+  "pos": "verb"
+ },
+ {
+  "de": "reißen",
+  "ar": "يشرط / يقطع",
+  "pos": "verb"
+ },
+ {
+  "de": "befestigen",
+  "ar": "يثبت",
+  "pos": "verb"
+ },
+ {
+  "de": "montieren",
+  "ar": "يركب",
+  "pos": "verb"
+ },
+ {
+  "de": "demontieren",
+  "ar": "يفك",
+  "pos": "verb"
+ },
+ {
+  "de": "abbrachen",
+  "ar": "يهدم",
+  "pos": "verb"
+ },
+ {
+  "de": "renovieren",
+  "ar": "يجدد / يرمم",
+  "pos": "verb"
+ },
+ {
+  "de": "streichen",
+  "ar": "يدهن",
+  "pos": "verb"
+ },
+ {
+  "de": "tapezieren",
+  "ar": "يحط ورق حائط",
+  "pos": "verb"
+ },
+ {
+  "de": "bohren",
+  "ar": "يخرتم / يحفر",
+  "pos": "verb"
+ },
+ {
+  "de": "sägen",
+  "ar": "ينشر",
+  "pos": "verb"
+ },
+ {
+  "de": "hämmern",
+  "ar": "يدق بالمطرقة",
+  "pos": "verb"
+ },
+ {
+  "de": "schrauben",
+  "ar": "يربط بالمصمر",
+  "pos": "verb"
+ },
+ {
+  "de": "nageln",
+  "ar": "يدق مسامير",
+  "pos": "verb"
+ },
+ {
+  "de": "leeren",
+  "ar": "يفضي",
+  "pos": "verb"
+ },
+ {
+  "de": "schütten",
+  "ar": "يصب / يرمي (سائب)",
+  "pos": "verb"
+ },
+ {
+  "de": "kneten",
+  "ar": "يعجن",
+  "pos": "verb"
+ },
+ {
+  "de": "rollen",
+  "ar": "يفرد / يلف",
+  "pos": "verb"
+ },
+ {
+  "de": "hacken",
+  "ar": "يفرم / يخترق",
+  "pos": "verb"
+ },
+ {
+  "de": "würfeln",
+  "ar": "يقطع مكعبات / يرمي زهر",
+  "pos": "verb"
+ },
+ {
+  "de": "reiben",
+  "ar": "يبشر / يحك",
+  "pos": "verb"
+ },
+ {
+  "de": "pressen",
+  "ar": "يعصر / يكبس",
+  "pos": "verb"
+ },
+ {
+  "de": "quetschen",
+  "ar": "يعصر / يدعك",
+  "pos": "verb"
+ },
+ {
+  "de": "dünsten",
+  "ar": "يسلق على البخار",
+  "pos": "verb"
+ },
+ {
+  "de": "grillen",
+  "ar": "يشوي",
+  "pos": "verb"
+ },
+ {
+  "de": "rösten",
+  "ar": "يحمص",
+  "pos": "verb"
+ },
+ {
+  "de": "schmoren",
+  "ar": "يطبخ على نار هادية",
+  "pos": "verb"
+ },
+ {
+  "de": "salzen",
+  "ar": "يحط ملح",
+  "pos": "verb"
+ },
+ {
+  "de": "süßen",
+  "ar": "يحلّي",
+  "pos": "verb"
+ },
+ {
+  "de": "hören",
+  "ar": "يسمع",
+  "pos": "verb"
+ },
+ {
+  "de": "zuhören",
+  "ar": "يسمع بتركيز",
+  "pos": "verb"
+ },
+ {
+  "de": "hinhören",
+  "ar": "يصوّت ودنه",
+  "pos": "verb"
+ },
+ {
+  "de": "lauschen",
+  "ar": "يسترق السمع",
+  "pos": "verb"
+ },
+ {
+  "de": "horchen",
+  "ar": "يستمع بتركيز",
+  "pos": "verb"
+ },
+ {
+  "de": "ansehen",
+  "ar": "يتفرج على",
+  "pos": "verb"
+ },
+ {
+  "de": "anschauen",
+  "ar": "يبص على",
+  "pos": "verb"
+ },
+ {
+  "de": "angucken",
+  "ar": "يبص على",
+  "pos": "verb"
+ },
+ {
+  "de": "starren",
+  "ar": "يحدق",
+  "pos": "verb"
+ },
+ {
+  "de": "gaffen",
+  "ar": "يتحدق بفم مفتوح",
+  "pos": "verb"
+ },
+ {
+  "de": "spähen",
+  "ar": "يتجسس / يبص بخفية",
+  "pos": "verb"
+ },
+ {
+  "de": "vorlesen",
+  "ar": "يقرا بصوت عالي",
+  "pos": "verb"
+ },
+ {
+  "de": "durchlesen",
+  "ar": "يقرا كله",
+  "pos": "verb"
+ },
+ {
+  "de": "abschreiben",
+  "ar": "ينقل / ينسخ",
+  "pos": "verb"
+ },
+ {
+  "de": "notieren",
+  "ar": "يسجل / يدون",
+  "pos": "verb"
+ },
+ {
+  "de": "aufzeichnen",
+  "ar": "يسجل / يدون",
+  "pos": "verb"
+ },
+ {
+  "de": "aufnehmen",
+  "ar": "يسجل / ياخد",
+  "pos": "verb"
+ },
+ {
+  "de": "filmen",
+  "ar": "يصور فيديو",
+  "pos": "verb"
+ },
+ {
+  "de": "fotografieren",
+  "ar": "يصور",
+  "pos": "verb"
+ },
+ {
+  "de": "zeichnen",
+  "ar": "يرسم (بقلم)",
+  "pos": "verb"
+ },
+ {
+  "de": "skizzieren",
+  "ar": "يرسم اسكتش",
+  "pos": "verb"
+ },
+ {
+  "de": "basteln",
+  "ar": "يعمل حاجة بإيده",
+  "pos": "verb"
+ },
+ {
+  "de": "werken",
+  "ar": "يشتغل صنايعي",
+  "pos": "verb"
+ },
+ {
+  "de": "spielen",
+  "ar": "يلعب",
+  "pos": "verb"
+ },
+ {
+  "de": "kämpfen",
+  "ar": "يحارب / يكافح",
+  "pos": "verb"
+ },
+ {
+  "de": "siegen",
+  "ar": "ينتصر",
+  "pos": "verb"
+ },
+ {
+  "de": "unterliegen",
+  "ar": "ينهزم",
+  "pos": "verb"
+ },
+ {
+  "de": "jubeln",
+  "ar": "يهلل فرحا",
+  "pos": "verb"
+ },
+ {
+  "de": "klatschen",
+  "ar": "يصفق",
+  "pos": "verb"
+ },
+ {
+  "de": "pfeifen",
+  "ar": "يصفر",
+  "pos": "verb"
+ },
+ {
+  "de": "summen",
+  "ar": "يدمدم",
+  "pos": "verb"
+ },
+ {
+  "de": "auswendig",
+  "ar": "عن ظهر قلب",
+  "pos": "adv"
+ },
+ {
+  "de": "dauernd",
+  "ar": "طول الوقت",
+  "pos": "adv"
+ },
+ {
+  "de": "immerzu",
+  "ar": "طول الوقت",
+  "pos": "adv"
+ },
+ {
+  "de": "soeben",
+  "ar": "من ثانية",
+  "pos": "adv"
+ },
+ {
+  "de": "eben",
+  "ar": "دلوقتي حالا / بس",
+  "pos": "adv"
+ },
+ {
+  "de": "gleich",
+  "ar": "حالا / نفس",
+  "pos": "adv"
+ },
+ {
+  "de": "später",
+  "ar": "بعدين",
+  "pos": "adv"
+ },
+ {
+  "de": "früher",
+  "ar": "زمان / بدري",
+  "pos": "adv"
+ },
+ {
+  "de": "kürzlich",
+  "ar": "مؤخرا",
+  "pos": "adv"
+ },
+ {
+  "de": "längst",
+  "ar": "بقاله كتير",
+  "pos": "adv"
+ },
+ {
+  "de": "inzwischen",
+  "ar": "في نفس الوقت / دلوقتي",
+  "pos": "adv"
+ },
+ {
+  "de": "mittlerweile",
+  "ar": "بقى / دلوقتي بقى",
+  "pos": "adv"
+ },
+ {
+  "de": "unterdessen",
+  "ar": "في نفس الوقت",
+  "pos": "adv"
+ },
+ {
+  "de": "währenddessen",
+  "ar": "في نفس الوقت",
+  "pos": "adv"
+ },
+ {
+  "de": "zeitweise",
+  "ar": "أحيانا / فترات",
+  "pos": "adv"
+ },
+ {
+  "de": "abends",
+  "ar": "بالليل",
+  "pos": "adv"
+ },
+ {
+  "de": "morgens",
+  "ar": "الصبح",
+  "pos": "adv"
+ },
+ {
+  "de": "mittags",
+  "ar": "الضهر",
+  "pos": "adv"
+ },
+ {
+  "de": "nachmittags",
+  "ar": "بعد الضهر",
+  "pos": "adv"
+ },
+ {
+  "de": "nachts",
+  "ar": "بالليل",
+  "pos": "adv"
+ },
+ {
+  "de": "vormittags",
+  "ar": "قبل الضهر",
+  "pos": "adv"
+ },
+ {
+  "de": "werktags",
+  "ar": "أيام الشغل",
+  "pos": "adv"
+ },
+ {
+  "de": "sonntags",
+  "ar": "أيام الحد",
+  "pos": "adv"
+ },
+ {
+  "de": "montags",
+  "ar": "أيام الاتنين",
+  "pos": "adv"
+ },
+ {
+  "de": "stündlich",
+  "ar": "كل ساعة",
+  "pos": "adv"
+ },
+ {
+  "de": "minütlich",
+  "ar": "كل دقيقة",
+  "pos": "adv"
+ },
+ {
+  "de": "sekündlich",
+  "ar": "كل ثانية",
+  "pos": "adv"
+ }
+]
