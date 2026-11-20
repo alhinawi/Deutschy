@@ -1,0 +1,1012 @@
+[
+ {
+  "de": "anbauen",
+  "ar": "يزرع / يبني",
+  "pos": "verb"
+ },
+ {
+  "de": "aneignen",
+  "ar": "يكتسب / يتعلم",
+  "pos": "verb"
+ },
+ {
+  "de": "anerkennen",
+  "ar": "يعترف بـ",
+  "pos": "verb"
+ },
+ {
+  "de": "anfallen",
+  "ar": "يتراكم / يستحق",
+  "pos": "verb"
+ },
+ {
+  "de": "anfreunden",
+  "ar": "يتصادق مع",
+  "pos": "verb"
+ },
+ {
+  "de": "anfällig",
+  "ar": "معرض لـ",
+  "pos": "adj"
+ },
+ {
+  "de": "anfühlen",
+  "ar": "يحس بـ",
+  "pos": "verb"
+ },
+ {
+  "de": "anfertigen",
+  "ar": "يجهز / يعمل",
+  "pos": "verb"
+ },
+ {
+  "de": "anfragen",
+  "ar": "يستفسر",
+  "pos": "verb"
+ },
+ {
+  "de": "anheizen",
+  "ar": "يسخن / يشعل",
+  "pos": "verb"
+ },
+ {
+  "de": "anhäufen",
+  "ar": "يكدس",
+  "pos": "verb"
+ },
+ {
+  "de": "anlegen",
+  "ar": "يستثمر / يعمل",
+  "pos": "verb"
+ },
+ {
+  "de": "anmieten",
+  "ar": "يأجر",
+  "pos": "verb"
+ },
+ {
+  "de": "anreisen",
+  "ar": "يسافر / يوصل",
+  "pos": "verb"
+ },
+ {
+  "de": "anrichten",
+  "ar": "يعمل (ضرر)",
+  "pos": "verb"
+ },
+ {
+  "de": "ansagen",
+  "ar": "يعلن",
+  "pos": "verb"
+ },
+ {
+  "de": "ansammeln",
+  "ar": "يجمع",
+  "pos": "verb"
+ },
+ {
+  "de": "anschreiben",
+  "ar": "يكتب لـ / يسجل عليه",
+  "pos": "verb"
+ },
+ {
+  "de": "anschreien",
+  "ar": "يزعق فيه",
+  "pos": "verb"
+ },
+ {
+  "de": "ansetzen",
+  "ar": "يحدد / يبدأ",
+  "pos": "verb"
+ },
+ {
+  "de": "anstrengen",
+  "ar": "يجهد",
+  "pos": "verb"
+ },
+ {
+  "de": "antreffen",
+  "ar": "يلاقي",
+  "pos": "verb"
+ },
+ {
+  "de": "anwenden",
+  "ar": "يطبق / يستخدم",
+  "pos": "verb"
+ },
+ {
+  "de": "animieren",
+  "ar": "يحفز",
+  "pos": "verb"
+ },
+ {
+  "de": "anklopfen",
+  "ar": "يخبط",
+  "pos": "verb"
+ },
+ {
+  "de": "anlocken",
+  "ar": "يغرى / يجذب",
+  "pos": "verb"
+ },
+ {
+  "de": "anrücken",
+  "ar": "يتقدم / يقرب",
+  "pos": "verb"
+ },
+ {
+  "de": "ansatzweise",
+  "ar": "جزئيا",
+  "pos": "adv"
+ },
+ {
+  "de": "anschaulich",
+  "ar": "ملموس / واضح",
+  "pos": "adj"
+ },
+ {
+  "de": "anstecken",
+  "ar": "يعدي / يشعل",
+  "pos": "verb"
+ },
+ {
+  "de": "anstreben",
+  "ar": "يسعى لـ",
+  "pos": "verb"
+ },
+ {
+  "de": "anständig",
+  "ar": "محترم",
+  "pos": "adj"
+ },
+ {
+  "de": "ansässig",
+  "ar": "مقيم / مستقر",
+  "pos": "adj"
+ },
+ {
+  "de": "antibakteriell",
+  "ar": "مضاد للبكتيريا",
+  "pos": "adj"
+ },
+ {
+  "de": "antik",
+  "ar": "عتيق",
+  "pos": "adj"
+ },
+ {
+  "de": "aquatisch",
+  "ar": "مائي",
+  "pos": "adj"
+ },
+ {
+  "de": "arbeitslos",
+  "ar": "عاطل",
+  "pos": "adj"
+ },
+ {
+  "de": "architektonisch",
+  "ar": "معماري",
+  "pos": "adj"
+ },
+ {
+  "de": "archäologisch",
+  "ar": "أثري",
+  "pos": "adj"
+ },
+ {
+  "de": "atemberaubend",
+  "ar": "يخطف النفس",
+  "pos": "adj"
+ },
+ {
+  "de": "atomar",
+  "ar": "ذري",
+  "pos": "adj"
+ },
+ {
+  "de": "attestieren",
+  "ar": "يؤكد / يشهد",
+  "pos": "verb"
+ },
+ {
+  "de": "audiovisuell",
+  "ar": "سمعي بصري",
+  "pos": "adj"
+ },
+ {
+  "de": "aufbewahren",
+  "ar": "يحتفظ بـ",
+  "pos": "verb"
+ },
+ {
+  "de": "aufbringen",
+  "ar": "يجمع (فلوس) / يتحمل",
+  "pos": "verb"
+ },
+ {
+  "de": "auferlegen",
+  "ar": "يفرض",
+  "pos": "verb"
+ },
+ {
+  "de": "auferstehen",
+  "ar": "يقوم من الأموات",
+  "pos": "verb"
+ },
+ {
+  "de": "auffallend",
+  "ar": "ملحوظ",
+  "pos": "adj"
+ },
+ {
+  "de": "auffindbar",
+  "ar": "قابل للعثور عليه",
+  "pos": "adj"
+ },
+ {
+  "de": "aufführen",
+  "ar": "يعرض (مسرحية) / يسرد",
+  "pos": "verb"
+ },
+ {
+  "de": "aufbrechen",
+  "ar": "ينطلق / يفتح بالعافية",
+  "pos": "verb"
+ },
+ {
+  "de": "auffangen",
+  "ar": "يلتقط / يستوعب",
+  "pos": "verb"
+ },
+ {
+  "de": "aufgreifen",
+  "ar": "يتناول (موضوع)",
+  "pos": "verb"
+ },
+ {
+  "de": "auflisten",
+  "ar": "يسرد",
+  "pos": "verb"
+ },
+ {
+  "de": "aufmachen",
+  "ar": "يفتح / ينطلق",
+  "pos": "verb"
+ },
+ {
+  "de": "auftragen",
+  "ar": "يدهن / يكلف",
+  "pos": "verb"
+ },
+ {
+  "de": "aufweichen",
+  "ar": "يطري / يخفف",
+  "pos": "verb"
+ },
+ {
+  "de": "aufwenden",
+  "ar": "يبذل",
+  "pos": "verb"
+ },
+ {
+  "de": "aufzeigen",
+  "ar": "يوضح",
+  "pos": "verb"
+ },
+ {
+  "de": "aufleben",
+  "ar": "ينتعش تاني",
+  "pos": "verb"
+ },
+ {
+  "de": "aufrechterhalten",
+  "ar": "يحافظ على",
+  "pos": "verb"
+ },
+ {
+  "de": "aufrollen",
+  "ar": "يفرد / يفتح قضية",
+  "pos": "verb"
+ },
+ {
+  "de": "aufschieben",
+  "ar": "يؤجل",
+  "pos": "verb"
+ },
+ {
+  "de": "aufschlagen",
+  "ar": "يفتح (كتاب) / يضرب",
+  "pos": "verb"
+ },
+ {
+  "de": "aufschlussreich",
+  "ar": "كاشف / مفيد",
+  "pos": "adj"
+ },
+ {
+  "de": "aufstrebend",
+  "ar": "صاعد",
+  "pos": "adj"
+ },
+ {
+  "de": "aufwärts",
+  "ar": "لأعلى",
+  "pos": "adv"
+ },
+ {
+  "de": "ausdehnen",
+  "ar": "يمدد",
+  "pos": "verb"
+ },
+ {
+  "de": "ausdrücken",
+  "ar": "يعبر",
+  "pos": "verb"
+ },
+ {
+  "de": "auseinandersetzen",
+  "ar": "يتعامل مع / يتناقش في",
+  "pos": "verb"
+ },
+ {
+  "de": "ausfindig",
+  "ar": "يكتشف (ausfindig machen)",
+  "pos": "adj"
+ },
+ {
+  "de": "ausbleiben",
+  "ar": "يتخلف",
+  "pos": "verb"
+ },
+ {
+  "de": "ausbreiten",
+  "ar": "ينتشر",
+  "pos": "verb"
+ },
+ {
+  "de": "ausgeglichen",
+  "ar": "متوازن",
+  "pos": "adj"
+ },
+ {
+  "de": "ausgeklügelt",
+  "ar": "محكم / معقد",
+  "pos": "adj"
+ },
+ {
+  "de": "auslosen",
+  "ar": "يقرع",
+  "pos": "verb"
+ },
+ {
+  "de": "auslöschen",
+  "ar": "يطفي / يمحي",
+  "pos": "verb"
+ },
+ {
+  "de": "ausnutzen",
+  "ar": "يستغل",
+  "pos": "verb"
+ },
+ {
+  "de": "ausgeprägt",
+  "ar": "واضح / قوي",
+  "pos": "adj"
+ },
+ {
+  "de": "ausrauben",
+  "ar": "يسرق",
+  "pos": "verb"
+ },
+ {
+  "de": "ausschlagen",
+  "ar": "يرفض / يضرب",
+  "pos": "verb"
+ },
+ {
+  "de": "ausschreiben",
+  "ar": "يعلن عن مناقصة",
+  "pos": "verb"
+ },
+ {
+  "de": "ausschütten",
+  "ar": "يوزع / يسكب",
+  "pos": "verb"
+ },
+ {
+  "de": "ausgewogen",
+  "ar": "متوازن",
+  "pos": "adj"
+ },
+ {
+  "de": "auswählen",
+  "ar": "يختار",
+  "pos": "verb"
+ },
+ {
+  "de": "auszahlen",
+  "ar": "يدفع / يستاهل",
+  "pos": "verb"
+ },
+ {
+  "de": "ausgiebig",
+  "ar": "وافر",
+  "pos": "adj"
+ },
+ {
+  "de": "aushalten",
+  "ar": "يستحمل",
+  "pos": "verb"
+ },
+ {
+  "de": "aushebeln",
+  "ar": "يعطل / يتخطى",
+  "pos": "verb"
+ },
+ {
+  "de": "aushelfen",
+  "ar": "يساعد مؤقتا",
+  "pos": "verb"
+ },
+ {
+  "de": "ausreisen",
+  "ar": "يسافر بره",
+  "pos": "verb"
+ },
+ {
+  "de": "aussagekräftig",
+  "ar": "ذو دلالة",
+  "pos": "adj"
+ },
+ {
+  "de": "aussagen",
+  "ar": "يشهد / يقول",
+  "pos": "verb"
+ },
+ {
+  "de": "aussitzen",
+  "ar": "يتجاوزها بالقعدة",
+  "pos": "verb"
+ },
+ {
+  "de": "ausspielen",
+  "ar": "يلعبها / يستغل",
+  "pos": "verb"
+ },
+ {
+  "de": "ausleihen",
+  "ar": "يعير",
+  "pos": "verb"
+ },
+ {
+  "de": "autofrei",
+  "ar": "خالي من العربيات",
+  "pos": "adj"
+ },
+ {
+  "de": "autokratisch",
+  "ar": "استبدادي",
+  "pos": "adj"
+ },
+ {
+  "de": "automatisieren",
+  "ar": "يؤتمت",
+  "pos": "verb"
+ },
+ {
+  "de": "außenpolitisch",
+  "ar": "خاص بالسياسة الخارجية",
+  "pos": "adj"
+ },
+ {
+  "de": "außergerichtlich",
+  "ar": "خارج المحكمة",
+  "pos": "adj"
+ },
+ {
+  "de": "avancieren",
+  "ar": "يتحول لـ",
+  "pos": "verb"
+ },
+ {
+  "de": "bahnbrechend",
+  "ar": "رائد / ثوري",
+  "pos": "adj"
+ },
+ {
+  "de": "ballistisch",
+  "ar": "باليستي",
+  "pos": "adj"
+ },
+ {
+  "de": "barfuß",
+  "ar": "حافي",
+  "pos": "adj"
+ },
+ {
+  "de": "beabsichtigen",
+  "ar": "ينوي",
+  "pos": "verb"
+ },
+ {
+  "de": "beanspruchen",
+  "ar": "يطالب بـ / يستنزف",
+  "pos": "verb"
+ },
+ {
+  "de": "beauftragen",
+  "ar": "يكلف",
+  "pos": "verb"
+ },
+ {
+  "de": "bedarfsgerecht",
+  "ar": "حسب الحاجة",
+  "pos": "adj"
+ },
+ {
+  "de": "bedauerlich",
+  "ar": "مؤسف",
+  "pos": "adj"
+ },
+ {
+  "de": "bedenken",
+  "ar": "يأخذ في الاعتبار",
+  "pos": "verb"
+ },
+ {
+  "de": "bedingungslos",
+  "ar": "بلا شروط",
+  "pos": "adj"
+ },
+ {
+  "de": "bedrückend",
+  "ar": "محبط",
+  "pos": "adj"
+ },
+ {
+  "de": "bedürfen",
+  "ar": "يحتاج",
+  "pos": "verb"
+ },
+ {
+  "de": "bedürftig",
+  "ar": "محتاج",
+  "pos": "adj"
+ },
+ {
+  "de": "befeuern",
+  "ar": "يغذي / يصعد",
+  "pos": "verb"
+ },
+ {
+  "de": "befinden",
+  "ar": "يقرر / يوجد",
+  "pos": "verb"
+ },
+ {
+  "de": "befremdlich",
+  "ar": "غريب / مستفز",
+  "pos": "adj"
+ },
+ {
+  "de": "befriedigen",
+  "ar": "يرضي",
+  "pos": "verb"
+ },
+ {
+  "de": "begabt",
+  "ar": "موهوب",
+  "pos": "adj"
+ },
+ {
+  "de": "begleichen",
+  "ar": "يسدد",
+  "pos": "verb"
+ },
+ {
+  "de": "begnadigen",
+  "ar": "يعفو عن",
+  "pos": "verb"
+ },
+ {
+  "de": "begnügen",
+  "ar": "يكتفي بـ",
+  "pos": "verb"
+ },
+ {
+  "de": "begreifen",
+  "ar": "يفهم",
+  "pos": "verb"
+ },
+ {
+  "de": "begünstigen",
+  "ar": "يفضل / يساعد",
+  "pos": "verb"
+ },
+ {
+  "de": "behindern",
+  "ar": "يعيق",
+  "pos": "verb"
+ },
+ {
+  "de": "behäbig",
+  "ar": "تقيل / بدين",
+  "pos": "adj"
+ },
+ {
+  "de": "behördlich",
+  "ar": "رسمي",
+  "pos": "adj"
+ },
+ {
+  "de": "beiderseits",
+  "ar": "من الجانبين",
+  "pos": "adv"
+ },
+ {
+  "de": "beinhalten",
+  "ar": "يتضمن",
+  "pos": "verb"
+ },
+ {
+  "de": "beispiellos",
+  "ar": "لا مثيل له",
+  "pos": "adj"
+ },
+ {
+  "de": "beitreten",
+  "ar": "ينضم لـ",
+  "pos": "verb"
+ },
+ {
+  "de": "bekleiden",
+  "ar": "يشغل (منصب)",
+  "pos": "verb"
+ },
+ {
+  "de": "bekunden",
+  "ar": "يعلن / يعبر عن",
+  "pos": "verb"
+ },
+ {
+  "de": "beladen",
+  "ar": "يحمل",
+  "pos": "verb"
+ },
+ {
+  "de": "belagern",
+  "ar": "يحاصر",
+  "pos": "verb"
+ },
+ {
+  "de": "belastend",
+  "ar": "مرهق / مدين",
+  "pos": "adj"
+ },
+ {
+  "de": "belehren",
+  "ar": "يلقن / يعلم",
+  "pos": "verb"
+ },
+ {
+  "de": "beliebig",
+  "ar": "أي / عشوائي",
+  "pos": "adj"
+ },
+ {
+  "de": "benachteiligen",
+  "ar": "يظلم / يضطهد",
+  "pos": "verb"
+ },
+ {
+  "de": "bepflanzen",
+  "ar": "يزرع",
+  "pos": "verb"
+ },
+ {
+  "de": "berappen",
+  "ar": "يدفع غصب عنه",
+  "pos": "verb"
+ },
+ {
+  "de": "bereinigen",
+  "ar": "يصفي / يحسم",
+  "pos": "verb"
+ },
+ {
+  "de": "bereitstehen",
+  "ar": "يكون متاح",
+  "pos": "verb"
+ },
+ {
+  "de": "berüchtigt",
+  "ar": "سيئ السمعة",
+  "pos": "adj"
+ },
+ {
+  "de": "beschmieren",
+  "ar": "يلطخ",
+  "pos": "verb"
+ },
+ {
+  "de": "beschießen",
+  "ar": "يقصف",
+  "pos": "verb"
+ },
+ {
+  "de": "beschreiten",
+  "ar": "يسلك (طريق)",
+  "pos": "verb"
+ },
+ {
+  "de": "beschuldigen",
+  "ar": "يتهم",
+  "pos": "verb"
+ },
+ {
+  "de": "beschämend",
+  "ar": "مخزي",
+  "pos": "adj"
+ },
+ {
+  "de": "beseelt",
+  "ar": "مفعم / متحمس",
+  "pos": "adj"
+ },
+ {
+  "de": "besinnlich",
+  "ar": "هادئ / روحاني",
+  "pos": "adj"
+ },
+ {
+  "de": "bestatten",
+  "ar": "يدفن",
+  "pos": "verb"
+ },
+ {
+  "de": "bestaunen",
+  "ar": "يتعجب من",
+  "pos": "verb"
+ },
+ {
+  "de": "besteigen",
+  "ar": "يتسلق",
+  "pos": "verb"
+ },
+ {
+  "de": "beständig",
+  "ar": "ثابت / مستمر",
+  "pos": "adj"
+ },
+ {
+  "de": "bestärken",
+  "ar": "يؤكد / يشجع",
+  "pos": "verb"
+ },
+ {
+  "de": "bestücken",
+  "ar": "يجهز",
+  "pos": "verb"
+ },
+ {
+  "de": "bestürzt",
+  "ar": "مصدوم",
+  "pos": "adj"
+ },
+ {
+  "de": "betäuben",
+  "ar": "يخدر",
+  "pos": "verb"
+ },
+ {
+  "de": "beugen",
+  "ar": "ينحني / يخضع",
+  "pos": "verb"
+ },
+ {
+  "de": "beunruhigend",
+  "ar": "مقلق",
+  "pos": "adj"
+ },
+ {
+  "de": "bevorzugen",
+  "ar": "يفضل",
+  "pos": "verb"
+ },
+ {
+  "de": "bewässern",
+  "ar": "يسقي",
+  "pos": "verb"
+ },
+ {
+  "de": "bezichtigen",
+  "ar": "يتهم",
+  "pos": "verb"
+ },
+ {
+  "de": "biegen",
+  "ar": "يعطف",
+  "pos": "verb"
+ },
+ {
+  "de": "bilanziieren",
+  "ar": "يلخص / يحاسب",
+  "pos": "verb"
+ },
+ {
+  "de": "billigen",
+  "ar": "يوافق على",
+  "pos": "verb"
+ },
+ {
+  "de": "biologisch",
+  "ar": "بيولوجي",
+  "pos": "adj"
+ },
+ {
+  "de": "biometrisch",
+  "ar": "بيومتري",
+  "pos": "adj"
+ },
+ {
+  "de": "blank",
+  "ar": "لامع / مفلس",
+  "pos": "adj"
+ },
+ {
+  "de": "blitzen",
+  "ar": "يلمع / يومض",
+  "pos": "verb"
+ },
+ {
+  "de": "blutig",
+  "ar": "دموي",
+  "pos": "adj"
+ },
+ {
+  "de": "blättern",
+  "ar": "يقلب الصفحات",
+  "pos": "verb"
+ },
+ {
+  "de": "blühend",
+  "ar": "مزدهر",
+  "pos": "adj"
+ },
+ {
+  "de": "bombardieren",
+  "ar": "يقصف",
+  "pos": "verb"
+ },
+ {
+  "de": "boomend",
+  "ar": "مزدهر",
+  "pos": "adj"
+ },
+ {
+  "de": "brauchbar",
+  "ar": "صالح للاستخدام",
+  "pos": "adj"
+ },
+ {
+  "de": "brauen",
+  "ar": "يخمر",
+  "pos": "verb"
+ },
+ {
+  "de": "brillieren",
+  "ar": "يتألق",
+  "pos": "verb"
+ },
+ {
+  "de": "brodeln",
+  "ar": "يغلي",
+  "pos": "verb"
+ },
+ {
+  "de": "budgetieren",
+  "ar": "يخصص ميزانية",
+  "pos": "verb"
+ },
+ {
+  "de": "buhlen",
+  "ar": "يتنافس على",
+  "pos": "verb"
+ },
+ {
+  "de": "bundeseinheitlich",
+  "ar": "موحد على مستوى الاتحاد",
+  "pos": "adj"
+ },
+ {
+  "de": "bürgerlich",
+  "ar": "مدني / برجوازي",
+  "pos": "adj"
+ },
+ {
+  "de": "charismatisch",
+  "ar": "كاريزمي",
+  "pos": "adj"
+ },
+ {
+  "de": "charmant",
+  "ar": "ساحر",
+  "pos": "adj"
+ },
+ {
+  "de": "dahingehend",
+  "ar": "في هذا الصدد",
+  "pos": "adv"
+ },
+ {
+  "de": "debattieren",
+  "ar": "يتناقش",
+  "pos": "verb"
+ },
+ {
+  "de": "demonstrieren",
+  "ar": "يتظاهر / يعرض",
+  "pos": "verb"
+ },
+ {
+  "de": "denkwürdig",
+  "ar": "تاريخي / يستحق الذكر",
+  "pos": "adj"
+ },
+ {
+  "de": "deprimiert",
+  "ar": "مكتئب",
+  "pos": "adj"
+ },
+ {
+  "de": "desaströs",
+  "ar": "كارثي",
+  "pos": "adj"
+ },
+ {
+  "de": "destabilisieren",
+  "ar": "يزعزع الاستقرار",
+  "pos": "verb"
+ },
+ {
+  "de": "diagnostizieren",
+  "ar": "يشخص",
+  "pos": "verb"
+ },
+ {
+  "de": "diebisch",
+  "ar": "خبيث",
+  "pos": "adj"
+ },
+ {
+  "de": "diskriminieren",
+  "ar": "يميز ضد",
+  "pos": "verb"
+ },
+ {
+  "de": "disqualifizieren",
+  "ar": "يستبعد",
+  "pos": "verb"
+ },
+ {
+  "de": "dominant",
+  "ar": "مسيطر",
+  "pos": "adj"
+ },
+ {
+  "de": "dreierlei",
+  "ar": "تلاتة أنواع",
+  "pos": "adj"
+ },
+ {
+  "de": "dreifach",
+  "ar": "ثلاثي / تلاتة مرات",
+  "pos": "adj"
+ },
+ {
+  "de": "dreist",
+  "ar": "وقح",
+  "pos": "adj"
+ }
+]
