@@ -54,7 +54,7 @@ const addWord = (de, ar, cat, src, fallback, pos = 'noun') => {
   const genus = o.genus || c?.genus || '';
   const art = o.art || fallback?.art || ART[genus] || null;
   const pl = o.pl !== undefined ? o.pl : (c?.pl || fallback?.pl || '');
-  const pluralOnly = !!o.pluralOnly || (!art && !!pl);
+  const pluralOnly = !!o.pluralOnly || !!fallback?.pluralOnly || (!art && !!pl);
   if (!pluralOnly && !art) { issues.push('NO ARTICLE: ' + de); return; }
   out.push({ de, art: pluralOnly ? null : art, pl: pluralOnly ? '' : pl, gen: o.gen || c?.gen || '', ar, cat, pluralOnly, src, pos });
 };
@@ -65,7 +65,7 @@ for (const w of extra) addWord(w.de, w.ar, w.cat, 'extra');
 // selection source: Hermit Dave FrequencyWords de_50k (CC BY-SA 4.0, OpenSubtitles2018); meanings authored in-house
 const freqFiles = readdirSync('data').filter((f) => /^woerter-freq\d+\.json$/.test(f)).sort();
 for (const f of freqFiles) {
-  for (const w of JSON.parse(readFileSync('data/' + f, 'utf8'))) addWord(w.de, w.ar, w.cat || 'freq', f.replace('.json', ''), undefined, w.pos || 'noun');
+  for (const w of JSON.parse(readFileSync('data/' + f, 'utf8'))) addWord(w.de, w.ar, w.cat || 'freq', f.replace('.json', ''), { art: w.art, pl: w.pl, pluralOnly: w.pluralOnly }, w.pos || 'noun');
 }
 
 out.sort((a, b) => a.de.localeCompare(b.de, 'de'));
