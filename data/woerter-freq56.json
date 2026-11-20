@@ -1,0 +1,646 @@
+[
+ {
+  "de": "Ausweichmanöver",
+  "ar": "مناورة التفادي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ausweichmanöver"
+ },
+ {
+  "de": "Ausweichmöglichkeit",
+  "ar": "الخيار البديل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausweichmöglichkeiten"
+ },
+ {
+  "de": "Ausweisdokument",
+  "ar": "مستند الهوية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ausweisdokumente"
+ },
+ {
+  "de": "Ausweispapiere",
+  "ar": "أوراق الهوية",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Ausweisung",
+  "ar": "الطرد من البلد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ausweisungen"
+ },
+ {
+  "de": "Ausweisungsrecht",
+  "ar": "قانون الطرد",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Auswirken",
+  "ar": "التأثير",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Auswärtsfluch",
+  "ar": "لعنة الخارج (كورة)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Auswärtsflüche"
+ },
+ {
+  "de": "Auswärtssektor",
+  "ar": "مدرج الضيوف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Auswärtssektoren"
+ },
+ {
+  "de": "Auswuchs",
+  "ar": "التجاوز / الزائدة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Auswüchse"
+ },
+ {
+  "de": "Auszählen",
+  "ar": "العد",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Autarkiegrad",
+  "ar": "درجة الاكتفاء الذاتي",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Autismus",
+  "ar": "التوحد",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Auto-Experte",
+  "ar": "خبير العربيات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Auto-Experten"
+ },
+ {
+  "de": "Auto-Händler",
+  "ar": "تاجر العربيات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Auto-Händler"
+ },
+ {
+  "de": "Autoankauf",
+  "ar": "شراء العربيات المستعملة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Autoart",
+  "ar": "نوع العربية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Autoarten"
+ },
+ {
+  "de": "Autobahnabfahrt",
+  "ar": "خروج الأوتوبان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Autobahnabfahrten"
+ },
+ {
+  "de": "Autobahnbrücke",
+  "ar": "كوبري الأوتوبان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Autobahnbrücken"
+ },
+ {
+  "de": "Autobahndreieck",
+  "ar": "تقاطع الأوتوبان",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Autobahndreiecke"
+ },
+ {
+  "de": "Autobahnparkplatz",
+  "ar": "موقف الأوتوبان",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Autobahnparkplätze"
+ },
+ {
+  "de": "Autobahnunterführung",
+  "ar": "نفق الأوتوبان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Autobahnunterführungen"
+ },
+ {
+  "de": "Autobauer",
+  "ar": "صانع العربيات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Autobauer"
+ },
+ {
+  "de": "Autobereich",
+  "ar": "قطاع السيارات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Autobereiche"
+ },
+ {
+  "de": "Autobesitz",
+  "ar": "امتلاك العربية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Autobesitzer",
+  "ar": "مالك العربية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Autobesitzer"
+ },
+ {
+  "de": "Autofokus",
+  "ar": "التركيز التلقائي",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Autogrammwunsch",
+  "ar": "طلب الأوتوجرام",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Autogrammwünsche"
+ },
+ {
+  "de": "Autoindustrie",
+  "ar": "صناعة السيارات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Autokennzeichen",
+  "ar": "لوحة العربية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Autokennzeichen"
+ },
+ {
+  "de": "Autokrat",
+  "ar": "المستبد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Autokraten"
+ },
+ {
+  "de": "Automarke",
+  "ar": "ماركة العربية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Automarken"
+ },
+ {
+  "de": "Automatik",
+  "ar": "الأوتوماتيك",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Automatiken"
+ },
+ {
+  "de": "Automation",
+  "ar": "الأتمتة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Automatisierungsmarkt",
+  "ar": "سوق الأتمتة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Automatisierungsmärkte"
+ },
+ {
+  "de": "Automatismus",
+  "ar": "الآلية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Automatismen"
+ },
+ {
+  "de": "Autominute",
+  "ar": "دقيقة بالعربية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Autominuten"
+ },
+ {
+  "de": "Automobilclub",
+  "ar": "نادي السيارات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Automobilclubs"
+ },
+ {
+  "de": "Automobilfirma",
+  "ar": "شركة السيارات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Automobilfirmen"
+ },
+ {
+  "de": "Automobilwirtschaft",
+  "ar": "اقتصاد السيارات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Autoplay-Funktion",
+  "ar": "التشغيل التلقائي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Autoplay-Funktionen"
+ },
+ {
+  "de": "Autoproduktion",
+  "ar": "إنتاج السيارات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Autoproduktionen"
+ },
+ {
+  "de": "Autoreifen",
+  "ar": "كاوتش العربية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Autoreifen"
+ },
+ {
+  "de": "Autorenkollektiv",
+  "ar": "جماعة الكتاب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Autorenkollektive"
+ },
+ {
+  "de": "Autorennen",
+  "ar": "سباق العربيات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Autorennen"
+ },
+ {
+  "de": "Autoschauraum",
+  "ar": "معرض العربيات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Autoschauräume"
+ },
+ {
+  "de": "Autoscheinwerfer",
+  "ar": "نور العربية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Autoscheinwerfer"
+ },
+ {
+  "de": "Autoschlüssel",
+  "ar": "مفتاح العربية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Autoschlüssel"
+ },
+ {
+  "de": "Autostunde",
+  "ar": "ساعة بالعربية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Autostunden"
+ },
+ {
+  "de": "Autotransportzug",
+  "ar": "قطار نقل العربيات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Autotransportzüge"
+ },
+ {
+  "de": "Autotür",
+  "ar": "باب العربية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Autotüren"
+ },
+ {
+  "de": "Außenamtssprecher",
+  "ar": "المتحدث باسم الخارجية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Außenamtssprecher"
+ },
+ {
+  "de": "Außenangreifer",
+  "ar": "الجناح المهاجم (هاندبول)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Außenangreifer"
+ },
+ {
+  "de": "Außenanlage",
+  "ar": "المساحة الخارجية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Außenanlagen"
+ },
+ {
+  "de": "Außenarbeiten",
+  "ar": "الأعمال الخارجية",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Außenbereich",
+  "ar": "المنطقة الخارجية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Außenbereiche"
+ },
+ {
+  "de": "Außendarstellung",
+  "ar": "الصورة الخارجية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Außenfassade",
+  "ar": "الواجهة الخارجية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Außenfassaden"
+ },
+ {
+  "de": "Außenfenster",
+  "ar": "الشباك الخارجي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Außenfenster"
+ },
+ {
+  "de": "Außengastronomie",
+  "ar": "التراسات (مطاعم)",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Außengelände",
+  "ar": "المساحة الخارجية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Außengelände"
+ },
+ {
+  "de": "Außengrenze",
+  "ar": "الحدود الخارجية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Außengrenzen"
+ },
+ {
+  "de": "Außenhandel",
+  "ar": "التجارة الخارجية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Außenhandelsüberschuss",
+  "ar": "فائض التجارة الخارجية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Außenhandelsüberschüsse"
+ },
+ {
+  "de": "Außenlinie",
+  "ar": "الخط الخارجي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Außenlinien"
+ },
+ {
+  "de": "Außenluft",
+  "ar": "الهوا الخارجي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Außenministerkonferenz",
+  "ar": "مؤتمر وزراء الخارجية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Außenministerkonferenzen"
+ },
+ {
+  "de": "Außenpolitik",
+  "ar": "السياسة الخارجية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Außenring",
+  "ar": "الطريق الدائري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Außenringe"
+ },
+ {
+  "de": "Außenseite",
+  "ar": "الجهة الخارجية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Außenseiten"
+ },
+ {
+  "de": "Außenseiter",
+  "ar": "الطرف الخارجي / المرشح الضعيف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Außenseiter"
+ },
+ {
+  "de": "Außenspiegel",
+  "ar": "المراية الجانبية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Außenspiegel"
+ },
+ {
+  "de": "Außenstehende",
+  "ar": "الشخص الخارجي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Außenstehenden"
+ },
+ {
+  "de": "Außenstelle",
+  "ar": "الفرع الخارجي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Außenstellen"
+ },
+ {
+  "de": "Außenstürmer",
+  "ar": "الجناح (كورة)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Außenstürmer"
+ },
+ {
+  "de": "Außenwelt",
+  "ar": "العالم الخارجي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Außerirdische",
+  "ar": "الكائن الفضائي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Außerirdischen"
+ },
+ {
+  "de": "Avancen",
+  "ar": "التحركات الغرامية",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Avatar",
+  "ar": "الأفاتار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Avatare"
+ },
+ {
+  "de": "Aversion",
+  "ar": "النفور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Aversionen"
+ },
+ {
+  "de": "Ayurveda",
+  "ar": "الأيورفيدا",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Azubi",
+  "ar": "المتدرب المهني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Azubis"
+ },
+ {
+  "de": "B-Lizenz",
+  "ar": "رخصة B (تدريب)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "B-Lizenzen"
+ },
+ {
+  "de": "B-Plan",
+  "ar": "مخطط البناء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "B-Pläne"
+ },
+ {
+  "de": "B-Team",
+  "ar": "الفريق التاني",
+  "pos": "noun",
+  "art": "das",
+  "pl": "B-Teams"
+ },
+ {
+  "de": "B-Zelle",
+  "ar": "خلية B",
+  "pos": "noun",
+  "art": "die",
+  "pl": "B-Zellen"
+ },
+ {
+  "de": "Baby-Pause",
+  "ar": "إجازة الأمومة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Baby-Pausen"
+ },
+ {
+  "de": "Babybauch",
+  "ar": "بطن الحمل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Babybäuche"
+ },
+ {
+  "de": "Babybett",
+  "ar": "سرير البيبي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Babybetten"
+ },
+ {
+  "de": "Babyboom",
+  "ar": "طفرة المواليد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Babybooms"
+ },
+ {
+  "de": "Bachbett",
+  "ar": "مجرى الجدول",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bachbetten"
+ },
+ {
+  "de": "Bachelor",
+  "ar": "البكالوريوس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bachelors"
+ },
+ {
+  "de": "Backblech",
+  "ar": "صاج الفرن",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Backbleche"
+ },
+ {
+  "de": "Backe",
+  "ar": "الخد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Backen"
+ },
+ {
+  "de": "Backfiliale",
+  "ar": "فرع المخبز",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Backfilialen"
+ }
+]
