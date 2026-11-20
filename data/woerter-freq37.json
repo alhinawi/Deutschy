@@ -1,0 +1,1272 @@
+[
+ {
+  "de": "Geschworene",
+  "ar": "المحلف (المحكمة)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Geschworenen"
+ },
+ {
+  "de": "Geschädigte",
+  "ar": "المتضرر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Geschädigten"
+ },
+ {
+  "de": "Geschäftsidee",
+  "ar": "فكرة المشروع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Geschäftsideen"
+ },
+ {
+  "de": "Geschäftspartner",
+  "ar": "شريك العمل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Geschäftspartner"
+ },
+ {
+  "de": "Geschäftsunterlage",
+  "ar": "مستند الشغل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Geschäftsunterlagen"
+ },
+ {
+  "de": "Gesellschaftsschicht",
+  "ar": "الطبقة الاجتماعية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gesellschaftsschichten"
+ },
+ {
+  "de": "Gesetzbuch",
+  "ar": "القانون المدون",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gesetzbücher"
+ },
+ {
+  "de": "Gesetzentwurf",
+  "ar": "مشروع القانون",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gesetzentwürfe"
+ },
+ {
+  "de": "Gesetzgeber",
+  "ar": "المشرع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gesetzgeber"
+ },
+ {
+  "de": "Gesetzgebung",
+  "ar": "التشريع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gesetzgebungen"
+ },
+ {
+  "de": "Gesprächsstoff",
+  "ar": "موضوع الكلام",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Gesundheitsbereich",
+  "ar": "القطاع الصحي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gesundheitsbereiche"
+ },
+ {
+  "de": "Gesundheitspolitik",
+  "ar": "السياسة الصحية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gewaltdelikt",
+  "ar": "جريمة العنف",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gewaltdelikte"
+ },
+ {
+  "de": "Gewaltverbrechen",
+  "ar": "جريمة العنف",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gewaltverbrechen"
+ },
+ {
+  "de": "Gewerbefläche",
+  "ar": "المساحة التجارية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gewerbeflächen"
+ },
+ {
+  "de": "Gewerbesteuer",
+  "ar": "ضريبة المهنة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gewerk",
+  "ar": "الحرفة / التخصص",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gewerke"
+ },
+ {
+  "de": "Gewichtsklasse",
+  "ar": "فئة الوزن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gewichtsklassen"
+ },
+ {
+  "de": "Gewichtsverlust",
+  "ar": "خسارة الوزن",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gewichtsverluste"
+ },
+ {
+  "de": "Gewinneinbruch",
+  "ar": "انهيار الأرباح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gewinneinbrüche"
+ },
+ {
+  "de": "Gewissheit",
+  "ar": "اليقين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gewissheiten"
+ },
+ {
+  "de": "Gewährleistung",
+  "ar": "الضمان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gewährleistungen"
+ },
+ {
+  "de": "Gigabyte",
+  "ar": "الجيجابايت",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gigabytes"
+ },
+ {
+  "de": "Gigawatt",
+  "ar": "الجيجاواط",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gigawatt"
+ },
+ {
+  "de": "Gilde",
+  "ar": "النقابة / الطائفة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gilden"
+ },
+ {
+  "de": "Gipfeltreffen",
+  "ar": "القمة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gipfeltreffen"
+ },
+ {
+  "de": "Gitarrist",
+  "ar": "الجيتاريست",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gitarristen"
+ },
+ {
+  "de": "Glashaus",
+  "ar": "البيت الزجاجي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Glashäuser"
+ },
+ {
+  "de": "Glaubwürdigkeit",
+  "ar": "المصداقية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gleisbett",
+  "ar": "مفرش القضبان",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gleisbetten"
+ },
+ {
+  "de": "Glutnest",
+  "ar": "بؤرة الجمر",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Glutnester"
+ },
+ {
+  "de": "Gläschen",
+  "ar": "البرطمان الصغير",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gläschen"
+ },
+ {
+  "de": "Glätte",
+  "ar": "الانزلاق الجليدي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gläubige",
+  "ar": "المؤمن",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gläubigen"
+ },
+ {
+  "de": "Glücksgefühl",
+  "ar": "شعور السعادة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Glücksgefühle"
+ },
+ {
+  "de": "Glücksrad",
+  "ar": "عجلة الحظ",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Glücksräder"
+ },
+ {
+  "de": "Glühwein",
+  "ar": "النبيت السخن بالتوابل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Glühweine"
+ },
+ {
+  "de": "Goldmedaille",
+  "ar": "الميدالية الذهبية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Goldmedaillen"
+ },
+ {
+  "de": "Gondel",
+  "ar": "كابينة التلفريك",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gondeln"
+ },
+ {
+  "de": "Gong",
+  "ar": "الجرس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gongs"
+ },
+ {
+  "de": "Gospel",
+  "ar": "موسيقى الجوسبل",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Grabstätte",
+  "ar": "المقبرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grabstätten"
+ },
+ {
+  "de": "Grabung",
+  "ar": "الحفرية الأثرية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grabungen"
+ },
+ {
+  "de": "Graffiti",
+  "ar": "الجرافيتي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Graffitis"
+ },
+ {
+  "de": "Grammatikfehler",
+  "ar": "الغلطة النحوية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Grammatikfehler"
+ },
+ {
+  "de": "Grand-Slam-Turnier",
+  "ar": "بطولة الجراند سلام",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Grand-Slam-Turniere"
+ },
+ {
+  "de": "Gratis-Geschenk",
+  "ar": "الهدية المجانية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gratis-Geschenke"
+ },
+ {
+  "de": "Gratulant",
+  "ar": "المهنئ",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gratulanten"
+ },
+ {
+  "de": "Grenznähe",
+  "ar": "القرب من الحدود",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Grenzort",
+  "ar": "بلدة الحدود",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Grenzorte"
+ },
+ {
+  "de": "Grenzwert",
+  "ar": "الحد الأقصى المسموح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Grenzwerte"
+ },
+ {
+  "de": "Grippeimpfung",
+  "ar": "تطعيم الإنفلونزا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grippeimpfungen"
+ },
+ {
+  "de": "Großauftrag",
+  "ar": "الصفقة الكبيرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Großaufträge"
+ },
+ {
+  "de": "Großbank",
+  "ar": "البنك الكبير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Großbanken"
+ },
+ {
+  "de": "Großbaustelle",
+  "ar": "الورشة الكبيرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Großbaustellen"
+ },
+ {
+  "de": "Großereignis",
+  "ar": "الحدث الكبير",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Großereignisse"
+ },
+ {
+  "de": "Großhandel",
+  "ar": "تجارة الجملة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Großinvestor",
+  "ar": "المستثمر الكبير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Großinvestoren"
+ },
+ {
+  "de": "Großkonzern",
+  "ar": "المجموعة الاقتصادية الكبيرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Großkonzerne"
+ },
+ {
+  "de": "Großoffensive",
+  "ar": "الهجوم الكبير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Großoffensiven"
+ },
+ {
+  "de": "Grundbuch",
+  "ar": "السجل العقاري",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Grundbücher"
+ },
+ {
+  "de": "Grunddurchgang",
+  "ar": "الدور الأول",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Grunddurchgänge"
+ },
+ {
+  "de": "Grundsatzprogramm",
+  "ar": "البرنامج المبدئي للحزب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Grundsatzprogramme"
+ },
+ {
+  "de": "Gruppengegner",
+  "ar": "منافس المجموعة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gruppengegner"
+ },
+ {
+  "de": "Gruppenmitglied",
+  "ar": "عضو المجموعة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gruppenmitglieder"
+ },
+ {
+  "de": "Gruppensieg",
+  "ar": "صدارة المجموعة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gruppensiege"
+ },
+ {
+  "de": "Gruppensieger",
+  "ar": "بطل المجموعة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gruppensieger"
+ },
+ {
+  "de": "Gruppenspiel",
+  "ar": "ماتش المجموعة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Gruppenspiele"
+ },
+ {
+  "de": "Gruppenvergewaltigung",
+  "ar": "الاغتصاب الجماعي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gruppenvergewaltigungen"
+ },
+ {
+  "de": "Grünfläche",
+  "ar": "المساحة الخضرا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Grünflächen"
+ },
+ {
+  "de": "Gunst",
+  "ar": "الحظوة / الميل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gutschein",
+  "ar": "القسيمة الشرائية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gutscheine"
+ },
+ {
+  "de": "Gynäkologie",
+  "ar": "طب النسا",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gänze",
+  "ar": "الكمال (zur Gänze)",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Gärtnerei",
+  "ar": "المشتل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Gärtnereien"
+ },
+ {
+  "de": "Gästetrainer",
+  "ar": "المدرب الضيف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gästetrainer"
+ },
+ {
+  "de": "Gönner",
+  "ar": "الراعي / الكفيل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Gönner"
+ },
+ {
+  "de": "Güterverkehr",
+  "ar": "نقل البضائع",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Haarausfall",
+  "ar": "تساقط الشعر",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Habe",
+  "ar": "الممتلكات (Hab und Gut)",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Hackerangriff",
+  "ar": "هجوم الهاكرز",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hackerangriffe"
+ },
+ {
+  "de": "Hack",
+  "ar": "الحيلة / التعديل الذكي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hacks"
+ },
+ {
+  "de": "Hafenbehörde",
+  "ar": "هيئة المينا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hafenbehörden"
+ },
+ {
+  "de": "Hafenstadt",
+  "ar": "مدينة المينا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hafenstädte"
+ },
+ {
+  "de": "Hagelunwetter",
+  "ar": "عاصفة البرد",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hagelunwetter"
+ },
+ {
+  "de": "Halbinsel",
+  "ar": "شبه الجزيرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Halbinseln"
+ },
+ {
+  "de": "Halluzination",
+  "ar": "الهلوسة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Halluzinationen"
+ },
+ {
+  "de": "Handballer",
+  "ar": "لاعب كرة اليد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Handballer"
+ },
+ {
+  "de": "Handballerin",
+  "ar": "لاعبة كرة اليد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Handballerinnen"
+ },
+ {
+  "de": "Handelsgruppe",
+  "ar": "المجموعة التجارية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Handelsgruppen"
+ },
+ {
+  "de": "Handelskammer",
+  "ar": "الغرفة التجارية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Handelskammern"
+ },
+ {
+  "de": "Handelskonflikt",
+  "ar": "النزاع التجاري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Handelskonflikte"
+ },
+ {
+  "de": "Handelsverband",
+  "ar": "الاتحاد التجاري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Handelsverbände"
+ },
+ {
+  "de": "Handelsvolumen",
+  "ar": "حجم التجارة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Handelsvolumen"
+ },
+ {
+  "de": "Handlungsfähigkeit",
+  "ar": "القدرة على التصرف",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Hangar",
+  "ar": "حظيرة الطيارات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hangars"
+ },
+ {
+  "de": "Haube",
+  "ar": "الكبوت / الغطاء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hauben"
+ },
+ {
+  "de": "Haudegen",
+  "ar": "المحارب القديم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Haudegen"
+ },
+ {
+  "de": "Hauptbühne",
+  "ar": "المسرح الرئيسي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hauptbühnen"
+ },
+ {
+  "de": "Hauptdarstellerin",
+  "ar": "البطلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hauptdarstellerinnen"
+ },
+ {
+  "de": "Hauptfigur",
+  "ar": "الشخصية الرئيسية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hauptfiguren"
+ },
+ {
+  "de": "Hauptgebäude",
+  "ar": "المبنى الرئيسي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hauptgebäude"
+ },
+ {
+  "de": "Hauptgeschäftsführer",
+  "ar": "المدير التنفيذي الأول",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hauptgeschäftsführer"
+ },
+ {
+  "de": "Hauptpreis",
+  "ar": "الجايزة الكبرى",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hauptpreise"
+ },
+ {
+  "de": "Hauptrennen",
+  "ar": "السباق الرئيسي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hauptrennen"
+ },
+ {
+  "de": "Hauptsitz",
+  "ar": "المقر الرئيسي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hauptsitze"
+ },
+ {
+  "de": "Hauptverhandlung",
+  "ar": "الجلسة الرئيسية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hauptverhandlungen"
+ },
+ {
+  "de": "Hausflur",
+  "ar": "طرقة البيت",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hausflure"
+ },
+ {
+  "de": "Haushaltsberatung",
+  "ar": "مناقشات الموازنة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Haushaltsberatungen"
+ },
+ {
+  "de": "Haushaltsdefizit",
+  "ar": "عجز الموازنة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Haushaltsdefizite"
+ },
+ {
+  "de": "Haushaltseinkommen",
+  "ar": "دخل الأسرة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Haushaltseinkommen"
+ },
+ {
+  "de": "Haushaltsentwurf",
+  "ar": "مشروع الموازنة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Haushaltsentwürfe"
+ },
+ {
+  "de": "Haushaltshilfe",
+  "ar": "الشغالة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Haushaltshilfen"
+ },
+ {
+  "de": "Haushaltslage",
+  "ar": "وضع الموازنة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Haushaltssperre",
+  "ar": "تجميد الموازنة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Haushaltssperren"
+ },
+ {
+  "de": "Hausnummer",
+  "ar": "رقم البيت",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hausnummern"
+ },
+ {
+  "de": "Hausverwaltung",
+  "ar": "إدارة العقار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hausverwaltungen"
+ },
+ {
+  "de": "Headline",
+  "ar": "العنوان الرئيسي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Headlines"
+ },
+ {
+  "de": "Hebamme",
+  "ar": "القابلة / الداية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hebammen"
+ },
+ {
+  "de": "Hebel",
+  "ar": "الرافعة / الذراع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hebel"
+ },
+ {
+  "de": "Hehl",
+  "ar": "السر (keinen Hehl machen)",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Heide",
+  "ar": "الأرض البور",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Heim-Europameisterschaft",
+  "ar": "اليورو على أرضه",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Heim-Europameisterschaften"
+ },
+ {
+  "de": "Heimerfolg",
+  "ar": "الفوز على أرضه",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Heimerfolge"
+ },
+ {
+  "de": "Heimrecht",
+  "ar": "حق اللعب على أرضه",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Heimreise",
+  "ar": "رحلة العودة للبيت",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Heimreisen"
+ },
+ {
+  "de": "Heimsieg",
+  "ar": "الفوز على الأرض",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Heimsiege"
+ },
+ {
+  "de": "Heizen",
+  "ar": "التدفئة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Hektik",
+  "ar": "الزنقة / العجلة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Herbstmarkt",
+  "ar": "سوق الخريف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Herbstmärkte"
+ },
+ {
+  "de": "Herbstmeister",
+  "ar": "بطل الشتا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Herbstmeister"
+ },
+ {
+  "de": "Herbstzeit",
+  "ar": "فصل الخريف",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Herzblut",
+  "ar": "الشغف",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Herzmuskelentzündung",
+  "ar": "التهاب عضلة القلب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Herzmuskelentzündungen"
+ },
+ {
+  "de": "Herzstück",
+  "ar": "الجزء الأهم / القلب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Herzstücke"
+ },
+ {
+  "de": "Hilflosigkeit",
+  "ar": "العجز / قلة الحيلة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Hilfsmittel",
+  "ar": "الوسيلة المساعدة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hilfsmittel"
+ },
+ {
+  "de": "Himmelfahrt",
+  "ar": "عيد الصعود",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Hintergrundbeleuchtung",
+  "ar": "الإضاءة الخلفية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hintergrundbeleuchtungen"
+ },
+ {
+  "de": "Hinterhalt",
+  "ar": "الكمين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hinterhalte"
+ },
+ {
+  "de": "Hinterrad",
+  "ar": "العجلة الورا",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hinterräder"
+ },
+ {
+  "de": "Hitzerekord",
+  "ar": "الرقم القياسي في الحر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hitzerekorde"
+ },
+ {
+  "de": "Hobbygärtner",
+  "ar": "البستاني الهاوي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hobbygärtner"
+ },
+ {
+  "de": "Hochburg",
+  "ar": "المعقل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hochburgen"
+ },
+ {
+  "de": "Hochfahren",
+  "ar": "بدء التشغيل",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Hochstraße",
+  "ar": "الطريق المرتفع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hochstraßen"
+ },
+ {
+  "de": "Hochwasserschutz",
+  "ar": "الحماية من الفيضانات",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Hoffest",
+  "ar": "حفل القصر",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Hoffeste"
+ },
+ {
+  "de": "Hoffnungsschimmer",
+  "ar": "بصيص الأمل",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Hoffnungsträger",
+  "ar": "صاحب الأمل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hoffnungsträger"
+ },
+ {
+  "de": "Hofladen",
+  "ar": "محل المزرعة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hofläden"
+ },
+ {
+  "de": "Hofstaat",
+  "ar": "الحاشية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hofstaaten"
+ },
+ {
+  "de": "Hohn",
+  "ar": "السخرية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Holding",
+  "ar": "الشركة القابضة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Holdings"
+ },
+ {
+  "de": "Holzbau",
+  "ar": "البناء الخشبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Holzbauten"
+ },
+ {
+  "de": "Hooligan",
+  "ar": "المشاغب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hooligans"
+ },
+ {
+  "de": "Horror",
+  "ar": "الرعب",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Hotelkette",
+  "ar": "سلسلة الفنادق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hotelketten"
+ },
+ {
+  "de": "Hotspot",
+  "ar": "النقطة الساخنة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hotspots"
+ },
+ {
+  "de": "Hundebesitzer",
+  "ar": "صاحب الكلب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hundebesitzer"
+ },
+ {
+  "de": "Hundeliebhaber",
+  "ar": "محب الكلاب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hundeliebhaber"
+ },
+ {
+  "de": "Hunderttausende",
+  "ar": "مئات الآلاف",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Hundesteuer",
+  "ar": "ضريبة الكلاب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Hungersnot",
+  "ar": "المجاعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hungersnöte"
+ },
+ {
+  "de": "Hurrikan",
+  "ar": "الإعصار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hurrikane"
+ },
+ {
+  "de": "Hyaluronsäure",
+  "ar": "حمض الهيالورونيك",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Hygiene",
+  "ar": "النظافة الصحية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Hymne",
+  "ar": "النشيد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Hymnen"
+ },
+ {
+  "de": "Häftling",
+  "ar": "السجين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Häftlinge"
+ },
+ {
+  "de": "Händchen",
+  "ar": "الإيد الصغيرة (halten)",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Händchen"
+ },
+ {
+  "de": "Händlernetz",
+  "ar": "شبكة التجار",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Händlernetze"
+ },
+ {
+  "de": "Höchstgeschwindigkeit",
+  "ar": "السرعة القصوى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Höchstgeschwindigkeiten"
+ },
+ {
+  "de": "Höchststand",
+  "ar": "أعلى مستوى",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Höchstände"
+ },
+ {
+  "de": "Höhenflug",
+  "ar": "الطفرة / التحليق عاليا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Höhenflüge"
+ },
+ {
+  "de": "Höhenrettung",
+  "ar": "الإنقاذ من الأعالي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Höhenrettungen"
+ },
+ {
+  "de": "Hörensagen",
+  "ar": "القيل والقال",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Hörsaal",
+  "ar": "قاعة المحاضرات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Hörsäle"
+ },
+ {
+  "de": "Ignoranz",
+  "ar": "الجهل المتعمد",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Ikone",
+  "ar": "الأيقونة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ikonen"
+ },
+ {
+  "de": "Immobilien-Imperium",
+  "ar": "إمبراطورية العقارات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Immobilien-Imperien"
+ },
+ {
+  "de": "Immobilienmarkt",
+  "ar": "سوق العقارات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Immobilienmärkte"
+ },
+ {
+  "de": "Immunität",
+  "ar": "المناعة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Immunsystem",
+  "ar": "جهاز المناعة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Immunsysteme"
+ },
+ {
+  "de": "Impulsivität",
+  "ar": "الاندفاعية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Inauguration",
+  "ar": "حفل التنصيب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Inaugurationen"
+ },
+ {
+  "de": "Inbrunst",
+  "ar": "الحماسة / الخشوع",
+  "pos": "noun",
+  "art": "die"
+ }
+]
