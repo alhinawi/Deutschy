@@ -1,0 +1,1020 @@
+[
+ {
+  "de": "Auffassung",
+  "ar": "وجهة نظر / فهم",
+  "pos": "noun"
+ },
+ {
+  "de": "Aufpreis",
+  "ar": "زيادة سعر",
+  "pos": "noun"
+ },
+ {
+  "de": "Aufschlag",
+  "ar": "إضافة / تسديدة",
+  "pos": "noun"
+ },
+ {
+  "de": "Aufschwung",
+  "ar": "طفرة / رواج",
+  "pos": "noun"
+ },
+ {
+  "de": "Aufstockung",
+  "ar": "زيادة عدد / تعلية",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausbeute",
+  "ar": "حصيلة / غلة",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausbreitung",
+  "ar": "انتشار",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausfahrt",
+  "ar": "مخرج طريق سريع",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausführung",
+  "ar": "تفاصيل التنفيذ",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausgangspunkt",
+  "ar": "نقطة البداية",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausschüttung",
+  "ar": "توزيع أرباح",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Ausweitung",
+  "ar": "توسيع / تمديد",
+  "pos": "noun"
+ },
+ {
+  "de": "Außenministerin",
+  "ar": "وزيرة الخارجية",
+  "pos": "noun"
+ },
+ {
+  "de": "Barrikade",
+  "ar": "متاريس",
+  "pos": "noun"
+ },
+ {
+  "de": "Basketballer",
+  "ar": "لاعب سلة",
+  "pos": "noun"
+ },
+ {
+  "de": "Bauernprotest",
+  "ar": "احتجاجات الفلاحين",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Bauernverband",
+  "ar": "نقابة الفلاحين",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Baugewerbe",
+  "ar": "قطاع المقاولات",
+  "pos": "noun"
+ },
+ {
+  "de": "Bauhof",
+  "ar": "ساحة معدات البلدية",
+  "pos": "noun"
+ },
+ {
+  "de": "Baukosten",
+  "ar": "تكاليف بناء",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "Bearbeitung",
+  "ar": "معالجة / نظر في طلب",
+  "pos": "noun"
+ },
+ {
+  "de": "Bedienung",
+  "ar": "تشغيل / جرسونة",
+  "pos": "noun"
+ },
+ {
+  "de": "Beeinträchtigung",
+  "ar": "إعاقة / تأثير سلبي",
+  "pos": "noun"
+ },
+ {
+  "de": "Beendigung",
+  "ar": "إنهاء رسمي",
+  "pos": "noun"
+ },
+ {
+  "de": "Beifahrerin",
+  "ar": "الراكبة جنب السواق",
+  "pos": "noun"
+ },
+ {
+  "de": "Beleg",
+  "ar": "إيصال / دليل",
+  "pos": "noun"
+ },
+ {
+  "de": "Benutzer",
+  "ar": "المستخدم",
+  "pos": "noun"
+ },
+ {
+  "de": "Bereicherung",
+  "ar": "إثراء / إضافة قيمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Besichtigung",
+  "ar": "معاينة / زيارة تفقدية",
+  "pos": "noun"
+ },
+ {
+  "de": "Betrachtung",
+  "ar": "تأمل / دراسة",
+  "pos": "noun"
+ },
+ {
+  "de": "Beurteilung",
+  "ar": "تقييم أداء",
+  "pos": "noun"
+ },
+ {
+  "de": "Bewohnerin",
+  "ar": "الساكنة (ست)",
+  "pos": "noun"
+ },
+ {
+  "de": "Bezirksliga",
+  "ar": "دوري المنطقة",
+  "pos": "noun"
+ },
+ {
+  "de": "Bindung",
+  "ar": "ارتباط / علاقة",
+  "pos": "noun"
+ },
+ {
+  "de": "Blutentnahme",
+  "ar": "سحب عينة دم",
+  "pos": "noun"
+ },
+ {
+  "de": "Blüte",
+  "ar": "زهور / ازدهار",
+  "pos": "noun"
+ },
+ {
+  "de": "Bodentruppe",
+  "ar": "قوات برية",
+  "pos": "noun"
+ },
+ {
+  "de": "Branchenverband",
+  "ar": "اتحاد القطاع",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Bruchteil",
+  "ar": "جزء من / كسر",
+  "pos": "noun"
+ },
+ {
+  "de": "Buchstabe",
+  "ar": "حروف",
+  "pos": "noun"
+ },
+ {
+  "de": "Bundesgerichtshof",
+  "ar": "المحكمة الفيدرالية العليا",
+  "pos": "noun"
+ },
+ {
+  "de": "Bundesinnenministerium",
+  "ar": "وزارة الداخلية الفيدرالية",
+  "pos": "noun"
+ },
+ {
+  "de": "Bundesverkehrsminister",
+  "ar": "وزير النقل",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Bushaltestelle",
+  "ar": "محطة أوتوبيس",
+  "pos": "noun"
+ },
+ {
+  "de": "Chefredakteurin",
+  "ar": "رئيسة التحرير",
+  "pos": "noun"
+ },
+ {
+  "de": "Cocktail",
+  "ar": "كوكتيل",
+  "pos": "noun"
+ },
+ {
+  "de": "Content",
+  "ar": "محتوى",
+  "pos": "noun"
+ },
+ {
+  "de": "Datenschutz",
+  "ar": "حماية البيانات",
+  "pos": "noun"
+ },
+ {
+  "de": "Dauerregen",
+  "ar": "مطر متواصل",
+  "pos": "noun"
+ },
+ {
+  "de": "Definition",
+  "ar": "تعريف",
+  "pos": "noun"
+ },
+ {
+  "de": "Defizit",
+  "ar": "عجز / نقاط ضعف",
+  "pos": "noun"
+ },
+ {
+  "de": "Deko",
+  "ar": "ديكور",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Dialekt",
+  "ar": "لهجة محلية",
+  "pos": "noun"
+ },
+ {
+  "de": "Dienststelle",
+  "ar": "مصلحة / مكتب حكومي",
+  "pos": "noun"
+ },
+ {
+  "de": "Direktorin",
+  "ar": "المديرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Discounter",
+  "ar": "سوبرماركت رخيص",
+  "pos": "noun"
+ },
+ {
+  "de": "Display",
+  "ar": "شاشات",
+  "pos": "noun"
+ },
+ {
+  "de": "Dividende",
+  "ar": "توزيعات أرباح",
+  "pos": "noun"
+ },
+ {
+  "de": "Diözese",
+  "ar": "أبرشية",
+  "pos": "noun"
+ },
+ {
+  "de": "Doppel",
+  "ar": "زوجي / دوبل",
+  "pos": "noun"
+ },
+ {
+  "de": "Drehleiter",
+  "ar": "سلم مطافي",
+  "pos": "noun"
+ },
+ {
+  "de": "Dringlichkeit",
+  "ar": "الأولوية القصوى",
+  "pos": "noun"
+ },
+ {
+  "de": "Drittstaat",
+  "ar": "دولة تالتة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Durchgang",
+  "ar": "جولة / ممر",
+  "pos": "noun"
+ },
+ {
+  "de": "Dynamik",
+  "ar": "ديناميكية / حركة",
+  "pos": "noun"
+ },
+ {
+  "de": "Dürre",
+  "ar": "جفاف",
+  "pos": "noun"
+ },
+ {
+  "de": "E-Scooter",
+  "ar": "سكوتر كهربا",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "EU-Richtlinie",
+  "ar": "توجيه أوروبي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Edition",
+  "ar": "طبعة خاصة",
+  "pos": "noun"
+ },
+ {
+  "de": "Eigenkapital",
+  "ar": "رأس المال الخاص",
+  "pos": "noun"
+ },
+ {
+  "de": "Eigenschaft",
+  "ar": "خصائص / صفات",
+  "pos": "noun"
+ },
+ {
+  "de": "Eigenständigkeit",
+  "ar": "استقلالية",
+  "pos": "noun"
+ },
+ {
+  "de": "Eigentumswohnung",
+  "ar": "شقة تمليك",
+  "pos": "noun"
+ },
+ {
+  "de": "Einbindung",
+  "ar": "دمج / إشراك",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Eintrittskarte",
+  "ar": "تذاكر دخول",
+  "pos": "noun"
+ },
+ {
+  "de": "Einzelhandel",
+  "ar": "تجارة التجزئة",
+  "pos": "noun"
+ },
+ {
+  "de": "Einzelne",
+  "ar": "الأفراد",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "Eisfläche",
+  "ar": "مسطح جليدي",
+  "pos": "noun"
+ },
+ {
+  "de": "Elite",
+  "ar": "النخبة",
+  "pos": "noun"
+ },
+ {
+  "de": "Elternhaus",
+  "ar": "بيت العيلة",
+  "pos": "noun"
+ },
+ {
+  "de": "Empfänger",
+  "ar": "المستلم",
+  "pos": "noun"
+ },
+ {
+  "de": "Endspurt",
+  "ar": "السبرنت الأخير",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Enteignung",
+  "ar": "نزع ملكية",
+  "pos": "noun"
+ },
+ {
+  "de": "Entschlossenheit",
+  "ar": "عزيمة / إصرار",
+  "pos": "noun"
+ },
+ {
+  "de": "Entschluss",
+  "ar": "قرار محسوم",
+  "pos": "noun"
+ },
+ {
+  "de": "Entwicklungshilfe",
+  "ar": "مساعدات تنموية",
+  "pos": "noun"
+ },
+ {
+  "de": "Entwurf",
+  "ar": "مسودة / تصميم أولي",
+  "pos": "noun"
+ },
+ {
+  "de": "Erfolgsaussicht",
+  "ar": "فرص نجاح",
+  "pos": "noun"
+ },
+ {
+  "de": "Erfolgsrezept",
+  "ar": "وصفة النجاح",
+  "pos": "noun"
+ },
+ {
+  "de": "Erforschung",
+  "ar": "استكشاف / بحث علمي",
+  "pos": "noun"
+ },
+ {
+  "de": "Ernennung",
+  "ar": "تعيين في منصب",
+  "pos": "noun"
+ },
+ {
+  "de": "Ernüchterung",
+  "ar": "صحوة / خيبة أمل",
+  "pos": "noun"
+ },
+ {
+  "de": "Erscheinung",
+  "ar": "ظاهرة / طلعة",
+  "pos": "noun"
+ },
+ {
+  "de": "Erstmeldung",
+  "ar": "أول بلاغ",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Erstversorgung",
+  "ar": "إسعافات أولية",
+  "pos": "noun"
+ },
+ {
+  "de": "Erzeugung",
+  "ar": "إنتاج / توليد",
+  "pos": "noun"
+ },
+ {
+  "de": "Ex-Präsident",
+  "ar": "الرئيس السابق",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Ex-Trainer",
+  "ar": "المدرب السابق",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Fachhandel",
+  "ar": "تجار التجزئة المتخصصين",
+  "pos": "noun"
+ },
+ {
+  "de": "Fahndungsmaßnahme",
+  "ar": "إجراءات تعقب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Familienvater",
+  "ar": "رب أسرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Fastenmonat",
+  "ar": "شهر الصيام",
+  "pos": "noun"
+ },
+ {
+  "de": "Feature",
+  "ar": "خاصية / ميزة",
+  "pos": "noun"
+ },
+ {
+  "de": "Fehlverhalten",
+  "ar": "سوء تصرف",
+  "pos": "noun"
+ },
+ {
+  "de": "Fels",
+  "ar": "صخرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Festzelt",
+  "ar": "خيمة احتفالات",
+  "pos": "noun"
+ },
+ {
+  "de": "Formation",
+  "ar": "تشكيلة / رسمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Fotografie",
+  "ar": "التصوير الفوتوغرافي",
+  "pos": "noun"
+ },
+ {
+  "de": "Foyer",
+  "ar": "بهو / مدخل فخم",
+  "pos": "noun"
+ },
+ {
+  "de": "Freistoß",
+  "ar": "ضربة حرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Frühlingsfest",
+  "ar": "مهرجان الربيع",
+  "pos": "noun"
+ },
+ {
+  "de": "Frühsommer",
+  "ar": "أوائل الصيف",
+  "pos": "noun"
+ },
+ {
+  "de": "Funke",
+  "ar": "شرارة / لمعة",
+  "pos": "noun"
+ },
+ {
+  "de": "Funktionalität",
+  "ar": "وظيفية",
+  "pos": "noun"
+ },
+ {
+  "de": "Fußball-Nationalmannschaft",
+  "ar": "منتخب ألمانيا",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Fußgängerzone",
+  "ar": "منطقة مشاة",
+  "pos": "noun"
+ },
+ {
+  "de": "Fördergeld",
+  "ar": "فلوس دعم",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Führungskraft",
+  "ar": "قيادات / مدراء",
+  "pos": "noun"
+ },
+ {
+  "de": "Fünftel",
+  "ar": "الخمس",
+  "pos": "noun"
+ },
+ {
+  "de": "Gaspreis",
+  "ar": "سعر الغاز",
+  "pos": "noun"
+ },
+ {
+  "de": "Gefangenenaustausch",
+  "ar": "تبادل أسرى",
+  "pos": "noun"
+ },
+ {
+  "de": "Gefährdung",
+  "ar": "تعريض للخطر",
+  "pos": "noun"
+ },
+ {
+  "de": "Gegentor",
+  "ar": "جون في مرماه",
+  "pos": "noun"
+ },
+ {
+  "de": "Gewebe",
+  "ar": "نسيج / أنسجة",
+  "pos": "noun"
+ },
+ {
+  "de": "Gewässer",
+  "ar": "مياه / بحيرات",
+  "pos": "noun",
+  "art": "das",
+  "pluralOnly": true
+ },
+ {
+  "de": "Gleichwohl",
+  "ar": "ومع ذلك",
+  "pos": "part"
+ },
+ {
+  "de": "Gotteshaus",
+  "ar": "بيت ربنا",
+  "pos": "noun"
+ },
+ {
+  "de": "Grafikkarte",
+  "ar": "كارت شاشة",
+  "pos": "noun"
+ },
+ {
+  "de": "Grenzübergang",
+  "ar": "معبر حدودي",
+  "pos": "noun"
+ },
+ {
+  "de": "Großaufgebot",
+  "ar": "حشد ضخم",
+  "pos": "noun"
+ },
+ {
+  "de": "Großeinsatz",
+  "ar": "عملية أمنية كبيرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Großeltern",
+  "ar": "الجد والجدة",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "Großraum",
+  "ar": "منطقة كبرى",
+  "pos": "noun"
+ },
+ {
+  "de": "Grundrecht",
+  "ar": "حقوق أساسية",
+  "pos": "noun"
+ },
+ {
+  "de": "Gutachter",
+  "ar": "خبير تقييم",
+  "pos": "noun"
+ },
+ {
+  "de": "Hagel",
+  "ar": "برد / تكه",
+  "pos": "noun"
+ },
+ {
+  "de": "Handvoll",
+  "ar": "شوية / حفنة",
+  "pos": "noun"
+ },
+ {
+  "de": "Hardliner",
+  "ar": "متشددين",
+  "pos": "noun"
+ },
+ {
+  "de": "Hauptgrund",
+  "ar": "السبب الرئيسي",
+  "pos": "noun"
+ },
+ {
+  "de": "Hauptplatz",
+  "ar": "الميدان الرئيسي",
+  "pos": "noun"
+ },
+ {
+  "de": "Hauptstraße",
+  "ar": "الشارع الرئيسي",
+  "pos": "noun"
+ },
+ {
+  "de": "Hauptziel",
+  "ar": "الهدف الأساسي",
+  "pos": "noun"
+ },
+ {
+  "de": "Hausbesitzer",
+  "ar": "صاحب بيت",
+  "pos": "noun"
+ },
+ {
+  "de": "Hebesatz",
+  "ar": "نسبة الضريبة المحلية",
+  "pos": "noun"
+ },
+ {
+  "de": "Heimatland",
+  "ar": "الوطن الأم",
+  "pos": "noun"
+ },
+ {
+  "de": "Helligkeit",
+  "ar": "إضاءة / سطوع",
+  "pos": "noun"
+ },
+ {
+  "de": "Herbstferien",
+  "ar": "أجازة الخريف",
+  "pos": "noun",
+  "art": "die",
+  "pluralOnly": true
+ },
+ {
+  "de": "Hingucker",
+  "ar": "حاجة تخطف العين",
+  "pos": "noun"
+ },
+ {
+  "de": "Hochdruck",
+  "ar": "ضغط عالي",
+  "pos": "noun"
+ },
+ {
+  "de": "Hochrechnung",
+  "ar": "توقعات أولية",
+  "pos": "noun"
+ },
+ {
+  "de": "Homeoffice",
+  "ar": "شغل من البيت",
+  "pos": "noun"
+ },
+ {
+  "de": "Hormon",
+  "ar": "هرمونات",
+  "pos": "noun"
+ },
+ {
+  "de": "Höchsttemperatur",
+  "ar": "أعلى درجة حرارة",
+  "pos": "noun"
+ },
+ {
+  "de": "Illustration",
+  "ar": "رسوم توضيحية",
+  "pos": "noun"
+ },
+ {
+  "de": "Inbetriebnahme",
+  "ar": "تشغيل لأول مرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Indiz",
+  "ar": "قرينة / دليل",
+  "pos": "noun"
+ },
+ {
+  "de": "Influencer",
+  "ar": "إنفلونسر",
+  "pos": "noun"
+ },
+ {
+  "de": "Informatik",
+  "ar": "علوم الكمبيوتر",
+  "pos": "noun"
+ },
+ {
+  "de": "Informationsveranstaltung",
+  "ar": "ندوة تعريفية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Dritter",
+  "ar": "التالت",
+  "pos": "noun"
+ },
+ {
+  "de": "beeinträchtigen",
+  "ar": "يأثر سلبا على",
+  "pos": "verb"
+ },
+ {
+  "de": "besichtigen",
+  "ar": "يعاين / يتفرج",
+  "pos": "verb"
+ },
+ {
+  "de": "definieren",
+  "ar": "يعرفها / يحددها",
+  "pos": "verb"
+ },
+ {
+  "de": "einbinden",
+  "ar": "يدخله في / يشركه",
+  "pos": "verb"
+ },
+ {
+  "de": "ernennen",
+  "ar": "يعينه في منصب",
+  "pos": "verb"
+ },
+ {
+  "de": "reduzieren",
+  "ar": "يقللها",
+  "pos": "verb"
+ },
+ {
+  "de": "verschlechtern",
+  "ar": "يبوظها / يسيئها",
+  "pos": "verb"
+ },
+ {
+  "de": "dokumentieren",
+  "ar": "يوثقها",
+  "pos": "verb"
+ },
+ {
+  "de": "koordinieren",
+  "ar": "ينسق بينهم",
+  "pos": "verb"
+ },
+ {
+  "de": "bundesweit",
+  "ar": "على مستوى ألمانيا",
+  "pos": "adv"
+ },
+ {
+  "de": "exakt",
+  "ar": "بالظبط / دقيق",
+  "pos": "adj"
+ },
+ {
+  "de": "heikel",
+  "ar": "حساسة / دقيقة",
+  "pos": "adj"
+ },
+ {
+  "de": "fröhlich",
+  "ar": "مبسوطة / مرحة",
+  "pos": "adj"
+ },
+ {
+  "de": "fake",
+  "ar": "مفبرك / مزيف",
+  "pos": "adj"
+ },
+ {
+  "de": "demokratisch",
+  "ar": "ديمقراطي",
+  "pos": "adj"
+ },
+ {
+  "de": "christlich",
+  "ar": "مسيحي",
+  "pos": "adj"
+ },
+ {
+  "de": "belebt",
+  "ar": "عامرة / منعشة",
+  "pos": "adj"
+ },
+ {
+  "de": "begrenzt",
+  "ar": "محدودة العدد",
+  "pos": "adj"
+ },
+ {
+  "de": "barrierefrei",
+  "ar": "مجهزة لذوي الهمم",
+  "pos": "adj"
+ },
+ {
+  "de": "amtlich",
+  "ar": "رسمي (دولة)",
+  "pos": "adj"
+ },
+ {
+  "de": "alternativ",
+  "ar": "بديلة",
+  "pos": "adj"
+ },
+ {
+  "de": "aggressiv",
+  "ar": "عنيف / هجومي",
+  "pos": "adj"
+ },
+ {
+  "de": "absehbar",
+  "ar": "متوقع / قريب",
+  "pos": "adj"
+ },
+ {
+  "de": "schier",
+  "ar": "محض / مجرد",
+  "pos": "adj"
+ },
+ {
+  "de": "kurzfristig",
+  "ar": "قصير المدى",
+  "pos": "adj"
+ },
+ {
+  "de": "derartig",
+  "ar": "من هذا النوع",
+  "pos": "adj"
+ },
+ {
+  "de": "beträchtlich",
+  "ar": "معتبرة / ضخمة",
+  "pos": "adj"
+ },
+ {
+  "de": "beispielhaft",
+  "ar": "نموذجي",
+  "pos": "adj"
+ },
+ {
+  "de": "bedeutend",
+  "ar": "مهمة / ضخمة",
+  "pos": "adj"
+ },
+ {
+  "de": "ausführlich",
+  "ar": "مفصلة",
+  "pos": "adj"
+ },
+ {
+  "de": "zeitgleich",
+  "ar": "في نفس اللحظة",
+  "pos": "adv"
+ },
+ {
+  "de": "weitgehend",
+  "ar": "لحد كبير",
+  "pos": "adv"
+ },
+ {
+  "de": "gegebenenfalls",
+  "ar": "عند اللزوم",
+  "pos": "adv"
+ },
+ {
+  "de": "ferner",
+  "ar": "إضافة لذلك",
+  "pos": "adv"
+ },
+ {
+  "de": "etwa",
+  "ar": "تقريبا / مثلا",
+  "pos": "adv"
+ },
+ {
+  "de": "diesbezüglich",
+  "ar": "في هذا الصدد",
+  "pos": "adv"
+ },
+ {
+  "de": "anscheinend",
+  "ar": "على ما يبدو",
+  "pos": "adv"
+ },
+ {
+  "de": "allenfalls",
+  "ar": "أقصى تقدير",
+  "pos": "adv"
+ }
+]
