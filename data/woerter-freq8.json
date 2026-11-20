@@ -1,0 +1,747 @@
+[
+ {
+  "de": "Raum",
+  "ar": "أوضة / مساحة / فضاء",
+  "pos": "noun"
+ },
+ {
+  "de": "Weile",
+  "ar": "شوية وقت",
+  "pos": "noun"
+ },
+ {
+  "de": "Rat",
+  "ar": "نصيحة / مجلس",
+  "pos": "noun"
+ },
+ {
+  "de": "Erster",
+  "ar": "الأول",
+  "pos": "noun"
+ },
+ {
+  "de": "Universum",
+  "ar": "الكون",
+  "pos": "noun"
+ },
+ {
+  "de": "West",
+  "ar": "غرب",
+  "pos": "noun"
+ },
+ {
+  "de": "Süden",
+  "ar": "جنوب",
+  "pos": "noun"
+ },
+ {
+  "de": "Revier",
+  "ar": "قسم شرطة / منطقة نفوذ",
+  "pos": "noun"
+ },
+ {
+  "de": "Schädel",
+  "ar": "جمجمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Realität",
+  "ar": "واقع",
+  "pos": "noun"
+ },
+ {
+  "de": "Jagd",
+  "ar": "صيد / مطاردة",
+  "pos": "noun"
+ },
+ {
+  "de": "Truck",
+  "ar": "تريلا",
+  "pos": "noun"
+ },
+ {
+  "de": "Öffentlichkeit",
+  "ar": "العلن / الجمهور",
+  "pos": "noun"
+ },
+ {
+  "de": "Maske",
+  "ar": "ماسك / قناع",
+  "pos": "noun"
+ },
+ {
+  "de": "Verstärkung",
+  "ar": "تعزيزات / مدد",
+  "pos": "noun"
+ },
+ {
+  "de": "Führer",
+  "ar": "قائد / كتاب إرشادات",
+  "pos": "noun"
+ },
+ {
+  "de": "Benehmen",
+  "ar": "تصرفات / أدب",
+  "pos": "noun"
+ },
+ {
+  "de": "Verdacht",
+  "ar": "شك / اشتباه",
+  "pos": "noun"
+ },
+ {
+  "de": "Vampir",
+  "ar": "مصاص دما",
+  "pos": "noun"
+ },
+ {
+  "de": "Probe",
+  "ar": "بروفة / عينة",
+  "pos": "noun"
+ },
+ {
+  "de": "Besitzer",
+  "ar": "صاحب / مالك",
+  "pos": "noun"
+ },
+ {
+  "de": "Hinweis",
+  "ar": "ملاحظة / تلميح",
+  "pos": "noun"
+ },
+ {
+  "de": "Applaus",
+  "ar": "تصفيق",
+  "pos": "noun"
+ },
+ {
+  "de": "Posten",
+  "ar": "بوست / منصب",
+  "pos": "noun"
+ },
+ {
+  "de": "Senator",
+  "ar": "سيناتور",
+  "pos": "noun"
+ },
+ {
+  "de": "Anteil",
+  "ar": "نصيب / حصة",
+  "pos": "noun"
+ },
+ {
+  "de": "Ritter",
+  "ar": "فارس (من العصور الوسطى)",
+  "pos": "noun"
+ },
+ {
+  "de": "Basis",
+  "ar": "قاعدة / أساس",
+  "pos": "noun"
+ },
+ {
+  "de": "Schock",
+  "ar": "صدمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Farm",
+  "ar": "مزرعة",
+  "pos": "noun"
+ },
+ {
+  "de": "Gabe",
+  "ar": "موهبة / هدية",
+  "pos": "noun"
+ },
+ {
+  "de": "Angelegenheit",
+  "ar": "شأن / مسألة",
+  "pos": "noun"
+ },
+ {
+  "de": "Planet",
+  "ar": "كوكب",
+  "pos": "noun"
+ },
+ {
+  "de": "Sitz",
+  "ar": "مقعد / مقر",
+  "pos": "noun"
+ },
+ {
+  "de": "Tour",
+  "ar": "جولة",
+  "pos": "noun"
+ },
+ {
+  "de": "Gedächtnis",
+  "ar": "ذاكرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Wirklichkeit",
+  "ar": "حقيقة / واقع",
+  "pos": "noun"
+ },
+ {
+  "de": "Kreis",
+  "ar": "دايرة / محافظة",
+  "pos": "noun"
+ },
+ {
+  "de": "Ewigkeit",
+  "ar": "أبدية",
+  "pos": "noun"
+ },
+ {
+  "de": "Zigarette",
+  "ar": "سيجارة",
+  "pos": "noun"
+ },
+ {
+  "de": "Hauptmann",
+  "ar": "نقيب (جيش)",
+  "pos": "noun"
+ },
+ {
+  "de": "Not",
+  "ar": "ضرورة / ضيق",
+  "pos": "noun"
+ },
+ {
+  "de": "Unglück",
+  "ar": "حظ وحش / مصيبة",
+  "pos": "noun"
+ },
+ {
+  "de": "Wissenschaftler",
+  "ar": "عالم (علوم)",
+  "pos": "noun"
+ },
+ {
+  "de": "Reaktion",
+  "ar": "رد فعل",
+  "pos": "noun"
+ },
+ {
+  "de": "Identität",
+  "ar": "هوية",
+  "pos": "noun"
+ },
+ {
+  "de": "Hirn",
+  "ar": "مخ",
+  "pos": "noun"
+ },
+ {
+  "de": "Diener",
+  "ar": "خادم",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausweis",
+  "ar": "بطاقة / هوية",
+  "pos": "noun"
+ },
+ {
+  "de": "Sicht",
+  "ar": "رؤية / منظر",
+  "pos": "noun"
+ },
+ {
+  "de": "Text",
+  "ar": "نص / كلام مكتوب",
+  "pos": "noun"
+ },
+ {
+  "de": "Lektion",
+  "ar": "درس / عبرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Dutzend",
+  "ar": "دستة (12)",
+  "pos": "noun"
+ },
+ {
+  "de": "Auftritt",
+  "ar": "ظهور / مشهد",
+  "pos": "noun"
+ },
+ {
+  "de": "Gegner",
+  "ar": "خصم",
+  "pos": "noun"
+ },
+ {
+  "de": "Verdienst",
+  "ar": "استحقاق / دخل",
+  "pos": "noun"
+ },
+ {
+  "de": "Linie",
+  "ar": "خط",
+  "pos": "noun"
+ },
+ {
+  "de": "Bedrohung",
+  "ar": "تهديد",
+  "pos": "noun"
+ },
+ {
+  "de": "Kreuz",
+  "ar": "صليب / وسط الضهر",
+  "pos": "noun"
+ },
+ {
+  "de": "Geliebte",
+  "ar": "حبيبة",
+  "pos": "noun"
+ },
+ {
+  "de": "Graf",
+  "ar": "كونت",
+  "pos": "noun"
+ },
+ {
+  "de": "Verabredung",
+  "ar": "ميعاد / ديت",
+  "pos": "noun"
+ },
+ {
+  "de": "Kilo",
+  "ar": "كيلو",
+  "pos": "noun"
+ },
+ {
+  "de": "Schild",
+  "ar": "درع / لافتة",
+  "pos": "noun"
+ },
+ {
+  "de": "Lehrerin",
+  "ar": "مدرسة (ست)",
+  "pos": "noun"
+ },
+ {
+  "de": "Zentrale",
+  "ar": "سنترال / مقر رئيسي",
+  "pos": "noun"
+ },
+ {
+  "de": "Jäger",
+  "ar": "صياد",
+  "pos": "noun"
+ },
+ {
+  "de": "Pfarrer",
+  "ar": "قس",
+  "pos": "noun"
+ },
+ {
+  "de": "Zauber",
+  "ar": "تعويذة / سحر",
+  "pos": "noun"
+ },
+ {
+  "de": "Rückkehr",
+  "ar": "رجوع / عودة",
+  "pos": "noun"
+ },
+ {
+  "de": "Stahl",
+  "ar": "حديد صلب",
+  "pos": "noun"
+ },
+ {
+  "de": "Daheim",
+  "ar": "في البيت",
+  "pos": "noun"
+ },
+ {
+  "de": "Abmachung",
+  "ar": "اتفاق",
+  "pos": "noun"
+ },
+ {
+  "de": "Fan",
+  "ar": "فان / معجب",
+  "pos": "noun"
+ },
+ {
+  "de": "Verkauf",
+  "ar": "بيع",
+  "pos": "noun"
+ },
+ {
+  "de": "Korrektur",
+  "ar": "تصحيح",
+  "pos": "noun"
+ },
+ {
+  "de": "Aufnahme",
+  "ar": "تسجيل / قبول",
+  "pos": "noun"
+ },
+ {
+  "de": "Manager",
+  "ar": "مدير / منجر",
+  "pos": "noun"
+ },
+ {
+  "de": "Stellung",
+  "ar": "وضعية / منصب",
+  "pos": "noun"
+ },
+ {
+  "de": "Belohnung",
+  "ar": "مكافأة",
+  "pos": "noun"
+ },
+ {
+  "de": "Funk",
+  "ar": "راديو / شرارة",
+  "pos": "noun"
+ },
+ {
+  "de": "Uni",
+  "ar": "جامعة",
+  "pos": "noun"
+ },
+ {
+  "de": "Feier",
+  "ar": "حفلة / احتفال",
+  "pos": "noun"
+ },
+ {
+  "de": "Flügel",
+  "ar": "جناح / بيانو",
+  "pos": "noun"
+ },
+ {
+  "de": "Schluck",
+  "ar": "رشفة",
+  "pos": "noun"
+ },
+ {
+  "de": "Miteinander",
+  "ar": "بعضنا مع بعض",
+  "pos": "noun"
+ },
+ {
+  "de": "Untertitel",
+  "ar": "ترجمة على الشاشة",
+  "pos": "noun"
+ },
+ {
+  "de": "Bord",
+  "ar": "سفينة/طيارة (an Bord)",
+  "pos": "noun"
+ },
+ {
+  "de": "Glückwunsch",
+  "ar": "مبروك",
+  "pos": "noun"
+ },
+ {
+  "de": "Übel",
+  "ar": "شر / غثيان",
+  "pos": "noun"
+ },
+ {
+  "de": "Quatsch",
+  "ar": "كلام فاضي / هري",
+  "pos": "noun"
+ },
+ {
+  "de": "Date",
+  "ar": "ميعاد غرامي",
+  "pos": "noun"
+ },
+ {
+  "de": "Heilige",
+  "ar": "قديسة",
+  "pos": "noun"
+ },
+ {
+  "de": "Halbe",
+  "ar": "نص (بيرة نص لتر)",
+  "pos": "noun"
+ },
+ {
+  "de": "Pfund",
+  "ar": "رطل / نص كيلو",
+  "pos": "noun"
+ },
+ {
+  "de": "Voraus",
+  "ar": "مقدما (im Voraus)",
+  "pos": "noun"
+ },
+ {
+  "de": "Killer",
+  "ar": "قاتل مأجور",
+  "pos": "noun"
+ },
+ {
+  "de": "Kohle",
+  "ar": "فحم / فلوس",
+  "pos": "noun"
+ },
+ {
+  "de": "Hoheit",
+  "ar": "جلالة",
+  "pos": "noun"
+ },
+ {
+  "de": "Story",
+  "ar": "حكاية / قصة",
+  "pos": "noun"
+ },
+ {
+  "de": "Herrgott",
+  "ar": "يا رب",
+  "pos": "noun"
+ },
+ {
+  "de": "Champagner",
+  "ar": "شمبانيا",
+  "pos": "noun"
+ },
+ {
+  "de": "Schwere",
+  "ar": "ثقل / صعوبة",
+  "pos": "noun"
+ },
+ {
+  "de": "Schiffe",
+  "ar": "مراكب",
+  "pos": "noun"
+ },
+ {
+  "de": "Tatort",
+  "ar": "مكان الجريمة",
+  "pos": "noun"
+ },
+ {
+  "de": "Gas",
+  "ar": "غاز / بنزين",
+  "pos": "noun"
+ },
+ {
+  "de": "Null",
+  "ar": "صفر",
+  "pos": "noun"
+ },
+ {
+  "de": "Wetten",
+  "ar": "رهانات",
+  "pos": "noun"
+ },
+ {
+  "de": "Inspektor",
+  "ar": "مفتش / محقق",
+  "pos": "noun"
+ },
+ {
+  "de": "Frische",
+  "ar": "طراوة",
+  "pos": "noun"
+ },
+ {
+  "de": "Kommando",
+  "ar": "قيادة / أمر",
+  "pos": "noun"
+ },
+ {
+  "de": "Normale",
+  "ar": "العادي",
+  "pos": "noun"
+ },
+ {
+  "de": "Verfügung",
+  "ar": "تصرف (zur Verfügung)",
+  "pos": "noun"
+ },
+ {
+  "de": "Leid",
+  "ar": "معاناة / حزن",
+  "pos": "noun"
+ },
+ {
+  "de": "Wohl",
+  "ar": "خير / راحة",
+  "pos": "noun"
+ },
+ {
+  "de": "Sir",
+  "ar": "يا سيدي",
+  "pos": "noun"
+ },
+ {
+  "de": "Sage",
+  "ar": "حكاية شعبية",
+  "pos": "noun"
+ },
+ {
+  "de": "Warte",
+  "ar": "انتظار (في الجيم)",
+  "pos": "noun"
+ },
+ {
+  "de": "Schau",
+  "ar": "عرض / نظرة (schau mal)",
+  "pos": "noun"
+ },
+ {
+  "de": "Kleine",
+  "ar": "الصغيرة / صغير",
+  "pos": "noun"
+ },
+ {
+  "de": "Willkommen",
+  "ar": "أهلا (ترحيب)",
+  "pos": "noun"
+ },
+ {
+  "de": "Dollar",
+  "ar": "دولار",
+  "pos": "noun"
+ },
+ {
+  "de": "Hölle",
+  "ar": "جحيم",
+  "pos": "noun"
+ },
+ {
+  "de": "Super",
+  "ar": "سوب / بنزين سوبر",
+  "pos": "noun"
+ },
+ {
+  "de": "Weh",
+  "ar": "ألم / وجع",
+  "pos": "noun"
+ },
+ {
+  "de": "Boss",
+  "ar": "مدير / بوس",
+  "pos": "noun"
+ },
+ {
+  "de": "Mörder",
+  "ar": "قاتل",
+  "pos": "noun"
+ },
+ {
+  "de": "Agent",
+  "ar": "عميل / وكيل",
+  "pos": "noun"
+ },
+ {
+  "de": "Rum",
+  "ar": "روم (مشروب)",
+  "pos": "noun"
+ },
+ {
+  "de": "Gedanken",
+  "ar": "أفكار / خواطر",
+  "pos": "noun"
+ },
+ {
+  "de": "Arme",
+  "ar": "دراعات / مساكين",
+  "pos": "noun"
+ },
+ {
+  "de": "Klappe",
+  "ar": "غطا / بوق (halt die Klappe)",
+  "pos": "noun"
+ },
+ {
+  "de": "Tolle",
+  "ar": "التحفة (das Tolle)",
+  "pos": "noun"
+ },
+ {
+  "de": "Majestät",
+  "ar": "جلالة الملك",
+  "pos": "noun"
+ },
+ {
+  "de": "Madame",
+  "ar": "مدام",
+  "pos": "noun"
+ },
+ {
+  "de": "Güte",
+  "ar": "طيبة (meine Güte)",
+  "pos": "noun"
+ },
+ {
+  "de": "Schade",
+  "ar": "ياللأسف",
+  "pos": "noun"
+ },
+ {
+  "de": "Bleibe",
+  "ar": "مكان مبيت",
+  "pos": "noun"
+ },
+ {
+  "de": "Hau",
+  "ar": "ضربة (hau ab)",
+  "pos": "noun"
+ },
+ {
+  "de": "Mark",
+  "ar": "مارك (عملة قديمة)",
+  "pos": "noun"
+ },
+ {
+  "de": "Schönes",
+  "ar": "حاجات حلوة",
+  "pos": "noun"
+ },
+ {
+  "de": "Sergeant",
+  "ar": "رقيب",
+  "pos": "noun"
+ },
+ {
+  "de": "Drink",
+  "ar": "مشروب / درنك",
+  "pos": "noun"
+ },
+ {
+  "de": "Deutsche",
+  "ar": "ألماني / ألمانية",
+  "pos": "noun"
+ },
+ {
+  "de": "Lord",
+  "ar": "لورد",
+  "pos": "noun"
+ },
+ {
+  "de": "City",
+  "ar": "وسط البلد",
+  "pos": "noun"
+ },
+ {
+  "de": "Tote",
+  "ar": "قتيل / ميت",
+  "pos": "noun"
+ },
+ {
+  "de": "Van",
+  "ar": "فان / ميكروباص",
+  "pos": "noun"
+ },
+ {
+  "de": "Bravo",
+  "ar": "برافو",
+  "pos": "noun"
+ }
+]
