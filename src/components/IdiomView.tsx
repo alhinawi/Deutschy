@@ -4,6 +4,7 @@ import { idioms, idiomTopics } from '@/lib/idioms';
 import { useLang, useT } from '@/lib/i18n';
 import { speak } from '@/lib/speak';
 import Speaker from './Speaker';
+import TopicIcon from './TopicIcon';
 import Mixed from './Mixed';
 
 export default function IdiomView() {
@@ -43,7 +44,7 @@ export default function IdiomView() {
               <button onClick={() => speak(d.de)} aria-label={t('اسمع التعبير','Hear the idiom')} className="min-h-11 min-w-11 shrink-0 rounded-full border border-line p-2"><Speaker /></button>
             </div>
             <span className="num text-xs font-bold text-accent">{d.level}</span>
-            {d.topic && <span className="text-xs text-muted"> · {lang === 'ar' ? idiomTopics[d.topic]?.[0] ?? d.topic : idiomTopics[d.topic]?.[1] ?? d.topic}</span>}
+            {d.topic && <span className="inline-flex items-center gap-1 text-xs text-muted"><TopicIcon topic={d.topic} className="h-4 w-4" />{lang === 'ar' ? idiomTopics[d.topic]?.[0] ?? d.topic : idiomTopics[d.topic]?.[1] ?? d.topic}</span>}
             <p dir="ltr" className="text-sm italic text-muted">{t('حرفيًا', 'Literally')}: {d.literal}</p>
             <p className="ar-title font-bold">{lang === 'ar' ? <Mixed text={d.ar} /> : d.en}</p>
             <div className="rounded-xl bg-paper p-3">
