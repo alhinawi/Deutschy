@@ -1,0 +1,668 @@
+[
+ {
+  "de": "Angehörige",
+  "ar": "أهل / ذوي القربى",
+  "pos": "noun"
+ },
+ {
+  "de": "Ausgabe",
+  "ar": "إصدار / مصاريف",
+  "pos": "noun"
+ },
+ {
+  "de": "Bauarbeiten",
+  "ar": "شغل عمار",
+  "pos": "noun"
+ },
+ {
+  "de": "Einschränkung",
+  "ar": "تقييد / قيد",
+  "pos": "noun"
+ },
+ {
+  "de": "Fazit",
+  "ar": "خلاصة",
+  "pos": "noun"
+ },
+ {
+  "de": "Finanzierung",
+  "ar": "تمويل",
+  "pos": "noun"
+ },
+ {
+  "de": "Getränk",
+  "ar": "مشروب",
+  "pos": "noun"
+ },
+ {
+  "de": "Info",
+  "ar": "معلومة",
+  "pos": "noun"
+ },
+ {
+  "de": "Innenministerium",
+  "ar": "وزارة داخلية",
+  "pos": "noun"
+ },
+ {
+  "de": "Kommission",
+  "ar": "لجنة أوروبية",
+  "pos": "noun"
+ },
+ {
+  "de": "Landgericht",
+  "ar": "محكمة إقليمية",
+  "pos": "noun"
+ },
+ {
+  "de": "Mischung",
+  "ar": "خلطة",
+  "pos": "noun"
+ },
+ {
+  "de": "Mittelpunkt",
+  "ar": "مركز / محور",
+  "pos": "noun"
+ },
+ {
+  "de": "Nachfolger",
+  "ar": "خليفة / اللي بعده",
+  "pos": "noun"
+ },
+ {
+  "de": "Nationalspieler",
+  "ar": "لاعب منتخب",
+  "pos": "noun"
+ },
+ {
+  "de": "Pandemie",
+  "ar": "جايحة / وباء",
+  "pos": "noun"
+ },
+ {
+  "de": "Pressemitteilung",
+  "ar": "بيان صحفي",
+  "pos": "noun"
+ },
+ {
+  "de": "Stürmer",
+  "ar": "مهاجم (كورة)",
+  "pos": "noun"
+ },
+ {
+  "de": "Umsatz",
+  "ar": "مبيعات / دورة فلوس",
+  "pos": "noun"
+ },
+ {
+  "de": "Verlauf",
+  "ar": "مسار / سير",
+  "pos": "noun"
+ },
+ {
+  "de": "Verlängerung",
+  "ar": "تمديد / وقت إضافي",
+  "pos": "noun"
+ },
+ {
+  "de": "Vorfeld",
+  "ar": "المحيط / ما قبل الحدث",
+  "pos": "noun"
+ },
+ {
+  "de": "Außenminister",
+  "ar": "وزير خارجية",
+  "pos": "noun"
+ },
+ {
+  "de": "Befragter",
+  "ar": "مستطلع رأيه",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Bündnis",
+  "ar": "حلف / تكتل",
+  "pos": "noun"
+ },
+ {
+  "de": "Eskalation",
+  "ar": "تصعيد",
+  "pos": "noun"
+ },
+ {
+  "de": "Europameisterschaft",
+  "ar": "أمم أوروبا (يورو)",
+  "pos": "noun"
+ },
+ {
+  "de": "Forscher",
+  "ar": "باحث علمي",
+  "pos": "noun"
+ },
+ {
+  "de": "Highlight",
+  "ar": "أحلى لحظة",
+  "pos": "noun"
+ },
+ {
+  "de": "Kader",
+  "ar": "قايمة الفريق / كوادر",
+  "pos": "noun"
+ },
+ {
+  "de": "Kooperation",
+  "ar": "تعاون مشترك",
+  "pos": "noun"
+ },
+ {
+  "de": "Landtag",
+  "ar": "برلمان الولاية",
+  "pos": "noun"
+ },
+ {
+  "de": "Migrant",
+  "ar": "مهاجر",
+  "pos": "noun"
+ },
+ {
+  "de": "Präsidentin",
+  "ar": "رئيسة",
+  "pos": "noun"
+ },
+ {
+  "de": "Republikaner",
+  "ar": "جمهوري (أمريكا)",
+  "pos": "noun"
+ },
+ {
+  "de": "Verkehrsunfall",
+  "ar": "حادثة مرور",
+  "pos": "noun"
+ },
+ {
+  "de": "Verteidigungsminister",
+  "ar": "وزير دفاع",
+  "pos": "noun"
+ },
+ {
+  "de": "Weihnachtsmarkt",
+  "ar": "سوق الكريسماس",
+  "pos": "noun"
+ },
+ {
+  "de": "Aktivist",
+  "ar": "ناشط",
+  "pos": "noun"
+ },
+ {
+  "de": "Beteiligung",
+  "ar": "مشاركة / حصة",
+  "pos": "noun"
+ },
+ {
+  "de": "Betreiber",
+  "ar": "مشغل / صاحب المكان",
+  "pos": "noun"
+ },
+ {
+  "de": "Bundespolizei",
+  "ar": "البوليس الفيدرالي",
+  "pos": "noun"
+ },
+ {
+  "de": "Bundesrat",
+  "ar": "مجلس الولايات",
+  "pos": "noun"
+ },
+ {
+  "de": "Einnahme",
+  "ar": "دخل / إيراد",
+  "pos": "noun"
+ },
+ {
+  "de": "Ernährung",
+  "ar": "تغذية / أكل",
+  "pos": "noun"
+ },
+ {
+  "de": "Fahrbahn",
+  "ar": "طريق العربيات",
+  "pos": "noun"
+ },
+ {
+  "de": "Fraktion",
+  "ar": "كتلة برلمانية",
+  "pos": "noun"
+ },
+ {
+  "de": "Kritiker",
+  "ar": "منتقد",
+  "pos": "noun"
+ },
+ {
+  "de": "Spielzeit",
+  "ar": "موسم مسرحي/كروي",
+  "pos": "noun"
+ },
+ {
+  "de": "Tonne",
+  "ar": "طن / برميل",
+  "pos": "noun"
+ },
+ {
+  "de": "Turnier",
+  "ar": "بطولة",
+  "pos": "noun"
+ },
+ {
+  "de": "Umbau",
+  "ar": "تجديد / هدم وبناء",
+  "pos": "noun"
+ },
+ {
+  "de": "Verbraucher",
+  "ar": "مستهلك",
+  "pos": "noun"
+ },
+ {
+  "de": "Vergewaltigung",
+  "ar": "اغتصاب",
+  "pos": "noun"
+ },
+ {
+  "de": "Versorgung",
+  "ar": "إمداد / رعاية",
+  "pos": "noun"
+ },
+ {
+  "de": "Abgeordneter",
+  "ar": "نائب برلمان",
+  "pos": "noun"
+ },
+ {
+  "de": "Absage",
+  "ar": "اعتذار / إلغاء",
+  "pos": "noun"
+ },
+ {
+  "de": "Arena",
+  "ar": "حلبة / استاد",
+  "pos": "noun"
+ },
+ {
+  "de": "Demonstration",
+  "ar": "مظاهرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Eröffnung",
+  "ar": "افتتاح",
+  "pos": "noun"
+ },
+ {
+  "de": "Fahrgast",
+  "ar": "راكب",
+  "pos": "noun"
+ },
+ {
+  "de": "Faktor",
+  "ar": "عامل / فاكتور",
+  "pos": "noun"
+ },
+ {
+  "de": "Immobilie",
+  "ar": "عقار",
+  "pos": "noun"
+ },
+ {
+  "de": "Landtagswahl",
+  "ar": "انتخابات الولاية",
+  "pos": "noun"
+ },
+ {
+  "de": "Landwirtschaft",
+  "ar": "زراعة",
+  "pos": "noun"
+ },
+ {
+  "de": "Management",
+  "ar": "إدارة أعمال",
+  "pos": "noun"
+ },
+ {
+  "de": "Neuwahl",
+  "ar": "إعادة انتخابات",
+  "pos": "noun"
+ },
+ {
+  "de": "Partnerschaft",
+  "ar": "شراكة",
+  "pos": "noun"
+ },
+ {
+  "de": "Phänomen",
+  "ar": "ظاهرة",
+  "pos": "noun"
+ },
+ {
+  "de": "Polizeisprecher",
+  "ar": "متحدث الشرطة",
+  "pos": "noun"
+ },
+ {
+  "de": "Prognose",
+  "ar": "توقع / نبؤة",
+  "pos": "noun"
+ },
+ {
+  "de": "Rekord",
+  "ar": "رقم قياسي",
+  "pos": "noun"
+ },
+ {
+  "de": "Sachschaden",
+  "ar": "خسارة مادية",
+  "pos": "noun"
+ },
+ {
+  "de": "Schwerpunkt",
+  "ar": "تركيز / أولوية",
+  "pos": "noun"
+ },
+ {
+  "de": "Senior",
+  "ar": "كبير في السن",
+  "pos": "noun"
+ },
+ {
+  "de": "Spieltag",
+  "ar": "يوم الماتشات",
+  "pos": "noun"
+ },
+ {
+  "de": "verlängern",
+  "ar": "يمدد",
+  "pos": "verb"
+ },
+ {
+  "de": "vertreten",
+  "ar": "يمثل / ينوب عن",
+  "pos": "verb"
+ },
+ {
+  "de": "auftreten",
+  "ar": "يظهر / يطلع على المسرح",
+  "pos": "verb"
+ },
+ {
+  "de": "einführen",
+  "ar": "يدخل نظام جديد",
+  "pos": "verb"
+ },
+ {
+  "de": "einrichten",
+  "ar": "يأسس / يفرش",
+  "pos": "verb"
+ },
+ {
+  "de": "enthalten",
+  "ar": "يحتوي",
+  "pos": "verb"
+ },
+ {
+  "de": "erfassen",
+  "ar": "يسجل / يلتقط",
+  "pos": "verb"
+ },
+ {
+  "de": "ergänzen",
+  "ar": "يكمل / يضيف",
+  "pos": "verb"
+ },
+ {
+  "de": "konzentrieren",
+  "ar": "يركز",
+  "pos": "verb"
+ },
+ {
+  "de": "mitteilen",
+  "ar": "يخطر / يبلغ رسمي",
+  "pos": "verb"
+ },
+ {
+  "de": "umfassen",
+  "ar": "يشمل",
+  "pos": "verb"
+ },
+ {
+  "de": "antreten",
+  "ar": "يبدأ مهمة / يلعب",
+  "pos": "verb"
+ },
+ {
+  "de": "aufrufen",
+  "ar": "ينادي بـ / يناشد",
+  "pos": "verb"
+ },
+ {
+  "de": "ausstatten",
+  "ar": "يجهز",
+  "pos": "verb"
+ },
+ {
+  "de": "betreiben",
+  "ar": "يدير بيزنس",
+  "pos": "verb"
+ },
+ {
+  "de": "erstellen",
+  "ar": "يعمل / ينشئ",
+  "pos": "verb"
+ },
+ {
+  "de": "bergen",
+  "ar": "ينقذ / يخفي جواه",
+  "pos": "verb"
+ },
+ {
+  "de": "gestalten",
+  "ar": "يشكل / يصمم",
+  "pos": "verb"
+ },
+ {
+  "de": "verteidigen",
+  "ar": "يدافع عن",
+  "pos": "verb"
+ },
+ {
+  "de": "verweisen",
+  "ar": "يحيل / يطرد",
+  "pos": "verb"
+ },
+ {
+  "de": "wenden",
+  "ar": "يتجه / يلف",
+  "pos": "verb"
+ },
+ {
+  "de": "zitieren",
+  "ar": "يقتبس",
+  "pos": "verb"
+ },
+ {
+  "de": "absolvieren",
+  "ar": "يكمل تدريب / يتخرج",
+  "pos": "verb"
+ },
+ {
+  "de": "anheben",
+  "ar": "يرفع",
+  "pos": "verb"
+ },
+ {
+  "de": "platzieren",
+  "ar": "يحط في مكان",
+  "pos": "verb"
+ },
+ {
+  "de": "unterhalten",
+  "ar": "يسلي / يتكلم معاه",
+  "pos": "verb"
+ },
+ {
+  "de": "verkünden",
+  "ar": "يعلن رسمي",
+  "pos": "verb"
+ },
+ {
+  "de": "weisen",
+  "ar": "يدل / يشاور",
+  "pos": "verb"
+ },
+ {
+  "de": "überraschend",
+  "ar": "مفاجئ / على غير المتوقع",
+  "pos": "adj"
+ },
+ {
+  "de": "angewiesen",
+  "ar": "محتاج / معتمد على",
+  "pos": "adj"
+ },
+ {
+  "de": "ausgerechnet",
+  "ar": "بالذات / هو تحديدا",
+  "pos": "adv"
+ },
+ {
+  "de": "diesjährig",
+  "ar": "السنة دي",
+  "pos": "adj"
+ },
+ {
+  "de": "digital",
+  "ar": "ديجيتال",
+  "pos": "adj"
+ },
+ {
+  "de": "eventuell",
+  "ar": "محتمل / ممكن",
+  "pos": "adv"
+ },
+ {
+  "de": "kostenlos",
+  "ar": "مجانا",
+  "pos": "adj"
+ },
+ {
+  "de": "langfristig",
+  "ar": "على المدى الطويل",
+  "pos": "adj"
+ },
+ {
+  "de": "speziell",
+  "ar": "معين / خاص",
+  "pos": "adj"
+ },
+ {
+  "de": "vergangen",
+  "ar": "الماضي / اللي فات",
+  "pos": "adj"
+ },
+ {
+  "de": "wirtschaftlich",
+  "ar": "اقتصادي",
+  "pos": "adj"
+ },
+ {
+  "de": "erforderlich",
+  "ar": "مطلوب / ضروري",
+  "pos": "adj"
+ },
+ {
+  "de": "gezielt",
+  "ar": "مقصود / مركز",
+  "pos": "adj"
+ },
+ {
+  "de": "nachhaltig",
+  "ar": "مستدام",
+  "pos": "adj"
+ },
+ {
+  "de": "stabil",
+  "ar": "ثابت / متماسك",
+  "pos": "adj"
+ },
+ {
+  "de": "steigend",
+  "ar": "متزايد",
+  "pos": "adj"
+ },
+ {
+  "de": "städtisch",
+  "ar": "بلدي / تابع للمدينة",
+  "pos": "adj"
+ },
+ {
+  "de": "endgültig",
+  "ar": "نهائي",
+  "pos": "adj"
+ },
+ {
+  "de": "erheblich",
+  "ar": "كبير / ملحوظ",
+  "pos": "adj"
+ },
+ {
+  "de": "folgend",
+  "ar": "التالي (الآتي ذكره)",
+  "pos": "adj"
+ },
+ {
+  "de": "genannt",
+  "ar": "المذكور",
+  "pos": "adj"
+ },
+ {
+  "de": "gerecht",
+  "ar": "عادل",
+  "pos": "adj"
+ },
+ {
+  "de": "maßgeblich",
+  "ar": "حاسم / أساسي",
+  "pos": "adj"
+ },
+ {
+  "de": "schlicht",
+  "ar": "بسيط / سادة",
+  "pos": "adj"
+ },
+ {
+  "de": "technisch",
+  "ar": "تقني / فني",
+  "pos": "adj"
+ },
+ {
+  "de": "unmittelbar",
+  "ar": "مباشر / فوري",
+  "pos": "adj"
+ },
+ {
+  "de": "ursprünglich",
+  "ar": "أصلي / في الأول",
+  "pos": "adj"
+ },
+ {
+  "de": "zugleich",
+  "ar": "في نفس الوقت",
+  "pos": "adv"
+ },
+ {
+  "de": "modernen",
+  "ar": "الحديثة",
+  "pos": "adj"
+ }
+]
