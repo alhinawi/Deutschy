@@ -1,0 +1,854 @@
+[
+ {
+  "de": "Anhalteweg",
+  "ar": "مسافة الوقوف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anhaltewege"
+ },
+ {
+  "de": "Anhieb",
+  "ar": "من أول ضربة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Anhängerschaft",
+  "ar": "القاعدة المؤيدة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Animationsreihe",
+  "ar": "سلسلة الأنيميشن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Animationsreihen"
+ },
+ {
+  "de": "Anime",
+  "ar": "الأنمي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Animes"
+ },
+ {
+  "de": "Ankerpunkt",
+  "ar": "نقطة الارتكاز",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ankerpunkte"
+ },
+ {
+  "de": "Anklagevorwurf",
+  "ar": "تهمة الادعاء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anklagevorwürfe"
+ },
+ {
+  "de": "Anklang",
+  "ar": "الصدى / الرواج",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anklänge"
+ },
+ {
+  "de": "Anklicken",
+  "ar": "الضغط (كليك)",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Ankunftszentrum",
+  "ar": "مركز الاستقبال",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Ankunftszentren"
+ },
+ {
+  "de": "Ankündigungstext",
+  "ar": "نص الإعلان",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ankündigungstexte"
+ },
+ {
+  "de": "Anlageempfehlung",
+  "ar": "توصية استثمار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anlageempfehlungen"
+ },
+ {
+  "de": "Anlageform",
+  "ar": "شكل الاستثمار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anlageformen"
+ },
+ {
+  "de": "Anlagenbauer",
+  "ar": "مقاول المنشآت",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anlagenbauer"
+ },
+ {
+  "de": "Anlagentechnik",
+  "ar": "هندسة المنشآت",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Anlageprodukt",
+  "ar": "منتج استثماري",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Anlageprodukte"
+ },
+ {
+  "de": "Anlagestratege",
+  "ar": "خبير الاستثمار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anlagestrategen"
+ },
+ {
+  "de": "Anlagevermögen",
+  "ar": "الأصول الثابتة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Anlassfall",
+  "ar": "الحالة الموجبة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anlassfälle"
+ },
+ {
+  "de": "Anlaufpunkt",
+  "ar": "نقطة التوجه",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anlaufpunkte"
+ },
+ {
+  "de": "Anleihefonds",
+  "ar": "صندوق السندات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anleihefonds"
+ },
+ {
+  "de": "Anlauf",
+  "ar": "الزخم / المحاولة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anläufe"
+ },
+ {
+  "de": "Anmeldekarte",
+  "ar": "كارت التسجيل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anmeldekarten"
+ },
+ {
+  "de": "Anmeldemöglichkeit",
+  "ar": "إمكانية التسجيل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anmeldemöglichkeiten"
+ },
+ {
+  "de": "Anmeldeschluss",
+  "ar": "قفل التسجيل",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Anmeldeversuch",
+  "ar": "محاولة تسجيل الدخول",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anmeldeversuche"
+ },
+ {
+  "de": "Anmeldezahl",
+  "ar": "عدد المسجلين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anmeldezahlen"
+ },
+ {
+  "de": "Anmerkung",
+  "ar": "الملاحظة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anmerkungen"
+ },
+ {
+  "de": "Anmietung",
+  "ar": "الاستئجار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anmietungen"
+ },
+ {
+  "de": "Anmut",
+  "ar": "الرشاقة / الجمال",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Annahmefrist",
+  "ar": "مهلة القبول",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Annahmefristen"
+ },
+ {
+  "de": "Annäherungsprozess",
+  "ar": "عملية التقارب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Annäherungsprozesse"
+ },
+ {
+  "de": "Anomalie",
+  "ar": "الشذوذ",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anomalien"
+ },
+ {
+  "de": "Anonymität",
+  "ar": "عدم كشف الهوية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Anpassungsmaßnahme",
+  "ar": "إجراء التكيف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anpassungsmaßnahmen"
+ },
+ {
+  "de": "Anrufung",
+  "ar": "النداء / الدعاء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anrufungen"
+ },
+ {
+  "de": "Anschaffung",
+  "ar": "الاقتناء / الشراء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anschaffungen"
+ },
+ {
+  "de": "Anschlagsplan",
+  "ar": "خطة الهجوم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anschlagspläne"
+ },
+ {
+  "de": "Anschlagszahl",
+  "ar": "عدد الهجمات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anschlagszahlen"
+ },
+ {
+  "de": "Anschlusskosten",
+  "ar": "تكاليف التوصيل",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Anschubfinanzierung",
+  "ar": "التمويل التأسيسي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anschubfinanzierungen"
+ },
+ {
+  "de": "Ansiedlung",
+  "ar": "التوطين / الاستيطان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ansiedlungen"
+ },
+ {
+  "de": "Anspannung",
+  "ar": "الشد / التوتر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anspannungen"
+ },
+ {
+  "de": "Anspiel",
+  "ar": "الإيماءة / التمريرة الأولى",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Anspiele"
+ },
+ {
+  "de": "Ansprechpartnerin",
+  "ar": "جهة الاتصال (ست)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ansprechpartnerinnen"
+ },
+ {
+  "de": "Anspruchsberechtigte",
+  "ar": "المستحق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anspruchsberechtigten"
+ },
+ {
+  "de": "Anstecknadel",
+  "ar": "دبوس الصدر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anstecknadeln"
+ },
+ {
+  "de": "Ansteckung",
+  "ar": "العدوى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Ansteckungen"
+ },
+ {
+  "de": "Anstellung",
+  "ar": "التعيين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anstellungen"
+ },
+ {
+  "de": "Anteilschein",
+  "ar": "سند الملكية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anteilscheine"
+ },
+ {
+  "de": "Anteilseigner",
+  "ar": "المساهم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anteilseigner"
+ },
+ {
+  "de": "Anteilsverkauf",
+  "ar": "بيع الحصص",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anteilsverkäufe"
+ },
+ {
+  "de": "Antennenturm",
+  "ar": "برج الهوائي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Antennentürme"
+ },
+ {
+  "de": "Anthropologie",
+  "ar": "الأنثروبولوجيا",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Antibiotika-Therapie",
+  "ar": "العلاج بالمضادات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Antibiotika-Therapien"
+ },
+ {
+  "de": "Antidemokrat",
+  "ar": "المعادي للديمقراطية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Antidemokraten"
+ },
+ {
+  "de": "Antidiskriminierung",
+  "ar": "مكافحة التمييز",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Antifa-Gruppe",
+  "ar": "مجموعة أنتيفا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Antifa-Gruppen"
+ },
+ {
+  "de": "Antifaschismus",
+  "ar": "مناهضة الفاشية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Antifeminismus",
+  "ar": "معاداة النسوية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Antikapitalist",
+  "ar": "المعادي للرأسمالية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Antikapitalisten"
+ },
+ {
+  "de": "Antikorruption",
+  "ar": "مكافحة الفساد",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Antikörper",
+  "ar": "الجسم المضاد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Antikörper"
+ },
+ {
+  "de": "Antilopenherde",
+  "ar": "قطيع الغزلان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Antilopenherden"
+ },
+ {
+  "de": "Antipasti",
+  "ar": "المقبلات (الإيطالي)",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Antippen",
+  "ar": "النقر الخفيف",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Antisemit",
+  "ar": "المعادي للسامية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Antisemiten"
+ },
+ {
+  "de": "Antiterrorstrategie",
+  "ar": "استراتيجية مكافحة الإرهاب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Antiterrorstrategien"
+ },
+ {
+  "de": "Antithese",
+  "ar": "النقيض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Antithesen"
+ },
+ {
+  "de": "Antragssteller",
+  "ar": "مقدم الطلب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Antragssteller"
+ },
+ {
+  "de": "Antragsteller",
+  "ar": "مقدم الطلب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Antragsteller"
+ },
+ {
+  "de": "Antragstellung",
+  "ar": "تقديم الطلب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Antragstellungen"
+ },
+ {
+  "de": "Antragsunterlagen",
+  "ar": "أوراق الطلب",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Antreiber",
+  "ar": "المحرك / الدافع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Antreiber"
+ },
+ {
+  "de": "Antriebsstrang",
+  "ar": "مجموعة نقل الحركة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Antriebsstränge"
+ },
+ {
+  "de": "Antrittsrede",
+  "ar": "خطاب التنصيب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Antrittsreden"
+ },
+ {
+  "de": "Anverwandte",
+  "ar": "القريب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Anverwandten"
+ },
+ {
+  "de": "Anwendungsfeld",
+  "ar": "مجال التطبيق",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Anwendungsfelder"
+ },
+ {
+  "de": "Anwendungsmöglichkeit",
+  "ar": "إمكانية الاستخدام",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anwendungsmöglichkeiten"
+ },
+ {
+  "de": "Anwendungsszenario",
+  "ar": "سيناريو الاستخدام",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Anwendungsszenarien"
+ },
+ {
+  "de": "Anzeigenblatt",
+  "ar": "جريدة الإعلانات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Anzeigenblätter"
+ },
+ {
+  "de": "Anzeigenerstattung",
+  "ar": "تقديم بلاغ",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anzeigenerstattungen"
+ },
+ {
+  "de": "Anziehsachen",
+  "ar": "الهدوم",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Anziehung",
+  "ar": "الجاذبية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Anziehungen"
+ },
+ {
+  "de": "Apartheid",
+  "ar": "الفصل العنصري",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Apathie",
+  "ar": "اللامبالاة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Aperitivo",
+  "ar": "المشروب قبل الأكل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aperitivos"
+ },
+ {
+  "de": "Apfelbaum",
+  "ar": "شجرة التفاح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Apfelbäume"
+ },
+ {
+  "de": "Apfelessig",
+  "ar": "خل التفاح",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Apfelkern",
+  "ar": "بزرة التفاح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Apfelkerne"
+ },
+ {
+  "de": "Apfelmus",
+  "ar": "التفاح المهروس",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Apfelplantage",
+  "ar": "مزرعة تفاح",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Apfelplantagen"
+ },
+ {
+  "de": "Apostel",
+  "ar": "الرسول (المسيحي)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Apostel"
+ },
+ {
+  "de": "Apothekenhelferin",
+  "ar": "مساعدة الصيدلي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Apothekenhelferinnen"
+ },
+ {
+  "de": "Apothekerkammer",
+  "ar": "نقابة الصيادلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Apothekerkammern"
+ },
+ {
+  "de": "App-Installation",
+  "ar": "تثبيت التطبيق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "App-Installationen"
+ },
+ {
+  "de": "App-Marktplatz",
+  "ar": "متجر التطبيقات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "App-Marktplätze"
+ },
+ {
+  "de": "App-Symbol",
+  "ar": "أيقونة التطبيق",
+  "pos": "noun",
+  "art": "das",
+  "pl": "App-Symbole"
+ },
+ {
+  "de": "Apparatur",
+  "ar": "الجهاز",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Apparaturen"
+ },
+ {
+  "de": "Appartement",
+  "ar": "الشقة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Appartements"
+ },
+ {
+  "de": "Approbation",
+  "ar": "ترخيص مزاولة المهنة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Approbationen"
+ },
+ {
+  "de": "Aquarell",
+  "ar": "اللوحة المائية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Aquarelle"
+ },
+ {
+  "de": "Aquädukt",
+  "ar": "قناة المياه",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aquädukte"
+ },
+ {
+  "de": "Aramäer",
+  "ar": "الآرامي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Aramäer"
+ },
+ {
+  "de": "Arbeiteraufstand",
+  "ar": "انتفاضة العمال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Arbeiteraufstände"
+ },
+ {
+  "de": "Arbeiterschaft",
+  "ar": "الطبقة العاملة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Arbeiterviertel",
+  "ar": "حي العمال",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Arbeiterviertel"
+ },
+ {
+  "de": "Arbeitgeberseite",
+  "ar": "جانب أصحاب العمل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Arbeitnehmerrecht",
+  "ar": "حق الموظف",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Arbeitnehmerrechte"
+ },
+ {
+  "de": "Arbeitnehmerseite",
+  "ar": "جانب الموظفين",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Arbeitnehmervertreter",
+  "ar": "ممثل الموظفين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Arbeitnehmervertreter"
+ },
+ {
+  "de": "Arbeitsablauf",
+  "ar": "سير العمل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Arbeitsabläufe"
+ },
+ {
+  "de": "Arbeitsangebot",
+  "ar": "عرض شغل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Arbeitsangebote"
+ },
+ {
+  "de": "Arbeitsaufnahme",
+  "ar": "بدء العمل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Arbeitsaufwand",
+  "ar": "حجم الشغل",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Arbeitsausschuss",
+  "ar": "اللجنة العاملة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Arbeitsausschüsse"
+ },
+ {
+  "de": "Arbeitsausstand",
+  "ar": "الإضراب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Arbeitsausstände"
+ },
+ {
+  "de": "Arbeitsbeginn",
+  "ar": "بداية الشغل",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Arbeitsebene",
+  "ar": "المستوى (شغل)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Arbeitsebenen"
+ },
+ {
+  "de": "Arbeitseinstellung",
+  "ar": "وقف العمل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Arbeitseinstellungen"
+ },
+ {
+  "de": "Arbeitseinsatz",
+  "ar": "نوبة الشغل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Arbeitseinsätze"
+ },
+ {
+  "de": "Arbeitsentgelt",
+  "ar": "الأجر",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Arbeitsentgelte"
+ },
+ {
+  "de": "Arbeitsintegration",
+  "ar": "الدمج في سوق العمل",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Arbeitskollege",
+  "ar": "زميل الشغل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Arbeitskollegen"
+ },
+ {
+  "de": "Arbeitskräftelücke",
+  "ar": "فجوة العمالة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Arbeitskräftelücken"
+ },
+ {
+  "de": "Arbeitskräftemangel",
+  "ar": "نقص العمالة",
+  "pos": "noun",
+  "art": "der"
+ }
+]
