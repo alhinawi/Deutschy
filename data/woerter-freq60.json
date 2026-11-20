@@ -1,0 +1,753 @@
+[
+ {
+  "de": "Betreuungseinrichtung",
+  "ar": "مؤسسة رعاية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Betreuungseinrichtungen"
+ },
+ {
+  "de": "Betreuungskosten",
+  "ar": "تكاليف الرعاية",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Betreuungskraft",
+  "ar": "عامل الرعاية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Betreuungskräfte"
+ },
+ {
+  "de": "Betreuungsplatz",
+  "ar": "مكان رعاية (حضانة)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Betreuungsplätze"
+ },
+ {
+  "de": "Betreuungsstelle",
+  "ar": "مكتب الرعاية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Betreuungsstellen"
+ },
+ {
+  "de": "Betriebseigentümer",
+  "ar": "صاحب المنشأة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Betriebseigentümer"
+ },
+ {
+  "de": "Betriebserweiterung",
+  "ar": "توسعة المنشأة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Betriebserweiterungen"
+ },
+ {
+  "de": "Betriebsfeuerwehr",
+  "ar": "إطفائية الشركة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Betriebsfeuerwehren"
+ },
+ {
+  "de": "Betriebsgelände",
+  "ar": "أرض المنشأة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Betriebsgelände"
+ },
+ {
+  "de": "Betriebskindergarten",
+  "ar": "حضانة الشركة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Betriebskindergärten"
+ },
+ {
+  "de": "Betriebsrat",
+  "ar": "مجلس العمال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Betriebsräte"
+ },
+ {
+  "de": "Betriebsratswahl",
+  "ar": "انتخابات مجلس العمال",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Betriebsratswahlen"
+ },
+ {
+  "de": "Betriebsrätin",
+  "ar": "عضوة مجلس العمال",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Betriebsrätinnen"
+ },
+ {
+  "de": "Betriebsstätte",
+  "ar": "فرع الشركة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Betriebsstätten"
+ },
+ {
+  "de": "Betriebstemperatur",
+  "ar": "درجة حرارة التشغيل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Betriebstemperaturen"
+ },
+ {
+  "de": "Betriebsunfall",
+  "ar": "حادث الشغل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Betriebsunfälle"
+ },
+ {
+  "de": "Betriebsurlaub",
+  "ar": "أجازة الشركة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Betriebsurlaube"
+ },
+ {
+  "de": "Betrugsanzeige",
+  "ar": "بلاغ احتيال",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Betrugsanzeigen"
+ },
+ {
+  "de": "Betrugsskandal",
+  "ar": "فضيحة احتيال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Betrugsskandale"
+ },
+ {
+  "de": "Betrugsversuch",
+  "ar": "محاولة الاحتيال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Betrugsversuche"
+ },
+ {
+  "de": "Betrugsvorwurf",
+  "ar": "تهمة الاحتيال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Betrugsvorwürfe"
+ },
+ {
+  "de": "Betrunkene",
+  "ar": "السكران",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Betrunkenen"
+ },
+ {
+  "de": "Betrunkenheit",
+  "ar": "السكر",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Beule",
+  "ar": "الورمة / الرضوضة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beulen"
+ },
+ {
+  "de": "Beutegreifer",
+  "ar": "الحيوان المفترس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Beutegreifer"
+ },
+ {
+  "de": "Bevormundung",
+  "ar": "الوصاية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bevormundungen"
+ },
+ {
+  "de": "Bevorzugung",
+  "ar": "التفضيل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bevorzugungen"
+ },
+ {
+  "de": "Bevölkerungsprognose",
+  "ar": "توقعات السكان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bevölkerungsprognosen"
+ },
+ {
+  "de": "Bewacher",
+  "ar": "الحارس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bewacher"
+ },
+ {
+  "de": "Bewaffnete",
+  "ar": "المسلح",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bewaffneten"
+ },
+ {
+  "de": "Beweggrund",
+  "ar": "الدافع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Beweggründe"
+ },
+ {
+  "de": "Bewegungsablauf",
+  "ar": "تسلسل الحركة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bewegungsabläufe"
+ },
+ {
+  "de": "Bewegungsapparat",
+  "ar": "الجهاز الحركي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bewegungsapparate"
+ },
+ {
+  "de": "Bewegungseinheit",
+  "ar": "حصة رياضة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bewegungseinheiten"
+ },
+ {
+  "de": "Bewegungsparcours",
+  "ar": "مسار الحركة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bewegungsparcours"
+ },
+ {
+  "de": "Beweisaufnahme",
+  "ar": "سماع الأدلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Beweisaufnahmen"
+ },
+ {
+  "de": "Beweislast",
+  "ar": "عبء الإثبات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Beweismittel",
+  "ar": "وسيلة الإثبات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Beweismittel"
+ },
+ {
+  "de": "Bewerberin",
+  "ar": "المتقدمة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bewerberinnen"
+ },
+ {
+  "de": "Bewerbungsprozess",
+  "ar": "عملية التقديم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bewerbungsprozesse"
+ },
+ {
+  "de": "Bewerbungsunterlagen",
+  "ar": "أوراق التقديم",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Bewirtschaftung",
+  "ar": "الإدارة / الاستزراع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bewirtschaftungen"
+ },
+ {
+  "de": "Bewusstseinsstrom",
+  "ar": "تيار الوعي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bewusstseinsströme"
+ },
+ {
+  "de": "Bewässerung",
+  "ar": "الري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bewässerungen"
+ },
+ {
+  "de": "Bezahlkarte",
+  "ar": "كارت الدفع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bezahlkarten"
+ },
+ {
+  "de": "Bezahlmodell",
+  "ar": "نموذج الدفع",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bezahlmodelle"
+ },
+ {
+  "de": "Bezahlsender",
+  "ar": "قناة مدفوعة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bezahlsender"
+ },
+ {
+  "de": "Bezahlvorgang",
+  "ar": "عملية الدفع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bezahlvorgänge"
+ },
+ {
+  "de": "Beziehungsproblem",
+  "ar": "مشكلة العلاقة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Beziehungsprobleme"
+ },
+ {
+  "de": "Bezirkschef",
+  "ar": "رئيس المقاطعة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bezirkschefs"
+ },
+ {
+  "de": "Bezirkspräsident",
+  "ar": "رئيس المقاطعة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bezirkspräsidenten"
+ },
+ {
+  "de": "Bezirksstelle",
+  "ar": "مكتب المقاطعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bezirksstellen"
+ },
+ {
+  "de": "Bezirksvertreter",
+  "ar": "ممثل المقاطعة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bezirksvertreter"
+ },
+ {
+  "de": "Bezirkswahl",
+  "ar": "انتخابات المقاطعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bezirkswahlen"
+ },
+ {
+  "de": "Bezugsnummer",
+  "ar": "رقم المرجع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bezugsnummern"
+ },
+ {
+  "de": "Bezugsperson",
+  "ar": "الشخص المرجعي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bezugspersonen"
+ },
+ {
+  "de": "Bezugspunkt",
+  "ar": "نقطة المرجع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bezugspunkte"
+ },
+ {
+  "de": "Biathletin",
+  "ar": "لاعبة البياثلون",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Biathletinnen"
+ },
+ {
+  "de": "Bibelvers",
+  "ar": "آية الكتاب المقدس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bibelverse"
+ },
+ {
+  "de": "Bibliotheksleiterin",
+  "ar": "مديرة المكتبة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bibliotheksleiterinnen"
+ },
+ {
+  "de": "Bierbrauer",
+  "ar": "مخمر البيرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bierbrauer"
+ },
+ {
+  "de": "Bierdeckel",
+  "ar": "قاعدة كاسة البيرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bierdeckel"
+ },
+ {
+  "de": "Bierkonsum",
+  "ar": "استهلاك البيرة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Bierpreis",
+  "ar": "سعر البيرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bierpreise"
+ },
+ {
+  "de": "Bierspezialität",
+  "ar": "نوع بيرة مميز",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bierspezialitäten"
+ },
+ {
+  "de": "Biertisch",
+  "ar": "ترابيزة البيرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Biertische"
+ },
+ {
+  "de": "Biertrinker",
+  "ar": "شارب البيرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Biertrinker"
+ },
+ {
+  "de": "Bierverkostung",
+  "ar": "تذوق البيرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bierverkostungen"
+ },
+ {
+  "de": "Bierzelt",
+  "ar": "خيمة البيرة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bierzelte"
+ },
+ {
+  "de": "Bietergefecht",
+  "ar": "معركة المزايدة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bietergefechte"
+ },
+ {
+  "de": "Bilddatenbank",
+  "ar": "قاعدة بيانات الصور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bilddatenbanken"
+ },
+ {
+  "de": "Bilderreihe",
+  "ar": "سلسلة صور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bilderreihen"
+ },
+ {
+  "de": "Bildhauerin",
+  "ar": "النحاتة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bildhauerinnen"
+ },
+ {
+  "de": "Bildnis",
+  "ar": "البورتريه (رسم)",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bildnisse"
+ },
+ {
+  "de": "Bildqualität",
+  "ar": "جودة الصورة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bildrate",
+  "ar": "معدل الإطارات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bildraten"
+ },
+ {
+  "de": "Bildschirmgröße",
+  "ar": "حجم الشاشة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bildschirmgrößen"
+ },
+ {
+  "de": "Bildungsangebot",
+  "ar": "العرض التعليمي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bildungsangebote"
+ },
+ {
+  "de": "Bildungsarbeit",
+  "ar": "العمل التعليمي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bildungsbericht",
+  "ar": "تقرير التعليم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bildungsberichte"
+ },
+ {
+  "de": "Bildungscampus",
+  "ar": "الحرم التعليمي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bildungscampus"
+ },
+ {
+  "de": "Bildungsforscher",
+  "ar": "باحث التعليم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bildungsforscher"
+ },
+ {
+  "de": "Bildungsgerechtigkeit",
+  "ar": "عدالة التعليم",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Bildungsgewerkschaft",
+  "ar": "نقابة التعليم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bildungsgewerkschaften"
+ },
+ {
+  "de": "Bildungskluft",
+  "ar": "فجوة التعليم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bildungsklufte"
+ },
+ {
+  "de": "Bildungsmesse",
+  "ar": "معرض التعليم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bildungsmessen"
+ },
+ {
+  "de": "Bildungsminister",
+  "ar": "وزير التعليم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bildungsminister"
+ },
+ {
+  "de": "Bildungsministerium",
+  "ar": "وزارة التعليم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bildungsministerien"
+ },
+ {
+  "de": "Bildungsschicht",
+  "ar": "الطبقة التعليمية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Bildungsschichten"
+ },
+ {
+  "de": "Bildungssystem",
+  "ar": "النظام التعليمي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bildungssysteme"
+ },
+ {
+  "de": "Billigflieger",
+  "ar": "الطيران الاقتصادي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Billigflieger"
+ },
+ {
+  "de": "Billigware",
+  "ar": "البضاعة الرخيصة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Billigwaren"
+ },
+ {
+  "de": "Billion",
+  "ar": "التريليون",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Billionen"
+ },
+ {
+  "de": "Bindegewebe",
+  "ar": "النسيج الضام",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Bindeglied",
+  "ar": "حلقة الوصل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Bindeglieder"
+ },
+ {
+  "de": "Binärsystem",
+  "ar": "النظام الثنائي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Binärsysteme"
+ },
+ {
+  "de": "Bio-Landwirtschaft",
+  "ar": "الزراعة العضوية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Biogasanlage",
+  "ar": "محطة الغاز الحيوي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Biogasanlagen"
+ },
+ {
+  "de": "Biograf",
+  "ar": "كاتب السيرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Biografen"
+ },
+ {
+  "de": "Biokraftstoff",
+  "ar": "الوقود الحيوي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Biokraftstoffe"
+ },
+ {
+  "de": "Biokraftwerk",
+  "ar": "محطة الطاقة الحيوية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Biokraftwerke"
+ },
+ {
+  "de": "Biokunststoff",
+  "ar": "البلاستيك الحيوي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Biokunststoffe"
+ },
+ {
+  "de": "Bioladen",
+  "ar": "محل العضوي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Bioläden"
+ },
+ {
+  "de": "Biomarkt",
+  "ar": "سوبرماركت العضوي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Biomärkte"
+ },
+ {
+  "de": "Biomethan",
+  "ar": "الميثان الحيوي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Biosignatur",
+  "ar": "بصمة حيوية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Biosignaturen"
+ },
+ {
+  "de": "Biotech-Unternehmen",
+  "ar": "شركة التكنولوجيا الحيوية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Biotech-Unternehmen"
+ },
+ {
+  "de": "Biotechniker",
+  "ar": "فني التكنولوجيا الحيوية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Biotechniker"
+ },
+ {
+  "de": "Biotechnologie",
+  "ar": "التكنولوجيا الحيوية",
+  "pos": "noun",
+  "art": "die"
+ }
+]
