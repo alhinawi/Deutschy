@@ -1,0 +1,1571 @@
+[
+ {
+  "de": "Smartwatch",
+  "ar": "الساعة الذكية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Smartwatches"
+ },
+ {
+  "de": "Social-Media-Kanal",
+  "ar": "قناة السوشيال ميديا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Social-Media-Kanäle"
+ },
+ {
+  "de": "Social-Media-Plattform",
+  "ar": "منصة السوشيال ميديا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Social-Media-Plattformen"
+ },
+ {
+  "de": "Social-Media-Post",
+  "ar": "البوست",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Social-Media-Posts"
+ },
+ {
+  "de": "Softdrink",
+  "ar": "المشروب الغازي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Softdrinks"
+ },
+ {
+  "de": "Soja",
+  "ar": "الصويا",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Solarenergie",
+  "ar": "الطاقة الشمسية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Solarpanel",
+  "ar": "اللوح الشمسي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Solarpanels"
+ },
+ {
+  "de": "Solarstrom",
+  "ar": "كهربا الشمس",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Solartechnik",
+  "ar": "تقنية الطاقة الشمسية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Soli",
+  "ar": "مساهمة التضامن (عامية)",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Solis"
+ },
+ {
+  "de": "Solidaritätszuschlag",
+  "ar": "ضريبة التضامن",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Solist",
+  "ar": "العازف المنفرد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Solisten"
+ },
+ {
+  "de": "Sommerflugplan",
+  "ar": "جدول رحلات الصيف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Sommerflugpläne"
+ },
+ {
+  "de": "Sommerzeit",
+  "ar": "التوقيت الصيفي / فصل الصيف",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Sonderfall",
+  "ar": "الحالة الخاصة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Sonderfälle"
+ },
+ {
+  "de": "Sondervermögen",
+  "ar": "الصندوق الخاص",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Sondervermögen"
+ },
+ {
+  "de": "Sonderzahlung",
+  "ar": "الدفعة الاستثنائية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Sonderzahlungen"
+ },
+ {
+  "de": "Sondierung",
+  "ar": "جس النبض",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Sondierungen"
+ },
+ {
+  "de": "Songwriterin",
+  "ar": "كاتبة الأغاني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Songwriterinnen"
+ },
+ {
+  "de": "Sonnenhut",
+  "ar": "القبعة الشمسية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Sonnenhüte"
+ },
+ {
+  "de": "Sorgfalt",
+  "ar": "العناية / الدقة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Sortenvielfalt",
+  "ar": "تنوع الأصناف",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Soul",
+  "ar": "موسيقى السول",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Sowjetunion",
+  "ar": "الاتحاد السوفيتي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Sozialgefüge",
+  "ar": "النسيج الاجتماعي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Sozialismus",
+  "ar": "الاشتراكية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Sozialist",
+  "ar": "الاشتراكي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Sozialisten"
+ },
+ {
+  "de": "Sozialministerin",
+  "ar": "وزيرة الشؤون الاجتماعية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Sozialministerinnen"
+ },
+ {
+  "de": "Sozialpolitik",
+  "ar": "السياسة الاجتماعية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Soziologe",
+  "ar": "عالم الاجتماع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Soziologen"
+ },
+ {
+  "de": "Spaltung",
+  "ar": "الانقسام",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Spaltungen"
+ },
+ {
+  "de": "Sparkassenfiliale",
+  "ar": "فرع بنك التوفير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Sparkassenfilialen"
+ },
+ {
+  "de": "Sparmaßnahme",
+  "ar": "إجراء التقشف",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Sparmaßnahmen"
+ },
+ {
+  "de": "Sparprogramm",
+  "ar": "برنامج التقشف",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Sparprogramme"
+ },
+ {
+  "de": "Sparquote",
+  "ar": "معدل الادخار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Sparquoten"
+ },
+ {
+  "de": "Spaziergängerin",
+  "ar": "المتنزهة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Spaziergängerinnen"
+ },
+ {
+  "de": "Speicherausstattung",
+  "ar": "سعة التخزين",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Speise",
+  "ar": "الأكلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Speisen"
+ },
+ {
+  "de": "Spendenbereitschaft",
+  "ar": "الاستعداد للتبرع",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Sperrbildschirm",
+  "ar": "شاشة القفل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Sperrbildschirme"
+ },
+ {
+  "de": "Spezialausgabe",
+  "ar": "العدد الخاص",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Spezialausgaben"
+ },
+ {
+  "de": "Spezialeinsatzkraft",
+  "ar": "قوات العمليات الخاصة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Spezialeinsatzkräfte"
+ },
+ {
+  "de": "Sphäre",
+  "ar": "المجال / الكرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Sphären"
+ },
+ {
+  "de": "Spielanlage",
+  "ar": "ملعب الأطفال",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Spielanlagen"
+ },
+ {
+  "de": "Spielbeginn",
+  "ar": "بداية الماتش",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Spielbetrieb",
+  "ar": "سير المباريات",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Spieldauer",
+  "ar": "مدة اللعب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Spieleentwickler",
+  "ar": "مطور الألعاب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Spieleentwickler"
+ },
+ {
+  "de": "Spielekonsole",
+  "ar": "الكونسول",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Spielekonsolen"
+ },
+ {
+  "de": "Spielfeldrand",
+  "ar": "حدود الملعب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Spielfeldränder"
+ },
+ {
+  "de": "Spielfilm",
+  "ar": "الفيلم الروائي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Spielfilme"
+ },
+ {
+  "de": "Spielgerät",
+  "ar": "جهاز اللعب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Spielgeräte"
+ },
+ {
+  "de": "Spielklasse",
+  "ar": "درجة الدوري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Spielklassen"
+ },
+ {
+  "de": "Spielkontrolle",
+  "ar": "إدارة الحكم للماتش",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Spielleiter",
+  "ar": "الحكم / مدير اللعبة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Spielleiter"
+ },
+ {
+  "de": "Spielpraxis",
+  "ar": "خبرة المباريات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Spielregel",
+  "ar": "قاعدة اللعبة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Spielregeln"
+ },
+ {
+  "de": "Spielstand",
+  "ar": "النتيجة / حفظ اللعبة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Spielstände"
+ },
+ {
+  "de": "Spielstätte",
+  "ar": "مكان اللعب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Spielstätten"
+ },
+ {
+  "de": "Spielverlauf",
+  "ar": "سير الماتش",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Spin-off",
+  "ar": "العمل الفرعي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Spin-offs"
+ },
+ {
+  "de": "Spionage",
+  "ar": "التجسس",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Spitzengruppe",
+  "ar": "مجموعة الصدارة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Spitzengruppen"
+ },
+ {
+  "de": "Spitzenkandidatin",
+  "ar": "المرشحة الأولى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Spitzenkandidatinnen"
+ },
+ {
+  "de": "Spitzenpolitiker",
+  "ar": "السياسي البارز",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Spitzenpolitiker"
+ },
+ {
+  "de": "Spitzenposition",
+  "ar": "المركز الأول",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Spitzenpositionen"
+ },
+ {
+  "de": "Spitzenspiel",
+  "ar": "ماتش القمة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Spitzenspiele"
+ },
+ {
+  "de": "Spitzenwert",
+  "ar": "القيمة القصوى",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Spitzenwerte"
+ },
+ {
+  "de": "Spitzname",
+  "ar": "اللقب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Spitznamen"
+ },
+ {
+  "de": "Sponsoring",
+  "ar": "الرعاية",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Sportanlage",
+  "ar": "المنشأة الرياضية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Sportanlagen"
+ },
+ {
+  "de": "Sportereignis",
+  "ar": "الحدث الرياضي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Sportereignisse"
+ },
+ {
+  "de": "Sportfreund",
+  "ar": "صديق الرياضة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Sportfreunde"
+ },
+ {
+  "de": "Sportveranstaltung",
+  "ar": "الفعالية الرياضية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Sportveranstaltungen"
+ },
+ {
+  "de": "Sportverein",
+  "ar": "النادي الرياضي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Sportvereine"
+ },
+ {
+  "de": "Sportvorstand",
+  "ar": "المدير الرياضي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Sportvorstände"
+ },
+ {
+  "de": "Spot",
+  "ar": "الإعلان القصير",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Spots"
+ },
+ {
+  "de": "Spott",
+  "ar": "السخرية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Sprachniveau",
+  "ar": "مستوى اللغة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Sprachniveaus"
+ },
+ {
+  "de": "Spray",
+  "ar": "السبراي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Sprays"
+ },
+ {
+  "de": "Sprinter",
+  "ar": "العداء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Sprinter"
+ },
+ {
+  "de": "Sprunggelenk",
+  "ar": "الكاحل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Sprunggelenke"
+ },
+ {
+  "de": "Spuk",
+  "ar": "الشبح / الرعب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Spuke"
+ },
+ {
+  "de": "Spurensuche",
+  "ar": "البحث عن الأدلة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Spurwechsel",
+  "ar": "تغيير الحارة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Spurwechsel"
+ },
+ {
+  "de": "Spülmittel",
+  "ar": "صابون المواعين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Spülmittel"
+ },
+ {
+  "de": "Staatsagentur",
+  "ar": "الوكالة الحكومية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Staatsagenturen"
+ },
+ {
+  "de": "Staatsbürgerschaft",
+  "ar": "الجنسية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Staatsbürgerschaften"
+ },
+ {
+  "de": "Staatsmedium",
+  "ar": "الإعلام الحكومي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Staatsmedien"
+ },
+ {
+  "de": "Staatsoper",
+  "ar": "أوبرا الدولة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Staatsopern"
+ },
+ {
+  "de": "Staatssekretär",
+  "ar": "وكيل الوزارة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Staatssekretäre"
+ },
+ {
+  "de": "Staatssekretärin",
+  "ar": "وكيلة الوزارة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Staatssekretärinnen"
+ },
+ {
+  "de": "Staatstheater",
+  "ar": "مسرح الدولة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Staatstheater"
+ },
+ {
+  "de": "Stadtbahn",
+  "ar": "ترام المدينة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Stadtbahnen"
+ },
+ {
+  "de": "Stadtbahnlinie",
+  "ar": "خط الترام",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Stadtbahnlinien"
+ },
+ {
+  "de": "Stadtbibliothek",
+  "ar": "مكتبة المدينة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Stadtbibliotheken"
+ },
+ {
+  "de": "Stadtbücherei",
+  "ar": "مكتبة المدينة العامة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Stadtbüchereien"
+ },
+ {
+  "de": "Stadtfeuerwehr",
+  "ar": "مطافئ المدينة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Stadtfeuerwehren"
+ },
+ {
+  "de": "Stadtgesellschaft",
+  "ar": "مجتمع المدينة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Stadtgesellschaften"
+ },
+ {
+  "de": "Stadtkapelle",
+  "ar": "فرقة المدينة الموسيقية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Stadtkapellen"
+ },
+ {
+  "de": "Stadtlauf",
+  "ar": "سباق المدينة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Stadtläufe"
+ },
+ {
+  "de": "Stadtpark",
+  "ar": "حديقة المدينة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Stadtparks"
+ },
+ {
+  "de": "Stadtplanung",
+  "ar": "تخطيط المدينة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Stadtpolitik",
+  "ar": "سياسة المدينة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Stadtpolizei",
+  "ar": "شرطة المدينة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Stadtpolizeien"
+ },
+ {
+  "de": "Stadtregierung",
+  "ar": "حكومة المدينة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Stadtregierungen"
+ },
+ {
+  "de": "Stadtteilzentrum",
+  "ar": "مركز الحي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Stadtteilzentren"
+ },
+ {
+  "de": "Stadtverordnetenversammlung",
+  "ar": "مجلس المدينة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Stadtverordnetenversammlungen"
+ },
+ {
+  "de": "Stadtzentrum",
+  "ar": "وسط المدينة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Stadtzentren"
+ },
+ {
+  "de": "Staffellauf",
+  "ar": "سباق التتابع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Staffelläufe"
+ },
+ {
+  "de": "Stahlsparte",
+  "ar": "قطاع الصلب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Stahlsparten"
+ },
+ {
+  "de": "Stammtisch",
+  "ar": "ترابيزة الأصدقاء المعتادة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Stammtische"
+ },
+ {
+  "de": "Stammzelle",
+  "ar": "الخلية الجذعية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Stammzellen"
+ },
+ {
+  "de": "Standardisierung",
+  "ar": "التوحيد القياسي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Standardisierungen"
+ },
+ {
+  "de": "Stange",
+  "ar": "العصا / العامود",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Stangen"
+ },
+ {
+  "de": "Starterfeld",
+  "ar": "قائمة المتسابقين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Starterfelder"
+ },
+ {
+  "de": "Startformation",
+  "ar": "تشكيلة البداية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Startformationen"
+ },
+ {
+  "de": "Startloch",
+  "ar": "مكان التأهل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Startlöcher"
+ },
+ {
+  "de": "Startup",
+  "ar": "الشركة الناشئة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Startups"
+ },
+ {
+  "de": "Staude",
+  "ar": "النبات المعمر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Stauden"
+ },
+ {
+  "de": "Stauraum",
+  "ar": "مساحة التخزين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Stauräume"
+ },
+ {
+  "de": "Stichverletzung",
+  "ar": "إصابة الطعن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Stichverletzungen"
+ },
+ {
+  "de": "Stickstoff",
+  "ar": "النيتروجين",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Stiegenhaus",
+  "ar": "سلم البيت (النمسا)",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Stiegenhäuser"
+ },
+ {
+  "de": "Stiel",
+  "ar": "اليد / العصا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Stiele"
+ },
+ {
+  "de": "Stillleben",
+  "ar": "الطبيعة الصامتة (فن)",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Stillleben"
+ },
+ {
+  "de": "Stipendium",
+  "ar": "المنحة الدراسية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Stipendien"
+ },
+ {
+  "de": "Strafgerichtshof",
+  "ar": "المحكمة الجنائية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Strafgerichtshöfe"
+ },
+ {
+  "de": "Strafmaß",
+  "ar": "مقدار العقوبة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Strafmaße"
+ },
+ {
+  "de": "Strafprozessordnung",
+  "ar": "قانون المرافعات الجنائية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Strafrecht",
+  "ar": "القانون الجنائي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Strafrunde",
+  "ar": "لفة العقاب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Strafrunden"
+ },
+ {
+  "de": "Strafzahlung",
+  "ar": "الغرامة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Strafzahlungen"
+ },
+ {
+  "de": "Strahl",
+  "ar": "الشعاع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Strahlen"
+ },
+ {
+  "de": "Strahlkraft",
+  "ar": "قوة التأثير / الإشعاع",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Stratege",
+  "ar": "الاستراتيجي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Strategen"
+ },
+ {
+  "de": "Straßennetz",
+  "ar": "شبكة الطرق",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Straßennetze"
+ },
+ {
+  "de": "Straßenrennen",
+  "ar": "سباق الطريق",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Straßenrennen"
+ },
+ {
+  "de": "Straßenseite",
+  "ar": "جانب الشارع",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Straßenseiten"
+ },
+ {
+  "de": "Straßensperrung",
+  "ar": "إغلاق الطريق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Straßensperrungen"
+ },
+ {
+  "de": "Straßenverkehrsbehörde",
+  "ar": "هيئة المرور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Straßenverkehrsbehörden"
+ },
+ {
+  "de": "Streaming-Dienst",
+  "ar": "خدمة البث",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Streaming-Dienste"
+ },
+ {
+  "de": "Streaming-Plattform",
+  "ar": "منصة البث",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Streaming-Plattformen"
+ },
+ {
+  "de": "Streckenabschnitt",
+  "ar": "قطاع المسار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Streckenabschnitte"
+ },
+ {
+  "de": "Streife",
+  "ar": "الدورية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Streifen"
+ },
+ {
+  "de": "Streifenwagenbesatzung",
+  "ar": "طاقم عربية الدورية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Streifenwagenbesatzungen"
+ },
+ {
+  "de": "Strohhalm",
+  "ar": "الشاليموه",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Strohhalme"
+ },
+ {
+  "de": "Stromrechnung",
+  "ar": "فاتورة الكهربا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Stromrechnungen"
+ },
+ {
+  "de": "Stromverbrauch",
+  "ar": "استهلاك الكهربا",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Strophe",
+  "ar": "المقطع (شعر/أغنية)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Strophen"
+ },
+ {
+  "de": "Strömung",
+  "ar": "التيار",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Strömungen"
+ },
+ {
+  "de": "Studienanfänger",
+  "ar": "الطالب الجامعي الجديد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Studienanfänger"
+ },
+ {
+  "de": "Studienautor",
+  "ar": "باحث الدراسة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Studienautoren"
+ },
+ {
+  "de": "Sturmgewehr",
+  "ar": "البندقية الهجومية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Sturmgewehre"
+ },
+ {
+  "de": "Sturmtief",
+  "ar": "المنخفض العاصف",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Sturmtiefs"
+ },
+ {
+  "de": "Städtchen",
+  "ar": "البلدة الصغيرة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Städtchen"
+ },
+ {
+  "de": "Ständer",
+  "ar": "الحامل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ständer"
+ },
+ {
+  "de": "Stärkung",
+  "ar": "التعزيز / الأكلة الخفيفة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Stärkungen"
+ },
+ {
+  "de": "Stützpunkt",
+  "ar": "القاعدة / المركز",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Stützpunkte"
+ },
+ {
+  "de": "Subtext",
+  "ar": "الرسالة الضمنية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Subtexte"
+ },
+ {
+  "de": "Suchanfrage",
+  "ar": "طلب البحث",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Suchanfragen"
+ },
+ {
+  "de": "Suchmaßnahme",
+  "ar": "إجراء البحث",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Suchmaßnahmen"
+ },
+ {
+  "de": "Suchtprävention",
+  "ar": "الوقاية من الإدمان",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Suezkanal",
+  "ar": "قناة السويس",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Suizid",
+  "ar": "الانتحار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Suizide"
+ },
+ {
+  "de": "Super-Taifun",
+  "ar": "الإعصار العملاق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Super-Taifune"
+ },
+ {
+  "de": "Superkraft",
+  "ar": "القوة الخارقة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Superkräfte"
+ },
+ {
+  "de": "Support",
+  "ar": "الدعم",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Surfen",
+  "ar": "ركوب الأمواج / التصفح",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Synode",
+  "ar": "المجمع الكنسي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Synoden"
+ },
+ {
+  "de": "Säugetier",
+  "ar": "الثدييات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Säugetiere"
+ },
+ {
+  "de": "Säugling",
+  "ar": "الرضيع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Säuglinge"
+ },
+ {
+  "de": "Säule",
+  "ar": "العمود / الركيزة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Säulen"
+ },
+ {
+  "de": "Südspitze",
+  "ar": "الطرف الجنوبي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Südspitzen"
+ },
+ {
+  "de": "Südstadt",
+  "ar": "جنوب المدينة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Südwand",
+  "ar": "الواجهة الجنوبية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Südwände"
+ },
+ {
+  "de": "TV-Duell",
+  "ar": "المناظرة التلفزيونية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "TV-Duelle"
+ },
+ {
+  "de": "TV-Konfrontation",
+  "ar": "المواجهة التلفزيونية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "TV-Konfrontationen"
+ },
+ {
+  "de": "TV-Moderator",
+  "ar": "مذيع التلفزيون",
+  "pos": "noun",
+  "art": "der",
+  "pl": "TV-Moderatoren"
+ },
+ {
+  "de": "TV-Recht",
+  "ar": "حقوق البث",
+  "pos": "noun",
+  "art": "das",
+  "pl": "TV-Rechte"
+ },
+ {
+  "de": "TV-Sender",
+  "ar": "قناة التلفزيون",
+  "pos": "noun",
+  "art": "der",
+  "pl": "TV-Sender"
+ },
+ {
+  "de": "Tabellenerste",
+  "ar": "متصدر الجدول",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Tabellenersten"
+ },
+ {
+  "de": "Tabellenführung",
+  "ar": "الصدارة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Tabellenkeller",
+  "ar": "قاع الجدول",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Tabellenletzte",
+  "ar": "الأخير في الجدول",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Tabellenletzten"
+ },
+ {
+  "de": "Tabellenspitze",
+  "ar": "قمة الجدول",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Tagesgeschäft",
+  "ar": "الشغل اليومي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Tagesrekord",
+  "ar": "رقم اليوم القياسي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Tagesrekorde"
+ },
+ {
+  "de": "Taktfrequenz",
+  "ar": "تردد الساعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Taktfrequenzen"
+ },
+ {
+  "de": "Taktrate",
+  "ar": "معدل الساعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Taktraten"
+ },
+ {
+  "de": "Talk",
+  "ar": "الحوار / التوك شو",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Talks"
+ },
+ {
+  "de": "Talstation",
+  "ar": "محطة الوادي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Talstationen"
+ },
+ {
+  "de": "Tango",
+  "ar": "التانجو",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Tangos"
+ },
+ {
+  "de": "Tarifabschluss",
+  "ar": "اتفاق الأجور",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Tarifabschlüsse"
+ },
+ {
+  "de": "Tarifbindung",
+  "ar": "الالتزام باتفاقية الأجور",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Tarifgemeinschaft",
+  "ar": "تحالف الأجور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Tarifgemeinschaften"
+ },
+ {
+  "de": "Tarifkonflikt",
+  "ar": "نزاع الأجور",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Tarifkonflikte"
+ },
+ {
+  "de": "Tarifstreit",
+  "ar": "نزاع الأجور",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Tarifstreits"
+ },
+ {
+  "de": "Taser",
+  "ar": "الصاعق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Taser"
+ },
+ {
+  "de": "Tatmotiv",
+  "ar": "دافع الجريمة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Tatmotive"
+ },
+ {
+  "de": "Tatverdächtiger",
+  "ar": "المشتبه به",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Tatverdächtige"
+ },
+ {
+  "de": "Taubenpopulation",
+  "ar": "تعداد الحمام",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Taubenpopulationen"
+ },
+ {
+  "de": "Teamarbeit",
+  "ar": "شغل الفريق",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Teamwork",
+  "ar": "شغل الفريق",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Tech-Konzern",
+  "ar": "شركة التكنولوجيا الكبيرة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Tech-Konzerne"
+ },
+ {
+  "de": "Tech-Unternehmer",
+  "ar": "رائد الأعمال التقني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Tech-Unternehmer"
+ },
+ {
+  "de": "Techno",
+  "ar": "موسيقى التكنو",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Teilbereich",
+  "ar": "المجال الفرعي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Teilbereiche"
+ },
+ {
+  "de": "Tennisprofi",
+  "ar": "محترف التنس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Tennisprofis"
+ },
+ {
+  "de": "Tennisturnier",
+  "ar": "بطولة التنس",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Tennisturniere"
+ },
+ {
+  "de": "Terminal",
+  "ar": "الترمينال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Terminals"
+ },
+ {
+  "de": "Terminbuchung",
+  "ar": "حجز الميعاد",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Terminbuchungen"
+ },
+ {
+  "de": "Territorium",
+  "ar": "الإقليم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Territorien"
+ },
+ {
+  "de": "Terror",
+  "ar": "الإرهاب",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Terroranschlag",
+  "ar": "الهجوم الإرهابي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Terroranschläge"
+ },
+ {
+  "de": "Terrorgruppe",
+  "ar": "الجماعة الإرهابية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Terrorgruppen"
+ },
+ {
+  "de": "Terrormiliz",
+  "ar": "الميليشيا الإرهابية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Terrormilizen"
+ },
+ {
+  "de": "Testlauf",
+  "ar": "التشغيل التجريبي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Testläufe"
+ },
+ {
+  "de": "Testsieger",
+  "ar": "الفائز في الاختبار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Testsieger"
+ },
+ {
+  "de": "Theatererlebnis",
+  "ar": "تجربة المسرح",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Theatererlebnisse"
+ },
+ {
+  "de": "Theaterstück",
+  "ar": "المسرحية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Theaterstücke"
+ },
+ {
+  "de": "Therapeutin",
+  "ar": "المعالجة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Therapeutinnen"
+ },
+ {
+  "de": "Therapieform",
+  "ar": "نوع العلاج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Therapieformen"
+ },
+ {
+  "de": "Thronfolger",
+  "ar": "ولي العهد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Thronfolger"
+ },
+ {
+  "de": "Thunfisch",
+  "ar": "التونة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Thunfische"
+ },
+ {
+  "de": "Tick",
+  "ar": "الهوس / العادة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ticks"
+ },
+ {
+  "de": "Ticker",
+  "ar": "الشريط الإخباري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ticker"
+ },
+ {
+  "de": "Tierhaltung",
+  "ar": "تربية الحيوانات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Tierheim",
+  "ar": "ملجأ الحيوانات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Tierheime"
+ },
+ {
+  "de": "Tierquälerei",
+  "ar": "تعذيب الحيوانات",
+  "pos": "noun",
+  "art": "die"
+ }
+]
