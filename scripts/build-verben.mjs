@@ -6,7 +6,7 @@ import { createRequire } from 'node:module';
 const require = createRequire(import.meta.url);
 const dict = require('german-verbs-dict/dist/verbs.json');
 
-const LEVELS = { 'a1a.json': 'A1', 'a2a.json': 'A2', 'b1a.json': 'B1', 'b2c.json': 'B2' };
+const LEVELS = { 'a1a.json': 'A1', 'a2a.json': 'A2', 'b1a.json': 'B1', 'b2c.json': 'B2', 'c1.json': 'C1' };
 const MODALS = new Set(['dürfen','können','mögen','müssen','sollen','wollen']);
 const MIXED = new Set(['bringen','denken','wissen','kennen','nennen','rennen','senden','wenden','brennen']);
 // Verbs that build Perfekt with sein (movement / change of state / a few others)
@@ -21,7 +21,7 @@ for (const f of files) {
   for (const [inf, ar] of JSON.parse(readFileSync('data/verben-quelle/' + f, 'utf8'))) {
     if (seen.has(inf)) continue;
     seen.add(inf);
-    entries.push({ inf, ar, lvl: LEVELS[f] });
+    entries.push({ inf, ar, lvl: LEVELS[f] ?? 'C1' });
   }
 }
 
