@@ -3610,5 +3610,101 @@
  "stachelbeere": {
   "de": "Die Stachelbeere ist grün und sauer.",
   "ar": "عنب الثعلب أخضر وحامض."
+ },
+ "kumquat": {
+  "de": "Die Kumquat isst man mit Schale.",
+  "ar": "الكمكوات بيتاكل بقشرته."
+ },
+ "litschi": {
+  "de": "Die Litschi hat rauhe Schale.",
+  "ar": "الليتشي قشرتها خشنة."
+ },
+ "hagebutte": {
+  "de": "Die Hagebutte wird zu Tee gekocht.",
+  "ar": "ثمر الورد البري بيتعمل شاي."
+ },
+ "mirabelle": {
+  "de": "Die Mirabelle ist klein und gelb.",
+  "ar": "برقوق الميرابيل صغير وأصفر."
+ },
+ "cashewkern": {
+  "de": "Der Cashewkern ist gebogen.",
+  "ar": "حبة الكاجو شكلها منحني."
+ },
+ "pinienkern": {
+  "de": "Der Pinienkern schmeckt mild.",
+  "ar": "حبة الصنوبر طعمها خفيف."
+ },
+ "zimtstange": {
+  "de": "Die Zimtstange duftet süß.",
+  "ar": "عود القرفة ريحته حلوة."
+ },
+ "muskatnuss": {
+  "de": "Die Muskatnuss reibt man über das Essen.",
+  "ar": "جوزة الطيب بتتبشر على الأكل."
+ },
+ "vanilleschote": {
+  "de": "Die Vanilleschote würzt den Pudding.",
+  "ar": "قرن الفانيليا بيطعم المهلبية."
+ },
+ "gewuerznelke": {
+  "de": "Die Gewürznelke steckt in der Zwiebel.",
+  "ar": "حبة القرنفل بتتغرز في البصلة."
+ },
+ "filtertuete": {
+  "de": "Die Filtertüte hält den Kaffeesatz.",
+  "ar": "ورقة الفلتر بتمسك تفل القهوة."
+ },
+ "kaffeebohne": {
+  "de": "Die Kaffeebohne wird geröstet.",
+  "ar": "حبة البن بتتحمص."
+ },
+ "zuckerwuerfel": {
+  "de": "Der Zuckerwürfel löst sich im Tee.",
+  "ar": "مكعب السكر بيدوب في الشاي."
+ },
+ "honigglas": {
+  "de": "Das Honigglas steht im Schrank.",
+  "ar": "برطمان العسل في الدولاب."
+ },
+ "espressokanne": {
+  "de": "Die Espressokanne kocht auf dem Herd.",
+  "ar": "موكا البوت بتغلي على البوتاجاز."
+ },
+ "kaffeetasse": {
+  "de": "Die Kaffeetasse ist noch heiß.",
+  "ar": "فنجان القهوة لسه سخن."
+ },
+ "sternanis": {
+  "de": "Der Sternanis sieht aus wie ein Stern.",
+  "ar": "اليانسون النجمي شكله زي نجمة."
+ },
+ "pfefferkorn": {
+  "de": "Das Pfefferkorn ist scharf.",
+  "ar": "حباية الفلفل حراقة."
+ },
+ "lorbeerblatt": {
+  "de": "Das Lorbeerblatt kocht in der Suppe.",
+  "ar": "ورقة اللورا بتتطبخ في الشوربة."
+ },
+ "rosmarinzweig": {
+  "de": "Der Rosmarinzweig duftet nach Mittelmeer.",
+  "ar": "فرع الروزماري ريحته بحر متوسط."
+ },
+ "zitronenscheibe": {
+  "de": "Die Zitronenscheibe schwimmt im Glas.",
+  "ar": "شريحة الليمون عايمة في الكوباية."
+ },
+ "orangenscheibe": {
+  "de": "Die Orangenscheibe schmückt den Saft.",
+  "ar": "شريحة البرتقان بتزين العصير."
+ },
+ "papierflieger": {
+  "de": "Der Papierflieger fliegt über den Hof.",
+  "ar": "طيارة الورق بتطير فوق الحوش."
+ },
+ "papierschiffchen": {
+  "de": "Das Papierschiffchen schwimmt auf der Pfütze.",
+  "ar": "مركب الورق بتعوم على الطين."
  }
 }
