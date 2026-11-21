@@ -578,5 +578,585 @@
  "kellner": {
   "de": "Der Kellner bringt das Essen.",
   "ar": "الجرسون بييجي بالأكل."
+ },
+ "teller": {
+  "de": "Der Teller ist leer.",
+  "ar": "الطبق فاضي."
+ },
+ "tasse": {
+  "de": "Die Tasse ist noch heiß.",
+  "ar": "الفنجان لسه سخن."
+ },
+ "glas": {
+  "de": "Das Glas ist voll Wasser.",
+  "ar": "الكوباية مليانة مياه."
+ },
+ "flasche": {
+  "de": "Die Flasche ist leer.",
+  "ar": "الإزازة خلصت."
+ },
+ "pfanne": {
+  "de": "Die Pfanne ist heiß.",
+  "ar": "الطاسة سخنة."
+ },
+ "wassermelone": {
+  "de": "Die Wassermelone ist süß und kalt.",
+  "ar": "البطيخ حلو وساقع."
+ },
+ "salat": {
+  "de": "Der Salat ist frisch.",
+  "ar": "السلطة طازة."
+ },
+ "pilz": {
+  "de": "Der Pilz wächst im Wald.",
+  "ar": "المشروم بيطلع في الغابة."
+ },
+ "knoblauch": {
+  "de": "Der Knoblauch riecht stark.",
+  "ar": "التوم ريحته نفاذة."
+ },
+ "honig": {
+  "de": "Der Honig kommt von den Bienen.",
+  "ar": "العسل بييجي من النحل."
+ },
+ "schokolade": {
+  "de": "Die Schokolade schmilzt in der Sonne.",
+  "ar": "الشيكولاتة بتدوب في الشمس."
+ },
+ "pizza": {
+  "de": "Die Pizza kommt aus dem Ofen.",
+  "ar": "البيتزا طالعة من الفرن."
+ },
+ "loeffel": {
+  "de": "Der Löffel liegt neben dem Teller.",
+  "ar": "المعلقة جنب الطبق."
+ },
+ "messer": {
+  "de": "Das Messer ist scharf.",
+  "ar": "السكينة حادة."
+ },
+ "topf": {
+  "de": "Der Topf steht auf dem Herd.",
+  "ar": "الحلة على البوتاجاز."
+ },
+ "birne": {
+  "de": "Die Birne ist reif.",
+  "ar": "الكمثرى مستوية."
+ },
+ "kirsche": {
+  "de": "Die Kirsche ist dunkelrot.",
+  "ar": "الكرز أحمر غامق."
+ },
+ "pfirsich": {
+  "de": "Der Pfirsich ist weich und süß.",
+  "ar": "الخوخ طري وحلو."
+ },
+ "paprika": {
+  "de": "Die Paprika gibt es rot und grün.",
+  "ar": "الفلفل الرومي فيه أحمر وأخضر."
+ },
+ "kamera": {
+  "de": "Die Kamera macht sehr gute Bilder.",
+  "ar": "الكاميرا بتصور صور حلوة جدا."
+ },
+ "telefon": {
+  "de": "Das Telefon klingelt laut.",
+  "ar": "التليفون بيرن عالي."
+ },
+ "kuehlschrank": {
+  "de": "Der Kühlschrank ist voll.",
+  "ar": "التلاجة مليانة."
+ },
+ "waschmaschine": {
+  "de": "Die Waschmaschine läuft gerade.",
+  "ar": "الغسالة شغالة دلوقتي."
+ },
+ "gitarre": {
+  "de": "Die Gitarre hat sechs Saiten.",
+  "ar": "الجيتار ليه ست وتار."
+ },
+ "klavier": {
+  "de": "Das Klavier steht im Wohnzimmer.",
+  "ar": "البيانو في الصالة."
+ },
+ "regenschirm": {
+  "de": "Der Regenschirm ist heute wichtig.",
+  "ar": "الشمسية مهمة النهارده."
+ },
+ "koffer": {
+  "de": "Der Koffer ist schon gepackt.",
+  "ar": "شنطة السفر متجهزة."
+ },
+ "kerze": {
+  "de": "Die Kerze brennt auf dem Tisch.",
+  "ar": "الشمعة ولعة على الترابيزة."
+ },
+ "ball": {
+  "de": "Der Ball rollt unter das Sofa.",
+  "ar": "الكورة اتدحرجت تحت الكنبة."
+ },
+ "fussball": {
+  "de": "Der Fußball ist neu.",
+  "ar": "كورة القدم جديدة."
+ },
+ "besen": {
+  "de": "Der Besen steht in der Ecke.",
+  "ar": "المقشة في الركن."
+ },
+ "wald": {
+  "de": "Der Wald ist im Herbst bunt.",
+  "ar": "الغابة ملونة في الخريف."
+ },
+ "see": {
+  "de": "Der See ist sehr tief.",
+  "ar": "البحيرة عميقة جدا."
+ },
+ "biene": {
+  "de": "Die Biene sammelt Honig.",
+  "ar": "النحلة بتجمع العسل."
+ },
+ "feuer": {
+  "de": "Das Feuer wärmt das Zimmer.",
+  "ar": "النار بتدفي الأوضة."
+ },
+ "regenbogen": {
+  "de": "Der Regenbogen kommt nach dem Regen.",
+  "ar": "قوس قزح بيظهر بعد المطر."
+ },
+ "stein": {
+  "de": "Der Stein ist schwer.",
+  "ar": "الحجر تقيل."
+ },
+ "sand": {
+  "de": "Der Sand am Strand ist warm.",
+  "ar": "الرمل على الشاطئ سخن."
+ },
+ "himmel": {
+  "de": "Der Himmel ist heute blau.",
+  "ar": "السما زرقا النهارده."
+ },
+ "schmetterling": {
+  "de": "Der Schmetterling sitzt auf der Blume.",
+  "ar": "الفراشة واقفة على الوردة."
+ },
+ "dorf": {
+  "de": "Das Dorf ist klein und ruhig.",
+  "ar": "القرية صغيرة وهادية."
+ },
+ "stadt": {
+  "de": "Die Stadt schläft nie.",
+  "ar": "المدينة مبتنامش."
+ },
+ "turm": {
+  "de": "Der Turm ist über hundert Jahre alt.",
+  "ar": "البرج عمره أكتر من مية سنة."
+ },
+ "bauernhof": {
+  "de": "Der Bauernhof hat viele Tiere.",
+  "ar": "المزرعة فيها حيوانات كتير."
+ },
+ "zoo": {
+  "de": "Der Zoo öffnet um neun Uhr.",
+  "ar": "جنينة الحيوان بتفتح الساعة تسعة."
+ },
+ "spielplatz": {
+  "de": "Der Spielplatz ist voller Kinder.",
+  "ar": "ملعب الأطفال مليان عيال."
+ },
+ "rathaus": {
+  "de": "Das Rathaus steht am Marktplatz.",
+  "ar": "مبنى البلدية في ميدان السوق."
+ },
+ "brunnen": {
+  "de": "Der Brunnen ist das Zentrum des Platzes.",
+  "ar": "النافورة في نص الميدان."
+ },
+ "schloss": {
+  "de": "Das Schloss liegt auf einem Hügel.",
+  "ar": "القصر على تلة عالية."
+ },
+ "tankstelle": {
+  "de": "Die Tankstelle ist rund um die Uhr offen.",
+  "ar": "محطة البنزين مفتوحة أربعة وعشرين ساعة."
+ },
+ "stadion": {
+  "de": "Das Stadion fasst fünfzigtausend Leute.",
+  "ar": "الاستاد بيشيل خمسين ألف واحد."
+ },
+ "mandarine": {
+  "de": "Die Mandarine schält sich leicht.",
+  "ar": "اليوسفي بيتقشر بسهولة."
+ },
+ "kiwi": {
+  "de": "Die Kiwi ist braun und grün.",
+  "ar": "الكيوي بني من بره وأخضر من جوه."
+ },
+ "ananas": {
+  "de": "Die Ananas schmeckt süß und sauer.",
+  "ar": "الأناناس حلو وحامض مع بعض."
+ },
+ "melone": {
+  "de": "Die Melone essen wir im Sommer.",
+  "ar": "الشمام بناكله في الصيف."
+ },
+ "granatapfel": {
+  "de": "Der Granatapfel hat viele Kerne.",
+  "ar": "الرمان مليان حب."
+ },
+ "feige": {
+  "de": "Die Feige ist weich und süß.",
+  "ar": "التين طري وحلو."
+ },
+ "pflaume": {
+  "de": "Die Pflaume ist dunkelblau.",
+  "ar": "البرقوق لونه غامق."
+ },
+ "brokkoli": {
+  "de": "Der Brokkoli schmeckt gedämpft am besten.",
+  "ar": "البروكلي أحلى حاجة على البخار."
+ },
+ "spinat": {
+  "de": "Der Spinat macht stark.",
+  "ar": "السبانخ بتدي قوة."
+ },
+ "walnuss": {
+  "de": "Die Walnuss knackt man mit dem Nussknacker.",
+  "ar": "عين الجمل بتتكسر بالكسارة."
+ },
+ "erdnuss": {
+  "de": "Die Erdnuss gibt es geröstet und gesalzen.",
+  "ar": "الفول السوداني بيتاكل محمص ومالح."
+ },
+ "blumenkohl": {
+  "de": "Der Blumenkohl ist weiß.",
+  "ar": "القرنبيط أبيض."
+ },
+ "mais": {
+  "de": "Der Mais wird am Stand gegrillt.",
+  "ar": "الدرة بتتشوي على العربية."
+ },
+ "olive": {
+  "de": "Die Olive gibt es grün und schwarz.",
+  "ar": "الزيتون فيه أخضر وأسود."
+ },
+ "baer": {
+  "de": "Der Bär schläft den ganzen Winter.",
+  "ar": "الدب بينام طول الشتاء."
+ },
+ "wolf": {
+  "de": "Der Wolf heult in der Nacht.",
+  "ar": "الذئب بيعوي في الليل."
+ },
+ "fuchs": {
+  "de": "Der Fuchs ist sehr schlau.",
+  "ar": "الثعلب شاطر جدا."
+ },
+ "eule": {
+  "de": "Die Eule sieht gut in der Nacht.",
+  "ar": "البومة بتشوف كويس في الليل."
+ },
+ "taube": {
+  "de": "Die Taube fliegt zum Fenster.",
+  "ar": "الحمامة بيتيجي على الشباك."
+ },
+ "igel": {
+  "de": "Der Igel rollt sich zusammen.",
+  "ar": "القنفذ بيلف نفسه كورة."
+ },
+ "delfin": {
+  "de": "Der Delfin springt aus dem Wasser.",
+  "ar": "الدولفين بينط من المياه."
+ },
+ "hai": {
+  "de": "Der Hai hat scharfe Zähne.",
+  "ar": "القرش سنانه حادة."
+ },
+ "schildkroete": {
+  "de": "Die Schildkröte lebt sehr lange.",
+  "ar": "السلحفاة بتعيش سنين كتير."
+ },
+ "zebra": {
+  "de": "Das Zebra hat schwarze und weiße Streifen.",
+  "ar": "الحمار الوحشي مخطط أبيض وأسود."
+ },
+ "giraffe": {
+  "de": "Die Giraffe hat einen langen Hals.",
+  "ar": "الزرافة رقبتها طويلة."
+ },
+ "frosch": {
+  "de": "Der Frosch springt in den Teich.",
+  "ar": "الضفدع بينط في البركة."
+ },
+ "nashorn": {
+  "de": "Das Nashorn hat ein Horn auf der Nase.",
+  "ar": "وحيد القرن ليه قرن على مناخيره."
+ },
+ "nilpferd": {
+  "de": "Das Nilpferd liegt gern im Wasser.",
+  "ar": "فرس النهر بيحب يعوم في المياه."
+ },
+ "maus": {
+  "de": "Die Maus isst gern Käse.",
+  "ar": "الفأر بيحب الجبنة."
+ },
+ "papagei": {
+  "de": "Der Papagei spricht ein paar Wörter.",
+  "ar": "الببغاء بيقول كام كلمة."
+ },
+ "ameise": {
+  "de": "Die Ameise trägt mehr als ihr Gewicht.",
+  "ar": "النملة بتشيل أتقل من وزنها."
+ },
+ "wecker": {
+  "de": "Der Wecker klingelt um sechs.",
+  "ar": "المنبه بيرن الساعة ستة."
+ },
+ "fernseher": {
+  "de": "Der Fernseher hängt an der Wand.",
+  "ar": "التلفزيون معلق على الحيطة."
+ },
+ "ventilator": {
+  "de": "Der Ventilator kühlt das Zimmer.",
+  "ar": "المروحة بتبرد الأوضة."
+ },
+ "schreibtisch": {
+  "de": "Der Schreibtisch steht am Fenster.",
+  "ar": "المكتب عند الشباك."
+ },
+ "decke": {
+  "de": "Die Decke ist dick und warm.",
+  "ar": "البطانية تقيلة ودافية."
+ },
+ "kamin": {
+  "de": "Der Kamin brennt im Winter.",
+  "ar": "المدفأة بتولع في الشتا."
+ },
+ "buegeleisen": {
+  "de": "Das Bügeleisen ist heiß.",
+  "ar": "المكواة سخنة."
+ },
+ "radio": {
+  "de": "Das Radio spielt Musik.",
+  "ar": "الراديو بيشغل مزيكا."
+ },
+ "balkon": {
+  "de": "Der Balkon geht zum Garten.",
+  "ar": "البلكونة على الجنينة."
+ },
+ "hammer": {
+  "de": "Der Hammer schlägt den Nagel in die Wand.",
+  "ar": "الشاكوش بيدق المسمار في الحيطة."
+ },
+ "saege": {
+  "de": "Die Säge schneidet Holz.",
+  "ar": "المنشار بيقص الخشب."
+ },
+ "zange": {
+  "de": "Die Zange hält die Schraube fest.",
+  "ar": "الزرادية بتمسك المصمار."
+ },
+ "leiter": {
+  "de": "Die Leiter lehnt an der Wand.",
+  "ar": "السلم ساند على الحيطة."
+ },
+ "fernglas": {
+  "de": "Das Fernglas zeigt die Vögel ganz nah.",
+  "ar": "المنظار بيقرب العصافير."
+ },
+ "seil": {
+  "de": "Das Seil ist zehn Meter lang.",
+  "ar": "الحبل طوله عشرة متر."
+ },
+ "landkarte": {
+  "de": "Die Landkarte zeigt den Weg.",
+  "ar": "الخريطة بتوري الطريق."
+ },
+ "muenze": {
+  "de": "Die Münze ist im Geldbeutel.",
+  "ar": "العملة المعدنية في المحفظة."
+ },
+ "kompass": {
+  "de": "Der Kompass zeigt nach Norden.",
+  "ar": "البوصلة بتشاور على الشمال."
+ },
+ "pinsel": {
+  "de": "Der Pinsel malt die Wand an.",
+  "ar": "الفرشاة بتدهن الحيطة."
+ },
+ "zelt": {
+  "de": "Das Zelt steht am See.",
+  "ar": "الخيمة منصوبة على البحيرة."
+ },
+ "waage": {
+  "de": "Die Waage steht im Bad.",
+  "ar": "الميزان في الحمام."
+ },
+ "fass": {
+  "de": "Das Fass ist voll Wasser.",
+  "ar": "البرميل مليان مياه."
+ },
+ "magnet": {
+  "de": "Der Magnet hält das Foto am Kühlschrank.",
+  "ar": "المغناطيس مثبت الصورة على التلاجة."
+ },
+ "tennisschlaeger": {
+  "de": "Der Tennisschläger ist neu.",
+  "ar": "مضرب التنس جديد."
+ },
+ "geige": {
+  "de": "Die Geige spielt leise.",
+  "ar": "الكمان بيعزف بهدوء."
+ },
+ "mikrofon": {
+  "de": "Das Mikrofon ist an.",
+  "ar": "الميكروفون مفتوح."
+ },
+ "kopfhoerer": {
+  "de": "Der Kopfhörer liegt auf dem Tisch.",
+  "ar": "السماعات على الترابيزة."
+ },
+ "floete": {
+  "de": "Die Flöte klingt weich.",
+  "ar": "الناي صوته ناعم."
+ },
+ "trompete": {
+  "de": "Die Trompete ist sehr laut.",
+  "ar": "الترومبيت صوتها عالي جدا."
+ },
+ "schlittschuh": {
+  "de": "Der Schlittschuh läuft über das Eis.",
+  "ar": "حذاء التزلج بيمشي على التلج."
+ },
+ "trommel": {
+  "de": "Die Trommel schlägt den Rhythmus.",
+  "ar": "الطبلة بتعمل الإيقاع."
+ },
+ "schal": {
+  "de": "Der Schal hält den Hals warm.",
+  "ar": "الشال بيدفي الرقبة."
+ },
+ "stiefel": {
+  "de": "Der Stiefel ist für den Regen.",
+  "ar": "البوت للمطر."
+ },
+ "kette": {
+  "de": "Die Kette ist aus Gold.",
+  "ar": "السلسلة دهب."
+ },
+ "sonnenbrille": {
+  "de": "Die Sonnenbrille liegt im Auto.",
+  "ar": "نضارة الشمس في العربية."
+ },
+ "armbanduhr": {
+  "de": "Die Armbanduhr zeigt die Zeit.",
+  "ar": "ساعة الإيد بتقول الوقت."
+ },
+ "turnschuh": {
+  "de": "Der Turnschuh ist bequem.",
+  "ar": "الكوتشي مريح."
+ },
+ "handschuh": {
+  "de": "Der Handschuh hält die Hand warm.",
+  "ar": "القفاز بيدفي الإيد."
+ },
+ "geldbeutel": {
+  "de": "Der Geldbeutel steckt in der Tasche.",
+  "ar": "المحفظة في الشنطة."
+ },
+ "halskette": {
+  "de": "Die Halskette ist ein Geschenk.",
+  "ar": "العقد هدية."
+ },
+ "broetchen": {
+  "de": "Das Brötchen hole ich frisch vom Bäcker.",
+  "ar": "العيش الصغير باجيبه طازة من الفرن."
+ },
+ "muesli": {
+  "de": "Das Müsli esse ich mit Joghurt.",
+  "ar": "الموسلي باكله بالزبادي."
+ },
+ "burger": {
+  "de": "Der Burger kommt mit Pommes.",
+  "ar": "البرجر بييجي مع بطاطس."
+ },
+ "eis": {
+  "de": "Das Eis schmilzt schnell in der Sonne.",
+  "ar": "الآيس كريم بيدوب بسرعة في الشمس."
+ },
+ "mandel": {
+  "de": "Die Mandel ist im Kuchen.",
+  "ar": "اللوز جوه الكيك."
+ },
+ "steak": {
+  "de": "Das Steak brate ich kurz.",
+  "ar": "الستيك بتقلي بسرعة."
+ },
+ "sushi": {
+  "de": "Das Sushi essen wir mit Stäbchen.",
+  "ar": "السوشي بيتاكل بالعيدان."
+ },
+ "pfannkuchen": {
+  "de": "Der Pfannkuchen kommt mit Zucker.",
+  "ar": "البانكيك عليه سكر."
+ },
+ "torte": {
+  "de": "Die Torte ist für die Feier.",
+  "ar": "التورتة للمناسبة."
+ },
+ "spaghetti": {
+  "de": "Die Spaghetti koche ich mit Tomatensoße.",
+  "ar": "السباجتي بتتعمل بصوص الطماطم."
+ },
+ "sandwich": {
+  "de": "Das Sandwich nehme ich mit zur Arbeit.",
+  "ar": "الساندوتش باخده معايا الشغل."
+ },
+ "blatt": {
+  "de": "Das Blatt fällt im Herbst vom Baum.",
+  "ar": "ورقة الشجر بتقع في الخريف."
+ },
+ "rose": {
+  "de": "Die Rose riecht süß.",
+  "ar": "الوردة ريحتها حلوة."
+ },
+ "tulpe": {
+  "de": "Die Tulpe blüht im Frühling.",
+  "ar": "التيوليب بتفتح في الربيع."
+ },
+ "sonnenblume": {
+  "de": "Die Sonnenblume dreht sich zur Sonne.",
+  "ar": "عباد الشمس بيلف وش الشمس."
+ },
+ "kaktus": {
+  "de": "Der Kaktus braucht wenig Wasser.",
+  "ar": "الصبار مش بياخد مياه كتير."
+ },
+ "vulkan": {
+  "de": "Der Vulkan raucht seit Tagen.",
+  "ar": "البركان بيطلع دخان من أيام."
+ },
+ "hoehle": {
+  "de": "Die Höhle ist dunkel und kalt.",
+  "ar": "الكهف تضلمة وبرد."
+ },
+ "gletscher": {
+  "de": "Der Gletscher schmilzt jedes Jahr ein bisschen.",
+  "ar": "النهر الجليدي بيذوب شوية كل سنة."
+ },
+ "blitz": {
+  "de": "Der Blitz kommt vor dem Donner.",
+  "ar": "البرق بييجي قبل الرعد."
+ },
+ "feld": {
+  "de": "Das Feld ist im Sommer gelb.",
+  "ar": "الغيط أصفر في الصيف."
+ },
+ "nebel": {
+  "de": "Der Nebel verdeckt die Straße.",
+  "ar": "الضباب مغطي الطريق."
+ },
+ "sonnenuntergang": {
+  "de": "Der Sonnenuntergang ist am Meer am schönsten.",
+  "ar": "الغروب على البحر أحلى حاجة."
  }
 }
