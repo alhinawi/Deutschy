@@ -309,5 +309,73 @@
    "bleibt stehen"
   ],
   "pp": "stehen geblieben"
+ },
+ "abwägen": {
+  "kinds": [
+   "strong",
+   "separable"
+  ],
+  "aux": "haben",
+  "pres": [
+   "wäge ab",
+   "wägst ab",
+   "wägt ab",
+   "wägen ab",
+   "wägt ab",
+   "wägen ab"
+  ],
+  "pret": [
+   "wog ab",
+   "wogst ab",
+   "wog ab",
+   "wogen ab",
+   "wogt ab",
+   "wogen ab"
+  ],
+  "kj2": [
+   "wöge ab",
+   "wögest ab",
+   "wöge ab",
+   "wögen ab",
+   "wöget ab",
+   "wögen ab"
+  ],
+  "imp": [
+   "wäg ab",
+   "wägt ab"
+  ],
+  "pp": "abgewogen"
+ },
+ "misslingen": {
+  "kinds": [
+   "strong"
+  ],
+  "aux": "sein",
+  "pres": [
+   "misslinge",
+   "misslingst",
+   "misslingt",
+   "misslingen",
+   "misslingt",
+   "misslingen"
+  ],
+  "pret": [
+   "misslang",
+   "misslangst",
+   "misslang",
+   "misslangen",
+   "misslangt",
+   "misslangen"
+  ],
+  "kj2": [
+   "misslänge",
+   "misslängest",
+   "misslänge",
+   "misslängen",
+   "misslänget",
+   "misslängen"
+  ],
+  "imp": null,
+  "pp": "misslungen"
  }
 }
