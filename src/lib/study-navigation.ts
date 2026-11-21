@@ -13,6 +13,6 @@ const academies=[
  {id:'pronunciation',ar:'أكاديمية النطق',en:'Pronunciation academy',paths:['/pronunciation/','/speaking/','/sound-contrasts/']},
 ].map(g=>({...g,items:take(g.paths)}));
 const phrases=take(['/sentences/','/redewendungen/']);const practice=take(['/games/','/exam/','/level-check/','/review/daily/','/review/words/','/timed-practice/','/verbs/quiz/','/daily/']);const leaderboard=take(['/leaderboard/']);
-export const studyNavigation:StudyNavSection[]=[{id:'dashboard',ar:'لوحة التحكم',en:'Dashboard',items:dashboard},{id:'courses',ar:'الكورسات الشاملة',en:'Courses',items:courses},{id:'academies',ar:'الأكاديميات',en:'Academies',items:[],groups:academies},{id:'phrases',ar:'بنوك العبارات',en:'Phrase banks',items:phrases},{id:'practice',ar:'التدريبات',en:'Practice',items:practice},{id:'leaderboard',ar:'لوحة المتصدرين',en:'Leaderboard',items:leaderboard}];
+export const studyNavigation:StudyNavSection[]=[{id:'dashboard',ar:'الرئيسية',en:'Home',items:dashboard},{id:'courses',ar:'الكورسات الشاملة',en:'Courses',items:courses},...academies.map(g=>({id:'academy-'+g.id,ar:g.ar,en:g.en,items:g.items})),{id:'phrases',ar:'بنوك العبارات',en:'Phrase banks',items:phrases},{id:'practice',ar:'التدريبات',en:'Practice',items:practice},{id:'leaderboard',ar:'لوحة المتصدرين',en:'Leaderboard',items:leaderboard}];
 export const personalNavigation=take(['/progress/','/badges/','/helper/','/settings/','/account/','/admin/']);
 export const unmappedNavigation=all.filter(i=>!used.has(i.href));

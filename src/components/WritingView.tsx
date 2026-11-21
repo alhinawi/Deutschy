@@ -79,7 +79,7 @@ function Task({ task, back }: { task: WTask; back: () => void }) {
           </li>
         ))}
       </ul>
-      {done && <p className="ar-title rounded-xl border border-good bg-good/10 p-3 text-lg">{t('كل العبارات موجودة. اقرا نصك تاني وراجع الأخطاء، وبعدين قارنه بالنموذج.', 'All key phrases are in. Read your text again, fix mistakes, then compare it with the model.')}</p>}
+      {done && <p className="ar-title rounded-xl border border-good bg-good/10 p-3 text-lg">{t('كل العبارات موجودة. اقرأ نصك تاني وراجع الأخطاء، وبعدين قارنه بالنموذج.', 'All key phrases are in. Read your text again, fix mistakes, then compare it with the model.')}</p>}
       <button onClick={() => setModel(!model)} className="rounded-full border border-line px-5 py-2 font-bold">{model ? t('اخفي النموذج', 'Hide model') : t('شوف نموذج', 'Show a model')}</button>
       {model && <p dir="ltr" lang="de" className="de whitespace-pre-line rounded-2xl border border-line bg-paper p-4 text-lg leading-8">{task.model}</p>}
     </div>
