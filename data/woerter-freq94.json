@@ -1,0 +1,728 @@
+[
+ {
+  "de": "Miniserie",
+  "ar": "المسلسل القصير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Miniserien"
+ },
+ {
+  "de": "Ministerrat",
+  "ar": "مجلس الوزراء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Ministerräte"
+ },
+ {
+  "de": "Minusgrade",
+  "ar": "درجات تحت الصفر",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Misere",
+  "ar": "البؤس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Miseren"
+ },
+ {
+  "de": "Misogynie",
+  "ar": "كره النساء",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Missachtung",
+  "ar": "التجاهل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Missachtungen"
+ },
+ {
+  "de": "Missbrauchsfall",
+  "ar": "حالة الاعتداء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Missbrauchsfälle"
+ },
+ {
+  "de": "Missgunst",
+  "ar": "الحسد",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Missionar",
+  "ar": "المبشر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Missionare"
+ },
+ {
+  "de": "Missstand",
+  "ar": "الخلل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Missstände"
+ },
+ {
+  "de": "Misstrauen",
+  "ar": "عدم الثقة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Missverhältnis",
+  "ar": "الاختلال",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Missverhältnisse"
+ },
+ {
+  "de": "Misthaufen",
+  "ar": "كومة الروث",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Misthaufen"
+ },
+ {
+  "de": "Mitarbeiterzahl",
+  "ar": "عدد الموظفين",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mitarbeiterzahlen"
+ },
+ {
+  "de": "Mitbewohnerin",
+  "ar": "شريكة السكن",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mitbewohnerinnen"
+ },
+ {
+  "de": "Mitbürger",
+  "ar": "المواطن",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mitbürger"
+ },
+ {
+  "de": "Mitfiebern",
+  "ar": "التشجيع بحرارة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Mitgliederzahl",
+  "ar": "عدد الأعضاء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mitgliederzahlen"
+ },
+ {
+  "de": "Mitgliedsbeitrag",
+  "ar": "اشتراك العضوية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mitgliedsbeiträge"
+ },
+ {
+  "de": "Mitgliedsland",
+  "ar": "الدولة العضو",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Mitgliedsländer"
+ },
+ {
+  "de": "Mitmachausstellung",
+  "ar": "المعرض التفاعلي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mitmachausstellungen"
+ },
+ {
+  "de": "Mitschnitt",
+  "ar": "التسجيل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mitschnitte"
+ },
+ {
+  "de": "Mitspielerin",
+  "ar": "زميلة الفريق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mitspielerinnen"
+ },
+ {
+  "de": "Mitsprache",
+  "ar": "حق الكلمة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Mitstreiterin",
+  "ar": "الرفيقة في الكفاح",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mitstreiterinnen"
+ },
+ {
+  "de": "Mittagsruhe",
+  "ar": "قيلولة الضهر",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Mittelamerika",
+  "ar": "أمريكا الوسطى",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Mitteleuropa",
+  "ar": "أوروبا الوسطى",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Mittelfeldmann",
+  "ar": "لاعب الوسط",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mittelfeldmänner"
+ },
+ {
+  "de": "Mittelfeldstratege",
+  "ar": "صانع اللعب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mittelfeldstrategen"
+ },
+ {
+  "de": "Mittelmeerraum",
+  "ar": "حوض البحر المتوسط",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Mittelohrentzündung",
+  "ar": "التهاب الأذن الوسطى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mittelohrentzündungen"
+ },
+ {
+  "de": "Mittelschicht",
+  "ar": "الطبقة الوسطى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mittelschichten"
+ },
+ {
+  "de": "Mittelstreifen",
+  "ar": "الحاجز الأوسط",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mittelstreifen"
+ },
+ {
+  "de": "Mittäter",
+  "ar": "الشريك في الجريمة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mittäter"
+ },
+ {
+  "de": "Mitwirkende",
+  "ar": "المشارك",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mitwirkenden"
+ },
+ {
+  "de": "Mitwirkung",
+  "ar": "المشاركة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Mobilfunkbetreiber",
+  "ar": "مشغل الموبايل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mobilfunkbetreiber"
+ },
+ {
+  "de": "Mobiltelefon",
+  "ar": "الموبايل",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Mobiltelefone"
+ },
+ {
+  "de": "Modebranche",
+  "ar": "صناعة الموضة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Modebranchen"
+ },
+ {
+  "de": "Modekette",
+  "ar": "سلسلة الموضة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Modeketten"
+ },
+ {
+  "de": "Modelabel",
+  "ar": "ماركة الموضة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Modelabels"
+ },
+ {
+  "de": "Modellbauer",
+  "ar": "صانع المجسمات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Modellbauer"
+ },
+ {
+  "de": "Modelleisenbahn",
+  "ar": "قطر المجسمات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Modelleisenbahnen"
+ },
+ {
+  "de": "Modem",
+  "ar": "المودم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Modems"
+ },
+ {
+  "de": "Modeschau",
+  "ar": "عرض الأزياء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Modeschauen"
+ },
+ {
+  "de": "Modeschöpfer",
+  "ar": "مصمم الأزياء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Modeschöpfer"
+ },
+ {
+  "de": "Modus",
+  "ar": "الوضع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Modi"
+ },
+ {
+  "de": "Mogelpackung",
+  "ar": "العبوة المخادعة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mogelpackungen"
+ },
+ {
+  "de": "Molekül",
+  "ar": "الجزيء",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Moleküle"
+ },
+ {
+  "de": "Molkerei",
+  "ar": "مصنع الألبان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Molkereien"
+ },
+ {
+  "de": "Molotowcocktail",
+  "ar": "زجاجة المولوتوف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Molotowcocktails"
+ },
+ {
+  "de": "Momentaufnahme",
+  "ar": "اللقطة اللحظية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Momentaufnahmen"
+ },
+ {
+  "de": "Monatsende",
+  "ar": "آخر الشهر",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Monatsenden"
+ },
+ {
+  "de": "Monatsticket",
+  "ar": "تذكرة الشهر",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Monatstickets"
+ },
+ {
+  "de": "Mondfinsternis",
+  "ar": "خسوف القمر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mondfinsternisse"
+ },
+ {
+  "de": "Mondlandung",
+  "ar": "الهبوط على القمر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mondlandungen"
+ },
+ {
+  "de": "Mondrückseite",
+  "ar": "الجانب المظلم للقمر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mondrückseiten"
+ },
+ {
+  "de": "Monetarisierung",
+  "ar": "تحقيق الدخل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Monetarisierungen"
+ },
+ {
+  "de": "Monogamie",
+  "ar": "الزواج الأحادي",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Monolog",
+  "ar": "المونولوج",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Monologe"
+ },
+ {
+  "de": "Monopolstellung",
+  "ar": "المركز الاحتكاري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Monopolstellungen"
+ },
+ {
+  "de": "Montage",
+  "ar": "المونتاج",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Montagen"
+ },
+ {
+  "de": "Moralwächter",
+  "ar": "وصي الأخلاق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Moralwächter"
+ },
+ {
+  "de": "Moratorium",
+  "ar": "التجميد المؤقت",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Moratorien"
+ },
+ {
+  "de": "Mordanschlag",
+  "ar": "محاولة الاغتيال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mordanschläge"
+ },
+ {
+  "de": "Mordprozess",
+  "ar": "محاكمة القتل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mordprozesse"
+ },
+ {
+  "de": "Mordrate",
+  "ar": "معدل القتل",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mordraten"
+ },
+ {
+  "de": "Morgendämmerung",
+  "ar": "الفجر",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Morgendämmerungen"
+ },
+ {
+  "de": "Morgengrauen",
+  "ar": "الشفق",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Mosaik",
+  "ar": "الفسيفساء",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Mosaike"
+ },
+ {
+  "de": "Mosambik",
+  "ar": "موزمبيق",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Moschus",
+  "ar": "المسك",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Moskitobiss",
+  "ar": "لدغة البعوض",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Moskitobisse"
+ },
+ {
+  "de": "Mossad",
+  "ar": "الموساد",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Motorboot",
+  "ar": "القارب البخاري",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Motorboote"
+ },
+ {
+  "de": "Motorhaube",
+  "ar": "كبوت العربية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Motorhauben"
+ },
+ {
+  "de": "Motorradfahren",
+  "ar": "سواقة الموتوسيكل",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Motorraum",
+  "ar": "حجرة الموتور",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Motorräume"
+ },
+ {
+  "de": "Motorroller",
+  "ar": "الاسكوتر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Motorroller"
+ },
+ {
+  "de": "Multitasking",
+  "ar": "تعدد المهام",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Mumie",
+  "ar": "المومياء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mumien"
+ },
+ {
+  "de": "Mundart",
+  "ar": "اللهجة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mundarten"
+ },
+ {
+  "de": "Mundpropaganda",
+  "ar": "الدعاية الشفهية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Mundspülung",
+  "ar": "غسول الفم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mundspülungen"
+ },
+ {
+  "de": "Mundwinkel",
+  "ar": "زاوية البق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mundwinkel"
+ },
+ {
+  "de": "Munitionslieferung",
+  "ar": "شحنة الذخيرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Munitionslieferungen"
+ },
+ {
+  "de": "Munitionsmangel",
+  "ar": "نقص الذخيرة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Museumsdirektor",
+  "ar": "مدير المتحف",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Museumsdirektoren"
+ },
+ {
+  "de": "Musikbox",
+  "ar": "الصندوق الموسيقي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Musikboxen"
+ },
+ {
+  "de": "Musikfestival",
+  "ar": "مهرجان الموسيقى",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Musikfestivals"
+ },
+ {
+  "de": "Musikindustrie",
+  "ar": "صناعة الموسيقى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Musikindustrien"
+ },
+ {
+  "de": "Musikinstrument",
+  "ar": "الآلة الموسيقية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Musikinstrumente"
+ },
+ {
+  "de": "Musikkapelle",
+  "ar": "الفرقة الموسيقية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Musikkapellen"
+ },
+ {
+  "de": "Musiklehrer",
+  "ar": "مدرس الموسيقى",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Musiklehrer"
+ },
+ {
+  "de": "Musikvideo",
+  "ar": "الفيديو كليب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Musikvideos"
+ },
+ {
+  "de": "Muskelaufbau",
+  "ar": "بناء العضلات",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Muskelfaserriss",
+  "ar": "تمزق العضلة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Muskelfaserrisse"
+ },
+ {
+  "de": "Musterung",
+  "ar": "الفحص العسكري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Musterungen"
+ },
+ {
+  "de": "Mutant",
+  "ar": "المتحول",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mutanten"
+ },
+ {
+  "de": "Mutterkonzern",
+  "ar": "الشركة الأم",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mutterkonzerne"
+ },
+ {
+  "de": "Mutterschaft",
+  "ar": "الأمومة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Mutterschutzgesetz",
+  "ar": "قانون حماية الأمومة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Mutterschutzgesetze"
+ },
+ {
+  "de": "Myanmar",
+  "ar": "ميانمار",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Mysterium",
+  "ar": "اللغز",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Mysterien"
+ },
+ {
+  "de": "Mädelsabend",
+  "ar": "سهرة البنات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mädelsabende"
+ },
+ {
+  "de": "Mähroboter",
+  "ar": "روبوت جز العشب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mähroboter"
+ }
+]
