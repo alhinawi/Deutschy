@@ -68,15 +68,19 @@ function VerbCard({ v }: { v: GenVerb }) {
         <div className="mt-4 grid gap-4 rounded-xl bg-paper p-4 sm:grid-cols-2">
           <Tense title={t('المضارع · Präsens', 'Present · Präsens')} forms={v.pres} />
           <Tense title={t('الماضي البسيط · Präteritum', 'Simple past · Präteritum')} forms={v.pret} />
-          <Tense title={t('الافتراضي · Konjunktiv II', 'Subjunctive · Konjunktiv II')} forms={v.kj2} />
+          {v.kj2 && <Tense title={t('الافتراضي · Konjunktiv II', 'Subjunctive · Konjunktiv II')} forms={v.kj2} />}
           <div>
-            <p className="ar-title mb-1 text-sm font-bold text-accent">{t('الأمر · Imperativ', 'Imperative · Imperativ')}</p>
-            <table className="w-full border-collapse text-sm" dir="ltr">
-              <tbody>
-                <tr className="border-b border-line"><td className="w-24 py-1 pr-2 text-muted">du</td><td className="de py-1" lang="de">{v.imp[0]}</td></tr>
-                <tr><td className="w-24 py-1 pr-2 text-muted">ihr</td><td className="de py-1" lang="de">{v.imp[1]}</td></tr>
-              </tbody>
-            </table>
+            {v.imp && (
+              <>
+                <p className="ar-title mb-1 text-sm font-bold text-accent">{t('الأمر · Imperativ', 'Imperative · Imperativ')}</p>
+                <table className="w-full border-collapse text-sm" dir="ltr">
+                  <tbody>
+                    <tr className="border-b border-line"><td className="w-24 py-1 pr-2 text-muted">du</td><td className="de py-1" lang="de">{v.imp[0]}</td></tr>
+                    <tr><td className="w-24 py-1 pr-2 text-muted">ihr</td><td className="de py-1" lang="de">{v.imp[1]}</td></tr>
+                  </tbody>
+                </table>
+              </>
+            )}
             <p className="ar-title mb-1 mt-4 text-sm font-bold text-accent">{t('الماضي التام · Perfekt', 'Present perfect · Perfekt')}</p>
             <p dir="ltr" className="de text-sm" lang="de">{perfektOf(v)}</p>
           </div>

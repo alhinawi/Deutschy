@@ -31,7 +31,10 @@ const lookup = (inf) => {
   for (const k of tries) if (dict[k]) return { key: k, d: dict[k] };
   return null;
 };
-const six = (t) => t ? [t.S['1'], t.S['2'], t.S['3'], t.P['1'], t.P['2'], t.P['3']] : null;
+const six = (t) => {
+  try { return t ? [t.S['1'], t.S['2'], t.S['3'], t.P['1'], t.P['2'], t.P['3']] : null; }
+  catch { return null; } // incomplete paradigm in the source dictionary
+};
 const REVERSED = new Set(['kennen lernen', 'spazieren gehen', 'bleiben stehen', 'stehen bleiben']);
 const join = (f) => (Array.isArray(f) ? f.join(' ') : f);
 const joinFor = (inf) => (f) => (Array.isArray(f) ? (REVERSED.has(inf) ? [...f].reverse().join(' ') : f.join(' ')) : f);
@@ -60,9 +63,9 @@ for (const { inf, ar, lvl } of entries) {
   const refl = inf.startsWith('sich ');
   const base = refl ? inf.slice(5) : inf;
   const presRaw = six(d.PRÄ), pretRaw = six(d.PRT), kj2Raw = six(d.KJ2);
-  if (!presRaw || !pretRaw) {
+  if (!presRaw || !pretRaw || !kj2Raw) {
     const p = patches[inf];
-    if (!p) { missing.push(inf + ' (no PRA/PRT)'); continue; }
+    if (!p) { missing.push(inf + ' (incomplete paradigm)'); continue; }
     out.push({ inf, ar, lvl, kinds: p.kinds, aux: p.aux, pres: p.pres, pret: p.pret, kj2: p.kj2, imp: p.imp, pp: p.pp });
     continue;
   }
