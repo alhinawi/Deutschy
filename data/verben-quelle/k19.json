@@ -1,0 +1,682 @@
+[
+[
+"hinausschleichen",
+"يخرج على الساكت"
+],
+[
+"hinausschmuggeln",
+"يهربه بره"
+],
+[
+"hinaussehen",
+"يبص بره"
+],
+[
+"hinausspähen",
+"يبص بره"
+],
+[
+"hinausstürmen",
+"يخرج بسرعة"
+],
+[
+"hinaustragen",
+"يحمله بره"
+],
+[
+"hinaustrompeten",
+"يعلنها للكل"
+],
+[
+"hinauswachsen",
+"يكبر عنه"
+],
+[
+"hinauswerfen",
+"يرميه بره"
+],
+[
+"hinauszerren",
+"يسحبه بره"
+],
+[
+"hinauszögern",
+"يأجله"
+],
+[
+"hinbekommen",
+"يظبطه"
+],
+[
+"hinbewegen",
+"يحركه هناك"
+],
+[
+"hindackeln",
+"يمشي وراه ببطء"
+],
+[
+"hindurchbewegen",
+"يعدي من خلاله"
+],
+[
+"hindurchblicken",
+"يبص من خلاله"
+],
+[
+"hindurchessen",
+"يدوق من كل حاجة"
+],
+[
+"hindurchfinden",
+"يلاقي الطريق وسط الزحمة"
+],
+[
+"hindurchgehen",
+"يعدي من خلاله"
+],
+[
+"hindurchklettern",
+"يتسلق من خلاله"
+],
+[
+"hindurchmarschieren",
+"يعدي ماشي من خلاله"
+],
+[
+"hindurchquetschen",
+"يعدي من الفتحة الضيقة"
+],
+[
+"hindurchschlängeln",
+"يعدي متعرج"
+],
+[
+"hindurchschlüpfen",
+"يعدي من الفتحة"
+],
+[
+"hindurchsehen",
+"يبص من خلاله"
+],
+[
+"hindurchspähen",
+"يبص من خلاله"
+],
+[
+"hindurchstürmen",
+"يعدي بسرعة"
+],
+[
+"hindurchwinden",
+"يعدي متلوي"
+],
+[
+"hineinbegeben",
+"يدخل جوه"
+],
+[
+"hineinbeißen",
+"يعض فيه"
+],
+[
+"hineinbitten",
+"يطلب منه يدخل بأدب"
+],
+[
+"hineinblicken",
+"يبص جوه"
+],
+[
+"hineindenken",
+"يتعمق فيه بفكره"
+],
+[
+"hineindrücken",
+"يدخله جوه بالعافية"
+],
+[
+"hineinfallen",
+"يقع جوه"
+],
+[
+"hineinfeiern",
+"يحتفل من قبلها"
+],
+[
+"hineinfinden",
+"يلاقي الطريق لجوه"
+],
+[
+"hineingebären",
+"يخلفه في ظروف معينة"
+],
+[
+"hineingeheimnissen",
+"يشوف فيه سر وهو مفيش"
+],
+[
+"hineingehen",
+"يدخل جوه"
+],
+[
+"hineingießen",
+"يصبه جوه"
+],
+[
+"hineingucken",
+"يبص جوه"
+],
+[
+"hineininterpretieren",
+"يفسره أكتر من اللازم"
+],
+[
+"hineinklettern",
+"يتسلق جوه"
+],
+[
+"hineinkrachen",
+"يخبط فيه"
+],
+[
+"hineinkriechen",
+"يزحف جوه"
+],
+[
+"hineinlassen",
+"يدخله جوه"
+],
+[
+"hineinlavieren",
+"يحط نفسه في موقف صعب"
+],
+[
+"hineinleuchten",
+"ينور جوه"
+],
+[
+"hineinlinsen",
+"يبص جوه بسرعة"
+],
+[
+"hineinmarschieren",
+"يدخل ماشي"
+],
+[
+"hineinnehmen",
+"ياخده جوه"
+],
+[
+"hineinpacken",
+"يحطه جوه"
+],
+[
+"hineinpfeifen",
+"يصفر جوه"
+],
+[
+"hineinpieken",
+"يدبسه جوه"
+],
+[
+"hineinplatzen",
+"يدخل فجأة"
+],
+[
+"hineinpressen",
+"يضغطه جوه"
+],
+[
+"hineinpumpen",
+"يضخه جوه"
+],
+[
+"hineinquetschen",
+"يحشره جوه"
+],
+[
+"hineinrasen",
+"يخبط فيه بسرعة"
+],
+[
+"hineinreißen",
+"يسحبه جوه"
+],
+[
+"hineinrennen",
+"يدخل جاري"
+],
+[
+"hineinrufen",
+"ينادي عليه جوه"
+],
+[
+"hineinrutschen",
+"ينزلق جوه"
+],
+[
+"hineinräumen",
+"يدخله جوه"
+],
+[
+"hineinschauen",
+"يبص جوه"
+],
+[
+"hineinschaufeln",
+"يحطه جوه بالمجرفة"
+],
+[
+"hineinschieben",
+"يدفعه جوه"
+],
+[
+"hineinschlüpfen",
+"يدخل جوه بسرعة"
+],
+[
+"hineinschmeißen",
+"يرميه جوه"
+],
+[
+"hineinschneien",
+"ينزل جوه بجد"
+],
+[
+"hineinschreiben",
+"يكتب جوه"
+],
+[
+"hineinschütten",
+"يصبه جوه"
+],
+[
+"hineinsehen",
+"يبص جوه"
+],
+[
+"hineinsetzen",
+"يقعده جوه"
+],
+[
+"hineinspazieren",
+"يدخل بهدوء"
+],
+[
+"hineinspringen",
+"ينط جوه"
+],
+[
+"hineinspähen",
+"يبص جوه"
+],
+[
+"hineinstechen",
+"يطعنه جوه"
+],
+[
+"hineinstecken",
+"يحطه جوه"
+],
+[
+"hineinstopfen",
+"يحشيه جوه"
+],
+[
+"hineinstoßen",
+"يدفعه جوه"
+],
+[
+"hineinströmen",
+"يدخل بكميات"
+],
+[
+"hineinstürmen",
+"يدخل بعنف"
+],
+[
+"hineintheatern",
+"يورطه في الموضوع"
+],
+[
+"hineintragen",
+"يحمله جوه"
+],
+[
+"hineintun",
+"يحطه جوه"
+],
+[
+"hineinwerfen",
+"يرميه جوه"
+],
+[
+"hineinzwängen",
+"يحشره جوه بالعافية"
+],
+[
+"hinkacken",
+"يعمل حمام هناك"
+],
+[
+"hinknallen",
+"يقع على الأرض"
+],
+[
+"hinkritzeln",
+"يكتب بسرعة وخربشة"
+],
+[
+"hinleiten",
+"يوجهه هناك"
+],
+[
+"hinlenken",
+"يوجهه هناك"
+],
+[
+"hinmarschieren",
+"يمشي هناك"
+],
+[
+"hinmetzeln",
+"يذبحهم"
+],
+[
+"hinmorden",
+"يقتله بوحشية"
+],
+[
+"hinpfeffern",
+"يرميه بعنف"
+],
+[
+"hinpflanzen",
+"يزرعه هناك"
+],
+[
+"hinreiten",
+"يروح هناك راكب حصان"
+],
+[
+"hinrollen",
+"يتدحرج هناك"
+],
+[
+"hinrudern",
+"ييجدف هناك"
+],
+[
+"hinscheißen",
+"يعمل حمام هناك"
+],
+[
+"hinschicken",
+"يبعته هناك"
+],
+[
+"hinschleudern",
+"يرميه هناك بقوة"
+],
+[
+"hintanhalten",
+"يمنعه مؤقتا"
+],
+[
+"hintanstellen",
+"يحطه ورا"
+],
+[
+"hinterbleiben",
+"يفضل عايش بعده"
+],
+[
+"hinterbringen",
+"يقوله سر"
+],
+[
+"hinterfüllen",
+"يملا الفراغ اللي ورا"
+],
+[
+"hinterherbrüllen",
+"يصرخ وراه"
+],
+[
+"hinterherdackeln",
+"يمشي وراه ببطء"
+],
+[
+"hinterherfliegen",
+"يطير وراه"
+],
+[
+"hinterhergehen",
+"يمشي وراه"
+],
+[
+"hinterherglotzen",
+"يبص وراه ببلاهة"
+],
+[
+"hinterherhechten",
+"ينط وراه"
+],
+[
+"hinterherhinken",
+"يعرج وراه"
+],
+[
+"hinterherhumpeln",
+"يعرج وراه"
+],
+[
+"hinterherjagen",
+"يجري وراه"
+],
+[
+"hinterherkleckern",
+"يمشي وراه ببطء"
+],
+[
+"hinterherkrabbeln",
+"يزحف وراه"
+],
+[
+"hinterherlaufen",
+"يجري وراه"
+],
+[
+"hinterhermarschieren",
+"يمشي وراه"
+],
+[
+"hinterherpfeifen",
+"يصفر ورا البنت الحلوة"
+],
+[
+"hinterherrennen",
+"يجري وراه"
+],
+[
+"hinterherrufen",
+"ينادي عليه من ورا"
+],
+[
+"hinterherschauen",
+"يبص وراه"
+],
+[
+"hinterherschicken",
+"يبعته وراه"
+],
+[
+"hinterherschwimmen",
+"يعوم وراه"
+],
+[
+"hinterherspazieren",
+"يمشي وراه براحة"
+],
+[
+"hinterherspionieren",
+"يتجسس عليه"
+],
+[
+"hinterhersprinten",
+"يجري وراه بسرعة"
+],
+[
+"hinterherstarren",
+"يبص وراه بتركيز"
+],
+[
+"hinterhertelefonieren",
+"يكلمه تاني بالتليفون"
+],
+[
+"hinterherwandern",
+"يمشي وراه"
+],
+[
+"hinterherwatscheln",
+"يمشي وراه متمايل"
+],
+[
+"hinterherziehen",
+"يشده وراه"
+],
+[
+"hinterlaufen",
+"يعدي من ورا المدافع"
+],
+[
+"hintermauern",
+"يقوي الحيطة من ورا"
+],
+[
+"hinterschlingen",
+"ياكل بسرعة وشراهة"
+],
+[
+"hintertreiben",
+"يفسد خططه بالخبث"
+],
+[
+"hinunterbefördern",
+"ينزله لتحت"
+],
+[
+"hinunterbegleiten",
+"ينزل معاه لتحت"
+],
+[
+"hinunterbekommen",
+"يبلعه"
+],
+[
+"hinunterbeugen",
+"ينحني لتحت"
+],
+[
+"hinunterbringen",
+"ينزله لتحت"
+],
+[
+"hinunterbugsieren",
+"ينزله لتحت برفق"
+],
+[
+"hinunterdrücken",
+"يدوس عليه لتحت"
+],
+[
+"hinunterfahren",
+"ينزل بالعربية"
+],
+[
+"hinunterfallen",
+"يقع لتحت"
+],
+[
+"hinunterfinden",
+"يلاقي الطريق لتحت"
+],
+[
+"hinuntergehen",
+"ينزل"
+],
+[
+"hinuntergeleiten",
+"ينزل معاه لتحت"
+],
+[
+"hinuntergießen",
+"يصبه لتحت"
+],
+[
+"hinunterkippen",
+"يقلبه لتحت"
+],
+[
+"hinunterklettern",
+"ينزل متسلق"
+],
+[
+"hinunterkommen",
+"ينزل"
+],
+[
+"hinunterkriechen",
+"يزحف لتحت"
+],
+[
+"hinuntermarschieren",
+"ينزل ماشي"
+],
+[
+"hinunterrennen",
+"ينزل جاري"
+],
+[
+"hinunterrieseln",
+"ينزل حبات صغيرة"
+],
+[
+"hinunterrutschen",
+"ينزلق لتحت"
+],
+[
+"hinunterschlingen",
+"يبلعه بسرعة"
+],
+[
+"hinunterschlucken",
+"يبلعه"
+],
+[
+"hinunterschmeißen",
+"يرميه لتحت"
+],
+[
+"hinunterschubsen",
+"يدفعه لتحت"
+],
+[
+"hinunterschütten",
+"يصبه لتحت"
+],
+[
+"hinuntersehen",
+"يبص لتحت"
+],
+[
+"hinuntersickern",
+"يتسرب لتحت"
+],
+[
+"hinuntersinken",
+"يغوص لتحت"
+]
+]
