@@ -4,6 +4,8 @@ import { notFound } from 'next/navigation';
 import { arWords } from '@/lib/arcount';
 import { topics, topicTitles, wordsOf } from '@/lib/data';
 import VocabularyQuiz from '@/components/VocabularyQuiz';
+import LessonGate from '@/components/LessonGate';
+import LessonResult from '@/components/LessonResult';
 import WordCard from '@/components/WordCard';
 import { T } from '@/lib/i18n';
 import { gameHref } from '@/lib/game-links';
@@ -20,6 +22,7 @@ export default async function Topic({ params }: { params: Promise<{ topic: strin
   const topicIndex = topics.findIndex(x=>x.id===topic);
   const neighbors = [{item:topics[topicIndex-1],index:topicIndex-1,previous:true},{item:topics[topicIndex+1],index:topicIndex+1,previous:false}].filter(x=>x.item);
   return (
+    <LessonGate index={topicIndex}>
     <div className="space-y-6">
       {/* eslint-disable-next-line @next/next/no-img-element */}
       <img src={topicPhoto(topic)} alt="" data-lesson-photo className="h-44 w-full rounded-2xl border border-line bg-card object-contain p-3 sm:h-56" width={960} height={224} loading="eager"/>
@@ -41,6 +44,8 @@ export default async function Topic({ params }: { params: Promise<{ topic: strin
       <nav aria-label="Neighboring lessons" className="grid gap-3 sm:grid-cols-2">{neighbors.map(({item,index,previous})=><Link key={item.id} rel={previous?'prev':'next'} href={`/lessons/${item.id}/`} className="min-h-11 min-w-0 rounded-2xl border border-line bg-card p-4 hover:border-accent [overflow-wrap:anywhere] focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper"><p className="text-sm font-semibold"><T ar={previous?'الدرس اللي فات':'الدرس اللي بعده'} en={previous?'Previous lesson':'Next lesson'}/> · <span className="num">{index+1}</span></p><p dir="ltr" lang="de" className="de mt-1 text-xl">{topicTitles[item.id]}</p><p className="text-sm text-muted"><TopicName id={item.id}/></p></Link>)}</nav>
       <VocabularyQuiz pool={ws} id={`topic-${topic}`} />
       <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">{ws.map((w, n) => <WordCard key={w.id} w={w} first={n < 2} />)}</div>
+      <LessonResult index={topicIndex} topic={topic} />
     </div>
+    </LessonGate>
   );
 }
