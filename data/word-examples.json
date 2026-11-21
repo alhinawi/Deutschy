@@ -3226,5 +3226,101 @@
  "nussknacker": {
   "de": "Der Nussknacker knackt die Walnuss.",
   "ar": "كسارة البندق بتكسر البندق."
+ },
+ "kaffeemuehle": {
+  "de": "Die Kaffeemühle mahlt die Bohnen.",
+  "ar": "مطحنة البن بتطحن الحبوب."
+ },
+ "korkenzieher": {
+  "de": "Der Korkenzieher öffnet die Flasche.",
+  "ar": "فتاحة الفلين بتفتح الإزازة."
+ },
+ "schaukelstuhl": {
+  "de": "Der Schaukelstuhl schaukelt leise.",
+  "ar": "الكرسي الهزاز بيهز بهدوء."
+ },
+ "haengematte": {
+  "de": "Die Hängematte hängt zwischen den Bäumen.",
+  "ar": "الأرجوحة معلقة بين الشجر."
+ },
+ "rettungsring": {
+  "de": "Der Rettungsring hängt am Boot.",
+  "ar": "طوق النجاة معلق في القارب."
+ },
+ "fernrohr": {
+  "de": "Das Fernrohr zeigt die Sterne.",
+  "ar": "التليسكوب بيبين النجوم."
+ },
+ "tuerklopfer": {
+  "de": "Der Türklopfer klopft an die Tür.",
+  "ar": "دقّاقة الباب بتدق على الباب."
+ },
+ "briefkasten": {
+  "de": "Der Briefkasten sammelt die Post.",
+  "ar": "صندوق البريد بيجمع الجوابات."
+ },
+ "glocke": {
+  "de": "Die Glocke läutet zum Gottesdienst.",
+  "ar": "الجرس بيرن قبل الصلاة."
+ },
+ "kerzenstaender": {
+  "de": "Der Kerzenständer hält die Kerze.",
+  "ar": "حامل الشمع ماسك الشمعة."
+ },
+ "trinkhalm": {
+  "de": "Der Trinkhalm steht im Saft.",
+  "ar": "الشفّاطة في العصير."
+ },
+ "essstaebchen": {
+  "de": "Die Essstäbchen essen den Reis.",
+  "ar": "عيدان الأكل بتاكل الروز."
+ },
+ "lesezeichen": {
+  "de": "Das Lesezeichen markiert die Seite.",
+  "ar": "علامة الكتاب بتحدد الصفحة."
+ },
+ "scharnier": {
+  "de": "Das Scharnier quietscht beim Öffnen.",
+  "ar": "المفصلة بتصر أثناء الفتح."
+ },
+ "teigschaber": {
+  "de": "Der Teigschaber holt den Teig aus der Schüssel.",
+  "ar": "كاشطة العجين بتجيب العجينة من السلطانية."
+ },
+ "platzdeckchen": {
+  "de": "Das Platzdeckchen liegt unter dem Teller.",
+  "ar": "المفرش الفردي تحت الطبق."
+ },
+ "messloeffel": {
+  "de": "Der Messlöffel misst einen Teelöffel Salz.",
+  "ar": "المعلقة المعيارية بتقيس معلقة ملح صغيرة."
+ },
+ "kuechenwaage": {
+  "de": "Die Küchenwaage wiegt das Mehl.",
+  "ar": "ميزان المطبخ بيوزن الدقيق."
+ },
+ "schlaegel": {
+  "de": "Der Schlägel schlägt die Trommel.",
+  "ar": "عصاية الضرب بتضرب الطبل."
+ },
+ "kastagnette": {
+  "de": "Die Kastagnette klackt im Flamenco.",
+  "ar": "الكاستنيت بتدق في الفلامنكو."
+ },
+ "farbrolle": {
+  "de": "Die Farbrolle streicht die Wand.",
+  "ar": "رول الدهان بيدهن الحيطة."
+ },
+ "farbwanne": {
+  "de": "Die Farbwanne hält die Farbe.",
+  "ar": "صينية الدهان ماسكة الدهان."
+ },
+ "megafon": {
+  "de": "Das Megafon macht die Stimme laut.",
+  "ar": "الميجافون بيعلّي الصوت."
+ },
+ "leitkegel": {
+  "de": "Der Leitkegel sperrt die Straße.",
+  "ar": "مخروط المرور بيقفل الطريق."
  }
 }
