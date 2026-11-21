@@ -3,6 +3,7 @@ import {saveResume} from '@/lib/resume';
 import {localActivity} from '@/lib/local-activity';
 import {useLocalClock} from '@/lib/use-local-clock';
 import PwaRuntime from './PwaRuntime';
+import EffectSounds from './EffectSounds';
 import SpeechNotice from './SpeechNotice';
 
 import Link from 'next/link';
@@ -118,6 +119,7 @@ export default function Shell({ children }: { children: ReactNode }) {
         {navigation}
       </aside>
       <PwaRuntime />
+      <EffectSounds />
       <main id="main" tabIndex={-1} className="outline-none px-4 pb-28 pt-6 md:pb-8 md:ps-72 md:pe-8">
         <div className="mx-auto max-w-5xl">{storageError&&<p role="alert" className="mb-4 rounded-xl border border-line bg-card p-4">{t('سجل التدريب مش قابل للتحديث أو جزء منه مش مقروء. الأصل متساب من غير تغيير؛ الإجابات الجديدة ممكن ماتتحفظش. احتفظ بنسخة من أي كلام مهم قبل إعادة التحميل.','Practice data cannot be updated or part of its record cannot be read. The original is unchanged; new answers may not be saved. Copy important text before reloading.')}</p>}{children}<SheetLink /><footer className="mt-10 border-t border-line pt-4 text-center text-xs text-muted"><Link href="/credits/" className="underline decoration-dotted underline-offset-4 hover:text-accent">{t('حقوق الصور والمصادر','Image and source credits')}</Link></footer></div>
       </main>
