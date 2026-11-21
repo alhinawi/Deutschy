@@ -129,21 +129,27 @@ function Rounds({ game, list, again }: Props) {
   const [i, setI] = useState(0);
   const [score, setScore] = useState(0);
   const [picked, setPicked] = useState<string | null>(null);
+  const [missed, setMissed] = useState<string | null>(null);
   const [typed, setTyped] = useState('');
   const saved=useRef(false);
   const locked=useRef(false);
   const spellingInput=useRef<HTMLInputElement>(null);
   useEffect(()=>{if(game==='spelling')spellingInput.current?.focus()},[game,i]);
   useEffect(()=>{if(i>=qs.length&&!saved.current&&qs.length){saved.current=true;addScore(game,score)}},[i,qs.length,game,score,addScore]);
-  const next=()=>{setPicked(null);setTyped('');setI(i+1);locked.current=false};
+  const next=()=>{setPicked(null);setMissed(null);setTyped('');setI(i+1);locked.current=false};
 
   if (i >= qs.length) {
     return <Done title={t('خلصت الجولة', 'Round finished')} line={t(`${score} من ${qs.length} صح`, `${score} of ${qs.length} correct`)} xp={score * (game === 'spelling' ? 15 : 10)} again={again} />;
   }
   const { w, opts } = qs[i];
   const xp = game === 'spelling' ? 15 : 10;
+  // First answer sets points and history. A first miss records the miss,
+  // shows a hint and offers exactly one retry; the retry only reveals.
   const advance = (ok: boolean) => { if(locked.current)return;locked.current=true;award(ok ? xp : 0, w.id, ok); if (ok) setScore((s) => s + 1); };
-  const feedback=(ok:boolean)=><div id="spelling-feedback" role="status" className="space-y-3"><p>{ok?t('صح.','Correct.'):t('راجع الكلمة الصح.','Check the correct word.')}</p><p dir="ltr" lang="de" className="de break-words text-xl">{w.art} {w.de}</p><button type="button" onClick={next} className="w-full rounded-full bg-accent px-5 py-3 font-bold text-accent-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper">{i+1>=qs.length?t('النتيجة','Result'):t('التالي','Next')}</button></div>;
+  const miss = (key: string) => { if(locked.current)return; award(0, w.id, false); setMissed(key); };
+  const retryPick = (ok: boolean, key: string) => { locked.current=true; if (ok) answerEffect(true); setPicked(key); };
+  const feedback=(ok:boolean)=><div id="spelling-feedback" role="status" className="space-y-3"><p>{ok?(missed!==null?t('صح بعد التلميح. النقط بتتسجل من أول إجابة.','Correct after the hint. Points come from the first answer.'):t('صح.','Correct.')):t('راجع الكلمة الصح.','Check the correct word.')}</p><p dir="ltr" lang="de" className="de break-words text-xl">{w.art} {w.de}</p><button type="button" onClick={next} className="w-full rounded-full bg-accent px-5 py-3 font-bold text-accent-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper">{i+1>=qs.length?t('النتيجة','Result'):t('التالي','Next')}</button></div>;
+  const hint=<div role="status" className="space-y-2 rounded-xl border border-line bg-card p-4"><p className="ar-title text-lg">{t('مش هي. المعنى: ','Not it. The meaning: ')}{glossOf(w, lang)}</p><p className="text-sm text-muted">{t('جرّب مرة تانية. آخر محاولة قبل ما الإجابة تظهر، والنقط اتحسبت من أول إجابة.','Try once more. Last try before the answer shows; points were scored on the first answer.')}</p></div>;
 
   if (game === 'spelling') {
     const correct = typed.normalize('NFC').trim().toLocaleLowerCase('de') === w.de.normalize('NFC').toLocaleLowerCase('de');
@@ -152,10 +158,11 @@ function Rounds({ game, list, again }: Props) {
       <Frame i={i} n={qs.length}>
         <Photo w={w} />
         <label htmlFor="spelling-answer" className="ar-title block cursor-text text-center text-2xl">{glossOf(w, lang)}</label>
-        <form onSubmit={(e) => { e.preventDefault(); if (done || locked.current || !typed.trim()) return; setPicked(typed); advance(correct); }} className="space-y-3">
+        <form onSubmit={(e) => { e.preventDefault(); if (done || locked.current || !typed.trim()) return; if (!correct && missed === null) { miss(typed); setTyped(''); return; } setPicked(typed); if (missed === null) advance(correct); else retryPick(correct, typed); }} className="space-y-3">
           <input ref={spellingInput} id="spelling-answer" required aria-errormessage={done&&!correct?"spelling-feedback":undefined} aria-invalid={done&&!correct} autoCorrect="off" aria-describedby="spelling-help" enterKeyHint="done" dir="ltr" lang="de" aria-label={t("اكتب الكلمة الألماني","Type the German noun")} name="spelling-answer" maxLength={150} inputMode="text" autoComplete="off" spellCheck={false} autoCapitalize="none" autoFocus value={typed} onChange={(e) => setTyped(e.target.value)} disabled={done} placeholder="…" className="de w-full rounded-xl border border-line bg-card px-4 py-3 text-center text-2xl outline-none focus:border-accent focus-visible:ring-2 focus-visible:ring-accent disabled:opacity-100 disabled:text-ink" />
           <p id="spelling-help" className="text-center text-xs text-muted">{t('اكتب الكلمة من غير der/die/das. هنا مش بنفرق الحرف الكبير والصغير؛ ä ö ü ß لازم صح. الاسم الألماني بيبدأ عادة بحرف كبير.', 'Type the word without der/die/das. Case is ignored in this practice; ä ö ü ß must match. German nouns normally start with a capital.')}</p>
           {done && feedback(correct)}
+          {!done && missed !== null && hint}
           <button disabled={done||!typed.trim()} className="w-full rounded-full bg-accent py-3 font-bold text-accent-ink focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper disabled:opacity-50">{t('تأكيد', 'Check')}</button>
         </form>
       </Frame>
@@ -171,10 +178,11 @@ function Rounds({ game, list, again }: Props) {
         <p className="ar-title text-center text-xl text-muted">{glossOf(w, lang)}</p>
         <div role="group" aria-labelledby="article-help" className="grid grid-cols-3 gap-3">
           {(['der', 'die', 'das'] as const).map((a) => (
-            <Choice key={a} label={a} ariaLabel={t(`اختار ${a}`, `Choose ${a}`)} state={picked === null ? '' : a === w.art ? 'good' : picked === a ? 'bad' : ''} disabled={picked!==null} onClick={() => { if (picked || locked.current) return; setPicked(a); advance(a === w.art); }} />
+            <Choice key={a} label={a} ariaLabel={t(`اختار ${a}`, `Choose ${a}`)} state={picked === null ? (missed === a ? 'bad' : '') : a === w.art ? 'good' : picked === a ? 'bad' : ''} disabled={picked!==null||missed===a} onClick={() => { if (picked || locked.current || missed === a) return; const ok = a === w.art; if (!ok && missed === null) { miss(a); return; } setPicked(a); if (missed === null) advance(ok); else retryPick(ok, a); }} />
           ))}
         </div>
         {picked!==null&&feedback(picked===w.art)}
+        {picked===null&&missed!==null&&hint}
       </Frame>
     );
   }
@@ -187,10 +195,11 @@ function Rounds({ game, list, again }: Props) {
       {!contextualPhoto(w) && <p className="sr-only" data-photo-meaning-cue>{t("المعنى المكتوب للصورة: ", "Written meaning of the photo: ")}{glossOf(w, lang)}</p>}
       <div className="grid grid-cols-1 gap-3 min-[480px]:grid-cols-2">
         {opts.map((o) => (
-          <Choice key={o.id} label={`${o.art} ${o.de}`} state={picked === null ? '' : o.id === w.id ? 'good' : picked === o.id ? 'bad' : ''} disabled={picked!==null} onClick={() => { if (picked || locked.current) return; setPicked(o.id); advance(o.id === w.id); }} />
+          <Choice key={o.id} label={`${o.art} ${o.de}`} state={picked === null ? (missed === o.id ? 'bad' : '') : o.id === w.id ? 'good' : picked === o.id ? 'bad' : ''} disabled={picked!==null||missed===o.id} onClick={() => { if (picked || locked.current || missed === o.id) return; const ok = o.id === w.id; if (!ok && missed === null) { miss(o.id); return; } setPicked(o.id); if (missed === null) advance(ok); else retryPick(ok, o.id); }} />
         ))}
       </div>
       {picked!==null&&feedback(picked===w.id)}
+      {picked===null&&missed!==null&&hint}
     </Frame>
   );
 }
