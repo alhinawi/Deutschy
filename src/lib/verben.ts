@@ -8,8 +8,8 @@ export type GenVerb = {
   aux: 'haben' | 'sein';
   pres: string[];
   pret: string[];
-  kj2: string[];
-  imp: string[];
+  kj2: string[] | null;
+  imp: string[] | null;
   pp: string;
 };
 
