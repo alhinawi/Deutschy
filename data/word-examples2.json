@@ -3130,5 +3130,101 @@
  "vase": {
   "de": "Die Vase ist voll roter Rosen.",
   "ar": "الفازة مليانة ورد أحمر."
+ },
+ "batterie": {
+  "de": "Die Batterie wechsle ich am Wochenende.",
+  "ar": "البطارية بغيرها آخر الأسبوع."
+ },
+ "ladegeraet": {
+  "de": "Das Ladegerät bleibt in der Steckdose.",
+  "ar": "الشاحن بيفضل في الفيشة."
+ },
+ "haarbuerste": {
+  "de": "Die Haarbürste liegt auf der Kommode.",
+  "ar": "فرشة الشعر على الكومود."
+ },
+ "haartrockner": {
+  "de": "Der Haartrockner hängt im Bad.",
+  "ar": "السيشوار معلق في الحمام."
+ },
+ "sonnenschirm": {
+  "de": "Der Sonnenschirm steht auf dem Balkon.",
+  "ar": "الشمسية واقفة على البلكونة."
+ },
+ "liegestuhl": {
+  "de": "Der Liegestuhl klappst du flach.",
+  "ar": "كرسي الاستلقاء بيتطبق مستوي."
+ },
+ "schellenkranz": {
+  "de": "Der Schellenkranz liegt im Instrumentenkoffer.",
+  "ar": "الدف في شنطة الآلات."
+ },
+ "metronom": {
+  "de": "Das Metronom steht auf dem Klavier.",
+  "ar": "الميترونوم على البيانو."
+ },
+ "wasserwaage": {
+  "de": "Die Wasserwaage hängt im Schuppen.",
+  "ar": "ميزان المية معلق في العنبر."
+ },
+ "messschieber": {
+  "de": "Der Messschieber liegt im Werkzeugkasten.",
+  "ar": "القدمة في صندوق العدة."
+ },
+ "salzstreuer": {
+  "de": "Der Salzstreuer steht neben dem Pfeffer.",
+  "ar": "مملحة الملح جنب الفلفل."
+ },
+ "pfeffermuehle": {
+  "de": "Die Pfeffermühle ist aus dunklem Holz.",
+  "ar": "طاحونة الفلفل من خشب غامق."
+ },
+ "knopf": {
+  "de": "Der Knopf ist abgegangen.",
+  "ar": "الزرار وقع."
+ },
+ "nadelkissen": {
+  "de": "Das Nadelkissen sieht aus wie eine Tomate.",
+  "ar": "وسادة الإبر شكلها طماطمة."
+ },
+ "teesieb": {
+  "de": "Das Teesieb hängt über der Tasse.",
+  "ar": "مصفاة الشاي معلقة فوق الفنجان."
+ },
+ "teekessel": {
+  "de": "Der Teekessel steht auf dem Herd.",
+  "ar": "الغلاية على البوتاجاز."
+ },
+ "schraubzwinge": {
+  "de": "Die Schraubzwinge klemmt die zwei Bretter.",
+  "ar": "الزنبرك ماسك اللوحين."
+ },
+ "hobel": {
+  "de": "Der Hobel liegt auf der Werkbank.",
+  "ar": "الفارة على ترابيزة الشغل."
+ },
+ "spule": {
+  "de": "Die Spule passt in die Nähmaschine.",
+  "ar": "البكرة بتدخل ماكينة الخياطة."
+ },
+ "stecknadel": {
+  "de": "Die Stecknadel hat einen bunten Kopf.",
+  "ar": "دبوس التثبيت راسه ملونة."
+ },
+ "brotkorb": {
+  "de": "Der Brotkorb ist mit einem Tuch bedeckt.",
+  "ar": "سلة العيش متغطية بفوطة."
+ },
+ "obstschale": {
+  "de": "Die Obstschale steht in der Tischmitte.",
+  "ar": "طبق الفاكهة في نص الترابيزة."
+ },
+ "zuckerdose": {
+  "de": "Die Zuckerdose hat einen kleinen Löffel.",
+  "ar": "سكرية السكر ليها معلقة صغيرة."
+ },
+ "nussknacker": {
+  "de": "Der Nussknacker steht im Schrank.",
+  "ar": "كسارة البندق في الدولاب."
  }
 }
