@@ -3034,5 +3034,101 @@
  "vorratsdose": {
   "de": "Die Vorratsdose schließt luftdicht.",
   "ar": "علبة التخزين بتتقفل بإحكام."
+ },
+ "dominostein": {
+  "de": "Der Dominostein passt an die Fünf.",
+  "ar": "حجر الدومينو بيركب على الخمسة."
+ },
+ "spielkarte": {
+  "de": "Die Spielkarte zeigt den König.",
+  "ar": "ورقة الكوتشينة فيها الملك."
+ },
+ "picknickkorb": {
+  "de": "Der Picknickkorb trägt das Essen.",
+  "ar": "سبت البيكنيك شايل الأكل."
+ },
+ "thermosflasche": {
+  "de": "Die Thermosflasche hält den Saft kalt.",
+  "ar": "ترمس المشروبات بيخلي العصير ساقع."
+ },
+ "hundebett": {
+  "de": "Das Hundebett steht in der Ecke.",
+  "ar": "سرير الكلب في الركن."
+ },
+ "fressnapf": {
+  "de": "Der Fressnapf ist voll.",
+  "ar": "طبق أكل الحيوان مليان."
+ },
+ "schlafmaske": {
+  "de": "Die Schlafmaske macht es dunkel.",
+  "ar": "ماسك النوم بيضلّم."
+ },
+ "kulturbeutel": {
+  "de": "Der Kulturbeutel liegt im Koffer.",
+  "ar": "شنطة أدوات الحمام في الشنطة."
+ },
+ "toilettenpapierrolle": {
+  "de": "Die Toilettenpapierrolle hängt im Bad.",
+  "ar": "رول ورق التواليت معلق في الحمام."
+ },
+ "muelleimer": {
+  "de": "Der Mülleimer steht unter der Spüle.",
+  "ar": "باسكت الزبالة تحت الحوض."
+ },
+ "schuerze": {
+  "de": "Die Schürze schützt die Kleidung.",
+  "ar": "المريلة بتحمي الهدوم."
+ },
+ "geschirrtuch": {
+  "de": "Das Geschirrtuch trocknet die Gläser.",
+  "ar": "فوطة المطبخ بتنشف الكاسات."
+ },
+ "gabel": {
+  "de": "Die Gabel liegt links vom Teller.",
+  "ar": "الشوكة على شمال الطبق."
+ },
+ "schuessel": {
+  "de": "Die Schüssel ist voll Salat.",
+  "ar": "السلطانية مليانة سلطة."
+ },
+ "klemmbrett": {
+  "de": "Das Klemmbrett hält das Formular.",
+  "ar": "اللوحة بالمشبك ماسكة الاستمارة."
+ },
+ "textmarker": {
+  "de": "Der Textmarker markiert den Satz gelb.",
+  "ar": "قلم التحديد بيحدد الجملة بالأصفر."
+ },
+ "kalender": {
+  "de": "Der Kalender hängt in der Küche.",
+  "ar": "التقويم معلق في المطبخ."
+ },
+ "notizbuch": {
+  "de": "Das Notizbuch sammelt die Ideen.",
+  "ar": "النوتة بتجمع الأفكار."
+ },
+ "teebeutel": {
+  "de": "Der Teebeutel zieht zwei Minuten.",
+  "ar": "كيس الشاي بيتنقع دقيقتين."
+ },
+ "tee-ei": {
+  "de": "Das Tee-Ei hält den losen Tee.",
+  "ar": "مصفاة الشاي الكروية ماسكة الشاي السايب."
+ },
+ "messbecher": {
+  "de": "Der Messbecher zeigt zweihundert Milliliter.",
+  "ar": "كوباية المعيار بتقول ميتين مللي."
+ },
+ "backpinsel": {
+  "de": "Der Backpinsel bestreicht den Teig.",
+  "ar": "فرشة المعجنات بتمسح العجينة."
+ },
+ "bilderrahmen": {
+  "de": "Der Bilderrahmen hängt im Flur.",
+  "ar": "البرواز معلق في الصالة."
+ },
+ "vase": {
+  "de": "Die Vase steht auf dem Tisch.",
+  "ar": "الفازة على الترابيزة."
  }
 }
