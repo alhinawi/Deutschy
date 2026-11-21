@@ -1,4 +1,4 @@
-import {ttsVoices,voiceForTextHash} from './tts-voices';
+import {ttsVoices,voiceForTextHashFemale} from './tts-voices';
 // Server-only. No provider credential or response body is ever returned to the browser.
 export type TTSEnv = {
   DB?: D1Database;
@@ -34,7 +34,7 @@ export async function serveTTS(request:Request, env:TTSEnv):Promise<Response> {
   if (!text || text.length>1000) return fallback(400);
   const preference=url.searchParams.get('voice')??'varied';
   if(preference!=='varied'&&!ttsVoices.some(v=>v.id===preference))return fallback(400);
-  const id=await sha(text),voice=preference==='varied'?voiceForTextHash(id).id:preference,profile=`${settingsProfile}:${voice}`,cacheId=await sha(profile+':'+id);
+  const id=await sha(text),voice=preference==='varied'?voiceForTextHashFemale(id).id:preference,profile=`${settingsProfile}:${voice}`,cacheId=await sha(profile+':'+id);
   let owner='',storageReserved=false,storedBytes=0;
   try {
     // A hash alone is not authorization: require the exact canonical manifest text.
