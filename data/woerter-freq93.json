@@ -1,0 +1,800 @@
+[
+ {
+  "de": "Maßnahmenbündel",
+  "ar": "حزمة الإجراءات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Maßnahmenbündel"
+ },
+ {
+  "de": "Mechanik",
+  "ar": "الميكانيكا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mechaniken"
+ },
+ {
+  "de": "Meckern",
+  "ar": "التذمر",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Medaillengewinner",
+  "ar": "الفائز بالميدالية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Medaillengewinner"
+ },
+ {
+  "de": "Medaillenspiegel",
+  "ar": "جدول الميداليات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Medaillenspiegel"
+ },
+ {
+  "de": "Medianeinkommen",
+  "ar": "الدخل الوسيط",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Medianeinkommen"
+ },
+ {
+  "de": "Medienberichterstattung",
+  "ar": "التغطية الإعلامية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Medienberichterstattungen"
+ },
+ {
+  "de": "Medienfreiheit",
+  "ar": "حرية الإعلام",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Medienhaus",
+  "ar": "دار الإعلام",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Medienhäuser"
+ },
+ {
+  "de": "Medienkonsum",
+  "ar": "استهلاك الإعلام",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Medienkonzern",
+  "ar": "مجموعة الإعلام",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Medienkonzerne"
+ },
+ {
+  "de": "Mediensprecher",
+  "ar": "المتحدث الإعلامي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mediensprecher"
+ },
+ {
+  "de": "Medikamentenschrank",
+  "ar": "دولاب الأدوية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Medikamentenschränke"
+ },
+ {
+  "de": "Meditieren",
+  "ar": "التأمل",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Medizinforschung",
+  "ar": "أبحاث الطب",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Medizinprodukt",
+  "ar": "المنتج الطبي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Medizinprodukte"
+ },
+ {
+  "de": "Medizinstudierende",
+  "ar": "طالب الطب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Medizinstudierenden"
+ },
+ {
+  "de": "Medizintechnik",
+  "ar": "التقنية الطبية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Meeresgrund",
+  "ar": "قاع البحر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Meeresgründe"
+ },
+ {
+  "de": "Meerestier",
+  "ar": "الحيوان البحري",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Meerestiere"
+ },
+ {
+  "de": "Meersalz",
+  "ar": "ملح البحر",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Meersalze"
+ },
+ {
+  "de": "Megawatt",
+  "ar": "الميجاوات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Megawatt"
+ },
+ {
+  "de": "Mehlspeise",
+  "ar": "الحلوى الدقيقية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mehlspeisen"
+ },
+ {
+  "de": "Mehraufwand",
+  "ar": "الجهد الإضافي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mehraufwände"
+ },
+ {
+  "de": "Mehrbelastung",
+  "ar": "العبء الإضافي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mehrbelastungen"
+ },
+ {
+  "de": "Mehreinnahmen",
+  "ar": "الإيرادات الإضافية",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Mehrfachraketenwerfer",
+  "ar": "راجمة الصواريخ",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mehrfachraketenwerfer"
+ },
+ {
+  "de": "Mehrfachsteckdose",
+  "ar": "مشترك الكهربا",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mehrfachsteckdosen"
+ },
+ {
+  "de": "Mehrheitsprinzip",
+  "ar": "مبدأ الأغلبية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Mehrheitsprinzipien"
+ },
+ {
+  "de": "Mehrkampf",
+  "ar": "المنافسة المركبة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mehrkämpfe"
+ },
+ {
+  "de": "Mehrpreis",
+  "ar": "السعر الإضافي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mehrpreise"
+ },
+ {
+  "de": "Mehrsprachigkeit",
+  "ar": "تعدد اللغات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Mehrwegbecher",
+  "ar": "الكوب المعاد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mehrwegbecher"
+ },
+ {
+  "de": "Mehrwertsteuer",
+  "ar": "ضريبة القيمة المضافة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mehrwertsteuern"
+ },
+ {
+  "de": "Mehrzweckraum",
+  "ar": "القاعة متعددة الأغراض",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mehrzweckräume"
+ },
+ {
+  "de": "Meinungsartikel",
+  "ar": "مقال الرأي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Meinungsartikel"
+ },
+ {
+  "de": "Meinungsforscher",
+  "ar": "باحث الرأي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Meinungsforscher"
+ },
+ {
+  "de": "Meinungsumfrage",
+  "ar": "استطلاع الرأي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Meinungsumfragen"
+ },
+ {
+  "de": "Meinungsverschiedenheit",
+  "ar": "الخلاف في الرأي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Meinungsverschiedenheiten"
+ },
+ {
+  "de": "Meisterfeier",
+  "ar": "احتفال البطولة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Meisterfeiern"
+ },
+ {
+  "de": "Meisterleistung",
+  "ar": "الإنجاز الاستثنائي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Meisterleistungen"
+ },
+ {
+  "de": "Meisterschale",
+  "ar": "طبق البطولة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Meisterschalen"
+ },
+ {
+  "de": "Meisterstück",
+  "ar": "التحفة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Meisterstücke"
+ },
+ {
+  "de": "Melder",
+  "ar": "كاشف الدخان",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Melder"
+ },
+ {
+  "de": "Melkroboter",
+  "ar": "روبوت الحلب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Melkroboter"
+ },
+ {
+  "de": "Memory",
+  "ar": "لعبة الذاكرة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Memorys"
+ },
+ {
+  "de": "Menopause",
+  "ar": "سن اليأس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Menopausen"
+ },
+ {
+  "de": "Menschenbild",
+  "ar": "صورة الإنسان",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Menschenbilder"
+ },
+ {
+  "de": "Menschenfeindlichkeit",
+  "ar": "العداء للبشر",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Menschenrechtler",
+  "ar": "ناشط حقوق الإنسان",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Menschenrechtler"
+ },
+ {
+  "de": "Menschenrechtsorganisation",
+  "ar": "منظمة حقوق الإنسان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Menschenrechtsorganisationen"
+ },
+ {
+  "de": "Menschenrechtsverletzung",
+  "ar": "انتهاك حقوق الإنسان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Menschenrechtsverletzungen"
+ },
+ {
+  "de": "Menschenschlag",
+  "ar": "طراز البشر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Menschenschläge"
+ },
+ {
+  "de": "Menschenverstand",
+  "ar": "العقل السليم",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Menstruationsschmerzen",
+  "ar": "ألام الدورة",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Mentalität",
+  "ar": "العقلية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mentalitäten"
+ },
+ {
+  "de": "Menüpunkt",
+  "ar": "بند القايمة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Menüpunkte"
+ },
+ {
+  "de": "Merchandise",
+  "ar": "الميرتش",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Merkmal",
+  "ar": "السمة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Merkmale"
+ },
+ {
+  "de": "Merkur",
+  "ar": "عطارد",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Messegelände",
+  "ar": "أرض المعارض",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Messegelände"
+ },
+ {
+  "de": "Messengerdienst",
+  "ar": "خدمة المراسلة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Messengerdienste"
+ },
+ {
+  "de": "Messergewalt",
+  "ar": "عنف السكاكين",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Messerspitze",
+  "ar": "راس السكينة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Messerspitzen"
+ },
+ {
+  "de": "Messerstich",
+  "ar": "الطعنة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Messerstiche"
+ },
+ {
+  "de": "Messerverbot",
+  "ar": "حظر السكاكين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Messerverbote"
+ },
+ {
+  "de": "Messinstrument",
+  "ar": "جهاز القياس",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Messinstrumente"
+ },
+ {
+  "de": "Messstation",
+  "ar": "محطة القياس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Messstationen"
+ },
+ {
+  "de": "Messwert",
+  "ar": "قيمة القياس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Messwerte"
+ },
+ {
+  "de": "Metallschwamm",
+  "ar": "السلك المعدني",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Metallschwämme"
+ },
+ {
+  "de": "Metallstange",
+  "ar": "القضيب المعدني",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Metallstangen"
+ },
+ {
+  "de": "Metapher",
+  "ar": "الاستعارة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Metaphern"
+ },
+ {
+  "de": "Metaverse",
+  "ar": "الميتافيرس",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Meteorit",
+  "ar": "النيزك",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Meteoriten"
+ },
+ {
+  "de": "Methamphetamin",
+  "ar": "الميثامفيتامين",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Methamphetamine"
+ },
+ {
+  "de": "Methan",
+  "ar": "الميثان",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Metrik",
+  "ar": "المقياس",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Metriken"
+ },
+ {
+  "de": "Metro",
+  "ar": "الميترو",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Metros"
+ },
+ {
+  "de": "Metropolregion",
+  "ar": "المنطقة الحضرية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Metropolregionen"
+ },
+ {
+  "de": "Mexikaner",
+  "ar": "المكسيكي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mexikaner"
+ },
+ {
+  "de": "Mexikanerin",
+  "ar": "المكسيكية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mexikanerinnen"
+ },
+ {
+  "de": "Mieteinnahmen",
+  "ar": "إيرادات الإيجار",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Mieterin",
+  "ar": "المستأجرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mieterinnen"
+ },
+ {
+  "de": "Mieterverband",
+  "ar": "اتحاد المستأجرين",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mieterverbände"
+ },
+ {
+  "de": "Mietniveau",
+  "ar": "مستوى الإيجارات",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Mietniveaus"
+ },
+ {
+  "de": "Mietshaus",
+  "ar": "بيت الإيجار",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Mietshäuser"
+ },
+ {
+  "de": "Mietzins",
+  "ar": "الإيجار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mietzinse"
+ },
+ {
+  "de": "Mietzuschlag",
+  "ar": "زيادة الإيجار",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mietzuschläge"
+ },
+ {
+  "de": "Migrationsabkommen",
+  "ar": "اتفاقية الهجرة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Migrationsabkommen"
+ },
+ {
+  "de": "Migrationskrise",
+  "ar": "أزمة الهجرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Migrationskrisen"
+ },
+ {
+  "de": "Migrationsrecht",
+  "ar": "قانون الهجرة",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Mikrobiologie",
+  "ar": "علم الأحياء الدقيقة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Mikrobiom",
+  "ar": "الميكروبيوم",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Mikrobiome"
+ },
+ {
+  "de": "Milbe",
+  "ar": "القُملة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Milben"
+ },
+ {
+  "de": "Milchindustrie",
+  "ar": "صناعة الألبان",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Milchindustrien"
+ },
+ {
+  "de": "Milchkuh",
+  "ar": "البقرة الحلوب",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Milchkühe"
+ },
+ {
+  "de": "Milchviehbetrieb",
+  "ar": "مزرعة الأبقار الحلوب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Milchviehbetriebe"
+ },
+ {
+  "de": "Militante",
+  "ar": "المتشدد",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Militanten"
+ },
+ {
+  "de": "Militäranlage",
+  "ar": "المنشأة العسكرية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Militäranlagen"
+ },
+ {
+  "de": "Militärausbilder",
+  "ar": "المدرب العسكري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Militärausbilder"
+ },
+ {
+  "de": "Militärbündnis",
+  "ar": "التحالف العسكري",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Militärbündnisse"
+ },
+ {
+  "de": "Militärdienst",
+  "ar": "الخدمة العسكرية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Militärdienste"
+ },
+ {
+  "de": "Militärführung",
+  "ar": "القيادة العسكرية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Militärführungen"
+ },
+ {
+  "de": "Militärgeheimdienst",
+  "ar": "المخابرات العسكرية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Militärgeheimdienste"
+ },
+ {
+  "de": "Militäroffensive",
+  "ar": "الهجوم العسكري",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Militäroffensiven"
+ },
+ {
+  "de": "Militäroffizier",
+  "ar": "الضابط العسكري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Militäroffiziere"
+ },
+ {
+  "de": "Militäroperation",
+  "ar": "العملية العسكرية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Militäroperationen"
+ },
+ {
+  "de": "Militärstützpunkt",
+  "ar": "القاعدة العسكرية",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Militärstützpunkte"
+ },
+ {
+  "de": "Milliardenloch",
+  "ar": "الحفرة المليارية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Milliardenlöcher"
+ },
+ {
+  "de": "Mimik",
+  "ar": "تعبيرات الوش",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Mimose",
+  "ar": "الميموزا (الحساسة)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mimosen"
+ },
+ {
+  "de": "Mindestanforderung",
+  "ar": "الحد الأدنى من المتطلبات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mindestanforderungen"
+ },
+ {
+  "de": "Mindesthaltbarkeitsdatum",
+  "ar": "تاريخ الصلاحية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Mindesthaltbarkeitsdaten"
+ },
+ {
+  "de": "Mindeststrafe",
+  "ar": "الحد الأدنى للعقوبة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mindeststrafen"
+ },
+ {
+  "de": "Minibus",
+  "ar": "الميني باص",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Minibusse"
+ },
+ {
+  "de": "Minijob",
+  "ar": "الميني جوب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Minijobs"
+ },
+ {
+  "de": "Minimalismus",
+  "ar": "البساطة (مذهب)",
+  "pos": "noun",
+  "art": "der"
+ }
+]
