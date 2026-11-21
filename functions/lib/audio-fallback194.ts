@@ -1,4 +1,4 @@
-import {ttsVoices,voiceForTextHash} from './tts-voices';
+import {ttsVoices,voiceForTextHashFemale} from './tts-voices';
 import allowedTexts from '../../data/audio-fallback-allowlist194.json';
 export type AudioFallbackEnv={AUDIO_FALLBACK_ENABLED?:string;AUDIO_FALLBACK_SERVICE_TOKEN?:string;AUDIO_FALLBACK_VOICES?:string;ELEVENLABS_KEYS?:string;AUDIO_FALLBACK?:{fetch(request:Request):Promise<Response>};
  caches?:never};
@@ -35,7 +35,7 @@ export async function serveAudioFallback(request:Request,env:AudioFallbackEnv){
  const text=typeof body.text==='string'?body.text.normalize('NFC').trim().replace(/\s+/gu,' '):'';
  if(!text||text.length>1000||body.language!=='de'||(body.voice!=='varied'&&!fallbackVoices(env).includes(String(body.voice)))||!['free_unavailable','free_playback_error','free_start_timeout'].includes(String(body.fallbackReason)))return fail(400,'parameters');
  const hash=Array.from(new Uint8Array(await crypto.subtle.digest('SHA-256',new TextEncoder().encode(text)))).map(b=>b.toString(16).padStart(2,'0')).join('');
- const preference=String(body.voice);const voice=preference==='varied'?voiceForTextHash(hash).id:preference;
+ const preference=String(body.voice);const voice=preference==='varied'?voiceForTextHashFemale(hash).id:preference;
  if(!ttsVoices.some(v=>v.id===voice)||!fallbackVoices(env).includes(voice))return fail(400,'voice');
  // Catalogued site texts always pass; short German phrases (chat assistant) pass too.
  if(!allowed.has(text)&&text.length>300)return fail(404,'text_not_allowed');

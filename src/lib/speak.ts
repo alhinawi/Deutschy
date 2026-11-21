@@ -2,6 +2,7 @@
 import {chooseEdgeGermanVoice} from './browser-voices';
 import {readVoicePreference} from './voice-preference';
 import {staticSpeech,speechShardBases} from './static-speech';
+import {femaleVoiceIds} from './tts-voices';
 import {recordedAudio} from './recorded-audio';
 export type SpeechStatus='loading'|'playing'|'ended'|'stopped'|'unavailable'|'error';
 export type SpeechOptions={modelSource?:string;rate?:number;voice?:string;onend?:()=>void;onerror?:()=>void;onstatus?:(status:SpeechStatus)=>void};
@@ -73,7 +74,8 @@ export async function speak(raw:string,options:SpeechOptions={}){
  }
  // Phoneme models cannot fall back to text spelling without changing what is taught.
  if(options.modelSource!==undefined){if(!/^\/clips\/[a-f0-9]{64}\.mp3$/.test(options.modelSource))return finish('unavailable');return playAudio(options.modelSource,async()=>finish('unavailable'))}
- const sources:string[]=[];if(recordedAudio[text])sources.push(recordedAudio[text]);const cached=staticSpeech[text];
+ // Owner directive 2026-11-21: only female-voiced clips play; other texts fall through to the live female voice or the browser's German voice.
+ const sources:string[]=[];if(recordedAudio[text])sources.push(recordedAudio[text]);const rawCached=staticSpeech[text];const cached=rawCached&&femaleVoiceIds.has(rawCached.voiceId)?rawCached:undefined;
  if(cached?.shard==='deutschy-local'&&/^\/clips\/[a-f0-9]{64}\.mp3$/.test(cached.url))sources.push(cached.url);
  const base=cached?speechShardBases[cached.shard]:'';if(cached&&/^https:\/\/[a-z0-9-]+\.pages\.dev$/.test(base))sources.push(base+cached.url);
  let index=0;const next=async():Promise<boolean>=>{if(!active())return false;return index<sources.length?playAudio(sources[index++],next):vendor()};return next();
