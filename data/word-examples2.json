@@ -2834,5 +2834,109 @@
  "briefbeschwerer": {
   "de": "Der Briefbeschwerer ist aus Glas.",
   "ar": "ثقل الورق من الزجاز."
+ },
+ "stricknadel": {
+  "de": "Die Stricknadel liegt auf dem Sofa.",
+  "ar": "إبرة التريكو على الكنبة."
+ },
+ "haekelnadel": {
+  "de": "Die Häkelnadel hängt am Wollknäuel.",
+  "ar": "إبرة الكروشيه معلقة في كورة الصوف."
+ },
+ "stickrahmen": {
+  "de": "Der Stickrahmen liegt auf dem Tisch.",
+  "ar": "طارة التطريز على الترابيزة."
+ },
+ "briefoeffner": {
+  "de": "Der Brieföffner liegt auf dem Schreibtisch.",
+  "ar": "فتاحة الخطابات على المكتب."
+ },
+ "briefumschlag": {
+  "de": "Der Briefumschlag ist aus braunem Papier.",
+  "ar": "الظرف من ورق بني."
+ },
+ "stempel": {
+  "de": "Der Stempel liegt in der Schublade.",
+  "ar": "الختم في الدرج."
+ },
+ "plektrum": {
+  "de": "Das Plektrum steckt zwischen den Saiten.",
+  "ar": "الريشة بين أوتار الجيتار."
+ },
+ "stimmgabel": {
+  "de": "Die Stimmgabel klingt lange nach.",
+  "ar": "الشوكة الرنانة صوتها بيفضل شوية."
+ },
+ "palette": {
+  "de": "Die Palette hält der Maler in der linken Hand.",
+  "ar": "اللوحة النقاش ماسكها في إيده الشمال."
+ },
+ "staffelei": {
+  "de": "Die Staffelei steht im Atelier.",
+  "ar": "الستاند في المرسم."
+ },
+ "moerser": {
+  "de": "Der Mörser ist aus schwerem Stein.",
+  "ar": "الهاون من حجر تقيل."
+ },
+ "zitronenpresse": {
+  "de": "Die Zitronenpresse liegt in der Schublade.",
+  "ar": "عصارة اللمون في الدرج."
+ },
+ "schluesselring": {
+  "de": "Der Schlüsselring trägt fünf Schlüssel.",
+  "ar": "حلقة المفاتيح شايلة خمس مفاتيح."
+ },
+ "tuerstopper": {
+  "de": "Der Türstopper liegt vor der Balkontür.",
+  "ar": "سدادة الباب قدام باب البلكونة."
+ },
+ "pflanzkelle": {
+  "de": "Die Pflanzkelle steckt im Blumenkasten.",
+  "ar": "الشاكوش الصغير في صندوق الزرع."
+ },
+ "spruehflasche": {
+  "de": "Die Sprühflasche steht auf der Fensterbank.",
+  "ar": "بخاخة المية على حرف الشباك."
+ },
+ "luftpumpe": {
+  "de": "Die Luftpumpe liegt im Keller.",
+  "ar": "المنفاخ في السرداب."
+ },
+ "reifenheber": {
+  "de": "Der Reifenheber steckt im Werkzeugkasten.",
+  "ar": "عتلة الكاوتش في صندوق العدة."
+ },
+ "garnrolle": {
+  "de": "Die Garnrolle rollt unter den Tisch.",
+  "ar": "بكرة الخيط لفت تحت الترابيزة."
+ },
+ "nahttrenner": {
+  "de": "Der Nahttrenner steckt im Nähkorb.",
+  "ar": "فتاحة الغرز في سلة الخياطة."
+ },
+ "federmaeppchen": {
+  "de": "Das Federmäppchen ist voller Stifte.",
+  "ar": "المقلمة مليانة أقلام."
+ },
+ "gummiband": {
+  "de": "Das Gummiband hält die Zeichnungen zusammen.",
+  "ar": "الأستك ماسك الرسومات مع بعض."
+ },
+ "nagelbuerste": {
+  "de": "Die Nagelbürste liegt am Waschbecken.",
+  "ar": "فرشة الضافر على الحوض."
+ },
+ "waschlappen": {
+  "de": "Der Waschlappen trocknet an der Leine.",
+  "ar": "الليفة القماش بينشف على الحبل."
+ },
+ "sparschaeler": {
+  "de": "Der Sparschäler liegt in der Schublade.",
+  "ar": "القشارة في الدرج."
+ },
+ "kartoffelstampfer": {
+  "de": "Der Kartoffelstampfer hängt am Haken.",
+  "ar": "هراسة البطاطس معلقة على العلاقة."
  }
 }
