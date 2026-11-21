@@ -162,6 +162,16 @@ export const appearanceThemes=[
   "styleEn": "Clean modern"
  },
  {
+  "id": "sinai",
+  "ar": "سيناء",
+  "en": "Sinai",
+  "dark": true,
+  "className": "[--paper:#1f1610] [--card:#2b1e15] [--ink:#f7ead9] [--muted:#c9ab8a] [--line:#574026] [--accent:#f0952e] [--accent-ink:#241708] [--good:#80c79b] [--bad:#ff9994] [--display-font:Fraunces,Amiri,Georgia,serif] [--arabic-heading:Amiri,Cairo,serif] scheme-dark",
+  "fonts": "Fraunces + Amiri",
+  "styleAr": "دافي زجاجي",
+  "styleEn": "Warm glass"
+ },
+ {
   "id": "copper",
   "ar": "نحاس",
   "en": "Copper",
