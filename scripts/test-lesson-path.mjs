@@ -51,4 +51,14 @@ assert.equal(nextLesson(all).topic, lessonSteps[203].topic);
 assert(lessonUnlocked(all, 203));
 checks += 2;
 
+
+// UI wiring: the home resume card shows the learner's path position and the
+// account boundary shows a skeleton first, the status line only after 3s.
+import fs from 'node:fs';
+const nextStudy = fs.readFileSync('src/components/NextStudy.tsx', 'utf8');
+for (const token of ['data-path-position', 'role="progressbar"', 'nextLesson(s)', 'lessonSteps.length', 'أنت في الوحدة', 'كمّل الدرس اللي بعده', 'خلصت دروس المسار كلها']) assert(nextStudy.includes(token), token);
+const boundary = fs.readFileSync('src/components/AccountStateBoundary.tsx', 'utf8');
+for (const token of ['data-account-skeleton', 'animate-pulse', 'setTimeout(()=>{if(active)setSlow(true)},3000)', 'clearTimeout(timer)', 'data-account-ready', 'data-account-save']) assert(boundary.includes(token), token);
+checks += 13;
+
 console.log(`PASS lesson-path model: ${checks} checks, 204 lessons in ${lessonUnits.length} sequential units, previous-lesson completion unlocks, partial progress never unlocks`);
