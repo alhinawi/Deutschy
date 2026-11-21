@@ -2702,5 +2702,137 @@
  "schubkarre": {
   "de": "Die Schubkarre trägt die Erde.",
   "ar": "عربية اليد شايلة الطرب."
+ },
+ "fingerhut": {
+  "de": "Der Fingerhut schützt den Finger beim Nähen.",
+  "ar": "كشتبان الخياطة بيحمي الصباع أثناء الخياطة."
+ },
+ "sicherheitsnadel": {
+  "de": "Die Sicherheitsnadel hält das Tuch fest.",
+  "ar": "الدبوس المشبك ماسك القماش."
+ },
+ "reissverschluss": {
+  "de": "Der Reißverschluss klemmt manchmal.",
+  "ar": "السوستة بتعلّق أحيانا."
+ },
+ "kehrblech": {
+  "de": "Das Kehrblech nimmt den Schmutz auf.",
+  "ar": "جاروف الكنس بيلم الزبالة."
+ },
+ "handfeger": {
+  "de": "Der Handfeger kehrt den Tisch ab.",
+  "ar": "المقشة الصغيرة بتكنس الترابيزة."
+ },
+ "schwamm": {
+  "de": "Der Schwamm saugt das Wasser auf.",
+  "ar": "الإسفنجة بتشرب المياه."
+ },
+ "kofferanhaenger": {
+  "de": "Der Kofferanhänger trägt meinen Namen.",
+  "ar": "بطاقة الشنطة عليها اسمي."
+ },
+ "vorhaengeschloss": {
+  "de": "Das Vorhängeschloss sichert die Tür.",
+  "ar": "القفل اللي بيتعلق بيأمّن الباب."
+ },
+ "gepaeckwaage": {
+  "de": "Die Gepäckwaage zeigt zwanzig Kilo.",
+  "ar": "ميزان الشنط بيقول عشرين كيلو."
+ },
+ "brotdose": {
+  "de": "Die Brotdose hält das Brot frisch.",
+  "ar": "علبة الأكل بتخلي الساندوتش طازة."
+ },
+ "trinkflasche": {
+  "de": "Die Trinkflasche hängt am Rucksack.",
+  "ar": "زجاجة الشرب معلقة في الشنطة."
+ },
+ "thermoskanne": {
+  "de": "Die Thermoskanne hält den Tee heiß.",
+  "ar": "الترمس بيخلي الشاي سخن."
+ },
+ "heftgeraet": {
+  "de": "Das Heftgerät heftet die Blätter zusammen.",
+  "ar": "الدباسة بتدبس الأوراق في بعض."
+ },
+ "klebeband": {
+  "de": "Das Klebeband klebt das Papier fest.",
+  "ar": "الشريط اللاصق بيلزق الورقة."
+ },
+ "spitzer": {
+  "de": "Der Spitzer macht den Bleistift scharf.",
+  "ar": "البراية بتبري القلم الرصاص."
+ },
+ "backform": {
+  "de": "Die Backform kommt in den Ofen.",
+  "ar": "قالب الفرن بيدخل الفرن."
+ },
+ "ausstechform": {
+  "de": "Die Ausstechform stanzt Sterne aus dem Teig.",
+  "ar": "القطّاعة بتقطع نجوم من العجينة."
+ },
+ "topflappen": {
+  "de": "Der Topflappen schützt die Hand.",
+  "ar": "ماسكة الحلة بتحمي الإيد."
+ },
+ "seifenschale": {
+  "de": "Die Seifenschale steht am Waschbecken.",
+  "ar": "طبق الصابون على الحوض."
+ },
+ "nagelschere": {
+  "de": "Die Nagelschere schneidet die Nägel.",
+  "ar": "مقص الضوافر بيقص الضوافر."
+ },
+ "seifenspender": {
+  "de": "Der Seifenspender gibt Schaum.",
+  "ar": "موزّع الصابون بيطلع فوم."
+ },
+ "schuhloeffel": {
+  "de": "Der Schuhlöffel hilft in den Schuh.",
+  "ar": "ملعقة الجزمة بتساعدك تلبس الجزمة."
+ },
+ "schuhbuerste": {
+  "de": "Die Schuhbürste putzt die Schuhe.",
+  "ar": "فرشة الجزم بتنضف الجزم."
+ },
+ "schuhspanner": {
+  "de": "Der Schuhspanner hält den Schuh in Form.",
+  "ar": "القالب بيحافظ على شكل الجزمة."
+ },
+ "geschenkpapier": {
+  "de": "Das Geschenkpapier ist bunt.",
+  "ar": "ورق الهدايا ملون."
+ },
+ "geschenkband": {
+  "de": "Das Geschenkband schmückt das Paket.",
+  "ar": "شريطة الهدايا بتزين الباكيت."
+ },
+ "untersetzer": {
+  "de": "Der Untersetzer schützt den Tisch.",
+  "ar": "القاعدة بتحمي الترابيزة من الكوباية."
+ },
+ "serviette": {
+  "de": "Die Serviette liegt neben dem Teller.",
+  "ar": "منديل السفرة جنب الطبق."
+ },
+ "tablett": {
+  "de": "Das Tablett trägt die Gläser.",
+  "ar": "صينية التقديم شايلة الكاسات."
+ },
+ "trichter": {
+  "de": "Der Trichter füllt die Flasche ohne Kleckern.",
+  "ar": "القمع بيملى الإزازة من غير ما يبهدل."
+ },
+ "flaschenoeffner": {
+  "de": "Der Flaschenöffner öffnet die Flasche.",
+  "ar": "فتاحة الإزازات بتفتح الإزازة."
+ },
+ "lupe": {
+  "de": "Die Lupe macht die Schrift groß.",
+  "ar": "العدسة المكبرة بتكبر الخط."
+ },
+ "briefbeschwerer": {
+  "de": "Der Briefbeschwerer hält die Papiere.",
+  "ar": "ثقالة الورق ماسكة الأوراق."
  }
 }
