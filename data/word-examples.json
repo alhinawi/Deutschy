@@ -3418,5 +3418,101 @@
  "banjo": {
   "de": "Das Banjo spielt im Country.",
   "ar": "البانجو بيتعزف في موسيقى الكانتري."
+ },
+ "schachbrett": {
+  "de": "Das Schachbrett hat vierundsechzig Felder.",
+  "ar": "رقعة الشطرنج فيها أربعة وستين خانة."
+ },
+ "springseil": {
+  "de": "Das Springseil hüpft schnell unter den Füßen.",
+  "ar": "حبل النط بينط بسرعة تحت الرجلين."
+ },
+ "yogamatte": {
+  "de": "Die Yogamatte liegt auf dem Boden.",
+  "ar": "مفرش اليوجا على الأرض."
+ },
+ "billardkugel": {
+  "de": "Die Billardkugel rollt in die Ecke.",
+  "ar": "كورة البلياردو بتلف في الزاوية."
+ },
+ "sparschwein": {
+  "de": "Das Sparschwein sammelt die Münzen.",
+  "ar": "الحصالة بتجمع العملات."
+ },
+ "federball": {
+  "de": "Der Federball fliegt hoch über das Netz.",
+  "ar": "كورة الريشة بتطير عالي فوق الشبكة."
+ },
+ "spielzeugauto": {
+  "de": "Das Spielzeugauto fährt über den Teppich.",
+  "ar": "عربية اللعب ماشية على السجادة."
+ },
+ "puzzleteil": {
+  "de": "Das Puzzleteil passt an die Ecke.",
+  "ar": "قطعة البازل بتركب في الزاوية."
+ },
+ "rollschuh": {
+  "de": "Der Rollschuh hat vier Räder.",
+  "ar": "جزمة العجل فيها أربع عجلات."
+ },
+ "schwimmflosse": {
+  "de": "Die Schwimmflosse hilft beim Tauchen.",
+  "ar": "زعنفة السباحة بتساعد في الغطس."
+ },
+ "gartenschere": {
+  "de": "Die Gartenschere schneidet die Hecke.",
+  "ar": "مقص الجنينة بيقص السياج."
+ },
+ "gartenschaufel": {
+  "de": "Die Gartenschaufel gräbt das Blumenbeet um.",
+  "ar": "الجاروف الصغير بيحفر حوض الزرع."
+ },
+ "nistkasten": {
+  "de": "Der Nistkasten hängt am Baum.",
+  "ar": "صندوق التعشيش معلق على الشجرة."
+ },
+ "insektenhotel": {
+  "de": "Das Insektenhotel bietet den Bienen ein Zuhause.",
+  "ar": "بيت الحشرات بيدي النحل سكن."
+ },
+ "karteikarte": {
+  "de": "Die Karteikarte hilft beim Lernen.",
+  "ar": "كارت الفهرسة بيساعد في المذاكرة."
+ },
+ "etikett": {
+  "de": "Das Etikett zeigt den Preis.",
+  "ar": "التيكيت بيبين السعر."
+ },
+ "tischtennisschlaeger": {
+  "de": "Der Tischtennisschläger hat einen roten Belag.",
+  "ar": "مضرب تنس الطاولة سطحه أحمر."
+ },
+ "golfball": {
+  "de": "Der Golfball fliegt über das Grün.",
+  "ar": "كورة الجولف بتطير فوق الملعب."
+ },
+ "wattestaebchen": {
+  "de": "Das Wattestäbchen reinigt die Ohren.",
+  "ar": "عود القطن بينضف الودان."
+ },
+ "badeente": {
+  "de": "Die Badeente schwimmt in der Wanne.",
+  "ar": "بطة الحمام بتعوم في البانيو."
+ },
+ "kieselstein": {
+  "de": "Der Kieselstein liegt am Fluss.",
+  "ar": "حجر الحصى على البحر أو النهر."
+ },
+ "baumstumpf": {
+  "de": "Der Baumstumpf bleibt nach dem Fällen.",
+  "ar": "بقية الجذع بتفضل بعد قطع الشجرة."
+ },
+ "wachsmalstift": {
+  "de": "Der Wachsmalstift malt die Sonne gelb.",
+  "ar": "قلم الشمع بيلون الشمس أصفر."
+ },
+ "heftklammer": {
+  "de": "Die Heftklammer hält die Blätter.",
+  "ar": "دبوس الدباسة ماسك الأوراق."
  }
 }
