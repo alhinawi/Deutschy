@@ -42,12 +42,12 @@ for (const w of vocab.words) {
   checks++;
 }
 
-// First examples cover every topic; second examples cover units 1-3 (the
+// First examples cover every topic; second examples cover units 1-4 (the
 // first 24 topics) fully.
 const coveredUnits = vocab.topics.slice(0, 204).map((t) => t.id);
 for (const topic of coveredUnits) for (const w of vocab.words.filter((x) => x.topic === topic)) assert(examples[w.id], `missing example for ${w.id}`);
 checks += coveredUnits.length;
-const secondUnits = vocab.topics.slice(0, 36).map((t) => t.id);
+const secondUnits = vocab.topics.slice(0, 48).map((t) => t.id);
 for (const topic of secondUnits) for (const w of vocab.words.filter((x) => x.topic === topic)) assert(examples2[w.id], `missing second example for ${w.id}`);
 checks += secondUnits.length;
 
@@ -56,4 +56,4 @@ const card = fs.readFileSync('src/components/WordCard.tsx', 'utf8');
 for (const token of ['exampleOf(w.id)', 'example2Of(w.id)', 'ExampleRow', 'اسمع المثال', 'lang="de"']) assert(card.includes(token), token);
 checks += 5;
 
-console.log(`PASS word-examples: ${checks} checks, ${Object.keys(examples).length} first sentences covering the first ${coveredUnits.length} topics (units 1-17) + ${Object.keys(examples2).length} second sentences covering the first ${secondUnits.length} topics (units 1-3), each sentence uses its word`);
+console.log(`PASS word-examples: ${checks} checks, ${Object.keys(examples).length} first sentences covering the first ${coveredUnits.length} topics (units 1-17) + ${Object.keys(examples2).length} second sentences covering the first ${secondUnits.length} topics (units 1-4), each sentence uses its word`);
