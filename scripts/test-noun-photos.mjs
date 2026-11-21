@@ -16,9 +16,9 @@ for (const entry of ledger) {
  assert.equal(word.photo.padding??false,entry.padding,entry.id+' padding drift');checks++;
  for(const key of ['source','file','license','author']){assert.equal(key==='source'?word.photo.commons:word.photo[key],entry[key],entry.id+' credit drift');checks++;}
 }
-const changed=ledger.filter(e=>e.decision==='replace');assert.deepEqual(changed.map(e=>e.id),['spielplatz','pflaster','adventskranz']);checks++;
+const changed=ledger.filter(e=>e.decision==='replace');assert.deepEqual(changed.map(e=>e.id).sort(),['adventskranz','bruder','kind','pflaster','spielplatz','vater']);checks++;
 for(const e of changed){assert.notEqual(e.beforeSha256,e.sha256);assert(photoLicenseUrl(e.license));checks+=2;}
 for (const kind of ['BY','BY-SA'])for(const version of ['2.0','2.5','3.0','4.0']){assert.equal(photoLicenseUrl(`CC ${kind} ${version}`),`https://creativecommons.org/licenses/${kind.toLowerCase()}/${version}/`);checks++;}
 assert.equal(photoLicenseUrl('CC0'),'https://creativecommons.org/publicdomain/zero/1.0/');checks++;
 for(const value of ['CC BY 9.0','CC BY 4.0 extra','cc by 4.0','Public domain','GFDL 1.2','Pexels License','https://evil.invalid','CC BY-SA 3.0 de']){assert.equal(photoLicenseUrl(value),undefined);checks++;}
-console.log(`PASS ${checks} noun-photo/credit assertions; all 965 reviewed hashes pinned; 3 deliberate replacements; safe exact license URL mapping`);
+console.log(`PASS ${checks} noun-photo/credit assertions; all 965 reviewed hashes pinned; 6 deliberate replacements; safe exact license URL mapping`);
