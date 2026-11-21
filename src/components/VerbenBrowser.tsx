@@ -8,7 +8,7 @@ import { speak } from '@/lib/speak';
 import Speaker from './Speaker';
 import FilterDisclosure from './FilterDisclosure';
 
-const LV = ['A1', 'A2', 'B1', 'B2'] as const;
+const LV = ['A1', 'A2', 'B1', 'B2', 'C1'] as const;
 const KINDS = [
   { id: 'regular', ar: 'منتظمة', en: 'regular' },
   { id: 'strong', ar: 'قوية', en: 'strong' },

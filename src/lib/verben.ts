@@ -3,7 +3,7 @@ import data from './generated/verben.json';
 export type GenVerb = {
   inf: string;
   ar: string;
-  lvl: 'A1' | 'A2' | 'B1' | 'B2';
+  lvl: 'A1' | 'A2' | 'B1' | 'B2' | 'C1';
   kinds: ('regular' | 'strong' | 'irregular' | 'modal' | 'separable' | 'reflexive')[];
   aux: 'haben' | 'sein';
   pres: string[];
