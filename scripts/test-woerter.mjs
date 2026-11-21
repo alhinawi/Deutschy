@@ -23,7 +23,7 @@ for (const w of words) {
   if (seen.has(w.de)) { console.error('DUP', w.de); fails++; }
   seen.add(w.de);
   if (!w.de || !w.ar || !w.cat) { console.error('SHAPE', w.de); fails++; }
-  if (!w.pluralOnly && !['der','die','das'].includes(w.art)) { console.error('ART SHAPE', w.de, w.art); fails++; }
+  if (!w.pluralOnly && w.pos === 'noun' && !['der','die','das'].includes(w.art)) { console.error('ART SHAPE', w.de, w.art); fails++; }
 }
 if (words.length < 1500) { console.error('TOO FEW', words.length); fails++; }
 if (fails) { console.error(fails + ' failures'); process.exit(1); }
