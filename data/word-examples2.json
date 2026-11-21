@@ -3226,5 +3226,101 @@
  "nussknacker": {
   "de": "Der Nussknacker steht im Schrank.",
   "ar": "كسارة البندق في الدولاب."
+ },
+ "kaffeemuehle": {
+  "de": "Die Kaffeemühle ist aus Holz und Metall.",
+  "ar": "طاحونة القهوة من خشب ومعدن."
+ },
+ "korkenzieher": {
+  "de": "Der Korkenzieher liegt in der Schublade.",
+  "ar": "فتاحة السداد في الدرج."
+ },
+ "schaukelstuhl": {
+  "de": "Der Schaukelstuhl steht auf der Veranda.",
+  "ar": "الكرسي الهزاز على الفرندة."
+ },
+ "haengematte": {
+  "de": "Die Hängematte schaukelt im Wind.",
+  "ar": "الأرجوحة بتهز في الهوا."
+ },
+ "rettungsring": {
+  "de": "Der Rettungsring ist orange.",
+  "ar": "طوق النجاة برتقالي."
+ },
+ "fernrohr": {
+  "de": "Das Fernrohr steht auf einem Stativ.",
+  "ar": "التلسكوب على حامل تلاتي."
+ },
+ "tuerklopfer": {
+  "de": "Der Türklopfer ist aus Messing.",
+  "ar": "دقاقة الباب من النحاس."
+ },
+ "briefkasten": {
+  "de": "Der Briefkasten wird einmal am Tag geleert.",
+  "ar": "صندوق البريد بيتفضى مرة في اليوم."
+ },
+ "glocke": {
+  "de": "Die Glocke hängt im Turm.",
+  "ar": "الجرس معلق في البرج."
+ },
+ "kerzenstaender": {
+  "de": "Der Kerzenständer ist aus Silber.",
+  "ar": "الشمعدان من الفضة."
+ },
+ "trinkhalm": {
+  "de": "Der Trinkhalm ist aus Papier.",
+  "ar": "الشفاطة من الورق."
+ },
+ "essstaebchen": {
+  "de": "Ich esse mit den Essstäbchen Nudeln.",
+  "ar": "باكل المكرونة بالعيدان."
+ },
+ "lesezeichen": {
+  "de": "Das Lesezeichen ist aus Leder.",
+  "ar": "فاصلة الكتاب من الجلد."
+ },
+ "scharnier": {
+  "de": "Das Scharnier braucht einen Tropfen Öl.",
+  "ar": "المفصلة محتاجة نقطة زيت."
+ },
+ "teigschaber": {
+  "de": "Der Teigschaber ist aus Silikon.",
+  "ar": "كشارة العجين من السيليكون."
+ },
+ "platzdeckchen": {
+  "de": "Das Platzdeckchen ist aus Kork.",
+  "ar": "قاعدة الأكل من الفلين."
+ },
+ "messloeffel": {
+  "de": "Der Messlöffel hängt am Ring.",
+  "ar": "معلقة القياس معلقة في حلقة."
+ },
+ "kuechenwaage": {
+  "de": "Die Küchenwaage zeigt fünfhundert Gramm.",
+  "ar": "ميزان المطبخ مظهر نص كيلو."
+ },
+ "schlaegel": {
+  "de": "Der Schlägel hat einen weichen Kopf.",
+  "ar": "مضرب الطبل راسه ناعمة."
+ },
+ "kastagnette": {
+  "de": "Die Kastagnette passt in die Handfläche.",
+  "ar": "الكاستانيت بتدخل في كف الإيد."
+ },
+ "farbrolle": {
+  "de": "Die Farbrolle tauche ich in die Wanne.",
+  "ar": "رولة البوية بغمسها في الحوض."
+ },
+ "farbwanne": {
+  "de": "Die Farbwanne steht auf der Folie.",
+  "ar": "حوض البوية على المشمع."
+ },
+ "megafon": {
+  "de": "Das Megafon trägt der Trainer.",
+  "ar": "الميجافون مع الكابتن."
+ },
+ "leitkegel": {
+  "de": "Der Leitkegel hat weiße Streifen.",
+  "ar": "الكون المروري عليه خطوط بيضا."
  }
 }
