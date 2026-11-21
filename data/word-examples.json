@@ -2938,5 +2938,101 @@
  "kartoffelstampfer": {
   "de": "Der Kartoffelstampfer stampft die Kartoffeln.",
   "ar": "هراسة البطاطس بتهرس البطاطس."
+ },
+ "hausschuh": {
+  "de": "Der Hausschuh steht vor dem Bett.",
+  "ar": "شبشب البيت واقف قدام السرير."
+ },
+ "schnuersenkel": {
+  "de": "Der Schnürsenkel bindet den Schuh.",
+  "ar": "رباط الجزمة بيربط الجزمة."
+ },
+ "fusselrolle": {
+  "de": "Die Fusselrolle reinigt den Pullover.",
+  "ar": "رول الوبر بيخلي البلوفر نضيف."
+ },
+ "waschbrett": {
+  "de": "Das Waschbrett wäscht das Hemd von Hand.",
+  "ar": "لوح الغسيل بيغسل القميص بالإيد."
+ },
+ "fussmatte": {
+  "de": "Die Fußmatte liegt vor der Tür.",
+  "ar": "الدواسة قدام الباب."
+ },
+ "schirmstaender": {
+  "de": "Der Schirmständer hält die Regenschirme.",
+  "ar": "حامل الشماسي ماسك الشماسي."
+ },
+ "klappstuhl": {
+  "de": "Der Klappstuhl kommt für die Gäste.",
+  "ar": "الكرسي اللي بيتطبق بنطلعه للضيوف."
+ },
+ "blumenkasten": {
+  "de": "Der Blumenkasten hängt am Balkon.",
+  "ar": "صندوق الزرع معلق في البلكونة."
+ },
+ "schuhschrank": {
+  "de": "Der Schuhschrank steht im Flur.",
+  "ar": "الجزامة في الصالة."
+ },
+ "hut": {
+  "de": "Der Hut schützt vor der Sonne.",
+  "ar": "القبعة بتحمي من الشمس."
+ },
+ "zahnputzbecher": {
+  "de": "Der Zahnputzbecher hält die Zahnbürsten.",
+  "ar": "كوباية فرش السنان ماسكة الفرش."
+ },
+ "handtuchhaken": {
+  "de": "Der Handtuchhaken hält das Handtuch.",
+  "ar": "خطاف الفوط ماسك الفوطة."
+ },
+ "schneidebrett": {
+  "de": "Das Schneidebrett schützt den Tisch beim Schneiden.",
+  "ar": "قطاعة الأكل بتحمي الترابيزة أثناء التقطيع."
+ },
+ "pfannenwender": {
+  "de": "Der Pfannenwender dreht das Schnitzel.",
+  "ar": "مقلب الطاسة بيقلب البانيه."
+ },
+ "kissen": {
+  "de": "Das Kissen liegt auf dem Sofa.",
+  "ar": "المخدة على الكنبة."
+ },
+ "nachttischlampe": {
+  "de": "Die Nachttischlampe macht warmes Licht.",
+  "ar": "أباجورة جنب السرير بتدي نور دافي."
+ },
+ "couchtisch": {
+  "de": "Der Couchtisch steht vor der Couch.",
+  "ar": "ترابيزة الأنترية قدام الكنبة."
+ },
+ "wanduhr": {
+  "de": "Die Wanduhr tickt leise.",
+  "ar": "ساعة الحيطة بتدوّس بهدوء."
+ },
+ "butterdose": {
+  "de": "Die Butterdose hält die Butter frisch.",
+  "ar": "علبة الزبدة بتخلي الزبدة طازة."
+ },
+ "milchkaennchen": {
+  "de": "Das Milchkännchen steht beim Kaffee.",
+  "ar": "كنكة اللبن جنب القهوة."
+ },
+ "tastatur": {
+  "de": "Die Tastatur tippt den Brief.",
+  "ar": "الكيبورد بيكتب الجواب."
+ },
+ "computermaus": {
+  "de": "Die Computermaus klickt auf das Bild.",
+  "ar": "ماوس الكمبيوتر بيدوس على الصورة."
+ },
+ "vorratsglas": {
+  "de": "Das Vorratsglas hält den Reis frisch.",
+  "ar": "برطمان التخزين بيخلي الروز نضيف."
+ },
+ "vorratsdose": {
+  "de": "Die Vorratsdose schließt luftdicht.",
+  "ar": "علبة التخزين بتتقفل بإحكام."
  }
 }
