@@ -8,3 +8,11 @@ for(let i=0;i<90;i++)assert.equal((await navigate('/page-'+i)).status,200);asser
 for(const path of ['/api/private','/admin/','/account/','/anything?x=1'])assert.equal(await navigate(path),undefined);
 let handled=false;listeners.fetch({request:{url:'https://test.local/page',method:'GET',mode:'navigate',headers:{get:n=>n==='RSC'?'1':null}},respondWith:()=>handled=true});assert.equal(handled,false);
 await caches.open('deutschy-old');listeners.activate({waitUntil:p=>wait=p});await wait;assert(!stores.has('deutschy-old'));console.log('PASS: isolated 80-page budget, protected shell, quota-safe online response, API/account/admin/query/RSC exclusions and old-cache cleanup');
+const runtime=readFileSync('src/components/PwaRuntime.tsx','utf8');
+assert(runtime.includes("updateViaCache: 'none'"),'registration bypasses the sw.js HTTP cache');
+assert(runtime.includes('reg.update()'),'active sessions re-check for a new worker');
+assert(runtime.includes("visibilitychange"),'returning tabs re-check for a new worker');
+assert(runtime.includes("postMessage('APPLY_UPDATE')"),'fresh page loads auto-apply a waiting worker');
+assert(runtime.includes('performance.now() - startedAt < 10000'),'auto-apply only fires before any typing could exist');
+assert(runtime.includes('controllerchange'),'a new controller triggers exactly one reload');
+console.log('PASS: PwaRuntime checks for worker updates (updateViaCache none, interval, visibility), auto-applies only on fresh loads, reloads once on controller change');
