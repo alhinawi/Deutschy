@@ -3034,5 +3034,101 @@
  "vorratsdose": {
   "de": "Die Vorratsdose hält die Kekse knusprig.",
   "ar": "علبة المونة بتحافظ على البسكويت مقرمش."
+ },
+ "dominostein": {
+  "de": "Der Dominostein bildet eine lange Reihe.",
+  "ar": "حجر الدومينو بيعمل صف طويل."
+ },
+ "spielkarte": {
+  "de": "Die Spielkarte liegt verdeckt auf dem Tisch.",
+  "ar": "كارت اللعب وشه لتحت على الترابيزة."
+ },
+ "picknickkorb": {
+  "de": "Der Picknickkorb kommt mit an den See.",
+  "ar": "سلة الخروجة بتيجي معانا على البحيرة."
+ },
+ "thermosflasche": {
+  "de": "Die Thermosflasche steht im Seitenfach.",
+  "ar": "الترمس في الجيب الجانبي."
+ },
+ "hundebett": {
+  "de": "Das Hundebett wasche ich jede Woche.",
+  "ar": "سرير الكلب بغسله كل أسبوع."
+ },
+ "fressnapf": {
+  "de": "Der Fressnapf steht in der Küche.",
+  "ar": "طبق أكل الكلب في المطبخ."
+ },
+ "schlafmaske": {
+  "de": "Die Schlafmaske nehme ich mit in den Zug.",
+  "ar": "قناع النوم باخده معايا في القطار."
+ },
+ "kulturbeutel": {
+  "de": "Der Kulturbeutel hängt am Haken.",
+  "ar": "شنطة التواليت معلقة على العلاقة."
+ },
+ "toilettenpapierrolle": {
+  "de": "Die Toilettenpapierrolle ist fast leer.",
+  "ar": "لفة التواليت قربت تخلص."
+ },
+ "muelleimer": {
+  "de": "Der Mülleimer braucht einen neuen Beutel.",
+  "ar": "سلة المهملات محتاجة كيس جديد."
+ },
+ "schuerze": {
+  "de": "Die Schürze hängt in der Küche.",
+  "ar": "المريلة معلقة في المطبخ."
+ },
+ "geschirrtuch": {
+  "de": "Das Geschirrtuch hängt am Ofengriff.",
+  "ar": "فوطة الأطباق على مقبض الفرن."
+ },
+ "gabel": {
+  "de": "Die Gabel hat vier Zinken.",
+  "ar": "الشوكة ليها أربع أسنان."
+ },
+ "schuessel": {
+  "de": "Die Schüssel stelle ich in die Mitte.",
+  "ar": "الطاسة بحطها في النص."
+ },
+ "klemmbrett": {
+  "de": "Das Klemmbrett hängt an der Wand.",
+  "ar": "لوح المشبك معلق على الحيطة."
+ },
+ "textmarker": {
+  "de": "Der Textmarker liegt auf dem Buch.",
+  "ar": "قلم التظليل على الكتاب."
+ },
+ "kalender": {
+  "de": "Der Kalender zeigt den November.",
+  "ar": "التقويم مظهر شهر نوفمبر."
+ },
+ "notizbuch": {
+  "de": "Das Notizbuch steckt in der Jackentasche.",
+  "ar": "النوتة في جيب الجاكتة."
+ },
+ "teebeutel": {
+  "de": "Der Teebeutel hängt am Faden.",
+  "ar": "كيس الشاي معلق في الخيط."
+ },
+ "tee-ei": {
+  "de": "Das Tee-Ei ist aus Edelstahl.",
+  "ar": "مصفاة الشاي من الاستانلس."
+ },
+ "messbecher": {
+  "de": "Der Messbecher steht auf dem Brett.",
+  "ar": "كوب القياس على اللوح."
+ },
+ "backpinsel": {
+  "de": "Der Backpinsel liegt neben dem Blech.",
+  "ar": "فرشة البوية جنب الصاج."
+ },
+ "bilderrahmen": {
+  "de": "Der Bilderrahmen zeigt ein Foto der Familie.",
+  "ar": "البراويز فيه صورة العيلة."
+ },
+ "vase": {
+  "de": "Die Vase ist voll roter Rosen.",
+  "ar": "الفازة مليانة ورد أحمر."
  }
 }
