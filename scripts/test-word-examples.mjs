@@ -27,14 +27,14 @@ for (const w of vocab.words) {
   checks++;
 }
 
-// Unit 1 (the first 12 topics) is fully covered.
-const unit1 = vocab.topics.slice(0, 12).map((t) => t.id);
-for (const topic of unit1) for (const w of vocab.words.filter((x) => x.topic === topic)) assert(examples[w.id], `missing example for ${w.id}`);
-checks += unit1.length;
+// Units 1 and 2 (the first 24 topics) are fully covered.
+const coveredUnits = vocab.topics.slice(0, 24).map((t) => t.id);
+for (const topic of coveredUnits) for (const w of vocab.words.filter((x) => x.topic === topic)) assert(examples[w.id], `missing example for ${w.id}`);
+checks += coveredUnits.length;
 
 // WordCard renders the example with a hear-the-example action.
 const card = fs.readFileSync('src/components/WordCard.tsx', 'utf8');
 for (const token of ['exampleOf(w.id)', 'playEx', 'اسمع المثال', 'exStatusId', 'lang="de"']) assert(card.includes(token), token);
 checks += 5;
 
-console.log(`PASS word-examples: ${checks} checks, ${Object.keys(examples).length} example sentences covering all ${unit1.length} unit-1 topics, each sentence uses its word`);
+console.log(`PASS word-examples: ${checks} checks, ${Object.keys(examples).length} example sentences covering the first ${coveredUnits.length} topics (units 1-2), each sentence uses its word`);
