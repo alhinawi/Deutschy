@@ -2938,5 +2938,101 @@
  "kartoffelstampfer": {
   "de": "Der Kartoffelstampfer hängt am Haken.",
   "ar": "هراسة البطاطس معلقة على العلاقة."
+ },
+ "hausschuh": {
+  "de": "Der Hausschuh ist aus weichem Filz.",
+  "ar": "الشبشب البيتي من اللباد الناعم."
+ },
+ "schnuersenkel": {
+  "de": "Der Schnürsenkel ist heute Morgen gerissen.",
+  "ar": "رباط الجزمة اتقطع الصبح."
+ },
+ "fusselrolle": {
+  "de": "Die Fusselrolle liegt in der Schublade.",
+  "ar": "بكرة الوبر في الدرج."
+ },
+ "waschbrett": {
+  "de": "Das Waschbrett steht im Schuppen.",
+  "ar": "لوح الغسيل في العنبر."
+ },
+ "fussmatte": {
+  "de": "Die Fußmatte schüttle ich jeden Samstag aus.",
+  "ar": "الدواسة بنفضها كل سبت."
+ },
+ "schirmstaender": {
+  "de": "Der Schirmständer steht neben der Tür.",
+  "ar": "حامل الشمسيات جنب الباب."
+ },
+ "klappstuhl": {
+  "de": "Der Klappstuhl hängt an der Wand.",
+  "ar": "الكرسي القابل للطي معلق على الحيطة."
+ },
+ "blumenkasten": {
+  "de": "Der Blumenkasten braucht jeden Tag Wasser.",
+  "ar": "صندوق الزرع محتاج مية كل يوم."
+ },
+ "schuhschrank": {
+  "de": "Der Schuhschrank hat drei Klappen.",
+  "ar": "الجزامة ليها تلات ضلف."
+ },
+ "hut": {
+  "de": "Der Hut passt zum Sommerkleid.",
+  "ar": "البرنيطة رايقة على فستان الصيف."
+ },
+ "zahnputzbecher": {
+  "de": "Der Zahnputzbecher steht am Waschbecken.",
+  "ar": "كوباية فرش الأسنان على الحوض."
+ },
+ "handtuchhaken": {
+  "de": "Der Handtuchhaken hängt neben der Dusche.",
+  "ar": "علاقة الفوط جنب الدش."
+ },
+ "schneidebrett": {
+  "de": "Das Schneidebrett ist aus Bambus.",
+  "ar": "لوح التقطيع من البامبو."
+ },
+ "pfannenwender": {
+  "de": "Der Pfannenwender ist aus Holz.",
+  "ar": "مقلبة الطاسة من الخشب."
+ },
+ "kissen": {
+  "de": "Das Kissen hat einen neuen Bezug.",
+  "ar": "الخدادية ليها كسوة جديدة."
+ },
+ "nachttischlampe": {
+  "de": "Die Nachttischlampe schalte ich vor dem Schlafen aus.",
+  "ar": "لمبة السرير بقفلها قبل النوم."
+ },
+ "couchtisch": {
+  "de": "Der Couchtisch trägt die Teetassen.",
+  "ar": "ترابيزة الصالة شايلة الفناين."
+ },
+ "wanduhr": {
+  "de": "Die Wanduhr hängt über dem Sofa.",
+  "ar": "ساعة الحيطة فوق الكنبة."
+ },
+ "butterdose": {
+  "de": "Die Butterdose steht im Kühlschrank.",
+  "ar": "علبة الزبدة في التلاجة."
+ },
+ "milchkaennchen": {
+  "de": "Das Milchkännchen ist aus Porzellan.",
+  "ar": "إبريق اللبن من البورسلين."
+ },
+ "tastatur": {
+  "de": "Die Tastatur hat deutsche Buchstaben.",
+  "ar": "الكيبورد عليها حروف ألمانية."
+ },
+ "computermaus": {
+  "de": "Die Computermaus braucht eine neue Batterie.",
+  "ar": "الماوس محتاج بطارية جديدة."
+ },
+ "vorratsglas": {
+  "de": "Das Vorratsglas steht im Regal.",
+  "ar": "برطمان المونة على الرف."
+ },
+ "vorratsdose": {
+  "de": "Die Vorratsdose hält die Kekse knusprig.",
+  "ar": "علبة المونة بتحافظ على البسكويت مقرمش."
  }
 }
