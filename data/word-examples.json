@@ -1158,5 +1158,585 @@
  "sonnenuntergang": {
   "de": "Der Sonnenuntergang ist am Meer am schönsten.",
   "ar": "الغروب على البحر أحلى حاجة."
+ },
+ "lastwagen": {
+  "de": "Der Lastwagen bringt das Gemüse in den Markt.",
+  "ar": "عربية النقل بتودي الخضار للسوق."
+ },
+ "krankenwagen": {
+  "de": "Der Krankenwagen kommt in wenigen Minuten.",
+  "ar": "الإسعاف بيوصل في دقايق."
+ },
+ "hubschrauber": {
+  "de": "Der Hubschrauber landet auf dem Dach.",
+  "ar": "الهيليكوبتر بتهبط على السطح."
+ },
+ "boot": {
+  "de": "Das Boot liegt im Hafen.",
+  "ar": "المركب واقفة في الميناء."
+ },
+ "segelboot": {
+  "de": "Das Segelboot fährt mit dem Wind.",
+  "ar": "المركب الشراع بيمشي بالهوا."
+ },
+ "strassenbahn": {
+  "de": "Die Straßenbahn hält am Rathaus.",
+  "ar": "الترام بيقف عند البلدية."
+ },
+ "roller": {
+  "de": "Der Roller parkt vor dem Haus.",
+  "ar": "الاسكوتر واقف قدام البيت."
+ },
+ "rakete": {
+  "de": "Die Rakete startet in den Weltraum.",
+  "ar": "الصاروخ بيطلع للفضاء."
+ },
+ "bagger": {
+  "de": "Der Bagger gräbt ein tiefes Loch.",
+  "ar": "الحفار بيحفر حفرة عميقة."
+ },
+ "leuchtturm": {
+  "de": "Der Leuchtturm zeigt den Schiffen den Weg.",
+  "ar": "المنارة بتوّرط الطريق للمراكب."
+ },
+ "tunnel": {
+  "de": "Der Tunnel geht durch den Berg.",
+  "ar": "النفق ماشي جوه الجبل."
+ },
+ "hochhaus": {
+  "de": "Das Hochhaus hat zwanzig Etagen.",
+  "ar": "البرج السكني فيه عشرين دور."
+ },
+ "windrad": {
+  "de": "Das Windrad macht Strom aus Wind.",
+  "ar": "توربين الهوا بيعمل كهربا من الريح."
+ },
+ "hafen": {
+  "de": "Der Hafen ist am Abend ruhig.",
+  "ar": "الميناء هادي بالليل."
+ },
+ "krebs": {
+  "de": "Der Krebs läuft seitwärts.",
+  "ar": "السلطعون بيمشي بالجنب."
+ },
+ "qualle": {
+  "de": "Die Qualle treibt im Wasser.",
+  "ar": "قنديل البحر عايم في المياه."
+ },
+ "seestern": {
+  "de": "Der Seestern hat fünf Arme.",
+  "ar": "نجم البحر ليه خمس دراعات."
+ },
+ "hirsch": {
+  "de": "Der Hirsch steht am Waldrand.",
+  "ar": "الأيل واقف على طرف الغابة."
+ },
+ "eichhoernchen": {
+  "de": "Das Eichhörnchen sammelt Nüsse.",
+  "ar": "السنجاب بيجمع البندق."
+ },
+ "kaenguru": {
+  "de": "Das Känguru springt weit.",
+  "ar": "الكنغر بينط بعيد."
+ },
+ "koala": {
+  "de": "Der Koala schläft fast den ganzen Tag.",
+  "ar": "الكوالا بينام طول اليوم تقريبا."
+ },
+ "schwan": {
+  "de": "Der Schwan schwimmt über den See.",
+  "ar": "البجعة بتعوم في البحيرة."
+ },
+ "gans": {
+  "de": "Die Gans ist lauter als die Ente.",
+  "ar": "الوزة صوتها أعلى من البطة."
+ },
+ "pfau": {
+  "de": "Der Pfau zeigt seine Federn.",
+  "ar": "الطاووس بيفرد ريشه."
+ },
+ "hase": {
+  "de": "Der Hase läuft schneller als das Kaninchen.",
+  "ar": "الأرنب البري أسرع من الأرنب العادي."
+ },
+ "marienkaefer": {
+  "de": "Der Marienkäfer sitzt auf dem Blatt.",
+  "ar": "الدعسوقة واقفة على الورقة."
+ },
+ "libelle": {
+  "de": "Die Libelle fliegt über das Wasser.",
+  "ar": "اليعسوب بيطير فوق المياه."
+ },
+ "wal": {
+  "de": "Der Wal ist das größte Tier der Welt.",
+  "ar": "الحوت أكبر حيوان في الدنيا."
+ },
+ "rentier": {
+  "de": "Das Rentier lebt im kalten Norden.",
+  "ar": "الرنة عايشة في الشمال البارد."
+ },
+ "wildschwein": {
+  "de": "Das Wildschwein sucht Essen im Wald.",
+  "ar": "الخنزير البري بيدور على أكل في الغابة."
+ },
+ "moewe": {
+  "de": "Die Möwe fliegt über dem Meer.",
+  "ar": "النورس بيطير فوق البحر."
+ },
+ "spatz": {
+  "de": "Der Spatz pickt Körner vom Boden.",
+  "ar": "العصفور بينقر حب من الأرض."
+ },
+ "tukan": {
+  "de": "Der Tukan hat einen bunten Schnabel.",
+  "ar": "التوكان منقاره ملون."
+ },
+ "ratte": {
+  "de": "Die Ratte findet jeden Weg.",
+  "ar": "الفار الكبير بيلاقي أي طريق."
+ },
+ "krokodil": {
+  "de": "Das Krokodil liegt still am Ufer.",
+  "ar": "التمساح قاعد ساكت على الضفة."
+ },
+ "schlange": {
+  "de": "Die Schlange mag die warme Sonne.",
+  "ar": "التعبان بيحب الشمس الحارة."
+ },
+ "tiger": {
+  "de": "Der Tiger schleicht durch das Gras.",
+  "ar": "النمر بيتسلل في الحشايش."
+ },
+ "stuhl": {
+  "de": "Der Stuhl steht am Tisch.",
+  "ar": "الكرسي عند الترابيزة."
+ },
+ "rasenmaeher": {
+  "de": "Der Rasenmäher ist im Schuppen.",
+  "ar": "ماكينة قص الحشيش في المخزن."
+ },
+ "taschenlampe": {
+  "de": "Die Taschenlampe liegt in der Schublade.",
+  "ar": "الكشاف في الدرج."
+ },
+ "anker": {
+  "de": "Der Anker hält das Schiff fest.",
+  "ar": "المرساة بتمسك المركب."
+ },
+ "schaukel": {
+  "de": "Die Schaukel ist im Garten.",
+  "ar": "الأرجوحة في الجنينة."
+ },
+ "rutsche": {
+  "de": "Die Rutsche ist nach dem Regen nass.",
+  "ar": "الزحليقة مبلولة بعد المطر."
+ },
+ "schlitten": {
+  "de": "Der Schlitten fährt den Berg hinunter.",
+  "ar": "الزحافة نازلة من على الجبل."
+ },
+ "wuerfel": {
+  "de": "Der Würfel zeigt eine Sechs.",
+  "ar": "الزهر جاب ستة."
+ },
+ "puppe": {
+  "de": "Die Puppe sitzt im Kinderzimmer.",
+  "ar": "العروسة قاعدة في أوضة الأطفال."
+ },
+ "schachspiel": {
+  "de": "Das Schachspiel steht auf dem Regal.",
+  "ar": "الشطرنج على الرف."
+ },
+ "kabel": {
+  "de": "Das Kabel ist zu kurz.",
+  "ar": "السلك قصير."
+ },
+ "laptop": {
+  "de": "Der Laptop ist auf dem Schreibtisch.",
+  "ar": "اللابتوب على المكتب."
+ },
+ "sanduhr": {
+  "de": "Die Sanduhr läuft drei Minuten.",
+  "ar": "الساعة الرملية بتعدي تلات دقايق."
+ },
+ "erbse": {
+  "de": "Die Erbse ist klein und grün.",
+  "ar": "البسلة صغيرة وخضرا."
+ },
+ "kuerbis": {
+  "de": "Der Kürbis wird im Herbst geerntet.",
+  "ar": "القرع بيتقطف في الخريف."
+ },
+ "bohne": {
+  "de": "Die Bohne wächst an der Stange.",
+  "ar": "الفاصوليا بتطلع على القصبة."
+ },
+ "lauch": {
+  "de": "Der Lauch kommt in die Suppe.",
+  "ar": "الكراث بيتعمل في الشوربة."
+ },
+ "radieschen": {
+  "de": "Das Radieschen ist scharf.",
+  "ar": "الفجل حراق."
+ },
+ "mango": {
+  "de": "Die Mango ist reif und süß.",
+  "ar": "المانجو مستوية وحلوة."
+ },
+ "kokosnuss": {
+  "de": "Die Kokosnuss hat eine harte Schale.",
+  "ar": "جوز الهند قشرته ناشفة."
+ },
+ "avocado": {
+  "de": "Die Avocado kommt aufs Brot.",
+  "ar": "الأفوكادو على العيش."
+ },
+ "grapefruit": {
+  "de": "Die Grapefruit ist bitter.",
+  "ar": "الجريب فروت مرّة شوية."
+ },
+ "haselnuss": {
+  "de": "Die Haselnuss steckt in der Schokolade.",
+  "ar": "البندق جوه الشيكولاتة."
+ },
+ "aprikose": {
+  "de": "Die Aprikose ist orange und weich.",
+  "ar": "المشمش برتقالي وطري."
+ },
+ "kastanie": {
+  "de": "Die Kastanie sammeln die Kinder im Park.",
+  "ar": "الكستناء العيال بتجمعه من الحديقة."
+ },
+ "kuerbiskern": {
+  "de": "Der Kürbiskern wird geröstet.",
+  "ar": "لب القرع بيتحمص."
+ },
+ "dattel": {
+  "de": "Die Dattel ist sehr süß.",
+  "ar": "البلح حلو جدا."
+ },
+ "haehnchen": {
+  "de": "Das Hähnchen brät im Ofen.",
+  "ar": "الفرخة بتتشوح في الفرن."
+ },
+ "garnele": {
+  "de": "Die Garnele wird mit Reis serviert.",
+  "ar": "الجمبري بيتقدم مع الرز."
+ },
+ "lachs": {
+  "de": "Der Lachs schwimmt den Fluss hinauf.",
+  "ar": "السلمون بيعوم عكس النهر."
+ },
+ "auster": {
+  "de": "Die Auster öffnet man vorsichtig.",
+  "ar": "المحار بيتفتح بحذر."
+ },
+ "doener": {
+  "de": "Der Döner ist unterwegs eine schnelle Mahlzeit.",
+  "ar": "الشاورما أكل سريع وإحنا ماشيين."
+ },
+ "schnitzel": {
+  "de": "Das Schnitzel kommt mit Zitrone.",
+  "ar": "الشنيتزل بيتقدم مع ليمون."
+ },
+ "bratwurst": {
+  "de": "Die Bratwurst brutzelt auf dem Grill.",
+  "ar": "السجق المشوي بتتشوى على الجريل."
+ },
+ "ruehrei": {
+  "de": "Das Rührei gibt es zum Frühstück.",
+  "ar": "البيض المخفوق للفطار."
+ },
+ "spiegelei": {
+  "de": "Das Spiegelei brät in der Pfanne.",
+  "ar": "بيض العيون بتتقلي في الطاسة."
+ },
+ "toast": {
+  "de": "Der Toast springt aus dem Toaster.",
+  "ar": "التوست بيطلع من المحمصة."
+ },
+ "croissant": {
+  "de": "Das Croissant ist frisch vom Bäcker.",
+  "ar": "الكرواسون طازة من الفرن."
+ },
+ "waffel": {
+  "de": "Die Waffel kommt mit Zucker.",
+  "ar": "الوافل عليه سكر."
+ },
+ "lebkuchen": {
+  "de": "Der Lebkuchen gibt es im Winter.",
+  "ar": "خبز الزنجبيل بيبقى في الشتا."
+ },
+ "orangensaft": {
+  "de": "Der Orangensaft ist frisch gepresst.",
+  "ar": "عصير البرتقال طازة معصور."
+ },
+ "bier": {
+  "de": "Das Bier ist kalt.",
+  "ar": "البيرة ساقعة."
+ },
+ "kakao": {
+  "de": "Der Kakao wärmt am Abend.",
+  "ar": "الكاكاو بيدفي بالليل."
+ },
+ "cola": {
+  "de": "Die Cola steht im Kühlschrank.",
+  "ar": "الكولا في التلاجة."
+ },
+ "korb": {
+  "de": "Der Korb ist voll Obst.",
+  "ar": "السبت مليان فاكهة."
+ },
+ "kanne": {
+  "de": "Die Kanne steht auf dem Tisch.",
+  "ar": "الإبريق على الترابيزة."
+ },
+ "toaster": {
+  "de": "Der Toaster ist in der Küche.",
+  "ar": "المحمصة في المطبخ."
+ },
+ "brandenburger-tor": {
+  "de": "Das Brandenburger Tor steht in Berlin.",
+  "ar": "بوابة براندنبورج في برلين."
+ },
+ "schloss-neuschwanstein": {
+  "de": "Das Schloss Neuschwanstein liegt in Bayern.",
+  "ar": "قصر نويشفانشتاين في بافاريا."
+ },
+ "eiffelturm": {
+  "de": "Der Eiffelturm ist das Wahrzeichen von Paris.",
+  "ar": "برج إيفل علامة باريس."
+ },
+ "kolosseum": {
+  "de": "Das Kolosseum ist fast zweitausend Jahre alt.",
+  "ar": "الكولوسيوم عمره حوالي ألفين سنة."
+ },
+ "freiheitsstatue": {
+  "de": "Die Freiheitsstatue steht in New York.",
+  "ar": "تمثال الحرية في نيويورك."
+ },
+ "fernsehturm": {
+  "de": "Der Fernsehturm ist über der Stadt zu sehen.",
+  "ar": "برج التلفزيون باين من كل المدينة."
+ },
+ "big-ben": {
+  "de": "Big Ben läutet jede Stunde.",
+  "ar": "بيج بن بيدق كل ساعة."
+ },
+ "taj-mahal": {
+  "de": "Der Taj Mahal steht in Indien.",
+  "ar": "تاج محل في الهند."
+ },
+ "chinesische-mauer": {
+  "de": "Die Chinesische Mauer ist sehr lang.",
+  "ar": "سور الصين العظيم طويل جدا."
+ },
+ "reichstag": {
+  "de": "Der Reichstag hat eine Glaskuppel.",
+  "ar": "الرايخستاج ليه قبة زجاج."
+ },
+ "sphinx": {
+  "de": "Die Sphinx liegt neben den Pyramiden.",
+  "ar": "أبو الهول جنب الأهرامات."
+ },
+ "hamburger-rathaus": {
+  "de": "Das Hamburger Rathaus ist sehr groß.",
+  "ar": "بلدية هامبورج كبيرة جدا."
+ },
+ "feuerwehrmann": {
+  "de": "Der Feuerwehrmann löscht das Feuer.",
+  "ar": "رجل المطافي بيطفي النار."
+ },
+ "maler": {
+  "de": "Der Maler streicht die Wand.",
+  "ar": "النقاش بيدهن الحيطة."
+ },
+ "musiker": {
+  "de": "Der Musiker spielt jeden Abend.",
+  "ar": "الموسيقي بيعزف كل ليلة."
+ },
+ "fischer": {
+  "de": "Der Fischer fährt früh aufs Meer.",
+  "ar": "الصياد بينزل البحر بدري."
+ },
+ "schmied": {
+  "de": "Der Schmied arbeitet mit heißem Metall.",
+  "ar": "الحداد بيشتغل بالحديد السخن."
+ },
+ "handball": {
+  "de": "Der Handball fliegt schnell ins Tor.",
+  "ar": "كرة اليد بتخش المرمى بسرعة."
+ },
+ "skateboard": {
+  "de": "Das Skateboard rollt die Rampe hinunter.",
+  "ar": "السكيت نازل من على المنحدر."
+ },
+ "pokal": {
+  "de": "Der Pokal steht im Vereinsheim.",
+  "ar": "الكأس في نادي الفريق."
+ },
+ "dartspiel": {
+  "de": "Das Dartspiel braucht eine ruhige Hand.",
+  "ar": "الدارتس محتاج إيد ثابتة."
+ },
+ "hantel": {
+  "de": "Die Hantel ist zehn Kilo schwer.",
+  "ar": "الدامبل تقيله عشرة كيلو."
+ },
+ "tennisball": {
+  "de": "Der Tennisball ist gelb.",
+  "ar": "كرة التنس صفرا."
+ },
+ "bogen": {
+  "de": "Der Bogen schießt den Pfeil weit.",
+  "ar": "القوس بيرمي السهم بعيد."
+ },
+ "dartbrett": {
+  "de": "Das Dartbrett hängt an der Wand.",
+  "ar": "لوح السهام معلق على الحيطة."
+ },
+ "fahrradhelm": {
+  "de": "Der Fahrradhelm schützt den Kopf.",
+  "ar": "خوذة الدراجة بتحمي الراس."
+ },
+ "snowboard": {
+  "de": "Das Snowboard fährt über den Schnee.",
+  "ar": "السنوبورد بيمشي على التلج."
+ },
+ "angelhaken": {
+  "de": "Der Angelhaken hängt an der Schnur.",
+  "ar": "سنارة الصيد معلقة في الخيط."
+ },
+ "schlafsack": {
+  "de": "Der Schlafsack hält im Zelt warm.",
+  "ar": "كيس النوم بيدفي في الخيمة."
+ },
+ "wanderstock": {
+  "de": "Der Wanderstock hilft auf dem Berg.",
+  "ar": "عصا المشي بتساعد على الجبل."
+ },
+ "laufschuhe": {
+  "de": "Der Laufschuh ist leicht.",
+  "ar": "حذاء الجري خفيف."
+ },
+ "fussballtor": {
+  "de": "Das Fußballtor steht am Ende des Felds.",
+  "ar": "المرمى في آخر الملعب."
+ },
+ "kajak": {
+  "de": "Das Kajak fährt den Fluss hinunter.",
+  "ar": "الكاياك نازل في النهر."
+ },
+ "fallschirm": {
+  "de": "Der Fallschirm öffnet sich in der Luft.",
+  "ar": "مظلة الهبوط بتتفتح في الجو."
+ },
+ "akkordeon": {
+  "de": "Das Akkordeon macht fröhliche Musik.",
+  "ar": "الأكورديون بيطلع مزيكا مفرحة."
+ },
+ "saxofon": {
+  "de": "Das Saxofon klingt warm.",
+  "ar": "الساكسفون صوته دافي."
+ },
+ "cello": {
+  "de": "Das Cello hat einen tiefen Klang.",
+  "ar": "التشيلو صوته عميق."
+ },
+ "schlagzeug": {
+  "de": "Das Schlagzeug gibt den Takt.",
+  "ar": "الدرامز بتعمل الإيقاع."
+ },
+ "orgel": {
+  "de": "Die Orgel spielt in der Kirche.",
+  "ar": "الأورج بتعزف في الكنيسة."
+ },
+ "keyboard": {
+  "de": "Das Keyboard hat viele Töne.",
+  "ar": "الكيبورد الموسيقي فيه أصوات كتير."
+ },
+ "notenblatt": {
+  "de": "Das Notenblatt liegt auf dem Klavier.",
+  "ar": "النوتة على البيانو."
+ },
+ "schallplatte": {
+  "de": "Die Schallplatte dreht sich auf dem Spieler.",
+  "ar": "الاسطوانة بتلف على المشغل."
+ },
+ "mikrowelle": {
+  "de": "Die Mikrowelle wärmt das Essen in zwei Minuten.",
+  "ar": "الميكروويف بيسخن الأكل في دقيقتين."
+ },
+ "zahnbuerste": {
+  "de": "Die Zahnbürste steht im Bad.",
+  "ar": "فرشة الأسنان في الحمام."
+ },
+ "handtuch": {
+  "de": "Das Handtuch hängt an der Stange.",
+  "ar": "الفوطة معلقة على العلاقة."
+ },
+ "kamm": {
+  "de": "Der Kamm liegt auf dem Tisch.",
+  "ar": "المشط على الترابيزة."
+ },
+ "regal": {
+  "de": "Das Regal ist voller Bücher.",
+  "ar": "الرف مليان كتب."
+ },
+ "vorhang": {
+  "de": "Der Vorhang hält die Sonne draußen.",
+  "ar": "الستارة بتمنع الشمس."
+ },
+ "sessel": {
+  "de": "Der Sessel steht am Fenster.",
+  "ar": "الفوتيه عند الشباك."
+ },
+ "lichtschalter": {
+  "de": "Der Lichtschalter ist neben der Tür.",
+  "ar": "مفتاح النور جنب الباب."
+ },
+ "tuergriff": {
+  "de": "Der Türgriff ist aus Metall.",
+  "ar": "مقبض الباب معدن."
+ },
+ "badewanne": {
+  "de": "Die Badewanne ist voll warmes Wasser.",
+  "ar": "البانيو مليان مياه سخنة."
+ },
+ "waschbecken": {
+  "de": "Das Waschbecken ist aus Porzellan.",
+  "ar": "الحوض بورسلين."
+ },
+ "steckdose": {
+  "de": "Die Steckdose ist hinter dem Sofa.",
+  "ar": "البريزة ورا الكنبة."
+ },
+ "kronleuchter": {
+  "de": "Der Kronleuchter hängt in der Mitte des Zimmers.",
+  "ar": "النجفة معلقة في نص الأوضة."
+ },
+ "wasserhahn": {
+  "de": "Der Wasserhahn tropft.",
+  "ar": "الحنفية بتنقط."
+ },
+ "etagenbett": {
+  "de": "Das Etagenbett ist im Kinderzimmer.",
+  "ar": "سرير الدورين في أوضة الأطفال."
+ },
+ "kommode": {
+  "de": "Die Kommode steht im Schlafzimmer.",
+  "ar": "دولاب الأدراج في أوضة النوم."
+ },
+ "klingel": {
+  "de": "Die Klingel ist laut zu hören.",
+  "ar": "جرس الباب صوته عالي."
+ },
+ "rechen": {
+  "de": "Der Rechen sammelt die Blätter.",
+  "ar": "مشط الجنينة بيلم الورق."
+ },
+ "spaten": {
+  "de": "Der Spaten steckt in der Erde.",
+  "ar": "المجرفة في التراب."
  }
 }
