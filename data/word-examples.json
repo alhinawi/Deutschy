@@ -3514,5 +3514,101 @@
  "heftklammer": {
   "de": "Die Heftklammer hält die Blätter.",
   "ar": "دبوس الدباسة ماسك الأوراق."
+ },
+ "schoepfkelle": {
+  "de": "Die Schöpfkelle schöpft die Suppe.",
+  "ar": "المغرفة بتغرف الشوربة."
+ },
+ "nagelfeile": {
+  "de": "Die Nagelfeile glättet die Nägel.",
+  "ar": "مبرد الضوافر بينعم الضوافر."
+ },
+ "tauchmaske": {
+  "de": "Die Tauchmaske zeigt die Fische unter Wasser.",
+  "ar": "ماسك الغطس بيبين السمك تحت المياه."
+ },
+ "schwimmbrille": {
+  "de": "Die Schwimmbrille hält das Wasser fern.",
+  "ar": "نضارة السباحة بتبعد المياه عن العين."
+ },
+ "suesskartoffel": {
+  "de": "Die Süßkartoffel schmeckt süß.",
+  "ar": "البطاطا طعمها حلو."
+ },
+ "ingwer": {
+  "de": "Der Ingwer macht den Tee scharf.",
+  "ar": "الجنزبيل بيخلي الشاي حامي."
+ },
+ "papaya": {
+  "de": "Die Papaya reift in der Sonne.",
+  "ar": "البابايا بتستوي في الشمس."
+ },
+ "quitte": {
+  "de": "Die Quitte isst man gekocht.",
+  "ar": "السفرجلة بتاكل مطبوخة."
+ },
+ "harfe": {
+  "de": "Die Harfe hat viele Saiten.",
+  "ar": "الهارب فيه أوتار كتير."
+ },
+ "mandoline": {
+  "de": "Die Mandoline spielt in Italien.",
+  "ar": "الماندولين بيتعزف في إيطاليا."
+ },
+ "brezel": {
+  "de": "Die Brezel schmeckt salzig.",
+  "ar": "البريتسل طعمه مالح."
+ },
+ "bagel": {
+  "de": "Der Bagel hat ein Loch in der Mitte.",
+  "ar": "البيجل فيه فتحة في النص."
+ },
+ "muffin": {
+  "de": "Der Muffin passt zum Kaffee.",
+  "ar": "المافن بيناسب مع القهوة."
+ },
+ "donut": {
+  "de": "Der Donut hat rosa Glasur.",
+  "ar": "الدونات عليه تغطية وردية."
+ },
+ "krawatte": {
+  "de": "Die Krawatte trägt er im Büro.",
+  "ar": "الكرافتة بيلبسها في الشغل."
+ },
+ "faeustling": {
+  "de": "Der Fäustling hält die Finger warm.",
+  "ar": "الجوانتي بيخلي الصوابع دافية."
+ },
+ "korken": {
+  "de": "Der Korken schließt die Weinflasche.",
+  "ar": "سدادة الفلين بتقفل إزازة النبيت."
+ },
+ "streichholz": {
+  "de": "Das Streichholz zündet die Kerze an.",
+  "ar": "عود الكبريت بيوقع الشمعة."
+ },
+ "basketball": {
+  "de": "Der Basketball springt auf dem Platz.",
+  "ar": "كورة الباسكت بتنط في الملعب."
+ },
+ "schwimmring": {
+  "de": "Der Schwimmring trägt das Kind im Pool.",
+  "ar": "العوامة الدائرية شايلة الطفل في الحمام."
+ },
+ "zucchini": {
+  "de": "Die Zucchini brät man in der Pfanne.",
+  "ar": "الكوسة بتتقلى في الطاسة."
+ },
+ "limette": {
+  "de": "Die Limette gibt dem Wasser Geschmack.",
+  "ar": "الليمون الأخضر بيدي المياه طعم."
+ },
+ "nektarine": {
+  "de": "Die Nektarine hat glatte Haut.",
+  "ar": "النكتارين قشرتها ناعمة."
+ },
+ "stachelbeere": {
+  "de": "Die Stachelbeere ist grün und sauer.",
+  "ar": "عنب الثعلب أخضر وحامض."
  }
 }
