@@ -2834,5 +2834,109 @@
  "briefbeschwerer": {
   "de": "Der Briefbeschwerer hält die Papiere.",
   "ar": "ثقالة الورق ماسكة الأوراق."
+ },
+ "stricknadel": {
+  "de": "Die Stricknadel strickt einen Schal.",
+  "ar": "إبرة التريكو بتعمل كوفية."
+ },
+ "haekelnadel": {
+  "de": "Die Häkelnadel häkelt eine Blume.",
+  "ar": "إبرة الكروشيه بتعمل وردة."
+ },
+ "stickrahmen": {
+  "de": "Der Stickrahmen spannt den Stoff.",
+  "ar": "طارة التطريز بتمط القماش."
+ },
+ "briefoeffner": {
+  "de": "Der Brieföffner öffnet den Brief.",
+  "ar": "فتاحة الجوابات بتفتح الجواب."
+ },
+ "briefumschlag": {
+  "de": "Der Briefumschlag trägt die Briefmarke.",
+  "ar": "ظرف الجواب عليه طابع البريد."
+ },
+ "stempel": {
+  "de": "Der Stempel macht das Dokument offiziell.",
+  "ar": "الختم بيخلي الورقة رسمية."
+ },
+ "plektrum": {
+  "de": "Das Plektrum spielt die Gitarre.",
+  "ar": "ريشة الجيتار بتلعب على الأوتار."
+ },
+ "stimmgabel": {
+  "de": "Die Stimmgabel gibt den Ton an.",
+  "ar": "الشوكة الرنانة بتدينا النغمة الصح."
+ },
+ "palette": {
+  "de": "Die Palette mischt die Farben.",
+  "ar": "البالتة بتخلط الألوان."
+ },
+ "staffelei": {
+  "de": "Die Staffelei hält die Leinwand.",
+  "ar": "حامل الرسم ماسك اللوحة."
+ },
+ "moerser": {
+  "de": "Der Mörser zerstößt die Gewürze.",
+  "ar": "الهون بيسحق البهارات."
+ },
+ "zitronenpresse": {
+  "de": "Die Zitronenpresse presst die Zitrone.",
+  "ar": "عصارة الليمون بتعصر الليمونة."
+ },
+ "schluesselring": {
+  "de": "Der Schlüsselring hält alle Schlüssel.",
+  "ar": "حلقة المفاتيح ماسكة كل المفاتيح."
+ },
+ "tuerstopper": {
+  "de": "Der Türstopper hält die Tür offen.",
+  "ar": "مصد الباب بيخلي الباب مفتوح."
+ },
+ "pflanzkelle": {
+  "de": "Die Pflanzkelle gräbt ein kleines Loch.",
+  "ar": "الجاروف الصغير بيحفر حتة صغيرة للزرع."
+ },
+ "spruehflasche": {
+  "de": "Die Sprühflasche besprüht die Pflanzen.",
+  "ar": "إزازة البخاخ بترش الزرع."
+ },
+ "luftpumpe": {
+  "de": "Die Luftpumpe pumpt den Reifen auf.",
+  "ar": "منفاخ الهوا بينفخ الكاوتش."
+ },
+ "reifenheber": {
+  "de": "Der Reifenheber löst den Reifen.",
+  "ar": "العتلة بتحل كاوتش العجلة."
+ },
+ "garnrolle": {
+  "de": "Die Garnrolle sitzt auf der Nähmaschine.",
+  "ar": "بكرة الخيط على ماكينة الخياطة."
+ },
+ "nahttrenner": {
+  "de": "Der Nahttrenner öffnet die Naht.",
+  "ar": "أداة الفك بتفتح الغرزة."
+ },
+ "federmaeppchen": {
+  "de": "Das Federmäppchen liegt in der Schultasche.",
+  "ar": "المقلمة في شنطة المدرسة."
+ },
+ "gummiband": {
+  "de": "Das Gummiband hält die Karten zusammen.",
+  "ar": "الأستك ماسك الكروت في بعض."
+ },
+ "nagelbuerste": {
+  "de": "Die Nagelbürste reinigt die Nägel.",
+  "ar": "فرشة الأظافر بتنضف الضوافر."
+ },
+ "waschlappen": {
+  "de": "Der Waschlappen hängt am Haken.",
+  "ar": "الفوطة الصغيرة معلقة على الحلقة."
+ },
+ "sparschaeler": {
+  "de": "Der Sparschäler schält die Kartoffeln.",
+  "ar": "مقشرة الخضار بتقشر البطاطس."
+ },
+ "kartoffelstampfer": {
+  "de": "Der Kartoffelstampfer stampft die Kartoffeln.",
+  "ar": "هراسة البطاطس بتهرس البطاطس."
  }
 }
