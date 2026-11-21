@@ -1,1 +1,1 @@
-export {ttsVoices,voiceForTextHash} from '../../src/lib/tts-voices';
+export {ttsVoices,voiceForTextHash,femaleTtsVoices,femaleVoiceIds,voiceForTextHashFemale} from '../../src/lib/tts-voices';

@@ -13,7 +13,9 @@ def get(path):return json.load(urllib.request.urlopen(urllib.request.Request('ht
 sub=get('/v1/user/subscription');assert sub['tier']=='free' and sub.get('can_extend_character_limit') is False,'Free/no-overage guard failed'
 ledger_path=out/'ledger.json';ledger=json.loads(ledger_path.read_text()) if ledger_path.exists() else {}
 assert not any(x.get('pending') for x in ledger.values()),'Unresolved prior generation: inspect provider history before another request'
-voices=json.loads((root/'src/lib/tts-voices.ts').read_text().split('export const ttsVoices=')[1].split(' as const;')[0]);words=json.loads((root/'data/vocab.json').read_text())['words']
+voices=json.loads((root/'src/lib/tts-voices.ts').read_text().split('export const ttsVoices=')[1].split(' as const;')[0])
+# Owner directive 2026-11-21: new synthesis uses female voices only.
+voices=[v for v in voices if v.get('gender')=='female']words=json.loads((root/'data/vocab.json').read_text())['words']
 def save():ledger_path.write_text(json.dumps(ledger,ensure_ascii=False,indent=2)+'\n')
 def store(text,voice,source,origin):
  encoded=out/'encoded.mp3'
