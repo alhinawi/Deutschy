@@ -2702,5 +2702,137 @@
  "schubkarre": {
   "de": "Die Schubkarre steht hinter dem Schuppen.",
   "ar": "العربية اليدوية ورا العنبر."
+ },
+ "fingerhut": {
+  "de": "Der Fingerhut liegt im Nähkästchen.",
+  "ar": "الكشتبان في علبة الخياطة."
+ },
+ "sicherheitsnadel": {
+  "de": "Die Sicherheitsnadel rettet den Knopf.",
+  "ar": "دبوس الأمان بيلم الزرار."
+ },
+ "reissverschluss": {
+  "de": "Der Reißverschluss geht leicht zu.",
+  "ar": "السوستة بتتقفل بسهولة."
+ },
+ "kehrblech": {
+  "de": "Das Kehrblech hängt an der Tür.",
+  "ar": "المجرود معلق على الباب."
+ },
+ "handfeger": {
+  "de": "Der Handfeger liegt auf dem Kehrblech.",
+  "ar": "الفرشة الصغيرة على المجرود."
+ },
+ "schwamm": {
+  "de": "Der Schwamm liegt am Spülbecken.",
+  "ar": "الإسفنجة على الحوض."
+ },
+ "kofferanhaenger": {
+  "de": "Der Kofferanhänger hat meine Adresse.",
+  "ar": "تاج الشنطة عليه عنواني."
+ },
+ "vorhaengeschloss": {
+  "de": "Das Vorhängeschloss braucht den kleinen Schlüssel.",
+  "ar": "القفل محتاج المفتاح الصغير."
+ },
+ "gepaeckwaage": {
+  "de": "Die Gepäckwaage nehme ich mit in den Urlaub.",
+  "ar": "ميزان الشنط باخده في السفر."
+ },
+ "brotdose": {
+  "de": "Die Brotdose kommt in die Schultasche.",
+  "ar": "علبة الفطار بتتحط في شنطة المدرسة."
+ },
+ "trinkflasche": {
+  "de": "Die Trinkflasche fülle ich am Morgen.",
+  "ar": "الزمزمية بملاها الصبح."
+ },
+ "thermoskanne": {
+  "de": "Die Thermoskanne kommt mit zur Arbeit.",
+  "ar": "الترمس بييجي معايا الشغل."
+ },
+ "heftgeraet": {
+  "de": "Das Heftgerät braucht neue Klammern.",
+  "ar": "الدباسة محتاجة دبابيس جديدة."
+ },
+ "klebeband": {
+  "de": "Das Klebeband klebt das Geschenk zu.",
+  "ar": "الشريط اللاصق بيقفل الهدية."
+ },
+ "spitzer": {
+  "de": "Der Spitzer liegt im Federmäppchen.",
+  "ar": "البراية في المقلمة."
+ },
+ "backform": {
+  "de": "Die Backform fette ich vor dem Teig ein.",
+  "ar": "صينية الكيك بدهنها قبل العجينة."
+ },
+ "ausstechform": {
+  "de": "Die Ausstechform hat die Form eines Herzens.",
+  "ar": "القطاعة شكلها قلب."
+ },
+ "topflappen": {
+  "de": "Der Topflappen hängt am Herd.",
+  "ar": "مسكة الحلة معلقة جنب البوتاجاز."
+ },
+ "seifenschale": {
+  "de": "Die Seifenschale ist aus Keramik.",
+  "ar": "طبق الصابون من السيراميك."
+ },
+ "nagelschere": {
+  "de": "Die Nagelschere liegt im Bad.",
+  "ar": "مقص الضافر في الحمام."
+ },
+ "seifenspender": {
+  "de": "Der Seifenspender ist fast leer.",
+  "ar": "موزع الصابون قرب يخلص."
+ },
+ "schuhloeffel": {
+  "de": "Der Schuhlöffel hängt an der Garderobe.",
+  "ar": "المركاب معلق عند التعلاقة."
+ },
+ "schuhbuerste": {
+  "de": "Die Schuhbürste steht im Flur.",
+  "ar": "فرشة الجزم في الطرقة."
+ },
+ "schuhspanner": {
+  "de": "Der Schuhspanner ist aus Zedernholz.",
+  "ar": "قالب الجزمة من خشب الأرز."
+ },
+ "geschenkpapier": {
+  "de": "Das Geschenkpapier rolle ich nach dem Fest wieder auf.",
+  "ar": "ورق التغليف بلمه تاني بعد العيد."
+ },
+ "geschenkband": {
+  "de": "Das Geschenkband binde ich zur Schleife.",
+  "ar": "الشريط بربطه على شكل فيونكة."
+ },
+ "untersetzer": {
+  "de": "Der Untersetzer kommt unter die Teekanne.",
+  "ar": "القاعدة بتتحط تحت البراد."
+ },
+ "serviette": {
+  "de": "Die Serviette falte ich zum Dreieck.",
+  "ar": "المنديل بطبقه مثلث."
+ },
+ "tablett": {
+  "de": "Das Tablett bringt den Tee ins Wohnzimmer.",
+  "ar": "الصينية بتوصل الشاي للصالة."
+ },
+ "trichter": {
+  "de": "Der Trichter hängt in der Küche.",
+  "ar": "القمع معلق في المطبخ."
+ },
+ "flaschenoeffner": {
+  "de": "Der Flaschenöffner hängt am Schlüsselbund.",
+  "ar": "فتاحة الأزايز على حلقة المفاتيح."
+ },
+ "lupe": {
+  "de": "Die Lupe hilft beim Lesen der Kleinschrift.",
+  "ar": "العدسة المكبرة بتساعد في قراية الخط الصغير."
+ },
+ "briefbeschwerer": {
+  "de": "Der Briefbeschwerer ist aus Glas.",
+  "ar": "ثقل الورق من الزجاز."
  }
 }
