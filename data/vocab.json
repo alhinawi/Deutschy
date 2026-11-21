@@ -841,11 +841,12 @@
    "plural": "Väter",
    "ar": "أب",
    "photo": {
-    "file": "Father And Son (68484147).jpeg",
-    "page": "https://commons.wikimedia.org/wiki/File:Father_And_Son_(68484147).jpeg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Father_And_Son_(68484147).jpeg",
-    "license": "CC BY 3.0",
-    "author": "Dr Sanket Mehta"
+    "file": "Father and son work on car together in garden.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Father_and_son_work_on_car_together_in_garden.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Father_and_son_work_on_car_together_in_garden.jpg",
+    "license": "CC BY 2.0",
+    "author": "Shixart1985",
+    "modified": "Cropped to 4:3 around father and son; original attribution and license retained."
    }
   },
   {
@@ -856,12 +857,12 @@
    "plural": "Brüder",
    "ar": "أخ",
    "photo": {
-    "file": "The_Bryan_brothers.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:The_Bryan_brothers.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:The_Bryan_brothers.jpg",
-    "license": "CC BY 2.0",
-    "author": "Boss Tweed",
-    "padding": true
+    "file": "African brothers aged 5 years and 6 years.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:African_brothers_aged_5_years_and_6_years.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:African_brothers_aged_5_years_and_6_years.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "Babumugizi",
+    "modified": "Cropped to 4:3 around the two brothers; original attribution and license retained."
    }
   },
   {
@@ -872,11 +873,12 @@
    "plural": "Kinder",
    "ar": "طفل",
    "photo": {
-    "file": "Child at sunset - Maldives.jpg",
-    "page": "https://commons.wikimedia.org/wiki/File:Child_at_sunset_-_Maldives.jpg",
-    "commons": "https://commons.wikimedia.org/wiki/File:Child_at_sunset_-_Maldives.jpg",
-    "license": "CC BY-SA 2.0",
-    "author": "Simone Lovati"
+    "file": "Portrait of a Smiling Little Indian Girl - Flickr - Nithi clicks.jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_Smiling_Little_Indian_Girl_-_Flickr_-_Nithi_clicks.jpg",
+    "commons": "https://commons.wikimedia.org/wiki/File:Portrait_of_a_Smiling_Little_Indian_Girl_-_Flickr_-_Nithi_clicks.jpg",
+    "license": "CC BY 2.0",
+    "author": "Nithi Anand from Paris, France",
+    "modified": "Cropped to 4:3 around the child; original attribution and license retained."
    }
   },
   {
