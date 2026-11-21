@@ -3322,5 +3322,101 @@
  "leitkegel": {
   "de": "Der Leitkegel hat weiße Streifen.",
   "ar": "الكون المروري عليه خطوط بيضا."
+ },
+ "spritzbeutel": {
+  "de": "Der Spritzbeutel ist aus Stoff.",
+  "ar": "كيس الحلواني من القماش."
+ },
+ "knoblauchpresse": {
+  "de": "Die Knoblauchpresse hängt am Haken.",
+  "ar": "كباسة التوم معلقة على العلاقة."
+ },
+ "nagel": {
+  "de": "Der Nagel sitzt fest in der Wand.",
+  "ar": "المسمار راص في الحيطة."
+ },
+ "schraubendreher": {
+  "de": "Der Schraubendreher hat einen roten Griff.",
+  "ar": "المفك ليه مقبض أحمر."
+ },
+ "abakus": {
+  "de": "Der Abakus hat hundert Perlen.",
+  "ar": "المعداد فيه مية خرزة."
+ },
+ "schachfigur": {
+  "de": "Die Schachfigur ist aus hellem Holz.",
+  "ar": "قطعة الشطرنج من خشب فاتح."
+ },
+ "rumbakugel": {
+  "de": "Die Rumbakugel quietscht beim Drücken.",
+  "ar": "الكورة المطاط بتزق لما ندوس عليها."
+ },
+ "klangschale": {
+  "de": "Die Klangschale steht auf dem Kissen.",
+  "ar": "الطبق الموسيقي على الخدادية."
+ },
+ "kochloeffel": {
+  "de": "Der Kochlöffel ist aus Buchenholz.",
+  "ar": "معلقة الطبخ من خشب الزان."
+ },
+ "honigloeffel": {
+  "de": "Der Honiglöffel hat Rillen.",
+  "ar": "معلقة العسل عليها تجاريح."
+ },
+ "reisszwecke": {
+  "de": "Die Reißzwecke steckt im Brett.",
+  "ar": "الدبوس الضاغط مغروس في اللوح."
+ },
+ "pinnwand": {
+  "de": "Die Pinnwand hängt über dem Schreibtisch.",
+  "ar": "لوح الكورك معلق فوق المكتب."
+ },
+ "glockenspiel": {
+  "de": "Das Glockenspiel hat bunte Tasten.",
+  "ar": "الأجراس الموسيقية ليها أزرار ملونة."
+ },
+ "cabasa": {
+  "de": "Die Cabasa dreht man in der Hand.",
+  "ar": "الكاباسا بتليفها في إيدك."
+ },
+ "pizzaschneider": {
+  "de": "Der Pizzaschneider rollt durch den Käse.",
+  "ar": "قطاعة البيتزا بتليف في الجبنة."
+ },
+ "duschkopf": {
+  "de": "Der Duschkopf braucht Entkalker.",
+  "ar": "راس الدش محتاجة مزيل تكلس."
+ },
+ "himbeere": {
+  "de": "Die Himbeere ist weich und duftet.",
+  "ar": "توت العليق طري وريحته حلوة."
+ },
+ "heidelbeere": {
+  "de": "Die Heidelbeere kommt in den Joghurt.",
+  "ar": "التوت الأزرق بيتحط في الزبادي."
+ },
+ "artischocke": {
+  "de": "Die Artischocke kocht zwanzig Minuten.",
+  "ar": "الخرشوف بيستوي في عشرين دقيقة."
+ },
+ "kohlrabi": {
+  "de": "Der Kohlrabi schmeckt roh am besten.",
+  "ar": "الكرنب الساقي أحلى وهو ني."
+ },
+ "drachenfrucht": {
+  "de": "Die Drachenfrucht hat schwarze Kerne.",
+  "ar": "فاكهة التنين ليها بذور سودا."
+ },
+ "passionsfrucht": {
+  "de": "Die Passionsfrucht löffle ich aus.",
+  "ar": "فاكهة الباشن بتاكلها بالمعلقة."
+ },
+ "kalimba": {
+  "de": "Die Kalimba klingt wie eine kleine Harfe.",
+  "ar": "الكاليمبا صوتها زي هارب صغيرة."
+ },
+ "banjo": {
+  "de": "Das Banjo hat einen runden Korpus.",
+  "ar": "البانجو جسمه مدور."
  }
 }
