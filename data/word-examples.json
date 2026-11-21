@@ -3802,5 +3802,237 @@
  "eiswuerfelform": {
   "de": "Die Eiswürfelform kommt ins Gefrierfach.",
   "ar": "قالب مكعبات التلج بيدخل الفريزر."
+ },
+ "flamingo": {
+  "de": "Der Flamingo steht auf einem Bein.",
+  "ar": "الفلامنجو واقف على رجل واحدة."
+ },
+ "kakadu": {
+  "de": "Der Kakadu spricht laut nach.",
+  "ar": "ببغاء الكوكاتو بيكرر الكلام بصوت عالي."
+ },
+ "durian": {
+  "de": "Die Durian riecht sehr stark.",
+  "ar": "الدوريان ريحته تقيلة جدا."
+ },
+ "jackfrucht": {
+  "de": "Die Jackfrucht ist die größte Baumfrucht.",
+  "ar": "الجاك فروت أكبر فاكهة شجر."
+ },
+ "guave": {
+  "de": "Die Guave schmeckt süß und rosa.",
+  "ar": "الجوافة طعمها حلو ولونها وردي."
+ },
+ "physalis": {
+  "de": "Die Physalis versteckt sich im Blatt.",
+  "ar": "الحرنكش مستخبي جوه الورقة."
+ },
+ "rambutan": {
+  "de": "Die Rambutan hat haarige Schale.",
+  "ar": "الرامبوتان قشرته مشعرة."
+ },
+ "chirimoya": {
+  "de": "Die Chirimoya schmeckt wie Pudding.",
+  "ar": "الشيريمويا طعمها زي المهلبية."
+ },
+ "mangostane": {
+  "de": "Die Mangostane nennt man Königin der Früchte.",
+  "ar": "المانجوستين بيسموها ملكة الفواكه."
+ },
+ "brotfrucht": {
+  "de": "Die Brotfrucht isst man gebraten.",
+  "ar": "ثمرة شجرة الخبز بتاكل مقلية."
+ },
+ "eisvogel": {
+  "de": "Der Eisvogel fischt im Bach.",
+  "ar": "الرفراف بيصطاد في الترعة."
+ },
+ "elster": {
+  "de": "Die Elster mag glänzende Dinge.",
+  "ar": "العقعق بيحب الحاجات اللامعة."
+ },
+ "rotkehlchen": {
+  "de": "Das Rotkehlchen hat eine rote Brust.",
+  "ar": "أبو الحنّة صدره أحمر."
+ },
+ "amsel": {
+  "de": "Die Amsel singt am Abend.",
+  "ar": "الشحرور بيغني بالليل."
+ },
+ "hamster": {
+  "de": "Der Hamster sammelt Futter in den Backen.",
+  "ar": "الهامستر بيخبّي الأكل في خدوده."
+ },
+ "meerschweinchen": {
+  "de": "Das Meerschweinchen pfeift beim Füttern.",
+  "ar": "خنزير غيني بيصفر وقت الأكل."
+ },
+ "wellensittich": {
+  "de": "Der Wellensittich sitzt auf der Stange.",
+  "ar": "العصفور الأسترالي قاعد على العود."
+ },
+ "kanarienvogel": {
+  "de": "Der Kanarienvogel singt schön.",
+  "ar": "الكناريا بتغني حلو."
+ },
+ "goldfisch": {
+  "de": "Der Goldfisch schwimmt im Glas.",
+  "ar": "السمكة الدهبية بتعوم في الحوض."
+ },
+ "schwein": {
+  "de": "Das Schwein wühlt im Schlamm.",
+  "ar": "الخنزير بيقلب في الطين."
+ },
+ "hahn": {
+  "de": "Der Hahn kräht am Morgen.",
+  "ar": "الديك بيصيح الصبح."
+ },
+ "stier": {
+  "de": "Der Stier hat zwei Hörner.",
+  "ar": "الثور ليه قرنين."
+ },
+ "bueffel": {
+  "de": "Der Büffel steht im Wasser.",
+  "ar": "الجاموس واقف في الميه."
+ },
+ "pony": {
+  "de": "Das Pony trägt das kleine Mädchen.",
+  "ar": "البوني شايل البنت الصغيرة."
+ },
+ "fledermaus": {
+  "de": "Die Fledermaus fliegt in der Nacht.",
+  "ar": "الخفاش بيطير بالليل."
+ },
+ "faultier": {
+  "de": "Das Faultier bewegt sich sehr langsam.",
+  "ar": "الكسلان بيتحرك ببطء جدا."
+ },
+ "ameisenbaer": {
+  "de": "Der Ameisenbär hat eine lange Zunge.",
+  "ar": "آكل النمل لسانه طويل."
+ },
+ "erdmaennchen": {
+  "de": "Das Erdmännchen steht aufrecht Wache.",
+  "ar": "الميركات واقف بيحرس."
+ },
+ "guerteltier": {
+  "de": "Das Gürteltier rollt sich ein.",
+  "ar": "المدرع بيتدحرج زي الكورة."
+ },
+ "gazelle": {
+  "de": "Die Gazelle springt über die Ebene.",
+  "ar": "الغزالة بتنط فوق السهل."
+ },
+ "antilope": {
+  "de": "Die Antilope läuft sehr schnell.",
+  "ar": "الظبي بيجري بسرعة جدا."
+ },
+ "jaguar": {
+  "de": "Der Jaguar schwimmt gut.",
+  "ar": "اليجور بيعوم كويس."
+ },
+ "schakal": {
+  "de": "Der Schakal heult in der Wüste.",
+  "ar": "ابن آوى بيعوي في الصحرا."
+ },
+ "stinktier": {
+  "de": "Das Stinktier verteidigt sich mit Geruch.",
+  "ar": "الظربان بيدافع عن نفسه بالريحة."
+ },
+ "robbe": {
+  "de": "Die Robbe sonnt sich auf dem Felsen.",
+  "ar": "الفقمة بتتشمس على الصخرة."
+ },
+ "seeloewe": {
+  "de": "Der Seelöwe klatscht mit den Flossen.",
+  "ar": "أسد البحر بيصفق بزعانفه."
+ },
+ "walross": {
+  "de": "Das Walross hat lange Stoßzähne.",
+  "ar": "الفظ عنده أنياب طويلة."
+ },
+ "rochen": {
+  "de": "Der Rochen gleitet über den Meeresgrund.",
+  "ar": "سمكة الراي بتنزلق على قاع البحر."
+ },
+ "hummer": {
+  "de": "Der Hummer lebt im kalten Meer.",
+  "ar": "الكركند عايش في البحر الساقع."
+ },
+ "tintenfisch": {
+  "de": "Der Tintenfisch spritzt Tinte.",
+  "ar": "الحبار بيرش حبر."
+ },
+ "muschel": {
+  "de": "Die Muschel öffnet sich leicht.",
+  "ar": "المحار بيتفتح شوية."
+ },
+ "clownfisch": {
+  "de": "Der Clownfisch wohnt in der Anemone.",
+  "ar": "سمكة المهرج ساكنة في شقيقة النعمان."
+ },
+ "kugelfisch": {
+  "de": "Der Kugelfisch bläht sich auf.",
+  "ar": "السمكة المنتفخة بتنتفخ."
+ },
+ "gecko": {
+  "de": "Der Gecko klebt an der Wand.",
+  "ar": "الوزغة ماشية على الحيطة."
+ },
+ "leguan": {
+  "de": "Der Leguan sonnt sich auf dem Ast.",
+  "ar": "الإجوانا بتتشمس على الفرع."
+ },
+ "kroete": {
+  "de": "Die Kröte hüpft durch den Garten.",
+  "ar": "العلجوم بينط في الجنينة."
+ },
+ "salamander": {
+  "de": "Der Salamander lebt im feuchten Wald.",
+  "ar": "السمندل عايش في الغابة الرطبة."
+ },
+ "molch": {
+  "de": "Der Molch schwimmt im Teich.",
+  "ar": "السمندل المائي بيعوم في الحوض."
+ },
+ "skorpion": {
+  "de": "Der Skorpion hat einen giftigen Stachel.",
+  "ar": "العقرب عنده ذيل سام."
+ },
+ "regenwurm": {
+  "de": "Der Regenwurm lockert die Erde.",
+  "ar": "دودة الأرض بتفك التربة."
+ },
+ "kakerlake": {
+  "de": "Die Kakerlake versteckt sich im Dunkeln.",
+  "ar": "الصرصار بيستخبى في الضلمة."
+ },
+ "zecke": {
+  "de": "Die Zecke sitzt im Gras.",
+  "ar": "القرادة قاعدة في الحشيش."
+ },
+ "falke": {
+  "de": "Der Falke stürzt auf die Beute.",
+  "ar": "الصقر بينقض على الفريسة."
+ },
+ "geier": {
+  "de": "Der Geier kreist über der Steppe.",
+  "ar": "النسر الأصلع بيلف فوق السهول."
+ },
+ "schwalbe": {
+  "de": "Die Schwalbe kommt im Frühling zurück.",
+  "ar": "السنونو بيرجع في الربيع."
+ },
+ "meise": {
+  "de": "Die Meise pickt am Futterhaus.",
+  "ar": "القرقف بنقر عند بيت العلف."
+ },
+ "nachtigall": {
+  "de": "Die Nachtigall singt in der Nacht.",
+  "ar": "العندليب بيغني بالليل."
+ },
+ "emu": {
+  "de": "Der Emu kann nicht fliegen.",
+  "ar": "الإيمو مش بيطير."
  }
 }
