@@ -3130,5 +3130,101 @@
  "vase": {
   "de": "Die Vase steht auf dem Tisch.",
   "ar": "الفازة على الترابيزة."
+ },
+ "batterie": {
+  "de": "Die Batterie ist fast leer.",
+  "ar": "البطارية خلصت تقريبا."
+ },
+ "ladegeraet": {
+  "de": "Das Ladegerät lädt das Handy.",
+  "ar": "الشاحن بيشحن الموبايل."
+ },
+ "haarbuerste": {
+  "de": "Die Haarbürste kämmt die Haare.",
+  "ar": "فرشة الشعر بتمشط الشعر."
+ },
+ "haartrockner": {
+  "de": "Der Haartrockner trocknet die nassen Haare.",
+  "ar": "السيشوار بينشف الشعر المبلول."
+ },
+ "sonnenschirm": {
+  "de": "Der Sonnenschirm gibt Schatten.",
+  "ar": "الشمسية بتدي ضل."
+ },
+ "liegestuhl": {
+  "de": "Der Liegestuhl steht im Garten.",
+  "ar": "كرسي الاسترخاء في الجنينة."
+ },
+ "schellenkranz": {
+  "de": "Der Schellenkranz macht den Rhythmus.",
+  "ar": "حلقة الشخاليل بتعمل الإيقاع."
+ },
+ "metronom": {
+  "de": "Das Metronom schlägt das Tempo.",
+  "ar": "المترونوم بيظبط السرعة."
+ },
+ "wasserwaage": {
+  "de": "Die Wasserwaage zeigt, ob das Brett gerade ist.",
+  "ar": "ميزان الميه بيقول لو اللوح مظبوط."
+ },
+ "messschieber": {
+  "de": "Der Messschieber misst die Schraube genau.",
+  "ar": "القدمة بتقيس المصمار بدقة."
+ },
+ "salzstreuer": {
+  "de": "Der Salzstreuer streut Salz auf die Suppe.",
+  "ar": "الملاحة بترش ملح على الشوربة."
+ },
+ "pfeffermuehle": {
+  "de": "Die Pfeffermühle mahlt den Pfeffer frisch.",
+  "ar": "مطحنة الفلفل بتطحن الفلفل طازة."
+ },
+ "knopf": {
+  "de": "Der Knopf hält das Hemd zu.",
+  "ar": "الزرار ماسك القميص مقفول."
+ },
+ "nadelkissen": {
+  "de": "Das Nadelkissen hält die Nadeln.",
+  "ar": "مخدة الدبابيس ماسكة الدبابيس."
+ },
+ "teesieb": {
+  "de": "Das Teesieb fängt die Teeblätter.",
+  "ar": "مصفاة الشاي بتمسك ورق الشاي."
+ },
+ "teekessel": {
+  "de": "Der Teekessel pfeift, wenn das Wasser kocht.",
+  "ar": "البراد بيصفر لما المياه تغلي."
+ },
+ "schraubzwinge": {
+  "de": "Die Schraubzwinge hält das Holz fest.",
+  "ar": "القمطة ماسكة الخشبة."
+ },
+ "hobel": {
+  "de": "Der Hobel glättet das Brett.",
+  "ar": "الفارة بتنعّم اللوح."
+ },
+ "spule": {
+  "de": "Die Spule trägt den roten Faden.",
+  "ar": "البكرة شايلة الخيط الأحمر."
+ },
+ "stecknadel": {
+  "de": "Die Stecknadel hält den Stoff.",
+  "ar": "دبوس الخياطة ماسك القماش."
+ },
+ "brotkorb": {
+  "de": "Der Brotkorb steht beim Frühstück.",
+  "ar": "سبت العيش على سفرة الفطار."
+ },
+ "obstschale": {
+  "de": "Die Obstschale ist voll mit Äpfeln.",
+  "ar": "طبق الفاكهة مليان تفاح."
+ },
+ "zuckerdose": {
+  "de": "Die Zuckerdose steht beim Tee.",
+  "ar": "السكرية جنب الشاي."
+ },
+ "nussknacker": {
+  "de": "Der Nussknacker knackt die Walnuss.",
+  "ar": "كسارة البندق بتكسر البندق."
  }
 }
