@@ -3322,5 +3322,101 @@
  "leitkegel": {
   "de": "Der Leitkegel sperrt die Straße.",
   "ar": "مخروط المرور بيقفل الطريق."
+ },
+ "spritzbeutel": {
+  "de": "Der Spritzbeutel dekoriert die Torte.",
+  "ar": "كيس التزيين بيزين التورته."
+ },
+ "knoblauchpresse": {
+  "de": "Die Knoblauchpresse presst den Knoblauch.",
+  "ar": "هراسة التوم بتدوس التوم."
+ },
+ "nagel": {
+  "de": "Der Nagel hängt das Bild auf.",
+  "ar": "المسمار بيعلق الصورة."
+ },
+ "schraubendreher": {
+  "de": "Der Schraubendreher dreht die Schraube fest.",
+  "ar": "المفك بيربط المصمار."
+ },
+ "abakus": {
+  "de": "Der Abakus hilft beim Rechnen.",
+  "ar": "عداد الخرز بيساعد في الحساب."
+ },
+ "schachfigur": {
+  "de": "Die Schachfigur steht auf dem Brett.",
+  "ar": "قطعة الشطرنج واقفة على الرقعة."
+ },
+ "rumbakugel": {
+  "de": "Die Rumbakugel macht den Baby Spaß.",
+  "ar": "الشخشيخة بتسلي البيبي."
+ },
+ "klangschale": {
+  "de": "Die Klangschale klingt lange nach.",
+  "ar": "الطبق الرنان صوته بيفضل شوية."
+ },
+ "kochloeffel": {
+  "de": "Der Kochlöffel rührt die Suppe um.",
+  "ar": "معلقة الطبخ بتقلب الشوربة."
+ },
+ "honigloeffel": {
+  "de": "Der Honiglöffel nimmt den Honig.",
+  "ar": "معلقة العسل بتاخد العسل."
+ },
+ "reisszwecke": {
+  "de": "Die Reißzwecke heftet den Zettel.",
+  "ar": "دبوس الرسم بيثبت الورقة."
+ },
+ "pinnwand": {
+  "de": "Die Pinnwand zeigt die Fotos.",
+  "ar": "لوحة الدبابيس عليها الصور."
+ },
+ "glockenspiel": {
+  "de": "Das Glockenspiel klingt hell.",
+  "ar": "الجلوكنشبيل صوته رنان وعالي."
+ },
+ "cabasa": {
+  "de": "Die Cabasa rasselt im Rhythmus.",
+  "ar": "الكاباسا بتخشش على الإيقاع."
+ },
+ "pizzaschneider": {
+  "de": "Der Pizzaschneider schneidet die Pizza.",
+  "ar": "قطاعة البيتزا بتقطع البيتزا."
+ },
+ "duschkopf": {
+  "de": "Der Duschkopf sprüht das Wasser.",
+  "ar": "راس الدش بترش المياه."
+ },
+ "himbeere": {
+  "de": "Die Himbeere wächst im Garten.",
+  "ar": "توت العليق بينمو في الجنينة."
+ },
+ "heidelbeere": {
+  "de": "Die Heidelbeere macht die Zunge blau.",
+  "ar": "التوت الأزرق بيلون اللسان أزرق."
+ },
+ "artischocke": {
+  "de": "Die Artischocke isst man Blatt für Blatt.",
+  "ar": "الخرشوف بيتاكل ورقة ورقة."
+ },
+ "kohlrabi": {
+  "de": "Der Kohlrabi schmeckt leicht süß.",
+  "ar": "كرنب أبو ركبة طعمه حلو شوية."
+ },
+ "drachenfrucht": {
+  "de": "Die Drachenfrucht hat rosa Haut.",
+  "ar": "فاكهة التنين قشرتها وردية."
+ },
+ "passionsfrucht": {
+  "de": "Die Passionsfrucht ist sauer und süß.",
+  "ar": "الباشن فروت حامضة وحلوة."
+ },
+ "kalimba": {
+  "de": "Die Kalimba spielt man mit den Daumen.",
+  "ar": "الكاليمبا بتتعزف بالإبهام."
+ },
+ "banjo": {
+  "de": "Das Banjo spielt im Country.",
+  "ar": "البانجو بيتعزف في موسيقى الكانتري."
  }
 }
