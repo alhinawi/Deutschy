@@ -5,6 +5,9 @@ import { readFileSync, writeFileSync, readdirSync, mkdirSync } from 'node:fs';
 import { createRequire } from 'node:module';
 const require = createRequire(import.meta.url);
 const dict = require('german-verbs-dict/dist/verbs.json');
+// Second conjugation source: kaikki.org German Wiktionary extract (CC BY-SA 4.0,
+// https://kaikki.org/dewiktionary/), prefiltered to complete verified paradigms.
+const kaikki = JSON.parse(readFileSync('data/verben-kaikki.json', 'utf8'));
 
 const LEVELS = { 'a1a.json': 'A1', 'a2a.json': 'A2', 'b1a.json': 'B1', 'b2c.json': 'B2', 'c1.json': 'C1' };
 const MODALS = new Set(['dürfen','können','mögen','müssen','sollen','wollen']);
@@ -58,13 +61,37 @@ for (const { inf, ar, lvl } of entries) {
     continue;
   }
   const hit = lookup(inf);
-  if (!hit) { missing.push(inf); continue; }
+  if (!hit) {
+    const k = kaikki[inf];
+    if (!k) { missing.push(inf); continue; }
+    const refl = inf.startsWith('sich ');
+    const base = refl ? inf.slice(5) : inf;
+    const separable = k.pres[0].replace(/ (mich|dich|sich|uns|euch)$/, '').includes(' ');
+    const firstPret = k.pret[0].split(' ')[0];
+    const cat = MODALS.has(base) ? 'modal' : (!firstPret.endsWith('te') ? 'strong' : 'regular');
+    const kinds = [cat];
+    if (MODALS.has(base)) kinds.push('modal-trait');
+    if (separable) kinds.push('separable');
+    if (refl) kinds.push('reflexive');
+    out.push({ inf, ar, lvl, kinds, aux: k.aux, pres: k.pres.map(fixSpelling), pret: k.pret.map(fixSpelling), kj2: k.kj2.map(fixSpelling), imp: k.imp.map(fixSpelling), pp: fixSpelling(k.pp) });
+    continue;
+  }
   const { d } = hit;
   const refl = inf.startsWith('sich ');
   const base = refl ? inf.slice(5) : inf;
   const presRaw = six(d.PRÄ), pretRaw = six(d.PRT), kj2Raw = six(d.KJ2);
   if (!presRaw || !pretRaw || !kj2Raw) {
     const p = patches[inf];
+    if (!p && kaikki[inf]) {
+      const k = kaikki[inf];
+      const separable = k.pres[0].replace(/ (mich|dich|sich|uns|euch)$/, '').includes(' ');
+      const cat = MODALS.has(base) ? 'modal' : (!k.pret[0].split(' ')[0].endsWith('te') ? 'strong' : 'regular');
+      const kinds = [cat];
+      if (separable) kinds.push('separable');
+      if (refl) kinds.push('reflexive');
+      out.push({ inf, ar, lvl, kinds, aux: k.aux, pres: k.pres.map(fixSpelling), pret: k.pret.map(fixSpelling), kj2: k.kj2.map(fixSpelling), imp: k.imp.map(fixSpelling), pp: fixSpelling(k.pp) });
+      continue;
+    }
     if (!p) { missing.push(inf + ' (incomplete paradigm)'); continue; }
     out.push({ inf, ar, lvl, kinds: p.kinds, aux: p.aux, pres: p.pres, pret: p.pret, kj2: p.kj2, imp: p.imp, pp: p.pp });
     continue;
