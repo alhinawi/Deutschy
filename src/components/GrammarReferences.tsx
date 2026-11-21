@@ -16,7 +16,7 @@ export default function GrammarReferences({topic}:{topic:string}){
  const t=useT(),items=references[topic];
  if(!items)return null;
  return <section aria-label={t('مصادر شرح القاعدة','Grammar explanation sources')} className="space-y-2 rounded-2xl border border-line bg-card p-4">
-  <h2 className="ar-title text-xl font-bold">{t('اقرا القاعدة من مصدرها','Read the source explanations')}</h2>
+  <h2 className="ar-title text-xl font-bold">{t('اقرأ القاعدة من مصدرها','Read the source explanations')}</h2>
   <p className="text-sm text-muted">{t('دي مراجع ألماني لتكوين القاعدة وأمثلتها، مش اعتماد للموقع أو مراجعة بشرية للمحتوى المصري.','German references for the rule and its forms, not site certification or human editorial approval of our translations.')}</p>
   <ul className="space-y-1">{items.map(item=><li key={item.url}>
    <a href={item.url} target="_blank" rel="noreferrer" className="de inline-block min-h-11 max-w-full break-words py-3 underline" dir="ltr" lang="de">{item.name}</a>

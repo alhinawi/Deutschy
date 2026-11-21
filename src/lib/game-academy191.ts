@@ -23,7 +23,7 @@ export const modes191:Mode191[]=[
  M('listening-gap','Hörlücke','اسمع وكمّل','Listening gap','listening','type',['اسمع الجملة واكتب الكلمة الناقصة. النص متاح لو الصوت مش شغال.','Listen and type the missing word. The text is available if audio fails.'],true),
  M('sound-pairs','Klangpaare','فرّق بين صوتين','Sound pairs','listening','choice',['اسمع كلمة واختار كتابتها من كلمتين متشابهتين.','Hear a word and choose its spelling from a similar-sounding pair.'],true),
  M('spelling-repair','Schreibwerkstatt','صلّح كتابة الكلمة','Spelling repair','vocabulary','type',['شوف كلمة مكتوبة غلط واكتب الشكل الصحيح من المعنى.','See a misspelled word and type its correct form from the meaning.']),
- M('reading-detail','Genau lesen','اقرا التفاصيل','Reading details','reading','choice',['اقرا نص قصير واختار معلومة منه، من غير عداد إجباري.','Read a short text and find a detail, without a forced timer.']),
+ M('reading-detail','Genau lesen','اقرأ التفاصيل','Reading details','reading','choice',['اقرأ نص قصير واختار معلومة منه، من غير عداد إجباري.','Read a short text and find a detail, without a forced timer.']),
  M('paragraph-order','Textpuzzle','رتب الفقرة','Paragraph order','reading','order',['رتب جمل قصيرة عشان تعمل فقرة مترابطة.','Arrange short sentences into a connected paragraph.']),
  M('story-ending','Wie geht es weiter?','كمّل الحكاية','Story endings','reading','choice',['اختار نهاية متوافقة مع التفاصيل، مش نهاية مخمّنة من بره النص.','Choose an ending supported by the details, not a guess from outside the text.']),
 ];
