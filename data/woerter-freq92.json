@@ -1,0 +1,678 @@
+[
+ {
+  "de": "Löscheinsatz",
+  "ar": "عملية الإطفاء",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Löscheinsätze"
+ },
+ {
+  "de": "Lösegeld",
+  "ar": "الفدية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Lösegelder"
+ },
+ {
+  "de": "Lösungsmittel",
+  "ar": "المذيب",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Lösungsmittel"
+ },
+ {
+  "de": "Lösungsvorschlag",
+  "ar": "اقتراح الحل",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lösungsvorschläge"
+ },
+ {
+  "de": "Lügendetektor",
+  "ar": "جهاز كشف الكدب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Lügendetektoren"
+ },
+ {
+  "de": "Machbarkeitsstudie",
+  "ar": "دراسة الجدوى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Machbarkeitsstudien"
+ },
+ {
+  "de": "Machete",
+  "ar": "الساطور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Macheten"
+ },
+ {
+  "de": "Machtdemonstration",
+  "ar": "استعراض القوة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Machtdemonstrationen"
+ },
+ {
+  "de": "Machtergreifung",
+  "ar": "الاستيلاء على السلطة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Machtergreifungen"
+ },
+ {
+  "de": "Machterhalt",
+  "ar": "البقاء في السلطة",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Machtkampf",
+  "ar": "صراع السلطة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Machtkämpfe"
+ },
+ {
+  "de": "Machtverschiebung",
+  "ar": "تحول موازين القوى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Machtverschiebungen"
+ },
+ {
+  "de": "Mafioso",
+  "ar": "المافيوزو",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mafiosi"
+ },
+ {
+  "de": "Magier",
+  "ar": "الساحر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Magier"
+ },
+ {
+  "de": "Magnetfeld",
+  "ar": "المجال المغناطيسي",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Magnetfelder"
+ },
+ {
+  "de": "Magnetismus",
+  "ar": "المغناطيسية",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Mahlwerk",
+  "ar": "المطحنة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Mahlwerke"
+ },
+ {
+  "de": "Mahnung",
+  "ar": "الإنذار (تحذير الدفع)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mahnungen"
+ },
+ {
+  "de": "Mahnwache",
+  "ar": "الوقفة الاحتجاجية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mahnwachen"
+ },
+ {
+  "de": "Maikäfer",
+  "ar": "خنفسة مايو",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Maikäfer"
+ },
+ {
+  "de": "Maisstärke",
+  "ar": "نشا الدرة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Majoran",
+  "ar": "البردقوش",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Majorane"
+ },
+ {
+  "de": "Makel",
+  "ar": "العيب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Makel"
+ },
+ {
+  "de": "Malaria",
+  "ar": "الملاريا",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Malawi",
+  "ar": "مالاوي",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Malaysia",
+  "ar": "ماليزيا",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Malerin",
+  "ar": "الرسامة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Malerinnen"
+ },
+ {
+  "de": "Malta",
+  "ar": "مالطا",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Malware",
+  "ar": "البرمجيات الخبيثة",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Mammutprozess",
+  "ar": "المحاكمة الضخمة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mammutprozesse"
+ },
+ {
+  "de": "Mammutsitzung",
+  "ar": "الجلسة الماراثونية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mammutsitzungen"
+ },
+ {
+  "de": "Managementteam",
+  "ar": "فريق الإدارة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Managementteams"
+ },
+ {
+  "de": "Managerin",
+  "ar": "المديرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Managerinnen"
+ },
+ {
+  "de": "Mandantin",
+  "ar": "الموكلة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mandantinnen"
+ },
+ {
+  "de": "Manga",
+  "ar": "المانجا",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mangas"
+ },
+ {
+  "de": "Manifest",
+  "ar": "البيان",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Manifeste"
+ },
+ {
+  "de": "Maniküre",
+  "ar": "المانيكير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Maniküren"
+ },
+ {
+  "de": "Manipulator",
+  "ar": "المتلاعب",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Manipulatoren"
+ },
+ {
+  "de": "Mannschaftskamerad",
+  "ar": "زميل الفريق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mannschaftskameraden"
+ },
+ {
+  "de": "Manschettenknopf",
+  "ar": "زرار الأكمام",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Manschettenknöpfe"
+ },
+ {
+  "de": "Manta",
+  "ar": "الرقيطة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mantas"
+ },
+ {
+  "de": "Manuskript",
+  "ar": "المخطوطة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Manuskripte"
+ },
+ {
+  "de": "Marihuana",
+  "ar": "الماريجوانا",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Markenartikel",
+  "ar": "السلعة الماركة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Markenartikel"
+ },
+ {
+  "de": "Markenname",
+  "ar": "اسم الماركة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Markennamen"
+ },
+ {
+  "de": "Markenzeichen",
+  "ar": "العلامة المميزة",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Markenzeichen"
+ },
+ {
+  "de": "Marker",
+  "ar": "الماركر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Marker"
+ },
+ {
+  "de": "Marketingleiter",
+  "ar": "مدير التسويق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Marketingleiter"
+ },
+ {
+  "de": "Markierung",
+  "ar": "العلامة (التحديد)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Markierungen"
+ },
+ {
+  "de": "Marktakteur",
+  "ar": "فاعل السوق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Marktakteure"
+ },
+ {
+  "de": "Markteinführung",
+  "ar": "طرح السوق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Markteinführungen"
+ },
+ {
+  "de": "Marktexperte",
+  "ar": "خبير السوق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Marktexperten"
+ },
+ {
+  "de": "Marktführer",
+  "ar": "قائد السوق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Marktführer"
+ },
+ {
+  "de": "Markthalle",
+  "ar": "السوق المغطى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Markthallen"
+ },
+ {
+  "de": "Marktkapitalisierung",
+  "ar": "القيمة السوقية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Marktkapitalisierungen"
+ },
+ {
+  "de": "Marktmacht",
+  "ar": "القوة السوقية",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Marktnische",
+  "ar": "مكانة السوق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Marktnischen"
+ },
+ {
+  "de": "Marktstand",
+  "ar": "بسطة السوق",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Marktstände"
+ },
+ {
+  "de": "Marktwirtschaft",
+  "ar": "اقتصاد السوق",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Marktwirtschaften"
+ },
+ {
+  "de": "Marmelade",
+  "ar": "المربى",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Marmeladen"
+ },
+ {
+  "de": "Marmor",
+  "ar": "الرخام",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Marmore"
+ },
+ {
+  "de": "Maroni",
+  "ar": "الكستناء",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Maroni"
+ },
+ {
+  "de": "Marotte",
+  "ar": "العادة الغريبة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Marotten"
+ },
+ {
+  "de": "Marrakesch",
+  "ar": "مراكش",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Marschall",
+  "ar": "المارشال",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Marschälle"
+ },
+ {
+  "de": "Marseille",
+  "ar": "مارسيليا",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Martinshorn",
+  "ar": "صفارة الإسعاف",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Martinshörner"
+ },
+ {
+  "de": "Martyrium",
+  "ar": "الاستشهاد",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Martyrien"
+ },
+ {
+  "de": "Maschinenbauer",
+  "ar": "مهندس الماكينات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Maschinenbauer"
+ },
+ {
+  "de": "Maschinengewehr",
+  "ar": "الرشاش",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Maschinengewehre"
+ },
+ {
+  "de": "Maschinenpistole",
+  "ar": "الرشاش القصير",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Maschinenpistolen"
+ },
+ {
+  "de": "Maschinist",
+  "ar": "سواق الماكينة",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Maschinisten"
+ },
+ {
+  "de": "Masernimpfung",
+  "ar": "تطعيم الحصبة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Masernimpfungen"
+ },
+ {
+  "de": "Maskat",
+  "ar": "مسقط",
+  "pos": "noun",
+  "art": "das"
+ },
+ {
+  "de": "Maskierte",
+  "ar": "المقنع",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Maskierten"
+ },
+ {
+  "de": "Massenauswurf",
+  "ar": "الطرد الجماعي",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Massenauswürfe"
+ },
+ {
+  "de": "Massendemonstration",
+  "ar": "المظاهرة الحاشدة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Massendemonstrationen"
+ },
+ {
+  "de": "Massenentlassung",
+  "ar": "الفصل الجماعي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Massenentlassungen"
+ },
+ {
+  "de": "Massengrab",
+  "ar": "المقبرة الجماعية",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Massengräber"
+ },
+ {
+  "de": "Massenmedien",
+  "ar": "وسائل الإعلام الجماهيرية",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Massenproduktion",
+  "ar": "الإنتاج الضخم",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Massenproduktionen"
+ },
+ {
+  "de": "Massenwanderung",
+  "ar": "الهجرة الجماعية",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Massenwanderungen"
+ },
+ {
+  "de": "Mast",
+  "ar": "الصاري",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Maste"
+ },
+ {
+  "de": "Mastermind",
+  "ar": "العقل المدبر",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Masterminds"
+ },
+ {
+  "de": "Masterstudium",
+  "ar": "الماجستير",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Masterstudien"
+ },
+ {
+  "de": "Materialwissenschaften",
+  "ar": "علوم المواد",
+  "pos": "noun",
+  "pluralOnly": true
+ },
+ {
+  "de": "Mathe",
+  "ar": "الرياضيات",
+  "pos": "noun",
+  "art": "die"
+ },
+ {
+  "de": "Mathelehrer",
+  "ar": "مدرس الرياضيات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mathelehrer"
+ },
+ {
+  "de": "Mathematiker",
+  "ar": "عالم الرياضيات",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mathematiker"
+ },
+ {
+  "de": "Mathematikerin",
+  "ar": "عالمة الرياضيات",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mathematikerinnen"
+ },
+ {
+  "de": "Matinee",
+  "ar": "العرض الصباحي",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Matineen"
+ },
+ {
+  "de": "Matrix",
+  "ar": "المصفوفة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Matrizen"
+ },
+ {
+  "de": "Matte",
+  "ar": "الحصيرة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Matten"
+ },
+ {
+  "de": "Matura",
+  "ar": "الثانوية العامة (النمسا)",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Maturen"
+ },
+ {
+  "de": "Mauerbau",
+  "ar": "بناء السور",
+  "pos": "noun",
+  "art": "der"
+ },
+ {
+  "de": "Mauerwerk",
+  "ar": "المباني",
+  "pos": "noun",
+  "art": "das",
+  "pl": "Mauerwerke"
+ },
+ {
+  "de": "Mauschelei",
+  "ar": "الصفقة المشبوهة",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mauscheleien"
+ },
+ {
+  "de": "Mausklick",
+  "ar": "كليك الماوس",
+  "pos": "noun",
+  "art": "der",
+  "pl": "Mausklicks"
+ },
+ {
+  "de": "Mautgebühr",
+  "ar": "رسوم المرور",
+  "pos": "noun",
+  "art": "die",
+  "pl": "Mautgebühren"
+ }
+]
