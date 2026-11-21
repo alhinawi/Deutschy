@@ -1,0 +1,682 @@
+[
+[
+"verpflegen",
+"يطعمه"
+],
+[
+"verpfuschen",
+"يخربها بالغباء"
+],
+[
+"verpfänden",
+"يرهنه"
+],
+[
+"verpissen",
+"يمشي"
+],
+[
+"verplanen",
+"يخصصه"
+],
+[
+"verplappern",
+"يفضح السر"
+],
+[
+"verplaudern",
+"يضيعه في الدردشة"
+],
+[
+"verplempern",
+"يضيعه"
+],
+[
+"verpokern",
+"يخسره في القمار"
+],
+[
+"verprellen",
+"يستفزه"
+],
+[
+"verprügeln",
+"يضربه كويس"
+],
+[
+"verpuffen",
+"يفرقع ويختفي"
+],
+[
+"verpulvern",
+"يضيعه"
+],
+[
+"verputzen",
+"يصلحه بالمحارة / ياكله"
+],
+[
+"verqualmen",
+"يدخنه كله"
+],
+[
+"verquatschen",
+"يضيعه في الكلام"
+],
+[
+"verquirlen",
+"يخفقه"
+],
+[
+"verrammeln",
+"يسده بالعافية"
+],
+[
+"verramschen",
+"يبيعه ببلاش"
+],
+[
+"verrennen",
+"يتوه"
+],
+[
+"verrauschen",
+"يهدى"
+],
+[
+"verrechnen",
+"يحسب غلط"
+],
+[
+"verregnen",
+"يتمطر"
+],
+[
+"verreiben",
+"يحكه"
+],
+[
+"verreisen",
+"يسافر"
+],
+[
+"verreißen",
+"يشقه / يهينه"
+],
+[
+"verrenken",
+"يخلع مفصله"
+],
+[
+"verrichten",
+"يؤديه"
+],
+[
+"verrinnen",
+"يعدي (وقت)"
+],
+[
+"verrosten",
+"يصدي"
+],
+[
+"verrutschen",
+"يتزحلق من مكانه"
+],
+[
+"verrücken",
+"يزحزحه"
+],
+[
+"verrühren",
+"يقلبه"
+],
+[
+"versagen",
+"يفشل / يرفض"
+],
+[
+"versalzen",
+"يملحه أوي / يخربها"
+],
+[
+"versammeln",
+"يجمعه"
+],
+[
+"versenden",
+"يبعته"
+],
+[
+"versauen",
+"يوسخه"
+],
+[
+"versauern",
+"يتعفن"
+],
+[
+"versaufen",
+"يغرق / يشربه كله"
+],
+[
+"verschachern",
+"يبيعه رخيص"
+],
+[
+"verschachteln",
+"يعششه"
+],
+[
+"verschaffen",
+"يوفره"
+],
+[
+"verschalten",
+"يحطه في مكان تاني"
+],
+[
+"verschanzen",
+"يتحصن"
+],
+[
+"verscheiden",
+"يتوفى"
+],
+[
+"verschenken",
+"يهديه"
+],
+[
+"verscherzen",
+"يضيعه"
+],
+[
+"verscheuchen",
+"يطرده"
+],
+[
+"verscheuern",
+"يحكه"
+],
+[
+"verschicken",
+"يبعته"
+],
+[
+"verschiffen",
+"يشحنه بحر"
+],
+[
+"verschimmeln",
+"يتعفن"
+],
+[
+"verschlagen",
+"يضربه / ياخده لمكان"
+],
+[
+"verschlampen",
+"يضيعه بالإهمال"
+],
+[
+"verschleimen",
+"يتمخم"
+],
+[
+"verschleißen",
+"يهلكه"
+],
+[
+"verschleppen",
+"يخطفه / يأجله"
+],
+[
+"verschleudern",
+"يبيعه ببلاش"
+],
+[
+"verschließen",
+"يقفله"
+],
+[
+"verschlingen",
+"يلتهمه"
+],
+[
+"verschlucken",
+"يبلعه غلط"
+],
+[
+"verschmelzen",
+"يدمجهم"
+],
+[
+"verschmerzen",
+"يتخطاه"
+],
+[
+"verschnaufen",
+"ياخد نفسه"
+],
+[
+"verschneiden",
+"يقصه غلط"
+],
+[
+"verschneien",
+"يتغطى بالتلج"
+],
+[
+"verschnüren",
+"يربطه"
+],
+[
+"verschonen",
+"يعفيه"
+],
+[
+"verschrammen",
+"يخدشه"
+],
+[
+"verschrauben",
+"يربطه بالمصامير"
+],
+[
+"verschrecken",
+"يخوفه"
+],
+[
+"verschreiben",
+"يوصفه / يلتزم بيه"
+],
+[
+"verschreien",
+"يشتهر بالسوء"
+],
+[
+"verschrumpeln",
+"يتجعد"
+],
+[
+"verschränken",
+"يشبك دراعاته"
+],
+[
+"verschulden",
+"يتدين / يسببه"
+],
+[
+"verschwatzen",
+"يفضحه بالدردشة"
+],
+[
+"verschweigen",
+"يكتمه"
+],
+[
+"verschweißen",
+"يلحمه"
+],
+[
+"verschwimmen",
+"يتلاشى"
+],
+[
+"verschwitzen",
+"ينساه"
+],
+[
+"verschwören",
+"يتآمر"
+],
+[
+"verschärfen",
+"يشدده"
+],
+[
+"verschätzen",
+"يقدره غلط"
+],
+[
+"verschütten",
+"يسكبه / يدفنه"
+],
+[
+"verschüttgehen",
+"يضيع مدفون"
+],
+[
+"versegeln",
+"يبحر بعيد"
+],
+[
+"versehen",
+"يجهزه / يغلط"
+],
+[
+"versenken",
+"يغرقه"
+],
+[
+"versiechen",
+"ينشف"
+],
+[
+"versiegeln",
+"يختمه"
+],
+[
+"versiegen",
+"ينضب"
+],
+[
+"versinken",
+"يغرق"
+],
+[
+"versohlen",
+"يضربه على مؤخرته"
+],
+[
+"verspannen",
+"يتشنج"
+],
+[
+"verspeisen",
+"ياكله"
+],
+[
+"verspekulieren",
+"يخسره في المضاربة"
+],
+[
+"versperren",
+"يسده"
+],
+[
+"verspielen",
+"يخسره في اللعب"
+],
+[
+"verspotten",
+"يستهزئ بيه"
+],
+[
+"verspringen",
+"يقفز غلط"
+],
+[
+"verspritzen",
+"يرشه"
+],
+[
+"versprühen",
+"يرشه رذاذ"
+],
+[
+"verspüren",
+"يحس بيه"
+],
+[
+"verstauben",
+"يتغبر"
+],
+[
+"verstauchen",
+"يلوي مفصله"
+],
+[
+"verstauen",
+"يخزنه"
+],
+[
+"versteifen",
+"يتصلب / يصر"
+],
+[
+"versteigern",
+"يبيعه في المزاد"
+],
+[
+"verstellen",
+"يحوله / يتظاهر"
+],
+[
+"versterben",
+"يتوفى"
+],
+[
+"versteuern",
+"يدفع ضريبته"
+],
+[
+"verstimmen",
+"يزعله"
+],
+[
+"verstopfen",
+"يسده"
+],
+[
+"verstoßen",
+"يخالف / ينبذه"
+],
+[
+"verstrahlen",
+"يشعه"
+],
+[
+"verstreichen",
+"يدهنه / يعدي"
+],
+[
+"verstreuen",
+"ينثره"
+],
+[
+"verstückeln",
+"يقطعه قطع"
+],
+[
+"verstümmeln",
+"يشوهه"
+],
+[
+"versumpfen",
+"يغرق في المستنقع"
+],
+[
+"versäbeln",
+"يخربها"
+],
+[
+"versäumen",
+"يفوته"
+],
+[
+"versühnen",
+"يصالحه"
+],
+[
+"vertagen",
+"يأجله"
+],
+[
+"vertauschen",
+"يستبدله / يغلط بينهم"
+],
+[
+"vertilgen",
+"يفنيه"
+],
+[
+"vertippen",
+"يكتب غلط"
+],
+[
+"vertrimmen",
+"يديله علقة"
+],
+[
+"vertrocknen",
+"ينشف"
+],
+[
+"vertrödeln",
+"يضيع وقته"
+],
+[
+"vertrösten",
+"يصبره بالوعود"
+],
+[
+"vertäfeln",
+"يبطنه خشب"
+],
+[
+"vertändeln",
+"يضيعه في التفاهات"
+],
+[
+"verulken",
+"يستهبل عليه"
+],
+[
+"verwachsen",
+"يلتحم"
+],
+[
+"verwahren",
+"يحفظه"
+],
+[
+"verwalten",
+"يديره"
+],
+[
+"verwarnen",
+"ينذره"
+],
+[
+"verwehen",
+"يطير مع الريح"
+],
+[
+"verwehren",
+"يمنعه"
+],
+[
+"verwerfen",
+"يرفضه"
+],
+[
+"verwerten",
+"يستغله"
+],
+[
+"verwickeln",
+"يدخله في ورطة"
+],
+[
+"verwinden",
+"يتخطاه"
+],
+[
+"verwinkeln",
+"يحطه في زاوية"
+],
+[
+"verwischen",
+"يمحيه"
+],
+[
+"verwuchern",
+"يتغطى بالحشائش"
+],
+[
+"verwundern",
+"يتعجب"
+],
+[
+"verwurzeln",
+"يتجذر"
+],
+[
+"verwählen",
+"يتصل برقم غلط"
+],
+[
+"verwähren",
+"يمنعه"
+],
+[
+"verzapfen",
+"يتفوه بكلام فاضي"
+],
+[
+"verzaubern",
+"يسحره"
+],
+[
+"verzehren",
+"ياكله"
+],
+[
+"verzeichnen",
+"يسجله"
+],
+[
+"verzerren",
+"يشوهه"
+],
+[
+"verziehen",
+"يميل / يغير ملامحه"
+],
+[
+"verzieren",
+"يزينه"
+],
+[
+"verzinken",
+"يجلفنه"
+],
+[
+"verzweifeln",
+"ييأس"
+],
+[
+"verzweigen",
+"يتفرع"
+],
+[
+"verzählen",
+"يعد غلط"
+],
+[
+"verzögern",
+"يأخره"
+],
+[
+"verändern",
+"يغيره"
+],
+[
+"verärgern",
+"يضايقه"
+],
+[
+"veräußern",
+"يبيعه"
+],
+[
+"verüben",
+"يرتكبه"
+],
+[
+"vollessen",
+"يشبع"
+]
+]
