@@ -28,7 +28,7 @@ for (const w of vocab.words) {
 }
 
 // Units 1-4 (the first 48 topics) are fully covered.
-const coveredUnits = vocab.topics.slice(0, 144).map((t) => t.id);
+const coveredUnits = vocab.topics.slice(0, 156).map((t) => t.id);
 for (const topic of coveredUnits) for (const w of vocab.words.filter((x) => x.topic === topic)) assert(examples[w.id], `missing example for ${w.id}`);
 checks += coveredUnits.length;
 
@@ -37,4 +37,4 @@ const card = fs.readFileSync('src/components/WordCard.tsx', 'utf8');
 for (const token of ['exampleOf(w.id)', 'playEx', 'اسمع المثال', 'exStatusId', 'lang="de"']) assert(card.includes(token), token);
 checks += 5;
 
-console.log(`PASS word-examples: ${checks} checks, ${Object.keys(examples).length} example sentences covering the first ${coveredUnits.length} topics (units 1-12), each sentence uses its word`);
+console.log(`PASS word-examples: ${checks} checks, ${Object.keys(examples).length} example sentences covering the first ${coveredUnits.length} topics (units 1-13), each sentence uses its word`);
