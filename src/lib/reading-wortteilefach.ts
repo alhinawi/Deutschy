@@ -126,7 +126,7 @@ export const wortteilefachTexts=[
     "level": "B1",
     "title": [
       "Das ganze Wort lesen",
-      "اقرا الكلمة كلها"
+      "اقرأ الكلمة كلها"
     ],
     "de": [
       "Bei einem privaten Lernnachmittag vergleichen Aylin und David die Wörter Kaffeemühle und Korkenzieher. David erkennt in beiden Wörtern vertraute Teile. Aus Mühle schließt er zunächst, dass jedes beliebige Mühlenfoto zur ersten Karte passen müsste. Aylin hält dagegen: Das ganze Wort bezeichnet hier eine Mühle für Kaffeebohnen. Ein Bild einer Windmühle wäre deshalb kein passendes Ersatzbild für diese konkrete Lernkarte. Ein gemeinsamer Wortteil allein reicht nicht für dieselbe Bedeutung.",
