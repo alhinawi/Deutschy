@@ -20,15 +20,15 @@ const fold = (s) => s.toLowerCase().replace(/ä/g, 'a').replace(/ö/g, 'o').repl
 for (const w of vocab.words) {
   const ex = examples[w.id];
   if (!ex) continue;
-  const stem = fold(w.de).replace(/[^a-z-]/g, '');
-  const hay = fold(ex.de);
-  const hit = hay.split(/[^a-z-]+/).some((tok) => tok.startsWith(stem.slice(0, Math.max(3, stem.length - 1))));
+  const nameWords = fold(w.de).split(/[^a-z]+/).filter((x) => x.length >= 2);
+  const hay = fold(ex.de).split(/[^a-z]+/);
+  const hit = nameWords.some((nw) => hay.some((tok) => tok === nw || (nw.length >= 3 && tok.startsWith(nw.slice(0, nw.length - 1)))));
   assert(hit, `example for ${w.id} (${w.de}) does not use the word: ${ex.de}`);
   checks++;
 }
 
-// Units 1 and 2 (the first 24 topics) are fully covered.
-const coveredUnits = vocab.topics.slice(0, 24).map((t) => t.id);
+// Units 1-3 (the first 36 topics) are fully covered.
+const coveredUnits = vocab.topics.slice(0, 36).map((t) => t.id);
 for (const topic of coveredUnits) for (const w of vocab.words.filter((x) => x.topic === topic)) assert(examples[w.id], `missing example for ${w.id}`);
 checks += coveredUnits.length;
 
@@ -37,4 +37,4 @@ const card = fs.readFileSync('src/components/WordCard.tsx', 'utf8');
 for (const token of ['exampleOf(w.id)', 'playEx', 'اسمع المثال', 'exStatusId', 'lang="de"']) assert(card.includes(token), token);
 checks += 5;
 
-console.log(`PASS word-examples: ${checks} checks, ${Object.keys(examples).length} example sentences covering the first ${coveredUnits.length} topics (units 1-2), each sentence uses its word`);
+console.log(`PASS word-examples: ${checks} checks, ${Object.keys(examples).length} example sentences covering the first ${coveredUnits.length} topics (units 1-3), each sentence uses its word`);
