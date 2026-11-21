@@ -2302,5 +2302,405 @@
  "waermflasche": {
   "de": "Die Wärmflasche fülle ich mit heißem Wasser.",
   "ar": "قربة المية السخنة بملاها مية سخنة."
+ },
+ "globus": {
+  "de": "Der Globus steht auf dem Lehrerpult.",
+  "ar": "الكرة الأرضية على مكتب المدرس."
+ },
+ "zirkel": {
+  "de": "Der Zirkel liegt im Federmäppchen.",
+  "ar": "البرجل في المقلمة."
+ },
+ "ordner": {
+  "de": "Der Ordner steht im Regal.",
+  "ar": "الملف على الرف."
+ },
+ "filzstift": {
+  "de": "Der Filzstift schreibt auf dem Plakat.",
+  "ar": "القلم الفلوماستر بيكتب على البوستر."
+ },
+ "buntstift": {
+  "de": "Der Buntstift braucht der Kleine zum Malen.",
+  "ar": "قلم التلوين محتاجه الصغير للرسم."
+ },
+ "beamer": {
+  "de": "Der Beamer hängt an der Decke.",
+  "ar": "البروجيكتور معلق في السقف."
+ },
+ "violine": {
+  "de": "Die Violine übt sie eine Stunde am Tag.",
+  "ar": "الكمنجة بتلعب عليها ساعة في اليوم."
+ },
+ "mundharmonika": {
+  "de": "Die Mundharmonika spielt er am Lagerfeuer.",
+  "ar": "الهارمونيكا بيعزف عليها على نار المخيم."
+ },
+ "tamburin": {
+  "de": "Das Tamburin schüttelt das Kind fröhlich.",
+  "ar": "الطنبور الطفل بيهزه بفرحة."
+ },
+ "klarinette": {
+  "de": "Die Klarinette spielt in der Big Band.",
+  "ar": "الكلارينيت بتعزف في الفرقة."
+ },
+ "buehne": {
+  "de": "Die Bühne trägt zwanzig Tänzer.",
+  "ar": "المسرح شايل عشرين راقص."
+ },
+ "oper": {
+  "de": "Die Oper besuchen wir am Samstag.",
+  "ar": "الأوبرا هنروحها يوم السبت."
+ },
+ "schaukelpferd": {
+  "de": "Das Schaukelpferd gehört dem kleinen Bruder.",
+  "ar": "الحصان الهزاز بتاع الأخ الصغير."
+ },
+ "kreisel": {
+  "de": "Der Kreisel dreht sich auf dem Tisch.",
+  "ar": "الدوامة بتليف على الترابيزة."
+ },
+ "skelett": {
+  "de": "Das Skelett hat zweihundertsechs Knochen.",
+  "ar": "الهيكل العظمي فيه متين وست عظام."
+ },
+ "falafel": {
+  "de": "Der Falafel brate ich frisch.",
+  "ar": "الفلافل بقليها طازة."
+ },
+ "baklava": {
+  "de": "Das Baklava schneide ich in Rauten.",
+  "ar": "البقلاوة بقطعها معينات."
+ },
+ "feigenmarmelade": {
+  "de": "Die Feigenmarmelade koche ich im Sommer ein.",
+  "ar": "مربى التين بعملها في الصيف."
+ },
+ "linse": {
+  "de": "Die Linse wird zur Suppe.",
+  "ar": "العدس بيتعمل شوربة."
+ },
+ "kichererbse": {
+  "de": "Die Kichererbse weiche ich über Nacht ein.",
+  "ar": "الحمص بنقعه بالليل."
+ },
+ "wassermelonenscheibe": {
+  "de": "Die Wassermelonenscheibe esse ich am Strand.",
+  "ar": "قطعة البطيخ باكلها على الشط."
+ },
+ "granatapfelsaft": {
+  "de": "Der Granatapfelsaft kommt frisch aus der Presse.",
+  "ar": "عصير الرمان طالع طازة من العصارة."
+ },
+ "pfefferminztee": {
+  "de": "Der Pfefferminztee hilft dem Bauch.",
+  "ar": "شاي النعناع بيريح البطن."
+ },
+ "spargel": {
+  "de": "Der Spargel kommt mit Sauce Hollandaise.",
+  "ar": "الهليون بييجي مع الصوص الأبيض."
+ },
+ "fenchel": {
+  "de": "Der Fenchel kommt in den Salat.",
+  "ar": "الشمر داخل السلطة."
+ },
+ "zuckerwatte": {
+  "de": "Die Zuckerwatte klebt an den Fingern.",
+  "ar": "غزل البنات بتلزق في الصوابع."
+ },
+ "semmel": {
+  "de": "Die Semmel esse ich mit Butter und Honig.",
+  "ar": "الكايزر باكله بالزبدة والعسل."
+ },
+ "rhabarber": {
+  "de": "Der Rhabarber wächst im Garten meiner Tante.",
+  "ar": "الراوند بيطلع في جنينة خالتي."
+ },
+ "schwarzbrot": {
+  "de": "Das Schwarzbrot hält lange frisch.",
+  "ar": "العيش الأسود بيفضل طازة مدة طويلة."
+ },
+ "bockwurst": {
+  "de": "Die Bockwurst kommt in heißes Wasser.",
+  "ar": "البوكفورست بتتحط في مية سخنة."
+ },
+ "salami": {
+  "de": "Die Salami schneide ich in dünne Scheiben.",
+  "ar": "السلامي بقطعها شرايح رفيعة."
+ },
+ "pinguin": {
+  "de": "Der Pinguin rutscht auf dem Bauch.",
+  "ar": "البطريق بينزلق على بطنه."
+ },
+ "eisbaer": {
+  "de": "Der Eisbär riecht die Robbe von weitem.",
+  "ar": "الدب القطبي بيشم الفقمة من بعيد."
+ },
+ "mozzarella": {
+  "de": "Der Mozzarella kommt auf den Tomatensalat.",
+  "ar": "الموتزاريلا بتتحط على سلطة الطماطم."
+ },
+ "leberwurst": {
+  "de": "Die Leberwurst gibt es beim Metzger.",
+  "ar": "اللانشون البلدي موجود عند الجزار."
+ },
+ "waschbaer": {
+  "de": "Der Waschbär schaut nachts in die Mülltonne.",
+  "ar": "الراكون بيبص في الزبالة بالليل."
+ },
+ "hyaene": {
+  "de": "Die Hyäne folgt den Löwen.",
+  "ar": "الضبع ماشي ورا الأسود."
+ },
+ "alpaka": {
+  "de": "Das Alpaka gibt sehr weiche Wolle.",
+  "ar": "الألبكة بتدي صوف ناعم أوي."
+ },
+ "panda": {
+  "de": "Der Panda schläft nach dem Essen.",
+  "ar": "الباندا بينام بعد الأكل."
+ },
+ "mungo": {
+  "de": "Der Mungo kämpft mit der Schlange.",
+  "ar": "النمس بيحارب الثعبان."
+ },
+ "storch": {
+  "de": "Der Storch steht auf einem Bein im Nest.",
+  "ar": "اللقلق واقف على رجل واحدة في العش."
+ },
+ "seeadler": {
+  "de": "Der Seeadler fliegt über die Küste.",
+  "ar": "النسر البحري بياير فوق الساحل."
+ },
+ "marder": {
+  "de": "Der Marder klettert auf das Dach.",
+  "ar": "ابن عرسة بيتسلق السطح."
+ },
+ "murmeltier": {
+  "de": "Das Murmeltier warnt die Gruppe vor dem Adler.",
+  "ar": "المرموط بيحزر المجموعة من النسر."
+ },
+ "reiher": {
+  "de": "Der Reiher wartet geduldig auf den Fisch.",
+  "ar": "البلشون مستني السمكة بصبر."
+ },
+ "kormoran": {
+  "de": "Der Kormoran trocknet seine Flügel in der Sonne.",
+  "ar": "الغاق بينشف جناحاته في الشمس."
+ },
+ "truthahn": {
+  "de": "Der Truthahn wird im Winter fett.",
+  "ar": "الديك الرومي بيتخن في الشتا."
+ },
+ "wachtel": {
+  "de": "Die Wachtel versteckt sich im Kornfeld.",
+  "ar": "السمانة بتخب نفسها في حقل القمح."
+ },
+ "henne": {
+  "de": "Die Henne gackert nach dem Legen.",
+  "ar": "الدجاجة بتصوت بعد ما تبيض."
+ },
+ "seepferdchen": {
+  "de": "Das Seepferdchen schwimmt aufrecht.",
+  "ar": "حصان البحر بيعوم واقف."
+ },
+ "hummel": {
+  "de": "Die Hummel brummt über den Blumen.",
+  "ar": "النحلة السودا بتطن فوق الورد."
+ },
+ "hecht": {
+  "de": "Der Hecht lauert zwischen den Wasserpflanzen.",
+  "ar": "القعد بيكمن بين نباتات المية."
+ },
+ "marktplatz": {
+  "de": "Der Marktplatz ist am Samstag voll.",
+  "ar": "ساحة السوق مليانة يوم السبت."
+ },
+ "kathedrale": {
+  "de": "Die Kathedrale hat zwei hohe Türme.",
+  "ar": "الكاتدرائية ليها برجين عاليين."
+ },
+ "minarett": {
+  "de": "Das Minarett sieht man von weitem.",
+  "ar": "المئذنة بتتشاف من بعيد."
+ },
+ "synagoge": {
+  "de": "Die Synagoge steht in der alten Straße.",
+  "ar": "الكنيس في الشارع القديم."
+ },
+ "maehdrescher": {
+  "de": "Der Mähdrescher arbeitet den ganzen Tag.",
+  "ar": "الحصادة شغالة طول اليوم."
+ },
+ "kran": {
+  "de": "Der Kran dreht sich über der Baustelle.",
+  "ar": "الونش بيلف فوق موقع البناء."
+ },
+ "polizeiauto": {
+  "de": "Das Polizeiauto hält vor der Bank.",
+  "ar": "عربية البوليس واقفة قدام البنك."
+ },
+ "muellwagen": {
+  "de": "Der Müllwagen leert die Tonnen.",
+  "ar": "عربية الزبالة بتوضي البراميل."
+ },
+ "wohnmobil": {
+  "de": "Das Wohnmobil steht am Campingplatz.",
+  "ar": "الكرفان واقف في موقع التخييم."
+ },
+ "schulbus": {
+  "de": "Der Schulbus kommt um halb acht.",
+  "ar": "أتوبيس المدرسة بييجي الساعة سبعة ونص."
+ },
+ "u-boot": {
+  "de": "Das U-Boot bleibt drei Wochen unter Wasser.",
+  "ar": "الغواصة بتفضل تلات أسابيع تحت المية."
+ },
+ "rolltreppe": {
+  "de": "Auf der Rolltreppe steht man rechts.",
+  "ar": "على السلم المتحرك بنقف على اليمين."
+ },
+ "segelflugzeug": {
+  "de": "Das Segelflugzeug nutzt den warmen Wind.",
+  "ar": "الطيارة الشراعية بتستخدم الهوا السخن."
+ },
+ "moped": {
+  "de": "Das Moped darf man ab fünfzehn fahren.",
+  "ar": "الموتوسيكل الصغير مسموح بيه من خمستاشر سنة."
+ },
+ "tandem": {
+  "de": "Das Tandem braucht zwei, die treten.",
+  "ar": "العجلة المزدوجة محتاجة اتنين بيدوسوا."
+ },
+ "pferdewagen": {
+  "de": "Der Pferdewagen klappert über das Kopfsteinpflaster.",
+  "ar": "الكارو بتعمل صوت على البلاط."
+ },
+ "anzug": {
+  "de": "Der Anzug sitzt wie angegossen.",
+  "ar": "البدلة مظبوطة على المقاس."
+ },
+ "weste": {
+  "de": "Die Weste hat vier Taschen.",
+  "ar": "الصديري ليه أربع جيوب."
+ },
+ "gummistiefel": {
+  "de": "Der Gummistiefel hält das Wasser draußen.",
+  "ar": "البوت المطاط بيمنع المية."
+ },
+ "faden": {
+  "de": "Der Faden geht durch das Nadelöhr.",
+  "ar": "الخيط داخل من ثقب الإبرة."
+ },
+ "wolle": {
+  "de": "Die Wolle kommt von den Schafen.",
+  "ar": "الصوف بييجي من الخرفان."
+ },
+ "waescheklammer": {
+  "de": "Die Wäscheklammer liegt im Korb.",
+  "ar": "الشبصة في السلة."
+ },
+ "naehmaschine": {
+  "de": "Die Nähmaschine ist älter als ich.",
+  "ar": "ماكينة الخياطة أكبر مني سنا."
+ },
+ "moos": {
+  "de": "Das Moos macht den Weg rutschig.",
+  "ar": "الطحلب بيخلي الطريق زلق."
+ },
+ "farn": {
+  "de": "Der Farn entrollt seine Blätter im Frühling.",
+  "ar": "السرخس بيفتح ورقه في الربيع."
+ },
+ "birke": {
+  "de": "Die Birke verliert früh die Blätter.",
+  "ar": "البتولا بتسقط ورقها بدري."
+ },
+ "huegel": {
+  "de": "Der Hügel ist gut zum Schlittenfahren.",
+  "ar": "التلة كويسة للتزلج."
+ },
+ "tal": {
+  "de": "Das Tal bleibt morgens im Schatten.",
+  "ar": "الوادي بيفضل في الضل الصبح."
+ },
+ "sumpf": {
+  "de": "Der Sumpf schluckt den Stiefel.",
+  "ar": "المستنقع بيبلع البوت."
+ },
+ "regenwald": {
+  "de": "Der Regenwald ist laut vor Leben.",
+  "ar": "الغابة المطيرة صوتها عالي من كتر الكائنات."
+ },
+ "palme": {
+  "de": "Die Palme trägt viele Datteln.",
+  "ar": "النخلة شايلة بلح كتير."
+ },
+ "spinnennetz": {
+  "de": "Das Spinnennetz hängt zwischen den Zweigen.",
+  "ar": "بيت العنكبوت معلق بين الفروع."
+ },
+ "feder": {
+  "de": "Die Feder liegt auf dem Waldweg.",
+  "ar": "الريشة على طريق الغابة."
+ },
+ "koralle": {
+  "de": "Die Koralle wächst nur wenige Millimeter im Jahr.",
+  "ar": "المرجان بيكبر كذا ميليمتر في السنة."
+ },
+ "nest": {
+  "de": "Das Nest wiegt der Wind hin und her.",
+  "ar": "العش الهوا بيهزه يمين وشمال."
+ },
+ "schneeflocke": {
+  "de": "Die Schneeflocke hat sechs Ecken.",
+  "ar": "بورة التلج ليها ست زوايا."
+ },
+ "gewitter": {
+  "de": "Das Gewitter treibt uns ins Haus.",
+  "ar": "العاصفة دخلتنا البيت."
+ },
+ "teddybaer": {
+  "de": "Der Teddybär hat nur noch ein Auge.",
+  "ar": "الدبدوب باقيله عين واحدة."
+ },
+ "murmel": {
+  "de": "Die Murmel ist aus blauem Glas.",
+  "ar": "البلية من زجاج أزرق."
+ },
+ "puzzle": {
+  "de": "Beim Puzzle fehlt ein Teil.",
+  "ar": "البازل ناقصه قطعة."
+ },
+ "bauklotz": {
+  "de": "Der Bauklotz ist rot und eckig.",
+  "ar": "الطوبة الملونة حمرا ومربعة."
+ },
+ "waeschekorb": {
+  "de": "Der Wäschekorb steht im Bad.",
+  "ar": "سلة الغسيل في الحمام."
+ },
+ "waeschestaender": {
+  "de": "Der Wäscheständer klappt klein zusammen.",
+  "ar": "منشر الغسيل بيتطبق صغير."
+ },
+ "buegelbrett": {
+  "de": "Das Bügelbrett stelle ich auf meine Höhe.",
+  "ar": "لوح الكوي بظبطه على طولي."
+ },
+ "kleiderbuegel": {
+  "de": "Der Kleiderbügel ist aus Samt.",
+  "ar": "العلاقة من القطيفة."
+ },
+ "giesskanne": {
+  "de": "Die Gießkanne hält zehn Liter.",
+  "ar": "المركن بيشيل عشرة لتر."
+ },
+ "blumentopf": {
+  "de": "Der Blumentopf braucht neue Erde.",
+  "ar": "القصيصة محتاجة طراب جديد."
+ },
+ "schubkarre": {
+  "de": "Die Schubkarre steht hinter dem Schuppen.",
+  "ar": "العربية اليدوية ورا العنبر."
  }
 }
