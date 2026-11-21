@@ -38,6 +38,9 @@ button, a { -webkit-tap-highlight-color: transparent; }
 [data-search-input]:focus-visible { outline: none; }
 .photo { aspect-ratio: 4 / 3; object-fit: cover; width: 100%; background: var(--line); }
 /* German-flag stripe across the top, only in the almania theme (owner's chosen look, Nov 19 2026). */
+[data-theme="sinai"] body { background: radial-gradient(1100px 620px at 85% -10%, rgba(240,149,46,0.16), transparent 60%), radial-gradient(900px 560px at -10% 110%, rgba(240,149,46,0.10), transparent 55%), var(--paper); background-attachment: fixed; }
+[data-theme="sinai"] .bg-card { background-color: color-mix(in srgb, var(--card) 74%, transparent); backdrop-filter: blur(14px) saturate(1.15); -webkit-backdrop-filter: blur(14px) saturate(1.15); }
+[data-theme="sinai"] .shadow-lg, [data-theme="sinai"] .shadow-md { box-shadow: 0 10px 30px rgba(0,0,0,0.35), inset 0 1px 0 rgba(247,234,217,0.06); }
 [data-theme="almania"] body::before { content: ""; display: block; height: 6px; background: linear-gradient(to right, #161311 0 33.34%, #cf202a 33.34% 66.67%, #f0b90b 66.67% 100%); }
 
 @media print {
