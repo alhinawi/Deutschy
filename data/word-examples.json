@@ -3706,5 +3706,101 @@
  "papierschiffchen": {
   "de": "Das Papierschiffchen schwimmt auf der Pfütze.",
   "ar": "مركب الورق بتعوم على الطين."
+ },
+ "schachbauer": {
+  "de": "Der Schachbauer geht nur vorwärts.",
+  "ar": "بيدق الشطرنج بيمشي لقدام بس."
+ },
+ "schachspringer": {
+  "de": "Der Schachspringer springt über Figuren.",
+  "ar": "حصان الشطرنج بينط فوق القطع."
+ },
+ "tintenfass": {
+  "de": "Das Tintenfass hält die Tinte.",
+  "ar": "المحبرة ماسكة الحبر."
+ },
+ "federhalter": {
+  "de": "Der Federhalter schreibt kalligrafisch.",
+  "ar": "حامل الريشة بيكتب بخط جميل."
+ },
+ "naehnadel": {
+  "de": "Die Nähnadel hat ein kleines Öhr.",
+  "ar": "إبرة الخياطة فيها فتحة صغيرة."
+ },
+ "naehgarn": {
+  "de": "Das Nähgarn reicht für den Saum.",
+  "ar": "خيط الخياطة كافي للكُفَّة."
+ },
+ "kohlkopf": {
+  "de": "Der Kohlkopf wiegt zwei Kilo.",
+  "ar": "راس الكرنب وزنها اتنين كيلو."
+ },
+ "rosenkohl": {
+  "de": "Der Rosenkohl schmeckt gedünstet.",
+  "ar": "كرنب بروكسل بيطلع طعمه حلو مستوي."
+ },
+ "seifenblase": {
+  "de": "Die Seifenblase schwebt durch die Luft.",
+  "ar": "فقاعة الصابون بتطير في الهوا."
+ },
+ "luftballon": {
+  "de": "Der Luftballon steigt zur Decke.",
+  "ar": "البالونة بتطلع للسقف."
+ },
+ "wassertropfen": {
+  "de": "Der Wassertropfen fällt vom Hahn.",
+  "ar": "نقطة الميه بتقع من الحنفية."
+ },
+ "eiszapfen": {
+  "de": "Der Eiszapfen hängt am Dach.",
+  "ar": "لسان التلج معلق في السطح."
+ },
+ "unterlegscheibe": {
+  "de": "Die Unterlegscheibe liegt unter der Mutter.",
+  "ar": "وردة المسمار تحت الصامولة."
+ },
+ "schraubenmutter": {
+  "de": "Die Schraubenmutter hält die Schraube.",
+  "ar": "الصامولة ماسكة المصمار."
+ },
+ "muschelschale": {
+  "de": "Die Muschelschale liegt am Strand.",
+  "ar": "صدفة المحار على الشاطي."
+ },
+ "schneckenhaus": {
+  "de": "Das Schneckenhaus trägt die Schnecke.",
+  "ar": "القوقعة بتحمل الحلزون."
+ },
+ "rote-bete": {
+  "de": "Die Rote Bete färbt die Hände rot.",
+  "ar": "البنجر بيلون الإيدين أحمر."
+ },
+ "rettich": {
+  "de": "Der Rettich schmeckt scharf.",
+  "ar": "الفجل طعمه حراق."
+ },
+ "kaki": {
+  "de": "Die Kaki reift im Herbst.",
+  "ar": "الكاكي بتستوي في الخريف."
+ },
+ "karambole": {
+  "de": "Die Karambole sieht aus wie ein Stern.",
+  "ar": "الكارامبولا شكلها زي نجمة."
+ },
+ "okra": {
+  "de": "Die Okra schmeckt in der Suppe.",
+  "ar": "البامية طعمها حلو في الشوربة."
+ },
+ "mangold": {
+  "de": "Der Mangold hat rote Stiele.",
+  "ar": "السلق سيقانه حمرا."
+ },
+ "espressokocher": {
+  "de": "Der Espressokocher macht starken Kaffee.",
+  "ar": "موكا البوت بتعمل قهوة تقيلة."
+ },
+ "eiswuerfelform": {
+  "de": "Die Eiswürfelform kommt ins Gefrierfach.",
+  "ar": "قالب مكعبات التلج بيدخل الفريزر."
  }
 }
