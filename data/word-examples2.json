@@ -3610,5 +3610,101 @@
  "stachelbeere": {
   "de": "Die Stachelbeere wächst am Busch.",
   "ar": "عنب الثعلب بينبت على شجيرة صغيرة."
+ },
+ "kumquat": {
+  "de": "Die Kumquat ist klein wie eine Olive.",
+  "ar": "الكمكوات صغير زي الزيتونة."
+ },
+ "litschi": {
+  "de": "Die Litschi schmeckt süß und saftig.",
+  "ar": "الليتشي طعمها حلو ومليانة مية."
+ },
+ "hagebutte": {
+  "de": "Die Hagebutte wächst im Herbst.",
+  "ar": "ثمر الورد البري بينبت في الخريف."
+ },
+ "mirabelle": {
+  "de": "Die Mirabelle hängt am Baum.",
+  "ar": "برقوق الميرابيل معلق على الشجرة."
+ },
+ "cashewkern": {
+  "de": "Der Cashewkern liegt in der Schale.",
+  "ar": "حبة الكاجو موجودة في الطبق."
+ },
+ "pinienkern": {
+  "de": "Der Pinienkern passt zum Salat.",
+  "ar": "حبة الصنوبر بيناسب مع السلطة."
+ },
+ "zimtstange": {
+  "de": "Die Zimtstange liegt im Tee.",
+  "ar": "عود القرفة موجود في الشاي."
+ },
+ "muskatnuss": {
+  "de": "Die Muskatnuss ist rund und braun.",
+  "ar": "جوزة الطيب مستديرة ولونها بني."
+ },
+ "vanilleschote": {
+  "de": "Die Vanilleschote ist lang und dunkel.",
+  "ar": "قرن الفانيليا طويل ولونه غامق."
+ },
+ "gewuerznelke": {
+  "de": "Die Gewürznelke riecht stark.",
+  "ar": "حبة القرنفل ريحتها قوية."
+ },
+ "filtertuete": {
+  "de": "Die Filtertüte liegt in der Kaffeemaschine.",
+  "ar": "ورقة الفلتر في ماكينة القهوة."
+ },
+ "kaffeebohne": {
+  "de": "Die Kaffeebohne mahlt man frisch.",
+  "ar": "حبة البن بتتطحن طازة."
+ },
+ "zuckerwuerfel": {
+  "de": "Der Zuckerwürfel liegt auf dem Löffel.",
+  "ar": "مكعب السكر على المعلقة."
+ },
+ "honigglas": {
+  "de": "Das Honigglas ist fast leer.",
+  "ar": "برطمان العسل قرب يخلص."
+ },
+ "espressokanne": {
+  "de": "Die Espressokanne steht in der Küche.",
+  "ar": "موكا البوت موجودة في المطبخ."
+ },
+ "kaffeetasse": {
+  "de": "Die Kaffeetasse steht auf dem Tisch.",
+  "ar": "فنجان القهوة على الترابيزة."
+ },
+ "sternanis": {
+  "de": "Der Sternanis würzt den Punsch.",
+  "ar": "اليانسون النجمي بيطعم المشروب السخن."
+ },
+ "pfefferkorn": {
+  "de": "Das Pfefferkorn fällt in die Mühle.",
+  "ar": "حباية الفلفل بتنزل في المطحنة."
+ },
+ "lorbeerblatt": {
+  "de": "Das Lorbeerblatt trocknet am Fenster.",
+  "ar": "ورقة اللورا بتنشف جنب الشباك."
+ },
+ "rosmarinzweig": {
+  "de": "Der Rosmarinzweig liegt auf dem Fleisch.",
+  "ar": "فرع الروزماري على اللحمة."
+ },
+ "zitronenscheibe": {
+  "de": "Die Zitronenscheibe hängt am Glas.",
+  "ar": "شريحة الليمون معلقة على الكوباية."
+ },
+ "orangenscheibe": {
+  "de": "Die Orangenscheibe liegt auf dem Teller.",
+  "ar": "شريحة البرتقان في الطبق."
+ },
+ "papierflieger": {
+  "de": "Das Kind bastelt einen Papierflieger.",
+  "ar": "الطفل بيعمل طيارة ورق."
+ },
+ "papierschiffchen": {
+  "de": "Das Papierschiffchen segelt im Bach.",
+  "ar": "مركب الورق ماشية في الترعة الصغيرة."
  }
 }
