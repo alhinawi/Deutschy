@@ -119,4 +119,13 @@ assert(second.stadion.ar.includes('تذاكر'));
 assert(second.stadion.ar.includes('اتباعت'));
 assert(second.ananas.ar.includes('الجنوب'));
 assert(first.pflaume.ar.includes('أزرق غامق'));
-console.log('PASS 100 bilingual meaning regressions for reviewed vocabulary examples');
+// Topics 19-24: distinguish the shore, downhill direction, layers and glacier.
+assert(first.zelt.ar.includes('جنب البحيرة'));
+assert(second.fass.ar.includes('نازل من التل'));
+assert(second.torte.ar.includes('طبقات'));
+assert(second.gletscher.ar.includes('النهر الجليدي'));
+assert(second.schlittschuh.ar.includes('حذاء التزلج'));
+assert(second.schlittschuh.ar.includes('شفرة حادة'));
+assert(second.blitz.ar.includes('بيضرب'));
+assert(second.muenze.ar.includes('بتقع'));
+console.log('PASS 108 bilingual meaning regressions for reviewed vocabulary examples');

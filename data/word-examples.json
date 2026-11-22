@@ -953,7 +953,7 @@
  },
  "zange": {
   "de": "Die Zange hält die Schraube fest.",
-  "ar": "الزرادية بتمسك المصمار."
+  "ar": "الزرادية بتمسك المسمار."
  },
  "leiter": {
   "de": "Die Leiter lehnt an der Wand.",
@@ -985,7 +985,7 @@
  },
  "zelt": {
   "de": "Das Zelt steht am See.",
-  "ar": "الخيمة منصوبة على البحيرة."
+  "ar": "الخيمة منصوبة جنب البحيرة."
  },
  "waage": {
   "de": "Die Waage steht im Bad.",
@@ -1017,7 +1017,7 @@
  },
  "floete": {
   "de": "Die Flöte klingt weich.",
-  "ar": "الناي صوته ناعم."
+  "ar": "الفلوت صوته ناعم."
  },
  "trompete": {
   "de": "Die Trompete ist sehr laut.",
@@ -1089,11 +1089,11 @@
  },
  "steak": {
   "de": "Das Steak brate ich kurz.",
-  "ar": "الستيك بتقلي بسرعة."
+  "ar": "بقلي الستيك وقت قصير."
  },
  "sushi": {
   "de": "Das Sushi essen wir mit Stäbchen.",
-  "ar": "السوشي بيتاكل بالعيدان."
+  "ar": "بناكل السوشي بعيدان الأكل."
  },
  "pfannkuchen": {
   "de": "Der Pfannkuchen kommt mit Zucker.",
@@ -1105,7 +1105,7 @@
  },
  "spaghetti": {
   "de": "Die Spaghetti koche ich mit Tomatensoße.",
-  "ar": "السباجتي بتتعمل بصوص الطماطم."
+  "ar": "بطبخ السباجتي بصوص الطماطم."
  },
  "sandwich": {
   "de": "Das Sandwich nehme ich mit zur Arbeit.",
@@ -1125,7 +1125,7 @@
  },
  "sonnenblume": {
   "de": "Die Sonnenblume dreht sich zur Sonne.",
-  "ar": "عباد الشمس بيلف وش الشمس."
+  "ar": "عباد الشمس بيلف ناحية الشمس."
  },
  "kaktus": {
   "de": "Der Kaktus braucht wenig Wasser.",
@@ -1137,7 +1137,7 @@
  },
  "hoehle": {
   "de": "Die Höhle ist dunkel und kalt.",
-  "ar": "الكهف تضلمة وبرد."
+  "ar": "الكهف ضلمة وبارد."
  },
  "gletscher": {
   "de": "Der Gletscher schmilzt jedes Jahr ein bisschen.",
