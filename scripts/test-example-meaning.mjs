@@ -128,4 +128,11 @@ assert(second.schlittschuh.ar.includes('حذاء التزلج'));
 assert(second.schlittschuh.ar.includes('شفرة حادة'));
 assert(second.blitz.ar.includes('بيضرب'));
 assert(second.muenze.ar.includes('بتقع'));
-console.log('PASS 108 bilingual meaning regressions for reviewed vocabulary examples');
+// Topics 1-6: retain steepness, present tense and the track/platform distinction.
+assert(first.treppe.ar.includes('انحداره شديد'));
+assert(first.lampe.ar.includes('منورة'));
+assert(second.schule.ar.includes('بتخلص'));
+assert(second.zug.ar.includes('السكة رقم تلاتة'));
+assert(second.flugzeug.ar.includes('بتطير'));
+assert(second.apotheke.ar.includes('الناصية'));
+console.log('PASS 114 bilingual meaning regressions for reviewed vocabulary examples');
