@@ -1161,7 +1161,7 @@
  },
  "lastwagen": {
   "de": "Der Lastwagen fährt nachts auf die Autobahn.",
-  "ar": "النقل بيسافر على الطريق السريع بالليل."
+  "ar": "عربية النقل بتدخل الطريق السريع بالليل."
  },
  "krankenwagen": {
   "de": "Der Krankenwagen fährt mit Blaulicht.",
@@ -1169,7 +1169,7 @@
  },
  "hubschrauber": {
   "de": "Der Hubschrauber kreist über der Stadt.",
-  "ar": "الهليكوبتر بتليف فوق المدينة."
+  "ar": "الهليكوبتر بتلف فوق المدينة."
  },
  "boot": {
   "de": "Das Boot mieten wir für einen Tag.",
@@ -1184,8 +1184,8 @@
   "ar": "الترام مليان الساعة تمانية."
  },
  "roller": {
-  "de": "Der Roller braucht nur wenig Benzin.",
-  "ar": "الاسكوتر بيصرف بنزين قليل."
+  "de": "Der Roller steht neben dem Fahrrad.",
+  "ar": "الاسكوتر واقف جنب العجلة."
  },
  "rakete": {
   "de": "Die Rakete trägt einen Satelliten.",
@@ -1197,7 +1197,7 @@
  },
  "leuchtturm": {
   "de": "Der Leuchtturm steht auf der Klippe.",
-  "ar": "الفانوس واقف على الصخرة."
+  "ar": "المنارة موجودة فوق الجرف."
  },
  "tunnel": {
   "de": "Der Tunnel ist drei Kilometer lang.",
@@ -1217,7 +1217,7 @@
  },
  "krebs": {
   "de": "Der Krebs versteckt sich unter dem Stein.",
-  "ar": "الكابوريا بتخب نفسها تحت الحجر."
+  "ar": "الكابوريا بتستخبى تحت الحجر."
  },
  "qualle": {
   "de": "Die Qualle hat lange Arme.",
@@ -1257,7 +1257,7 @@
  },
  "hase": {
   "de": "Der Hase versteckt sich im Gras.",
-  "ar": "الأرنب البري بيخب نفسه في الحشيش."
+  "ar": "الأرنب البري بيستخبى في الحشيش."
  },
  "marienkaefer": {
   "de": "Der Marienkäfer hat sieben Punkte.",
@@ -1300,8 +1300,8 @@
   "ar": "التمساح مستني تحت المية."
  },
  "schlange": {
-  "de": "Die Schlange häutet sich einmal im Jahr.",
-  "ar": "الثعبان بيغير جلده مرة في السنة."
+  "de": "Die Schlange häutet sich.",
+  "ar": "الثعبان بيغير جلده."
  },
  "tiger": {
   "de": "Der Tiger hat schwarze Streifen.",
@@ -1309,7 +1309,7 @@
  },
  "stuhl": {
   "de": "Der Stuhl wackelt ein bisschen.",
-  "ar": "الكرسي بيهز شوية."
+  "ar": "الكرسي بيتهز شوية."
  },
  "rasenmaeher": {
   "de": "Der Rasenmäher springt nicht an.",
@@ -1321,11 +1321,11 @@
  },
  "anker": {
   "de": "Der Anker sinkt auf den Grund.",
-  "ar": "المرساة بينزل لقاع البحر."
+  "ar": "المرساة بتنزل للقاع."
  },
  "schaukel": {
   "de": "Die Schaukel quietscht ein wenig.",
-  "ar": "المرجيحة بتزق شوية."
+  "ar": "المرجيحة بتصر شوية."
  },
  "rutsche": {
   "de": "Die Rutsche ist aus Metall.",
@@ -1337,7 +1337,7 @@
  },
  "wuerfel": {
   "de": "Der Würfel fällt unter den Tisch.",
-  "ar": "النرد وقع تحت الترابيزة."
+  "ar": "الزهر بيقع تحت الترابيزة."
  },
  "puppe": {
   "de": "Die Puppe trägt ein rotes Kleid.",
@@ -1373,7 +1373,7 @@
  },
  "lauch": {
   "de": "Ich schneide den Lauch in Ringe.",
-  "ar": "بقطع الكرات حلقات."
+  "ar": "بقطع الكراث حلقات."
  },
  "radieschen": {
   "de": "Das Radieschen kommt in den Salat.",
@@ -1449,7 +1449,7 @@
  },
  "spiegelei": {
   "de": "Das Spiegelei bekommt etwas Salz.",
-  "ar": "بيضة العين بتتاخد شوية ملح."
+  "ar": "بيتحط شوية ملح على بيضة العيون."
  },
  "toast": {
   "de": "Der Toast ist mit Käse belegt.",
