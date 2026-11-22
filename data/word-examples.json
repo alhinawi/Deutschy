@@ -1160,8 +1160,8 @@
   "ar": "الغروب على البحر أحلى حاجة."
  },
  "lastwagen": {
-  "de": "Der Lastwagen bringt das Gemüse in den Markt.",
-  "ar": "عربية النقل بتودي الخضار للسوق."
+  "de": "Der Lastwagen bringt das Gemüse zum Markt.",
+  "ar": "عربية النقل بتوصل الخضار للسوق."
  },
  "krankenwagen": {
   "de": "Der Krankenwagen kommt in wenigen Minuten.",
@@ -1197,7 +1197,7 @@
  },
  "leuchtturm": {
   "de": "Der Leuchtturm zeigt den Schiffen den Weg.",
-  "ar": "المنارة بتوّرط الطريق للمراكب."
+  "ar": "المنارة بتوضح الطريق للمراكب."
  },
  "tunnel": {
   "de": "Der Tunnel geht durch den Berg.",
@@ -1213,7 +1213,7 @@
  },
  "hafen": {
   "de": "Der Hafen ist am Abend ruhig.",
-  "ar": "الميناء هادي بالليل."
+  "ar": "الميناء هادي في المسا."
  },
  "krebs": {
   "de": "Der Krebs läuft seitwärts.",
@@ -1233,7 +1233,7 @@
  },
  "eichhoernchen": {
   "de": "Das Eichhörnchen sammelt Nüsse.",
-  "ar": "السنجاب بيجمع البندق."
+  "ar": "السنجاب بيجمع مكسرات."
  },
  "kaenguru": {
   "de": "Das Känguru springt weit.",
@@ -1268,8 +1268,8 @@
   "ar": "اليعسوب بيطير فوق المياه."
  },
  "wal": {
-  "de": "Der Wal ist das größte Tier der Welt.",
-  "ar": "الحوت أكبر حيوان في الدنيا."
+  "de": "Der Wal ist ein sehr großes Tier.",
+  "ar": "الحوت حيوان كبير جدا."
  },
  "rentier": {
   "de": "Das Rentier lebt im kalten Norden.",
@@ -1417,7 +1417,7 @@
  },
  "haehnchen": {
   "de": "Das Hähnchen brät im Ofen.",
-  "ar": "الفرخة بتتشوح في الفرن."
+  "ar": "الفرخة بتتشوي في الفرن."
  },
  "garnele": {
   "de": "Die Garnele wird mit Reis serviert.",
@@ -1441,7 +1441,7 @@
  },
  "bratwurst": {
   "de": "Die Bratwurst brutzelt auf dem Grill.",
-  "ar": "السجق المشوي بتتشوى على الجريل."
+  "ar": "السجق بيتشوي وبيعمل صوت على الشواية."
  },
  "ruehrei": {
   "de": "Das Rührei gibt es zum Frühstück.",
@@ -1449,7 +1449,7 @@
  },
  "spiegelei": {
   "de": "Das Spiegelei brät in der Pfanne.",
-  "ar": "بيض العيون بتتقلي في الطاسة."
+  "ar": "بيضة العيون بتتقلي في الطاسة."
  },
  "toast": {
   "de": "Der Toast springt aus dem Toaster.",
@@ -1464,8 +1464,8 @@
   "ar": "الوافل عليه سكر."
  },
  "lebkuchen": {
-  "de": "Der Lebkuchen gibt es im Winter.",
-  "ar": "خبز الزنجبيل بيبقى في الشتا."
+  "de": "Lebkuchen gibt es im Winter.",
+  "ar": "اللبكوخن موجود في الشتا."
  },
  "orangensaft": {
   "de": "Der Orangensaft ist frisch gepresst.",

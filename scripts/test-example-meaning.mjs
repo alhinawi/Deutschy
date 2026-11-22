@@ -91,4 +91,13 @@ assert(second.blumentopf.ar.includes('تربة جديدة'));
 assert(second.schneeflocke.ar.includes('ندفة التلج'));
 assert(first.feder.ar.includes('بتقع'));
 assert(second.moped.de.includes('gehört meiner Schwester'));
-console.log('PASS 75 bilingual meaning regressions for reviewed vocabulary examples');
+// Topics 25-30: keep the landmark, time of day, tense and food precise.
+assert(first.leuchtturm.ar.includes('بتوضح الطريق'));
+assert(second.leuchtturm.ar.includes('المنارة'));
+assert(first.hafen.ar.includes('المسا'));
+assert(second.schaukel.ar.includes('بتصر'));
+assert(second.wuerfel.ar.includes('بيقع'));
+assert(first.haehnchen.ar.includes('بتتشوي'));
+assert(second.lauch.ar.includes('الكراث'));
+assert(first.lebkuchen.de.startsWith('Lebkuchen gibt es'));
+console.log('PASS 83 bilingual meaning regressions for reviewed vocabulary examples');
