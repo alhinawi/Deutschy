@@ -31,4 +31,16 @@ assert(first.skorpion.ar.includes('إبرة سامة'));
 assert(first.quitte.ar.includes('بتتاكل'));
 assert(first.brotfrucht.ar.includes('بتتاكل'));
 assert(second.naehgarn.ar.includes('علبة الخياطة'));
-console.log('PASS 21 bilingual meaning regressions for the reviewed units 12-17 examples');
+// Units 9-11: do not substitute a different tool, vessel, food or material.
+assert(second.schuessel.ar.includes('السلطانية'));
+assert(second.backpinsel.ar.includes('فرشة المعجنات'));
+assert(second.schraubzwinge.ar.includes('القمطة'));
+assert(first.nussknacker.ar.includes('عين الجمل'));
+assert(second.tuerklopfer.ar.includes('النحاس الأصفر'));
+assert(first.bilderrahmen.ar.includes('الطرقة'));
+assert(second.haarbuerste.ar.includes('خزانة الأدراج'));
+assert(second.kuechenwaage.ar.includes('خمسمية جرام'));
+assert(first.essstaebchen.de.startsWith('Mit den Essstäbchen'));
+assert(first.essstaebchen.ar.startsWith('باكل الرز'));
+assert(second.liegestuhl.de.startsWith('Den Liegestuhl'));
+console.log('PASS 32 bilingual meaning regressions for the reviewed units 9-17 examples');
