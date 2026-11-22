@@ -3418,5 +3418,101 @@
  "banjo": {
   "de": "Das Banjo hat einen runden Korpus.",
   "ar": "البانجو جسمه مدور."
+ },
+ "schachbrett": {
+  "de": "Wir spielen Schach auf dem Schachbrett.",
+  "ar": "بنلعب شطرنج على رقعة الشطرنج."
+ },
+ "springseil": {
+  "de": "Die Kinder springen mit dem Springseil.",
+  "ar": "الأطفال بينطوا بحبل النط."
+ },
+ "yogamatte": {
+  "de": "Ich rolle die Yogamatte nach dem Sport zusammen.",
+  "ar": "بلف مفرش اليوجا بعد الرياضة."
+ },
+ "billardkugel": {
+  "de": "Die weiße Billardkugel trifft die schwarze.",
+  "ar": "كورة البلياردو البيضا بتضرب السودا."
+ },
+ "sparschwein": {
+  "de": "Ich werfe jeden Tag eine Münze ins Sparschwein.",
+  "ar": "برمي كل يوم عملة في الحصالة."
+ },
+ "federball": {
+  "de": "Wir schlagen den Federball im Garten.",
+  "ar": "بنضرب كورة الريشة في الجنينة."
+ },
+ "spielzeugauto": {
+  "de": "Mein Bruder spielt gern mit dem Spielzeugauto.",
+  "ar": "أخويا بيحب يلعب بعربية اللعب."
+ },
+ "puzzleteil": {
+  "de": "Ein Puzzleteil fehlt noch im Bild.",
+  "ar": "لسه ناقص قطعة بازل في الصورة."
+ },
+ "rollschuh": {
+  "de": "Der Rollschuh rollt schnell über den Platz.",
+  "ar": "جزمة العجل ماشية بسرعة على الساحة."
+ },
+ "schwimmflosse": {
+  "de": "Mit der Schwimmflosse schwimme ich schneller.",
+  "ar": "بزعنفة السباحة بعوم أسرع."
+ },
+ "gartenschere": {
+  "de": "Der Gärtner schneidet die Rose mit der Gartenschere.",
+  "ar": "البستاني بيقص الوردة بمقص الجنينة."
+ },
+ "gartenschaufel": {
+  "de": "Mit der Gartenschaufel pflanze ich eine Blume.",
+  "ar": "بالجاروف الصغير بزرع زهرة."
+ },
+ "nistkasten": {
+  "de": "Ein Vogel baut sein Nest im Nistkasten.",
+  "ar": "عصفورة بتبني عشها في صندوق التعشيش."
+ },
+ "insektenhotel": {
+  "de": "Das Insektenhotel steht im Garten.",
+  "ar": "بيت الحشرات موجود في الجنينة."
+ },
+ "karteikarte": {
+  "de": "Auf jeder Karteikarte steht ein Wort.",
+  "ar": "على كل كارت فهرسة في كلمة."
+ },
+ "etikett": {
+  "de": "Ich schreibe den Namen auf das Etikett.",
+  "ar": "بكتب الاسم على التيكيت."
+ },
+ "tischtennisschlaeger": {
+  "de": "Der Tischtennisschläger liegt auf dem Tisch.",
+  "ar": "مضرب تنس الطاولة على الترابيزة."
+ },
+ "golfball": {
+  "de": "Der Golfball ist klein und weiß.",
+  "ar": "كورة الجولف صغيرة وبيضا."
+ },
+ "wattestaebchen": {
+  "de": "Das Wattestäbchen liegt im Bad.",
+  "ar": "عود القطن موجود في الحمام."
+ },
+ "badeente": {
+  "de": "Das Kind spielt mit der gelben Badeente.",
+  "ar": "الطفل بيلعب ببطة الحمام الصفرا."
+ },
+ "kieselstein": {
+  "de": "Ein Kieselstein ist rund und glatt.",
+  "ar": "حجر الحصى مستدير وناعم."
+ },
+ "baumstumpf": {
+  "de": "Auf dem Baumstumpf sitzt ein Pilz.",
+  "ar": "فوق بقية الجذع في فطر."
+ },
+ "wachsmalstift": {
+  "de": "Das Kind malt ein Haus mit dem Wachsmalstift.",
+  "ar": "الطفل بيرسم بيت بقلم الشمع."
+ },
+ "heftklammer": {
+  "de": "Die Heftklammer ist aus Metall.",
+  "ar": "دبوس الدباسة مصنوع من معدن."
  }
 }
