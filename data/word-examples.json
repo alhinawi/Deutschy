@@ -29,7 +29,7 @@
  },
  "apfel": {
   "de": "Ich esse jeden Morgen einen Apfel.",
-  "ar": "باكل تفاحة كل الصبح."
+  "ar": "باكل تفاحة كل يوم الصبح."
  },
  "banane": {
   "de": "Die Banane ist gelb und süß.",
@@ -177,7 +177,7 @@
  },
  "treppe": {
   "de": "Die Treppe ist sehr steil.",
-  "ar": "السلم مايل جدا."
+  "ar": "السلم انحداره شديد."
  },
  "kueche": {
   "de": "Die Küche ist klein, aber schön.",
@@ -189,7 +189,7 @@
  },
  "lampe": {
   "de": "Die Lampe ist an.",
-  "ar": "اللمبة نورة."
+  "ar": "اللمبة منورة."
  },
  "teppich": {
   "de": "Der Teppich ist neu.",
@@ -257,7 +257,7 @@
  },
  "strasse": {
   "de": "Die Straße ist sehr laut.",
-  "ar": "الشارع فيه دوشة جدا."
+  "ar": "الشارع فيه دوشة كتير."
  },
  "kino": {
   "de": "Das Kino zeigt heute einen neuen Film.",
