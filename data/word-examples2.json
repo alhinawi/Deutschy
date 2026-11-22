@@ -1473,7 +1473,7 @@
  },
  "bier": {
   "de": "Das Bier zapft der Wirt frisch.",
-  "ar": "البيرة بتتصب طازة."
+  "ar": "صاحب المكان بيصب البيرة طازة من الحنفية."
  },
  "kakao": {
   "de": "Der Kakao bekommt einen Löffel Honig.",
@@ -1497,15 +1497,15 @@
  },
  "brandenburger-tor": {
   "de": "Das Brandenburger Tor ist am Abend beleuchtet.",
-  "ar": "بوابة براندنبورج منورة بالليل."
+  "ar": "بوابة براندنبورج منورة في المسا."
  },
  "schloss-neuschwanstein": {
   "de": "Das Schloss Neuschwanstein besuchen viele Touristen.",
   "ar": "قصر نويشفانشتاين بيزوره سياح كتير."
  },
  "eiffelturm": {
-  "de": "Der Eiffelturm blinkt jede Stunde.",
-  "ar": "برج إيفل بينور كل ساعة."
+  "de": "Viele Menschen fotografieren den Eiffelturm.",
+  "ar": "ناس كتير بيصوروا برج إيفل."
  },
  "kolosseum": {
   "de": "Das Kolosseum besichtigen wir morgen.",
@@ -1581,11 +1581,11 @@
  },
  "akkordeon": {
   "de": "Das Akkordeon spielt auf dem Fest.",
-  "ar": "الأكورديون بيعزف في الفرح."
+  "ar": "الأكورديون بيتعزف في الاحتفال."
  },
  "saxofon": {
-  "de": "Das Saxofon übt er im Keller.",
-  "ar": "الساكسفون بيتمرن عليه في السرداب."
+  "de": "Er übt im Keller Saxofon.",
+  "ar": "هو بيتمرن على الساكسفون في البدروم."
  },
  "cello": {
   "de": "Das Cello begleitet den Chor.",
@@ -1593,7 +1593,7 @@
  },
  "schlagzeug": {
   "de": "Das Schlagzeug steht im Proberaum.",
-  "ar": "الطبل في أوضة التمارين."
+  "ar": "طقم الدرامز في أوضة البروفات."
  },
  "orgel": {
   "de": "Die Orgel hat tausend Pfeifen.",
@@ -1605,7 +1605,7 @@
  },
  "notenblatt": {
   "de": "Das Notenblatt fliegt vom Ständer.",
-  "ar": "ورقة النوتة طارت من على الحامل."
+  "ar": "ورقة النوتة بتطير من على الحامل."
  },
  "schallplatte": {
   "de": "Die Schallplatte spielt Jazz aus den Sechzigern.",
@@ -1621,7 +1621,7 @@
  },
  "handtuch": {
   "de": "Das Handtuch trocknet auf dem Balkon.",
-  "ar": "الفوطة بينشف على البلكونة."
+  "ar": "الفوطة بتنشف على البلكونة."
  },
  "kamm": {
   "de": "Der Kamm ist aus Holz.",
@@ -1633,19 +1633,19 @@
  },
  "vorhang": {
   "de": "Der Vorhang macht das Zimmer dunkel.",
-  "ar": "الستارة بتضلل الأوضة."
+  "ar": "الستارة بتخلي الأوضة ضلمة."
  },
  "sessel": {
   "de": "Der Sessel ist der Platz meines Vaters.",
   "ar": "الفوتيه مكان بابا."
  },
  "lichtschalter": {
-  "de": "Der Lichtschalter macht ein leises Klick.",
+  "de": "Der Lichtschalter klickt leise.",
   "ar": "مفتاح النور بيعمل تكة خفيفة."
  },
  "tuergriff": {
   "de": "Der Türgriff klemmt heute.",
-  "ar": "مقبض الباب بيتقل النهارده."
+  "ar": "مقبض الباب معلق النهارده."
  },
  "hantel": {
   "de": "Die Hantel hebe ich zehnmal.",
@@ -1660,8 +1660,8 @@
   "ar": "القوس من خشب ووتر."
  },
  "dartbrett": {
-  "de": "Das Dartbrett braucht zwei Meter Abstand.",
-  "ar": "لوحة السهام محتاجة مسافة مترين."
+  "de": "Das Dartbrett hängt neben dem Schrank.",
+  "ar": "لوح السهام معلق جنب الدولاب."
  },
  "fahrradhelm": {
   "de": "Der Fahrradhelm sitzt fest.",
@@ -1676,8 +1676,8 @@
   "ar": "الشص حاد."
  },
  "schlafsack": {
-  "de": "Der Schlafsack ist bis minus zehn warm.",
-  "ar": "كيس النوم دافي لحد عشرة تحت الصفر."
+  "de": "Ich rolle den Schlafsack zusammen.",
+  "ar": "أنا بلف كيس النوم."
  },
  "wanderstock": {
   "de": "Der Wanderstock ist aus leichtem Holz.",
@@ -1685,7 +1685,7 @@
  },
  "laufschuhe": {
   "de": "Der Laufschuh dämpft jeden Schritt.",
-  "ar": "كوتشي الجري بيمتص كل خطوة."
+  "ar": "كوتشي الجري بيمتص الصدمات مع كل خطوة."
  },
  "fussballtor": {
   "de": "Das Fußballtor hat ein neues Netz.",
@@ -1693,7 +1693,7 @@
  },
  "kajak": {
   "de": "Das Kajak kentert fast in der Strömung.",
-  "ar": "الكاياك كاد يقلب في التيار."
+  "ar": "الكاياك بيقرب يقلب مع التيار."
  },
  "fallschirm": {
   "de": "Der Fallschirm trägt ihn sicher zu Boden.",
@@ -1709,7 +1709,7 @@
  },
  "steckdose": {
   "de": "Die Steckdose hat zwei freie Plätze.",
-  "ar": "الفيشة فيها مكانين فاضيين."
+  "ar": "البريزة فيها مكانين فاضيين."
  },
  "kronleuchter": {
   "de": "Der Kronleuchter hat hundert Kristalle.",
@@ -1725,7 +1725,7 @@
  },
  "kommode": {
   "de": "Die Kommode hat sechs Schubladen.",
-  "ar": "الكومود فيه ست أدراج."
+  "ar": "دولاب الأدراج فيه ست أدراج."
  },
  "klingel": {
   "de": "Die Klingel hört man bis in den Garten.",
@@ -1733,11 +1733,11 @@
  },
  "rechen": {
   "de": "Der Rechen steht neben dem Spaten.",
-  "ar": "المجراف واقف جنب الكريك."
+  "ar": "مشط الجنينة واقف جنب الكريك."
  },
  "spaten": {
   "de": "Der Spaten gräbt das Beet um.",
-  "ar": "الكريك بيقلب المشتل."
+  "ar": "الكريك بيقلب تربة حوض الزرع."
  },
  "radiergummi": {
   "de": "Der Radiergummi ist fast aufgebraucht.",
