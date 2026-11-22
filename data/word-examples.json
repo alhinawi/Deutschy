@@ -3332,8 +3332,8 @@
   "ar": "هراسة التوم بتدوس التوم."
  },
  "nagel": {
-  "de": "Der Nagel hängt das Bild auf.",
-  "ar": "المسمار بيعلق الصورة."
+  "de": "Der Nagel hält das Bild an der Wand.",
+  "ar": "المسمار ماسك الصورة على الحيطة."
  },
  "schraubendreher": {
   "de": "Der Schraubendreher dreht die Schraube fest.",
@@ -3348,8 +3348,8 @@
   "ar": "قطعة الشطرنج واقفة على الرقعة."
  },
  "rumbakugel": {
-  "de": "Die Rumbakugel macht den Baby Spaß.",
-  "ar": "الشخشيخة بتسلي البيبي."
+  "de": "Ich schüttle die Rumbakugel zur Musik.",
+  "ar": "بهز الشخشيخة على إيقاع الموسيقى."
  },
  "klangschale": {
   "de": "Die Klangschale klingt lange nach.",
@@ -3501,7 +3501,7 @@
  },
  "kieselstein": {
   "de": "Der Kieselstein liegt am Fluss.",
-  "ar": "حجر الحصى على البحر أو النهر."
+  "ar": "حجر الحصى موجود جنب النهر."
  },
  "baumstumpf": {
   "de": "Der Baumstumpf bleibt nach dem Fällen.",
@@ -3537,7 +3537,7 @@
  },
  "ingwer": {
   "de": "Der Ingwer macht den Tee scharf.",
-  "ar": "الجنزبيل بيخلي الشاي حامي."
+  "ar": "الجنزبيل بيخلي طعم الشاي حراق."
  },
  "papaya": {
   "de": "Die Papaya reift in der Sonne.",
@@ -3545,15 +3545,15 @@
  },
  "quitte": {
   "de": "Die Quitte isst man gekocht.",
-  "ar": "السفرجلة بتاكل مطبوخة."
+  "ar": "السفرجلة بتتاكل مطبوخة."
  },
  "harfe": {
   "de": "Die Harfe hat viele Saiten.",
   "ar": "الهارب فيه أوتار كتير."
  },
  "mandoline": {
-  "de": "Die Mandoline spielt in Italien.",
-  "ar": "الماندولين بيتعزف في إيطاليا."
+  "de": "Sie spielt Mandoline.",
+  "ar": "هي بتعزف ماندولين."
  },
  "brezel": {
   "de": "Die Brezel schmeckt salzig.",
@@ -3565,7 +3565,7 @@
  },
  "muffin": {
   "de": "Der Muffin passt zum Kaffee.",
-  "ar": "المافن بيناسب مع القهوة."
+  "ar": "المافن بيليق مع القهوة."
  },
  "donut": {
   "de": "Der Donut hat rosa Glasur.",
@@ -3581,11 +3581,11 @@
  },
  "korken": {
   "de": "Der Korken schließt die Weinflasche.",
-  "ar": "سدادة الفلين بتقفل إزازة النبيت."
+  "ar": "سدادة الفلين بتقفل إزازة النبيذ."
  },
  "streichholz": {
   "de": "Das Streichholz zündet die Kerze an.",
-  "ar": "عود الكبريت بيوقع الشمعة."
+  "ar": "عود الكبريت بيولع الشمعة."
  },
  "basketball": {
   "de": "Der Basketball springt auf dem Platz.",
@@ -3593,7 +3593,7 @@
  },
  "schwimmring": {
   "de": "Der Schwimmring trägt das Kind im Pool.",
-  "ar": "العوامة الدائرية شايلة الطفل في الحمام."
+  "ar": "العوامة شايلة الطفل في حمام السباحة."
  },
  "zucchini": {
   "de": "Die Zucchini brät man in der Pfanne.",
@@ -3616,8 +3616,8 @@
   "ar": "الكمكوات بيتاكل بقشرته."
  },
  "litschi": {
-  "de": "Die Litschi hat rauhe Schale.",
-  "ar": "الليتشي قشرتها خشنة."
+  "de": "Die Litschi hat eine raue Schale.",
+  "ar": "الليتشي ليها قشرة خشنة."
  },
  "hagebutte": {
   "de": "Die Hagebutte wird zu Tee gekocht.",
@@ -3688,8 +3688,8 @@
   "ar": "ورقة اللورا بتتطبخ في الشوربة."
  },
  "rosmarinzweig": {
-  "de": "Der Rosmarinzweig duftet nach Mittelmeer.",
-  "ar": "فرع الروزماري ريحته بحر متوسط."
+  "de": "Der Rosmarinzweig riecht gut.",
+  "ar": "فرع الروزماري ريحته حلوة."
  },
  "zitronenscheibe": {
   "de": "Die Zitronenscheibe schwimmt im Glas.",
@@ -3705,7 +3705,7 @@
  },
  "papierschiffchen": {
   "de": "Das Papierschiffchen schwimmt auf der Pfütze.",
-  "ar": "مركب الورق بتعوم على الطين."
+  "ar": "مركب الورق بتعوم على بركة ميه صغيرة."
  },
  "schachbauer": {
   "de": "Der Schachbauer geht nur vorwärts.",
@@ -3736,8 +3736,8 @@
   "ar": "راس الكرنب وزنها اتنين كيلو."
  },
  "rosenkohl": {
-  "de": "Der Rosenkohl schmeckt gedünstet.",
-  "ar": "كرنب بروكسل بيطلع طعمه حلو مستوي."
+  "de": "Der Rosenkohl schmeckt gut.",
+  "ar": "كرنب بروكسل طعمه حلو."
  },
  "seifenblase": {
   "de": "Die Seifenblase schwebt durch die Luft.",
@@ -3753,7 +3753,7 @@
  },
  "eiszapfen": {
   "de": "Der Eiszapfen hängt am Dach.",
-  "ar": "لسان التلج معلق في السطح."
+  "ar": "لسان التلج متدلي من السقف."
  },
  "unterlegscheibe": {
   "de": "Die Unterlegscheibe liegt unter der Mutter.",
@@ -3761,15 +3761,15 @@
  },
  "schraubenmutter": {
   "de": "Die Schraubenmutter hält die Schraube.",
-  "ar": "الصامولة ماسكة المصمار."
+  "ar": "الصامولة ماسكة المسمار."
  },
  "muschelschale": {
   "de": "Die Muschelschale liegt am Strand.",
   "ar": "صدفة المحار على الشاطي."
  },
  "schneckenhaus": {
-  "de": "Das Schneckenhaus trägt die Schnecke.",
-  "ar": "القوقعة بتحمل الحلزون."
+  "de": "Die Schnecke trägt ihr Schneckenhaus.",
+  "ar": "الحلزون شايل قوقعته."
  },
  "rote-bete": {
   "de": "Die Rote Bete färbt die Hände rot.",
@@ -3820,8 +3820,8 @@
   "ar": "الجاك فروت أكبر فاكهة شجر."
  },
  "guave": {
-  "de": "Die Guave schmeckt süß und rosa.",
-  "ar": "الجوافة طعمها حلو ولونها وردي."
+  "de": "Die Guave schmeckt süß.",
+  "ar": "الجوافة طعمها حلو."
  },
  "physalis": {
   "de": "Die Physalis versteckt sich im Blatt.",
@@ -3841,7 +3841,7 @@
  },
  "brotfrucht": {
   "de": "Die Brotfrucht isst man gebraten.",
-  "ar": "ثمرة شجرة الخبز بتاكل مقلية."
+  "ar": "ثمرة شجرة الخبز بتتاكل مقلية."
  },
  "eisvogel": {
   "de": "Der Eisvogel fischt im Bach.",
@@ -3857,7 +3857,7 @@
  },
  "amsel": {
   "de": "Die Amsel singt am Abend.",
-  "ar": "الشحرور بيغني بالليل."
+  "ar": "الشحرور بيغني في المسا."
  },
  "hamster": {
   "de": "Der Hamster sammelt Futter in den Backen.",
@@ -3917,7 +3917,7 @@
  },
  "guerteltier": {
   "de": "Das Gürteltier rollt sich ein.",
-  "ar": "المدرع بيتدحرج زي الكورة."
+  "ar": "المدرع بيتكور على نفسه."
  },
  "gazelle": {
   "de": "Die Gazelle springt über die Ebene.",
@@ -3965,7 +3965,7 @@
  },
  "muschel": {
   "de": "Die Muschel öffnet sich leicht.",
-  "ar": "المحار بيتفتح شوية."
+  "ar": "المحار بيتفتح بسهولة."
  },
  "clownfisch": {
   "de": "Der Clownfisch wohnt in der Anemone.",
@@ -3993,11 +3993,11 @@
  },
  "molch": {
   "de": "Der Molch schwimmt im Teich.",
-  "ar": "السمندل المائي بيعوم في الحوض."
+  "ar": "السمندل المائي بيعوم في البركة."
  },
  "skorpion": {
   "de": "Der Skorpion hat einen giftigen Stachel.",
-  "ar": "العقرب عنده ذيل سام."
+  "ar": "العقرب عنده إبرة سامة في ذيله."
  },
  "regenwurm": {
   "de": "Der Regenwurm lockert die Erde.",
@@ -4017,7 +4017,7 @@
  },
  "geier": {
   "de": "Der Geier kreist über der Steppe.",
-  "ar": "النسر الأصلع بيلف فوق السهول."
+  "ar": "النسر بيلف فوق السهول."
  },
  "schwalbe": {
   "de": "Die Schwalbe kommt im Frühling zurück.",
@@ -4025,7 +4025,7 @@
  },
  "meise": {
   "de": "Die Meise pickt am Futterhaus.",
-  "ar": "القرقف بنقر عند بيت العلف."
+  "ar": "القرقف بينقر عند بيت أكل الطيور."
  },
  "nachtigall": {
   "de": "Die Nachtigall singt in der Nacht.",
