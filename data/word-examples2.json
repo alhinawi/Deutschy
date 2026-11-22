@@ -3802,5 +3802,237 @@
  "eiswuerfelform": {
   "de": "Die Eiswürfelform ist aus Plastik.",
   "ar": "قالب مكعبات التلج مصنوع من بلاستيك."
+ },
+ "flamingo": {
+  "de": "Der Flamingo ist rosa und groß.",
+  "ar": "الفلامنجو لونه وردي وكبير."
+ },
+ "kakadu": {
+  "de": "Der Kakadu hat einen gelben Kamm.",
+  "ar": "ببغاء الكوكاتو عنده عرف أصفر."
+ },
+ "durian": {
+  "de": "Die Durian wächst in Asien.",
+  "ar": "الدوريان بينبت في آسيا."
+ },
+ "jackfrucht": {
+  "de": "Die Jackfrucht kann fünfzig Kilo wiegen.",
+  "ar": "الجاك فروت ممكن توصل خمسين كيلو."
+ },
+ "guave": {
+  "de": "Ich trinke gern Saft von der Guave.",
+  "ar": "بحب أشرب عصير الجوافة."
+ },
+ "physalis": {
+  "de": "Die Physalis schmeckt süß und sauer.",
+  "ar": "الحرنكش طعمه حلو وحامض."
+ },
+ "rambutan": {
+  "de": "Die Rambutan ist rot und weich innen.",
+  "ar": "الرامبوتان حمرا وطري من جوه."
+ },
+ "chirimoya": {
+  "de": "Die Chirimoya hat schwarze Kerne.",
+  "ar": "الشيريمويا فيها بزر أسود."
+ },
+ "mangostane": {
+  "de": "Die Mangostane hat weißes Fruchtfleisch.",
+  "ar": "المانجوستين لحمتها بيضا."
+ },
+ "brotfrucht": {
+  "de": "Die Brotfrucht hängt hoch im Baum.",
+  "ar": "ثمرة شجرة الخبز معلقة عالي في الشجرة."
+ },
+ "eisvogel": {
+  "de": "Der Eisvogel glänzt blau und orange.",
+  "ar": "الرفراف بيلمع باللون الأزرق والبرتقالي."
+ },
+ "elster": {
+  "de": "Die Elster ist schwarz und weiß.",
+  "ar": "العقعق لونه أسود وأبيض."
+ },
+ "rotkehlchen": {
+  "de": "Das Rotkehlchen fliegt im Garten.",
+  "ar": "أبو الحنّة بيطير في الجنينة."
+ },
+ "amsel": {
+  "de": "Die Amsel sucht Würmer im Gras.",
+  "ar": "الشحرور بيدور على دود في الحشيش."
+ },
+ "hamster": {
+  "de": "Der Hamster läuft im Rad.",
+  "ar": "الهامستر بيجري في العجلة."
+ },
+ "meerschweinchen": {
+  "de": "Das Meerschweinchen isst gern Salat.",
+  "ar": "خنزير غيني بيحب ياكل خس."
+ },
+ "wellensittich": {
+  "de": "Der Wellensittich ist grün und klein.",
+  "ar": "العصفور الأسترالي أخضر وصغير."
+ },
+ "kanarienvogel": {
+  "de": "Der Kanarienvogel ist gelb.",
+  "ar": "الكناريا لونها أصفر."
+ },
+ "goldfisch": {
+  "de": "Der Goldfisch schwimmt im Kreis.",
+  "ar": "السمكة الدهبية بتعوم في دواير."
+ },
+ "schwein": {
+  "de": "Das Schwein lebt auf dem Bauernhof.",
+  "ar": "الخنزير عايش في المزرعة."
+ },
+ "hahn": {
+  "de": "Der Hahn steht auf dem Misthaufen.",
+  "ar": "الديك واقف على كومة الروث."
+ },
+ "stier": {
+  "de": "Der Stier grast auf der Weide.",
+  "ar": "الثور بيرعى في المرعى."
+ },
+ "bueffel": {
+  "de": "Der Büffel mag den Schlamm.",
+  "ar": "الجاموس بيحب الطين."
+ },
+ "pony": {
+  "de": "Das Pony frisst einen Apfel.",
+  "ar": "البوني بياكل تفاحة."
+ },
+ "fledermaus": {
+  "de": "Die Fledermaus schläft am Tag.",
+  "ar": "الخفاش بينام في النهار."
+ },
+ "faultier": {
+  "de": "Das Faultier hängt im Baum.",
+  "ar": "الكسلان متعلق في الشجرة."
+ },
+ "ameisenbaer": {
+  "de": "Der Ameisenbär frisst viele Ameisen.",
+  "ar": "آكل النمل بياكل نمل كتير."
+ },
+ "erdmaennchen": {
+  "de": "Das Erdmännchen wohnt in der Wüste.",
+  "ar": "الميركات ساكن في الصحرا."
+ },
+ "guerteltier": {
+  "de": "Das Gürteltier hat einen harten Panzer.",
+  "ar": "المدرع عنده درع صلب."
+ },
+ "gazelle": {
+  "de": "Die Gazelle frisst Gras am Morgen.",
+  "ar": "الغزالة بتاكل الحشيش الصبح."
+ },
+ "antilope": {
+  "de": "Die Antilope hat kleine Hörner.",
+  "ar": "الظبي عنده قرون صغيرة."
+ },
+ "jaguar": {
+  "de": "Der Jaguar hat schwarze Flecken.",
+  "ar": "اليجور عليه بقع سودا."
+ },
+ "schakal": {
+  "de": "Der Schakal jagt in der Nacht.",
+  "ar": "ابن آوى بيصطاد بالليل."
+ },
+ "stinktier": {
+  "de": "Das Stinktier hat einen weißen Streifen.",
+  "ar": "الظربان عليه خط أبيض."
+ },
+ "robbe": {
+  "de": "Die Robbe schwimmt im kalten Wasser.",
+  "ar": "الفقمة بتعوم في الميه السقعة."
+ },
+ "seeloewe": {
+  "de": "Der Seelöwe ruht am Strand.",
+  "ar": "أسد البحر بيستريح على الشاطي."
+ },
+ "walross": {
+  "de": "Das Walross ruht auf dem Eis.",
+  "ar": "الفظ بيستريح على التلج."
+ },
+ "rochen": {
+  "de": "Der Rochen hat einen langen Schwanz.",
+  "ar": "سمكة الراي ذيلها طويل."
+ },
+ "hummer": {
+  "de": "Der Hummer hat große Scheren.",
+  "ar": "الكركند عنده كلابات كبيرة."
+ },
+ "tintenfisch": {
+  "de": "Der Tintenfisch schwimmt rückwärts.",
+  "ar": "الحبار بيعوم بالعكس."
+ },
+ "muschel": {
+  "de": "Die Muschel liegt im Sand.",
+  "ar": "المحار موجود في الرملة."
+ },
+ "clownfisch": {
+  "de": "Der Clownfisch ist orange und weiß.",
+  "ar": "سمكة المهرج لونها برتقاني وأبيض."
+ },
+ "kugelfisch": {
+  "de": "Der Kugelfisch wird rund wie ein Ball.",
+  "ar": "السمكة المنتفخة بتبقى مستديرة زي الكورة."
+ },
+ "gecko": {
+  "de": "Der Gecko jagt Insekten am Abend.",
+  "ar": "الوزغة بتصطاد الحشرات بالليل."
+ },
+ "leguan": {
+  "de": "Der Leguan isst Blätter.",
+  "ar": "الإجوانا بتاكل ورق الشجر."
+ },
+ "kroete": {
+  "de": "Die Kröte sitzt am Teich.",
+  "ar": "العلجوم قاعد جنب الحوض."
+ },
+ "salamander": {
+  "de": "Der Salamander ist schwarz und gelb.",
+  "ar": "السمندل لونه أسود وأصفر."
+ },
+ "molch": {
+  "de": "Der Molch hat einen flachen Schwanz.",
+  "ar": "السمندل المائي ذيله مسطح."
+ },
+ "skorpion": {
+  "de": "Der Skorpion lebt in der Wüste.",
+  "ar": "العقرب عايش في الصحرا."
+ },
+ "regenwurm": {
+  "de": "Der Regenwurm kommt nach dem Regen raus.",
+  "ar": "دودة الأرض بتطلع بعد المطر."
+ },
+ "kakerlake": {
+  "de": "Die Kakerlake läuft sehr schnell.",
+  "ar": "الصرصار بيجري بسرعة جدا."
+ },
+ "zecke": {
+  "de": "Die Zecke wartet auf ein Tier.",
+  "ar": "القرادة بتستنى حيوان."
+ },
+ "falke": {
+  "de": "Der Falke fliegt sehr hoch.",
+  "ar": "الصقر بيطير عالي جدا."
+ },
+ "geier": {
+  "de": "Der Geier sieht weit von oben.",
+  "ar": "النسر الأصلع بيشوف من فوق لبعيد."
+ },
+ "schwalbe": {
+  "de": "Die Schwalbe baut ein Nest am Haus.",
+  "ar": "السنونو بتبني عش على البيت."
+ },
+ "meise": {
+  "de": "Die Meise ist klein und bunt.",
+  "ar": "القرقف صغير وملون."
+ },
+ "nachtigall": {
+  "de": "Die Nachtigall versteckt sich im Busch.",
+  "ar": "العندليب بيستخبى في الشجيرة."
+ },
+ "emu": {
+  "de": "Der Emu läuft sehr schnell.",
+  "ar": "الإيمو بيجري بسرعة جدا."
  }
 }
