@@ -83,4 +83,12 @@ assert(second.leberwurst.ar.includes('سجق الكبدة'));
 assert(second.marder.ar.includes('الدلق'));
 assert(second.hecht.ar.includes('الكراكي'));
 assert(second.hummel.ar.includes('النحلة الطنانة'));
-console.log('PASS 68 bilingual meaning regressions for reviewed vocabulary examples');
+// Topics 55-60: preserve the object, tense and avoid unsourced road rules.
+assert(second.muellwagen.ar.includes('بتفضي'));
+assert(second.waescheklammer.ar.includes('مشبك الغسيل'));
+assert(second.giesskanne.ar.includes('إبريق الري'));
+assert(second.blumentopf.ar.includes('تربة جديدة'));
+assert(second.schneeflocke.ar.includes('ندفة التلج'));
+assert(first.feder.ar.includes('بتقع'));
+assert(second.moped.de.includes('gehört meiner Schwester'));
+console.log('PASS 75 bilingual meaning regressions for reviewed vocabulary examples');
