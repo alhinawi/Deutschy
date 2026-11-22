@@ -297,7 +297,7 @@
  },
  "rock": {
   "de": "Der Rock passt zur Bluse.",
-  "ar": "الجيبة رايقة على البلوزة."
+  "ar": "الجيبة بتليق على البلوزة."
  },
  "mantel": {
   "de": "Der Mantel ist lang und warm.",
@@ -321,7 +321,7 @@
  },
  "pferd": {
   "de": "Das Pferd frisst Heu im Stall.",
-  "ar": "الحصان بياكل تبن في الاسطبل."
+  "ar": "الحصان بياكل دريس في الإسطبل."
  },
  "kuh": {
   "de": "Die Kuh steht auf der Weide.",
@@ -376,8 +376,8 @@
   "ar": "الودن حساسة في الغطس."
  },
  "zahn": {
-  "de": "Der Zahn muss zum Zahnarzt.",
-  "ar": "السنة محتاجة دكتور أسنان."
+  "de": "Der Zahnarzt untersucht meinen Zahn.",
+  "ar": "دكتور السنان بيكشف على سنتي."
  },
  "herz": {
   "de": "Das Herz pumpt das Blut.",
@@ -389,7 +389,7 @@
  },
  "buch": {
   "de": "Das Buch hat zweihundert Seiten.",
-  "ar": "الكتاب فيه متين صفحة."
+  "ar": "الكتاب فيه ميتين صفحة."
  },
  "stift": {
   "de": "Der Stift liegt neben dem Heft.",
@@ -485,11 +485,11 @@
  },
  "koch": {
   "de": "Der Koch würzt das Essen.",
-  "ar": "الشيف بتبل الأكل."
+  "ar": "الشيف بيتبل الأكل."
  },
  "polizist": {
   "de": "Der Polizist zeigt uns den Weg.",
-  "ar": "البوليسي بيورينا الطريق."
+  "ar": "الشرطي بيورينا الطريق."
  },
  "baecker": {
   "de": "Der Bäcker öffnet um sechs Uhr morgens.",
@@ -521,7 +521,7 @@
  },
  "regen": {
   "de": "Der Regen hört am Abend auf.",
-  "ar": "المطر بتبطّل بالليل."
+  "ar": "المطر بيبطل في المسا."
  },
  "hand": {
   "de": "Die Hand schreibt den Brief.",
@@ -541,7 +541,7 @@
  },
  "muetze": {
   "de": "Die Mütze vergesse ich nie im Winter.",
-  "ar": "الطاقية مبهمهاش في الشتا أبدا."
+  "ar": "مبنساش الطاقية في الشتا أبدا."
  },
  "kino": {
   "de": "Das Kino ist am Wochenende voll.",

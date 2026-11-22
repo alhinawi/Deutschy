@@ -309,11 +309,11 @@
  },
  "hemd": {
   "de": "Das Hemd ist frisch gebügelt.",
-  "ar": "القميص مكوي على النضافة."
+  "ar": "القميص لسه مكوي."
  },
  "jacke": {
   "de": "Die Jacke hält warm.",
-  "ar": "الجاكيت بتدفي."
+  "ar": "الجاكتة بتدفي."
  },
  "schuh": {
   "de": "Der Schuh drückt ein bisschen.",
@@ -365,7 +365,7 @@
  },
  "pferd": {
   "de": "Das Pferd läuft sehr schnell.",
-  "ar": "الحصان بيعدي بسرعة جدا."
+  "ar": "الحصان بيجري بسرعة جدا."
  },
  "kuh": {
   "de": "Die Kuh gibt frische Milch.",
@@ -393,7 +393,7 @@
  },
  "esel": {
   "de": "Der Esel trägt schwere Säcke.",
-  "ar": "الحمار بيشيل شوال تقيلة."
+  "ar": "الحمار بيشيل شوالات تقيلة."
  },
  "ziege": {
   "de": "Die Ziege klettert auf den Berg.",
@@ -413,7 +413,7 @@
  },
  "auge": {
   "de": "Das Auge ist braun.",
-  "ar": "العين عسلي."
+  "ar": "العين لونها بني."
  },
  "ohr": {
   "de": "Das Ohr hört jeden Ton.",
@@ -485,7 +485,7 @@
  },
  "zeitung": {
   "de": "Die Zeitung kommt jeden Morgen.",
-  "ar": "الجرنان بييجي كل الصبح."
+  "ar": "الجرنال بييجي كل يوم الصبح."
  },
  "heft": {
   "de": "Das Heft ist für die Hausaufgaben.",
@@ -533,7 +533,7 @@
  },
  "wueste": {
   "de": "Die Wüste ist heiß und trocken.",
-  "ar": "الصحرا حرة وناشفة."
+  "ar": "الصحرا حارة وجافة."
  },
  "insel": {
   "de": "Die Insel ist klein und grün.",
@@ -553,7 +553,7 @@
  },
  "polizist": {
   "de": "Der Polizist hilft den Leuten.",
-  "ar": "البوليسي بيساعد الناس."
+  "ar": "الشرطي بيساعد الناس."
  },
  "baecker": {
   "de": "Der Bäcker backt frisches Brot.",
