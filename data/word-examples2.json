@@ -937,15 +937,15 @@
  },
  "muenze": {
   "de": "Die Münze fällt in den Automaten.",
-  "ar": "العملة وقعت في الماكينة."
+  "ar": "العملة بتقع في الماكينة."
  },
  "tennisschlaeger": {
   "de": "Der Tennisschläger liegt im Kofferraum.",
   "ar": "مضرب التنس في شنطة العربية."
  },
  "geige": {
-  "de": "Die Geige übt das Kind jeden Tag.",
-  "ar": "الكمنجة الطفل بيتمرن عليها كل يوم."
+  "de": "Das Kind übt jeden Tag auf der Geige.",
+  "ar": "الطفل بيتمرن على الكمان كل يوم."
  },
  "mikrofon": {
   "de": "Das Mikrofon testet der Sänger zuerst.",
@@ -956,8 +956,8 @@
   "ar": "السماعة شغالة على ودن واحدة بس."
  },
  "floete": {
-  "de": "Die Flöte spielt in der Schule.",
-  "ar": "الناي بيتعزف في المدرسة."
+  "de": "Sie spielt in der Schule Flöte.",
+  "ar": "هي بتعزف فلوت في المدرسة."
  },
  "trompete": {
   "de": "Die Trompete hört man bis auf die Straße.",
@@ -985,11 +985,11 @@
  },
  "kamin": {
   "de": "Am Kamin sitzen wir am Abend.",
-  "ar": "بنقعد جنب المدفأة بالليل."
+  "ar": "بنقعد جنب المدفأة في المسا."
  },
  "buegeleisen": {
   "de": "Das Bügeleisen bügelt das Hemd glatt.",
-  "ar": "المكواة بتكوي القميص."
+  "ar": "المكواة بتكوي القميص لحد ما يبقى مفرود."
  },
  "radio": {
   "de": "Das Radio bringt die Nachrichten um sechs.",
@@ -1013,7 +1013,7 @@
  },
  "fass": {
   "de": "Das Fass rollt den Hügel hinunter.",
-  "ar": "البرميل بيتدحرج على الهضبة."
+  "ar": "البرميل بيتدحرج نازل من التل."
  },
  "magnet": {
   "de": "Der Magnet zieht die Nägel an.",
@@ -1021,7 +1021,7 @@
  },
  "schlittschuh": {
   "de": "Der Schlittschuh braucht eine scharfe Klinge.",
-  "ar": "الزلاجة محتاجة حد حاد."
+  "ar": "حذاء التزلج محتاج شفرة حادة."
  },
  "trommel": {
   "de": "Die Trommel hört man von weitem.",
@@ -1077,7 +1077,7 @@
  },
  "sushi": {
   "de": "Das Sushi hole ich vom Japaner.",
-  "ar": "السوشي بجيبه من الياباني."
+  "ar": "بجيب السوشي من المطعم الياباني."
  },
  "pfannkuchen": {
   "de": "Der Pfannkuchen bekommt Apfelmus.",
@@ -1085,7 +1085,7 @@
  },
  "torte": {
   "de": "Die Torte hat drei Schichten.",
-  "ar": "التورتة ليها تلات طوابق."
+  "ar": "التورتة فيها تلات طبقات."
  },
  "spaghetti": {
   "de": "Die Spaghetti kochen acht Minuten.",
@@ -1101,7 +1101,7 @@
  },
  "rose": {
   "de": "Die Rose schenke ich meiner Mutter.",
-  "ar": "الوردة هديها لماما."
+  "ar": "بدي الوردة لماما هدية."
  },
  "tulpe": {
   "de": "Die Tulpe kommt aus Holland.",
@@ -1124,12 +1124,12 @@
   "ar": "في الكهف خفافيش معلقة."
  },
  "gletscher": {
-  "de": "Der Gletscher ist aus Eis und Schnee.",
-  "ar": "الجبل الجليدي من تلج وثلج."
+  "de": "Der Gletscher besteht aus Eis.",
+  "ar": "النهر الجليدي مكون من تلج."
  },
  "blitz": {
   "de": "Der Blitz trifft den Baum.",
-  "ar": "البرق ضرب الشجرة."
+  "ar": "البرق بيضرب الشجرة."
  },
  "feld": {
   "de": "Das Feld gehört dem Bauern.",
@@ -1153,7 +1153,7 @@
  },
  "halskette": {
   "de": "Die Halskette passt zum Kleid.",
-  "ar": "العقد رايق على الفستان."
+  "ar": "العقد بيليق على الفستان."
  },
  "pinsel": {
   "de": "Der Pinsel braucht neue Farbe.",
