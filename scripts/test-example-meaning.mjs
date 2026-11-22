@@ -110,4 +110,13 @@ assert(second.rechen.ar.includes('مشط الجنينة'));
 assert(second.spaten.ar.includes('حوض الزرع'));
 assert(first.badewanne.de.includes('mit warmem Wasser'));
 assert(second.handtuch.ar.includes('بتنشف'));
-console.log('PASS 92 bilingual meaning regressions for reviewed vocabulary examples');
+// Topics 13-18: preserve present tense, direction and sold-out meaning.
+assert(first.biene.de.includes('Nektar'));
+assert(first.biene.ar.includes('رحيق'));
+assert(first.ball.ar.includes('بتتدحرج'));
+assert(second.loeffel.ar.includes('بتقع'));
+assert(second.stadion.ar.includes('تذاكر'));
+assert(second.stadion.ar.includes('اتباعت'));
+assert(second.ananas.ar.includes('الجنوب'));
+assert(first.pflaume.ar.includes('أزرق غامق'));
+console.log('PASS 100 bilingual meaning regressions for reviewed vocabulary examples');
