@@ -62,4 +62,15 @@ assert(second.mohn.ar.includes('الخشخاش'));
 assert(first.eiche.ar.includes('شجرة البلوط'));
 assert(second.rollstuhl.de.includes('diese Tür'));
 assert(second.sonnenfinsternis.de.includes('verdeckt der Mond'));
-console.log('PASS 49 bilingual meaning regressions for reviewed vocabulary examples');
+// Topics 43-48: do not silently change the device, fruit, bread or garden part.
+assert(second.kopierer.ar.includes('ماكينة التصوير'));
+assert(second.tablet.ar.includes('كابل شحن'));
+assert(second.akkuschrauber.ar.includes('المفك الكهربا'));
+assert(second.vollkornbrot.ar.includes('الحبوب الكاملة'));
+assert(second.johannisbeere.ar.includes('الكشمش'));
+assert(second.brombeere.ar.includes('التوت الأسود'));
+assert(first.gartenschlauch.ar.includes('حوض الزرع'));
+assert(second.weinglas.ar.includes('النبيذ'));
+assert(first.rohrzange.ar.includes('مفتاح المواسير'));
+assert(second.spielkonsole.ar.includes('جهاز الألعاب'));
+console.log('PASS 59 bilingual meaning regressions for reviewed vocabulary examples');
