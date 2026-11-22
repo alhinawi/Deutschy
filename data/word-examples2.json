@@ -1,7 +1,7 @@
 {
  "mutter": {
   "de": "Meine Mutter kocht heute Abend.",
-  "ar": "ماما بتطبخ النهارده بالليل."
+  "ar": "ماما بتطبخ النهارده في المسا."
  },
  "vater": {
   "de": "Mein Vater liest gern die Zeitung.",
@@ -33,7 +33,7 @@
  },
  "banane": {
   "de": "Ich kaufe drei Bananen für den Weg.",
-  "ar": "بشتري تلاتة موز للطريق."
+  "ar": "بشتري تلات موزات للطريق."
  },
  "brot": {
   "de": "Wir essen das Brot mit Käse.",
@@ -92,8 +92,8 @@
   "ar": "الخيارة بقطعها شرايح."
  },
  "erdbeere": {
-  "de": "Die Erdbeere kostet im Winter mehr.",
-  "ar": "الفراولة بتغلى في الشتا."
+  "de": "Ich wasche die Erdbeere.",
+  "ar": "بغسل الفراولة."
  },
  "traube": {
   "de": "Die Traube ist klein und süß.",
@@ -145,7 +145,7 @@
  },
  "bett": {
   "de": "Das Bett ist frisch gemacht.",
-  "ar": "السرير متفرش نضيف."
+  "ar": "السرير لسه مترتب."
  },
  "fenster": {
   "de": "Mach bitte das Fenster zu.",
@@ -161,7 +161,7 @@
  },
  "uhr": {
   "de": "Die Uhr zeigt halb acht.",
-  "ar": "الساعة بتظهر سبعة ونص."
+  "ar": "الساعة بتقول سبعة ونص."
  },
  "spiegel": {
   "de": "Der Spiegel hängt neben dem Schrank.",
@@ -173,7 +173,7 @@
  },
  "schule": {
   "de": "Die Schule ist heute früh aus.",
-  "ar": "المدرسة خلصت بدري النهارده."
+  "ar": "المدرسة بتخلص بدري النهارده."
  },
  "bahnhof": {
   "de": "Wir treffen uns am Bahnhof.",
@@ -225,7 +225,7 @@
  },
  "apotheke": {
   "de": "Die Apotheke ist um die Ecke.",
-  "ar": "الصيدلية جنبنا هنا."
+  "ar": "الصيدلية بعد الناصية."
  },
  "hotel": {
   "de": "Das Hotel hat ein Frühstücksbuffet.",
@@ -237,7 +237,7 @@
  },
  "zug": {
   "de": "Der Zug kommt auf Gleis drei.",
-  "ar": "القطار جاي على رصيف تلاتة."
+  "ar": "القطر جاي على السكة رقم تلاتة."
  },
  "fahrrad": {
   "de": "Mein Fahrrad braucht Luft in den Reifen.",
@@ -245,7 +245,7 @@
  },
  "flugzeug": {
   "de": "Das Flugzeug fliegt über die Stadt.",
-  "ar": "الطيارة بتاير فوق المدينة."
+  "ar": "الطيارة بتطير فوق المدينة."
  },
  "taxi": {
   "de": "Das Taxi kostet zehn Euro.",
@@ -553,7 +553,7 @@
  },
  "tuer": {
   "de": "Die Tür klemmt ein bisschen.",
-  "ar": "الباب بيتقل شوية."
+  "ar": "الباب معلق شوية."
  },
  "lampe": {
   "de": "Die Lampe über dem Tisch ist neu.",
