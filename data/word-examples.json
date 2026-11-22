@@ -2536,8 +2536,8 @@
   "ar": "الكاتدرائية عمرها أكتر من سبعمية سنة."
  },
  "minarett": {
-  "de": "Das Minarett ruft zum Gebet.",
-  "ar": "المئذنة بتنادي للصلاة."
+  "de": "Das Minarett steht neben der Moschee.",
+  "ar": "المئذنة موجودة جنب الجامع."
  },
  "synagoge": {
   "de": "Die Synagoge öffnet am Freitag.",
@@ -2545,7 +2545,7 @@
  },
  "maehdrescher": {
   "de": "Der Mähdrescher erntet das Kornfeld.",
-  "ar": "الحصادة بتجمع حقل القمح."
+  "ar": "الحصادة بتحصد القمح في الغيط."
  },
  "kran": {
   "de": "Der Kran hebt die Stahlträger hoch.",
@@ -2580,8 +2580,8 @@
   "ar": "الطائرة الشراعية بتطير من غير موتور."
  },
  "moped": {
-  "de": "Das Moped fährt höchstens fünfzig.",
-  "ar": "الموتوسيكل الصغير بيمشي خمسين كحد أقصى."
+  "de": "Das Moped steht vor dem Haus.",
+  "ar": "الموتوسيكل الصغير واقف قدام البيت."
  },
  "tandem": {
   "de": "Das Tandem fahren zwei Personen.",
@@ -2649,7 +2649,7 @@
  },
  "palme": {
   "de": "Die Palme wächst am Strand.",
-  "ar": "النخلة كبيرة على الشاطي."
+  "ar": "النخلة بتنمو على الشاطئ."
  },
  "spinnennetz": {
   "de": "Das Spinnennetz glänzt im Morgentau.",
@@ -2657,7 +2657,7 @@
  },
  "feder": {
   "de": "Die Feder fällt vom Vogel.",
-  "ar": "الريشة وقعت من الطائر."
+  "ar": "الريشة بتقع من الطائر."
  },
  "koralle": {
   "de": "Die Koralle lebt im warmen Meer.",
@@ -2701,7 +2701,7 @@
  },
  "schubkarre": {
   "de": "Die Schubkarre trägt die Erde.",
-  "ar": "عربية اليد شايلة الطرب."
+  "ar": "عربية اليد شايلة التراب."
  },
  "fingerhut": {
   "de": "Der Fingerhut schützt den Finger beim Nähen.",

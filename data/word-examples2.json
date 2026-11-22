@@ -2541,7 +2541,7 @@
  },
  "muellwagen": {
   "de": "Der Müllwagen leert die Tonnen.",
-  "ar": "عربية الزبالة بتوضي البراميل."
+  "ar": "عربية الزبالة بتفضي صناديق الزبالة."
  },
  "wohnmobil": {
   "de": "Das Wohnmobil steht am Campingplatz.",
@@ -2556,16 +2556,16 @@
   "ar": "الغواصة بتفضل تلات أسابيع تحت المية."
  },
  "rolltreppe": {
-  "de": "Auf der Rolltreppe steht man rechts.",
-  "ar": "على السلم المتحرك بنقف على اليمين."
+  "de": "Ich stehe auf der Rolltreppe.",
+  "ar": "أنا واقف على السلم المتحرك."
  },
  "segelflugzeug": {
   "de": "Das Segelflugzeug nutzt den warmen Wind.",
   "ar": "الطيارة الشراعية بتستخدم الهوا السخن."
  },
  "moped": {
-  "de": "Das Moped darf man ab fünfzehn fahren.",
-  "ar": "الموتوسيكل الصغير مسموح بيه من خمستاشر سنة."
+  "de": "Das Moped gehört meiner Schwester.",
+  "ar": "الموتوسيكل الصغير بتاع أختي."
  },
  "tandem": {
   "de": "Das Tandem braucht zwei, die treten.",
@@ -2573,7 +2573,7 @@
  },
  "pferdewagen": {
   "de": "Der Pferdewagen klappert über das Kopfsteinpflaster.",
-  "ar": "الكارو بتعمل صوت على البلاط."
+  "ar": "عربية الحنطور بتعمل صوت وهي ماشية على رصف الحجارة."
  },
  "anzug": {
   "de": "Der Anzug sitzt wie angegossen.",
@@ -2597,7 +2597,7 @@
  },
  "waescheklammer": {
   "de": "Die Wäscheklammer liegt im Korb.",
-  "ar": "الشبصة في السلة."
+  "ar": "مشبك الغسيل في السلة."
  },
  "naehmaschine": {
   "de": "Die Nähmaschine ist älter als ich.",
@@ -2617,7 +2617,7 @@
  },
  "huegel": {
   "de": "Der Hügel ist gut zum Schlittenfahren.",
-  "ar": "التلة كويسة للتزلج."
+  "ar": "التل مناسب للتزحلق بالزلاجة."
  },
  "tal": {
   "de": "Das Tal bleibt morgens im Schatten.",
@@ -2653,11 +2653,11 @@
  },
  "schneeflocke": {
   "de": "Die Schneeflocke hat sechs Ecken.",
-  "ar": "بورة التلج ليها ست زوايا."
+  "ar": "ندفة التلج ليها ست زوايا."
  },
  "gewitter": {
   "de": "Das Gewitter treibt uns ins Haus.",
-  "ar": "العاصفة دخلتنا البيت."
+  "ar": "العاصفة الرعدية بتخلينا ندخل البيت."
  },
  "teddybaer": {
   "de": "Der Teddybär hat nur noch ein Auge.",
@@ -2693,15 +2693,15 @@
  },
  "giesskanne": {
   "de": "Die Gießkanne hält zehn Liter.",
-  "ar": "المركن بيشيل عشرة لتر."
+  "ar": "إبريق الري بيساع عشرة لتر."
  },
  "blumentopf": {
   "de": "Der Blumentopf braucht neue Erde.",
-  "ar": "القصيصة محتاجة طراب جديد."
+  "ar": "أصيص الزرع محتاج تربة جديدة."
  },
  "schubkarre": {
   "de": "Die Schubkarre steht hinter dem Schuppen.",
-  "ar": "العربية اليدوية ورا العنبر."
+  "ar": "عربية اليد ورا مخزن الجنينة."
  },
  "fingerhut": {
   "de": "Der Fingerhut liegt im Nähkästchen.",
