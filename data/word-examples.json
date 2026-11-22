@@ -3065,7 +3065,7 @@
  },
  "kulturbeutel": {
   "de": "Der Kulturbeutel liegt im Koffer.",
-  "ar": "شنطة أدوات الحمام في الشنطة."
+  "ar": "شنطة أدوات الحمام جوه شنطة السفر."
  },
  "toilettenpapierrolle": {
   "de": "Die Toilettenpapierrolle hängt im Bad.",
@@ -3125,7 +3125,7 @@
  },
  "bilderrahmen": {
   "de": "Der Bilderrahmen hängt im Flur.",
-  "ar": "البرواز معلق في الصالة."
+  "ar": "البرواز معلق في الطرقة."
  },
  "vase": {
   "de": "Die Vase steht auf dem Tisch.",
@@ -3169,7 +3169,7 @@
  },
  "messschieber": {
   "de": "Der Messschieber misst die Schraube genau.",
-  "ar": "القدمة بتقيس المصمار بدقة."
+  "ar": "القدمة بتقيس المسمار بدقة."
  },
  "salzstreuer": {
   "de": "Der Salzstreuer streut Salz auf die Suppe.",
@@ -3225,7 +3225,7 @@
  },
  "nussknacker": {
   "de": "Der Nussknacker knackt die Walnuss.",
-  "ar": "كسارة البندق بتكسر البندق."
+  "ar": "كسارة البندق بتكسر عين الجمل."
  },
  "kaffeemuehle": {
   "de": "Die Kaffeemühle mahlt die Bohnen.",
@@ -3261,7 +3261,7 @@
  },
  "glocke": {
   "de": "Die Glocke läutet zum Gottesdienst.",
-  "ar": "الجرس بيرن قبل الصلاة."
+  "ar": "الجرس بيرن عشان صلاة الكنيسة."
  },
  "kerzenstaender": {
   "de": "Der Kerzenständer hält die Kerze.",
@@ -3272,8 +3272,8 @@
   "ar": "الشفّاطة في العصير."
  },
  "essstaebchen": {
-  "de": "Die Essstäbchen essen den Reis.",
-  "ar": "عيدان الأكل بتاكل الروز."
+  "de": "Mit den Essstäbchen esse ich Reis.",
+  "ar": "باكل الرز بعيدان الأكل."
  },
  "lesezeichen": {
   "de": "Das Lesezeichen markiert die Seite.",
