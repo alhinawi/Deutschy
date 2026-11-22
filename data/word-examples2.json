@@ -1769,7 +1769,7 @@
  },
  "fueller": {
   "de": "Der Füller gehört meinem Vater.",
-  "ar": "القلم الحبر بتاع بابا."
+  "ar": "قلم الحبر بتاع بابا."
  },
  "schreibblock": {
   "de": "Der Schreibblock ist fast voll.",
@@ -1777,11 +1777,11 @@
  },
  "kreide": {
   "de": "Die Kreide quietscht auf der Tafel.",
-  "ar": "الطباشيرة بتزق على السبورة."
+  "ar": "الطباشير بيصر على السبورة."
  },
  "adler": {
   "de": "Der Adler sieht die Maus von weitem.",
-  "ar": "النسر بيشوف الفار من بعيد."
+  "ar": "العقاب بيشوف الفار من بعيد."
  },
  "rabe": {
   "de": "Der Rabe klaut glänzende Sachen.",
@@ -1797,7 +1797,7 @@
  },
  "specht": {
   "de": "Der Specht baut eine Höhle in den Baum.",
-  "ar": "نقار الخشب بيعمل بيت في الشجرة."
+  "ar": "نقار الخشب بيعمل تجويف في الشجرة."
  },
  "kolibri": {
   "de": "Der Kolibri trinkt den Nektar der Blume.",
@@ -1821,11 +1821,11 @@
  },
  "muecke": {
   "de": "Die Mücke sticht in der Nacht.",
-  "ar": "الناموسية بتقرص بالليل."
+  "ar": "الناموسة بتقرص بالليل."
  },
  "fliege": {
   "de": "Die Fliege nervt beim Essen.",
-  "ar": "الذبانة بتزعق وقت الأكل."
+  "ar": "الدبانة بتضايقنا وإحنا بناكل."
  },
  "wespe": {
   "de": "Die Wespe baut ihr Nest unter dem Dach.",
@@ -1841,11 +1841,11 @@
  },
  "schnecke": {
   "de": "Die Schnecke kommt nach dem Regen.",
-  "ar": "البزاقة بتطلع بعد المطر."
+  "ar": "الحلزون بيطلع بعد المطر."
  },
  "oktopus": {
   "de": "Der Oktopus versteckt sich hinter dem Felsen.",
-  "ar": "الأخطبوط بيخب نفسه ورا الصخرة."
+  "ar": "الأخطبوط بيستخبى ورا الصخرة."
  },
  "seeigel": {
   "de": "Der Seeigel sitzt zwischen den Steinen.",
@@ -1916,8 +1916,8 @@
   "ar": "الزنبقة في الفازة."
  },
  "loewenzahn": {
-  "de": "Der Löwenzahn fliegt als Samen durch die Luft.",
-  "ar": "الهندبا بتاير بذورها في الهوا."
+  "de": "Die Samen des Löwenzahns fliegen durch die Luft.",
+  "ar": "بذور الهندباء بتطير في الهوا."
  },
  "gaensebluemchen": {
   "de": "Das Gänseblümchen wächst zwischen den Steinen.",
@@ -1929,7 +1929,7 @@
  },
  "mohn": {
   "de": "Der Mohn wächst am Feldrand.",
-  "ar": "شقائق النعمان بتطلع على حرف الحقل."
+  "ar": "الخشخاش بيطلع على طرف الغيط."
  },
  "seerose": {
   "de": "Die Seerose öffnet sich am Morgen.",
@@ -1937,7 +1937,7 @@
  },
  "eiche": {
   "de": "Die Eiche gibt im Sommer Schatten.",
-  "ar": "البلوطة بتظلل في الصيف."
+  "ar": "شجرة البلوط بتعمل ضل في الصيف."
  },
  "tannenzapfen": {
   "de": "Der Tannenzapfen liegt auf dem Waldweg.",
@@ -1945,7 +1945,7 @@
  },
  "eichel": {
   "de": "Die Eichel fällt im Herbst vom Baum.",
-  "ar": "البلوط الصغير بيسقط من الشجرة في الخريف."
+  "ar": "ثمرة البلوط بتقع من الشجرة في الخريف."
  },
  "strauch": {
   "de": "Der Strauch braucht einen Schnitt.",
@@ -1957,7 +1957,7 @@
  },
  "klippe": {
   "de": "Von der Klippe springt keiner.",
-  "ar": "محدش بينط من على الصخرة."
+  "ar": "محدش بينط من فوق الجرف."
  },
  "canyon": {
   "de": "Im Canyon hallt jeder Ruf.",
@@ -1985,7 +1985,7 @@
  },
  "lava": {
   "de": "Die Lava wird zu schwarzem Stein.",
-  "ar": "الحمم بتحجر لحجر أسود."
+  "ar": "الحمم بتتحول لحجر أسود."
  },
  "krater": {
   "de": "Im Krater liegt ein kleiner See.",
@@ -2004,8 +2004,8 @@
   "ar": "الحقنة بتوجع ثانية بس."
  },
  "sonnenfinsternis": {
-  "de": "Die Sonnenfinsternis sieht man nur mit Brille.",
-  "ar": "كسوف الشمس بيتبص عليه بالنضارة بس."
+  "de": "Bei einer Sonnenfinsternis verdeckt der Mond die Sonne.",
+  "ar": "وقت كسوف الشمس، القمر بيحجب الشمس."
  },
  "thermometer": {
   "de": "Das Thermometer misst das Fieber.",
@@ -2292,8 +2292,8 @@
   "ar": "الشنيور بيشحن على القاعدة."
  },
  "rollstuhl": {
-  "de": "Der Rollstuhl passt durch jede Tür.",
-  "ar": "الكرسي المتحرك بيدخل من أي باب."
+  "de": "Der Rollstuhl passt durch diese Tür.",
+  "ar": "الكرسي المتحرك بيعدي من الباب ده."
  },
  "kruecke": {
   "de": "Die Krücke steht neben dem Bett.",

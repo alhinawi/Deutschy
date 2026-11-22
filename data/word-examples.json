@@ -1740,8 +1740,8 @@
   "ar": "المجرفة في التراب."
  },
  "radiergummi": {
-  "de": "Der Radiergummi löscht den Bleistift.",
-  "ar": "الأستيكة بتمسح قلم الرصاص."
+  "de": "Mit dem Radiergummi entferne ich die Bleistiftstriche.",
+  "ar": "بمسح خطوط القلم الرصاص بالأستيكة."
  },
  "kugelschreiber": {
   "de": "Der Kugelschreiber schreibt sofort.",
@@ -1776,8 +1776,8 @@
   "ar": "دفتر الملاحظات في الشنطة."
  },
  "kreide": {
-  "de": "Die Kreide schreibt an die Tafel.",
-  "ar": "الطباشير بيكتب على السبورة."
+  "de": "Mit der Kreide schreibe ich an die Tafel.",
+  "ar": "بكتب على السبورة بالطباشير."
  },
  "adler": {
   "de": "Der Adler kreist über den Bergen.",
@@ -1809,7 +1809,7 @@
  },
  "spinne": {
   "de": "Die Spinne baut ihr Netz.",
-  "ar": "العنكبوت بيبني بيته."
+  "ar": "العنكبوت بينسج شبكته."
  },
  "strauss": {
   "de": "Der Strauß kann nicht fliegen.",
@@ -1869,7 +1869,7 @@
  },
  "luchs": {
   "de": "Der Luchs hat Pinselohren.",
-  "ar": "الوشق ودانه فيها فرش."
+  "ar": "الوشق عنده خصل شعر على ودانه."
  },
  "dachs": {
   "de": "Der Dachs gräbt seinen Bau.",
@@ -1921,7 +1921,7 @@
  },
  "gaensebluemchen": {
   "de": "Das Gänseblümchen blüht im Frühling.",
-  "ar": "الأقحوان بتفتح في الربيع."
+  "ar": "زهرة الأقحوان الصغيرة بتفتح في الربيع."
  },
  "lavendel": {
   "de": "Der Lavendel duftet nach Sommer.",
@@ -1933,11 +1933,11 @@
  },
  "seerose": {
   "de": "Die Seerose schwimmt auf dem Teich.",
-  "ar": "زنبق الماء عايمة على البركة."
+  "ar": "زهرة زنبق الميه عايمة على البركة."
  },
  "eiche": {
   "de": "Die Eiche ist hundert Jahre alt.",
-  "ar": "البلوطة عمرها مية سنة."
+  "ar": "شجرة البلوط عمرها مية سنة."
  },
  "tannenzapfen": {
   "de": "Der Tannenzapfen fällt im Herbst.",
@@ -1997,7 +1997,7 @@
  },
  "milchstrasse": {
   "de": "Die Milchstraße sieht man nur ohne Stadtlicht.",
-  "ar": "درب التبانة مش بتبين غير بعيد عن نور المدينة."
+  "ar": "درب التبانة مش بيبان غير بعيد عن نور المدينة."
  },
  "sonnenfinsternis": {
   "de": "Die Sonnenfinsternis dauert nur wenige Minuten.",
@@ -2020,8 +2020,8 @@
   "ar": "البلاستر لزق على الصباع."
  },
  "stethoskop": {
-  "de": "Das Stethoskop hört das Herz.",
-  "ar": "السماعة الطبية بتسمع القلب."
+  "de": "Mit dem Stethoskop hört die Ärztin das Herz.",
+  "ar": "الدكتورة بتسمع القلب بالسماعة الطبية."
  },
  "verband": {
   "de": "Der Verband schützt die Wunde.",
