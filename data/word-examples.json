@@ -2788,8 +2788,8 @@
   "ar": "موزّع الصابون بيطلع فوم."
  },
  "schuhloeffel": {
-  "de": "Der Schuhlöffel hilft in den Schuh.",
-  "ar": "ملعقة الجزمة بتساعدك تلبس الجزمة."
+  "de": "Der Schuhlöffel hilft beim Anziehen der Schuhe.",
+  "ar": "ملعقة الجزمة بتساعد في لبس الجزم."
  },
  "schuhbuerste": {
   "de": "Die Schuhbürste putzt die Schuhe.",
@@ -2836,12 +2836,12 @@
   "ar": "ثقالة الورق ماسكة الأوراق."
  },
  "stricknadel": {
-  "de": "Die Stricknadel strickt einen Schal.",
-  "ar": "إبرة التريكو بتعمل كوفية."
+  "de": "Mit der Stricknadel stricke ich einen Schal.",
+  "ar": "بعمل كوفية بإبرة التريكو."
  },
  "haekelnadel": {
-  "de": "Die Häkelnadel häkelt eine Blume.",
-  "ar": "إبرة الكروشيه بتعمل وردة."
+  "de": "Mit der Häkelnadel häkle ich eine Blume.",
+  "ar": "بعمل وردة بإبرة الكروشيه."
  },
  "stickrahmen": {
   "de": "Der Stickrahmen spannt den Stoff.",
@@ -2860,16 +2860,16 @@
   "ar": "الختم بيخلي الورقة رسمية."
  },
  "plektrum": {
-  "de": "Das Plektrum spielt die Gitarre.",
-  "ar": "ريشة الجيتار بتلعب على الأوتار."
+  "de": "Mit dem Plektrum spiele ich Gitarre.",
+  "ar": "بعزف جيتار بالريشة."
  },
  "stimmgabel": {
   "de": "Die Stimmgabel gibt den Ton an.",
   "ar": "الشوكة الرنانة بتدينا النغمة الصح."
  },
  "palette": {
-  "de": "Die Palette mischt die Farben.",
-  "ar": "البالتة بتخلط الألوان."
+  "de": "Auf der Palette mische ich Farben.",
+  "ar": "بخلط الألوان على البالتة."
  },
  "staffelei": {
   "de": "Die Staffelei hält die Leinwand.",
@@ -2893,7 +2893,7 @@
  },
  "pflanzkelle": {
   "de": "Die Pflanzkelle gräbt ein kleines Loch.",
-  "ar": "الجاروف الصغير بيحفر حتة صغيرة للزرع."
+  "ar": "الجاروف الصغير بيحفر حفرة صغيرة."
  },
  "spruehflasche": {
   "de": "Die Sprühflasche besprüht die Pflanzen.",
@@ -2929,7 +2929,7 @@
  },
  "waschlappen": {
   "de": "Der Waschlappen hängt am Haken.",
-  "ar": "الفوطة الصغيرة معلقة على الحلقة."
+  "ar": "فوطة الغسيل الصغيرة معلقة على الخطاف."
  },
  "sparschaeler": {
   "de": "Der Sparschäler schält die Kartoffeln.",
@@ -2952,8 +2952,8 @@
   "ar": "رول الوبر بيخلي البلوفر نضيف."
  },
  "waschbrett": {
-  "de": "Das Waschbrett wäscht das Hemd von Hand.",
-  "ar": "لوح الغسيل بيغسل القميص بالإيد."
+  "de": "Mit dem Waschbrett wasche ich das Hemd von Hand.",
+  "ar": "بغسل القميص بإيدي على لوح الغسيل."
  },
  "fussmatte": {
   "de": "Die Fußmatte liegt vor der Tür.",
@@ -2973,7 +2973,7 @@
  },
  "schuhschrank": {
   "de": "Der Schuhschrank steht im Flur.",
-  "ar": "الجزامة في الصالة."
+  "ar": "الجزامة في الطرقة."
  },
  "hut": {
   "de": "Der Hut schützt vor der Sonne.",
@@ -2989,7 +2989,7 @@
  },
  "schneidebrett": {
   "de": "Das Schneidebrett schützt den Tisch beim Schneiden.",
-  "ar": "قطاعة الأكل بتحمي الترابيزة أثناء التقطيع."
+  "ar": "لوح التقطيع بيحمي الترابيزة وإحنا بنقطع."
  },
  "pfannenwender": {
   "de": "Der Pfannenwender dreht das Schnitzel.",
@@ -3009,7 +3009,7 @@
  },
  "wanduhr": {
   "de": "Die Wanduhr tickt leise.",
-  "ar": "ساعة الحيطة بتدوّس بهدوء."
+  "ar": "ساعة الحيطة بتدق بصوت واطي."
  },
  "butterdose": {
   "de": "Die Butterdose hält die Butter frisch.",
@@ -3020,8 +3020,8 @@
   "ar": "كنكة اللبن جنب القهوة."
  },
  "tastatur": {
-  "de": "Die Tastatur tippt den Brief.",
-  "ar": "الكيبورد بيكتب الجواب."
+  "de": "Mit der Tastatur tippe ich einen Brief.",
+  "ar": "بكتب جواب بالكيبورد."
  },
  "computermaus": {
   "de": "Die Computermaus klickt auf das Bild.",
@@ -3029,7 +3029,7 @@
  },
  "vorratsglas": {
   "de": "Das Vorratsglas hält den Reis frisch.",
-  "ar": "برطمان التخزين بيخلي الروز نضيف."
+  "ar": "برطمان التخزين بيحافظ على الرز طازة."
  },
  "vorratsdose": {
   "de": "Die Vorratsdose schließt luftdicht.",

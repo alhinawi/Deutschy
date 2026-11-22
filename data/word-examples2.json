@@ -2708,8 +2708,8 @@
   "ar": "الكشتبان في علبة الخياطة."
  },
  "sicherheitsnadel": {
-  "de": "Die Sicherheitsnadel rettet den Knopf.",
-  "ar": "دبوس الأمان بيلم الزرار."
+  "de": "Die Sicherheitsnadel hält die Jacke geschlossen.",
+  "ar": "دبوس الأمان مخلي الجاكتة مقفولة."
  },
  "reissverschluss": {
   "de": "Der Reißverschluss geht leicht zu.",
@@ -2729,7 +2729,7 @@
  },
  "kofferanhaenger": {
   "de": "Der Kofferanhänger hat meine Adresse.",
-  "ar": "تاج الشنطة عليه عنواني."
+  "ar": "بطاقة شنطة السفر عليها عنواني."
  },
  "vorhaengeschloss": {
   "de": "Das Vorhängeschloss braucht den kleinen Schlüssel.",
@@ -2764,8 +2764,8 @@
   "ar": "البراية في المقلمة."
  },
  "backform": {
-  "de": "Die Backform fette ich vor dem Teig ein.",
-  "ar": "صينية الكيك بدهنها قبل العجينة."
+  "de": "Ich fette die Backform ein.",
+  "ar": "بدهن قالب الكيك بمادة دهنية."
  },
  "ausstechform": {
   "de": "Die Ausstechform hat die Form eines Herzens.",
@@ -2781,7 +2781,7 @@
  },
  "nagelschere": {
   "de": "Die Nagelschere liegt im Bad.",
-  "ar": "مقص الضافر في الحمام."
+  "ar": "مقص الضوافر في الحمام."
  },
  "seifenspender": {
   "de": "Der Seifenspender ist fast leer.",
@@ -2801,7 +2801,7 @@
  },
  "geschenkpapier": {
   "de": "Das Geschenkpapier rolle ich nach dem Fest wieder auf.",
-  "ar": "ورق التغليف بلمه تاني بعد العيد."
+  "ar": "بلف ورق الهدايا تاني بعد الاحتفال."
  },
  "geschenkband": {
   "de": "Das Geschenkband binde ich zur Schleife.",
@@ -2816,8 +2816,8 @@
   "ar": "المنديل بطبقه مثلث."
  },
  "tablett": {
-  "de": "Das Tablett bringt den Tee ins Wohnzimmer.",
-  "ar": "الصينية بتوصل الشاي للصالة."
+  "de": "Ich trage den Tee auf dem Tablett ins Wohnzimmer.",
+  "ar": "بودي الشاي للصالة على صينية التقديم."
  },
  "trichter": {
   "de": "Der Trichter hängt in der Küche.",
@@ -2833,15 +2833,15 @@
  },
  "briefbeschwerer": {
   "de": "Der Briefbeschwerer ist aus Glas.",
-  "ar": "ثقل الورق من الزجاز."
+  "ar": "ثقالة الورق من الإزاز."
  },
  "stricknadel": {
   "de": "Die Stricknadel liegt auf dem Sofa.",
   "ar": "إبرة التريكو على الكنبة."
  },
  "haekelnadel": {
-  "de": "Die Häkelnadel hängt am Wollknäuel.",
-  "ar": "إبرة الكروشيه معلقة في كورة الصوف."
+  "de": "Die Häkelnadel liegt neben dem Wollknäuel.",
+  "ar": "إبرة الكروشيه جنب كورة الصوف."
  },
  "stickrahmen": {
   "de": "Der Stickrahmen liegt auf dem Tisch.",
@@ -2869,7 +2869,7 @@
  },
  "palette": {
   "de": "Die Palette hält der Maler in der linken Hand.",
-  "ar": "اللوحة النقاش ماسكها في إيده الشمال."
+  "ar": "الرسام ماسك البالتة في إيده الشمال."
  },
  "staffelei": {
   "de": "Die Staffelei steht im Atelier.",
@@ -2893,7 +2893,7 @@
  },
  "pflanzkelle": {
   "de": "Die Pflanzkelle steckt im Blumenkasten.",
-  "ar": "الشاكوش الصغير في صندوق الزرع."
+  "ar": "الجاروف الصغير مغروس في صندوق الزرع."
  },
  "spruehflasche": {
   "de": "Die Sprühflasche steht auf der Fensterbank.",
@@ -2909,7 +2909,7 @@
  },
  "garnrolle": {
   "de": "Die Garnrolle rollt unter den Tisch.",
-  "ar": "بكرة الخيط لفت تحت الترابيزة."
+  "ar": "بكرة الخيط بتتدحرج تحت الترابيزة."
  },
  "nahttrenner": {
   "de": "Der Nahttrenner steckt im Nähkorb.",
@@ -2925,11 +2925,11 @@
  },
  "nagelbuerste": {
   "de": "Die Nagelbürste liegt am Waschbecken.",
-  "ar": "فرشة الضافر على الحوض."
+  "ar": "فرشة الضوافر جنب الحوض."
  },
  "waschlappen": {
   "de": "Der Waschlappen trocknet an der Leine.",
-  "ar": "الليفة القماش بينشف على الحبل."
+  "ar": "فوطة الغسيل القماش بتنشف على الحبل."
  },
  "sparschaeler": {
   "de": "Der Sparschäler liegt in der Schublade.",
@@ -2953,7 +2953,7 @@
  },
  "waschbrett": {
   "de": "Das Waschbrett steht im Schuppen.",
-  "ar": "لوح الغسيل في العنبر."
+  "ar": "لوح الغسيل في مخزن الجنينة."
  },
  "fussmatte": {
   "de": "Die Fußmatte schüttle ich jeden Samstag aus.",
@@ -2977,7 +2977,7 @@
  },
  "hut": {
   "de": "Der Hut passt zum Sommerkleid.",
-  "ar": "البرنيطة رايقة على فستان الصيف."
+  "ar": "البرنيطة بتليق على فستان الصيف."
  },
  "zahnputzbecher": {
   "de": "Der Zahnputzbecher steht am Waschbecken.",
@@ -3005,7 +3005,7 @@
  },
  "couchtisch": {
   "de": "Der Couchtisch trägt die Teetassen.",
-  "ar": "ترابيزة الصالة شايلة الفناين."
+  "ar": "ترابيزة الصالة شايلة فناجين الشاي."
  },
  "wanduhr": {
   "de": "Die Wanduhr hängt über dem Sofa.",
