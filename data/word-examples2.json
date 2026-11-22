@@ -3514,5 +3514,101 @@
  "heftklammer": {
   "de": "Die Heftklammer ist aus Metall.",
   "ar": "دبوس الدباسة مصنوع من معدن."
+ },
+ "schoepfkelle": {
+  "de": "Die Schöpfkelle liegt neben dem Topf.",
+  "ar": "المغرفة موجودة جنب الحلة."
+ },
+ "nagelfeile": {
+  "de": "Die Nagelfeile liegt in der Schublade.",
+  "ar": "مبرد الضوافر في الدرج."
+ },
+ "tauchmaske": {
+  "de": "Ich putze die Tauchmaske nach dem Tauchen.",
+  "ar": "بنضف ماسك الغطس بعد الغطس."
+ },
+ "schwimmbrille": {
+  "de": "Die Schwimmbrille sitzt eng am Kopf.",
+  "ar": "نضارة السباحة لازقة في الراس."
+ },
+ "suesskartoffel": {
+  "de": "Die Süßkartoffel backe ich im Ofen.",
+  "ar": "البطاطا بحطها في الفرن."
+ },
+ "ingwer": {
+  "de": "Ich schneide den Ingwer in kleine Stücke.",
+  "ar": "بقطع الجنزبيل قطع صغيرة."
+ },
+ "papaya": {
+  "de": "Die Papaya hat schwarze Kerne.",
+  "ar": "البابايا فيها بزر أسود."
+ },
+ "quitte": {
+  "de": "Die Quitte ist gelb und hart.",
+  "ar": "السفرجلة صفرا وصلبة."
+ },
+ "harfe": {
+  "de": "Die Harfe klingt weich und ruhig.",
+  "ar": "صوت الهارب ناعم وهادي."
+ },
+ "mandoline": {
+  "de": "Die Mandoline hat acht Saiten.",
+  "ar": "الماندولين فيه تمن أوتار."
+ },
+ "brezel": {
+  "de": "Die Brezel kaufe ich beim Bäcker.",
+  "ar": "البريتسل بشتريه من الفرن."
+ },
+ "bagel": {
+  "de": "Der Bagel liegt auf dem Teller.",
+  "ar": "البيجل موجود في الطبق."
+ },
+ "muffin": {
+  "de": "Der Muffin hat Schokolade oben.",
+  "ar": "المافن عليه شوكولاتة من فوق."
+ },
+ "donut": {
+  "de": "Der Donut schmeckt süß und weich.",
+  "ar": "الدونات طعمه حلو وطري."
+ },
+ "krawatte": {
+  "de": "Die Krawatte hängt im Schrank.",
+  "ar": "الكرافتة معلقة في الدولاب."
+ },
+ "faeustling": {
+  "de": "Ich ziehe den Fäustling im Winter an.",
+  "ar": "بلبس الجوانتي في الشتاء."
+ },
+ "korken": {
+  "de": "Der Korken liegt neben der Flasche.",
+  "ar": "سدادة الفلين جنب الإزازة."
+ },
+ "streichholz": {
+  "de": "Das Streichholz brennt kurz und hell.",
+  "ar": "عود الكبريت بيولع ثواني ونوره واضح."
+ },
+ "basketball": {
+  "de": "Ich werfe den Basketball in den Korb.",
+  "ar": "برمي كورة الباسكت في السلة."
+ },
+ "schwimmring": {
+  "de": "Der Schwimmring ist bunt und rund.",
+  "ar": "العوامة الدائرية ملونة ومستديرة."
+ },
+ "zucchini": {
+  "de": "Die Zucchini schneide ich in Scheiben.",
+  "ar": "بقطع الكوسة شرايح."
+ },
+ "limette": {
+  "de": "Die Limette presse ich über den Salat.",
+  "ar": "بعصر الليمون الأخضر على السلطة."
+ },
+ "nektarine": {
+  "de": "Die Nektarine esse ich mit Haut.",
+  "ar": "باكل النكتارين بقشرتها."
+ },
+ "stachelbeere": {
+  "de": "Die Stachelbeere wächst am Busch.",
+  "ar": "عنب الثعلب بينبت على شجيرة صغيرة."
  }
 }
