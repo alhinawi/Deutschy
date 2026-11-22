@@ -3333,7 +3333,7 @@
  },
  "nagel": {
   "de": "Der Nagel sitzt fest in der Wand.",
-  "ar": "المسمار راص في الحيطة."
+  "ar": "المسمار ثابت كويس في الحيطة."
  },
  "schraubendreher": {
   "de": "Der Schraubendreher hat einen roten Griff.",
@@ -3348,8 +3348,8 @@
   "ar": "قطعة الشطرنج من خشب فاتح."
  },
  "rumbakugel": {
-  "de": "Die Rumbakugel quietscht beim Drücken.",
-  "ar": "الكورة المطاط بتزق لما ندوس عليها."
+  "de": "Die Rumbakugel rasselt beim Schütteln.",
+  "ar": "الشخشيخة بتخشخش لما نهزها."
  },
  "klangschale": {
   "de": "Die Klangschale steht auf dem Kissen.",
@@ -3361,7 +3361,7 @@
  },
  "honigloeffel": {
   "de": "Der Honiglöffel hat Rillen.",
-  "ar": "معلقة العسل عليها تجاريح."
+  "ar": "معلقة العسل فيها أخاديد."
  },
  "reisszwecke": {
   "de": "Die Reißzwecke steckt im Brett.",
@@ -3377,11 +3377,11 @@
  },
  "cabasa": {
   "de": "Die Cabasa dreht man in der Hand.",
-  "ar": "الكاباسا بتليفها في إيدك."
+  "ar": "بنلف الكاباسا في إيدنا."
  },
  "pizzaschneider": {
   "de": "Der Pizzaschneider rollt durch den Käse.",
-  "ar": "قطاعة البيتزا بتليف في الجبنة."
+  "ar": "عجلة قطاعة البيتزا بتمر في الجبنة."
  },
  "duschkopf": {
   "de": "Der Duschkopf braucht Entkalker.",
@@ -3409,7 +3409,7 @@
  },
  "passionsfrucht": {
   "de": "Die Passionsfrucht löffle ich aus.",
-  "ar": "فاكهة الباشن بتاكلها بالمعلقة."
+  "ar": "باكل لب الباشن فروت بالمعلقة."
  },
  "kalimba": {
   "de": "Die Kalimba klingt wie eine kleine Harfe.",
@@ -3533,7 +3533,7 @@
  },
  "suesskartoffel": {
   "de": "Die Süßkartoffel backe ich im Ofen.",
-  "ar": "البطاطا بحطها في الفرن."
+  "ar": "بشوي البطاطا في الفرن."
  },
  "ingwer": {
   "de": "Ich schneide den Ingwer in kleine Stücke.",
@@ -3633,7 +3633,7 @@
  },
  "pinienkern": {
   "de": "Der Pinienkern passt zum Salat.",
-  "ar": "حبة الصنوبر بيناسب مع السلطة."
+  "ar": "حبة الصنوبر بتليق مع السلطة."
  },
  "zimtstange": {
   "de": "Die Zimtstange liegt im Tee.",
@@ -3724,12 +3724,12 @@
   "ar": "حامل الريشة في المقلمة."
  },
  "naehnadel": {
-  "de": "Die Nähnadel näht den Knopf fest.",
-  "ar": "إبرة الخياطة بتحيك الزرار."
+  "de": "Mit der Nähnadel nähe ich den Knopf an.",
+  "ar": "بخيط الزرار بإبرة الخياطة."
  },
  "naehgarn": {
   "de": "Das Nähgarn liegt in der Nähbox.",
-  "ar": "خيط الخياطة في علبة التطريز."
+  "ar": "خيط الخياطة في علبة الخياطة."
  },
  "kohlkopf": {
   "de": "Der Kohlkopf wird zu Salat.",
@@ -3768,8 +3768,8 @@
   "ar": "الطفل بيلم صدفة محار من البحر."
  },
  "schneckenhaus": {
-  "de": "Das Schneckenhaus ist leer im Garten.",
-  "ar": "القوقعة فاضية في الجنينة."
+  "de": "Im Garten liegt ein leeres Schneckenhaus.",
+  "ar": "في قوقعة حلزون فاضية على الأرض في الجنينة."
  },
  "rote-bete": {
   "de": "Die Rote Bete kocht eine Stunde.",
@@ -3780,8 +3780,8 @@
   "ar": "الفجل موجود في السوق."
  },
  "kaki": {
-  "de": "Die Kaki schmeckt süß und weich.",
-  "ar": "الكاكي طعمها حلو وطري."
+  "de": "Die Kaki ist weich und schmeckt süß.",
+  "ar": "الكاكي طرية وطعمها حلو."
  },
  "karambole": {
   "de": "Die Karambole schmeckt sauer und frisch.",
@@ -3828,8 +3828,8 @@
   "ar": "الحرنكش طعمه حلو وحامض."
  },
  "rambutan": {
-  "de": "Die Rambutan ist rot und weich innen.",
-  "ar": "الرامبوتان حمرا وطري من جوه."
+  "de": "Die Rambutan ist innen weich.",
+  "ar": "الرامبوتان طرية من جوه."
  },
  "chirimoya": {
   "de": "Die Chirimoya hat schwarze Kerne.",
@@ -3977,7 +3977,7 @@
  },
  "gecko": {
   "de": "Der Gecko jagt Insekten am Abend.",
-  "ar": "الوزغة بتصطاد الحشرات بالليل."
+  "ar": "الوزغة بتصطاد الحشرات في المسا."
  },
  "leguan": {
   "de": "Der Leguan isst Blätter.",
@@ -3985,7 +3985,7 @@
  },
  "kroete": {
   "de": "Die Kröte sitzt am Teich.",
-  "ar": "العلجوم قاعد جنب الحوض."
+  "ar": "العلجوم قاعد جنب البركة."
  },
  "salamander": {
   "de": "Der Salamander ist schwarz und gelb.",
@@ -4016,12 +4016,12 @@
   "ar": "الصقر بيطير عالي جدا."
  },
  "geier": {
-  "de": "Der Geier sieht weit von oben.",
-  "ar": "النسر الأصلع بيشوف من فوق لبعيد."
+  "de": "Der Geier fliegt über uns.",
+  "ar": "النسر بيطير فوقينا."
  },
  "schwalbe": {
   "de": "Die Schwalbe baut ein Nest am Haus.",
-  "ar": "السنونو بتبني عش على البيت."
+  "ar": "السنونو بيبني عش على البيت."
  },
  "meise": {
   "de": "Die Meise ist klein und bunt.",
