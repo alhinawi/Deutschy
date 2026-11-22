@@ -2056,8 +2056,8 @@
   "ar": "الروبوت بيكنس الأرض."
  },
  "spielkonsole": {
-  "de": "Die Spielkonsole hängt am Fernseher.",
-  "ar": "البلاي ستيشن موصولة بالتلفزيون."
+  "de": "Die Spielkonsole ist mit dem Fernseher verbunden.",
+  "ar": "جهاز الألعاب متوصل بالتلفزيون."
  },
  "kopierer": {
   "de": "Der Kopierer steht im Büro.",
@@ -2085,15 +2085,15 @@
  },
  "schraubenschluessel": {
   "de": "Der Schraubenschlüssel passt auf die Mutter.",
-  "ar": "مفتاح الربط على مقاس المصمولة."
+  "ar": "مفتاح الربط على مقاس الصامولة."
  },
  "bohrer": {
   "de": "Der Bohrer macht das Loch in die Wand.",
-  "ar": "المثقاب بيعمل الخرم في الحيطة."
+  "ar": "بنطة الشنيور بتعمل الخرم في الحيطة."
  },
  "kettensaege": {
   "de": "Die Kettensäge schneidet den Baumstamm.",
-  "ar": "المنشار الكهربا بيقطع جذع الشجرة."
+  "ar": "المنشار الجنزيري بيقطع جذع الشجرة."
  },
  "schraubstock": {
   "de": "Der Schraubstock hält das Werkstück fest.",
@@ -2109,7 +2109,7 @@
  },
  "rohrzange": {
   "de": "Die Rohrzange greift das Rohr.",
-  "ar": "الزرادية بتمسك المواسير."
+  "ar": "مفتاح المواسير بيمسك الماسورة."
  },
  "massband": {
   "de": "Das Maßband misst das Zimmer.",
@@ -2125,7 +2125,7 @@
  },
  "gartenschlauch": {
   "de": "Der Gartenschlauch reicht bis zum Beet.",
-  "ar": "خرطوم الجنينة بيوصل للبتلة."
+  "ar": "خرطوم الجنينة بيوصل لحد حوض الزرع."
  },
  "akkuschrauber": {
   "de": "Der Akkuschrauber dreht die Schraube rein.",
@@ -2213,7 +2213,7 @@
  },
  "schneebesen": {
   "de": "Der Schneebesen schlägt die Sahne steif.",
-  "ar": "مضرب البيض بيضرب الكريمة."
+  "ar": "المضرب اليدوي بيخفق الكريمة لحد ما تتماسك."
  },
  "sieb": {
   "de": "Das Sieb gießt die Nudeln ab.",

@@ -2037,7 +2037,7 @@
  },
  "tablet": {
   "de": "Das Tablet braucht ein neues Ladekabel.",
-  "ar": "التابلت محتاج شاحن جديد."
+  "ar": "التابلت محتاج كابل شحن جديد."
  },
  "roboter": {
   "de": "Der Roboter fährt unter das Sofa.",
@@ -2045,11 +2045,11 @@
  },
  "spielkonsole": {
   "de": "Die Spielkonsole braucht zwei Controller.",
-  "ar": "البلايستيشن محتاجة دراعين."
+  "ar": "جهاز الألعاب محتاج دراعين تحكم."
  },
  "kopierer": {
   "de": "Der Kopierer macht zehn Seiten pro Minute.",
-  "ar": "الطابعة بتعمل عشر ورقات في الدقيقة."
+  "ar": "ماكينة التصوير بتطلع عشر صفحات في الدقيقة."
  },
  "ueberwachungskamera": {
   "de": "Die Überwachungskamera filmt den ganzen Tag.",
@@ -2061,19 +2061,19 @@
  },
  "schraube": {
   "de": "Die Schraube drehe ich nach rechts fest.",
-  "ar": "المسمار اللولبي برصه لليمين."
+  "ar": "بربط المسمار اللولبي بلفه لليمين."
  },
  "schraubenschluessel": {
   "de": "Der Schraubenschlüssel hängt an der Wand.",
-  "ar": "المفتاح الإنجليزي معلق على الحيطة."
+  "ar": "مفتاح الربط معلق على الحيطة."
  },
  "bohrer": {
   "de": "Der Bohrer ist zu dick für das Loch.",
-  "ar": "الدرل تخين على الثقب."
+  "ar": "بنطة الشنيور تخينة زيادة على الخرم."
  },
  "kettensaege": {
-  "de": "Die Kettensäge braucht Benzin und Öl.",
-  "ar": "المنشار الكهربا محتاج بنزين وزيت."
+  "de": "Die Kettensäge liegt im Schuppen.",
+  "ar": "المنشار الجنزيري في مخزن الجنينة."
  },
  "schraubstock": {
   "de": "Der Schraubstock steht auf der Werkbank.",
@@ -2081,15 +2081,15 @@
  },
  "meissel": {
   "de": "Der Meißel trifft den Stein genau.",
-  "ar": "الأزميل بيضرب الحجر بظبط."
+  "ar": "الإزميل بيصيب الحجر بدقة."
  },
  "zement": {
   "de": "Der Zement trocknet über Nacht.",
-  "ar": "الأسمنت بينشف بالليل."
+  "ar": "الأسمنت بينشف على مدار الليل."
  },
  "rohrzange": {
   "de": "Die Rohrzange löst das alte Rohr.",
-  "ar": "الزرادية بتفك المواسير القديمة."
+  "ar": "مفتاح المواسير بيفك الماسورة القديمة."
  },
  "massband": {
   "de": "Das Maßband misst den Stoff.",
@@ -2112,12 +2112,12 @@
   "ar": "الفرح هنعمله في الجنينة."
  },
  "adventskranz": {
-  "de": "Der Adventskranz hängt an der Tür.",
-  "ar": "إكليل الميلاد معلق على الباب."
+  "de": "Der Adventskranz liegt auf dem Tisch.",
+  "ar": "إكليل المجيء موجود على الترابيزة."
  },
  "fasching": {
-  "de": "Der Fasching kommt im Februar.",
-  "ar": "الكرنفال بييجي في فبراير."
+  "de": "Fasching feiern wir mit Freunden.",
+  "ar": "بنحتفل بالكرنفال مع أصحابنا."
  },
  "verkehrsschild": {
   "de": "Das Verkehrsschild steht an jeder Ecke.",
@@ -2157,7 +2157,7 @@
  },
  "fahrkartenautomat": {
   "de": "Der Fahrkartenautomat gibt kein Wechselgeld.",
-  "ar": "ماكينة التذاكر مبتدش فكة."
+  "ar": "ماكينة التذاكر مش بترجع باقي."
  },
  "lenker": {
   "de": "Der Lenker ist aus Aluminium.",
@@ -2205,11 +2205,11 @@
  },
  "weinglas": {
   "de": "Das Weinglas hat einen dünnen Rand.",
-  "ar": "كاسة العنب حرفها رفيع."
+  "ar": "كأس النبيذ حافته رفيعة."
  },
  "teekanne": {
   "de": "Die Teekanne ist aus Glas.",
-  "ar": "براد الشاي من الزجاز."
+  "ar": "براد الشاي من الإزاز."
  },
  "grill": {
   "de": "Der Grill steht im Garten.",
@@ -2241,7 +2241,7 @@
  },
  "johannisbeere": {
   "de": "Die Johannisbeere wächst am Strauch im Garten.",
-  "ar": "العنبية بتطلع على الشجيرة في الجنينة."
+  "ar": "الكشمش بيطلع على شجيرة في الجنينة."
  },
  "pistazie": {
   "de": "Die Pistazie ist innen grün.",
@@ -2249,7 +2249,7 @@
  },
  "brombeere": {
   "de": "Die Brombeere färbt die Finger lila.",
-  "ar": "التوت البري بيلون الصوابع موف."
+  "ar": "التوت الأسود بيلون الصوابع بنفسجي."
  },
  "fladenbrot": {
   "de": "Das Fladenbrot backe ich in der Pfanne.",
@@ -2257,11 +2257,11 @@
  },
  "vollkornbrot": {
   "de": "Das Vollkornbrot hat viele Körner.",
-  "ar": "عيش الشوفان فيه حبوب كتير."
+  "ar": "عيش الحبوب الكاملة فيه حبوب كتير."
  },
  "lasagne": {
   "de": "Die Lasagne hat viele Schichten.",
-  "ar": "اللازانيا ليها طوابق كتير."
+  "ar": "اللازانيا فيها طبقات كتير."
  },
  "currywurst": {
   "de": "Die Currywurst esse ich mit Brot.",
@@ -2281,7 +2281,7 @@
  },
  "eimer": {
   "de": "Der Eimer hängt am Haken im Keller.",
-  "ar": "الجردل معلق في السرداب."
+  "ar": "الجردل معلق على الخطاف في البدروم."
  },
  "gartenschlauch": {
   "de": "Der Gartenschlauch hat ein kleines Loch.",
@@ -2289,7 +2289,7 @@
  },
  "akkuschrauber": {
   "de": "Der Akkuschrauber lädt an der Station.",
-  "ar": "الشنيور بيشحن على القاعدة."
+  "ar": "المفك الكهربا بيتشحن على القاعدة."
  },
  "rollstuhl": {
   "de": "Der Rollstuhl passt durch diese Tür.",
