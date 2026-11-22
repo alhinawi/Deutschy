@@ -3706,5 +3706,101 @@
  "papierschiffchen": {
   "de": "Das Papierschiffchen segelt im Bach.",
   "ar": "مركب الورق ماشية في الترعة الصغيرة."
+ },
+ "schachbauer": {
+  "de": "Der Schachbauer steht in der zweiten Reihe.",
+  "ar": "بيدق الشطرنج واقف في الصف التاني."
+ },
+ "schachspringer": {
+  "de": "Der Schachspringer bewegt sich wie ein L.",
+  "ar": "حصان الشطرنج بيتحرك على شكل حرف إل."
+ },
+ "tintenfass": {
+  "de": "Das Tintenfass steht auf dem Schreibtisch.",
+  "ar": "المحبرة على المكتب."
+ },
+ "federhalter": {
+  "de": "Der Federhalter liegt im Federmäppchen.",
+  "ar": "حامل الريشة في المقلمة."
+ },
+ "naehnadel": {
+  "de": "Die Nähnadel näht den Knopf fest.",
+  "ar": "إبرة الخياطة بتحيك الزرار."
+ },
+ "naehgarn": {
+  "de": "Das Nähgarn liegt in der Nähbox.",
+  "ar": "خيط الخياطة في علبة التطريز."
+ },
+ "kohlkopf": {
+  "de": "Der Kohlkopf wird zu Salat.",
+  "ar": "راس الكرنب بتتعمل سلطة."
+ },
+ "rosenkohl": {
+  "de": "Der Rosenkohl wächst am Stiel.",
+  "ar": "كرنب بروكسل بينبت على الساق."
+ },
+ "seifenblase": {
+  "de": "Das Kind macht eine große Seifenblase.",
+  "ar": "الطفل بيعمل فقاعة صابون كبيرة."
+ },
+ "luftballon": {
+  "de": "Der Luftballon ist rot und rund.",
+  "ar": "البالونة حمرا ومستديرة."
+ },
+ "wassertropfen": {
+  "de": "Ein Wassertropfen glänzt auf dem Blatt.",
+  "ar": "نقطة ميه بتبرق على الورقة."
+ },
+ "eiszapfen": {
+  "de": "Der Eiszapfen glitzert in der Sonne.",
+  "ar": "لسان التلج بيلمع في الشمس."
+ },
+ "unterlegscheibe": {
+  "de": "Die Unterlegscheibe liegt im Werkzeugkasten.",
+  "ar": "وردة المسمار في علبة العدة."
+ },
+ "schraubenmutter": {
+  "de": "Die Schraubenmutter sitzt fest.",
+  "ar": "الصامولة مربوطة كويس."
+ },
+ "muschelschale": {
+  "de": "Das Kind sammelt eine Muschelschale am Meer.",
+  "ar": "الطفل بيلم صدفة محار من البحر."
+ },
+ "schneckenhaus": {
+  "de": "Das Schneckenhaus ist leer im Garten.",
+  "ar": "القوقعة فاضية في الجنينة."
+ },
+ "rote-bete": {
+  "de": "Die Rote Bete kocht eine Stunde.",
+  "ar": "البنجر بيستوي في ساعة."
+ },
+ "rettich": {
+  "de": "Der Rettich liegt auf dem Markt.",
+  "ar": "الفجل موجود في السوق."
+ },
+ "kaki": {
+  "de": "Die Kaki schmeckt süß und weich.",
+  "ar": "الكاكي طعمها حلو وطري."
+ },
+ "karambole": {
+  "de": "Die Karambole schmeckt sauer und frisch.",
+  "ar": "الكارامبولا طعمها حامض ومنعش."
+ },
+ "okra": {
+  "de": "Die Okra kocht mit Tomaten.",
+  "ar": "البامية بتتطبخ بالطماطم."
+ },
+ "mangold": {
+  "de": "Der Mangold wächst im Garten.",
+  "ar": "السلق بينبت في الجنينة."
+ },
+ "espressokocher": {
+  "de": "Der Espressokocher steht auf dem Herd.",
+  "ar": "موكا البوت على البوتاجاز."
+ },
+ "eiswuerfelform": {
+  "de": "Die Eiswürfelform ist aus Plastik.",
+  "ar": "قالب مكعبات التلج مصنوع من بلاستيك."
  }
 }
