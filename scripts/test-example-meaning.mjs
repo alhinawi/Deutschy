@@ -73,4 +73,14 @@ assert(first.gartenschlauch.ar.includes('حوض الزرع'));
 assert(second.weinglas.ar.includes('النبيذ'));
 assert(first.rohrzange.ar.includes('مفتاح المواسير'));
 assert(second.spielkonsole.ar.includes('جهاز الألعاب'));
-console.log('PASS 59 bilingual meaning regressions for reviewed vocabulary examples');
+// Topics 49-54: German case and consistent food/animal names.
+assert(second.buntstift.de.startsWith('Den Buntstift'));
+assert(second.falafel.de.includes('die Falafel'));
+assert(second.baklava.de.includes('die Baklava'));
+assert(first.spargel.de.startsWith('Spargel gibt es'));
+assert(second.tamburin.ar.includes('الدف'));
+assert(second.leberwurst.ar.includes('سجق الكبدة'));
+assert(second.marder.ar.includes('الدلق'));
+assert(second.hecht.ar.includes('الكراكي'));
+assert(second.hummel.ar.includes('النحلة الطنانة'));
+console.log('PASS 68 bilingual meaning regressions for reviewed vocabulary examples');

@@ -2345,7 +2345,7 @@
  },
  "buehne": {
   "de": "Die Bühne ist vor dem Stück dunkel.",
-  "ar": "المسرح تضلمة قبل المسرحية."
+  "ar": "خشبة المسرح ضلمة قبل المسرحية."
  },
  "oper": {
   "de": "Die Oper dauert drei Stunden.",
@@ -2357,7 +2357,7 @@
  },
  "kreisel": {
   "de": "Der Kreisel dreht sich lange.",
-  "ar": "الفركة بتلف فترة طويلة."
+  "ar": "دوامة اللعب بتلف وقت طويل."
  },
  "teddybaer": {
   "de": "Der Teddybär schläft im Bett.",
@@ -2412,8 +2412,8 @@
   "ar": "شاي النعناع بينعش."
  },
  "spargel": {
-  "de": "Der Spargel gibt es im Frühling.",
-  "ar": "الهليون موسمه في الربيع."
+  "de": "Spargel gibt es im Frühling.",
+  "ar": "الهليون موجود في الربيع."
  },
  "fenchel": {
   "de": "Der Fenchel schmeckt leicht nach Anis.",
@@ -2449,7 +2449,7 @@
  },
  "leberwurst": {
   "de": "Die Leberwurst streicht man aufs Brot.",
-  "ar": "الكبدة المعلبة بتتفرد على العيش."
+  "ar": "سجق الكبدة بيتفرد على العيش."
  },
  "pinguin": {
   "de": "Der Pinguin watschelt über das Eis.",
@@ -2465,7 +2465,7 @@
  },
  "hyaene": {
   "de": "Die Hyäne lacht in der Nacht.",
-  "ar": "الضبع بتضحك في الليل."
+  "ar": "الضبع بيضحك بالليل."
  },
  "alpaka": {
   "de": "Das Alpaka steht auf der Wiese.",
@@ -2509,7 +2509,7 @@
  },
  "wachtel": {
   "de": "Die Wachtel legt kleine Eier.",
-  "ar": "السمان بتبيض بيض صغير."
+  "ar": "السمانة بتبيض بيض صغير."
  },
  "henne": {
   "de": "Die Henne legt jeden Tag ein Ei.",
