@@ -1477,7 +1477,7 @@
  },
  "kakao": {
   "de": "Der Kakao wärmt am Abend.",
-  "ar": "الكاكاو بيدفي بالليل."
+  "ar": "الكاكاو بيدفي في المسا."
  },
  "cola": {
   "de": "Die Cola steht im Kühlschrank.",
@@ -1553,7 +1553,7 @@
  },
  "musiker": {
   "de": "Der Musiker spielt jeden Abend.",
-  "ar": "الموسيقي بيعزف كل ليلة."
+  "ar": "الموسيقي بيعزف كل مسا."
  },
  "fischer": {
   "de": "Der Fischer fährt früh aufs Meer.",
@@ -1561,7 +1561,7 @@
  },
  "schmied": {
   "de": "Der Schmied arbeitet mit heißem Metall.",
-  "ar": "الحداد بيشتغل بالحديد السخن."
+  "ar": "الحداد بيشتغل بمعدن سخن."
  },
  "handball": {
   "de": "Der Handball fliegt schnell ins Tor.",
@@ -1581,7 +1581,7 @@
  },
  "hantel": {
   "de": "Die Hantel ist zehn Kilo schwer.",
-  "ar": "الدامبل تقيله عشرة كيلو."
+  "ar": "الدامبل وزنه عشرة كيلو."
  },
  "tennisball": {
   "de": "Der Tennisball ist gelb.",
@@ -1649,7 +1649,7 @@
  },
  "orgel": {
   "de": "Die Orgel spielt in der Kirche.",
-  "ar": "الأورج بتعزف في الكنيسة."
+  "ar": "الأرغن بيتعزف في الكنيسة."
  },
  "keyboard": {
   "de": "Das Keyboard hat viele Töne.",
@@ -1700,8 +1700,8 @@
   "ar": "مقبض الباب معدن."
  },
  "badewanne": {
-  "de": "Die Badewanne ist voll warmes Wasser.",
-  "ar": "البانيو مليان مياه سخنة."
+  "de": "Die Badewanne ist voll mit warmem Wasser.",
+  "ar": "البانيو مليان ميه دافية."
  },
  "waschbecken": {
   "de": "Das Waschbecken ist aus Porzellan.",

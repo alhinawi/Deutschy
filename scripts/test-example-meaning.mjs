@@ -100,4 +100,14 @@ assert(second.wuerfel.ar.includes('بيقع'));
 assert(first.haehnchen.ar.includes('بتتشوي'));
 assert(second.lauch.ar.includes('الكراث'));
 assert(first.lebkuchen.de.startsWith('Lebkuchen gibt es'));
-console.log('PASS 83 bilingual meaning regressions for reviewed vocabulary examples');
+// Topics 31-36: do not turn material, tool, socket or garden bed into another noun.
+assert(first.kakao.ar.includes('المسا'));
+assert(first.schmied.ar.includes('معدن'));
+assert(second.schlagzeug.ar.includes('طقم الدرامز'));
+assert(second.steckdose.ar.includes('البريزة'));
+assert(second.kommode.ar.includes('دولاب الأدراج'));
+assert(second.rechen.ar.includes('مشط الجنينة'));
+assert(second.spaten.ar.includes('حوض الزرع'));
+assert(first.badewanne.de.includes('mit warmem Wasser'));
+assert(second.handtuch.ar.includes('بتنشف'));
+console.log('PASS 92 bilingual meaning regressions for reviewed vocabulary examples');
