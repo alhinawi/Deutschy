@@ -673,7 +673,7 @@
  },
  "gitarre": {
   "de": "Die Gitarre hat sechs Saiten.",
-  "ar": "الجيتار ليه ست وتار."
+  "ar": "الجيتار ليه ست أوتار."
  },
  "klavier": {
   "de": "Das Klavier steht im Wohnzimmer.",
@@ -689,11 +689,11 @@
  },
  "kerze": {
   "de": "Die Kerze brennt auf dem Tisch.",
-  "ar": "الشمعة ولعة على الترابيزة."
+  "ar": "الشمعة والعة على الترابيزة."
  },
  "ball": {
   "de": "Der Ball rollt unter das Sofa.",
-  "ar": "الكورة اتدحرجت تحت الكنبة."
+  "ar": "الكورة بتتدحرج تحت الكنبة."
  },
  "fussball": {
   "de": "Der Fußball ist neu.",
@@ -712,8 +712,8 @@
   "ar": "البحيرة عميقة جدا."
  },
  "biene": {
-  "de": "Die Biene sammelt Honig.",
-  "ar": "النحلة بتجمع العسل."
+  "de": "Die Biene sammelt Nektar.",
+  "ar": "النحلة بتجمع رحيق."
  },
  "feuer": {
   "de": "Das Feuer wärmt das Zimmer.",
@@ -773,7 +773,7 @@
  },
  "schloss": {
   "de": "Das Schloss liegt auf einem Hügel.",
-  "ar": "القصر على تلة عالية."
+  "ar": "القصر موجود على تل."
  },
  "tankstelle": {
   "de": "Die Tankstelle ist rund um die Uhr offen.",
@@ -809,15 +809,15 @@
  },
  "pflaume": {
   "de": "Die Pflaume ist dunkelblau.",
-  "ar": "البرقوق لونه غامق."
+  "ar": "البرقوق لونه أزرق غامق."
  },
  "brokkoli": {
   "de": "Der Brokkoli schmeckt gedämpft am besten.",
   "ar": "البروكلي أحلى حاجة على البخار."
  },
  "spinat": {
-  "de": "Der Spinat macht stark.",
-  "ar": "السبانخ بتدي قوة."
+  "de": "Der Spinat ist grün.",
+  "ar": "السبانخ لونها أخضر."
  },
  "walnuss": {
   "de": "Die Walnuss knackt man mit dem Nussknacker.",
@@ -840,8 +840,8 @@
   "ar": "الزيتون فيه أخضر وأسود."
  },
  "baer": {
-  "de": "Der Bär schläft den ganzen Winter.",
-  "ar": "الدب بينام طول الشتاء."
+  "de": "Der Bär ruht in seiner Höhle.",
+  "ar": "الدب بيستريح في جحره."
  },
  "wolf": {
   "de": "Der Wolf heult in der Nacht.",
@@ -857,7 +857,7 @@
  },
  "taube": {
   "de": "Die Taube fliegt zum Fenster.",
-  "ar": "الحمامة بيتيجي على الشباك."
+  "ar": "الحمامة بتطير ناحية الشباك."
  },
  "igel": {
   "de": "Der Igel rollt sich zusammen.",
@@ -893,7 +893,7 @@
  },
  "nilpferd": {
   "de": "Das Nilpferd liegt gern im Wasser.",
-  "ar": "فرس النهر بيحب يعوم في المياه."
+  "ar": "فرس النهر بيحب يقعد في الميه."
  },
  "maus": {
   "de": "Die Maus isst gern Käse.",

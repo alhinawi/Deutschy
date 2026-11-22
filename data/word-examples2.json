@@ -585,7 +585,7 @@
  },
  "tasse": {
   "de": "Die Tasse fällt fast vom Tisch.",
-  "ar": "الفنجان كاد يقع من على الترابيزة."
+  "ar": "الفنجان على وشك يقع من على الترابيزة."
  },
  "glas": {
   "de": "Ich stelle das Glas neben den Teller.",
@@ -621,11 +621,11 @@
  },
  "schokolade": {
   "de": "Die Schokolade bekommen die Kinder zum Fest.",
-  "ar": "الشوكولاتة بتتاخد في العيد."
+  "ar": "الأطفال بياخدوا الشوكولاتة بمناسبة الاحتفال."
  },
  "pizza": {
   "de": "Die Pizza bestellen wir am Abend.",
-  "ar": "البيتزا بنطلبها بالليل."
+  "ar": "بنطلب البيتزا في المسا."
  },
  "kamera": {
   "de": "Die Kamera hängt an einem Riemen.",
@@ -644,12 +644,12 @@
   "ar": "الغسالة بتغسل الشرابات."
  },
  "gitarre": {
-  "de": "Die Gitarre übe ich jeden Tag.",
-  "ar": "الجيتار بتمرن عليه كل يوم."
+  "de": "Ich übe jeden Tag auf der Gitarre.",
+  "ar": "بتمرن على الجيتار كل يوم."
  },
  "klavier": {
   "de": "Das Klavier spielt meine Schwester.",
-  "ar": "البيانو بيعزف عليه أختي."
+  "ar": "أختي بتعزف على البيانو."
  },
  "regenschirm": {
   "de": "Der Regenschirm bleibt heute zu Hause.",
@@ -681,7 +681,7 @@
  },
  "biene": {
   "de": "Die Biene fliegt von Blume zu Blume.",
-  "ar": "النحلة بتاير من وردة لوردة."
+  "ar": "النحلة بتطير من وردة لوردة."
  },
  "feuer": {
   "de": "Das Feuer braucht trockenes Holz.",
@@ -729,15 +729,15 @@
  },
  "brunnen": {
   "de": "Der Brunnen gibt kein Wasser mehr.",
-  "ar": "النافورة مبقاش فيها مية."
+  "ar": "النافورة مبقتش بتطلع ميه."
  },
  "loeffel": {
   "de": "Der Löffel fällt in die Suppe.",
-  "ar": "المعلقة وقعت في الشوربة."
+  "ar": "المعلقة بتقع في الشوربة."
  },
  "himmel": {
   "de": "Am Himmel fliegt ein Vogel.",
-  "ar": "في السما عصفورة بتاير."
+  "ar": "في السما عصفور بيطير."
  },
  "schloss": {
   "de": "Das Schloss hat einen großen Garten.",
@@ -781,7 +781,7 @@
  },
  "stadion": {
   "de": "Das Stadion ist heute ausverkauft.",
-  "ar": "الاستاد مليان النهارده."
+  "ar": "تذاكر الاستاد كلها اتباعت النهارده."
  },
  "mandarine": {
   "de": "Die Mandarine esse ich im Winter.",
@@ -793,7 +793,7 @@
  },
  "ananas": {
   "de": "Die Ananas kommt aus dem Süden.",
-  "ar": "الأناناس بييجي من بلاد حارة."
+  "ar": "الأناناس بييجي من الجنوب."
  },
  "melone": {
   "de": "Die Melone kühle ich vor dem Essen.",
@@ -861,7 +861,7 @@
  },
  "schildkroete": {
   "de": "Die Schildkröte versteckt sich im Panzer.",
-  "ar": "السلحفاة بتخب نفسها جوا الدرع."
+  "ar": "السلحفاة بتستخبى جوه الدرع."
  },
  "zebra": {
   "de": "Das Zebra läuft über die Steppe.",
@@ -873,7 +873,7 @@
  },
  "frosch": {
   "de": "Der Frosch quakt am Teich.",
-  "ar": "الضفدعة بنق عند البركة."
+  "ar": "الضفدع بينق جنب البركة."
  },
  "nashorn": {
   "de": "Das Nashorn wiegt über eine Tonne.",
@@ -885,7 +885,7 @@
  },
  "maus": {
   "de": "Die Maus baut ein Nest in der Scheune.",
-  "ar": "الفار بيبني عش في العنبر."
+  "ar": "الفار بيبني عش في مخزن المزرعة."
  },
  "papagei": {
   "de": "Der Papagei sitzt auf der Stange.",
