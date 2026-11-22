@@ -2320,24 +2320,24 @@
   "ar": "القلم الفلوماستر بيكتب على البوستر."
  },
  "buntstift": {
-  "de": "Der Buntstift braucht der Kleine zum Malen.",
-  "ar": "قلم التلوين محتاجه الصغير للرسم."
+  "de": "Den Buntstift braucht der Kleine zum Malen.",
+  "ar": "الصغير محتاج قلم التلوين عشان يرسم."
  },
  "beamer": {
   "de": "Der Beamer hängt an der Decke.",
   "ar": "البروجيكتور معلق في السقف."
  },
  "violine": {
-  "de": "Die Violine übt sie eine Stunde am Tag.",
-  "ar": "الكمنجة بتلعب عليها ساعة في اليوم."
+  "de": "Auf der Violine übt sie eine Stunde am Tag.",
+  "ar": "هي بتتمرن على الكمان ساعة كل يوم."
  },
  "mundharmonika": {
   "de": "Die Mundharmonika spielt er am Lagerfeuer.",
-  "ar": "الهارمونيكا بيعزف عليها على نار المخيم."
+  "ar": "هو بيعزف على الهارمونيكا جنب نار المخيم."
  },
  "tamburin": {
   "de": "Das Tamburin schüttelt das Kind fröhlich.",
-  "ar": "الطنبور الطفل بيهزه بفرحة."
+  "ar": "الطفل بيهز الدف بفرحة."
  },
  "klarinette": {
   "de": "Die Klarinette spielt in der Big Band.",
@@ -2357,19 +2357,19 @@
  },
  "kreisel": {
   "de": "Der Kreisel dreht sich auf dem Tisch.",
-  "ar": "الدوامة بتليف على الترابيزة."
+  "ar": "دوامة اللعب بتلف على الترابيزة."
  },
  "skelett": {
   "de": "Das Skelett hat zweihundertsechs Knochen.",
-  "ar": "الهيكل العظمي فيه متين وست عظام."
+  "ar": "الهيكل العظمي فيه ميتين وست عضمات."
  },
  "falafel": {
-  "de": "Der Falafel brate ich frisch.",
-  "ar": "الفلافل بقليها طازة."
+  "de": "Ich brate die Falafel frisch.",
+  "ar": "بقلي الفلافل طازة."
  },
  "baklava": {
-  "de": "Das Baklava schneide ich in Rauten.",
-  "ar": "البقلاوة بقطعها معينات."
+  "de": "Ich schneide die Baklava in Rauten.",
+  "ar": "بقطع البقلاوة على شكل معينات."
  },
  "feigenmarmelade": {
   "de": "Die Feigenmarmelade koche ich im Sommer ein.",
@@ -2381,7 +2381,7 @@
  },
  "kichererbse": {
   "de": "Die Kichererbse weiche ich über Nacht ein.",
-  "ar": "الحمص بنقعه بالليل."
+  "ar": "بنقع الحمص طول الليل."
  },
  "wassermelonenscheibe": {
   "de": "Die Wassermelonenscheibe esse ich am Strand.",
@@ -2392,12 +2392,12 @@
   "ar": "عصير الرمان طالع طازة من العصارة."
  },
  "pfefferminztee": {
-  "de": "Der Pfefferminztee hilft dem Bauch.",
-  "ar": "شاي النعناع بيريح البطن."
+  "de": "Der Pfefferminztee ist noch heiß.",
+  "ar": "شاي النعناع لسه سخن."
  },
  "spargel": {
   "de": "Der Spargel kommt mit Sauce Hollandaise.",
-  "ar": "الهليون بييجي مع الصوص الأبيض."
+  "ar": "الهليون بيتقدم مع صوص هولنديز."
  },
  "fenchel": {
   "de": "Der Fenchel kommt in den Salat.",
@@ -2441,7 +2441,7 @@
  },
  "leberwurst": {
   "de": "Die Leberwurst gibt es beim Metzger.",
-  "ar": "اللانشون البلدي موجود عند الجزار."
+  "ar": "سجق الكبدة موجود عند الجزار."
  },
  "waschbaer": {
   "de": "Der Waschbär schaut nachts in die Mülltonne.",
@@ -2469,15 +2469,15 @@
  },
  "seeadler": {
   "de": "Der Seeadler fliegt über die Küste.",
-  "ar": "النسر البحري بياير فوق الساحل."
+  "ar": "عقاب البحر بيطير فوق الساحل."
  },
  "marder": {
   "de": "Der Marder klettert auf das Dach.",
-  "ar": "ابن عرسة بيتسلق السطح."
+  "ar": "الدلق بيتسلق السطح."
  },
  "murmeltier": {
   "de": "Das Murmeltier warnt die Gruppe vor dem Adler.",
-  "ar": "المرموط بيحزر المجموعة من النسر."
+  "ar": "المرموط بيحذر المجموعة من العقاب."
  },
  "reiher": {
   "de": "Der Reiher wartet geduldig auf den Fisch.",
@@ -2493,7 +2493,7 @@
  },
  "wachtel": {
   "de": "Die Wachtel versteckt sich im Kornfeld.",
-  "ar": "السمانة بتخب نفسها في حقل القمح."
+  "ar": "السمانة بتستخبى في غيط القمح."
  },
  "henne": {
   "de": "Die Henne gackert nach dem Legen.",
@@ -2505,11 +2505,11 @@
  },
  "hummel": {
   "de": "Die Hummel brummt über den Blumen.",
-  "ar": "النحلة السودا بتطن فوق الورد."
+  "ar": "النحلة الطنانة بتطن فوق الورد."
  },
  "hecht": {
   "de": "Der Hecht lauert zwischen den Wasserpflanzen.",
-  "ar": "القعد بيكمن بين نباتات المية."
+  "ar": "سمكة الكراكي بتستخبى بين نباتات الميه مستنية فريستها."
  },
  "marktplatz": {
   "de": "Der Marktplatz ist am Samstag voll.",
@@ -2673,7 +2673,7 @@
  },
  "bauklotz": {
   "de": "Der Bauklotz ist rot und eckig.",
-  "ar": "الطوبة الملونة حمرا ومربعة."
+  "ar": "مكعب اللعب أحمر وليه زوايا."
  },
  "waeschekorb": {
   "de": "Der Wäschekorb steht im Bad.",
