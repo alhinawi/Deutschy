@@ -53,4 +53,13 @@ assert(first.schuhschrank.ar.includes('الطرقة'));
 assert(second.briefbeschwerer.ar.includes('الإزاز'));
 assert(first.waschbrett.de.startsWith('Mit dem Waschbrett'));
 assert(first.tastatur.de.startsWith('Mit der Tastatur'));
-console.log('PASS 41 bilingual meaning regressions for the reviewed units 6-17 examples');
+// Topics 37-42: distinguish animals and plants, and avoid unsafe generalities.
+assert(second.muecke.ar.includes('الناموسة'));
+assert(!second.muecke.ar.includes('الناموسية'));
+assert(second.fliege.ar.includes('بتضايقنا'));
+assert(second.schnecke.ar.includes('الحلزون'));
+assert(second.mohn.ar.includes('الخشخاش'));
+assert(first.eiche.ar.includes('شجرة البلوط'));
+assert(second.rollstuhl.de.includes('diese Tür'));
+assert(second.sonnenfinsternis.de.includes('verdeckt der Mond'));
+console.log('PASS 49 bilingual meaning regressions for reviewed vocabulary examples');
