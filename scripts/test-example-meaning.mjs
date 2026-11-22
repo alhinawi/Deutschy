@@ -43,4 +43,14 @@ assert(second.kuechenwaage.ar.includes('خمسمية جرام'));
 assert(first.essstaebchen.de.startsWith('Mit den Essstäbchen'));
 assert(first.essstaebchen.ar.startsWith('باكل الرز'));
 assert(second.liegestuhl.de.startsWith('Den Liegestuhl'));
-console.log('PASS 32 bilingual meaning regressions for the reviewed units 9-17 examples');
+// Units 6-8: preserve object identity and the learner's action.
+assert(second.pflanzkelle.ar.includes('الجاروف'));
+assert(second.palette.ar.includes('البالتة'));
+assert(first.schneidebrett.ar.includes('لوح التقطيع'));
+assert(first.wanduhr.ar.includes('بتدق'));
+assert(first.vorratsglas.ar.includes('طازة'));
+assert(first.schuhschrank.ar.includes('الطرقة'));
+assert(second.briefbeschwerer.ar.includes('الإزاز'));
+assert(first.waschbrett.de.startsWith('Mit dem Waschbrett'));
+assert(first.tastatur.de.startsWith('Mit der Tastatur'));
+console.log('PASS 41 bilingual meaning regressions for the reviewed units 6-17 examples');
