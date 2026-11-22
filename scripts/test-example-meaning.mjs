@@ -135,4 +135,11 @@ assert(second.schule.ar.includes('بتخلص'));
 assert(second.zug.ar.includes('السكة رقم تلاتة'));
 assert(second.flugzeug.ar.includes('بتطير'));
 assert(second.apotheke.ar.includes('الناصية'));
-console.log('PASS 114 bilingual meaning regressions for reviewed vocabulary examples');
+// Topics 7-12: brown is not hazel, hay is not straw, forgetting is not ignoring.
+assert(first.auge.ar.includes('بني'));
+assert(second.pferd.ar.includes('دريس'));
+assert(second.muetze.ar.includes('مبنساش'));
+assert(second.regen.ar.includes('المسا'));
+assert(second.koch.ar.includes('بيتبل'));
+assert(first.pferd.ar.includes('بيجري'));
+console.log('PASS 120 bilingual meaning regressions for reviewed vocabulary examples');
