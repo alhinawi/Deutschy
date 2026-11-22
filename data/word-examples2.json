@@ -3036,8 +3036,8 @@
   "ar": "علبة المونة بتحافظ على البسكويت مقرمش."
  },
  "dominostein": {
-  "de": "Der Dominostein bildet eine lange Reihe.",
-  "ar": "حجر الدومينو بيعمل صف طويل."
+  "de": "Ich lege den Dominostein neben die anderen.",
+  "ar": "بحط حجر الدومينو جنب الأحجار التانية."
  },
  "spielkarte": {
   "de": "Die Spielkarte liegt verdeckt auf dem Tisch.",
@@ -3057,7 +3057,7 @@
  },
  "fressnapf": {
   "de": "Der Fressnapf steht in der Küche.",
-  "ar": "طبق أكل الكلب في المطبخ."
+  "ar": "طبق أكل الحيوان في المطبخ."
  },
  "schlafmaske": {
   "de": "Die Schlafmaske nehme ich mit in den Zug.",
@@ -3089,7 +3089,7 @@
  },
  "schuessel": {
   "de": "Die Schüssel stelle ich in die Mitte.",
-  "ar": "الطاسة بحطها في النص."
+  "ar": "بحط السلطانية في النص."
  },
  "klemmbrett": {
   "de": "Das Klemmbrett hängt an der Wand.",
@@ -3101,7 +3101,7 @@
  },
  "kalender": {
   "de": "Der Kalender zeigt den November.",
-  "ar": "التقويم مظهر شهر نوفمبر."
+  "ar": "التقويم بيعرض شهر نوفمبر."
  },
  "notizbuch": {
   "de": "Das Notizbuch steckt in der Jackentasche.",
@@ -3121,11 +3121,11 @@
  },
  "backpinsel": {
   "de": "Der Backpinsel liegt neben dem Blech.",
-  "ar": "فرشة البوية جنب الصاج."
+  "ar": "فرشة المعجنات جنب صاج الفرن."
  },
  "bilderrahmen": {
   "de": "Der Bilderrahmen zeigt ein Foto der Familie.",
-  "ar": "البراويز فيه صورة العيلة."
+  "ar": "البرواز فيه صورة للعيلة."
  },
  "vase": {
   "de": "Die Vase ist voll roter Rosen.",
@@ -3141,7 +3141,7 @@
  },
  "haarbuerste": {
   "de": "Die Haarbürste liegt auf der Kommode.",
-  "ar": "فرشة الشعر على الكومود."
+  "ar": "فرشة الشعر على خزانة الأدراج."
  },
  "haartrockner": {
   "de": "Der Haartrockner hängt im Bad.",
@@ -3152,12 +3152,12 @@
   "ar": "الشمسية واقفة على البلكونة."
  },
  "liegestuhl": {
-  "de": "Der Liegestuhl klappst du flach.",
-  "ar": "كرسي الاستلقاء بيتطبق مستوي."
+  "de": "Den Liegestuhl klappst du zusammen.",
+  "ar": "بتطبق كرسي الاسترخاء."
  },
  "schellenkranz": {
   "de": "Der Schellenkranz liegt im Instrumentenkoffer.",
-  "ar": "الدف في شنطة الآلات."
+  "ar": "حلقة الشخاليل في شنطة الآلات."
  },
  "metronom": {
   "de": "Das Metronom steht auf dem Klavier.",
@@ -3165,7 +3165,7 @@
  },
  "wasserwaage": {
   "de": "Die Wasserwaage hängt im Schuppen.",
-  "ar": "ميزان المية معلق في العنبر."
+  "ar": "ميزان الميه معلق في مخزن الجنينة."
  },
  "messschieber": {
   "de": "Der Messschieber liegt im Werkzeugkasten.",
@@ -3173,7 +3173,7 @@
  },
  "salzstreuer": {
   "de": "Der Salzstreuer steht neben dem Pfeffer.",
-  "ar": "مملحة الملح جنب الفلفل."
+  "ar": "الملاحة جنب الفلفل."
  },
  "pfeffermuehle": {
   "de": "Die Pfeffermühle ist aus dunklem Holz.",
@@ -3197,7 +3197,7 @@
  },
  "schraubzwinge": {
   "de": "Die Schraubzwinge klemmt die zwei Bretter.",
-  "ar": "الزنبرك ماسك اللوحين."
+  "ar": "القمطة ماسكة اللوحين."
  },
  "hobel": {
   "de": "Der Hobel liegt auf der Werkbank.",
@@ -3221,7 +3221,7 @@
  },
  "zuckerdose": {
   "de": "Die Zuckerdose hat einen kleinen Löffel.",
-  "ar": "سكرية السكر ليها معلقة صغيرة."
+  "ar": "السكرية ليها معلقة صغيرة."
  },
  "nussknacker": {
   "de": "Der Nussknacker steht im Schrank.",
@@ -3233,7 +3233,7 @@
  },
  "korkenzieher": {
   "de": "Der Korkenzieher liegt in der Schublade.",
-  "ar": "فتاحة السداد في الدرج."
+  "ar": "فتاحة الفلين في الدرج."
  },
  "schaukelstuhl": {
   "de": "Der Schaukelstuhl steht auf der Veranda.",
@@ -3241,7 +3241,7 @@
  },
  "haengematte": {
   "de": "Die Hängematte schaukelt im Wind.",
-  "ar": "الأرجوحة بتهز في الهوا."
+  "ar": "الأرجوحة بتتمايل مع الهوا."
  },
  "rettungsring": {
   "de": "Der Rettungsring ist orange.",
@@ -3253,7 +3253,7 @@
  },
  "tuerklopfer": {
   "de": "Der Türklopfer ist aus Messing.",
-  "ar": "دقاقة الباب من النحاس."
+  "ar": "دقاقة الباب من النحاس الأصفر."
  },
  "briefkasten": {
   "de": "Der Briefkasten wird einmal am Tag geleert.",
@@ -3285,7 +3285,7 @@
  },
  "teigschaber": {
   "de": "Der Teigschaber ist aus Silikon.",
-  "ar": "كشارة العجين من السيليكون."
+  "ar": "كاشطة العجين من السيليكون."
  },
  "platzdeckchen": {
   "de": "Das Platzdeckchen ist aus Kork.",
@@ -3297,7 +3297,7 @@
  },
  "kuechenwaage": {
   "de": "Die Küchenwaage zeigt fünfhundert Gramm.",
-  "ar": "ميزان المطبخ مظهر نص كيلو."
+  "ar": "ميزان المطبخ بيعرض خمسمية جرام."
  },
  "schlaegel": {
   "de": "Der Schlägel hat einen weichen Kopf.",
