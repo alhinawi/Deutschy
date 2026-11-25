@@ -46,7 +46,7 @@ function ExampleRow({ ex }: { ex: WordExample }) {
     <div className="mt-2 flex items-start justify-between gap-2 rounded-xl border border-line bg-paper p-3">
       <div className="min-w-0 space-y-1">
         <p className="de text-sm leading-relaxed" dir="ltr" lang="de">{ex.de}</p>
-        <p className="text-sm leading-relaxed text-muted">{ex.ar}</p>
+        <p className="text-sm leading-relaxed text-muted" dir="rtl" lang="ar">{ex.ar}</p>
         {status && <p id={statusId} role="status" aria-live="polite" className="text-xs text-muted">{status==='loading'?t('بنجهز الصوت...','Loading audio...'):status==='playing'?t('الصوت شغال.','Audio playing.'):status==='ended'?t('الصوت خلص.','Audio finished.'):status==='stopped'?t('الصوت اتوقف.','Audio stopped.'):t(speechFailureCopy[status].ar,speechFailureCopy[status].en)}</p>}
       </div>
       <button onClick={play} aria-busy={status==='loading'} aria-describedby={status?statusId:undefined} aria-label={t(`اسمع المثال: ${ex.de}`, `Hear the example: ${ex.de}`)} className="min-h-11 min-w-11 shrink-0 inline-flex items-center justify-center rounded-full border border-line px-3 py-2 text-sm hover:bg-card focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-accent focus-visible:ring-offset-2 focus-visible:ring-offset-paper"><Speaker /></button>
